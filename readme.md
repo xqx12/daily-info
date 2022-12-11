@@ -58,6 +58,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T11:06:40Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 516 | 29| 
+| 20221211T09:49:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 40 | 5| 
 | 20221211T01:38:41Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1254 | 58| 
 
 
