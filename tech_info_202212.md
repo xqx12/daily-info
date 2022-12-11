@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T13:19:04Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
+| 20221211T13:12:02Z | Null | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221211T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1y | 2 | 0| 
 | 20221211T12:38:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1y | 1 | 0| 
 | 20221211T12:37:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1y | 1 | 0| 
@@ -95,8 +97,6 @@
 | 20221211T11:40:50Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 9 | 0| 
 | 20221211T10:56:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 118 | 11| 
 | 20221211T09:52:51Z | here is a repository of the  CTF challenges I will be making in different categories such as : cryptography, binary exploitation, reverse engineering , Linux, web exploitation and forensics  | https://github.com/Imeneallouche/CTF-challenges | 2 | 0| 
-| 20221211T08:35:04Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12433 | 2132| 
-| 20221211T02:19:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5120 | 713| 
 
 
 # backdoor on Github 推荐
