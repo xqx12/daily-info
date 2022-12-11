@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221210T20:12:16Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221211T12:55:15Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
+| 20221211T12:43:09Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221211T11:08:52Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
 | 20221210T20:03:16Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082 | | 
-| 20221210T16:57:13Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221210T15:07:05Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 | 20221210T08:03:43Z | 未知编号 | Null | https://github.com/JoshTech1000/CVE-Details_2022-Analysis | | 
-| 20221210T07:35:09Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
 | 20221209T17:59:10Z | CVE-2022-0739 | 🐍 Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221209T16:37:03Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | | 
 | 20221209T15:35:53Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T12:16:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9573 | 328| 
 | 20221210T16:10:54Z | This is a Music Bot for Discord in javascript. | https://github.com/harryChrist/Klee-MusicBot | 0 | 0| 
-| 20221210T13:36:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9564 | 328| 
 | 20221210T09:25:54Z | Null | https://github.com/pendlirajashekhar/kleeteam | 0 | 0| 
 | 20221210T07:34:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2118 | 602| 
 | 20221210T04:18:15Z | Null | https://github.com/pendlirajashekhar/KleeTeams | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1y | 2 | 0| 
+| 20221211T12:38:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1y | 1 | 0| 
+| 20221211T12:37:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1y | 1 | 0| 
+| 20221211T12:18:51Z | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | 0 | 0| 
+| 20221211T12:01:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4800 | 702| 
+| 20221211T11:40:50Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 9 | 0| 
+| 20221211T10:56:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 118 | 11| 
+| 20221211T09:52:51Z | here is a repository of the  CTF challenges I will be making in different categories such as : cryptography, binary exploitation, reverse engineering , Linux, web exploitation and forensics  | https://github.com/Imeneallouche/CTF-challenges | 2 | 0| 
+| 20221211T08:35:04Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12433 | 2132| 
 | 20221211T02:19:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5120 | 713| 
-| 20221211T01:56:52Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/jeshututkunr/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
-| 20221211T01:54:45Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2141 | 393| 
-| 20221211T01:28:14Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/cobanipiurim/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20221211T01:17:33Z | GPay balance exploit READ MORE BELOW | https://github.com/haesmgodayx/GPAY-BALANCE-EXPLOIT | 0 | 0| 
-| 20221210T23:42:17Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 52 | 27| 
-| 20221210T23:20:50Z | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | 0 | 0| 
-| 20221210T23:11:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3l | 1 | 0| 
-| 20221210T23:10:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3l | 1 | 0| 
-| 20221210T23:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3l | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T12:51:52Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1773 | 310| 
+| 20221211T12:45:49Z | A simple script to automate systemd backdoor | https://github.com/MatheuZSecurity/systemd-backdoor | 3 | 0| 
+| 20221211T10:52:17Z | Null | https://github.com/chichidd/BackdoorDynamicDNN | 0 | 0| 
 | 20221210T23:05:29Z | Null | https://github.com/draboin/bash-script-for-backdoors | 0 | 0| 
 | 20221210T19:09:35Z | pwn++ :  a Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 85 | 6| 
 | 20221210T17:59:54Z | Minecraft Server (Bukkit, Spigot, Paper) backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 20 | 4| 
 | 20221210T14:44:17Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
-| 20221210T13:09:01Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1737 | 306| 
 | 20221210T11:54:12Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/PawanKumarPandit/Villain | 0 | 0| 
 | 20221210T10:43:17Z | part of a project i had that i can share | https://github.com/Danielv8899/netcatBackdoor | 0 | 0| 
 | 20221210T09:19:26Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/ymophen/Nft-drainer-fake-mint | 0 | 0| 
-| 20221210T03:49:10Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
-| 20221210T02:57:12Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/ryanwe1ss/Windows-Backdoor | 45 | 13| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T11:29:25Z | Null | https://github.com/Tanmay19code/COVID-19-RADIOGRAPHY-USING-MULTIPROTOTYPE-FUZZY-LOGIC | 0 | 0| 
+| 20221211T11:02:55Z | music | https://github.com/dudndic/fuzzy-giggle | 0 | 0| 
+| 20221211T10:21:59Z | Null | https://github.com/ZerocoolVishal/fuzzy-eureka-api | 0 | 0| 
+| 20221211T07:09:51Z | Fuzzy Octo Chainsaw project by Hyunjin Cho | https://github.com/ipdiss/fuzzy-octo-chainsaw | 0 | 0| 
+| 20221211T07:01:26Z | Fuzzie is a simple Rest API and GraphQL fuzzer built as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 4 | 0| 
+| 20221211T04:31:53Z | An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 465 | 63| 
 | 20221211T01:41:08Z | Null | https://github.com/SteeKsi/the-dyadic-hyper-surfaces-of-fuzzy-logic-can-either-save-you-from-the-problem-of-evil-or-it-can-not | 0 | 0| 
 | 20221211T01:13:38Z | Null | https://github.com/yancarvalho0/Fuzzy | 0 | 0| 
 | 20221211T00:42:59Z | Null | https://github.com/SteeKsi/either-fuzzy-logic-will-resolve-to-boolean-logic-or-it-will-not | 0 | 0| 
 | 20221211T00:24:33Z | Null | https://github.com/iianofne/fuzzy-goggles | 0 | 0| 
-| 20221210T21:34:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8138 | 1774| 
-| 20221210T21:18:27Z | Fuzzy Control Kit is based Fuzzy Logic | https://github.com/sehes2solve/Fuzzy-Control-Kit-for-Project-Team-Formation-Support-System | 0 | 0| 
-| 20221210T20:44:06Z | 1v1 no fuzz racing. Fun for the whole family | https://github.com/Coffeelot/cw-head2head | 5 | 6| 
-| 20221210T20:43:37Z | Null | https://github.com/kooggy/fuzzy-guacamole | 0 | 1| 
-| 20221210T20:36:18Z | Null | https://github.com/franciscowgp/fuzzy-octo-brcolis | 0 | 0| 
-| 20221210T16:15:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1631 | 73| 
 
 
 
