@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221211T13:30:34Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221211T13:44:57Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221211T12:55:15Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221211T11:08:52Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
 
@@ -36,10 +36,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221211T13:30:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 36 | 4| 
+| 20221211T13:45:54Z | We, at Lavicheats, always strive to be one of the leading and most reliable gameplay cheat and hack providers, when it comes to security, usability, and compatibility. We%ve been developing high-quality, undetected games hacks for years. We update all of our gameplay hacks continuously, including Fortnite Battle cheats, to stay undetected and keep  | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
+| 20221211T13:44:57Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 37 | 4| 
 | 20221211T13:23:20Z | Null | https://github.com/0x14mth3n1ght/Systeme_Exploitation-S3 | 0 | 0| 
 | 20221211T13:19:04Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
-| 20221211T13:12:02Z | Null | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221211T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1y | 2 | 0| 
 | 20221211T12:38:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1y | 1 | 0| 
 | 20221211T12:37:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1y | 1 | 0| 
