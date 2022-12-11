@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T13:23:20Z | Null | https://github.com/0x14mth3n1ght/Systeme_Exploitation-S3 | 0 | 0| 
 | 20221211T13:19:04Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
 | 20221211T13:12:02Z | Null | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221211T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1y | 2 | 0| 
@@ -96,7 +97,6 @@
 | 20221211T12:01:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4800 | 702| 
 | 20221211T11:40:50Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 9 | 0| 
 | 20221211T10:56:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 118 | 11| 
-| 20221211T09:52:51Z | here is a repository of the  CTF challenges I will be making in different categories such as : cryptography, binary exploitation, reverse engineering , Linux, web exploitation and forensics  | https://github.com/Imeneallouche/CTF-challenges | 2 | 0| 
 
 
 # backdoor on Github 推荐
