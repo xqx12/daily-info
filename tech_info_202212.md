@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221210 | pt安全披露CloudAtlas APT组织近期活动的总结以及其样本的攻击流程 | https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt-cloud-atlas-unbroken-threat/| 
 | 20221209 | Service DCOM Object本地权限提升漏洞的利用集合（通过SeImpersonatePrivilege滥用） | https://github.com/zcgonvh/DCOMPotato| 
 | 20221209 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg| 
 | 20221209 | 利用ChatGPT生成邮件，虚假的登陆界面来进行钓鱼 | https://www.richardosgood.com/posts/using-openai-chat-for-phishing/| 
@@ -25,7 +26,6 @@
 | 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
 | 20221208 | 基于gdrv-loader驱动的windows内核漏洞利用case学习 | https://v1k1ngfr.github.io/loading-windows-unsigned-driver/| 
 | 20221208 | Furbo狗相机漏洞挖掘过程：作者详细描述了从UART连接到发现固件更新MitM漏洞的过程 | http://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii| 
-| 20221208 | 本文介绍了一种基于栈的内核利用方法，有内核任意地址能力的攻击者可以利用该方法直接完成内核利用 具体地，该文章： 1. 介绍了一种利用cpu_entry_area构造内核地址读写的方法，cpu_entry_area是内核处理DB异常所用的栈，它在内核内存中是处于固定位置，因此可以直接绕过KASLR。作者向Linux内核团队建议了将cpu_entry_area地址随机化修复方法，这样可以有效的阻止remote kernel attack 2.作者又介绍了用prefetch绕过推算cpu_entry_area的方法，指出就算cpu_entry_area随机化了也挡不住local kernel attack | https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221210T20:12:16Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221210T20:03:16Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082 | | 
+| 20221210T16:57:13Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
+| 20221210T15:07:05Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 | 20221210T08:03:43Z | 未知编号 | Null | https://github.com/JoshTech1000/CVE-Details_2022-Analysis | | 
 | 20221210T07:35:09Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
-| 20221210T05:18:59Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221209T17:59:10Z | CVE-2022-0739 | 🐍 Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221209T16:37:03Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | | 
 | 20221209T15:35:53Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
 | 20221209T15:35:52Z | CVE-2022-36537 | POC of CVE-2022-36537 | https://github.com/Malwareman007/CVE-2022-36537 | | 
-| 20221209T11:11:39Z | CVE-2020-29370 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2020-29370 | | 
-| 20221209T06:31:35Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
-| 20221209T06:10:28Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T16:10:54Z | This is a Music Bot for Discord in javascript. | https://github.com/harryChrist/Klee-MusicBot | 0 | 0| 
 | 20221210T13:36:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9564 | 328| 
 | 20221210T09:25:54Z | Null | https://github.com/pendlirajashekhar/kleeteam | 0 | 0| 
 | 20221210T07:34:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2118 | 602| 
@@ -70,7 +71,6 @@
 | 20221208T08:16:10Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 50| 
 | 20221207T15:55:43Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
 | 20221207T12:21:11Z | Null | https://github.com/abdulraheemiq/bootstrap-purple-kleeja | 0 | 0| 
-| 20221206T23:09:13Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 49| 
 
 
 # s2e on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221210T13:58:50Z | Null | https://github.com/unCodeBoss/Vip-Membership-Available | 0 | 0| 
-| 20221210T12:45:04Z | Developed by myself a Python program that does lossy compression of images by exploiting the low sensitivity of the human eye to chrominance and different aspects of graphics. | https://github.com/andreibornea/JEPG-Image-Compression | 0 | 0| 
-| 20221210T12:37:28Z | Null | https://github.com/Wumpuspro/Zenhub-exploit | 0 | 0| 
-| 20221210T12:34:23Z | mini projet pour exploiter 2 librairies Flutter: svg_path_parser et touchable | https://github.com/Alfard63/Quiz-des-d-partements | 0 | 0| 
-| 20221210T10:57:18Z | Null | https://github.com/MateHUN01/Uniber-Exploit | 0 | 0| 
-| 20221210T10:24:51Z | Null | https://github.com/necaz1337/fivem-carry-exploit | 0 | 0| 
-| 20221210T10:20:13Z | Null | https://github.com/ClickCyber/yeswehack-exploit | 0 | 0| 
-| 20221210T10:15:47Z | Fivem server ban exploit vRP | https://github.com/necaz1337/fivem-vrp-unban-server-exploit | 0 | 0| 
-| 20221210T10:12:00Z | FiveM vRP - Auto ban exploit | https://github.com/necaz1337/fivem-autoban-exploit | 0 | 0| 
-| 20221210T02:39:09Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 292 | 63| 
+| 20221210T23:49:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5119 | 713| 
+| 20221210T23:48:51Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2140 | 393| 
+| 20221210T23:42:17Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 52 | 27| 
+| 20221210T23:20:50Z | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | 0 | 0| 
+| 20221210T23:11:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3l | 1 | 0| 
+| 20221210T23:10:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3l | 1 | 0| 
+| 20221210T23:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3l | 1 | 0| 
+| 20221210T21:48:50Z | Null | https://github.com/necaz1337/fivem-carry-exploit | 0 | 0| 
+| 20221210T19:52:28Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 4 | 0| 
+| 20221210T19:49:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12432 | 2132| 
 
 
 # backdoor on Github 推荐
@@ -117,12 +117,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221210T08:29:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 36 | 5| 
-| 20221210T08:22:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 514 | 29| 
+| 20221210T20:46:59Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 38 | 5| 
+| 20221210T15:56:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3231 | 455| 
+| 20221210T15:09:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 515 | 29| 
 | 20221210T07:34:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2118 | 602| 
 | 20221209T13:51:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 598 | 109| 
 | 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
-| 20221208T18:18:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3230 | 455| 
 | 20221208T08:02:18Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1253 | 58| 
 | 20221208T05:33:40Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 407 | 37| 
 | 20221207T14:16:58Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 17 | 2| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221210T12:49:44Z | Null | https://github.com/Kag3ra/fuzzy-wuzzy | 0 | 0| 
-| 20221210T12:21:43Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 166 | 18| 
-| 20221210T11:50:14Z | A simple fuzzer which tries different payloads to achieve a SQL Injection | https://github.com/melkonid/Fuzzing | 0 | 0| 
-| 20221210T10:36:22Z | Null | https://github.com/sebastianyebes/CS345-Fuzzy-Logic | 0 | 0| 
-| 20221210T10:16:40Z | Null | https://github.com/csk1116/Fuzzy-Logic-and-Control-Course-Project | 0 | 0| 
-| 20221210T09:46:33Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 2 | 2| 
-| 20221210T09:38:00Z | python script to fuzz the inputs of sudo to find buffer overflows | https://github.com/13337/sudofuzz | 0 | 0| 
-| 20221210T08:50:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3303 | 391| 
-| 20221210T08:46:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8136 | 1774| 
-| 20221210T02:57:49Z | Config files for my GitHub profile. | https://github.com/JuanCgarcia09/Fuzzy-Navigation-for-a-Vehicle | 0 | 0| 
+| 20221211T00:42:59Z | Null | https://github.com/SteeKsi/either-fuzzy-logic-will-resolve-to-boolean-logic-or-it-will-not | 0 | 0| 
+| 20221211T00:24:33Z | Null | https://github.com/iianofne/fuzzy-goggles | 0 | 0| 
+| 20221210T21:34:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8138 | 1774| 
+| 20221210T21:18:27Z | Fuzzy Control Kit is based Fuzzy Logic | https://github.com/sehes2solve/Fuzzy-Control-Kit-for-Project-Team-Formation-Support-System | 0 | 0| 
+| 20221210T20:44:06Z | 1v1 no fuzz racing. Fun for the whole family | https://github.com/Coffeelot/cw-head2head | 5 | 6| 
+| 20221210T20:43:37Z | Null | https://github.com/kooggy/fuzzy-guacamole | 0 | 1| 
+| 20221210T20:36:18Z | Null | https://github.com/franciscowgp/fuzzy-octo-brcolis | 0 | 0| 
+| 20221210T16:15:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1631 | 73| 
+| 20221210T15:21:26Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 1 | 2| 
+| 20221210T14:42:22Z | Null | https://github.com/LucasBR96/FUZZY-BOT | 0 | 0| 
 
 
 
