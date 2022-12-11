@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221211 | 利用 CVE-2022-1361 构造 SQL 注入可绕过许多安全厂商的 WAF，进而可完成对诸如 SSH 密钥、cookie、密钥哈希、令牌等敏感数据的非授权访问 | https://gbhackers.com/bypass-web-application-firewalls/| 
 
 
 # 安全维基 推荐
