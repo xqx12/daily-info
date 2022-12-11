@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T13:53:28Z | Payload generator to exfiltrate user cookies through the PHP info page bypassing the HttpOnly flag during XSS exploitation. | https://github.com/HackCommander/PHP-info-cookie-stealer | 2 | 0| 
 | 20221211T13:49:27Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 38 | 5| 
 | 20221211T13:45:54Z | We, at Lavicheats, always strive to be one of the leading and most reliable gameplay cheat and hack providers, when it comes to security, usability, and compatibility. We%ve been developing high-quality, undetected games hacks for years. We update all of our gameplay hacks continuously, including Fortnite Battle cheats, to stay undetected and keep  | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221211T13:23:20Z | Null | https://github.com/0x14mth3n1ght/Systeme_Exploitation-S3 | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20221211T12:37:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1y | 1 | 0| 
 | 20221211T12:18:51Z | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | 0 | 0| 
 | 20221211T12:01:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4800 | 702| 
-| 20221211T11:40:50Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 9 | 0| 
 
 
 # backdoor on Github 推荐
