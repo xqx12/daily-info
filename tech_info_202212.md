@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T01:13:38Z | Null | https://github.com/yancarvalho0/Fuzzy | 0 | 0| 
 | 20221211T00:42:59Z | Null | https://github.com/SteeKsi/either-fuzzy-logic-will-resolve-to-boolean-logic-or-it-will-not | 0 | 0| 
 | 20221211T00:24:33Z | Null | https://github.com/iianofne/fuzzy-goggles | 0 | 0| 
 | 20221210T21:34:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8138 | 1774| 
@@ -147,7 +148,6 @@
 | 20221210T20:36:18Z | Null | https://github.com/franciscowgp/fuzzy-octo-brcolis | 0 | 0| 
 | 20221210T16:15:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1631 | 73| 
 | 20221210T15:21:26Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 1 | 2| 
-| 20221210T14:42:22Z | Null | https://github.com/LucasBR96/FUZZY-BOT | 0 | 0| 
 
 
 
