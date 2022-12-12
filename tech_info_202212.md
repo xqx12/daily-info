@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221211 | 利用 CVE-2022-1361 构造 SQL 注入可绕过许多安全厂商的 WAF，进而可完成对诸如 SSH 密钥、cookie、密钥哈希、令牌等敏感数据的非授权访问 | https://gbhackers.com/bypass-web-application-firewalls/| 
+| 20221211 | 用于绕过sslpining的frida脚本 | https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e| 
 | 20221210 | pt安全披露CloudAtlas APT组织近期活动的总结以及其样本的攻击流程 | https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt-cloud-atlas-unbroken-threat/| 
 | 20221209 | Service DCOM Object本地权限提升漏洞的利用集合（通过SeImpersonatePrivilege滥用） | https://github.com/zcgonvh/DCOMPotato| 
 | 20221209 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg| 
@@ -25,7 +26,6 @@
 | 20221208 | CVE-2022-41128: Internet Explorer JScript9引擎的类型混淆 | https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-41128.html| 
 | 20221208 | 一个利用使用ChatGPT的代码修改能力来完善反编译体验的工具 | https://github.com/mahaloz/DAILA| 
 | 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
-| 20221208 | 基于gdrv-loader驱动的windows内核漏洞利用case学习 | https://v1k1ngfr.github.io/loading-windows-unsigned-driver/| 
 
 
 # 安全维基 推荐
