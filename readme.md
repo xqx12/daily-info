@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:17:48Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
 | 20221212T12:22:58Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1810 | 311| 
 | 20221212T09:39:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221212T06:24:01Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 1 | 0| 
