@@ -10,6 +10,7 @@
 | 20221211 | 用于绕过sslpining的frida脚本 | https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e| 
 | 20221211 | Linux内核栈溢出漏洞（CVE-2022-4378）细节 | http://seclists.org/oss-sec/2022/q4/178| 
 | 20221211 | Vitalik介绍以太坊应用生态系统中令人兴奋的五个应用：货币，Defi，身份生态系统，DAO和混合应用。 | https://vitalik.eth.limo/general/2022/12/05/excited.html| 
+| 20221211 | Matrix实时通讯协议的端到端加密功能存在可实际利用的加密漏洞 | https://www.reddit.com/r/netsec/comments/zhnhjq/nebuchadnezzar_practicallyexploitable/| 
 
 
 # 安全维基 推荐
