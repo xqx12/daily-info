@@ -20,12 +20,12 @@
 | 20221212 | HTB-Outdated靶机的通关writeup | https://sec.today/pulses/d151bc0f-448f-4df5-b43c-2088974c4cde/| 
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://sec.today/pulses/3a7b6c16-3a23-4458-bb51-0bf6dbf31b47/| 
 | 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://sec.today/pulses/86e4ec17-2c18-43db-92a3-267d84cefc2c/| 
+| 20221212 | 溯源专题 , 通过PE中PDB路径信息进行溯源 | https://www.freebuf.com/articles/network/351557.html| 
+| 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | http://www.freebuf.com/articles/network/351431.html| 
+| 20221212 | HTB-Outdated靶机的通关writeup | https://0xdf.gitlab.io/2022/12/10/htb-outdated.html| 
+| 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://tlakh.xyz/fuzzing-ping.html| 
 | 20221211 | 利用 CVE-2022-1361 构造 SQL 注入可绕过许多安全厂商的 WAF，进而可完成对诸如 SSH 密钥、cookie、密钥哈希、令牌等敏感数据的非授权访问 | https://gbhackers.com/bypass-web-application-firewalls/| 
 | 20221211 | 用于绕过sslpining的frida脚本 | https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e| 
-| 20221211 | Linux内核栈溢出漏洞（CVE-2022-4378）细节 | http://seclists.org/oss-sec/2022/q4/178| 
-| 20221211 | Vitalik介绍以太坊应用生态系统中令人兴奋的五个应用：货币，Defi，身份生态系统，DAO和混合应用。 | https://vitalik.eth.limo/general/2022/12/05/excited.html| 
-| 20221211 | Matrix实时通讯协议的端到端加密功能存在可实际利用的加密漏洞 | https://www.reddit.com/r/netsec/comments/zhnhjq/nebuchadnezzar_practicallyexploitable/| 
-| 20221210 | pt安全披露CloudAtlas APT组织近期活动的总结以及其样本的攻击流程 | https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt-cloud-atlas-unbroken-threat/| 
 
 
 # 安全维基 推荐
@@ -117,12 +117,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T12:52:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3232 | 456| 
+| 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 5| 
+| 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
 | 20221211T19:49:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2119 | 602| 
 | 20221211T17:04:26Z | All In One - symbolic-execution | https://github.com/XD3an/symbolic-execution-all-in-one | 0 | 0| 
-| 20221211T11:06:40Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 516 | 29| 
-| 20221211T09:49:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 40 | 5| 
 | 20221211T01:38:41Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1254 | 58| 
-| 20221210T15:56:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3231 | 456| 
 | 20221209T13:51:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 598 | 109| 
 | 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
 | 20221209T05:33:58Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 25 | 6| 
@@ -132,7 +132,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T04:01:13Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 63 | 15| 
+| 20221212T04:55:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 64 | 15| 
 
 
 # fuzz on Github 推荐

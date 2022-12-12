@@ -20,6 +20,10 @@
 | 20221212 | HTB-Outdated靶机的通关writeup | https://sec.today/pulses/d151bc0f-448f-4df5-b43c-2088974c4cde/| 
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://sec.today/pulses/3a7b6c16-3a23-4458-bb51-0bf6dbf31b47/| 
 | 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://sec.today/pulses/86e4ec17-2c18-43db-92a3-267d84cefc2c/| 
+| 20221212 | 溯源专题 , 通过PE中PDB路径信息进行溯源 | https://www.freebuf.com/articles/network/351557.html| 
+| 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | http://www.freebuf.com/articles/network/351431.html| 
+| 20221212 | HTB-Outdated靶机的通关writeup | https://0xdf.gitlab.io/2022/12/10/htb-outdated.html| 
+| 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://tlakh.xyz/fuzzing-ping.html| 
 
 
 # 安全维基 推荐
@@ -73,11 +77,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T12:52:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3232 | 456| 
+| 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 5| 
+| 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T04:55:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 64 | 15| 
 
 
 # fuzz on Github 推荐
