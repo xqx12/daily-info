@@ -88,8 +88,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:38:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3233 | 456| 
 | 20221212T13:10:16Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 0 | 0| 
-| 20221212T12:52:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3232 | 456| 
 | 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 5| 
 | 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
 
