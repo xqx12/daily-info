@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:51:01Z | Null | https://github.com/RafiAndeo/Fuzzy-Algorithm | 0 | 0| 
 | 20221212T13:16:08Z | Null | https://github.com/theripper93/fuzzy-foundry | 3 | 2| 
 | 20221212T12:51:42Z | Null | https://github.com/Flymajik/fuzzy-winner | 0 | 0| 
 | 20221212T12:50:40Z | Null | https://github.com/TimothyTaboada/TaboadaFuzzyLogic | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20221212T10:26:16Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8271 | 942| 
 | 20221212T10:19:55Z | Je suis un test  | https://github.com/natasaurus/fuzzy-pancake | 0 | 0| 
 | 20221212T08:32:28Z | Null | https://github.com/sbycrosz/fuzzy-couscous | 0 | 0| 
-| 20221212T08:03:13Z | Null | https://github.com/Abubakarfally/fuzzy-invention | 0 | 0| 
 
 
 
