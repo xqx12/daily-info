@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221211T23:51:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8143 | 1775| 
 | 20221211T22:33:36Z | Null | https://github.com/DonalHowe/fuzzyLogic | 0 | 0| 
 | 20221211T20:44:36Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
 | 20221211T11:29:25Z | Null | https://github.com/Tanmay19code/COVID-19-RADIOGRAPHY-USING-MULTIPROTOTYPE-FUZZY-LOGIC | 0 | 0| 
@@ -95,6 +94,7 @@
 | 20221211T07:01:26Z | Fuzzie is a simple Rest API and GraphQL fuzzer built as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 4 | 0| 
 | 20221211T04:31:53Z | An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 465 | 63| 
 | 20221211T01:41:08Z | Null | https://github.com/SteeKsi/the-dyadic-hyper-surfaces-of-fuzzy-logic-can-either-save-you-from-the-problem-of-evil-or-it-can-not | 0 | 0| 
+| 20221211T01:13:38Z | Null | https://github.com/yancarvalho0/Fuzzy | 0 | 0| 
 
 
 
