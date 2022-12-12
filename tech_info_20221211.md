@@ -50,9 +50,9 @@
 | 20221211T23:03:06Z | Powerfull Trojan Tool for generating exploitable and executable undetectable payloads on windows. | https://github.com/MedAmineFouzai/WADOG2 | 2 | 0| 
 | 20221211T22:58:41Z | Null | https://github.com/cheatxrbx/Exploits | 0 | 0| 
 | 20221211T22:25:29Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 18 | 1| 
+| 20221211T21:11:38Z | An information retrieval task focused on NIST%s descriptions of Common Vulnerability Exploits (CVEs). | https://github.com/jsteinberg4/cve-retrieval | 0 | 0| 
 | 20221211T20:33:31Z | CVE-2007-4559 - Polemarch exploit | https://github.com/Ooscaar/MALW | 0 | 0| 
 | 20221211T20:14:29Z | Writeups from a CTF competition hosted by MITRE that ran from 12/10/2022 - 12/11/2022. Challenges involved cryptography, binary exploitation, reverse engineering, and web exploitation. | https://github.com/milesrack/mitre-2022 | 0 | 0| 
-| 20221211T20:05:23Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 54 | 4| 
 
 
 # backdoor on Github 推荐
