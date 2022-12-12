@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T02:53:26Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | 0 | 0| 
 | 20221212T01:36:02Z | Null | https://github.com/PopLabSec/Apache-Exploits-List | 0 | 0| 
 | 20221211T23:35:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5121 | 713| 
 | 20221211T23:23:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1e | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221211T22:58:41Z | Null | https://github.com/cheatxrbx/Exploits | 0 | 0| 
 | 20221211T22:25:29Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 18 | 1| 
 | 20221211T21:11:38Z | An information retrieval task focused on NIST%s descriptions of Common Vulnerability Exploits (CVEs). | https://github.com/jsteinberg4/cve-retrieval | 0 | 0| 
-| 20221211T20:33:31Z | CVE-2007-4559 - Polemarch exploit | https://github.com/Ooscaar/MALW | 0 | 0| 
 
 
 # backdoor on Github 推荐
