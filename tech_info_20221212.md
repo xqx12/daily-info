@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:25:23Z | Null | https://github.com/taramakie/ExploitMemo | 0 | 0| 
 | 20221212T11:07:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12435 | 2132| 
 | 20221212T10:19:56Z | Ce projet dévoile une étude sur  la capacité hôtelière  en exploitation entre 2018 et 2020 en Tunisie .  | https://github.com/MaatallahMeriam/Cartographie | 0 | 0| 
 | 20221212T09:51:40Z | VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit  | https://github.com/MRvirusIR/VMware-NSX-Manager-XStream | 0 | 0| 
@@ -78,6 +79,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221212T13:17:48Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
+| 20221212T12:39:48Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 102| 
 | 20221212T12:22:58Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1810 | 311| 
 | 20221212T09:39:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221212T06:24:01Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 1 | 0| 
