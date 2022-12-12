@@ -43,7 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221212T13:45:21Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
+| 20221212T13:46:54Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 | 20221212T13:30:34Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221212T12:17:38Z | 未知编号 | Null | https://github.com/Karlos-12/Cvecek_20221212 | | 
 
@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:48:02Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 14 | 0| 
 | 20221212T13:17:48Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
 | 20221212T12:39:48Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 102| 
 | 20221212T12:22:58Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1810 | 311| 
