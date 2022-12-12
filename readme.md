@@ -108,7 +108,7 @@
 | 20221212T10:19:55Z | Je suis un test  | https://github.com/natasaurus/fuzzy-pancake | 0 | 0| 
 | 20221212T08:32:28Z | Null | https://github.com/sbycrosz/fuzzy-couscous | 0 | 0| 
 | 20221212T08:03:13Z | Null | https://github.com/Abubakarfally/fuzzy-invention | 0 | 0| 
-| 20221212T03:01:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3306 | 391| 
+| 20221212T04:35:40Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/dlxemu-corpus | 0 | 0| 
 
 
 
