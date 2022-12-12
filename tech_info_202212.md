@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:41:06Z | Null | https://github.com/CukierDev/JAN-ac-exploit | 0 | 0| 
 | 20221212T13:25:23Z | Null | https://github.com/taramakie/ExploitMemo | 0 | 0| 
 | 20221212T11:07:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12435 | 2132| 
 | 20221212T10:19:56Z | Ce projet dévoile une étude sur  la capacité hôtelière  en exploitation entre 2018 et 2020 en Tunisie .  | https://github.com/MaatallahMeriam/Cartographie | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221212T06:59:13Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 294 | 63| 
 | 20221212T02:55:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 0| 
 | 20221212T02:53:26Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | 0 | 0| 
-| 20221212T01:36:02Z | Null | https://github.com/PopLabSec/Apache-Exploits-List | 0 | 0| 
 
 
 # backdoor on Github 推荐
