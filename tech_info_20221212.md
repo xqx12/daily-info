@@ -25,6 +25,7 @@
 | 20221212 | HTB-Outdated靶机的通关writeup | https://0xdf.gitlab.io/2022/12/10/htb-outdated.html| 
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://tlakh.xyz/fuzzing-ping.html| 
 | 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://www.x86matthew.com/view_post?id=stealth_hook| 
+| 20221212 | CVE-2022-45025:在 Markdown Preview Enhanced（VSCode、Atom）中通过 PDF 导入进行命令注入 | https://github.com/yuriisanin/CVE-2022-45025| 
 
 
 # 安全维基 推荐
