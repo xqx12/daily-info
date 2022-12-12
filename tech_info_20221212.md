@@ -24,6 +24,7 @@
 | 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | http://www.freebuf.com/articles/network/351431.html| 
 | 20221212 | HTB-Outdated靶机的通关writeup | https://0xdf.gitlab.io/2022/12/10/htb-outdated.html| 
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://tlakh.xyz/fuzzing-ping.html| 
+| 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://www.x86matthew.com/view_post?id=stealth_hook| 
 
 
 # 安全维基 推荐
@@ -61,6 +62,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T11:07:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12435 | 2132| 
+| 20221212T10:19:56Z | Ce projet dévoile une étude sur  la capacité hôtelière  en exploitation entre 2018 et 2020 en Tunisie .  | https://github.com/MaatallahMeriam/Cartographie | 0 | 0| 
+| 20221212T09:51:40Z | VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit  | https://github.com/MRvirusIR/VMware-NSX-Manager-XStream | 0 | 0| 
+| 20221212T07:43:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4800 | 702| 
+| 20221212T07:41:49Z | An survey creator that exploit the power of Django’s forms API. | https://github.com/pythonbrad/django_form | 0 | 0| 
+| 20221212T06:59:13Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 294 | 63| 
 | 20221212T02:55:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 0| 
 | 20221212T02:53:26Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | 0 | 0| 
 | 20221212T01:36:02Z | Null | https://github.com/PopLabSec/Apache-Exploits-List | 0 | 0| 
