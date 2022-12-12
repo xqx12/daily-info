@@ -117,6 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:10:16Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 0 | 0| 
 | 20221212T12:52:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3232 | 456| 
 | 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 5| 
 | 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
@@ -126,7 +127,6 @@
 | 20221209T13:51:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 598 | 109| 
 | 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
 | 20221209T05:33:58Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 25 | 6| 
-| 20221208T05:33:40Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 407 | 37| 
 
 
 # big4 on Github 推荐
