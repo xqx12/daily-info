@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221212T13:45:21Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 | 20221212T13:30:34Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221212T12:17:38Z | 未知编号 | Null | https://github.com/Karlos-12/Cvecek_20221212 | | 
 | 20221211T21:45:55Z | CVE-2022-3236 | writeup and PoC for CVE-2022-3236 (unauthenticated RCE in userportal and webadmin of sophos firewall) | https://github.com/subvers1on/CVE-2022-3236-RCE-PoC | | 
@@ -55,7 +56,6 @@
 | 20221211T14:45:56Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 | 20221211T14:04:47Z | CVE-2022-25765 | PoC for Blind RCE for CVE-2022-25765 (Tested in HTB - Precious Machine) | https://github.com/LordRNA/CVE-2022-25765 | | 
 | 20221211T12:55:15Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
-| 20221211T11:08:52Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
 
 
 # klee on Github 推荐
