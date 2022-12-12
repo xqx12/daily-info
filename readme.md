@@ -8,6 +8,8 @@
 | --- | --- | ---| 
 | 20221211 | 利用 CVE-2022-1361 构造 SQL 注入可绕过许多安全厂商的 WAF，进而可完成对诸如 SSH 密钥、cookie、密钥哈希、令牌等敏感数据的非授权访问 | https://gbhackers.com/bypass-web-application-firewalls/| 
 | 20221211 | 用于绕过sslpining的frida脚本 | https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e| 
+| 20221211 | Linux内核栈溢出漏洞（CVE-2022-4378）细节 | http://seclists.org/oss-sec/2022/q4/178| 
+| 20221211 | Vitalik介绍以太坊应用生态系统中令人兴奋的五个应用：货币，Defi，身份生态系统，DAO和混合应用。 | https://vitalik.eth.limo/general/2022/12/05/excited.html| 
 
 
 # 安全维基 推荐

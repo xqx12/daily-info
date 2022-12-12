@@ -8,6 +8,8 @@
 | --- | --- | ---| 
 | 20221211 | 利用 CVE-2022-1361 构造 SQL 注入可绕过许多安全厂商的 WAF，进而可完成对诸如 SSH 密钥、cookie、密钥哈希、令牌等敏感数据的非授权访问 | https://gbhackers.com/bypass-web-application-firewalls/| 
 | 20221211 | 用于绕过sslpining的frida脚本 | https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e| 
+| 20221211 | Linux内核栈溢出漏洞（CVE-2022-4378）细节 | http://seclists.org/oss-sec/2022/q4/178| 
+| 20221211 | Vitalik介绍以太坊应用生态系统中令人兴奋的五个应用：货币，Defi，身份生态系统，DAO和混合应用。 | https://vitalik.eth.limo/general/2022/12/05/excited.html| 
 | 20221210 | pt安全披露CloudAtlas APT组织近期活动的总结以及其样本的攻击流程 | https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt-cloud-atlas-unbroken-threat/| 
 | 20221209 | Service DCOM Object本地权限提升漏洞的利用集合（通过SeImpersonatePrivilege滥用） | https://github.com/zcgonvh/DCOMPotato| 
 | 20221209 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg| 
@@ -24,8 +26,6 @@
 | 20221208 | 该研究员对杀软Avast进行漏洞挖掘，文章是关于他绕过杀软的自我防御系统的原理分析以及绕过最终注入代码的过程 | https://the-deniss.github.io/posts/2022/12/08/hooking-system-calls-in-windows-11-22h2-like-avast-antivirus.html| 
 | 20221208 | starlabs关于hole CVE-2021-38003的深入研究 | http://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/| 
 | 20221208 | CVE-2022-41128: Internet Explorer JScript9引擎的类型混淆 | https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-41128.html| 
-| 20221208 | 一个利用使用ChatGPT的代码修改能力来完善反编译体验的工具 | https://github.com/mahaloz/DAILA| 
-| 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
 
 
 # 安全维基 推荐
