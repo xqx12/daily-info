@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221212T02:55:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 0| 
 | 20221212T02:53:26Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | 0 | 0| 
 | 20221212T01:36:02Z | Null | https://github.com/PopLabSec/Apache-Exploits-List | 0 | 0| 
 | 20221211T23:35:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5121 | 713| 
@@ -96,13 +97,12 @@
 | 20221211T23:03:06Z | Powerfull Trojan Tool for generating exploitable and executable undetectable payloads on windows. | https://github.com/MedAmineFouzai/WADOG2 | 2 | 0| 
 | 20221211T22:58:41Z | Null | https://github.com/cheatxrbx/Exploits | 0 | 0| 
 | 20221211T22:25:29Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 18 | 1| 
-| 20221211T21:11:38Z | An information retrieval task focused on NIST%s descriptions of Common Vulnerability Exploits (CVEs). | https://github.com/jsteinberg4/cve-retrieval | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221212T02:24:08Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1791 | 311| 
+| 20221212T02:55:29Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1792 | 311| 
 | 20221212T00:35:42Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221211T21:38:18Z | Null | https://github.com/backdoor0x/Backdoor | 0 | 0| 
 | 20221211T21:00:49Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 3 | 0| 
