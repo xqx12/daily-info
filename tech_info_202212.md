@@ -108,7 +108,7 @@
 | 20221212T17:45:25Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 99 | 13| 
 | 20221212T13:48:02Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 14 | 0| 
 | 20221212T13:17:48Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
-| 20221212T12:39:48Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 102| 
+| 20221212T12:39:48Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 103| 
 | 20221212T09:39:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221212T06:24:01Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 1 | 0| 
 | 20221211T21:38:18Z | Null | https://github.com/backdoor0x/Backdoor | 0 | 0| 
@@ -117,10 +117,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T02:03:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3234 | 456| 
 | 20221212T17:32:20Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
 | 20221212T14:41:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2120 | 602| 
 | 20221212T14:28:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 599 | 109| 
-| 20221212T13:38:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3233 | 456| 
 | 20221212T13:10:16Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 0 | 0| 
 | 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 6| 
 | 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
