@@ -139,6 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T01:05:32Z | Null | https://github.com/abdulghofurme/fuzzy-palm-tree | 0 | 0| 
+| 20221213T01:04:14Z | Null | https://github.com/ep-infosec/50_google_oss-fuzz | 0 | 0| 
 | 20221212T22:50:37Z | Null | https://github.com/benlimpa/nvme-fuzzing-report | 0 | 0| 
 | 20221212T22:30:10Z | Null | https://github.com/Said-81/Fuzzysb-Repositorio-Tado-Rama-maestro | 0 | 0| 
 | 20221212T20:47:57Z | Null | https://github.com/s21911-pj/NAI-Fuzzy-Logic | 0 | 0| 
@@ -147,8 +149,6 @@
 | 20221212T15:25:08Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 598 | 66| 
 | 20221212T14:56:54Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
 | 20221212T13:51:01Z | Null | https://github.com/RafiAndeo/Fuzzy-Algorithm | 0 | 0| 
-| 20221212T13:16:08Z | Null | https://github.com/theripper93/fuzzy-foundry | 3 | 2| 
-| 20221212T12:51:42Z | Null | https://github.com/Flymajik/fuzzy-winner | 0 | 0| 
 
 
 
