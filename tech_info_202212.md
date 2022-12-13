@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T13:18:00Z | Null | https://github.com/HoangVuHaiDuong/Derack16-Exploit | 0 | 0| 
 | 20221213T13:13:00Z | Exploit for CVE-2022-41717 | https://github.com/domdom82/h2conn-exploit | 0 | 0| 
-| 20221213T12:59:48Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 35 | 4| 
+| 20221213T12:59:48Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 35 | 5| 
 | 20221213T12:54:33Z | forstingment#0756 | https://github.com/forstingment/Fortnite-DMR-EXPLOIT | 0 | 0| 
 | 20221213T07:55:08Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 8 | 1| 
 | 20221213T07:00:50Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 6 | 0| 
@@ -97,7 +98,6 @@
 | 20221213T02:46:35Z | hax 4 nitro type, soon to be a %javascript:% exploit. | https://github.com/V01dNullified/nitrotype-hacks | 0 | 0| 
 | 20221213T02:42:47Z | LA CTF hosted by ACM Cyber & Psi Beta Rho! Website for the largest annual cybersecurity competition at UCLA! hether you are tackling your first exploit or have professional experience, there will be challenges just right for you! | https://github.com/uclaacm/lactf-website | 4 | 3| 
 | 20221213T02:26:59Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1419 | 139| 
-| 20221213T00:13:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12439 | 2132| 
 
 
 # backdoor on Github 推荐
