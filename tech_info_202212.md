@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T02:36:49Z | Tester Repo | https://github.com/MoonKnight950/fuzzy-resolusi | 0 | 0| 
 | 20221213T02:12:55Z | Null | https://github.com/EstrellaAbueva/Fuzzy-Logic-Activity | 0 | 0| 
 | 20221213T01:05:32Z | Null | https://github.com/abdulghofurme/fuzzy-palm-tree | 0 | 0| 
 | 20221213T01:04:14Z | Null | https://github.com/ep-infosec/50_google_oss-fuzz | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20221212T17:46:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8146 | 1775| 
 | 20221212T16:10:17Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1673 | 300| 
 | 20221212T15:25:08Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 598 | 66| 
-| 20221212T14:56:54Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
 
 
 
