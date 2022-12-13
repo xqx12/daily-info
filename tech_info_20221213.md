@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221213T12:14:58Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221213T13:31:11Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221213T11:19:15Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 | 20221213T08:16:12Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221213T05:56:49Z | CVE-2022-40674 | Null | https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674 | | 
