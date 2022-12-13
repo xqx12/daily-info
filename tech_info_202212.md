@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T02:54:40Z | Ben, likes exploiting games. | https://github.com/V01dNullified/V01dNullified | 0 | 0| 
 | 20221213T02:46:35Z | hax 4 nitro type, soon to be a %javascript:% exploit. | https://github.com/V01dNullified/nitrotype-hacks | 0 | 0| 
 | 20221213T02:42:47Z | LA CTF hosted by ACM Cyber & Psi Beta Rho! Website for the largest annual cybersecurity competition at UCLA! hether you are tackling your first exploit or have professional experience, there will be challenges just right for you! | https://github.com/uclaacm/lactf-website | 4 | 3| 
 | 20221213T02:26:59Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1419 | 139| 
@@ -96,7 +97,6 @@
 | 20221212T21:23:15Z | Some practice in writing exploits in python. I am not responsible for any illegal usage of the enclosed tools, should you be colossally stupid enough to use them for such. | https://github.com/Mili-NT/exploits | 2 | 2| 
 | 20221212T21:21:28Z | This repo will show you how to exploit each one of the top 10 web vulnerability | https://github.com/ahmedbejaouiJS/vulnerability_exploiting | 1 | 0| 
 | 20221212T20:51:22Z | Automating Juicy Potato Local Privilege Escalation CMD exploit for penetration testers.  | https://github.com/0x4xel/Bat-Potato | 0 | 0| 
-| 20221212T19:27:35Z | Null | https://github.com/voltarcarnage/Heap_Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
