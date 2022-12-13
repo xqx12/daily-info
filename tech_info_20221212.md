@@ -124,9 +124,9 @@
 | 20221212T16:10:17Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1673 | 300| 
 | 20221212T15:25:08Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 598 | 66| 
 | 20221212T14:56:54Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
+| 20221212T14:08:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4900 | 505| 
 | 20221212T13:51:01Z | Null | https://github.com/RafiAndeo/Fuzzy-Algorithm | 0 | 0| 
 | 20221212T13:16:08Z | Null | https://github.com/theripper93/fuzzy-foundry | 3 | 2| 
-| 20221212T12:51:42Z | Null | https://github.com/Flymajik/fuzzy-winner | 0 | 0| 
 
 
 
