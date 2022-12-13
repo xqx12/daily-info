@@ -10,6 +10,7 @@
 | 20221213 | 一个开源的keylogger，支持win/lin，且目前可以做到免杀。 | https://github.com/De3vil/KLogger| 
 | 20221213 | 讲述如何对嵌入到vmlinuxz中的文件系统进行patch，这一类文件系统在嵌入式设备中比较常见。 | http://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html| 
 | 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
+| 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 | 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
 | 20221212 | 探索 Chrome CVE-2020-6418 漏洞 – Part1 | http://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1| 
 | 20221212 | 深入分析探讨CVE-2020-25669,该漏洞利用 Linux 内核Sun Microsystems 键盘驱动程序中的UAF漏洞 | https://www.synopsys.com/blogs/software-security/cyrc-case-study-linux-kernel-vulnerability/| 
@@ -25,7 +26,6 @@
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://sec.today/pulses/3a7b6c16-3a23-4458-bb51-0bf6dbf31b47/| 
 | 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://sec.today/pulses/86e4ec17-2c18-43db-92a3-267d84cefc2c/| 
 | 20221212 | 溯源专题 , 通过PE中PDB路径信息进行溯源 | https://www.freebuf.com/articles/network/351557.html| 
-| 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | http://www.freebuf.com/articles/network/351431.html| 
 
 
 # 安全维基 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221213T02:03:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3234 | 456| 
+| 20221213T12:30:13Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 43 | 7| 
+| 20221213T12:18:46Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 26 | 6| 
+| 20221213T10:11:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3235 | 456| 
 | 20221212T17:32:20Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
 | 20221212T14:41:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2120 | 602| 
 | 20221212T14:28:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 599 | 109| 
 | 20221212T13:10:16Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 0 | 0| 
-| 20221212T09:17:09Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 42 | 6| 
 | 20221212T07:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 518 | 29| 
 | 20221211T17:04:26Z | All In One - symbolic-execution | https://github.com/XD3an/symbolic-execution-all-in-one | 0 | 0| 
 | 20221211T01:38:41Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1254 | 58| 
-| 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
 
 
 # big4 on Github 推荐

@@ -10,6 +10,7 @@
 | 20221213 | 一个开源的keylogger，支持win/lin，且目前可以做到免杀。 | https://github.com/De3vil/KLogger| 
 | 20221213 | 讲述如何对嵌入到vmlinuxz中的文件系统进行patch，这一类文件系统在嵌入式设备中比较常见。 | http://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html| 
 | 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
+| 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 
 
 # 安全维基 推荐
@@ -69,7 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221213T02:03:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3234 | 456| 
+| 20221213T12:30:13Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 43 | 7| 
+| 20221213T12:18:46Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 26 | 6| 
+| 20221213T10:11:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3235 | 456| 
 
 
 # big4 on Github 推荐
