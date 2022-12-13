@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T02:42:47Z | LA CTF hosted by ACM Cyber & Psi Beta Rho! Website for the largest annual cybersecurity competition at UCLA! hether you are tackling your first exploit or have professional experience, there will be challenges just right for you! | https://github.com/uclaacm/lactf-website | 4 | 3| 
 | 20221213T02:26:59Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1419 | 139| 
 | 20221212T22:59:30Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 23 | 2| 
 | 20221212T22:25:13Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1781 | 368| 
@@ -96,7 +97,6 @@
 | 20221212T20:51:22Z | Automating Juicy Potato Local Privilege Escalation CMD exploit for penetration testers.  | https://github.com/0x4xel/Bat-Potato | 0 | 0| 
 | 20221212T19:27:35Z | Null | https://github.com/voltarcarnage/Heap_Exploitation | 0 | 0| 
 | 20221212T13:54:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 67 | 24| 
-| 20221212T13:41:06Z | Null | https://github.com/CukierDev/JAN-ac-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
