@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:30:00Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 3 | 0| 
 | 20221214T01:20:20Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 71 | 8| 
 | 20221214T00:57:04Z | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | 0 | 0| 
 | 20221214T00:22:54Z | What happens when you mix an autist and a lowend feature phone with wifi? Uncovered bugs appearently... These html files target the embedded %teleca/obigo% browser on the LG 306g | https://github.com/userse31/obigo_teleca_exploits | 0 | 0| 
 | 20221213T23:24:40Z | Tool to automate exploitation of Minecraft RCON protocol | https://github.com/Kowagatte/braise | 0 | 0| 
 | 20221213T23:03:01Z | V2 , has multitools built inside of it. , has tools that people sell. , | https://github.com/etxnight/Et-exploits-Multitool-v2 | 0 | 0| 
-| 20221213T21:38:30Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 2 | 0| 
 | 20221213T17:34:53Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 26 | 2| 
 | 20221213T15:58:57Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bof | 0 | 0| 
 | 20221213T13:18:00Z | Null | https://github.com/HoangVuHaiDuong/Derack16-Exploit | 0 | 0| 

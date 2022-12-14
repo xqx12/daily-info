@@ -55,7 +55,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221213T23:24:40Z | Tool to automate exploitation of Minecraft RCON protocol | https://github.com/Kowagatte/braise | 0 | 0| 
 | 20221213T23:03:01Z | V2 , has multitools built inside of it. , has tools that people sell. , | https://github.com/etxnight/Et-exploits-Multitool-v2 | 0 | 0| 
-| 20221213T21:38:30Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 2 | 0| 
 | 20221213T17:34:53Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 26 | 2| 
 | 20221213T15:58:57Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bof | 0 | 0| 
 | 20221213T13:18:00Z | Null | https://github.com/HoangVuHaiDuong/Derack16-Exploit | 0 | 0| 
@@ -63,6 +62,7 @@
 | 20221213T12:54:33Z | forstingment#0756 | https://github.com/forstingment/Fortnite-DMR-EXPLOIT | 0 | 0| 
 | 20221213T12:17:02Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3204 | 484| 
 | 20221213T09:05:05Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1425 | 139| 
+| 20221213T07:55:08Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 8 | 1| 
 
 
 # backdoor on Github 推荐
