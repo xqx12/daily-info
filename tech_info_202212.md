@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221214T13:53:07Z | cve-2021-36782 | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | https://github.com/fe-ax/tf-cve-2021-36782 | | 
 | 20221214T13:25:54Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T13:20:50Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221213T23:24:57Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
@@ -55,7 +56,6 @@
 | 20221213T18:32:23Z | CVE-2022-41272 | Improper access control in SAP NetWeaver Process Integration | https://github.com/redrays-io/CVE-2022-41272 | | 
 | 20221213T16:43:19Z | cve-2022-3786 | Null | https://github.com/plharraud/cve-2022-3786 | | 
 | 20221213T11:19:15Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
-| 20221213T05:56:49Z | CVE-2022-40674 | Null | https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674 | | 
 
 
 # klee on Github 推荐
