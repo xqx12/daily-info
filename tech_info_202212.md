@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T13:22:15Z | Resets the malwarebytes 14 day premium trial by using an exploit with the registry | https://github.com/ilan1009/malwarebytestrialreset | 0 | 0| 
 | 20221214T13:08:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 296 | 63| 
 | 20221214T12:56:13Z | CVE-2019-9053 exploit ported to python3 | https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3 | 0 | 0| 
 | 20221214T12:27:41Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 10 | 1| 
@@ -99,7 +100,6 @@
 | 20221214T09:04:50Z | Official code of %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. BMVC, 2022. | https://github.com/guglielmocamporese/relvit | 8 | 2| 
 | 20221214T08:26:40Z | Collection of various types of interesting challenges and solve scripts  | https://github.com/Karpagarajanvikkii/binary-exploitation | 0 | 0| 
 | 20221214T04:44:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3857 | 479| 
-| 20221214T02:56:22Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 80 | 8| 
 
 
 # backdoor on Github 推荐
