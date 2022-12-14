@@ -98,8 +98,8 @@
 | 20221214T09:59:53Z | this test for demo exploit in KMA school in VN | https://github.com/Thanhnguyenchl/test_code_ql_thanh_kma | 0 | 0| 
 | 20221214T09:04:50Z | Official code of %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. BMVC, 2022. | https://github.com/guglielmocamporese/relvit | 8 | 2| 
 | 20221214T08:26:40Z | Collection of various types of interesting challenges and solve scripts  | https://github.com/Karpagarajanvikkii/binary-exploitation | 0 | 0| 
+| 20221214T04:44:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3857 | 479| 
 | 20221214T02:56:22Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 80 | 8| 
-| 20221214T00:57:04Z | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | 0 | 0| 
 
 
 # backdoor on Github 推荐
