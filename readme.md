@@ -16,6 +16,7 @@
 | 20221213 | 杀软和EDR产品被发现在清除病毒文件时有TOC TOU漏洞，利用这个漏洞攻击者可以删除任意文件，有人基于这个漏洞开发了文件删除工具并发表在了blackhat EU。 | https://gbhackers.com/multiple-zero-day-vulnerabilities/| 
 | 20221213 | Edge浏览器存在一个DACL权限提升漏洞，可以通过hardlink修改任意文件的DACL到System。其根本成因在于Edge浏览器错误信任了一个任意用户可删改到文件。 | https://bugs.chromium.org/p/chromium/issues/detail?id=1332924| 
 | 20221213 | 使用KLEE符号执行引擎分析Busybox CVE-2016-2147的漏洞函数 | http://research.nccgroup.com/2022/12/12/klee-for-the-cve/| 
+| 20221213 | AWS ECR Public高危漏洞的发现过程，作者发现了一些不在公开文档中的API操作，攻击者可利用这些API对其他账户的镜像进行删除、更新等操作，进一步进行供应链攻击。 | https://blog.lightspin.io/aws-ecr-public-vulnerability| 
 
 
 # 安全维基 推荐
