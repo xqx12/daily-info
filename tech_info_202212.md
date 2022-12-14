@@ -61,12 +61,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:53:00Z | Null | https://github.com/pendlirajashekhar/klee | 0 | 0| 
 | 20221213T23:02:11Z | Config files for my GitHub profile. | https://github.com/Klee1991/Klee1991 | 0 | 0| 
 | 20221213T19:27:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2121 | 602| 
 | 20221213T11:31:13Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 4 | 0| 
 | 20221213T10:14:50Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 48 | 3| 
 | 20221212T18:14:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9584 | 328| 
-| 20221212T14:47:47Z | Null | https://github.com/pendlirajashekhar/klee | 0 | 0| 
 | 20221212T06:25:29Z | Null | https://github.com/pendlirajashekhar/kleeteams | 0 | 0| 
 | 20221211T16:14:44Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 50| 
 | 20221210T16:10:54Z | This is a Music Bot for Discord in javascript. | https://github.com/harryChrist/Klee-MusicBot | 0 | 0| 
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:53:13Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 73 | 8| 
 | 20221214T01:43:56Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 4 | 0| 
-| 20221214T01:35:58Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 72 | 8| 
 | 20221214T00:57:04Z | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | 0 | 0| 
 | 20221214T00:22:54Z | What happens when you mix an autist and a lowend feature phone with wifi? Uncovered bugs appearently... These html files target the embedded %teleca/obigo% browser on the LG 306g | https://github.com/userse31/obigo_teleca_exploits | 0 | 0| 
 | 20221213T23:24:40Z | Tool to automate exploitation of Minecraft RCON protocol | https://github.com/Kowagatte/braise | 0 | 0| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:54:11Z | A ZF implementation to produce Java Fuzzers. | https://github.com/deanziyangyu/ZF_Java | 0 | 0| 
 | 20221214T01:52:21Z | Null | https://github.com/AnvithPabba/Fuzzy-Logic-Controller-for-Obstacle-Avoidance-and-Swarm-Formation | 0 | 0| 
 | 20221214T01:40:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 80 | 22| 
 | 20221214T00:46:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8149 | 1775| 
@@ -150,7 +151,6 @@
 | 20221213T22:06:46Z | Fuzzer - Generic Social Media project with Django and React | https://github.com/danielrdzc/fuzzer | 0 | 0| 
 | 20221213T20:44:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 205| 
 | 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
-| 20221213T12:51:03Z | Fuzzy C-Shell analysis for district/city clustering in Sulawesi based on the indicators of people welfare level | https://github.com/selviaanggun/Fuzzy-C-Shell | 0 | 0| 
 
 
 
