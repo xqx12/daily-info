@@ -141,13 +141,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:55:16Z | Null | https://github.com/AnvithPabba/Fuzzy-Logic-Controller-for-Obstacle-Avoidance-and-Swarm-Formation | 0 | 0| 
+| 20221214T01:54:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1199 | 155| 
 | 20221214T01:54:11Z | A ZF implementation to produce Java Fuzzers. | https://github.com/deanziyangyu/ZF_Java | 0 | 0| 
-| 20221214T01:52:21Z | Null | https://github.com/AnvithPabba/Fuzzy-Logic-Controller-for-Obstacle-Avoidance-and-Swarm-Formation | 0 | 0| 
 | 20221214T01:40:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 80 | 22| 
 | 20221214T00:46:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8149 | 1775| 
 | 20221214T00:20:43Z | Null | https://github.com/Amr8tom/fuzzy_logic_system | 0 | 0| 
 | 20221214T00:02:00Z | Trabalho final para a disciolina de Inteligência Artificial | https://github.com/vinicimdohs/fuzzy-final | 0 | 0| 
-| 20221213T23:56:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1198 | 155| 
 | 20221213T22:06:46Z | Fuzzer - Generic Social Media project with Django and React | https://github.com/danielrdzc/fuzzer | 0 | 0| 
 | 20221213T20:44:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 205| 
 | 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
