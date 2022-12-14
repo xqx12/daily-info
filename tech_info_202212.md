@@ -12,6 +12,7 @@
 | 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
 | 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 | 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
+| 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
 | 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
 | 20221212 | 探索 Chrome CVE-2020-6418 漏洞 – Part1 | http://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1| 
 | 20221212 | 深入分析探讨CVE-2020-25669,该漏洞利用 Linux 内核Sun Microsystems 键盘驱动程序中的UAF漏洞 | https://www.synopsys.com/blogs/software-security/cyrc-case-study-linux-kernel-vulnerability/| 
@@ -25,7 +26,6 @@
 | 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://sec.today/pulses/01fae263-8867-4b2f-9e88-678e23e10010/| 
 | 20221212 | HTB-Outdated靶机的通关writeup | https://sec.today/pulses/d151bc0f-448f-4df5-b43c-2088974c4cde/| 
 | 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://sec.today/pulses/3a7b6c16-3a23-4458-bb51-0bf6dbf31b47/| 
-| 20221212 | 一种在不修改内存保护的前提下在windows平台进行函数hook的方案，有一定创新性但感觉缺乏一定通用性 | https://sec.today/pulses/86e4ec17-2c18-43db-92a3-267d84cefc2c/| 
 
 
 # 安全维基 推荐

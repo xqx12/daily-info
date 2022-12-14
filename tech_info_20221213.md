@@ -12,6 +12,7 @@
 | 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
 | 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 | 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
+| 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
 
 
 # 安全维基 推荐
