@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:37:54Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 408 | 37| 
 | 20221213T23:23:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3239 | 456| 
 | 20221213T22:35:46Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 24 | 6| 
 | 20221213T21:05:10Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 520 | 29| 
@@ -127,7 +128,6 @@
 | 20221213T12:18:46Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 26 | 6| 
 | 20221212T17:32:20Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
 | 20221212T13:10:16Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 0 | 0| 
-| 20221211T17:04:26Z | All In One - symbolic-execution | https://github.com/XD3an/symbolic-execution-all-in-one | 0 | 0| 
 
 
 # big4 on Github 推荐
