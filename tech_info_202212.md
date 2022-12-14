@@ -15,6 +15,7 @@
 | 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
 | 20221213 | 杀软和EDR产品被发现在清除病毒文件时有TOC TOU漏洞，利用这个漏洞攻击者可以删除任意文件，有人基于这个漏洞开发了文件删除工具并发表在了blackhat EU。 | https://gbhackers.com/multiple-zero-day-vulnerabilities/| 
 | 20221213 | Edge浏览器存在一个DACL权限提升漏洞，可以通过hardlink修改任意文件的DACL到System。其根本成因在于Edge浏览器错误信任了一个任意用户可删改到文件。 | https://bugs.chromium.org/p/chromium/issues/detail?id=1332924| 
+| 20221213 | 使用KLEE符号执行引擎分析Busybox CVE-2016-2147的漏洞函数 | http://research.nccgroup.com/2022/12/12/klee-for-the-cve/| 
 | 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
 | 20221212 | 探索 Chrome CVE-2020-6418 漏洞 – Part1 | http://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1| 
 | 20221212 | 深入分析探讨CVE-2020-25669,该漏洞利用 Linux 内核Sun Microsystems 键盘驱动程序中的UAF漏洞 | https://www.synopsys.com/blogs/software-security/cyrc-case-study-linux-kernel-vulnerability/| 
@@ -25,7 +26,6 @@
 | 20221212 | SilentMoonwalk:实现动态调用堆栈进行欺骗的思路 | https://klezvirus.github.io/RedTeaming/AV_Evasion/StackSpoofing/| 
 | 20221212 | NETGEAR RAX30 UPnP服务中的命令注入漏洞,但Pwn2own Toronto比赛开始前被修复 | https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/| 
 | 20221212 | 溯源专题 , 通过PE中PDB路径信息进行溯源 | https://sec.today/pulses/b0d26656-b6a0-4a88-a495-6c4d8496d4f6/| 
-| 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://sec.today/pulses/01fae263-8867-4b2f-9e88-678e23e10010/| 
 
 
 # 安全维基 推荐
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T02:29:17Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 78 | 8| 
-| 20221214T02:11:42Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 6 | 0| 
+| 20221214T02:37:41Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 8 | 0| 
+| 20221214T02:33:18Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 79 | 8| 
 | 20221214T00:57:04Z | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | 0 | 0| 
 | 20221214T00:22:54Z | What happens when you mix an autist and a lowend feature phone with wifi? Uncovered bugs appearently... These html files target the embedded %teleca/obigo% browser on the LG 306g | https://github.com/userse31/obigo_teleca_exploits | 0 | 0| 
 | 20221213T23:24:40Z | Tool to automate exploitation of Minecraft RCON protocol | https://github.com/Kowagatte/braise | 0 | 0| 
