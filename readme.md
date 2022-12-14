@@ -11,6 +11,7 @@
 | 20221213 | 讲述如何对嵌入到vmlinuxz中的文件系统进行patch，这一类文件系统在嵌入式设备中比较常见。 | http://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html| 
 | 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
 | 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
+| 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
 
 
 # 安全维基 推荐
@@ -22,16 +23,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221213T23:24:57Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221213T22:48:38Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/bluewolf2778/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20221213T22:48:36Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20221213T22:48:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/bluewolf2778/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221213T21:38:30Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
+| 20221213T18:32:23Z | CVE-2022-41272 | Improper access control in SAP NetWeaver Process Integration | https://github.com/redrays-io/CVE-2022-41272 | | 
+| 20221213T16:43:19Z | cve-2022-3786 | Null | https://github.com/plharraud/cve-2022-3786 | | 
 | 20221213T13:31:11Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221213T11:19:15Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
-| 20221213T08:16:12Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221213T05:56:49Z | CVE-2022-40674 | Null | https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674 | | 
-| 20221213T04:42:26Z | CVE-2020-5902 | Null | https://github.com/trhacknon/CVE-2020-5902-Scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T23:02:11Z | Config files for my GitHub profile. | https://github.com/Klee1991/Klee1991 | 0 | 0| 
+| 20221213T19:27:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2121 | 602| 
 | 20221213T11:31:13Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 4 | 0| 
 | 20221213T10:14:50Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 48 | 3| 
 
@@ -45,23 +53,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221213T13:40:52Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 36 | 5| 
+| 20221213T23:24:40Z | Tool to automate exploitation of Minecraft RCON protocol | https://github.com/Kowagatte/braise | 0 | 0| 
+| 20221213T23:03:01Z | V2 , has multitools built inside of it. , has tools that people sell. , | https://github.com/etxnight/Et-exploits-Multitool-v2 | 0 | 0| 
+| 20221213T21:38:30Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 2 | 0| 
+| 20221213T17:34:53Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 26 | 2| 
+| 20221213T15:58:57Z | Buffer overflow exploits | https://github.com/tymyrddin/red-bof | 0 | 0| 
 | 20221213T13:18:00Z | Null | https://github.com/HoangVuHaiDuong/Derack16-Exploit | 0 | 0| 
 | 20221213T13:13:00Z | Exploit for CVE-2022-41717 | https://github.com/domdom82/h2conn-exploit | 0 | 0| 
 | 20221213T12:54:33Z | forstingment#0756 | https://github.com/forstingment/Fortnite-DMR-EXPLOIT | 0 | 0| 
+| 20221213T12:17:02Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3204 | 484| 
 | 20221213T09:05:05Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1425 | 139| 
-| 20221213T07:55:08Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 8 | 1| 
-| 20221213T07:00:50Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 6 | 0| 
-| 20221213T02:54:40Z | Ben, likes exploiting games. | https://github.com/V01dNullified/V01dNullified | 0 | 0| 
-| 20221213T02:46:35Z | hax 4 nitro type, soon to be a %javascript:% exploit. | https://github.com/V01dNullified/nitrotype-hacks | 0 | 0| 
-| 20221213T02:42:47Z | LA CTF hosted by ACM Cyber & Psi Beta Rho! Website for the largest annual cybersecurity competition at UCLA! hether you are tackling your first exploit or have professional experience, there will be challenges just right for you! | https://github.com/uclaacm/lactf-website | 4 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T23:51:12Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1851 | 317| 
+| 20221213T21:26:34Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 7 | 0| 
+| 20221213T20:46:34Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
+| 20221213T19:38:08Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 103| 
 | 20221213T13:25:26Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1163 | 163| 
-| 20221213T13:22:45Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1843 | 317| 
 | 20221213T08:12:18Z | Backdoor gang | https://github.com/Issekai/stashspot | 0 | 0| 
 | 20221213T05:15:13Z | solved the ctf  (not completed  Backdoor and Climber) | https://github.com/Vishalkulkarni45/damn-vulnerable-defi | 0 | 0| 
 | 20221213T02:17:48Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
@@ -85,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221213T23:56:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1198 | 155| 
+| 20221213T22:06:46Z | Fuzzer - Generic Social Media project with Django and React | https://github.com/danielrdzc/fuzzer | 0 | 0| 
+| 20221213T20:44:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 205| 
+| 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
 | 20221213T12:51:03Z | Fuzzy C-Shell analysis for district/city clustering in Sulawesi based on the indicators of people welfare level | https://github.com/selviaanggun/Fuzzy-C-Shell | 0 | 0| 
 | 20221213T12:46:45Z | Null | https://github.com/ep-infosec/50_google_fuzzbench | 0 | 0| 
 | 20221213T12:46:18Z | Null | https://github.com/LSRKSASTRY/fuzzy-tribble | 0 | 0| 
-| 20221213T12:42:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1196 | 155| 
 | 20221213T10:46:32Z | Null | https://github.com/bob11vrdp/vBoxFuzzer | 0 | 0| 
 | 20221213T08:10:53Z | Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 77 | 3| 
 | 20221213T06:56:23Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 220 | 31| 
-| 20221213T02:36:49Z | Tester Repo | https://github.com/MoonKnight950/fuzzy-resolusi | 0 | 0| 
-| 20221213T02:12:55Z | Null | https://github.com/EstrellaAbueva/Fuzzy-Logic-Activity | 0 | 0| 
-| 20221213T01:05:32Z | Null | https://github.com/abdulghofurme/fuzzy-palm-tree | 0 | 0| 
 
 
 
