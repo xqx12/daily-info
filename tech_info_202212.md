@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T01:40:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 80 | 22| 
 | 20221214T00:46:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8149 | 1775| 
 | 20221214T00:20:43Z | Null | https://github.com/Amr8tom/fuzzy_logic_system | 0 | 0| 
 | 20221214T00:02:00Z | Trabalho final para a disciolina de Inteligência Artificial | https://github.com/vinicimdohs/fuzzy-final | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
 | 20221213T12:51:03Z | Fuzzy C-Shell analysis for district/city clustering in Sulawesi based on the indicators of people welfare level | https://github.com/selviaanggun/Fuzzy-C-Shell | 0 | 0| 
 | 20221213T12:46:45Z | Null | https://github.com/ep-infosec/50_google_fuzzbench | 0 | 0| 
-| 20221213T12:46:18Z | Null | https://github.com/LSRKSASTRY/fuzzy-tribble | 0 | 0| 
 
 
 
