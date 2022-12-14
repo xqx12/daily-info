@@ -13,6 +13,8 @@
 | 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 | 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
 | 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
+| 20221213 | 杀软和EDR产品被发现在清除病毒文件时有TOC TOU漏洞，利用这个漏洞攻击者可以删除任意文件，有人基于这个漏洞开发了文件删除工具并发表在了blackhat EU。 | https://gbhackers.com/multiple-zero-day-vulnerabilities/| 
+| 20221213 | Edge浏览器存在一个DACL权限提升漏洞，可以通过hardlink修改任意文件的DACL到System。其根本成因在于Edge浏览器错误信任了一个任意用户可删改到文件。 | https://bugs.chromium.org/p/chromium/issues/detail?id=1332924| 
 
 
 # 安全维基 推荐

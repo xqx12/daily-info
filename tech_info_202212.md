@@ -13,6 +13,8 @@
 | 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
 | 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
 | 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
+| 20221213 | 杀软和EDR产品被发现在清除病毒文件时有TOC TOU漏洞，利用这个漏洞攻击者可以删除任意文件，有人基于这个漏洞开发了文件删除工具并发表在了blackhat EU。 | https://gbhackers.com/multiple-zero-day-vulnerabilities/| 
+| 20221213 | Edge浏览器存在一个DACL权限提升漏洞，可以通过hardlink修改任意文件的DACL到System。其根本成因在于Edge浏览器错误信任了一个任意用户可删改到文件。 | https://bugs.chromium.org/p/chromium/issues/detail?id=1332924| 
 | 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
 | 20221212 | 探索 Chrome CVE-2020-6418 漏洞 – Part1 | http://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1| 
 | 20221212 | 深入分析探讨CVE-2020-25669,该漏洞利用 Linux 内核Sun Microsystems 键盘驱动程序中的UAF漏洞 | https://www.synopsys.com/blogs/software-security/cyrc-case-study-linux-kernel-vulnerability/| 
@@ -24,8 +26,6 @@
 | 20221212 | NETGEAR RAX30 UPnP服务中的命令注入漏洞,但Pwn2own Toronto比赛开始前被修复 | https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/| 
 | 20221212 | 溯源专题 , 通过PE中PDB路径信息进行溯源 | https://sec.today/pulses/b0d26656-b6a0-4a88-a495-6c4d8496d4f6/| 
 | 20221212 | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://sec.today/pulses/01fae263-8867-4b2f-9e88-678e23e10010/| 
-| 20221212 | HTB-Outdated靶机的通关writeup | https://sec.today/pulses/d151bc0f-448f-4df5-b43c-2088974c4cde/| 
-| 20221212 | 在BSD的ping出现栈溢出漏洞之后，研究者决定使用afl++ fuzz ping函数，结果又发现了新的bug。 | https://sec.today/pulses/3a7b6c16-3a23-4458-bb51-0bf6dbf31b47/| 
 
 
 # 安全维基 推荐
