@@ -72,8 +72,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T01:41:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3240 | 456| 
-| 20221214T01:37:54Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 408 | 37| 
+| 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
+| 20221214T08:59:33Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 26 | 6| 
+| 20221214T06:50:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3241 | 456| 
+| 20221214T06:13:03Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 409 | 37| 
 
 
 # big4 on Github 推荐
