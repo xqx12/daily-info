@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T13:08:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 296 | 63| 
 | 20221214T12:56:13Z | CVE-2019-9053 exploit ported to python3 | https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3 | 0 | 0| 
 | 20221214T12:27:41Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 10 | 1| 
 | 20221214T12:25:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 2 | 0| 
@@ -98,14 +99,14 @@
 | 20221214T09:04:50Z | Official code of %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. BMVC, 2022. | https://github.com/guglielmocamporese/relvit | 8 | 2| 
 | 20221214T08:26:40Z | Collection of various types of interesting challenges and solve scripts  | https://github.com/Karpagarajanvikkii/binary-exploitation | 0 | 0| 
 | 20221214T02:56:22Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 80 | 8| 
-| 20221214T02:43:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 295 | 63| 
 | 20221214T00:57:04Z | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T12:57:20Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1863 | 316| 
+| 20221214T13:13:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1865 | 316| 
+| 20221214T13:07:55Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 57 | 32| 
 | 20221214T08:47:12Z | backdoor (beta) | https://github.com/dentlis/linux-backdoor | 0 | 0| 
 | 20221214T01:09:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1164 | 163| 
 | 20221214T00:34:35Z | Ajar Sensor for Backdoor | https://github.com/realraum/usb-ajar | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20221213T19:38:08Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 103| 
 | 20221213T08:12:18Z | Backdoor gang | https://github.com/Issekai/stashspot | 0 | 0| 
 | 20221213T05:15:13Z | solved the ctf  (not completed  Backdoor and Climber) | https://github.com/Vishalkulkarni45/damn-vulnerable-defi | 0 | 0| 
-| 20221213T02:17:48Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
