@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T01:48:20Z | Null | https://github.com/AnvithPabba/Fuzzy-Logic-Controller-for-Obstacle-Avoidance-and-Swarm-Formation | 0 | 0| 
+| 20221214T01:52:21Z | Null | https://github.com/AnvithPabba/Fuzzy-Logic-Controller-for-Obstacle-Avoidance-and-Swarm-Formation | 0 | 0| 
 | 20221214T01:40:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 80 | 22| 
 | 20221214T00:46:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8149 | 1775| 
 | 20221214T00:20:43Z | Null | https://github.com/Amr8tom/fuzzy_logic_system | 0 | 0| 
