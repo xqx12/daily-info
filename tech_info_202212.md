@@ -150,7 +150,7 @@
 | 20221214T00:02:00Z | Trabalho final para a disciolina de Inteligência Artificial | https://github.com/vinicimdohs/fuzzy-final | 0 | 0| 
 | 20221213T22:06:46Z | Fuzzer - Generic Social Media project with Django and React | https://github.com/danielrdzc/fuzzer | 0 | 0| 
 | 20221213T20:44:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 205| 
-| 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
+| 20221213T18:08:16Z | A flexible date parser written in rust | https://github.com/devinvs/fuzzydate | 3 | 1| 
 
 
 

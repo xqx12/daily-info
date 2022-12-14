@@ -98,6 +98,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221213T22:06:46Z | Fuzzer - Generic Social Media project with Django and React | https://github.com/danielrdzc/fuzzer | 0 | 0| 
 | 20221213T20:44:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 205| 
+| 20221213T18:08:16Z | A flexible date parser written in rust | https://github.com/devinvs/fuzzydate | 3 | 1| 
 | 20221213T16:39:01Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 401 | 70| 
 | 20221213T12:51:03Z | Fuzzy C-Shell analysis for district/city clustering in Sulawesi based on the indicators of people welfare level | https://github.com/selviaanggun/Fuzzy-C-Shell | 0 | 0| 
 | 20221213T12:46:45Z | Null | https://github.com/ep-infosec/50_google_fuzzbench | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20221213T10:46:32Z | Null | https://github.com/bob11vrdp/vBoxFuzzer | 0 | 0| 
 | 20221213T08:10:53Z | Auto-gen Go 1.18 fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 77 | 3| 
 | 20221213T06:56:23Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 220 | 31| 
-| 20221213T02:36:49Z | Tester Repo | https://github.com/MoonKnight950/fuzzy-resolusi | 0 | 0| 
 
 
 
