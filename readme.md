@@ -87,7 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T13:35:29Z | Null | https://github.com/EstrellaAbueva/Fuzzy-Logic-Activity | 0 | 0| 
+| 20221214T13:38:16Z | Null | https://github.com/EstrellaAbueva/Fuzzy-Logic-Activity | 0 | 0| 
 | 20221214T12:55:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1775| 
 | 20221214T12:48:52Z | Repo for fuzzy logic assignment | https://github.com/Olivein123/PotolinFuzzyLogic | 0 | 0| 
 | 20221214T12:31:44Z | Null | https://github.com/BiggusMaximus/Solar-Tracker-with-Fuzzy-Logic | 0 | 0| 
