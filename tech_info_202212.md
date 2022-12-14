@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221214T13:25:54Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T13:20:50Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
-| 20221214T12:27:41Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221213T23:24:57Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221213T22:48:38Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/bluewolf2778/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221213T22:48:36Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -90,10 +90,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T13:25:54Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 11 | 1| 
 | 20221214T13:22:15Z | Resets the malwarebytes 14 day premium trial by using an exploit with the registry | https://github.com/ilan1009/malwarebytestrialreset | 0 | 0| 
 | 20221214T13:08:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 296 | 63| 
 | 20221214T12:56:13Z | CVE-2019-9053 exploit ported to python3 | https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3 | 0 | 0| 
-| 20221214T12:27:41Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 10 | 1| 
 | 20221214T12:25:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 2 | 0| 
 | 20221214T12:04:35Z | My Roblox exploit UI Library :) | https://github.com/chi0sk/Chi0sk-s-UI-Library | 0 | 0| 
 | 20221214T09:59:53Z | this test for demo exploit in KMA school in VN | https://github.com/Thanhnguyenchl/test_code_ql_thanh_kma | 0 | 0| 
@@ -106,7 +106,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221214T13:13:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1865 | 316| 
-| 20221214T13:07:55Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 57 | 32| 
+| 20221214T13:07:55Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 57 | 33| 
 | 20221214T08:47:12Z | backdoor (beta) | https://github.com/dentlis/linux-backdoor | 0 | 0| 
 | 20221214T01:09:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1164 | 163| 
 | 20221214T00:34:35Z | Ajar Sensor for Backdoor | https://github.com/realraum/usb-ajar | 0 | 0| 
