@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:08:12Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/hilsontyreu/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
 | 20221215T00:59:39Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 9 | 0| 
 | 20221215T00:52:44Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 27 | 2| 
 | 20221215T00:32:02Z | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv  | https://github.com/LocalSmail/Finity | 6 | 1| 
@@ -99,7 +100,6 @@
 | 20221214T23:50:15Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
 | 20221214T23:30:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 66 | 24| 
 | 20221214T23:09:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 49 | 27| 
-| 20221214T22:34:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8I | 1 | 0| 
 
 
 # backdoor on Github 推荐
