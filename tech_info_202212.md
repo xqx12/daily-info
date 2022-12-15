@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221215T01:08:12Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/hilsontyreu/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
+| 20221215T01:10:19Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/hilsontyreu/EclipseWare-Free-Roblox-Exploits-v1.7 | 25 | 0| 
 | 20221215T00:59:39Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 9 | 0| 
 | 20221215T00:52:44Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 27 | 2| 
 | 20221215T00:32:02Z | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv  | https://github.com/LocalSmail/Finity | 6 | 1| 
