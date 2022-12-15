@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221215 | BSL2022关于如何在windows下使用rootkits进行进程隐藏等恶意行为的演讲视频 | https://www.youtube.com/watch?v=GM9WQMrSkWk&feature=youtu.be| 
+| 20221215 | Linux 内核蓝牙模块 ”net/bluetooth/l2cap_core.c“ 中的 l2cap_parse_conf_req 函数存在信息泄露漏洞，可远程泄露内核指针 | http://seclists.org/oss-sec/2022/q4/190| 
+| 20221215 | Ruby on Rails 的 Rails::Html::SafeListSanitizer 过滤器中某些 tag 可被绕过，可导致 XSS 攻击 | https://hackerone.com/reports/1656627| 
+| 20221215 | 对抗入侵检测，DEFCON 30 workshop 混淆入门课 | https://www.youtube.com/watch?v=wvKwk1wcXvM| 
+| 20221215 | NS平台游戏《马里奥赛车8豪华版》服务端披露漏洞，允许恶意用户自建锦标赛并使其出现在官方推荐的赛事列表中 | https://hackerone.com/reports/1653676| 
+| 20221215 | Linux DirtyPipe漏洞的分析 | https://blog.aquasec.com/deep-analysis-of-the-dirty-pipe-vulnerability| 
+| 20221215 | 如何通过固件逆向分析的确定IOT设备的MCU的型号。 | https://www.apriorit.com/dev-blog/787-reverse-engineering-microcontroller-model-identification| 
+| 20221215 | 一个白帽黑客讲述他如何利用简单的工具找到了50多个XSS | https://bugbountyguide.org/2022/12/12/50-cross-site-scripting-xss-vulnerabilities-bugcrowd-public-programs/| 
+| 20221215 | 云计算凭证泄漏后的两个攻击案例：钓鱼和挖矿 | https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/| 
+| 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://sec.today/pulses/9aeca360-6b1b-43b0-806c-943d31fdf040/| 
 | 20221214 | Linux kernel中__nfs42_ssc_open的UAF漏洞，由于未能正确处理nfs42_ssc_open错误返回的情况造成UAF | http://seclists.org/oss-sec/2022/q4/185| 
 | 20221214 | 介绍自GPT-3到现在的chatGPT，都经历了哪些技术改进 | https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1| 
 | 20221214 | ”谷歌版阿图因“发布：可自动查找开源项目中的第三方依赖库并扫描这些依赖库中是否存在已知漏洞 | https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html| 
@@ -16,21 +26,14 @@
 | 20221214 | CVE-2021-43444～43449：onlyoffice插件RCE，攻击无需认证 | http://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/| 
 | 20221213 | 针对Kerberos的新型攻击，主要基于 Golden Ticket攻击进行扩展和改进 | https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/| 
 | 20221213 | 一个开源的keylogger，支持win/lin，且目前可以做到免杀。 | https://github.com/De3vil/KLogger| 
-| 20221213 | 讲述如何对嵌入到vmlinuxz中的文件系统进行patch，这一类文件系统在嵌入式设备中比较常见。 | http://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html| 
-| 20221213 | 微软发布针对恶意IIS模块持续化webshell的演进和检测 | https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/| 
-| 20221213 | 用 Jackalope fuzz Windows Defender 的核心扫描模块 mpengine.dll，详细介绍了编写 harness 的过程 | https://medium.com/s2wblog/fuzzing-the-shield-cve-2022-24548-96f568980c0| 
-| 20221213 | Using CyberChef To Automatically Extract Shellcode from PowerShell Loader | https://www.youtube.com/watch?v=H-An4Tx__t8| 
-| 20221213 | Vmware vCenter Server存在一个DOS漏洞。该漏洞的根本成因是依据不可信的用户的输入（int）分配内存并进行运算，使CPU和内存可能被恶意的输入耗尽 | https://www.talosintelligence.com/vulnerability_reports/TALOS-2022-1588| 
-| 20221213 | 杀软和EDR产品被发现在清除病毒文件时有TOC TOU漏洞，利用这个漏洞攻击者可以删除任意文件，有人基于这个漏洞开发了文件删除工具并发表在了blackhat EU。 | https://gbhackers.com/multiple-zero-day-vulnerabilities/| 
-| 20221213 | Edge浏览器存在一个DACL权限提升漏洞，可以通过hardlink修改任意文件的DACL到System。其根本成因在于Edge浏览器错误信任了一个任意用户可删改到文件。 | https://bugs.chromium.org/p/chromium/issues/detail?id=1332924| 
-| 20221213 | 使用KLEE符号执行引擎分析Busybox CVE-2016-2147的漏洞函数 | http://research.nccgroup.com/2022/12/12/klee-for-the-cve/| 
-| 20221213 | AWS ECR Public高危漏洞的发现过程，作者发现了一些不在公开文档中的API操作，攻击者可利用这些API对其他账户的镜像进行删除、更新等操作，进一步进行供应链攻击。 | https://blog.lightspin.io/aws-ecr-public-vulnerability| 
-| 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221215 | 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA| 
+| 20221215 | EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA| 
+| 20221215 | 电力行业网络安全等级保护管理办法 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA| 
 | 20221214 | SPEL注入流程分析及CTF中如何使用 | https://sec-in.com/article/1988| 
 | 20221213 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF| 
 | 20221212 | 针对释放后重用漏洞的自动化分析和修复 | https://www.bilibili.com/video/BV1UK411671w/| 
@@ -38,29 +41,28 @@
 | 20221212 | 软件开发安全应用实践中的十个误区 | https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA| 
 | 20221212 | Shell中的幽灵王者—JAVAWEB 内存马 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ| 
 | 20221212 | SecWiki周刊（第458期) | https://www.sec-wiki.com/weekly/458| 
-| 20221212 | 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ| 
-| 20221212 | [HTB] Seal Writeup | https://mp.weixin.qq.com/s/Z7jQOyA95tXL45Yk3Xeojg| 
-| 20221210 | Thinkphp 多语言 RCE | https://tttang.com/archive/1865/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221215T12:21:12Z | CVE-2022-43680 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680 | | 
+| 20221215T10:11:41Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
+| 20221215T04:55:56Z | CVE-2020-0796 | CVE-2020-0796-利用工具 | https://github.com/TweatherQ/CVE-2020-0796 | | 
 | 20221215T01:59:42Z | CVE-2020-5398 | 💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC | https://github.com/motikan2010/CVE-2020-5398 | | 
 | 20221215T01:34:36Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221215T01:12:58Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 | 20221215T00:33:59Z | CVE-2021-35464 | openam-CVE-2021-35464 tomcat 执行命令回显 | https://github.com/Y4er/openam-CVE-2021-35464 | | 
-| 20221214T22:40:28Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T20:07:52Z | CVE-2022-46381 | Null | https://github.com/amitlttwo/CVE-2022-46381 | | 
 | 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 
-| 20221214T17:37:27Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
-| 20221214T15:13:37Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T11:56:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
+| 20221215T09:00:52Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 49 | 3| 
 | 20221215T01:34:21Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
 | 20221214T22:27:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 50| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
@@ -68,9 +70,7 @@
 | 20221214T07:58:39Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 5 | 0| 
 | 20221214T01:53:00Z | Null | https://github.com/pendlirajashekhar/klee | 0 | 0| 
 | 20221213T23:02:11Z | Config files for my GitHub profile. | https://github.com/Klee1991/Klee1991 | 0 | 0| 
-| 20221213T10:14:50Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 48 | 3| 
 | 20221212T18:14:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9584 | 328| 
-| 20221212T06:25:29Z | Null | https://github.com/pendlirajashekhar/kleeteams | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T10:50:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3242 | 457| 
+| 20221215T04:56:15Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 45 | 7| 
 | 20221214T23:34:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
 | 20221214T23:19:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 599 | 110| 
 | 20221214T23:18:16Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 1| 
 | 20221214T23:10:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
 | 20221214T22:40:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 180 | 44| 
-| 20221214T19:55:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3242 | 456| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 | 20221214T08:59:33Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 26 | 6| 
-| 20221213T21:05:10Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 520 | 29| 
 
 
 # big4 on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T11:55:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8154 | 1778| 
+| 20221215T11:17:37Z | Replay Ethernet frame from a pcap file and fuzz several positions across multiple frames… | https://github.com/trouat/ReplayNFuzz | 1 | 0| 
+| 20221215T10:24:31Z | Null | https://github.com/JieAnnLeonor/cs345-fuzzy-logic-water-heater | 0 | 0| 
+| 20221215T10:21:29Z | Null | https://github.com/jeje59223/poc-fuzzy-search | 0 | 0| 
+| 20221215T09:52:11Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
+| 20221215T09:07:11Z | A tkinter app to monitor websites and notify you when there is a change. | https://github.com/J-J-B-J/fuzzy-parakeet | 0 | 0| 
 | 20221215T02:47:14Z | Null | https://github.com/wacanrobert/FuzzyLogic | 0 | 0| 
 | 20221215T01:34:05Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 35 | 1| 
 | 20221215T01:16:00Z | Null | https://github.com/Ra-Jay/Fuzzy-Logic | 0 | 0| 
 | 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
-| 20221215T00:11:07Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 0| 
-| 20221215T00:03:17Z | A Tkinter app that notifies you when a website has changed | https://github.com/J-J-B-J/fuzzy-parakeet | 0 | 0| 
-| 20221214T23:58:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 220 | 31| 
-| 20221214T23:37:43Z | Códigos gerados para os trabalhos da disciplina de Sistemas Nebulosos | https://github.com/nsaraiva22/sis_fuzzy | 0 | 0| 
-| 20221214T23:22:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2626 | 179| 
-| 20221214T23:08:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3308 | 391| 
 
 
 
