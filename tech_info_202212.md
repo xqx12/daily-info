@@ -91,6 +91,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221215T02:22:57Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 143 | 14| 
+| 20221215T02:21:29Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4905 | 1677| 
 | 20221215T01:48:00Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 28 | 2| 
 | 20221215T01:11:44Z | GPay balance exploit READ MORE BELOW | https://github.com/ogamiszotp/GPAY-BALANCE-EXPLOIT | 25 | 0| 
 | 20221215T01:10:19Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/hilsontyreu/EclipseWare-Free-Roblox-Exploits-v1.7 | 25 | 0| 
@@ -99,7 +100,6 @@
 | 20221215T00:29:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/flackdopsonu/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221215T00:03:31Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 53 | 28| 
 | 20221215T00:01:48Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 6 | 0| 
-| 20221214T23:50:15Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
 
 
 # backdoor on Github 推荐
