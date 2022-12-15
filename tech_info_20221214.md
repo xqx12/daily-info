@@ -13,6 +13,7 @@
 | 20221214 | 如何通过MS C++中的运行时类型信息（Run-Time Type Information，RTTI）来识别vftables | http://blog.rop.la/en/reversing/2022/12/13/identifying-vftables-through-ms-cpp-rtti.html| 
 | 20221214 | 几种对称加密算法的对比，开发者可根据自己的需求选择合适的加密算法，例如是否需要硬件加速、是否需要使用同一个密钥处理大量消息等 | http://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/| 
 | 20221214 | Tai-e：Java静态分析框架 | https://github.com/pascal-lab/Tai-e| 
+| 20221214 | CVE-2021-43444～43449：onlyoffice插件RCE，攻击无需认证 | http://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/| 
 
 
 # 安全维基 推荐

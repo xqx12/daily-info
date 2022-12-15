@@ -13,6 +13,7 @@
 | 20221214 | 如何通过MS C++中的运行时类型信息（Run-Time Type Information，RTTI）来识别vftables | http://blog.rop.la/en/reversing/2022/12/13/identifying-vftables-through-ms-cpp-rtti.html| 
 | 20221214 | 几种对称加密算法的对比，开发者可根据自己的需求选择合适的加密算法，例如是否需要硬件加速、是否需要使用同一个密钥处理大量消息等 | http://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/| 
 | 20221214 | Tai-e：Java静态分析框架 | https://github.com/pascal-lab/Tai-e| 
+| 20221214 | CVE-2021-43444～43449：onlyoffice插件RCE，攻击无需认证 | http://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/| 
 | 20221213 | 针对Kerberos的新型攻击，主要基于 Golden Ticket攻击进行扩展和改进 | https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/| 
 | 20221213 | 一个开源的keylogger，支持win/lin，且目前可以做到免杀。 | https://github.com/De3vil/KLogger| 
 | 20221213 | 讲述如何对嵌入到vmlinuxz中的文件系统进行patch，这一类文件系统在嵌入式设备中比较常见。 | http://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html| 
@@ -25,7 +26,6 @@
 | 20221213 | 使用KLEE符号执行引擎分析Busybox CVE-2016-2147的漏洞函数 | http://research.nccgroup.com/2022/12/12/klee-for-the-cve/| 
 | 20221213 | AWS ECR Public高危漏洞的发现过程，作者发现了一些不在公开文档中的API操作，攻击者可利用这些API对其他账户的镜像进行删除、更新等操作，进一步进行供应链攻击。 | https://blog.lightspin.io/aws-ecr-public-vulnerability| 
 | 20221212 | RedAlert发布2022 年 10 月月度APT组织的活动总结 | https://redalert.nshc.net/2022/12/09/monthly-threat-actor-group-intelligence-report-october-2022-kor/| 
-| 20221212 | 探索 Chrome CVE-2020-6418 漏洞 – Part1 | http://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1| 
 
 
 # 安全维基 推荐
