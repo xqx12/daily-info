@@ -85,10 +85,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T23:34:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
+| 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
+| 20221214T23:19:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 599 | 110| 
+| 20221214T23:18:16Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 1| 
+| 20221214T23:10:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
+| 20221214T22:40:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 180 | 44| 
+| 20221214T19:55:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3242 | 456| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 | 20221214T08:59:33Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 26 | 6| 
-| 20221214T06:50:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3241 | 456| 
-| 20221214T06:13:03Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 409 | 37| 
 
 
 # big4 on Github 推荐
