@@ -108,7 +108,7 @@
 | 20221214T22:08:50Z | Data cleaning project using Python to merge two datasets that did not have a common key ID variable | https://github.com/cmurphy296/Fuzzy-Matching-and-Merging | 0 | 0| 
 | 20221214T21:10:49Z | Null | https://github.com/lucasnevespereira/heterogram-fuzz-test | 0 | 0| 
 | 20221214T19:24:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 81 | 23| 
-| 20221214T14:23:27Z | 📈 Uptime monitor and status page for iscrdh, powered by @upptime | https://github.com/iscrdh/fuzzy-lamp | 0 | 0| 
+| 20221214T14:59:40Z | Null | https://github.com/kentstephensumalinog/Sumalinog_FuzzyLogic | 0 | 0| 
 
 
 
