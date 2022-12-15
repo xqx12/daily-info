@@ -16,6 +16,7 @@
 | 20221215 | 一个白帽黑客讲述他如何利用简单的工具找到了50多个XSS | https://bugbountyguide.org/2022/12/12/50-cross-site-scripting-xss-vulnerabilities-bugcrowd-public-programs/| 
 | 20221215 | 云计算凭证泄漏后的两个攻击案例：钓鱼和挖矿 | https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://sec.today/pulses/9aeca360-6b1b-43b0-806c-943d31fdf040/| 
+| 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://github.com/deepinstinct/Dirty-Vanity| 
 
 
 # 安全维基 推荐
@@ -55,26 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
+| 20221215T12:45:48Z | PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
+| 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
+| 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
+| 20221215T10:23:06Z | Don%t know where to find good and useful scripts to exploit? try these popular scripts! | https://github.com/RyAtlasX/Roblox_scripts_for_newbie | 0 | 0| 
+| 20221215T07:47:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3859 | 480| 
 | 20221215T02:56:43Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 29 | 2| 
 | 20221215T02:22:57Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 143 | 14| 
 | 20221215T02:21:29Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4905 | 1677| 
-| 20221215T01:11:44Z | GPay balance exploit READ MORE BELOW | https://github.com/ogamiszotp/GPAY-BALANCE-EXPLOIT | 25 | 0| 
-| 20221215T01:10:19Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/hilsontyreu/EclipseWare-Free-Roblox-Exploits-v1.7 | 25 | 0| 
-| 20221215T00:59:39Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 9 | 0| 
-| 20221215T00:32:02Z | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv  | https://github.com/LocalSmail/Finity | 6 | 1| 
-| 20221215T00:29:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/flackdopsonu/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20221215T00:03:31Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 53 | 28| 
-| 20221215T00:01:48Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 6 | 0| 
+| 20221215T01:12:22Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T12:39:11Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1881 | 320| 
+| 20221215T12:24:48Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 1| 
+| 20221215T12:01:50Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 8 | 1| 
+| 20221215T09:15:06Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 0 | 0| 
+| 20221215T09:00:56Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
+| 20221215T06:53:13Z | This C code creates a backdoor on Windows machines, enabling a remote user to access, control, and monitor the device. It includes functions to execute shell commands, create a registry entry to enable autorun, and a keylogger to log the user%s keystrokes. It also hides the malicious activity by hiding the console window. | https://github.com/ChesnoiuCatalin/C-Backdoor | 0 | 0| 
+| 20221215T04:31:09Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
 | 20221215T02:13:17Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 | 20221215T01:15:08Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 2 | 0| 
 | 20221215T01:00:12Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
-| 20221215T00:47:08Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 1 | 0| 
-| 20221215T00:42:11Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 6 | 1| 
 
 
 # symbolic execution on Github 推荐
