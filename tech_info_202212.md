@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T02:24:20Z | Null | https://github.com/wacanrobert/FuzzyLogic | 0 | 0| 
 | 20221215T01:34:05Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 35 | 1| 
 | 20221215T01:16:00Z | Null | https://github.com/Ra-Jay/Fuzzy-Logic | 0 | 0| 
 | 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
@@ -152,7 +153,6 @@
 | 20221214T23:37:43Z | Códigos gerados para os trabalhos da disciplina de Sistemas Nebulosos | https://github.com/nsaraiva22/sis_fuzzy | 0 | 0| 
 | 20221214T23:22:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2626 | 179| 
 | 20221214T23:08:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3308 | 391| 
-| 20221214T23:01:02Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
 
 
 
