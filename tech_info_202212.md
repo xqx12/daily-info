@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221215T02:24:20Z | Null | https://github.com/wacanrobert/FuzzyLogic | 0 | 0| 
+| 20221215T02:47:14Z | Null | https://github.com/wacanrobert/FuzzyLogic | 0 | 0| 
 | 20221215T01:34:05Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 35 | 1| 
 | 20221215T01:16:00Z | Null | https://github.com/Ra-Jay/Fuzzy-Logic | 0 | 0| 
 | 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
