@@ -56,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T13:58:39Z | A PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
 | 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
-| 20221215T12:45:48Z | PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
 | 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
 | 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
 | 20221215T10:23:06Z | Don%t know where to find good and useful scripts to exploit? try these popular scripts! | https://github.com/RyAtlasX/Roblox_scripts_for_newbie | 0 | 0| 
@@ -86,6 +86,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 | 20221215T10:50:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3242 | 457| 
 | 20221215T04:56:15Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 45 | 7| 
 
