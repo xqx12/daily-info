@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:16:00Z | Null | https://github.com/Ra-Jay/Fuzzy-Logic | 0 | 0| 
 | 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
 | 20221215T00:11:07Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 0| 
 | 20221215T00:03:17Z | A Tkinter app that notifies you when a website has changed | https://github.com/J-J-B-J/fuzzy-parakeet | 0 | 0| 
@@ -150,9 +151,8 @@
 | 20221214T23:37:43Z | Códigos gerados para os trabalhos da disciplina de Sistemas Nebulosos | https://github.com/nsaraiva22/sis_fuzzy | 0 | 0| 
 | 20221214T23:22:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2626 | 179| 
 | 20221214T23:01:02Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
-| 20221214T22:37:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1776| 
+| 20221214T22:37:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1777| 
 | 20221214T22:33:48Z | Fuzzing demo based on  | https://github.com/HammadSiddiqui/fuzzing-demo | 0 | 0| 
-| 20221214T22:08:50Z | Data cleaning project using Python to merge two datasets that did not have a common key ID variable | https://github.com/cmurphy296/Fuzzy-Matching-and-Merging | 0 | 0| 
 
 
 
