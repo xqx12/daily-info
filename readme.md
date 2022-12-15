@@ -55,12 +55,12 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221214T23:50:15Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
+| 20221214T23:47:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 148 | 0| 
 | 20221214T23:30:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 66 | 24| 
 | 20221214T23:09:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 49 | 27| 
 | 20221214T22:34:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8I | 1 | 0| 
 | 20221214T22:33:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8I | 1 | 0| 
 | 20221214T22:08:48Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
-| 20221214T13:51:49Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 115 | 11| 
 | 20221214T13:25:54Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 11 | 1| 
 | 20221214T13:22:15Z | Resets the malwarebytes 14 day premium trial by using an exploit with the registry | https://github.com/ilan1009/malwarebytestrialreset | 0 | 0| 
 | 20221214T13:08:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 296 | 63| 
