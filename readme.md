@@ -107,13 +107,13 @@
 | 20221214T23:58:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 220 | 31| 
 | 20221214T23:37:43Z | Códigos gerados para os trabalhos da disciplina de Sistemas Nebulosos | https://github.com/nsaraiva22/sis_fuzzy | 0 | 0| 
 | 20221214T23:22:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2626 | 179| 
+| 20221214T23:08:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3308 | 391| 
 | 20221214T23:01:02Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
 | 20221214T22:37:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1777| 
 | 20221214T22:33:48Z | Fuzzing demo based on  | https://github.com/HammadSiddiqui/fuzzing-demo | 0 | 0| 
 | 20221214T22:08:50Z | Data cleaning project using Python to merge two datasets that did not have a common key ID variable | https://github.com/cmurphy296/Fuzzy-Matching-and-Merging | 0 | 0| 
 | 20221214T21:10:49Z | Null | https://github.com/lucasnevespereira/heterogram-fuzz-test | 0 | 0| 
 | 20221214T19:24:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 81 | 23| 
-| 20221214T14:59:40Z | Null | https://github.com/kentstephensumalinog/Sumalinog_FuzzyLogic | 0 | 0| 
 
 
 
