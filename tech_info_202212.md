@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
+| 20221215T00:33:59Z | CVE-2021-35464 | openam-CVE-2021-35464 tomcat 执行命令回显 | https://github.com/Y4er/openam-CVE-2021-35464 | | 
+| 20221214T22:55:29Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
+| 20221214T22:40:28Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
+| 20221214T20:07:52Z | CVE-2022-46381 | Null | https://github.com/amitlttwo/CVE-2022-46381 | | 
+| 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 
+| 20221214T17:37:27Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
+| 20221214T15:13:37Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 | 20221214T13:53:07Z | cve-2021-36782 | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | https://github.com/fe-ax/tf-cve-2021-36782 | | 
-| 20221214T13:25:54Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T13:20:50Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
-| 20221213T23:24:57Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221213T22:48:38Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/bluewolf2778/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221213T22:48:36Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221213T22:48:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/bluewolf2778/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221213T18:32:23Z | CVE-2022-41272 | Improper access control in SAP NetWeaver Process Integration | https://github.com/redrays-io/CVE-2022-41272 | | 
-| 20221213T16:43:19Z | cve-2022-3786 | Null | https://github.com/plharraud/cve-2022-3786 | | 
-| 20221213T11:19:15Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T22:27:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 50| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 | 20221214T10:57:02Z | mirror from bitbucket kleer-dentist-app | https://github.com/stuzo-services/kleer-dentist-app | 0 | 0| 
 | 20221214T07:58:39Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 5 | 0| 
@@ -70,15 +71,14 @@
 | 20221212T18:14:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9584 | 328| 
 | 20221212T06:25:29Z | Null | https://github.com/pendlirajashekhar/kleeteams | 0 | 0| 
 | 20221211T16:14:44Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 50| 
-| 20221210T16:10:54Z | This is a Music Bot for Discord in javascript. | https://github.com/harryChrist/Klee-MusicBot | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221214T23:59:55Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
 | 20221214T12:59:07Z | s2e-user | https://github.com/kai0722/s2e-user | 0 | 0| 
 | 20221214T11:33:42Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 7 | 2| 
-| 20221214T09:19:10Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 7| 
 | 20221213T06:33:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 17 | 9| 
 | 20221212T05:54:12Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 6| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T13:51:49Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 115 | 11| 
-| 20221214T13:25:54Z | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | 11 | 1| 
-| 20221214T13:22:15Z | Resets the malwarebytes 14 day premium trial by using an exploit with the registry | https://github.com/ilan1009/malwarebytestrialreset | 0 | 0| 
-| 20221214T13:08:14Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 296 | 63| 
-| 20221214T12:56:13Z | CVE-2019-9053 exploit ported to python3 | https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3 | 0 | 0| 
-| 20221214T12:25:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 2 | 0| 
-| 20221214T12:04:35Z | My Roblox exploit UI Library :) | https://github.com/chi0sk/Chi0sk-s-UI-Library | 0 | 0| 
-| 20221214T09:59:53Z | this test for demo exploit in KMA school in VN | https://github.com/Thanhnguyenchl/test_code_ql_thanh_kma | 0 | 0| 
-| 20221214T09:04:50Z | Official code of %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. BMVC, 2022. | https://github.com/guglielmocamporese/relvit | 8 | 2| 
-| 20221214T08:26:40Z | Collection of various types of interesting challenges and solve scripts  | https://github.com/Karpagarajanvikkii/binary-exploitation | 0 | 0| 
+| 20221215T00:59:39Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 9 | 0| 
+| 20221215T00:52:44Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 27 | 2| 
+| 20221215T00:32:02Z | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv  | https://github.com/LocalSmail/Finity | 6 | 1| 
+| 20221215T00:29:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/flackdopsonu/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
+| 20221215T00:06:47Z | GPay balance exploit READ MORE BELOW | https://github.com/ogamiszotp/GPAY-BALANCE-EXPLOIT | 0 | 0| 
+| 20221215T00:01:48Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 6 | 0| 
+| 20221214T23:50:15Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
+| 20221214T23:30:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 66 | 24| 
+| 20221214T23:09:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 49 | 27| 
+| 20221214T22:34:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8I | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:00:12Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
+| 20221215T00:47:08Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 1 | 0| 
+| 20221215T00:42:11Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 6 | 1| 
+| 20221214T23:38:35Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
+| 20221214T23:21:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 98 | 13| 
+| 20221214T22:33:09Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 1 | 0| 
+| 20221214T21:25:12Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 58 | 33| 
+| 20221214T19:29:05Z | This code is a python script that implements a remote control of a computer, using the socket, subprocess and json libraries to establish a connection, execute commands, upload/download files and reliably send and receive data. | https://github.com/ChesnoiuCatalin/Python-Backdoor | 0 | 0| 
 | 20221214T13:46:39Z | Ordinary backdoor for windows | https://github.com/SuperSensAA/BackdoorAA | 0 | 0| 
 | 20221214T13:13:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1865 | 316| 
-| 20221214T13:07:55Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 57 | 33| 
-| 20221214T08:47:12Z | backdoor (beta) | https://github.com/dentlis/linux-backdoor | 0 | 0| 
-| 20221214T01:09:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1164 | 163| 
-| 20221214T00:34:35Z | Ajar Sensor for Backdoor | https://github.com/realraum/usb-ajar | 0 | 0| 
-| 20221213T21:26:34Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 7 | 0| 
-| 20221213T20:46:34Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
-| 20221213T19:38:08Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 293 | 103| 
-| 20221213T08:12:18Z | Backdoor gang | https://github.com/Issekai/stashspot | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T13:38:16Z | Null | https://github.com/EstrellaAbueva/Fuzzy-Logic-Activity | 0 | 0| 
-| 20221214T12:55:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1775| 
-| 20221214T12:48:52Z | Repo for fuzzy logic assignment | https://github.com/Olivein123/PotolinFuzzyLogic | 0 | 0| 
-| 20221214T12:31:44Z | Null | https://github.com/BiggusMaximus/Solar-Tracker-with-Fuzzy-Logic | 0 | 0| 
-| 20221214T11:53:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3310 | 391| 
-| 20221214T11:20:21Z | Null | https://github.com/evangeliazve/fuzzy-engine | 0 | 0| 
-| 20221214T10:57:25Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 35 | 5| 
-| 20221214T10:31:04Z | Null | https://github.com/MrCoderIN/fuzzy-memory | 0 | 0| 
-| 20221214T09:49:35Z | Null | https://github.com/SeanVenz/Quijano_FuzzyLogicActivity | 0 | 0| 
-| 20221214T06:13:28Z | A fuzzy-finder command-line tool for importing terraform resources | https://github.com/paololazzari/fuzzy-terraform-import | 10 | 1| 
+| 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
+| 20221215T00:11:07Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 0| 
+| 20221215T00:03:17Z | A Tkinter app that notifies you when a website has changed | https://github.com/J-J-B-J/fuzzy-parakeet | 0 | 0| 
+| 20221214T23:58:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 220 | 31| 
+| 20221214T23:37:43Z | Códigos gerados para os trabalhos da disciplina de Sistemas Nebulosos | https://github.com/nsaraiva22/sis_fuzzy | 0 | 0| 
+| 20221214T23:22:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2626 | 179| 
+| 20221214T23:01:02Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
+| 20221214T22:37:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8153 | 1776| 
+| 20221214T22:33:48Z | Fuzzing demo based on  | https://github.com/HammadSiddiqui/fuzzing-demo | 0 | 0| 
+| 20221214T22:08:50Z | Data cleaning project using Python to merge two datasets that did not have a common key ID variable | https://github.com/cmurphy296/Fuzzy-Matching-and-Merging | 0 | 0| 
 
 
 
