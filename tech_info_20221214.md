@@ -24,7 +24,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221214T22:55:29Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221214T22:40:28Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T20:07:52Z | CVE-2022-46381 | Null | https://github.com/amitlttwo/CVE-2022-46381 | | 
 | 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 

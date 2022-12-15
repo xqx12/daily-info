@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:34:36Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221215T01:12:58Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 | 20221215T00:33:59Z | CVE-2021-35464 | openam-CVE-2021-35464 tomcat 执行命令回显 | https://github.com/Y4er/openam-CVE-2021-35464 | | 
-| 20221214T22:55:29Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221214T22:40:28Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221214T20:07:52Z | CVE-2022-46381 | Null | https://github.com/amitlttwo/CVE-2022-46381 | | 
 | 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:34:21Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
 | 20221214T22:27:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 50| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 | 20221214T10:57:02Z | mirror from bitbucket kleer-dentist-app | https://github.com/stuzo-services/kleer-dentist-app | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221213T10:14:50Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 48 | 3| 
 | 20221212T18:14:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9584 | 328| 
 | 20221212T06:25:29Z | Null | https://github.com/pendlirajashekhar/kleeteams | 0 | 0| 
-| 20221211T16:14:44Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 50| 
 
 
 # s2e on Github 推荐
