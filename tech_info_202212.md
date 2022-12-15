@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221215T01:59:42Z | CVE-2020-5398 | 💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC | https://github.com/motikan2010/CVE-2020-5398 | | 
 | 20221215T01:34:36Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221215T01:12:58Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
@@ -55,7 +56,6 @@
 | 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 
 | 20221214T17:37:27Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
 | 20221214T15:13:37Z | CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | | 
-| 20221214T13:53:07Z | cve-2021-36782 | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | https://github.com/fe-ax/tf-cve-2021-36782 | | 
 
 
 # klee on Github 推荐
