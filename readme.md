@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T13:14:47Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 243 | 22| 
+| 20221216T13:07:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12451 | 2133| 
 | 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
 | 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
-| 20221216T10:20:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12450 | 2133| 
 | 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
 | 20221216T07:39:51Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 53 | 28| 
 | 20221216T06:35:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
 | 20221216T05:52:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 147| 
 | 20221216T02:36:49Z | Some scripts used in TCM securitys Practical Ethical hacking course for learning how to find and write buffer overflow exploits. | https://github.com/adamwp1993/Intro2BufferOverflow | 0 | 0| 
 | 20221216T02:13:28Z | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
-| 20221216T01:51:12Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 
 
 # backdoor on Github 推荐
