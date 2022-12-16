@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T00:56:11Z | Automated exploit scanner for cameras on the internet. | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
+| 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
 | 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
 | 20221215T20:11:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2d | 1 | 0| 
 | 20221215T19:18:55Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 329 | 46| 
