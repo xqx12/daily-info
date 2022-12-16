@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T01:42:56Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 | 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
 | 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
 | 20221215T20:11:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2d | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
 | 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
 | 20221215T10:23:06Z | Don%t know where to find good and useful scripts to exploit? try these popular scripts! | https://github.com/RyAtlasX/Roblox_scripts_for_newbie | 0 | 0| 
-| 20221215T07:47:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3859 | 480| 
 
 
 # backdoor on Github 推荐
