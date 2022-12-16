@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:23:23Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221216T13:31:58Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221216T11:44:36Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
 | 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
