@@ -18,6 +18,7 @@
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://sec.today/pulses/9aeca360-6b1b-43b0-806c-943d31fdf040/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://github.com/deepinstinct/Dirty-Vanity| 
 | 20221215 | 收集了一些典型的以太坊智能合约漏洞和利用脚本 | https://github.com/coinspect/learn-evm-attacks| 
+| 20221215 | Ghidra Native pcode 模拟器 | https://github.com/Nalen98/GhidraEmu| 
 
 
 # 安全维基 推荐
