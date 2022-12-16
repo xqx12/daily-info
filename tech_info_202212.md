@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T02:35:02Z | Some scripts used in TCM securitys Practical Ethical hacking course for learning how to find and write buffer overflow exploits. | https://github.com/adamwp1993/Intro2BufferOverflow | 0 | 0| 
 | 20221216T02:13:28Z | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
 | 20221216T01:51:12Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 | 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20221215T13:58:39Z | A PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
 | 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
 | 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
-| 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
 
 
 # backdoor on Github 推荐
