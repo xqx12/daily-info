@@ -34,35 +34,35 @@
 | 20221215 | 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA| 
 | 20221215 | EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA| 
 | 20221215 | 电力行业网络安全等级保护管理办法 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA| 
+| 20221215 | 全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw| 
 | 20221214 | SPEL注入流程分析及CTF中如何使用 | https://sec-in.com/article/1988| 
 | 20221213 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF| 
 | 20221212 | 针对释放后重用漏洞的自动化分析和修复 | https://www.bilibili.com/video/BV1UK411671w/| 
 | 20221212 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | 20221212 | 软件开发安全应用实践中的十个误区 | https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA| 
 | 20221212 | Shell中的幽灵王者—JAVAWEB 内存马 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ| 
-| 20221212 | SecWiki周刊（第458期) | https://www.sec-wiki.com/weekly/458| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221216T00:44:53Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
+| 20221216T00:41:28Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221215T12:21:12Z | CVE-2022-43680 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680 | | 
 | 20221215T10:11:41Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221215T04:55:56Z | CVE-2020-0796 | CVE-2020-0796-利用工具 | https://github.com/TweatherQ/CVE-2020-0796 | | 
 | 20221215T01:59:42Z | CVE-2020-5398 | 💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC | https://github.com/motikan2010/CVE-2020-5398 | | 
-| 20221215T01:34:36Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221215T01:12:58Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 | 20221215T00:33:59Z | CVE-2021-35464 | openam-CVE-2021-35464 tomcat 执行命令回显 | https://github.com/Y4er/openam-CVE-2021-35464 | | 
 | 20221214T20:07:52Z | CVE-2022-46381 | Null | https://github.com/amitlttwo/CVE-2022-46381 | | 
-| 20221214T20:05:18Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T22:05:54Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 51 | 3| 
 | 20221215T11:56:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
-| 20221215T09:00:52Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 49 | 3| 
 | 20221215T01:34:21Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
 | 20221214T22:27:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 50| 
 | 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T00:56:11Z | Automated exploit scanner for cameras on the internet. | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
+| 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
+| 20221215T20:11:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2d | 1 | 0| 
+| 20221215T19:18:55Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 329 | 46| 
 | 20221215T13:58:39Z | A PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
 | 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
 | 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
 | 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
 | 20221215T10:23:06Z | Don%t know where to find good and useful scripts to exploit? try these popular scripts! | https://github.com/RyAtlasX/Roblox_scripts_for_newbie | 0 | 0| 
 | 20221215T07:47:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3859 | 480| 
-| 20221215T02:56:43Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 29 | 2| 
-| 20221215T02:22:57Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 143 | 14| 
-| 20221215T02:21:29Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4905 | 1677| 
-| 20221215T01:12:22Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221215T13:23:05Z | Null | https://github.com/mherzog4/backdoor | 0 | 0| 
-| 20221215T13:14:51Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1882 | 320| 
+| 20221215T23:10:00Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1890 | 322| 
+| 20221215T18:16:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 99 | 13| 
+| 20221215T16:34:54Z | developed a server and a payload to communicate commands with the target  utilized reverse shells, ports, IP addresses, Python Sockets, and Compiling Python to EXE | https://github.com/mherzog4/backdoor | 0 | 0| 
+| 20221215T16:22:51Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
 | 20221215T12:24:48Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 1| 
 | 20221215T12:01:50Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 8 | 1| 
 | 20221215T09:15:06Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 0 | 0| 
-| 20221215T09:00:56Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
 | 20221215T06:53:13Z | This C code creates a backdoor on Windows machines, enabling a remote user to access, control, and monitor the device. It includes functions to execute shell commands, create a registry entry to enable autorun, and a keylogger to log the user%s keystrokes. It also hides the malicious activity by hiding the console window. | https://github.com/ChesnoiuCatalin/C-Backdoor | 0 | 0| 
 | 20221215T04:31:09Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
 | 20221215T02:13:17Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
-| 20221215T01:15:08Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221215T23:41:21Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
+| 20221215T22:52:26Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
+| 20221215T22:07:53Z | This is testing!! I will try and create a %fuzzy-telegram% (It was suggested by Github). | https://github.com/MaskedMatters3/fuzzy-telegram | 0 | 0| 
+| 20221215T21:46:59Z | Fuzzer-FE - Generic Social Media front-end project using React and TS | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
+| 20221215T21:07:52Z | MATLAB code to calculate Fuzzy Kappa (Hagen-Zanker, 2009) | https://github.com/ahhz/fuzzy_kappa_matlab | 0 | 0| 
+| 20221215T12:56:51Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 207| 
 | 20221215T11:55:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8154 | 1778| 
 | 20221215T11:17:37Z | Replay Ethernet frame from a pcap file and fuzz several positions across multiple frames… | https://github.com/trouat/ReplayNFuzz | 1 | 0| 
 | 20221215T10:24:31Z | Null | https://github.com/JieAnnLeonor/cs345-fuzzy-logic-water-heater | 0 | 0| 
 | 20221215T10:21:29Z | Null | https://github.com/jeje59223/poc-fuzzy-search | 0 | 0| 
-| 20221215T09:52:11Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
-| 20221215T09:07:11Z | A tkinter app to monitor websites and notify you when there is a change. | https://github.com/J-J-B-J/fuzzy-parakeet | 0 | 0| 
-| 20221215T02:47:14Z | Null | https://github.com/wacanrobert/FuzzyLogic | 0 | 0| 
-| 20221215T01:34:05Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 35 | 1| 
-| 20221215T01:16:00Z | Null | https://github.com/Ra-Jay/Fuzzy-Logic | 0 | 0| 
-| 20221215T00:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 131 | 9| 
 
 
 
