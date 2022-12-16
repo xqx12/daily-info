@@ -17,6 +17,7 @@
 | 20221215 | 云计算凭证泄漏后的两个攻击案例：钓鱼和挖矿 | https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://sec.today/pulses/9aeca360-6b1b-43b0-806c-943d31fdf040/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://github.com/deepinstinct/Dirty-Vanity| 
+| 20221215 | 收集了一些典型的以太坊智能合约漏洞和利用脚本 | https://github.com/coinspect/learn-evm-attacks| 
 
 
 # 安全维基 推荐

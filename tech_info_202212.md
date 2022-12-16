@@ -17,6 +17,7 @@
 | 20221215 | 云计算凭证泄漏后的两个攻击案例：钓鱼和挖矿 | https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://sec.today/pulses/9aeca360-6b1b-43b0-806c-943d31fdf040/| 
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://github.com/deepinstinct/Dirty-Vanity| 
+| 20221215 | 收集了一些典型的以太坊智能合约漏洞和利用脚本 | https://github.com/coinspect/learn-evm-attacks| 
 | 20221214 | Linux kernel中__nfs42_ssc_open的UAF漏洞，由于未能正确处理nfs42_ssc_open错误返回的情况造成UAF | http://seclists.org/oss-sec/2022/q4/185| 
 | 20221214 | 介绍自GPT-3到现在的chatGPT，都经历了哪些技术改进 | https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1| 
 | 20221214 | ”谷歌版阿图因“发布：可自动查找开源项目中的第三方依赖库并扫描这些依赖库中是否存在已知漏洞 | https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html| 
@@ -25,7 +26,6 @@
 | 20221214 | 几种对称加密算法的对比，开发者可根据自己的需求选择合适的加密算法，例如是否需要硬件加速、是否需要使用同一个密钥处理大量消息等 | http://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/| 
 | 20221214 | Tai-e：Java静态分析框架 | https://github.com/pascal-lab/Tai-e| 
 | 20221214 | CVE-2021-43444～43449：onlyoffice插件RCE，攻击无需认证 | http://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/| 
-| 20221213 | 针对Kerberos的新型攻击，主要基于 Golden Ticket攻击进行扩展和改进 | https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/| 
 
 
 # 安全维基 推荐
