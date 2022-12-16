@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T02:12:56Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
 | 20221216T01:51:12Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 | 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
 | 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
@@ -99,7 +100,6 @@
 | 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
 | 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
 | 20221215T11:25:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12447 | 2133| 
-| 20221215T10:23:06Z | Don%t know where to find good and useful scripts to exploit? try these popular scripts! | https://github.com/RyAtlasX/Roblox_scripts_for_newbie | 0 | 0| 
 
 
 # backdoor on Github 推荐
