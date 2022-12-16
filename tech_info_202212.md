@@ -143,10 +143,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221216T01:39:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8155 | 1779| 
 | 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
 | 20221215T23:41:21Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
-| 20221215T22:52:26Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221215T22:07:53Z | This is testing!! I will try and create a %fuzzy-telegram% (It was suggested by Github). | https://github.com/MaskedMatters3/fuzzy-telegram | 0 | 0| 
 | 20221215T21:46:59Z | Fuzzer-FE - Generic Social Media front-end project using React and TS | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
 | 20221215T21:07:52Z | MATLAB code to calculate Fuzzy Kappa (Hagen-Zanker, 2009) | https://github.com/ahhz/fuzzy_kappa_matlab | 0 | 0| 
