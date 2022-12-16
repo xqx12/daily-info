@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221216T12:46:46Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221216T13:23:23Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221216T11:44:36Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
 | 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
@@ -143,13 +143,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1779| 
 | 20221216T11:16:05Z | Null | https://github.com/jguillaumesio/fuzzy-guide | 0 | 0| 
 | 20221216T10:54:15Z | Codebeispiele zum Softwerker-Artikel %Fuzz Testing und Benchmarking in Go% | https://github.com/i78/softwerker-go-fuzzing-benchmarking | 0 | 0| 
 | 20221216T10:35:29Z | Esto es una prueba | https://github.com/JuanmaDeveloper/fuzzy-broccoli | 0 | 0| 
 | 20221216T09:10:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4480 | 1086| 
 | 20221216T08:44:25Z | Null | https://github.com/Bob-Kyle-Rosales/FuzzyLogic | 0 | 0| 
 | 20221216T05:26:13Z | Null | https://github.com/HardelleBriones/BrionesFuzzyLogic | 0 | 0| 
-| 20221216T02:38:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8156 | 1779| 
 | 20221216T02:10:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
 | 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
