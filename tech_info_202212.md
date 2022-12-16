@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T01:42:56Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
+| 20221216T01:48:36Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 | 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
 | 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
 | 20221215T20:11:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2d | 1 | 0| 
