@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T02:12:56Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
+| 20221216T02:13:28Z | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
 | 20221216T01:51:12Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
 | 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
 | 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
