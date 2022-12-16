@@ -120,12 +120,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T10:20:48Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 600 | 110| 
 | 20221215T14:02:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3243 | 457| 
 | 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 | 20221215T04:56:15Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 45 | 7| 
 | 20221214T23:34:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
-| 20221214T23:19:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 599 | 110| 
 | 20221214T23:18:16Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 1| 
 | 20221214T23:10:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
 | 20221214T22:40:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 180 | 44| 
