@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221216 | 一个利用文件包含漏洞的教程 | https://infosecwriteups.com/how-to-exploit-file-inclusion-vulnerabilities-a-beginners-introduction-stackzero-a55267b5fafb?gi=79d58db6233c&source=rss----7b722bfd1b8d---4| 
+| 20221216 | Foxit PDF Reader UAF漏洞分析和RCE利用。 | http://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672| 
+| 20221216 | 一个讲文件格式hacking的PPT，比如如何构造一个同时是图片和Jar的文件 | https://speakerdeck.com/ange/technical-challenges-with-file-formats| 
+| 20221216 | 一个APIKey的数据集，标记了市面上常见API厂商的APIkey的正则，这个数据集还附带一个小工具：输入一个APIKey，通过正则匹配获取这个APIKey可能属于的API厂商。 | https://github.com/daffainfo/all-about-apikey| 
+| 20221216 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451| 
+| 20221216 | Team82团队发现并利用 CVE-2022-1361 SQLi漏洞的详情。在研究过程中发现一种利用数据库JSON特性来绕过WAF中常用的SQL语法黑名单的攻击手法，并在多款WAF上发现了这一问题，最终也将该方法加入到最新版本的SQLMap工具中。 | http://okt.to/2Nm4F9| 
+| 20221216 | 提供了CVE-2022-41050的POC，影响Windows 8及以上版本，且易于利用 | http://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/| 
 | 20221215 | BSL2022关于如何在windows下使用rootkits进行进程隐藏等恶意行为的演讲视频 | https://www.youtube.com/watch?v=GM9WQMrSkWk&feature=youtu.be| 
 | 20221215 | Linux 内核蓝牙模块 ”net/bluetooth/l2cap_core.c“ 中的 l2cap_parse_conf_req 函数存在信息泄露漏洞，可远程泄露内核指针 | http://seclists.org/oss-sec/2022/q4/190| 
 | 20221215 | Ruby on Rails 的 Rails::Html::SafeListSanitizer 过滤器中某些 tag 可被绕过，可导致 XSS 攻击 | https://hackerone.com/reports/1656627| 
@@ -19,18 +26,13 @@
 | 20221215 | 一个利用RtlCreateProcessReflection（相当于windows的fork）来进行shellcode注入的工具，可用于绕过edr检测，有同名的Black Hat Europe 2022议题 | https://github.com/deepinstinct/Dirty-Vanity| 
 | 20221215 | 收集了一些典型的以太坊智能合约漏洞和利用脚本 | https://github.com/coinspect/learn-evm-attacks| 
 | 20221215 | Ghidra Native pcode 模拟器 | https://github.com/Nalen98/GhidraEmu| 
-| 20221214 | Linux kernel中__nfs42_ssc_open的UAF漏洞，由于未能正确处理nfs42_ssc_open错误返回的情况造成UAF | http://seclists.org/oss-sec/2022/q4/185| 
-| 20221214 | 介绍自GPT-3到现在的chatGPT，都经历了哪些技术改进 | https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1| 
-| 20221214 | ”谷歌版阿图因“发布：可自动查找开源项目中的第三方依赖库并扫描这些依赖库中是否存在已知漏洞 | https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html| 
-| 20221214 | Ruby的URI解析库披露一个漏洞，可使用“http:////xxx.xxx/xxx”格式使解析出来的host为空，进而帮助绕过各类host检查条件 | https://hackerone.com/reports/156615| 
-| 20221214 | 如何通过MS C++中的运行时类型信息（Run-Time Type Information，RTTI）来识别vftables | http://blog.rop.la/en/reversing/2022/12/13/identifying-vftables-through-ms-cpp-rtti.html| 
-| 20221214 | 几种对称加密算法的对比，开发者可根据自己的需求选择合适的加密算法，例如是否需要硬件加速、是否需要使用同一个密钥处理大量消息等 | http://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/| 
-| 20221214 | Tai-e：Java静态分析框架 | https://github.com/pascal-lab/Tai-e| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221216 | DarkAngel: 一款全自动白帽漏洞扫描器 | https://github.com/Bywalks/DarkAngel| 
+| 20221216 | Project Achilles：使用 RNN 对 Java 源代码进行静态漏洞检测... | https://mp.weixin.qq.com/s/U0sZwPc5otIg1-amv12BEg| 
 | 20221215 | 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA| 
 | 20221215 | EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA| 
 | 20221215 | 电力行业网络安全等级保护管理办法 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA| 
@@ -39,23 +41,21 @@
 | 20221213 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF| 
 | 20221212 | 针对释放后重用漏洞的自动化分析和修复 | https://www.bilibili.com/video/BV1UK411671w/| 
 | 20221212 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
-| 20221212 | 软件开发安全应用实践中的十个误区 | https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA| 
-| 20221212 | Shell中的幽灵王者—JAVAWEB 内存马 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221216T12:46:46Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221216T11:44:36Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
+| 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
+| 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
+| 20221216T06:36:44Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
+| 20221216T05:49:42Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
+| 20221216T03:57:33Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20221216T01:57:01Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221216T00:44:53Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
-| 20221216T00:41:28Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221215T12:21:12Z | CVE-2022-43680 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680 | | 
-| 20221215T10:11:41Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20221215T04:55:56Z | CVE-2020-0796 | CVE-2020-0796-利用工具 | https://github.com/TweatherQ/CVE-2020-0796 | | 
-| 20221215T01:59:42Z | CVE-2020-5398 | 💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC | https://github.com/motikan2010/CVE-2020-5398 | | 
-| 20221215T01:12:58Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
-| 20221215T00:36:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
-| 20221215T00:33:59Z | CVE-2021-35464 | openam-CVE-2021-35464 tomcat 执行命令回显 | https://github.com/Y4er/openam-CVE-2021-35464 | | 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221214T23:59:55Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
+| 20221216T09:26:28Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
 | 20221214T12:59:07Z | s2e-user | https://github.com/kai0722/s2e-user | 0 | 0| 
 | 20221214T11:33:42Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 7 | 2| 
 | 20221213T06:33:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 17 | 9| 
@@ -90,22 +90,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
+| 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
+| 20221216T10:20:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12450 | 2133| 
+| 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
+| 20221216T07:39:51Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 53 | 28| 
+| 20221216T06:35:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
+| 20221216T05:52:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 147| 
 | 20221216T02:36:49Z | Some scripts used in TCM securitys Practical Ethical hacking course for learning how to find and write buffer overflow exploits. | https://github.com/adamwp1993/Intro2BufferOverflow | 0 | 0| 
 | 20221216T02:13:28Z | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
 | 20221216T01:51:12Z | Website for the school chromebook DNS exploit. | https://github.com/BrianWalczak/BriansDNS | 0 | 0| 
-| 20221216T01:03:28Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 1 | 0| 
-| 20221215T23:03:04Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 13 | 20| 
-| 20221215T20:11:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2d | 1 | 0| 
-| 20221215T19:18:55Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 329 | 46| 
-| 20221215T13:58:39Z | A PoC exploit for CVE-2012-2982 implemented in Rust | https://github.com/0xTas/CVE-2012-2982 | 0 | 0| 
-| 20221215T12:59:17Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 391 | 40| 
-| 20221215T12:45:37Z | My notes and exploits for exercises in Binary Exploitation | https://github.com/KooroshRZ/Binary-Exploit-Reading | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221215T23:10:00Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1890 | 322| 
+| 20221216T12:35:20Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1898 | 323| 
 | 20221215T18:16:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 99 | 13| 
 | 20221215T16:34:54Z | developed a server and a payload to communicate commands with the target  utilized reverse shells, ports, IP addresses, Python Sockets, and Compiling Python to EXE | https://github.com/mherzog4/backdoor | 0 | 0| 
 | 20221215T16:22:51Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T11:16:05Z | Null | https://github.com/jguillaumesio/fuzzy-guide | 0 | 0| 
+| 20221216T10:54:15Z | Codebeispiele zum Softwerker-Artikel %Fuzz Testing und Benchmarking in Go% | https://github.com/i78/softwerker-go-fuzzing-benchmarking | 0 | 0| 
+| 20221216T10:35:29Z | Esto es una prueba | https://github.com/JuanmaDeveloper/fuzzy-broccoli | 0 | 0| 
+| 20221216T09:10:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4480 | 1086| 
+| 20221216T08:44:25Z | Null | https://github.com/Bob-Kyle-Rosales/FuzzyLogic | 0 | 0| 
+| 20221216T05:26:13Z | Null | https://github.com/HardelleBriones/BrionesFuzzyLogic | 0 | 0| 
 | 20221216T02:38:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8156 | 1779| 
 | 20221216T02:10:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
 | 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
-| 20221215T23:41:21Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
-| 20221215T22:07:53Z | This is testing!! I will try and create a %fuzzy-telegram% (It was suggested by Github). | https://github.com/MaskedMatters3/fuzzy-telegram | 0 | 0| 
-| 20221215T21:46:59Z | Fuzzer-FE - Generic Social Media front-end project using React and TS | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
-| 20221215T21:07:52Z | MATLAB code to calculate Fuzzy Kappa (Hagen-Zanker, 2009) | https://github.com/ahhz/fuzzy_kappa_matlab | 0 | 0| 
-| 20221215T12:56:51Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 207| 
-| 20221215T11:17:37Z | Replay Ethernet frame from a pcap file and fuzz several positions across multiple frames… | https://github.com/trouat/ReplayNFuzz | 1 | 0| 
 
 
 
