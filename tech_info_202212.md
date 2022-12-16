@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T02:10:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
 | 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221216T01:39:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8155 | 1779| 
 | 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
@@ -152,7 +153,6 @@
 | 20221215T21:07:52Z | MATLAB code to calculate Fuzzy Kappa (Hagen-Zanker, 2009) | https://github.com/ahhz/fuzzy_kappa_matlab | 0 | 0| 
 | 20221215T12:56:51Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1819 | 207| 
 | 20221215T11:17:37Z | Replay Ethernet frame from a pcap file and fuzz several positions across multiple frames… | https://github.com/trouat/ReplayNFuzz | 1 | 0| 
-| 20221215T10:24:31Z | Null | https://github.com/JieAnnLeonor/cs345-fuzzy-logic-water-heater | 0 | 0| 
 
 
 
