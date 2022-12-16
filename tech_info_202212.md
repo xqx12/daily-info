@@ -95,11 +95,11 @@
 | 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
 | 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
 | 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
+| 20221216T08:56:39Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4907 | 1677| 
 | 20221216T07:39:51Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 53 | 28| 
 | 20221216T06:35:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
 | 20221216T05:52:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 147| 
 | 20221216T02:36:49Z | Some scripts used in TCM securitys Practical Ethical hacking course for learning how to find and write buffer overflow exploits. | https://github.com/adamwp1993/Intro2BufferOverflow | 0 | 0| 
-| 20221216T02:13:28Z | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | 0 | 0| 
 
 
 # backdoor on Github 推荐
