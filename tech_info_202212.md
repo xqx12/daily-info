@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
 | 20221215T23:41:21Z | Some of my developed fuzzers. | https://github.com/theopechli/fuzzers | 0 | 0| 
 | 20221215T22:52:26Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
 | 20221215T22:07:53Z | This is testing!! I will try and create a %fuzzy-telegram% (It was suggested by Github). | https://github.com/MaskedMatters3/fuzzy-telegram | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20221215T11:55:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8154 | 1778| 
 | 20221215T11:17:37Z | Replay Ethernet frame from a pcap file and fuzz several positions across multiple frames… | https://github.com/trouat/ReplayNFuzz | 1 | 0| 
 | 20221215T10:24:31Z | Null | https://github.com/JieAnnLeonor/cs345-fuzzy-logic-water-heater | 0 | 0| 
-| 20221215T10:21:29Z | Null | https://github.com/jeje59223/poc-fuzzy-search | 0 | 0| 
 
 
 
