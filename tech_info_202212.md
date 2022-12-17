@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221217T01:57:28Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
+| 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
 | 20221217T01:34:36Z | Null | https://github.com/danielliem49/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20221217T00:32:37Z | Null | https://github.com/yousefadam/Fuzzy-Logic | 0 | 0| 
 | 20221216T23:32:56Z | Null | https://github.com/ramzizrt/fuzzy-tribble | 0 | 0| 
