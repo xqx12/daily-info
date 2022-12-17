@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T02:59:48Z | Null | https://github.com/genesis-sk/fuzzy-waddle.github.io | 1 | 0| 
 | 20221217T02:45:41Z | patch ExANE for Fuzz | https://github.com/X1aoR0/ExANE_Fuzz | 0 | 0| 
 | 20221217T02:36:40Z | This is a repo that contains some modifications to the code found in the LibAFL official GitHub repo | https://github.com/Rabin-Verilog/fuzzers | 0 | 0| 
 | 20221217T02:28:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8159 | 1780| 
@@ -152,7 +153,6 @@
 | 20221216T23:32:56Z | Null | https://github.com/ramzizrt/fuzzy-tribble | 0 | 0| 
 | 20221216T22:19:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 490 | 62| 
 | 20221216T22:06:59Z | Null | https://github.com/owenj12/fuzzy-giggle | 0 | 0| 
-| 20221216T19:02:03Z | just some utilities to do very basic fuzzing of coreutils | https://github.com/file-citas/coreutils_fuzz | 0 | 0| 
 
 
 
