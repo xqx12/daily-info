@@ -93,10 +93,10 @@
 | 20221216T19:02:03Z | just some utilities to do very basic fuzzing of coreutils | https://github.com/file-citas/coreutils_fuzz | 0 | 0| 
 | 20221216T14:13:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3309 | 393| 
 | 20221216T13:37:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 83 | 23| 
-| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1780| 
 | 20221216T11:16:05Z | Null | https://github.com/jguillaumesio/fuzzy-guide | 0 | 0| 
 | 20221216T10:54:15Z | Codebeispiele zum Softwerker-Artikel %Fuzz Testing und Benchmarking in Go% | https://github.com/i78/softwerker-go-fuzzing-benchmarking | 0 | 0| 
 | 20221216T10:35:29Z | Esto es una prueba | https://github.com/JuanmaDeveloper/fuzzy-broccoli | 0 | 0| 
+| 20221216T09:10:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4480 | 1086| 
 
 
 
