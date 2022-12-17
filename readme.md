@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221217T13:45:46Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221217T13:40:05Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221217T07:30:53Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221217T01:21:31Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
