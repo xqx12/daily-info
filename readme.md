@@ -77,7 +77,6 @@
 | 20221216T21:26:43Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 521 | 30| 
 | 20221216T17:46:13Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 46 | 7| 
 | 20221216T17:04:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
-| 20221216T13:27:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 601 | 110| 
 
 
 # big4 on Github 推荐
