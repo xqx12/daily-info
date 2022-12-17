@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:58:36Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 247 | 22| 
+| 20221217T00:50:53Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 287 | 22| 
+| 20221216T20:26:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
+| 20221216T20:07:03Z | A collection of hacks, bookmarklets, games and proxies. | https://github.com/NewTab1/ExploitsForMiddleSchoolers | 0 | 0| 
+| 20221216T19:42:09Z | Null | https://github.com/Mehedi-Babu/RouterSploit-Exploitation-Framework | 0 | 0| 
+| 20221216T16:57:27Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2150 | 395| 
 | 20221216T13:07:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12451 | 2133| 
 | 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
 | 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
 | 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
 | 20221216T08:56:39Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4907 | 1677| 
-| 20221216T07:39:51Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 53 | 28| 
-| 20221216T06:35:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
-| 20221216T05:52:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 147| 
-| 20221216T05:02:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3863 | 480| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T21:26:43Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 521 | 30| 
+| 20221216T17:46:13Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 46 | 7| 
+| 20221216T17:04:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
 | 20221216T13:27:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 601 | 110| 
 | 20221215T14:02:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3243 | 457| 
 | 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
-| 20221215T04:56:15Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 45 | 7| 
 | 20221214T23:34:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
 | 20221214T23:18:16Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 1| 
 | 20221214T23:10:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
-| 20221214T22:40:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 180 | 44| 
-| 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 
 
 # big4 on Github 推荐
