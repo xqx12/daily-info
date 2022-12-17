@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221217T12:14:55Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221217T07:30:53Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221217T01:21:31Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
-| 20221216T23:54:14Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221216T20:30:57Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/LivingFree8/CVE-2022-41082-RCE-POC | | 
 | 20221216T16:18:29Z | CVE-2022-46169 | CVE-2022-46169 - Cacti Blind Remote Code Execution (Pre-Auth) | https://github.com/taythebot/CVE-2022-46169 | | 
 | 20221216T16:16:06Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
 | 20221216T16:02:09Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221216T14:39:01Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
-| 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221216T06:36:44Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T08:41:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
 | 20221216T19:37:55Z | klee44 | https://github.com/klee718/klee44 | 0 | 0| 
-| 20221216T17:04:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
 | 20221215T22:05:54Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 51 | 3| 
 | 20221215T11:56:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
 | 20221215T01:34:21Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
@@ -76,12 +76,12 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T09:41:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 278 | 66| 
 | 20221216T09:26:28Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
 | 20221214T12:59:07Z | s2e-user | https://github.com/kai0722/s2e-user | 0 | 0| 
 | 20221214T11:33:42Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 7 | 2| 
 | 20221213T06:33:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 17 | 9| 
 | 20221212T05:54:12Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 6| 
-| 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
 | 20221205T08:13:33Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 84 | 45| 
 | 20221204T02:10:12Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 3 | 1| 
 | 20221201T07:39:12Z | S2erial_TcpServer_Long | https://github.com/liukai007/S2erial_TcpServer_Long | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T11:09:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5129 | 715| 
+| 20221217T08:43:37Z | Null | https://github.com/devl00p/exploits | 0 | 0| 
+| 20221217T08:01:03Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
+| 20221217T08:00:57Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
+| 20221217T06:53:24Z | This program tests for an XSS vulnerability by sending a request to a URL with a payload that is designed to exploit an XSS vulnerability, if one exists. | https://github.com/jadanmorrow/xss_vulnerability | 0 | 0| 
 | 20221217T02:19:18Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 292 | 22| 
 | 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
+| 20221216T23:39:19Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 54 | 28| 
 | 20221216T20:26:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
-| 20221216T20:07:03Z | A collection of hacks, bookmarklets, games and proxies. | https://github.com/NewTab1/ExploitsForMiddleSchoolers | 0 | 0| 
-| 20221216T19:42:09Z | Null | https://github.com/Mehedi-Babu/RouterSploit-Exploitation-Framework | 0 | 0| 
-| 20221216T16:57:27Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2150 | 395| 
-| 20221216T13:07:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12451 | 2133| 
-| 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
-| 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
-| 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
+| 20221216T20:25:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12455 | 2136| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T21:54:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1905 | 324| 
+| 20221217T12:52:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1434 | 577| 
+| 20221217T12:50:26Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1913 | 326| 
+| 20221217T10:59:56Z | backdoor, trojan, fatrat, rat, antivirus, hacking | https://github.com/qetuo975/Backdoor | 0 | 0| 
+| 20221217T06:12:28Z | Null | https://github.com/kunalkashyap855/defending-against-data-poisoning-and-backdoor-attacks | 0 | 0| 
+| 20221217T04:35:31Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221215T18:16:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 99 | 13| 
 | 20221215T16:34:54Z | developed a server and a payload to communicate commands with the target  utilized reverse shells, ports, IP addresses, Python Sockets, and Compiling Python to EXE | https://github.com/mherzog4/backdoor | 0 | 0| 
 | 20221215T16:22:51Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
-| 20221215T13:47:37Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 | 20221215T12:24:48Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 1| 
 | 20221215T12:01:50Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 8 | 1| 
-| 20221215T09:15:06Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 0 | 0| 
-| 20221215T06:53:13Z | This C code creates a backdoor on Windows machines, enabling a remote user to access, control, and monitor the device. It includes functions to execute shell commands, create a registry entry to enable autorun, and a keylogger to log the user%s keystrokes. It also hides the malicious activity by hiding the console window. | https://github.com/ChesnoiuCatalin/C-Backdoor | 0 | 0| 
-| 20221215T04:31:09Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T10:58:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 491 | 62| 
+| 20221217T08:03:29Z | A hypervisor/virtual machine monitor (VMM) fuzzer. | https://github.com/rcvalle/vmmfuzzer | 0 | 0| 
+| 20221217T08:02:15Z | A fuzzy logic energy system featuring rule generation with decision trees. The rule base was optimized with a hybrid feature selector. The system was applied on residential energy data for appliance consumption as a case study. | https://github.com/dimkonto/Fuzzy-Energy-System | 2 | 0| 
+| 20221217T07:45:03Z | 文件上传字典-轻量化 | https://github.com/tyB-or/upload_dict_fuzz | 11 | 2| 
+| 20221217T07:28:13Z | Null | https://github.com/dtclai/fuzzycrisp | 0 | 0| 
+| 20221217T04:30:41Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 1 | 0| 
+| 20221217T04:17:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3310 | 393| 
 | 20221217T02:59:48Z | Null | https://github.com/genesis-sk/fuzzy-waddle.github.io | 1 | 0| 
 | 20221217T02:45:41Z | patch ExANE for Fuzz | https://github.com/X1aoR0/ExANE_Fuzz | 0 | 0| 
 | 20221217T02:36:40Z | This is a repo that contains some modifications to the code found in the LibAFL official GitHub repo | https://github.com/Rabin-Verilog/fuzzers | 0 | 0| 
-| 20221217T02:28:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8159 | 1780| 
-| 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
-| 20221217T01:34:36Z | Null | https://github.com/danielliem49/fuzzy-octo-rotary-phone | 0 | 0| 
-| 20221217T00:32:37Z | Null | https://github.com/yousefadam/Fuzzy-Logic | 0 | 0| 
-| 20221216T23:32:56Z | Null | https://github.com/ramzizrt/fuzzy-tribble | 0 | 0| 
-| 20221216T22:19:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 490 | 62| 
-| 20221216T22:06:59Z | Null | https://github.com/owenj12/fuzzy-giggle | 0 | 0| 
 
 
 
