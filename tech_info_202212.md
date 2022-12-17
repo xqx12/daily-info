@@ -143,9 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T02:45:41Z | patch ExANE for Fuzz | https://github.com/X1aoR0/ExANE_Fuzz | 0 | 0| 
 | 20221217T02:36:40Z | This is a repo that contains some modifications to the code found in the LibAFL official GitHub repo | https://github.com/Rabin-Verilog/fuzzers | 0 | 0| 
 | 20221217T02:28:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8159 | 1780| 
-| 20221217T02:24:33Z | patch ExANE for Fuzz | https://github.com/X1aoR0/ExANE_Fuzz | 0 | 0| 
 | 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
 | 20221217T01:34:36Z | Null | https://github.com/danielliem49/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20221217T00:32:37Z | Null | https://github.com/yousefadam/Fuzzy-Logic | 0 | 0| 
