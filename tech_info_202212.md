@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T02:36:40Z | This is a repo that contains some modifications to the code found in the LibAFL official GitHub repo | https://github.com/Rabin-Verilog/fuzzers | 0 | 0| 
 | 20221217T02:28:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8159 | 1780| 
 | 20221217T02:24:33Z | patch ExANE for Fuzz | https://github.com/X1aoR0/ExANE_Fuzz | 0 | 0| 
 | 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20221216T22:19:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 490 | 62| 
 | 20221216T22:06:59Z | Null | https://github.com/owenj12/fuzzy-giggle | 0 | 0| 
 | 20221216T19:02:03Z | just some utilities to do very basic fuzzing of coreutils | https://github.com/file-citas/coreutils_fuzz | 0 | 0| 
-| 20221216T14:13:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3309 | 393| 
 
 
 
