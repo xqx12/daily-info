@@ -25,19 +25,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:31:58Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
-| 20221216T11:44:36Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
+| 20221216T23:54:14Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221216T20:30:57Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/LivingFree8/CVE-2022-41082-RCE-POC | | 
+| 20221216T16:18:29Z | CVE-2022-46169 | CVE-2022-46169 - Cacti Blind Remote Code Execution (Pre-Auth) | https://github.com/taythebot/CVE-2022-46169 | | 
+| 20221216T16:16:06Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
+| 20221216T16:02:09Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
+| 20221216T14:39:01Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
 | 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221216T06:36:44Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 | 20221216T05:49:42Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
-| 20221216T03:57:33Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
-| 20221216T01:57:01Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T19:37:55Z | klee44 | https://github.com/klee718/klee44 | 0 | 0| 
+| 20221216T17:04:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
 
 
 # s2e on Github 推荐
@@ -64,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:09:08Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1899 | 324| 
+| 20221216T21:54:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1905 | 324| 
 
 
 # symbolic execution on Github 推荐
@@ -81,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1779| 
+| 20221216T23:32:56Z | Null | https://github.com/ramzizrt/fuzzy-tribble | 0 | 0| 
+| 20221216T22:19:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 490 | 62| 
+| 20221216T22:06:59Z | Null | https://github.com/owenj12/fuzzy-giggle | 0 | 0| 
+| 20221216T19:02:03Z | just some utilities to do very basic fuzzing of coreutils | https://github.com/file-citas/coreutils_fuzz | 0 | 0| 
+| 20221216T14:13:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3309 | 393| 
+| 20221216T13:37:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 83 | 23| 
+| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1780| 
 | 20221216T11:16:05Z | Null | https://github.com/jguillaumesio/fuzzy-guide | 0 | 0| 
 | 20221216T10:54:15Z | Codebeispiele zum Softwerker-Artikel %Fuzz Testing und Benchmarking in Go% | https://github.com/i78/softwerker-go-fuzzing-benchmarking | 0 | 0| 
 | 20221216T10:35:29Z | Esto es una prueba | https://github.com/JuanmaDeveloper/fuzzy-broccoli | 0 | 0| 
-| 20221216T09:10:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4480 | 1086| 
-| 20221216T08:44:25Z | Null | https://github.com/Bob-Kyle-Rosales/FuzzyLogic | 0 | 0| 
-| 20221216T05:26:13Z | Null | https://github.com/HardelleBriones/BrionesFuzzyLogic | 0 | 0| 
-| 20221216T02:10:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
-| 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
-| 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
 
 
 

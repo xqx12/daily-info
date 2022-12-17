@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:31:58Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
-| 20221216T11:44:36Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
+| 20221217T00:59:32Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
+| 20221216T23:54:14Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
+| 20221216T20:30:57Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/LivingFree8/CVE-2022-41082-RCE-POC | | 
+| 20221216T16:18:29Z | CVE-2022-46169 | CVE-2022-46169 - Cacti Blind Remote Code Execution (Pre-Auth) | https://github.com/taythebot/CVE-2022-46169 | | 
+| 20221216T16:16:06Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
+| 20221216T16:02:09Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
+| 20221216T14:39:01Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20221216T08:01:40Z | CVE-2020-27955 | Null | https://github.com/z50913/CVE-2020-27955 | | 
 | 20221216T07:53:08Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221216T06:36:44Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
-| 20221216T05:49:42Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
-| 20221216T03:57:33Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
-| 20221216T01:57:01Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221215T12:21:12Z | CVE-2022-43680 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680 | | 
-| 20221215T04:55:56Z | CVE-2020-0796 | CVE-2020-0796-利用工具 | https://github.com/TweatherQ/CVE-2020-0796 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221216T19:37:55Z | klee44 | https://github.com/klee718/klee44 | 0 | 0| 
+| 20221216T17:04:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2123 | 603| 
 | 20221215T22:05:54Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 51 | 3| 
-| 20221215T11:56:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
+| 20221215T11:56:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
 | 20221215T01:34:21Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
 | 20221214T22:27:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 50| 
-| 20221214T12:52:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2122 | 603| 
 | 20221214T10:57:02Z | mirror from bitbucket kleer-dentist-app | https://github.com/stuzo-services/kleer-dentist-app | 0 | 0| 
 | 20221214T07:58:39Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 5 | 0| 
 | 20221214T01:53:00Z | Null | https://github.com/pendlirajashekhar/klee | 0 | 0| 
 | 20221213T23:02:11Z | Config files for my GitHub profile. | https://github.com/Klee1991/Klee1991 | 0 | 0| 
-| 20221212T18:14:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9584 | 328| 
 
 
 # s2e on Github 推荐
@@ -105,16 +105,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:09:08Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1899 | 324| 
+| 20221216T21:54:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1905 | 324| 
 | 20221215T18:16:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 99 | 13| 
 | 20221215T16:34:54Z | developed a server and a payload to communicate commands with the target  utilized reverse shells, ports, IP addresses, Python Sockets, and Compiling Python to EXE | https://github.com/mherzog4/backdoor | 0 | 0| 
 | 20221215T16:22:51Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
+| 20221215T13:47:37Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 | 20221215T12:24:48Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 1| 
 | 20221215T12:01:50Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 8 | 1| 
 | 20221215T09:15:06Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 0 | 0| 
 | 20221215T06:53:13Z | This C code creates a backdoor on Windows machines, enabling a remote user to access, control, and monitor the device. It includes functions to execute shell commands, create a registry entry to enable autorun, and a keylogger to log the user%s keystrokes. It also hides the malicious activity by hiding the console window. | https://github.com/ChesnoiuCatalin/C-Backdoor | 0 | 0| 
 | 20221215T04:31:09Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
-| 20221215T02:13:17Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1779| 
+| 20221217T00:32:37Z | Null | https://github.com/yousefadam/Fuzzy-Logic | 0 | 0| 
+| 20221216T23:32:56Z | Null | https://github.com/ramzizrt/fuzzy-tribble | 0 | 0| 
+| 20221216T22:19:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 490 | 62| 
+| 20221216T22:06:59Z | Null | https://github.com/owenj12/fuzzy-giggle | 0 | 0| 
+| 20221216T19:02:03Z | just some utilities to do very basic fuzzing of coreutils | https://github.com/file-citas/coreutils_fuzz | 0 | 0| 
+| 20221216T14:13:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3309 | 393| 
+| 20221216T13:37:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 83 | 23| 
+| 20221216T13:20:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8158 | 1780| 
 | 20221216T11:16:05Z | Null | https://github.com/jguillaumesio/fuzzy-guide | 0 | 0| 
 | 20221216T10:54:15Z | Codebeispiele zum Softwerker-Artikel %Fuzz Testing und Benchmarking in Go% | https://github.com/i78/softwerker-go-fuzzing-benchmarking | 0 | 0| 
-| 20221216T10:35:29Z | Esto es una prueba | https://github.com/JuanmaDeveloper/fuzzy-broccoli | 0 | 0| 
-| 20221216T09:10:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4480 | 1086| 
-| 20221216T08:44:25Z | Null | https://github.com/Bob-Kyle-Rosales/FuzzyLogic | 0 | 0| 
-| 20221216T05:26:13Z | Null | https://github.com/HardelleBriones/BrionesFuzzyLogic | 0 | 0| 
-| 20221216T02:10:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 489 | 62| 
-| 20221216T01:43:47Z | Null | https://github.com/maxx-yyang/911-Call-Prediction-Fuzzy-Windows | 0 | 0| 
-| 20221216T01:33:38Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1130 | 84| 
 
 
 
