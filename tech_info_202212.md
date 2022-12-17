@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221217T00:59:32Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
+| 20221217T01:21:31Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
 | 20221216T23:54:14Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221216T20:30:57Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/LivingFree8/CVE-2022-41082-RCE-POC | | 
 | 20221216T16:18:29Z | CVE-2022-46169 | CVE-2022-46169 - Cacti Blind Remote Code Execution (Pre-Auth) | https://github.com/taythebot/CVE-2022-46169 | | 
