@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221217T01:57:28Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
 | 20221217T01:35:04Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 289 | 22| 
 | 20221216T20:26:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
 | 20221216T20:07:03Z | A collection of hacks, bookmarklets, games and proxies. | https://github.com/NewTab1/ExploitsForMiddleSchoolers | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221216T12:25:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4810 | 702| 
 | 20221216T12:19:32Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1439 | 144| 
 | 20221216T10:04:13Z | Free Roblox Exploit Uses WRD and KRNL Api By Rolesional | https://github.com/Rolesional/Spectre-Project | 0 | 0| 
-| 20221216T08:56:39Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4907 | 1677| 
 
 
 # backdoor on Github 推荐
