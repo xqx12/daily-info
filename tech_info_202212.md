@@ -91,6 +91,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221217T11:09:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5129 | 715| 
+| 20221217T09:04:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3865 | 480| 
 | 20221217T08:43:37Z | Null | https://github.com/devl00p/exploits | 0 | 0| 
 | 20221217T08:01:03Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
 | 20221217T08:00:57Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221217T02:01:06Z | Null | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | 0 | 0| 
 | 20221216T23:39:19Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 54 | 28| 
 | 20221216T20:26:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
-| 20221216T20:25:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12455 | 2136| 
 
 
 # backdoor on Github 推荐

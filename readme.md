@@ -38,6 +38,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221217T11:09:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5129 | 715| 
+| 20221217T09:04:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3865 | 480| 
 | 20221217T08:43:37Z | Null | https://github.com/devl00p/exploits | 0 | 0| 
 | 20221217T08:01:03Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
 | 20221217T08:00:57Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
