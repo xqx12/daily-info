@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T02:00:38Z | SmartMOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
 | 20221218T01:29:29Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 49 | 6| 
 | 20221218T00:53:19Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 53 | 4| 
 | 20221218T00:31:51Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 1| 
@@ -99,7 +100,6 @@
 | 20221217T23:12:17Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2152 | 395| 
 | 20221217T23:00:33Z | exploits | https://github.com/NeroExploitsYT/exploits | 0 | 0| 
 | 20221217T22:54:44Z | A thirty second plugin to patch a really annoying exploit | https://github.com/254nm/ProjectileVelocityPatch | 0 | 0| 
-| 20221217T19:28:06Z | RabbitMQ exploit and Pentesting guide for penetration tester | https://github.com/kh4sh3i/RabbitMQ-Pentesting | 0 | 0| 
 
 
 # backdoor on Github 推荐
