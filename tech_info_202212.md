@@ -91,6 +91,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221218T00:53:19Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 53 | 4| 
+| 20221218T00:31:51Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 1| 
 | 20221218T00:27:24Z | Null | https://github.com/rtrshm/22fa-exploit | 0 | 0| 
 | 20221217T23:16:07Z | A client-based DataStore accessor for Roblox with anti-exploit features. | https://github.com/MushyToast/Clientada | 0 | 0| 
 | 20221217T23:13:34Z | nocom but for shitty pay to win pokemon servers | https://github.com/Nyaannn/PokeCOM | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20221217T22:54:44Z | A thirty second plugin to patch a really annoying exploit | https://github.com/254nm/ProjectileVelocityPatch | 0 | 0| 
 | 20221217T19:28:06Z | RabbitMQ exploit and Pentesting guide for penetration tester | https://github.com/kh4sh3i/RabbitMQ-Pentesting | 0 | 0| 
 | 20221217T19:24:39Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 118 | 11| 
-| 20221217T17:36:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
 
 
 # backdoor on Github 推荐
