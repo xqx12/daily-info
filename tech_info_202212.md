@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T02:41:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 119 | 11| 
 | 20221218T02:37:32Z | Null | https://github.com/SauravMaheshkar/binary-exploitation-template | 0 | 0| 
 | 20221218T02:34:07Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 54 | 32| 
 | 20221218T02:02:52Z | [Award winning solutionSmart at Vivatech%s hackathon] MOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221218T00:27:24Z | Null | https://github.com/rtrshm/22fa-exploit | 0 | 0| 
 | 20221217T23:16:07Z | A client-based DataStore accessor for Roblox with anti-exploit features. | https://github.com/MushyToast/Clientada | 0 | 0| 
 | 20221217T23:13:34Z | nocom but for shitty pay to win pokemon servers | https://github.com/Nyaannn/PokeCOM | 1 | 0| 
-| 20221217T23:12:17Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2152 | 395| 
 
 
 # backdoor on Github 推荐
