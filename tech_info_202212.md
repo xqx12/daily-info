@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221218T02:00:38Z | SmartMOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
+| 20221218T02:02:52Z | [Award winning solutionSmart at Vivatech%s hackathon] MOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
 | 20221218T01:29:29Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 49 | 6| 
 | 20221218T00:53:19Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 53 | 4| 
 | 20221218T00:31:51Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 149 | 1| 
