@@ -45,11 +45,11 @@
 | 20221217T23:12:17Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2152 | 395| 
 | 20221217T23:00:33Z | exploits | https://github.com/NeroExploitsYT/exploits | 0 | 0| 
 | 20221217T22:54:44Z | A thirty second plugin to patch a really annoying exploit | https://github.com/254nm/ProjectileVelocityPatch | 0 | 0| 
+| 20221217T19:28:06Z | RabbitMQ exploit and Pentesting guide for penetration tester | https://github.com/kh4sh3i/RabbitMQ-Pentesting | 0 | 0| 
 | 20221217T19:24:39Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 118 | 11| 
 | 20221217T17:36:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 560 | 147| 
 | 20221217T11:09:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5129 | 715| 
 | 20221217T09:04:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3865 | 480| 
-| 20221217T08:43:37Z | Null | https://github.com/devl00p/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
