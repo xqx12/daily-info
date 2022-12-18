@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T01:16:29Z | primeiros projetos | https://github.com/JefterCaires/tal-fuzzy-octo-enigma | 0 | 0| 
 | 20221217T23:06:40Z | Null | https://github.com/miglcesp01/fuzzy_numbers_estimation | 0 | 0| 
 | 20221217T22:08:31Z | Null | https://github.com/SteeKsi/if-you-can-find-derivatives-of-fuzzy-logic-then-you-know-how-to-resolve-it-to-boolean-logic | 0 | 0| 
 | 20221217T22:06:51Z | This is the final project from the made up database called Maven Fuzzy Factory | https://github.com/finasty85/Maven-Fuzzy-Factory-Final-Project | 0 | 0| 
 | 20221217T21:54:35Z | Null | https://github.com/SteeKsi/if-it-is-fuzzy-logic-it-is-the-same-thing-as-normalized-real-logic | 0 | 0| 
 | 20221217T19:26:28Z | Null | https://github.com/tyfnshh/Fuzzing | 0 | 0| 
 | 20221217T19:02:05Z | Null | https://github.com/miladbarooni/FuzzyDigitClustering | 0 | 0| 
+| 20221217T12:55:12Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1062 | 91| 
 | 20221217T10:58:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 491 | 62| 
 | 20221217T08:03:29Z | A hypervisor/virtual machine monitor (VMM) fuzzer. | https://github.com/rcvalle/vmmfuzzer | 0 | 0| 
-| 20221217T08:02:15Z | A fuzzy logic energy system featuring rule generation with decision trees. The rule base was optimized with a hybrid feature selector. The system was applied on residential energy data for appliance consumption as a case study. | https://github.com/dimkonto/Fuzzy-Energy-System | 2 | 0| 
-| 20221217T07:45:03Z | 文件上传字典-轻量化 | https://github.com/tyB-or/upload_dict_fuzz | 11 | 2| 
 
 
 
