@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T13:16:51Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20221218T10:37:00Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 11 | 6| 
-| 20221218T10:12:51Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20221218T10:11:47Z | Null | https://github.com/KleePaimon/KleePaimon.github.io1 | 0 | 0| 
 | 20221217T19:10:11Z | Config files for my GitHub profile. | https://github.com/Kleemer/Kleemer | 0 | 0| 
 | 20221217T15:54:58Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 52 | 3| 
@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T13:43:59Z | Null | https://github.com/idk258/EXED-X-Exploit | 0 | 0| 
+| 20221218T13:36:25Z | Null | https://github.com/fylhtq03/exploit | 0 | 0| 
 | 20221218T12:53:39Z | Null | https://github.com/nvicloud/ctf_lin_exploits | 0 | 0| 
 | 20221218T12:53:04Z | Null | https://github.com/nvicloud/ctf_win_exploits | 0 | 0| 
 | 20221218T11:40:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 561 | 147| 
@@ -98,14 +100,12 @@
 | 20221218T08:37:16Z | All social Media hacking with information gathering | https://github.com/DRACULA-HACK/C-hacks | 9 | 3| 
 | 20221218T08:00:59Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
 | 20221218T08:00:56Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
-| 20221218T02:41:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 119 | 11| 
-| 20221218T02:37:32Z | Null | https://github.com/SauravMaheshkar/binary-exploitation-template | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221218T13:14:47Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 10 | 2| 
+| 20221218T13:41:09Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 12 | 2| 
 | 20221218T11:21:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1929 | 329| 
 | 20221218T09:40:09Z | Null | https://github.com/AliSeg25/Backdoor | 0 | 0| 
 | 20221218T07:57:20Z | Our writeups to the BackdoorCTF Held by IITR in December 2022 | https://github.com/d4rkc0de-club/BackdoorCTF-Writeups | 0 | 0| 
@@ -143,6 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221218T13:18:38Z | test repo | https://github.com/Aqillafadiahaya/fuzzy-octo-carnival | 1 | 0| 
+| 20221218T13:16:50Z | WinAFL modified for RDP client fuzzing | https://github.com/Team-BT5/WinAFL-RDP | 0 | 0| 
 | 20221218T12:21:07Z | Chatear casual y hot | https://github.com/citashot/fuzzy-succotash | 1 | 0| 
 | 20221218T11:50:45Z | Null | https://github.com/nobshake/fuzzywhere | 0 | 0| 
 | 20221218T10:28:51Z | Fuzzing corpus data for the phi library | https://github.com/AMS21/Phi-Corpus | 0 | 0| 
@@ -151,8 +153,6 @@
 | 20221218T06:29:09Z | clustering problem on a dataset of points on a 2d plane, using Lloyd%s k-means, Fuzzy C-means, and DBSCAN clustering algorithms. The Elbow method is used to find the optimal number of clusters. | https://github.com/mahyarmohammadimatin/Clustring_using_LloydKmeans_FuzzyCmeans_DBSCAN | 0 | 0| 
 | 20221218T01:16:29Z | primeiros projetos | https://github.com/JefterCaires/tal-fuzzy-octo-enigma | 0 | 0| 
 | 20221217T23:06:40Z | Null | https://github.com/miglcesp01/fuzzy_numbers_estimation | 0 | 0| 
-| 20221217T23:05:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3311 | 395| 
-| 20221217T22:08:31Z | Null | https://github.com/SteeKsi/if-you-can-find-derivatives-of-fuzzy-logic-then-you-know-how-to-resolve-it-to-boolean-logic | 0 | 0| 
 
 
 
