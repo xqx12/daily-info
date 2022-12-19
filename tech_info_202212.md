@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221219T13:55:14Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221219T13:36:11Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
-| 20221219T11:22:56Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221219T10:10:54Z | CVE-2022-44215 | Null | https://github.com/wh-gov/CVE-2022-44215 | | 
 | 20221219T09:34:49Z | CVE-2022-44215 | Public disclosure of TitanFTP 19.X Open Redirection vulnerability | https://github.com/JBalanza/CVE-2022-44215 | | 
 | 20221219T07:02:25Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
