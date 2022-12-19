@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T13:27:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7953 | 1839| 
 | 20221219T12:49:20Z | Null | https://github.com/Skelian/ScriptExploitationAD | 0 | 0| 
 | 20221219T12:11:18Z | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | 2 | 0| 
 | 20221219T11:54:47Z | A repository for folow-along projects, excerpted from the book `Hacking: The Art of Exploitation` | https://github.com/1emvr/The-Art-of-Exploitation | 0 | 0| 
@@ -60,13 +61,12 @@
 | 20221219T09:25:31Z | Project for secure software _Exploit stack overflow  | https://github.com/xdxxxdx/OVS_Secure-software_2016 | 0 | 0| 
 | 20221219T03:15:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12462 | 2139| 
 | 20221219T01:56:57Z | This code is the demonstration of using path traversal to exploit a poorly coded upload file fuction for malicious code injection on to a web server. | https://github.com/faisalkhan91/Insecure-File-Extraction | 0 | 0| 
-| 20221219T00:21:13Z | Null | https://github.com/rtrshm/22fa-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221219T12:56:54Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 184 | 21| 
+| 20221219T13:28:29Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 186 | 21| 
 | 20221219T12:30:16Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221219T06:20:39Z | Null | https://github.com/0xn4utilus/backdoor22 | 0 | 0| 
 | 20221219T04:45:23Z | Esta script es para enviarle a la victima el archivo php.sh que se encuentra en este repositorio , ya que la script es un backdoor php que esta configurado para el archivo index.php , por eso tienen que crear el archivo index desde el repositorio PHPloit ya que el index.php tambien se le enviara a la victima.. | https://github.com/MRX90902WX/Hack | 0 | 0| 
