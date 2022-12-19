@@ -99,7 +99,7 @@
 | 20221219T10:51:32Z | ertertert | https://github.com/Kirromn3/Exploit-2 | 0 | 0| 
 | 20221219T09:54:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 562 | 147| 
 | 20221219T09:25:31Z | Project for secure software _Exploit stack overflow  | https://github.com/xdxxxdx/OVS_Secure-software_2016 | 0 | 0| 
-| 20221219T03:15:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12462 | 2139| 
+| 20221219T05:01:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3867 | 481| 
 
 
 # backdoor on Github 推荐
