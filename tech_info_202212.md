@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T12:49:20Z | Null | https://github.com/Skelian/ScriptExploitationAD | 0 | 0| 
+| 20221219T12:11:18Z | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | 2 | 0| 
+| 20221219T11:54:47Z | A repository for folow-along projects, excerpted from the book `Hacking: The Art of Exploitation` | https://github.com/1emvr/The-Art-of-Exploitation | 0 | 0| 
+| 20221219T11:16:18Z | This project aims to further your knowledge in the world of elf-like binary exploitation in in i386 system | https://github.com/alas42/rainfall | 0 | 0| 
+| 20221219T10:51:32Z | ertertert | https://github.com/Kirromn3/Exploit-2 | 0 | 0| 
+| 20221219T09:54:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 562 | 147| 
+| 20221219T09:25:31Z | Project for secure software _Exploit stack overflow  | https://github.com/xdxxxdx/OVS_Secure-software_2016 | 0 | 0| 
+| 20221219T03:15:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12462 | 2139| 
 | 20221219T01:56:57Z | This code is the demonstration of using path traversal to exploit a poorly coded upload file fuction for malicious code injection on to a web server. | https://github.com/faisalkhan91/Insecure-File-Extraction | 0 | 0| 
 | 20221219T00:21:13Z | Null | https://github.com/rtrshm/22fa-exploit | 0 | 0| 
-| 20221218T23:53:47Z | Proof of concept code for the Spectre CPU exploit. | https://github.com/crozone/SpectrePoC | 270 | 87| 
-| 20221218T23:07:06Z | exploits-main | https://github.com/dcftr/e | 0 | 0| 
-| 20221218T21:39:03Z | A list of vrchat payloads n% shit | https://github.com/FoonixVR/VRChat-Exploits | 0 | 0| 
-| 20221218T20:47:14Z | BUILD FOR ETS VERSION: 1.46.2.11s (x32 & x64) | https://github.com/pukpuker/ets2_money | 0 | 0| 
-| 20221218T20:32:22Z | A client-based DataStore accessor for Roblox with anti-exploit features. | https://github.com/MushyToast/Clientada | 0 | 0| 
-| 20221218T19:49:03Z | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 7 | 1| 
-| 20221218T19:44:05Z | An automated file download script/package for post-exploitation stages using Espanso Text Expander | https://github.com/pablocastelao/afd | 0 | 0| 
-| 20221218T19:01:15Z | Exploitssss update checkinn | https://github.com/ManOnTopain/Exploits-update-checker | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,8 +135,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T01:54:46Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 23 | 2| 
 | 20221215T16:22:48Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 65 | 15| 
-| 20221215T12:53:20Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 22 | 2| 
 | 20221212T19:19:12Z | Dynamic Proof of Retrievability using Verifiable Computation and Error Correction Code (NDSS%23) | https://github.com/vt-asaplab/porla | 2 | 0| 
 
 
