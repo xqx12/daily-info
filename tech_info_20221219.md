@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T13:41:16Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
 | 20221219T13:27:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7953 | 1839| 
 | 20221219T12:49:20Z | Null | https://github.com/Skelian/ScriptExploitationAD | 0 | 0| 
 | 20221219T12:11:18Z | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | 2 | 0| 
@@ -60,12 +61,12 @@
 | 20221219T09:54:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 562 | 147| 
 | 20221219T09:25:31Z | Project for secure software _Exploit stack overflow  | https://github.com/xdxxxdx/OVS_Secure-software_2016 | 0 | 0| 
 | 20221219T03:15:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12462 | 2139| 
-| 20221219T01:56:57Z | This code is the demonstration of using path traversal to exploit a poorly coded upload file fuction for malicious code injection on to a web server. | https://github.com/faisalkhan91/Insecure-File-Extraction | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T13:41:16Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
 | 20221219T13:40:03Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 188 | 21| 
 | 20221219T12:30:16Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221219T06:20:39Z | Null | https://github.com/0xn4utilus/backdoor22 | 0 | 0| 
