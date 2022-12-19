@@ -95,6 +95,7 @@
 | 20221219T10:35:17Z | Null | https://github.com/SteeKsi/i-only-need-to-know-a-few-things-about-fuzzy-logic-to-proves-things-with-it | 0 | 0| 
 | 20221219T10:34:50Z | Null | https://github.com/SteeKsi/it-may-only-be-a-coincidence-that-the-numbers-of-fuzzy-logic-are-also-the-same-thing-as-normalized- | 0 | 0| 
 | 20221219T10:34:08Z | Null | https://github.com/SteeKsi/if-fuzzy-logic-is-real-numbers-it-is-a-way-to-use-logic-with-normalized-floating-point-to-me | 0 | 0| 
+| 20221219T09:47:01Z | Null | https://github.com/mostafanassr2000/FuzzyLogic | 0 | 0| 
 | 20221219T09:12:52Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 792 | 95| 
 | 20221219T02:48:02Z | Import a repository  | https://github.com/cloudflare-wangler/fuzzy-doodle | 0 | 0| 
 | 20221219T01:44:54Z | What is this | https://github.com/Mehrdadmehrdadian/fuzzy-octo-waffle | 0 | 0| 
