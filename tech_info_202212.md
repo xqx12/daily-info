@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T02:11:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/Skewice/CLEAN-Leux-Backdoor-0.9.8-OBF | 2 | 0| 
 | 20221220T02:00:54Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1954 | 335| 
 | 20221220T01:55:40Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 211 | 26| 
 | 20221219T23:30:47Z | Null | https://github.com/Anonimo055x/Backdoor-MGRV2-ProxySSH-Ransonware-8 | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20221219T12:30:16Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221219T06:20:39Z | Null | https://github.com/0xn4utilus/backdoor22 | 0 | 0| 
 | 20221219T04:45:23Z | Esta script es para enviarle a la victima el archivo php.sh que se encuentra en este repositorio , ya que la script es un backdoor php que esta configurado para el archivo index.php , por eso tienen que crear el archivo index desde el repositorio PHPloit ya que el index.php tambien se le enviara a la victima.. | https://github.com/MRX90902WX/Hack | 0 | 0| 
-| 20221219T03:27:03Z | Null | https://github.com/Anonimo055x/Backdoor-Clion-Ransonware-8 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
