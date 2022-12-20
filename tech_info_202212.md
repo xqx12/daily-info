@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T01:35:36Z | Null | https://github.com/cryocet/Mika-Exploit | 0 | 0| 
 | 20221220T00:47:30Z | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | 0 | 0| 
 | 20221220T00:17:13Z | [Award winning solutionSmart at Vivatech%s hackathon] SMARTMOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
 | 20221219T23:12:00Z | Kernel exploits | https://github.com/ReverseThrottle/KernelExploitation | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221219T20:40:51Z | Docker container for Exploit Dev | https://github.com/the-root-user/expdev | 0 | 0| 
 | 20221219T15:43:41Z | A repository for follow-along projects, binary exploitation and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` | https://github.com/1emvr/The-Art-of-Exploitation | 0 | 0| 
 | 20221219T13:41:16Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
-| 20221219T13:27:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7953 | 1839| 
 
 
 # backdoor on Github 推荐
