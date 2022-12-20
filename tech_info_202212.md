@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221220T01:45:11Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
+| 20221220T01:50:32Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
 | 20221220T00:47:30Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 | 20221220T00:29:28Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221219T23:26:07Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
