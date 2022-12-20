@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221220T01:28:29Z | Testing echidna vs. forge fuzzing | https://github.com/clabby/echidna-vs-forge | 9 | 1| 
+| 20221220T01:35:04Z | Testing echidna vs. forge fuzzing | https://github.com/clabby/echidna-vs-forge | 10 | 1| 
 | 20221220T01:25:23Z | Null | https://github.com/Leo-roc/fuzzy-succotash | 0 | 0| 
 | 20221220T01:16:03Z | Null | https://github.com/DTI22/Fuzz-Foam | 1 | 0| 
 | 20221220T00:33:41Z | Null | https://github.com/johnleoharkins/fuzzy-chainsaw | 0 | 0| 
