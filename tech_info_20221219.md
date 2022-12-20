@@ -16,6 +16,7 @@
 | 20221219 | Shennina：利用AI进行自动地漏洞扫描、分析和利用 | https://www.kitploit.com/2022/12/shennina-automating-host-exploitation.html| 
 | 20221219 | TP-Link AX1800 WiFi 6 Router的tdpServer在向一个固定大小的数组中写值时未做边界检查导致栈溢出 | http://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/| 
 | 20221219 | Windows UMPD 驱动UAF漏洞（CVE-2022-41050）的POC及相关信息公开了。 | http://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/?twclid=22e3s9xl58l68awwilrgs24vb7| 
+| 20221219 | Kaspersky发布了捕获到的ProxyNotShell攻击事件细节，其中包括MS Exchange两个漏洞，一个是SSRF漏洞（CVE-2022-41040），另一个是RCE漏洞（CVE-2022-41082）。 | https://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_story_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_zj177kbuwubuokz| 
 
 
 # 安全维基 推荐
