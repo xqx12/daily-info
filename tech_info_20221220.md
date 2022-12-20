@@ -38,6 +38,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:15:04Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 12 | 6| 
 | 20221220T12:52:09Z | A set of additional tools for KLEE | https://github.com/R3x/klee-tools | 0 | 0| 
 
 
@@ -49,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:12:35Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 368 | 30| 
 | 20221220T12:21:25Z | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | 0 | 0| 
 | 20221220T11:50:42Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
 | 20221220T11:40:37Z | Signatures created from analyzing malware and exploits that are used in the wind. If you notice any False Positive or something interesting, reach out at https://twitter.com/pbssubhash | https://github.com/pbssubhash/Blue-Sig | 0 | 0| 
@@ -58,7 +60,6 @@
 | 20221220T09:22:56Z | SvnExploit支持SVN源代码泄露全版本Dump源码 | https://github.com/admintony/svnExploit | 728 | 160| 
 | 20221220T08:41:11Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 12 | 3| 
 | 20221220T08:37:06Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 15 | 3| 
-| 20221220T06:51:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4909 | 1680| 
 
 
 # backdoor on Github 推荐
