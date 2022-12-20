@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221220T13:12:35Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 368 | 30| 
+| 20221220T13:25:37Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 369 | 30| 
 | 20221220T12:21:25Z | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | 0 | 0| 
 | 20221220T11:50:42Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
 | 20221220T11:40:37Z | Signatures created from analyzing malware and exploits that are used in the wind. If you notice any False Positive or something interesting, reach out at https://twitter.com/pbssubhash | https://github.com/pbssubhash/Blue-Sig | 0 | 0| 
