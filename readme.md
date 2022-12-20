@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:35:56Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4910 | 1680| 
 | 20221220T13:25:37Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 369 | 30| 
 | 20221220T12:21:25Z | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | 0 | 0| 
 | 20221220T11:50:42Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20221220T10:09:05Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 500 | 71| 
 | 20221220T09:22:56Z | SvnExploit支持SVN源代码泄露全版本Dump源码 | https://github.com/admintony/svnExploit | 728 | 160| 
 | 20221220T08:41:11Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 12 | 3| 
-| 20221220T08:37:06Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 15 | 3| 
 
 
 # backdoor on Github 推荐
