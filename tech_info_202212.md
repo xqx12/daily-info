@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221220T01:45:11Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
 | 20221220T00:47:30Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 | 20221220T00:29:28Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221219T23:26:07Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
@@ -55,7 +56,6 @@
 | 20221219T06:10:11Z | CVE-2022-0847 | Dirty Pipe - CVE-2022-0847 | https://github.com/tmoneypenny/CVE-2022-0847 | | 
 | 20221219T05:25:40Z | CVE-2022-43680 | Null | https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680 | | 
 | 20221218T19:52:22Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
-| 20221218T10:49:59Z | CVE-2020-2555 | Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE | https://github.com/Y4er/CVE-2020-2555 | | 
 
 
 # klee on Github 推荐
