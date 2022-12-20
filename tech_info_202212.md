@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T02:08:28Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit-2023 | 0 | 0| 
 | 20221220T02:07:35Z | Null | https://github.com/0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | 0 | 0| 
 | 20221220T02:07:04Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-2023 | 0 | 0| 
 | 20221220T02:06:19Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder-2023 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221219T23:12:00Z | Kernel exploits | https://github.com/ReverseThrottle/KernelExploitation | 0 | 0| 
 | 20221219T22:19:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5137 | 716| 
 | 20221219T22:10:24Z | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | 2 | 1| 
-| 20221219T20:57:56Z | RCE exploit for Microsoft Exchange Servers | https://github.com/RCEman01/ProxynotShell-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
