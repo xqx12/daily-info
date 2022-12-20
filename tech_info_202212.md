@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221220 | Mai Finance 预言机价格操纵漏洞：利用fallback函数重入get_virtual_price()，使预言机价格升高。 | https://ambergroup.medium.com/mai-finances-oracle-manipulation-vulnerability-explained-55e4b5cc2b82| 
+| 20221220 | Linux内核利用kmalloc-cg中的Netfilter UAF漏洞-CVE-2022-32250 | https://www.reddit.com/r/netsec/comments/zq6007/linux_kernel_exploiting_a_netfilter_useafterfree/| 
+| 20221220 | virustotal的语法总结 | http://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/VTI_Cheatsheet.pdf| 
+| 20221220 | Huawei HG255s路由器漏洞，利用“%2f”实现路径穿越 | https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015?gi=53eedf81f254&source=rss----7b722bfd1b8d---4| 
+| 20221220 | macOS中内存执行技术的新旧对比 | http://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html| 
+| 20221220 | 除了对 MiniDumpWriteDump 函数进行监控外，还可以分别通过监视 lsass.exe 的进程句柄和 SeDebugPrivilege 令牌权限来检测 LSASS 内存 dump 操作 | http://link.medium.com/Vr3wMiyHSvb| 
+| 20221220 | Linux kernel中WILC1000无线网卡驱动爆出多个远程拒绝服务漏洞 | https://securitylab.github.com/advisories/GHSL-2022-112_GHSL-2022-115_wilc1000/| 
 | 20221219 | 条件竞争导致的macOS本地提权漏洞（CVE-2022-46689）细节及POC。 | http://securityonline.info/cve-2022-46689-poc-macos-privilege-escalation-vulnerability/| 
 | 20221219 | 如何基于PostMessage配置问题，在Google Docs域上发现一个XSS漏洞。 | http://blog.geekycat.in/google-vrp-hijacking-your-screenshots/| 
 | 20221219 | 开源工具 laZzzy 实现了多种常见的 Shellcode 执行和混淆技术 | https://www.kitploit.com/2022/12/lazzzy-shellcode-loader-developed-using.html| 
@@ -19,18 +26,13 @@
 | 20221219 | Kaspersky发布了捕获到的ProxyNotShell攻击事件细节，其中包括MS Exchange两个漏洞，一个是SSRF漏洞（CVE-2022-41040），另一个是RCE漏洞（CVE-2022-41082）。 | https://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_story_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_zj177kbuwubuokz| 
 | 20221218 | mandiant发布关于签名恶意驱动程序的狩猎与分析 | https://www.mandiant.com/resources/blog/hunting-attestation-signed-malware| 
 | 20221218 | HTB: Support 通关 Writeup | https://0xdf.gitlab.io/2022/12/17/htb-support.html| 
-| 20221218 | 在KPTI enable的情况下，用户态的页表仍然有entry_SYSCALL_64 的mapping。由于entry_SYSCALL_64的地址与内核基地址之间的offset固定，因此攻击者可以通过频繁调用系统调用来将entry_SYSCALL_64送入TLB，并使用prefetch侧信道泄漏内核基地址。 | http://seclists.org/oss-sec/2022/q4/198| 
-| 20221216 | 一个利用文件包含漏洞的教程 | https://infosecwriteups.com/how-to-exploit-file-inclusion-vulnerabilities-a-beginners-introduction-stackzero-a55267b5fafb?gi=79d58db6233c&source=rss----7b722bfd1b8d---4| 
-| 20221216 | Foxit PDF Reader UAF漏洞分析和RCE利用。 | http://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672| 
-| 20221216 | 一个讲文件格式hacking的PPT，比如如何构造一个同时是图片和Jar的文件 | https://speakerdeck.com/ange/technical-challenges-with-file-formats| 
-| 20221216 | 一个APIKey的数据集，标记了市面上常见API厂商的APIkey的正则，这个数据集还附带一个小工具：输入一个APIKey，通过正则匹配获取这个APIKey可能属于的API厂商。 | https://github.com/daffainfo/all-about-apikey| 
-| 20221216 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451| 
-| 20221216 | Team82团队发现并利用 CVE-2022-1361 SQLi漏洞的详情。在研究过程中发现一种利用数据库JSON特性来绕过WAF中常用的SQL语法黑名单的攻击手法，并在多款WAF上发现了这一问题，最终也将该方法加入到最新版本的SQLMap工具中。 | http://okt.to/2Nm4F9| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221220 | SecWiki周刊（第459期) | https://www.sec-wiki.com/weekly/459| 
+| 20221220 | [HTB] Olympus Writeup | https://mp.weixin.qq.com/s/kw1505rMlC_IIkgDGXoVTw| 
 | 20221219 | 静态程序分析框架“太阿”的设计之道 | https://www.bilibili.com/video/BV1XP4y1S7cP/| 
 | 20221219 | 2022 年 Recorded Future C&C 服务器跟踪报告 | https://mp.weixin.qq.com/s/aJTcub12byRW3JmcKBm-Bg| 
 | 20221216 | DarkAngel: 一款全自动白帽漏洞扫描器 | https://github.com/Bywalks/DarkAngel| 
@@ -39,28 +41,27 @@
 | 20221215 | EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA| 
 | 20221215 | 电力行业网络安全等级保护管理办法 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA| 
 | 20221215 | 全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw| 
-| 20221214 | SPEL注入流程分析及CTF中如何使用 | https://sec-in.com/article/1988| 
-| 20221213 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221220T12:21:25Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
+| 20221220T12:16:22Z | cve-2022-0123 | Null | https://github.com/SURENKUMAR-0212/cve-2022-0123 | | 
+| 20221220T09:37:08Z | CVE-2022-37958 | The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.  | https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE | | 
+| 20221220T08:19:26Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
+| 20221220T06:59:45Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
+| 20221220T03:55:45Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 | 20221220T01:56:02Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
-| 20221220T00:47:30Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 | 20221220T00:29:28Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221219T23:26:07Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
 | 20221219T13:55:14Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
-| 20221219T10:10:54Z | CVE-2022-44215 | Null | https://github.com/wh-gov/CVE-2022-44215 | | 
-| 20221219T09:34:49Z | CVE-2022-44215 | Public disclosure of TitanFTP 19.X Open Redirection vulnerability | https://github.com/JBalanza/CVE-2022-44215 | | 
-| 20221219T06:10:11Z | CVE-2022-0847 | Dirty Pipe - CVE-2022-0847 | https://github.com/tmoneypenny/CVE-2022-0847 | | 
-| 20221219T05:25:40Z | CVE-2022-43680 | Null | https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680 | | 
-| 20221218T19:52:22Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T12:52:09Z | A set of additional tools for KLEE | https://github.com/R3x/klee-tools | 0 | 0| 
 | 20221219T22:36:31Z | An experimental unit test generator for C programs based on KLEE | https://github.com/liuzikai/klee-unit | 0 | 0| 
 | 20221219T19:34:08Z | Null | https://github.com/katyushapolye/KleeMains | 0 | 0| 
 | 20221219T14:30:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 50| 
@@ -70,7 +71,6 @@
 | 20221219T10:21:24Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 1 | 0| 
 | 20221219T03:56:34Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 53 | 3| 
 | 20221218T10:37:00Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 11 | 6| 
-| 20221218T10:11:47Z | Null | https://github.com/KleePaimon/KleePaimon.github.io1 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221220T02:08:28Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit-2023 | 0 | 0| 
-| 20221220T02:07:35Z | Null | https://github.com/0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | 0 | 0| 
-| 20221220T02:07:04Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-2023 | 0 | 0| 
-| 20221220T02:06:19Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder-2023 | 0 | 0| 
-| 20221220T01:35:36Z | Null | https://github.com/cryocet/Mika-Exploit | 0 | 0| 
-| 20221220T00:47:30Z | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | 0 | 0| 
-| 20221220T00:17:13Z | [Award winning solutionSmart at Vivatech%s hackathon] SMARTMOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one%s carbon footprint, by exploiting all the resources of one%s city for mobility 🛴🌱 | https://github.com/Duckiduc/smartmove | 0 | 0| 
-| 20221219T23:12:00Z | Kernel exploits | https://github.com/ReverseThrottle/KernelExploitation | 0 | 0| 
-| 20221219T22:19:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5137 | 716| 
-| 20221219T22:10:24Z | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | 2 | 1| 
+| 20221220T12:21:25Z | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | 0 | 0| 
+| 20221220T11:50:42Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
+| 20221220T11:40:37Z | Signatures created from analyzing malware and exploits that are used in the wind. If you notice any False Positive or something interesting, reach out at https://twitter.com/pbssubhash | https://github.com/pbssubhash/Blue-Sig | 0 | 0| 
+| 20221220T10:54:04Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5138 | 716| 
+| 20221220T10:29:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4817 | 702| 
+| 20221220T10:09:05Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 500 | 71| 
+| 20221220T09:22:56Z | SvnExploit支持SVN源代码泄露全版本Dump源码 | https://github.com/admintony/svnExploit | 728 | 160| 
+| 20221220T08:41:11Z | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 12 | 3| 
+| 20221220T08:37:06Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 15 | 3| 
+| 20221220T06:51:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4909 | 1680| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T12:39:00Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 19 | 3| 
+| 20221220T11:58:38Z | I | https://github.com/Cynthiavi/fuzzy-octo-computing-machine | 0 | 0| 
+| 20221220T11:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3278 | 662| 
+| 20221220T11:24:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8170 | 1785| 
+| 20221220T08:23:40Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1542 | 295| 
+| 20221220T08:04:39Z | Null | https://github.com/lionche/fuzzopt | 0 | 0| 
+| 20221220T06:30:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4484 | 1086| 
 | 20221220T02:35:30Z | Null | https://github.com/Saaswath-Upendran/Travel-Recommendation-using-fuzzy-logic | 0 | 0| 
 | 20221220T01:35:37Z | Testing echidna vs. forge fuzzing | https://github.com/clabby/echidna-vs-forge | 11 | 1| 
 | 20221220T01:25:23Z | Null | https://github.com/Leo-roc/fuzzy-succotash | 0 | 0| 
-| 20221220T01:16:03Z | Null | https://github.com/DTI22/Fuzz-Foam | 1 | 0| 
-| 20221220T00:33:41Z | Null | https://github.com/johnleoharkins/fuzzy-chainsaw | 0 | 0| 
-| 20221220T00:16:22Z | Null | https://github.com/DTI22/Fuzz-Foam- | 0 | 0| 
-| 20221219T23:19:57Z | Null | https://github.com/bacon-tomato-spaghetti/XRDP-Fuzzer | 0 | 0| 
-| 20221219T23:19:14Z | Null | https://github.com/bacon-tomato-spaghetti/FreeRDP-RDPGFX-Fuzzer | 0 | 0| 
-| 20221219T22:53:26Z | Explore  | https://github.com/jeffBigSmile/fuzzy-adventure | 0 | 0| 
-| 20221219T22:12:42Z | *A simple way to upload files in the database using C# application that analyze and extract keywords from the text and the frequency of keywords using simple fuzzy algorithms and encrypt the file content and stored in the database to allow users to search for a word within the files and the program reviews all the files that contain The word and arranged in descending order *The search algorithm works on both Arabic and English *SQL server 2014 used for DBMS *visual Studio 2013 update 5 used for programming C# App | https://github.com/Mgdd/Fuzzy-Search-Scheme | 2 | 1| 
 
 
 
