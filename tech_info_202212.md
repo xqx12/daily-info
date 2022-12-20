@@ -105,21 +105,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:01:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1959 | 336| 
+| 20221220T12:41:30Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 226 | 26| 
+| 20221220T08:56:23Z | Null | https://github.com/luiaz34/Backdoor-malware-Python- | 0 | 0| 
+| 20221220T06:39:36Z | utilizing socket programming and threading to access host machine using open ports and an IP address. | https://github.com/vic-rono/backdoor | 0 | 0| 
 | 20221220T02:17:02Z | this is my personal Leux backdoor config folder **Stronk AC* | https://github.com/Skewice/Leuxbackdoor-Config | 0 | 0| 
 | 20221220T02:11:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/Skewice/CLEAN-Leux-Backdoor-0.9.8-OBF | 2 | 0| 
-| 20221220T02:00:54Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1954 | 335| 
-| 20221220T01:55:40Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 211 | 26| 
 | 20221219T23:30:47Z | Null | https://github.com/Anonimo055x/Backdoor-MGRV2-ProxySSH-Ransonware-8 | 0 | 0| 
 | 20221219T22:33:59Z | Null | https://github.com/navyajammalamadaka/Final-Project--Targeted-Backdoor-Attacks-Against-Deep-Learning-Systems-with-DeepFace-By-Backdoor-Po | 0 | 1| 
 | 20221219T20:02:05Z | PSC %Backdoors sur des NLP% | https://github.com/Devaccount2/PSC-ML | 0 | 0| 
 | 20221219T13:41:16Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
-| 20221219T12:30:16Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 25 | 9| 
-| 20221219T06:20:39Z | Null | https://github.com/0xn4utilus/backdoor22 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
 | 20221220T02:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2127 | 602| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20221218T02:04:26Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
 | 20221217T01:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 602 | 111| 
 | 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
-| 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
 
 
 # big4 on Github 推荐

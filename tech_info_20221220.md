@@ -64,15 +64,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:01:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1959 | 336| 
+| 20221220T12:41:30Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 226 | 26| 
+| 20221220T08:56:23Z | Null | https://github.com/luiaz34/Backdoor-malware-Python- | 0 | 0| 
+| 20221220T06:39:36Z | utilizing socket programming and threading to access host machine using open ports and an IP address. | https://github.com/vic-rono/backdoor | 0 | 0| 
 | 20221220T02:17:02Z | this is my personal Leux backdoor config folder **Stronk AC* | https://github.com/Skewice/Leuxbackdoor-Config | 0 | 0| 
 | 20221220T02:11:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/Skewice/CLEAN-Leux-Backdoor-0.9.8-OBF | 2 | 0| 
-| 20221220T02:00:54Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1954 | 335| 
-| 20221220T01:55:40Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 211 | 26| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
 | 20221220T02:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2127 | 602| 
 
 
