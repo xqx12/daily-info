@@ -77,6 +77,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
+| 20221220T04:19:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3249 | 457| 
 | 20221220T02:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2127 | 602| 
 
 

@@ -121,10 +121,10 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
+| 20221220T04:19:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3249 | 457| 
 | 20221220T02:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2127 | 602| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
-| 20221219T08:34:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3247 | 457| 
 | 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 | 20221218T17:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 522 | 30| 
 | 20221218T02:04:26Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
