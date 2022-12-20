@@ -15,6 +15,7 @@
 | 20221219 | 使用无人机定位建筑内WiFi设备：作者通过利用两个WiFi特性，先获得所要探测设备的Mac地址，然后计算回包延时并进行测距 | https://www.kaspersky.co.uk/blog/wi-peep-wireless-localization/25325/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_td241ocldmfitjo| 
 | 20221219 | Shennina：利用AI进行自动地漏洞扫描、分析和利用 | https://www.kitploit.com/2022/12/shennina-automating-host-exploitation.html| 
 | 20221219 | TP-Link AX1800 WiFi 6 Router的tdpServer在向一个固定大小的数组中写值时未做边界检查导致栈溢出 | http://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/| 
+| 20221219 | Windows UMPD 驱动UAF漏洞（CVE-2022-41050）的POC及相关信息公开了。 | http://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/?twclid=22e3s9xl58l68awwilrgs24vb7| 
 
 
 # 安全维基 推荐
@@ -87,7 +88,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
-| 20221219T12:18:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2126 | 602| 
 | 20221219T08:34:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3247 | 457| 
 | 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 

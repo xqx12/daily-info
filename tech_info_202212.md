@@ -15,6 +15,7 @@
 | 20221219 | 使用无人机定位建筑内WiFi设备：作者通过利用两个WiFi特性，先获得所要探测设备的Mac地址，然后计算回包延时并进行测距 | https://www.kaspersky.co.uk/blog/wi-peep-wireless-localization/25325/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_td241ocldmfitjo| 
 | 20221219 | Shennina：利用AI进行自动地漏洞扫描、分析和利用 | https://www.kitploit.com/2022/12/shennina-automating-host-exploitation.html| 
 | 20221219 | TP-Link AX1800 WiFi 6 Router的tdpServer在向一个固定大小的数组中写值时未做边界检查导致栈溢出 | http://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/| 
+| 20221219 | Windows UMPD 驱动UAF漏洞（CVE-2022-41050）的POC及相关信息公开了。 | http://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/?twclid=22e3s9xl58l68awwilrgs24vb7| 
 | 20221218 | mandiant发布关于签名恶意驱动程序的狩猎与分析 | https://www.mandiant.com/resources/blog/hunting-attestation-signed-malware| 
 | 20221218 | HTB: Support 通关 Writeup | https://0xdf.gitlab.io/2022/12/17/htb-support.html| 
 | 20221218 | 在KPTI enable的情况下，用户态的页表仍然有entry_SYSCALL_64 的mapping。由于entry_SYSCALL_64的地址与内核基地址之间的offset固定，因此攻击者可以通过频繁调用系统调用来将entry_SYSCALL_64送入TLB，并使用prefetch侧信道泄漏内核基地址。 | http://seclists.org/oss-sec/2022/q4/198| 
@@ -25,7 +26,6 @@
 | 20221216 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451| 
 | 20221216 | Team82团队发现并利用 CVE-2022-1361 SQLi漏洞的详情。在研究过程中发现一种利用数据库JSON特性来绕过WAF中常用的SQL语法黑名单的攻击手法，并在多款WAF上发现了这一问题，最终也将该方法加入到最新版本的SQLMap工具中。 | http://okt.to/2Nm4F9| 
 | 20221216 | 提供了CVE-2022-41050的POC，影响Windows 8及以上版本，且易于利用 | http://ssd-disclosure.com/win32k-user-mode-printer-drivers-startdoc-uaf/| 
-| 20221215 | BSL2022关于如何在windows下使用rootkits进行进程隐藏等恶意行为的演讲视频 | https://www.youtube.com/watch?v=GM9WQMrSkWk&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -120,9 +120,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T02:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2127 | 602| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
-| 20221219T12:18:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2126 | 602| 
 | 20221219T08:34:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3247 | 457| 
 | 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 | 20221218T17:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 522 | 30| 
