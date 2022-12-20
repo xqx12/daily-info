@@ -143,6 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:47:12Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2042 | 505| 
+| 20221220T13:45:16Z | Sanity check for big inputs in AFL.rs | https://github.com/louismerlin/fuzz-size | 0 | 0| 
 | 20221220T12:39:00Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 19 | 3| 
 | 20221220T11:58:38Z | I | https://github.com/Cynthiavi/fuzzy-octo-computing-machine | 0 | 0| 
 | 20221220T11:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3278 | 662| 
@@ -151,8 +153,6 @@
 | 20221220T08:04:39Z | Null | https://github.com/lionche/fuzzopt | 0 | 0| 
 | 20221220T06:30:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4484 | 1086| 
 | 20221220T02:35:30Z | Null | https://github.com/Saaswath-Upendran/Travel-Recommendation-using-fuzzy-logic | 0 | 0| 
-| 20221220T01:35:37Z | Testing echidna vs. forge fuzzing | https://github.com/clabby/echidna-vs-forge | 11 | 1| 
-| 20221220T01:25:23Z | Null | https://github.com/Leo-roc/fuzzy-succotash | 0 | 0| 
 
 
 
