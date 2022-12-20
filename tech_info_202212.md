@@ -105,22 +105,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221219T23:36:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1953 | 335| 
+| 20221219T23:31:05Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 209 | 26| 
+| 20221219T23:30:47Z | Null | https://github.com/Anonimo055x/Backdoor-MGRV2-ProxySSH-Ransonware-8 | 0 | 0| 
+| 20221219T22:33:59Z | Null | https://github.com/navyajammalamadaka/Final-Project--Targeted-Backdoor-Attacks-Against-Deep-Learning-Systems-with-DeepFace-By-Backdoor-Po | 0 | 1| 
+| 20221219T20:02:05Z | PSC %Backdoors sur des NLP% | https://github.com/Devaccount2/PSC-ML | 0 | 0| 
 | 20221219T13:41:16Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
-| 20221219T13:40:03Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 188 | 22| 
 | 20221219T12:30:16Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221219T06:20:39Z | Null | https://github.com/0xn4utilus/backdoor22 | 0 | 0| 
 | 20221219T04:45:23Z | Esta script es para enviarle a la victima el archivo php.sh que se encuentra en este repositorio , ya que la script es un backdoor php que esta configurado para el archivo index.php , por eso tienen que crear el archivo index desde el repositorio PHPloit ya que el index.php tambien se le enviara a la victima.. | https://github.com/MRX90902WX/Hack | 0 | 0| 
 | 20221219T03:27:03Z | Null | https://github.com/Anonimo055x/Backdoor-Clion-Ransonware-8 | 0 | 0| 
-| 20221218T20:34:07Z | Null | https://github.com/guowei-cn/video_classification_backdoor_attack | 0 | 0| 
-| 20221218T17:04:40Z | Null | https://github.com/ShibuShivansh40/Python-Backdoor | 0 | 0| 
-| 20221218T11:21:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1929 | 329| 
-| 20221218T09:40:09Z | Null | https://github.com/AliSeg25/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221219T12:18:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2126 | 603| 
+| 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
+| 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
+| 20221219T12:18:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2126 | 602| 
 | 20221219T08:34:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3247 | 457| 
 | 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 | 20221218T17:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 522 | 30| 
@@ -128,8 +130,6 @@
 | 20221217T01:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 602 | 111| 
 | 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 | 20221214T23:23:44Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 410 | 37| 
-| 20221214T23:18:16Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 1| 
-| 20221214T23:10:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
 
 
 # big4 on Github 推荐
