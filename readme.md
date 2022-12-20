@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:44:52Z | CVE-2022-24086 | Null | https://github.com/pescepilota/CVE-2022-24086 | | 
 | 20221220T12:21:25Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221220T12:16:22Z | cve-2022-0123 | Null | https://github.com/SURENKUMAR-0212/cve-2022-0123 | | 
 | 20221220T09:37:08Z | CVE-2022-37958 | The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.  | https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE | | 

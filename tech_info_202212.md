@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221220T13:44:52Z | CVE-2022-24086 | Null | https://github.com/pescepilota/CVE-2022-24086 | | 
 | 20221220T12:21:25Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221220T12:16:22Z | cve-2022-0123 | Null | https://github.com/SURENKUMAR-0212/cve-2022-0123 | | 
 | 20221220T09:37:08Z | CVE-2022-37958 | The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.  | https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE | | 
@@ -55,7 +56,6 @@
 | 20221220T01:56:02Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
 | 20221220T00:29:28Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221219T23:26:07Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
-| 20221219T13:55:14Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 
 
 # klee on Github 推荐
