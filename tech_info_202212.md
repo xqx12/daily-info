@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221220T01:50:32Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
+| 20221220T01:56:02Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
 | 20221220T00:47:30Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 | 20221220T00:29:28Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20221219T23:26:07Z | CVE-2020-17382 | The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054). | https://github.com/Exploitables/CVE-2020-17382 | | 
@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221220T01:44:11Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 210 | 26| 
+| 20221220T01:55:40Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 211 | 26| 
 | 20221219T23:36:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1953 | 335| 
 | 20221219T23:30:47Z | Null | https://github.com/Anonimo055x/Backdoor-MGRV2-ProxySSH-Ransonware-8 | 0 | 0| 
 | 20221219T22:33:59Z | Null | https://github.com/navyajammalamadaka/Final-Project--Targeted-Backdoor-Attacks-Against-Deep-Learning-Systems-with-DeepFace-By-Backdoor-Po | 0 | 1| 
