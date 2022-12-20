@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221220T02:35:30Z | Null | https://github.com/Saaswath-Upendran/Travel-Recommendation-using-fuzzy-logic | 0 | 0| 
 | 20221220T01:35:37Z | Testing echidna vs. forge fuzzing | https://github.com/clabby/echidna-vs-forge | 11 | 1| 
 | 20221220T01:25:23Z | Null | https://github.com/Leo-roc/fuzzy-succotash | 0 | 0| 
 | 20221220T01:16:03Z | Null | https://github.com/DTI22/Fuzz-Foam | 1 | 0| 
@@ -152,7 +153,6 @@
 | 20221219T23:19:14Z | Null | https://github.com/bacon-tomato-spaghetti/FreeRDP-RDPGFX-Fuzzer | 0 | 0| 
 | 20221219T22:53:26Z | Explore  | https://github.com/jeffBigSmile/fuzzy-adventure | 0 | 0| 
 | 20221219T22:12:42Z | *A simple way to upload files in the database using C# application that analyze and extract keywords from the text and the frequency of keywords using simple fuzzy algorithms and encrypt the file content and stored in the database to allow users to search for a word within the files and the program reviews all the files that contain The word and arranged in descending order *The search algorithm works on both Arabic and English *SQL server 2014 used for DBMS *visual Studio 2013 update 5 used for programming C# App | https://github.com/Mgdd/Fuzzy-Search-Scheme | 2 | 1| 
-| 20221219T21:48:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1207 | 155| 
 
 
 
