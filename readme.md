@@ -94,8 +94,8 @@
 | 20221221T08:18:10Z | Null | https://github.com/AndreiSeradou/FuzzySets | 0 | 0| 
 | 20221221T08:05:51Z | Null | https://github.com/comfyclient/fuzzy-lamp | 0 | 0| 
 | 20221221T06:50:20Z | Null | https://github.com/abrahambabtistio/fuzzy-inverter | 0 | 0| 
+| 20221221T06:30:29Z | Null | https://github.com/CodeSaBMa/fuzzy-octo-engine | 0 | 0| 
 | 20221221T02:53:15Z | Null | https://github.com/fuzzy-yzz/fuzzy_yzz.github.io | 0 | 0| 
-| 20221221T02:40:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1210 | 156| 
 
 
 
