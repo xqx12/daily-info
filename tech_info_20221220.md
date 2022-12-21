@@ -35,8 +35,8 @@
 | 20221220T12:21:25Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221220T12:16:22Z | cve-2022-0123 | Null | https://github.com/SURENKUMAR-0212/cve-2022-0123 | | 
 | 20221220T09:37:08Z | CVE-2022-37958 | The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.  | https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE | | 
-| 20221220T08:19:26Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 | 20221220T06:59:45Z | CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | | 
+| 20221220T01:56:02Z | CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | | 
 
 
 # klee on Github 推荐
@@ -62,10 +62,10 @@
 | 20221220T20:09:23Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 19 | 1| 
 | 20221220T13:41:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12465 | 2141| 
 | 20221220T13:35:56Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4910 | 1680| 
-| 20221220T13:25:37Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 369 | 30| 
 | 20221220T12:21:25Z | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | 0 | 0| 
 | 20221220T11:50:42Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
 | 20221220T11:40:37Z | Signatures created from analyzing malware and exploits that are used in the wind. If you notice any False Positive or something interesting, reach out at https://twitter.com/pbssubhash | https://github.com/pbssubhash/Blue-Sig | 0 | 0| 
+| 20221220T10:29:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4817 | 702| 
 
 
 # backdoor on Github 推荐

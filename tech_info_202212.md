@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221221T01:57:54Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
 | 20221221T01:40:11Z | CVE-2022-48870 | maccms  admin+  xss attacks  | https://github.com/Cedric1314/CVE-2022-48870 | | 
 | 20221221T00:19:14Z | CVE-2022-43271 | Null | https://github.com/SecurityWillCheck/CVE-2022-43271 | | 
 | 20221220T23:23:19Z | CVE-2022-3382 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC | | 
@@ -55,7 +56,6 @@
 | 20221220T15:13:40Z | CVE-2022-24086 | Proof of concept of CVE-2022-24086 | https://github.com/pescepilota/CVE-2022-24086 | | 
 | 20221220T12:21:25Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221220T12:16:22Z | cve-2022-0123 | Null | https://github.com/SURENKUMAR-0212/cve-2022-0123 | | 
-| 20221220T09:37:08Z | CVE-2022-37958 | The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.  | https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T01:47:31Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 372 | 30| 
 | 20221221T00:37:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5140 | 716| 
 | 20221221T00:18:54Z | Null | https://github.com/onlyjair/MoonX-Exploit | 0 | 0| 
 | 20221221T00:02:38Z | PPO-based sequential, structured fuzzing for heap exploitation | https://github.com/laurenmoos/biscuits- | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221220T20:09:23Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 19 | 1| 
 | 20221220T13:41:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12465 | 2141| 
 | 20221220T13:35:56Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4910 | 1680| 
-| 20221220T13:25:37Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 369 | 30| 
 
 
 # backdoor on Github 推荐
