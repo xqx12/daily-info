@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221221T02:11:57Z | Fully Silent Automated Windows 10 22h2 | https://github.com/CrypthorDeveloper/Silent-JPG-Exploit-Builder | 0 | 0| 
+| 20221221T02:14:18Z | Fully Silent Automated Windows 10 22h2 | https://github.com/CrypthorDeveloper/Silent-JPG-Exploit-Builder | 1 | 0| 
 | 20221221T01:47:31Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 372 | 30| 
 | 20221221T00:37:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5140 | 716| 
 | 20221221T00:18:54Z | Null | https://github.com/onlyjair/MoonX-Exploit | 0 | 0| 
