@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T13:42:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 5 | 1| 
 | 20221221T13:17:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4484 | 1086| 
 | 20221221T12:37:27Z | Null | https://github.com/JithyaManoj/fuzzy-umbrella | 0 | 0| 
 | 20221221T11:04:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8178 | 1785| 
@@ -152,7 +153,6 @@
 | 20221221T08:18:10Z | Null | https://github.com/AndreiSeradou/FuzzySets | 0 | 0| 
 | 20221221T08:05:51Z | Null | https://github.com/comfyclient/fuzzy-lamp | 0 | 0| 
 | 20221221T06:50:20Z | Null | https://github.com/abrahambabtistio/fuzzy-inverter | 0 | 0| 
-| 20221221T06:30:29Z | Null | https://github.com/CodeSaBMa/fuzzy-octo-engine | 0 | 0| 
 
 
 
