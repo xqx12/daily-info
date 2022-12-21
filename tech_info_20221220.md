@@ -101,7 +101,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221220T23:52:59Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 134 | 9| 
 | 20221220T20:52:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8171 | 1785| 
-| 20221220T16:59:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1209 | 155| 
 | 20221220T14:57:02Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1647 | 76| 
 | 20221220T13:47:12Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2042 | 505| 
 | 20221220T13:45:16Z | Sanity check for big inputs in AFL.rs | https://github.com/louismerlin/fuzz-size | 0 | 0| 
@@ -109,6 +108,7 @@
 | 20221220T11:58:38Z | I | https://github.com/Cynthiavi/fuzzy-octo-computing-machine | 0 | 0| 
 | 20221220T11:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3278 | 662| 
 | 20221220T10:02:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 85 | 23| 
+| 20221220T08:23:40Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1542 | 295| 
 
 
 
