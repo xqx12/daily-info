@@ -80,6 +80,7 @@
 | 20221220T06:39:36Z | utilizing socket programming and threading to access host machine using open ports and an IP address. | https://github.com/vic-rono/backdoor | 0 | 0| 
 | 20221220T02:17:02Z | this is my personal Leux backdoor config folder **Stronk AC* | https://github.com/Skewice/Leuxbackdoor-Config | 0 | 0| 
 | 20221220T02:11:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/Skewice/CLEAN-Leux-Backdoor-0.9.8-OBF | 2 | 0| 
+| 20221220T00:57:00Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
