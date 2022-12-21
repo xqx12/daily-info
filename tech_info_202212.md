@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T02:11:57Z | Fully Silent Automated Windows 10 22h2 | https://github.com/CrypthorDeveloper/Silent-JPG-Exploit-Builder | 0 | 0| 
 | 20221221T01:47:31Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 372 | 30| 
 | 20221221T00:37:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5140 | 716| 
 | 20221221T00:18:54Z | Null | https://github.com/onlyjair/MoonX-Exploit | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221220T20:38:49Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 54 | 32| 
 | 20221220T20:09:23Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 19 | 1| 
 | 20221220T13:41:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12465 | 2141| 
-| 20221220T13:35:56Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4910 | 1680| 
 
 
 # backdoor on Github 推荐
