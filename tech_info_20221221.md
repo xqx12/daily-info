@@ -58,9 +58,9 @@
 | 20221221T09:15:29Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 0 | 0| 
 | 20221221T08:41:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4819 | 702| 
 | 20221221T07:44:29Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 48 | 4| 
+| 20221221T03:25:11Z | Create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 2 | 0| 
 | 20221221T02:52:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 563 | 147| 
 | 20221221T02:14:18Z | Fully Silent Automated Windows 10 22h2 | https://github.com/CrypthorDeveloper/Silent-JPG-Exploit-Builder | 1 | 0| 
-| 20221221T01:47:31Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 372 | 30| 
 
 
 # backdoor on Github 推荐
