@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221221T12:44:08Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
+| 20221221T13:05:45Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221221T08:16:49Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
 | 20221221T07:28:12Z | CVE-2022-14733 | Null | https://github.com/hkzck/CVE-2022-14733 | | 
 | 20221221T01:57:54Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
