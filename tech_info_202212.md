@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T02:53:15Z | Null | https://github.com/fuzzy-yzz/fuzzy_yzz.github.io | 0 | 0| 
 | 20221221T02:40:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1210 | 155| 
 | 20221221T02:26:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43753 | 21791| 
 | 20221221T00:37:53Z | I will be introducing you to a legit Bitcoin software platform that will earn you bitcoins every 24 hours up to 30 days, directly to your registered wallet with just one deposit, please DM me for more details. | https://github.com/Kingsleyofi/fuzzy-fiesta | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20221220T23:52:59Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 134 | 9| 
 | 20221220T20:52:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8171 | 1785| 
 | 20221220T14:57:02Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1647 | 76| 
-| 20221220T13:47:12Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2042 | 505| 
 
 
 
