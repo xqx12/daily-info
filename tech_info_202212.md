@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T13:26:42Z | A way of exploiting data from a portfolio. | https://github.com/Akmot9/Investing.com-data_exploit | 0 | 0| 
 | 20221221T10:41:01Z | Modified custom exploits and general scripts.   | https://github.com/autom4il/OSCP | 0 | 0| 
 | 20221221T10:19:33Z | we did exploitation and created payload using metasploit framework  | https://github.com/haros1001001/Metasploit-framework | 0 | 0| 
 | 20221221T09:30:15Z | 领创(linspirer)和龙之门爱学(etiantian)渗透测试公开信息 | https://github.com/ljy-002/Linspirer-Etiantian-Examcloud.exploit | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221221T02:52:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 563 | 147| 
 | 20221221T02:14:18Z | Fully Silent Automated Windows 10 22h2 | https://github.com/CrypthorDeveloper/Silent-JPG-Exploit-Builder | 1 | 0| 
 | 20221221T01:47:31Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 372 | 30| 
-| 20221221T00:37:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5140 | 716| 
 
 
 # backdoor on Github 推荐
