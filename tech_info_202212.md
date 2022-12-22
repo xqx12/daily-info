@@ -90,6 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T01:34:13Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/champyhashemo/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20221222T01:33:56Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/champyhashemo/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20221222T01:27:47Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T01:08:32Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/stuardnudings/DF2-DeaD-Frontier2-PrivateCheat | 1 | 0| 
 | 20221222T01:06:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/stuardnudings/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20221221T23:40:24Z | Null | https://github.com/allansomera/binary-exploit-practice | 0 | 0| 
@@ -97,9 +100,6 @@
 | 20221221T21:56:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3y | 1 | 0| 
 | 20221221T21:55:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3y | 1 | 0| 
 | 20221221T21:54:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3y | 2 | 0| 
-| 20221221T17:41:00Z | Exploiting | https://github.com/KATERGaming/Roblox | 0 | 0| 
-| 20221221T13:53:19Z | Disable LuckPerms commands on Velocity to prevent exploits. | https://github.com/frafol/LuckPermsVelocityDisabler | 0 | 0| 
-| 20221221T13:26:42Z | A way of exploiting data from a portfolio. | https://github.com/Akmot9/Investing.com-data_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
