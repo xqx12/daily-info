@@ -17,6 +17,7 @@
 | 20221221 | EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543) | https://www.willsroot.io/2022/12/entrybleed.html| 
 | 20221221 | Cisco BroadWorks CommPilot Application未授权SSRF漏洞 (CVE-2022-20951)细节。 | http://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/| 
 | 20221221 | 分析和利用 CVE-2020-6418 | https://www.reddit.com/r/netsec/comments/zro04x/deconstructing_and_exploiting_cve20206418/| 
+| 20221221 | 根据CVE漏洞学习Weblogic安全系列 | http://tttang.com/archive/1830/| 
 
 
 # 安全维基 推荐

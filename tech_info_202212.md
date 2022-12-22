@@ -17,6 +17,7 @@
 | 20221221 | EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543) | https://www.willsroot.io/2022/12/entrybleed.html| 
 | 20221221 | Cisco BroadWorks CommPilot Application未授权SSRF漏洞 (CVE-2022-20951)细节。 | http://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/| 
 | 20221221 | 分析和利用 CVE-2020-6418 | https://www.reddit.com/r/netsec/comments/zro04x/deconstructing_and_exploiting_cve20206418/| 
+| 20221221 | 根据CVE漏洞学习Weblogic安全系列 | http://tttang.com/archive/1830/| 
 | 20221220 | Mai Finance 预言机价格操纵漏洞：利用fallback函数重入get_virtual_price()，使预言机价格升高。 | https://ambergroup.medium.com/mai-finances-oracle-manipulation-vulnerability-explained-55e4b5cc2b82| 
 | 20221220 | Linux内核利用kmalloc-cg中的Netfilter UAF漏洞-CVE-2022-32250 | https://www.reddit.com/r/netsec/comments/zq6007/linux_kernel_exploiting_a_netfilter_useafterfree/| 
 | 20221220 | virustotal的语法总结 | http://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/VTI_Cheatsheet.pdf| 
@@ -25,7 +26,6 @@
 | 20221220 | 除了对 MiniDumpWriteDump 函数进行监控外，还可以分别通过监视 lsass.exe 的进程句柄和 SeDebugPrivilege 令牌权限来检测 LSASS 内存 dump 操作 | http://link.medium.com/Vr3wMiyHSvb| 
 | 20221220 | Linux kernel中WILC1000无线网卡驱动爆出多个远程拒绝服务漏洞 | https://securitylab.github.com/advisories/GHSL-2022-112_GHSL-2022-115_wilc1000/| 
 | 20221219 | 条件竞争导致的macOS本地提权漏洞（CVE-2022-46689）细节及POC。 | http://securityonline.info/cve-2022-46689-poc-macos-privilege-escalation-vulnerability/| 
-| 20221219 | 如何基于PostMessage配置问题，在Google Docs域上发现一个XSS漏洞。 | http://blog.geekycat.in/google-vrp-hijacking-your-screenshots/| 
 
 
 # 安全维基 推荐
