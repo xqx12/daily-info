@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221222T02:58:00Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
 | 20221222T02:47:27Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
 | 20221222T02:19:05Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
 | 20221221T21:50:22Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/Conradoduart3/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
@@ -55,7 +56,6 @@
 | 20221221T18:39:24Z | CVE-2022-1388 | Null | https://github.com/devengpk/CVE-2022-1388 | | 
 | 20221221T16:56:38Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/DataFox/CVE-2022-0847 | | 
 | 20221221T14:06:20Z | cve-2022-45511 | Null | https://github.com/kinderscsaa/cve-2022-45511 | | 
-| 20221221T07:28:12Z | CVE-2022-14733 | Null | https://github.com/hkzck/CVE-2022-14733 | | 
 
 
 # klee on Github 推荐
