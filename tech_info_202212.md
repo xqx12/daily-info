@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
 | 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 148| 
 | 20221222T12:29:56Z | Null | https://github.com/Bankys1990/exploit | 0 | 0| 
 | 20221222T11:59:16Z | Exploits for DARPA project. | https://github.com/ryan-wlr/DARPA | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221222T09:04:39Z | CVE-2021-42287/CVE-2021-42278 Exploiter | https://github.com/TryA9ain/noPac | 0 | 0| 
 | 20221222T08:30:44Z | Null | https://github.com/MienainetFramework/MienaiNet-Exploits | 0 | 0| 
 | 20221222T06:52:01Z | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework.  | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | 1 | 0| 
-| 20221222T03:48:16Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1789 | 370| 
 
 
 # backdoor on Github 推荐
