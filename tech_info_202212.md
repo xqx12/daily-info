@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T13:15:41Z | Fuzzing tool | https://github.com/Sxmpl3/WSearch | 0 | 0| 
 | 20221222T12:53:53Z | http raw request fuzzer | https://github.com/0xe7272e/reqfuzz | 0 | 0| 
 | 20221222T12:40:03Z | Null | https://github.com/hamza202/fuzzlee | 0 | 0| 
 | 20221222T11:11:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4488 | 1086| 
@@ -152,7 +153,6 @@
 | 20221222T02:46:17Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
 | 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 | 20221221T23:33:22Z | Null | https://github.com/imsoka/Fuzziedeck-Model | 0 | 0| 
-| 20221221T22:41:01Z | Null | https://github.com/Georgy-hook/FuzzyExpertSystem | 0 | 0| 
 
 
 
