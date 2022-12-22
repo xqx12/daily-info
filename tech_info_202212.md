@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T02:36:21Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VitaFT4 | 0 | 0| 
 | 20221222T02:31:24Z | L damage | https://github.com/DX9Paster/Fortnite-Exploits | 0 | 0| 
 | 20221222T02:30:12Z | GPay balance exploit READ MORE BELOW | https://github.com/haarsasaow/GPAY-BALANCE-EXPLOIT | 25 | 0| 
 | 20221222T02:27:44Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/champyhashemo/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 25 | 0| 
@@ -99,7 +100,6 @@
 | 20221222T01:27:47Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221221T23:40:24Z | Null | https://github.com/allansomera/binary-exploit-practice | 0 | 0| 
 | 20221221T23:02:31Z | Null | https://github.com/PeaceCtrlAlex/Roblox-Exploits | 0 | 0| 
-| 20221221T21:56:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3y | 1 | 0| 
 
 
 # backdoor on Github 推荐
