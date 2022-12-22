@@ -13,6 +13,7 @@
 | 20221221 | Gamaredon APT组织活动的分析与总结 | https://unit42.paloaltonetworks.com/trident-ursa/| 
 | 20221221 | CrowdStrike最近发现了一种新的利用方法，利用CVE-2022-41080和CVE-2022-41082通过Outlook Web Access实现远程代码执行（RCE） | https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/| 
 | 20221221 | Passwordstate被发现存在多个漏洞，并可结合上述漏洞形成攻击链。首先利用公开用户名可以伪造token，然后结合对管理员用户的xss漏洞可以获得管理员的shell，最终可以拖取并解密数据库获取全部存储的密码。 | http://www.modzero.com/modlog/archives/2022/12/19/better_make_sure_your_password_manager_is_secure/index.html| 
+| 20221221 | Linux io_uring子系统UAF漏洞（CVE-2022-2602）漏洞利用POC公开了，可用于本地提权。 | http://securityonline.info/poc-code-for-linux-kernel-privilege-escalation-flaw-cve-2022-2602-published/| 
 | 20221220 | Mai Finance 预言机价格操纵漏洞：利用fallback函数重入get_virtual_price()，使预言机价格升高。 | https://ambergroup.medium.com/mai-finances-oracle-manipulation-vulnerability-explained-55e4b5cc2b82| 
 | 20221220 | Linux内核利用kmalloc-cg中的Netfilter UAF漏洞-CVE-2022-32250 | https://www.reddit.com/r/netsec/comments/zq6007/linux_kernel_exploiting_a_netfilter_useafterfree/| 
 | 20221220 | virustotal的语法总结 | http://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/VTI_Cheatsheet.pdf| 
@@ -25,7 +26,6 @@
 | 20221219 | 开源工具 laZzzy 实现了多种常见的 Shellcode 执行和混淆技术 | https://www.kitploit.com/2022/12/lazzzy-shellcode-loader-developed-using.html| 
 | 20221219 | 关于敏感资源权限设置不当产生的漏洞模式，如CVE-2022-29527，aws中对于sudoers文件权限设置不当漏洞 | https://cwe.mitre.org/data/definitions/732.html| 
 | 20221219 | Apache Dubbo Hession反序列化漏洞的利用，引用了一篇使用ByteCodeDL寻找CTF题目利用链的文章，ByteCodeDL是一个类似CodeQL的声明式静态分析工具，优势是支持直接分析字节码 | https://xz.aliyun.com/t/11961| 
-| 20221219 | 使用ChatGPT对CVE-2022-23093（FreeBSD ping 栈溢出漏洞）进行补丁分析 | https://www.youtube.com/watch?v=bkkVClq9aGw| 
 
 
 # 安全维基 推荐
