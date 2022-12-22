@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 | 20221222T01:06:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8183 | 1786| 
-| 20221222T00:03:27Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 | 20221221T23:33:22Z | Null | https://github.com/imsoka/Fuzziedeck-Model | 0 | 0| 
 | 20221221T22:41:01Z | Null | https://github.com/Georgy-hook/FuzzyExpertSystem | 0 | 0| 
 | 20221221T21:45:20Z | Null | https://github.com/neffej/fuzzy-pw-system | 0 | 0| 
