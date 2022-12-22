@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20221222 | ChatGPT在逆向和恶意软件分析中可能发挥的作用，如编译的汇编结果中包含注释，便于理解；指令集互相转换等 | https://www.sentinelone.com/labs/11-problems-chatgpt-can-solve-for-reverse-engineers-and-malware-analysts/| 
 | 20221222 | 国产智能报警器的逆向之旅 | http://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/| 
+| 20221222 | MSI格式文件的拆包工具，可分析恶意MSI安装包 | https://github.com/mgeeky/msidump| 
 
 
 # 安全维基 推荐

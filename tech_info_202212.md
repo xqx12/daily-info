@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20221222 | ChatGPT在逆向和恶意软件分析中可能发挥的作用，如编译的汇编结果中包含注释，便于理解；指令集互相转换等 | https://www.sentinelone.com/labs/11-problems-chatgpt-can-solve-for-reverse-engineers-and-malware-analysts/| 
 | 20221222 | 国产智能报警器的逆向之旅 | http://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/| 
+| 20221222 | MSI格式文件的拆包工具，可分析恶意MSI安装包 | https://github.com/mgeeky/msidump| 
 | 20221221 | 通过泄露Sentinel Value绕过Chrome v8 HardenProtect | https://www.reddit.com/r/netsec/comments/zquvl5/using_leaking_sentinel_value_to_bypass_the_latest/| 
 | 20221221 | 一款名叫Chaes恶意软件的分析报告，该恶意程序利用了WMIC等多个恶意软件常用的攻击技巧 | https://sidechannel.blog/en/new-chaes-campaign-uses-windows-management-instrumentation-command-line-utility/| 
 | 20221221 | Cisco Talos发布报告关于使用Excel XLL加载组件组织的总结 | https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/| 
@@ -25,7 +26,6 @@
 | 20221220 | virustotal的语法总结 | http://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/VTI_Cheatsheet.pdf| 
 | 20221220 | Huawei HG255s路由器漏洞，利用“%2f”实现路径穿越 | https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015?gi=53eedf81f254&source=rss----7b722bfd1b8d---4| 
 | 20221220 | macOS中内存执行技术的新旧对比 | http://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html| 
-| 20221220 | 除了对 MiniDumpWriteDump 函数进行监控外，还可以分别通过监视 lsass.exe 的进程句柄和 SeDebugPrivilege 令牌权限来检测 LSASS 内存 dump 操作 | http://link.medium.com/Vr3wMiyHSvb| 
 
 
 # 安全维基 推荐
