@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T01:08:32Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/stuardnudings/DF2-DeaD-Frontier2-PrivateCheat | 1 | 0| 
+| 20221222T01:06:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/stuardnudings/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20221221T23:40:24Z | Null | https://github.com/allansomera/binary-exploit-practice | 0 | 0| 
 | 20221221T23:02:31Z | Null | https://github.com/PeaceCtrlAlex/Roblox-Exploits | 0 | 0| 
 | 20221221T21:56:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3y | 1 | 0| 
@@ -98,8 +100,6 @@
 | 20221221T17:41:00Z | Exploiting | https://github.com/KATERGaming/Roblox | 0 | 0| 
 | 20221221T13:53:19Z | Disable LuckPerms commands on Velocity to prevent exploits. | https://github.com/frafol/LuckPermsVelocityDisabler | 0 | 0| 
 | 20221221T13:26:42Z | A way of exploiting data from a portfolio. | https://github.com/Akmot9/Investing.com-data_exploit | 0 | 0| 
-| 20221221T10:41:01Z | Modified custom exploits and general scripts.   | https://github.com/autom4il/OSCP | 0 | 0| 
-| 20221221T10:19:33Z | we did exploitation and created payload using metasploit framework  | https://github.com/haros1001001/Metasploit-framework | 0 | 0| 
 
 
 # backdoor on Github 推荐
