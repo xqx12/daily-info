@@ -75,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221222T13:21:23Z | Fuzzing tool | https://github.com/Sxmpl3/WSearch | 1 | 0| 
+| 20221222T13:27:39Z | Fuzzing tool | https://github.com/Sxmpl3/WSearch | 2 | 0| 
 | 20221222T12:53:53Z | http raw request fuzzer | https://github.com/0xe7272e/reqfuzz | 0 | 0| 
 | 20221222T12:40:03Z | Null | https://github.com/hamza202/fuzzlee | 0 | 0| 
 | 20221222T11:11:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4488 | 1086| 
