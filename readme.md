@@ -14,6 +14,8 @@
 | 20221221 | CrowdStrike最近发现了一种新的利用方法，利用CVE-2022-41080和CVE-2022-41082通过Outlook Web Access实现远程代码执行（RCE） | https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/| 
 | 20221221 | Passwordstate被发现存在多个漏洞，并可结合上述漏洞形成攻击链。首先利用公开用户名可以伪造token，然后结合对管理员用户的xss漏洞可以获得管理员的shell，最终可以拖取并解密数据库获取全部存储的密码。 | http://www.modzero.com/modlog/archives/2022/12/19/better_make_sure_your_password_manager_is_secure/index.html| 
 | 20221221 | Linux io_uring子系统UAF漏洞（CVE-2022-2602）漏洞利用POC公开了，可用于本地提权。 | http://securityonline.info/poc-code-for-linux-kernel-privilege-escalation-flaw-cve-2022-2602-published/| 
+| 20221221 | EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543) | https://www.willsroot.io/2022/12/entrybleed.html| 
+| 20221221 | Cisco BroadWorks CommPilot Application未授权SSRF漏洞 (CVE-2022-20951)细节。 | http://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/| 
 
 
 # 安全维基 推荐
