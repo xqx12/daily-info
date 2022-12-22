@@ -16,6 +16,7 @@
 | 20221221 | Linux io_uring子系统UAF漏洞（CVE-2022-2602）漏洞利用POC公开了，可用于本地提权。 | http://securityonline.info/poc-code-for-linux-kernel-privilege-escalation-flaw-cve-2022-2602-published/| 
 | 20221221 | EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543) | https://www.willsroot.io/2022/12/entrybleed.html| 
 | 20221221 | Cisco BroadWorks CommPilot Application未授权SSRF漏洞 (CVE-2022-20951)细节。 | http://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/| 
+| 20221221 | 分析和利用 CVE-2020-6418 | https://www.reddit.com/r/netsec/comments/zro04x/deconstructing_and_exploiting_cve20206418/| 
 
 
 # 安全维基 推荐

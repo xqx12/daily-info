@@ -16,6 +16,7 @@
 | 20221221 | Linux io_uring子系统UAF漏洞（CVE-2022-2602）漏洞利用POC公开了，可用于本地提权。 | http://securityonline.info/poc-code-for-linux-kernel-privilege-escalation-flaw-cve-2022-2602-published/| 
 | 20221221 | EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543) | https://www.willsroot.io/2022/12/entrybleed.html| 
 | 20221221 | Cisco BroadWorks CommPilot Application未授权SSRF漏洞 (CVE-2022-20951)细节。 | http://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/| 
+| 20221221 | 分析和利用 CVE-2020-6418 | https://www.reddit.com/r/netsec/comments/zro04x/deconstructing_and_exploiting_cve20206418/| 
 | 20221220 | Mai Finance 预言机价格操纵漏洞：利用fallback函数重入get_virtual_price()，使预言机价格升高。 | https://ambergroup.medium.com/mai-finances-oracle-manipulation-vulnerability-explained-55e4b5cc2b82| 
 | 20221220 | Linux内核利用kmalloc-cg中的Netfilter UAF漏洞-CVE-2022-32250 | https://www.reddit.com/r/netsec/comments/zq6007/linux_kernel_exploiting_a_netfilter_useafterfree/| 
 | 20221220 | virustotal的语法总结 | http://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/VTI_Cheatsheet.pdf| 
@@ -25,7 +26,6 @@
 | 20221220 | Linux kernel中WILC1000无线网卡驱动爆出多个远程拒绝服务漏洞 | https://securitylab.github.com/advisories/GHSL-2022-112_GHSL-2022-115_wilc1000/| 
 | 20221219 | 条件竞争导致的macOS本地提权漏洞（CVE-2022-46689）细节及POC。 | http://securityonline.info/cve-2022-46689-poc-macos-privilege-escalation-vulnerability/| 
 | 20221219 | 如何基于PostMessage配置问题，在Google Docs域上发现一个XSS漏洞。 | http://blog.geekycat.in/google-vrp-hijacking-your-screenshots/| 
-| 20221219 | 开源工具 laZzzy 实现了多种常见的 Shellcode 执行和混淆技术 | https://www.kitploit.com/2022/12/lazzzy-shellcode-loader-developed-using.html| 
 
 
 # 安全维基 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T02:33:34Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
 | 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 | 20221222T01:06:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8183 | 1786| 
 | 20221221T23:33:22Z | Null | https://github.com/imsoka/Fuzziedeck-Model | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20221221T21:08:46Z | Smooth scrolling, without fuzz | https://github.com/peeke/smoosh-scroll | 0 | 0| 
 | 20221221T21:03:00Z | A project written to test fuzzy search | https://github.com/leverow/FuzzySearch | 0 | 0| 
 | 20221221T19:05:15Z | Null | https://github.com/nbelacel/FuzzyJMeansVNS | 2 | 0| 
-| 20221221T13:42:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 5 | 1| 
 
 
 
