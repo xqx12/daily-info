@@ -32,45 +32,45 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221221 | Thinkphp3.2.3 SQL注入总结 | https://sec-in.com/article/1987| 
+| 20221221 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw| 
+| 20221221 | Kaggle知识点：Sklearn异常检测方法 | https://mp.weixin.qq.com/s/JiZp0BodlTxHEKYYZXH2CQ| 
+| 20221221 | 窥探大型公共DNS解析器的缓存 | https://mp.weixin.qq.com/s/9Gm9cjIatjAD9eUTTpMZAg| 
 | 20221220 | SecWiki周刊（第459期) | https://www.sec-wiki.com/weekly/459| 
 | 20221220 | [HTB] Olympus Writeup | https://mp.weixin.qq.com/s/kw1505rMlC_IIkgDGXoVTw| 
 | 20221220 | WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
 | 20221220 | 红队Java代码审计生命周期 | https://xz.aliyun.com/t/11966| 
 | 20221219 | 静态程序分析框架“太阿”的设计之道 | https://www.bilibili.com/video/BV1XP4y1S7cP/| 
 | 20221219 | 2022 年 Recorded Future C&C 服务器跟踪报告 | https://mp.weixin.qq.com/s/aJTcub12byRW3JmcKBm-Bg| 
-| 20221216 | DarkAngel: 一款全自动白帽漏洞扫描器 | https://github.com/Bywalks/DarkAngel| 
-| 20221216 | Project Achilles：使用 RNN 对 Java 源代码进行静态漏洞检测... | https://mp.weixin.qq.com/s/U0sZwPc5otIg1-amv12BEg| 
-| 20221215 | 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221221T13:05:45Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
-| 20221221T08:16:49Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
+| 20221222T00:46:30Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
+| 20221222T00:46:07Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
+| 20221221T21:50:22Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/Conradoduart3/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20221221T21:49:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Karvoid/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20221221T21:47:10Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/CleanSoftwareSolutions/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221221T18:40:45Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
+| 20221221T18:39:24Z | CVE-2022-1388 | Null | https://github.com/devengpk/CVE-2022-1388 | | 
+| 20221221T16:56:38Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/DataFox/CVE-2022-0847 | | 
+| 20221221T14:06:20Z | cve-2022-45511 | Null | https://github.com/kinderscsaa/cve-2022-45511 | | 
 | 20221221T07:28:12Z | CVE-2022-14733 | Null | https://github.com/hkzck/CVE-2022-14733 | | 
-| 20221221T01:57:54Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
-| 20221221T01:40:11Z | CVE-2022-48870 | maccms  admin+  xss attacks  | https://github.com/Cedric1314/CVE-2022-48870 | | 
-| 20221221T00:19:14Z | CVE-2022-43271 | Null | https://github.com/SecurityWillCheck/CVE-2022-43271 | | 
-| 20221220T23:23:19Z | CVE-2022-3382 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC | | 
-| 20221220T18:53:00Z | CVE-2021-34767 | Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability | https://github.com/lukejenkins/CVE-2021-34767 | | 
-| 20221220T17:55:19Z | CVE-2022-36804 | Null | https://github.com/devengpk/CVE-2022-36804 | | 
-| 20221220T16:58:47Z | CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T20:52:56Z | Null | https://github.com/SlynkoDenis/KLEE-Tests-Generation | 0 | 0| 
+| 20221221T20:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2130 | 602| 
+| 20221221T19:13:20Z | Null | https://github.com/pjazdzewski1990/Klee | 0 | 0| 
+| 20221221T14:57:59Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
 | 20221221T11:54:43Z | External composite video bypass preamplifier modboard for the Famicom/NES | https://github.com/Gumball2415/squeeki-kleen-Video-FC | 0 | 0| 
 | 20221221T11:38:56Z | External audio bypass preamplifier modboard for the Famicom | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 5 | 0| 
 | 20221221T09:34:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 55 | 3| 
 | 20221221T04:55:36Z | A set of additional tools for KLEE | https://github.com/R3x/klee-tools | 0 | 0| 
-| 20221220T17:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2129 | 602| 
 | 20221220T13:15:04Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 12 | 6| 
 | 20221219T22:36:31Z | An experimental unit test generator for C programs based on KLEE | https://github.com/liuzikai/klee-unit | 0 | 0| 
-| 20221219T19:34:08Z | Null | https://github.com/katyushapolye/KleeMains | 0 | 0| 
-| 20221219T14:30:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 50| 
-| 20221219T14:14:33Z | Null | https://github.com/kleeblattdev/kleeblattdev-html_codeflow_lev1_3_ol-ul | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T23:40:24Z | Null | https://github.com/allansomera/binary-exploit-practice | 0 | 0| 
+| 20221221T23:02:31Z | Null | https://github.com/PeaceCtrlAlex/Roblox-Exploits | 0 | 0| 
+| 20221221T21:56:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3y | 1 | 0| 
+| 20221221T21:55:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3y | 1 | 0| 
+| 20221221T21:54:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3y | 2 | 0| 
+| 20221221T17:41:00Z | Exploiting | https://github.com/KATERGaming/Roblox | 0 | 0| 
 | 20221221T13:53:19Z | Disable LuckPerms commands on Velocity to prevent exploits. | https://github.com/frafol/LuckPermsVelocityDisabler | 0 | 0| 
 | 20221221T13:26:42Z | A way of exploiting data from a portfolio. | https://github.com/Akmot9/Investing.com-data_exploit | 0 | 0| 
 | 20221221T10:41:01Z | Modified custom exploits and general scripts.   | https://github.com/autom4il/OSCP | 0 | 0| 
 | 20221221T10:19:33Z | we did exploitation and created payload using metasploit framework  | https://github.com/haros1001001/Metasploit-framework | 0 | 0| 
-| 20221221T09:30:15Z | 领创(linspirer)和龙之门爱学(etiantian)渗透测试公开信息 | https://github.com/ljy-002/Linspirer-Etiantian-Examcloud.exploit | 0 | 0| 
-| 20221221T09:15:29Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 0 | 0| 
-| 20221221T08:41:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4819 | 702| 
-| 20221221T07:44:29Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 48 | 4| 
-| 20221221T03:25:11Z | Create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 2 | 0| 
-| 20221221T02:52:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 563 | 147| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221221T23:11:03Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
+| 20221221T22:18:15Z | Null | https://github.com/ChaaruManjuraj/Advanced-Backdoor | 0 | 0| 
+| 20221221T20:01:26Z | Systemd (daemon) Backdoor Persistence | https://github.com/RodricBr/Sysper | 0 | 0| 
+| 20221221T19:55:40Z | Backdoor on Windows wich controlled from telegram bot | https://github.com/CryWithAll/TelegramBackdoor | 0 | 0| 
+| 20221221T19:44:31Z | Backdoor in python  | https://github.com/KaBuLoZu/backdoor | 0 | 0| 
 | 20221221T08:09:48Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
 | 20221221T05:41:17Z | Null | https://github.com/mrunknown10/backdoorphish2 | 0 | 0| 
 | 20221221T05:35:17Z | Null | https://github.com/mrunknown10/backdoorPhish | 0 | 0| 
 | 20221221T00:46:09Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1965 | 338| 
 | 20221220T18:02:29Z | BACKDOOR CTF BLENDER WRITE UP | https://github.com/jackalkarlos/BACKDOOR-CTF-BLENDER-WRITE-UP | 0 | 0| 
-| 20221220T17:43:09Z | Backdoor attacks using syntactically formatted input | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 2 | 0| 
-| 20221220T15:25:09Z | Esta script generara un backdoor php y dos archivos el uno es hackear.sh que es la script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok e  su termux. | https://github.com/MRX90902WX/BackPHP | 0 | 0| 
-| 20221220T15:16:23Z | Null | https://github.com/KediriXploit/backdoor | 0 | 0| 
-| 20221220T12:41:30Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 226 | 26| 
-| 20221220T08:56:23Z | Null | https://github.com/luiaz34/Backdoor-malware-Python- | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221221T13:56:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8179 | 1785| 
+| 20221222T00:03:27Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
+| 20221221T23:33:22Z | Null | https://github.com/imsoka/Fuzziedeck-Model | 0 | 0| 
+| 20221221T22:41:01Z | Null | https://github.com/Georgy-hook/FuzzyExpertSystem | 0 | 0| 
+| 20221221T21:45:20Z | Null | https://github.com/neffej/fuzzy-pw-system | 0 | 0| 
+| 20221221T21:11:38Z | This shared-repo contains my own (or copied from someone else%s and modified) custom scripts/files/other data I use in different projects I need to operate. | https://github.com/a-shvedov/fuzzing_investigation | 0 | 0| 
+| 20221221T21:08:46Z | Smooth scrolling, without fuzz | https://github.com/peeke/smoosh-scroll | 0 | 0| 
+| 20221221T21:03:00Z | A project written to test fuzzy search | https://github.com/leverow/FuzzySearch | 0 | 0| 
+| 20221221T19:05:15Z | Null | https://github.com/nbelacel/FuzzyJMeansVNS | 2 | 0| 
+| 20221221T18:53:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8182 | 1786| 
 | 20221221T13:42:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 5 | 1| 
-| 20221221T13:17:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4484 | 1086| 
-| 20221221T12:37:27Z | Null | https://github.com/JithyaManoj/fuzzy-umbrella | 0 | 0| 
-| 20221221T10:46:58Z | Null | https://github.com/ismaail12/spk-fuzzy | 0 | 0| 
-| 20221221T09:37:14Z | Fuzzy Search from Autopilot | https://github.com/ubio/fuzzy-search | 0 | 0| 
-| 20221221T09:21:50Z | Null | https://github.com/SchmidtFelix1/fuzzy-invention | 0 | 0| 
-| 20221221T08:18:10Z | Null | https://github.com/AndreiSeradou/FuzzySets | 0 | 0| 
-| 20221221T08:05:51Z | Null | https://github.com/comfyclient/fuzzy-lamp | 0 | 0| 
-| 20221221T06:50:20Z | Null | https://github.com/abrahambabtistio/fuzzy-inverter | 0 | 0| 
 
 
 
