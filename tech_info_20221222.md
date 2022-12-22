@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T13:49:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-u5Uxe-wish-exploit | 0 | 0| 
 | 20221222T13:37:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1788 | 370| 
 | 20221222T13:33:54Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20221222T10:39:09Z | Exploit farm for Attack / Defense CTFs | https://github.com/JaydenB0/AnimalFarm | 0 | 0| 
 | 20221222T10:33:47Z | Null | https://github.com/DevEless/ApresCetteExoJeVaisExploiterUneApi | 0 | 0| 
 | 20221222T09:58:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4821 | 702| 
-| 20221222T09:04:39Z | CVE-2021-42287/CVE-2021-42278 Exploiter | https://github.com/TryA9ain/noPac | 0 | 0| 
 
 
 # backdoor on Github 推荐
