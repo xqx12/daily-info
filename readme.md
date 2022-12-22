@@ -75,8 +75,8 @@
 | 20221221T17:41:00Z | Exploiting | https://github.com/KATERGaming/Roblox | 0 | 0| 
 | 20221221T13:53:19Z | Disable LuckPerms commands on Velocity to prevent exploits. | https://github.com/frafol/LuckPermsVelocityDisabler | 0 | 0| 
 | 20221221T13:26:42Z | A way of exploiting data from a portfolio. | https://github.com/Akmot9/Investing.com-data_exploit | 0 | 0| 
+| 20221221T12:57:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5142 | 716| 
 | 20221221T10:41:01Z | Modified custom exploits and general scripts.   | https://github.com/autom4il/OSCP | 0 | 0| 
-| 20221221T10:19:33Z | we did exploitation and created payload using metasploit framework  | https://github.com/haros1001001/Metasploit-framework | 0 | 0| 
 
 
 # backdoor on Github 推荐
