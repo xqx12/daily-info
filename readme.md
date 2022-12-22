@@ -83,6 +83,7 @@
 | 20221222T11:11:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8184 | 1786| 
 | 20221222T10:42:16Z | Null | https://github.com/shirleysteven/react-native-fuzzy-enigma | 0 | 0| 
 | 20221222T08:17:27Z | FuzzyApplication to control the temprature | https://github.com/arikmahesawiradana/TempratureControllerwithFuzzy | 0 | 0| 
+| 20221222T06:07:11Z | Null | https://github.com/MarcelRaschke/fuzzy-memory | 0 | 0| 
 | 20221222T02:46:17Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
 | 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 
