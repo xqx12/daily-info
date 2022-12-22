@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221222 | ChatGPT在逆向和恶意软件分析中可能发挥的作用，如编译的汇编结果中包含注释，便于理解；指令集互相转换等 | https://www.sentinelone.com/labs/11-problems-chatgpt-can-solve-for-reverse-engineers-and-malware-analysts/| 
 | 20221221 | 通过泄露Sentinel Value绕过Chrome v8 HardenProtect | https://www.reddit.com/r/netsec/comments/zquvl5/using_leaking_sentinel_value_to_bypass_the_latest/| 
 | 20221221 | 一款名叫Chaes恶意软件的分析报告，该恶意程序利用了WMIC等多个恶意软件常用的攻击技巧 | https://sidechannel.blog/en/new-chaes-campaign-uses-windows-management-instrumentation-command-line-utility/| 
 | 20221221 | Cisco Talos发布报告关于使用Excel XLL加载组件组织的总结 | https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/| 
@@ -25,7 +26,6 @@
 | 20221220 | macOS中内存执行技术的新旧对比 | http://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html| 
 | 20221220 | 除了对 MiniDumpWriteDump 函数进行监控外，还可以分别通过监视 lsass.exe 的进程句柄和 SeDebugPrivilege 令牌权限来检测 LSASS 内存 dump 操作 | http://link.medium.com/Vr3wMiyHSvb| 
 | 20221220 | Linux kernel中WILC1000无线网卡驱动爆出多个远程拒绝服务漏洞 | https://securitylab.github.com/advisories/GHSL-2022-112_GHSL-2022-115_wilc1000/| 
-| 20221219 | 条件竞争导致的macOS本地提权漏洞（CVE-2022-46689）细节及POC。 | http://securityonline.info/cve-2022-46689-poc-macos-privilege-escalation-vulnerability/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221222T02:58:00Z | CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | | 
-| 20221222T02:47:27Z | CVE-2022-2602 | Null | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit | | 
-| 20221222T02:19:05Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
-| 20221221T21:50:22Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/Conradoduart3/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221221T21:49:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Karvoid/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221221T21:47:10Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/CleanSoftwareSolutions/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221221T18:40:45Z | cve-2022-39253 | Null | https://github.com/ssst0n3/docker-cve-2022-39253-poc | | 
-| 20221221T18:39:24Z | CVE-2022-1388 | Null | https://github.com/devengpk/CVE-2022-1388 | | 
-| 20221221T16:56:38Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/DataFox/CVE-2022-0847 | | 
-| 20221221T14:06:20Z | cve-2022-45511 | Null | https://github.com/kinderscsaa/cve-2022-45511 | | 
+| 20221222T12:18:32Z | CVE-2022-4633 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4633 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4633 | | 
+| 20221222T12:16:42Z | CVE-2022-41697 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41697 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41697 | | 
+| 20221222T12:16:39Z | CVE-2022-41654 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41654 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41654 | | 
+| 20221222T12:16:31Z | CVE-2020-36625 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-36625 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2020-36625 | | 
+| 20221222T12:16:18Z | CVE-2020-36624 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-36624 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2020-36624 | | 
+| 20221222T12:14:13Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
+| 20221222T11:43:54Z | CVE-2022-41082 | PoC for the CVE-2022-41082 Vulnerability Effecting Microsoft Exchange Servers | https://github.com/balki97/NotProxyShellHunter-CVE-2022-41082-POC | | 
+| 20221222T10:18:54Z | CVE-2022-33980 | Null | https://github.com/Code-971/CVE-2022-33980-EXP | | 
+| 20221222T09:00:56Z | CVE-2022-46695 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46695 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-46695 | | 
+| 20221222T09:00:43Z | CVE-2022-42846 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-42846 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-42846 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T07:21:00Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 281 | 66| 
 | 20221221T07:41:20Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
-| 20221221T04:19:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 280 | 66| 
 | 20221214T12:59:07Z | s2e-user | https://github.com/kai0722/s2e-user | 0 | 0| 
 | 20221214T11:33:42Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 7 | 2| 
 | 20221213T06:33:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 17 | 9| 
@@ -135,24 +135,24 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T06:09:43Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 65 | 15| 
 | 20221219T01:54:46Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 23 | 2| 
-| 20221215T16:22:48Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 65 | 15| 
 | 20221212T19:19:12Z | Dynamic Proof of Retrievability using Verifiable Computation and Error Correction Code (NDSS%23) | https://github.com/vt-asaplab/porla | 2 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T12:53:53Z | http raw request fuzzer | https://github.com/0xe7272e/reqfuzz | 0 | 0| 
+| 20221222T12:40:03Z | Null | https://github.com/hamza202/fuzzlee | 0 | 0| 
+| 20221222T11:11:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4488 | 1086| 
+| 20221222T11:11:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8184 | 1786| 
+| 20221222T10:42:16Z | Null | https://github.com/shirleysteven/react-native-fuzzy-enigma | 0 | 0| 
+| 20221222T08:17:27Z | FuzzyApplication to control the temprature | https://github.com/arikmahesawiradana/TempratureControllerwithFuzzy | 0 | 0| 
 | 20221222T02:46:17Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
 | 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
-| 20221222T01:06:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8183 | 1786| 
 | 20221221T23:33:22Z | Null | https://github.com/imsoka/Fuzziedeck-Model | 0 | 0| 
 | 20221221T22:41:01Z | Null | https://github.com/Georgy-hook/FuzzyExpertSystem | 0 | 0| 
-| 20221221T21:45:20Z | Null | https://github.com/neffej/fuzzy-pw-system | 0 | 0| 
-| 20221221T21:11:38Z | This shared-repo contains my own (or copied from someone else%s and modified) custom scripts/files/other data I use in different projects I need to operate. | https://github.com/a-shvedov/fuzzing_investigation | 0 | 0| 
-| 20221221T21:08:46Z | Smooth scrolling, without fuzz | https://github.com/peeke/smoosh-scroll | 0 | 0| 
-| 20221221T21:03:00Z | A project written to test fuzzy search | https://github.com/leverow/FuzzySearch | 0 | 0| 
-| 20221221T19:05:15Z | Null | https://github.com/nbelacel/FuzzyJMeansVNS | 2 | 0| 
 
 
 
