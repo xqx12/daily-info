@@ -110,9 +110,9 @@
 | 20221221T21:08:46Z | Smooth scrolling, without fuzz | https://github.com/peeke/smoosh-scroll | 0 | 0| 
 | 20221221T21:03:00Z | A project written to test fuzzy search | https://github.com/leverow/FuzzySearch | 0 | 0| 
 | 20221221T19:05:15Z | Null | https://github.com/nbelacel/FuzzyJMeansVNS | 2 | 0| 
-| 20221221T18:53:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8182 | 1786| 
 | 20221221T13:42:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 5 | 1| 
 | 20221221T13:17:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4484 | 1086| 
+| 20221221T12:37:27Z | Null | https://github.com/JithyaManoj/fuzzy-umbrella | 0 | 0| 
 
 
 
