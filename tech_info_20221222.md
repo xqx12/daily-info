@@ -48,7 +48,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221222T22:35:58Z | This exploit allows you to inject token grabber into a Discord Override Beta. | https://github.com/M4thew66/Discord-Buildoverride-Exploit | 0 | 0| 
 | 20221222T21:50:55Z | Google Chrome Extension Load Exploits Supported w10 w11 | https://github.com/Intrus1ve/ChromeExploit | 0 | 0| 
-| 20221222T21:42:16Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 32 | 27| 
 | 20221222T21:20:30Z | ExploitOnline betting sites using perfect strategy, and full auto mode | https://github.com/Jorn01/TotoExploit | 0 | 0| 
 | 20221222T15:24:02Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 26| 
 | 20221222T13:49:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-u5Uxe-wish-exploit | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20221222T13:33:54Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
 | 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 149| 
+| 20221222T12:38:40Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 55 | 32| 
 
 
 # backdoor on Github 推荐
