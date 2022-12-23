@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221223T13:53:15Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 0 | 0| 
+| 20221223T13:59:04Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 1 | 0| 
 | 20221223T13:00:26Z | nil | https://github.com/Brakatuta/AntiExploitDecryptionKey | 0 | 0| 
 | 20221223T12:59:01Z | Fluzi Roblox Exploit Using Fluxus API | https://github.com/tubers93x/Fluzi | 0 | 0| 
 | 20221223T12:39:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 28 | 6| 
