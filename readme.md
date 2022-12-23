@@ -34,6 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T17:06:18Z | Klee for labels | https://github.com/OCamlPro/klee4labels | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -45,26 +46,32 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T22:35:58Z | This exploit allows you to inject token grabber into a Discord Override Beta. | https://github.com/M4thew66/Discord-Buildoverride-Exploit | 0 | 0| 
+| 20221222T21:50:55Z | Google Chrome Extension Load Exploits Supported w10 w11 | https://github.com/Intrus1ve/ChromeExploit | 0 | 0| 
+| 20221222T21:42:16Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 32 | 27| 
+| 20221222T21:20:30Z | ExploitOnline betting sites using perfect strategy, and full auto mode | https://github.com/Jorn01/TotoExploit | 0 | 0| 
+| 20221222T15:24:02Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 26| 
 | 20221222T13:49:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-u5Uxe-wish-exploit | 0 | 0| 
 | 20221222T13:37:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1788 | 370| 
 | 20221222T13:33:54Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
-| 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 148| 
-| 20221222T12:29:56Z | Null | https://github.com/Bankys1990/exploit | 0 | 0| 
-| 20221222T11:59:16Z | Exploits for DARPA project. | https://github.com/ryan-wlr/DARPA | 0 | 0| 
-| 20221222T10:39:09Z | Exploit farm for Attack / Defense CTFs | https://github.com/JaydenB0/AnimalFarm | 0 | 0| 
-| 20221222T10:33:47Z | Null | https://github.com/DevEless/ApresCetteExoJeVaisExploiterUneApi | 0 | 0| 
-| 20221222T09:58:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4821 | 702| 
+| 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 149| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T22:24:38Z | just a backdoor 4 edukatianal perposes | https://github.com/WhoGiveAShit/blackdoor | 0 | 0| 
+| 20221222T21:54:00Z | This Web Shell is Free. | https://github.com/faizprtsc/N0rn-BackdoorV2 | 0 | 0| 
+| 20221222T20:48:43Z | Este script genera un backdoor php y dos archivos el uno es facebook.sh que es el script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok en su termux. | https://github.com/MRX90902WX/TroyaPHP | 0 | 0| 
+| 20221222T20:05:11Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T23:16:51Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 1 | 0| 
+| 20221222T17:03:13Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 1 | 0| 
 
 
 # big4 on Github 推荐
@@ -76,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T23:53:49Z | Null | https://github.com/Anx1V/Fuzzing | 0 | 0| 
+| 20221222T22:44:46Z | Fast approximate string matching. | https://github.com/tomukmatthews/fast-fuzzy-matching | 0 | 0| 
+| 20221222T21:47:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8185 | 1786| 
+| 20221222T21:40:53Z | Null | https://github.com/FuzzyTheFoxx/fuzzythefoxx.github.io | 0 | 0| 
+| 20221222T20:37:47Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
+| 20221222T17:24:02Z | Fuzzy DBScan R-package | https://github.com/henrifnk/FuzzyDBScan | 2 | 0| 
 | 20221222T13:27:39Z | Fuzzing tool | https://github.com/Sxmpl3/WSearch | 2 | 0| 
 | 20221222T12:53:53Z | http raw request fuzzer | https://github.com/0xe7272e/reqfuzz | 0 | 0| 
 | 20221222T12:40:03Z | Null | https://github.com/hamza202/fuzzlee | 0 | 0| 
 | 20221222T11:11:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4488 | 1086| 
-| 20221222T11:11:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8184 | 1786| 
-| 20221222T10:42:16Z | Null | https://github.com/shirleysteven/react-native-fuzzy-enigma | 0 | 0| 
-| 20221222T08:17:27Z | FuzzyApplication to control the temprature | https://github.com/arikmahesawiradana/TempratureControllerwithFuzzy | 0 | 0| 
-| 20221222T06:07:11Z | Null | https://github.com/MarcelRaschke/fuzzy-memory | 0 | 0| 
-| 20221222T02:46:17Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
-| 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 
 
 

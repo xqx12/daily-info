@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221222T12:18:32Z | CVE-2022-4633 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4633 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4633 | | 
-| 20221222T12:16:42Z | CVE-2022-41697 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41697 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41697 | | 
-| 20221222T12:16:39Z | CVE-2022-41654 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41654 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41654 | | 
-| 20221222T12:16:31Z | CVE-2020-36625 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-36625 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2020-36625 | | 
-| 20221222T12:16:18Z | CVE-2020-36624 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-36624 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2020-36624 | | 
-| 20221222T12:14:13Z | CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | | 
-| 20221222T11:43:54Z | CVE-2022-41082 | PoC for the CVE-2022-41082 Vulnerability Effecting Microsoft Exchange Servers | https://github.com/balki97/NotProxyShellHunter-CVE-2022-41082-POC | | 
-| 20221222T10:18:54Z | CVE-2022-33980 | Null | https://github.com/Code-971/CVE-2022-33980-EXP | | 
-| 20221222T09:00:56Z | CVE-2022-46695 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46695 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-46695 | | 
-| 20221222T09:00:43Z | CVE-2022-42846 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-42846 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-42846 | | 
+| 20221223T00:28:32Z | CVE-2022-30065 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-30065 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-30065 | | 
+| 20221223T00:28:28Z | CVE-2022-45228 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-45228 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-45228 | | 
+| 20221223T00:28:25Z | CVE-2022-40939 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-40939 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-40939 | | 
+| 20221223T00:28:19Z | CVE-2022-37886 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-37886 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-37886 | | 
+| 20221223T00:28:03Z | CVE-2022-4400 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4400 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4400 | | 
+| 20221223T00:27:59Z | CVE-2022-4414 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4414 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4414 | | 
+| 20221223T00:27:56Z | CVE-2022-4399 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4399 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4399 | | 
+| 20221223T00:27:53Z | CVE-2022-4397 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4397 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-4397 | | 
+| 20221223T00:27:50Z | CVE-2022-42823 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-42823 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-42823 | | 
+| 20221223T00:27:47Z | CVE-2022-45227 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-45227 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-45227 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T17:06:18Z | Klee for labels | https://github.com/OCamlPro/klee4labels | 0 | 0| 
 | 20221221T20:52:56Z | Null | https://github.com/SlynkoDenis/KLEE-Tests-Generation | 0 | 0| 
 | 20221221T20:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2130 | 602| 
 | 20221221T19:13:20Z | Null | https://github.com/pjazdzewski1990/Klee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221221T09:34:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 55 | 3| 
 | 20221221T04:55:36Z | A set of additional tools for KLEE | https://github.com/R3x/klee-tools | 0 | 0| 
 | 20221220T13:15:04Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 12 | 6| 
-| 20221219T22:36:31Z | An experimental unit test generator for C programs based on KLEE | https://github.com/liuzikai/klee-unit | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,36 +90,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T22:35:58Z | This exploit allows you to inject token grabber into a Discord Override Beta. | https://github.com/M4thew66/Discord-Buildoverride-Exploit | 0 | 0| 
+| 20221222T21:50:55Z | Google Chrome Extension Load Exploits Supported w10 w11 | https://github.com/Intrus1ve/ChromeExploit | 0 | 0| 
+| 20221222T21:42:16Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 32 | 27| 
+| 20221222T21:20:30Z | ExploitOnline betting sites using perfect strategy, and full auto mode | https://github.com/Jorn01/TotoExploit | 0 | 0| 
+| 20221222T15:24:02Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 26| 
 | 20221222T13:49:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-u5Uxe-wish-exploit | 0 | 0| 
 | 20221222T13:37:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1788 | 370| 
 | 20221222T13:33:54Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
-| 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 148| 
-| 20221222T12:29:56Z | Null | https://github.com/Bankys1990/exploit | 0 | 0| 
-| 20221222T11:59:16Z | Exploits for DARPA project. | https://github.com/ryan-wlr/DARPA | 0 | 0| 
-| 20221222T10:39:09Z | Exploit farm for Attack / Defense CTFs | https://github.com/JaydenB0/AnimalFarm | 0 | 0| 
-| 20221222T10:33:47Z | Null | https://github.com/DevEless/ApresCetteExoJeVaisExploiterUneApi | 0 | 0| 
-| 20221222T09:58:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4821 | 702| 
+| 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 149| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T00:53:46Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1997 | 343| 
+| 20221223T00:15:23Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 258 | 30| 
+| 20221222T22:24:38Z | just a backdoor 4 edukatianal perposes | https://github.com/WhoGiveAShit/blackdoor | 0 | 0| 
+| 20221222T21:54:00Z | This Web Shell is Free. | https://github.com/faizprtsc/N0rn-BackdoorV2 | 0 | 0| 
+| 20221222T20:48:43Z | Este script genera un backdoor php y dos archivos el uno es facebook.sh que es el script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok en su termux. | https://github.com/MRX90902WX/TroyaPHP | 0 | 0| 
+| 20221222T20:05:11Z | A rust backdoor multi-session handler based on Hoaxshell and inspired by Villain.  | https://github.com/cauvmou/inside-job | 1 | 0| 
 | 20221221T23:11:03Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 3 | 0| 
 | 20221221T22:18:15Z | Null | https://github.com/ChaaruManjuraj/Advanced-Backdoor | 0 | 0| 
 | 20221221T20:01:26Z | Systemd (daemon) Backdoor Persistence | https://github.com/RodricBr/Sysper | 0 | 0| 
 | 20221221T19:55:40Z | Backdoor on Windows wich controlled from telegram bot | https://github.com/CryWithAll/TelegramBackdoor | 0 | 0| 
-| 20221221T19:44:31Z | Backdoor in python  | https://github.com/KaBuLoZu/backdoor | 0 | 0| 
-| 20221221T08:09:48Z | Reverse Backdoor written in Powershell and obfuscated with python | https://github.com/Drew-Alleman/powershell-backdoor | 1 | 0| 
-| 20221221T05:41:17Z | Null | https://github.com/mrunknown10/backdoorphish2 | 0 | 0| 
-| 20221221T05:35:17Z | Null | https://github.com/mrunknown10/backdoorPhish | 0 | 0| 
-| 20221221T00:46:09Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1965 | 338| 
-| 20221220T18:02:29Z | BACKDOOR CTF BLENDER WRITE UP | https://github.com/jackalkarlos/BACKDOOR-CTF-BLENDER-WRITE-UP | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T23:16:51Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 1 | 0| 
+| 20221222T17:03:13Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 1 | 0| 
 | 20221221T20:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2130 | 602| 
 | 20221221T04:42:38Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 603 | 111| 
 | 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
@@ -128,8 +130,6 @@
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
 | 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 | 20221218T17:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 522 | 30| 
-| 20221218T02:04:26Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 82 | 17| 
-| 20221215T14:00:21Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 
 
 # big4 on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221222T23:53:49Z | Null | https://github.com/Anx1V/Fuzzing | 0 | 0| 
+| 20221222T22:44:46Z | Fast approximate string matching. | https://github.com/tomukmatthews/fast-fuzzy-matching | 0 | 0| 
+| 20221222T21:47:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8185 | 1786| 
+| 20221222T21:40:53Z | Null | https://github.com/FuzzyTheFoxx/fuzzythefoxx.github.io | 0 | 0| 
+| 20221222T20:37:47Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
+| 20221222T17:24:02Z | Fuzzy DBScan R-package | https://github.com/henrifnk/FuzzyDBScan | 2 | 0| 
 | 20221222T13:27:39Z | Fuzzing tool | https://github.com/Sxmpl3/WSearch | 2 | 0| 
 | 20221222T12:53:53Z | http raw request fuzzer | https://github.com/0xe7272e/reqfuzz | 0 | 0| 
 | 20221222T12:40:03Z | Null | https://github.com/hamza202/fuzzlee | 0 | 0| 
 | 20221222T11:11:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4488 | 1086| 
-| 20221222T11:11:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8184 | 1786| 
-| 20221222T10:42:16Z | Null | https://github.com/shirleysteven/react-native-fuzzy-enigma | 0 | 0| 
-| 20221222T08:17:27Z | FuzzyApplication to control the temprature | https://github.com/arikmahesawiradana/TempratureControllerwithFuzzy | 0 | 0| 
-| 20221222T06:07:11Z | Null | https://github.com/MarcelRaschke/fuzzy-memory | 0 | 0| 
-| 20221222T02:46:17Z | Null | https://github.com/05359892586/fuzzy-bassoon | 0 | 0| 
-| 20221222T01:31:20Z | Portfolio projects to showcase analysis and visualization skills | https://github.com/jevoi/fuzzy-rotary-phone | 0 | 0| 
 
 
 
