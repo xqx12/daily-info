@@ -16,6 +16,7 @@
 | 20221223 | 一个IDA插件，将Jupyter‘s IPython console 集成到了IDA Pro中，提升了使用IDA脚本的体验 | http://hex-rays.com/blog/plugin-focus-ipyida/| 
 | 20221223 | 图像处理库OpenImageIO被发现多个漏洞，看起来基本都是内存破坏漏洞 | https://blog.talosintelligence.com/vulnerability-spotlight-openimageio-file-processing-issues-could-lead-to-arbitrary-code-execution-sensitive-information-leak-and-denial-of-service/| 
 | 20221223 | 微软修复严重漏洞，可在未认证状态下实现远程代码执行攻击，危害性堪比永恒之蓝 | https://sec.today/pulses/22f107c6-6692-478e-bd80-051f4f96f22a/| 
+| 20221223 | 微软修复严重漏洞，可在未认证状态下实现远程代码执行攻击，危害性堪比永恒之蓝 | http://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html| 
 
 
 # 安全维基 推荐
@@ -83,6 +84,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T13:03:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2131 | 602| 
 | 20221223T12:03:52Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 50 | 7| 
 | 20221223T11:09:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 524 | 30| 
 | 20221223T02:23:34Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 27 | 6| 
@@ -98,10 +100,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221223T02:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8186 | 1786| 
-| 20221223T01:37:16Z | Null | https://github.com/shirleysteven/react-native-fuzzy-tribble | 0 | 0| 
+| 20221223T13:00:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8193 | 1787| 
+| 20221223T12:42:37Z | Null | https://github.com/mobinapiracha/Maven_Fuzzy_Factory | 0 | 0| 
+| 20221223T11:07:15Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
+| 20221223T10:29:36Z | ConfFuzz - Fuzzing for Interface Vulnerabilities | https://github.com/conffuzz/conffuzz | 0 | 0| 
+| 20221223T10:16:55Z | Null | https://github.com/shirleysteven/react-native-fuzzy-tribble | 0 | 0| 
+| 20221223T09:23:46Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 137 | 9| 
 | 20221223T01:29:42Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
 | 20221223T01:22:56Z | Null | https://github.com/vovem/fuzzyjson | 0 | 0| 
+| 20221223T00:26:25Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 17 | 15| 
 
 
 
