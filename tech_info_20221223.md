@@ -32,6 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221223T13:28:25Z | CVE-2022-3589 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-3589 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-3589 | | 
+| 20221223T13:28:22Z | CVE-2022-36337 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-36337 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-36337 | | 
 | 20221223T12:58:17Z | CVE-2022-3861 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-3861 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-3861 | | 
 | 20221223T12:58:14Z | CVE-2022-2650 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-2650 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-2650 | | 
 | 20221223T12:58:10Z | CVE-2021-43258 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2021-43258 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2021-43258 | | 
@@ -40,8 +42,6 @@
 | 20221223T12:57:44Z | CVE-2022-0698 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-0698 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-0698 | | 
 | 20221223T12:57:41Z | CVE-2022-41705 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41705 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41705 | | 
 | 20221223T12:57:37Z | CVE-2022-41927 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41927 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41927 | | 
-| 20221223T12:57:34Z | CVE-2020-2801 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2020-2801 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2020-2801 | | 
-| 20221223T12:57:27Z | CVE-2022-39833 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-39833 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-39833 | | 
 
 
 # klee on Github 推荐
@@ -68,7 +68,7 @@
 | 20221223T10:32:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4822 | 702| 
 | 20221223T08:57:55Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 506 | 72| 
 | 20221223T08:07:15Z | This is the Github config repo. Feel free to make an pull request ! | https://github.com/Live-Hack-CVE/.github | 0 | 0| 
-| 20221223T01:48:03Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 19 | 1| 
+| 20221223T07:41:32Z | Web Exploit Was here ! | https://github.com/C4ssif3r/WebExploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
