@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221223T01:48:57Z | CVE-2022-23492 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-23492 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-23492 | | 
+| 20221223T01:48:33Z | CVE-2022-44351 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-44351 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-44351 | | 
+| 20221223T01:48:29Z | CVE-2022-43581 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-43581 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-43581 | | 
+| 20221223T01:48:25Z | CVE-2022-39902 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-39902 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-39902 | | 
 | 20221223T01:48:22Z | CVE-2022-23476 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-23476 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-23476 | | 
 | 20221223T01:48:19Z | CVE-2022-46792 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46792 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-46792 | | 
 | 20221223T01:48:16Z | CVE-2022-45062 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-45062 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-45062 | | 
 | 20221223T01:48:12Z | CVE-2022-46149 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46149 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-46149 | | 
 | 20221223T01:48:09Z | CVE-2022-44931 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-44931 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-44931 | | 
 | 20221223T01:48:06Z | CVE-2022-39905 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-39905 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-39905 | | 
-| 20221223T01:48:02Z | CVE-2022-44932 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-44932 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-44932 | | 
-| 20221223T01:47:58Z | CVE-2022-0730 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-0730 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-0730 | | 
-| 20221223T01:47:55Z | CVE-2022-41853 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-41853 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-41853 | | 
-| 20221223T01:47:52Z | CVE-2022-42920 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-42920 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-42920 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T01:48:03Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 19 | 1| 
 | 20221223T01:47:27Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 33 | 27| 
 | 20221222T22:35:58Z | This exploit allows you to inject token grabber into a Discord Override Beta. | https://github.com/M4thew66/Discord-Buildoverride-Exploit | 0 | 0| 
 | 20221222T21:50:55Z | Google Chrome Extension Load Exploits Supported w10 w11 | https://github.com/Intrus1ve/ChromeExploit | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221222T13:37:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1788 | 370| 
 | 20221222T13:33:54Z | 后渗透中利用 ATA Server 进行侦查活动，从而规避安全监测。（Abusing Advanced Threat Analytics PowerShell module to recon in post exploitation stage.） | https://github.com/NickYan7/EvilATA | 1 | 0| 
 | 20221222T13:14:07Z | Null | https://github.com/Ganesh-Dahal/ExploitWithGD | 0 | 0| 
-| 20221222T13:00:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 564 | 149| 
 
 
 # backdoor on Github 推荐
