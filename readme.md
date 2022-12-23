@@ -59,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221223T13:48:56Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 0 | 0| 
+| 20221223T13:53:15Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 0 | 0| 
 | 20221223T13:00:26Z | nil | https://github.com/Brakatuta/AntiExploitDecryptionKey | 0 | 0| 
 | 20221223T12:59:01Z | Fluzi Roblox Exploit Using Fluxus API | https://github.com/tubers93x/Fluzi | 0 | 0| 
 | 20221223T12:39:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 28 | 6| 
 | 20221223T12:35:21Z | A exploitation kit which exploits a android device through adb built using javascript + php  | https://github.com/krishpranav/androidexploitkit | 1 | 0| 
 | 20221223T12:03:38Z | Null | https://github.com/Joshua-Barr/Belkin_NetCam_Exploit_RCE-EDB-ID-42331 | 0 | 0| 
+| 20221223T12:03:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12476 | 2143| 
 | 20221223T12:00:55Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 35 | 29| 
+| 20221223T11:40:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3872 | 482| 
 | 20221223T10:32:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4822 | 702| 
-| 20221223T08:57:55Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 506 | 72| 
-| 20221223T08:07:15Z | This is the Github config repo. Feel free to make an pull request ! | https://github.com/Live-Hack-CVE/.github | 0 | 0| 
 
 
 # backdoor on Github 推荐
