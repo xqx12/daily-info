@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T13:48:56Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 0 | 0| 
 | 20221223T13:00:26Z | nil | https://github.com/Brakatuta/AntiExploitDecryptionKey | 0 | 0| 
 | 20221223T12:59:01Z | Fluzi Roblox Exploit Using Fluxus API | https://github.com/tubers93x/Fluzi | 0 | 0| 
 | 20221223T12:39:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 28 | 6| 
@@ -68,7 +69,6 @@
 | 20221223T10:32:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4822 | 702| 
 | 20221223T08:57:55Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 506 | 72| 
 | 20221223T08:07:15Z | This is the Github config repo. Feel free to make an pull request ! | https://github.com/Live-Hack-CVE/.github | 0 | 0| 
-| 20221223T07:41:32Z | Web Exploit Was here ! | https://github.com/C4ssif3r/WebExploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
