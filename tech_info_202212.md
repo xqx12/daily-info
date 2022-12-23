@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T02:23:34Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 27 | 6| 
 | 20221223T02:15:14Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 411 | 36| 
 | 20221222T23:16:51Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 1 | 0| 
 | 20221222T17:03:13Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 1 | 0| 
+| 20221222T07:35:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 523 | 30| 
 | 20221221T20:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2130 | 602| 
+| 20221221T09:12:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3250 | 457| 
 | 20221221T04:42:38Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 603 | 111| 
 | 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 42| 
-| 20221220T04:19:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3249 | 457| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
-| 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
-| 20221219T03:53:30Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 49 | 7| 
 
 
 # big4 on Github 推荐

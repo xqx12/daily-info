@@ -73,6 +73,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221222T23:16:51Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 1 | 0| 
 | 20221222T17:03:13Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 1 | 0| 
+| 20221222T07:35:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 523 | 30| 
 
 
 # big4 on Github 推荐
