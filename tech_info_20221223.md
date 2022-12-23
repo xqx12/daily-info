@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T13:20:23Z | This directory contains everything to rerun all the experiments described in the article %Summarizing Fuzzy Tensors with Sub-Tensors%, presented at ACM SAC 2023. | https://github.com/VictorHenrique317/summarizing-fuzzy-tensors-ACM-SAC-2023 | 0 | 0| 
 | 20221223T13:00:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8193 | 1787| 
 | 20221223T12:42:37Z | Null | https://github.com/mobinapiracha/Maven_Fuzzy_Factory | 0 | 0| 
 | 20221223T11:07:15Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
