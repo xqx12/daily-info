@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T13:56:34Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
 | 20221223T13:31:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3285 | 663| 
 | 20221223T13:20:23Z | This directory contains everything to rerun all the experiments described in the article %Summarizing Fuzzy Tensors with Sub-Tensors%, presented at ACM SAC 2023. | https://github.com/VictorHenrique317/summarizing-fuzzy-tensors-ACM-SAC-2023 | 0 | 0| 
 | 20221223T13:00:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8193 | 1787| 
 | 20221223T12:42:37Z | Null | https://github.com/mobinapiracha/Maven_Fuzzy_Factory | 0 | 0| 
-| 20221223T11:07:15Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
 | 20221223T10:29:36Z | ConfFuzz - Fuzzing for Interface Vulnerabilities | https://github.com/conffuzz/conffuzz | 0 | 0| 
 | 20221223T10:16:55Z | Null | https://github.com/shirleysteven/react-native-fuzzy-tribble | 0 | 0| 
 | 20221223T09:23:46Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 137 | 9| 
+| 20221223T08:17:59Z | 173-adaptive cycle | https://github.com/gtt1995/glibFuzzer-adaptive | 0 | 0| 
 | 20221223T01:29:42Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
-| 20221223T01:22:56Z | Null | https://github.com/vovem/fuzzyjson | 0 | 0| 
 
 
 
