@@ -124,7 +124,7 @@
 | 20221222T17:03:13Z | Testing PISE (Protocol Inference with Symbolic Execution) tool. | https://github.com/joaogodinho/PISE | 1 | 0| 
 | 20221221T20:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2130 | 602| 
 | 20221221T04:42:38Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 603 | 111| 
-| 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 43| 
+| 20221220T05:55:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 42| 
 | 20221220T04:19:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3249 | 457| 
 | 20221219T21:53:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 52 | 25| 
 | 20221219T18:55:21Z | Symbolical Execution for MiniMal Assembler | https://github.com/wadoon/mima-symbex | 0 | 0| 
