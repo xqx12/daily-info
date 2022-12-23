@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T01:29:42Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
 | 20221223T01:22:56Z | Null | https://github.com/vovem/fuzzyjson | 0 | 0| 
-| 20221223T01:22:45Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
 | 20221222T23:53:49Z | Null | https://github.com/Anx1V/Fuzzing | 0 | 0| 
 | 20221222T22:44:46Z | Fast approximate string matching. | https://github.com/tomukmatthews/fast-fuzzy-matching | 0 | 0| 
 | 20221222T21:47:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8185 | 1786| 
