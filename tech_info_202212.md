@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221224 | 针对FIN7组织的深入分析 | https://www.prodaft.com/m/reports/FIN7_TLPCLEAR.pdf| 
 | 20221223 | 逆向抖音VM混淆分析的第一部分，可用于分析抖音是如何收集和使用用户数据的，同时也是绕过抖音人机检测的关键步骤，写的相当详细 | https://nullpt.rs/reverse-engineering-tiktok-vm-1| 
 | 20221223 | Naughty List Challenge Write-Up – X-MAS CTF | https://voidsec.com/naughty-list-challenge-write-up-x-mas-ctf/| 
 | 20221223 | Zerobot利用新的方式(Apache漏洞 nday)去进行部署 | http://cybersecuritynews.com/zerobot-malware/| 
@@ -25,7 +26,6 @@
 | 20221221 | 一款名叫Chaes恶意软件的分析报告，该恶意程序利用了WMIC等多个恶意软件常用的攻击技巧 | https://sidechannel.blog/en/new-chaes-campaign-uses-windows-management-instrumentation-command-line-utility/| 
 | 20221221 | Cisco Talos发布报告关于使用Excel XLL加载组件组织的总结 | https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/| 
 | 20221221 | BFS Ekoparty 2022 Kernel exploitation challenge write-up | https://klecko.github.io/posts/bfs-ekoparty-2022/| 
-| 20221221 | Gamaredon APT组织活动的分析与总结 | https://unit42.paloaltonetworks.com/trident-ursa/| 
 
 
 # 安全维基 推荐
