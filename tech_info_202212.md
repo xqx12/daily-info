@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221224T01:26:29Z | A Fuzzy logic system implemented using modern C++ | https://github.com/ivancanosa/fuzzyLogic | 0 | 0| 
 | 20221224T00:27:44Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1072 | 92| 
 | 20221223T23:59:11Z | A repository that fuzzes html sanitizers for possible xss vectors | https://github.com/w1redch4d/fuzzsanitizers | 0 | 0| 
 | 20221223T21:35:41Z | Null | https://github.com/asankov/go-fuzzing-101 | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20221223T13:56:34Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
 | 20221223T13:31:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3285 | 663| 
 | 20221223T13:20:23Z | This directory contains everything to rerun all the experiments described in the article %Summarizing Fuzzy Tensors with Sub-Tensors%, presented at ACM SAC 2023. | https://github.com/VictorHenrique317/summarizing-fuzzy-tensors-ACM-SAC-2023 | 0 | 0| 
-| 20221223T13:16:53Z | An R package for estimation of fuzzy poverty indexes | https://github.com/AirDede/FuzzyPovertyR | 0 | 0| 
 
 
 
