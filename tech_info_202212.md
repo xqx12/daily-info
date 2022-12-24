@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221224T01:40:12Z | A Fuzzy logic system implemented using modern C++ | https://github.com/ivancanosa/fuzzyLogic | 0 | 0| 
+| 20221224T02:10:53Z | A Fuzzy logic system implemented using modern C++ | https://github.com/ivancanosa/fuzzyLogic | 1 | 0| 
 | 20221224T00:27:44Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1072 | 92| 
 | 20221223T23:59:11Z | A repository that fuzzes html sanitizers for possible xss vectors | https://github.com/w1redch4d/fuzzsanitizers | 0 | 0| 
 | 20221223T21:35:41Z | Null | https://github.com/asankov/go-fuzzing-101 | 0 | 0| 
