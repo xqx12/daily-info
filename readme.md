@@ -59,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T22:55:11Z | exploiting | https://github.com/users-albus/robloxica | 0 | 0| 
+| 20221223T21:30:19Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 380 | 282| 
+| 20221223T21:13:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 565 | 149| 
+| 20221223T17:47:58Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3274 | 623| 
+| 20221223T16:15:31Z | Udacity AWS Cloud Architect Project : Deploy and assess a simple web application environment’s security posture Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities Implement monitoring to identify insecure configurations and malicious activity.  | https://github.com/kenosky/SecureTheRecipeVault-WebApp | 0 | 0| 
 | 20221223T13:59:04Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 1 | 0| 
 | 20221223T13:00:26Z | nil | https://github.com/Brakatuta/AntiExploitDecryptionKey | 0 | 0| 
 | 20221223T12:59:01Z | Fluzi Roblox Exploit Using Fluxus API | https://github.com/tubers93x/Fluzi | 0 | 0| 
 | 20221223T12:39:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 28 | 6| 
 | 20221223T12:35:21Z | A exploitation kit which exploits a android device through adb built using javascript + php  | https://github.com/krishpranav/androidexploitkit | 1 | 0| 
-| 20221223T12:03:38Z | Null | https://github.com/Joshua-Barr/Belkin_NetCam_Exploit_RCE-EDB-ID-42331 | 0 | 0| 
-| 20221223T12:03:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12476 | 2143| 
-| 20221223T12:00:55Z | Various ways to filter text emails to stop scammers from exploiting PayPal%s invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | 35 | 29| 
-| 20221223T11:40:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3872 | 482| 
-| 20221223T10:32:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4822 | 702| 
 
 
 # backdoor on Github 推荐
@@ -85,6 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T17:31:30Z | novel %mutation tracking% symbolic execution engine architecture | https://github.com/pepsipu/symXMT | 0 | 0| 
 | 20221223T13:31:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2132 | 602| 
 | 20221223T12:03:52Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 50 | 7| 
 | 20221223T11:09:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 524 | 30| 
@@ -101,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221223T23:59:11Z | A repository that fuzzes html sanitizers for possible xss vectors | https://github.com/w1redch4d/fuzzsanitizers | 0 | 0| 
+| 20221223T21:35:41Z | Null | https://github.com/asankov/go-fuzzing-101 | 0 | 0| 
+| 20221223T21:21:22Z | Null | https://github.com/lmg1404/fuzzy-funicular | 0 | 0| 
+| 20221223T19:58:22Z | Null | https://github.com/Ramaganzi31/fuzzy-computing-machine | 0 | 0| 
+| 20221223T15:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8194 | 1787| 
 | 20221223T13:56:34Z | Null | https://github.com/gtt1995/glibFuzzer-adaptive-new | 0 | 0| 
 | 20221223T13:31:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3285 | 663| 
 | 20221223T13:20:23Z | This directory contains everything to rerun all the experiments described in the article %Summarizing Fuzzy Tensors with Sub-Tensors%, presented at ACM SAC 2023. | https://github.com/VictorHenrique317/summarizing-fuzzy-tensors-ACM-SAC-2023 | 0 | 0| 
-| 20221223T13:00:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8193 | 1787| 
+| 20221223T13:16:53Z | An R package for estimation of fuzzy poverty indexes | https://github.com/AirDede/FuzzyPovertyR | 0 | 0| 
 | 20221223T12:42:37Z | Null | https://github.com/mobinapiracha/Maven_Fuzzy_Factory | 0 | 0| 
-| 20221223T10:29:36Z | ConfFuzz - Fuzzing for Interface Vulnerabilities | https://github.com/conffuzz/conffuzz | 0 | 0| 
-| 20221223T10:16:55Z | Null | https://github.com/shirleysteven/react-native-fuzzy-tribble | 0 | 0| 
-| 20221223T09:23:46Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 137 | 9| 
-| 20221223T08:17:59Z | 173-adaptive cycle | https://github.com/gtt1995/glibFuzzer-adaptive | 0 | 0| 
-| 20221223T01:29:42Z | Intuitive Fuzzy Logic Controller Design using MATLAB/Simulink | https://github.com/jarpoole/intuitive-fuzzy-logic | 0 | 0| 
 
 
 
