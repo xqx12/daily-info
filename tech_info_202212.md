@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221224T02:30:53Z | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/miproyecto | 0 | 0| 
 | 20221224T01:30:19Z | Null | https://github.com/DakEnviy/nitectf-exploit | 0 | 0| 
 | 20221224T01:18:58Z | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/API-REST-con-Python-y-Flask | 0 | 0| 
 | 20221224T00:19:35Z | Null | https://github.com/sinkZq/Luau-Exploiting | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221223T21:13:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 565 | 149| 
 | 20221223T17:47:58Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3274 | 623| 
 | 20221223T16:15:31Z | Udacity AWS Cloud Architect Project : Deploy and assess a simple web application environment’s security posture Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities Implement monitoring to identify insecure configurations and malicious activity.  | https://github.com/kenosky/SecureTheRecipeVault-WebApp | 0 | 0| 
-| 20221223T13:59:04Z | exploiter del passorwd | https://github.com/StormCheatPvP/KoGaMa-Plays-Hack | 1 | 0| 
 
 
 # backdoor on Github 推荐
