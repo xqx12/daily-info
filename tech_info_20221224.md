@@ -44,13 +44,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221224T13:22:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12479 | 2143| 
 | 20221224T12:49:13Z | Exploiting | https://github.com/jholgui/exploiting | 1 | 1| 
 | 20221224T10:59:32Z | Exploit script to get RCE by using LFI and Mail log poisoning  | https://github.com/Ananthavijay/Mail-log-Manipulation | 0 | 0| 
 | 20221224T10:46:36Z | A simple script for any game that checks whether the player is flying, teleporting or perma-death. | https://github.com/minuttt/Simple-Roblox-Exploiting-Detecting-Script | 0 | 0| 
 | 20221224T09:40:08Z | Implementation of %Induction of Subgoal Automata for Reinforcement Learning% (AAAI-20) and %Induction and Exploitation of Subgoal Automata for Reinforcement Learning% (JAIR). | https://github.com/ertsiger/induction-subgoal-automata-rl | 7 | 2| 
 | 20221224T09:32:21Z | classic pull, exploit. | https://github.com/zlpdss/indexZ | 0 | 0| 
 | 20221224T08:40:44Z | Exploiting global context and external knowledge for distantly supervised relation extraction | https://github.com/Watermelon-OO/GCEK | 0 | 0| 
-| 20221224T05:50:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12478 | 2143| 
 | 20221224T02:30:53Z | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/miproyecto | 0 | 0| 
 | 20221224T01:30:19Z | Null | https://github.com/DakEnviy/nitectf-exploit | 0 | 0| 
 | 20221224T01:18:58Z | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/API-REST-con-Python-y-Flask | 0 | 0| 
