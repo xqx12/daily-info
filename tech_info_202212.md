@@ -146,6 +146,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221224T12:57:37Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1648 | 76| 
 | 20221224T11:49:33Z | Null | https://github.com/fintarin/fuzzy-logic-truth-tables | 0 | 0| 
+| 20221224T09:16:52Z | ConfFuzz - Fuzzing for Interface Vulnerabilities | https://github.com/conffuzz/conffuzz | 0 | 0| 
 | 20221224T07:35:36Z | Null | https://github.com/fuzzyalgo/fuzzyalgo | 0 | 0| 
 | 20221224T07:11:14Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating  fuzzy logic systems. It lets the user specify and configure input variables, output variables,  membership functions, rules and defuzzification methods. | https://github.com/Ahmed-Ibrahim-30/Fuzzy-Logic | 0 | 0| 
 | 20221224T06:33:57Z | Null | https://github.com/AlinaBaber/NeuralNetwork-Fuzzy-logic-based-self-tuned-PID-controller-for-Autonomous-underwater-vehicle-MatLab | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20221224T00:27:44Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1072 | 92| 
 | 20221223T23:59:11Z | A repository that fuzzes html sanitizers for possible xss vectors | https://github.com/w1redch4d/fuzzsanitizers | 0 | 0| 
 | 20221223T21:35:41Z | Null | https://github.com/asankov/go-fuzzing-101 | 0 | 0| 
-| 20221223T21:21:22Z | Null | https://github.com/lmg1404/fuzzy-funicular | 0 | 0| 
 
 
 

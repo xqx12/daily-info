@@ -80,6 +80,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221224T12:57:37Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1648 | 76| 
 | 20221224T11:49:33Z | Null | https://github.com/fintarin/fuzzy-logic-truth-tables | 0 | 0| 
+| 20221224T09:16:52Z | ConfFuzz - Fuzzing for Interface Vulnerabilities | https://github.com/conffuzz/conffuzz | 0 | 0| 
 | 20221224T07:35:36Z | Null | https://github.com/fuzzyalgo/fuzzyalgo | 0 | 0| 
 | 20221224T07:11:14Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating  fuzzy logic systems. It lets the user specify and configure input variables, output variables,  membership functions, rules and defuzzification methods. | https://github.com/Ahmed-Ibrahim-30/Fuzzy-Logic | 0 | 0| 
 | 20221224T06:33:57Z | Null | https://github.com/AlinaBaber/NeuralNetwork-Fuzzy-logic-based-self-tuned-PID-controller-for-Autonomous-underwater-vehicle-MatLab | 0 | 0| 
