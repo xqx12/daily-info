@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221224T01:23:05Z | Null | https://github.com/DakEnviy/nitectf-exploit | 0 | 0| 
+| 20221224T01:30:19Z | Null | https://github.com/DakEnviy/nitectf-exploit | 0 | 0| 
 | 20221224T01:18:58Z | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/API-REST-con-Python-y-Flask | 0 | 0| 
 | 20221224T00:19:35Z | Null | https://github.com/sinkZq/Luau-Exploiting | 0 | 0| 
 | 20221224T00:03:51Z | Null | https://github.com/sinkZq/Luau-Non-Exploiting | 0 | 0| 
