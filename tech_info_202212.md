@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221225T13:54:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12481 | 2143| 
 | 20221225T13:42:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3903 | 485| 
 | 20221225T13:41:25Z | The module remove the exploit command %lua_dumptimers_sv% | https://github.com/Deviatt/gm_dumptimers-fix | 2 | 0| 
 | 20221225T13:37:36Z | The exploit report for vulnerability found at dice18.com | https://github.com/leo950413/dice18 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221225T13:17:24Z | File-Upload-XSS is a Python script that exploits the SVG XSS vulnerability in file upload services to gather information about users visiting a specific URL and send it to a Discord webhook. | https://github.com/pakbch/File-Upload-XSS | 1 | 0| 
 | 20221225T12:58:44Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 33 | 9| 
 | 20221225T12:58:30Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 28| 
-| 20221225T12:57:21Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 30| 
 
 
 # backdoor on Github 推荐
