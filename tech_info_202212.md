@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221225T02:18:13Z | CVE-2022-1388 | -- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams | https://github.com/vaelwolf/CVE-2022-1388 | | 
 | 20221224T23:18:39Z | CVE-2022-40629 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-40629 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-40629 | | 
 | 20221224T23:18:36Z | CVE-2022-40358 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-40358 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-40358 | | 
 | 20221224T23:18:32Z | CVE-2022-2998 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-2998 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-2998 | | 
@@ -55,7 +56,6 @@
 | 20221224T22:48:28Z | CVE-2022-3069 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-3069 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-3069 | | 
 | 20221224T22:48:25Z | CVE-2022-3062 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-3062 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-3062 | | 
 | 20221224T22:48:24Z | CVE-2022-35096 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35096 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35096 | | 
-| 20221224T22:48:21Z | CVE-2022-3135 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-3135 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-3135 | | 
 
 
 # klee on Github 推荐
