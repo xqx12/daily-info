@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221225T13:26:39Z | Exploits theft from the Internet | https://github.com/0xPugazh/Exploits | 0 | 0| 
+| 20221225T13:27:47Z | Exploits theft from the Internet | https://github.com/0xPugazh/Exploits | 0 | 0| 
 | 20221225T13:24:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4825 | 702| 
 | 20221225T13:23:37Z | Null | https://github.com/kevin-mizu/exploit | 0 | 0| 
 | 20221225T13:17:24Z | File-Upload-XSS is a Python script that exploits the SVG XSS vulnerability in file upload services to gather information about users visiting a specific URL and send it to a Discord webhook. | https://github.com/pakbch/File-Upload-XSS | 1 | 0| 
