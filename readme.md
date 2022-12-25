@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221225T13:22:33Z | Null | https://github.com/kevin-mizu/exploit | 0 | 0| 
+| 20221225T13:23:37Z | Null | https://github.com/kevin-mizu/exploit | 0 | 0| 
 | 20221225T13:17:24Z | File-Upload-XSS is a Python script that exploits the SVG XSS vulnerability in file upload services to gather information about users visiting a specific URL and send it to a Discord webhook. | https://github.com/pakbch/File-Upload-XSS | 1 | 0| 
 | 20221225T12:58:44Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 33 | 9| 
 | 20221225T12:58:30Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 28| 
