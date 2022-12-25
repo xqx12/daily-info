@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221225T13:26:39Z | Exploits theft from the Internet | https://github.com/0xPugazh/Exploits | 0 | 0| 
 | 20221225T13:24:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4825 | 702| 
 | 20221225T13:23:37Z | Null | https://github.com/kevin-mizu/exploit | 0 | 0| 
 | 20221225T13:17:24Z | File-Upload-XSS is a Python script that exploits the SVG XSS vulnerability in file upload services to gather information about users visiting a specific URL and send it to a Discord webhook. | https://github.com/pakbch/File-Upload-XSS | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20221225T12:40:02Z | The module remove the exploit command %lua_dumptimers_sv% | https://github.com/Deviatt/gm_dumptimers-fix | 1 | 0| 
 | 20221225T10:58:47Z | PS-PHIVE Exploit Host ภาษาไทย สำหรับ PS4 | https://github.com/zerlkung/Modmycon | 0 | 0| 
 | 20221225T10:48:15Z | Tool to help to cryptanalysis for cybersecurity researcher, cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 9 | 1| 
-| 20221225T03:10:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 67 | 24| 
 
 
 # backdoor on Github 推荐
