@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221225T13:22:33Z | Null | https://github.com/kevin-mizu/exploit | 0 | 0| 
 | 20221225T13:17:24Z | File-Upload-XSS is a Python script that exploits the SVG XSS vulnerability in file upload services to gather information about users visiting a specific URL and send it to a Discord webhook. | https://github.com/pakbch/File-Upload-XSS | 1 | 0| 
 | 20221225T12:58:44Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 33 | 9| 
 | 20221225T12:58:30Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 55 | 28| 
@@ -99,7 +100,6 @@
 | 20221225T08:45:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4824 | 702| 
 | 20221225T03:10:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 67 | 24| 
 | 20221225T02:33:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12482 | 2143| 
-| 20221225T00:38:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6l | 1 | 0| 
 
 
 # backdoor on Github 推荐
