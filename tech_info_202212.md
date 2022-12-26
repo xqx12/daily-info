@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221226T01:37:14Z | Null | https://github.com/JittichaiChetjaroenchat/fuzzy-matching | 0 | 0| 
+| 20221226T01:38:52Z | Null | https://github.com/JittichaiChetjaroenchat/fuzzy-matching | 0 | 0| 
 | 20221225T23:39:41Z | software to detect heart disease using fuzzy logic | https://github.com/iamOmniTron/heart-disease-diagnosis-fuzzy-system | 0 | 0| 
 | 20221225T22:32:18Z | Null | https://github.com/liacdev/fuzzy-octo-garbanzo | 0 | 0| 
 | 20221225T21:29:17Z | Config files for my GitHub profile. | https://github.com/fuzzycowfan/fuzzycowfan | 0 | 0| 
