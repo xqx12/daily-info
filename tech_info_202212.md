@@ -11,6 +11,7 @@
 | 20221225 | WFP的介绍 | http://scorpiosoftware.net/2022/12/25/introduction-to-the-windows-filtering-platform/| 
 | 20221225 | CVE-2022-42046:wfshbr64.sys本地权限提升的poc,允许任意用户操作EPROCESS以进行权限提升 | https://github.com/kkent030315/CVE-2022-42046| 
 | 20221225 | KITCTF 2022中的一个通过JIT逃逸V8堆沙箱题目的Writeup | http://ju256.de/posts/kitctfctf22-date/| 
+| 20221225 | 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
 | 20221224 | 针对FIN7组织的深入分析 | https://www.prodaft.com/m/reports/FIN7_TLPCLEAR.pdf| 
 | 20221224 | Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
 | 20221223 | 逆向抖音VM混淆分析的第一部分，可用于分析抖音是如何收集和使用用户数据的，同时也是绕过抖音人机检测的关键步骤，写的相当详细 | https://nullpt.rs/reverse-engineering-tiktok-vm-1| 
@@ -25,7 +26,6 @@
 | 20221223 | 微软修复严重漏洞，可在未认证状态下实现远程代码执行攻击，危害性堪比永恒之蓝 | https://sec.today/pulses/22f107c6-6692-478e-bd80-051f4f96f22a/| 
 | 20221223 | 微软修复严重漏洞，可在未认证状态下实现远程代码执行攻击，危害性堪比永恒之蓝 | http://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html| 
 | 20221222 | ChatGPT在逆向和恶意软件分析中可能发挥的作用，如编译的汇编结果中包含注释，便于理解；指令集互相转换等 | https://www.sentinelone.com/labs/11-problems-chatgpt-can-solve-for-reverse-engineers-and-malware-analysts/| 
-| 20221222 | 国产智能报警器的逆向之旅 | http://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/| 
 
 
 # 安全维基 推荐

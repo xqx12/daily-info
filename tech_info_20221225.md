@@ -11,6 +11,7 @@
 | 20221225 | WFP的介绍 | http://scorpiosoftware.net/2022/12/25/introduction-to-the-windows-filtering-platform/| 
 | 20221225 | CVE-2022-42046:wfshbr64.sys本地权限提升的poc,允许任意用户操作EPROCESS以进行权限提升 | https://github.com/kkent030315/CVE-2022-42046| 
 | 20221225 | KITCTF 2022中的一个通过JIT逃逸V8堆沙箱题目的Writeup | http://ju256.de/posts/kitctfctf22-date/| 
+| 20221225 | 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
 
 
 # 安全维基 推荐
