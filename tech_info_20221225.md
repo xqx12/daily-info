@@ -57,9 +57,9 @@
 | 20221225T19:09:49Z | Silent-PDF-Exploit-Builder-2022---PDF-Exploits | https://github.com/tonysaw011/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 0 | 0| 
 | 20221225T19:02:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 566 | 149| 
 | 20221225T17:46:30Z | exploits page | https://github.com/RedNotSus/exploits | 0 | 0| 
-| 20221225T14:49:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4826 | 702| 
 | 20221225T13:54:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12481 | 2143| 
 | 20221225T13:42:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3903 | 485| 
+| 20221225T13:37:36Z | The exploit report for vulnerability found at dice18.com | https://github.com/leo950413/dice18 | 0 | 0| 
 
 
 # backdoor on Github 推荐
