@@ -50,9 +50,15 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221226T12:47:46Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 420 | 36| 
+| 20221226T12:40:10Z | Null | https://github.com/jayashankardevarapalli/Exploits | 0 | 0| 
+| 20221226T12:13:53Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 439 | 42| 
+| 20221226T11:02:04Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5149 | 720| 
+| 20221226T10:05:10Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 39 | 10| 
 | 20221226T02:49:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4827 | 702| 
 | 20221226T02:28:33Z | remove exploited lua_dumptimers_sv concommand | https://github.com/bewflast/gmod-lua_dumptimers_sv-hotfix | 0 | 0| 
 | 20221226T00:34:13Z | Exploit development  | https://github.com/killerbox1986/infosec-exploits | 0 | 0| 
+| 20221226T00:26:32Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 1540 | 114| 
 
 
 # backdoor on Github 推荐

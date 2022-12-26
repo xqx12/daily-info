@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221226T12:47:46Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 420 | 36| 
+| 20221226T12:40:10Z | Null | https://github.com/jayashankardevarapalli/Exploits | 0 | 0| 
+| 20221226T12:13:53Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 439 | 42| 
+| 20221226T11:02:04Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5149 | 720| 
+| 20221226T10:05:10Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 39 | 10| 
 | 20221226T02:49:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4827 | 702| 
 | 20221226T02:28:33Z | remove exploited lua_dumptimers_sv concommand | https://github.com/bewflast/gmod-lua_dumptimers_sv-hotfix | 0 | 0| 
 | 20221226T00:34:13Z | Exploit development  | https://github.com/killerbox1986/infosec-exploits | 0 | 0| 
+| 20221226T00:26:32Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 1540 | 114| 
 | 20221225T23:35:58Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 54 | 33| 
-| 20221225T23:17:11Z | Null | https://github.com/DarkDev1000/Roblox-Exploit-Scripts | 0 | 0| 
-| 20221225T22:14:01Z | The module remove the exploit command %lua_dumptimers_sv% | https://github.com/Deviatt/gm_dumptimers-fix | 4 | 1| 
-| 20221225T20:10:09Z | Tool to help to cryptanalysis for cybersecurity researcher, cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 10 | 1| 
-| 20221225T19:09:49Z | Silent-PDF-Exploit-Builder-2022---PDF-Exploits | https://github.com/tonysaw011/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 0 | 0| 
-| 20221225T19:02:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 566 | 149| 
-| 20221225T17:46:30Z | exploits page | https://github.com/RedNotSus/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
