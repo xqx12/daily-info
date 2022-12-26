@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221226T01:37:14Z | Null | https://github.com/JittichaiChetjaroenchat/fuzzy-matching | 0 | 0| 
 | 20221225T23:39:41Z | software to detect heart disease using fuzzy logic | https://github.com/iamOmniTron/heart-disease-diagnosis-fuzzy-system | 0 | 0| 
 | 20221225T22:32:18Z | Null | https://github.com/liacdev/fuzzy-octo-garbanzo | 0 | 0| 
 | 20221225T21:29:17Z | Config files for my GitHub profile. | https://github.com/fuzzycowfan/fuzzycowfan | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20221225T18:18:41Z | Prediction of heart disease using fuzzy logic | https://github.com/Annapoorani-J/FuzzyProject | 0 | 0| 
 | 20221225T11:40:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3325 | 396| 
 | 20221225T11:30:35Z | Null | https://github.com/asadshahab1/Fuzzy-Decision-Tree | 0 | 0| 
-| 20221225T11:03:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8198 | 1787| 
 
 
 
