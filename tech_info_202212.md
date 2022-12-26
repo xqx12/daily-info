@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221226T02:24:40Z | remove exploited lua_dumptimers_sv concommand | https://github.com/bewflast/gmod-lua_dumptimers_sv-hotfix | 0 | 0| 
 | 20221226T00:34:13Z | Exploit development  | https://github.com/killerbox1986/infosec-exploits | 0 | 0| 
 | 20221225T23:35:58Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 54 | 33| 
 | 20221225T23:17:11Z | Null | https://github.com/DarkDev1000/Roblox-Exploit-Scripts | 0 | 0| 
@@ -98,8 +99,7 @@
 | 20221225T19:09:49Z | Silent-PDF-Exploit-Builder-2022---PDF-Exploits | https://github.com/tonysaw011/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 0 | 0| 
 | 20221225T19:02:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 566 | 149| 
 | 20221225T17:46:30Z | exploits page | https://github.com/RedNotSus/exploits | 0 | 0| 
-| 20221225T13:54:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12481 | 2143| 
-| 20221225T13:42:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3903 | 485| 
+| 20221225T14:49:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4826 | 702| 
 
 
 # backdoor on Github 推荐
