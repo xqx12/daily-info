@@ -12,6 +12,7 @@
 | 20221226 | 通过拆分powershell命令的方法来绕过AMSI检测 | https://x4sh3s.github.io/posts/Divide-and-bypass-amsi/| 
 | 20221226 | 如何在MacOS上使用QEMU模拟一台 iPod Touch 1G 设备，本篇是系列文章的第二篇，主要涉及生成NOR Image、 NAND Image等方法。 | https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/| 
 | 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
+| 20221226 | glibc堆管理截至v2.34版本所有漏洞利用技巧的综述，分为已经修补的过时技术和仍然可以使用的利用技术两部分 | https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/| 
 | 20221225 | hexacon会议关于逆向AppleAVD以及寻找其攻击面的议题 | https://github.com/isciurus/hexacon2022_AppleAVD/blob/main/hexacon2022_AppleAVD.pdf| 
 | 20221225 | Texas Cyber Summit 2022议题：通过Windows 内置沙盒禁用 Microsoft Defender 和其他 EDR/AV | https://www.youtube.com/watch?v=NGrSPuC7xr0&feature=youtu.be| 
 | 20221225 | WFP的介绍 | http://scorpiosoftware.net/2022/12/25/introduction-to-the-windows-filtering-platform/| 
@@ -25,7 +26,6 @@
 | 20221223 | Zerobot利用新的方式(Apache漏洞 nday)去进行部署 | http://cybersecuritynews.com/zerobot-malware/| 
 | 20221223 | unit42发布关于OWASSRF的利用详情以及后续攻击活动分析 | https://unit42.paloaltonetworks.com/threat-brief-OWASSRF/| 
 | 20221223 | 通过修改子函数的栈返回地址实现hook的方法 | http://paper.seebug.org/2035/| 
-| 20221223 | CURL的两个安全漏洞和一些其他问题 | https://daniel.haxx.se/blog/2022/12/21/the-2022-curl-security-audit/| 
 
 
 # 安全维基 推荐

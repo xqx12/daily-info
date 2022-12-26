@@ -12,6 +12,7 @@
 | 20221226 | 通过拆分powershell命令的方法来绕过AMSI检测 | https://x4sh3s.github.io/posts/Divide-and-bypass-amsi/| 
 | 20221226 | 如何在MacOS上使用QEMU模拟一台 iPod Touch 1G 设备，本篇是系列文章的第二篇，主要涉及生成NOR Image、 NAND Image等方法。 | https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/| 
 | 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
+| 20221226 | glibc堆管理截至v2.34版本所有漏洞利用技巧的综述，分为已经修补的过时技术和仍然可以使用的利用技术两部分 | https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/| 
 
 
 # 安全维基 推荐
