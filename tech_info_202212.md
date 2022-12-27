@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221226T22:54:29Z | Null | https://github.com/fuzzyalgo/fuzzyalgo | 0 | 0| 
+| 20221226T20:23:27Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1331 | 96| 
+| 20221226T19:19:45Z | Null | https://github.com/fuzzyupload/fuzzyupload.github.io | 0 | 0| 
+| 20221226T19:16:08Z | Null | https://github.com/fuzzyupload/fuzzyupload | 0 | 0| 
+| 20221226T16:59:39Z | Null | https://github.com/ABDURRAHMANKABEER/fuzzy-fortnight | 0 | 0| 
+| 20221226T16:52:06Z | Null | https://github.com/ferenozcelik/Random-Forest-and-Fuzzy-Logic-Project | 0 | 0| 
 | 20221226T13:12:31Z | Fuzzing the Kernel Using Unicornafl and AFL++ | https://github.com/fgsect/unicorefuzz | 283 | 33| 
 | 20221226T10:57:50Z | First one | https://github.com/Antekkam/fuzzy-doodle | 0 | 0| 
 | 20221226T10:38:29Z | FYP Project on GNN Inference Accelerator | https://github.com/pgimenes/fuzzy_carnival | 0 | 0| 
 | 20221226T10:00:27Z | Null | https://github.com/devops13129/api_fuzz | 0 | 0| 
-| 20221226T09:17:12Z | Nuff said | https://github.com/XxmarcosmXx/fuzzy-octo-garbanzo | 1 | 0| 
-| 20221226T01:38:52Z | Null | https://github.com/JittichaiChetjaroenchat/fuzzy-matching | 0 | 0| 
-| 20221225T23:39:41Z | software to detect heart disease using fuzzy logic | https://github.com/iamOmniTron/heart-disease-diagnosis-fuzzy-system | 0 | 0| 
-| 20221225T22:32:18Z | Null | https://github.com/liacdev/fuzzy-octo-garbanzo | 0 | 0| 
-| 20221225T21:29:17Z | Config files for my GitHub profile. | https://github.com/fuzzycowfan/fuzzycowfan | 0 | 0| 
-| 20221225T19:08:09Z | Null | https://github.com/pcgm-numerique/pcgm-fuzzy-api | 0 | 0| 
 
 
 
