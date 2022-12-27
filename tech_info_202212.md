@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T01:24:27Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 175 | 34| 
 | 20221227T00:25:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5150 | 721| 
 | 20221227T00:18:19Z | Fortnite-Hack-Esp-Exploits-With-Menu | https://github.com/SevenCoderr/Fortnite-Hack-Esp-Exploits-With-Menu-2023 | 1 | 0| 
 | 20221226T23:49:37Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4142 | 708| 
@@ -99,7 +100,6 @@
 | 20221226T21:56:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3h | 1 | 0| 
 | 20221226T19:33:28Z | Common vulnerability scanning on steroids ☄️ | https://github.com/yallxe/hogg | 9 | 0| 
 | 20221226T13:58:34Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 421 | 36| 
-| 20221226T13:15:29Z | Entraînement création/exploitation d%API python Django | https://github.com/EpikToo/kosc_bissex | 0 | 0| 
 
 
 # backdoor on Github 推荐
