@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221227 | Netcomm - 未经身份验证的远程代码执行 | http://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md| 
+| 20221227 | BlueNoroff(Lazarus子组)使用新的办法在投递载荷的时候bypass MoTW | https://securelist.com/bluenoroff-methods-bypass-motw/108383/| 
+| 20221227 | GuLoader 恶意软件实现了大量反分析和反调试功能，其中包括利用硬件断点来 unhook NTDLL 里面的 hook | https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html| 
+| 20221227 | 通过将CPU的供电电路变成Transmitter来从隔离的机器上偷数据。 | http://www.kaspersky.co.uk/blog/covid-bit-attack/25340/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_72416tfy2yk0j7f| 
+| 20221227 | Linux ksmbd UAF漏洞，可以导致RCE。 | https://sec.today/pulses/6867628a-3297-441b-ba18-470fcaf34528/| 
+| 20221227 | 如何在开启了Windows Defender Credential Guard保护的情况下获取NTLM hash。该方法主要通过控制LSASS进程的ALPC 通信通道与LSAIso进程通信，利用加密脆弱性破解NTLM hash。 | https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22?gi=56a7be7c11fe| 
 | 20221226 | 加密货币安全相关概念及防护措施介绍，包括防范、止损、溯源等 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E8%87%AA%E6%95%91%E6%89%8B%E5%86%8CV1.pdf| 
 | 20221226 | CVE-2022-46175:JSON5解析的时候存在原型链污染 | http://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/| 
 | 20221226 | Linux内核网络调度器的漏洞和利用——专属SLAB提权 | http://paper.seebug.org/2036/| 
@@ -20,12 +26,6 @@
 | 20221225 | Texas Cyber Summit 2022议题：通过Windows 内置沙盒禁用 Microsoft Defender 和其他 EDR/AV | https://www.youtube.com/watch?v=NGrSPuC7xr0&feature=youtu.be| 
 | 20221225 | WFP的介绍 | http://scorpiosoftware.net/2022/12/25/introduction-to-the-windows-filtering-platform/| 
 | 20221225 | CVE-2022-42046:wfshbr64.sys本地权限提升的poc,允许任意用户操作EPROCESS以进行权限提升 | https://github.com/kkent030315/CVE-2022-42046| 
-| 20221225 | KITCTF 2022中的一个通过JIT逃逸V8堆沙箱题目的Writeup | http://ju256.de/posts/kitctfctf22-date/| 
-| 20221225 | 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
-| 20221224 | 针对FIN7组织的深入分析 | https://www.prodaft.com/m/reports/FIN7_TLPCLEAR.pdf| 
-| 20221224 | Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
-| 20221223 | 逆向抖音VM混淆分析的第一部分，可用于分析抖音是如何收集和使用用户数据的，同时也是绕过抖音人机检测的关键步骤，写的相当详细 | https://nullpt.rs/reverse-engineering-tiktok-vm-1| 
-| 20221223 | Naughty List Challenge Write-Up – X-MAS CTF | https://voidsec.com/naughty-list-challenge-write-up-x-mas-ctf/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221226T17:47:16Z | CVE-2022-20285 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20285 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-20285 | | 
-| 20221226T17:44:41Z | CVE-2022-20284 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20284 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-20284 | | 
-| 20221226T17:44:37Z | CVE-2022-20286 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20286 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-20286 | | 
-| 20221226T17:44:34Z | CVE-2022-20287 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20287 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-20287 | | 
-| 20221226T17:44:31Z | CVE-2022-35668 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35668 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35668 | | 
-| 20221226T17:44:28Z | CVE-2022-35671 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35671 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35671 | | 
-| 20221226T17:44:24Z | CVE-2022-35670 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35670 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35670 | | 
-| 20221226T17:44:21Z | CVE-2022-35665 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35665 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35665 | | 
-| 20221226T17:44:17Z | CVE-2022-35667 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35667 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35667 | | 
-| 20221226T17:44:14Z | CVE-2022-35666 | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-35666 Made by Sn0wAlice. ❤️ | https://github.com/Live-Hack-CVE/CVE-2022-35666 | | 
+| 20221227T12:53:25Z | CVE-2022-20556 | In launchConfigNewNetworkFragment of NetworkProviderSettings.java, there is a possible way for the guest user to add a new WiFi network due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Prod CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20556 | | 
+| 20221227T12:53:21Z | CVE-2022-20557 | In MessageQueueBase of MessageQueueBase.h, there is a possible out of bounds read due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-247092734 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20557 | | 
+| 20221227T12:53:18Z | CVE-2022-4514 | A vulnerability, which was classified as problematic, was found in Opencaching Deutschland oc-server3. Affected is an unknown function of the file htdocs/lang/de/ocstyle/varset.inc.php. The manipulation of the argument varvalue leads to cross site scripting. It is possible to launch the attack remotely. The exploit has CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4514 | | 
+| 20221227T12:53:14Z | CVE-2022-44643 | A vulnerability in the label-based access control of Grafana Labs Grafana Enterprise Metrics allows an attacker more access than intended. If an access policy which has label selector restrictions also has been granted access to all tenants in the system, the label selector restrictions will not be applied when using t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44643 | | 
+| 20221227T12:53:11Z | CVE-2022-4520 | A vulnerability was found in WSO2 carbon-registry up to 4.8.11. It has been rated as problematic. Affected by this issue is some unknown functionality of the file components/registry/org.wso2.carbon.registry.search.ui/src/main/resources/web/search/advancedSearchForm-ajaxprocessor.jsp of the component Advanced Search. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4520 | | 
+| 20221227T12:53:08Z | CVE-2022-20549 | In authToken2AidlVec of KeyMintUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242702451 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20549 | | 
+| 20221227T12:53:04Z | CVE-2022-20554 | In removeEventHubDevice of InputDevice.cpp, there is a possible OOB read due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-245770596 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20554 | | 
+| 20221227T12:53:01Z | CVE-2022-20550 | In Multiple Locations, there is a possibility to launch arbitrary protected activities due to a confused deputy. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242845514 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20550 | | 
+| 20221227T12:52:58Z | CVE-2022-4522 | A vulnerability classified as problematic was found in CalendarXP up to 10.0.1. This vulnerability affects unknown code. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 10.0.2 is able to address this issue. The name of the patch is e3715b2228ddefe00113296069969 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4522 | | 
+| 20221227T12:52:54Z | 未知编号 | Use-after-free vulnerability in the setInterval method in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK & Compiler before 21.0.0.176 allows attackers to ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-0996 | | 
 
 
 # klee on Github 推荐
@@ -90,21 +90,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221227T01:24:27Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 175 | 34| 
-| 20221227T00:25:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5150 | 721| 
-| 20221227T00:18:19Z | Fortnite-Hack-Esp-Exploits-With-Menu | https://github.com/SevenCoderr/Fortnite-Hack-Esp-Exploits-With-Menu-2023 | 1 | 0| 
-| 20221226T23:49:37Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4142 | 708| 
-| 20221226T22:32:55Z | some pwn challenges i solved  | https://github.com/OUB3LL4/LinxuBinaryExploitation | 0 | 0| 
-| 20221226T21:57:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3h | 1 | 0| 
-| 20221226T21:56:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3h | 1 | 0| 
-| 20221226T21:56:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3h | 1 | 0| 
-| 20221226T19:33:28Z | Common vulnerability scanning on steroids ☄️ | https://github.com/yallxe/hogg | 9 | 0| 
-| 20221226T13:58:34Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 421 | 36| 
+| 20221227T12:53:18Z | A vulnerability, which was classified as problematic, was found in Opencaching Deutschland oc-server3. Affected is an unknown function of the file htdocs/lang/de/ocstyle/varset.inc.php. The manipulation of the argument varvalue leads to cross site scripting. It is possible to launch the attack remotely. The exploit has CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4514 | 0 | 0| 
+| 20221227T12:52:30Z | The backup module has a path traversal vulnerability. Successful exploitation of this vulnerability causes unauthorized access to other system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41591 | 0 | 0| 
+| 20221227T12:52:26Z | Some smartphones have authentication-related (including session management) vulnerabilities as the setup wizard is bypassed. Successful exploitation of this vulnerability affects the smartphone availability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41590 | 0 | 0| 
+| 20221227T12:52:16Z | The multi-screen collaboration module has a path traversal vulnerability. Successful exploitation of this vulnerability may affect data confidentiality. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-46856 | 0 | 0| 
+| 20221227T12:51:44Z | The Blue Admin WordPress plugin through 21.06.01 does not sanitise or escape its %Logo Title% setting before outputting in a page, leading to a Stored Cross-Site Scripting issue. Furthermore, the plugin does not have CSRF check in place when saving its settings, allowing the issue to be exploited via a CSRF attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-24581 | 0 | 0| 
+| 20221227T12:45:02Z | The package smoothie from 1.31.0 and before 1.36.1 are vulnerable to Cross-site Scripting (XSS) due to improper user input sanitization in strokeStyle and tooltipLabel properties. Exploiting this vulnerability is possible when the user can control these properties. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25929 | 0 | 0| 
+| 20221227T12:44:56Z | The package vm2 before 3.9.10 are vulnerable to Arbitrary Code Execution due to the usage of prototype lookup for the WeakMap.prototype.set method. Exploiting this vulnerability leads to access to a host object and a sandbox compromise. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25893 | 0 | 0| 
+| 20221227T12:20:42Z | The vampire legacies script roblox by ROOT44 want to buy script contact mehttps://root44xs.neocities.org/contact | https://github.com/ROOT44x/The-vampire-legacies-script-selling- | 0 | 0| 
+| 20221227T12:07:19Z | Adobe Illustrator versions 26.5.1 (and earlier), and 27.0 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44500 | 0 | 0| 
+| 20221227T12:07:16Z | Adobe Illustrator versions 26.5.1 (and earlier), and 27.0 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44499 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T07:48:54Z | Flareon: Stealthy Backdoor Injection via Poisoned Augmentation | https://github.com/lafeat/flareon | 1 | 0| 
 | 20221226T19:52:19Z | Null | https://github.com/Marat-terabyte/backdoor | 0 | 0| 
 | 20221226T18:32:38Z | Null | https://github.com/l-urk/Netcat_Backdoor | 0 | 0| 
 | 20221226T18:13:25Z | A 3D Maze game for BackDoorCTF 2022 | https://github.com/Subhajit009iitr/Backdoor-MazeChase | 0 | 0| 
@@ -114,12 +115,13 @@
 | 20221226T06:47:32Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 2 | 0| 
 | 20221226T05:26:51Z | Null | https://github.com/Sultan1337/backdoor | 0 | 0| 
 | 20221225T23:34:28Z | I%m going to try and write a kernel module to trigger a backdoor upon receiving a certain ICMP sequence | https://github.com/D3cl4n/c2-icmp | 1 | 0| 
-| 20221225T20:20:27Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T08:28:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
+| 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20221226T06:42:26Z | All In One - Symbolic Execution | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20221225T23:51:12Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 412 | 36| 
 | 20221225T23:08:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 281 | 66| 
@@ -128,8 +130,6 @@
 | 20221223T17:31:30Z | novel %mutation tracking% symbolic execution engine architecture | https://github.com/pepsipu/symXMT | 0 | 0| 
 | 20221223T12:03:52Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 50 | 7| 
 | 20221223T11:09:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 524 | 30| 
-| 20221223T02:23:34Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 27 | 6| 
-| 20221222T23:16:51Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 1 | 0| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221227T02:46:42Z | Null | https://github.com/jaorsoftware1965/57-LibrosFuzzyLogic | 0 | 0| 
-| 20221226T22:54:29Z | Null | https://github.com/fuzzyalgo/fuzzyalgo | 0 | 0| 
-| 20221226T20:23:27Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1331 | 96| 
-| 20221226T19:19:45Z | Null | https://github.com/fuzzyupload/fuzzyupload.github.io | 0 | 0| 
-| 20221226T19:16:08Z | Null | https://github.com/fuzzyupload/fuzzyupload | 0 | 0| 
-| 20221226T16:59:39Z | Null | https://github.com/ABDURRAHMANKABEER/fuzzy-fortnight | 0 | 0| 
-| 20221226T16:52:06Z | Null | https://github.com/ferenozcelik/Random-Forest-and-Fuzzy-Logic-Project | 0 | 0| 
-| 20221226T13:12:31Z | Fuzzing the Kernel Using Unicornafl and AFL++ | https://github.com/fgsect/unicorefuzz | 283 | 33| 
-| 20221226T10:57:50Z | First one | https://github.com/Antekkam/fuzzy-doodle | 0 | 0| 
-| 20221226T10:38:29Z | FYP Project on GNN Inference Accelerator | https://github.com/pgimenes/fuzzy_carnival | 0 | 0| 
+| 20221227T12:31:26Z | Null | https://github.com/Danday999/fuzzy-memory | 1 | 0| 
+| 20221227T11:21:24Z | Mozilla developers Bryce Seager van Dyk and the Mozilla Fuzzing Team reported potential vulnerabilities present in Firefox 101. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34485 | 0 | 0| 
+| 20221227T11:20:47Z | Mozilla developers Gabriele Svelto, Timothy Nikkel, Randell Jesup, Jon Coppeard, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 100. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31748 | 0 | 0| 
+| 20221227T11:20:15Z | Mozilla developers and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 102. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox ESR < 102.1, Firefox < 103, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2505 | 0 | 0| 
+| 20221227T11:20:12Z | Mozilla developers Andrew McCreight, Gabriele Svelto, Tom Ritter and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 99 and Firefox ESR 91.8. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary co CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29917 | 0 | 0| 
+| 20221227T11:20:09Z | Mozilla developers Gabriele Svelto, Randell Jesup and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 99. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firef CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29918 | 0 | 0| 
+| 20221227T11:19:47Z | Mozilla developers and community members Randell Jesup, Sebastian Hengst, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 98. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vul CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28288 | 0 | 0| 
+| 20221227T10:47:27Z | Mozilla developers and community members Gabriele Svelto, Sebastian Hengst, Randell Jesup, Luan Herrera, Lars T Hansen, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 96. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-0511 | 0 | 0| 
+| 20221227T10:45:34Z | Mozilla developers Ashley Hale and the Mozilla Fuzzing Team reported memory safety bugs present in Thunderbird 102.3. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 102 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42932 | 0 | 0| 
+| 20221227T10:44:38Z | Members the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 103, Firefox ESR 102.1, and Firefox ESR 91.12. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderb CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38478 | 0 | 0| 
 
 
 
