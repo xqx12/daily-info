@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T13:28:16Z | BOTNET PAYLOAD | https://github.com/Hex1629/EXPLOIT_BINS | 0 | 0| 
 | 20221228T13:02:20Z | In Jenkins 2.320 through 2.355 (both inclusive) and LTS 2.332.1 through LTS 2.332.3 (both inclusive) the help icon does not escape the feature name that is part of its tooltip, effectively undoing the fix for SECURITY-1955, resulting in a cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Config CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34170 | 0 | 0| 
 | 20221228T13:02:09Z | In Jenkins 2.340 through 2.355 (both inclusive) the tooltip of the build button in list views supports HTML without escaping the job display name, resulting in a cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34173 | 0 | 0| 
 | 20221228T13:01:32Z | A vulnerability classified as problematic was found in Python 2.7.13. This vulnerability affects unknown code of the component pgAdmin4. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20052 | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20221228T12:55:26Z | Dell EMC Avamar versions 18.2,19.1,19.2,19.3,19.4 contain a plain-text password storage vulnerability. A high privileged user could potentially exploit this vulnerability, leading to a complete outage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36318 | 0 | 0| 
 | 20221228T12:55:23Z | Dell EMC Avamar Server version 19.4 contains a plain-text password storage vulnerability in AvInstaller. A local attacker could potentially exploit this vulnerability, leading to the disclosure of certain user credentials. The attacker may be able to use the exposed credentials to access the vulnerable application with CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36317 | 0 | 0| 
 | 20221228T12:55:19Z | Openwsman, versions up to and including 2.6.9, are vulnerable to arbitrary file disclosure because the working directory of openwsmand daemon was set to root directory. A remote, unauthenticated attacker can exploit this vulnerability by sending a specially crafted HTTP request to openwsman server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-3816 | 0 | 0| 
-| 20221228T12:33:17Z | WebKit+Kernel exploit chain for all actual PS Vita firmwares | https://github.com/RealYoti/project-amber | 1 | 0| 
 
 
 # backdoor on Github 推荐
