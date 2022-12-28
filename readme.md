@@ -12,6 +12,11 @@
 | 20221227 | 通过将CPU的供电电路变成Transmitter来从隔离的机器上偷数据。 | http://www.kaspersky.co.uk/blog/covid-bit-attack/25340/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_72416tfy2yk0j7f| 
 | 20221227 | Linux ksmbd UAF漏洞，可以导致RCE。 | https://sec.today/pulses/6867628a-3297-441b-ba18-470fcaf34528/| 
 | 20221227 | 如何在开启了Windows Defender Credential Guard保护的情况下获取NTLM hash。该方法主要通过控制LSASS进程的ALPC 通信通道与LSAIso进程通信，利用加密脆弱性破解NTLM hash。 | https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22?gi=56a7be7c11fe| 
+| 20221227 | CVE-2022-28672:Foxit PDF Reader UAF造成的RCE利用 | http://hacksys.io/blogs| 
+| 20221227 | CVE-2022-41040 and CVE-2022-41082 – zero-days in MS Exchange | http://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bvf6zky241ysqhz| 
+| 20221227 | A public collection of POCs & Exploits (MacOS) | https://github.com/jhftss/POC| 
+| 20221227 | Linux kernel ksmbd UAF RCE漏洞，ZDI-22-1690，CVSS SCORE：10.0 高危漏洞 | https://gbhackers.com/critical-linux-kernel-vulnerability/amp/| 
+| 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
 
 
 # 安全维基 推荐
@@ -37,16 +42,20 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T15:23:28Z | chi-kleen cleaning company | https://github.com/adepeter1234/chi-kleen | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T15:25:00Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T23:49:31Z | Two errors in the %asn1_find_node()% function (lib/parser_aux.c) within GnuTLS libtasn1 version 4.10 can be exploited to cause a stacked-based buffer overflow by tricking a user into processing a specially crafted assignments file via the e.g. asn1Coding utility. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-6891 | 0 | 0| 
+| 20221227T23:46:08Z | A vulnerability classified as problematic has been found in SourceCodester Human Resource Management System 1.0. Affected is an unknown function of the file /hrm/employeeview.php. The manipulation of the argument search leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been di CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4279 | 0 | 0| 
 | 20221227T13:32:01Z | By exploiting a time of check to time of use (TOCTOU) race condition during the Endpoint Security for Linux Threat Prevention and Firewall (ENSL TP/FW) installation process, a local user can perform a privilege escalation attack to obtain administrator privileges for the purpose of executing arbitrary code through inse CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23892 | 0 | 0| 
 | 20221227T13:27:16Z | A vulnerability classified as problematic has been found in chbrown rfc6902. This affects an unknown part of the file pointer.ts. The manipulation leads to improperly controlled modification of object prototype attributes (%prototype pollution%). The exploit has been disclosed to the public and may be used. The name of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4245 | 0 | 0| 
 | 20221227T13:25:29Z | A vulnerability has been found in RainyGao DocSys and classified as critical. Affected by this vulnerability is an unknown functionality of the component com.DocSystem.controller.UserController#getUserImg. The manipulation leads to path traversal: %../filedir%. The attack can be launched remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4511 | 0 | 0| 
@@ -55,13 +64,19 @@
 | 20221227T13:24:31Z | An exploitable firmware modification vulnerability was discovered on the Netgear WNR2000v1 router. An attacker can conduct a MITM (Man-in-the-Middle) attack to modify the user-uploaded firmware image and bypass the CRC check, allowing attackers to execute arbitrary code or cause a Denial of Service (DoS). This affects  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46423 | 0 | 0| 
 | 20221227T12:53:18Z | A vulnerability, which was classified as problematic, was found in Opencaching Deutschland oc-server3. Affected is an unknown function of the file htdocs/lang/de/ocstyle/varset.inc.php. The manipulation of the argument varvalue leads to cross site scripting. It is possible to launch the attack remotely. The exploit has CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4514 | 0 | 0| 
 | 20221227T12:52:30Z | The backup module has a path traversal vulnerability. Successful exploitation of this vulnerability causes unauthorized access to other system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41591 | 0 | 0| 
-| 20221227T12:52:26Z | Some smartphones have authentication-related (including session management) vulnerabilities as the setup wizard is bypassed. Successful exploitation of this vulnerability affects the smartphone availability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41590 | 0 | 0| 
-| 20221227T12:52:16Z | The multi-screen collaboration module has a path traversal vulnerability. Successful exploitation of this vulnerability may affect data confidentiality. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-46856 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T23:52:06Z | Insecure permissions in Telos Alliance Omnia MPX Node v1.0.0 to v1.4.9 allow attackers to manipulate and access system settings with backdoor account low privilege, this can lead to change hardware settings and execute arbitrary commands in vulnerable system functions that is requires high privilege to access. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45562 | 0 | 0| 
+| 20221227T20:54:37Z | Windows webcam backdoor created with msfvenom | https://github.com/Tomfunand/Windows-Webcam-Hack | 0 | 0| 
+| 20221227T18:46:16Z | backdoor | https://github.com/stapitop/backdoor | 0 | 0| 
+| 20221227T14:47:34Z | vSphere_selfuse commit 2a9fe074a64f6a0dd8ac02f21e2f10d66cac5749 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46996 | 0 | 0| 
+| 20221227T14:46:53Z | Python3-RESTfulAPI commit d9907f14e9e25dcdb54f5b22252b0e9452e3970e and e772e0beee284c50946e94c54a1d43071ca78b74 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46609 | 0 | 0| 
+| 20221227T14:46:50Z | Passhunt commit 54eb987d30ead2b8ebbf1f0b880aa14249323867 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46997 | 0 | 0| 
+| 20221227T14:30:20Z | keylogger搭載してるというか、それに特化したハッキングツール。 | https://github.com/ware255/yuki | 0 | 0| 
+| 20221227T14:14:36Z | A support user exists on the device and appears to be a backdoor for Technical Support staff. The default password for this account is “support” and cannot be changed by a user via any normally accessible means. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47209 | 0 | 0| 
 | 20221227T13:21:55Z | THE BEST BACDOOR FOR FIVEM (I AM NOT RESPONSIBLE FOR THE CHARGES MADE WITH THIS SCRIPT) | https://github.com/nutria22/fivem-backdoor | 0 | 0| 
 | 20221227T07:48:54Z | Flareon: Stealthy Backdoor Injection via Poisoned Augmentation | https://github.com/lafeat/flareon | 1 | 0| 
 
@@ -69,6 +84,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
+| 20221227T19:01:14Z | The npm package %tar% (aka node-tar) before versions 4.4.18, 5.0.10, and 6.1.9 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that e CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37712 | 0 | 0| 
+| 20221227T19:01:10Z | The npm package %tar% (aka node-tar) before versions 4.4.16, 5.0.8, and 6.1.7 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37701 | 0 | 0| 
+| 20221227T16:08:14Z | There exists a path traversal vulnerability in the Android Google Search app. This is caused by the incorrect usage of uri.getLastPathSegment. A symbolic encoded string can bypass the path logic to get access to unintended directories. An attacker can manipulate paths that could lead to code execution on the device. We CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29580 | 0 | 0| 
 | 20221227T08:28:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
 | 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 
