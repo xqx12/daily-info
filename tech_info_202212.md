@@ -17,6 +17,7 @@
 | 20221227 | A public collection of POCs & Exploits (MacOS) | https://github.com/jhftss/POC| 
 | 20221227 | Linux kernel ksmbd UAF RCE漏洞，ZDI-22-1690，CVSS SCORE：10.0 高危漏洞 | https://gbhackers.com/critical-linux-kernel-vulnerability/amp/| 
 | 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
+| 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 | 20221226 | 加密货币安全相关概念及防护措施介绍，包括防范、止损、溯源等 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E8%87%AA%E6%95%91%E6%89%8B%E5%86%8CV1.pdf| 
 | 20221226 | CVE-2022-46175:JSON5解析的时候存在原型链污染 | http://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/| 
 | 20221226 | Linux内核网络调度器的漏洞和利用——专属SLAB提权 | http://paper.seebug.org/2036/| 
@@ -25,7 +26,6 @@
 | 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
 | 20221226 | glibc堆管理截至v2.34版本所有漏洞利用技巧的综述，分为已经修补的过时技术和仍然可以使用的利用技术两部分 | https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/| 
 | 20221226 | hkcert ctf challenge offical writeup by Mystiz part1 | http://mystiz.hk/posts/2022/2022-12-24-hkcert-ctf-1/| 
-| 20221226 | 以 Linux 内核模块 Netfilter 的 UAF 漏洞为例，介绍如何编写针对 kmalloc-cg 对象的漏洞利用 | http://lobste.rs/s/ch9civ| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:06:20Z | CVE-2022-37429 | Silverstripe silverstripe/framework through 4.11 allows XSS (issue 1 of 2) via JavaScript payload to the href attribute of a link by splitting a javascript URL with white space characters. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37429 | | 
+| 20221228T01:06:10Z | CVE-2022-42787 | Multiple W&T products of the Comserver Series use a small number space for allocating sessions ids. After login of an user an unathenticated remote attacker can brute force the users session id and get access to his account on the the device. As the user needs to log in for the attack to be successful a user interactio CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42787 | | 
+| 20221228T01:05:25Z | CVE-2022-29218 | RubyGems is a package registry used to supply software for the Ruby language ecosystem. An ordering mistake in the code that accepts gem uploads allowed some gems (with platforms ending in numbers, like `arm64-darwin-21`) to be temporarily replaced in the CDN cache by a malicious package. The bug has been patched, and  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29218 | | 
+| 20221228T01:05:21Z | CVE-2022-41032 | NuGet Client Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41032 | | 
 | 20221228T01:05:18Z | CVE-2022-37598 | ** DISPUTED ** Prototype pollution vulnerability in function DEFNODE in ast.js in mishoo UglifyJS 3.13.2 via the name variable in ast.js. NOTE: the vendor considers this an invalid report. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37598 | | 
 | 20221228T01:05:15Z | CVE-2022-43680 | In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43680 | | 
 | 20221228T01:00:12Z | CVE-2022-44870 | maccms  admin+  xss attacks  | https://github.com/Cedric1314/CVE-2022-44870 | | 
 | 20221228T00:35:03Z | CVE-2021-25746 | A security issue was discovered in ingress-nginx where a user that can create or update ingress objects can use .metadata.annotations in an Ingress object (in the networking.k8s.io or extensions API group) to obtain the credentials of the ingress-nginx controller. In the default configuration, that credential has acces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25746 | | 
 | 20221228T00:35:00Z | CVE-2022-1619 | Heap-based Buffer Overflow in function cmdline_erase_chars in GitHub repository vim/vim prior to 8.2.4899. This vulnerabilities are capable of crashing software, modify memory, and possible remote execution CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1619 | | 
 | 20221228T00:34:55Z | CVE-2022-3080 | By sending specific queries to the resolver, an attacker can cause named to crash. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3080 | | 
-| 20221228T00:34:52Z | CVE-2022-2906 | An attacker can leverage this flaw to gradually erode available memory to the point where named crashes for lack of resources. Upon restart the attacker would have to begin again, but nevertheless there is the potential to deny service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2906 | | 
-| 20221228T00:34:49Z | CVE-2022-2319 | A flaw was found in the Xorg-x11-server. An out-of-bounds access issue can occur in the ProcXkbSetGeometry function due to improper validation of the request length. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2319 | | 
-| 20221228T00:34:45Z | CVE-2022-39173 | In wolfSSL before 5.5.1, malicious clients can cause a buffer overflow during a TLS 1.3 handshake. This occurs when an attacker supposedly resumes a previous TLS session. During the resumption Client Hello a Hello Retry Request must be triggered. Both Client Hellos are required to contain a list of duplicate cipher sui CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39173 | | 
-| 20221228T00:34:42Z | CVE-2022-37797 | In lighttpd 1.4.65, mod_wstunnel does not initialize a handler function pointer if an invalid HTTP request (websocket handshake) is received. It leads to null pointer dereference which crashes the server. It could be used by an external attacker to cause denial of service condition. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37797 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:05:32Z | An exploitable buffer overflow vulnerabilities exist in the /cameras/XXXX/clips handler of video-core%s HTTP server of Samsung SmartThings Hub with Firmware version 0.20.17. The video-core process incorrectly extracts fields from a user-controlled JSON payload, leading to a buffer overflow on the stack. The strncpy cal CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3897 | 0 | 0| 
+| 20221228T01:05:28Z | An exploitable buffer overflow vulnerabilities exist in the /cameras/XXXX/clips handler of video-core%s HTTP server of Samsung SmartThings Hub with Firmware version 0.20.17. The video-core process incorrectly extracts fields from a user-controlled JSON payload, leading to a buffer overflow on the stack. The strncpy cal CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3896 | 0 | 0| 
+| 20221228T01:05:11Z | An exploitable buffer overflow vulnerability exists in the /cameras/XXXX/clips handler of video-core%s HTTP server of Samsung SmartThings Hub STH-ETH-250-Firmware version 0.20.17. The strncpy call overflows the destination buffer, which has a size of 52 bytes. An attacker can send an arbitrarily long %startTime% value  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3894 | 0 | 0| 
 | 20221228T00:32:40Z | Dex is an identity service that uses OpenID Connect to drive authentication for other apps. Dex instances with public clients (and by extension, clients accepting tokens issued by those Dex instances) are affected by this vulnerability if they are running a version prior to 2.35.0. An attacker can exploit this vulnerab CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39222 | 0 | 0| 
 | 20221228T00:32:13Z | Use after free in Custom Elements in Google Chrome prior to 106.0.5249.91 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3370 | 0 | 0| 
 | 20221228T00:29:56Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software Foxit PDF Reader version 9.0.1.1049. A specially crafted PDF document can trigger a previously freed object in memory to be reused resulting in arbitrary code execution. An attacker needs to trick the user to open the maliciou CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3853 | 0 | 0| 
@@ -97,9 +100,6 @@
 | 20221228T00:29:49Z | An exploitable denial of service vulnerability exists in the Ocularis Recorder functionality of Ocularis 5.5.0.242. A specially crafted TCP packet can cause a process to terminate resulting in denial of service. An attacker can send a crafted TCP packet to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3852 | 0 | 0| 
 | 20221228T00:29:46Z | An exploitable vulnerability exists in the smart cameras RTSP configuration of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The device incorrectly handles spaces in the URL field, leading to an arbitrary operating system command injection. An attacker can send a series of HTTP requests to trigger CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3856 | 0 | 0| 
 | 20221228T00:28:45Z | A vulnerability in the EGG archive parsing module in Clam AntiVirus (ClamAV) Software versions 0.102.0 - 0.102.3 could allow an unauthenticated, remote attacker to cause a denial of service condition on an affected device. The vulnerability is due to a null pointer dereference. An attacker could exploit this vulnerabil CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-3481 | 0 | 0| 
-| 20221228T00:28:38Z | IBM Security Identity Manager 6.0 and 7.0 could allow an attacker to create unexpected control flow paths through the application, potentially bypassing security checks. Exploitation of this weakness can result in a limited form of code injection. IBM X-Force ID: 156162. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4038 | 0 | 0| 
-| 20221228T00:28:28Z | IBM Sterling B2B Integrator Standard Edition 5.2.0 snf 6.0.0.0 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 156239. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4043 | 0 | 0| 
-| 20221228T00:28:24Z | IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 is vulnerable to a denial of service, caused by improper handling of request headers. A remote attacker could exploit this vulnerability to cause the consumption of Memory. IBM X-Force ID: 156242. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4046 | 0 | 0| 
 
 
 # backdoor on Github 推荐

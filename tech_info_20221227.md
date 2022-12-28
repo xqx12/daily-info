@@ -17,6 +17,7 @@
 | 20221227 | A public collection of POCs & Exploits (MacOS) | https://github.com/jhftss/POC| 
 | 20221227 | Linux kernel ksmbd UAF RCE漏洞，ZDI-22-1690，CVSS SCORE：10.0 高危漏洞 | https://gbhackers.com/critical-linux-kernel-vulnerability/amp/| 
 | 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
+| 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 
 
 # 安全维基 推荐
