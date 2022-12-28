@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:46:24Z | Unauthenticated Stored Cross-Site Scripting (XSS) in Simple Ajax Chat <= 20220115 allows an attacker to store the malicious code. However, the attack requires specific conditions, making it hard to exploit. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25610 | 0 | 0| 
 | 20221228T01:14:43Z | This affects the package ini before 1.3.6. If an attacker submits a malicious INI file to an application that parses it with ini.parse, they will pollute the prototype on the application. This can be exploited further depending on the context. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7788 | 0 | 0| 
 | 20221228T01:12:58Z | The OWM Weather WordPress plugin before 5.6.9 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as contributor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3769 | 0 | 0| 
 | 20221228T01:12:55Z | The WPSmartContracts WordPress plugin before 1.3.12 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as author CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3768 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221228T01:10:28Z | express-mock-middleware through 0.0.6 is vulnerable to Prototype Pollution. Exported functions by the package can be tricked into adding or modifying properties of the `Object.prototype`. Exploitation of this vulnerability requires creation of a new directory where an attack code can be placed which will then be export CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7616 | 0 | 0| 
 | 20221228T01:09:01Z | An exploitable vulnerability exists in the way Pixar OpenUSD 20.05 handles parses certain encoded types. A specially crafted malformed file can trigger an arbitrary out of bounds memory access which could lead to information disclosure. This vulnerability could be used to bypass mitigations and aid further exploitation CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-13498 | 0 | 0| 
 | 20221228T01:08:58Z | Vulnerability in the Oracle Help Technologies product of Oracle Fusion Middleware (component: Web UIX). Supported versions that are affected are 11.1.1.9.0 and 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Help Technologies. Successful att CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14723 | 0 | 0| 
-| 20221228T01:08:37Z | IBM i 7.4 users who have done a Restore User Profile (RSTUSRPRF) on a system which has been configured with Db2 Mirror for i might have user profiles with elevated privileges caused by incorrect processing during a restore of multiple user profiles. A user with restore privileges could exploit this vulnerability to obt CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4536 | 0 | 0| 
 
 
 # backdoor on Github 推荐
