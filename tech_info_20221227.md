@@ -19,6 +19,7 @@
 | 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
 | 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 | 20221227 | 通过dlopen从内存中加载php扩展以权限维持 | http://adepts.of0x.cc/dlopen-from-memory-PHP/| 
+| 20221227 | 分析关于Shlayer恶意软件通过修改DMG文件的头结构在其嵌入其加密后的通信配置,并介绍其如何提取解密的全过程 | http://objective-see.org/blog/blog_0x70.html| 
 
 
 # 安全维基 推荐

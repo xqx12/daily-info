@@ -19,13 +19,13 @@
 | 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
 | 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 | 20221227 | 通过dlopen从内存中加载php扩展以权限维持 | http://adepts.of0x.cc/dlopen-from-memory-PHP/| 
+| 20221227 | 分析关于Shlayer恶意软件通过修改DMG文件的头结构在其嵌入其加密后的通信配置,并介绍其如何提取解密的全过程 | http://objective-see.org/blog/blog_0x70.html| 
 | 20221226 | 加密货币安全相关概念及防护措施介绍，包括防范、止损、溯源等 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E8%87%AA%E6%95%91%E6%89%8B%E5%86%8CV1.pdf| 
 | 20221226 | CVE-2022-46175:JSON5解析的时候存在原型链污染 | http://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/| 
 | 20221226 | Linux内核网络调度器的漏洞和利用——专属SLAB提权 | http://paper.seebug.org/2036/| 
 | 20221226 | 通过拆分powershell命令的方法来绕过AMSI检测 | https://x4sh3s.github.io/posts/Divide-and-bypass-amsi/| 
 | 20221226 | 如何在MacOS上使用QEMU模拟一台 iPod Touch 1G 设备，本篇是系列文章的第二篇，主要涉及生成NOR Image、 NAND Image等方法。 | https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/| 
 | 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
-| 20221226 | glibc堆管理截至v2.34版本所有漏洞利用技巧的综述，分为已经修补的过时技术和仍然可以使用的利用技术两部分 | https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/| 
 
 
 # 安全维基 推荐
