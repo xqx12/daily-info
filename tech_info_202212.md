@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:58:17Z | Remote code execution vulnerability due to insufficient verification of URLs, etc. in OndiskPlayerAgent. A remote attacker could exploit the vulnerability to cause remote code execution by causing an arbitrary user to download and execute malicious code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41156 | 0 | 0| 
 | 20221228T01:53:22Z | Use after free in Live Caption in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who convinced a user to engage in specific UI interaction to potentially exploit heap corruption via UI interaction. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4192 | 0 | 0| 
 | 20221228T01:53:18Z | Use after free in Accessibility in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4194 | 0 | 0| 
 | 20221228T01:53:14Z | Use after free in Sign-In in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who convinced a user to engage in specific UI interaction to potentially exploit heap corruption via profile destruction. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4191 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221228T01:52:24Z | Use after free in Forms in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4181 | 0 | 0| 
 | 20221228T01:52:20Z | Use after free in Audio in Google Chrome prior to 108.0.5359.71 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4179 | 0 | 0| 
 | 20221228T01:52:16Z | Use after free in Mojo in Google Chrome prior to 108.0.5359.71 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4180 | 0 | 0| 
-| 20221228T01:52:12Z | Use after free in Mojo in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4178 | 0 | 0| 
 
 
 # backdoor on Github 推荐
