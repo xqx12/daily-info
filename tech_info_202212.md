@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:14:46Z | CVE-2020-7774 | The package y18n before 3.2.2, 4.0.1 and 5.0.5, is vulnerable to Prototype Pollution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7774 | | 
+| 20221228T01:14:43Z | CVE-2020-7788 | This affects the package ini before 1.3.6. If an attacker submits a malicious INI file to an application that parses it with ini.parse, they will pollute the prototype on the application. This can be exploited further depending on the context. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7788 | | 
 | 20221228T01:14:02Z | CVE-2020-7746 | This affects the package chart.js before 2.9.4. The options parameter is not properly sanitized when it is processed. When the options are processed, the existing options (or the defaults options) are deeply merged with provided options. However, during this operation, the keys of the object being set are not checked,  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7746 | | 
 | 20221228T01:13:59Z | CVE-2020-7766 | This affects all versions of package json-ptr. The issue occurs in the set operation (https://flitbit.github.io/json-ptr/classes/_src_pointer_.jsonpointer.htmlset) when the force flag is set to true. The function recursively set the property in the target object, however it does not properly check the key being set, le CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7766 | | 
 | 20221228T01:13:56Z | CVE-2020-7768 | The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7768 | | 
@@ -54,8 +56,6 @@
 | 20221228T01:13:45Z | CVE-2020-7748 | This affects the package @tsed/core before 5.65.7. This vulnerability relates to the deepExtend function which is used as part of the utils directory. Depending on if user input is provided, an attacker can overwrite and pollute the object prototype of a program. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7748 | | 
 | 20221228T01:13:12Z | CVE-2020-7737 | All versions of package safetydance are vulnerable to Prototype Pollution via the set function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7737 | | 
 | 20221228T01:13:09Z | CVE-2021-26259 | A flaw was found in htmldoc in v1.9.12. Heap buffer overflow in render_table_row(),in ps-pdf.cxx may lead to arbitrary code execution and denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26259 | | 
-| 20221228T01:13:02Z | CVE-2020-7736 | The package bmoor before 0.8.12 are vulnerable to Prototype Pollution via the set function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7736 | | 
-| 20221228T01:12:58Z | CVE-2022-3769 | The OWM Weather WordPress plugin before 5.6.9 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as contributor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3769 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:14:43Z | This affects the package ini before 1.3.6. If an attacker submits a malicious INI file to an application that parses it with ini.parse, they will pollute the prototype on the application. This can be exploited further depending on the context. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7788 | 0 | 0| 
 | 20221228T01:12:58Z | The OWM Weather WordPress plugin before 5.6.9 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as contributor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3769 | 0 | 0| 
 | 20221228T01:12:55Z | The WPSmartContracts WordPress plugin before 1.3.12 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as author CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3768 | 0 | 0| 
 | 20221228T01:12:41Z | The WP User Merger WordPress plugin before 1.5.3 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as admin CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3849 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221228T01:09:01Z | An exploitable vulnerability exists in the way Pixar OpenUSD 20.05 handles parses certain encoded types. A specially crafted malformed file can trigger an arbitrary out of bounds memory access which could lead to information disclosure. This vulnerability could be used to bypass mitigations and aid further exploitation CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-13498 | 0 | 0| 
 | 20221228T01:08:58Z | Vulnerability in the Oracle Help Technologies product of Oracle Fusion Middleware (component: Web UIX). Supported versions that are affected are 11.1.1.9.0 and 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Help Technologies. Successful att CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14723 | 0 | 0| 
 | 20221228T01:08:37Z | IBM i 7.4 users who have done a Restore User Profile (RSTUSRPRF) on a system which has been configured with Db2 Mirror for i might have user profiles with elevated privileges caused by incorrect processing during a restore of multiple user profiles. A user with restore privileges could exploit this vulnerability to obt CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4536 | 0 | 0| 
-| 20221228T01:08:33Z | IBM Security Access Manager for Enterprise Single Sign-On 8.2.2 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 164555. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4513 | 0 | 0| 
 
 
 # backdoor on Github 推荐
