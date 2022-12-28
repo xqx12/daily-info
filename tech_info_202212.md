@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221228T01:11:21Z | CVE-2020-7707 | The package property-expr before 2.0.3 are vulnerable to Prototype Pollution via the setter function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7707 | | 
-| 20221228T01:11:16Z | CVE-2020-7713 | All versions of package arr-flatten-unflatten are vulnerable to Prototype Pollution via the constructor. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7713 | | 
-| 20221228T01:11:13Z | CVE-2020-15366 | An issue was discovered in ajv.validate() in Ajv (aka Another JSON Schema Validator) 6.12.2. A carefully crafted JSON schema could be provided that allows execution of other code by prototype pollution. (While untrusted schemas are recommended against, the worst case of an untrusted schema should be a denial of service CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15366 | | 
-| 20221228T01:11:10Z | CVE-2020-7706 | The package connie-lang before 0.1.1 are vulnerable to Prototype Pollution in the configuration language library used by connie. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7706 | | 
-| 20221228T01:11:06Z | CVE-2020-7703 | All versions of package nis-utils are vulnerable to Prototype Pollution via the setValue function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7703 | | 
-| 20221228T01:11:03Z | CVE-2020-7699 | This affects the package express-fileupload before 1.1.8. If the parseNested option is enabled, sending a corrupt HTTP request can lead to denial of service or arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7699 | | 
-| 20221228T01:10:59Z | CVE-2020-7704 | The package linux-cmdline before 1.0.1 are vulnerable to Prototype Pollution via the constructor. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7704 | | 
-| 20221228T01:10:56Z | CVE-2020-7701 | madlib-object-utils before 0.1.7 is vulnerable to Prototype Pollution via setValue. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7701 | | 
-| 20221228T01:10:52Z | CVE-2020-7700 | All versions of phpjs are vulnerable to Prototype Pollution via parse_str. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7700 | | 
-| 20221228T01:10:49Z | CVE-2020-7702 | All versions of package templ8 are vulnerable to Prototype Pollution via the parse function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7702 | | 
+| 20221228T01:12:23Z | CVE-2020-7723 | All versions of package promisehelpers are vulnerable to Prototype Pollution via the insert function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7723 | | 
+| 20221228T01:12:19Z | CVE-2020-7722 | All versions of package nodee-utils are vulnerable to Prototype Pollution via the deepSet function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7722 | | 
+| 20221228T01:12:16Z | CVE-2020-7720 | The package node-forge before 0.10.0 is vulnerable to Prototype Pollution via the util.setPath function. Note: Version 0.10.0 is a breaking change removing the vulnerable functions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7720 | | 
+| 20221228T01:12:12Z | CVE-2020-7721 | All versions of package node-oojs are vulnerable to Prototype Pollution via the setPath function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7721 | | 
+| 20221228T01:12:09Z | CVE-2020-7719 | Versions of package locutus before 2.0.12 are vulnerable to prototype Pollution via the php.strings.parse_str function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7719 | | 
+| 20221228T01:12:05Z | CVE-2020-7718 | All versions of package gammautils are vulnerable to Prototype Pollution via the deepSet and deepMerge functions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7718 | | 
+| 20221228T01:12:02Z | CVE-2020-35501 | A flaw was found in the Linux kernels implementation of audit rules, where a syscall can unexpectedly not be correctly not be logged by the audit subsystem CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-35501 | | 
+| 20221228T01:11:58Z | CVE-2020-7714 | All versions of package confucious are vulnerable to Prototype Pollution via the set function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7714 | | 
+| 20221228T01:11:55Z | CVE-2020-7715 | All versions of package deep-get-set are vulnerable to Prototype Pollution via the main function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7715 | | 
+| 20221228T01:11:51Z | CVE-2020-7708 | The package irrelon-path before 4.7.0; the package @irrelon/path before 4.7.0 are vulnerable to Prototype Pollution via the set, unSet, pushVal and pullVal functions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7708 | | 
 
 
 # klee on Github 推荐
