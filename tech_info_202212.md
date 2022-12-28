@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221228T01:05:18Z | CVE-2022-37598 | ** DISPUTED ** Prototype pollution vulnerability in function DEFNODE in ast.js in mishoo UglifyJS 3.13.2 via the name variable in ast.js. NOTE: the vendor considers this an invalid report. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37598 | | 
+| 20221228T01:05:15Z | CVE-2022-43680 | In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43680 | | 
 | 20221228T01:00:12Z | CVE-2022-44870 | maccms  admin+  xss attacks  | https://github.com/Cedric1314/CVE-2022-44870 | | 
 | 20221228T00:35:03Z | CVE-2021-25746 | A security issue was discovered in ingress-nginx where a user that can create or update ingress objects can use .metadata.annotations in an Ingress object (in the networking.k8s.io or extensions API group) to obtain the credentials of the ingress-nginx controller. In the default configuration, that credential has acces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25746 | | 
 | 20221228T00:35:00Z | CVE-2022-1619 | Heap-based Buffer Overflow in function cmdline_erase_chars in GitHub repository vim/vim prior to 8.2.4899. This vulnerabilities are capable of crashing software, modify memory, and possible remote execution CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1619 | | 
@@ -54,8 +56,6 @@
 | 20221228T00:34:49Z | CVE-2022-2319 | A flaw was found in the Xorg-x11-server. An out-of-bounds access issue can occur in the ProcXkbSetGeometry function due to improper validation of the request length. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2319 | | 
 | 20221228T00:34:45Z | CVE-2022-39173 | In wolfSSL before 5.5.1, malicious clients can cause a buffer overflow during a TLS 1.3 handshake. This occurs when an attacker supposedly resumes a previous TLS session. During the resumption Client Hello a Hello Retry Request must be triggered. Both Client Hellos are required to contain a list of duplicate cipher sui CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39173 | | 
 | 20221228T00:34:42Z | CVE-2022-37797 | In lighttpd 1.4.65, mod_wstunnel does not initialize a handler function pointer if an invalid HTTP request (websocket handshake) is received. It leads to null pointer dereference which crashes the server. It could be used by an external attacker to cause denial of service condition. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37797 | | 
-| 20221228T00:34:39Z | CVE-2022-2320 | A flaw was found in the Xorg-x11-server. The specific flaw exists within the handling of ProcXkbSetDeviceInfo requests. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an allocated buffer. This flaw allows an attacker to escalate privileges CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2320 | | 
-| 20221228T00:34:35Z | CVE-2022-38178 | By spoofing the target resolver with responses that have a malformed EdDSA signature, an attacker can trigger a small memory leak. It is possible to gradually erode available memory to the point where named crashes for lack of resources. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38178 | | 
 
 
 # klee on Github 推荐
