@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T12:48:45Z | Null | https://github.com/liuyugeng/backdoor-attacks-against-dataset-distillation | 0 | 0| 
+| 20221228T13:28:00Z | Null | https://github.com/liuyugeng/backdoor-attacks-against-dataset-distillation | 0 | 0| 
 | 20221228T12:14:58Z | The d8s-dates for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-timezones package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44052 | 0 | 0| 
 | 20221228T12:14:44Z | The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-utility package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44054 | 0 | 0| 
 | 20221228T12:14:40Z | The d8s-stats for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-math package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44051 | 0 | 0| 
