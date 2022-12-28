@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221228 | 影响任天堂多款在线游戏的网络库缓冲区溢出漏洞的细节和poc公开，涉及ns，3ds，wiiu平台的多款游戏 | http://securityonline.info/cve-2022-47949-critical-rce-flaw-affects-multiple-nintendo-games/| 
+| 20221228 | 2022年APT攻击洞察报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022_APT_TRENDS_INSIGHT_REPORT.pdf| 
+| 20221228 | 供应链相关的攻击和缓解措施研究 | https://engineering.mercari.com/en/blog/entry/20221215-supplychain-security-reevaluation/| 
+| 20221228 | 一个Linux的防火墙，以内核模块的形式实现，其主要亮点是可以像rootkit一样隐藏自己。 | https://antonio-cooler.gitbook.io/coolervoid-tavern/hidden-firewall-in-kernel| 
+| 20221228 | ARM平台上的漏洞利用入门教程书 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/| 
+| 20221228 | 使用CLR hooking的方法绕过杀软检测，以实现在powershell中随意执行恶意命令 | http://practicalsecurityanalytics.com/new-amsi-bypass-using-clr-hooking/| 
 | 20221227 | Netcomm - 未经身份验证的远程代码执行 | http://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md| 
 | 20221227 | BlueNoroff(Lazarus子组)使用新的办法在投递载荷的时候bypass MoTW | https://securelist.com/bluenoroff-methods-bypass-motw/108383/| 
 | 20221227 | GuLoader 恶意软件实现了大量反分析和反调试功能，其中包括利用硬件断点来 unhook NTDLL 里面的 hook | https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html| 
@@ -20,17 +26,14 @@
 | 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 | 20221227 | 通过dlopen从内存中加载php扩展以权限维持 | http://adepts.of0x.cc/dlopen-from-memory-PHP/| 
 | 20221227 | 分析关于Shlayer恶意软件通过修改DMG文件的头结构在其嵌入其加密后的通信配置,并介绍其如何提取解密的全过程 | http://objective-see.org/blog/blog_0x70.html| 
-| 20221226 | 加密货币安全相关概念及防护措施介绍，包括防范、止损、溯源等 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E8%87%AA%E6%95%91%E6%89%8B%E5%86%8CV1.pdf| 
-| 20221226 | CVE-2022-46175:JSON5解析的时候存在原型链污染 | http://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/| 
-| 20221226 | Linux内核网络调度器的漏洞和利用——专属SLAB提权 | http://paper.seebug.org/2036/| 
-| 20221226 | 通过拆分powershell命令的方法来绕过AMSI检测 | https://x4sh3s.github.io/posts/Divide-and-bypass-amsi/| 
-| 20221226 | 如何在MacOS上使用QEMU模拟一台 iPod Touch 1G 设备，本篇是系列文章的第二篇，主要涉及生成NOR Image、 NAND Image等方法。 | https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/| 
-| 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221228 | 2022攻防演练木马专项分析报告 | http://report.threatbook.cn/2022.pdf| 
+| 20221228 | 从开源项目和库的Issue和Bug报告中挖掘情报 | https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg| 
+| 20221228 | 欧盟网络安全局 2022 年度威胁报告 | https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw| 
 | 20221226 | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/FaeGDx8ixYkJw6j_jrxHxQ| 
 | 20221226 | 越权漏洞自动化治理实践 | https://mp.weixin.qq.com/s/rI5r3KdMC0StA9kU5IErzg| 
 | 20221226 | SecWiki周刊（第460期) | https://www.sec-wiki.com/weekly/460| 
@@ -38,24 +41,21 @@
 | 20221225 | Hopper：建模并检测横向移动攻击 | https://mp.weixin.qq.com/s/9aCIflnA0QqOCZ68geCaow| 
 | 20221224 | OA-EXPTOOL: OA综合利用工具 | https://github.com/LittleBear4/OA-EXPTOOL| 
 | 20221224 | 内网渗透从零到一之SMB协议 | https://xz.aliyun.com/t/11971| 
-| 20221223 | CodeQL的自动化代码审计之路（下篇） | https://mp.weixin.qq.com/s/NAuwpIZxe5lC1ytJ5WisxQ| 
-| 20221223 | ENRE: 一个可扩展的实体关系提取框架工具 | https://mp.weixin.qq.com/s/LT50fC1RYBSi7CTpfRyxTw| 
-| 20221223 | 产品管理方法论（下）：规划的逻辑 & 研发的架构 | https://mp.weixin.qq.com/s/svzqjhZ7zWrXphbs985WXA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221228T02:39:45Z | CVE-2022-41396 | Tenda AC1200 Router Model W15Ev2 V15.11.0.10(1576) was discovered to contain multiple command injection vulnerabilities in the function setIPsecTunnelList via the IPsecLocalNet and IPsecRemoteNet parameters. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41396 | | 
-| 20221228T02:39:42Z | CVE-2022-41395 | Tenda AC1200 Router Model W15Ev2 V15.11.0.10(1576) was discovered to contain a command injection vulnerability via the dmzHost parameter in the setDMZ function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41395 | | 
-| 20221228T02:39:38Z | CVE-2022-39066 | There is a SQL injection vulnerability in ZTE MF286R. Due to insufficient validation of the input parameters of the phonebook interface, an authenticated attacker could use the vulnerability to execute arbitrary SQL injection. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39066 | | 
-| 20221228T02:39:35Z | CVE-2022-39067 | There is a buffer overflow vulnerability in ZTE MF286R. Due to lack of input validation on parameters of the wifi interface, an authenticated attacker could use the vulnerability to perform a denial of service attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39067 | | 
-| 20221228T02:39:32Z | CVE-2022-41922 | `yiisoft/yii` before version 1.1.27 are vulnerable to Remote Code Execution (RCE) if the application calls `unserialize()` on arbitrary user input. This has been patched in 1.1.27. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41922 | | 
-| 20221228T02:38:59Z | CVE-2022-37430 | Silverstripe silverstripe/framework through 4.11 allows XSS vulnerability via href attribute of a link (issue 2 of 2). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37430 | | 
-| 20221228T02:38:52Z | CVE-2022-42095 | Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Page content. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42095 | | 
-| 20221228T02:38:48Z | CVE-2022-37421 | Silverstripe silverstripe/cms through 4.11.0 allows XSS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37421 | | 
-| 20221228T02:38:45Z | CVE-2022-38147 | Silverstripe silverstripe/framework through 4.11 allows XSS (issue 3 of 3). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38147 | | 
-| 20221228T02:38:42Z | CVE-2022-45146 | An issue was discovered in the FIPS Java API of Bouncy Castle BC-FJA before 1.0.2.4. Changes to the JVM garbage collector in Java 13 and later trigger an issue in the BC-FJA FIPS modules where it is possible for temporary keys used by the module to be zeroed out while still in use by the module, resulting in errors or  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45146 | | 
+| 20221228T13:01:29Z | CVE-2022-33981 | drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33981 | | 
+| 20221228T13:01:25Z | CVE-2021-25121 | The Rating by BestWebSoft WordPress plugin before 1.6 does not validate the submitted rating, allowing submission of long integer, causing a Denial of Service on the post/page when a user submit such rating CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25121 | | 
+| 20221228T13:01:22Z | CVE-2022-29774 | iSpy v7.2.2.0 is vulnerable to remote command execution via path traversal. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29774 | | 
+| 20221228T13:01:18Z | CVE-2022-29931 | The administration interface of the Raytion Custom Security Manager (Raytion CSM) in Version 7.2.0 allows reflected Cross-site Scripting (XSS). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29931 | | 
+| 20221228T13:01:14Z | CVE-2022-29593 | relay_cgi.cgi on Dingtian DT-R002 2CH relay devices with firmware 3.1.276A allows an attacker to replay HTTP post requests without the need for authentication or a valid signed/authorized request. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29593 | | 
+| 20221228T13:01:11Z | CVE-2022-35405 | Zoho ManageEngine Password Manager Pro before 12101 and PAM360 before 5510 are vulnerable to unauthenticated remote code execution. (This also affects ManageEngine Access Manager Plus before 4303 with authentication.) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35405 | | 
+| 20221228T13:01:07Z | CVE-2022-31117 | UltraJSON is a fast JSON encoder and decoder written in pure C with bindings for Python 3.7+. In versions prior to 5.4.0 an error occurring while reallocating a buffer for string decoding can cause the buffer to get freed twice. Due to how UltraJSON uses the internal decoder, this double free is impossible to trigger f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31117 | | 
+| 20221228T13:01:04Z | CVE-2022-35411 | rpc.py through 0.6.0 allows Remote Code Execution because an unpickle occurs when the "serializer: pickle" HTTP header is sent. In other words, although JSON (not Pickle) is the default data format, an unauthenticated client can cause the data to be processed with unpickle. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35411 | | 
+| 20221228T13:01:00Z | CVE-2022-31137 | Roxy-WI is a web interface for managing Haproxy, Nginx, Apache and Keepalived servers. Versions prior to 6.1.1.0 are subject to a remote code execution vulnerability. System commands can be run remotely via the subprocess_execute function without processing the inputs received from the user in the /app/options.py file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31137 | | 
+| 20221228T13:00:57Z | CVE-2022-33099 | An issue in the component luaG_runerror of Lua v5.4.4 and below leads to a heap-buffer overflow when a recursive error occurs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33099 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T04:43:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 282 | 66| 
 | 20221227T15:25:00Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
-| 20221225T23:08:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 281 | 66| 
 | 20221223T06:50:27Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 17 | 9| 
 | 20221214T12:59:07Z | s2e-user | https://github.com/kai0722/s2e-user | 0 | 0| 
 | 20221214T11:33:42Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 7 | 2| 
@@ -90,36 +90,37 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T02:37:49Z | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle WebLogic S CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2801 | 0 | 0| 
-| 20221228T02:36:54Z | CRITICAL: An improper neutralization of argument delimiters in a command vulnerability was identified in GitHub Enterprise Server that enabled remote code execution. To exploit this vulnerability, an attacker would need permission to create and build GitHub Pages using GitHub Actions. This vulnerability affected only v CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-23740 | 0 | 0| 
-| 20221228T02:36:48Z | A flaw was found in keycloak, where the default ECP binding flow allows other authentication flows to be bypassed. By exploiting this behavior, an attacker can bypass the MFA authentication by sending a SOAP request with an AuthnRequest and Authorization header with the user%s credentials. The highest threat from this  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3827 | 0 | 0| 
-| 20221228T02:36:20Z | super-xray is a web vulnerability scanning tool. Versions prior to 0.7 assumed trusted input for the program config which is stored in a yaml file. An attacker with local access to the file could exploit this and compromise the program. This issue has been addressed in commit `4d0d5966` and will be included in future r CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41958 | 0 | 0| 
-| 20221228T02:35:10Z | A vulnerability was found in SourceCodester Canteen Management System. It has been classified as problematic. This affects the function query of the file food.php. The manipulation of the argument product_name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4091 | 0 | 0| 
-| 20221228T02:35:03Z | postgresql before versions 10.4, 9.6.9 is vulnerable in the adminpack extension, the pg_catalog.pg_logfile_rotate() function doesn%t follow the same ACLs than pg_rorate_logfile. If the adminpack is added to a database, an attacker able to connect to it could exploit this to force log rotation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-1115 | 0 | 0| 
-| 20221228T02:33:15Z | Cscape, 9.80 SP4 and prior. An improper input validation vulnerability may be exploited by processing specially crafted POC files. This may allow an attacker to read confidential information and remotely execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-6555 | 0 | 0| 
-| 20221228T02:31:42Z | systemd 250 and 251 allows local users to achieve a systemd-coredump deadlock by triggering a crash that has a long backtrace. This occurs in parse_elf_object in shared/elf-util.c. The exploitation methodology is to crash a binary calling the same function recursively, and put it in a deeply nested directory to make it CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45873 | 0 | 0| 
-| 20221228T02:31:25Z | Remote code execution vulnerability can be achieved by using cookie values as paths to a file by this builder program. A remote attacker could exploit the vulnerability to execute or inject malicious code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41158 | 0 | 0| 
-| 20221228T01:58:17Z | Remote code execution vulnerability due to insufficient verification of URLs, etc. in OndiskPlayerAgent. A remote attacker could exploit the vulnerability to cause remote code execution by causing an arbitrary user to download and execute malicious code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41156 | 0 | 0| 
+| 20221228T13:01:32Z | A vulnerability classified as problematic was found in Python 2.7.13. This vulnerability affects unknown code of the component pgAdmin4. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20052 | 0 | 0| 
+| 20221228T12:57:46Z | HCL XPages applications are susceptible to a Cross Site Request Forgery (CSRF) vulnerability. An unauthenticated attacker could exploit this vulnerability to perform actions in the application on behalf of the logged in user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38660 | 0 | 0| 
+| 20221228T12:57:15Z | BD Totalys MultiProcessor, versions 1.70 and earlier, contain hardcoded credentials. If exploited, threat actors may be able to access, modify or delete sensitive information, including electronic protected health information (ePHI), protected health information (PHI) and personally identifiable information (PII). Cust CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40263 | 0 | 0| 
+| 20221228T12:57:08Z | A vulnerability in a feature that monitors RADIUS requests on Cisco Identity Services Engine (ISE) Software could allow an unauthenticated, remote attacker to negatively affect the performance of an affected device. This vulnerability is due to insufficient management of system resources. An attacker could exploit this CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20937 | 0 | 0| 
+| 20221228T12:55:26Z | Dell EMC Avamar versions 18.2,19.1,19.2,19.3,19.4 contain a plain-text password storage vulnerability. A high privileged user could potentially exploit this vulnerability, leading to a complete outage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36318 | 0 | 0| 
+| 20221228T12:55:23Z | Dell EMC Avamar Server version 19.4 contains a plain-text password storage vulnerability in AvInstaller. A local attacker could potentially exploit this vulnerability, leading to the disclosure of certain user credentials. The attacker may be able to use the exposed credentials to access the vulnerable application with CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36317 | 0 | 0| 
+| 20221228T12:55:19Z | Openwsman, versions up to and including 2.6.9, are vulnerable to arbitrary file disclosure because the working directory of openwsmand daemon was set to root directory. A remote, unauthenticated attacker can exploit this vulnerability by sending a specially crafted HTTP request to openwsman server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-3816 | 0 | 0| 
+| 20221228T12:33:17Z | WebKit+Kernel exploit chain for all actual PS Vita firmwares | https://github.com/RealYoti/project-amber | 1 | 0| 
+| 20221228T12:21:52Z | It has been found that in openshift-enterprise version 3.11 and openshift-enterprise versions 4.1 up to, including 4.3, multiple containers modify the permissions of /etc/passwd to make them modifiable by users other than root. An attacker with access to the running container can exploit this to modify /etc/passwd to a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-1706 | 0 | 0| 
+| 20221228T12:18:42Z | Privilege escalation vulnerability in DXL Broker for Windows prior to 6.0.0.280 allows local users to gain elevated privileges by exploiting weak directory controls in the logs directory. This can lead to a denial-of-service attack on the DXL Broker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2188 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T02:33:22Z | GE Communicator, all versions prior to 4.0.517, contains two backdoor accounts with hardcoded credentials, which may allow control over the database. This service is inaccessible to attackers if Windows default firewall settings are used by the end user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-6548 | 0 | 0| 
-| 20221227T23:52:06Z | Insecure permissions in Telos Alliance Omnia MPX Node v1.0.0 to v1.4.9 allow attackers to manipulate and access system settings with backdoor account low privilege, this can lead to change hardware settings and execute arbitrary commands in vulnerable system functions that is requires high privilege to access. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45562 | 0 | 0| 
-| 20221227T20:54:37Z | Windows webcam backdoor created with msfvenom | https://github.com/Tomfunand/Windows-Webcam-Hack | 0 | 0| 
-| 20221227T18:46:16Z | backdoor | https://github.com/stapitop/backdoor | 0 | 0| 
-| 20221227T14:47:34Z | vSphere_selfuse commit 2a9fe074a64f6a0dd8ac02f21e2f10d66cac5749 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46996 | 0 | 0| 
-| 20221227T14:46:53Z | Python3-RESTfulAPI commit d9907f14e9e25dcdb54f5b22252b0e9452e3970e and e772e0beee284c50946e94c54a1d43071ca78b74 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46609 | 0 | 0| 
-| 20221227T14:46:50Z | Passhunt commit 54eb987d30ead2b8ebbf1f0b880aa14249323867 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46997 | 0 | 0| 
-| 20221227T14:30:20Z | keylogger搭載してるというか、それに特化したハッキングツール。 | https://github.com/ware255/yuki | 0 | 0| 
-| 20221227T14:14:36Z | A support user exists on the device and appears to be a backdoor for Technical Support staff. The default password for this account is “support” and cannot be changed by a user via any normally accessible means. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47209 | 0 | 0| 
-| 20221227T13:21:55Z | THE BEST BACDOOR FOR FIVEM (I AM NOT RESPONSIBLE FOR THE CHARGES MADE WITH THIS SCRIPT) | https://github.com/nutria22/fivem-backdoor | 0 | 0| 
+| 20221228T12:48:45Z | Null | https://github.com/liuyugeng/backdoor-attacks-against-dataset-distillation | 0 | 0| 
+| 20221228T12:14:58Z | The d8s-dates for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-timezones package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44052 | 0 | 0| 
+| 20221228T12:14:44Z | The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-utility package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44054 | 0 | 0| 
+| 20221228T12:14:40Z | The d8s-stats for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-math package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44051 | 0 | 0| 
+| 20221228T12:14:36Z | The d8s-networking for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-user-agents package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44053 | 0 | 0| 
+| 20221228T12:14:16Z | The d8s-networking for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-json package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44050 | 0 | 0| 
+| 20221228T12:14:12Z | The d8s-strings for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43303 | 0 | 0| 
+| 20221228T12:14:08Z | The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43304 | 0 | 0| 
+| 20221228T12:14:00Z | The d8s-python for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-algorithms package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43305 | 0 | 0| 
+| 20221228T12:13:55Z | The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-dates package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43306 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221228T04:43:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 282 | 66| 
 | 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
 | 20221227T19:01:14Z | The npm package %tar% (aka node-tar) before versions 4.4.18, 5.0.10, and 6.1.9 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that e CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37712 | 0 | 0| 
 | 20221227T19:01:10Z | The npm package %tar% (aka node-tar) before versions 4.4.16, 5.0.8, and 6.1.7 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37701 | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20221226T06:42:26Z | All In One - Symbolic Execution | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20221225T23:51:12Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 412 | 36| 
-| 20221225T23:08:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 281 | 66| 
 | 20221225T05:11:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 306 | 23| 
 
 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T02:39:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8204 | 1788| 
+| 20221228T11:37:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8205 | 1789| 
+| 20221228T10:50:29Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40159 | 0 | 0| 
+| 20221228T09:29:44Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40160 | 0 | 0| 
+| 20221228T09:08:17Z | Null | https://github.com/mrbooshehri/cmd-fuzzy-ssh | 0 | 0| 
+| 20221228T07:42:38Z | Null | https://github.com/tommy0812/fuzzy-systems | 0 | 0| 
+| 20221228T07:12:25Z | Null | https://github.com/putrisetya/Algoritma-Fuzzy-C-means- | 0 | 0| 
+| 20221228T06:17:59Z | Null | https://github.com/NizamZidan10/Fuzzy-C-Means | 0 | 0| 
+| 20221228T06:17:57Z | Null | https://github.com/annisashrmn22/Algoritma-Fuzzy-C-Means | 0 | 0| 
+| 20221228T06:17:55Z | Null | https://github.com/Salmaashafira/algoritma-Fuzzy-C-Means | 0 | 0| 
 | 20221228T01:23:52Z | Null | https://github.com/pit845/fuzzy-octo-waffle | 0 | 0| 
-| 20221227T20:14:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 865 | 185| 
-| 20221227T13:28:14Z | Null | https://github.com/kwen1510/fuzzy-search | 0 | 0| 
-| 20221227T13:19:54Z | A fuzzy positive/negative covid prediction system base on occurrence and confirmability matrices. | https://github.com/miladbarooni/FuzzyCovidDetection | 0 | 0| 
-| 20221227T13:02:07Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
-| 20221227T12:31:26Z | Null | https://github.com/Danday999/fuzzy-memory | 1 | 0| 
-| 20221227T11:21:24Z | Mozilla developers Bryce Seager van Dyk and the Mozilla Fuzzing Team reported potential vulnerabilities present in Firefox 101. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34485 | 0 | 0| 
-| 20221227T11:20:47Z | Mozilla developers Gabriele Svelto, Timothy Nikkel, Randell Jesup, Jon Coppeard, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 100. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31748 | 0 | 0| 
-| 20221227T11:20:15Z | Mozilla developers and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 102. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox ESR < 102.1, Firefox < 103, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2505 | 0 | 0| 
 
 
 
