@@ -18,6 +18,7 @@
 | 20221227 | Linux kernel ksmbd UAF RCE漏洞，ZDI-22-1690，CVSS SCORE：10.0 高危漏洞 | https://gbhackers.com/critical-linux-kernel-vulnerability/amp/| 
 | 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
 | 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
+| 20221227 | 通过dlopen从内存中加载php扩展以权限维持 | http://adepts.of0x.cc/dlopen-from-memory-PHP/| 
 | 20221226 | 加密货币安全相关概念及防护措施介绍，包括防范、止损、溯源等 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E8%87%AA%E6%95%91%E6%89%8B%E5%86%8CV1.pdf| 
 | 20221226 | CVE-2022-46175:JSON5解析的时候存在原型链污染 | http://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/| 
 | 20221226 | Linux内核网络调度器的漏洞和利用——专属SLAB提权 | http://paper.seebug.org/2036/| 
@@ -25,7 +26,6 @@
 | 20221226 | 如何在MacOS上使用QEMU模拟一台 iPod Touch 1G 设备，本篇是系列文章的第二篇，主要涉及生成NOR Image、 NAND Image等方法。 | https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/| 
 | 20221226 | Jira配置错误导致还未修复的漏洞的报告内容被泄露 | https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
 | 20221226 | glibc堆管理截至v2.34版本所有漏洞利用技巧的综述，分为已经修补的过时技术和仍然可以使用的利用技术两部分 | https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/| 
-| 20221226 | hkcert ctf challenge offical writeup by Mystiz part1 | http://mystiz.hk/posts/2022/2022-12-24-hkcert-ctf-1/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221228T01:14:46Z | CVE-2020-7774 | The package y18n before 3.2.2, 4.0.1 and 5.0.5, is vulnerable to Prototype Pollution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7774 | | 
-| 20221228T01:14:43Z | CVE-2020-7788 | This affects the package ini before 1.3.6. If an attacker submits a malicious INI file to an application that parses it with ini.parse, they will pollute the prototype on the application. This can be exploited further depending on the context. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7788 | | 
-| 20221228T01:14:02Z | CVE-2020-7746 | This affects the package chart.js before 2.9.4. The options parameter is not properly sanitized when it is processed. When the options are processed, the existing options (or the defaults options) are deeply merged with provided options. However, during this operation, the keys of the object being set are not checked,  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7746 | | 
-| 20221228T01:13:59Z | CVE-2020-7766 | This affects all versions of package json-ptr. The issue occurs in the set operation (https://flitbit.github.io/json-ptr/classes/_src_pointer_.jsonpointer.htmlset) when the force flag is set to true. The function recursively set the property in the target object, however it does not properly check the key being set, le CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7766 | | 
-| 20221228T01:13:56Z | CVE-2020-7768 | The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7768 | | 
-| 20221228T01:13:52Z | CVE-2020-7770 | This affects the package json8 before 1.0.3. The function adds in the target object the property specified in the path, however it does not properly check the key being set, leading to a prototype pollution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7770 | | 
-| 20221228T01:13:48Z | CVE-2020-7709 | This affects the package json-pointer before 0.6.1. Multiple reference of object using slash is supported. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7709 | | 
-| 20221228T01:13:45Z | CVE-2020-7748 | This affects the package @tsed/core before 5.65.7. This vulnerability relates to the deepExtend function which is used as part of the utils directory. Depending on if user input is provided, an attacker can overwrite and pollute the object prototype of a program. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7748 | | 
-| 20221228T01:13:12Z | CVE-2020-7737 | All versions of package safetydance are vulnerable to Prototype Pollution via the set function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-7737 | | 
-| 20221228T01:13:09Z | CVE-2021-26259 | A flaw was found in htmldoc in v1.9.12. Heap buffer overflow in render_table_row(),in ps-pdf.cxx may lead to arbitrary code execution and denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26259 | | 
+| 20221228T01:16:20Z | CVE-2021-26252 | A flaw was found in htmldoc in v1.9.12. Heap buffer overflow in pspdf_prepare_page(),in ps-pdf.cxx may lead to execute arbitrary code and denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26252 | | 
+| 20221228T01:16:08Z | CVE-2022-1674 | NULL Pointer Dereference in function vim_regexec_string at regexp.c:2733 in GitHub repository vim/vim prior to 8.2.4938. NULL Pointer Dereference in function vim_regexec_string at regexp.c:2733 allows attackers to cause a denial of service (application crash) via a crafted input. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1674 | | 
+| 20221228T01:16:04Z | CVE-2021-32472 | Teachers exporting a forum in CSV format could receive a CSV of forums from all courses in some circumstances. Moodle versions 3.10 to 3.10.3, 3.9 to 3.9.6 and 3.8 to 3.8.8 are affected. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32472 | | 
+| 20221228T01:16:01Z | CVE-2021-23442 | This affects all versions of package @cookiex/deep. The global proto object can be polluted using the __proto__ object. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23442 | | 
+| 20221228T01:15:58Z | CVE-2021-23452 | This affects all versions of package x-assign. The global proto object can be polluted using the __proto__ object. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23452 | | 
+| 20221228T01:15:51Z | CVE-2021-23419 | This affects the package open-graph before 0.2.6. The function parse could be tricked into adding or modifying properties of Object.prototype using a __proto__ or constructor payload. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23419 | | 
+| 20221228T01:15:40Z | CVE-2021-4091 | A double-free was found in the way 389-ds-base handles virtual attributes context in persistent searches. An attacker could send a series of search requests, forcing the server to behave unexpectedly, and crash. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4091 | | 
+| 20221228T01:15:37Z | CVE-2021-27582 | org/mitre/oauth2/web/OAuthConfirmationController.java in the OpenID Connect server implementation for MITREid Connect through 1.3.3 contains a Mass Assignment (aka Autobinding) vulnerability. This arises due to unsafe usage of the @ModelAttribute annotation during the OAuth authorization flow, in which HTTP request par CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-27582 | | 
+| 20221228T01:15:33Z | CVE-2021-26707 | The merge-deep library before 3.0.3 for Node.js can be tricked into overwriting properties of Object.prototype or adding new properties to it. These properties are then inherited by every object in the program, thus facilitating prototype-pollution attacks against applications using this library. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26707 | | 
+| 20221228T01:15:30Z | CVE-2020-24939 | Prototype pollution in Stampit supermixer 1.0.3 allows an attacker to modify the prototype of a base object which can vary in severity depending on the implementation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-24939 | | 
 
 
 # klee on Github 推荐
