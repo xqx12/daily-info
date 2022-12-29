@@ -148,14 +148,14 @@
 | --- | --- | --- | --- | ---| 
 | 20221228T20:32:44Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
 | 20221228T19:57:17Z | OneFuzz is an open source self-hosted Fuzzing-As-A-Service platform. Starting with OneFuzz 2.12.0 or greater, an incomplete authorization check allows an authenticated user from any Azure Active Directory tenant to make authorized API calls to a vulnerable OneFuzz instance. To be vulnerable, a OneFuzz deployment must b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37705 | 0 | 0| 
+| 20221228T19:56:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3301 | 665| 
 | 20221228T19:19:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1789| 
 | 20221228T18:26:39Z | While fuzzing the 2.4.49 httpd, a new null pointer dereference was detected during HTTP/2 request processing, allowing an external source to DoS the server. This requires a specially crafted request. The vulnerability was recently introduced in version 2.4.49. No exploit is known to the project. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41524 | 0 | 0| 
 | 20221228T17:42:05Z | Project | https://github.com/strange-bhaina/fuzzy-journey | 0 | 0| 
 | 20221228T17:27:34Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
+| 20221228T16:30:34Z | A vulnerability in bmcweb of OpenBMC Project allows user to cause denial of service. When fuzzing the multipart_parser code using AFL++ with address sanitizer enabled to find smallest memory corruptions possible. It detected problem in how multipart_parser handles unclosed http headers. If long enough http header is pa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2809 | 0 | 0| 
+| 20221228T16:30:24Z | A vulnerability in bmcweb of OpenBMC Project allows user to cause denial of service. This vulnerability was identified during mitigation for CVE-2022-2809. When fuzzing the multipart_parser code using AFL++ with address sanitizer enabled to find smallest memory corruptions possible. It detected problem in how multipart CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3409 | 0 | 0| 
 | 20221228T10:50:29Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40159 | 0 | 0| 
-| 20221228T09:29:44Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40160 | 0 | 0| 
-| 20221228T09:08:17Z | Null | https://github.com/mrbooshehri/cmd-fuzzy-ssh | 0 | 0| 
-| 20221228T07:42:38Z | Null | https://github.com/tommy0812/fuzzy-systems | 0 | 0| 
 
 
 
