@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221229 | Rust 语言逆向工程学习笔记 | https://brightprogrammer.netlify.app/post/reverse-engineering-rustlang-binaries-0x1-empty-program/| 
+| 20221229 | 总结了开发 Linux 内核漏洞利用时可能用到的结构体 | http://blog.csdn.net/panhewu9919/article/details/118112795| 
+| 20221229 | Nunchucks HackTheBox Writeup | http://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/| 
+| 20221229 | 通过对华为手机EL2级别的安全保护程序HHEE的逆向分析，分析其对内核提取的多种通用保护机制。 | http://blog.impalabs.com/2212_huawei-security-hypervisor.html| 
 | 20221228 | 影响任天堂多款在线游戏的网络库缓冲区溢出漏洞的细节和poc公开，涉及ns，3ds，wiiu平台的多款游戏 | http://securityonline.info/cve-2022-47949-critical-rce-flaw-affects-multiple-nintendo-games/| 
 | 20221228 | 2022年APT攻击洞察报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022_APT_TRENDS_INSIGHT_REPORT.pdf| 
 | 20221228 | 供应链相关的攻击和缓解措施研究 | https://engineering.mercari.com/en/blog/entry/20221215-supplychain-security-reevaluation/| 
@@ -22,15 +26,12 @@
 | 20221227 | 如何在开启了Windows Defender Credential Guard保护的情况下获取NTLM hash。该方法主要通过控制LSASS进程的ALPC 通信通道与LSAIso进程通信，利用加密脆弱性破解NTLM hash。 | https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22?gi=56a7be7c11fe| 
 | 20221227 | CVE-2022-28672:Foxit PDF Reader UAF造成的RCE利用 | http://hacksys.io/blogs| 
 | 20221227 | CVE-2022-41040 and CVE-2022-41082 – zero-days in MS Exchange | http://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bvf6zky241ysqhz| 
-| 20221227 | A public collection of POCs & Exploits (MacOS) | https://github.com/jhftss/POC| 
-| 20221227 | Linux kernel ksmbd UAF RCE漏洞，ZDI-22-1690，CVSS SCORE：10.0 高危漏洞 | https://gbhackers.com/critical-linux-kernel-vulnerability/amp/| 
-| 20221227 | Heap Overflows on iOS ARM64: Heap Spraying, Use-After-Free (Part 3) | https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html?m=1| 
-| 20221227 | Azure 中的无密码持久性驻留和特权提升 | https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f?gi=4379de1ba1cb| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221229 | [HTB] Jarvis Writeup | https://mp.weixin.qq.com/s/7eEGFMrYwfjK8ElNjvg6Lg| 
 | 20221228 | 2022攻防演练木马专项分析报告 | http://report.threatbook.cn/2022.pdf| 
 | 20221228 | 从开源项目和库的Issue和Bug报告中挖掘情报 | https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg| 
 | 20221228 | 欧盟网络安全局 2022 年度威胁报告 | https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw| 
@@ -40,22 +41,21 @@
 | 20221226 | 越权漏洞自动化治理实践 | https://mp.weixin.qq.com/s/rI5r3KdMC0StA9kU5IErzg| 
 | 20221226 | SecWiki周刊（第460期) | https://www.sec-wiki.com/weekly/460| 
 | 20221226 | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ| 
-| 20221225 | Hopper：建模并检测横向移动攻击 | https://mp.weixin.qq.com/s/9aCIflnA0QqOCZ68geCaow| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221229T02:57:41Z | CVE-2021-38483 | The affected product is vulnerable to misconfigured binaries, allowing users on the target PC with SYSTEM level privileges access to overwrite the binary and modify files to gain privilege escalation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-38483 | | 
-| 20221229T02:57:34Z | CVE-2022-3504 | A vulnerability was found in SourceCodester Sanitization Management System and classified as critical. This issue affects some unknown processing of the file /php-sms/?p=services/view_service. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclose CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3504 | | 
-| 20221229T02:57:31Z | CVE-2022-3505 | A vulnerability was found in SourceCodester Sanitization Management System. It has been classified as problematic. Affected is an unknown function of the file /php-sms/admin/. The manipulation of the argument page leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclose CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3505 | | 
-| 20221229T02:57:27Z | CVE-2022-41686 | OpenHarmony-v3.1.2 and prior versions, 3.0.6 and prior versions have an Out-of-bound memory read and write vulnerability in /dev/mmz_userdev device driver. The impact depends on the privileges of the attacker. The unprivileged process run on the device could read out-of-bound memory leading sensitive to information dis CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41686 | | 
-| 20221229T02:57:24Z | CVE-2022-42463 | OpenHarmony-v3.1.2 and prior versions have an authenication bypass vulnerability in a callback handler function of Softbus_server in communication subsystem. Attackers can launch attacks on distributed networks by sending Bluetooth rfcomm packets to any remote device and executing arbitrary commands. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42463 | | 
-| 20221229T02:57:21Z | CVE-2022-42234 | There is a file inclusion vulnerability in the template management module in UCMS 1.6 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42234 | | 
-| 20221229T02:57:17Z | CVE-2022-42488 | OpenHarmony-v3.1.2 and prior versions have a Missing permission validation vulnerability in param service of startup subsystem. An malicious application installed on the device could elevate its privileges to the root user, disable security features, or cause DoS by disabling particular services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42488 | | 
-| 20221229T02:57:13Z | CVE-2020-2731 | Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows low privileged attacker having Local Logon privilege with logon to the infrastructure where Core RDBMS executes to compromise Core RDBMS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2731 | | 
-| 20221229T02:57:09Z | CVE-2020-2729 | Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: Advanced Console). Supported versions that are affected are 11.1.2.3.0 and 12.2.1.3.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Identity Manager. Successful attacks of  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2729 | | 
-| 20221229T02:57:06Z | CVE-2020-2728 | Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: OIM - LDAP user and role Synch). The supported version that is affected is 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Identity Manager. Successful attacks of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2728 | | 
+| 20221229T12:43:49Z | CVE-2022-40116 | Online Banking System v1.0 was discovered to contain a SQL injection vulnerability via the search parameter at /net-banking/beneficiary.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40116 | | 
+| 20221229T12:43:46Z | CVE-2022-40115 | Online Banking System v1.0 was discovered to contain a SQL injection vulnerability via the cust_id parameter at /net-banking/delete_beneficiary.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40115 | | 
+| 20221229T12:43:42Z | CVE-2022-40114 | Online Banking System v1.0 was discovered to contain a SQL injection vulnerability via the cust_id parameter at /net-banking/edit_customer.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40114 | | 
+| 20221229T12:43:39Z | CVE-2022-40113 | Online Banking System v1.0 was discovered to contain a SQL injection vulnerability via the cust_id parameter at /net-banking/send_funds.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40113 | | 
+| 20221229T12:43:36Z | CVE-2022-40132 | Cross-Site Request Forgery (CSRF) vulnerability in Seriously Simple Podcasting plugin <= 2.16.0 at WordPress, leading to plugin settings change. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40132 | | 
+| 20221229T12:43:32Z | CVE-2022-38936 | An issue has been found in PBC through 2022-8-27. A SEGV issue detected in the function pbc_wmessage_integer in src/wmessage.c:137. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38936 | | 
+| 20221229T12:43:28Z | CVE-2022-40716 | HashiCorp Consul and Consul Enterprise up to 1.11.8, 1.12.4, and 1.13.1 do not check for multiple SAN URI values in a CSR on the internal RPC endpoint, enabling leverage of privileged access to bypass service mesh intentions. Fixed in 1.11.9, 1.12.5, and 1.13.2." CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40716 | | 
+| 20221229T12:43:25Z | CVE-2022-36340 | Unauthenticated Optin Campaign Cache Deletion vulnerability in MailOptin plugin <= 1.2.49.0 at WordPress. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36340 | | 
+| 20221229T12:43:21Z | CVE-2022-3269 | Session Fixation in GitHub repository ikus060/rdiffweb prior to 2.4.7. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3269 | | 
+| 20221229T12:43:18Z | CVE-2022-39230 | fhir-works-on-aws-authz-smart is an implementation of the authorization interface from the FHIR Works interface. Versions 3.1.1 and 3.1.2 are subject to Exposure of Sensitive Information to an Unauthorized Actor. This issue allows a client of the API to retrieve more information than the client’s OAuth scope permits wh CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39230 | | 
 
 
 # klee on Github 推荐
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221229T02:57:34Z | A vulnerability was found in SourceCodester Sanitization Management System and classified as critical. This issue affects some unknown processing of the file /php-sms/?p=services/view_service. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclose CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3504 | 0 | 0| 
-| 20221229T02:57:31Z | A vulnerability was found in SourceCodester Sanitization Management System. It has been classified as problematic. Affected is an unknown function of the file /php-sms/admin/. The manipulation of the argument page leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclose CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3505 | 0 | 0| 
-| 20221229T02:57:13Z | Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows low privileged attacker having Local Logon privilege with logon to the infrastructure where Core RDBMS executes to compromise Core RDBMS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2731 | 0 | 0| 
-| 20221229T02:57:09Z | Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: Advanced Console). Supported versions that are affected are 11.1.2.3.0 and 12.2.1.3.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Identity Manager. Successful attacks of  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2729 | 0 | 0| 
-| 20221229T02:57:06Z | Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: OIM - LDAP user and role Synch). The supported version that is affected is 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Identity Manager. Successful attacks of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2728 | 0 | 0| 
-| 20221229T02:54:18Z | The HwAirlink module has an out-of-bounds read vulnerability.Successful exploitation of this vulnerability may cause information leakage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38981 | 0 | 0| 
-| 20221229T02:54:15Z | The BT Hfp Client module has a Use-After-Free (UAF) vulnerability.Successful exploitation of this vulnerability may result in arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38983 | 0 | 0| 
-| 20221229T02:54:04Z | The HW_KEYMASTER module has a vulnerability of not verifying the data read.Successful exploitation of this vulnerability may cause malicious construction of data, which results in out-of-bounds access. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41580 | 0 | 0| 
-| 20221229T02:54:01Z | The MPTCP module has an out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause root privilege escalation attacks implemented by modifying program information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41578 | 0 | 0| 
-| 20221229T02:53:57Z | The HW_KEYMASTER module has a vulnerability of missing bounds check on length.Successful exploitation of this vulnerability may cause malicious construction of data, which results in out-of-bounds access. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-46839 | 0 | 0| 
+| 20221229T12:41:51Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38439 | 0 | 0| 
+| 20221229T12:41:47Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38438 | 0 | 0| 
+| 20221229T12:41:44Z | This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to improper control of code generation in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40628 | 0 | 0| 
+| 20221229T12:41:21Z | Rockwell Automation ThinManager ThinServer versions 11.0.0 - 13.0.0 is vulnerable to a heap-based buffer overflow. An attacker could send a specifically crafted TFTP or HTTPS request, causing a heap-based buffer overflow that crashes the ThinServer process. If successfully exploited, this could expose the server to arb CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38742 | 0 | 0| 
+| 20221229T12:41:07Z | In Grandstream GSD3710 in its 1.0.11.13 version, it%s possible to overflow the stack since it doesn%t check the param length before using the sscanf instruction. Because of that, an attacker could create a socket and connect with a remote IP:port by opening a shell and getting full access to the system. The exploit aff CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2070 | 0 | 0| 
+| 20221229T12:40:42Z | This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to insecure design in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by sending a specially CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40629 | 0 | 0| 
+| 20221229T12:40:35Z | Use after free in Browser Creation in Google Chrome prior to 104.0.5112.101 allowed a remote attacker who had convinced a user to engage in a specific UI interaction to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2998 | 0 | 0| 
+| 20221229T12:31:21Z | Nextcloud text is a collaborative document editing using Markdown built for the nextcloud server. Due to an issue with the Nextcloud Text application, which is by default shipped with Nextcloud Server, an attacker is able to access the folder names of %File Drop%. For successful exploitation an attacker requires knowle CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41233 | 0 | 0| 
+| 20221229T12:30:03Z | Nextcloud Server before 11.0.3 is vulnerable to an inadequate escaping leading to a XSS vulnerability in the search module. To be exploitable a user has to write or paste malicious content into the search dialogue. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-0890 | 0 | 0| 
+| 20221229T12:29:38Z | IBM Sterling Partner Engagement Manager 6.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 230017. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34348 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,6 +120,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T06:39:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3258 | 459| 
 | 20221228T04:43:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 282 | 66| 
 | 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
 | 20221227T19:01:14Z | The npm package %tar% (aka node-tar) before versions 4.4.18, 5.0.10, and 6.1.9 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that e CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37712 | 0 | 0| 
@@ -129,16 +130,15 @@
 | 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20221226T06:42:26Z | All In One - Symbolic Execution | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20221225T23:51:12Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 412 | 36| 
-| 20221225T05:11:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 306 | 23| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T09:25:47Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 66 | 15| 
 | 20221227T01:55:03Z | Shell Extension para exibir os ícones de roms do Nintendo DS no Windows Explorer | https://github.com/pablorobert/NDSShellExtension | 0 | 0| 
 | 20221225T19:24:47Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 4 | 2| 
 | 20221224T12:55:54Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 0 | 0| 
-| 20221222T06:09:43Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 65 | 15| 
 | 20221219T01:54:46Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 23 | 2| 
 | 20221212T19:19:12Z | Dynamic Proof of Retrievability using Verifiable Computation and Error Correction Code (NDSS%23) | https://github.com/vt-asaplab/porla | 2 | 0| 
 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T11:27:37Z | Null | https://github.com/lhymmEU/blockchain_fuzzer | 0 | 0| 
+| 20221229T09:20:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1790| 
+| 20221229T07:50:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1216 | 158| 
+| 20221229T07:40:16Z | Null | https://github.com/fluffos/fluffos-fuzzing-results | 0 | 0| 
+| 20221229T07:14:24Z | Null | https://github.com/ahmadkhoirulanam2/Algoritma-Fuzzy-C-means- | 0 | 0| 
+| 20221229T07:01:04Z | Null | https://github.com/BlackHat1007/fuzzy-waddle | 0 | 0| 
+| 20221229T06:26:57Z | Tugas SPK YGY | https://github.com/AWXND/Logika-Fuzzy | 0 | 0| 
 | 20221229T01:51:00Z | Null | https://github.com/snare-dev/fuzzy-octo-invention | 0 | 0| 
 | 20221229T01:38:52Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 514 | 47| 
 | 20221228T20:32:44Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
-| 20221228T19:57:17Z | OneFuzz is an open source self-hosted Fuzzing-As-A-Service platform. Starting with OneFuzz 2.12.0 or greater, an incomplete authorization check allows an authenticated user from any Azure Active Directory tenant to make authorized API calls to a vulnerable OneFuzz instance. To be vulnerable, a OneFuzz deployment must b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37705 | 0 | 0| 
-| 20221228T19:56:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3301 | 665| 
-| 20221228T19:19:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1789| 
-| 20221228T18:26:39Z | While fuzzing the 2.4.49 httpd, a new null pointer dereference was detected during HTTP/2 request processing, allowing an external source to DoS the server. This requires a specially crafted request. The vulnerability was recently introduced in version 2.4.49. No exploit is known to the project. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41524 | 0 | 0| 
-| 20221228T17:42:05Z | Project | https://github.com/strange-bhaina/fuzzy-journey | 0 | 0| 
-| 20221228T17:27:34Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
-| 20221228T16:30:34Z | A vulnerability in bmcweb of OpenBMC Project allows user to cause denial of service. When fuzzing the multipart_parser code using AFL++ with address sanitizer enabled to find smallest memory corruptions possible. It detected problem in how multipart_parser handles unclosed http headers. If long enough http header is pa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2809 | 0 | 0| 
 
 
 
