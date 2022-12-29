@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221229T13:05:00Z | Vial is a lightweight python framework focused on exploiting Flask applications | https://github.com/CopernicusPY/vial | 0 | 0| 
+| 20221229T13:05:59Z | Vial is a lightweight python framework focused on exploiting Flask applications | https://github.com/CopernicusPY/vial | 1 | 0| 
 | 20221229T12:41:51Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38439 | 0 | 0| 
 | 20221229T12:41:47Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38438 | 0 | 0| 
 | 20221229T12:41:44Z | This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to improper control of code generation in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40628 | 0 | 0| 
