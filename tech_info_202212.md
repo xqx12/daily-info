@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T01:51:00Z | Null | https://github.com/snare-dev/fuzzy-octo-invention | 0 | 0| 
 | 20221229T01:38:52Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 514 | 47| 
 | 20221228T20:32:44Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
 | 20221228T19:57:17Z | OneFuzz is an open source self-hosted Fuzzing-As-A-Service platform. Starting with OneFuzz 2.12.0 or greater, an incomplete authorization check allows an authenticated user from any Azure Active Directory tenant to make authorized API calls to a vulnerable OneFuzz instance. To be vulnerable, a OneFuzz deployment must b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37705 | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221228T17:42:05Z | Project | https://github.com/strange-bhaina/fuzzy-journey | 0 | 0| 
 | 20221228T17:27:34Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
 | 20221228T16:30:34Z | A vulnerability in bmcweb of OpenBMC Project allows user to cause denial of service. When fuzzing the multipart_parser code using AFL++ with address sanitizer enabled to find smallest memory corruptions possible. It detected problem in how multipart_parser handles unclosed http headers. If long enough http header is pa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2809 | 0 | 0| 
-| 20221228T16:30:24Z | A vulnerability in bmcweb of OpenBMC Project allows user to cause denial of service. This vulnerability was identified during mitigation for CVE-2022-2809. When fuzzing the multipart_parser code using AFL++ with address sanitizer enabled to find smallest memory corruptions possible. It detected problem in how multipart CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3409 | 0 | 0| 
 
 
 
