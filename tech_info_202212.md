@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T11:37:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8205 | 1789| 
+| 20221228T20:32:44Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
+| 20221228T19:57:17Z | OneFuzz is an open source self-hosted Fuzzing-As-A-Service platform. Starting with OneFuzz 2.12.0 or greater, an incomplete authorization check allows an authenticated user from any Azure Active Directory tenant to make authorized API calls to a vulnerable OneFuzz instance. To be vulnerable, a OneFuzz deployment must b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37705 | 0 | 0| 
+| 20221228T19:19:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1789| 
+| 20221228T18:26:39Z | While fuzzing the 2.4.49 httpd, a new null pointer dereference was detected during HTTP/2 request processing, allowing an external source to DoS the server. This requires a specially crafted request. The vulnerability was recently introduced in version 2.4.49. No exploit is known to the project. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41524 | 0 | 0| 
+| 20221228T17:42:05Z | Project | https://github.com/strange-bhaina/fuzzy-journey | 0 | 0| 
+| 20221228T17:27:34Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
 | 20221228T10:50:29Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40159 | 0 | 0| 
 | 20221228T09:29:44Z | ** DISPUTED ** This record was originally reported by the oss-fuzz project who failed to consider the security context in which JXPath is intended to be used and failed to contact the JXPath maintainers prior to requesting the CVE allocation. The CVE was then allocated by Google in breach of the CNA rules. After review CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40160 | 0 | 0| 
 | 20221228T09:08:17Z | Null | https://github.com/mrbooshehri/cmd-fuzzy-ssh | 0 | 0| 
 | 20221228T07:42:38Z | Null | https://github.com/tommy0812/fuzzy-systems | 0 | 0| 
-| 20221228T07:12:25Z | Null | https://github.com/putrisetya/Algoritma-Fuzzy-C-means- | 0 | 0| 
-| 20221228T06:17:59Z | Null | https://github.com/NizamZidan10/Fuzzy-C-Means | 0 | 0| 
-| 20221228T06:17:57Z | Null | https://github.com/annisashrmn22/Algoritma-Fuzzy-C-Means | 0 | 0| 
-| 20221228T06:17:55Z | Null | https://github.com/Salmaashafira/algoritma-Fuzzy-C-Means | 0 | 0| 
-| 20221228T01:23:52Z | Null | https://github.com/pit845/fuzzy-octo-waffle | 0 | 0| 
 
 
 
