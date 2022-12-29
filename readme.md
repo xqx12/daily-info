@@ -12,6 +12,7 @@
 | 20221228 | 一个Linux的防火墙，以内核模块的形式实现，其主要亮点是可以像rootkit一样隐藏自己。 | https://antonio-cooler.gitbook.io/coolervoid-tavern/hidden-firewall-in-kernel| 
 | 20221228 | ARM平台上的漏洞利用入门教程书 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/| 
 | 20221228 | 使用CLR hooking的方法绕过杀软检测，以实现在powershell中随意执行恶意命令 | http://practicalsecurityanalytics.com/new-amsi-bypass-using-clr-hooking/| 
+| 20221228 | Playing with Powershell and JSON (and Amazon and Firewalls) | http://i5c.us/d29380| 
 
 
 # 安全维基 推荐
@@ -20,6 +21,8 @@
 | 20221228 | 2022攻防演练木马专项分析报告 | http://report.threatbook.cn/2022.pdf| 
 | 20221228 | 从开源项目和库的Issue和Bug报告中挖掘情报 | https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg| 
 | 20221228 | 欧盟网络安全局 2022 年度威胁报告 | https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw| 
+| 20221228 | Yi: 项目监控工具 以及 Codeql 自动运行 | https://github.com/ZhuriLab/Yi| 
+| 20221228 | 异质信息网络在软件工程方向的应用调研 | https://mp.weixin.qq.com/s/ZdSOop-I1e8WblBK9oQJjw| 
 
 
 # CVE Github 推荐
@@ -66,7 +69,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221228T13:28:00Z | Null | https://github.com/liuyugeng/backdoor-attacks-against-dataset-distillation | 0 | 0| 
+| 20221228T17:55:16Z | The pyesasky for python, as distributed on PyPI, included a code-execution backdoor inserted by a third party. The current version, without this backdoor, is 1.2.0-1.4.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30885 | 0 | 0| 
+| 20221228T15:33:12Z | code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/backdoor-attacks-against-dataset-distillation | 0 | 0| 
 | 20221228T12:14:58Z | The d8s-dates for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-timezones package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44052 | 0 | 0| 
 | 20221228T12:14:44Z | The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-utility package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44054 | 0 | 0| 
 | 20221228T12:14:40Z | The d8s-stats for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-math package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44051 | 0 | 0| 
@@ -75,7 +79,6 @@
 | 20221228T12:14:12Z | The d8s-strings for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43303 | 0 | 0| 
 | 20221228T12:14:08Z | The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43304 | 0 | 0| 
 | 20221228T12:14:00Z | The d8s-python for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-algorithms package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43305 | 0 | 0| 
-| 20221228T12:13:55Z | The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-dates package. The affected version of d8s-htm is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43306 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
