@@ -13,6 +13,7 @@
 | 20221228 | ARM平台上的漏洞利用入门教程书 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/| 
 | 20221228 | 使用CLR hooking的方法绕过杀软检测，以实现在powershell中随意执行恶意命令 | http://practicalsecurityanalytics.com/new-amsi-bypass-using-clr-hooking/| 
 | 20221228 | Playing with Powershell and JSON (and Amazon and Firewalls) | http://i5c.us/d29380| 
+| 20221228 | 由于新版本Office Block了VBS宏，APT开始使用XLL Excel插件来deliver攻击向量 | https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html| 
 
 
 # 安全维基 推荐
