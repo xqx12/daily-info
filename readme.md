@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T13:05:00Z | Vial is a lightweight python framework focused on exploiting Flask applications | https://github.com/CopernicusPY/vial | 0 | 0| 
 | 20221229T12:41:51Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38439 | 0 | 0| 
 | 20221229T12:41:47Z | Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim%s browser. Exploitation of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38438 | 0 | 0| 
 | 20221229T12:41:44Z | This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to improper control of code generation in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40628 | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20221229T12:40:35Z | Use after free in Browser Creation in Google Chrome prior to 104.0.5112.101 allowed a remote attacker who had convinced a user to engage in a specific UI interaction to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2998 | 0 | 0| 
 | 20221229T12:31:21Z | Nextcloud text is a collaborative document editing using Markdown built for the nextcloud server. Due to an issue with the Nextcloud Text application, which is by default shipped with Nextcloud Server, an attacker is able to access the folder names of %File Drop%. For successful exploitation an attacker requires knowle CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41233 | 0 | 0| 
 | 20221229T12:30:03Z | Nextcloud Server before 11.0.3 is vulnerable to an inadequate escaping leading to a XSS vulnerability in the search module. To be exploitable a user has to write or paste malicious content into the search dialogue. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-0890 | 0 | 0| 
-| 20221229T12:29:38Z | IBM Sterling Partner Engagement Manager 6.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 230017. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34348 | 0 | 0| 
 
 
 # backdoor on Github 推荐
