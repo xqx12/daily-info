@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221230 | 介绍针对人工智能的提示词注入攻击，通过一些特殊技巧使 AI 的输出产生非预期情况。本文以 Notion AI 为例介绍了提示词注入攻击的具体细节。 | https://lspace.swyx.io/p/reverse-prompt-eng| 
+| 20221230 | Google Project Zero研究员glazunov发现的一个mojo同步消息机制的沙箱进程UAF新攻击面，该类漏洞是在消息发送进程等待同步消息返回时，处理收到的其他传入消息导致的“重入”攻击，由于其临时变量大多使用了裸指针，因此很容易导致UAF。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2372| 
+| 20221230 | PVS-Studio工具检测出的top 10 C++ bugs，第一名是std::clamp的错误使用，开发者误以为std::clamp会直接更新参数的值，实际上并不会，而是返回一个引用 | https://pvs-studio.com/en/blog/posts/cpp/1021/?utm_source=firefly&utm_medium=twitter| 
 | 20221229 | Rust 语言逆向工程学习笔记 | https://brightprogrammer.netlify.app/post/reverse-engineering-rustlang-binaries-0x1-empty-program/| 
 | 20221229 | 总结了开发 Linux 内核漏洞利用时可能用到的结构体 | http://blog.csdn.net/panhewu9919/article/details/118112795| 
 | 20221229 | Nunchucks HackTheBox Writeup | http://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/| 
@@ -23,9 +26,6 @@
 | 20221228 | 一个Linux的防火墙，以内核模块的形式实现，其主要亮点是可以像rootkit一样隐藏自己。 | https://antonio-cooler.gitbook.io/coolervoid-tavern/hidden-firewall-in-kernel| 
 | 20221228 | ARM平台上的漏洞利用入门教程书 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/| 
 | 20221228 | 使用CLR hooking的方法绕过杀软检测，以实现在powershell中随意执行恶意命令 | http://practicalsecurityanalytics.com/new-amsi-bypass-using-clr-hooking/| 
-| 20221228 | Playing with Powershell and JSON (and Amazon and Firewalls) | http://i5c.us/d29380| 
-| 20221228 | 由于新版本Office Block了VBS宏，APT开始使用XLL Excel插件来deliver攻击向量 | https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html| 
-| 20221227 | Netcomm - 未经身份验证的远程代码执行 | http://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:54:02Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
-| 20221230T02:44:29Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2-CVE-2021-44228- | | 
-| 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
-| 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 
-| 20221230T02:39:23Z | CVE-2022-2206 | Out-of-bounds Read in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2206 | | 
-| 20221230T02:39:19Z | CVE-2022-2257 | Out-of-bounds Read in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2257 | | 
-| 20221230T02:39:15Z | CVE-2022-2284 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2284 | | 
-| 20221230T02:39:11Z | CVE-2022-2286 | Out-of-bounds Read in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2286 | | 
-| 20221230T02:39:07Z | CVE-2021-20316 | A flaw was found in the way Samba handled file/directory metadata. This flaw allows an authenticated attacker with permissions to read or modify share metadata, to perform this operation outside of the share. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-20316 | | 
-| 20221230T02:39:04Z | CVE-2022-2956 | A vulnerability classified as problematic has been found in ConsoleTVs Noxen. Affected is an unknown function of the file /Noxen-master/users.php. The manipulation of the argument create_user_username with the input "><script>alert(/xss/)</script> leads to cross site scripting. It is possible to launch the attack remot CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2956 | | 
+| 20221230T06:41:48Z | CVE-2022-35464 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6171b2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35464 | | 
+| 20221230T06:41:44Z | CVE-2022-35463 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0478. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35463 | | 
+| 20221230T06:41:41Z | CVE-2022-35461 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0a32. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35461 | | 
+| 20221230T06:41:38Z | CVE-2022-35462 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0bc3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35462 | | 
+| 20221230T06:41:34Z | CVE-2022-35460 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x61731f. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35460 | | 
+| 20221230T06:41:31Z | CVE-2022-35456 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x617087. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35456 | | 
+| 20221230T06:41:27Z | CVE-2022-35459 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e412a. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35459 | | 
+| 20221230T06:41:24Z | CVE-2022-35458 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b05ce. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35458 | | 
+| 20221230T06:41:20Z | CVE-2022-35455 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0d63. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35455 | | 
+| 20221230T06:41:14Z | CVE-2022-35454 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b05aa. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35454 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T05:40:38Z | Null | https://github.com/KleeUT/kleeut.com | 1 | 0| 
 | 20221229T18:31:59Z | Null | https://github.com/fchamicapereira/maestro-klee | 0 | 0| 
 | 20221227T15:23:28Z | chi-kleen cleaning company | https://github.com/adepeter1234/chi-kleen | 0 | 0| 
 | 20221226T22:56:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
@@ -70,7 +71,6 @@
 | 20221221T20:52:56Z | Null | https://github.com/SlynkoDenis/KLEE-Tests-Generation | 0 | 0| 
 | 20221221T19:13:20Z | Null | https://github.com/pjazdzewski1990/Klee | 0 | 0| 
 | 20221221T14:57:59Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
-| 20221221T11:54:43Z | External composite video bypass preamplifier modboard for the Famicom/NES | https://github.com/Gumball2415/squeeki-kleen-Video-FC | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:38:35Z | Tool to automatically exploit any type of memory corruption vulnerability: buffer generation and input sending. Based on turing machine. | https://github.com/gogo2464/immediate-pwn-research | 0 | 0| 
-| 20221230T02:31:19Z | Rockwell Automation ISaGRAF Workbench software versions 6.0 through 6.6.9 are affected by a Path Traversal vulnerability. Crafted malicious files can allow an attacker to traverse the file system when opened by ISaGRAF Workbench. If successfully exploited, an attacker could overwrite existing files and create additiona CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2464 | 0 | 0| 
-| 20221230T02:12:39Z | BlockExploit For roblox bedwars( denies place regions and allows to place blocks on gens...etc) | https://github.com/Markerlmaoz/BlockExploit | 0 | 0| 
-| 20221230T01:56:28Z | A vulnerability classified as critical was found in SourceCodester Simple and Nice Shopping Cart Script. Affected by this vulnerability is an unknown functionality of the file /mkshop/Men/profile.php. The manipulation of the argument mem_id leads to sql injection. The attack can be launched remotely. The exploit has be CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2957 | 0 | 0| 
-| 20221230T01:56:03Z | A vulnerability in the API implementation of Cisco ACI Multi-Site Orchestrator (MSO) could allow an authenticated, remote attacker to elevate privileges on an affected device. This vulnerability is due to improper authorization on specific APIs. An attacker could exploit this vulnerability by sending crafted HTTP reque CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-20921 | 0 | 0| 
-| 20221230T01:55:30Z | Archer Platform 6.9 SP2 P2 before 6.11 P3 (6.11.0.3) contain a reflected XSS vulnerability. A remote unauthenticated malicious Archer user could potentially exploit this vulnerability by tricking a victim application user into supplying malicious JavaScript code to the vulnerable web application. This code is then refl CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37318 | 0 | 0| 
-| 20221230T01:54:59Z | A flaw was found in the Linux kernels memory deduplication mechanism. Previous work has shown that memory deduplication can be attacked via a local exploitation mechanism. The same technique can be used if an attacker can upload page sized files and detect the change in access time from a networked service to determine CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3714 | 0 | 0| 
-| 20221230T01:54:52Z | Storing Passwords in a Recoverable Format vulnerability in ABB Zenon 8.20 allows an attacker who successfully exploit the vulnerability may add more network clients that may monitor various activities of the Zenon. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34837 | 0 | 0| 
-| 20221230T01:49:28Z | Vulnerability in the MySQL Client product of Oracle MySQL (component: C API). Supported versions that are affected are 5.6.48 and prior, 5.7.30 and prior and 8.0.20 and prior. Difficult to exploit vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Client. Success CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14550 | 0 | 0| 
-| 20221230T01:49:04Z | Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Security: Privileges). Supported versions that are affected are 5.6.44 and prior, 5.7.26 and prior and 8.0.16 and prior. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where MySQL Server CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2739 | 0 | 0| 
+| 20221230T13:00:10Z | This is an updated collection of discord exploits I found on github, all are unpatched for now dm 503#2500 on discord if one get patched | https://github.com/AxSnowz/discord-exploit-collection | 0 | 0| 
+| 20221230T12:55:23Z | Helium Android (JPG) Exploit Builder   Features Exploit 0DAY ZER0DAY Steganography Method Works seamlessly on all (.apk) files. Work All RAT%s working. PowerFull Encryption  Contact Telegram : @heliumcoder | https://github.com/HeliumCoder/Android-Silent-JPG-Exploit-by-Helium-Coder | 0 | 0| 
+| 20221230T12:28:39Z | Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota. | https://github.com/julian911015/Log4j-Scanner-Exploit | 10 | 3| 
+| 20221230T12:27:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4836 | 702| 
+| 20221230T11:11:20Z | Template Repository for Binary Exploitation | https://github.com/SauravMaheshkar/binary-exploitation-template | 0 | 0| 
+| 20221230T10:12:46Z | J-Link v10/v11/v12 USB exploit utility | https://github.com/banxian/EDUReviver | 23 | 14| 
+| 20221230T09:52:31Z | Roblox Exploit | https://github.com/Madishman/Injector | 0 | 0| 
+| 20221230T09:47:03Z | The results of my small term paper on the topic of the Internet of Vulnerable Things and the exploit for CVE-2022-48194. | https://github.com/otsmr/internet-of-vulnerable-things | 0 | 0| 
+| 20221230T09:09:03Z | This is exploit.js, Public Edition. | https://github.com/blogbooks/public_exploit.js | 0 | 0| 
+| 20221230T08:23:59Z | A practical demonstration of a reentrancy smart contract security attack | https://github.com/HairConditioner/ReentrancyExploitSmartContract | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T12:54:28Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 18 | 2| 
+| 20221230T06:34:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3260 | 459| 
+| 20221230T03:28:31Z | Fast symbolic execution engine | https://github.com/connorskees/symbolic-execution | 1 | 0| 
 | 20221230T01:35:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 283 | 66| 
-| 20221230T01:33:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3259 | 459| 
 | 20221229T21:36:09Z | In vow, there is a possible information disclosure due to a symbolic link following. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06545473; Issue ID: ALPS06545473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26456 | 0 | 0| 
 | 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
 | 20221227T19:01:14Z | The npm package %tar% (aka node-tar) before versions 4.4.18, 5.0.10, and 6.1.9 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that e CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37712 | 0 | 0| 
 | 20221227T19:01:10Z | The npm package %tar% (aka node-tar) before versions 4.4.16, 5.0.8, and 6.1.7 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37701 | 0 | 0| 
 | 20221227T16:08:14Z | There exists a path traversal vulnerability in the Android Google Search app. This is caused by the incorrect usage of uri.getLastPathSegment. A symbolic encoded string can bypass the path logic to get access to unintended directories. An attacker can manipulate paths that could lead to code execution on the device. We CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29580 | 0 | 0| 
 | 20221227T08:28:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
-| 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
-| 20221226T06:42:26Z | All In One - Symbolic Execution | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T11:27:05Z | Null | https://github.com/IkhwalSyukur/FuzzyIkram | 0 | 0| 
+| 20221230T10:22:52Z | Null | https://github.com/candyyyfyiyijli/fuzzy-enigma | 0 | 0| 
+| 20221230T10:08:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8210 | 1790| 
+| 20221230T08:50:59Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 295 | 49| 
+| 20221230T08:13:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3329 | 397| 
+| 20221230T07:47:53Z | this fuzzy logic algorithm i create to find me the best 5 supplier with minimum cost and high quality cloth | https://github.com/GLAZERadr/Fuzzy-Logic-Algorithm | 0 | 0| 
+| 20221230T07:01:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 495 | 63| 
+| 20221230T05:53:49Z | Null | https://github.com/kokokkko/fuzzy | 0 | 0| 
+| 20221230T05:30:32Z | Null | https://github.com/hihongju/fuzzy-train | 0 | 0| 
 | 20221229T23:03:40Z | A Denial-of-Service (DoS) vulnerability was discovered in F-Secure Atlant whereby the fsicapd component used in certain F-Secure products while scanning larger packages/fuzzed files consume too much memory eventually can crash the scanning engine. The exploit can be triggered remotely by an attacker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28871 | 0 | 0| 
-| 20221229T22:34:28Z | It’s not wise to upset a Wookiee. | https://github.com/milleniumfalcon90/laugh-it-up-fuzz-ball | 0 | 0| 
-| 20221229T21:44:50Z | Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources. Fuzz testing, provided by the CNCF, identified input to functions in the _strvals_ package that can cause an out of memory panic. The _strvals_ package contains a parser that turns strings in to Go structures. The _strvals_  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36055 | 0 | 0| 
-| 20221229T16:49:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8209 | 1790| 
-| 20221229T16:21:57Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 516 | 47| 
-| 20221229T11:27:37Z | Null | https://github.com/lhymmEU/blockchain_fuzzer | 0 | 0| 
-| 20221229T07:50:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1216 | 158| 
-| 20221229T07:40:16Z | Null | https://github.com/fluffos/fluffos-fuzzing-results | 0 | 0| 
-| 20221229T07:14:24Z | Null | https://github.com/ahmadkhoirulanam2/Algoritma-Fuzzy-C-means- | 0 | 0| 
-| 20221229T07:01:04Z | Null | https://github.com/BlackHat1007/fuzzy-waddle | 0 | 0| 
 
 
 
