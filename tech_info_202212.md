@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:46:33Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
+| 20221230T02:47:44Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
 | 20221230T02:44:29Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2-CVE-2021-44228- | | 
 | 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
 | 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 
