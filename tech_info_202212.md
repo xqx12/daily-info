@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:33:33Z | CVE-2022-36504 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36504 | | 
-| 20221230T02:33:29Z | CVE-2022-36503 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateMacClone. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36503 | | 
-| 20221230T02:33:25Z | CVE-2022-36507 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36507 | | 
-| 20221230T02:33:22Z | CVE-2022-36508 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36508 | | 
-| 20221230T02:33:18Z | CVE-2022-37077 | TOTOLINK A7000R V9.1.0u.6115_B20201022 was discovered to contain a stack overflow via the pppoeUser parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37077 | | 
-| 20221230T02:32:48Z | CVE-2022-36455 | TOTOLink A3600R V4.1.2cu.5182_B20201102 was discovered to contain a command injection vulnerability via the username parameter in /cstecgi.cgi. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36455 | | 
-| 20221230T02:32:45Z | CVE-2022-36510 | H3C GR2200 MiniGR1A0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36510 | | 
-| 20221230T02:32:41Z | CVE-2022-36509 | H3C GR3200 MiniGR1B0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36509 | | 
-| 20221230T02:32:37Z | CVE-2022-37817 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the function fromSetIpMacBind. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37817 | | 
-| 20221230T02:32:34Z | CVE-2022-37819 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the timezone parameter in the function fromSetSysTime. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37819 | | 
+| 20221230T02:34:26Z | CVE-2022-36490 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36490 | | 
+| 20221230T02:34:22Z | CVE-2022-36498 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Asp_SetTimingtimeWifiAndLed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36498 | | 
+| 20221230T02:34:18Z | CVE-2022-36496 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetMobileAPInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36496 | | 
+| 20221230T02:34:13Z | CVE-2022-36495 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function addactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36495 | | 
+| 20221230T02:34:10Z | CVE-2022-36494 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function edditactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36494 | | 
+| 20221230T02:34:05Z | CVE-2022-36493 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPWifiorLedInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36493 | | 
+| 20221230T02:34:02Z | CVE-2022-36492 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36492 | | 
+| 20221230T02:33:58Z | CVE-2022-36500 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36500 | | 
+| 20221230T02:33:54Z | CVE-2022-36499 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function DEleteusergroup. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36499 | | 
+| 20221230T02:33:50Z | CVE-2022-36497 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID_5G. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36497 | | 
 
 
 # klee on Github 推荐
