@@ -15,6 +15,8 @@
 | 20221229 | 给出了一个有趣的针对GPT3/ChatGPT的提示词注入（Prompt Injection）用来扰乱AI的输入逻辑。 | https://www.reddit.com/r/ReverseEngineering/comments/zy1b9u/reverse_prompt_engineering_for_fun_and_no_profit/| 
 | 20221229 | 展示了一个最新发现的勒索软件CatB，该软件通过处理器核心检查，物理内存大小检查和硬盘大小检查确定自己不被放置在虚拟机中，然后执行MSDTC 服务的DLL劫持绕过杀毒防御软件。 | http://minerva-labs.com/blog/new-catb-ransomware-employs-2-year-old-dll-hijacking-technique-to-evade-detection/| 
 | 20221229 | Hacking in Parallel – Track 1 | http://streaming.media.ccc.de/jev22/hip1| 
+| 20221229 | 一款通过分析rust二进制内模块并在本地构建相应模块以恢复stripped二进制符号的python工具 | https://www.reddit.com/r/ReverseEngineering/comments/zxlssk/cerberus_a_python_tool_to_recover_symbols_from/| 
+| 20221229 | 借助rtld，利用单字节溢出实现ROP | https://hackmd.io/@pepsipu/ry-SK44pt?s=09| 
 | 20221228 | 影响任天堂多款在线游戏的网络库缓冲区溢出漏洞的细节和poc公开，涉及ns，3ds，wiiu平台的多款游戏 | http://securityonline.info/cve-2022-47949-critical-rce-flaw-affects-multiple-nintendo-games/| 
 | 20221228 | 2022年APT攻击洞察报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022_APT_TRENDS_INSIGHT_REPORT.pdf| 
 | 20221228 | 供应链相关的攻击和缓解措施研究 | https://engineering.mercari.com/en/blog/entry/20221215-supplychain-security-reevaluation/| 
@@ -24,8 +26,6 @@
 | 20221228 | Playing with Powershell and JSON (and Amazon and Firewalls) | http://i5c.us/d29380| 
 | 20221228 | 由于新版本Office Block了VBS宏，APT开始使用XLL Excel插件来deliver攻击向量 | https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html| 
 | 20221227 | Netcomm - 未经身份验证的远程代码执行 | http://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md| 
-| 20221227 | BlueNoroff(Lazarus子组)使用新的办法在投递载荷的时候bypass MoTW | https://securelist.com/bluenoroff-methods-bypass-motw/108383/| 
-| 20221227 | GuLoader 恶意软件实现了大量反分析和反调试功能，其中包括利用硬件断点来 unhook NTDLL 里面的 hook | https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html| 
 
 
 # 安全维基 推荐
@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:47:44Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
+| 20221230T02:54:02Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
 | 20221230T02:44:29Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2-CVE-2021-44228- | | 
 | 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
 | 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 

@@ -15,6 +15,8 @@
 | 20221229 | 给出了一个有趣的针对GPT3/ChatGPT的提示词注入（Prompt Injection）用来扰乱AI的输入逻辑。 | https://www.reddit.com/r/ReverseEngineering/comments/zy1b9u/reverse_prompt_engineering_for_fun_and_no_profit/| 
 | 20221229 | 展示了一个最新发现的勒索软件CatB，该软件通过处理器核心检查，物理内存大小检查和硬盘大小检查确定自己不被放置在虚拟机中，然后执行MSDTC 服务的DLL劫持绕过杀毒防御软件。 | http://minerva-labs.com/blog/new-catb-ransomware-employs-2-year-old-dll-hijacking-technique-to-evade-detection/| 
 | 20221229 | Hacking in Parallel – Track 1 | http://streaming.media.ccc.de/jev22/hip1| 
+| 20221229 | 一款通过分析rust二进制内模块并在本地构建相应模块以恢复stripped二进制符号的python工具 | https://www.reddit.com/r/ReverseEngineering/comments/zxlssk/cerberus_a_python_tool_to_recover_symbols_from/| 
+| 20221229 | 借助rtld，利用单字节溢出实现ROP | https://hackmd.io/@pepsipu/ry-SK44pt?s=09| 
 
 
 # 安全维基 推荐
