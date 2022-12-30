@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:32:30Z | CVE-2022-37818 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the list parameter at the function formSetQosBand. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37818 | | 
-| 20221230T02:32:27Z | CVE-2022-37822 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the function fromSetRouteStatic. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37822 | | 
-| 20221230T02:32:23Z | CVE-2022-37821 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the ProvinceCode parameter in the function formSetProvince. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37821 | | 
-| 20221230T02:32:19Z | CVE-2022-37820 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the ddnsEn parameter in the function formSetSysToolDDNS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37820 | | 
-| 20221230T02:32:16Z | CVE-2022-37823 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the list parameter in the function formSetVirtualSer. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37823 | | 
-| 20221230T02:32:12Z | CVE-2022-37824 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the shareSpeed parameter in the function fromSetWifiGusetBasic. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37824 | | 
-| 20221230T02:32:08Z | CVE-2020-27798 | An invalid memory address reference was discovered in the adjABS function in p_lx_elf.cpp in UPX 4.0.0 via a crafted Mach-O file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27798 | | 
-| 20221230T02:32:04Z | CVE-2020-27797 | An invalid memory address reference was discovered in the elf_lookup function in p_lx_elf.cpp in UPX 4.0.0 via a crafted Mach-O file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27797 | | 
-| 20221230T02:32:00Z | CVE-2020-27800 | A heap-based buffer over-read was discovered in the get_le32 function in bele.h in UPX 4.0.0 via a crafted Mach-O file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27800 | | 
-| 20221230T02:31:56Z | CVE-2020-27799 | A heap-based buffer over-read was discovered in the acc_ua_get_be32 function in miniacc.h in UPX 4.0.0 via a crafted Mach-O file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27799 | | 
+| 20221230T02:33:33Z | CVE-2022-36504 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36504 | | 
+| 20221230T02:33:29Z | CVE-2022-36503 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateMacClone. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36503 | | 
+| 20221230T02:33:25Z | CVE-2022-36507 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36507 | | 
+| 20221230T02:33:22Z | CVE-2022-36508 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36508 | | 
+| 20221230T02:33:18Z | CVE-2022-37077 | TOTOLINK A7000R V9.1.0u.6115_B20201022 was discovered to contain a stack overflow via the pppoeUser parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37077 | | 
+| 20221230T02:32:48Z | CVE-2022-36455 | TOTOLink A3600R V4.1.2cu.5182_B20201102 was discovered to contain a command injection vulnerability via the username parameter in /cstecgi.cgi. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36455 | | 
+| 20221230T02:32:45Z | CVE-2022-36510 | H3C GR2200 MiniGR1A0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36510 | | 
+| 20221230T02:32:41Z | CVE-2022-36509 | H3C GR3200 MiniGR1B0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36509 | | 
+| 20221230T02:32:37Z | CVE-2022-37817 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the function fromSetIpMacBind. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37817 | | 
+| 20221230T02:32:34Z | CVE-2022-37819 | Tenda AX1803 v1.0.0.1 was discovered to contain a stack overflow via the timezone parameter in the function fromSetSysTime. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37819 | | 
 
 
 # klee on Github 推荐
