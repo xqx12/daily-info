@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:37:06Z | CVE-2022-1513 | A potential vulnerability was reported in Lenovo PCManager prior to version 5.0.10.4191 that may allow code execution when visiting a specially crafted website. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1513 | | 
-| 20221230T02:37:03Z | CVE-2022-36679 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/?page=user/manage_user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36679 | | 
-| 20221230T02:36:59Z | CVE-2022-36678 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_category. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36678 | | 
-| 20221230T02:36:56Z | CVE-2022-36681 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_account. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36681 | | 
-| 20221230T02:36:51Z | CVE-2022-36680 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_schedule. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36680 | | 
-| 20221230T02:36:48Z | CVE-2022-37150 | An issue was discovered in Online Diagnostic Lab Management System 1.0. There is a stored XSS vulnerability via firstname, address, middlename, lastname , gender, email, contact parameters. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37150 | | 
-| 20221230T02:36:44Z | CVE-2022-36683 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_payment. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36683 | | 
-| 20221230T02:36:40Z | CVE-2022-36682 | Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_student. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36682 | | 
-| 20221230T02:36:37Z | CVE-2022-37151 | There is an unauthorized access vulnerability in Online Diagnostic Lab Management System 1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37151 | | 
-| 20221230T02:36:33Z | CVE-2022-37152 | An issue was discovered in Online Diagnostic Lab Management System 1.0, There is a SQL injection vulnerability via "dob" parameter in "/classes/Users.php?f=save_client" CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37152 | | 
+| 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
+| 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 
+| 20221230T02:39:23Z | CVE-2022-2206 | Out-of-bounds Read in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2206 | | 
+| 20221230T02:39:19Z | CVE-2022-2257 | Out-of-bounds Read in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2257 | | 
+| 20221230T02:39:15Z | CVE-2022-2284 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2284 | | 
+| 20221230T02:39:11Z | CVE-2022-2286 | Out-of-bounds Read in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2286 | | 
+| 20221230T02:39:07Z | CVE-2021-20316 | A flaw was found in the way Samba handled file/directory metadata. This flaw allows an authenticated attacker with permissions to read or modify share metadata, to perform this operation outside of the share. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-20316 | | 
+| 20221230T02:39:04Z | CVE-2022-2956 | A vulnerability classified as problematic has been found in ConsoleTVs Noxen. Affected is an unknown function of the file /Noxen-master/users.php. The manipulation of the argument create_user_username with the input "><script>alert(/xss/)</script> leads to cross site scripting. It is possible to launch the attack remot CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2956 | | 
+| 20221230T02:39:00Z | CVE-2022-2182 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2182 | | 
+| 20221230T02:38:57Z | CVE-2022-30547 | A directory traversal vulnerability exists in the unzipDirectory functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30547 | | 
 
 
 # klee on Github 推荐
