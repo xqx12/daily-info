@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:34:26Z | CVE-2022-36490 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36490 | | 
-| 20221230T02:34:22Z | CVE-2022-36498 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Asp_SetTimingtimeWifiAndLed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36498 | | 
-| 20221230T02:34:18Z | CVE-2022-36496 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetMobileAPInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36496 | | 
-| 20221230T02:34:13Z | CVE-2022-36495 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function addactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36495 | | 
-| 20221230T02:34:10Z | CVE-2022-36494 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function edditactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36494 | | 
-| 20221230T02:34:05Z | CVE-2022-36493 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPWifiorLedInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36493 | | 
-| 20221230T02:34:02Z | CVE-2022-36492 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36492 | | 
-| 20221230T02:33:58Z | CVE-2022-36500 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36500 | | 
-| 20221230T02:33:54Z | CVE-2022-36499 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function DEleteusergroup. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36499 | | 
-| 20221230T02:33:50Z | CVE-2022-36497 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID_5G. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36497 | | 
+| 20221230T02:35:31Z | CVE-2022-36692 | Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_category. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36692 | | 
+| 20221230T02:35:25Z | CVE-2022-36716 | Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/changestock.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36716 | | 
+| 20221230T02:35:22Z | CVE-2022-36715 | Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the name parameter at /admin/search.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36715 | | 
+| 20221230T02:35:18Z | CVE-2022-36697 | Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_waste. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36697 | | 
+| 20221230T02:35:14Z | CVE-2022-36696 | Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_stockout. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36696 | | 
+| 20221230T02:35:11Z | CVE-2022-36695 | Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_stockin. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36695 | | 
+| 20221230T02:35:07Z | CVE-2022-36721 | Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the Textbook parameter at /admin/modify.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36721 | | 
+| 20221230T02:35:04Z | CVE-2022-36720 | Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/modify1.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36720 | | 
+| 20221230T02:34:56Z | CVE-2022-36719 | Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the ok parameter at /admin/history.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36719 | | 
+| 20221230T02:34:52Z | CVE-2022-36489 | H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EnableIpv6. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36489 | | 
 
 
 # klee on Github 推荐
