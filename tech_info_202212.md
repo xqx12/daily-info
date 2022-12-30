@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221230T02:46:33Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2_CVE-2021-44228 | | 
 | 20221230T02:44:29Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2-CVE-2021-44228- | | 
 | 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
 | 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 
@@ -55,7 +56,6 @@
 | 20221230T02:39:11Z | CVE-2022-2286 | Out-of-bounds Read in GitHub repository vim/vim prior to 9.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2286 | | 
 | 20221230T02:39:07Z | CVE-2021-20316 | A flaw was found in the way Samba handled file/directory metadata. This flaw allows an authenticated attacker with permissions to read or modify share metadata, to perform this operation outside of the share. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-20316 | | 
 | 20221230T02:39:04Z | CVE-2022-2956 | A vulnerability classified as problematic has been found in ConsoleTVs Noxen. Affected is an unknown function of the file /Noxen-master/users.php. The manipulation of the argument create_user_username with the input "><script>alert(/xss/)</script> leads to cross site scripting. It is possible to launch the attack remot CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2956 | | 
-| 20221230T02:39:00Z | CVE-2022-2182 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2182 | | 
 
 
 # klee on Github 推荐
