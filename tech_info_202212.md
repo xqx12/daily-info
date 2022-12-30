@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T13:09:19Z | Helium Android (JPG) Exploit Builder   Features Exploit 0DAY ZER0DAY Steganography Method Works seamlessly on all (.apk) files. Work All RAT%s working. PowerFull Encryption  Contact Telegram : @heliumcoder | https://github.com/HeliumCoder/Android-Silent-JPG-Exploit-by-Helium-Coder | 1 | 0| 
 | 20221230T13:06:03Z | This is an updated collection of discord exploits I found on github, all are unpatched for now dm 503#2500 on discord if one get patched | https://github.com/AxSnowz/discord-exploit-collection | 0 | 0| 
-| 20221230T12:55:23Z | Helium Android (JPG) Exploit Builder   Features Exploit 0DAY ZER0DAY Steganography Method Works seamlessly on all (.apk) files. Work All RAT%s working. PowerFull Encryption  Contact Telegram : @heliumcoder | https://github.com/HeliumCoder/Android-Silent-JPG-Exploit-by-Helium-Coder | 0 | 0| 
 | 20221230T12:28:39Z | Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota. | https://github.com/julian911015/Log4j-Scanner-Exploit | 10 | 3| 
 | 20221230T12:27:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4836 | 702| 
 | 20221230T11:11:20Z | Template Repository for Binary Exploitation | https://github.com/SauravMaheshkar/binary-exploitation-template | 0 | 0| 
