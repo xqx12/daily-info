@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221230T02:44:29Z | CVE-2021-44228 | Null | https://github.com/Nexolanta/log4j2-CVE-2021-44228- | | 
 | 20221230T02:39:31Z | CVE-2022-2343 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2343 | | 
 | 20221230T02:39:27Z | CVE-2022-2345 | Use After Free in GitHub repository vim/vim prior to 9.0.0046. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2345 | | 
 | 20221230T02:39:23Z | CVE-2022-2206 | Out-of-bounds Read in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2206 | | 
@@ -55,7 +56,6 @@
 | 20221230T02:39:07Z | CVE-2021-20316 | A flaw was found in the way Samba handled file/directory metadata. This flaw allows an authenticated attacker with permissions to read or modify share metadata, to perform this operation outside of the share. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-20316 | | 
 | 20221230T02:39:04Z | CVE-2022-2956 | A vulnerability classified as problematic has been found in ConsoleTVs Noxen. Affected is an unknown function of the file /Noxen-master/users.php. The manipulation of the argument create_user_username with the input "><script>alert(/xss/)</script> leads to cross site scripting. It is possible to launch the attack remot CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2956 | | 
 | 20221230T02:39:00Z | CVE-2022-2182 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2182 | | 
-| 20221230T02:38:57Z | CVE-2022-30547 | A directory traversal vulnerability exists in the unzipDirectory functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30547 | | 
 
 
 # klee on Github 推荐
@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221230T02:42:06Z | Hola 👋,  hise esta script se trata de un simple backdoor hecho en bash , lo que hace es interactuar dentro del termux de la victima como si fueras el dueño jeje , SU USO NO ES MI RESPONSABILIDAD ATT.MRX~HACKS | https://github.com/MRX90902WX/Backip | 0 | 0| 
+| 20221230T02:43:08Z | Hola 👋,  hise esta script se trata de un simple backdoor hecho en bash , lo que hace es interactuar dentro del termux de la victima como si fueras el dueño jeje , SU USO NO ES MI RESPONSABILIDAD ATT.MRX~HACKS | https://github.com/MRX90902WX/Backip | 0 | 0| 
 | 20221230T00:45:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger | 0 | 0| 
 | 20221230T00:34:07Z | A unauthenticated backdoor exists in the configuration server functionality of Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to code execution. An attacker can send a malicious packet to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28593 | 0 | 0| 
 | 20221229T23:52:12Z | The exotel (aka exotel-py) package in PyPI as of 0.1.6 includes a code execution backdoor inserted by a third party. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38792 | 0 | 0| 
