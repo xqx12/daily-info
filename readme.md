@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221230T13:17:21Z | Helium Android and may be registered. All other trademarks are the property of their | https://github.com/HeliumCoder/Android-Silent-JPG-Exploit-by-Helium-Coder | 2 | 0| 
+| 20221230T13:29:29Z | Helium Android and may be registered. All other trademarks are the property of their | https://github.com/HeliumCoder/Android-Silent-JPG-Exploit-by-Helium-Coder | 3 | 0| 
 | 20221230T13:06:03Z | This is an updated collection of discord exploits I found on github, all are unpatched for now dm 503#2500 on discord if one get patched | https://github.com/AxSnowz/discord-exploit-collection | 0 | 0| 
 | 20221230T12:28:39Z | Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota. | https://github.com/julian911015/Log4j-Scanner-Exploit | 10 | 3| 
 | 20221230T12:27:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4836 | 702| 
@@ -83,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T13:29:53Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Tipping | 0 | 0| 
 | 20221230T13:14:24Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Risk-Assesment | 0 | 0| 
 | 20221230T11:27:05Z | Null | https://github.com/IkhwalSyukur/FuzzyIkram | 0 | 0| 
 | 20221230T10:22:52Z | Null | https://github.com/candyyyfyiyijli/fuzzy-enigma | 0 | 0| 
-| 20221230T10:08:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8210 | 1790| 
+| 20221230T10:08:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8210 | 1791| 
 | 20221230T08:50:59Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 295 | 49| 
 | 20221230T08:13:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3329 | 397| 
 | 20221230T07:47:53Z | this fuzzy logic algorithm i create to find me the best 5 supplier with minimum cost and high quality cloth | https://github.com/GLAZERadr/Fuzzy-Logic-Algorithm | 0 | 0| 
 | 20221230T07:01:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 495 | 63| 
 | 20221230T05:53:49Z | Null | https://github.com/kokokkko/fuzzy | 0 | 0| 
-| 20221230T05:30:32Z | Null | https://github.com/hihongju/fuzzy-train | 0 | 0| 
 
 
 
