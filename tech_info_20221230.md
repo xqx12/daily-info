@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T13:58:36Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Washing-Machine | 0 | 0| 
 | 20221230T13:30:39Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Tipping | 0 | 0| 
 | 20221230T13:14:24Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Risk-Assesment | 0 | 0| 
 | 20221230T11:27:05Z | Null | https://github.com/IkhwalSyukur/FuzzyIkram | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20221230T08:13:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3329 | 397| 
 | 20221230T07:47:53Z | this fuzzy logic algorithm i create to find me the best 5 supplier with minimum cost and high quality cloth | https://github.com/GLAZERadr/Fuzzy-Logic-Algorithm | 0 | 0| 
 | 20221230T07:01:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 495 | 63| 
-| 20221230T05:53:49Z | Null | https://github.com/kokokkko/fuzzy | 0 | 0| 
 
 
 
