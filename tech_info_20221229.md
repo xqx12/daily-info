@@ -86,7 +86,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221229T21:36:09Z | In vow, there is a possible information disclosure due to a symbolic link following. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06545473; Issue ID: ALPS06545473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26456 | 0 | 0| 
-| 20221229T06:39:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3258 | 459| 
 
 
 # big4 on Github 推荐
