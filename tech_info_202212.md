@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T02:42:06Z | Hola 👋,  hise esta script se trata de un simple backdoor hecho en bash , lo que hace es interactuar dentro del termux de la victima como si fueras el dueño jeje , SU USO NO ES MI RESPONSABILIDAD ATT.MRX~HACKS | https://github.com/MRX90902WX/Backip | 0 | 0| 
 | 20221230T00:45:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger | 0 | 0| 
 | 20221230T00:34:07Z | A unauthenticated backdoor exists in the configuration server functionality of Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to code execution. An attacker can send a malicious packet to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28593 | 0 | 0| 
 | 20221229T23:52:12Z | The exotel (aka exotel-py) package in PyPI as of 0.1.6 includes a code execution backdoor inserted by a third party. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38792 | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20221229T15:28:15Z | The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-networking package. The affected version of d8s-urls is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40424 | 0 | 0| 
 | 20221229T15:28:07Z | The d8s-urls for python 0.1.0, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-hypothesis package. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40805 | 0 | 0| 
 | 20221229T15:27:47Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40427 | 0 | 0| 
-| 20221229T15:27:40Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40807 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
