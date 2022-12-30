@@ -10,12 +10,20 @@
 | 20221229 | 总结了开发 Linux 内核漏洞利用时可能用到的结构体 | http://blog.csdn.net/panhewu9919/article/details/118112795| 
 | 20221229 | Nunchucks HackTheBox Writeup | http://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/| 
 | 20221229 | 通过对华为手机EL2级别的安全保护程序HHEE的逆向分析，分析其对内核提取的多种通用保护机制。 | http://blog.impalabs.com/2212_huawei-security-hypervisor.html| 
+| 20221229 | 零基础细致教学缓冲区溢出漏洞，从什么是缓冲区溢出漏洞以及如何产生的，到如何利用该漏洞，到最后如何修复该漏洞的全过程。 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/introduction-to-stack-buffer-overflows| 
+| 20221229 | 介绍了GuLoader这一恶意软件的反侦察反分析手段 | https://gbhackers.com/guloader-malware-advanced-anti-analysis/| 
+| 20221229 | 给出了一个有趣的针对GPT3/ChatGPT的提示词注入（Prompt Injection）用来扰乱AI的输入逻辑。 | https://www.reddit.com/r/ReverseEngineering/comments/zy1b9u/reverse_prompt_engineering_for_fun_and_no_profit/| 
+| 20221229 | 展示了一个最新发现的勒索软件CatB，该软件通过处理器核心检查，物理内存大小检查和硬盘大小检查确定自己不被放置在虚拟机中，然后执行MSDTC 服务的DLL劫持绕过杀毒防御软件。 | http://minerva-labs.com/blog/new-catb-ransomware-employs-2-year-old-dll-hijacking-technique-to-evade-detection/| 
+| 20221229 | Hacking in Parallel – Track 1 | http://streaming.media.ccc.de/jev22/hip1| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221229 | [HTB] Jarvis Writeup | https://mp.weixin.qq.com/s/7eEGFMrYwfjK8ElNjvg6Lg| 
+| 20221229 | 针对军工和教育行业的CNC组织“摆渡”木马分析 | https://mp.weixin.qq.com/s/uEjNpw-rtpjGGPacJS19WQ| 
+| 20221229 | 2022年网络安全四大顶会论文录用列表(中国大陆) | https://mp.weixin.qq.com/s/o69IzRCRqlGtACVeeC-aRA| 
+| 20221229 | 2022年网络安全四大顶会论文录用列表(中国大陆) | /news/30927| 
 
 
 # CVE Github 推荐
@@ -36,6 +44,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T18:31:59Z | Null | https://github.com/fchamicapereira/maestro-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -61,21 +70,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221229T13:30:01Z | Null | https://github.com/howdout64/backdoor | 0 | 0| 
-| 20221229T06:08:38Z | Backdoor Creating | https://github.com/MsecTeam/MsecBackdoor | 0 | 0| 
-| 20221229T05:36:12Z | The d8s-yaml package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41380 | 0 | 0| 
-| 20221229T05:36:09Z | The d8s-utility package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41381 | 0 | 0| 
-| 20221229T05:36:05Z | The d8s-archives package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41383 | 0 | 0| 
-| 20221229T05:36:02Z | The d8s-json package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41382 | 0 | 0| 
-| 20221229T05:35:58Z | The d8s-html package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41385 | 0 | 0| 
-| 20221229T05:35:55Z | The d8s-domains package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41384 | 0 | 0| 
-| 20221229T05:35:48Z | The d8s-utility package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41386 | 0 | 0| 
-| 20221229T05:01:21Z | The d8s-lists package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-dicts package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42039 | 0 | 0| 
+| 20221229T23:52:12Z | The exotel (aka exotel-py) package in PyPI as of 0.1.6 includes a code execution backdoor inserted by a third party. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38792 | 0 | 0| 
+| 20221229T18:48:31Z | Null | https://github.com/Marat-terabyte/backdoor | 0 | 0| 
+| 20221229T15:40:26Z | Null | https://github.com/DmodvGH/BackDoorBot | 4 | 0| 
+| 20221229T15:29:15Z | The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38880 | 0 | 0| 
+| 20221229T15:28:15Z | The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-networking package. The affected version of d8s-urls is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40424 | 0 | 0| 
+| 20221229T15:28:07Z | The d8s-urls for python 0.1.0, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-hypothesis package. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40805 | 0 | 0| 
+| 20221229T15:27:47Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40427 | 0 | 0| 
+| 20221229T15:27:40Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40807 | 0 | 0| 
+| 20221229T15:27:36Z | The d8s-uuids for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40806 | 0 | 0| 
+| 20221229T15:27:33Z | The d8s-dates for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40808 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T21:36:09Z | In vow, there is a possible information disclosure due to a symbolic link following. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06545473; Issue ID: ALPS06545473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26456 | 0 | 0| 
 | 20221229T06:39:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3258 | 459| 
 
 
@@ -88,15 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T23:03:40Z | A Denial-of-Service (DoS) vulnerability was discovered in F-Secure Atlant whereby the fsicapd component used in certain F-Secure products while scanning larger packages/fuzzed files consume too much memory eventually can crash the scanning engine. The exploit can be triggered remotely by an attacker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28871 | 0 | 0| 
+| 20221229T22:34:28Z | It’s not wise to upset a Wookiee. | https://github.com/milleniumfalcon90/laugh-it-up-fuzz-ball | 0 | 0| 
+| 20221229T21:44:50Z | Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources. Fuzz testing, provided by the CNCF, identified input to functions in the _strvals_ package that can cause an out of memory panic. The _strvals_ package contains a parser that turns strings in to Go structures. The _strvals_  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36055 | 0 | 0| 
+| 20221229T16:49:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8209 | 1790| 
+| 20221229T16:21:57Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 516 | 47| 
 | 20221229T11:27:37Z | Null | https://github.com/lhymmEU/blockchain_fuzzer | 0 | 0| 
-| 20221229T09:20:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1790| 
 | 20221229T07:50:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1216 | 158| 
 | 20221229T07:40:16Z | Null | https://github.com/fluffos/fluffos-fuzzing-results | 0 | 0| 
 | 20221229T07:14:24Z | Null | https://github.com/ahmadkhoirulanam2/Algoritma-Fuzzy-C-means- | 0 | 0| 
 | 20221229T07:01:04Z | Null | https://github.com/BlackHat1007/fuzzy-waddle | 0 | 0| 
-| 20221229T06:26:57Z | Tugas SPK YGY | https://github.com/AWXND/Logika-Fuzzy | 0 | 0| 
-| 20221229T01:51:00Z | Null | https://github.com/snare-dev/fuzzy-octo-invention | 0 | 0| 
-| 20221229T01:38:52Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 514 | 47| 
 
 
 

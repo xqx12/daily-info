@@ -10,6 +10,11 @@
 | 20221229 | 总结了开发 Linux 内核漏洞利用时可能用到的结构体 | http://blog.csdn.net/panhewu9919/article/details/118112795| 
 | 20221229 | Nunchucks HackTheBox Writeup | http://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/| 
 | 20221229 | 通过对华为手机EL2级别的安全保护程序HHEE的逆向分析，分析其对内核提取的多种通用保护机制。 | http://blog.impalabs.com/2212_huawei-security-hypervisor.html| 
+| 20221229 | 零基础细致教学缓冲区溢出漏洞，从什么是缓冲区溢出漏洞以及如何产生的，到如何利用该漏洞，到最后如何修复该漏洞的全过程。 | https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/introduction-to-stack-buffer-overflows| 
+| 20221229 | 介绍了GuLoader这一恶意软件的反侦察反分析手段 | https://gbhackers.com/guloader-malware-advanced-anti-analysis/| 
+| 20221229 | 给出了一个有趣的针对GPT3/ChatGPT的提示词注入（Prompt Injection）用来扰乱AI的输入逻辑。 | https://www.reddit.com/r/ReverseEngineering/comments/zy1b9u/reverse_prompt_engineering_for_fun_and_no_profit/| 
+| 20221229 | 展示了一个最新发现的勒索软件CatB，该软件通过处理器核心检查，物理内存大小检查和硬盘大小检查确定自己不被放置在虚拟机中，然后执行MSDTC 服务的DLL劫持绕过杀毒防御软件。 | http://minerva-labs.com/blog/new-catb-ransomware-employs-2-year-old-dll-hijacking-technique-to-evade-detection/| 
+| 20221229 | Hacking in Parallel – Track 1 | http://streaming.media.ccc.de/jev22/hip1| 
 | 20221228 | 影响任天堂多款在线游戏的网络库缓冲区溢出漏洞的细节和poc公开，涉及ns，3ds，wiiu平台的多款游戏 | http://securityonline.info/cve-2022-47949-critical-rce-flaw-affects-multiple-nintendo-games/| 
 | 20221228 | 2022年APT攻击洞察报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022_APT_TRENDS_INSIGHT_REPORT.pdf| 
 | 20221228 | 供应链相关的攻击和缓解措施研究 | https://engineering.mercari.com/en/blog/entry/20221215-supplychain-security-reevaluation/| 
@@ -21,46 +26,42 @@
 | 20221227 | Netcomm - 未经身份验证的远程代码执行 | http://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md| 
 | 20221227 | BlueNoroff(Lazarus子组)使用新的办法在投递载荷的时候bypass MoTW | https://securelist.com/bluenoroff-methods-bypass-motw/108383/| 
 | 20221227 | GuLoader 恶意软件实现了大量反分析和反调试功能，其中包括利用硬件断点来 unhook NTDLL 里面的 hook | https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html| 
-| 20221227 | 通过将CPU的供电电路变成Transmitter来从隔离的机器上偷数据。 | http://www.kaspersky.co.uk/blog/covid-bit-attack/25340/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_72416tfy2yk0j7f| 
-| 20221227 | Linux ksmbd UAF漏洞，可以导致RCE。 | https://sec.today/pulses/6867628a-3297-441b-ba18-470fcaf34528/| 
-| 20221227 | 如何在开启了Windows Defender Credential Guard保护的情况下获取NTLM hash。该方法主要通过控制LSASS进程的ALPC 通信通道与LSAIso进程通信，利用加密脆弱性破解NTLM hash。 | https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22?gi=56a7be7c11fe| 
-| 20221227 | CVE-2022-28672:Foxit PDF Reader UAF造成的RCE利用 | http://hacksys.io/blogs| 
-| 20221227 | CVE-2022-41040 and CVE-2022-41082 – zero-days in MS Exchange | http://securelist.com/cve-2022-41040-and-cve-2022-41082-zero-days-in-ms-exchange/108364/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-social_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bvf6zky241ysqhz| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221229 | [HTB] Jarvis Writeup | https://mp.weixin.qq.com/s/7eEGFMrYwfjK8ElNjvg6Lg| 
+| 20221229 | 针对军工和教育行业的CNC组织“摆渡”木马分析 | https://mp.weixin.qq.com/s/uEjNpw-rtpjGGPacJS19WQ| 
+| 20221229 | 2022年网络安全四大顶会论文录用列表(中国大陆) | https://mp.weixin.qq.com/s/o69IzRCRqlGtACVeeC-aRA| 
+| 20221229 | 2022年网络安全四大顶会论文录用列表(中国大陆) | /news/30927| 
 | 20221228 | 2022攻防演练木马专项分析报告 | http://report.threatbook.cn/2022.pdf| 
 | 20221228 | 从开源项目和库的Issue和Bug报告中挖掘情报 | https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg| 
 | 20221228 | 欧盟网络安全局 2022 年度威胁报告 | https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw| 
 | 20221228 | Yi: 项目监控工具 以及 Codeql 自动运行 | https://github.com/ZhuriLab/Yi| 
 | 20221228 | 异质信息网络在软件工程方向的应用调研 | https://mp.weixin.qq.com/s/ZdSOop-I1e8WblBK9oQJjw| 
 | 20221226 | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/FaeGDx8ixYkJw6j_jrxHxQ| 
-| 20221226 | 越权漏洞自动化治理实践 | https://mp.weixin.qq.com/s/rI5r3KdMC0StA9kU5IErzg| 
-| 20221226 | SecWiki周刊（第460期) | https://www.sec-wiki.com/weekly/460| 
-| 20221226 | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221229T13:59:11Z | CVE-2021-35565 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35565 | | 
-| 20221229T13:59:07Z | CVE-2021-35567 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries). Supported versions that are affected are Java SE: 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows low privileged attacker with network acces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35567 | | 
-| 20221229T13:59:03Z | CVE-2021-35578 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access vi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35578 | | 
-| 20221229T13:59:00Z | CVE-2021-22200 | An issue has been discovered in GitLab CE/EE affecting all versions starting with 12.6. Under a special condition it was possible to access data of an internal repository through a public project fork as an anonymous user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-22200 | | 
-| 20221229T13:58:56Z | CVE-2021-35586 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: ImageIO). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35586 | | 
-| 20221229T13:58:52Z | CVE-2021-35603 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Difficult to exploit vulnerability allows unauthenticated attacker with network  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35603 | | 
-| 20221229T13:58:49Z | CVE-2021-35556 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Swing). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35556 | | 
-| 20221229T13:58:45Z | CVE-2021-35559 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Swing). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35559 | | 
-| 20221229T13:58:42Z | CVE-2021-35564 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Keytool). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35564 | | 
-| 20221229T13:58:38Z | CVE-2021-35561 | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Utility). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35561 | | 
+| 20221230T00:34:07Z | CVE-2020-28593 | A unauthenticated backdoor exists in the configuration server functionality of Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to code execution. An attacker can send a malicious packet to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28593 | | 
+| 20221230T00:34:04Z | CVE-2021-21898 | A code execution vulnerability exists in the dwgCompressor::decompress18() functionality of LibreCad libdxfrw 2.2.0-rc2-19-ge02f3580. A specially-crafted .dwg file can lead to an out-of-bounds write. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-21898 | | 
+| 20221230T00:34:00Z | CVE-2020-6088 | An exploitable denial of service vulnerability exists in the ENIP Request Path Network Segment functionality of Allen-Bradley Flex IO 1794-AENT/B 4.003. A specially crafted network request can cause a loss of communications with the device resulting in denial-of-service. An attacker can send a malicious packet to trigg CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6088 | | 
+| 20221230T00:33:54Z | CVE-2020-28594 | A use-after-free vulnerability exists in the _3MF_Importer::_handle_end_model() functionality of Prusa Research PrusaSlicer 2.2.0 and Master (commit 4b040b856). A specially crafted 3MF file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28594 | | 
+| 20221230T00:33:50Z | CVE-2020-28589 | An improper array index validation vulnerability exists in the LoadObj functionality of tinyobjloader v2.0-rc1 and tinyobjloader development commit 79d4421. A specially crafted file could lead to code execution. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28589 | | 
+| 20221230T00:33:46Z | CVE-2021-4216 | A Floating point exception (division-by-zero) flaw was found in Mupdf for zero width pages in muraster.c. It is fixed in Mupdf-1.20.0-rc1 upstream. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4216 | | 
+| 20221230T00:33:43Z | CVE-2021-3644 | A flaw was found in wildfly-core in all versions. If a vault expression is in the form of a single attribute that contains multiple expressions, a user who was granted access to the management interface can potentially access a vault expression they should not be able to access and possibly retrieve the item which was  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3644 | | 
+| 20221230T00:33:39Z | CVE-2021-3688 | A flaw was found in Red Hat JBoss Core Services HTTP Server in all versions, where it does not properly normalize the path component of a request URL contains dot-dot-semicolon(s). This flaw could allow an attacker to access unauthorized information or possibly conduct further attacks. The highest threat from this vuln CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3688 | | 
+| 20221230T00:33:36Z | CVE-2022-24552 | A flaw was found in the REST API in StarWind Stack. REST command, which manipulates a virtual disk, doesn’t check input parameters. Some of them go directly to bash as part of a script. An attacker with non-root user access can inject arbitrary data into the command that will be executed with root privileges. This affe CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24552 | | 
+| 20221230T00:33:33Z | CVE-2021-45389 | A flaw was found with the JWT token. A self-signed JWT token could be injected into the update manager and bypass the authentication process, thus could escalate privileges. This affects StarWind SAN and NAS build 1578 and StarWind Command Center build 6864. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-45389 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T18:31:59Z | Null | https://github.com/fchamicapereira/maestro-klee | 0 | 0| 
 | 20221227T15:23:28Z | chi-kleen cleaning company | https://github.com/adepeter1234/chi-kleen | 0 | 0| 
 | 20221226T22:56:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20221225T11:50:29Z | Config files for my GitHub profile. | https://github.com/SofiaArandiKlee/SofiaArandiKlee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221221T19:13:20Z | Null | https://github.com/pjazdzewski1990/Klee | 0 | 0| 
 | 20221221T14:57:59Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
 | 20221221T11:54:43Z | External composite video bypass preamplifier modboard for the Famicom/NES | https://github.com/Gumball2415/squeeki-kleen-Video-FC | 0 | 0| 
-| 20221221T11:38:56Z | External audio bypass preamplifier modboard for the Famicom | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 5 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,36 +90,37 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221229T13:59:56Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Library). Supported versions that are affected are Java SE: 7u301, 8u291, 11.0.11, 16.0.1; Oracle GraalVM Enterprise Edition: 20.3.2 and 21.1.0. Easily exploitable vulnerability allows unauthenticated attacker with net CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-2369 | 0 | 0| 
-| 20221229T13:59:46Z | Vulnerability in the Java SE, Java SE Embedded, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries). Supported versions that are affected are Java SE: 7u291, 8u281, 11.0.10, 16; Java SE Embedded: 8u281; Oracle GraalVM Enterprise Edition: 19.3.5, 20.3.1.2 and 21.0.0.2. Difficult to exploit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-2161 | 0 | 0| 
-| 20221229T13:59:42Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Hotspot). Supported versions that are affected are Java SE: 7u311, 8u301; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Difficult to exploit vulnerability allows unauthenticated attacker with network access via CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35588 | 0 | 0| 
-| 20221229T13:59:36Z | Vulnerability in the Java SE product of Oracle Java SE (component: JNDI). The supported version that is affected is Java SE: 7u301. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE. Successful attacks of this vulnerability can result in  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-2432 | 0 | 0| 
-| 20221229T13:59:32Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Difficult to exploit vulnerability allows unauthenticated attacker with network acce CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35550 | 0 | 0| 
-| 20221229T13:59:11Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35565 | 0 | 0| 
-| 20221229T13:59:07Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries). Supported versions that are affected are Java SE: 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows low privileged attacker with network acces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35567 | 0 | 0| 
-| 20221229T13:59:03Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access vi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35578 | 0 | 0| 
-| 20221229T13:58:56Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: ImageIO). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35586 | 0 | 0| 
-| 20221229T13:58:52Z | Vulnerability in the Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JSSE). Supported versions that are affected are Java SE: 7u311, 8u301, 11.0.12, 17; Oracle GraalVM Enterprise Edition: 20.3.3 and 21.2.0. Difficult to exploit vulnerability allows unauthenticated attacker with network  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-35603 | 0 | 0| 
+| 20221230T00:34:00Z | An exploitable denial of service vulnerability exists in the ENIP Request Path Network Segment functionality of Allen-Bradley Flex IO 1794-AENT/B 4.003. A specially crafted network request can cause a loss of communications with the device resulting in denial-of-service. An attacker can send a malicious packet to trigg CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6088 | 0 | 0| 
+| 20221230T00:33:26Z | PrinterLogic Windows Client through 25.0.0.676 allows attackers to execute directory traversal. Authenticated users with prior knowledge of the driver filename could exploit this to escalate privileges or distribute malicious content. This issue has been resolved in PrinterLogic Windows Client 25.0.0688 and all affecte CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32427 | 0 | 0| 
+| 20221230T00:31:44Z | The Fluent Support WordPress plugin before 1.5.8 does not properly sanitise, validate and escape various parameters before using them in an SQL statement, leading to an SQL Injection vulnerability exploitable by high privilege users CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2559 | 0 | 0| 
+| 20221230T00:30:07Z | Heap buffer overflow in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1142 | 0 | 0| 
+| 20221230T00:30:03Z | Use after free in File Manager in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific user gesture. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1141 | 0 | 0| 
+| 20221230T00:29:59Z | Use after free in Extensions in Google Chrome prior to 100.0.4896.60 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via specific user interaction and profile destruction. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1145 | 0 | 0| 
+| 20221230T00:29:55Z | Heap buffer overflow in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1143 | 0 | 0| 
+| 20221230T00:29:51Z | Use after free in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1144 | 0 | 0| 
+| 20221230T00:29:40Z | Type confusion in V8 in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1232 | 0 | 0| 
+| 20221230T00:29:36Z | Use after free in Ozone in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via running a Wayland test. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1487 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221229T13:30:01Z | Null | https://github.com/howdout64/backdoor | 0 | 0| 
-| 20221229T06:08:38Z | Backdoor Creating | https://github.com/MsecTeam/MsecBackdoor | 0 | 0| 
-| 20221229T05:36:12Z | The d8s-yaml package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41380 | 0 | 0| 
-| 20221229T05:36:09Z | The d8s-utility package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41381 | 0 | 0| 
-| 20221229T05:36:05Z | The d8s-archives package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41383 | 0 | 0| 
-| 20221229T05:36:02Z | The d8s-json package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41382 | 0 | 0| 
-| 20221229T05:35:58Z | The d8s-html package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41385 | 0 | 0| 
-| 20221229T05:35:55Z | The d8s-domains package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41384 | 0 | 0| 
-| 20221229T05:35:48Z | The d8s-utility package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41386 | 0 | 0| 
-| 20221229T05:01:21Z | The d8s-lists package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-dicts package. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42039 | 0 | 0| 
+| 20221230T00:45:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger | 0 | 0| 
+| 20221230T00:34:07Z | A unauthenticated backdoor exists in the configuration server functionality of Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to code execution. An attacker can send a malicious packet to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28593 | 0 | 0| 
+| 20221229T23:52:12Z | The exotel (aka exotel-py) package in PyPI as of 0.1.6 includes a code execution backdoor inserted by a third party. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38792 | 0 | 0| 
+| 20221229T18:48:31Z | Null | https://github.com/Marat-terabyte/backdoor | 0 | 0| 
+| 20221229T15:40:26Z | Null | https://github.com/DmodvGH/BackDoorBot | 4 | 0| 
+| 20221229T15:29:15Z | The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The affected version is 0.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38880 | 0 | 0| 
+| 20221229T15:28:15Z | The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-networking package. The affected version of d8s-urls is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40424 | 0 | 0| 
+| 20221229T15:28:07Z | The d8s-urls for python 0.1.0, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-hypothesis package. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40805 | 0 | 0| 
+| 20221229T15:27:47Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40427 | 0 | 0| 
+| 20221229T15:27:40Z | The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40807 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T21:36:09Z | In vow, there is a possible information disclosure due to a symbolic link following. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06545473; Issue ID: ALPS06545473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26456 | 0 | 0| 
 | 20221229T06:39:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3258 | 459| 
 | 20221228T04:43:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 282 | 66| 
 | 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
@@ -129,7 +130,6 @@
 | 20221227T08:28:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
 | 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20221226T06:42:26Z | All In One - Symbolic Execution | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
-| 20221225T23:51:12Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 412 | 36| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221229T23:03:40Z | A Denial-of-Service (DoS) vulnerability was discovered in F-Secure Atlant whereby the fsicapd component used in certain F-Secure products while scanning larger packages/fuzzed files consume too much memory eventually can crash the scanning engine. The exploit can be triggered remotely by an attacker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28871 | 0 | 0| 
+| 20221229T22:34:28Z | It’s not wise to upset a Wookiee. | https://github.com/milleniumfalcon90/laugh-it-up-fuzz-ball | 0 | 0| 
+| 20221229T21:44:50Z | Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources. Fuzz testing, provided by the CNCF, identified input to functions in the _strvals_ package that can cause an out of memory panic. The _strvals_ package contains a parser that turns strings in to Go structures. The _strvals_  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36055 | 0 | 0| 
+| 20221229T16:49:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8209 | 1790| 
+| 20221229T16:21:57Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 516 | 47| 
 | 20221229T11:27:37Z | Null | https://github.com/lhymmEU/blockchain_fuzzer | 0 | 0| 
-| 20221229T09:20:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8208 | 1790| 
 | 20221229T07:50:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1216 | 158| 
 | 20221229T07:40:16Z | Null | https://github.com/fluffos/fluffos-fuzzing-results | 0 | 0| 
 | 20221229T07:14:24Z | Null | https://github.com/ahmadkhoirulanam2/Algoritma-Fuzzy-C-means- | 0 | 0| 
 | 20221229T07:01:04Z | Null | https://github.com/BlackHat1007/fuzzy-waddle | 0 | 0| 
-| 20221229T06:26:57Z | Tugas SPK YGY | https://github.com/AWXND/Logika-Fuzzy | 0 | 0| 
-| 20221229T01:51:00Z | Null | https://github.com/snare-dev/fuzzy-octo-invention | 0 | 0| 
-| 20221229T01:38:52Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 514 | 47| 
-| 20221228T20:32:44Z | This blog written_Patika.dev_Introduction to Data Science | https://github.com/hlttcamm/FUZZY-LOGIC-SYSTEMS-AT-MATLAB | 0 | 0| 
 
 
 
