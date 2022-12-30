@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T01:57:20Z | CVE-2022-37067 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function UpdateWanParamsMulti. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37067 | | 
-| 20221230T01:57:17Z | CVE-2022-36520 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function DEleteusergroup. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36520 | | 
-| 20221230T01:57:13Z | CVE-2022-37066 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function UpdateDDNS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37066 | | 
-| 20221230T01:57:10Z | CVE-2022-36519 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function AddWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36519 | | 
-| 20221230T01:57:06Z | CVE-2022-36518 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function EditWlanMacList. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36518 | | 
-| 20221230T01:57:03Z | CVE-2022-36517 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function debug_wlan_advance. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36517 | | 
-| 20221230T01:56:59Z | CVE-2022-36516 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function ap_version_check. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36516 | | 
-| 20221230T01:56:56Z | CVE-2022-36515 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function addactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36515 | | 
-| 20221230T01:56:52Z | CVE-2022-36514 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function WanModeSetMultiWan. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36514 | | 
-| 20221230T01:56:49Z | CVE-2022-36513 | H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function edditactionlist. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-36513 | | 
+| 20221230T02:29:27Z | CVE-2021-4213 | A flaw was found in JSS, where it did not properly free up all memory. Over time, the wasted memory builds up in the server memory, saturating the server’s RAM. This flaw allows an attacker to force the invocation of an out-of-memory process, causing a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4213 | | 
+| 20221230T02:29:23Z | CVE-2021-4178 | A arbitrary code execution flaw was found in the Fabric 8 Kubernetes client affecting versions 5.0.0-beta-1 and above. Due to an improperly configured YAML parsing, this will allow a local and privileged attacker to supply malicious YAML. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4178 | | 
+| 20221230T02:29:19Z | CVE-2021-4155 | A data leak flaw was found in the way XFS_IOC_ALLOCSP IOCTL in the XFS filesystem allowed for size increase of files with unaligned size. A local attacker could use this flaw to leak data on the XFS filesystem otherwise not accessible to them. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4155 | | 
+| 20221230T02:29:15Z | CVE-2022-37100 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateMacClone. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37100 | | 
+| 20221230T02:29:12Z | CVE-2022-37099 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateSnat. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37099 | | 
+| 20221230T02:29:08Z | CVE-2022-37098 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateIpv6Params. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37098 | | 
+| 20221230T02:29:05Z | CVE-2022-37097 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function SetAPInfoById. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37097 | | 
+| 20221230T02:29:02Z | CVE-2022-37096 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function EnableIpv6. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37096 | | 
+| 20221230T02:28:58Z | CVE-2022-37095 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateWanParams. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37095 | | 
+| 20221230T02:28:54Z | CVE-2022-37094 | H3C H200 H200V100R004 was discovered to contain a stack overflow via the function Edit_BasicSSID_5G. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37094 | | 
 
 
 # klee on Github 推荐
