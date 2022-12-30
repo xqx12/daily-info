@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T02:38:35Z | Tool to automatically exploit any type of memory corruption vulnerability: buffer generation and input sending. Based on turing machine. | https://github.com/gogo2464/immediate-pwn-research | 0 | 0| 
 | 20221230T02:31:19Z | Rockwell Automation ISaGRAF Workbench software versions 6.0 through 6.6.9 are affected by a Path Traversal vulnerability. Crafted malicious files can allow an attacker to traverse the file system when opened by ISaGRAF Workbench. If successfully exploited, an attacker could overwrite existing files and create additiona CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2464 | 0 | 0| 
 | 20221230T02:12:39Z | BlockExploit For roblox bedwars( denies place regions and allows to place blocks on gens...etc) | https://github.com/Markerlmaoz/BlockExploit | 0 | 0| 
 | 20221230T01:56:28Z | A vulnerability classified as critical was found in SourceCodester Simple and Nice Shopping Cart Script. Affected by this vulnerability is an unknown functionality of the file /mkshop/Men/profile.php. The manipulation of the argument mem_id leads to sql injection. The attack can be launched remotely. The exploit has be CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2957 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221230T01:54:52Z | Storing Passwords in a Recoverable Format vulnerability in ABB Zenon 8.20 allows an attacker who successfully exploit the vulnerability may add more network clients that may monitor various activities of the Zenon. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34837 | 0 | 0| 
 | 20221230T01:49:28Z | Vulnerability in the MySQL Client product of Oracle MySQL (component: C API). Supported versions that are affected are 5.6.48 and prior, 5.7.30 and prior and 8.0.20 and prior. Difficult to exploit vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Client. Success CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14550 | 0 | 0| 
 | 20221230T01:49:04Z | Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Security: Privileges). Supported versions that are affected are 5.6.44 and prior, 5.7.26 and prior and 8.0.16 and prior. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where MySQL Server CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2739 | 0 | 0| 
-| 20221230T01:48:30Z | Vulnerability in the MySQL Client product of Oracle MySQL (component: C API). Supported versions that are affected are 5.6.47 and prior, 5.7.27 and prior and 8.0.17 and prior. Difficult to exploit vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Client. Success CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-2752 | 0 | 0| 
 
 
 # backdoor on Github 推荐
