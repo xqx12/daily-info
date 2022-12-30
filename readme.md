@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T13:14:24Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Risk-Assesment | 0 | 0| 
 | 20221230T11:27:05Z | Null | https://github.com/IkhwalSyukur/FuzzyIkram | 0 | 0| 
 | 20221230T10:22:52Z | Null | https://github.com/candyyyfyiyijli/fuzzy-enigma | 0 | 0| 
 | 20221230T10:08:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8210 | 1790| 

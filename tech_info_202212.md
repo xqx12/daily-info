@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221230T13:14:24Z | Null | https://github.com/Sookchand/Fuzzy-Logic-Risk-Assesment | 0 | 0| 
 | 20221230T11:27:05Z | Null | https://github.com/IkhwalSyukur/FuzzyIkram | 0 | 0| 
 | 20221230T10:22:52Z | Null | https://github.com/candyyyfyiyijli/fuzzy-enigma | 0 | 0| 
 | 20221230T10:08:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8210 | 1790| 
@@ -155,7 +156,6 @@
 | 20221230T07:01:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 495 | 63| 
 | 20221230T05:53:49Z | Null | https://github.com/kokokkko/fuzzy | 0 | 0| 
 | 20221230T05:30:32Z | Null | https://github.com/hihongju/fuzzy-train | 0 | 0| 
-| 20221229T23:03:40Z | A Denial-of-Service (DoS) vulnerability was discovered in F-Secure Atlant whereby the fsicapd component used in certain F-Secure products while scanning larger packages/fuzzed files consume too much memory eventually can crash the scanning engine. The exploit can be triggered remotely by an attacker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28871 | 0 | 0| 
 
 
 
