@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T13:34:17Z | Null | https://github.com/BielJc/exploitmain.dl | 0 | 0| 
 | 20221231T13:18:00Z | Null | https://github.com/0xcrypto/exploits-n-hacks | 1 | 0| 
 | 20221231T12:31:13Z | s | https://github.com/nahbey32/Roblox-Exploit | 0 | 0| 
 | 20221231T11:10:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8m | 1 | 0| 
@@ -43,7 +44,6 @@
 | 20221231T09:50:00Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/tyrerocherl/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
 | 20221231T09:19:39Z | All of what I do on kaggle | https://github.com/itsmegarvi/Kaggle_exploits | 0 | 0| 
 | 20221231T08:46:02Z | Drible Its Script Hub For Roblox Exploiting | https://github.com/HoyoGey/DribleHub | 0 | 0| 
-| 20221231T07:25:45Z | Basically i tried to recreate DEX | https://github.com/HAKANKOKCU/Birdy-Roblox-Place-Explorer | 0 | 0| 
 
 
 # backdoor on Github 推荐
