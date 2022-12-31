@@ -41,9 +41,9 @@
 | 20221231T11:09:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8m | 1 | 0| 
 | 20221231T09:50:11Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/tyrerocherl/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
 | 20221231T09:50:00Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/tyrerocherl/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20221231T09:19:39Z | All of what I do on kaggle | https://github.com/itsmegarvi/Kaggle_exploits | 0 | 0| 
 | 20221231T08:46:02Z | Drible Its Script Hub For Roblox Exploiting | https://github.com/HoyoGey/DribleHub | 0 | 0| 
 | 20221231T07:25:45Z | Basically i tried to recreate DEX | https://github.com/HAKANKOKCU/Birdy-Roblox-Place-Explorer | 0 | 0| 
-| 20221231T02:02:00Z | Null | https://github.com/PDiabeetus/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
