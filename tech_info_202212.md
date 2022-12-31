@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221231T13:03:18Z | Null | https://github.com/0xcrypto/exploits-n-hacks | 0 | 0| 
+| 20221231T13:18:00Z | Null | https://github.com/0xcrypto/exploits-n-hacks | 1 | 0| 
 | 20221231T12:31:13Z | s | https://github.com/nahbey32/Roblox-Exploit | 0 | 0| 
 | 20221231T11:10:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8m | 1 | 0| 
 | 20221231T11:10:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8m | 1 | 0| 
