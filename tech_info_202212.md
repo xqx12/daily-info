@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T13:03:18Z | Null | https://github.com/0xcrypto/exploits-n-hacks | 0 | 0| 
 | 20221231T12:31:13Z | s | https://github.com/nahbey32/Roblox-Exploit | 0 | 0| 
 | 20221231T11:10:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8m | 1 | 0| 
 | 20221231T11:10:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8m | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20221231T08:46:02Z | Drible Its Script Hub For Roblox Exploiting | https://github.com/HoyoGey/DribleHub | 0 | 0| 
 | 20221231T07:25:45Z | Basically i tried to recreate DEX | https://github.com/HAKANKOKCU/Birdy-Roblox-Place-Explorer | 0 | 0| 
 | 20221231T02:02:00Z | Null | https://github.com/PDiabeetus/Exploits | 0 | 0| 
-| 20221231T01:01:00Z | Null | https://github.com/AndresFDev/PS4Exploit900 | 1 | 0| 
 
 
 # backdoor on Github 推荐
