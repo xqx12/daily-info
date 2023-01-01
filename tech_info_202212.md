@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221231 | MOSAICS 工业控制系统的扩展态势感知框架 | https://mp.weixin.qq.com/s/0OZh4TLYK_2aoyMf8hIEPA| 
+| 20221231 | Open-CyKG：开放式网络威胁知识知识图谱 | https://mp.weixin.qq.com/s/dxYkIbGDOFOFL6Ta-ixpKA| 
 | 20221230 | Ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架 | https://github.com/wh1t3p1g/ysomap| 
 | 20221230 | TABBY：一款针对Java语言的静态代码分析工具 | https://github.com/wh1t3p1g/tabby| 
 | 20221229 | [HTB] Jarvis Writeup | https://mp.weixin.qq.com/s/7eEGFMrYwfjK8ElNjvg6Lg| 
@@ -39,28 +41,27 @@
 | 20221229 | 2022年网络安全四大顶会论文录用列表(中国大陆) | /news/30927| 
 | 20221228 | 2022攻防演练木马专项分析报告 | http://report.threatbook.cn/2022.pdf| 
 | 20221228 | 从开源项目和库的Issue和Bug报告中挖掘情报 | https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg| 
-| 20221228 | 欧盟网络安全局 2022 年度威胁报告 | https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw| 
-| 20221228 | Yi: 项目监控工具 以及 Codeql 自动运行 | https://github.com/ZhuriLab/Yi| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221230T17:33:09Z | CVE-2022-0847 | Null | https://github.com/pmihsan/-Dirty-Pipe-CVE-2022-0847 | | 
-| 20221230T06:41:48Z | CVE-2022-35464 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6171b2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35464 | | 
-| 20221230T06:41:44Z | CVE-2022-35463 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0478. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35463 | | 
-| 20221230T06:41:41Z | CVE-2022-35461 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0a32. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35461 | | 
-| 20221230T06:41:38Z | CVE-2022-35462 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0bc3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35462 | | 
-| 20221230T06:41:34Z | CVE-2022-35460 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x61731f. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35460 | | 
-| 20221230T06:41:31Z | CVE-2022-35456 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x617087. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35456 | | 
-| 20221230T06:41:27Z | CVE-2022-35459 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e412a. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35459 | | 
-| 20221230T06:41:24Z | CVE-2022-35458 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b05ce. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35458 | | 
-| 20221230T06:41:20Z | CVE-2022-35455 | OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0d63. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-35455 | | 
+| 20221231T23:24:56Z | CVE-2020-14882 | Null | https://github.com/Manor99/CVE-2020-14882- | | 
+| 20221231T21:24:46Z | CVE-2022-47952 | LXC Information Disclosure vulnerability. | https://github.com/MaherAzzouzi/CVE-2022-47952 | | 
+| 20221231T19:48:10Z | CVE-2022-24720 | image_processing is an image processing wrapper for libvips and ImageMagick/GraphicsMagick. Prior to version 1.12.2, using the `#apply` method from image_processing to apply a series of operations that are coming from unsanitized user input allows the attacker to execute shell commands. This method is called internally CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24720 | | 
+| 20221231T17:37:13Z | CVE-2022-22728 | A flaw in Apache libapreq2 versions 2.16 and earlier could cause a buffer overflow while processing multipart form uploads. A remote attacker could send a request causing a process crash which could lead to a denial of service attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22728 | | 
+| 20221231T16:42:28Z | CVE-2022-34678 | NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode layer, where an unprivileged user can cause a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34678 | | 
+| 20221231T16:42:25Z | CVE-2022-34677 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an unprivileged regular user can cause an integer to be truncated, which may lead to denial of service or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34677 | | 
+| 20221231T16:42:22Z | CVE-2022-34676 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an out-of-bounds read may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34676 | | 
+| 20221231T16:42:18Z | CVE-2022-34675 | NVIDIA Display Driver for Linux contains a vulnerability in the Virtual GPU Manager, where it does not check the return value from a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34675 | | 
+| 20221231T16:42:15Z | CVE-2022-34674 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where a helper function maps more physical pages than were requested, which may lead to undefined behavior or an information leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34674 | | 
+| 20221231T16:42:11Z | CVE-2022-34673 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34673 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T14:26:54Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20221230T05:40:38Z | Null | https://github.com/KleeUT/kleeut.com | 1 | 0| 
 | 20221229T18:31:59Z | Null | https://github.com/fchamicapereira/maestro-klee | 0 | 0| 
 | 20221227T15:23:28Z | chi-kleen cleaning company | https://github.com/adepeter1234/chi-kleen | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221222T17:06:18Z | Klee for labels | https://github.com/OCamlPro/klee4labels | 0 | 0| 
 | 20221221T20:52:56Z | Null | https://github.com/SlynkoDenis/KLEE-Tests-Generation | 0 | 0| 
 | 20221221T19:13:20Z | Null | https://github.com/pjazdzewski1990/Klee | 0 | 0| 
-| 20221221T14:57:59Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,39 +90,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T23:43:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 120 | 12| 
+| 20221231T22:23:08Z | CVE-2021-43150 Exploit for `opay` android app webview | https://github.com/Zeyad-Azima/OpayForMe | 0 | 0| 
+| 20221231T22:12:19Z | The World%s First Universal Game Exploit for Roblox Games | https://github.com/GemzIsBack/MelonHub | 0 | 0| 
+| 20221231T21:10:36Z | Il s%agit de créer un fichier JSON contenant les informations sur des films projeter dans un cinéma, exploiter ce fichier pour créer une page responsive qui permet d%afficher ces données, les trier et les filtrer. | https://github.com/jalalkadori/JSON-file-Manipulation | 0 | 0| 
+| 20221231T20:07:40Z | Exploit for CVE-2007-4560 (ClamAV Milter Sendmail 0.91.2 Remote Code Execution) | https://github.com/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution | 0 | 0| 
 | 20221231T13:34:17Z | Null | https://github.com/BielJc/exploitmain.dl | 0 | 0| 
 | 20221231T13:18:00Z | Null | https://github.com/0xcrypto/exploits-n-hacks | 1 | 0| 
 | 20221231T12:31:13Z | s | https://github.com/nahbey32/Roblox-Exploit | 0 | 0| 
 | 20221231T11:10:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8m | 1 | 0| 
 | 20221231T11:10:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8m | 1 | 0| 
-| 20221231T11:09:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8m | 1 | 0| 
-| 20221231T09:50:11Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/tyrerocherl/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
-| 20221231T09:50:00Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/tyrerocherl/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
-| 20221231T09:19:39Z | All of what I do on kaggle | https://github.com/itsmegarvi/Kaggle_exploits | 0 | 0| 
-| 20221231T08:46:02Z | Drible Its Script Hub For Roblox Exploiting | https://github.com/HoyoGey/DribleHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T23:13:06Z | This project demonstrates detection of backdoor attacks in DNN.  | https://github.com/mayuraitavadekar/privacy-aware-computing-project | 0 | 0| 
+| 20221231T21:22:32Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
+| 20221231T21:20:52Z | Esta script es un backdoor para tomar control de la victima de su termux su uso es facil de la maquina atacante abrimos un puerto con nc -lvp puerto y luego lo abrimos con ngrok tcp , una ves echo eso nos vamos a la script Atack.sh editamos con nano y ponemos la ip ngrok y el puerto ngrok en dev/tcp/ipngrok/puertongrok | https://github.com/MRX90902WX/Atack | 0 | 0| 
+| 20221231T20:50:40Z | Backdoor on Windows wich controlled from telegram bot | https://github.com/CryWithAll/TelegramBackdoor | 0 | 0| 
 | 20221231T11:31:59Z | This is a git repo for a blog posts: https://developerwings.com/ | https://github.com/kachkolasa/developerwings__python_backdoor | 0 | 0| 
 | 20221231T10:04:50Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 2 | 0| 
-| 20221231T09:32:18Z | https://t.me/mintOnTop | https://github.com/BoomEnjoyer/MintLoader | 3 | 1| 
+| 20221231T09:32:18Z | https://t.me/mintOnTop | https://github.com/BoomEnjoyer/MintLoader | 3 | 2| 
 | 20221231T09:30:48Z | Backdoor Creating | https://github.com/MsecTeam/MsecBackdoor | 0 | 0| 
 | 20221230T19:12:18Z | a Backdoor for Android _ Based on AndroRAT | https://github.com/qLoganAniversity/GerdoRAT | 0 | 0| 
 | 20221230T17:00:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1875 | 800| 
-| 20221230T16:04:00Z | not by me | https://github.com/EncryptedScripts/backdoor | 0 | 0| 
-| 20221230T15:04:29Z | Null | https://github.com/DmodvGH/BackDoorBot | 5 | 0| 
-| 20221230T02:43:08Z | Hola 👋,  hise esta script se trata de un simple backdoor hecho en bash , lo que hace es interactuar dentro del termux de la victima como si fueras el dueño jeje , SU USO NO ES MI RESPONSABILIDAD ATT.MRX~HACKS | https://github.com/MRX90902WX/Backip | 0 | 0| 
-| 20221230T00:45:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T16:57:47Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 18 | 2| 
 | 20221230T19:25:38Z | Symbolic execution engine | https://github.com/connorskees/symbolic-execution | 1 | 0| 
-| 20221230T18:58:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3261 | 459| 
-| 20221230T12:54:28Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 18 | 2| 
 | 20221230T01:35:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 283 | 66| 
 | 20221229T21:36:09Z | In vow, there is a possible information disclosure due to a symbolic link following. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06545473; Issue ID: ALPS06545473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26456 | 0 | 0| 
 | 20221227T20:41:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 525 | 30| 
@@ -130,6 +129,7 @@
 | 20221227T19:01:10Z | The npm package %tar% (aka node-tar) before versions 4.4.16, 5.0.8, and 6.1.7 has an arbitrary file creation/overwrite and arbitrary code execution vulnerability. node-tar aims to guarantee that any file whose location would be modified by a symbolic link is not extracted. This is, in part, achieved by ensuring that ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37701 | 0 | 0| 
 | 20221227T16:08:14Z | There exists a path traversal vulnerability in the Android Google Search app. This is caused by the incorrect usage of uri.getLastPathSegment. A symbolic encoded string can bypass the path logic to get access to unintended directories. An attacker can manipulate paths that could lead to code execution on the device. We CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29580 | 0 | 0| 
 | 20221227T08:28:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
+| 20221227T08:12:29Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 
 
 # big4 on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221231T23:36:04Z | Null | https://github.com/Manor99/Fuzz-word-list | 0 | 0| 
+| 20221231T17:52:04Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 517 | 47| 
+| 20221231T16:51:12Z | Null | https://github.com/Davidcap1777/fuzzy-funicular | 0 | 0| 
+| 20221231T15:46:07Z | Null | https://github.com/fuzzbear0001/fuzzbear0001.github.io | 0 | 0| 
+| 20221231T15:18:52Z | Null | https://github.com/WildanTrioM/Tugas-Fuzzy-Tsukamoto-Penilaian-pegawai | 0 | 0| 
 | 20221231T12:40:14Z | A Python-based command line tool to fuzz web socket requests. | https://github.com/Baud-Hacker/Web-Shockit | 1 | 0| 
 | 20221231T10:21:43Z | Null | https://github.com/LauKwaiFanHK/bsc-cookies-fuzzer | 0 | 0| 
 | 20221231T10:05:00Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 497 | 64| 
 | 20221231T08:49:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8211 | 1792| 
 | 20221231T07:47:39Z | Null | https://github.com/satwkk/PyFuzz | 0 | 0| 
-| 20221231T05:50:51Z | Null | https://github.com/aeldidi/fuzzing-c-article | 0 | 0| 
-| 20221231T04:27:39Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3329 | 398| 
-| 20221231T04:25:01Z | Fuzz grass using AFL | https://github.com/connorskees/fuzz-grass | 0 | 0| 
-| 20221231T00:38:23Z | Null | https://github.com/duber000/fuzzy-octo-chainsaw | 0 | 0| 
-| 20221230T23:10:45Z | Fast approximate string matching. | https://github.com/tomukmatthews/fuzzy-lightning | 1 | 0| 
 
 
 
