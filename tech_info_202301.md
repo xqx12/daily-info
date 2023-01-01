@@ -59,8 +59,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230101T13:38:05Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 172 | 48| 
 | 20230101T13:32:21Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 29 | 7| 
-| 20230101T11:35:14Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 170 | 48| 
 | 20230101T10:50:16Z | Secure Admin Backdoor for Windows | https://github.com/BigBIueWhale/TrojanHorseWindowsAdmin | 0 | 0| 
 | 20230101T06:44:01Z | not by me | https://github.com/EncryptedScripts/backdoor | 0 | 0| 
 | 20230101T03:34:42Z | Esta script es un backdoor para tomar control de la victima de su termux su uso es facil de la maquina atacante abrimos un puerto con nc -lvp puerto y luego lo abrimos con ngrok tcp , una ves echo eso nos vamos a la script Atack.sh editamos con nano y ponemos la ip ngrok y el puerto ngrok en dev/tcp/ipngrok/puertongrok | https://github.com/MRX90902WX/Atack | 1 | 0| 
