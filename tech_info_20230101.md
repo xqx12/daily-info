@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230101T13:49:29Z | CVE-2020-17382 | Null | https://github.com/houseofxyz/CVE-2020-17382 | | 
 | 20230101T12:13:26Z | CVE-2022-47952 | lxc-user-nic in lxc through 5.0.1 is installed setuid root, and may allow local users to infer whether any file exists, even within a protected directory tree, because "Failed to open" often indicates that a file does not exist, whereas "does not refer to a network namespace path" often indicates that a file exists. NO CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47952 | | 
 | 20230101T12:13:22Z | CVE-2021-41823 | The Web Application Firewall (WAF) in Kemp LoadMaster 7.2.54.1 allows certain uses of onmouseover to bypass an XSS protection mechanism. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41823 | | 
 | 20230101T12:13:18Z | CVE-2022-38223 | There is an out-of-bounds write in checkType located in etc.c in w3m 0.5.3. It can be triggered by sending a crafted HTML file to the w3m binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38223 | | 
@@ -28,7 +29,6 @@
 | 20230101T12:12:56Z | CVE-2022-40711 | PrimeKey EJBCA 7.9.0.2 Community allows stored XSS in the End Entity section. A user with the RA Administrator role can inject an XSS payload to target higher-privilege users. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40711 | | 
 | 20230101T12:12:52Z | CVE-2022-37787 | An issue was discovered in WeCube platform 3.2.2. A DOM XSS vulnerability has been found on the plugin database execution page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37787 | | 
 | 20230101T12:12:48Z | CVE-2022-37786 | An issue was discovered in WeCube Platform 3.2.2. There are multiple CSV injection issues: the [Home / Admin / Resources] page, the [Home / Admin / System Params] page, and the [Home / Design / Basekey Configuration] page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37786 | | 
-| 20230101T12:12:44Z | CVE-2022-37785 | An issue was discovered in WeCube Platform 3.2.2. Cleartext passwords are displayed in the configuration for terminal plugins. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37785 | | 
 
 
 # klee on Github 推荐
