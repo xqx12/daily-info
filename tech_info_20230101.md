@@ -44,6 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230101T20:48:29Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/singleKey_exploit | 0 | 0| 
+| 20230101T15:46:41Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 7 | 0| 
 | 20230101T13:38:23Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 616 | 49| 
 | 20230101T13:09:42Z | lies, scandals, scams, corruption, intelligence tests, psychowar, infowar, exploits, social engineering, ... | https://github.com/milahu/fashionvictims | 0 | 0| 
 | 20230101T12:20:18Z | PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell %easier%. | https://github.com/houseofxyz/PowerOPS | 0 | 0| 
@@ -52,8 +54,6 @@
 | 20230101T10:17:09Z | wireless device exploit | https://github.com/konfeldt/wirelessdeviceexploit | 0 | 0| 
 | 20230101T09:34:38Z | This repo contains some resources to practice Exploit Development for OSED. | https://github.com/0xDivyanshu/Exploit-Development | 0 | 0| 
 | 20230101T08:01:01Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
-| 20230101T08:00:54Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
-| 20230101T02:10:38Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 196 | 139| 
 
 
 # backdoor on Github 推荐
