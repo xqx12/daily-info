@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T02:00:17Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1324 | 271| 
+| 20230102T02:19:33Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1325 | 271| 
 | 20230102T01:59:09Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 8 | 0| 
 | 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 | 20230102T00:36:54Z | Null | https://github.com/Spongescripts/AlphaExploits | 0 | 0| 
@@ -59,6 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T02:20:46Z | This is just for testing | https://github.com/ChatTemplar/Backdoored-Autoclicker | 0 | 0| 
 | 20230101T22:46:11Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 30 | 7| 
 | 20230101T22:46:05Z | Lua Remote Code Execution made for FiveM | https://github.com/xneuh/lua-rce | 0 | 0| 
 | 20230101T21:30:39Z | Code for %Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation% | https://github.com/inspire-group/Rotation_BD | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230101T14:34:27Z | https://t.me/mintOnTop | https://github.com/BoomEnjoyer/MintLoader | 4 | 2| 
 | 20230101T10:50:16Z | Secure Admin Backdoor for Windows | https://github.com/BigBIueWhale/TrojanHorseWindowsAdmin | 0 | 0| 
 | 20230101T06:44:01Z | not by me | https://github.com/EncryptedScripts/backdoor | 0 | 0| 
-| 20230101T03:34:42Z | Esta script es un backdoor para tomar control de la victima de su termux su uso es facil de la maquina atacante abrimos un puerto con nc -lvp puerto y luego lo abrimos con ngrok tcp , una ves echo eso nos vamos a la script Atack.sh editamos con nano y ponemos la ip ngrok y el puerto ngrok en dev/tcp/ipngrok/puertongrok | https://github.com/MRX90902WX/Atack | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
