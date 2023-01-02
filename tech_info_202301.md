@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T01:59:09Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 8 | 0| 
 | 20230102T01:51:55Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1323 | 271| 
 | 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 | 20230102T00:36:54Z | Null | https://github.com/Spongescripts/AlphaExploits | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230102T00:06:02Z | Null | https://github.com/HORUS405/exploit-araby.github.io | 0 | 0| 
 | 20230101T20:48:29Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/singleKey_exploit | 0 | 0| 
 | 20230101T15:59:10Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 153 | 2| 
-| 20230101T15:46:41Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 7 | 0| 
 | 20230101T13:38:23Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 616 | 49| 
 | 20230101T13:09:42Z | lies, scandals, scams, corruption, intelligence tests, psychowar, infowar, exploits, social engineering, ... | https://github.com/milahu/fashionvictims | 0 | 0| 
 
