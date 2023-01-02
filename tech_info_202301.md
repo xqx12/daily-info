@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 | 20230102T00:36:54Z | Null | https://github.com/Spongescripts/AlphaExploits | 0 | 0| 
 | 20230102T00:12:38Z | Null | https://github.com/mrboxly/WMessageExploit | 0 | 0| 
 | 20230102T00:06:02Z | Null | https://github.com/HORUS405/exploit-araby.github.io | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230101T13:09:42Z | lies, scandals, scams, corruption, intelligence tests, psychowar, infowar, exploits, social engineering, ... | https://github.com/milahu/fashionvictims | 0 | 0| 
 | 20230101T12:20:18Z | PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell %easier%. | https://github.com/houseofxyz/PowerOPS | 0 | 0| 
 | 20230101T12:09:58Z | Null | https://github.com/DineshArjunanGit/exploits | 0 | 0| 
-| 20230101T10:33:30Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 49 | 12| 
 
 
 # backdoor on Github 推荐
