@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T13:41:26Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
 | 20230102T13:21:43Z | Buffer overflow exploit for Stephen Bradshaw%s Vulnserver. | https://github.com/shodanwashere/badserver | 0 | 0| 
-| 20230102T13:18:47Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
 | 20230102T12:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-lx2D6-match-exploit | 0 | 0| 
 | 20230102T12:08:39Z | A vulnerability was found in rails-cv-app. It has been rated as problematic. Affected by this issue is some unknown functionality of the file app/controllers/uploaded_files_controller.rb. The manipulation with the input ../../../etc/passwd leads to path traversal: %../filedir%. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2014-125033 | 0 | 0| 
 | 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
