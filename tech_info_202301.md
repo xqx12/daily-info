@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T01:23:22Z | This project aims to select the 20 best influencers to become brand ambassadors for a company. The selection is made based on certain criteria that are implemented into the fuzzy algorithm. | https://github.com/saviraanggita/Fuzzy-Algorithm-for-Influencer-Selection | 0 | 0| 
 | 20230102T00:06:37Z | Matching of two dataframes using fuzzy matching. | https://github.com/Avinash215/FuzzyMatching | 0 | 0| 
 | 20230101T19:50:48Z | Null | https://github.com/tonicboy2729/fuzzy-carnival | 0 | 0| 
 | 20230101T16:23:52Z | Honggfuzz fuzzer core dump monitor that sends tweets on fresh crashes | https://github.com/0xtosh/honggfuzz-twitter-alerter | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230101T08:03:38Z | A hypervisor/virtual machine monitor (VMM) fuzzer. | https://github.com/rcvalle/vmmfuzzer | 0 | 0| 
 | 20230101T07:16:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3330 | 398| 
 | 20230101T06:15:50Z | one problem for every free day | https://github.com/farzinlize/fuzzyforces | 0 | 0| 
-| 20230101T05:22:15Z | Null | https://github.com/agung-madani/dynamic-app-fuzzyinference-sugeno | 0 | 0| 
 
 
 
