@@ -87,7 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T01:23:22Z | This project aims to select the 20 best influencers to become brand ambassadors for a company. The selection is made based on certain criteria that are implemented into the fuzzy algorithm. | https://github.com/saviraanggita/Fuzzy-Algorithm-for-Influencer-Selection | 0 | 0| 
+| 20230102T01:25:50Z | This project aims to select the 20 best influencers to become brand ambassadors for a company. The selection is made based on certain criteria that are implemented into the fuzzy algorithm. | https://github.com/saviraanggita/Fuzzy-Algorithm-for-Influencer-Selection | 0 | 0| 
 | 20230102T00:06:37Z | Matching of two dataframes using fuzzy matching. | https://github.com/Avinash215/FuzzyMatching | 0 | 0| 
 | 20230101T19:50:48Z | Null | https://github.com/tonicboy2729/fuzzy-carnival | 0 | 0| 
 | 20230101T16:23:52Z | Honggfuzz fuzzer core dump monitor that sends tweets on fresh crashes | https://github.com/0xtosh/honggfuzz-twitter-alerter | 0 | 0| 
