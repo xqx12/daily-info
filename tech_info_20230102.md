@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T13:13:47Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1843 | 418| 
 | 20230102T12:40:05Z | Code for the paper %Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning%. SaTML%23. | https://github.com/GorkaAbad/Sniper-Backdoor | 0 | 0| 
 | 20230102T12:12:59Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. 🚪🔑🙂 | https://github.com/yasserbdj96/hiphp | 31 | 10| 
 | 20230102T11:22:16Z | Modern LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 2 | 0| 
