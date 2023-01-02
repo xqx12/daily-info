@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T01:17:55Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1321 | 271| 
 | 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 | 20230102T00:36:54Z | Null | https://github.com/Spongescripts/AlphaExploits | 0 | 0| 
 | 20230102T00:12:38Z | Null | https://github.com/mrboxly/WMessageExploit | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230101T15:46:41Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 7 | 0| 
 | 20230101T13:38:23Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 616 | 49| 
 | 20230101T13:09:42Z | lies, scandals, scams, corruption, intelligence tests, psychowar, infowar, exploits, social engineering, ... | https://github.com/milahu/fashionvictims | 0 | 0| 
-| 20230101T12:20:18Z | PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell %easier%. | https://github.com/houseofxyz/PowerOPS | 0 | 0| 
 
 
 # backdoor on Github 推荐
