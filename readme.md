@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230101T23:14:17Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 336 | 37| 
 | 20230101T19:50:48Z | Null | https://github.com/tonicboy2729/fuzzy-carnival | 0 | 0| 
 | 20230101T16:23:52Z | Honggfuzz fuzzer core dump monitor that sends tweets on fresh crashes | https://github.com/0xtosh/honggfuzz-twitter-alerter | 0 | 0| 
 | 20230101T13:09:23Z | Null | https://github.com/alok0521/fuzzy-meme | 0 | 0| 
