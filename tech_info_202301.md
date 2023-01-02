@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T01:17:55Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1321 | 271| 
+| 20230102T01:45:03Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1322 | 271| 
 | 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 | 20230102T00:36:54Z | Null | https://github.com/Spongescripts/AlphaExploits | 0 | 0| 
 | 20230102T00:12:38Z | Null | https://github.com/mrboxly/WMessageExploit | 0 | 0| 
