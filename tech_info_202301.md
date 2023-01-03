@@ -95,7 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230103T02:21:11Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
+| 20230103T02:23:26Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
 | 20230103T01:57:08Z | Null | https://github.com/CornDavid5/FuzzingMicroservicesReport | 0 | 0| 
 | 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 
 | 20230103T01:06:08Z | Null | https://github.com/Igor1Kan/fuzzy-funicular | 0 | 0| 
