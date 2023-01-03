@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T02:21:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4844 | 704| 
 | 20230103T02:17:08Z | Crossy Road hack written in C# | https://github.com/Nico-Posada/Crossy-Road-Hack | 1 | 0| 
 | 20230103T02:16:45Z | Crossy Road hack written in C# | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | 1 | 0| 
 | 20230103T02:00:48Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poskeyplakey/DF2-DeaD-Frontier2-PrivateCheat | 26 | 0| 
@@ -59,7 +60,6 @@
 | 20230103T01:12:25Z | Use after free in Browser History in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chrome security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3863 | 0 | 0| 
 | 20230103T01:12:21Z | Use after free in Passwords in Google Chrome prior to 105.0.5195.125 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3842 | 0 | 0| 
 | 20230103T01:12:12Z | Use after free in Exosphere in Google Chrome on Chrome OS and Lacros prior to 104.0.5112.79 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via crafted UI interactions. (Chrome security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2742 | 0 | 0| 
-| 20230103T00:25:56Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5160 | 725| 
 
 
 # backdoor on Github 推荐
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T02:21:11Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
 | 20230103T01:57:08Z | Null | https://github.com/CornDavid5/FuzzingMicroservicesReport | 0 | 0| 
 | 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 
 | 20230103T01:06:08Z | Null | https://github.com/Igor1Kan/fuzzy-funicular | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20230102T20:55:11Z | eldass aosp project | https://github.com/loboi500/external_oss-fuzz | 0 | 0| 
 | 20230102T20:15:25Z | Null | https://github.com/rnphilp/fuzzy-goggles | 0 | 0| 
 | 20230102T15:26:26Z | Tool for fuzzing KZG implementations | https://github.com/jtraglia/kzg-fuzz | 0 | 0| 
-| 20230102T12:01:51Z | CrossChain Fuzz | https://github.com/xuebingqing/CrossChain | 0 | 0| 
 
 
 
