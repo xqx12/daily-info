@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20230103 | Faraday CTF 2022 Write-up，以一道ctf题为例介绍mips架构下的iot漏洞利用技巧，适合初学者学习 | https://www.reddit.com/r/ReverseEngineering/comments/101iozj/reverse_engineering_and_exploiting_an_iot_bug/| 
 | 20230103 | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf| 
+| 20230103 | Esi注入相关的几个真实漏洞case study | https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?gi=d40322198891&source=rss----7b722bfd1b8d---4| 
 | 20230102 | 基于Ghidra和GPT-3的辅助逆向工具 | https://github.com/moyix/gpt-wpre| 
 | 20230102 | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal| 
 | 20230102 | 介绍 8086 处理器指令预取技术的电路实现 | http://www.righto.com/2023/01/inside-8086-processors-instruction.html| 
@@ -55,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T13:21:26Z | Null | https://github.com/blek1337/WeblineExploit | 0 | 0| 
 | 20230103T13:19:49Z | RAC/Roblox anti cheat exploiters database clone. | https://github.com/I2rys/rac-clone | 1 | 0| 
-| 20230103T13:16:49Z | Null | https://github.com/blek1337/WeblineExploit | 0 | 0| 
 | 20230103T13:13:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12515 | 2150| 
 | 20230103T13:10:58Z | Roblox GrabberExploit Overpowered | https://github.com/BlankoScript08/NoobBeamer | 0 | 0| 
 | 20230103T12:59:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-hdgy-uLqB_-intend-exploit | 0 | 0| 
