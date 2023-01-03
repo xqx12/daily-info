@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20230102 | 基于Ghidra和GPT-3的辅助逆向工具 | https://github.com/moyix/gpt-wpre| 
 | 20230102 | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal| 
+| 20230102 | 介绍 8086 处理器指令预取技术的电路实现 | http://www.righto.com/2023/01/inside-8086-processors-instruction.html| 
 | 20230101 | LuaJIT Sandbox Escape: The Saga Ends | https://0xbigshaq.github.io/2022/12/30/luajit-sandbox-escape/| 
 
 
