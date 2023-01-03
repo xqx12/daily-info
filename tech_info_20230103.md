@@ -79,6 +79,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T12:25:50Z | Simple 3D traffic simulation built in Unity🚦🚗 | https://github.com/p-v-z/FuzzyTown | 0 | 0| 
+| 20230103T11:31:52Z | Student performance evaluation based on marks and attendance using fuzzy logic. Implementation of SKFUZZY module which is part of SciKit. | https://github.com/ayupal25/Academic-Performance-Evaluation-using-Fuzzy-Logic | 2 | 0| 
+| 20230103T11:20:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8219 | 1791| 
+| 20230103T09:47:21Z | Null | https://github.com/izzhamburhan/Traffic_light_fuzzy | 0 | 0| 
 | 20230103T02:23:26Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
 | 20230103T01:57:08Z | Null | https://github.com/CornDavid5/FuzzingMicroservicesReport | 0 | 0| 
 | 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 

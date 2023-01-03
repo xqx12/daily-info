@@ -101,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T12:25:50Z | Simple 3D traffic simulation built in Unity🚦🚗 | https://github.com/p-v-z/FuzzyTown | 0 | 0| 
+| 20230103T11:31:52Z | Student performance evaluation based on marks and attendance using fuzzy logic. Implementation of SKFUZZY module which is part of SciKit. | https://github.com/ayupal25/Academic-Performance-Evaluation-using-Fuzzy-Logic | 2 | 0| 
+| 20230103T11:20:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8219 | 1791| 
+| 20230103T09:47:21Z | Null | https://github.com/izzhamburhan/Traffic_light_fuzzy | 0 | 0| 
 | 20230103T02:23:26Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
 | 20230103T01:57:08Z | Null | https://github.com/CornDavid5/FuzzingMicroservicesReport | 0 | 0| 
 | 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 
 | 20230103T01:06:08Z | Null | https://github.com/Igor1Kan/fuzzy-funicular | 0 | 0| 
 | 20230103T00:08:35Z | Null | https://github.com/kamosah/fuzzy-memory | 0 | 0| 
 | 20230102T23:14:29Z | Repository for the CE801 Intelligent Systems and Robotics project at the University of Essex | https://github.com/JAntonioRosales/PID-and-Fuzzy-Logic | 0 | 0| 
-| 20230102T20:57:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8219 | 1792| 
-| 20230102T20:55:11Z | eldass aosp project | https://github.com/loboi500/external_oss-fuzz | 0 | 0| 
-| 20230102T20:15:25Z | Null | https://github.com/rnphilp/fuzzy-goggles | 0 | 0| 
-| 20230102T15:26:26Z | Tool for fuzzing KZG implementations | https://github.com/jtraglia/kzg-fuzz | 0 | 0| 
 
 
 
