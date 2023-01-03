@@ -46,11 +46,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T13:13:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12515 | 2150| 
 | 20230103T13:10:58Z | Roblox GrabberExploit Overpowered | https://github.com/BlankoScript08/NoobBeamer | 0 | 0| 
 | 20230103T12:59:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-hdgy-uLqB_-intend-exploit | 0 | 0| 
 | 20230103T11:56:16Z | Il s%agit de créer un fichier JSON contenant les informations sur des films projeter dans un cinéma, exploiter ce fichier pour créer une page responsive qui permet d%afficher ces données, les trier et les filtrer. | https://github.com/mo-yassin/FILMNOTION | 0 | 0| 
 | 20230103T10:39:27Z | Doc2Graph transforms documents into graphs and exploit a GNN to solve several tasks. | https://github.com/andreagemelli/doc2graph | 19 | 2| 
-| 20230103T10:11:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12514 | 2150| 
 | 20230103T07:06:14Z | Tips & Tricks on Binary Exploitation & Reverse Engineering | https://github.com/mohsafer/BinaryExploitation | 0 | 0| 
 | 20230103T04:45:52Z | Post-exploitation tool to cover your tracks on various operating systems | https://github.com/sundowndev/covermyass | 218 | 39| 
 | 20230103T04:21:46Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production. Not all scripts or programs are fully tested/debugged, either. | https://github.com/1emvr/The-Art-of-Exploitation | 0 | 0| 
