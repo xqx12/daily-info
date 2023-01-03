@@ -42,15 +42,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230102T23:59:25Z | This repository contains a very vulnerable website written in HTML, CSS, and Express.js. It is intended to be used as a training tool to help teach web security and to demonstrate the types of vulnerabilities that can exist in web applications. | https://github.com/DevidM9779/SQL-Injection-Exploit | 0 | 0| 
-| 20230102T13:41:26Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
+| 20230102T19:40:57Z | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | 288 | 28| 
+| 20230102T14:57:12Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
 | 20230102T13:21:43Z | Buffer overflow exploit for Stephen Bradshaw%s Vulnserver. | https://github.com/shodanwashere/badserver | 0 | 0| 
 | 20230102T12:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-lx2D6-match-exploit | 0 | 0| 
 | 20230102T12:08:39Z | A vulnerability was found in rails-cv-app. It has been rated as problematic. Affected by this issue is some unknown functionality of the file app/controllers/uploaded_files_controller.rb. The manipulation with the input ../../../etc/passwd leads to path traversal: %../filedir%. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2014-125033 | 0 | 0| 
 | 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
 | 20230102T11:36:34Z | Krnl. The best free exploit for Roblox | https://github.com/RyAtlasX/About_krnl | 0 | 0| 
 | 20230102T11:17:39Z | To complete the task exploiting Delegate Call vulnerability of the smart contract | https://github.com/ankit7241/D31eg4t3_Quill_CTF | 0 | 0| 
-| 20230102T02:25:49Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1326 | 272| 
-| 20230102T01:59:09Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 8 | 0| 
+| 20230102T05:53:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 154 | 2| 
 
 
 # backdoor on Github 推荐
