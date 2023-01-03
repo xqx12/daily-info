@@ -29,18 +29,19 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T13:59:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9749 | 335| 
+| 20230102T21:48:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9754 | 336| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T05:52:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 284 | 66| 
+| 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230102T23:59:25Z | This repository contains a very vulnerable website written in HTML, CSS, and Express.js. It is intended to be used as a training tool to help teach web security and to demonstrate the types of vulnerabilities that can exist in web applications. | https://github.com/DevidM9779/SQL-Injection-Exploit | 0 | 0| 
 | 20230102T13:41:26Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
 | 20230102T13:21:43Z | Buffer overflow exploit for Stephen Bradshaw%s Vulnserver. | https://github.com/shodanwashere/badserver | 0 | 0| 
 | 20230102T12:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-lx2D6-match-exploit | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230102T11:17:39Z | To complete the task exploiting Delegate Call vulnerability of the smart contract | https://github.com/ankit7241/D31eg4t3_Quill_CTF | 0 | 0| 
 | 20230102T02:25:49Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1326 | 272| 
 | 20230102T01:59:09Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 8 | 0| 
-| 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
 
 
 # backdoor on Github 推荐
@@ -68,8 +68,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T12:03:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3261 | 459| 
-| 20230102T05:52:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 284 | 66| 
+| 20230102T18:59:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 526 | 30| 
+| 20230102T18:59:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3262 | 459| 
+| 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
 
 
 # big4 on Github 推荐
@@ -80,15 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T12:07:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8216 | 1792| 
+| 20230102T23:14:29Z | Repository for the CE801 Intelligent Systems and Robotics project at the University of Essex | https://github.com/JAntonioRosales/PID-and-Fuzzy-Logic | 0 | 0| 
+| 20230102T20:57:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8219 | 1792| 
+| 20230102T20:55:11Z | eldass aosp project | https://github.com/loboi500/external_oss-fuzz | 0 | 0| 
+| 20230102T20:15:25Z | Null | https://github.com/rnphilp/fuzzy-goggles | 0 | 0| 
+| 20230102T15:26:26Z | Tool for fuzzing KZG implementations | https://github.com/jtraglia/kzg-fuzz | 0 | 0| 
 | 20230102T12:01:51Z | CrossChain Fuzz | https://github.com/xuebingqing/CrossChain | 0 | 0| 
 | 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
 | 20230102T10:03:28Z | Null | https://github.com/MariusVanDerWijden/kzg-fuzz | 1 | 0| 
 | 20230102T09:36:28Z | Null | https://github.com/Mahmoudkhaled225/Fuzzy-Logic-Toolbox-Clone-With-Pychon | 0 | 0| 
 | 20230102T09:07:06Z | Null | https://github.com/satwkk/PyFuzz | 0 | 0| 
-| 20230102T01:49:39Z | Oss-Fuzz dumps | https://github.com/antonio-morales/OSS-FUZZ-dumps | 0 | 0| 
-| 20230102T01:26:51Z | This project aims to select the 20 best influencers to become brand ambassadors for a company. The selection is made based on certain criteria that are implemented into the fuzzy algorithm. | https://github.com/saviraanggita/Fuzzy-Algorithm-for-Influencer-Selection | 0 | 0| 
-| 20230102T00:06:37Z | Matching of two dataframes using fuzzy matching. | https://github.com/Avinash215/FuzzyMatching | 0 | 0| 
 
 
 

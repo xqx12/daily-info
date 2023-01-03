@@ -23,43 +23,43 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230102T12:08:51Z | CVE-2021-4299 | A vulnerability classified as problematic was found in cronvel string-kit up to 0.12.7. This vulnerability affects the function naturalSort of the file lib/naturalSort.js. The manipulation leads to inefficient regular expression complexity. The attack can be initiated remotely. Upgrading to version 0.12.8 is able to ad CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4299 | | 
-| 20230102T12:08:47Z | CVE-2021-4298 | A vulnerability classified as critical has been found in Hesburgh Libraries of Notre Dame Sipity. This affects the function SearchCriteriaForWorksParameter of the file app/parameters/sipity/parameters/search_criteria_for_works_parameter.rb. The manipulation leads to sql injection. Upgrading to version 2021.8 is able to CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4298 | | 
-| 20230102T12:08:28Z | CVE-2022-42475 | A heap-based buffer overflow vulnerability [CWE-122] in FortiOS SSL-VPN 7.2.0 through 7.2.2, 7.0.0 through 7.0.8, 6.4.0 through 6.4.10, 6.2.0 through 6.2.11, 6.0.15 and earlier and FortiProxy SSL-VPN 7.2.0 through 7.2.1, 7.0.7 and earlier may allow a remote unauthenticated attacker to execute arbitrary code or commands CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42475 | | 
-| 20230102T10:27:04Z | CVE-2022-48197 | Null | https://github.com/ryan412/CVE-2022-48197 | | 
-| 20230101T21:58:49Z | CVE-2021-21366 | xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. xmldom versions 0.4.0 and older do not correctly preserve system identifiers, FPIs or namespaces when repeatedly parsing and serializing maliciously crafted documents. This may lead to unexpected syntactic changes  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-21366 | | 
-| 20230101T21:58:44Z | CVE-2021-4297 | A vulnerability has been found in trampgeek jobe up to 1.6.4 and classified as problematic. This vulnerability affects the function runs_post of the file application/controllers/Restapi.php. The manipulation of the argument sourcefilename leads to an unknown weakness. Upgrading to version 1.6.5 is able to address this  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4297 | | 
-| 20230101T19:57:07Z | 未知编号 | 2022 CVE Data Review  | https://github.com/jgamblin/2022CVEReview | | 
-| 20230101T19:48:29Z | CVE-2023-22551 | The FTP (aka "Implementation of a simple FTP client and server") project through 96c1a35 allows remote attackers to cause a denial of service (memory consumption) by engaging in client activity, such as establishing and then terminating a connection. This occurs because malloc is used but free is not. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22551 | | 
-| 20230101T15:28:20Z | CVE-2023-0029 | A vulnerability was found in Multilaser RE708 RE1200R4GC-2T2R-V3_v3411b_MUL029B. It has been rated as problematic. This issue affects some unknown processing of the component Telnet Service. The manipulation leads to denial of service. The attack may be initiated remotely. The identifier VDB-217169 was assigned to this CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0029 | | 
-| 20230101T13:49:29Z | CVE-2020-17382 | Null | https://github.com/houseofxyz/CVE-2020-17382 | | 
+| 20230103T00:07:06Z | CVE-2022-4324 | The Custom Field Template WordPress plugin before 2.5.8 unserialises the content of an imported file, which could lead to PHP object injections issues when a high privilege user import (intentionally or not) a malicious Customizer Styling file and a suitable gadget chain is present on the blog. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4324 | | 
+| 20230103T00:07:03Z | CVE-2022-4302 | The White Label CMS WordPress plugin before 2.5 unserializes user input provided via the settings, which could allow high-privilege users such as admin to perform PHP Object Injection when a suitable gadget is present. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4302 | | 
+| 20230103T00:06:58Z | CVE-2022-4298 | The Wholesale Market WordPress plugin before 2.2.1 does not have authorisation check, as well as does not validate user input used to generate system path, allowing unauthenticated attackers to download arbitrary file from the server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4298 | | 
+| 20230103T00:06:55Z | CVE-2022-4297 | The WP AutoComplete Search WordPress plugin through 1.0.4 does not sanitise and escape a parameter before using it in a SQL statement via an AJAX available to unauthenticated users, leading to an unauthenticated SQL injection CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4297 | | 
+| 20230103T00:06:51Z | CVE-2022-4260 | The WP-Ban WordPress plugin before 1.69.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4260 | | 
+| 20230103T00:06:48Z | CVE-2022-4256 | The All-in-One Addons for Elementor WordPress plugin before 2.4.4 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4256 | | 
+| 20230103T00:06:44Z | CVE-2022-4237 | The Welcart e-Commerce WordPress plugin before 2.8.6 does not validate user input before using it in file_exist() functions via various AJAX actions available to any authenticated users, which could allow users with a role as low as subscriber to perform PHAR deserialisation when they can upload a file and a suitable g CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4237 | | 
+| 20230103T00:06:41Z | CVE-2022-4236 | The Welcart e-Commerce WordPress plugin before 2.8.5 does not validate user input before using it to output the content of a file via an AJAX action available to any authenticated users, which could allow users with a role as low as subscriber to read arbitrary files on the server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4236 | | 
+| 20230103T00:06:37Z | CVE-2022-4200 | The Login with Cognito WordPress plugin through 1.4.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4200 | | 
+| 20230103T00:06:34Z | CVE-2022-4198 | The WP Social Sharing WordPress plugin through 2.2 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4198 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T13:59:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9749 | 335| 
+| 20230102T21:48:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9754 | 336| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T05:52:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 284 | 66| 
+| 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T13:41:26Z | Null | https://github.com/adivenkat05/Exploitation-with-C | 0 | 0| 
-| 20230102T13:21:43Z | Buffer overflow exploit for Stephen Bradshaw%s Vulnserver. | https://github.com/shodanwashere/badserver | 0 | 0| 
-| 20230102T12:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-lx2D6-match-exploit | 0 | 0| 
-| 20230102T12:08:39Z | A vulnerability was found in rails-cv-app. It has been rated as problematic. Affected by this issue is some unknown functionality of the file app/controllers/uploaded_files_controller.rb. The manipulation with the input ../../../etc/passwd leads to path traversal: %../filedir%. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2014-125033 | 0 | 0| 
-| 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
-| 20230102T11:36:34Z | Krnl. The best free exploit for Roblox | https://github.com/RyAtlasX/About_krnl | 0 | 0| 
-| 20230102T11:17:39Z | To complete the task exploiting Delegate Call vulnerability of the smart contract | https://github.com/ankit7241/D31eg4t3_Quill_CTF | 0 | 0| 
-| 20230102T02:25:49Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1326 | 272| 
-| 20230102T01:59:09Z | Collection of mods for devices vulnerable to the MacDirtyCow exploit (iOS 15-iOS 16.1.2). | https://github.com/aethercot/TrollMods | 8 | 0| 
-| 20230102T01:04:06Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 73 | 33| 
+| 20230103T00:59:23Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/winrowhowky/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20230103T00:59:11Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/winrowhowky/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20230103T00:49:53Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poskeyplakey/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20230103T00:49:36Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poskeyplakey/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20230103T00:25:56Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5160 | 725| 
+| 20230103T00:15:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 121 | 12| 
+| 20230103T00:08:06Z | Exploits | https://github.com/MMAT30/exploits | 0 | 0| 
+| 20230103T00:05:57Z | The WP User WordPress plugin through 7.0 does not properly sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by unauthenticated users. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4049 | 0 | 0| 
+| 20230103T00:05:42Z | The Visual Email Designer for WooCommerce WordPress plugin before 1.7.2 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as author. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3860 | 0 | 0| 
+| 20230102T23:59:25Z | This repository contains a very vulnerable website written in HTML, CSS, and Express.js. It is intended to be used as a training tool to help teach web security and to demonstrate the types of vulnerabilities that can exist in web applications. | https://github.com/DevidM9779/SQL-Injection-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -80,8 +80,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T12:03:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3261 | 459| 
-| 20230102T05:52:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 284 | 66| 
+| 20230102T18:59:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 526 | 30| 
+| 20230102T18:59:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3262 | 459| 
+| 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
 | 20230101T20:30:19Z | Template for a simple exercise involving Angr for symbolic execution. | https://github.com/nsumner/se-symex-template | 0 | 0| 
 | 20230101T12:19:40Z | Files for http://blog.deniable.org/posts/symbolic-execution/ | https://github.com/houseofxyz/symbolic-execution | 0 | 0| 
 
@@ -94,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230102T12:07:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8216 | 1792| 
+| 20230103T00:08:35Z | Null | https://github.com/kamosah/fuzzy-memory | 0 | 0| 
+| 20230102T23:14:29Z | Repository for the CE801 Intelligent Systems and Robotics project at the University of Essex | https://github.com/JAntonioRosales/PID-and-Fuzzy-Logic | 0 | 0| 
+| 20230102T20:57:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8219 | 1792| 
+| 20230102T20:55:11Z | eldass aosp project | https://github.com/loboi500/external_oss-fuzz | 0 | 0| 
+| 20230102T20:15:25Z | Null | https://github.com/rnphilp/fuzzy-goggles | 0 | 0| 
+| 20230102T15:26:26Z | Tool for fuzzing KZG implementations | https://github.com/jtraglia/kzg-fuzz | 0 | 0| 
 | 20230102T12:01:51Z | CrossChain Fuzz | https://github.com/xuebingqing/CrossChain | 0 | 0| 
 | 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
 | 20230102T10:03:28Z | Null | https://github.com/MariusVanDerWijden/kzg-fuzz | 1 | 0| 
 | 20230102T09:36:28Z | Null | https://github.com/Mahmoudkhaled225/Fuzzy-Logic-Toolbox-Clone-With-Pychon | 0 | 0| 
-| 20230102T09:07:06Z | Null | https://github.com/satwkk/PyFuzz | 0 | 0| 
-| 20230102T01:49:39Z | Oss-Fuzz dumps | https://github.com/antonio-morales/OSS-FUZZ-dumps | 0 | 0| 
-| 20230102T01:26:51Z | This project aims to select the 20 best influencers to become brand ambassadors for a company. The selection is made based on certain criteria that are implemented into the fuzzy algorithm. | https://github.com/saviraanggita/Fuzzy-Algorithm-for-Influencer-Selection | 0 | 0| 
-| 20230102T00:06:37Z | Matching of two dataframes using fuzzy matching. | https://github.com/Avinash215/FuzzyMatching | 0 | 0| 
-| 20230101T23:14:17Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 336 | 37| 
 
 
 
