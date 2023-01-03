@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 
 | 20230103T01:06:08Z | Null | https://github.com/Igor1Kan/fuzzy-funicular | 0 | 0| 
 | 20230103T00:08:35Z | Null | https://github.com/kamosah/fuzzy-memory | 0 | 0| 
 | 20230102T23:14:29Z | Repository for the CE801 Intelligent Systems and Robotics project at the University of Essex | https://github.com/JAntonioRosales/PID-and-Fuzzy-Logic | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20230102T15:26:26Z | Tool for fuzzing KZG implementations | https://github.com/jtraglia/kzg-fuzz | 0 | 0| 
 | 20230102T12:01:51Z | CrossChain Fuzz | https://github.com/xuebingqing/CrossChain | 0 | 0| 
 | 20230102T11:51:41Z | Hardware Security project used to detect bugs from a given target program ”jpg2bmp” by using a mutation based fuzzing technique. It uses a Fuzzing technique used to identify coding errors and security loopholes in software, operating systems or networks | https://github.com/priyazz3/Fuzzy-Exploitation | 0 | 0| 
-| 20230102T10:03:28Z | Null | https://github.com/MariusVanDerWijden/kzg-fuzz | 1 | 0| 
 
 
 
