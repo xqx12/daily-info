@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T02:00:48Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poskeyplakey/DF2-DeaD-Frontier2-PrivateCheat | 26 | 0| 
 | 20230103T01:55:45Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poskeyplakey/Roblox-NYveeee-Private-Exploit-Leak3D | 25 | 0| 
-| 20230103T01:55:40Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poskeyplakey/DF2-DeaD-Frontier2-PrivateCheat | 25 | 0| 
 | 20230103T01:55:23Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/winrowhowky/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 25 | 0| 
 | 20230103T01:55:21Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/winrowhowky/AutoFarm-SonicSpeed-Exploit | 25 | 0| 
 | 20230103T01:12:25Z | Use after free in Browser History in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chrome security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3863 | 0 | 0| 
