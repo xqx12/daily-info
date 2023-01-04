@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T13:22:11Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230104T12:40:48Z | Null | https://github.com/TimothyElems/peach-fuzz | 0 | 0| 
 | 20230104T11:38:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8393 | 955| 
 | 20230104T10:42:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8223 | 1790| 
@@ -121,7 +122,6 @@
 | 20230104T07:47:48Z | Null | https://github.com/cyyever/torch_fuzzing | 0 | 0| 
 | 20230103T23:46:46Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 4 | 0| 
 | 20230103T23:35:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4918 | 508| 
-| 20230103T22:01:55Z | Null | https://github.com/moonsculpture/fuzzing | 0 | 0| 
 
 
 
