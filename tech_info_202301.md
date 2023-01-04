@@ -72,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T01:48:32Z | Null | https://github.com/knightcao/AI-BackDoor-Detection | 0 | 0| 
 | 20230103T23:15:33Z | Un backdoor en python para termux , su uso no es mi responsabilidad ejecutar python2 server.py desde la maquina atacante configurar ip y puerto de la red local o para fuera de la red con ngrok tcp ,enviar herramienta a la victima usar ig social para que ejecute iniciar.sh. | https://github.com/MRX90902WX/Backdoor-Python | 0 | 0| 
 | 20230103T23:12:33Z | Un backdoor en python para Termux su uso no es mi responsabilidad. | https://github.com/MRX90902WX/BackdoorPython | 0 | 0| 
 | 20230103T20:27:56Z | This is a snippet of the assembly code that was modified in test.exe to load the payload along with the main program. | https://github.com/rykergogo/backdoorPE | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20230103T11:30:24Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 0 | 0| 
 | 20230103T07:49:11Z | Null | https://github.com/nitesh0608/Backdoor-User-Creation | 0 | 0| 
 | 20230102T20:55:53Z | Modern LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 4 | 3| 
-| 20230102T16:39:14Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 81 | 21| 
 
 
 # symbolic execution on Github 推荐
