@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T02:35:46Z | Null | https://github.com/qpvivuuuan/tapeworm-loudspeaker-exploit | 0 | 0| 
 | 20230104T02:05:43Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jpenilla/AntiRaidFarm | 4 | 1| 
 | 20230104T01:00:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5163 | 725| 
 | 20230104T00:45:21Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-EXCEL | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20230104T00:24:01Z | Exploits for buffer overflow with reverse shell  | https://github.com/mrtnsgs/bufferOverflow | 0 | 0| 
 | 20230104T00:08:38Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262518; Issue ID: ALPS07262518. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32653 | 0 | 0| 
 | 20230104T00:08:34Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262617; Issue ID: ALPS07262617. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32652 | 0 | 0| 
-| 20230104T00:08:30Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225857; Issue ID: ALPS07225857. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32651 | 0 | 0| 
 
 
 # backdoor on Github 推荐
