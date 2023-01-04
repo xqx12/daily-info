@@ -75,6 +75,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T11:10:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3262 | 460| 
+| 20230104T06:39:23Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 527 | 30| 
+| 20230104T04:10:26Z | A program that performs symbolic execution about all the possible paths a program written in a c-like language (SimpleC) can take. The output are formulas in CNF that represent the possible paths the program could generate, these formulas can be analyzed via a SAT solver.. | https://github.com/rndae/symbolic-execution-clikelang | 0 | 0| 
 
 
 # big4 on Github 推荐
