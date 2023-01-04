@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T01:49:33Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jpenilla/AntiRaidFarm | 4 | 1| 
 | 20230104T01:00:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5163 | 725| 
 | 20230104T00:45:21Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-EXCEL | 0 | 0| 
 | 20230104T00:44:41Z | Null | https://github.com/0x414141414/Silent-Word-.Doc-Exploit | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20230104T00:08:38Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262518; Issue ID: ALPS07262518. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32653 | 0 | 0| 
 | 20230104T00:08:34Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262617; Issue ID: ALPS07262617. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32652 | 0 | 0| 
 | 20230104T00:08:30Z | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225857; Issue ID: ALPS07225857. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32651 | 0 | 0| 
-| 20230104T00:08:26Z | In mtk-isp, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225853; Issue ID: ALPS07225853. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32650 | 0 | 0| 
 
 
 # backdoor on Github 推荐
