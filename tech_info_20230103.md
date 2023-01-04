@@ -10,6 +10,7 @@
 | 20230103 | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf| 
 | 20230103 | Esi注入相关的几个真实漏洞case study | https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?gi=d40322198891&source=rss----7b722bfd1b8d---4| 
 | 20230103 | vbSparkle:反混淆VBS和VBA macro的工具 | https://github.com/airbus-cert/vbSparkle| 
+| 20230103 | 使用BinDiff分析复现群晖NAS一个严重栈溢出漏洞，并使用栈迁移+ROP完成利用实现RCE | http://paper.seebug.org/2038/| 
 
 
 # 安全维基 推荐
