@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T13:30:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1844 | 418| 
 | 20230104T11:06:57Z | Fork of https://github.com/ThiccIndustries/Minecraft-Backdoor | https://github.com/Limitlesschicken/NCP-2 | 0 | 0| 
 | 20230104T09:33:01Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 1| 
 | 20230104T04:37:01Z | Un backdoor en python para termux , su uso no es mi responsabilidad ejecutar python2 server.py desde la maquina atacante configurar ip y puerto de la red local o para fuera de la red con ngrok tcp ,enviar herramienta a la victima usar ig social para que ejecute iniciar.sh. | https://github.com/MRX90902WX/Backdoor-Python | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20230103T23:12:33Z | Un backdoor en python para Termux su uso no es mi responsabilidad. | https://github.com/MRX90902WX/BackdoorPython | 0 | 0| 
 | 20230103T20:27:56Z | This is a snippet of the assembly code that was modified in test.exe to load the payload along with the main program. | https://github.com/rykergogo/backdoorPE | 0 | 0| 
 | 20230103T19:08:28Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
-| 20230103T16:55:58Z | Python remote script for providing backdoor access to a target machine from a host machine. | https://github.com/sgtdiddlywink/Backdoor_Access | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
