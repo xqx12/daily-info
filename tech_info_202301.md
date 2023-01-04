@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230104T01:39:04Z | CVE-2022-28672 |  CVE-2022-28672 Vulnerabilidad Foxit PDF Reader - UaF - RCE - JIT Spraying | https://github.com/fastmo/CVE-2022-28672 | | 
+| 20230104T02:03:45Z | CVE-2022-28672 |  CVE-2022-28672 Vulnerabilidad Foxit PDF Reader - UaF - RCE - JIT Spraying | https://github.com/fastmo/CVE-2022-28672 | | 
 | 20230104T00:08:38Z | CVE-2022-32653 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262518; Issue ID: ALPS07262518. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32653 | | 
 | 20230104T00:08:34Z | CVE-2022-32652 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262617; Issue ID: ALPS07262617. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32652 | | 
 | 20230104T00:08:30Z | CVE-2022-32651 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225857; Issue ID: ALPS07225857. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32651 | | 
