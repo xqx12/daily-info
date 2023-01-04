@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230104T01:39:04Z | CVE-2022-28672 |  CVE-2022-28672 Vulnerabilidad Foxit PDF Reader - UaF - RCE - JIT Spraying | https://github.com/fastmo/CVE-2022-28672 | | 
 | 20230104T00:08:38Z | CVE-2022-32653 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262518; Issue ID: ALPS07262518. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32653 | | 
 | 20230104T00:08:34Z | CVE-2022-32652 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262617; Issue ID: ALPS07262617. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32652 | | 
 | 20230104T00:08:30Z | CVE-2022-32651 | In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225857; Issue ID: ALPS07225857. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32651 | | 
@@ -38,7 +39,6 @@
 | 20230104T00:08:13Z | CVE-2022-32647 | In ccu, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07554646; Issue ID: ALPS07554646. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32647 | | 
 | 20230104T00:08:09Z | CVE-2022-32646 | In gpu drm, there is a possible stack overflow due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07363501; Issue ID: ALPS07363501. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32646 | | 
 | 20230104T00:08:05Z | CVE-2022-32645 | In vow, there is a possible information disclosure due to a race condition. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494477; Issue ID: ALPS07494477. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32645 | | 
-| 20230104T00:08:00Z | CVE-2022-32644 | In vow, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494473; Issue ID: ALPS07494473. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32644 | | 
 
 
 # klee on Github 推荐
