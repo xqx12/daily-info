@@ -72,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T02:24:39Z | Reverse de la backdoor de AG derrière le packet Hello Telemetry. | https://github.com/adann0/ankabackdoor | 0 | 0| 
 | 20230104T01:48:32Z | Null | https://github.com/knightcao/AI-BackDoor-Detection | 0 | 0| 
 | 20230103T23:15:33Z | Un backdoor en python para termux , su uso no es mi responsabilidad ejecutar python2 server.py desde la maquina atacante configurar ip y puerto de la red local o para fuera de la red con ngrok tcp ,enviar herramienta a la victima usar ig social para que ejecute iniciar.sh. | https://github.com/MRX90902WX/Backdoor-Python | 0 | 0| 
 | 20230103T23:12:33Z | Un backdoor en python para Termux su uso no es mi responsabilidad. | https://github.com/MRX90902WX/BackdoorPython | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20230103T12:41:31Z | My repository with Tim | https://github.com/MirahaI/BackDOOR1 | 0 | 0| 
 | 20230103T11:30:24Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 0 | 0| 
 | 20230103T07:49:11Z | Null | https://github.com/nitesh0608/Backdoor-User-Creation | 0 | 0| 
-| 20230102T20:55:53Z | Modern LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 4 | 3| 
 
 
 # symbolic execution on Github 推荐
