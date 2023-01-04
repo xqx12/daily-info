@@ -9,6 +9,7 @@
 | 20230103 | Faraday CTF 2022 Write-up，以一道ctf题为例介绍mips架构下的iot漏洞利用技巧，适合初学者学习 | https://www.reddit.com/r/ReverseEngineering/comments/101iozj/reverse_engineering_and_exploiting_an_iot_bug/| 
 | 20230103 | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf| 
 | 20230103 | Esi注入相关的几个真实漏洞case study | https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?gi=d40322198891&source=rss----7b722bfd1b8d---4| 
+| 20230103 | vbSparkle:反混淆VBS和VBA macro的工具 | https://github.com/airbus-cert/vbSparkle| 
 
 
 # 安全维基 推荐
@@ -35,7 +36,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230103T13:56:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9757 | 335| 
+| 20230103T18:13:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9761 | 335| 
 | 20230103T11:10:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2133 | 603| 
 
 
@@ -62,6 +63,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T23:15:33Z | Un backdoor en python para termux , su uso no es mi responsabilidad ejecutar python2 server.py desde la maquina atacante configurar ip y puerto de la red local o para fuera de la red con ngrok tcp ,enviar herramienta a la victima usar ig social para que ejecute iniciar.sh. | https://github.com/MRX90902WX/Backdoor-Python | 0 | 0| 
+| 20230103T23:12:33Z | Un backdoor en python para Termux su uso no es mi responsabilidad. | https://github.com/MRX90902WX/BackdoorPython | 0 | 0| 
+| 20230103T20:27:56Z | This is a snippet of the assembly code that was modified in test.exe to load the payload along with the main program. | https://github.com/rykergogo/backdoorPE | 0 | 0| 
+| 20230103T19:08:28Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
+| 20230103T16:55:58Z | Python remote script for providing backdoor access to a target machine from a host machine. | https://github.com/sgtdiddlywink/Backdoor_Access | 0 | 0| 
 | 20230103T12:41:31Z | My repository with Tim | https://github.com/MirahaI/BackDOOR1 | 0 | 0| 
 | 20230103T11:30:24Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 0 | 0| 
 | 20230103T07:49:11Z | Null | https://github.com/nitesh0608/Backdoor-User-Creation | 0 | 0| 
@@ -80,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230103T23:46:46Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 4 | 0| 
+| 20230103T23:35:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4918 | 508| 
+| 20230103T23:14:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8221 | 1791| 
+| 20230103T22:01:55Z | Null | https://github.com/moonsculpture/fuzzing | 0 | 0| 
+| 20230103T15:16:36Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230103T14:00:04Z | Null | https://github.com/selviaanggun/Fuzzy-C-Shell-Clustering | 0 | 0| 
 | 20230103T13:25:57Z | Null | https://github.com/IoannesPaulusII/fuzzy-memory-transforms | 0 | 0| 
-| 20230103T13:10:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8220 | 1791| 
 | 20230103T12:25:50Z | Simple 3D traffic simulation built in Unity🚦🚗 | https://github.com/p-v-z/FuzzyTown | 0 | 0| 
 | 20230103T11:31:52Z | Student performance evaluation based on marks and attendance using fuzzy logic. Implementation of SKFUZZY module which is part of SciKit. | https://github.com/ayupal25/Academic-Performance-Evaluation-using-Fuzzy-Logic | 2 | 0| 
 | 20230103T09:47:21Z | Null | https://github.com/izzhamburhan/Traffic_light_fuzzy | 0 | 0| 
-| 20230103T02:23:26Z | Null | https://github.com/Kavex71/fuzzy-waffle | 0 | 0| 
-| 20230103T01:57:08Z | Null | https://github.com/CornDavid5/FuzzingMicroservicesReport | 0 | 0| 
-| 20230103T01:45:42Z | Null | https://github.com/ayesha5555/fuzzy-pancake | 0 | 0| 
-| 20230103T01:06:08Z | Null | https://github.com/Igor1Kan/fuzzy-funicular | 0 | 0| 
 
 
 
