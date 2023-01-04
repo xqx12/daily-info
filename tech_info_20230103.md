@@ -89,7 +89,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230103T23:46:46Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 4 | 0| 
 | 20230103T23:35:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4918 | 508| 
-| 20230103T23:14:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8221 | 1791| 
 | 20230103T22:01:55Z | Null | https://github.com/moonsculpture/fuzzing | 0 | 0| 
 | 20230103T15:16:36Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230103T14:00:04Z | Null | https://github.com/selviaanggun/Fuzzy-C-Shell-Clustering | 0 | 0| 
@@ -97,6 +96,7 @@
 | 20230103T12:25:50Z | Simple 3D traffic simulation built in Unity🚦🚗 | https://github.com/p-v-z/FuzzyTown | 0 | 0| 
 | 20230103T11:31:52Z | Student performance evaluation based on marks and attendance using fuzzy logic. Implementation of SKFUZZY module which is part of SciKit. | https://github.com/ayupal25/Academic-Performance-Evaluation-using-Fuzzy-Logic | 2 | 0| 
 | 20230103T09:47:21Z | Null | https://github.com/izzhamburhan/Traffic_light_fuzzy | 0 | 0| 
+| 20230103T08:18:14Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 868 | 185| 
 
 
 
