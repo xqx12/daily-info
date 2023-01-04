@@ -36,6 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230104T13:23:50Z | CVE-2023-0046 | Improper Restriction of Names for Files and Other Resources in GitHub repository lirantal/daloradius prior to master-branch. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0046 | | 
 | 20230104T12:19:08Z | CVE-2022-44426 | In wlan driver, there is a possible missing bounds check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44426 | | 
 | 20230104T12:19:04Z | CVE-2022-44425 | In wlan driver, there is a possible missing bounds check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44425 | | 
 | 20230104T12:18:58Z | CVE-2022-44424 | In music service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44424 | | 
@@ -45,7 +46,6 @@
 | 20230104T12:18:40Z | CVE-2022-39116 | In sprd_sysdump driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39116 | | 
 | 20230104T12:18:35Z | CVE-2022-39104 | In contacts service, there is a missing permission check. This could lead to local denial of service in Contacts service with no additional execution privileges needed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39104 | | 
 | 20230104T12:18:31Z | CVE-2022-39088 | In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39088 | | 
-| 20230104T12:18:26Z | CVE-2022-39087 | In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39087 | | 
 
 
 # klee on Github 推荐
