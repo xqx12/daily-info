@@ -51,14 +51,14 @@
 | --- | --- | --- | --- | ---| 
 | 20230104T13:41:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12521 | 2151| 
 | 20230104T13:38:33Z | Original PyTorch implementation of %BrainPrint: Identifying Individuals Exploiting a Semi-Self-Supervised Contrastive Framework Trained for Structural MRIs% | https://github.com/BrainPrint-project/BrainPrint | 0 | 0| 
-| 20230104T13:13:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8017 | 1851| 
+| 20230104T13:13:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8017 | 1852| 
 | 20230104T13:10:53Z | A hacking tool to remotely exploit Android devices using ADB and get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1 | 1| 
 | 20230104T12:52:50Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 57 | 15| 
 | 20230104T12:48:58Z | Patches a clientside exploit involving SetDSP on CSoundPatches | https://github.com/CFC-Servers/gm_setdsp_patch | 0 | 0| 
 | 20230104T12:47:48Z | Server prepared for SSRF post exploitation, javascript exploits and open redirect. | https://github.com/rafax00/js-ssrf | 2 | 0| 
 | 20230104T12:42:16Z | Tips & Tricks on Binary Exploitation & Reverse Engineering | https://github.com/mohsafer/BinaryExploitation | 0 | 0| 
 | 20230104T11:30:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4848 | 704| 
-| 20230104T02:53:17Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jpenilla/AntiRaidFarm | 4 | 1| 
+| 20230104T07:09:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3919 | 491| 
 
 
 # backdoor on Github 推荐
