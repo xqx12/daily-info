@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230104T13:37:15Z | Original PyTorch implementation of %BrainPrint: Identifying Individuals Exploiting a Semi-Self-Supervised Contrastive Framework Trained for Structural MRIs% | https://github.com/BrainPrint-project/BrainPrint | 0 | 0| 
+| 20230104T13:38:33Z | Original PyTorch implementation of %BrainPrint: Identifying Individuals Exploiting a Semi-Self-Supervised Contrastive Framework Trained for Structural MRIs% | https://github.com/BrainPrint-project/BrainPrint | 0 | 0| 
 | 20230104T13:13:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8017 | 1850| 
 | 20230104T13:10:53Z | A hacking tool to remotely exploit Android devices using ADB and get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1 | 1| 
 | 20230104T12:52:50Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 57 | 15| 
@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230104T13:39:58Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 114 | 2| 
 | 20230104T13:22:11Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230104T12:40:48Z | Null | https://github.com/TimothyElems/peach-fuzz | 0 | 0| 
 | 20230104T11:38:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8393 | 955| 
