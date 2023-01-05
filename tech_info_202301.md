@@ -6,31 +6,33 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230105 | 高通数字信号处理器Hexagon攻击面研究，文章从应用的开源库漏洞、驱动漏洞、Fuzz方法等方面进行介绍。 | https://vul.360.net/archives/645| 
+| 20230105 | TetCTF 2023 Pwn-mailService的非预期解Writeup | http://uz56764.tistory.com/82| 
+| 20230105 | Cacti的未授权RCE漏洞 | https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/| 
+| 20230105 | IChunQiu云境-Spoofing Writeup | https://mp.weixin.qq.com/s/wlnXFIoTbbi4V0p1TQPDrg| 
+| 20230105 | TetCTF Web题目 Image Services Viewer && Admin Lairay Old School Writeup | https://y4tacker.github.io/2023/01/03/year/2023/TetCTF2023-Liferay-CVE-2019-16891-Pre-Auth-RCE/| 
+| 20230105 | TetCTF 2023 Pwn-Mailservice预期解 | http://day91.me/pwn/2023/01/02/TetCTF-2023-Mailservice.html| 
+| 20230105 | TetCTF 2023 Pwn - Game Writeup | https://mochinishimiya.github.io/posts/tetctf2023/| 
+| 20230105 | FreeBSD Bhyve虚拟机逃逸，文章展示了如何利用一个两个字节的堆栈溢出漏洞来实现虚拟机逃逸 | https://www.reddit.com/r/netsec/comments/103hvsr/escaping_from_bhyve/| 
+| 20230105 | python中的类污染 | https://blog.abdulrah33m.com/prototype-pollution-in-python/| 
+| 20230105 | 利用 Intel AMT 实现 “admin 对 admin” 的攻击，即当系统存在多个 admin 账号时，可使 admin A 以 admin B 的身份做一些高权限操作。 | https://sec.today/pulses/9230fc6d-7bf1-4896-bfe6-3864458c261e/| 
+| 20230105 | DeTT&CT: Automate your detection coverage with dettectinator | https://sec.today/pulses/f99e4043-c54b-43cf-8432-3d650fe5e982/| 
+| 20230105 | 大数据分析平台Apache Kylin的命令注入漏洞 | https://sec.today/pulses/b6406384-aefd-41dd-aed5-9db0fed296ce/| 
+| 20230105 | 又一个OC的class dump工具 | https://sec.today/pulses/8dff1290-79e1-4aa7-8968-0c81bf0be474/| 
+| 20230105 | 深入分析 PyTorch 中供应链攻击的恶意软件 | https://sec.today/pulses/ae3c5933-99ae-418f-9729-453a2304f016/| 
+| 20230105 | Navigating the Vast Ocean of Sandbox Evasions,关于沙箱规避的检测 | https://sec.today/pulses/7b32d731-9260-45e1-b316-18cc9e374151/| 
+| 20230105 | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://sec.today/pulses/e2c2c684-ef46-46dd-9915-ec7dc7d341a3/| 
 | 20230104 | MuddyWater APT组织总结 | https://socradar.io/dark-web-profile-muddywater-apt-group/| 
 | 20230104 | Powershell后漏洞利用脚本 | http://securityonline.info/powermeup-powershell-scripts-for-post-exploitation/| 
 | 20230104 | 关于hackvent2022 15-21 day的writeup,主要是一些信号分析,取证,密码,pwn的题目 | https://0xdf.gitlab.io/hackvent2022/hard| 
 | 20230104 | PyTorch 遭到依赖混淆供应链攻击，请删除2022/12/25~12/30这一时间段的安装包并重新下载最新版本 | https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html| 
-| 20230104 | N-Day RCE Exploit for ZDI-17-836 (CVE-2017-12561),CVE-2017-12561的分析和利用 比较详细 适合学习 | http://primalcerebral.com/blog/egregious-mage-nday-rce-exploit-zdi-17-836.php| 
-| 20230104 | Bhyve是FreeBSD的hypervisor,本篇文章将描述如何将适配器模拟器中有限的OOB写入漏洞转化为代码执行,从而允许逃逸 | https://www.synacktiv.com/publications/escaping-from-bhyve.html| 
-| 20230104 | CVE-2022-46164通过NodeBB的原型链污染漏洞接管账户 | http://securityonline.info/poc-code-for-nodebb-account-takeover-flaw-cve-2022-46164-published/| 
-| 20230104 | BugChecker:适用于 Windows 11（以及 Windows XP）的类似 SoftICE 的内核调试器 | https://www.reddit.com/r/ReverseEngineering/comments/103apmm/softicelike_kernel_debugger_for_windows_11/| 
-| 20230104 | CVE-2022-25026 & CVE-2022-25027: Vulnerabilities in Rocket TRUfusion Enterprise | http://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/| 
-| 20230104 | DualShock4逆向-Part1 | https://www.reddit.com/r/ReverseEngineering/comments/10307x4/reverse_engineering_the_dualshock_4/| 
-| 20230104 | LABScon议题-InkySquid: The Missing Arsenal,披露了关于APT37的MacOS RoKRAT活动 | https://www.sentinelone.com/labs/labscon-replay-inkysquid-the-missing-arsenal/| 
-| 20230103 | Faraday CTF 2022 Write-up，以一道ctf题为例介绍mips架构下的iot漏洞利用技巧，适合初学者学习 | https://www.reddit.com/r/ReverseEngineering/comments/101iozj/reverse_engineering_and_exploiting_an_iot_bug/| 
-| 20230103 | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf| 
-| 20230103 | Esi注入相关的几个真实漏洞case study | https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?gi=d40322198891&source=rss----7b722bfd1b8d---4| 
-| 20230103 | vbSparkle:反混淆VBS和VBA macro的工具 | https://github.com/airbus-cert/vbSparkle| 
-| 20230103 | 使用BinDiff分析复现群晖NAS一个严重栈溢出漏洞，并使用栈迁移+ROP完成利用实现RCE | http://paper.seebug.org/2038/| 
-| 20230102 | 基于Ghidra和GPT-3的辅助逆向工具 | https://github.com/moyix/gpt-wpre| 
-| 20230102 | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal| 
-| 20230102 | 介绍 8086 处理器指令预取技术的电路实现 | http://www.righto.com/2023/01/inside-8086-processors-instruction.html| 
-| 20230101 | LuaJIT Sandbox Escape: The Saga Ends | https://0xbigshaq.github.io/2022/12/30/luajit-sandbox-escape/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
+| 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
 | 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
 | 20230103 | SecWiki周刊（第461期) | https://www.sec-wiki.com/weekly/461| 
 | 20230102 | 2022太空安全报告 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g| 
@@ -42,22 +44,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230105T01:33:13Z | CVE-2022-4876 | A vulnerability was found in Kaltura mwEmbed up to 2.96.rc1 and classified as problematic. This issue affects some unknown processing of the file includes/DefaultSettings.php. The manipulation of the argument HTTP_X_FORWARDED_HOST leads to cross site scripting. The attack may be initiated remotely. Upgrading to version CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4876 | | 
-| 20230104T23:22:08Z | CVE-2021-4302 | A vulnerability was found in slackero phpwcms up to 1.9.26. It has been classified as problematic. This affects an unknown part of the component SVG File Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 1.9.27 is able to address this issue. Th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4302 | | 
-| 20230104T23:21:59Z | CVE-2023-22466 | Tokio is a runtime for writing applications with Rust. Starting with version 1.7.0 and prior to versions 1.18.4, 1.20.3, and 1.23.1, when configuring a Windows named pipe server, setting `pipe_mode` will reset `reject_remote_clients` to `false`. If the application has previously configured `reject_remote_clients` to `t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22466 | | 
-| 20230104T23:21:51Z | CVE-2022-4875 | A vulnerability has been found in fossology and classified as problematic. This vulnerability affects unknown code. The manipulation of the argument sql/VarValue leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 8e0eba001662c7eb35f045b70dd458a4643b4553. It is recommended to a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4875 | | 
-| 20230104T23:21:46Z | CVE-2021-4300 | A vulnerability has been found in ghostlander Halcyon and classified as critical. Affected by this vulnerability is the function CBlock::AddToBlockIndex of the file src/main.cpp of the component Block Verification. The manipulation leads to improper access controls. The attack can be launched remotely. Upgrading to ver CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4300 | | 
-| 20230104T21:11:43Z | CVE-2023-0054 | Out-of-bounds Write in GitHub repository vim/vim prior to 9.0.1145. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0054 | | 
-| 20230104T21:11:34Z | CVE-2022-45052 | A Local File Inclusion vulnerability has been found in Axiell Iguana CMS. Due to insufficient neutralisation of user input on the url parameter on the imageProxy.type.php endpoint, external users are capable of accessing files on the server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45052 | | 
-| 20230104T20:08:44Z | CVE-2022-46456 | NASM v2.16 was discovered to contain a global buffer overflow in the component dbgdbg_typevalue at /output/outdbg.c. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46456 | | 
-| 20230104T20:08:40Z | CVE-2022-43920 | IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 could allow an authenticated user to gain privileges in a different group due to an access control vulnerability in the Sftp server adapter. IBM X-Force ID: 241362. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43920 | | 
-| 20230104T20:08:34Z | CVE-2022-25926 | Versions of the package window-control before 1.4.5 are vulnerable to Command Injection via the sendKeys function, due to improper input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25926 | | 
+| 20230105T11:33:16Z | CVE-2022-43529 | A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43529 | | 
+| 20230105T11:33:12Z | CVE-2022-43522 | Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43522 | | 
+| 20230105T11:33:07Z | CVE-2022-22371 | IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 does not invalidate session after a password change which could allow an authenticated user to impersonate another user on the system. IBM X-Force ID: 221195. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22371 | | 
+| 20230105T11:33:02Z | CVE-2021-25223 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25223 | | 
+| 20230105T11:32:58Z | CVE-2021-25222 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25222 | | 
+| 20230105T11:32:53Z | CVE-2022-45857 | An incorrect user management vulnerability [CWE-286] in the FortiManager version 6.4.6 and below VDOM creation component may allow an attacker to access a FortiGate without a password via newly created VDOMs after the super_admin account is deleted. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45857 | | 
+| 20230105T11:32:41Z | CVE-2023-22626 | PgHero before 3.1.0 allows Information Disclosure via EXPLAIN because query results may be present in an error message. (Depending on database user privileges, this may only be information from the database, or may be information from file contents on the database server.) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22626 | | 
+| 20230105T11:32:37Z | CVE-2022-47523 | Zoho ManageEngine Access Manager Plus before 4309, Password Manager Pro before 12210, and PAM360 before 5801 are vulnerable to SQL Injection. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47523 | | 
+| 20230105T11:32:23Z | CVE-2022-4869 | A vulnerability was found in Evolution Events Artaxerxes. It has been declared as problematic. This vulnerability affects unknown code of the file arta/common/middleware.py of the component POST Parameter Handler. The manipulation of the argument password leads to information disclosure. The attack can be initiated rem CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4869 | | 
+| 20230105T11:32:18Z | CVE-2021-4303 | A vulnerability, which was classified as problematic, has been found in shannah Xataface up to 2.x. Affected by this issue is the function testftp of the file install/install_form.js.php of the component Installer. The manipulation leads to cross site scripting. The attack may be launched remotely. Upgrading to version CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4303 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230105T00:20:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9772 | 335| 
+| 20230105T12:05:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9778 | 335| 
 | 20230104T21:30:31Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
 | 20230104T08:05:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
 
@@ -65,22 +67,23 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T06:57:30Z | Null | https://github.com/dona7025/S2ExamDs-ml | 0 | 0| 
 | 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T12:23:27Z | Null | https://github.com/D4rkByt3s/EXPLOITS | 0 | 0| 
+| 20230105T11:35:13Z | A vulnerability in the web-based management interface of ClearPass Policy Manager could allow an authenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against an administrative user of the interface. A successful exploit allows an attacker to execute arbitrary script code in a victim%s bro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43532 | 1 | 0| 
+| 20230105T11:33:16Z | A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43529 | 0 | 0| 
+| 20230105T11:33:12Z | Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43522 | 0 | 0| 
+| 20230105T11:22:05Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 58 | 15| 
+| 20230105T11:16:17Z | Network Exploit Script Plugin Template | https://github.com/Nabuware/network-exploit-script-plugin-template | 0 | 0| 
+| 20230105T10:29:20Z | This is a simple repository used for learning some kernel driver exploitation and hooking techniques.  | https://github.com/manyshka/kernel_driver | 0 | 0| 
+| 20230105T10:20:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 1 | 0| 
+| 20230105T08:11:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12526 | 2153| 
 | 20230104T23:13:19Z | Check bad character for binary exploitation. | https://github.com/Hein679/CheckBadCharacters | 0 | 0| 
-| 20230104T22:53:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5166 | 726| 
-| 20230104T22:44:16Z | adds robux to roblox with easy extension | https://github.com/Jack55216/roblox-zero-day-exploit | 2 | 0| 
-| 20230104T22:10:12Z | I%m trying to build a CVE and secret scanner better than Trivy and Aqua using Golang, Echo, MemDB (exploiting radix trees). | https://github.com/rajat965ng/findit | 0 | 0| 
-| 20230104T20:25:50Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 12 | 1| 
-| 20230104T17:31:22Z | This is a roblox exploit I made in 13 minutes and 25 seconds. | https://github.com/G0blinu/ytbexploit | 1 | 0| 
-| 20230104T13:56:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3920 | 491| 
-| 20230104T13:41:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12521 | 2151| 
-| 20230104T13:38:33Z | Original PyTorch implementation of %BrainPrint: Identifying Individuals Exploiting a Semi-Self-Supervised Contrastive Framework Trained for Structural MRIs% | https://github.com/BrainPrint-project/BrainPrint | 0 | 0| 
-| 20230104T13:13:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8017 | 1852| 
 
 
 # backdoor on Github 推荐
@@ -119,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230105T02:21:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8228 | 1792| 
+| 20230105T12:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8229 | 1792| 
+| 20230105T12:35:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1848 | 239| 
+| 20230105T12:00:19Z | Fuzzer written in Rust | https://github.com/HectorHW/bocchifuzz | 0 | 0| 
+| 20230105T11:56:33Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
+| 20230105T11:44:33Z | Null | https://github.com/TpenXsinoy/fuzzy-logic | 0 | 0| 
+| 20230105T10:53:46Z | Experiments with Fuzzy Bayesian Inference. | https://github.com/Oelin/fuzzy-bayes | 0 | 0| 
 | 20230105T01:25:41Z | Null | https://github.com/soojeongi/fuzzy-engine | 0 | 0| 
 | 20230104T23:06:04Z | Repositório de dados do projeto FuzzyNetClass | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
 | 20230104T22:52:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 87 | 23| 
 | 20230104T22:29:24Z | Null | https://github.com/Mrfamou/fuzzy-funicular | 0 | 0| 
-| 20230104T21:42:04Z | Null | https://github.com/Jbenitez0/fuzzy-disco | 0 | 0| 
-| 20230104T15:34:40Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 615 | 67| 
-| 20230104T13:39:58Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 114 | 2| 
-| 20230104T13:22:11Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
-| 20230104T12:40:48Z | Null | https://github.com/TimothyElems/peach-fuzz | 0 | 0| 
 
 
 
