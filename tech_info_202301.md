@@ -35,12 +35,12 @@
 | 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
 | 20230105 | 2022 区块链安全及反洗钱分析年度回顾 | https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf| 
 | 20230105 | 2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ| 
+| 20230105 | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ| 
 | 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
 | 20230103 | SecWiki周刊（第461期) | https://www.sec-wiki.com/weekly/461| 
 | 20230102 | 2022太空安全报告 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g| 
 | 20230102 | 实时缺陷定位 | https://mp.weixin.qq.com/s/YngEu1mHECLvqlEiyQywZA| 
 | 20230101 | 云原生安全系列（二）, 利用K8s污点容忍度横向移动主节点 | https://mp.weixin.qq.com/s/OC88N93BopEdiJqe_ttcqQ| 
-| 20230101 | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg| 
 
 
 # CVE Github 推荐
