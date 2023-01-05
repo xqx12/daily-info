@@ -14,6 +14,7 @@
 | 20230104 | Bhyve是FreeBSD的hypervisor,本篇文章将描述如何将适配器模拟器中有限的OOB写入漏洞转化为代码执行,从而允许逃逸 | https://www.synacktiv.com/publications/escaping-from-bhyve.html| 
 | 20230104 | CVE-2022-46164通过NodeBB的原型链污染漏洞接管账户 | http://securityonline.info/poc-code-for-nodebb-account-takeover-flaw-cve-2022-46164-published/| 
 | 20230104 | BugChecker:适用于 Windows 11（以及 Windows XP）的类似 SoftICE 的内核调试器 | https://www.reddit.com/r/ReverseEngineering/comments/103apmm/softicelike_kernel_debugger_for_windows_11/| 
+| 20230104 | CVE-2022-25026 & CVE-2022-25027: Vulnerabilities in Rocket TRUfusion Enterprise | http://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/| 
 
 
 # 安全维基 推荐
