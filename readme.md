@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T13:52:28Z | 此储存库不再公开 | https://github.com/ljy-002/Linspirer-Etiantian-Examcloud.exploit | 0 | 0| 
 | 20230105T13:45:45Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 77 | 33| 
 | 20230105T13:43:22Z | A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4305 | 0 | 0| 
 | 20230105T13:43:12Z | A vulnerability, which was classified as problematic, has been found in vercel ms up to 1.x. This issue affects the function parse of the file index.js. The manipulation of the argument str leads to inefficient regular expression complexity. The attack may be initiated remotely. The exploit has been disclosed to the pu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20162 | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230105T11:33:12Z | Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43522 | 0 | 0| 
 | 20230105T11:22:05Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 58 | 15| 
 | 20230105T11:16:17Z | Network Exploit Script Plugin Template | https://github.com/Nabuware/network-exploit-script-plugin-template | 0 | 0| 
-| 20230105T10:29:20Z | This is a simple repository used for learning some kernel driver exploitation and hooking techniques.  | https://github.com/manyshka/kernel_driver | 0 | 0| 
 
 
 # backdoor on Github 推荐
