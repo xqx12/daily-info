@@ -16,6 +16,7 @@
 | 20230104 | BugChecker:适用于 Windows 11（以及 Windows XP）的类似 SoftICE 的内核调试器 | https://www.reddit.com/r/ReverseEngineering/comments/103apmm/softicelike_kernel_debugger_for_windows_11/| 
 | 20230104 | CVE-2022-25026 & CVE-2022-25027: Vulnerabilities in Rocket TRUfusion Enterprise | http://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/| 
 | 20230104 | DualShock4逆向-Part1 | https://www.reddit.com/r/ReverseEngineering/comments/10307x4/reverse_engineering_the_dualshock_4/| 
+| 20230104 | LABScon议题-InkySquid: The Missing Arsenal,披露了关于APT37的MacOS RoKRAT活动 | https://www.sentinelone.com/labs/labscon-replay-inkysquid-the-missing-arsenal/| 
 | 20230103 | Faraday CTF 2022 Write-up，以一道ctf题为例介绍mips架构下的iot漏洞利用技巧，适合初学者学习 | https://www.reddit.com/r/ReverseEngineering/comments/101iozj/reverse_engineering_and_exploiting_an_iot_bug/| 
 | 20230103 | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf| 
 | 20230103 | Esi注入相关的几个真实漏洞case study | https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?gi=d40322198891&source=rss----7b722bfd1b8d---4| 

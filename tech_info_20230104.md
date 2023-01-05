@@ -16,6 +16,7 @@
 | 20230104 | BugChecker:适用于 Windows 11（以及 Windows XP）的类似 SoftICE 的内核调试器 | https://www.reddit.com/r/ReverseEngineering/comments/103apmm/softicelike_kernel_debugger_for_windows_11/| 
 | 20230104 | CVE-2022-25026 & CVE-2022-25027: Vulnerabilities in Rocket TRUfusion Enterprise | http://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/| 
 | 20230104 | DualShock4逆向-Part1 | https://www.reddit.com/r/ReverseEngineering/comments/10307x4/reverse_engineering_the_dualshock_4/| 
+| 20230104 | LABScon议题-InkySquid: The Missing Arsenal,披露了关于APT37的MacOS RoKRAT活动 | https://www.sentinelone.com/labs/labscon-replay-inkysquid-the-missing-arsenal/| 
 
 
 # 安全维基 推荐
