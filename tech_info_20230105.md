@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 | 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
+| 20230105 | 2022 区块链安全及反洗钱分析年度回顾 | https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf| 
 
 
 # CVE Github 推荐

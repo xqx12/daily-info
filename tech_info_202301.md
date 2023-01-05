@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 | 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
+| 20230105 | 2022 区块链安全及反洗钱分析年度回顾 | https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf| 
 | 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
 | 20230103 | SecWiki周刊（第461期) | https://www.sec-wiki.com/weekly/461| 
 | 20230102 | 2022太空安全报告 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g| 
