@@ -54,12 +54,12 @@
 | 20230104T22:53:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5166 | 726| 
 | 20230104T22:44:16Z | adds robux to roblox with easy extension | https://github.com/Jack55216/roblox-zero-day-exploit | 2 | 0| 
 | 20230104T22:10:12Z | I%m trying to build a CVE and secret scanner better than Trivy and Aqua using Golang, Echo, MemDB (exploiting radix trees). | https://github.com/rajat965ng/findit | 0 | 0| 
+| 20230104T20:25:50Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 12 | 1| 
 | 20230104T17:31:22Z | This is a roblox exploit I made in 13 minutes and 25 seconds. | https://github.com/G0blinu/ytbexploit | 1 | 0| 
 | 20230104T13:56:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3920 | 491| 
 | 20230104T13:41:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12521 | 2151| 
 | 20230104T13:38:33Z | Original PyTorch implementation of %BrainPrint: Identifying Individuals Exploiting a Semi-Self-Supervised Contrastive Framework Trained for Structural MRIs% | https://github.com/BrainPrint-project/BrainPrint | 0 | 0| 
 | 20230104T13:13:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8017 | 1852| 
-| 20230104T13:10:53Z | A hacking tool to remotely exploit Android devices using ADB and get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1 | 1| 
 
 
 # backdoor on Github 推荐
