@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T13:09:32Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
 | 20230105T12:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8229 | 1792| 
 | 20230105T12:35:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1848 | 239| 
 | 20230105T12:00:19Z | Fuzzer written in Rust | https://github.com/HectorHW/bocchifuzz | 0 | 0| 
 | 20230105T11:56:33Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 | 20230105T11:44:33Z | Null | https://github.com/TpenXsinoy/fuzzy-logic | 0 | 0| 
 | 20230105T10:53:46Z | Experiments with Fuzzy Bayesian Inference. | https://github.com/Oelin/fuzzy-bayes | 0 | 0| 
+| 20230105T08:30:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 696 | 89| 
 | 20230105T01:25:41Z | Null | https://github.com/soojeongi/fuzzy-engine | 0 | 0| 
 | 20230104T23:06:04Z | Repositório de dados do projeto FuzzyNetClass | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
-| 20230104T22:52:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 87 | 23| 
-| 20230104T22:29:24Z | Null | https://github.com/Mrfamou/fuzzy-funicular | 0 | 0| 
 
 
 
