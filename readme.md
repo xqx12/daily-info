@@ -12,6 +12,7 @@
 | 20230104 | PyTorch 遭到依赖混淆供应链攻击，请删除2022/12/25~12/30这一时间段的安装包并重新下载最新版本 | https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html| 
 | 20230104 | N-Day RCE Exploit for ZDI-17-836 (CVE-2017-12561),CVE-2017-12561的分析和利用 比较详细 适合学习 | http://primalcerebral.com/blog/egregious-mage-nday-rce-exploit-zdi-17-836.php| 
 | 20230104 | Bhyve是FreeBSD的hypervisor,本篇文章将描述如何将适配器模拟器中有限的OOB写入漏洞转化为代码执行,从而允许逃逸 | https://www.synacktiv.com/publications/escaping-from-bhyve.html| 
+| 20230104 | CVE-2022-46164通过NodeBB的原型链污染漏洞接管账户 | http://securityonline.info/poc-code-for-nodebb-account-takeover-flaw-cve-2022-46164-published/| 
 
 
 # 安全维基 推荐
