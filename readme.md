@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T13:28:43Z | An exercise in testing, benchmarking and fuzzing with Go | https://github.com/SaphMB/go-fizzbuzz | 0 | 0| 
 | 20230105T13:20:34Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
 | 20230105T12:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8229 | 1792| 
 | 20230105T12:35:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1848 | 239| 
