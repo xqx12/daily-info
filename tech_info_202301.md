@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T01:25:41Z | Null | https://github.com/soojeongi/fuzzy-engine | 0 | 0| 
 | 20230104T23:06:04Z | Repositório de dados do projeto FuzzyNetClass | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
 | 20230104T22:52:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 87 | 23| 
 | 20230104T22:51:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8227 | 1792| 
@@ -121,7 +122,6 @@
 | 20230104T13:39:58Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 114 | 2| 
 | 20230104T13:22:11Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230104T12:40:48Z | Null | https://github.com/TimothyElems/peach-fuzz | 0 | 0| 
-| 20230104T11:38:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8393 | 955| 
 
 
 
