@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T13:58:33Z | Null | https://github.com/DavidGabrielBJorge/LogicaFuzzy | 0 | 0| 
 | 20230105T13:28:43Z | An exercise in testing, benchmarking and fuzzing with Go | https://github.com/SaphMB/go-fizzbuzz | 0 | 0| 
 | 20230105T13:20:34Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
 | 20230105T12:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8229 | 1792| 
@@ -136,7 +137,6 @@
 | 20230105T11:44:33Z | Null | https://github.com/TpenXsinoy/fuzzy-logic | 0 | 0| 
 | 20230105T10:53:46Z | Experiments with Fuzzy Bayesian Inference. | https://github.com/Oelin/fuzzy-bayes | 0 | 0| 
 | 20230105T08:30:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 696 | 89| 
-| 20230105T01:25:41Z | Null | https://github.com/soojeongi/fuzzy-engine | 0 | 0| 
 
 
 
