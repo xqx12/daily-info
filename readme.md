@@ -97,7 +97,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230104T23:06:04Z | Repositório de dados do projeto FuzzyNetClass | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
 | 20230104T22:52:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 87 | 23| 
-| 20230104T22:51:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8227 | 1792| 
 | 20230104T22:29:24Z | Null | https://github.com/Mrfamou/fuzzy-funicular | 0 | 0| 
 | 20230104T21:42:04Z | Null | https://github.com/Jbenitez0/fuzzy-disco | 0 | 0| 
 | 20230104T15:34:40Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 615 | 67| 
@@ -105,6 +104,7 @@
 | 20230104T13:22:11Z | In this project we want to examine a hypothetical system for automatic car braking to describe the mechanism of fuzzy inference systems | https://github.com/arash-mehrzadi/fuzzy-car-accident-risk-predictor | 0 | 0| 
 | 20230104T12:40:48Z | Null | https://github.com/TimothyElems/peach-fuzz | 0 | 0| 
 | 20230104T11:38:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8393 | 955| 
+| 20230104T10:18:18Z | 与蔚来合作的网安创新资助项目，针对系统驱动的自动化测试方法研究 | https://github.com/wanrenmi/USB_driver_fuzz_87 | 0 | 0| 
 
 
 
