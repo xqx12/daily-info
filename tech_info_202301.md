@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230105T13:09:32Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
+| 20230105T13:20:34Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
 | 20230105T12:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8229 | 1792| 
 | 20230105T12:35:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1848 | 239| 
 | 20230105T12:00:19Z | Fuzzer written in Rust | https://github.com/HectorHW/bocchifuzz | 0 | 0| 
