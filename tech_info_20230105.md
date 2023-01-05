@@ -66,6 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T13:45:45Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 77 | 33| 
+| 20230105T13:43:22Z | A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4305 | 0 | 0| 
+| 20230105T13:43:12Z | A vulnerability, which was classified as problematic, has been found in vercel ms up to 1.x. This issue affects the function parse of the file index.js. The manipulation of the argument str leads to inefficient regular expression complexity. The attack may be initiated remotely. The exploit has been disclosed to the pu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20162 | 0 | 0| 
 | 20230105T12:23:27Z | Null | https://github.com/D4rkByt3s/EXPLOITS | 0 | 0| 
 | 20230105T11:35:13Z | A vulnerability in the web-based management interface of ClearPass Policy Manager could allow an authenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against an administrative user of the interface. A successful exploit allows an attacker to execute arbitrary script code in a victim%s bro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43532 | 1 | 0| 
 | 20230105T11:33:16Z | A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43529 | 0 | 0| 
@@ -73,8 +76,6 @@
 | 20230105T11:22:05Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 58 | 15| 
 | 20230105T11:16:17Z | Network Exploit Script Plugin Template | https://github.com/Nabuware/network-exploit-script-plugin-template | 0 | 0| 
 | 20230105T10:29:20Z | This is a simple repository used for learning some kernel driver exploitation and hooking techniques.  | https://github.com/manyshka/kernel_driver | 0 | 0| 
-| 20230105T10:20:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 1 | 0| 
-| 20230105T08:11:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12526 | 2153| 
 
 
 # backdoor on Github 推荐
