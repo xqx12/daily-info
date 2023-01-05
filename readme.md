@@ -22,6 +22,10 @@
 | 20230105 | 深入分析 PyTorch 中供应链攻击的恶意软件 | https://sec.today/pulses/ae3c5933-99ae-418f-9729-453a2304f016/| 
 | 20230105 | Navigating the Vast Ocean of Sandbox Evasions,关于沙箱规避的检测 | https://sec.today/pulses/7b32d731-9260-45e1-b316-18cc9e374151/| 
 | 20230105 | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://sec.today/pulses/e2c2c684-ef46-46dd-9915-ec7dc7d341a3/| 
+| 20230105 | 利用 Intel AMT 实现 “admin 对 admin” 的攻击，即当系统存在多个 admin 账号时，可使 admin A 以 admin B 的身份做一些高权限操作。 | http://starkeblog.com/intel/amt/2023/01/04/fun-and-games-with-intel-amt.html| 
+| 20230105 | DeTT&CT: Automate your detection coverage with dettectinator | http://blog.nviso.eu/?p=13726| 
+| 20230105 | 大数据分析平台Apache Kylin的命令注入漏洞 | http://securityonline.info/cve-2022-43396-cve-2022-44621-command-injection-in-apache-kylin/| 
+| 20230105 | 又一个OC的class dump工具 | http://www.romainthomas.fr/post/23-01-icdump/| 
 
 
 # 安全维基 推荐
@@ -75,16 +79,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T12:57:42Z | LimeRAT remote administration tool for Windows (RAT) + Ransomware +Stealer  | https://github.com/crypterhub/LimeRAT-remote-administration-tool-for-Windows-RAT-Ransomware-Stealer- | 2 | 0| 
+| 20230105T08:55:20Z | Python soket programlama kullanarak backdoor yapımı | https://github.com/beyzabrn25/backdoor | 0 | 0| 
+| 20230105T07:29:55Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 19 | 1| 
+| 20230105T05:08:01Z | demonstration of backdoor attack on CNN and strategies for detection. | https://github.com/mayuraitavadekar/backdoor-attack-CNN | 0 | 0| 
+| 20230105T03:11:33Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T05:01:18Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 54 | 7| 
+| 20230105T04:46:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3261 | 460| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T10:31:55Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 0 | 1| 
+| 20230105T06:17:10Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 66 | 15| 
 
 
 # fuzz on Github 推荐

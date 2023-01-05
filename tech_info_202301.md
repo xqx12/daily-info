@@ -22,10 +22,10 @@
 | 20230105 | 深入分析 PyTorch 中供应链攻击的恶意软件 | https://sec.today/pulses/ae3c5933-99ae-418f-9729-453a2304f016/| 
 | 20230105 | Navigating the Vast Ocean of Sandbox Evasions,关于沙箱规避的检测 | https://sec.today/pulses/7b32d731-9260-45e1-b316-18cc9e374151/| 
 | 20230105 | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://sec.today/pulses/e2c2c684-ef46-46dd-9915-ec7dc7d341a3/| 
-| 20230104 | MuddyWater APT组织总结 | https://socradar.io/dark-web-profile-muddywater-apt-group/| 
-| 20230104 | Powershell后漏洞利用脚本 | http://securityonline.info/powermeup-powershell-scripts-for-post-exploitation/| 
-| 20230104 | 关于hackvent2022 15-21 day的writeup,主要是一些信号分析,取证,密码,pwn的题目 | https://0xdf.gitlab.io/hackvent2022/hard| 
-| 20230104 | PyTorch 遭到依赖混淆供应链攻击，请删除2022/12/25~12/30这一时间段的安装包并重新下载最新版本 | https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html| 
+| 20230105 | 利用 Intel AMT 实现 “admin 对 admin” 的攻击，即当系统存在多个 admin 账号时，可使 admin A 以 admin B 的身份做一些高权限操作。 | http://starkeblog.com/intel/amt/2023/01/04/fun-and-games-with-intel-amt.html| 
+| 20230105 | DeTT&CT: Automate your detection coverage with dettectinator | http://blog.nviso.eu/?p=13726| 
+| 20230105 | 大数据分析平台Apache Kylin的命令注入漏洞 | http://securityonline.info/cve-2022-43396-cve-2022-44621-command-injection-in-apache-kylin/| 
+| 20230105 | 又一个OC的class dump工具 | http://www.romainthomas.fr/post/23-01-icdump/| 
 
 
 # 安全维基 推荐
@@ -89,23 +89,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T12:57:42Z | LimeRAT remote administration tool for Windows (RAT) + Ransomware +Stealer  | https://github.com/crypterhub/LimeRAT-remote-administration-tool-for-Windows-RAT-Ransomware-Stealer- | 2 | 0| 
+| 20230105T08:55:20Z | Python soket programlama kullanarak backdoor yapımı | https://github.com/beyzabrn25/backdoor | 0 | 0| 
+| 20230105T07:29:55Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 19 | 1| 
+| 20230105T05:08:01Z | demonstration of backdoor attack on CNN and strategies for detection. | https://github.com/mayuraitavadekar/backdoor-attack-CNN | 0 | 0| 
+| 20230105T03:11:33Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 2 | 0| 
 | 20230104T23:31:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 102 | 13| 
 | 20230104T16:19:40Z | Null | https://github.com/svenvandoornn/Backdoor-Detector | 0 | 0| 
 | 20230104T15:56:31Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
 | 20230104T13:30:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1844 | 418| 
 | 20230104T11:06:57Z | Fork of https://github.com/ThiccIndustries/Minecraft-Backdoor | https://github.com/Limitlesschicken/NCP-2 | 0 | 0| 
-| 20230104T09:33:01Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 1| 
-| 20230104T04:37:01Z | Un backdoor en python para termux , su uso no es mi responsabilidad ejecutar python2 server.py desde la maquina atacante configurar ip y puerto de la red local o para fuera de la red con ngrok tcp ,enviar herramienta a la victima usar ig social para que ejecute iniciar.sh. | https://github.com/MRX90902WX/Backdoor-Python | 0 | 0| 
-| 20230104T03:10:02Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside workernodes and api servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
-| 20230104T02:24:39Z | Reverse de la backdoor de AG derrière le packet Hello Telemetry. | https://github.com/adann0/ankabackdoor | 0 | 0| 
-| 20230104T01:48:32Z | Null | https://github.com/knightcao/AI-BackDoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T05:01:18Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 54 | 7| 
+| 20230105T04:46:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3261 | 460| 
 | 20230104T21:26:02Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 528 | 30| 
-| 20230104T11:10:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3262 | 460| 
 | 20230104T04:10:26Z | A program that performs symbolic execution about all the possible paths a program written in a c-like language (SimpleC) can take. The output are formulas in CNF that represent the possible paths the program could generate, these formulas can be analyzed via a SAT solver.. | https://github.com/rndae/symbolic-execution-clikelang | 0 | 0| 
 | 20230102T16:48:31Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 606 | 111| 
 | 20230102T14:07:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 285 | 66| 
@@ -116,6 +117,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T10:31:55Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 0 | 1| 
+| 20230105T06:17:10Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 66 | 15| 
 | 20230103T18:15:20Z | The pre-processed Juliet, NDSS18 datasets for Assembly code summarization | https://github.com/L1NNA/Juliet-NDSS18-BinaryCodeSum | 0 | 0| 
 
 
