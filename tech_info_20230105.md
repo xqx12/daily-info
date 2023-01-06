@@ -91,11 +91,11 @@
 | 20230105T22:33:19Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 20 | 2| 
 | 20230105T22:29:57Z | Null | https://github.com/mungiellexploit/backdoor | 0 | 0| 
 | 20230105T19:17:34Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 5 | 3| 
-| 20230105T17:06:05Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
 | 20230105T16:38:28Z | Simple rust program designed to send your keystrokes over a network to a backdoor, this is my first ever time using rust ;/ | https://github.com/c-livi/key-logger | 0 | 0| 
 | 20230105T14:56:05Z | Tools ini dibuat oleh medanSecurity dan kami telah diberikan ijin untuk mengelola di github ini | https://github.com/Cyberattackindonesia/Msecc-backdoor | 0 | 0| 
 | 20230105T14:17:40Z | Modern LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 5 | 3| 
 | 20230105T13:56:22Z | LimeRAT remote administration tool for Windows (RAT) + Ransomware +Stealer  | https://github.com/crypterhub/LimeRAT-remote-administration-tool-for-Windows-RAT-Ransomware-Stealer- | 4 | 0| 
+| 20230105T08:55:20Z | Python soket programlama kullanarak backdoor yapımı | https://github.com/beyzabrn25/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
