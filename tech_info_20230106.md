@@ -13,6 +13,7 @@
 | 20230106 | CVE-2022-47629:影响libksba的漏洞CVE-2022-3515变体的分析 | https://github.com/elttam/publications/blob/master/writeups/CVE-2022-47629.md| 
 | 20230106 | CVE-2022-44877:Centos Web Panel 7未授权远程代码执行 | https://github.com/numanturle/CVE-2022-44877| 
 | 20230106 | 使用语言模型对反编译代码做自动化summary | https://arxiv.org/abs/2301.01701| 
+| 20230106 | Putting ELF on the shelf | http://www.hexacorn.com/blog/2023/01/03/putting-elf-on-the-shelf/| 
 
 
 # 安全维基 推荐

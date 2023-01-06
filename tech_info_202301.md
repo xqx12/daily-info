@@ -13,6 +13,7 @@
 | 20230106 | CVE-2022-47629:影响libksba的漏洞CVE-2022-3515变体的分析 | https://github.com/elttam/publications/blob/master/writeups/CVE-2022-47629.md| 
 | 20230106 | CVE-2022-44877:Centos Web Panel 7未授权远程代码执行 | https://github.com/numanturle/CVE-2022-44877| 
 | 20230106 | 使用语言模型对反编译代码做自动化summary | https://arxiv.org/abs/2301.01701| 
+| 20230106 | Putting ELF on the shelf | http://www.hexacorn.com/blog/2023/01/03/putting-elf-on-the-shelf/| 
 | 20230105 | 高通数字信号处理器Hexagon攻击面研究，文章从应用的开源库漏洞、驱动漏洞、Fuzz方法等方面进行介绍。 | https://vul.360.net/archives/645| 
 | 20230105 | TetCTF 2023 Pwn-mailService的非预期解Writeup | http://uz56764.tistory.com/82| 
 | 20230105 | Cacti的未授权RCE漏洞 | https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/| 
@@ -25,7 +26,6 @@
 | 20230105 | 利用 Intel AMT 实现 “admin 对 admin” 的攻击，即当系统存在多个 admin 账号时，可使 admin A 以 admin B 的身份做一些高权限操作。 | https://sec.today/pulses/9230fc6d-7bf1-4896-bfe6-3864458c261e/| 
 | 20230105 | DeTT&CT: Automate your detection coverage with dettectinator | https://sec.today/pulses/f99e4043-c54b-43cf-8432-3d650fe5e982/| 
 | 20230105 | 大数据分析平台Apache Kylin的命令注入漏洞 | https://sec.today/pulses/b6406384-aefd-41dd-aed5-9db0fed296ce/| 
-| 20230105 | 又一个OC的class dump工具 | https://sec.today/pulses/8dff1290-79e1-4aa7-8968-0c81bf0be474/| 
 
 
 # 安全维基 推荐
