@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230106T02:37:07Z | cve-2022-41966 | Null | https://github.com/111ddea/Xstream_cve-2022-41966 | | 
+| 20230106T02:41:02Z | cve-2022-41966 | Null | https://github.com/111ddea/Xstream_cve-2022-41966 | | 
 | 20230106T01:46:29Z | CVE-2022-44877 | RESERVED An issue in the /login/index.php component of Centos Web Panel 7 before v0.9.8.1147 allows unauthenticated attackers to execute arbitrary system commands via crafted HTTP requests. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44877 | | 
 | 20230106T01:46:25Z | CVE-2021-32828 | The Nuxeo Platform is an open source content management platform for building business applications. In version 11.5.109, the `oauth2` REST API is vulnerable to Reflected Cross-Site Scripting (XSS). This XSS can be escalated to Remote Code Execution (RCE) by levering the automation API. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32828 | | 
 | 20230106T01:46:21Z | CVE-2022-4801 | Insufficient Granularity of Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4801 | | 
