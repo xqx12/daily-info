@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T13:42:29Z | Crosswalk Nessus findings with CISA Known and Exploited Vulnerabilities (KEV).  | https://github.com/ajread4/nessus_crosswalk | 0 | 0| 
 | 20230106T12:41:48Z | This script installs the Metasploit framework on a system running the Ubuntu operating system. The Metasploit framework is a powerful tool used for developing and executing exploits against a target system. | https://github.com/cyberoove/metasploit-auto-installer-tool | 1 | 0| 
 | 20230106T12:36:28Z | Null | https://github.com/WhoAmI00100/Exploit | 0 | 0| 
 | 20230106T11:34:27Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 361 | 77| 
@@ -61,7 +62,6 @@
 | 20230106T09:32:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12527 | 2153| 
 | 20230106T09:09:53Z | VSFTPD Backdoor Vulnerability | https://github.com/NimanthaND/Vulnerability-Exploitation | 0 | 0| 
 | 20230106T08:04:08Z | Sys Exploit SEMAOS pour SEMABOX | https://github.com/SupKamatrip/SEMAOS | 0 | 0| 
-| 20230106T05:45:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 568 | 150| 
 
 
 # backdoor on Github 推荐
