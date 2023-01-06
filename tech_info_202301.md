@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T01:25:50Z | Tools exploits | https://github.com/beethoveen/More-tools-exploit | 0 | 0| 
 | 20230106T00:48:15Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1664 | 300| 
 | 20230106T00:19:11Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 49 | 3| 
 | 20230105T23:34:26Z | DES cipher, which has inadequate encryption strength, is used Hitachi Energy FOXMAN-UN to encrypt user credentials used to access the Network Elements. Successful exploitation allows sensitive information to be decrypted easily. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOX CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-40341 | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20230105T22:21:28Z | affichent des données dans le template avec le data binding ;  sont construits de manière dynamique avec les directives ;  communiquent ensemble grâce aux services ;  sont accessibles par un routing personnalisé ;  emploient des Observables pour gérer des flux de données ;  utilisent des formulaires pour exploiter des données fournies par l%utilisateur ;  fonctionnent avec un backend Firebase pour la gestion de l%authentification, des données et des fichiers. | https://github.com/BouZmitWidAd/une-application-compl-te-avec-Angular-et-Firebase | 1 | 0| 
 | 20230105T13:52:28Z | 此储存库不再公开 | https://github.com/ljy-002/Linspirer-Etiantian-Examcloud.exploit | 0 | 0| 
 | 20230105T13:45:45Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 77 | 33| 
-| 20230105T13:43:22Z | A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4305 | 0 | 0| 
 
 
 # backdoor on Github 推荐
