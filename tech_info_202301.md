@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230106T01:30:18Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230105T23:34:51Z | CVE-2022-4803 | Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4803 | | 
 | 20230105T23:34:47Z | CVE-2022-38209 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1 and below which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38209 | | 
 | 20230105T23:34:44Z | CVE-2022-38207 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.8.1 and 10.7.1 which may allow a remote remote, unauthenticated attacker to create a crafted link which when clicked which could execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38207 | | 
@@ -55,7 +56,6 @@
 | 20230105T23:34:26Z | CVE-2021-40341 | DES cipher, which has inadequate encryption strength, is used Hitachi Energy FOXMAN-UN to encrypt user credentials used to access the Network Elements. Successful exploitation allows sensitive information to be decrypted easily. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOX CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-40341 | | 
 | 20230105T23:34:21Z | CVE-2022-3929 | Communication between the client and the server application of the affected products is partially done using CORBA (Common Object Request Broker Architecture) over TCP/IP. This protocol is not encrypted and allows tracing of internal messages. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXM CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3929 | | 
 | 20230105T23:34:11Z | CVE-2022-3927 | The affected products store both public and private key that are used to sign and protect Custom Parameter Set (CPS) file from modification. An attacker that manages to exploit this vulnerability will be able to change the CPS file, sign it so that it is trusted as the legitimate CPS file. This issue affects * FOXMAN-U CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3927 | | 
-| 20230105T23:34:07Z | CVE-2021-41010 | CVE was unused by HPE. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41010 | | 
 
 
 # klee on Github 推荐
