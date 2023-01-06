@@ -96,9 +96,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T13:04:02Z | Fuzzing pytorch models | https://github.com/seclab-yonsei/TorchFuzz | 1 | 0| 
 | 20230106T12:57:15Z | Fuzzie is a simple Rest API and GraphQL fuzzer built as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 3 | 0| 
 | 20230106T11:34:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8231 | 1792| 
-| 20230106T11:21:08Z | Fuzzing pytorch models | https://github.com/seclab-yonsei/TorchFuzz | 0 | 0| 
 | 20230106T11:11:46Z | A fuzzy logic toolbox implemented in Java for the Genetic Algorithms course, the toolbox allows you to define a new fuzzy logic system, define the system variables, define range and sets and crips values for each variable, define the rules and get the predicted output, it also has a GUI. | https://github.com/OmarAlHaj24/Genetic_Algorithms_Fuzzy_Logic_Toolbox | 0 | 0| 
 | 20230106T11:01:17Z | Null | https://github.com/FrancescoLucarini/simple_qcow2_fuzzer | 1 | 0| 
 | 20230106T10:45:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3347 | 397| 
