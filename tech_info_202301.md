@@ -36,33 +36,34 @@
 | 20230105 | 2022 区块链安全及反洗钱分析年度回顾 | https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf| 
 | 20230105 | 2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ| 
 | 20230105 | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ| 
+| 20230105 | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA| 
+| 20230105 | 调教某数字杀软，权限维持 | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww| 
 | 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
 | 20230103 | SecWiki周刊（第461期) | https://www.sec-wiki.com/weekly/461| 
 | 20230102 | 2022太空安全报告 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g| 
-| 20230102 | 实时缺陷定位 | https://mp.weixin.qq.com/s/YngEu1mHECLvqlEiyQywZA| 
-| 20230101 | 云原生安全系列（二）, 利用K8s污点容忍度横向移动主节点 | https://mp.weixin.qq.com/s/OC88N93BopEdiJqe_ttcqQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230105T13:43:22Z | CVE-2021-4305 | A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4305 | | 
-| 20230105T13:43:16Z | CVE-2020-36641 | A vulnerability classified as problematic was found in gturri aXMLRPC up to 1.12.0. This vulnerability affects the function ResponseParser of the file src/main/java/de/timroes/axmlrpc/ResponseParser.java. The manipulation leads to xml external entity reference. Upgrading to version 1.12.1 is able to address this issue. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36641 | | 
-| 20230105T11:33:16Z | CVE-2022-43529 | A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43529 | | 
-| 20230105T11:33:12Z | CVE-2022-43522 | Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43522 | | 
-| 20230105T11:33:07Z | CVE-2022-22371 | IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 does not invalidate session after a password change which could allow an authenticated user to impersonate another user on the system. IBM X-Force ID: 221195. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22371 | | 
-| 20230105T11:33:02Z | CVE-2021-25223 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25223 | | 
-| 20230105T11:32:58Z | CVE-2021-25222 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-25222 | | 
-| 20230105T11:32:53Z | CVE-2022-45857 | An incorrect user management vulnerability [CWE-286] in the FortiManager version 6.4.6 and below VDOM creation component may allow an attacker to access a FortiGate without a password via newly created VDOMs after the super_admin account is deleted. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45857 | | 
-| 20230105T11:32:41Z | CVE-2023-22626 | PgHero before 3.1.0 allows Information Disclosure via EXPLAIN because query results may be present in an error message. (Depending on database user privileges, this may only be information from the database, or may be information from file contents on the database server.) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22626 | | 
-| 20230105T11:32:37Z | CVE-2022-47523 | Zoho ManageEngine Access Manager Plus before 4309, Password Manager Pro before 12210, and PAM360 before 5801 are vulnerable to SQL Injection. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47523 | | 
+| 20230105T23:34:51Z | CVE-2022-4803 | Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4803 | | 
+| 20230105T23:34:47Z | CVE-2022-38209 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1 and below which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38209 | | 
+| 20230105T23:34:44Z | CVE-2022-38207 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.8.1 and 10.7.1 which may allow a remote remote, unauthenticated attacker to create a crafted link which when clicked which could execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38207 | | 
+| 20230105T23:34:39Z | CVE-2022-38206 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1 and below which may allow a remote remote, unauthenticated attacker to create a crafted link which when clicked could execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38206 | | 
+| 20230105T23:34:35Z | CVE-2022-38205 | In some non-default installations of Esri Portal for ArcGIS versions 10.9.1 and below, a directory traversal issue may allow a remote, unauthenticated attacker to traverse the file system and lead to the disclosure of sensitive data (not customer-published content). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38205 | | 
+| 20230105T23:34:31Z | CVE-2022-38204 | There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.8.1 and 10.7.1 which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could potentially execute arbitrary JavaScript code in the victim’s browser. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38204 | | 
+| 20230105T23:34:26Z | CVE-2021-40341 | DES cipher, which has inadequate encryption strength, is used Hitachi Energy FOXMAN-UN to encrypt user credentials used to access the Network Elements. Successful exploitation allows sensitive information to be decrypted easily. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOX CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-40341 | | 
+| 20230105T23:34:21Z | CVE-2022-3929 | Communication between the client and the server application of the affected products is partially done using CORBA (Common Object Request Broker Architecture) over TCP/IP. This protocol is not encrypted and allows tracing of internal messages. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXM CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3929 | | 
+| 20230105T23:34:11Z | CVE-2022-3927 | The affected products store both public and private key that are used to sign and protect Custom Parameter Set (CPS) file from modification. An attacker that manages to exploit this vulnerability will be able to change the CPS file, sign it so that it is trusted as the legitimate CPS file. This issue affects * FOXMAN-U CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3927 | | 
+| 20230105T23:34:07Z | CVE-2021-41010 | CVE was unused by HPE. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-41010 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230105T12:05:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9778 | 335| 
-| 20230104T21:30:31Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
+| 20230106T00:01:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9780 | 336| 
+| 20230105T20:24:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 60 | 4| 
+| 20230105T14:41:16Z | Null | https://github.com/fchamicapereira/maestro-klee | 1 | 0| 
 | 20230104T08:05:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
 
 
@@ -76,31 +77,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T00:48:15Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 1664 | 300| 
+| 20230106T00:19:11Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 49 | 3| 
+| 20230105T23:34:26Z | DES cipher, which has inadequate encryption strength, is used Hitachi Energy FOXMAN-UN to encrypt user credentials used to access the Network Elements. Successful exploitation allows sensitive information to be decrypted easily. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOX CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-40341 | 0 | 0| 
+| 20230105T23:34:16Z | Hardcoded credential is found in affected products% message queue. An attacker that manages to exploit this vulnerability will be able to access data to the internal message queue. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOX CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3928 | 0 | 0| 
+| 20230105T23:34:11Z | The affected products store both public and private key that are used to sign and protect Custom Parameter Set (CPS) file from modification. An attacker that manages to exploit this vulnerability will be able to change the CPS file, sign it so that it is trusted as the legitimate CPS file. This issue affects * FOXMAN-U CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3927 | 0 | 0| 
+| 20230105T23:33:44Z | In the DES implementation, the affected product versions use a default key for encryption. Successful exploitation allows an attacker to obtain sensitive information and gain access to the network elements that are managed by the affected products versions. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-40342 | 0 | 0| 
+| 20230105T22:21:28Z | affichent des données dans le template avec le data binding ;  sont construits de manière dynamique avec les directives ;  communiquent ensemble grâce aux services ;  sont accessibles par un routing personnalisé ;  emploient des Observables pour gérer des flux de données ;  utilisent des formulaires pour exploiter des données fournies par l%utilisateur ;  fonctionnent avec un backend Firebase pour la gestion de l%authentification, des données et des fichiers. | https://github.com/BouZmitWidAd/une-application-compl-te-avec-Angular-et-Firebase | 1 | 0| 
 | 20230105T13:52:28Z | 此储存库不再公开 | https://github.com/ljy-002/Linspirer-Etiantian-Examcloud.exploit | 0 | 0| 
 | 20230105T13:45:45Z | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 77 | 33| 
 | 20230105T13:43:22Z | A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4305 | 0 | 0| 
-| 20230105T13:43:12Z | A vulnerability, which was classified as problematic, has been found in vercel ms up to 1.x. This issue affects the function parse of the file index.js. The manipulation of the argument str leads to inefficient regular expression complexity. The attack may be initiated remotely. The exploit has been disclosed to the pu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20162 | 0 | 0| 
-| 20230105T12:23:27Z | Null | https://github.com/D4rkByt3s/EXPLOITS | 0 | 0| 
-| 20230105T11:35:13Z | A vulnerability in the web-based management interface of ClearPass Policy Manager could allow an authenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against an administrative user of the interface. A successful exploit allows an attacker to execute arbitrary script code in a victim%s bro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43532 | 1 | 0| 
-| 20230105T11:33:16Z | A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43529 | 0 | 0| 
-| 20230105T11:33:12Z | Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43522 | 0 | 0| 
-| 20230105T11:22:05Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 58 | 15| 
-| 20230105T11:16:17Z | Network Exploit Script Plugin Template | https://github.com/Nabuware/network-exploit-script-plugin-template | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T23:29:47Z | Connecting server and backdoor. One of two files. Look for %backdoor% as well to complete project. This is part of ZTM CEH2023 course.  | https://github.com/skor21/server | 0 | 0| 
+| 20230105T23:25:07Z | Connecting server and backdoor. One of two files. Look for %server% as well to complete project. This is part of ZTM CEH2023 course. | https://github.com/skor21/backdoor | 0 | 0| 
+| 20230105T22:33:19Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 20 | 2| 
+| 20230105T22:29:57Z | Null | https://github.com/mungiellexploit/backdoor | 0 | 0| 
+| 20230105T19:17:34Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 5 | 3| 
+| 20230105T17:06:05Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
+| 20230105T16:38:28Z | Simple rust program designed to send your keystrokes over a network to a backdoor, this is my first ever time using rust ;/ | https://github.com/c-livi/key-logger | 0 | 0| 
+| 20230105T14:56:05Z | Tools ini dibuat oleh medanSecurity dan kami telah diberikan ijin untuk mengelola di github ini | https://github.com/Cyberattackindonesia/Msecc-backdoor | 0 | 0| 
+| 20230105T14:17:40Z | Modern LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 5 | 3| 
 | 20230105T13:56:22Z | LimeRAT remote administration tool for Windows (RAT) + Ransomware +Stealer  | https://github.com/crypterhub/LimeRAT-remote-administration-tool-for-Windows-RAT-Ransomware-Stealer- | 4 | 0| 
-| 20230105T08:55:20Z | Python soket programlama kullanarak backdoor yapımı | https://github.com/beyzabrn25/backdoor | 0 | 0| 
-| 20230105T07:29:55Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 19 | 1| 
-| 20230105T05:08:01Z | demonstration of backdoor attack on CNN and strategies for detection. | https://github.com/mayuraitavadekar/backdoor-attack-CNN | 0 | 0| 
-| 20230105T03:11:33Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 2 | 0| 
-| 20230104T23:31:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 102 | 13| 
-| 20230104T16:19:40Z | Null | https://github.com/svenvandoornn/Backdoor-Detector | 0 | 0| 
-| 20230104T15:56:31Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 32 | 10| 
-| 20230104T13:30:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1844 | 418| 
-| 20230104T11:06:57Z | Fork of https://github.com/ThiccIndustries/Minecraft-Backdoor | https://github.com/Limitlesschicken/NCP-2 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,6 +120,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T17:11:55Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 0 | 0| 
 | 20230105T10:31:55Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 0 | 1| 
 | 20230105T06:17:10Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 66 | 15| 
 | 20230103T18:15:20Z | The pre-processed Juliet, NDSS18 datasets for Assembly code summarization | https://github.com/L1NNA/Juliet-NDSS18-BinaryCodeSum | 0 | 0| 
@@ -127,6 +129,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230105T21:48:41Z | Null | https://github.com/mbanzai/fuzzy-waffle | 0 | 0| 
+| 20230105T18:32:28Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 223 | 31| 
 | 20230105T13:58:33Z | Null | https://github.com/DavidGabrielBJorge/LogicaFuzzy | 0 | 0| 
 | 20230105T13:28:43Z | An exercise in testing, benchmarking and fuzzing with Go | https://github.com/SaphMB/go-fizzbuzz | 0 | 0| 
 | 20230105T13:20:34Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
@@ -135,8 +139,6 @@
 | 20230105T12:00:19Z | Fuzzer written in Rust | https://github.com/HectorHW/bocchifuzz | 0 | 0| 
 | 20230105T11:56:33Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 | 20230105T11:44:33Z | Null | https://github.com/TpenXsinoy/fuzzy-logic | 0 | 0| 
-| 20230105T10:53:46Z | Experiments with Fuzzy Bayesian Inference. | https://github.com/Oelin/fuzzy-bayes | 0 | 0| 
-| 20230105T08:30:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 696 | 89| 
 
 
 
