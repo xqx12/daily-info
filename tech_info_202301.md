@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T01:26:05Z | My personal bash scripts | https://github.com/GrindelfP/fuzzy-slippers | 0 | 0| 
 | 20230105T21:48:41Z | Null | https://github.com/mbanzai/fuzzy-waffle | 0 | 0| 
 | 20230105T18:32:28Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 223 | 31| 
 | 20230105T13:58:33Z | Null | https://github.com/DavidGabrielBJorge/LogicaFuzzy | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230105T12:35:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1848 | 239| 
 | 20230105T12:00:19Z | Fuzzer written in Rust | https://github.com/HectorHW/bocchifuzz | 0 | 0| 
 | 20230105T11:56:33Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
-| 20230105T11:44:33Z | Null | https://github.com/TpenXsinoy/fuzzy-logic | 0 | 0| 
 
 
 
