@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230106T13:42:29Z | Crosswalk Nessus findings with CISA Known and Exploited Vulnerabilities (KEV).  | https://github.com/ajread4/nessus_crosswalk | 0 | 0| 
+| 20230106T23:21:15Z | Crosswalk Nessus findings with the CISA Known and Exploited Vulnerabilities (KEV) catalog.  | https://github.com/ajread4/nessus_crosswalk | 0 | 0| 
+| 20230106T20:11:05Z | Phishable is a project that logs misconfigured DNS that can be exploited to conduct phishing attacks & spoof domains. Phishable helps orgs investigate phishing campaigns, gauge third-party risk & mitigate these risks. All orgs on the list are exposed to higher risk of threat actors gaining initial entry to their org, supply chain, and customers. | https://github.com/eman-ekaf/Phishable | 7 | 0| 
+| 20230106T19:43:12Z | This repository contains scripts and tools for Roblox exploiting that work with popular software like Synapse X and Script-Ware and follow UNC guidelines for cross-compatibility with other scripts. | https://github.com/shawnjb/brick-wares | 0 | 0| 
+| 20230106T15:55:45Z | Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/suldd/Rust-Cheat | 1 | 0| 
+| 20230106T14:36:50Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
 | 20230106T12:41:48Z | This script installs the Metasploit framework on a system running the Ubuntu operating system. The Metasploit framework is a powerful tool used for developing and executing exploits against a target system. | https://github.com/cyberoove/metasploit-auto-installer-tool | 1 | 0| 
 | 20230106T12:36:28Z | Null | https://github.com/WhoAmI00100/Exploit | 0 | 0| 
 | 20230106T11:34:27Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 361 | 77| 
 | 20230106T10:27:22Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-8VHhD-comply-exploit | 0 | 0| 
 | 20230106T10:08:11Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 300 | 27| 
-| 20230106T09:48:06Z | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | 14 | 0| 
-| 20230106T09:32:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12527 | 2153| 
-| 20230106T09:09:53Z | VSFTPD Backdoor Vulnerability | https://github.com/NimanthaND/Vulnerability-Exploitation | 0 | 0| 
-| 20230106T08:04:08Z | Sys Exploit SEMAOS pour SEMABOX | https://github.com/SupKamatrip/SEMAOS | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,8 +84,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230106T08:09:04Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 607 | 111| 
-| 20230106T03:44:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2133 | 603| 
+| 20230106T20:07:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 608 | 111| 
+| 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
 | 20230106T02:52:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 530 | 30| 
 | 20230106T01:31:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 286 | 66| 
 
