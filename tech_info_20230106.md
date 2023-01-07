@@ -98,7 +98,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230106T23:43:41Z | Null | https://github.com/dpanic/fuzzer | 3 | 0| 
 | 20230106T23:23:14Z | It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Doddg10/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20230106T22:06:51Z | Null | https://github.com/baptisteviera/Sleep_Quality_Analysis_With_Fuzzy_Logic | 1 | 0| 
 | 20230106T21:37:41Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/antonigudesman/fuzzy-data-classifier | 0 | 0| 
@@ -108,6 +107,7 @@
 | 20230106T11:34:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8231 | 1794| 
 | 20230106T11:11:46Z | A fuzzy logic toolbox implemented in Java for the Genetic Algorithms course, the toolbox allows you to define a new fuzzy logic system, define the system variables, define range and sets and crips values for each variable, define the rules and get the predicted output, it also has a GUI. | https://github.com/OmarAlHaj24/Genetic_Algorithms_Fuzzy_Logic_Toolbox | 0 | 0| 
 | 20230106T11:01:17Z | Null | https://github.com/FrancescoLucarini/simple_qcow2_fuzzer | 1 | 0| 
+| 20230106T10:45:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3347 | 397| 
 
 
 

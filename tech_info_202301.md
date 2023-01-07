@@ -130,8 +130,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T01:18:31Z | Null | https://github.com/dpanic/fuzzer | 4 | 0| 
 | 20230107T00:11:06Z | Easy-to-use tool which autogenerates a type-aware fuzzer from a debuggable executable. | https://github.com/intel/fffc | 20 | 3| 
-| 20230106T23:43:41Z | Null | https://github.com/dpanic/fuzzer | 3 | 0| 
 | 20230106T23:23:14Z | It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Doddg10/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20230106T22:06:51Z | Null | https://github.com/baptisteviera/Sleep_Quality_Analysis_With_Fuzzy_Logic | 1 | 0| 
 | 20230106T21:37:41Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/antonigudesman/fuzzy-data-classifier | 0 | 0| 
