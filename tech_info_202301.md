@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230107 | 2022国内网络安全融资分析 | https://mp.weixin.qq.com/s/vnCdiOB1tsvkdgz5-5Z8ug| 
 | 20230106 | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg| 
 | 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 | 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
@@ -40,28 +41,28 @@
 | 20230105 | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA| 
 | 20230105 | 调教某数字杀软，权限维持 | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww| 
 | 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
-| 20230103 | SecWiki周刊（第461期) | https://www.sec-wiki.com/weekly/461| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230107T02:43:36Z | CVE-2021-21551 | Dell Driver EoP (CVE-2021-21551) | https://github.com/nanabingies/CVE-2021-21551 | | 
-| 20230107T01:51:48Z | CVE-2022-45913 | An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur via one of attributes in webmail URLs to execute arbitrary JavaScript code, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45913 | | 
-| 20230107T01:51:44Z | CVE-2022-45911 | An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur on the Classic UI login page by injecting arbitrary JavaScript code in the username field. This occurs before the user logs into the system, which means that even if the attacker executes arbitrary JavaScript, they will not get any sensitive infor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45911 | | 
-| 20230106T23:41:32Z | CVE-2022-34683 | NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler for DxgkDdiEscape, where a null-pointer dereference occurs, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34683 | | 
-| 20230106T23:41:27Z | CVE-2022-34682 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34682 | | 
-| 20230106T23:41:23Z | CVE-2022-34681 | NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler, where improper input validation of a display-related data structure may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34681 | | 
-| 20230106T23:41:02Z | CVE-2023-0028 | Cross-site Scripting (XSS) - Stored in GitHub repository linagora/twake prior to 2023.Q1.1200+. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0028 | | 
-| 20230106T23:40:56Z | CVE-2022-42256 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow in index validation may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42256 | | 
-| 20230106T23:40:53Z | CVE-2022-42255 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42255 | | 
-| 20230106T23:40:48Z | CVE-2022-44939 | Efs Software Easy Chat Server Version 3.1 was discovered to contain a DLL hijacking vulnerability via the component TextShaping.dll. This vulnerability allows attackers to execute arbitrary code via a crafted DLL. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44939 | | 
+| 20230107T11:49:53Z | CVE-2023-0114 | A vulnerability was found in Netis Netcore Router. It has been rated as problematic. Affected by this issue is some unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to cleartext storage in a file or on disk. Local access is required to approach this attack. The id CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0114 | | 
+| 20230107T11:49:49Z | CVE-2023-0113 | A vulnerability was found in Netis Netcore Router. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to information disclosure. The attack can be launched remotely. The associated identifier  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0113 | | 
+| 20230107T11:49:28Z | CVE-2020-36644 | A vulnerability has been found in jamesmartin Inline SVG up to 1.7.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file lib/inline_svg/action_view/helpers.rb of the component URL Parameter Handler. The manipulation of the argument filename leads to cross site scripting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36644 | | 
+| 20230107T06:37:05Z | CVE-2021-21551 | Dell Driver EoP (CVE-2021-21551) | https://github.com/nanabingies/CVE-2021-21551 | | 
+| 20230107T06:23:07Z | CVE-2023-0112 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0112 | | 
+| 20230107T06:23:03Z | CVE-2023-0111 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0111 | | 
+| 20230107T06:22:58Z | CVE-2023-0110 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0110 | | 
+| 20230107T06:22:55Z | CVE-2023-0108 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0108 | | 
+| 20230107T06:22:50Z | CVE-2023-0107 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0107 | | 
+| 20230107T06:22:46Z | CVE-2023-0106 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0106 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230107T02:23:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9799 | 336| 
+| 20230107T12:36:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9803 | 336| 
+| 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
 | 20230106T23:19:40Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
 | 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
 | 20230105T14:41:16Z | Null | https://github.com/fchamicapereira/maestro-klee | 1 | 0| 
@@ -77,31 +78,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T12:57:44Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 61 | 15| 
+| 20230107T12:55:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12535 | 2153| 
+| 20230107T11:32:03Z | A hacking tool to remotely exploit Android devices using ADB and get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2 | 2| 
+| 20230107T09:29:22Z | Containing my notes, practice binaries + solutions, blog posts, etc. for the Offensive Security Exploit Developer (OSED/EXP-301) | https://github.com/nop-tech/OSED | 222 | 58| 
+| 20230107T09:18:52Z | Null | https://github.com/AZCATGITHUB/NextusFunction.Exploit-Maker | 0 | 0| 
+| 20230107T09:07:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5171 | 725| 
+| 20230107T08:30:29Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
 | 20230107T02:48:24Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/CVE-2019-16724 | 0 | 0| 
 | 20230107T02:40:37Z | Exploiting | https://github.com/KATERGaming/Roblox | 1 | 0| 
 | 20230107T02:08:13Z | This repository contains scripts and tools for Roblox exploiting that work with popular software like Synapse X and Script-Ware and follow UNC guidelines for cross-compatibility with other scripts. | https://github.com/shawnjb/brick-wares | 1 | 0| 
-| 20230107T01:29:13Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 58 | 34| 
-| 20230107T01:09:23Z | Multiple modules (to be added) for cheats I%ve scraped from games. The title of the modules will be the game names most likely. | https://github.com/Kumarion/RobloxExploits | 0 | 0| 
-| 20230107T00:03:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1oo | 2 | 0| 
-| 20230107T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1oo | 1 | 0| 
-| 20230107T00:00:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1oo | 1 | 0| 
-| 20230106T23:21:15Z | Crosswalk Nessus findings with the CISA Known and Exploited Vulnerabilities (KEV) catalog.  | https://github.com/ajread4/nessus_crosswalk | 0 | 0| 
-| 20230106T20:11:05Z | Phishable is a project that logs misconfigured DNS that can be exploited to conduct phishing attacks & spoof domains. Phishable helps orgs investigate phishing campaigns, gauge third-party risk & mitigate these risks. All orgs on the list are exposed to higher risk of threat actors gaining initial entry to their org, supply chain, and customers. | https://github.com/eman-ekaf/Phishable | 7 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T12:32:27Z | official/unofficial open source code/dataset for backdoor attack and defense | https://github.com/NY1024/Open-Source-Backdoor-Learning | 0 | 0| 
+| 20230107T09:32:04Z | BackDoor Client | https://github.com/Shermine237/BackDoor_client_python | 0 | 0| 
+| 20230107T09:21:36Z | BackDoor server | https://github.com/Shermine237/BackDoor_server_python | 0 | 0| 
+| 20230107T06:44:25Z | Null | https://github.com/improfessor007/windows-backdoor | 0 | 0| 
+| 20230107T05:38:42Z | Null | https://github.com/Thehacker-arch/cpp_backdoor | 0 | 0| 
+| 20230107T03:40:28Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 21 | 2| 
 | 20230106T22:51:44Z | Programs created throughout the Zero to Mastery Complete Ethical Hacker Course 2023 | https://github.com/skor21/ztm_backdoor | 0 | 0| 
 | 20230106T20:10:52Z | Null | https://github.com/vedat5672/Backdoor | 0 | 0| 
 | 20230106T12:37:00Z | Backdoor Algorithm | https://github.com/luannutels/backdoor-algorithm | 0 | 0| 
 | 20230106T11:57:28Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
-| 20230106T09:56:55Z | federated learning backdoor defense(my graduation project) | https://github.com/xor-public/graduation_project | 0 | 0| 
-| 20230106T09:09:53Z | VSFTPD Backdoor Vulnerability | https://github.com/NimanthaND/Vulnerability-Exploitation | 0 | 0| 
-| 20230106T09:06:08Z | VSFTPD Backdoor Vulnerability | https://github.com/Malithi00/Vulnerability-Exploitation | 0 | 0| 
-| 20230106T08:14:37Z | Null | https://github.com/khoadoan/backdoor-attacks | 0 | 0| 
-| 20230106T08:12:48Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 34 | 10| 
-| 20230106T06:54:01Z | User space level rootkit, which hooks successfully several glibc functions and hides the socket from %netstat% and %lsof% command. Besides, it hides the rootkit files from %ls% and the backdoor process from %ps%. Currently developing: hiding connection from %ss%, IPv6 support, improving backdoor trigger and SSL support. | https://github.com/armandomfdz/User-Land-Rootkit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T12:58:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8233 | 1794| 
+| 20230107T12:24:48Z | Null | https://github.com/AdityaStefanus/Fuzzy-Penilaian-Pegawai | 0 | 0| 
+| 20230107T11:48:56Z | Experiments with fuzzy layers and neural nerworks | https://github.com/kenoma/pytorch-fuzzy | 2 | 0| 
+| 20230107T10:47:22Z | Null | https://github.com/IamAM99/flexible-joint-fuzzy-controller | 0 | 0| 
+| 20230107T09:55:39Z | Null | https://github.com/couscous23/fuzzy-spoon | 0 | 0| 
+| 20230107T09:48:28Z | indian phone numbers fuzzing list  | https://github.com/mark39107pro/numerenumeration | 0 | 0| 
+| 20230107T09:11:40Z | Null | https://github.com/yutosuzuk/Yang-type-Fuzzy-Clustering | 0 | 0| 
+| 20230107T08:29:32Z | Implementation of a fuzzy controller capable of controlling a paddle in a classic Pong game using scikit-fuzzy. | https://github.com/SonTonyD/Fuzzy-Controller-For-Pong-Game | 0 | 0| 
 | 20230107T01:18:31Z | Null | https://github.com/dpanic/fuzzer | 4 | 0| 
 | 20230107T00:11:06Z | Easy-to-use tool which autogenerates a type-aware fuzzer from a debuggable executable. | https://github.com/intel/fffc | 20 | 3| 
-| 20230106T23:23:14Z | It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Doddg10/Fuzzy-Logic-Toolbox | 0 | 0| 
-| 20230106T22:06:51Z | Null | https://github.com/baptisteviera/Sleep_Quality_Analysis_With_Fuzzy_Logic | 1 | 0| 
-| 20230106T21:37:41Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/antonigudesman/fuzzy-data-classifier | 0 | 0| 
-| 20230106T19:19:20Z | Null | https://github.com/Changochen/fuzzing-scripts | 0 | 0| 
-| 20230106T13:04:02Z | Fuzzing pytorch models | https://github.com/seclab-yonsei/TorchFuzz | 1 | 0| 
-| 20230106T12:57:15Z | Fuzzie is a simple Rest API and GraphQL fuzzer built as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 3 | 0| 
-| 20230106T11:34:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8231 | 1794| 
-| 20230106T11:11:46Z | A fuzzy logic toolbox implemented in Java for the Genetic Algorithms course, the toolbox allows you to define a new fuzzy logic system, define the system variables, define range and sets and crips values for each variable, define the rules and get the predicted output, it also has a GUI. | https://github.com/OmarAlHaj24/Genetic_Algorithms_Fuzzy_Logic_Toolbox | 0 | 0| 
 
 
 
