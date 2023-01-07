@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230107T13:43:11Z | CVE-2021-38003 | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003 | | 
 | 20230107T11:49:53Z | CVE-2023-0114 | A vulnerability was found in Netis Netcore Router. It has been rated as problematic. Affected by this issue is some unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to cleartext storage in a file or on disk. Local access is required to approach this attack. The id CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0114 | | 
 | 20230107T11:49:49Z | CVE-2023-0113 | A vulnerability was found in Netis Netcore Router. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to information disclosure. The attack can be launched remotely. The associated identifier  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0113 | | 
 | 20230107T11:49:28Z | CVE-2020-36644 | A vulnerability has been found in jamesmartin Inline SVG up to 1.7.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file lib/inline_svg/action_view/helpers.rb of the component URL Parameter Handler. The manipulation of the argument filename leads to cross site scripting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36644 | | 
@@ -26,7 +27,6 @@
 | 20230107T06:22:58Z | CVE-2023-0110 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0110 | | 
 | 20230107T06:22:55Z | CVE-2023-0108 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0108 | | 
 | 20230107T06:22:50Z | CVE-2023-0107 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0107 | | 
-| 20230107T06:22:46Z | CVE-2023-0106 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0106 | | 
 
 
 # klee on Github 推荐
