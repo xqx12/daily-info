@@ -85,9 +85,9 @@
 | 20230107T09:18:52Z | Null | https://github.com/AZCATGITHUB/NextusFunction.Exploit-Maker | 0 | 0| 
 | 20230107T09:07:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5171 | 725| 
 | 20230107T08:30:29Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
+| 20230107T07:43:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3929 | 492| 
 | 20230107T02:48:24Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/CVE-2019-16724 | 0 | 0| 
 | 20230107T02:40:37Z | Exploiting | https://github.com/KATERGaming/Roblox | 1 | 0| 
-| 20230107T02:08:13Z | This repository contains scripts and tools for Roblox exploiting that work with popular software like Synapse X and Script-Ware and follow UNC guidelines for cross-compatibility with other scripts. | https://github.com/shawnjb/brick-wares | 1 | 0| 
 
 
 # backdoor on Github 推荐
