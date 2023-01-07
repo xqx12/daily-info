@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230107T02:43:36Z | CVE-2021-21551 | Dell Driver EoP (CVE-2021-21551) | https://github.com/nanabingies/CVE-2021-21551 | | 
 | 20230107T01:51:48Z | CVE-2022-45913 | An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur via one of attributes in webmail URLs to execute arbitrary JavaScript code, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45913 | | 
 | 20230107T01:51:44Z | CVE-2022-45911 | An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur on the Classic UI login page by injecting arbitrary JavaScript code in the username field. This occurs before the user logs into the system, which means that even if the attacker executes arbitrary JavaScript, they will not get any sensitive infor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45911 | | 
 | 20230106T23:41:32Z | CVE-2022-34683 | NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler for DxgkDdiEscape, where a null-pointer dereference occurs, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34683 | | 
@@ -55,7 +56,6 @@
 | 20230106T23:40:56Z | CVE-2022-42256 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow in index validation may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42256 | | 
 | 20230106T23:40:53Z | CVE-2022-42255 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42255 | | 
 | 20230106T23:40:48Z | CVE-2022-44939 | Efs Software Easy Chat Server Version 3.1 was discovered to contain a DLL hijacking vulnerability via the component TextShaping.dll. This vulnerability allows attackers to execute arbitrary code via a crafted DLL. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44939 | | 
-| 20230106T23:40:44Z | CVE-2022-41613 | Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to an Out-of-Bounds Read when when parsing DGN files, which may allow an attacker to crash the product, disclose sensitive information, or execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41613 | | 
 
 
 # klee on Github 推荐
