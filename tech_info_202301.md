@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T01:29:13Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 58 | 34| 
 | 20230107T01:09:23Z | Multiple modules (to be added) for cheats I%ve scraped from games. The title of the modules will be the game names most likely. | https://github.com/Kumarion/RobloxExploits | 0 | 0| 
 | 20230107T00:03:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1oo | 2 | 0| 
 | 20230107T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1oo | 1 | 0| 
@@ -86,7 +87,6 @@
 | 20230106T19:43:12Z | This repository contains scripts and tools for Roblox exploiting that work with popular software like Synapse X and Script-Ware and follow UNC guidelines for cross-compatibility with other scripts. | https://github.com/shawnjb/brick-wares | 0 | 0| 
 | 20230106T15:55:45Z | Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/suldd/Rust-Cheat | 1 | 0| 
 | 20230106T14:36:50Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
-| 20230106T12:41:48Z | This script installs the Metasploit framework on a system running the Ubuntu operating system. The Metasploit framework is a powerful tool used for developing and executing exploits against a target system. | https://github.com/cyberoove/metasploit-auto-installer-tool | 1 | 0| 
 
 
 # backdoor on Github 推荐
