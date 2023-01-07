@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230106T13:51:57Z | CVE-2022-4879 | A vulnerability was found in Forged Alliance Forever up to 3746. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Vote Handler. The manipulation leads to improper authorization. Upgrading to version 3747 is able to address this issue. The name of the patch is CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4879 | | 
-| 20230106T13:51:53Z | CVE-2020-36642 | A vulnerability was found in trampgeek jobe up to 1.6.x and classified as critical. This issue affects the function run_in_sandbox of the file application/libraries/LanguageTask.php. The manipulation leads to command injection. Upgrading to version 1.7.0 is able to address this issue. The name of the patch is 8f43daf50 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36642 | | 
-| 20230106T11:41:07Z | CVE-2020-36634 | A vulnerability classified as problematic has been found in Indeed Engineering util up to 1.0.33. Affected is the function visit/appendTo of the file varexport/src/main/java/com/indeed/util/varexport/servlet/ViewExportedVariablesServlet.java. The manipulation leads to cross site scripting. It is possible to launch the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36634 | | 
-| 20230106T11:41:03Z | CVE-2020-36633 | A vulnerability was found in moodle-block_sitenews 1.0. It has been classified as problematic. This affects the function get_content of the file block_sitenews.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. Upgrading to version 1.1 is able to address this issu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36633 | | 
-| 20230106T11:40:59Z | CVE-2021-4289 | A vulnerability classified as problematic was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. Affected by this vulnerability is the function post of the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java of the component User App Page. The manip CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4289 | | 
-| 20230106T11:40:55Z | CVE-2021-4288 | A vulnerability was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. It has been rated as problematic. This issue affects some unknown processing of the file omod/src/main/webapp/pages/userApp.gsp. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to versi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4288 | | 
-| 20230106T11:40:51Z | CVE-2022-4766 | A vulnerability was found in dolibarr_project_timesheet up to 4.5.5. It has been declared as problematic. This vulnerability affects unknown code of the component Form Handler. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. Upgrading to version 4.5.6.a is able to address thi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4766 | | 
-| 20230106T11:40:46Z | CVE-2023-22671 | Ghidra/RuntimeScripts/Linux/support/launch.sh in NSA Ghidra through 10.2.2 passes user-provided input into eval, leading to command injection when calling analyzeHeadless with untrusted input. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22671 | | 
-| 20230106T11:40:41Z | CVE-2022-4878 | A vulnerability classified as critical has been found in JATOS. Affected is the function ZipUtil of the file modules/common/app/utils/common/ZipUtil.java of the component ZIP Handler. The manipulation leads to path traversal. Upgrading to version 3.7.5-alpha is able to address this issue. The name of the patch is 2b425 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4878 | | 
-| 20230106T11:40:36Z | CVE-2022-45935 | Usage of temporary files with insecure permissions by the Apache James server allows an attacker with local access to access private user data in transit. Vulnerable components includes the SMTP stack and IMAP APPEND command. This issue affects Apache James server version 3.7.2 and prior versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45935 | | 
+| 20230106T23:41:32Z | CVE-2022-34683 | NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler for DxgkDdiEscape, where a null-pointer dereference occurs, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34683 | | 
+| 20230106T23:41:27Z | CVE-2022-34682 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34682 | | 
+| 20230106T23:41:23Z | CVE-2022-34681 | NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler, where improper input validation of a display-related data structure may lead to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34681 | | 
+| 20230106T23:41:02Z | CVE-2023-0028 | Cross-site Scripting (XSS) - Stored in GitHub repository linagora/twake prior to 2023.Q1.1200+. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0028 | | 
+| 20230106T23:40:56Z | CVE-2022-42256 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow in index validation may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42256 | | 
+| 20230106T23:40:53Z | CVE-2022-42255 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42255 | | 
+| 20230106T23:40:48Z | CVE-2022-44939 | Efs Software Easy Chat Server Version 3.1 was discovered to contain a DLL hijacking vulnerability via the component TextShaping.dll. This vulnerability allows attackers to execute arbitrary code via a crafted DLL. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44939 | | 
+| 20230106T23:40:44Z | CVE-2022-41613 | Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to an Out-of-Bounds Read when when parsing DGN files, which may allow an attacker to crash the product, disclose sensitive information, or execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41613 | | 
+| 20230106T23:40:40Z | CVE-2022-40201 | Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to a Stack-Based Buffer Overflow when a malformed design (DGN) file is parsed. This may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40201 | | 
+| 20230106T23:40:36Z | CVE-2022-2484 | The signature check in the Nokia ASIK AirScale system module version 474021A.101 can be bypassed allowing an attacker to run modified firmware. This could result in the execution of a malicious kernel, arbitrary programs, or modified Nokia programs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2484 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230106T13:26:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9793 | 336| 
-| 20230106T03:44:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2133 | 603| 
-| 20230105T20:24:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 60 | 4| 
+| 20230106T23:19:40Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
+| 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
+| 20230106T16:00:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9797 | 336| 
 | 20230105T14:41:16Z | Null | https://github.com/fchamicapereira/maestro-klee | 1 | 0| 
 
 
@@ -92,6 +92,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230106T22:51:44Z | Programs created throughout the Zero to Mastery Complete Ethical Hacker Course 2023 | https://github.com/skor21/ztm_backdoor | 0 | 0| 
+| 20230106T20:10:52Z | Null | https://github.com/vedat5672/Backdoor | 0 | 0| 
 | 20230106T12:37:00Z | Backdoor Algorithm | https://github.com/luannutels/backdoor-algorithm | 0 | 0| 
 | 20230106T11:57:28Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
 | 20230106T09:56:55Z | federated learning backdoor defense(my graduation project) | https://github.com/xor-public/graduation_project | 0 | 0| 
@@ -100,8 +102,6 @@
 | 20230106T08:14:37Z | Null | https://github.com/khoadoan/backdoor-attacks | 0 | 0| 
 | 20230106T08:12:48Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 34 | 10| 
 | 20230106T06:54:01Z | User space level rootkit, which hooks successfully several glibc functions and hides the socket from %netstat% and %lsof% command. Besides, it hides the rootkit files from %ls% and the backdoor process from %ps%. Currently developing: hiding connection from %ss%, IPv6 support, improving backdoor trigger and SSL support. | https://github.com/armandomfdz/User-Land-Rootkit | 0 | 0| 
-| 20230106T06:14:54Z | A minecraft hack client | https://github.com/asmeagel/LeuxBackdoor | 0 | 0| 
-| 20230106T06:12:34Z | ZTM Lesson 98 - Server and Backdoor in Python | https://github.com/phatehx/ZTMlesson98 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T00:11:06Z | Easy-to-use tool which autogenerates a type-aware fuzzer from a debuggable executable. | https://github.com/intel/fffc | 20 | 3| 
+| 20230106T23:43:41Z | Null | https://github.com/dpanic/fuzzer | 3 | 0| 
+| 20230106T23:23:14Z | It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Doddg10/Fuzzy-Logic-Toolbox | 0 | 0| 
+| 20230106T22:06:51Z | Null | https://github.com/baptisteviera/Sleep_Quality_Analysis_With_Fuzzy_Logic | 1 | 0| 
+| 20230106T21:37:41Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/antonigudesman/fuzzy-data-classifier | 0 | 0| 
+| 20230106T19:19:20Z | Null | https://github.com/Changochen/fuzzing-scripts | 0 | 0| 
 | 20230106T13:04:02Z | Fuzzing pytorch models | https://github.com/seclab-yonsei/TorchFuzz | 1 | 0| 
 | 20230106T12:57:15Z | Fuzzie is a simple Rest API and GraphQL fuzzer built as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 3 | 0| 
-| 20230106T11:34:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8231 | 1792| 
+| 20230106T11:34:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8231 | 1794| 
 | 20230106T11:11:46Z | A fuzzy logic toolbox implemented in Java for the Genetic Algorithms course, the toolbox allows you to define a new fuzzy logic system, define the system variables, define range and sets and crips values for each variable, define the rules and get the predicted output, it also has a GUI. | https://github.com/OmarAlHaj24/Genetic_Algorithms_Fuzzy_Logic_Toolbox | 0 | 0| 
-| 20230106T11:01:17Z | Null | https://github.com/FrancescoLucarini/simple_qcow2_fuzzer | 1 | 0| 
-| 20230106T10:45:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3347 | 397| 
-| 20230106T09:17:05Z | Source code for %A fuzzy bi-clustering of users and items based on NMF for recommender systems% papre | https://github.com/esysss/fuzzy_biclustering | 1 | 0| 
-| 20230106T08:17:10Z | Null | https://github.com/HU-DIPO/DecisionMiningFuzzy | 0 | 0| 
-| 20230106T06:34:42Z | This is the report for the Semester Project Fuzzing Trusted Execution Environments on COTS devices. | https://github.com/leonardopennino/SemesterProjectReport | 0 | 0| 
-| 20230106T01:26:05Z | My personal bash scripts | https://github.com/GrindelfP/fuzzy-slippers | 0 | 0| 
 
 
 
