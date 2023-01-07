@@ -77,6 +77,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T02:48:24Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/CVE-2019-16724 | 0 | 0| 
+| 20230107T02:40:37Z | Exploiting | https://github.com/KATERGaming/Roblox | 1 | 0| 
 | 20230107T02:08:13Z | This repository contains scripts and tools for Roblox exploiting that work with popular software like Synapse X and Script-Ware and follow UNC guidelines for cross-compatibility with other scripts. | https://github.com/shawnjb/brick-wares | 1 | 0| 
 | 20230107T01:29:13Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 58 | 34| 
 | 20230107T01:09:23Z | Multiple modules (to be added) for cheats I%ve scraped from games. The title of the modules will be the game names most likely. | https://github.com/Kumarion/RobloxExploits | 0 | 0| 
@@ -85,8 +87,6 @@
 | 20230107T00:00:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1oo | 1 | 0| 
 | 20230106T23:21:15Z | Crosswalk Nessus findings with the CISA Known and Exploited Vulnerabilities (KEV) catalog.  | https://github.com/ajread4/nessus_crosswalk | 0 | 0| 
 | 20230106T20:11:05Z | Phishable is a project that logs misconfigured DNS that can be exploited to conduct phishing attacks & spoof domains. Phishable helps orgs investigate phishing campaigns, gauge third-party risk & mitigate these risks. All orgs on the list are exposed to higher risk of threat actors gaining initial entry to their org, supply chain, and customers. | https://github.com/eman-ekaf/Phishable | 7 | 0| 
-| 20230106T15:55:45Z | Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/suldd/Rust-Cheat | 1 | 0| 
-| 20230106T14:36:50Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
 
 
 # backdoor on Github 推荐
