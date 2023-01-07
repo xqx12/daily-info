@@ -42,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230106T23:19:40Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
 | 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
-| 20230106T16:00:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9797 | 336| 
 
 
 # s2e on Github 推荐
