@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T13:08:18Z | 一个基于图同构网络模型预测Web漏洞位置的模糊测试工具 | https://github.com/BlakeZc/GNNWebFuzz | 0 | 0| 
 | 20230108T11:30:17Z | Null | https://github.com/Heritsam/fuzzy_logic | 0 | 0| 
 | 20230108T11:20:14Z | Java fuzzer aiming at Log4Shell | https://github.com/hermit1012/logzzer | 0 | 0| 
 | 20230108T10:52:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3352 | 398| 
@@ -87,7 +88,6 @@
 | 20230108T07:46:48Z | A fuzzy logic library | https://github.com/TheDan64/fuzzy-expert-rs | 1 | 1| 
 | 20230108T07:31:03Z | Null | https://github.com/Trishank-K/fuzzycoders_KOC26_CipherSchools | 0 | 0| 
 | 20230108T02:59:35Z | MINER provided by the paper %MINER: A Hybrid Data-Driven Approach for REST API Fuzzing% | https://github.com/puppet-meteor/MINER | 0 | 0| 
-| 20230108T02:48:52Z | For drowning out distractions | https://github.com/stevewhitmore/focus-fuzz | 2 | 1| 
 
 
 
