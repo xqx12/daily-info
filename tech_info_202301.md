@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T01:46:00Z | Null | https://github.com/Eniceq/fuzzy-pancake | 0 | 0| 
 | 20230108T00:22:27Z | Null | https://github.com/andersonfuzz/fuzz | 0 | 0| 
 | 20230107T23:09:24Z | Null | https://github.com/Candidatos-Ciudadanos/fuzzy-guacamole | 0 | 0| 
 | 20230107T23:06:35Z | GUI Fuzzbuster | https://github.com/ultros/gFuzzbuster | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20230107T12:58:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8233 | 1794| 
 | 20230107T12:24:48Z | Null | https://github.com/AdityaStefanus/Fuzzy-Penilaian-Pegawai | 0 | 0| 
 | 20230107T11:48:56Z | Experiments with fuzzy layers and neural nerworks | https://github.com/kenoma/pytorch-fuzzy | 2 | 0| 
-| 20230107T10:47:22Z | Null | https://github.com/IamAM99/flexible-joint-fuzzy-controller | 0 | 0| 
 
 
 
