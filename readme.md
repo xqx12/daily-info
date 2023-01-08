@@ -44,9 +44,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T13:58:28Z | %Introducing the XSS Automated Tool - a powerful and efficient way to discover and exploit cross-site scripting vulnerabilities on any website.Discover and exploit XSS vulnerabilities with ease using the XSS Automated Tool. Test payloads and injection points on any website to find weaknesses.% | https://github.com/EmperialX/XSS-Automated-Tool | 0 | 0| 
 | 20230108T13:21:17Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 54 | 7| 
 | 20230108T13:00:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12544 | 2156| 
-| 20230108T12:35:28Z | %Introducing the XSS Automated Tool - a powerful and efficient way to discover and exploit cross-site scripting vulnerabilities on any website.Discover and exploit XSS vulnerabilities with ease using the XSS Automated Tool. Test payloads and injection points on any website to find weaknesses.% | https://github.com/EmperialX/XSS-Automated-Tool | 0 | 0| 
 | 20230108T12:04:41Z | PoC of a patched DoS exploit in PocketMine-MP. | https://github.com/szerookii/pm-crasher | 0 | 0| 
 | 20230108T11:56:37Z | EDuty/CyberVAL is a fully featured internal hack for Valorant written with C++. | https://github.com/mt7z/Valorant-Internal-Cheats-Aimbot-ESP | 1 | 0| 
 | 20230108T11:40:39Z | These python scripts can be used to exploit a server with no memory protection enabled. These scripts are ordered in a step by step manner. | https://github.com/Asifoffl/BufferOverflowExploit | 0 | 0| 
