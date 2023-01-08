@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T02:45:27Z | For drowning out distractions | https://github.com/stevewhitmore/focus-fuzz | 1 | 1| 
 | 20230108T01:46:00Z | Null | https://github.com/Eniceq/fuzzy-pancake | 0 | 0| 
 | 20230108T00:22:27Z | Null | https://github.com/andersonfuzz/fuzz | 0 | 0| 
 | 20230107T23:09:24Z | Null | https://github.com/Candidatos-Ciudadanos/fuzzy-guacamole | 0 | 0| 
@@ -142,7 +143,6 @@
 | 20230107T19:10:53Z | These projects were made to complete the “Introduction to Machine Learning” course at my fourth semester. In the project, I used Fuzzy KNN. Fuzzy KNN is one of the modified KNN classification algorithms designed to predict test data using the degree value of test data membership in each class. I did classicization using %Heart Failure% data.  | https://github.com/dianaayusukma27/HeartFailureClassificationFuzzyKnn | 0 | 0| 
 | 20230107T12:58:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8233 | 1794| 
 | 20230107T12:24:48Z | Null | https://github.com/AdityaStefanus/Fuzzy-Penilaian-Pegawai | 0 | 0| 
-| 20230107T11:48:56Z | Experiments with fuzzy layers and neural nerworks | https://github.com/kenoma/pytorch-fuzzy | 2 | 0| 
 
 
 
