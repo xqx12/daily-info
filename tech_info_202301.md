@@ -83,12 +83,12 @@
 | 20230108T00:47:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pp | 1 | 0| 
 | 20230108T00:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pp | 1 | 0| 
 | 20230108T00:43:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pp | 1 | 0| 
+| 20230108T00:30:23Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 312 | 28| 
 | 20230107T23:47:42Z | A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2666 | 0 | 0| 
 | 20230107T23:12:44Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 2 | 0| 
 | 20230107T23:09:11Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8027 | 1853| 
 | 20230107T22:43:29Z | R6S Cheat , UNDETECTED , AIMBOT , ESP , FLY , | https://github.com/suldd/R6S-Cheat | 1 | 0| 
 | 20230107T15:07:56Z | Implementation of a stochastic simulation of heat diffusion on an unbounde domain in order to exploit the regularizing effect of fundamental solution of heat equation on a given function, which has to be optimized | https://github.com/lucamuscarnera/SimulatedCauchyOptimization | 0 | 0| 
-| 20230107T12:57:44Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 61 | 15| 
 
 
 # backdoor on Github 推荐
