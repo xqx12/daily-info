@@ -133,7 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230108T02:45:27Z | For drowning out distractions | https://github.com/stevewhitmore/focus-fuzz | 1 | 1| 
+| 20230108T02:48:52Z | For drowning out distractions | https://github.com/stevewhitmore/focus-fuzz | 2 | 1| 
 | 20230108T01:46:00Z | Null | https://github.com/Eniceq/fuzzy-pancake | 0 | 0| 
 | 20230108T00:22:27Z | Null | https://github.com/andersonfuzz/fuzz | 0 | 0| 
 | 20230107T23:09:24Z | Null | https://github.com/Candidatos-Ciudadanos/fuzzy-guacamole | 0 | 0| 
