@@ -31,38 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230108 | 玩转CodeQLpy之代码审计实战案例 | https://mp.weixin.qq.com/s/OJPhl17HS8EBC6GLEAPvDg| 
+| 20230108 | code-inspector: 基于字节码分析的Java代码审计工具 | https://github.com/4ra1n/code-inspector| 
+| 20230108 | Patch diff an old vulnerability in Synology NAS | https://paper.seebug.org/2038/| 
+| 20230108 | GitLab结合fortify实现自动化代码审计实践 | https://www.anquanke.com/post/id/284200| 
 | 20230107 | 2022国内网络安全融资分析 | https://mp.weixin.qq.com/s/vnCdiOB1tsvkdgz5-5Z8ug| 
 | 20230106 | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg| 
 | 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 | 20230105 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg| 
 | 20230105 | 2022 区块链安全及反洗钱分析年度回顾 | https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf| 
 | 20230105 | 2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ| 
-| 20230105 | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ| 
-| 20230105 | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA| 
-| 20230105 | 调教某数字杀软，权限维持 | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww| 
-| 20230104 | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230108T11:46:55Z | CVE-2021-4308 | A vulnerability was found in WebPA up to 3.1.1. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. Upgrading to version 3.1.2 is able to address this issue. The name of the patch is 8836c4f549181e885a68e0e7ca561fdbcbd04bf0. It is recommended to upgrade th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4308 | | 
+| 20230108T11:46:51Z | CVE-2020-36648 | A vulnerability, which was classified as critical, was found in pouetnet pouet 2.0. This affects an unknown part. The manipulation of the argument howmany leads to sql injection. The name of the patch is 11d615931352066fb2f6dcb07428277c2cd99baf. It is recommended to apply a patch to fix this issue. The identifier VDB-2 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36648 | | 
+| 20230108T11:46:47Z | CVE-2020-36647 | A vulnerability classified as critical has been found in YunoHost-Apps transmission_ynh. Affected is an unknown function of the file conf/nginx.conf. The manipulation leads to path traversal. The name of the patch is f136dfd44eda128129e5fd2d850a3a3c600e6a4a. It is recommended to apply a patch to fix this issue. VDB-217 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36647 | | 
+| 20230108T10:49:16Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Falkenburggg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230108T10:43:34Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/Falkenburggg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230108T03:35:24Z | CVE-2021-38003 | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003 | | 
 | 20230107T23:47:42Z | CVE-2022-2666 | A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2666 | | 
 | 20230107T23:47:38Z | CVE-2022-1102 | A vulnerability classified as problematic has been found in SourceCodester Royale Event Management System 1.0. Affected is an unknown function of the file /royal_event/companyprofile.php. The manipulation of the argument companyname/regno/companyaddress/companyemail leads to cross site scripting. It is possible to laun CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1102 | | 
 | 20230107T23:47:34Z | CVE-2022-1101 | A vulnerability was found in SourceCodester Royale Event Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /royal_event/userregister.php. The manipulation leads to improper authentication. The attack may be initiated remotely. The identifier VDB-195785 was assi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1101 | | 
 | 20230107T22:50:02Z | CVE-2022-39073 | Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit. | https://github.com/v0lp3/CVE-2022-39073 | | 
-| 20230107T21:37:23Z | CVE-2020-36645 | A vulnerability, which was classified as critical, was found in square squalor. This affects an unknown part. The manipulation leads to sql injection. Upgrading to version v0.0.0 is able to address this issue. The name of the patch is f6f0a47cc344711042eb0970cb423e6950ba3f93. It is recommended to upgrade the affected c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36645 | | 
-| 20230107T21:37:11Z | CVE-2020-36646 | A vulnerability classified as problematic has been found in MediaArea ZenLib up to 0.4.38. This affects the function Ztring::Date_From_Seconds_1970_Local of the file Source/ZenLib/Ztring.cpp. The manipulation of the argument Value leads to unchecked return value to null pointer dereference. Upgrading to version 0.4.39  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36646 | | 
-| 20230107T19:26:40Z | CVE-2021-4306 | A vulnerability classified as problematic has been found in cronvel terminal-kit up to 2.1.7. Affected is an unknown function. The manipulation leads to inefficient regular expression complexity. Upgrading to version 2.1.8 is able to address this issue. The name of the patch is a2e446cc3927b559d0281683feb9b821e83b758c. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4306 | | 
-| 20230107T17:03:57Z | CVE-2022-44149 | POC Exploit for CVE-2022-44149 | https://github.com/yerodin/CVE-2022-44149 | | 
-| 20230107T16:11:27Z | CVE-2022-4880 | A vulnerability was found in stakira OpenUtau. It has been classified as critical. This affects the function VoicebankInstaller of the file OpenUtau.Core/Classic/VoicebankInstaller.cs of the component ZIP Archive Handler. The manipulation leads to path traversal. Upgrading to version 0.0.991 is able to address this iss CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4880 | | 
-| 20230107T15:19:29Z | CVE-2022- | There is stored XSS in https://p1ay8y3ar.github.io/cve_monitor/. Vulnerable argument "ServiceSetIdentifier"  is in file /goform/wlanPrimaryNetwork. PoC: <script>alert("Subcribe to t.me/LamerZen")</script> | https://github.com/Zenmovie/CVE-2022-Stored-XSS-in-cve-monitor | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230108T01:53:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9812 | 337| 
-| 20230107T11:33:01Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 172 | 1| 
+| 20230108T12:01:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9821 | 337| 
+| 20230108T06:31:28Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 173 | 1| 
 | 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
 | 20230106T23:19:40Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
 | 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
@@ -79,16 +79,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T13:00:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12544 | 2156| 
+| 20230108T12:35:28Z | %Introducing the XSS Automated Tool - a powerful and efficient way to discover and exploit cross-site scripting vulnerabilities on any website.Discover and exploit XSS vulnerabilities with ease using the XSS Automated Tool. Test payloads and injection points on any website to find weaknesses.% | https://github.com/EmperialX/XSS-Automated-Tool | 0 | 0| 
+| 20230108T12:04:41Z | PoC of a patched DoS exploit in PocketMine-MP. | https://github.com/szerookii/pm-crasher | 0 | 0| 
+| 20230108T11:56:37Z | EDuty/CyberVAL is a fully featured internal hack for Valorant written with C++. | https://github.com/mt7z/Valorant-Internal-Cheats-Aimbot-ESP | 1 | 0| 
+| 20230108T11:40:39Z | These python scripts can be used to exploit a server with no memory protection enabled. These scripts are ordered in a step by step manner. | https://github.com/Asifoffl/BufferOverflowExploit | 0 | 0| 
+| 20230108T11:28:57Z | Exploiting the cache for fun and profit. | https://github.com/GeorgeMLP/cachelab | 0 | 0| 
+| 20230108T10:50:30Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted image files – even us | https://github.com/Falkenburggg/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
+| 20230108T10:49:16Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Falkenburggg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
+| 20230108T10:47:58Z | External Game Project written mostly in C++ along with external libraries Internal And External projects.I started to get rid of scammers.i am developing Hack Cheat Driver Esp Aimbot Magic Bullet Driver Injector Overlay Imgui for many games.Games I%ve developed with hack so far Rise Online ,Apex Legends ,Bloodhunt , Call of Duty: Cold War , Call of | https://github.com/Falkenburggg/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20230108T01:01:15Z | Exploit the EternalBlue vulnerability manually without using the Metasploit tool | https://github.com/MikeRega7/How-to-exploit-the-EternalBlue-vulnerability-without-Metasploit | 0 | 0| 
-| 20230108T00:47:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pp | 1 | 0| 
-| 20230108T00:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pp | 1 | 0| 
-| 20230108T00:43:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pp | 1 | 0| 
-| 20230108T00:30:23Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 312 | 28| 
-| 20230107T23:47:42Z | A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2666 | 0 | 0| 
-| 20230107T23:12:44Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 2 | 0| 
-| 20230107T23:09:11Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8027 | 1853| 
-| 20230107T22:43:29Z | R6S Cheat , UNDETECTED , AIMBOT , ESP , FLY , | https://github.com/suldd/R6S-Cheat | 1 | 0| 
-| 20230107T15:07:56Z | Implementation of a stochastic simulation of heat diffusion on an unbounde domain in order to exploit the regularizing effect of fundamental solution of heat equation on a given function, which has to be optimized | https://github.com/lucamuscarnera/SimulatedCauchyOptimization | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -96,6 +96,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230107T13:57:58Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 35 | 10| 
 | 20230107T12:32:27Z | official/unofficial open source code/dataset for backdoor attack and defense | https://github.com/NY1024/Open-Source-Backdoor-Learning | 0 | 0| 
+| 20230107T10:52:58Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 189 | 55| 
 | 20230107T09:32:04Z | BackDoor Client | https://github.com/Shermine237/BackDoor_client_python | 0 | 0| 
 | 20230107T09:21:36Z | BackDoor server | https://github.com/Shermine237/BackDoor_server_python | 0 | 0| 
 | 20230107T06:44:25Z | Null | https://github.com/improfessor007/windows-backdoor | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20230107T03:40:28Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 21 | 2| 
 | 20230106T22:51:44Z | Programs created throughout the Zero to Mastery Complete Ethical Hacker Course 2023 | https://github.com/skor21/ztm_backdoor | 0 | 0| 
 | 20230106T20:10:52Z | Null | https://github.com/vedat5672/Backdoor | 0 | 0| 
-| 20230106T12:37:00Z | Backdoor Algorithm | https://github.com/luannutels/backdoor-algorithm | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T11:30:17Z | Null | https://github.com/Heritsam/fuzzy_logic | 0 | 0| 
+| 20230108T11:20:14Z | Java fuzzer aiming at Log4Shell | https://github.com/hermit1012/logzzer | 0 | 0| 
+| 20230108T10:52:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3352 | 398| 
+| 20230108T09:11:03Z | Fuzzy Rule-based Systems in Julia | https://github.com/D-Se/FuzzySystems.jl | 1 | 0| 
+| 20230108T08:55:46Z | Null | https://github.com/wasim2451/fuzzy-engine | 0 | 0| 
+| 20230108T08:43:14Z | Null | https://github.com/Oscego/fuzzy-engine | 0 | 0| 
+| 20230108T07:46:48Z | A fuzzy logic library | https://github.com/TheDan64/fuzzy-expert-rs | 1 | 1| 
+| 20230108T07:31:03Z | Null | https://github.com/Trishank-K/fuzzycoders_KOC26_CipherSchools | 0 | 0| 
 | 20230108T02:59:35Z | MINER provided by the paper %MINER: A Hybrid Data-Driven Approach for REST API Fuzzing% | https://github.com/puppet-meteor/MINER | 0 | 0| 
 | 20230108T02:48:52Z | For drowning out distractions | https://github.com/stevewhitmore/focus-fuzz | 2 | 1| 
-| 20230108T01:46:00Z | Null | https://github.com/Eniceq/fuzzy-pancake | 0 | 0| 
-| 20230108T00:22:27Z | Null | https://github.com/andersonfuzz/fuzz | 0 | 0| 
-| 20230107T23:09:24Z | Null | https://github.com/Candidatos-Ciudadanos/fuzzy-guacamole | 0 | 0| 
-| 20230107T23:06:35Z | GUI Fuzzbuster | https://github.com/ultros/gFuzzbuster | 0 | 0| 
-| 20230107T22:33:06Z | Null | https://github.com/asadshahab1/Fuzzy-Decision-Tree | 0 | 0| 
-| 20230107T20:03:07Z | This is a Firefox-first (maybe Chrome later) web extension that will enable faster, keyboard-based navigation through tabs and bookmarks.  | https://github.com/JonasBrusokas/Fuzzy-Fox | 0 | 0| 
-| 20230107T19:10:53Z | These projects were made to complete the “Introduction to Machine Learning” course at my fourth semester. In the project, I used Fuzzy KNN. Fuzzy KNN is one of the modified KNN classification algorithms designed to predict test data using the degree value of test data membership in each class. I did classicization using %Heart Failure% data.  | https://github.com/dianaayusukma27/HeartFailureClassificationFuzzyKnn | 0 | 0| 
-| 20230107T12:58:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8233 | 1794| 
 
 
 
