@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T13:21:17Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 54 | 7| 
 | 20230108T13:00:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12544 | 2156| 
 | 20230108T12:35:28Z | %Introducing the XSS Automated Tool - a powerful and efficient way to discover and exploit cross-site scripting vulnerabilities on any website.Discover and exploit XSS vulnerabilities with ease using the XSS Automated Tool. Test payloads and injection points on any website to find weaknesses.% | https://github.com/EmperialX/XSS-Automated-Tool | 0 | 0| 
 | 20230108T12:04:41Z | PoC of a patched DoS exploit in PocketMine-MP. | https://github.com/szerookii/pm-crasher | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20230108T10:50:30Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted image files – even us | https://github.com/Falkenburggg/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20230108T10:49:16Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Falkenburggg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20230108T10:47:58Z | External Game Project written mostly in C++ along with external libraries Internal And External projects.I started to get rid of scammers.i am developing Hack Cheat Driver Esp Aimbot Magic Bullet Driver Injector Overlay Imgui for many games.Games I%ve developed with hack so far Rise Online ,Apex Legends ,Bloodhunt , Call of Duty: Cold War , Call of | https://github.com/Falkenburggg/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
-| 20230108T01:01:15Z | Exploit the EternalBlue vulnerability manually without using the Metasploit tool | https://github.com/MikeRega7/How-to-exploit-the-EternalBlue-vulnerability-without-Metasploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
