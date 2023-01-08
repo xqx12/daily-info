@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T01:01:15Z | Exploit the EternalBlue vulnerability manually without using the Metasploit tool | https://github.com/MikeRega7/How-to-exploit-the-EternalBlue-vulnerability-without-Metasploit | 0 | 0| 
 | 20230108T00:47:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pp | 1 | 0| 
 | 20230108T00:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pp | 1 | 0| 
 | 20230108T00:43:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pp | 1 | 0| 
@@ -87,7 +88,6 @@
 | 20230107T22:43:29Z | R6S Cheat , UNDETECTED , AIMBOT , ESP , FLY , | https://github.com/suldd/R6S-Cheat | 1 | 0| 
 | 20230107T15:07:56Z | Implementation of a stochastic simulation of heat diffusion on an unbounde domain in order to exploit the regularizing effect of fundamental solution of heat equation on a given function, which has to be optimized | https://github.com/lucamuscarnera/SimulatedCauchyOptimization | 0 | 0| 
 | 20230107T12:57:44Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 61 | 15| 
-| 20230107T12:55:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12535 | 2153| 
 
 
 # backdoor on Github 推荐
