@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230107T13:43:11Z | CVE-2021-38003 | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003 | | 
-| 20230107T11:49:53Z | CVE-2023-0114 | A vulnerability was found in Netis Netcore Router. It has been rated as problematic. Affected by this issue is some unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to cleartext storage in a file or on disk. Local access is required to approach this attack. The id CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0114 | | 
-| 20230107T11:49:49Z | CVE-2023-0113 | A vulnerability was found in Netis Netcore Router. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to information disclosure. The attack can be launched remotely. The associated identifier  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0113 | | 
-| 20230107T11:49:28Z | CVE-2020-36644 | A vulnerability has been found in jamesmartin Inline SVG up to 1.7.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file lib/inline_svg/action_view/helpers.rb of the component URL Parameter Handler. The manipulation of the argument filename leads to cross site scripting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36644 | | 
-| 20230107T06:37:05Z | CVE-2021-21551 | Dell Driver EoP (CVE-2021-21551) | https://github.com/nanabingies/CVE-2021-21551 | | 
-| 20230107T06:23:07Z | CVE-2023-0112 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0112 | | 
-| 20230107T06:23:03Z | CVE-2023-0111 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0111 | | 
-| 20230107T06:22:58Z | CVE-2023-0110 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0110 | | 
-| 20230107T06:22:55Z | CVE-2023-0108 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0108 | | 
-| 20230107T06:22:50Z | CVE-2023-0107 | Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0107 | | 
+| 20230107T23:47:42Z | CVE-2022-2666 | A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2666 | | 
+| 20230107T23:47:38Z | CVE-2022-1102 | A vulnerability classified as problematic has been found in SourceCodester Royale Event Management System 1.0. Affected is an unknown function of the file /royal_event/companyprofile.php. The manipulation of the argument companyname/regno/companyaddress/companyemail leads to cross site scripting. It is possible to laun CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1102 | | 
+| 20230107T23:47:34Z | CVE-2022-1101 | A vulnerability was found in SourceCodester Royale Event Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /royal_event/userregister.php. The manipulation leads to improper authentication. The attack may be initiated remotely. The identifier VDB-195785 was assi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1101 | | 
+| 20230107T22:50:02Z | CVE-2022-39073 | Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit. | https://github.com/v0lp3/CVE-2022-39073 | | 
+| 20230107T21:37:23Z | CVE-2020-36645 | A vulnerability, which was classified as critical, was found in square squalor. This affects an unknown part. The manipulation leads to sql injection. Upgrading to version v0.0.0 is able to address this issue. The name of the patch is f6f0a47cc344711042eb0970cb423e6950ba3f93. It is recommended to upgrade the affected c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36645 | | 
+| 20230107T21:37:11Z | CVE-2020-36646 | A vulnerability classified as problematic has been found in MediaArea ZenLib up to 0.4.38. This affects the function Ztring::Date_From_Seconds_1970_Local of the file Source/ZenLib/Ztring.cpp. The manipulation of the argument Value leads to unchecked return value to null pointer dereference. Upgrading to version 0.4.39  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36646 | | 
+| 20230107T19:26:40Z | CVE-2021-4306 | A vulnerability classified as problematic has been found in cronvel terminal-kit up to 2.1.7. Affected is an unknown function. The manipulation leads to inefficient regular expression complexity. Upgrading to version 2.1.8 is able to address this issue. The name of the patch is a2e446cc3927b559d0281683feb9b821e83b758c. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4306 | | 
+| 20230107T17:03:57Z | CVE-2022-44149 | POC Exploit for CVE-2022-44149 | https://github.com/yerodin/CVE-2022-44149 | | 
+| 20230107T16:11:27Z | CVE-2022-4880 | A vulnerability was found in stakira OpenUtau. It has been classified as critical. This affects the function VoicebankInstaller of the file OpenUtau.Core/Classic/VoicebankInstaller.cs of the component ZIP Archive Handler. The manipulation leads to path traversal. Upgrading to version 0.0.991 is able to address this iss CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4880 | | 
+| 20230107T15:19:29Z | CVE-2022- | There is stored XSS in https://p1ay8y3ar.github.io/cve_monitor/. Vulnerable argument "ServiceSetIdentifier"  is in file /goform/wlanPrimaryNetwork. PoC: <script>alert("Subcribe to t.me/LamerZen")</script> | https://github.com/Zenmovie/CVE-2022-Stored-XSS-in-cve-monitor | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230107T13:36:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9804 | 336| 
+| 20230108T00:34:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9811 | 337| 
 | 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
 | 20230106T23:19:40Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 61 | 4| 
 | 20230106T20:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2134 | 603| 
@@ -78,16 +78,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T00:47:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pp | 1 | 0| 
+| 20230108T00:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pp | 1 | 0| 
+| 20230108T00:43:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pp | 1 | 0| 
+| 20230107T23:47:42Z | A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2666 | 0 | 0| 
+| 20230107T23:12:44Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 2 | 0| 
+| 20230107T23:09:11Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8027 | 1853| 
+| 20230107T22:43:29Z | R6S Cheat , UNDETECTED , AIMBOT , ESP , FLY , | https://github.com/suldd/R6S-Cheat | 1 | 0| 
+| 20230107T15:07:56Z | Implementation of a stochastic simulation of heat diffusion on an unbounde domain in order to exploit the regularizing effect of fundamental solution of heat equation on a given function, which has to be optimized | https://github.com/lucamuscarnera/SimulatedCauchyOptimization | 0 | 0| 
 | 20230107T12:57:44Z | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | 61 | 15| 
 | 20230107T12:55:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12535 | 2153| 
-| 20230107T11:32:03Z | A hacking tool to remotely exploit Android devices using ADB and get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2 | 2| 
-| 20230107T09:29:22Z | Containing my notes, practice binaries + solutions, blog posts, etc. for the Offensive Security Exploit Developer (OSED/EXP-301) | https://github.com/nop-tech/OSED | 222 | 58| 
-| 20230107T09:18:52Z | Null | https://github.com/AZCATGITHUB/NextusFunction.Exploit-Maker | 0 | 0| 
-| 20230107T09:07:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5171 | 725| 
-| 20230107T08:30:29Z | External cheat made for VALORANT  ,  UNDETECTED  ,  AIMBOT  ,  ESP  ,  SKIN CHANGER  ,  AND MORE | https://github.com/suldd/Valorant-External-Cheat | 1 | 0| 
-| 20230107T07:43:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3929 | 492| 
-| 20230107T02:48:24Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/CVE-2019-16724 | 0 | 0| 
-| 20230107T02:40:37Z | Exploiting | https://github.com/KATERGaming/Roblox | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T00:22:27Z | Null | https://github.com/andersonfuzz/fuzz | 0 | 0| 
+| 20230107T23:09:24Z | Null | https://github.com/Candidatos-Ciudadanos/fuzzy-guacamole | 0 | 0| 
+| 20230107T23:06:35Z | GUI Fuzzbuster | https://github.com/ultros/gFuzzbuster | 0 | 0| 
+| 20230107T22:33:06Z | Null | https://github.com/asadshahab1/Fuzzy-Decision-Tree | 0 | 0| 
+| 20230107T20:03:07Z | This is a Firefox-first (maybe Chrome later) web extension that will enable faster, keyboard-based navigation through tabs and bookmarks.  | https://github.com/JonasBrusokas/Fuzzy-Fox | 0 | 0| 
+| 20230107T19:10:53Z | These projects were made to complete the “Introduction to Machine Learning” course at my fourth semester. In the project, I used Fuzzy KNN. Fuzzy KNN is one of the modified KNN classification algorithms designed to predict test data using the degree value of test data membership in each class. I did classicization using %Heart Failure% data.  | https://github.com/dianaayusukma27/HeartFailureClassificationFuzzyKnn | 0 | 0| 
 | 20230107T12:58:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8233 | 1794| 
 | 20230107T12:24:48Z | Null | https://github.com/AdityaStefanus/Fuzzy-Penilaian-Pegawai | 0 | 0| 
 | 20230107T11:48:56Z | Experiments with fuzzy layers and neural nerworks | https://github.com/kenoma/pytorch-fuzzy | 2 | 0| 
 | 20230107T10:47:22Z | Null | https://github.com/IamAM99/flexible-joint-fuzzy-controller | 0 | 0| 
-| 20230107T09:55:39Z | Null | https://github.com/couscous23/fuzzy-spoon | 0 | 0| 
-| 20230107T09:48:28Z | indian phone numbers fuzzing list  | https://github.com/mark39107pro/numerenumeration | 0 | 0| 
-| 20230107T09:11:40Z | Null | https://github.com/yutosuzuk/Yang-type-Fuzzy-Clustering | 0 | 0| 
-| 20230107T08:29:32Z | Implementation of a fuzzy controller capable of controlling a paddle in a classic Pong game using scikit-fuzzy. | https://github.com/SonTonyD/Fuzzy-Controller-For-Pong-Game | 0 | 0| 
-| 20230107T01:18:31Z | Null | https://github.com/dpanic/fuzzer | 4 | 0| 
-| 20230107T00:11:06Z | Easy-to-use tool which autogenerates a type-aware fuzzer from a debuggable executable. | https://github.com/intel/fffc | 20 | 3| 
 
 
 
