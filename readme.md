@@ -32,6 +32,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230107T11:33:01Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 172 | 1| 
 | 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
 
 
