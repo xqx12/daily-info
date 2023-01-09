@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230108 | Sauercloud团队公开RWCTF2023-Happy-Card题解，利用类型混淆漏洞实现OOB Read获取flag | http://kitctf.de/writeups/rwctf2023-happycard| 
 | 20230106 | Go 语言版 NTLMRecon ，可用来扫描并识别目标 Web 服务器上支持 NTLM 认证的 Endpoint | http://securityonline.info/ntlmrecon-identify-commonly-accessible-ntlm-authentication-endpoints/| 
 | 20230106 | OWASSRF + TabShell 利用链 | https://blog.viettelcybersecurity.com/tabshell-owassrf/| 
 | 20230106 | MemoryModule模块实现纯python的内存加载dll,用于bypass AV/EDR以及一些其他用途 | https://github.com/naksyn/PythonMemoryModule| 
@@ -25,7 +26,6 @@
 | 20230105 | python中的类污染 | https://blog.abdulrah33m.com/prototype-pollution-in-python/| 
 | 20230105 | 利用 Intel AMT 实现 “admin 对 admin” 的攻击，即当系统存在多个 admin 账号时，可使 admin A 以 admin B 的身份做一些高权限操作。 | https://sec.today/pulses/9230fc6d-7bf1-4896-bfe6-3864458c261e/| 
 | 20230105 | DeTT&CT: Automate your detection coverage with dettectinator | https://sec.today/pulses/f99e4043-c54b-43cf-8432-3d650fe5e982/| 
-| 20230105 | 大数据分析平台Apache Kylin的命令注入漏洞 | https://sec.today/pulses/b6406384-aefd-41dd-aed5-9db0fed296ce/| 
 
 
 # 安全维基 推荐

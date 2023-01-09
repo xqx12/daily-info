@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230108 | Sauercloud团队公开RWCTF2023-Happy-Card题解，利用类型混淆漏洞实现OOB Read获取flag | http://kitctf.de/writeups/rwctf2023-happycard| 
 
 
 # 安全维基 推荐
