@@ -141,10 +141,10 @@
 | 20230109T10:40:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8239 | 1797| 
 | 20230109T10:10:54Z | Open sourcing playground 3 | https://github.com/alexjuda/fuzzy-fiesta | 0 | 0| 
 | 20230109T09:40:33Z | Null | https://github.com/artgg12/fuzzy-garbanzo | 0 | 0| 
+| 20230109T08:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4507 | 1091| 
 | 20230109T02:36:07Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3353 | 398| 
 | 20230109T02:31:14Z | brute force get requests to specified number | https://github.com/iamtheapi/directory_fuzzing_in_c | 0 | 0| 
 | 20230109T02:11:17Z | Null | https://github.com/behnamandarz/GreenFuzz | 0 | 0| 
-| 20230109T01:50:07Z | Python fuzzy decision tree classification task  | https://github.com/zagorskim/Fuzzy_Reasoning | 0 | 0| 
 
 
 
