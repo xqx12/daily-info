@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230109T14:04:01Z | CVE-2021-4311 | A vulnerability classified as problematic was found in Talend Open Studio for MDM. This vulnerability affects unknown code of the component XML Handler. The manipulation leads to xml external entity reference. The name of the patch is 31d442b9fb1d518128fd18f6e4d54e06c3d67793. It is recommended to apply a patch to fix t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4311 | | 
 | 20230109T13:22:58Z | CVE-2022-2602 | Null | https://github.com/th3-5had0w/CVE-2022-2602-Study | | 
 | 20230109T12:24:54Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
 | 20230109T11:54:10Z | CVE-2022-33276 | Memory corruption due to buffer copy without checking size of input in modem while receiving WMI_REQUEST_STATS_CMDID command. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33276 | | 
@@ -36,13 +37,12 @@
 | 20230109T11:53:52Z | CVE-2022-33252 | Information disclosure due to buffer over-read in WLAN while handling IBSS beacons frame. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33252 | | 
 | 20230109T11:53:47Z | CVE-2022-33218 | Memory corruption in Automotive due to improper input validation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33218 | | 
 | 20230109T11:53:44Z | CVE-2022-33265 | Memory corruption due to information exposure in Powerline Communication Firmware while sending different MMEs from a single, unassociated device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33265 | | 
-| 20230109T11:53:39Z | CVE-2022-25725 | Denial of service in MODEM due to improper pointer handling CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25725 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230109T13:27:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9836 | 338| 
+| 20230109T14:02:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9837 | 338| 
 | 20230109T10:07:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 176 | 1| 
 | 20230109T08:54:19Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 63 | 5| 
 
@@ -55,7 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230109T13:12:47Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12549 | 2159| 
+| 20230109T13:57:25Z | get or post requests unlimited times  or dos attack. | https://github.com/devil557/form-rate-limit-exploit | 1 | 0| 
+| 20230109T13:54:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12549 | 2159| 
 | 20230109T12:46:30Z | android ADB post exploitation framework | https://github.com/security007/sword | 5 | 3| 
 | 20230109T12:29:37Z | Null | https://github.com/4NDROM3DA/exploit.ps4 | 0 | 0| 
 | 20230109T12:05:11Z | Domani  | https://github.com/Code-Exploit-93/Code-Exploit-93.github.io | 0 | 0| 
@@ -63,8 +64,7 @@
 | 20230109T10:37:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4856 | 705| 
 | 20230109T06:17:14Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 3 | 0| 
 | 20230109T05:58:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 569 | 151| 
-| 20230109T02:23:03Z | Docker env supporting MS17-010 exploits | https://github.com/SpacemanHenry/MS17-010-docker | 0 | 0| 
-| 20230109T01:18:47Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit | 0 | 0| 
+| 20230109T05:16:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3933 | 493| 
 
 
 # backdoor on Github 推荐
@@ -96,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230109T14:07:30Z | Null | https://github.com/sclauguico/adaptive-neuro-fuzzy-inference-system-on-aquaphotomics-development-for-aquaponic-water-nutrient | 0 | 0| 
+| 20230109T13:46:53Z | Simple Echidna Fuzz Template | https://github.com/xternet/echidna-template | 0 | 0| 
+| 20230109T13:45:16Z | Null | https://github.com/quinderbi/tuproFuzzification | 0 | 0| 
+| 20230109T13:44:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4508 | 1091| 
 | 20230109T12:14:37Z | Implementing the WebSocket protocol in C++ and Rust from scratch (to learn C++, Fuzzing and now Rust). | https://github.com/otsmr/websocket | 1 | 0| 
 | 20230109T11:19:22Z | Null | https://github.com/manojgithub/fuzzy-carnival | 0 | 0| 
 | 20230109T10:47:45Z | Null | https://github.com/xfhcgcg0/fuzzy-barnacle | 0 | 0| 
 | 20230109T10:40:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8239 | 1797| 
 | 20230109T10:10:54Z | Open sourcing playground 3 | https://github.com/alexjuda/fuzzy-fiesta | 0 | 0| 
 | 20230109T09:40:33Z | Null | https://github.com/artgg12/fuzzy-garbanzo | 0 | 0| 
-| 20230109T08:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4507 | 1091| 
-| 20230109T02:36:07Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3353 | 398| 
-| 20230109T02:31:14Z | brute force get requests to specified number | https://github.com/iamtheapi/directory_fuzzing_in_c | 0 | 0| 
-| 20230109T02:11:17Z | Null | https://github.com/behnamandarz/GreenFuzz | 0 | 0| 
 
 
 
