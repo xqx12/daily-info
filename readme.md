@@ -95,8 +95,8 @@
 | 20230108T13:08:18Z | 一个基于图同构网络模型预测Web漏洞位置的模糊测试工具 | https://github.com/BlakeZc/GNNWebFuzz | 0 | 0| 
 | 20230108T11:30:17Z | Null | https://github.com/Heritsam/fuzzy_logic | 0 | 0| 
 | 20230108T11:20:14Z | Java fuzzer aiming at Log4Shell | https://github.com/hermit1012/logzzer | 0 | 0| 
-| 20230108T10:52:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3352 | 398| 
 | 20230108T09:11:03Z | Fuzzy Rule-based Systems in Julia | https://github.com/D-Se/FuzzySystems.jl | 1 | 0| 
+| 20230108T08:55:46Z | Null | https://github.com/wasim2451/fuzzy-engine | 0 | 0| 
 
 
 
