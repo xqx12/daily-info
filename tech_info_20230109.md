@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230109T12:56:35Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12548 | 2158| 
+| 20230109T13:12:47Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12549 | 2158| 
 | 20230109T12:46:30Z | android ADB post exploitation framework | https://github.com/security007/sword | 5 | 3| 
 | 20230109T12:29:37Z | Null | https://github.com/4NDROM3DA/exploit.ps4 | 0 | 0| 
 | 20230109T12:05:11Z | Domani  | https://github.com/Code-Exploit-93/Code-Exploit-93.github.io | 0 | 0| 
