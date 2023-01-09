@@ -14,6 +14,7 @@
 | 20230109 | rwctf2023-ASTLIBRA的预期解 | https://github.com/wupco/rwctf2023-ASTLIBRA| 
 | 20230109 | 警惕：魔改后的CIA攻击套件Hive进入黑灰产领域 | https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/| 
 | 20230109 | Squirrel.Windows存在DLL劫持漏洞。 | https://archcloudlabs.com/projects/cve-2022-46330/| 
+| 20230109 | 介绍 Foxit Reader 自己实现的内存管理细节 | http://paper.seebug.org/2039/| 
 | 20230108 | Sauercloud团队公开RWCTF2023-Happy-Card题解，利用类型混淆漏洞实现OOB Read获取flag | http://kitctf.de/writeups/rwctf2023-happycard| 
 | 20230108 | 利用运行时报错信息指导WebGL api参数编译，并在主流浏览器中发现多个WebGL相关bug。 | http://www.usenix.org/system/files/sec23summer_249-peng-prepub.pdf| 
 | 20230106 | Go 语言版 NTLMRecon ，可用来扫描并识别目标 Web 服务器上支持 NTLM 认证的 Endpoint | http://securityonline.info/ntlmrecon-identify-commonly-accessible-ntlm-authentication-endpoints/| 
@@ -25,7 +26,6 @@
 | 20230106 | 使用语言模型对反编译代码做自动化summary | https://arxiv.org/abs/2301.01701| 
 | 20230106 | Putting ELF on the shelf | http://www.hexacorn.com/blog/2023/01/03/putting-elf-on-the-shelf/| 
 | 20230105 | 高通数字信号处理器Hexagon攻击面研究，文章从应用的开源库漏洞、驱动漏洞、Fuzz方法等方面进行介绍。 | https://vul.360.net/archives/645| 
-| 20230105 | TetCTF 2023 Pwn-mailService的非预期解Writeup | http://uz56764.tistory.com/82| 
 
 
 # 安全维基 推荐
@@ -84,9 +84,9 @@
 | 20230109T12:29:37Z | Null | https://github.com/4NDROM3DA/exploit.ps4 | 0 | 0| 
 | 20230109T12:05:11Z | Domani  | https://github.com/Code-Exploit-93/Code-Exploit-93.github.io | 0 | 0| 
 | 20230109T11:01:41Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 319 | 28| 
+| 20230109T10:37:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4856 | 705| 
 | 20230109T06:17:14Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 3 | 0| 
 | 20230109T05:58:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 569 | 151| 
-| 20230109T02:33:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4856 | 705| 
 | 20230109T02:23:03Z | Docker env supporting MS17-010 exploits | https://github.com/SpacemanHenry/MS17-010-docker | 0 | 0| 
 | 20230109T01:18:47Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit | 0 | 0| 
 

@@ -14,6 +14,7 @@
 | 20230109 | rwctf2023-ASTLIBRA的预期解 | https://github.com/wupco/rwctf2023-ASTLIBRA| 
 | 20230109 | 警惕：魔改后的CIA攻击套件Hive进入黑灰产领域 | https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/| 
 | 20230109 | Squirrel.Windows存在DLL劫持漏洞。 | https://archcloudlabs.com/projects/cve-2022-46330/| 
+| 20230109 | 介绍 Foxit Reader 自己实现的内存管理细节 | http://paper.seebug.org/2039/| 
 
 
 # 安全维基 推荐
@@ -59,9 +60,9 @@
 | 20230109T12:29:37Z | Null | https://github.com/4NDROM3DA/exploit.ps4 | 0 | 0| 
 | 20230109T12:05:11Z | Domani  | https://github.com/Code-Exploit-93/Code-Exploit-93.github.io | 0 | 0| 
 | 20230109T11:01:41Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 319 | 28| 
+| 20230109T10:37:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4856 | 705| 
 | 20230109T06:17:14Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 3 | 0| 
 | 20230109T05:58:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 569 | 151| 
-| 20230109T02:33:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4856 | 705| 
 | 20230109T02:23:03Z | Docker env supporting MS17-010 exploits | https://github.com/SpacemanHenry/MS17-010-docker | 0 | 0| 
 | 20230109T01:18:47Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit | 0 | 0| 
 
