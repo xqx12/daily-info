@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230108 | Sauercloud团队公开RWCTF2023-Happy-Card题解，利用类型混淆漏洞实现OOB Read获取flag | http://kitctf.de/writeups/rwctf2023-happycard| 
+| 20230108 | 利用运行时报错信息指导WebGL api参数编译，并在主流浏览器中发现多个WebGL相关bug。 | http://www.usenix.org/system/files/sec23summer_249-peng-prepub.pdf| 
 
 
 # 安全维基 推荐
