@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230109T02:11:17Z | Null | https://github.com/behnamandarz/GreenFuzz | 0 | 0| 
 | 20230109T02:04:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8235 | 1795| 
 | 20230109T01:52:44Z | brute force get requests to specified number | https://github.com/iamtheapi/directory_fuzzing_in_c | 0 | 0| 
 | 20230109T01:50:07Z | Python fuzzy decision tree classification task  | https://github.com/zagorskim/Fuzzy_Reasoning | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20230108T20:23:07Z | Null | https://github.com/rfuzzo/FuzzoBot | 4 | 3| 
 | 20230108T13:54:23Z | Null | https://github.com/nadyaakhairani/fuzzy_logic | 0 | 0| 
 | 20230108T13:39:15Z | Null | https://github.com/rangpurcollection/fuzzy-telegram | 0 | 0| 
-| 20230108T13:08:18Z | 一个基于图同构网络模型预测Web漏洞位置的模糊测试工具 | https://github.com/BlakeZc/GNNWebFuzz | 0 | 0| 
 
 
 
