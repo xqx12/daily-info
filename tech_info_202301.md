@@ -79,7 +79,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230109T02:07:24Z | Docker env supporting MS17-010 exploits | https://github.com/SpacemanHenry/MS17-010-docker | 0 | 0| 
+| 20230109T02:23:03Z | Docker env supporting MS17-010 exploits | https://github.com/SpacemanHenry/MS17-010-docker | 0 | 0| 
+| 20230109T02:21:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4855 | 705| 
 | 20230109T01:21:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12545 | 2156| 
 | 20230109T01:18:47Z | Null | https://github.com/0x414141414/New-Silent-Excel-Exploit | 0 | 0| 
 | 20230109T01:18:10Z | Null | https://github.com/0x414141414/-Silent-DOC-DOCX-Exploit-2023 | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20230109T00:28:37Z | %XSS automation tool helps hackers identify and exploit cross-site scripting vulnerabilities in web apps. Tests for reflected and persistent XSS. Customize request headers, cookies, proxies, and auth. Find and exploit vulnerabilities with our XSS automation tool.% | https://github.com/EmperialX/XSS-Automation-Tool | 0 | 0| 
 | 20230108T23:57:32Z | Null | https://github.com/NEED-Programming/Exploit-Development | 2 | 1| 
 | 20230108T21:53:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9811 | 1567| 
-| 20230108T20:41:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bn | 1 | 0| 
 
 
 # backdoor on Github 推荐
