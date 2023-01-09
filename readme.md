@@ -51,7 +51,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230108T23:57:32Z | Null | https://github.com/NEED-Programming/Exploit-Development | 2 | 1| 
 | 20230108T21:53:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9811 | 1567| 
-| 20230108T20:54:04Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12545 | 2156| 
 | 20230108T20:41:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bn | 1 | 0| 
 | 20230108T20:41:26Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production. Not all scripts or programs are fully tested/debugged, either. | https://github.com/1emvr/The-Art-of-Exploitation | 1 | 0| 
 | 20230108T20:40:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bn | 1 | 0| 
@@ -59,6 +58,7 @@
 | 20230108T13:21:17Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 54 | 7| 
 | 20230108T12:04:41Z | PoC of a patched DoS exploit in PocketMine-MP. | https://github.com/szerookii/pm-crasher | 0 | 0| 
 | 20230108T11:56:37Z | EDuty/CyberVAL is a fully featured internal hack for Valorant written with C++. | https://github.com/mt7z/Valorant-Internal-Cheats-Aimbot-ESP | 1 | 0| 
+| 20230108T11:40:39Z | These python scripts can be used to exploit a server with no memory protection enabled. These scripts are ordered in a step by step manner. | https://github.com/Asifoffl/BufferOverflowExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
