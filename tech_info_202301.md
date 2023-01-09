@@ -94,6 +94,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230109T01:54:24Z | traffic signaling backdoor for Linux using eBPF with XDP | https://github.com/agentzex/ebpf-traffic-signaling-backdoor | 0 | 0| 
 | 20230108T21:25:58Z | simple linux backdoor written in c++ | https://github.com/yourAnonDH/shitDoor | 0 | 0| 
 | 20230108T18:47:07Z | Null | https://github.com/Miguelzintralha/script-Serverside-Backdoors | 0 | 0| 
 | 20230108T16:23:19Z | Null | https://github.com/Anonimo055x/XML-Backdoor | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20230107T09:32:04Z | BackDoor Client | https://github.com/Shermine237/BackDoor_client_python | 0 | 0| 
 | 20230107T09:21:36Z | BackDoor server | https://github.com/Shermine237/BackDoor_server_python | 0 | 0| 
 | 20230107T06:44:25Z | Null | https://github.com/improfessor007/windows-backdoor | 0 | 0| 
-| 20230107T05:38:42Z | Null | https://github.com/Thehacker-arch/cpp_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
