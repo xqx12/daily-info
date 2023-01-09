@@ -72,9 +72,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230108T20:39:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3260 | 460| 
+| 20230108T18:05:23Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 55 | 7| 
+| 20230108T16:38:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 610 | 111| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
-| 20230108T12:52:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 609 | 111| 
-| 20230108T11:29:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3259 | 460| 
 | 20230108T04:37:34Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 40 | 2| 
 
 
