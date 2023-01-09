@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230109T01:50:07Z | Python fuzzy decision tree classification task  | https://github.com/zagorskim/Fuzzy_Reasoning | 0 | 0| 
 | 20230109T01:25:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8234 | 1795| 
 | 20230109T00:50:57Z | Null | https://github.com/TharuJayathilaka/CO542-Neural-Networks-and-Fuzzy-Systems | 0 | 0| 
 | 20230108T23:19:02Z | Made for LD 52, not submitted during Jam because of time constraints. | https://github.com/ShalinLathigra/fuzzy-memory | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20230108T13:39:15Z | Null | https://github.com/rangpurcollection/fuzzy-telegram | 0 | 0| 
 | 20230108T13:08:18Z | 一个基于图同构网络模型预测Web漏洞位置的模糊测试工具 | https://github.com/BlakeZc/GNNWebFuzz | 0 | 0| 
 | 20230108T11:30:17Z | Null | https://github.com/Heritsam/fuzzy_logic | 0 | 0| 
-| 20230108T11:20:14Z | Java fuzzer aiming at Log4Shell | https://github.com/hermit1012/logzzer | 0 | 0| 
 
 
 

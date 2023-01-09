@@ -55,9 +55,9 @@
 | 20230108T20:40:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bn | 1 | 0| 
 | 20230108T13:58:28Z | %Introducing the XSS Automated Tool - a powerful and efficient way to discover and exploit cross-site scripting vulnerabilities on any website.Discover and exploit XSS vulnerabilities with ease using the XSS Automated Tool. Test payloads and injection points on any website to find weaknesses.% | https://github.com/EmperialX/XSS-Automated-Tool | 0 | 0| 
 | 20230108T13:21:17Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 54 | 7| 
+| 20230108T12:37:29Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2447 | 363| 
 | 20230108T12:04:41Z | PoC of a patched DoS exploit in PocketMine-MP. | https://github.com/szerookii/pm-crasher | 0 | 0| 
 | 20230108T11:56:37Z | EDuty/CyberVAL is a fully featured internal hack for Valorant written with C++. | https://github.com/mt7z/Valorant-Internal-Cheats-Aimbot-ESP | 1 | 0| 
-| 20230108T11:40:39Z | These python scripts can be used to exploit a server with no memory protection enabled. These scripts are ordered in a step by step manner. | https://github.com/Asifoffl/BufferOverflowExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
