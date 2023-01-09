@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230109T13:22:58Z | CVE-2022-2602 | Null | https://github.com/th3-5had0w/CVE-2022-2602-Study | | 
 | 20230109T12:24:54Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
 | 20230109T11:54:10Z | CVE-2022-33276 | Memory corruption due to buffer copy without checking size of input in modem while receiving WMI_REQUEST_STATS_CMDID command. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33276 | | 
 | 20230109T11:54:05Z | CVE-2022-33274 | Memory corruption in android core due to improper validation of array index while returning feature ids after license authentication. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33274 | | 
@@ -55,13 +56,12 @@
 | 20230109T11:53:47Z | CVE-2022-33218 | Memory corruption in Automotive due to improper input validation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33218 | | 
 | 20230109T11:53:44Z | CVE-2022-33265 | Memory corruption due to information exposure in Powerline Communication Firmware while sending different MMEs from a single, unassociated device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33265 | | 
 | 20230109T11:53:39Z | CVE-2022-25725 | Denial of service in MODEM due to improper pointer handling CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25725 | | 
-| 20230109T11:53:36Z | CVE-2022-25721 | Memory corruption in video driver due to type confusion error during video playback CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25721 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230109T12:36:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9836 | 338| 
+| 20230109T13:21:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9837 | 338| 
 | 20230109T10:07:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 176 | 1| 
 | 20230109T08:54:19Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 63 | 5| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 604| 
