@@ -83,6 +83,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230110T13:25:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/public-node-s7wUS-lie-exploit | 0 | 0| 
 | 20230110T13:23:25Z | this is new exploit generation and automatically binding tool maid in nepal | https://github.com/kishwordulal1234/mahadev_v1 | 0 | 0| 
+| 20230110T13:08:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3938 | 493| 
 | 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
 | 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 2| 
 | 20230110T12:30:16Z | Mirror of website https://cometrbx.xyz/ | https://github.com/Gopnik1255/Comet-exploit-mirror | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230110T08:44:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 561 | 32| 
 | 20230110T06:30:54Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 56 | 34| 
 | 20230110T06:30:42Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 60 | 34| 
-| 20230110T02:57:53Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,6 +111,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:55:06Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 7 | 5| 
 | 20230110T11:58:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 286 | 67| 
 | 20230110T11:51:01Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 42| 
 | 20230110T11:16:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 535 | 31| 
@@ -120,7 +121,6 @@
 | 20230108T18:05:23Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 55 | 7| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
 | 20230108T04:37:34Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 40 | 2| 
-| 20230104T04:10:26Z | A program that performs symbolic execution about all the possible paths a program written in a c-like language (SimpleC) can take. The output are formulas in CNF that represent the possible paths the program could generate, these formulas can be analyzed via a SAT solver.. | https://github.com/rndae/symbolic-execution-clikelang | 0 | 0| 
 
 
 # big4 on Github 推荐
