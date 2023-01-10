@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T01:48:14Z | An NLP-based fuzzing assistance tool for extracting program option constraints. | https://github.com/waugustus/CarpetFuzz | 0 | 0| 
 | 20230110T00:20:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1218 | 159| 
 | 20230109T23:26:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8244 | 1797| 
 | 20230109T23:00:24Z | Witcher is the first framework for using AFL to fuzz web applications. | https://github.com/sefcom/Witcher | 1 | 0| 
@@ -145,7 +146,6 @@
 | 20230109T14:07:30Z | Null | https://github.com/sclauguico/adaptive-neuro-fuzzy-inference-system-on-aquaphotomics-development-for-aquaponic-water-nutrient | 0 | 0| 
 | 20230109T13:46:53Z | Simple Echidna Fuzz Template | https://github.com/xternet/echidna-template | 0 | 0| 
 | 20230109T13:45:16Z | Null | https://github.com/quinderbi/tuproFuzzification | 0 | 0| 
-| 20230109T13:44:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4508 | 1091| 
 
 
 
