@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:23:25Z | this is new exploit generation and automatically binding tool maid in nepal | https://github.com/kishwordulal1234/mahadev_v1 | 0 | 0| 
 | 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
 | 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 2| 
 | 20230110T12:30:16Z | Mirror of website https://cometrbx.xyz/ | https://github.com/Gopnik1255/Comet-exploit-mirror | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20230110T06:30:42Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 60 | 34| 
 | 20230110T02:57:53Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 4 | 0| 
 | 20230110T02:56:45Z | Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. | https://github.com/matteozappia/DynamicCow | 118 | 3| 
-| 20230110T02:24:35Z | basicall uses imgui for printing in the console of roblox | https://github.com/Sploiter13/Print-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
