@@ -52,9 +52,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
 | 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 1| 
 | 20230110T12:30:16Z | Mirror of website https://cometrbx.xyz/ | https://github.com/Gopnik1255/Comet-exploit-mirror | 0 | 0| 
-| 20230110T11:56:16Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12558 | 2159| 
 | 20230110T11:21:27Z | An open source, educational-purpose roblox serversided exploit. | https://github.com/serjant12f/Filtering-Disabled-ROBLOX | 0 | 0| 
 | 20230110T08:44:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 561 | 32| 
 | 20230110T06:30:54Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 56 | 34| 
@@ -91,12 +91,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
 | 20230110T12:45:59Z | Basics for running fuzz tests | https://github.com/holochain/fuzzbox | 0 | 0| 
 | 20230110T12:34:55Z | Null | https://github.com/JahscareAdekunle/fuzzy | 0 | 0| 
 | 20230110T11:33:19Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1859 | 241| 
-| 20230110T11:07:23Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 2 | 0| 
 | 20230110T10:07:18Z | Null | https://github.com/zyqdragon/TS_fuzzy_model_and_control | 0 | 0| 
 | 20230110T09:19:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8245 | 1797| 
 | 20230110T02:58:09Z | Null | https://github.com/danbidan/Fuzzy-thesis | 0 | 0| 
