@@ -53,7 +53,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
-| 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 1| 
+| 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 2| 
 | 20230110T12:30:16Z | Mirror of website https://cometrbx.xyz/ | https://github.com/Gopnik1255/Comet-exploit-mirror | 0 | 0| 
 | 20230110T11:21:27Z | An open source, educational-purpose roblox serversided exploit. | https://github.com/serjant12f/Filtering-Disabled-ROBLOX | 0 | 0| 
 | 20230110T08:44:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 561 | 32| 
