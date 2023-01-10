@@ -142,10 +142,10 @@
 | 20230109T23:00:24Z | Witcher is the first framework for using AFL to fuzz web applications. | https://github.com/sefcom/Witcher | 1 | 0| 
 | 20230109T22:23:35Z | Evolutionary Coverage-guided Fuzzing engine | https://github.com/matt24smith/ecfuzz | 0 | 0| 
 | 20230109T22:03:52Z | Null | https://github.com/Vladyslaviuss/homework_22__FuzzGenerator__V.Marakhovskyi | 0 | 0| 
+| 20230109T17:58:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3354 | 398| 
 | 20230109T15:49:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2637 | 180| 
 | 20230109T14:07:30Z | Null | https://github.com/sclauguico/adaptive-neuro-fuzzy-inference-system-on-aquaphotomics-development-for-aquaponic-water-nutrient | 0 | 0| 
 | 20230109T13:46:53Z | Simple Echidna Fuzz Template | https://github.com/xternet/echidna-template | 0 | 0| 
-| 20230109T13:45:16Z | Null | https://github.com/quinderbi/tuproFuzzification | 0 | 0| 
 
 
 
