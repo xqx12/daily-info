@@ -16,6 +16,9 @@
 | 20230109 | Squirrel.Windows存在DLL劫持漏洞。 | https://archcloudlabs.com/projects/cve-2022-46330/| 
 | 20230109 | 介绍 Foxit Reader 自己实现的内存管理细节 | http://paper.seebug.org/2039/| 
 | 20230109 | 从原理、性能等角度对zkSNARKs、zkSTARKs这两种零知识证明的实现进行对比 | http://pseudotheos.mirror.xyz/_LAi4cCFz2gaC-3WgNmri1eTvckA32L7v31A8saJvqg| 
+| 20230109 | TikTok的VMP保护分析 | https://www.reddit.com/r/ReverseEngineering/comments/107fqih/reverse_engineering_tiktoks_vm_obfuscation_part_2/| 
+| 20230109 | VSCode扩展可以被用作攻击向量RCE开发者的电脑。 | https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html| 
+| 20230109 | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705| 
 
 
 # 安全维基 推荐
