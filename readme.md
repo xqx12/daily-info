@@ -91,13 +91,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:49:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1860 | 241| 
 | 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
 | 20230110T12:45:59Z | Basics for running fuzz tests | https://github.com/holochain/fuzzbox | 0 | 0| 
 | 20230110T12:34:55Z | Null | https://github.com/JahscareAdekunle/fuzzy | 0 | 0| 
-| 20230110T11:33:19Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1859 | 241| 
 | 20230110T10:07:18Z | Null | https://github.com/zyqdragon/TS_fuzzy_model_and_control | 0 | 0| 
 | 20230110T09:19:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8245 | 1797| 
 | 20230110T02:58:09Z | Null | https://github.com/danbidan/Fuzzy-thesis | 0 | 0| 
