@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
@@ -100,7 +101,6 @@
 | 20230110T10:07:18Z | Null | https://github.com/zyqdragon/TS_fuzzy_model_and_control | 0 | 0| 
 | 20230110T09:19:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8245 | 1797| 
 | 20230110T02:58:09Z | Null | https://github.com/danbidan/Fuzzy-thesis | 0 | 0| 
-| 20230110T02:15:38Z | Null | https://github.com/AngelDabnee/Fizz-Fuzz | 1 | 0| 
 
 
 
