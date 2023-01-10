@@ -19,13 +19,13 @@
 | 20230109 | TikTok的VMP保护分析 | https://www.reddit.com/r/ReverseEngineering/comments/107fqih/reverse_engineering_tiktoks_vm_obfuscation_part_2/| 
 | 20230109 | VSCode扩展可以被用作攻击向量RCE开发者的电脑。 | https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html| 
 | 20230109 | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705| 
+| 20230109 | Linux Kernel UAF漏洞细节，该漏洞是由于加锁逻辑实现问题，导致可以通过条件竞争造成UAF漏洞。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2391| 
 | 20230108 | Sauercloud团队公开RWCTF2023-Happy-Card题解，利用类型混淆漏洞实现OOB Read获取flag | http://kitctf.de/writeups/rwctf2023-happycard| 
 | 20230108 | 利用运行时报错信息指导WebGL api参数编译，并在主流浏览器中发现多个WebGL相关bug。 | http://www.usenix.org/system/files/sec23summer_249-peng-prepub.pdf| 
 | 20230106 | Go 语言版 NTLMRecon ，可用来扫描并识别目标 Web 服务器上支持 NTLM 认证的 Endpoint | http://securityonline.info/ntlmrecon-identify-commonly-accessible-ntlm-authentication-endpoints/| 
 | 20230106 | OWASSRF + TabShell 利用链 | https://blog.viettelcybersecurity.com/tabshell-owassrf/| 
 | 20230106 | MemoryModule模块实现纯python的内存加载dll,用于bypass AV/EDR以及一些其他用途 | https://github.com/naksyn/PythonMemoryModule| 
 | 20230106 | MSTI发布关于MacOS勒索软件的技术分析 | https://www.microsoft.com/en-us/security/blog/2023/01/05/unraveling-the-techniques-of-mac-ransomware/| 
-| 20230106 | CVE-2022-47629:影响libksba的漏洞CVE-2022-3515变体的分析 | https://github.com/elttam/publications/blob/master/writeups/CVE-2022-47629.md| 
 
 
 # 安全维基 推荐

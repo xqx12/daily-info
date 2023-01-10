@@ -19,6 +19,7 @@
 | 20230109 | TikTok的VMP保护分析 | https://www.reddit.com/r/ReverseEngineering/comments/107fqih/reverse_engineering_tiktoks_vm_obfuscation_part_2/| 
 | 20230109 | VSCode扩展可以被用作攻击向量RCE开发者的电脑。 | https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html| 
 | 20230109 | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705| 
+| 20230109 | Linux Kernel UAF漏洞细节，该漏洞是由于加锁逻辑实现问题，导致可以通过条件竞争造成UAF漏洞。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2391| 
 
 
 # 安全维基 推荐
