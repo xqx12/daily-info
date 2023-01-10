@@ -83,6 +83,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230110T13:25:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/public-node-s7wUS-lie-exploit | 0 | 0| 
 | 20230110T13:23:25Z | this is new exploit generation and automatically binding tool maid in nepal | https://github.com/kishwordulal1234/mahadev_v1 | 0 | 0| 
+| 20230110T13:23:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 570 | 152| 
 | 20230110T13:08:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3938 | 493| 
 | 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
 | 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 2| 
@@ -90,7 +91,6 @@
 | 20230110T11:21:27Z | An open source, educational-purpose roblox serversided exploit. | https://github.com/serjant12f/Filtering-Disabled-ROBLOX | 0 | 0| 
 | 20230110T08:44:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 561 | 32| 
 | 20230110T06:30:54Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 56 | 34| 
-| 20230110T06:30:42Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 60 | 34| 
 
 
 # backdoor on Github 推荐
@@ -111,7 +111,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230110T13:55:06Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 7 | 5| 
+| 20230110T13:55:06Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 7 | 6| 
 | 20230110T11:58:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 286 | 67| 
 | 20230110T11:51:01Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 42| 
 | 20230110T11:16:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 535 | 31| 
