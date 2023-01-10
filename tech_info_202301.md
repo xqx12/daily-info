@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T02:15:34Z | basicall uses imgui for printing in the console of roblox | https://github.com/Sploiter13/Print-Exploit | 0 | 0| 
 | 20230110T01:37:56Z | Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. | https://github.com/matteozappia/DynamicCow | 116 | 3| 
 | 20230109T23:54:34Z | A vulnerability was found in Control iD Panel. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the component Web Interface. The manipulation of the argument Nome leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0125 | 0 | 0| 
 | 20230109T23:40:04Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 323 | 28| 
@@ -89,7 +90,6 @@
 | 20230109T21:43:42Z | The Qe SEO Handyman WordPress plugin through 1.0 does not properly sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4351 | 0 | 0| 
 | 20230109T21:43:22Z | The Qe SEO Handyman WordPress plugin through 1.0 does not properly sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4352 | 0 | 0| 
 | 20230109T20:57:32Z | Collection of useful PowerShell tools and exploits. | https://github.com/TuxStux/PowerShell | 0 | 0| 
-| 20230109T19:10:41Z | EDuty/CyberVAL is a fully featured internal hack for Valorant written with C++. | https://github.com/Mt7zz/Valorant-Internal-Cheats-Aimbot-ESP | 2 | 0| 
 
 
 # backdoor on Github 推荐
