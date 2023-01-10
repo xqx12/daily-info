@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T02:58:09Z | Null | https://github.com/danbidan/Fuzzy-thesis | 0 | 0| 
 | 20230110T02:15:38Z | Null | https://github.com/AngelDabnee/Fizz-Fuzz | 1 | 0| 
 | 20230110T01:48:14Z | An NLP-based fuzzing assistance tool for extracting program option constraints. | https://github.com/waugustus/CarpetFuzz | 0 | 0| 
 | 20230110T00:20:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1218 | 159| 
@@ -145,7 +146,6 @@
 | 20230109T22:03:52Z | Null | https://github.com/Vladyslaviuss/homework_22__FuzzGenerator__V.Marakhovskyi | 0 | 0| 
 | 20230109T17:58:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3354 | 398| 
 | 20230109T15:49:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2637 | 180| 
-| 20230109T14:07:30Z | Null | https://github.com/sclauguico/adaptive-neuro-fuzzy-inference-system-on-aquaphotomics-development-for-aquaponic-water-nutrient | 0 | 0| 
 
 
 
