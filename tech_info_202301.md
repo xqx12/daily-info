@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T00:33:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 181 | 1| 
+| 20230111T02:26:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 182 | 1| 
 | 20230110T23:02:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9859 | 339| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
 | 20230110T15:43:41Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 67 | 5| 
@@ -140,12 +140,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T02:22:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3357 | 398| 
 | 20230111T01:07:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8247 | 1797| 
 | 20230111T00:39:59Z | Controle de sistema de irrigação usando lógica fuzzy | https://github.com/MMENDONNCA/controle_fuzzy | 0 | 0| 
 | 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230110T22:15:03Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2.0 | 0 | 0| 
 | 20230110T16:19:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 226 | 32| 
-| 20230110T14:58:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3356 | 398| 
 | 20230110T13:49:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1860 | 241| 
 | 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
