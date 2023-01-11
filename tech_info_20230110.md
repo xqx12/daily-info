@@ -14,6 +14,7 @@
 | 20230110 | RWCTF2023 NonHeavyFTP的writeup，本题令选手尝试在比赛过程中挖掘开源FTPServer lightftp的race codition 0day漏洞并加以利用。 | https://f0cus77.github.io/RWCTF-2023-NonHeavyFTP-writeup/| 
 | 20230110 | 一种新的fuzzer设计，相比于常见的对数据进行变异思路，本文提出一种对生成器的行为进行变异（错误注入）的思路。这样生成的数据可在结构上保持大部分合法性。 | http://securityonline.info/fuzztruction-an-academic-prototype-of-a-fuzzer/| 
 | 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
+| 20230110 | 自动化分析恶意软件 | https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html| 
 
 
 # 安全维基 推荐
