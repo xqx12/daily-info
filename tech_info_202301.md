@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T01:07:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8247 | 1797| 
 | 20230111T00:39:59Z | Controle de sistema de irrigação usando lógica fuzzy | https://github.com/MMENDONNCA/controle_fuzzy | 0 | 0| 
 | 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230110T22:15:03Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2.0 | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
-| 20230110T12:45:59Z | Basics for running fuzz tests | https://github.com/holochain/fuzzbox | 0 | 0| 
 
 
 
