@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T13:23:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9874 | 339| 
+| 20230111T13:48:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9875 | 339| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230111T09:35:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 186 | 1| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T13:46:54Z | Null | https://github.com/giabao18092002/Blood-And-Iron-Crash-Exploit | 0 | 0| 
+| 20230111T13:49:40Z | Null | https://github.com/giabao18092002/Blood-And-Iron-Crash-Exploit | 0 | 0| 
 | 20230111T13:32:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
 | 20230111T12:49:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5179 | 726| 
+| 20230111T12:29:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3941 | 494| 
 | 20230111T12:06:16Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
 | 20230111T11:11:56Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34440 | 0 | 0| 
 | 20230111T11:11:52Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34441 | 0 | 0| 
 | 20230111T09:14:15Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 119 | 16| 
 | 20230111T08:35:55Z | Exploiting cameras with a very distinctive HTTP Server header of %JAWS/1.0%. | https://github.com/33swordsmen/Pwning-CCTV-cameras | 8 | 0| 
 | 20230111T02:59:34Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
-| 20230111T02:39:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-agnq-Raz1O-tackle-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
