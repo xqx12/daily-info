@@ -145,11 +145,11 @@
 | 20230111T12:09:44Z | Null | https://github.com/oxeekezy/FuzzyPendulum | 0 | 0| 
 | 20230111T12:05:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8252 | 1798| 
 | 20230111T10:22:48Z | Null | https://github.com/Vladyslaviuss/homework_22__Fuzz_Generator__V.Marakhovskyi | 0 | 0| 
+| 20230111T09:04:15Z | Confuzzion is a Java Virtual Machine (JVM) fuzzer generating Java programs to find bugs and vulnerabilities in the Java VM. | https://github.com/software-engineering-and-security/confuzzion | 0 | 2| 
 | 20230111T07:35:03Z | A function to let users add cards to there wallet by fuzzy search way to text the wanted card name. | https://github.com/dongli029/fuzzy-search | 0 | 0| 
 | 20230111T07:22:53Z | Basic fuzzing example using Foundry | https://github.com/rodrigoherrerai/foundry-fuzzer | 0 | 0| 
 | 20230111T02:22:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3357 | 398| 
 | 20230111T00:39:59Z | Controle de sistema de irrigação usando lógica fuzzy | https://github.com/MMENDONNCA/controle_fuzzy | 0 | 0| 
-| 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 
 
 
