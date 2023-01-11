@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T02:08:03Z | Lman3a Laravel Get   SMTP , TWILLIO , SHELLS , Exploit an Vuln | https://github.com/kamalkarlos/Lman3a-Laravel | 3 | 2| 
 | 20230111T00:24:52Z | Repository containing exploit code during my studies. | https://github.com/ReverseThrottle/0xExploitDev | 0 | 0| 
 | 20230111T00:11:29Z | The source code used for solving the Bethe equations for various potentials such as the inverse-square potential, inverse-sinh-squared potential and the delta potential. Ultimately, after a sensible Coulomb phase shift has been found, the code will be exploited to investigate the Coulomb system. | https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem | 0 | 1| 
 | 20230110T22:46:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 18 | 19| 
@@ -91,7 +92,6 @@
 | 20230110T17:54:58Z | 💥, Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/sulddd/Rust-Cheat | 1 | 0| 
 | 20230110T17:54:40Z | 💉, Fivem Executor , UNDETECTED , DUMPER | https://github.com/sulddd/Fivem-Executor | 1 | 1| 
 | 20230110T17:54:06Z | 🖥️ , HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/sulddd/HWID-Spoofer | 1 | 0| 
-| 20230110T17:53:27Z | 🔫 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/sulddd/Fortnite-softaim | 1 | 0| 
 
 
 # backdoor on Github 推荐
