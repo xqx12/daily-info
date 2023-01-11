@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230110T18:32:37Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
 | 20230110T12:30:19Z | CVE-2022-41082 | PoC for the CVE-2022-41080 , CVE-2022-41082 and CVE-2022-41076 Vulnerabilities Affecting Microsoft Exchange Servers | https://github.com/balki97/OWASSRF-CVE-2022-41082-POC | | 
 | 20230110T12:06:55Z | CVE-2023-22903 | api/views/user.py in LibrePhotos before e19e539 has incorrect access control. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22903 | | 
 | 20230110T12:06:50Z | CVE-2021-46871 | tag.ex in Phoenix Phoenix.HTML (aka phoenix_html) before 3.0.4 allows XSS in HEEx class attributes. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-46871 | | 
@@ -34,7 +35,6 @@
 | 20230110T12:06:27Z | CVE-2022-4429 | Avira Security for Windows contains an unquoted service path which allows attackers with local administrative privileges to cause a Denial of Service. The issue was fixed with Avira Security version 1.1.78 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4429 | | 
 | 20230110T12:06:22Z | CVE-2022-4294 | Norton, Avira, Avast and AVG Antivirus for Windows may be susceptible to a Privilege Escalation vulnerability, which is a type of issue whereby an attacker may attempt to compromise the software application to gain elevated access to resources that are normally protected from an application or user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4294 | | 
 | 20230110T06:37:23Z | CVE-2023-0012 | In SAP Host Agent (Windows) - versions 7.21, 7.22, an attacker who gains local membership to SAP_LocalAdmin could be able to replace executables with a malicious file that will be started under a privileged account. Note that by default all user members of SAP_LocaAdmin are denied the ability to logon locally by securi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0012 | | 
-| 20230110T06:37:18Z | CVE-2023-0013 | The ABAP Keyword Documentation of SAP NetWeaver Application Server - versions 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, for ABAP and ABAP Platform does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability. On successful exploitation an attacker can cause lim CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0013 | | 
 
 
 # klee on Github 推荐
