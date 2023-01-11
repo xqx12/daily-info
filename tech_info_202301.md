@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230111T01:33:39Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/rvermeulen/codeql-workshop-cve-2021-21380 | | 
 | 20230111T00:11:14Z | CVE-2023-21540 | Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21550, CVE-2023-21559. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21540 | | 
 | 20230111T00:11:09Z | CVE-2023-21537 | Microsoft Message Queuing (MSMQ) Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21537 | | 
 | 20230111T00:11:05Z | CVE-2023-21765 | Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21760. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21765 | | 
@@ -55,7 +56,6 @@
 | 20230111T00:10:48Z | CVE-2023-21535 | Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21548. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21535 | | 
 | 20230111T00:10:42Z | CVE-2023-21536 | Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21753. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21536 | | 
 | 20230111T00:10:38Z | CVE-2023-21527 | Windows iSCSI Service Denial of Service Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21527 | | 
-| 20230111T00:10:34Z | CVE-2023-21531 | Azure Service Fabric Container Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21531 | | 
 
 
 # klee on Github 推荐
