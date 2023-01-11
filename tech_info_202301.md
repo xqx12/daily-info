@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
+| 20230111 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP| 
+| 20230111 | RWCTF 5th ShellFind 官方Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ| 
+| 20230111 | KITCTF CTF 2022 Koeri Factory [PWN] Writeup | https://github.com/nimrods8/KITCTF-CTF-2022| 
+| 20230111 | Lexmark MC3224adwe printer的RCE漏洞,用于Pwn2Own Toronto 2022比赛.其中使用了文件上传,SSRF,文件复制,命令注入等功能组合利用最后实现RCE | https://github.com/blasty/lexmark| 
+| 20230111 | Kimsuky朝APT组织向安全人员发出的邀请函的形式投递使用远程模板注入技术的恶意宏进行攻击 | http://asec.ahnlab.com/ko/45537/| 
 | 20230110 | CVE-2022-43473 ZOHO ManageEngine OpManager XXE注入 | https://da22le.github.io/cve-2022-43473-zoho-manageengine-opmanager-xxe%E6%B3%A8%E5%85%A5/| 
 | 20230110 | 2022年CTF Web前端与JS题目总结 | https://blog.huli.tw/2022/12/26/ctf-2022-web-js-summary/| 
 | 20230110 | [Real World CTF 2023] The cult of 8 bit 利用xsleak的一个非预期解法的writeup | http://sh1yo.art/ctf/thecultof8bit/| 
@@ -20,12 +26,6 @@
 | 20230110 | 利用Chat GPT攻击者可以0成本的编写恶意代码。 | https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code| 
 | 20230110 | ARMv8 AES指令存在侧信道漏洞，可以还原加密的key。 | https://www.reddit.com/r/netsec/comments/1087yf6/an_electromagneticwave_sidechannel_issue_on_armv8/| 
 | 20230109 | Code4rena上top1 reseacher的演讲，介绍他如何在合约众测平台Code4rena成为第一人。 | https://www.youtube.com/watch?v=VRK2rLFPU0o| 
-| 20230109 | 一个在macOS 11安装并使用GDB的教程。不支持M1 Mac。 | https://gist.github.com/mike-myers-tob/9a6013124bad7ff074d3297db2c98247| 
-| 20230109 | 清华大学发布的130B规模的大模型，并声称其性能在davinci 和 text-davinci-001之间。 | https://huggingface.co/spaces/THUDM/GLM-130B| 
-| 20230109 | 软件供应链安全的ATTCK | http://riskexplorer.endorlabs.com/| 
-| 20230109 | 一个生成伪装成图片的钓鱼马的工具 | https://github.com/Tsuyoken/ImgBackdoor| 
-| 20230109 | rwctf2023-ASTLIBRA的预期解 | https://github.com/wupco/rwctf2023-ASTLIBRA| 
-| 20230109 | 警惕：魔改后的CIA攻击套件Hive进入黑灰产领域 | https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230111T01:33:39Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/rvermeulen/codeql-workshop-cve-2021-21380 | | 
-| 20230111T00:11:14Z | CVE-2023-21540 | Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21550, CVE-2023-21559. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21540 | | 
-| 20230111T00:11:09Z | CVE-2023-21537 | Microsoft Message Queuing (MSMQ) Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21537 | | 
-| 20230111T00:11:05Z | CVE-2023-21765 | Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21760. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21765 | | 
-| 20230111T00:11:00Z | CVE-2023-21539 | Windows Authentication Remote Code Execution Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21539 | | 
-| 20230111T00:10:57Z | CVE-2023-21764 | Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21764 | | 
-| 20230111T00:10:52Z | CVE-2023-21541 | Windows Task Scheduler Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21541 | | 
-| 20230111T00:10:48Z | CVE-2023-21535 | Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21548. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21535 | | 
-| 20230111T00:10:42Z | CVE-2023-21536 | Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21753. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21536 | | 
-| 20230111T00:10:38Z | CVE-2023-21527 | Windows iSCSI Service Denial of Service Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21527 | | 
+| 20230111T11:46:22Z | CVE-2022-23529 | Null | https://github.com/despossivel/CVE-2022-23529-lab | | 
+| 20230111T11:13:38Z | CVE-2021-26403 | Insufficient checks in SEV may lead to a malicious hypervisor disclosing the launch secret potentially resulting in compromise of VM confidentiality. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26403 | | 
+| 20230111T11:13:34Z | CVE-2021-26402 | Insufficient bounds checking in ASP (AMD Secure Processor) firmware while handling BIOS mailbox commands, may allow an attacker to write partially-controlled data out-of-bounds to SMM or SEV-ES regions which may lead to a potential loss of integrity and availability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26402 | | 
+| 20230111T11:13:29Z | CVE-2021-26396 | Insufficient validation of address mapping to IO in ASP (AMD Secure Processor) may result in a loss of memory integrity in the SNP guest. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26396 | | 
+| 20230111T11:13:26Z | CVE-2021-26398 | Insufficient input validation in SYS_KEY_DERIVE system call in a compromised user application or ABL may allow an attacker to corrupt ASP (AMD Secure Processor) OS memory which may lead to potential arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26398 | | 
+| 20230111T11:13:21Z | CVE-2021-26355 | Insufficient fencing and checks in System Management Unit (SMU) may result in access to invalid message port registers that could result in a potential denial-of-service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26355 | | 
+| 20230111T11:13:17Z | CVE-2021-26328 | Failure to verify the mode of CPU execution at the time of SNP_INIT may lead to a potential loss of memory integrity for SNP guests. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26328 | | 
+| 20230111T11:13:13Z | CVE-2021-26346 | Failure to validate the integer operand in ASP (AMD Secure Processor) bootloader may allow an attacker to introduce an integer overflow in the L2 directory table in SPI flash resulting in a potential denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26346 | | 
+| 20230111T11:13:08Z | CVE-2021-26343 | Insufficient validation in ASP BIOS and DRTM commands may allow malicious supervisor x86 software to disclose the contents of sensitive memory which may result in information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26343 | | 
+| 20230111T11:13:03Z | CVE-2021-26316 | Failure to validate the communication buffer and communication service in the BIOS may allow an attacker to tamper with the buffer resulting in potential SMM (System Management Mode) arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26316 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T02:26:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 182 | 1| 
-| 20230110T23:02:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9859 | 339| 
+| 20230111T12:55:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9873 | 339| 
+| 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
+| 20230111T09:35:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 186 | 1| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
 | 20230110T15:43:41Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 67 | 5| 
-| 20230110T11:45:05Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230109T20:03:46Z | Null | https://github.com/kleecollage/kleecollage | 0 | 0| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
 | 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
@@ -75,38 +75,38 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230110T11:58:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 286 | 67| 
+| 20230111T12:39:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 287 | 67| 
 | 20230105T06:57:30Z | Null | https://github.com/dona7025/S2ExamDs-ml | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T12:49:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5179 | 726| 
+| 20230111T12:06:16Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
+| 20230111T11:11:56Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34440 | 0 | 0| 
+| 20230111T11:11:52Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34441 | 0 | 0| 
+| 20230111T10:47:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12568 | 2159| 
+| 20230111T09:14:15Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 119 | 16| 
+| 20230111T08:35:55Z | Exploiting cameras with a very distinctive HTTP Server header of %JAWS/1.0%. | https://github.com/33swordsmen/Pwning-CCTV-cameras | 8 | 0| 
 | 20230111T02:59:34Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
 | 20230111T02:39:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-agnq-Raz1O-tackle-exploit | 0 | 0| 
 | 20230111T02:08:03Z | Lman3a Laravel Get   SMTP , TWILLIO , SHELLS , Exploit an Vuln | https://github.com/kamalkarlos/Lman3a-Laravel | 3 | 2| 
-| 20230111T00:24:52Z | Repository containing exploit code during my studies. | https://github.com/ReverseThrottle/0xExploitDev | 0 | 0| 
-| 20230111T00:11:29Z | The source code used for solving the Bethe equations for various potentials such as the inverse-square potential, inverse-sinh-squared potential and the delta potential. Ultimately, after a sensible Coulomb phase shift has been found, the code will be exploited to investigate the Coulomb system. | https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem | 0 | 1| 
-| 20230110T22:46:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 18 | 19| 
-| 20230110T20:59:55Z | PowerShell MachineAccountQuota and DNS exploit tools | https://github.com/Kevin-Robertson/Powermad | 857 | 157| 
-| 20230110T20:03:51Z | 🌲Rust Easy to use Public Cheat  , Aimbot + Esp | https://github.com/Mt7zz/Rust-ESP-AIMBOT | 2 | 0| 
-| 20230110T18:06:49Z | Chliha It is a beautiful and accurate tool for exploiting WordPress sites through which you can upload anything like Shell, Index, FilePHP Etc.... | https://github.com/kamalkarlos/Chliha | 0 | 0| 
-| 20230110T17:54:58Z | 💥, Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/sulddd/Rust-Cheat | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T08:44:59Z | The Backdoor Plugin genetration has gone. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
+| 20230111T06:52:35Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7424 | 1765| 
+| 20230111T04:54:00Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Plugin-Show | 0 | 0| 
 | 20230111T01:47:46Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 0 | 0| 
-| 20230111T00:35:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7422 | 1765| 
 | 20230110T18:21:04Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 7 | 1| 
 | 20230110T12:09:57Z | A Greifing Tool, Forceop, Backdoor Plugin For Grefing. | https://github.com/CoderIL/CodeyDoor | 1 | 0| 
 | 20230110T11:04:39Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 1 | 0| 
 | 20230109T21:25:03Z | Null | https://github.com/Killian202/backdoorpython | 0 | 0| 
 | 20230109T21:20:54Z | Null | https://github.com/Killian202/backdoor | 0 | 0| 
 | 20230109T19:23:28Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 1 | 1| 
-| 20230109T18:38:44Z | All OS commands | https://github.com/Maksaks/Backdoor | 0 | 0| 
-| 20230109T18:27:54Z | Free Minecraft 1.8.9 Skript Backdoor (i just make it for fun) | https://github.com/LegendaryMichoX/Infinity | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -127,7 +127,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T01:59:44Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 24 | 1| 
+| 20230111T01:59:44Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 24 | 2| 
 | 20230110T22:12:59Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 0 | 0| 
 | 20230110T03:04:27Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BS_VulnReport | 0 | 0| 
 | 20230107T14:25:39Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 67 | 15| 
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T13:00:14Z | fuzzbuzz custom library written in solidity | https://github.com/Zeecoworld/FuzzBuzz-Solidity-Library | 0 | 0| 
+| 20230111T12:27:36Z | Validade de alimentos utilizando Fuzzy | https://github.com/daniilomendes/ValidadecomFuzzy | 0 | 0| 
+| 20230111T12:09:44Z | Null | https://github.com/oxeekezy/FuzzyPendulum | 0 | 0| 
+| 20230111T12:05:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8252 | 1798| 
+| 20230111T10:22:48Z | Null | https://github.com/Vladyslaviuss/homework_22__Fuzz_Generator__V.Marakhovskyi | 0 | 0| 
+| 20230111T07:35:03Z | A function to let users add cards to there wallet by fuzzy search way to text the wanted card name. | https://github.com/dongli029/fuzzy-search | 0 | 0| 
+| 20230111T07:22:53Z | Basic fuzzing example using Foundry | https://github.com/rodrigoherrerai/foundry-fuzzer | 0 | 0| 
 | 20230111T02:22:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3357 | 398| 
-| 20230111T01:07:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8247 | 1797| 
 | 20230111T00:39:59Z | Controle de sistema de irrigação usando lógica fuzzy | https://github.com/MMENDONNCA/controle_fuzzy | 0 | 0| 
 | 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
-| 20230110T22:15:03Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2.0 | 0 | 0| 
-| 20230110T16:19:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 226 | 32| 
-| 20230110T13:49:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1860 | 241| 
-| 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
-| 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
-| 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 
 
 
