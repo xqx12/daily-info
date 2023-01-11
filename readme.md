@@ -12,6 +12,8 @@
 | 20230110 | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap| 
 | 20230110 | 关于如何fuzz http api的思考 | http://rashahacks.com/how-i-fuzz-and-hack-api/| 
 | 20230110 | RWCTF2023 NonHeavyFTP的writeup，本题令选手尝试在比赛过程中挖掘开源FTPServer lightftp的race codition 0day漏洞并加以利用。 | https://f0cus77.github.io/RWCTF-2023-NonHeavyFTP-writeup/| 
+| 20230110 | 一种新的fuzzer设计，相比于常见的对数据进行变异思路，本文提出一种对生成器的行为进行变异（错误注入）的思路。这样生成的数据可在结构上保持大部分合法性。 | http://securityonline.info/fuzztruction-an-academic-prototype-of-a-fuzzer/| 
+| 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
 
 
 # 安全维基 推荐
@@ -38,8 +40,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230110T13:50:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9854 | 339| 
-| 20230110T12:19:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 178 | 1| 
+| 20230110T23:02:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9859 | 339| 
+| 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
+| 20230110T15:43:41Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 67 | 5| 
 | 20230110T11:45:05Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 
 
@@ -67,8 +70,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T18:21:04Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 7 | 1| 
 | 20230110T12:09:57Z | A Greifing Tool, Forceop, Backdoor Plugin For Grefing. | https://github.com/CoderIL/CodeyDoor | 1 | 0| 
-| 20230110T11:56:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7421 | 1765| 
 | 20230110T11:04:39Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 1 | 0| 
 
 
@@ -92,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
+| 20230110T22:15:03Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2.0 | 0 | 0| 
+| 20230110T16:19:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 226 | 32| 
 | 20230110T13:49:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1860 | 241| 
 | 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
 | 20230110T12:45:59Z | Basics for running fuzz tests | https://github.com/holochain/fuzzbox | 0 | 0| 
-| 20230110T12:34:55Z | Null | https://github.com/JahscareAdekunle/fuzzy | 0 | 0| 
-| 20230110T10:07:18Z | Null | https://github.com/zyqdragon/TS_fuzzy_model_and_control | 0 | 0| 
-| 20230110T09:19:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8245 | 1797| 
-| 20230110T02:58:09Z | Null | https://github.com/danbidan/Fuzzy-thesis | 0 | 0| 
+| 20230110T12:39:36Z | Null | https://github.com/google/fuzztest | 208 | 12| 
 
 
 
