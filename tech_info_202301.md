@@ -16,6 +16,9 @@
 | 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
 | 20230110 | 自动化分析恶意软件 | https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html| 
 | 20230110 | Cisco Talos团队在Asus RT-AX82U发现了3个漏洞的细节，包括身份认证绕过（CVE-2022-35401）、信息泄露（CVE-2022-38105）和拒绝服务（CVE-2022-38393）。 | https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/| 
+| 20230110 | 一个特别搞笑的漏洞报告，还被人玩了梗https://twitter.com/testanull/status/1612794234314317824 | https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html| 
+| 20230110 | 利用Chat GPT攻击者可以0成本的编写恶意代码。 | https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code| 
+| 20230110 | ARMv8 AES指令存在侧信道漏洞，可以还原加密的key。 | https://www.reddit.com/r/netsec/comments/1087yf6/an_electromagneticwave_sidechannel_issue_on_armv8/| 
 | 20230109 | Code4rena上top1 reseacher的演讲，介绍他如何在合约众测平台Code4rena成为第一人。 | https://www.youtube.com/watch?v=VRK2rLFPU0o| 
 | 20230109 | 一个在macOS 11安装并使用GDB的教程。不支持M1 Mac。 | https://gist.github.com/mike-myers-tob/9a6013124bad7ff074d3297db2c98247| 
 | 20230109 | 清华大学发布的130B规模的大模型，并声称其性能在davinci 和 text-davinci-001之间。 | https://huggingface.co/spaces/THUDM/GLM-130B| 
@@ -23,9 +26,6 @@
 | 20230109 | 一个生成伪装成图片的钓鱼马的工具 | https://github.com/Tsuyoken/ImgBackdoor| 
 | 20230109 | rwctf2023-ASTLIBRA的预期解 | https://github.com/wupco/rwctf2023-ASTLIBRA| 
 | 20230109 | 警惕：魔改后的CIA攻击套件Hive进入黑灰产领域 | https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/| 
-| 20230109 | Squirrel.Windows存在DLL劫持漏洞。 | https://archcloudlabs.com/projects/cve-2022-46330/| 
-| 20230109 | 介绍 Foxit Reader 自己实现的内存管理细节 | http://paper.seebug.org/2039/| 
-| 20230109 | 从原理、性能等角度对zkSNARKs、zkSTARKs这两种零知识证明的实现进行对比 | http://pseudotheos.mirror.xyz/_LAi4cCFz2gaC-3WgNmri1eTvckA32L7v31A8saJvqg| 
 
 
 # 安全维基 推荐

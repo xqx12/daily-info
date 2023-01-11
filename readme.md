@@ -16,6 +16,9 @@
 | 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
 | 20230110 | 自动化分析恶意软件 | https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html| 
 | 20230110 | Cisco Talos团队在Asus RT-AX82U发现了3个漏洞的细节，包括身份认证绕过（CVE-2022-35401）、信息泄露（CVE-2022-38105）和拒绝服务（CVE-2022-38393）。 | https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/| 
+| 20230110 | 一个特别搞笑的漏洞报告，还被人玩了梗https://twitter.com/testanull/status/1612794234314317824 | https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html| 
+| 20230110 | 利用Chat GPT攻击者可以0成本的编写恶意代码。 | https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code| 
+| 20230110 | ARMv8 AES指令存在侧信道漏洞，可以还原加密的key。 | https://www.reddit.com/r/netsec/comments/1087yf6/an_electromagneticwave_sidechannel_issue_on_armv8/| 
 
 
 # 安全维基 推荐
