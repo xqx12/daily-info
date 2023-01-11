@@ -15,6 +15,7 @@
 | 20230110 | 一种新的fuzzer设计，相比于常见的对数据进行变异思路，本文提出一种对生成器的行为进行变异（错误注入）的思路。这样生成的数据可在结构上保持大部分合法性。 | http://securityonline.info/fuzztruction-an-academic-prototype-of-a-fuzzer/| 
 | 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
 | 20230110 | 自动化分析恶意软件 | https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html| 
+| 20230110 | Cisco Talos团队在Asus RT-AX82U发现了3个漏洞的细节，包括身份认证绕过（CVE-2022-35401）、信息泄露（CVE-2022-38105）和拒绝服务（CVE-2022-38393）。 | https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/| 
 
 
 # 安全维基 推荐

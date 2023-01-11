@@ -15,6 +15,7 @@
 | 20230110 | 一种新的fuzzer设计，相比于常见的对数据进行变异思路，本文提出一种对生成器的行为进行变异（错误注入）的思路。这样生成的数据可在结构上保持大部分合法性。 | http://securityonline.info/fuzztruction-an-academic-prototype-of-a-fuzzer/| 
 | 20230110 | StrongPity APT组织使用木马化的telegram软件模仿Shagle 应用程序进行水坑攻击 | https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/| 
 | 20230110 | 自动化分析恶意软件 | https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html| 
+| 20230110 | Cisco Talos团队在Asus RT-AX82U发现了3个漏洞的细节，包括身份认证绕过（CVE-2022-35401）、信息泄露（CVE-2022-38105）和拒绝服务（CVE-2022-38393）。 | https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/| 
 | 20230109 | Code4rena上top1 reseacher的演讲，介绍他如何在合约众测平台Code4rena成为第一人。 | https://www.youtube.com/watch?v=VRK2rLFPU0o| 
 | 20230109 | 一个在macOS 11安装并使用GDB的教程。不支持M1 Mac。 | https://gist.github.com/mike-myers-tob/9a6013124bad7ff074d3297db2c98247| 
 | 20230109 | 清华大学发布的130B规模的大模型，并声称其性能在davinci 和 text-davinci-001之间。 | https://huggingface.co/spaces/THUDM/GLM-130B| 
@@ -25,7 +26,6 @@
 | 20230109 | Squirrel.Windows存在DLL劫持漏洞。 | https://archcloudlabs.com/projects/cve-2022-46330/| 
 | 20230109 | 介绍 Foxit Reader 自己实现的内存管理细节 | http://paper.seebug.org/2039/| 
 | 20230109 | 从原理、性能等角度对zkSNARKs、zkSTARKs这两种零知识证明的实现进行对比 | http://pseudotheos.mirror.xyz/_LAi4cCFz2gaC-3WgNmri1eTvckA32L7v31A8saJvqg| 
-| 20230109 | TikTok的VMP保护分析 | https://www.reddit.com/r/ReverseEngineering/comments/107fqih/reverse_engineering_tiktoks_vm_obfuscation_part_2/| 
 
 
 # 安全维基 推荐
