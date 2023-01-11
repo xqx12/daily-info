@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T02:54:08Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
 | 20230111T02:39:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-agnq-Raz1O-tackle-exploit | 0 | 0| 
 | 20230111T02:08:03Z | Lman3a Laravel Get   SMTP , TWILLIO , SHELLS , Exploit an Vuln | https://github.com/kamalkarlos/Lman3a-Laravel | 3 | 2| 
 | 20230111T00:24:52Z | Repository containing exploit code during my studies. | https://github.com/ReverseThrottle/0xExploitDev | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20230110T20:03:51Z | 🌲Rust Easy to use Public Cheat  , Aimbot + Esp | https://github.com/Mt7zz/Rust-ESP-AIMBOT | 2 | 0| 
 | 20230110T18:06:49Z | Chliha It is a beautiful and accurate tool for exploiting WordPress sites through which you can upload anything like Shell, Index, FilePHP Etc.... | https://github.com/kamalkarlos/Chliha | 0 | 0| 
 | 20230110T17:54:58Z | 💥, Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/sulddd/Rust-Cheat | 1 | 0| 
-| 20230110T17:54:40Z | 💉, Fivem Executor , UNDETECTED , DUMPER | https://github.com/sulddd/Fivem-Executor | 1 | 1| 
 
 
 # backdoor on Github 推荐
