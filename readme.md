@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T13:54:00Z | Null | https://github.com/rahul8577/fuzzy-happiness | 0 | 0| 
 | 20230111T13:00:14Z | fuzzbuzz custom library written in solidity | https://github.com/Zeecoworld/FuzzBuzz-Solidity-Library | 0 | 0| 
 | 20230111T12:27:36Z | Validade de alimentos utilizando Fuzzy | https://github.com/daniilomendes/ValidadecomFuzzy | 0 | 0| 
 | 20230111T12:09:44Z | Null | https://github.com/oxeekezy/FuzzyPendulum | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230111T07:35:03Z | A function to let users add cards to there wallet by fuzzy search way to text the wanted card name. | https://github.com/dongli029/fuzzy-search | 0 | 0| 
 | 20230111T07:22:53Z | Basic fuzzing example using Foundry | https://github.com/rodrigoherrerai/foundry-fuzzer | 0 | 0| 
 | 20230111T02:22:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3357 | 398| 
-| 20230111T00:39:59Z | Controle de sistema de irrigação usando lógica fuzzy | https://github.com/MMENDONNCA/controle_fuzzy | 0 | 0| 
 
 
 
