@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T00:24:52Z | Repository containing exploit code during my studies. | https://github.com/ReverseThrottle/0xExploitDev | 0 | 0| 
+| 20230111T00:11:29Z | The source code used for solving the Bethe equations for various potentials such as the inverse-square potential, inverse-sinh-squared potential and the delta potential. Ultimately, after a sensible Coulomb phase shift has been found, the code will be exploited to investigate the Coulomb system. | https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem | 0 | 1| 
+| 20230110T22:46:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 18 | 19| 
+| 20230110T20:59:55Z | PowerShell MachineAccountQuota and DNS exploit tools | https://github.com/Kevin-Robertson/Powermad | 857 | 157| 
+| 20230110T20:03:51Z | 🌲Rust Easy to use Public Cheat  , Aimbot + Esp | https://github.com/Mt7zz/Rust-ESP-AIMBOT | 2 | 0| 
+| 20230110T18:06:49Z | Chliha It is a beautiful and accurate tool for exploiting WordPress sites through which you can upload anything like Shell, Index, FilePHP Etc.... | https://github.com/kamalkarlos/Chliha | 0 | 0| 
+| 20230110T17:54:58Z | 💥, Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/sulddd/Rust-Cheat | 1 | 0| 
+| 20230110T16:54:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5178 | 726| 
+| 20230110T14:32:50Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 329 | 29| 
 | 20230110T13:25:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/public-node-s7wUS-lie-exploit | 0 | 0| 
-| 20230110T13:23:25Z | this is new exploit generation and automatically binding tool maid in nepal | https://github.com/kishwordulal1234/mahadev_v1 | 0 | 0| 
-| 20230110T13:23:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 570 | 152| 
-| 20230110T13:08:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3938 | 493| 
-| 20230110T13:04:43Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12559 | 2159| 
-| 20230110T12:55:46Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 5 | 2| 
-| 20230110T12:30:16Z | Mirror of website https://cometrbx.xyz/ | https://github.com/Gopnik1255/Comet-exploit-mirror | 0 | 0| 
-| 20230110T11:21:27Z | An open source, educational-purpose roblox serversided exploit. | https://github.com/serjant12f/Filtering-Disabled-ROBLOX | 0 | 0| 
-| 20230110T08:44:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 561 | 32| 
-| 20230110T06:30:54Z | 🌲・Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Slackes/Rust-External | 56 | 34| 
 
 
 # backdoor on Github 推荐
@@ -112,16 +112,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230110T23:45:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3263 | 460| 
+| 20230110T21:07:33Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 41 | 2| 
+| 20230110T15:28:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 536 | 31| 
+| 20230110T15:22:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 612 | 111| 
 | 20230110T13:55:06Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 7 | 6| 
 | 20230110T11:58:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 286 | 67| 
 | 20230110T11:51:01Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 42| 
-| 20230110T11:16:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 535 | 31| 
-| 20230110T06:38:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 611 | 111| 
 | 20230109T11:21:55Z | Fork of SymEx-VP for specification-based symbolic execution of stateful network protocol implementations via SPS protocol specifications | https://github.com/agra-uni-bremen/sps-vp | 0 | 0| 
-| 20230108T20:39:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3260 | 460| 
 | 20230108T18:05:23Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 55 | 7| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
-| 20230108T04:37:34Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 40 | 2| 
 
 
 # big4 on Github 推荐
