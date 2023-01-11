@@ -100,13 +100,13 @@
 | 20230110T22:29:54Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230110T22:15:03Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2.0 | 0 | 0| 
 | 20230110T16:19:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 226 | 32| 
+| 20230110T14:58:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3356 | 398| 
 | 20230110T13:49:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1860 | 241| 
 | 20230110T13:26:47Z | Null | https://github.com/danbidan/Fuzzy-Mediation-and-Moderated-Mediation-Analysis-using-Bootstrapping | 0 | 0| 
 | 20230110T13:05:48Z | Fuzz many live hosts with ffuf in different modes | https://github.com/encodedguy/parffuf | 3 | 0| 
 | 20230110T13:00:51Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 36 | 5| 
 | 20230110T12:58:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1222 | 159| 
 | 20230110T12:45:59Z | Basics for running fuzz tests | https://github.com/holochain/fuzzbox | 0 | 0| 
-| 20230110T12:39:36Z | Null | https://github.com/google/fuzztest | 208 | 12| 
 
 
 
