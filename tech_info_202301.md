@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T02:54:08Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
+| 20230111T02:59:34Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
 | 20230111T02:39:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-agnq-Raz1O-tackle-exploit | 0 | 0| 
 | 20230111T02:08:03Z | Lman3a Laravel Get   SMTP , TWILLIO , SHELLS , Exploit an Vuln | https://github.com/kamalkarlos/Lman3a-Laravel | 3 | 2| 
 | 20230111T00:24:52Z | Repository containing exploit code during my studies. | https://github.com/ReverseThrottle/0xExploitDev | 0 | 0| 
