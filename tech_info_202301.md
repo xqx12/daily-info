@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T13:46:54Z | Null | https://github.com/giabao18092002/Blood-And-Iron-Crash-Exploit | 0 | 0| 
 | 20230111T13:32:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
 | 20230111T12:49:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5179 | 726| 
 | 20230111T12:06:16Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20230111T08:35:55Z | Exploiting cameras with a very distinctive HTTP Server header of %JAWS/1.0%. | https://github.com/33swordsmen/Pwning-CCTV-cameras | 8 | 0| 
 | 20230111T02:59:34Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
 | 20230111T02:39:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-agnq-Raz1O-tackle-exploit | 0 | 0| 
-| 20230111T02:08:03Z | Lman3a Laravel Get   SMTP , TWILLIO , SHELLS , Exploit an Vuln | https://github.com/kamalkarlos/Lman3a-Laravel | 3 | 2| 
 
 
 # backdoor on Github 推荐
