@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230112T01:51:40Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/howmanlardinr/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
-| 20230112T01:51:30Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/howmanlardinr/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20230112T01:56:48Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/howmanlardinr/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 24 | 0| 
+| 20230112T01:56:46Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/howmanlardinr/AutoFarm-SonicSpeed-Exploit | 24 | 0| 
 | 20230112T01:35:40Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/jancikpaniask/Roblox-NYveeee-Private-Exploit-Leak3D | 24 | 0| 
 | 20230112T01:35:35Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/jancikpaniask/DF2-DeaD-Frontier2-PrivateCheat | 24 | 0| 
 | 20230112T01:32:29Z | Multiple exploitable buffer overflow vulnerabilities exists in the PubNub message handler for the %control% channel of Insteon Hub running firmware version 1012. Specially crafted replies received from the PubNub service can cause buffer overflows on a global section overwriting arbitrary data. An attacker should imper CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-14454 | 0 | 0| 
