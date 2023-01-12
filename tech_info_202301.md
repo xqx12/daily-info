@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T13:08:43Z | The Backdoor Mod genetration has come. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230112T10:05:43Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 3 | 0| 
 | 20230112T08:09:21Z | A computer malware developed in python which can take access of any computer in a network.  | https://github.com/ninadjd/reverseBackdoor | 0 | 0| 
 | 20230112T06:31:44Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 3 | 0| 
@@ -104,7 +105,6 @@
 | 20230112T02:53:37Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7425 | 1765| 
 | 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
 | 20230111T14:55:29Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
-| 20230111T08:44:59Z | The Backdoor Plugin genetration has gone. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230111T04:54:00Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Plugin-Show | 0 | 0| 
 | 20230110T18:21:04Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 7 | 1| 
 
