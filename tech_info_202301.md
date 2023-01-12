@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230112T01:32:33Z | CVE-2022-4344 | Memory exhaustion in the Kafka protocol dissector in Wireshark 4.0.0 to 4.0.1 and 3.6.0 to 3.6.9 allows denial of service via packet injection or crafted capture file CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4344 | | 
 | 20230111T22:12:23Z | CVE-2023-22487 | Flarum is a forum software for building communities. Using the mentions feature provided by the flarum/mentions extension, users can mention any post ID on the forum with the special `@"<username>"#p<id>` syntax. The following behavior never changes no matter if the actor should be able to read the mentioned post or no CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22487 | | 
 | 20230111T22:12:19Z | CVE-2022-34684 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an off-by-one error may lead to data tampering or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34684 | | 
 | 20230111T22:12:13Z | CVE-2022-42254 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, data tampering, or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42254 | | 
@@ -55,7 +56,6 @@
 | 20230111T22:11:52Z | CVE-2022-42263 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an Integer overflow may lead to denial of service or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42263 | | 
 | 20230111T22:11:47Z | CVE-2022-42264 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause the use of an out-of-range pointer offset, which may lead to data tampering, data loss, information disclosure, or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42264 | | 
 | 20230111T22:11:35Z | CVE-2022-47087 | GPAC MP4box 2.1-DEV-rev574-g9d5bb184b has a Buffer overflow in gf_vvc_read_pps_bs_internal function of media_tools/av_parsers.c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47087 | | 
-| 20230111T21:35:02Z | 未知编号 | Null | https://github.com/emotest1/cve_2023_0110 | | 
 
 
 # klee on Github 推荐
@@ -82,6 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T01:32:29Z | Multiple exploitable buffer overflow vulnerabilities exists in the PubNub message handler for the %control% channel of Insteon Hub running firmware version 1012. Specially crafted replies received from the PubNub service can cause buffer overflows on a global section overwriting arbitrary data. An attacker should imper CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-14454 | 0 | 0| 
+| 20230112T01:31:29Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/jancikpaniask/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20230112T01:31:19Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/jancikpaniask/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20230111T23:33:53Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/deweseswalesg/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
 | 20230111T23:33:41Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/deweseswalesg/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20230111T23:19:21Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16309 | 0 | 0| 
@@ -89,9 +92,6 @@
 | 20230111T23:19:12Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16303 | 0 | 0| 
 | 20230111T23:19:08Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16279 | 0 | 0| 
 | 20230111T23:19:03Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16302 | 0 | 0| 
-| 20230111T23:18:58Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16286 | 0 | 0| 
-| 20230111T23:18:54Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16301 | 0 | 0| 
-| 20230111T23:18:49Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16276 | 0 | 0| 
 
 
 # backdoor on Github 推荐
