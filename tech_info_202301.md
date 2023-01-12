@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T01:12:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2638 | 180| 
 | 20230112T00:53:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8258 | 1800| 
 | 20230111T23:32:00Z | Null | https://github.com/alejandro32423/fuzzy-goggles2023 | 0 | 0| 
 | 20230111T23:04:30Z | Algoritmo para verificar validade de alimentos com a logica Fuzzy. | https://github.com/daniilomendes/Validade_alimentos_com_Fuzzy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20230111T19:15:40Z | Null | https://github.com/Natangaf/fuzzy-adventure | 0 | 0| 
 | 20230111T18:30:06Z | Terraform+Absible+GitHub Actions for deploy nginx site  | https://github.com/openthisworld/fuzzy-giggle | 1 | 0| 
 | 20230111T13:54:00Z | Null | https://github.com/rahul8577/fuzzy-happiness | 0 | 0| 
-| 20230111T13:00:14Z | fuzzbuzz custom library written in solidity | https://github.com/Zeecoworld/FuzzBuzz-Solidity-Library | 0 | 0| 
 
 
 
