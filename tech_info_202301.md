@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230111T11:46:22Z | CVE-2022-23529 | Null | https://github.com/despossivel/CVE-2022-23529-lab | | 
-| 20230111T11:13:38Z | CVE-2021-26403 | Insufficient checks in SEV may lead to a malicious hypervisor disclosing the launch secret potentially resulting in compromise of VM confidentiality. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26403 | | 
-| 20230111T11:13:34Z | CVE-2021-26402 | Insufficient bounds checking in ASP (AMD Secure Processor) firmware while handling BIOS mailbox commands, may allow an attacker to write partially-controlled data out-of-bounds to SMM or SEV-ES regions which may lead to a potential loss of integrity and availability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26402 | | 
-| 20230111T11:13:29Z | CVE-2021-26396 | Insufficient validation of address mapping to IO in ASP (AMD Secure Processor) may result in a loss of memory integrity in the SNP guest. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26396 | | 
-| 20230111T11:13:26Z | CVE-2021-26398 | Insufficient input validation in SYS_KEY_DERIVE system call in a compromised user application or ABL may allow an attacker to corrupt ASP (AMD Secure Processor) OS memory which may lead to potential arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26398 | | 
-| 20230111T11:13:21Z | CVE-2021-26355 | Insufficient fencing and checks in System Management Unit (SMU) may result in access to invalid message port registers that could result in a potential denial-of-service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26355 | | 
-| 20230111T11:13:17Z | CVE-2021-26328 | Failure to verify the mode of CPU execution at the time of SNP_INIT may lead to a potential loss of memory integrity for SNP guests. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26328 | | 
-| 20230111T11:13:13Z | CVE-2021-26346 | Failure to validate the integer operand in ASP (AMD Secure Processor) bootloader may allow an attacker to introduce an integer overflow in the L2 directory table in SPI flash resulting in a potential denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26346 | | 
-| 20230111T11:13:08Z | CVE-2021-26343 | Insufficient validation in ASP BIOS and DRTM commands may allow malicious supervisor x86 software to disclose the contents of sensitive memory which may result in information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26343 | | 
-| 20230111T11:13:03Z | CVE-2021-26316 | Failure to validate the communication buffer and communication service in the BIOS may allow an attacker to tamper with the buffer resulting in potential SMM (System Management Mode) arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26316 | | 
+| 20230111T22:12:23Z | CVE-2023-22487 | Flarum is a forum software for building communities. Using the mentions feature provided by the flarum/mentions extension, users can mention any post ID on the forum with the special `@"<username>"#p<id>` syntax. The following behavior never changes no matter if the actor should be able to read the mentioned post or no CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22487 | | 
+| 20230111T22:12:19Z | CVE-2022-34684 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an off-by-one error may lead to data tampering or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34684 | | 
+| 20230111T22:12:13Z | CVE-2022-42254 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, data tampering, or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42254 | | 
+| 20230111T22:12:05Z | CVE-2022-42260 | NVIDIA vGPU Display Driver for Linux guest contains a vulnerability in a D-Bus configuration file, where an unauthorized user in the guest VM can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42260 | | 
+| 20230111T22:12:00Z | CVE-2022-42261 | NVIDIA vGPU software contains a vulnerability in the Virtual GPU Manager (vGPU plugin), where an input index is not validated, which may lead to buffer overrun, which in turn may cause data tampering, information disclosure, or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42261 | | 
+| 20230111T22:11:56Z | CVE-2022-42262 | NVIDIA vGPU software contains a vulnerability in the Virtual GPU Manager (vGPU plugin), where an input index is not validated, which may lead to buffer overrun, which in turn may cause data tampering, information disclosure, or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42262 | | 
+| 20230111T22:11:52Z | CVE-2022-42263 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an Integer overflow may lead to denial of service or information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42263 | | 
+| 20230111T22:11:47Z | CVE-2022-42264 | NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause the use of an out-of-range pointer offset, which may lead to data tampering, data loss, information disclosure, or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42264 | | 
+| 20230111T22:11:35Z | CVE-2022-47087 | GPAC MP4box 2.1-DEV-rev574-g9d5bb184b has a Buffer overflow in gf_vvc_read_pps_bs_internal function of media_tools/av_parsers.c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47087 | | 
+| 20230111T21:35:02Z | 未知编号 | Null | https://github.com/emotest1/cve_2023_0110 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T13:48:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9875 | 339| 
+| 20230111T23:06:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9878 | 339| 
+| 20230111T16:19:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
-| 20230111T09:35:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 186 | 1| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
 | 20230110T15:43:41Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 67 | 5| 
 | 20230109T20:03:46Z | Null | https://github.com/kleecollage/kleecollage | 0 | 0| 
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230111T13:49:40Z | Null | https://github.com/giabao18092002/Blood-And-Iron-Crash-Exploit | 0 | 0| 
-| 20230111T13:32:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
-| 20230111T12:49:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5179 | 726| 
-| 20230111T12:29:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3941 | 494| 
-| 20230111T12:06:16Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
-| 20230111T11:11:56Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34440 | 0 | 0| 
-| 20230111T11:11:52Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34441 | 0 | 0| 
-| 20230111T09:14:15Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 119 | 16| 
-| 20230111T08:35:55Z | Exploiting cameras with a very distinctive HTTP Server header of %JAWS/1.0%. | https://github.com/33swordsmen/Pwning-CCTV-cameras | 8 | 0| 
-| 20230111T02:59:34Z | Null | https://github.com/0xd8dsze/exploits-2023 | 0 | 0| 
+| 20230111T23:33:53Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/deweseswalesg/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20230111T23:33:41Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/deweseswalesg/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20230111T23:19:21Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16309 | 0 | 0| 
+| 20230111T23:19:17Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16289 | 0 | 0| 
+| 20230111T23:19:12Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16303 | 0 | 0| 
+| 20230111T23:19:08Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16279 | 0 | 0| 
+| 20230111T23:19:03Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16302 | 0 | 0| 
+| 20230111T23:18:58Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16286 | 0 | 0| 
+| 20230111T23:18:54Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16301 | 0 | 0| 
+| 20230111T23:18:49Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16276 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230111T20:04:37Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 1 | 0| 
+| 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
+| 20230111T14:55:29Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230111T08:44:59Z | The Backdoor Plugin genetration has gone. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230111T06:52:35Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7424 | 1765| 
 | 20230111T04:54:00Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Plugin-Show | 0 | 0| 
-| 20230111T01:47:46Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 0 | 0| 
 | 20230110T18:21:04Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 7 | 1| 
 | 20230110T12:09:57Z | A Greifing Tool, Forceop, Backdoor Plugin For Grefing. | https://github.com/CoderIL/CodeyDoor | 1 | 0| 
 | 20230110T11:04:39Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 1 | 0| 
 | 20230109T21:25:03Z | Null | https://github.com/Killian202/backdoorpython | 0 | 0| 
-| 20230109T21:20:54Z | Null | https://github.com/Killian202/backdoor | 0 | 0| 
-| 20230109T19:23:28Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T00:53:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8258 | 1800| 
+| 20230111T23:32:00Z | Null | https://github.com/alejandro32423/fuzzy-goggles2023 | 0 | 0| 
+| 20230111T23:04:30Z | Algoritmo para verificar validade de alimentos com a logica Fuzzy. | https://github.com/daniilomendes/Validade_alimentos_com_Fuzzy | 0 | 0| 
+| 20230111T22:32:24Z | A python fuzzer | https://github.com/anj2b/fuzzer | 0 | 0| 
+| 20230111T22:05:35Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
+| 20230111T19:20:25Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1898 | 32| 
+| 20230111T19:15:40Z | Null | https://github.com/Natangaf/fuzzy-adventure | 0 | 0| 
+| 20230111T18:30:06Z | Terraform+Absible+GitHub Actions for deploy nginx site  | https://github.com/openthisworld/fuzzy-giggle | 1 | 0| 
 | 20230111T13:54:00Z | Null | https://github.com/rahul8577/fuzzy-happiness | 0 | 0| 
 | 20230111T13:00:14Z | fuzzbuzz custom library written in solidity | https://github.com/Zeecoworld/FuzzBuzz-Solidity-Library | 0 | 0| 
-| 20230111T12:27:36Z | Validade de alimentos utilizando Fuzzy | https://github.com/daniilomendes/ValidadecomFuzzy | 0 | 0| 
-| 20230111T12:09:44Z | Null | https://github.com/oxeekezy/FuzzyPendulum | 0 | 0| 
-| 20230111T12:05:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8252 | 1798| 
-| 20230111T10:22:48Z | Null | https://github.com/Vladyslaviuss/homework_22__Fuzz_Generator__V.Marakhovskyi | 0 | 0| 
-| 20230111T09:04:15Z | Confuzzion is a Java Virtual Machine (JVM) fuzzer generating Java programs to find bugs and vulnerabilities in the Java VM. | https://github.com/software-engineering-and-security/confuzzion | 0 | 2| 
-| 20230111T07:35:03Z | A function to let users add cards to there wallet by fuzzy search way to text the wanted card name. | https://github.com/dongli029/fuzzy-search | 0 | 0| 
-| 20230111T07:22:53Z | Basic fuzzing example using Foundry | https://github.com/rodrigoherrerai/foundry-fuzzer | 0 | 0| 
-| 20230111T02:22:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3357 | 398| 
 
 
 
