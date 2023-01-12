@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T13:18:20Z | I%ve made this repo for those who wanna get start in windows kernel exploitation and driver reversing. I%ll be using Hacksys drivers and hopefully a few CVEs. Hope you enjoy and I promise to add more content over time :) | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 | 20230112T12:43:35Z | Artifact submission to ACM CCS 2023 for paper %Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning% | https://github.com/taoni0718/BankSnoop | 0 | 0| 
 | 20230112T12:28:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
 | 20230112T10:15:23Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production. Not all scripts or programs are fully tested/debugged, either. | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
@@ -91,7 +92,6 @@
 | 20230112T01:35:40Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/jancikpaniask/Roblox-NYveeee-Private-Exploit-Leak3D | 24 | 0| 
 | 20230112T01:35:35Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/jancikpaniask/DF2-DeaD-Frontier2-PrivateCheat | 24 | 0| 
 | 20230112T01:32:29Z | Multiple exploitable buffer overflow vulnerabilities exists in the PubNub message handler for the %control% channel of Insteon Hub running firmware version 1012. Specially crafted replies received from the PubNub service can cause buffer overflows on a global section overwriting arbitrary data. An attacker should imper CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-14454 | 0 | 0| 
-| 20230111T23:33:53Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/deweseswalesg/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
 
 
 # backdoor on Github 推荐
