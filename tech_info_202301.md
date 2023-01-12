@@ -88,10 +88,10 @@
 | 20230112T12:28:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
 | 20230112T10:15:23Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production. Not all scripts or programs are fully tested/debugged, either. | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
 | 20230112T08:53:57Z | Null | https://github.com/iliailia10/Exploit_The_World | 0 | 0| 
+| 20230112T04:36:17Z | Exploit for grabbing player IDs in champion select | https://github.com/Scary777/LCU-Exploit | 0 | 0| 
 | 20230112T01:56:48Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/howmanlardinr/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 24 | 0| 
 | 20230112T01:56:46Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/howmanlardinr/AutoFarm-SonicSpeed-Exploit | 24 | 0| 
 | 20230112T01:35:40Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/jancikpaniask/Roblox-NYveeee-Private-Exploit-Leak3D | 24 | 0| 
-| 20230112T01:35:35Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/jancikpaniask/DF2-DeaD-Frontier2-PrivateCheat | 24 | 0| 
 
 
 # backdoor on Github 推荐
