@@ -69,7 +69,6 @@
 | 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
 | 20230111T14:55:29Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230111T08:44:59Z | The Backdoor Plugin genetration has gone. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
-| 20230111T06:52:35Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7424 | 1765| 
 | 20230111T04:54:00Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Plugin-Show | 0 | 0| 
 
 

@@ -97,11 +97,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T02:53:37Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7425 | 1765| 
 | 20230111T20:04:37Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 1 | 0| 
 | 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
 | 20230111T14:55:29Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230111T08:44:59Z | The Backdoor Plugin genetration has gone. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
-| 20230111T06:52:35Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7424 | 1765| 
 | 20230111T04:54:00Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Plugin-Show | 0 | 0| 
 | 20230110T18:21:04Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 7 | 1| 
 | 20230110T12:09:57Z | A Greifing Tool, Forceop, Backdoor Plugin For Grefing. | https://github.com/CoderIL/CodeyDoor | 1 | 0| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T02:54:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3358 | 398| 
 | 20230112T02:29:45Z | Null | https://github.com/haifengchengguang/fuzz-day1 | 0 | 0| 
 | 20230112T01:12:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2638 | 180| 
 | 20230112T00:53:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8258 | 1800| 
@@ -149,7 +150,6 @@
 | 20230111T22:05:35Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230111T19:20:25Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1898 | 32| 
 | 20230111T19:15:40Z | Null | https://github.com/Natangaf/fuzzy-adventure | 0 | 0| 
-| 20230111T18:30:06Z | Terraform+Absible+GitHub Actions for deploy nginx site  | https://github.com/openthisworld/fuzzy-giggle | 1 | 0| 
 
 
 
