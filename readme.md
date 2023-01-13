@@ -64,8 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T13:15:24Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 10 | 0| 
 | 20230113T12:58:55Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 262 | 63| 
-| 20230113T12:45:36Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 9 | 0| 
 | 20230113T12:20:48Z | MCYBERS Malware project 2022 | https://github.com/leRoderic/gitlab_exploit | 0 | 0| 
 | 20230113T11:40:55Z | A vulnerability was found in SourceCodester Online Flight Booking Management System. It has been rated as critical. Affected by this issue is some unknown functionality of the file judge_panel.php. The manipulation of the argument subevent_id leads to sql injection. The attack may be launched remotely. The exploit has  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0281 | 0 | 0| 
 | 20230113T11:31:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4868 | 705| 
