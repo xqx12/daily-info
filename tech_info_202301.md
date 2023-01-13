@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T02:59:05Z | GPay balance exploit READ MORE BELOW | https://github.com/renyinah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20230113T01:38:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230113T01:24:45Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
 | 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
@@ -92,7 +93,6 @@
 | 20230112T21:46:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hb | 1 | 0| 
 | 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
 | 20230112T13:53:27Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1687 | 299| 
-| 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
