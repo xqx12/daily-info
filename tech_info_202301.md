@@ -15,6 +15,7 @@
 | 20230112 | 文章中提出了一种结合格规约和量子近似优化算法对整数进行分解的算法，文章的行文给人的感受是该算法在短期内可以导致2048位RSA分解。但这实际上这并不是事实。 | https://arxiv.org/pdf/2212.12372.pdf| 
 | 20230112 | Linux内核 ksmbd NTLMv2认证远程DoS漏洞 | http://seclists.org/oss-sec/2023/q1/15| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | https://sec.today/pulses/6143889c-e23d-4401-a364-643301cf0719/| 
+| 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbr042-multi-vuln-ej76Pke5| 
 | 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
 | 20230111 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP| 
 | 20230111 | RWCTF 5th ShellFind 官方Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ| 
@@ -25,7 +26,6 @@
 | 20230110 | 2022年CTF Web前端与JS题目总结 | https://blog.huli.tw/2022/12/26/ctf-2022-web-js-summary/| 
 | 20230110 | [Real World CTF 2023] The cult of 8 bit 利用xsleak的一个非预期解法的writeup | http://sh1yo.art/ctf/thecultof8bit/| 
 | 20230110 | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap| 
-| 20230110 | 关于如何fuzz http api的思考 | http://rashahacks.com/how-i-fuzz-and-hack-api/| 
 
 
 # 安全维基 推荐

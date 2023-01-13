@@ -15,6 +15,7 @@
 | 20230112 | 文章中提出了一种结合格规约和量子近似优化算法对整数进行分解的算法，文章的行文给人的感受是该算法在短期内可以导致2048位RSA分解。但这实际上这并不是事实。 | https://arxiv.org/pdf/2212.12372.pdf| 
 | 20230112 | Linux内核 ksmbd NTLMv2认证远程DoS漏洞 | http://seclists.org/oss-sec/2023/q1/15| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | https://sec.today/pulses/6143889c-e23d-4401-a364-643301cf0719/| 
+| 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbr042-multi-vuln-ej76Pke5| 
 
 
 # 安全维基 推荐
