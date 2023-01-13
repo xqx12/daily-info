@@ -83,11 +83,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
 | 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
 | 20230112T21:48:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hb | 1 | 0| 
 | 20230112T21:47:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hb | 1 | 0| 
 | 20230112T21:46:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hb | 1 | 0| 
-| 20230112T21:30:46Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 5 | 0| 
 | 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
 | 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 | 20230112T13:30:24Z | A bunch of useful scripts that might help save time and energy while doing the Windows User-mode Exploit Development course or the OSED exam | https://github.com/tr3sp4ss3rexe/OSED-scripts | 1 | 1| 
