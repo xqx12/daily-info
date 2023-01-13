@@ -113,7 +113,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T02:36:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3267 | 460| 
+| 20230113T10:35:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3269 | 460| 
 | 20230113T02:35:48Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 208 | 54| 
 | 20230113T01:32:12Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 12 | 7| 
 | 20230112T03:29:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 288 | 67| 
