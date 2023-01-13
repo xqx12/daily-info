@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:20:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
+| 20230113T01:24:45Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
 | 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
 | 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
 | 20230112T21:48:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hb | 1 | 0| 
