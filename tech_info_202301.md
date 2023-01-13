@@ -19,13 +19,13 @@
 | 20230112 | 一个通过“要求ChatGPT写可视化代码”来做数据可视化的案例，里面有多个case，看起来效果都不错。 | http://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis| 
 | 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
 | 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
+| 20230112 | Dark Pink APT组织(aka Saaiwc Group)针对东南亚以及欧洲公司的入侵活动披露与分析 | http://blog.group-ib.com/dark-pink-apt| 
 | 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
 | 20230111 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP| 
 | 20230111 | RWCTF 5th ShellFind 官方Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ| 
 | 20230111 | KITCTF CTF 2022 Koeri Factory [PWN] Writeup | https://github.com/nimrods8/KITCTF-CTF-2022| 
 | 20230111 | Lexmark MC3224adwe printer的RCE漏洞,用于Pwn2Own Toronto 2022比赛.其中使用了文件上传,SSRF,文件复制,命令注入等功能组合利用最后实现RCE | https://github.com/blasty/lexmark| 
 | 20230111 | Kimsuky朝APT组织向安全人员发出的邀请函的形式投递使用远程模板注入技术的恶意宏进行攻击 | http://asec.ahnlab.com/ko/45537/| 
-| 20230110 | CVE-2022-43473 ZOHO ManageEngine OpManager XXE注入 | https://da22le.github.io/cve-2022-43473-zoho-manageengine-opmanager-xxe%E6%B3%A8%E5%85%A5/| 
 
 
 # 安全维基 推荐

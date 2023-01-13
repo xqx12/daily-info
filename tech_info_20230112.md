@@ -19,6 +19,7 @@
 | 20230112 | 一个通过“要求ChatGPT写可视化代码”来做数据可视化的案例，里面有多个case，看起来效果都不错。 | http://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis| 
 | 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
 | 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
+| 20230112 | Dark Pink APT组织(aka Saaiwc Group)针对东南亚以及欧洲公司的入侵活动披露与分析 | http://blog.group-ib.com/dark-pink-apt| 
 
 
 # 安全维基 推荐
