@@ -100,12 +100,12 @@
 | 20230112T21:12:03Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1866 | 240| 
 | 20230112T20:06:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8264 | 1802| 
 | 20230112T19:14:43Z | Null | https://github.com/495-Senior-Design/Fuzzing | 0 | 0| 
+| 20230112T19:08:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3359 | 398| 
 | 20230112T15:03:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1841 | 212| 
 | 20230112T13:14:58Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 32 | 18| 
 | 20230112T13:03:33Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
 | 20230112T12:53:27Z | Null | https://github.com/Syah4kram/Fuzzy-Acc | 0 | 0| 
 | 20230112T12:10:15Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
-| 20230112T11:55:59Z | studying deepfuzz | https://github.com/sososo0/KEEPER_DeepFuzz | 0 | 0| 
 
 
 
