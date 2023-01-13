@@ -20,6 +20,9 @@
 | 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
 | 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
 | 20230112 | Dark Pink APT组织(aka Saaiwc Group)针对东南亚以及欧洲公司的入侵活动披露与分析 | http://blog.group-ib.com/dark-pink-apt| 
+| 20230112 | CVE-2022-43704-Sinilink XY-WFT1 Thermostat中的重放漏洞 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-43704-capture-replay-vulnerability-in-sinilink-xy-wft1-thermostat/| 
+| 20230112 | 瑞士加密聊天应用程序 Threema 的加密漏洞的分析,其会破坏身份验证保护甚至可以恢复用户的私钥 | https://breakingthe3ma.app/files/Threema-PST22.pdf| 
+| 20230112 | mqtt 攻击面和挖掘思路浅析 | http://paper.seebug.org/2040/| 
 
 
 # 安全维基 推荐

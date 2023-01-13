@@ -20,12 +20,12 @@
 | 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
 | 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
 | 20230112 | Dark Pink APT组织(aka Saaiwc Group)针对东南亚以及欧洲公司的入侵活动披露与分析 | http://blog.group-ib.com/dark-pink-apt| 
+| 20230112 | CVE-2022-43704-Sinilink XY-WFT1 Thermostat中的重放漏洞 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-43704-capture-replay-vulnerability-in-sinilink-xy-wft1-thermostat/| 
+| 20230112 | 瑞士加密聊天应用程序 Threema 的加密漏洞的分析,其会破坏身份验证保护甚至可以恢复用户的私钥 | https://breakingthe3ma.app/files/Threema-PST22.pdf| 
+| 20230112 | mqtt 攻击面和挖掘思路浅析 | http://paper.seebug.org/2040/| 
 | 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
 | 20230111 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP| 
 | 20230111 | RWCTF 5th ShellFind 官方Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ| 
-| 20230111 | KITCTF CTF 2022 Koeri Factory [PWN] Writeup | https://github.com/nimrods8/KITCTF-CTF-2022| 
-| 20230111 | Lexmark MC3224adwe printer的RCE漏洞,用于Pwn2Own Toronto 2022比赛.其中使用了文件上传,SSRF,文件复制,命令注入等功能组合利用最后实现RCE | https://github.com/blasty/lexmark| 
-| 20230111 | Kimsuky朝APT组织向安全人员发出的邀请函的形式投递使用远程模板注入技术的恶意宏进行攻击 | http://asec.ahnlab.com/ko/45537/| 
 
 
 # 安全维基 推荐
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:55:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9916 | 339| 
+| 20230113T02:13:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9918 | 339| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
 | 20230111T16:19:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
