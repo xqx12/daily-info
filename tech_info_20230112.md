@@ -16,6 +16,9 @@
 | 20230112 | Linux内核 ksmbd NTLMv2认证远程DoS漏洞 | http://seclists.org/oss-sec/2023/q1/15| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | https://sec.today/pulses/6143889c-e23d-4401-a364-643301cf0719/| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbr042-multi-vuln-ej76Pke5| 
+| 20230112 | 一个通过“要求ChatGPT写可视化代码”来做数据可视化的案例，里面有多个case，看起来效果都不错。 | http://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis| 
+| 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
+| 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
 
 
 # 安全维基 推荐

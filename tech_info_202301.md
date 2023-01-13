@@ -16,6 +16,9 @@
 | 20230112 | Linux内核 ksmbd NTLMv2认证远程DoS漏洞 | http://seclists.org/oss-sec/2023/q1/15| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | https://sec.today/pulses/6143889c-e23d-4401-a364-643301cf0719/| 
 | 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbr042-multi-vuln-ej76Pke5| 
+| 20230112 | 一个通过“要求ChatGPT写可视化代码”来做数据可视化的案例，里面有多个case，看起来效果都不错。 | http://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis| 
+| 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
+| 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
 | 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
 | 20230111 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP| 
 | 20230111 | RWCTF 5th ShellFind 官方Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ| 
@@ -23,9 +26,6 @@
 | 20230111 | Lexmark MC3224adwe printer的RCE漏洞,用于Pwn2Own Toronto 2022比赛.其中使用了文件上传,SSRF,文件复制,命令注入等功能组合利用最后实现RCE | https://github.com/blasty/lexmark| 
 | 20230111 | Kimsuky朝APT组织向安全人员发出的邀请函的形式投递使用远程模板注入技术的恶意宏进行攻击 | http://asec.ahnlab.com/ko/45537/| 
 | 20230110 | CVE-2022-43473 ZOHO ManageEngine OpManager XXE注入 | https://da22le.github.io/cve-2022-43473-zoho-manageengine-opmanager-xxe%E6%B3%A8%E5%85%A5/| 
-| 20230110 | 2022年CTF Web前端与JS题目总结 | https://blog.huli.tw/2022/12/26/ctf-2022-web-js-summary/| 
-| 20230110 | [Real World CTF 2023] The cult of 8 bit 利用xsleak的一个非预期解法的writeup | http://sh1yo.art/ctf/thecultof8bit/| 
-| 20230110 | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap| 
 
 
 # 安全维基 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T01:20:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
 | 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
 | 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
 | 20230112T21:48:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hb | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 | 20230112T13:30:24Z | A bunch of useful scripts that might help save time and energy while doing the Windows User-mode Exploit Development course or the OSED exam | https://github.com/tr3sp4ss3rexe/OSED-scripts | 1 | 1| 
 | 20230112T12:43:35Z | Artifact submission to ACM CCS 2023 for paper %Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning% | https://github.com/taoni0718/BankSnoop | 0 | 0| 
-| 20230112T12:28:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
 
 
 # backdoor on Github 推荐
