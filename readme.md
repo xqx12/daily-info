@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T13:46:03Z | Null | https://github.com/guowei-cn/universal-defence-of-backdoor-attack | 0 | 0| 
 | 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
 | 20230113T07:01:09Z | Null | https://github.com/sunbing7/backdoors | 1 | 0| 
 | 20230113T05:43:56Z | Null | https://github.com/fatih98/backdoor | 1 | 0| 
