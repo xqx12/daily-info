@@ -24,6 +24,7 @@
 | 20230112 | 瑞士加密聊天应用程序 Threema 的加密漏洞的分析,其会破坏身份验证保护甚至可以恢复用户的私钥 | https://breakingthe3ma.app/files/Threema-PST22.pdf| 
 | 20230112 | mqtt 攻击面和挖掘思路浅析 | http://paper.seebug.org/2040/| 
 | 20230112 | Avast对于NeedleDropper形式恶意软件投递的分析,文中的案例主要用于FormBook商贸信的部署 | http://decoded.avast.io/threatresearch/needledropper/| 
+| 20230112 | 基于代码属性图的自动化漏洞挖掘实践 | http://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
 
 
 # 安全维基 推荐
