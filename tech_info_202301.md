@@ -6,26 +6,26 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230113 | binarly的安全研究人员发现了高通和联想一些漏洞(溢出和泄露),并将部分细节进行展示 | http://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html| 
+| 20230113 | CVE-2022-3652:通过JSCreateLowering的条件竞争导致RCE | https://bugs.chromium.org/p/chromium/issues/detail?id=1369871| 
+| 20230113 | CVE-2022-3656:Google Chrome 和基于 Chromium 的浏览器由于对一些文件上传功能缺乏symlink的检查,从而导致通过滥用symlink可以盗取你本地的一些重要配置文件 | https://github.com/momika233/CVE-2022-3656| 
+| 20230113 | 劫持cscapi.dll以劫持explorer.exe来进行持久化驻留 | https://github.com/D1rkMtr/ExplorerPersist| 
+| 20230113 | CVE-2022-42841:由于在解析xar中出现由类型转换导致的整数溢出而导致pkg的签名验证成功,可绕过SIP,Gatekeeper并在特定条件下提权到root | http://sector7.computest.nl/post/2023-01-xar/| 
+| 20230113 | 针对TouchEn nxKey键盘加密保护的安全研究,以及通过其中发现了一些不安全的漏洞,导致其可能会被利用成为恶意软件 | http://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/| 
+| 20230113 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia| 
+| 20230113 | WalkerGate:通过查找ntdll的内存解析以进行系统调用 | https://github.com/DallasFR/WalkerGate| 
+| 20230113 | NoName057(16) – 以北约为目标的亲Ru黑客组织 | https://www.sentinelone.com/labs/noname05716-the-pro-russian-hacktivist-group-targeting-nato/| 
+| 20230113 | trailofbits发布关于使用tlspuffin来fuzzing wolfSSL并发现4个DOS漏洞的细节以及一些fuzzing的方法论思路 | https://sec.today/pulses/d5fea3ea-4220-431f-8d1e-92ec38969789/| 
+| 20230113 | 2022年APT组织分析年鉴 | https://sec.today/pulses/8e299b55-4c61-4565-9da3-80c4e21279e3/| 
+| 20230113 | 客户端SSRF到Google Cloud Project接管 | https://sec.today/pulses/7d8f8cdd-8876-4ed1-95c8-d7bf3717af2e/| 
+| 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | https://sec.today/pulses/f59d5873-516c-49df-b0a4-1549e1657099/| 
+| 20230113 | trailofbits发布关于使用tlspuffin来fuzzing wolfSSL并发现4个DOS漏洞的细节以及一些fuzzing的方法论思路 | http://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/| 
+| 20230113 | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf| 
+| 20230113 | 客户端SSRF到Google Cloud Project接管 | http://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/| 
+| 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | http://dannyodler.hashnode.dev/racing-bugs-in-windows-kernel| 
 | 20230112 | 对考勤机进行漏洞挖掘的详细过程，含多个具体案例 | https://www.freebuf.com/articles/paper/354674.html| 
 | 20230112 | bitdefender发布报告EyeSpy - 隐藏在VPN安装包中的Iran恶意软件 | https://www.bitdefender.com/files/News/CaseStudies/study/427/Bitdefender-PR-Whitepaper-EyeSpyVPN-creat625-en-EN.pdf| 
 | 20230112 | 针对意大利地区的窃密攻击活动 | https://www.uptycs.com/blog/infostealer-malware-attacks-targeting-italian-region/| 
-| 20230112 | 利用CodePattern从二进制代码中找漏洞。以几类Windows的漏洞Pattern为例，实现了一个类似于Binary的CodeQL雏形 | https://github.com/ga1ois/BlackHat-Europe-2022| 
-| 20230112 | Google Cloud Compute Engine中的SSH秘钥注入漏洞 | http://blog.stazot.com/ssh-key-injection-google-cloud/| 
-| 20230112 | CVE-2023-21752:Windows 备份服务任意删除漏洞以滥用 arb delete实现权限提升 | https://github.com/Wh04m1001/CVE-2023-21752| 
-| 20230112 | 文章中提出了一种结合格规约和量子近似优化算法对整数进行分解的算法，文章的行文给人的感受是该算法在短期内可以导致2048位RSA分解。但这实际上这并不是事实。 | https://arxiv.org/pdf/2212.12372.pdf| 
-| 20230112 | Linux内核 ksmbd NTLMv2认证远程DoS漏洞 | http://seclists.org/oss-sec/2023/q1/15| 
-| 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | https://sec.today/pulses/6143889c-e23d-4401-a364-643301cf0719/| 
-| 20230112 | 思科的多个型号的小型商用路由器出现了认证绕过&RCE漏洞。 | http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbr042-multi-vuln-ej76Pke5| 
-| 20230112 | 一个通过“要求ChatGPT写可视化代码”来做数据可视化的案例，里面有多个case，看起来效果都不错。 | http://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis| 
-| 20230112 | 暗网在出售tg服务器访问权限，真伪难辨。 | https://gbhackers.com/hackers-selling-telegram-insider-server/| 
-| 20230112 | 一个绕过安卓APP中的frida检测的视频教程 | https://www.youtube.com/watch?v=M0ETKs6DZn8&feature=youtu.be| 
-| 20230112 | Dark Pink APT组织(aka Saaiwc Group)针对东南亚以及欧洲公司的入侵活动披露与分析 | http://blog.group-ib.com/dark-pink-apt| 
-| 20230112 | CVE-2022-43704-Sinilink XY-WFT1 Thermostat中的重放漏洞 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-43704-capture-replay-vulnerability-in-sinilink-xy-wft1-thermostat/| 
-| 20230112 | 瑞士加密聊天应用程序 Threema 的加密漏洞的分析,其会破坏身份验证保护甚至可以恢复用户的私钥 | https://breakingthe3ma.app/files/Threema-PST22.pdf| 
-| 20230112 | mqtt 攻击面和挖掘思路浅析 | http://paper.seebug.org/2040/| 
-| 20230112 | Avast对于NeedleDropper形式恶意软件投递的分析,文中的案例主要用于FormBook商贸信的部署 | http://decoded.avast.io/threatresearch/needledropper/| 
-| 20230112 | 基于代码属性图的自动化漏洞挖掘实践 | http://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
-| 20230111 | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230113T02:39:50Z | CVE-2022-46505 | MatrixSSL session resume bug | https://github.com/SmallTown123/Details-for-CVE-2022-46505 | | 
-| 20230113T01:51:04Z | CVE-2023-22407 | An Incomplete Cleanup vulnerability in the Routing Protocol Daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows an adjacent, unauthenticated attacker to cause a Denial of Service (DoS). An rpd crash can occur when an MPLS TE tunnel configuration change occurs on a directly connected router. This issue CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22407 | | 
-| 20230113T01:46:35Z | CVE-2023-22417 | A Missing Release of Memory after Effective Lifetime vulnerability in the Flow Processing Daemon (flowd) of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause a Denial of Service (DoS). In an IPsec VPN environment, a memory leak will be seen if a DH or ECDH group is configured. Eventual CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22417 | | 
-| 20230113T01:46:30Z | CVE-2023-22416 | A Buffer Overflow vulnerability in SIP ALG of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause a Denial of Service (DoS). On all MX Series and SRX Series platform with SIP ALG enabled, when a malformed SIP packet is received, the flow processing daemon (flowd) will crash and restart.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22416 | | 
-| 20230113T01:46:26Z | CVE-2023-22415 | An Out-of-Bounds Write vulnerability in the H.323 ALG of Juniper Networks Junos OS allows an unauthenticated, network-based attacker to cause Denial of Service (DoS). On all MX Series and SRX Series platform, when H.323 ALG is enabled and specific H.323 packets are received simultaneously, a flow processing daemon (flo CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22415 | | 
-| 20230113T01:46:22Z | CVE-2023-22414 | A Missing Release of Memory after Effective Lifetime vulnerability in Flexible PIC Concentrator (FPC) of Juniper Networks Junos OS allows an adjacent, unauthenticated attacker from the same shared physical or logical network, to cause a heap memory leak and leading to FPC crash. On all Junos PTX Series and QFX10000 Ser CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22414 | | 
-| 20230113T01:46:18Z | CVE-2023-22413 | An Improper Check or Handling of Exceptional Conditions vulnerability in the IPsec library of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause Denial of Service (DoS). On all MX platforms with MS-MPC or MS-MIC card, when specific IPv4 packets are processed by an IPsec6 tunnel, the Mul CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22413 | | 
-| 20230113T01:46:14Z | CVE-2023-22412 | An Improper Locking vulnerability in the SIP ALG of Juniper Networks Junos OS on MX Series with MS-MPC or MS-MIC card and SRX Series allows an unauthenticated, network-based attacker to cause a flow processing daemon (flowd) crash and thereby a Denial of Service (DoS). Continued receipt of these specific packets will c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22412 | | 
-| 20230113T01:46:09Z | CVE-2023-22411 | An Out-of-Bounds Write vulnerability in Flow Processing Daemon (flowd) of Juniper Networks Junos OS allows an unauthenticated, network-based attacker to cause Denial of Service (DoS). On SRX Series devices using Unified Policies with IPv6, when a specific IPv6 packet goes through a dynamic-application filter which will CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22411 | | 
-| 20230113T01:46:05Z | CVE-2023-22410 | A Missing Release of Memory after Effective Lifetime vulnerability in the Juniper Networks Junos OS on MX Series platforms with MPC10/MPC11 line cards, allows an unauthenticated adjacent attacker to cause a Denial of Service (DoS). Devices are only vulnerable when the Suspicious Control Flow Detection (scfd) feature is CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22410 | | 
+| 20230113T12:19:49Z | CVE-2023-21752 | Null | https://github.com/Wh04m1001/CVE-2023-21752 | | 
+| 20230113T12:00:50Z | CVE-2022-45299 | CVE 2022-45299 | https://github.com/offalltn/CVE-2022-45299 | | 
+| 20230113T11:41:20Z | CVE-2022-3693 | The File Management System developed by FileOrbis before version 10.6.3 has an unauthenticated local file inclusion and path traversal vulnerability. This has been fixed in the version 10.6.3 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3693 | | 
+| 20230113T11:40:59Z | CVE-2023-0283 | A vulnerability classified as critical has been found in SourceCodester Online Flight Booking Management System. This affects an unknown part of the file review_search.php of the component POST Parameter Handler. The manipulation of the argument txtsearch leads to sql injection. It is possible to initiate the attack re CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0283 | | 
+| 20230113T11:40:55Z | CVE-2023-0281 | A vulnerability was found in SourceCodester Online Flight Booking Management System. It has been rated as critical. Affected by this issue is some unknown functionality of the file judge_panel.php. The manipulation of the argument subevent_id leads to sql injection. The attack may be launched remotely. The exploit has  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0281 | | 
+| 20230113T08:39:30Z | cve-2022-28944 | Null | https://github.com/gerr-re/cve-2022-28944 | | 
+| 20230113T08:39:20Z | cve-2022-27438 | Null | https://github.com/gerr-re/cve-2022-27438 | | 
+| 20230113T08:38:34Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
+| 20230113T08:06:54Z | CVE-2022-3317 | Insufficient validation of untrusted input in Intents in Google Chrome on Android prior to 106.0.5249.62 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Low) | https://github.com/hfh86/CVE-2022-3317 | | 
+| 20230113T06:15:00Z | CVE-2022-46502 | Online Student Enrollment System v1.0 was discovered to contain a SQL injection vulnerability via the username parameter at /student_enrollment/admin/login.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46502 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T02:54:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9933 | 339| 
+| 20230113T12:56:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10012 | 339| 
+| 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
+| 20230113T08:19:19Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
+| 20230113T06:15:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
+| 20230113T04:15:18Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
-| 20230111T16:19:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
-| 20230110T15:43:41Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 67 | 5| 
 | 20230109T20:03:46Z | Null | https://github.com/kleecollage/kleecollage | 0 | 0| 
 | 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
-| 20230107T05:59:37Z | optbv-intl with Klee font | https://github.com/hfu/optbv-intl-klee | 0 | 0| 
-| 20230105T14:41:16Z | Null | https://github.com/fchamicapereira/maestro-klee | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T02:59:05Z | GPay balance exploit READ MORE BELOW | https://github.com/renyinah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
-| 20230113T01:38:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
-| 20230113T01:24:45Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
-| 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
-| 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
-| 20230112T21:48:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hb | 1 | 0| 
-| 20230112T21:47:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hb | 1 | 0| 
-| 20230112T21:46:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hb | 1 | 0| 
-| 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
-| 20230112T13:53:27Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1687 | 299| 
+| 20230113T12:58:55Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 262 | 63| 
+| 20230113T12:45:36Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 9 | 0| 
+| 20230113T12:20:48Z | MCYBERS Malware project 2022 | https://github.com/leRoderic/gitlab_exploit | 0 | 0| 
+| 20230113T11:40:55Z | A vulnerability was found in SourceCodester Online Flight Booking Management System. It has been rated as critical. Affected by this issue is some unknown functionality of the file judge_panel.php. The manipulation of the argument subevent_id leads to sql injection. The attack may be launched remotely. The exploit has  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0281 | 0 | 0| 
+| 20230113T11:31:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4868 | 705| 
+| 20230113T10:39:32Z | Foxholestats like front-end to exploit Foxhole game%s war API as Angular training. | https://github.com/EpikToo/FoxStats | 0 | 0| 
+| 20230113T09:36:00Z | Null | https://github.com/jolzenjollygamer/valorant-public-exploits-hack-aimbot | 0 | 0| 
+| 20230113T09:29:58Z | Yes its me wrd api exploit | https://github.com/shmigq/PIVASw | 0 | 0| 
+| 20230113T09:29:20Z | Yes its me wrd api exploit | https://github.com/shmigq/PIVAS | 0 | 0| 
+| 20230113T03:21:03Z | Null | https://github.com/shawking2/Automatic_Exploit_Generate | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:38:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
+| 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
+| 20230113T07:01:09Z | Null | https://github.com/sunbing7/backdoors | 1 | 0| 
+| 20230113T05:43:56Z | Null | https://github.com/fatih98/backdoor | 1 | 0| 
+| 20230113T04:09:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 103 | 13| 
 | 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
 | 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 0| 
 | 20230112T16:45:13Z | Null | https://github.com/MiMoody/backdoor | 0 | 0| 
 | 20230112T13:09:14Z | The Backdoor Mod genetration has come. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230112T08:09:21Z | A computer malware developed in python which can take access of any computer in a network.  | https://github.com/ninadjd/reverseBackdoor | 0 | 0| 
 | 20230112T06:31:44Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 3 | 0| 
-| 20230112T05:28:55Z | Null | https://github.com/Backdoor2023/Backdoor2023 | 0 | 0| 
-| 20230112T02:53:37Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7425 | 1765| 
-| 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,8 +128,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T08:31:43Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 4 | 0| 
 | 20230112T19:39:31Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 27 | 2| 
-| 20230112T12:52:18Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 3 | 0| 
 | 20230111T23:04:46Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BS_VulnReport | 2 | 0| 
 | 20230110T22:12:59Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 0 | 0| 
 | 20230107T14:25:39Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 67 | 15| 
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T12:45:36Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 9 | 0| 
+| 20230113T12:44:31Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 406 | 71| 
+| 20230113T12:27:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1865 | 240| 
+| 20230113T12:24:53Z | Differential fuzzer for testing different versions of the Kotlin compiler | https://github.com/ciselab/kotlin-compiler-fuzzer | 0 | 0| 
+| 20230113T10:41:12Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 336 | 49| 
+| 20230113T09:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8270 | 1803| 
+| 20230113T08:41:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4511 | 1093| 
 | 20230113T00:41:45Z | Null | https://github.com/Miti56/fuzzer-Py | 0 | 0| 
 | 20230112T21:22:55Z | Config files for my GitHub profile. | https://github.com/WhatTheFuzz/WhatTheFuzz | 0 | 0| 
-| 20230112T21:12:03Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1866 | 240| 
-| 20230112T20:06:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8264 | 1802| 
 | 20230112T19:14:43Z | Null | https://github.com/495-Senior-Design/Fuzzing | 0 | 0| 
-| 20230112T19:08:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3359 | 398| 
-| 20230112T15:03:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1841 | 212| 
-| 20230112T13:14:58Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 32 | 18| 
-| 20230112T13:03:33Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
-| 20230112T12:53:27Z | Null | https://github.com/Syah4kram/Fuzzy-Acc | 0 | 0| 
 
 
 
