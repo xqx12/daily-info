@@ -24,22 +24,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230112T11:28:02Z | CVE-2022-47927 | An issue was discovered in MediaWiki before 1.35.9, 1.36.x through 1.38.x before 1.38.5, and 1.39.x before 1.39.1. When installing with a pre-existing data directory that has weak permissions, the SQLite files are created with file mode 0644, i.e., world readable to local users. These files include credentials data. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47927 | | 
-| 20230112T11:27:57Z | CVE-2023-23455 | atm_tc_enqueue in net/sched/sch_atm.c in the Linux kernel through 6.1.4 allows attackers to cause a denial of service because of type confusion (non-negative numbers can sometimes indicate a TC_ACT_SHOT condition rather than valid classification results). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23455 | | 
-| 20230112T11:27:53Z | CVE-2023-23454 | cbq_classify in net/sched/sch_cbq.c in the Linux kernel through 6.1.4 allows attackers to cause a denial of service (slab-out-of-bounds read) because of type confusion (non-negative numbers can sometimes indicate a TC_ACT_SHOT condition rather than valid classification results). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23454 | | 
-| 20230112T07:05:59Z | CVE-2022-3715 | A flaw was found in the bash package, where a heap-buffer overflow can occur in valid parameter_transform. This issue may lead to memory problems. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3715 | | 
-| 20230112T07:05:53Z | CVE-2021-43797 | Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. Netty prior to version 4.1.71.Final skips control chars when they are present at the beginning / end of the header name. It should instead fail fast as these are not all CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-43797 | | 
-| 20230112T07:05:43Z | CVE-2023-0042 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.4 prior to 15.5.7, 15.6 prior to 15.6.4, and 15.7 prior to 15.7.2. GitLab Pages allows redirection to arbitrary protocols. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0042 | | 
-| 20230112T07:05:39Z | CVE-2022-4365 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.8 before 15.5.7, all versions starting from 15.6 before 15.6.4, all versions starting from 15.7 before 15.7.2. A malicious Maintainer can leak the sentry token by changing the configured URL in the Sentry error tracking settings page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4365 | | 
-| 20230112T07:05:34Z | CVE-2022-4345 | Infinite loops in the BPv6, OpenFlow, and Kafka protocol dissectors in Wireshark 4.0.0 to 4.0.1 and 3.6.0 to 3.6.9 allows denial of service via packet injection or crafted capture file CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4345 | | 
-| 20230112T07:05:30Z | CVE-2022-4342 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 15.1 before 15.5.7, all versions starting from 15.6 before 15.6.4, all versions starting from 15.7 before 15.7.2. A malicious Maintainer can leak masked webhook secrets by changing target URL of the webhook. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4342 | | 
-| 20230112T07:05:26Z | CVE-2022-4167 | Incorrect Authorization check affecting all versions of GitLab EE from 13.11 prior to 15.5.7, 15.6 prior to 15.6.4, and 15.7 prior to 15.7.2 allows group access tokens to continue working even after the group owner loses the ability to revoke them. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4167 | | 
+| 20230112T23:34:05Z | CVE-2022-33299 | Transient DOS due to null pointer dereference in Bluetooth HOST while receiving an attribute protocol PDU with zero length data. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33299 | | 
+| 20230112T23:33:58Z | CVE-2023-22477 | Mercurius is a GraphQL adapter for Fastify. Any users of Mercurius until version 10.5.0 are subjected to a denial of service attack by sending a malformed packet over WebSocket to `/graphql`. This issue was patched in #940. As a workaround, users can disable subscriptions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22477 | | 
+| 20230112T23:33:53Z | CVE-2022-33290 | Transient DOS in Bluetooth HOST due to null pointer dereference when a mismatched argument is passed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33290 | | 
+| 20230112T23:33:47Z | CVE-2022-33286 | Transient DOS due to buffer over-read in WLAN while processing 802.11 management frames. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33286 | | 
+| 20230112T23:33:42Z | CVE-2023-0258 | A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Category List Handler. The manipulation of the argument Reason with the input "><script>prompt(1)</script> leads to cross site scripting. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0258 | | 
+| 20230112T23:33:33Z | CVE-2023-0256 | A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file /fos/admin/ajax.php?action=login of the component Login Page. The manipulation of the argument Username leads to sql injection. It is possible to launch the attack CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0256 | | 
+| 20230112T23:33:28Z | CVE-2022-47102 | A cross-site scripting (XSS) vulnerability in Student Study Center Management System V 1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47102 | | 
+| 20230112T23:33:24Z | CVE-2022-46623 | Judging Management System v1.0.0 was discovered to contain a SQL injection vulnerability via the username parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46623 | | 
+| 20230112T23:33:19Z | CVE-2022-46622 | A cross-site scripting (XSS) vulnerability in Judging Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the firstname parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46622 | | 
+| 20230112T23:33:15Z | CVE-2022-45729 | A cross-site scripting (XSS) vulnerability in Doctor Appointment Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Employee ID parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45729 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230112T13:53:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9889 | 339| 
 
 
 # s2e on Github 推荐
@@ -51,23 +50,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
+| 20230112T21:48:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hb | 1 | 0| 
+| 20230112T21:47:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hb | 1 | 0| 
+| 20230112T21:46:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hb | 1 | 0| 
+| 20230112T21:30:46Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 5 | 0| 
+| 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
 | 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 | 20230112T13:30:24Z | A bunch of useful scripts that might help save time and energy while doing the Windows User-mode Exploit Development course or the OSED exam | https://github.com/tr3sp4ss3rexe/OSED-scripts | 1 | 1| 
 | 20230112T12:43:35Z | Artifact submission to ACM CCS 2023 for paper %Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning% | https://github.com/taoni0718/BankSnoop | 0 | 0| 
 | 20230112T12:28:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12569 | 2159| 
-| 20230112T10:15:23Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production. Not all scripts or programs are fully tested/debugged, either. | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
-| 20230112T08:53:57Z | Null | https://github.com/iliailia10/Exploit_The_World | 0 | 0| 
-| 20230112T04:36:17Z | Exploit for grabbing player IDs in champion select | https://github.com/Scary777/LCU-Exploit | 0 | 0| 
-| 20230112T01:56:48Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/howmanlardinr/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 24 | 0| 
-| 20230112T01:56:46Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/howmanlardinr/AutoFarm-SonicSpeed-Exploit | 24 | 0| 
-| 20230112T01:35:40Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/jancikpaniask/Roblox-NYveeee-Private-Exploit-Leak3D | 24 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
+| 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 0| 
+| 20230112T16:45:13Z | Null | https://github.com/MiMoody/backdoor | 0 | 0| 
 | 20230112T13:09:14Z | The Backdoor Mod genetration has come. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
-| 20230112T10:05:43Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 3 | 0| 
 | 20230112T08:09:21Z | A computer malware developed in python which can take access of any computer in a network.  | https://github.com/ninadjd/reverseBackdoor | 0 | 0| 
 | 20230112T06:31:44Z | A toolbox for backdoor attacks. | https://github.com/Gwinhen/BackdoorVault | 3 | 0| 
 | 20230112T05:28:55Z | Null | https://github.com/Backdoor2023/Backdoor2023 | 0 | 0| 
@@ -90,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230112T21:22:55Z | Config files for my GitHub profile. | https://github.com/WhatTheFuzz/WhatTheFuzz | 0 | 0| 
+| 20230112T21:12:03Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1866 | 240| 
+| 20230112T20:06:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8264 | 1802| 
+| 20230112T19:14:43Z | Null | https://github.com/495-Senior-Design/Fuzzing | 0 | 0| 
+| 20230112T15:03:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1841 | 212| 
 | 20230112T13:14:58Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 32 | 18| 
 | 20230112T13:03:33Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
 | 20230112T12:53:27Z | Null | https://github.com/Syah4kram/Fuzzy-Acc | 0 | 0| 
 | 20230112T12:10:15Z | Null | https://github.com/sara-hajiaghajani/mamdani_fuzzy_system | 0 | 0| 
 | 20230112T11:55:59Z | studying deepfuzz | https://github.com/sososo0/KEEPER_DeepFuzz | 0 | 0| 
-| 20230112T11:41:59Z | A Simple Fuzzy Logic Algorithm That Is Used For Reloading A Rocket Launcher | https://github.com/HamzaKoya99/Fuzzy-Logic-Rocket-Launcher | 0 | 0| 
-| 20230112T11:30:49Z | In this project I implemented a type 2 adaptive fuzzy filter to filter salt & pepper (SAP) noise from images. This project follows the steps described in the following paper for the implementation: https://arxiv.org/pdf/2008.04114.pdf | https://github.com/ConstantinSavu/FuzzyFilter | 0 | 0| 
-| 20230112T10:35:28Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
-| 20230112T10:23:03Z | Null | https://github.com/guman001/gFuzz | 0 | 0| 
-| 20230112T07:13:52Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 151 | 11| 
 
 
 
