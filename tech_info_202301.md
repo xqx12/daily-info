@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:49:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9914 | 339| 
+| 20230113T01:53:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9915 | 339| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
 | 20230111T16:19:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
@@ -91,8 +91,8 @@
 | 20230112T21:47:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hb | 1 | 0| 
 | 20230112T21:46:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hb | 1 | 0| 
 | 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
+| 20230112T13:53:27Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1687 | 299| 
 | 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
-| 20230112T13:30:24Z | A bunch of useful scripts that might help save time and energy while doing the Windows User-mode Exploit Development course or the OSED exam | https://github.com/tr3sp4ss3rexe/OSED-scripts | 1 | 1| 
 
 
 # backdoor on Github 推荐
