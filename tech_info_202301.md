@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:45:28Z | CVE-2023-22401 | An Improper Validation of Array Index vulnerability in the Advanced Forwarding Toolkit Manager daemon (aftmand) of Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS). On the PTX10008 and PTX10016 platforms running Junos OS or Junos OS Evol CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22401 | | 
-| 20230113T01:45:24Z | CVE-2023-22400 | An Uncontrolled Resource Consumption vulnerability in the PFE management daemon (evo-pfemand) of Juniper Networks Junos OS Evolved allows an unauthenticated, network-based attacker to cause an FPC crash leading to a Denial of Service (DoS). When a specific SNMP GET operation or a specific CLI command is executed this w CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22400 | | 
-| 20230113T01:45:19Z | CVE-2023-22399 | When sFlow is enabled and it monitors a packet forwarded via ECMP, a buffer management vulnerability in the dcpfe process of Juniper Networks Junos OS on QFX10K Series systems allows an attacker to cause the Packet Forwarding Engine (PFE) to crash and restart by sending specific genuine packets to the device, resulting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22399 | | 
-| 20230113T01:45:15Z | CVE-2023-22397 | An Allocation of Resources Without Limits or Throttling weakness in the memory management of the Packet Forwarding Engine (PFE) on Juniper Networks Junos OS Evolved PTX10003 Series devices allows an adjacently located attacker who has established certain preconditions and knowledge of the environment to send certain sp CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22397 | | 
-| 20230113T01:45:11Z | CVE-2023-22395 | A Missing Release of Memory after Effective Lifetime vulnerability in the kernel of Juniper Networks Junos OS allows an unauthenticated, adjacent attacker to cause a Denial of Service (DoS). In an MPLS scenario specific packets destined to an Integrated Routing and Bridging (irb) interface of the device will cause a bu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22395 | | 
-| 20230113T01:45:06Z | CVE-2022-41778 | Delta Electronics InfraSuite Device Master versions 00.00.01a and prior deserialize user-supplied data provided through the Device-DataCollect service port without proper verification. An attacker could provide malicious serialized objects to execute arbitrary code upon deserialization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41778 | | 
-| 20230113T01:45:02Z | CVE-2022-25715 | Memory corruption in display driver due to incorrect type casting while accessing the fence structure fields CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25715 | | 
-| 20230112T23:34:05Z | CVE-2022-33299 | Transient DOS due to null pointer dereference in Bluetooth HOST while receiving an attribute protocol PDU with zero length data. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33299 | | 
-| 20230112T23:33:58Z | CVE-2023-22477 | Mercurius is a GraphQL adapter for Fastify. Any users of Mercurius until version 10.5.0 are subjected to a denial of service attack by sending a malformed packet over WebSocket to `/graphql`. This issue was patched in #940. As a workaround, users can disable subscriptions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22477 | | 
-| 20230112T23:33:53Z | CVE-2022-33290 | Transient DOS in Bluetooth HOST due to null pointer dereference when a mismatched argument is passed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33290 | | 
+| 20230113T01:46:35Z | CVE-2023-22417 | A Missing Release of Memory after Effective Lifetime vulnerability in the Flow Processing Daemon (flowd) of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause a Denial of Service (DoS). In an IPsec VPN environment, a memory leak will be seen if a DH or ECDH group is configured. Eventual CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22417 | | 
+| 20230113T01:46:30Z | CVE-2023-22416 | A Buffer Overflow vulnerability in SIP ALG of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause a Denial of Service (DoS). On all MX Series and SRX Series platform with SIP ALG enabled, when a malformed SIP packet is received, the flow processing daemon (flowd) will crash and restart.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22416 | | 
+| 20230113T01:46:26Z | CVE-2023-22415 | An Out-of-Bounds Write vulnerability in the H.323 ALG of Juniper Networks Junos OS allows an unauthenticated, network-based attacker to cause Denial of Service (DoS). On all MX Series and SRX Series platform, when H.323 ALG is enabled and specific H.323 packets are received simultaneously, a flow processing daemon (flo CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22415 | | 
+| 20230113T01:46:22Z | CVE-2023-22414 | A Missing Release of Memory after Effective Lifetime vulnerability in Flexible PIC Concentrator (FPC) of Juniper Networks Junos OS allows an adjacent, unauthenticated attacker from the same shared physical or logical network, to cause a heap memory leak and leading to FPC crash. On all Junos PTX Series and QFX10000 Ser CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22414 | | 
+| 20230113T01:46:18Z | CVE-2023-22413 | An Improper Check or Handling of Exceptional Conditions vulnerability in the IPsec library of Juniper Networks Junos OS allows a network-based, unauthenticated attacker to cause Denial of Service (DoS). On all MX platforms with MS-MPC or MS-MIC card, when specific IPv4 packets are processed by an IPsec6 tunnel, the Mul CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22413 | | 
+| 20230113T01:46:14Z | CVE-2023-22412 | An Improper Locking vulnerability in the SIP ALG of Juniper Networks Junos OS on MX Series with MS-MPC or MS-MIC card and SRX Series allows an unauthenticated, network-based attacker to cause a flow processing daemon (flowd) crash and thereby a Denial of Service (DoS). Continued receipt of these specific packets will c CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22412 | | 
+| 20230113T01:46:09Z | CVE-2023-22411 | An Out-of-Bounds Write vulnerability in Flow Processing Daemon (flowd) of Juniper Networks Junos OS allows an unauthenticated, network-based attacker to cause Denial of Service (DoS). On SRX Series devices using Unified Policies with IPv6, when a specific IPv6 packet goes through a dynamic-application filter which will CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22411 | | 
+| 20230113T01:46:05Z | CVE-2023-22410 | A Missing Release of Memory after Effective Lifetime vulnerability in the Juniper Networks Junos OS on MX Series platforms with MPC10/MPC11 line cards, allows an unauthenticated adjacent attacker to cause a Denial of Service (DoS). Devices are only vulnerable when the Suspicious Control Flow Detection (scfd) feature is CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22410 | | 
+| 20230113T01:46:01Z | CVE-2023-22409 | An Unchecked Input for Loop Condition vulnerability in a NAT library of Juniper Networks Junos OS allows a local authenticated attacker with low privileges to cause a Denial of Service (DoS). When an inconsistent "deterministic NAT" configuration is present on an SRX, or MX with SPC3 and then a specific CLI command is  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22409 | | 
+| 20230113T01:45:58Z | CVE-2023-22408 | An Improper Validation of Array Index vulnerability in the SIP ALG of Juniper Networks Junos OS on SRX 5000 Series allows a network-based, unauthenticated attacker to cause a Denial of Service (DoS). When an attacker sends an SIP packets with a malformed SDP field then the SIP ALG can not process it which will lead to  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22408 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T01:42:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9912 | 339| 
+| 20230113T01:47:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9913 | 339| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
 | 20230111T16:19:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T01:38:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230113T01:24:45Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 0 | 0| 
 | 20230113T01:10:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 6 | 0| 
 | 20230112T22:58:22Z | Multi-task learning (MTL) is a subfield of machine learning in which multiple learning tasks are solved at the same time, while exploiting commonalities and differences across tasks. This can result in improved learning efficiency and prediction accuracy for the task-specific models, when compared to training the models separately. | https://github.com/AsserMazin37/Multi-Task-Learning | 0 | 0| 
@@ -92,12 +93,12 @@
 | 20230112T15:29:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 24| 
 | 20230112T13:38:17Z | Kernel exploitation and driver reversing | https://github.com/tr3sp4ss3rexe/Windows-Kernel-Exploitation | 0 | 0| 
 | 20230112T13:30:24Z | A bunch of useful scripts that might help save time and energy while doing the Windows User-mode Exploit Development course or the OSED exam | https://github.com/tr3sp4ss3rexe/OSED-scripts | 1 | 1| 
-| 20230112T12:43:35Z | Artifact submission to ACM CCS 2023 for paper %Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning% | https://github.com/taoni0718/BankSnoop | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T01:38:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 | 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
 | 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 0| 
 | 20230112T16:45:13Z | Null | https://github.com/MiMoody/backdoor | 0 | 0| 
@@ -107,14 +108,13 @@
 | 20230112T05:28:55Z | Null | https://github.com/Backdoor2023/Backdoor2023 | 0 | 0| 
 | 20230112T02:53:37Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7425 | 1765| 
 | 20230111T15:30:21Z | Backdoor buster Lua script | https://github.com/ThomasCaiazzo/Backdoor-Buster | 0 | 0| 
-| 20230111T14:55:29Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 22 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T01:41:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3266 | 460| 
 | 20230113T01:32:12Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 12 | 6| 
-| 20230112T22:12:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3265 | 460| 
 | 20230112T03:29:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 288 | 67| 
 | 20230111T17:10:28Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 12 | 4| 
 | 20230111T12:00:35Z | Null | https://github.com/akshay-ap/hevm-symbolic-execution-examples | 0 | 0| 
