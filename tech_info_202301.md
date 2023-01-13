@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T13:35:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-pbQoQ-enable-exploit | 0 | 0| 
 | 20230113T13:31:45Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 263 | 63| 
 | 20230113T13:15:24Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 10 | 0| 
 | 20230113T12:20:48Z | MCYBERS Malware project 2022 | https://github.com/leRoderic/gitlab_exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230113T09:36:00Z | Null | https://github.com/jolzenjollygamer/valorant-public-exploits-hack-aimbot | 0 | 0| 
 | 20230113T09:29:58Z | Yes its me wrd api exploit | https://github.com/shmigq/PIVASw | 0 | 0| 
 | 20230113T09:29:20Z | Yes its me wrd api exploit | https://github.com/shmigq/PIVAS | 0 | 0| 
-| 20230113T03:21:03Z | Null | https://github.com/shawking2/Automatic_Exploit_Generate | 0 | 0| 
 
 
 # backdoor on Github 推荐
