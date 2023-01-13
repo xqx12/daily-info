@@ -23,6 +23,7 @@
 | 20230112 | CVE-2022-43704-Sinilink XY-WFT1 Thermostat中的重放漏洞 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-43704-capture-replay-vulnerability-in-sinilink-xy-wft1-thermostat/| 
 | 20230112 | 瑞士加密聊天应用程序 Threema 的加密漏洞的分析,其会破坏身份验证保护甚至可以恢复用户的私钥 | https://breakingthe3ma.app/files/Threema-PST22.pdf| 
 | 20230112 | mqtt 攻击面和挖掘思路浅析 | http://paper.seebug.org/2040/| 
+| 20230112 | Avast对于NeedleDropper形式恶意软件投递的分析,文中的案例主要用于FormBook商贸信的部署 | http://decoded.avast.io/threatresearch/needledropper/| 
 
 
 # 安全维基 推荐
