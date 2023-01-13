@@ -102,7 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T12:45:36Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 9 | 0| 
+| 20230113T13:15:24Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 10 | 0| 
 | 20230113T12:44:31Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 406 | 71| 
 | 20230113T12:27:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1865 | 240| 
 | 20230113T12:24:53Z | Differential fuzzer for testing different versions of the Kotlin compiler | https://github.com/ciselab/kotlin-compiler-fuzzer | 0 | 0| 
