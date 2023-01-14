@@ -37,10 +37,10 @@
 | 20230114 | 魔改后的CIA攻击套件Hive进入黑灰产领域 | https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA| 
 | 20230114 | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA| 
 | 20230114 | 全球首个太空网络威胁战技术框架发布 | https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA| 
+| 20230114 | 《智胜空天·安全护航》无人机现状观察及安全分析报告 | https://book.yunzhan365.com/tkgd/ghoo/mobile/index.html| 
+| 20230114 | 2022年CCF B级以上期刊fuzz论文汇总 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg| 
 | 20230110 | java反序列化从0到cc1 | https://sec-in.com/article/1996| 
 | 20230109 | AspectJWeaver利用链绕过serialKiller | https://sec-in.com/article/1993| 
-| 20230109 | 测量俄罗斯对 Twitter 的大规模拦截 | https://mp.weixin.qq.com/s/omxYGYC1j4AAPs5W9Nh_ow| 
-| 20230108 | 玩转CodeQLpy之代码审计实战案例 | https://mp.weixin.qq.com/s/OJPhl17HS8EBC6GLEAPvDg| 
 
 
 # CVE Github 推荐
