@@ -39,8 +39,8 @@
 | 20230114 | 全球首个太空网络威胁战技术框架发布 | https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA| 
 | 20230114 | 《智胜空天·安全护航》无人机现状观察及安全分析报告 | https://book.yunzhan365.com/tkgd/ghoo/mobile/index.html| 
 | 20230114 | 2022年CCF B级以上期刊fuzz论文汇总 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg| 
+| 20230114 | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw| 
 | 20230110 | java反序列化从0到cc1 | https://sec-in.com/article/1996| 
-| 20230109 | AspectJWeaver利用链绕过serialKiller | https://sec-in.com/article/1993| 
 
 
 # CVE Github 推荐
