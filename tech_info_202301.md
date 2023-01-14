@@ -23,9 +23,9 @@
 | 20230113 | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf| 
 | 20230113 | 客户端SSRF到Google Cloud Project接管 | http://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/| 
 | 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | http://dannyodler.hashnode.dev/racing-bugs-in-windows-kernel| 
+| 20230113 | 通过隐藏导入表的方式规避杀软 | https://xz.aliyun.com/t/12035| 
 | 20230112 | 对考勤机进行漏洞挖掘的详细过程，含多个具体案例 | https://www.freebuf.com/articles/paper/354674.html| 
 | 20230112 | bitdefender发布报告EyeSpy - 隐藏在VPN安装包中的Iran恶意软件 | https://www.bitdefender.com/files/News/CaseStudies/study/427/Bitdefender-PR-Whitepaper-EyeSpyVPN-creat625-en-EN.pdf| 
-| 20230112 | 针对意大利地区的窃密攻击活动 | https://www.uptycs.com/blog/infostealer-malware-attacks-targeting-italian-region/| 
 
 
 # 安全维基 推荐
@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230113T12:19:49Z | CVE-2023-21752 | Null | https://github.com/Wh04m1001/CVE-2023-21752 | | 
-| 20230113T12:00:50Z | CVE-2022-45299 | CVE 2022-45299 | https://github.com/offalltn/CVE-2022-45299 | | 
-| 20230113T11:41:20Z | CVE-2022-3693 | The File Management System developed by FileOrbis before version 10.6.3 has an unauthenticated local file inclusion and path traversal vulnerability. This has been fixed in the version 10.6.3 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3693 | | 
-| 20230113T11:40:59Z | CVE-2023-0283 | A vulnerability classified as critical has been found in SourceCodester Online Flight Booking Management System. This affects an unknown part of the file review_search.php of the component POST Parameter Handler. The manipulation of the argument txtsearch leads to sql injection. It is possible to initiate the attack re CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0283 | | 
-| 20230113T11:40:55Z | CVE-2023-0281 | A vulnerability was found in SourceCodester Online Flight Booking Management System. It has been rated as critical. Affected by this issue is some unknown functionality of the file judge_panel.php. The manipulation of the argument subevent_id leads to sql injection. The attack may be launched remotely. The exploit has  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0281 | | 
-| 20230113T08:39:30Z | cve-2022-28944 | Null | https://github.com/gerr-re/cve-2022-28944 | | 
-| 20230113T08:39:20Z | cve-2022-27438 | Null | https://github.com/gerr-re/cve-2022-27438 | | 
-| 20230113T08:38:34Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
-| 20230113T08:06:54Z | CVE-2022-3317 | Insufficient validation of untrusted input in Intents in Google Chrome on Android prior to 106.0.5249.62 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Low) | https://github.com/hfh86/CVE-2022-3317 | | 
-| 20230113T06:15:00Z | CVE-2022-46502 | Online Student Enrollment System v1.0 was discovered to contain a SQL injection vulnerability via the username parameter at /student_enrollment/admin/login.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46502 | | 
+| 20230114T00:31:55Z | CVE-2022-41099 | Script to update Windows Recovery Environment to patch against CVE-2022-41099 | https://github.com/halsey51013/UpdateWindowsRE-CVE-2022-41099 | | 
+| 20230113T23:48:54Z | CVE-2023-21599 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21599 | | 
+| 20230113T23:48:50Z | CVE-2023-21598 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21598 | | 
+| 20230113T23:48:47Z | CVE-2023-21597 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21597 | | 
+| 20230113T23:48:43Z | CVE-2023-21596 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21596 | | 
+| 20230113T23:48:39Z | CVE-2023-21595 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21595 | | 
+| 20230113T23:48:34Z | CVE-2023-21594 | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21594 | | 
+| 20230113T23:48:30Z | CVE-2022-45299 | An issue in the IpFile argument of rust-lang webbrowser-rs v0.8.2 allows attackers to access arbitrary files via supplying a crafted URL. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45299 | | 
+| 20230113T23:48:24Z | CVE-2022-42136 | Authenticated mail users, under specific circumstances, could add files with unsanitized content in public folders where the IIS user had permission to access. That action, could lead an attacker to store arbitrary code on that files and execute RCE commands. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42136 | | 
+| 20230113T23:48:20Z | CVE-2021-36204 | Under some circumstances an Insufficiently Protected Credentials vulnerability in Johnson Controls Metasys ADS/ADX/OAS 10 versions prior to 10.1.6 and 11 versions prior to 11.0.3 allows API calls to expose credentials in plain text. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36204 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T13:43:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10016 | 339| 
+| 20230114T00:29:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10024 | 339| 
+| 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
-| 20230113T08:19:19Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T06:15:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
 | 20230113T04:15:18Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
@@ -76,7 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T18:45:53Z | Null | https://github.com/turbocanary/turbotest_r6aikmfr_s2e79up1 | 0 | 0| 
 | 20230112T03:29:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 288 | 67| 
+| 20230107T16:37:04Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 75 | 12| 
 | 20230105T06:57:30Z | Null | https://github.com/dona7025/S2ExamDs-ml | 0 | 0| 
 
 
@@ -98,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T14:03:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 105 | 25| 
 | 20230113T13:47:03Z | Null | https://github.com/guowei-cn/universal-defence-of-backdoor-attack | 0 | 0| 
 | 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
 | 20230113T07:01:09Z | Null | https://github.com/sunbing7/backdoors | 1 | 0| 
 | 20230113T05:43:56Z | Null | https://github.com/fatih98/backdoor | 1 | 0| 
 | 20230113T04:09:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 103 | 13| 
 | 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
-| 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 0| 
+| 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 1| 
 | 20230112T16:45:13Z | Null | https://github.com/MiMoody/backdoor | 0 | 0| 
 | 20230112T13:09:14Z | The Backdoor Mod genetration has come. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
-| 20230112T08:09:21Z | A computer malware developed in python which can take access of any computer in a network.  | https://github.com/ninadjd/reverseBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T00:47:31Z | Variable Sliding Control for a system using fuzzy logic | https://github.com/juanrequez/Fuzzy_VSC | 0 | 0| 
+| 20230114T00:35:59Z | Implementation of an Adaptive Fuzzy PID control system for an AUV | https://github.com/ShivamIITK21/Adaptive-Fuzzy-PID | 0 | 0| 
+| 20230114T00:10:40Z | In this project, the Balanced Scorecard is used for the selection of companies. The fuzzy mean of each of the indexes of the scorecard is calculated and used as the criterium for selection of companies  | https://github.com/juanrequez/fuzzy_balanced_scorecard | 0 | 0| 
+| 20230114T00:05:41Z | In this project, the NPV is calculated for projects using fuzzy numbers in MATLAB.  | https://github.com/juanrequez/Fuzzy_NPV | 0 | 0| 
+| 20230113T23:28:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8272 | 1803| 
+| 20230113T22:35:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4921 | 509| 
+| 20230113T20:26:15Z | Null | https://github.com/gabriel-furquim/fuzzy-succotash | 0 | 0| 
+| 20230113T20:19:23Z | Null | https://github.com/Krystian120413/air-quality-fuzzy-driver | 0 | 0| 
+| 20230113T17:02:23Z | Null | https://github.com/Emerald-Lake/fuzzy-friends | 0 | 7| 
 | 20230113T13:15:24Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 10 | 0| 
-| 20230113T12:44:31Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 406 | 71| 
-| 20230113T12:27:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1865 | 240| 
-| 20230113T12:24:53Z | Differential fuzzer for testing different versions of the Kotlin compiler | https://github.com/ciselab/kotlin-compiler-fuzzer | 0 | 0| 
-| 20230113T10:41:12Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 336 | 49| 
-| 20230113T09:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8270 | 1803| 
-| 20230113T08:41:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4511 | 1093| 
-| 20230113T00:41:45Z | Null | https://github.com/Miti56/fuzzer-Py | 0 | 0| 
-| 20230112T21:22:55Z | Config files for my GitHub profile. | https://github.com/WhatTheFuzz/WhatTheFuzz | 0 | 0| 
-| 20230112T19:14:43Z | Null | https://github.com/495-Senior-Design/Fuzzing | 0 | 0| 
 
 
 
