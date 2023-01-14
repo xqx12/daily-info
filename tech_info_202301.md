@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230114T02:08:22Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 2 | 2| 
+| 20230114T02:28:47Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 3 | 2| 
 | 20230114T01:32:11Z | roblox exploit script | https://github.com/psychicals/skidhubx | 0 | 0| 
 | 20230114T01:29:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 2 | 0| 
 | 20230114T00:50:44Z | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | 37 | 5| 
