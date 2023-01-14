@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230114T01:13:16Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
+| 20230114T01:16:03Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
 | 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
 | 20230114T00:47:31Z | Variable Sliding Control for a system using fuzzy logic | https://github.com/juanrequez/Fuzzy_VSC | 0 | 0| 
 | 20230114T00:35:59Z | Implementation of an Adaptive Fuzzy PID control system for an AUV | https://github.com/ShivamIITK21/Adaptive-Fuzzy-PID | 0 | 0| 
