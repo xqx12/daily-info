@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230113T23:51:19Z | A bot which identify and exploit arbitrages on the Osmosis AMM DeFi plateform | https://github.com/FocSon/OsmosisArbitrage | 0 | 0| 
+| 20230113T23:48:54Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21599 | 0 | 0| 
+| 20230113T23:48:50Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21598 | 0 | 0| 
+| 20230113T23:48:47Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21597 | 0 | 0| 
+| 20230113T23:48:43Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21596 | 0 | 0| 
+| 20230113T23:48:39Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21595 | 0 | 0| 
+| 20230113T23:48:34Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21594 | 0 | 0| 
+| 20230113T20:59:32Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 19 | 19| 
 | 20230113T13:35:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-pbQoQ-enable-exploit | 0 | 0| 
 | 20230113T13:31:45Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 263 | 63| 
-| 20230113T13:30:24Z | 🖱️ , AUTOCLICKER MADE FOR MINECRAFT , UNDETECTED , BYPASS LUNAR CLIENT AND MORE  | https://github.com/sulddd/Minecraft-Autoclicker | 2 | 0| 
-| 20230113T13:15:24Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 10 | 0| 
-| 20230113T12:20:48Z | MCYBERS Malware project 2022 | https://github.com/leRoderic/gitlab_exploit | 0 | 0| 
-| 20230113T11:40:55Z | A vulnerability was found in SourceCodester Online Flight Booking Management System. It has been rated as critical. Affected by this issue is some unknown functionality of the file judge_panel.php. The manipulation of the argument subevent_id leads to sql injection. The attack may be launched remotely. The exploit has  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0281 | 0 | 0| 
-| 20230113T11:31:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4868 | 705| 
-| 20230113T10:39:32Z | Foxholestats like front-end to exploit Foxhole game%s war API as Angular training. | https://github.com/EpikToo/FoxStats | 0 | 0| 
-| 20230113T09:36:00Z | Null | https://github.com/jolzenjollygamer/valorant-public-exploits-hack-aimbot | 0 | 0| 
-| 20230113T09:29:58Z | Yes its me wrd api exploit | https://github.com/shmigq/PIVASw | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,7 +91,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230113T10:35:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3269 | 460| 
+| 20230113T19:30:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3270 | 462| 
+| 20230113T19:27:32Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 182 | 42| 
 | 20230113T02:35:48Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 208 | 54| 
 | 20230113T01:32:12Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 12 | 7| 
 
