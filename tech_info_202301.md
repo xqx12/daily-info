@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230114T02:08:22Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
+| 20230114T02:28:47Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
 | 20230114T02:00:14Z | CVE-2022-41721 | A request smuggling attack is possible when using MaxBytesHandler. When using MaxBytesHandler, the body of an HTTP request is not fully consumed. When the server attempts to read HTTP2 frames from the connection, it will instead be reading the body of the HTTP request, which could be attacker-manipulated to represent a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41721 | | 
 | 20230114T02:00:10Z | CVE-2023-21793 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21793 | | 
 | 20230114T02:00:05Z | CVE-2023-21792 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21792 | | 
