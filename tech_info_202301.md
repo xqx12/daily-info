@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T02:34:05Z | Null | https://github.com/Venpnn/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 0 | 0| 
 | 20230114T02:28:47Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 3 | 2| 
 | 20230114T01:32:11Z | roblox exploit script | https://github.com/psychicals/skidhubx | 0 | 0| 
 | 20230114T01:29:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 2 | 0| 
@@ -94,7 +95,6 @@
 | 20230113T23:48:54Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21599 | 0 | 0| 
 | 20230113T23:48:50Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21598 | 0 | 0| 
 | 20230113T23:48:47Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21597 | 0 | 0| 
-| 20230113T23:48:43Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21596 | 0 | 0| 
 
 
 # backdoor on Github 推荐
