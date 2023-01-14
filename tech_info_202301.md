@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T02:59:30Z | Null | https://github.com/CardenasGarcia/fuzzing | 0 | 0| 
 | 20230114T01:32:13Z | Fuzzy Gain Scheduling in a Multivariable System | https://github.com/juanrequez/Fuzzy_Gain_Scheduling | 0 | 0| 
 | 20230114T01:16:03Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
 | 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230114T00:10:40Z | In this project, the Balanced Scorecard is used for the selection of companies. The fuzzy mean of each of the indexes of the scorecard is calculated and used as the criterium for selection of companies  | https://github.com/juanrequez/fuzzy_balanced_scorecard | 0 | 0| 
 | 20230114T00:05:41Z | In this project, the NPV is calculated for projects using fuzzy numbers in MATLAB.  | https://github.com/juanrequez/Fuzzy_NPV | 0 | 0| 
 | 20230113T23:28:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8272 | 1803| 
-| 20230113T22:35:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4921 | 509| 
 
 
 
