@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T01:32:13Z | Fuzzy Gain Scheduling in a Multivariable System | https://github.com/juanrequez/Fuzzy_Gain_Scheduling | 0 | 0| 
 | 20230114T01:16:03Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
 | 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
 | 20230114T00:47:31Z | Variable Sliding Control for a system using fuzzy logic | https://github.com/juanrequez/Fuzzy_VSC | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230113T23:28:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8272 | 1803| 
 | 20230113T22:35:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4921 | 509| 
 | 20230113T20:26:15Z | Null | https://github.com/gabriel-furquim/fuzzy-succotash | 0 | 0| 
-| 20230113T20:19:23Z | Null | https://github.com/Krystian120413/air-quality-fuzzy-driver | 0 | 0| 
 
 
 
