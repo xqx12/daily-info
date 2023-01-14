@@ -144,7 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230114T01:04:12Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
+| 20230114T01:13:16Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
+| 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
 | 20230114T00:47:31Z | Variable Sliding Control for a system using fuzzy logic | https://github.com/juanrequez/Fuzzy_VSC | 0 | 0| 
 | 20230114T00:35:59Z | Implementation of an Adaptive Fuzzy PID control system for an AUV | https://github.com/ShivamIITK21/Adaptive-Fuzzy-PID | 0 | 0| 
 | 20230114T00:10:40Z | In this project, the Balanced Scorecard is used for the selection of companies. The fuzzy mean of each of the indexes of the scorecard is calculated and used as the criterium for selection of companies  | https://github.com/juanrequez/fuzzy_balanced_scorecard | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230113T22:35:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4921 | 509| 
 | 20230113T20:26:15Z | Null | https://github.com/gabriel-furquim/fuzzy-succotash | 0 | 0| 
 | 20230113T20:19:23Z | Null | https://github.com/Krystian120413/air-quality-fuzzy-driver | 0 | 0| 
-| 20230113T17:02:23Z | Null | https://github.com/Emerald-Lake/fuzzy-friends | 0 | 7| 
 
 
 
