@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T13:25:32Z | 🔫 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/sulddd/Fortnite-softaim | 2 | 0| 
 | 20230114T11:38:30Z | stupid lego exploit | https://github.com/ThatOneGuyThatEditedKavoUiLibs/Mochalul | 0 | 0| 
 | 20230114T11:36:45Z | Stumble Guys Auto Crown | https://github.com/Rkhyg/Stumble-Exploit | 0 | 0| 
 | 20230114T11:20:24Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/slimygree/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 4 | 0| 
@@ -94,7 +95,6 @@
 | 20230114T09:27:33Z | Null | https://github.com/baileydel/command_exploit | 0 | 0| 
 | 20230114T06:51:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12577 | 2159| 
 | 20230114T04:27:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9825 | 1568| 
-| 20230114T02:40:43Z | Null | https://github.com/Venpnn/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 15 | 0| 
 
 
 # backdoor on Github 推荐
