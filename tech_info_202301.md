@@ -85,9 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T02:08:22Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 2 | 2| 
 | 20230114T01:32:11Z | roblox exploit script | https://github.com/psychicals/skidhubx | 0 | 0| 
 | 20230114T01:29:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 2 | 0| 
-| 20230114T01:19:17Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 1 | 2| 
 | 20230114T00:50:44Z | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | 37 | 5| 
 | 20230114T00:34:18Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 2 | 0| 
 | 20230113T23:51:19Z | A bot which identify and exploit arbitrages on the Osmosis AMM DeFi plateform | https://github.com/FocSon/OsmosisArbitrage | 0 | 0| 
