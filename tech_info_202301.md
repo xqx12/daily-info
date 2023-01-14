@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230114 | Web3 安全-链上威胁分析教学 | https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy| 
+| 20230114 | 人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg| 
+| 20230114 | 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og| 
+| 20230114 | 魔改后的CIA攻击套件Hive进入黑灰产领域 | https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA| 
+| 20230114 | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA| 
+| 20230114 | 全球首个太空网络威胁战技术框架发布 | https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA| 
 | 20230110 | java反序列化从0到cc1 | https://sec-in.com/article/1996| 
 | 20230109 | AspectJWeaver利用链绕过serialKiller | https://sec-in.com/article/1993| 
 | 20230109 | 测量俄罗斯对 Twitter 的大规模拦截 | https://mp.weixin.qq.com/s/omxYGYC1j4AAPs5W9Nh_ow| 
 | 20230108 | 玩转CodeQLpy之代码审计实战案例 | https://mp.weixin.qq.com/s/OJPhl17HS8EBC6GLEAPvDg| 
-| 20230108 | code-inspector: 基于字节码分析的Java代码审计工具 | https://github.com/4ra1n/code-inspector| 
-| 20230108 | Patch diff an old vulnerability in Synology NAS | https://paper.seebug.org/2038/| 
-| 20230108 | GitLab结合fortify实现自动化代码审计实践 | https://www.anquanke.com/post/id/284200| 
-| 20230107 | 2022国内网络安全融资分析 | https://mp.weixin.qq.com/s/vnCdiOB1tsvkdgz5-5Z8ug| 
-| 20230106 | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg| 
-| 20230105 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230114T02:28:47Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
-| 20230114T02:00:14Z | CVE-2022-41721 | A request smuggling attack is possible when using MaxBytesHandler. When using MaxBytesHandler, the body of an HTTP request is not fully consumed. When the server attempts to read HTTP2 frames from the connection, it will instead be reading the body of the HTTP request, which could be attacker-manipulated to represent a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41721 | | 
-| 20230114T02:00:10Z | CVE-2023-21793 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21793 | | 
-| 20230114T02:00:05Z | CVE-2023-21792 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21792 | | 
-| 20230114T01:59:59Z | CVE-2023-21791 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21791 | | 
-| 20230114T01:59:51Z | CVE-2023-21786 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21786 | | 
-| 20230114T01:59:47Z | CVE-2023-21784 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21784 | | 
-| 20230114T01:59:43Z | CVE-2023-21783 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21783 | | 
-| 20230114T01:59:39Z | CVE-2023-21790 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21791, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21790 | | 
-| 20230114T01:59:35Z | CVE-2023-21789 | 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792, CVE-2023-21793. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21789 | | 
+| 20230114T11:58:23Z | CVE-2023-0298 | Improper Authorization in GitHub repository firefly-iii/firefly-iii prior to 5.8.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0298 | | 
+| 20230114T11:58:19Z | CVE-2023-22602 | When using Apache Shiro before 1.11.0 together with Spring Boot 2.6+, a specially crafted HTTP request may cause an authentication bypass. The authentication bypass occurs when Shiro and Spring Boot are using different pattern-matching techniques. Both Shiro and Spring Boot < 2.6 default to Ant style pattern matching.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22602 | | 
+| 20230114T06:31:31Z | CVE-2022-32325 | JPEGOPTIM v1.4.7 was discovered to contain a segmentation violation which is caused by a READ memory access at jpegoptim.c. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32325 | | 
+| 20230114T06:31:25Z | CVE-2023-0297 | Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0297 | | 
+| 20230114T06:31:14Z | CVE-2023-22469 | Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. When getting the reference preview for Deck cards the user has no access to, unauthorized user could eventually get the cached data of a user that has access. There are currently no known wo CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22469 | | 
+| 20230114T06:31:10Z | CVE-2023-22479 | KubePi is a modern Kubernetes panel. A session fixation attack allows an attacker to hijack a legitimate user session, versions 1.6.3 and below are susceptible. A patch will be released in version 1.6.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22479 | | 
+| 20230114T06:31:06Z | CVE-2022-45167 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application allows a basic user to access the profile information of all connected users. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45167 | | 
+| 20230114T06:31:01Z | CVE-2022-45166 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application accepts a set of user-controlled parameters that are used to act on the data returned to the user. It allows a basic user to access data unrelated to their role. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45166 | | 
+| 20230114T06:30:53Z | CVE-2022-38481 | An issue was discovered in Mega HOPEX 15.2.0.6110 before V5CP2. The application is prone to reflected Cross-site Scripting (XSS) in several features. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38481 | | 
+| 20230114T06:30:49Z | CVE-2022-45164 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application allows a basic user to cancel (delete) a booking, created by someone else - even if this basic user is not a member of the booking CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45164 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230114T02:47:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10025 | 339| 
+| 20230114T12:34:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10032 | 339| 
+| 20230114T11:18:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 190 | 1| 
+| 20230114T05:37:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2137 | 603| 
 | 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
 | 20230113T06:15:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
-| 20230113T04:15:18Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 188 | 1| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
 | 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
 | 20230109T20:03:46Z | Null | https://github.com/kleecollage/kleecollage | 0 | 0| 
-| 20230108T13:05:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2135 | 603| 
 
 
 # s2e on Github 推荐
@@ -85,21 +85,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T11:38:30Z | stupid lego exploit | https://github.com/ThatOneGuyThatEditedKavoUiLibs/Mochalul | 0 | 0| 
+| 20230114T11:36:45Z | Stumble Guys Auto Crown | https://github.com/Rkhyg/Stumble-Exploit | 0 | 0| 
+| 20230114T11:20:24Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/slimygree/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 4 | 0| 
+| 20230114T11:15:19Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/tila63/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 3 | 0| 
+| 20230114T10:20:32Z | Yaml bomb files and exploitable programming languages | https://github.com/dubniczky/Yaml-Bomb | 0 | 0| 
+| 20230114T09:53:26Z | Fast and stable nitro generator + checker | https://github.com/tungdo0602/Nitro-Generator | 2 | 5| 
+| 20230114T09:27:33Z | Null | https://github.com/baileydel/command_exploit | 0 | 0| 
+| 20230114T06:51:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12577 | 2159| 
+| 20230114T04:27:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9825 | 1568| 
 | 20230114T02:40:43Z | Null | https://github.com/Venpnn/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 15 | 0| 
-| 20230114T02:28:47Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 3 | 2| 
-| 20230114T01:32:11Z | roblox exploit script | https://github.com/psychicals/skidhubx | 0 | 0| 
-| 20230114T01:29:14Z | YoHoHo.io hacks/cheats/exploits that work while LOGGED IN. by Faav#6320 | https://github.com/bribes/yohoho-hacks-logged-in | 2 | 0| 
-| 20230114T00:50:44Z | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | 37 | 5| 
-| 20230114T00:34:18Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 2 | 0| 
-| 20230113T23:51:19Z | A bot which identify and exploit arbitrages on the Osmosis AMM DeFi plateform | https://github.com/FocSon/OsmosisArbitrage | 0 | 0| 
-| 20230113T23:48:54Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21599 | 0 | 0| 
-| 20230113T23:48:50Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21598 | 0 | 0| 
-| 20230113T23:48:47Z | Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21597 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T08:52:53Z | This is a backdoor coded in python, which has functionalities including getting wifi credentials, viewing or overwriting files etc. | https://github.com/thenoisyninga/Custom_Backdoor_With_Python | 0 | 0| 
+| 20230114T05:37:13Z | Null | https://github.com/Research-training-of-federal-learning/backdoor-defense | 0 | 0| 
 | 20230113T14:03:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 105 | 25| 
 | 20230113T13:47:03Z | Null | https://github.com/guowei-cn/universal-defence-of-backdoor-attack | 0 | 0| 
 | 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
@@ -108,8 +110,6 @@
 | 20230113T04:09:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 103 | 13| 
 | 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
 | 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 1| 
-| 20230112T16:45:13Z | Null | https://github.com/MiMoody/backdoor | 0 | 0| 
-| 20230112T13:09:14Z | The Backdoor Mod genetration has come. | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T12:52:39Z | Null | https://github.com/h2kg7jja/fuzzy-carnival | 0 | 0| 
+| 20230114T10:49:42Z | Algoritmo de Similitud | https://github.com/mbenaventc/FuzzyWuzzyLinkedin | 0 | 0| 
+| 20230114T10:30:43Z | Null | https://github.com/mbenaventc/FuzzyWuzzy | 0 | 0| 
+| 20230114T08:50:57Z | Find same products fron two lists with FuzzyWuzzy | https://github.com/AugustinCF/FuzzyWuzzy | 0 | 0| 
+| 20230114T07:52:41Z | Null | https://github.com/Nat-Hor/Fuzzy-logic-elevator | 0 | 0| 
+| 20230114T04:21:02Z | Null | https://github.com/Holymaiden/laravel_fuzzy | 0 | 0| 
 | 20230114T02:59:30Z | Null | https://github.com/CardenasGarcia/fuzzing | 0 | 0| 
 | 20230114T01:32:13Z | Fuzzy Gain Scheduling in a Multivariable System | https://github.com/juanrequez/Fuzzy_Gain_Scheduling | 0 | 0| 
 | 20230114T01:16:03Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
 | 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
-| 20230114T01:06:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3361 | 398| 
-| 20230114T00:47:31Z | Variable Sliding Control for a system using fuzzy logic | https://github.com/juanrequez/Fuzzy_VSC | 0 | 0| 
-| 20230114T00:35:59Z | Implementation of an Adaptive Fuzzy PID control system for an AUV | https://github.com/ShivamIITK21/Adaptive-Fuzzy-PID | 0 | 0| 
-| 20230114T00:10:40Z | In this project, the Balanced Scorecard is used for the selection of companies. The fuzzy mean of each of the indexes of the scorecard is calculated and used as the criterium for selection of companies  | https://github.com/juanrequez/fuzzy_balanced_scorecard | 0 | 0| 
-| 20230114T00:05:41Z | In this project, the NPV is calculated for projects using fuzzy numbers in MATLAB.  | https://github.com/juanrequez/Fuzzy_NPV | 0 | 0| 
-| 20230113T23:28:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8272 | 1803| 
 
 
 
