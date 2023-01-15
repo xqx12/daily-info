@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:12:10Z | An initial incursion into the world of fuzzy linguistic summarization of data. | https://github.com/ErdaradunGaztea/fuzzydf | 0 | 0| 
 | 20230115T13:01:26Z | Basic code of the ICRA2022 paper, ROZZ: Property-based Fuzzing for Robotic Programs in ROS | https://github.com/ROStesting123/Property-based-Fuzzing-for-ROS-programs | 0 | 0| 
 | 20230115T12:33:32Z | Null | https://github.com/S1LV4/n8n-fuzzy | 0 | 0| 
 | 20230115T11:59:50Z | coding along an angular tutorial | https://github.com/ReportDataCode/fuzzy-octo-adventure | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230115T04:38:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8275 | 1803| 
 | 20230115T01:50:28Z | Fuzzer single-thread desenvolvido no âmbita da disciplina de TCC-II | https://github.com/Ansatsuken1337x/mySingleThreadFuzzer | 0 | 0| 
 | 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
-| 20230114T22:38:41Z | Rename a batch of files in reference to another batch of files (Work in progress!) | https://github.com/Aceba1/fuzzy_rename_rs | 0 | 0| 
 
 
 

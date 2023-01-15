@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:12:10Z | An initial incursion into the world of fuzzy linguistic summarization of data. | https://github.com/ErdaradunGaztea/fuzzydf | 0 | 0| 
 | 20230115T13:01:26Z | Basic code of the ICRA2022 paper, ROZZ: Property-based Fuzzing for Robotic Programs in ROS | https://github.com/ROStesting123/Property-based-Fuzzing-for-ROS-programs | 0 | 0| 
 | 20230115T12:33:32Z | Null | https://github.com/S1LV4/n8n-fuzzy | 0 | 0| 
 | 20230115T11:59:50Z | coding along an angular tutorial | https://github.com/ReportDataCode/fuzzy-octo-adventure | 0 | 0| 
