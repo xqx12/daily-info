@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:30:14Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
 | 20230115T13:26:44Z | CVE-2022-22274 | Null | https://github.com/pwneddr/Sonic_CVE-2022-22274_poc | | 
 | 20230115T13:16:52Z | CVE-2023-0305 | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | | 
 | 20230115T13:16:47Z | CVE-2023-0304 | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | | 
@@ -54,7 +55,6 @@
 | 20230115T12:10:20Z | CVE-2022-4889 | A vulnerability classified as critical was found in visegripped Stracker. Affected by this vulnerability is the function getHistory of the file doc_root/public_html/stracker/api.php. The manipulation of the argument symbol/startDate/endDate leads to sql injection. The name of the patch is 63e1b040373ee5b6c7d1e165ecf5ae CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4889 | | 
 | 20230115T10:02:15Z | CVE-2021-36630 | Null | https://github.com/lixiang957/CVE-2021-36630 | | 
 | 20230115T10:01:41Z | CVE-2021-33959 | CVE-2021-33959 | https://github.com/lixiang957/CVE-2021-33959 | | 
-| 20230115T09:05:25Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
 | 20230115T06:41:00Z | CVE-2023-0302 | Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository radareorg/radare2 prior to 5.8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0302 | | 
 
 
