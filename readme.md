@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:15:04Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 34 | 2| 
+| 20230115T13:13:41Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 59 | 29| 
 | 20230115T12:18:46Z | codeb0ss | https://github.com/unCodeBoss/new-private-exploits | 0 | 0| 
 | 20230115T11:10:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 13| 
 | 20230115T10:56:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12583 | 2159| 
-| 20230115T10:39:50Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 58 | 29| 
 | 20230115T10:23:09Z | Null | https://github.com/Syfox9/SyfoxExploit | 0 | 0| 
 | 20230115T09:54:49Z | Null | https://github.com/quboyu3125/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 29 | 0| 
 | 20230115T09:22:34Z | A WPF Roblox exploit that focuses on simplicity, allowing users to easily execute any action within a command bar or through a shortcut. | https://github.com/iositd/Skyvo | 1 | 1| 
 | 20230115T08:28:51Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration | https://github.com/hotpotcookie/log4shell-white-box | 3 | 1| 
 | 20230115T02:23:06Z | DIY lol | https://github.com/troyw1987/roblox-exploit-scripts | 0 | 0| 
-| 20230115T01:18:35Z | Vulnerability analysis and exploitation of a D-Link DCS-930L camera | https://github.com/kcajeel/dlink | 0 | 0| 
 
 
 # backdoor on Github 推荐
