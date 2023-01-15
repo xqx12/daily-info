@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T02:10:54Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 0 | 0| 
 | 20230114T18:49:13Z | Null | https://github.com/DankorCracker/BackDoorer | 0 | 0| 
 | 20230114T16:56:19Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 54 | 0| 
 | 20230114T08:52:53Z | This is a backdoor coded in python, which has functionalities including getting wifi credentials, viewing or overwriting files etc. | https://github.com/thenoisyninga/Custom_Backdoor_With_Python | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
 | 20230113T07:01:09Z | Null | https://github.com/sunbing7/backdoors | 1 | 0| 
 | 20230113T05:43:56Z | Null | https://github.com/fatih98/backdoor | 1 | 0| 
-| 20230113T04:09:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 103 | 13| 
 
 
 # symbolic execution on Github 推荐
