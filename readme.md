@@ -45,6 +45,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:16:52Z | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | 0 | 0| 
+| 20230115T13:16:47Z | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | 0 | 0| 
+| 20230115T13:16:43Z | A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0303 | 0 | 0| 
 | 20230115T13:15:04Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 34 | 2| 
 | 20230115T13:13:41Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 59 | 29| 
 | 20230115T12:18:46Z | codeb0ss | https://github.com/unCodeBoss/new-private-exploits | 0 | 0| 
@@ -52,9 +55,6 @@
 | 20230115T10:56:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12583 | 2159| 
 | 20230115T10:23:09Z | Null | https://github.com/Syfox9/SyfoxExploit | 0 | 0| 
 | 20230115T09:54:49Z | Null | https://github.com/quboyu3125/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 29 | 0| 
-| 20230115T09:22:34Z | A WPF Roblox exploit that focuses on simplicity, allowing users to easily execute any action within a command bar or through a shortcut. | https://github.com/iositd/Skyvo | 1 | 1| 
-| 20230115T08:28:51Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration | https://github.com/hotpotcookie/log4shell-white-box | 3 | 1| 
-| 20230115T02:23:06Z | DIY lol | https://github.com/troyw1987/roblox-exploit-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
