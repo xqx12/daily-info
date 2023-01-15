@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T01:06:19Z | Vulnerability analysis and exploitation of a D-Link DCS-930L camera | https://github.com/kcajeel/dlink | 0 | 0| 
 | 20230115T00:50:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 51 | 27| 
 | 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
 | 20230114T23:00:53Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-2023 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230114T13:25:32Z | 🔫 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/sulddd/Fortnite-softaim | 2 | 0| 
 | 20230114T11:38:30Z | stupid lego exploit | https://github.com/ThatOneGuyThatEditedKavoUiLibs/Mochalul | 0 | 0| 
 | 20230114T11:36:45Z | Stumble Guys Auto Crown | https://github.com/Rkhyg/Stumble-Exploit | 0 | 0| 
-| 20230114T11:20:24Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/slimygree/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 4 | 0| 
 
 
 # backdoor on Github 推荐
