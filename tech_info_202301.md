@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230115T01:06:19Z | Vulnerability analysis and exploitation of a D-Link DCS-930L camera | https://github.com/kcajeel/dlink | 0 | 0| 
+| 20230115T01:08:29Z | Vulnerability analysis and exploitation of a D-Link DCS-930L camera | https://github.com/kcajeel/dlink | 0 | 0| 
 | 20230115T00:50:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 51 | 27| 
 | 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
 | 20230114T23:00:53Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-2023 | 0 | 0| 
