@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230115T02:10:54Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 0 | 0| 
+| 20230115T02:12:43Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 0 | 0| 
 | 20230114T18:49:13Z | Null | https://github.com/DankorCracker/BackDoorer | 0 | 0| 
 | 20230114T16:56:19Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 54 | 0| 
 | 20230114T08:52:53Z | This is a backdoor coded in python, which has functionalities including getting wifi credentials, viewing or overwriting files etc. | https://github.com/thenoisyninga/Custom_Backdoor_With_Python | 0 | 0| 
