@@ -65,6 +65,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T11:38:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 613 | 111| 
+| 20230115T10:00:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 289 | 67| 
 
 
 # big4 on Github 推荐
