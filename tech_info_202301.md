@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T01:29:03Z | Fuzzer single-thread desenvolvido no âmbita da disciplina de TCC-II | https://github.com/Ansatsuken1337x/mySingleThreadFuzzer | 0 | 0| 
 | 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
 | 20230114T22:38:41Z | Rename a batch of files in reference to another batch of files (Work in progress!) | https://github.com/Aceba1/fuzzy_rename_rs | 0 | 0| 
 | 20230114T19:58:49Z | Node REST API, counts the most frequently used words in a piece of text | https://github.com/mahaluo-stack/fuzzy-system-cgi | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230114T10:49:42Z | Algoritmo de Similitud | https://github.com/mbenaventc/FuzzyWuzzyLinkedin | 0 | 0| 
 | 20230114T10:30:43Z | Null | https://github.com/mbenaventc/FuzzyWuzzy | 0 | 0| 
 | 20230114T08:50:57Z | Find same products fron two lists with FuzzyWuzzy | https://github.com/AugustinCF/FuzzyWuzzy | 0 | 0| 
-| 20230114T07:52:41Z | Null | https://github.com/Nat-Hor/Fuzzy-logic-elevator | 0 | 0| 
 
 
 
