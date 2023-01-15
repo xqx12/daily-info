@@ -147,13 +147,13 @@
 | 20230115T01:50:28Z | Fuzzer single-thread desenvolvido no âmbita da disciplina de TCC-II | https://github.com/Ansatsuken1337x/mySingleThreadFuzzer | 0 | 0| 
 | 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
 | 20230114T22:38:41Z | Rename a batch of files in reference to another batch of files (Work in progress!) | https://github.com/Aceba1/fuzzy_rename_rs | 0 | 0| 
+| 20230114T21:27:01Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1092 | 94| 
 | 20230114T19:58:49Z | Node REST API, counts the most frequently used words in a piece of text | https://github.com/mahaluo-stack/fuzzy-system-cgi | 0 | 0| 
 | 20230114T19:35:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 89 | 24| 
 | 20230114T19:03:21Z | Null | https://github.com/Emerald-Lake/fuzzy-friends | 0 | 7| 
 | 20230114T12:52:39Z | Null | https://github.com/h2kg7jja/fuzzy-carnival | 0 | 0| 
 | 20230114T10:49:42Z | Algoritmo de Similitud | https://github.com/mbenaventc/FuzzyWuzzyLinkedin | 0 | 0| 
 | 20230114T10:30:43Z | Null | https://github.com/mbenaventc/FuzzyWuzzy | 0 | 0| 
-| 20230114T08:50:57Z | Find same products fron two lists with FuzzyWuzzy | https://github.com/AugustinCF/FuzzyWuzzy | 0 | 0| 
 
 
 
