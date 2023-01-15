@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230115T13:16:52Z | CVE-2023-0305 | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | | 
+| 20230115T13:16:47Z | CVE-2023-0304 | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | | 
+| 20230115T13:16:43Z | CVE-2023-0303 | A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0303 | | 
 | 20230115T12:10:25Z | CVE-2023-23595 | BlueCat Device Registration Portal 2.2 allows XXE attacks that exfiltrate single-line files. A single-line file might contain credentials, such as "machine example.com login daniel password qwerty" in the documentation example for the .netrc file format. NOTE; 2.x versions are no longer supported. There is no available CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23595 | | 
 | 20230115T12:10:20Z | CVE-2022-4889 | A vulnerability classified as critical was found in visegripped Stracker. Affected by this vulnerability is the function getHistory of the file doc_root/public_html/stracker/api.php. The manipulation of the argument symbol/startDate/endDate leads to sql injection. The name of the patch is 63e1b040373ee5b6c7d1e165ecf5ae CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4889 | | 
 | 20230115T10:02:15Z | CVE-2021-36630 | Null | https://github.com/lixiang957/CVE-2021-36630 | | 
@@ -53,9 +56,6 @@
 | 20230115T09:05:25Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
 | 20230115T06:41:00Z | CVE-2023-0302 | Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository radareorg/radare2 prior to 5.8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0302 | | 
 | 20230115T06:40:53Z | CVE-2023-23590 | Mercedes-Benz XENTRY Retail Data Storage 7.8.1 allows remote attackers to cause a denial of service (device restart) via an unauthenticated API request. The attacker must be on the same network as the device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23590 | | 
-| 20230114T19:42:30Z | CVE-2023-0301 | Cross-site Scripting (XSS) - Stored in GitHub repository alfio-event/alf.io prior to Alf.io 2.0-M4-2301. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0301 | | 
-| 20230114T19:42:26Z | CVE-2023-0300 | Cross-site Scripting (XSS) - Reflected in GitHub repository alfio-event/alf.io prior to 2.0-M4-2301. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0300 | | 
-| 20230114T17:32:35Z | CVE-2023-0299 | Improper Input Validation in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0299 | | 
 
 
 # klee on Github 推荐
