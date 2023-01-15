@@ -40,35 +40,35 @@
 | 20230114 | 《智胜空天·安全护航》无人机现状观察及安全分析报告 | https://book.yunzhan365.com/tkgd/ghoo/mobile/index.html| 
 | 20230114 | 2022年CCF B级以上期刊fuzz论文汇总 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg| 
 | 20230114 | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw| 
-| 20230110 | java反序列化从0到cc1 | https://sec-in.com/article/1996| 
+| 20230114 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230114T19:42:30Z | CVE-2023-0301 | Cross-site Scripting (XSS) - Stored in GitHub repository alfio-event/alf.io prior to Alf.io 2.0-M4-2301. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0301 | | 
+| 20230114T19:42:26Z | CVE-2023-0300 | Cross-site Scripting (XSS) - Reflected in GitHub repository alfio-event/alf.io prior to 2.0-M4-2301. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0300 | | 
+| 20230114T17:32:35Z | CVE-2023-0299 | Improper Input Validation in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0299 | | 
+| 20230114T17:18:20Z | CVE-2022-22274 | Null | https://github.com/pwneddr/Sonic_CVE-2022-22274_poc | | 
+| 20230114T15:18:56Z | CVE-2022-2815 | Insecure Storage of Sensitive Information in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2815 | | 
+| 20230114T15:18:52Z | CVE-2022-1812 | Integer Overflow or Wraparound in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1812 | | 
+| 20230114T14:12:03Z | CVE-2022-45353 | Broken Access Control in Betheme theme <= 26.6.1 on WordPress. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45353 | | 
+| 20230114T14:11:58Z | CVE-2022-38467 | Reflected Cross-Site Scripting (XSS) vulnerability in CRM Perks Forms – WordPress Form Builder <= 1.1.0 ver. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38467 | | 
 | 20230114T11:58:23Z | CVE-2023-0298 | Improper Authorization in GitHub repository firefly-iii/firefly-iii prior to 5.8.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0298 | | 
 | 20230114T11:58:19Z | CVE-2023-22602 | When using Apache Shiro before 1.11.0 together with Spring Boot 2.6+, a specially crafted HTTP request may cause an authentication bypass. The authentication bypass occurs when Shiro and Spring Boot are using different pattern-matching techniques. Both Shiro and Spring Boot < 2.6 default to Ant style pattern matching.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22602 | | 
-| 20230114T06:31:31Z | CVE-2022-32325 | JPEGOPTIM v1.4.7 was discovered to contain a segmentation violation which is caused by a READ memory access at jpegoptim.c. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32325 | | 
-| 20230114T06:31:25Z | CVE-2023-0297 | Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0297 | | 
-| 20230114T06:31:14Z | CVE-2023-22469 | Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. When getting the reference preview for Deck cards the user has no access to, unauthorized user could eventually get the cached data of a user that has access. There are currently no known wo CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22469 | | 
-| 20230114T06:31:10Z | CVE-2023-22479 | KubePi is a modern Kubernetes panel. A session fixation attack allows an attacker to hijack a legitimate user session, versions 1.6.3 and below are susceptible. A patch will be released in version 1.6.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22479 | | 
-| 20230114T06:31:06Z | CVE-2022-45167 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application allows a basic user to access the profile information of all connected users. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45167 | | 
-| 20230114T06:31:01Z | CVE-2022-45166 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application accepts a set of user-controlled parameters that are used to act on the data returned to the user. It allows a basic user to access data unrelated to their role. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45166 | | 
-| 20230114T06:30:53Z | CVE-2022-38481 | An issue was discovered in Mega HOPEX 15.2.0.6110 before V5CP2. The application is prone to reflected Cross-site Scripting (XSS) in several features. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38481 | | 
-| 20230114T06:30:49Z | CVE-2022-45164 | An issue was discovered in Archibus Web Central 2022.03.01.107. A service exposed by the application allows a basic user to cancel (delete) a booking, created by someone else - even if this basic user is not a member of the booking CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45164 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230114T13:40:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10034 | 339| 
-| 20230114T11:18:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 190 | 1| 
-| 20230114T05:37:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2137 | 603| 
+| 20230114T21:16:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10038 | 339| 
+| 20230114T16:55:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 192 | 1| 
+| 20230114T16:06:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2138 | 603| 
+| 20230114T15:59:52Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
 | 20230113T06:15:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
 | 20230113T00:14:42Z | Null | https://github.com/klee2024/klee2024.github.io | 0 | 0| 
-| 20230111T11:51:29Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230110T20:16:22Z | Утилита, транслирующая код на языке Klee в код на языке Python | https://github.com/volk-code/klee2py | 0 | 0| 
 | 20230109T20:03:46Z | Null | https://github.com/kleecollage/kleecollage | 0 | 0| 
 
@@ -85,21 +85,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T00:50:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 51 | 27| 
+| 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
+| 20230114T23:00:53Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-2023 | 0 | 0| 
+| 20230114T22:41:09Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-2023-FUD | 0 | 0| 
+| 20230114T22:38:52Z | Null | https://github.com/0x414141414/JPG-JPEG-PNG-Silent-Exploit-Builder-2023 | 0 | 0| 
+| 20230114T22:19:28Z | Null | https://github.com/realsan444/ROBLOX-BOSS-HUB-EXPLOIT-HUB- | 0 | 0| 
 | 20230114T13:25:32Z | 🔫 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/sulddd/Fortnite-softaim | 2 | 0| 
 | 20230114T11:38:30Z | stupid lego exploit | https://github.com/ThatOneGuyThatEditedKavoUiLibs/Mochalul | 0 | 0| 
 | 20230114T11:36:45Z | Stumble Guys Auto Crown | https://github.com/Rkhyg/Stumble-Exploit | 0 | 0| 
 | 20230114T11:20:24Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/slimygree/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 4 | 0| 
-| 20230114T11:15:19Z | Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | https://github.com/tila63/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat-main | 3 | 0| 
-| 20230114T10:20:32Z | Yaml bomb files and exploitable programming languages | https://github.com/dubniczky/Yaml-Bomb | 0 | 0| 
-| 20230114T09:53:26Z | Fast and stable nitro generator + checker | https://github.com/tungdo0602/Nitro-Generator | 2 | 5| 
-| 20230114T09:27:33Z | Null | https://github.com/baileydel/command_exploit | 0 | 0| 
-| 20230114T06:51:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12577 | 2159| 
-| 20230114T04:27:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9825 | 1568| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230114T18:49:13Z | Null | https://github.com/DankorCracker/BackDoorer | 0 | 0| 
+| 20230114T16:56:19Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 54 | 0| 
 | 20230114T08:52:53Z | This is a backdoor coded in python, which has functionalities including getting wifi credentials, viewing or overwriting files etc. | https://github.com/thenoisyninga/Custom_Backdoor_With_Python | 0 | 0| 
 | 20230114T05:37:13Z | Null | https://github.com/Research-training-of-federal-learning/backdoor-defense | 0 | 0| 
 | 20230113T14:03:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 105 | 25| 
@@ -108,8 +110,6 @@
 | 20230113T07:01:09Z | Null | https://github.com/sunbing7/backdoors | 1 | 0| 
 | 20230113T05:43:56Z | Null | https://github.com/fatih98/backdoor | 1 | 0| 
 | 20230113T04:09:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 103 | 13| 
-| 20230112T22:39:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 635 | 125| 
-| 20230112T19:05:25Z | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | https://github.com/whiterabb17/Shamanic | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T00:43:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 19 | 0| 
+| 20230114T22:38:41Z | Rename a batch of files in reference to another batch of files (Work in progress!) | https://github.com/Aceba1/fuzzy_rename_rs | 0 | 0| 
+| 20230114T19:58:49Z | Node REST API, counts the most frequently used words in a piece of text | https://github.com/mahaluo-stack/fuzzy-system-cgi | 0 | 0| 
+| 20230114T19:35:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 89 | 24| 
+| 20230114T19:03:21Z | Null | https://github.com/Emerald-Lake/fuzzy-friends | 0 | 7| 
 | 20230114T12:52:39Z | Null | https://github.com/h2kg7jja/fuzzy-carnival | 0 | 0| 
 | 20230114T10:49:42Z | Algoritmo de Similitud | https://github.com/mbenaventc/FuzzyWuzzyLinkedin | 0 | 0| 
 | 20230114T10:30:43Z | Null | https://github.com/mbenaventc/FuzzyWuzzy | 0 | 0| 
 | 20230114T08:50:57Z | Find same products fron two lists with FuzzyWuzzy | https://github.com/AugustinCF/FuzzyWuzzy | 0 | 0| 
 | 20230114T07:52:41Z | Null | https://github.com/Nat-Hor/Fuzzy-logic-elevator | 0 | 0| 
-| 20230114T04:21:02Z | Null | https://github.com/Holymaiden/laravel_fuzzy | 0 | 0| 
-| 20230114T02:59:30Z | Null | https://github.com/CardenasGarcia/fuzzing | 0 | 0| 
-| 20230114T01:32:13Z | Fuzzy Gain Scheduling in a Multivariable System | https://github.com/juanrequez/Fuzzy_Gain_Scheduling | 0 | 0| 
-| 20230114T01:16:03Z | Fuzzy Model Reference Control on a multivariable system using Takagi-Sugeno and Mamdani fuzzy inference systems | https://github.com/juanrequez/MRC_Fuzzy | 0 | 0| 
-| 20230114T01:11:25Z | Three Fuzzy inference systems, Mamdani, Tagaki-Sugeno and sukamoto, are implemented for the approximation of a PID controller on a multivariable plant | https://github.com/juanrequez/Fuzzy_PID_control | 0 | 0| 
 
 
 
