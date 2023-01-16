@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T01:13:36Z | Null | https://github.com/dev007new/RealVNC-server-up-to-6.11-DLL-Hijacking-Exploit | 0 | 0| 
 | 20230116T00:54:37Z | Null | https://github.com/MauryDev/UnityExploit | 0 | 0| 
 | 20230116T00:50:42Z | The most complete list for Minecraft leaked plugins, hacked clients, and the best anti-cheat and anti-exploit plugins available in the market. | https://github.com/GabryB03/Minecraft-Lists | 0 | 0| 
 | 20230116T00:45:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5192 | 728| 
@@ -94,7 +95,6 @@
 | 20230115T22:19:34Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
 | 20230115T21:43:24Z | A Roblox exploit for Midnight Racing: Tokyo | https://github.com/talicaban/Midnight-Racing-Roblox-Script | 0 | 0| 
 | 20230115T21:40:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rt | 1 | 0| 
-| 20230115T21:39:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-rt | 1 | 0| 
 
 
 # backdoor on Github 推荐
