@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230115 | Bushwhackers关于rwctf的题目-hardened redis的Writeup | https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1| 
+| 20230115 | Real World CTF 5 - Teewars的解法 | http://ctf0.de/posts/realworldctf5-teewars/| 
+| 20230115 | FG-IR-22-398 分析 – FortiOS - SSLVPNd 中基于堆的缓冲区溢出 | https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd| 
 | 20230113 | binarly的安全研究人员发现了高通和联想一些漏洞(溢出和泄露),并将部分细节进行展示 | http://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html| 
 | 20230113 | CVE-2022-3652:通过JSCreateLowering的条件竞争导致RCE | https://bugs.chromium.org/p/chromium/issues/detail?id=1369871| 
 | 20230113 | CVE-2022-3656:Google Chrome 和基于 Chromium 的浏览器由于对一些文件上传功能缺乏symlink的检查,从而导致通过滥用symlink可以盗取你本地的一些重要配置文件 | https://github.com/momika233/CVE-2022-3656| 
@@ -23,9 +26,6 @@
 | 20230113 | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf| 
 | 20230113 | 客户端SSRF到Google Cloud Project接管 | http://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/| 
 | 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | http://dannyodler.hashnode.dev/racing-bugs-in-windows-kernel| 
-| 20230113 | 通过隐藏导入表的方式规避杀软 | https://xz.aliyun.com/t/12035| 
-| 20230112 | 对考勤机进行漏洞挖掘的详细过程，含多个具体案例 | https://www.freebuf.com/articles/paper/354674.html| 
-| 20230112 | bitdefender发布报告EyeSpy - 隐藏在VPN安装包中的Iran恶意软件 | https://www.bitdefender.com/files/News/CaseStudies/study/427/Bitdefender-PR-Whitepaper-EyeSpyVPN-creat625-en-EN.pdf| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230115T13:30:14Z | CVE-2022-46169 | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | | 
-| 20230115T13:26:44Z | CVE-2022-22274 | Null | https://github.com/pwneddr/Sonic_CVE-2022-22274_poc | | 
-| 20230115T13:16:52Z | CVE-2023-0305 | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | | 
-| 20230115T13:16:47Z | CVE-2023-0304 | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | | 
-| 20230115T13:16:43Z | CVE-2023-0303 | A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0303 | | 
-| 20230115T12:10:25Z | CVE-2023-23595 | BlueCat Device Registration Portal 2.2 allows XXE attacks that exfiltrate single-line files. A single-line file might contain credentials, such as "machine example.com login daniel password qwerty" in the documentation example for the .netrc file format. NOTE; 2.x versions are no longer supported. There is no available CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23595 | | 
-| 20230115T12:10:20Z | CVE-2022-4889 | A vulnerability classified as critical was found in visegripped Stracker. Affected by this vulnerability is the function getHistory of the file doc_root/public_html/stracker/api.php. The manipulation of the argument symbol/startDate/endDate leads to sql injection. The name of the patch is 63e1b040373ee5b6c7d1e165ecf5ae CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4889 | | 
-| 20230115T10:02:15Z | CVE-2021-36630 | Null | https://github.com/lixiang957/CVE-2021-36630 | | 
-| 20230115T10:01:41Z | CVE-2021-33959 | CVE-2021-33959 | https://github.com/lixiang957/CVE-2021-33959 | | 
-| 20230115T06:41:00Z | CVE-2023-0302 | Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository radareorg/radare2 prior to 5.8.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0302 | | 
+| 20230116T00:18:17Z | CVE-2023-0314 | Cross-site Scripting (XSS) - Reflected in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0314 | | 
+| 20230116T00:18:13Z | CVE-2023-0313 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0313 | | 
+| 20230116T00:18:09Z | CVE-2023-0312 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0312 | | 
+| 20230116T00:18:05Z | CVE-2023-0311 | Improper Authentication in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0311 | | 
+| 20230116T00:18:00Z | CVE-2023-0310 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0310 | | 
+| 20230116T00:17:56Z | CVE-2023-0309 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0309 | | 
+| 20230116T00:17:52Z | CVE-2023-0308 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0308 | | 
+| 20230116T00:17:48Z | CVE-2023-0307 | Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0307 | | 
+| 20230116T00:17:44Z | CVE-2023-0306 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0306 | | 
+| 20230116T00:17:40Z | CVE-2023-21542 | Windows Installer Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21542 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230115T13:44:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10055 | 339| 
+| 20230115T23:21:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10062 | 339| 
+| 20230115T18:20:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2139 | 604| 
 | 20230115T09:30:31Z | Null | https://github.com/klee30810/klee30810 | 2 | 0| 
 | 20230114T16:55:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 192 | 1| 
-| 20230114T16:06:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2138 | 603| 
 | 20230114T15:59:52Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
 | 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230115T13:16:52Z | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | 0 | 0| 
-| 20230115T13:16:47Z | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | 0 | 0| 
-| 20230115T13:16:43Z | A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0303 | 0 | 0| 
-| 20230115T13:15:04Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 34 | 2| 
-| 20230115T13:13:41Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 59 | 29| 
-| 20230115T12:18:46Z | codeb0ss | https://github.com/unCodeBoss/new-private-exploits | 0 | 0| 
-| 20230115T11:10:08Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 13| 
-| 20230115T10:56:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12583 | 2159| 
-| 20230115T10:23:09Z | Null | https://github.com/Syfox9/SyfoxExploit | 0 | 0| 
-| 20230115T09:54:49Z | Null | https://github.com/quboyu3125/Crack-EclipseWare-Exploits-v1.7-for-Roblox | 29 | 0| 
+| 20230116T00:54:37Z | Null | https://github.com/MauryDev/UnityExploit | 0 | 0| 
+| 20230116T00:50:42Z | The most complete list for Minecraft leaked plugins, hacked clients, and the best anti-cheat and anti-exploit plugins available in the market. | https://github.com/GabryB03/Minecraft-Lists | 0 | 0| 
+| 20230116T00:45:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5192 | 728| 
+| 20230116T00:29:14Z | Simple script to exploit open redirection vulnerability in Rockwell ControlLogix 1756-ENBT/A | https://github.com/akbarq/CVE-2009-0473-check | 2 | 0| 
+| 20230115T22:41:49Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 197 | 140| 
+| 20230115T22:34:26Z | For Roblox Exploiting. | https://github.com/0nlyyAlxn/RobloxUtilities | 0 | 0| 
+| 20230115T22:19:34Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
+| 20230115T21:43:24Z | A Roblox exploit for Midnight Racing: Tokyo | https://github.com/talicaban/Midnight-Racing-Roblox-Script | 0 | 0| 
+| 20230115T21:40:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rt | 1 | 0| 
+| 20230115T21:39:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-rt | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T23:03:20Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 0 | 0| 
+| 20230115T17:55:44Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 2 | 0| 
+| 20230115T16:15:14Z | Null | https://github.com/AceeNISM/shell-backdoor | 0 | 0| 
+| 20230115T16:02:02Z | Null | https://github.com/j3r1ch0123/backdoor-planter | 0 | 0| 
 | 20230115T09:54:34Z | Null | https://github.com/Anonimo055x/Backdoor-Injection-Malwares-Rootkit | 0 | 0| 
 | 20230115T06:24:26Z | Python Backdoor for Windows | https://github.com/ryzh3n/Python-Backdoor-for-Windows | 0 | 0| 
 | 20230115T02:12:43Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 0 | 0| 
 | 20230114T18:49:13Z | Null | https://github.com/DankorCracker/BackDoorer | 0 | 0| 
-| 20230114T16:56:19Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 54 | 0| 
 | 20230114T08:52:53Z | This is a backdoor coded in python, which has functionalities including getting wifi credentials, viewing or overwriting files etc. | https://github.com/thenoisyninga/Custom_Backdoor_With_Python | 0 | 0| 
-| 20230114T05:37:13Z | Null | https://github.com/Research-training-of-federal-learning/backdoor-defense | 0 | 0| 
-| 20230113T14:03:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 105 | 25| 
-| 20230113T13:47:03Z | Null | https://github.com/guowei-cn/universal-defence-of-backdoor-attack | 0 | 0| 
-| 20230113T10:59:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 24 | 2| 
+| 20230114T06:37:48Z | backdoor on windows host server and bypass firewall. Most often when we find vulnerability in windows | https://github.com/HackWithSumit/Windows-Firewall-Bypass | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
