@@ -15,6 +15,7 @@
 | --- | --- | ---| 
 | 20230116 | 文件上传漏洞总结 | https://www.sec-wiki.com/site/login| 
 | 20230116 | SecWiki周刊（第463期) | https://www.sec-wiki.com/weekly/463| 
+| 20230116 | JPCERT/CC 如何在云端自动化恶意软件分析 | https://mp.weixin.qq.com/s/xt4VX7UTBHab_Kuj9iEXcg| 
 
 
 # CVE Github 推荐
@@ -85,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 | 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
 | 20230116T13:02:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44261 | 22005| 
 | 20230116T12:39:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1870 | 241| 

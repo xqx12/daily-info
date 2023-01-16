@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230116 | 文件上传漏洞总结 | https://www.sec-wiki.com/site/login| 
 | 20230116 | SecWiki周刊（第463期) | https://www.sec-wiki.com/weekly/463| 
+| 20230116 | JPCERT/CC 如何在云端自动化恶意软件分析 | https://mp.weixin.qq.com/s/xt4VX7UTBHab_Kuj9iEXcg| 
 | 20230115 | SecWiki周刊（第462期) | https://www.sec-wiki.com/weekly/462| 
 | 20230114 | Web3 安全-链上威胁分析教学 | https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy| 
 | 20230114 | 人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg| 
@@ -40,7 +41,6 @@
 | 20230114 | 魔改后的CIA攻击套件Hive进入黑灰产领域 | https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA| 
 | 20230114 | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA| 
 | 20230114 | 全球首个太空网络威胁战技术框架发布 | https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA| 
-| 20230114 | 《智胜空天·安全护航》无人机现状观察及安全分析报告 | https://book.yunzhan365.com/tkgd/ghoo/mobile/index.html| 
 
 
 # CVE Github 推荐
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 | 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
 | 20230116T13:02:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44261 | 22005| 
 | 20230116T12:39:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1870 | 241| 
@@ -154,7 +155,6 @@
 | 20230116T01:22:32Z | Null | https://github.com/warda-a7/Api_Fuzzer | 0 | 0| 
 | 20230116T01:02:20Z | Null | https://github.com/hugoboia/exemplo_fuzzywuzzy | 0 | 0| 
 | 20230116T00:44:08Z | Instagram  | https://github.com/https-GitHud-com-bagde-it/fuzzy-octo-adventure | 0 | 0| 
-| 20230115T23:24:11Z | Null | https://github.com/Username2322/fuzzy | 0 | 0| 
 
 
 
