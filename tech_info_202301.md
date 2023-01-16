@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:20:44Z | DeepFuzz 논문만 보고 구현 | https://github.com/KEEPER31337/DeepFuzz | 0 | 2| 
 | 20230116T13:19:03Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 | 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230116T12:02:26Z | Optimization portfoli with cross efficiency approch | https://github.com/Reza-Emarloo/Regret-theory-based-fuzzy-multi-objective-portfolio-selection-model-involving-DEA-cross-efficiency-a | 0 | 0| 
 | 20230116T02:17:48Z | Rare-Path Guided Fuzzing | https://github.com/Shafiuzzaman-Hira/RareFuzz | 2 | 0| 
 | 20230116T01:22:32Z | Null | https://github.com/warda-a7/Api_Fuzzer | 0 | 0| 
-| 20230116T01:02:20Z | Null | https://github.com/hugoboia/exemplo_fuzzywuzzy | 0 | 0| 
 
 
 
