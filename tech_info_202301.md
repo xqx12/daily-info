@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:11:59Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
 | 20230116T13:02:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44261 | 22005| 
 | 20230116T12:39:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1870 | 241| 
 | 20230116T12:04:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8277 | 1804| 
@@ -154,7 +155,6 @@
 | 20230116T01:02:20Z | Null | https://github.com/hugoboia/exemplo_fuzzywuzzy | 0 | 0| 
 | 20230116T00:44:08Z | Instagram  | https://github.com/https-GitHud-com-bagde-it/fuzzy-octo-adventure | 0 | 0| 
 | 20230115T23:24:11Z | Null | https://github.com/Username2322/fuzzy | 0 | 0| 
-| 20230115T22:56:30Z | Null | https://github.com/JimboJimbabwe/Web-Crawler-and-URL-Fuzzer | 0 | 0| 
 
 
 
