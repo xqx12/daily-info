@@ -76,6 +76,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230115T23:32:14Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 0 | 0| 
+| 20230115T18:20:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2139 | 604| 
 | 20230115T11:38:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 613 | 111| 
 | 20230115T10:00:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 289 | 67| 
 
