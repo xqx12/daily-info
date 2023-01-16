@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:19:13Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 134 | 120| 
 | 20230116T12:36:22Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 297 | 67| 
 | 20230116T11:52:00Z | A solution to the Travelling Sales Man problem using Genetic Algorithm that implements Elitism for optimization, Edge Adjacency Table operation for Exploration and Mutation for Exploitation. | https://github.com/samuelmunyoki/Travelling-Sales-Man-Problem | 0 | 0| 
 | 20230116T10:49:49Z | Dripware V1.0.0 is an Open-Source GUI | https://github.com/KushinaAtori/Dripware | 0 | 0| 
 | 20230116T10:00:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12591 | 2162| 
-| 20230116T02:03:21Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 133 | 120| 
 | 20230116T01:13:36Z | Null | https://github.com/dev007new/RealVNC-server-up-to-6.11-DLL-Hijacking-Exploit | 0 | 0| 
 | 20230116T00:54:37Z | Null | https://github.com/MauryDev/UnityExploit | 0 | 0| 
 | 20230116T00:50:42Z | The most complete list for Minecraft leaked plugins, hacked clients, and the best anti-cheat and anti-exploit plugins available in the market. | https://github.com/GabryB03/Minecraft-Lists | 0 | 0| 
