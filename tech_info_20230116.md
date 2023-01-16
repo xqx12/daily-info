@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:33:07Z | CVE-2021-4313 | A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4313 | | 
 | 20230116T11:33:15Z | CVE-2022-46169 | RCE POC for CVE-2022-46169 | https://github.com/N1arut/CVE-2022-46169_POC | | 
 | 20230116T11:22:14Z | CVE-2022-46463 | Null | https://github.com/wh-gov/CVE-2022-46463 | | 
 | 20230116T11:19:19Z | CVE-2022-4258 | In multiple versions of HIMA PC based Software an unquoted Windows search path vulnerability might allow local users to gain privileges via a malicious .exe file and gain full access to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4258 | | 
@@ -30,7 +31,6 @@
 | 20230116T02:39:15Z | CVE-2022-23529 | CVE-2022-23529-PoC | https://github.com/aalex954/CVE-2022-23529-PoC | | 
 | 20230116T00:18:17Z | CVE-2023-0314 | Cross-site Scripting (XSS) - Reflected in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0314 | | 
 | 20230116T00:18:13Z | CVE-2023-0313 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0313 | | 
-| 20230116T00:18:09Z | CVE-2023-0312 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0312 | | 
 
 
 # klee on Github 推荐
@@ -90,7 +90,7 @@
 | 20230116T13:19:03Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 | 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
-| 20230116T13:02:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44261 | 22005| 
+| 20230116T13:02:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44261 | 22004| 
 | 20230116T12:39:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1870 | 241| 
 | 20230116T12:04:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8277 | 1804| 
 | 20230116T12:02:26Z | Optimization portfoli with cross efficiency approch | https://github.com/Reza-Emarloo/Regret-theory-based-fuzzy-multi-objective-portfolio-selection-model-involving-DEA-cross-efficiency-a | 0 | 0| 
