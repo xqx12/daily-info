@@ -56,9 +56,9 @@
 | 20230115T21:40:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rt | 1 | 0| 
 | 20230115T21:39:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-rt | 1 | 0| 
 | 20230115T21:38:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-rt | 1 | 0| 
+| 20230115T19:15:40Z | WebKit+Kernel exploit chain for all actual PS Vita firmwares | https://github.com/RealYoti/project-amber | 16 | 3| 
 | 20230115T13:16:52Z | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | 0 | 0| 
 | 20230115T13:16:47Z | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | 0 | 0| 
-| 20230115T13:16:43Z | A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0303 | 0 | 0| 
 
 
 # backdoor on Github 推荐
