@@ -96,10 +96,10 @@
 | 20230115T22:52:06Z | url parameter fuzz through every possible character in binary 00000000 through 11111111  checking for reflections of every possible encoding | https://github.com/777388/ubifuzz | 0 | 0| 
 | 20230115T20:12:41Z | English grammar  | https://github.com/AimanAqib1/fuzzy-octo-broccoli | 0 | 0| 
 | 20230115T17:29:24Z | Implementing the WebSocket protocol in C++ and Rust from scratch (to learn C++, Fuzzing and now Rust). | https://github.com/otsmr/websocket | 2 | 0| 
+| 20230115T14:37:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3362 | 398| 
 | 20230115T13:12:10Z | An initial incursion into the world of fuzzy linguistic summarization of data. | https://github.com/ErdaradunGaztea/fuzzydf | 0 | 0| 
 | 20230115T13:01:26Z | Basic code of the ICRA2022 paper, ROZZ: Property-based Fuzzing for Robotic Programs in ROS | https://github.com/ROStesting123/Property-based-Fuzzing-for-ROS-programs | 0 | 0| 
 | 20230115T12:33:32Z | Null | https://github.com/S1LV4/n8n-fuzzy | 0 | 0| 
-| 20230115T11:59:50Z | coding along an angular tutorial | https://github.com/ReportDataCode/fuzzy-octo-adventure | 0 | 0| 
 
 
 
