@@ -56,8 +56,8 @@
 | 20230115T21:39:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-rt | 1 | 0| 
 | 20230115T21:38:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-rt | 1 | 0| 
 | 20230115T19:15:40Z | WebKit+Kernel exploit chain for all actual PS Vita firmwares | https://github.com/RealYoti/project-amber | 16 | 3| 
+| 20230115T19:04:07Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 156 | 2| 
 | 20230115T13:16:52Z | A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0305 | 0 | 0| 
-| 20230115T13:16:47Z | A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has bee CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0304 | 0 | 0| 
 
 
 # backdoor on Github 推荐
