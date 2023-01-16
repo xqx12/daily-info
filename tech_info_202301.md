@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230116T02:35:54Z | CVE-2022-23529 | CVE-2022-23529-PoC | https://github.com/aalex954/CVE-2022-23529-PoC | | 
+| 20230116T02:39:15Z | CVE-2022-23529 | CVE-2022-23529-PoC | https://github.com/aalex954/CVE-2022-23529-PoC | | 
 | 20230116T00:18:17Z | CVE-2023-0314 | Cross-site Scripting (XSS) - Reflected in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0314 | | 
 | 20230116T00:18:13Z | CVE-2023-0313 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0313 | | 
 | 20230116T00:18:09Z | CVE-2023-0312 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0312 | | 
