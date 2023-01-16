@@ -119,7 +119,7 @@
 | 20230115T18:20:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2139 | 604| 
 | 20230115T11:38:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 613 | 111| 
 | 20230115T10:00:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 289 | 67| 
-| 20230114T09:19:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3271 | 462| 
+| 20230114T09:19:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3271 | 463| 
 | 20230113T19:27:32Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 182 | 42| 
 | 20230113T02:35:48Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 208 | 54| 
 | 20230113T01:32:12Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 12 | 7| 
