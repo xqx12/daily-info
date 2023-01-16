@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T13:29:05Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 565 | 56| 
 | 20230116T13:19:13Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 134 | 120| 
 | 20230116T12:36:22Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 297 | 67| 
 | 20230116T11:52:00Z | A solution to the Travelling Sales Man problem using Genetic Algorithm that implements Elitism for optimization, Edge Adjacency Table operation for Exploration and Mutation for Exploitation. | https://github.com/samuelmunyoki/Travelling-Sales-Man-Problem | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230116T00:54:37Z | Null | https://github.com/MauryDev/UnityExploit | 0 | 0| 
 | 20230116T00:50:42Z | The most complete list for Minecraft leaked plugins, hacked clients, and the best anti-cheat and anti-exploit plugins available in the market. | https://github.com/GabryB03/Minecraft-Lists | 0 | 0| 
 | 20230116T00:45:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5192 | 728| 
-| 20230116T00:29:14Z | Simple script to exploit open redirection vulnerability in Rockwell ControlLogix 1756-ENBT/A | https://github.com/akbarq/CVE-2009-0473-check | 2 | 0| 
 
 
 # backdoor on Github 推荐
