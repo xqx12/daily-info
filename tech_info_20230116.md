@@ -50,6 +50,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230116T22:58:18Z | The Voidware Blatant config for Mobile Exploits | https://github.com/SystemXVoid/VoidwareMBConfig | 0 | 0| 
 | 20230116T21:59:15Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 135 | 121| 
+| 20230116T21:24:08Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 471 | 56| 
 | 20230116T20:44:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-re | 1 | 0| 
 | 20230116T19:55:03Z | roblox exploits repo | https://github.com/Monochrome-DEV/roblos-exploitings | 0 | 0| 
 | 20230116T13:42:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12592 | 2162| 
@@ -57,7 +58,6 @@
 | 20230116T12:36:22Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 297 | 67| 
 | 20230116T11:52:00Z | A solution to the Travelling Sales Man problem using Genetic Algorithm that implements Elitism for optimization, Edge Adjacency Table operation for Exploration and Mutation for Exploitation. | https://github.com/samuelmunyoki/Travelling-Sales-Man-Problem | 0 | 0| 
 | 20230116T10:49:49Z | Dripware V1.0.0 is an Open-Source GUI | https://github.com/KushinaAtori/Dripware | 0 | 0| 
-| 20230116T08:31:55Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 6 | 4| 
 
 
 # backdoor on Github 推荐
