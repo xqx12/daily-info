@@ -6,63 +6,63 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230117 | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg| 
+| 20230117 | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow| 
+| 20230117 | 记录一下从编译的角度还原VMP的思路 | https://bbs.kanxue.com/thread-275796.htm| 
+| 20230117 | 一个高度可定制化的JNDI和Java反序列化利用工具 | https://mp.weixin.qq.com/s/-OE1MlqaCUl7gmSPVNBr7g| 
+| 20230117 | 2022 Q4 季度俄乌双方 DDoS 攻击分析报告 | https://ti.qianxin.com/blog/articles/2022-Q4-DDoS-Activities-between-Russia-and-Ukriane-camps/| 
+| 20230117 | Windows 上的 clash_for_windows 在 0.20.12 在订阅一个恶意链接时存在远程命令执行漏洞。因为对订阅文件中 rule-providers 的 path 的不安全处理导致 cfw-setting.yaml 会被覆盖，cfw-setting.yaml 中 parsers 的 js代码将会被执行 | https://github.com/Fndroid/clash_for_windows_pkg/issues/3891| 
+| 20230117 | HTB: Shoppy Writeup | https://0xdf.gitlab.io/2023/01/14/htb-shoppy.html| 
+| 20230117 | cve-2022-21881用于chrome SBX利用链的windows提权poc,曾经用于天府杯的chrome sbx部分 | https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2022-21881-io_completion-poc.cpp| 
+| 20230117 | idek 2022* CTF task manager预期解rce部分的writeup | https://github.com/Myldero/ctf-writeups/tree/master/idekCTF%202022/task%20manager| 
+| 20230117 | r3kapig发布关于idek 2022* CTF取证部分的详细writeup | https://sec.today/pulses/81591b87-b420-476f-8c49-afa51cc03231/| 
+| 20230117 | Crypto - Finite Realm of Random Writeup by grhkm21 | https://sec.today/pulses/92408033-1f9e-42ad-956a-016805c6baef/| 
+| 20230117 | idek 2022* CTF Hardest Demon Bloodbath by Riot题目的writeup | https://sec.today/pulses/0195a0b3-6721-4236-b7ae-023fab555671/| 
+| 20230117 | idekctf-2022-stargazer offical writeup | https://sec.today/pulses/ae7044b2-02b3-4bc2-a60e-f46e6ad337f0/| 
+| 20230117 | idekCTF 2022: NMPZ (OSINT) | https://sec.today/pulses/680fd407-2806-4fb3-84fc-8d51e80f3ced/| 
+| 20230117 | idek 2022* CTF Chronophobia && Decidophobia && Primonumerophobia && Tychophobia Offical writeup | https://sec.today/pulses/2aefd965-c33c-4705-a40b-1e0f9ebb1b29/| 
+| 20230117 | idek 2022* CTF ECRSA && Formal Security Poop && Finite Realm of Random Offical writeup | https://sec.today/pulses/9d690d54-03e9-44b3-b508-5e8f49e35d67/| 
+| 20230117 | Real World CTF 5th (2023): Dark Portal 完整Writeup | https://sec.today/pulses/b81a8404-7408-494d-b136-70d02323dc02/| 
+| 20230117 | Blue Water发布了关于Real World CTF 2023中java web的Dark Portal题目Writeup,其主要偏向于dump下来的包如何去掉混淆反编译的角度 | https://sec.today/pulses/02c40333-90bf-4af0-94bb-4a81fb2b8147/| 
 | 20230116 | 深入解读syzkaller源码及其设计系列 | https://f0rm2l1n.github.io/2021-02-02-syzkaller-diving-01/| 
 | 20230116 | 通过一处CSRF漏洞接管Yahoo任意账户，笔者找到一处http patch方法的csrf漏洞，利用后端框架的问题覆盖成为任意http方法，最终实现修改任意账户密码等行为。 | https://infosecwriteups.com/csrf-leads-to-account-takeover-in-yahoo-aa96c678d2aa?gi=c86109ae76ee&source=rss----7b722bfd1b8d---4| 
-| 20230116 | CVE-2023-0179 内核栈溢出POC以及详细分析。该漏洞可以通过覆盖栈上的变量来RCE。 | https://www.reddit.com/r/netsec/comments/10d98w1/cve20230179_linux_kernel_stack_buffer_overflow_in/| 
-| 20230116 | Windows Defender AsProtect堆溢出漏洞的详细利用过程。 | https://www.pixiepointsecurity.com/blog/nday-cve-2021-31985.html| 
-| 20230115 | Bushwhackers关于rwctf的题目-hardened redis的Writeup | https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1| 
-| 20230115 | Real World CTF 5 - Teewars的解法 | http://ctf0.de/posts/realworldctf5-teewars/| 
-| 20230115 | FG-IR-22-398 分析 – FortiOS - SSLVPNd 中基于堆的缓冲区溢出 | https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd| 
-| 20230113 | binarly的安全研究人员发现了高通和联想一些漏洞(溢出和泄露),并将部分细节进行展示 | http://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html| 
-| 20230113 | CVE-2022-3652:通过JSCreateLowering的条件竞争导致RCE | https://bugs.chromium.org/p/chromium/issues/detail?id=1369871| 
-| 20230113 | CVE-2022-3656:Google Chrome 和基于 Chromium 的浏览器由于对一些文件上传功能缺乏symlink的检查,从而导致通过滥用symlink可以盗取你本地的一些重要配置文件 | https://github.com/momika233/CVE-2022-3656| 
-| 20230113 | 劫持cscapi.dll以劫持explorer.exe来进行持久化驻留 | https://github.com/D1rkMtr/ExplorerPersist| 
-| 20230113 | CVE-2022-42841:由于在解析xar中出现由类型转换导致的整数溢出而导致pkg的签名验证成功,可绕过SIP,Gatekeeper并在特定条件下提权到root | http://sector7.computest.nl/post/2023-01-xar/| 
-| 20230113 | 针对TouchEn nxKey键盘加密保护的安全研究,以及通过其中发现了一些不安全的漏洞,导致其可能会被利用成为恶意软件 | http://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/| 
-| 20230113 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia| 
-| 20230113 | WalkerGate:通过查找ntdll的内存解析以进行系统调用 | https://github.com/DallasFR/WalkerGate| 
-| 20230113 | NoName057(16) – 以北约为目标的亲Ru黑客组织 | https://www.sentinelone.com/labs/noname05716-the-pro-russian-hacktivist-group-targeting-nato/| 
-| 20230113 | trailofbits发布关于使用tlspuffin来fuzzing wolfSSL并发现4个DOS漏洞的细节以及一些fuzzing的方法论思路 | https://sec.today/pulses/d5fea3ea-4220-431f-8d1e-92ec38969789/| 
-| 20230113 | 2022年APT组织分析年鉴 | https://sec.today/pulses/8e299b55-4c61-4565-9da3-80c4e21279e3/| 
-| 20230113 | 客户端SSRF到Google Cloud Project接管 | https://sec.today/pulses/7d8f8cdd-8876-4ed1-95c8-d7bf3717af2e/| 
-| 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | https://sec.today/pulses/f59d5873-516c-49df-b0a4-1549e1657099/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230117 | 玩转CodeQLpy之用友GRP-U8漏洞挖掘 | https://mp.weixin.qq.com/s/hYPdNN6skbikC3FFYRlbrQ| 
+| 20230117 | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw| 
+| 20230117 | 安全开发之Pcshare流程分析 | https://mp.weixin.qq.com/s/R1Fgyj0pUCxFGq4-YFfMXw| 
+| 20230117 | 一文梳理Code Review方法论与实践总结 | https://mp.weixin.qq.com/s/_4MFrQSYOIGYRdDGOJPDKQ| 
+| 20230117 | 将迁移学习应用于网络安全：通过漏洞描述预测漏洞的可利用性 | https://mp.weixin.qq.com/s/kTvZcRyD-0i3CScCoXHpBQ| 
 | 20230116 | 文件上传漏洞总结 | https://www.sec-wiki.com/site/login| 
 | 20230116 | SecWiki周刊（第463期) | https://www.sec-wiki.com/weekly/463| 
 | 20230116 | JPCERT/CC 如何在云端自动化恶意软件分析 | https://mp.weixin.qq.com/s/xt4VX7UTBHab_Kuj9iEXcg| 
 | 20230115 | SecWiki周刊（第462期) | https://www.sec-wiki.com/weekly/462| 
 | 20230114 | Web3 安全-链上威胁分析教学 | https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy| 
-| 20230114 | 人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg| 
-| 20230114 | 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og| 
-| 20230114 | 魔改后的CIA攻击套件Hive进入黑灰产领域 | https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA| 
-| 20230114 | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA| 
-| 20230114 | 全球首个太空网络威胁战技术框架发布 | https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230117T02:19:31Z | CVE-2020-28478 | Null | https://github.com/NetJBS/CVE-2020-28478--PoC | | 
-| 20230117T01:41:25Z | CVE-2022-3087 | Fuji Electric Tellus Lite V-Simulator versions 4.0.12.0 and prior are vulnerable to an out-of-bounds write which may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3087 | | 
-| 20230116T21:14:22Z | CVE-2022-47630 | Trusted Firmware-A through 2.8 has an out-of-bounds read in the X.509 parser for parsing boot certificates. This affects downstream use of get_ext and auth_nvctr. Attackers might be able to trigger dangerous read side effects or obtain sensitive information about microarchitectural state. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47630 | | 
-| 20230116T21:14:17Z | CVE-2023-0327 | A vulnerability was found in saemorris TheRadSystem. It has been classified as problematic. Affected is an unknown function of the file users.php. The manipulation of the argument q leads to cross site scripting. It is possible to launch the attack remotely. VDB-218454 is the identifier assigned to this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0327 | | 
-| 20230116T17:59:11Z | CVE-2022-4658 | The RSSImport WordPress plugin through 4.6.1 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4658 | | 
-| 20230116T17:59:07Z | CVE-2022-4655 | The Welcart e-Commerce WordPress plugin before 2.8.9 does not validate and escapes one of its shortcode attributes, which could allow users with a role as low as a contributor to perform a Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4655 | | 
-| 20230116T17:59:02Z | CVE-2022-4653 | The Greenshift WordPress plugin before 4.8.9 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4653 | | 
-| 20230116T17:58:59Z | CVE-2022-4648 | The Real Testimonials WordPress plugin before 2.6.0 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as adm CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4648 | | 
-| 20230116T17:58:54Z | CVE-2022-4578 | The Video Conferencing with Zoom WordPress plugin before 4.0.10 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4578 | | 
-| 20230116T17:58:50Z | CVE-2022-4571 | The Seriously Simple Podcasting WordPress plugin before 2.19.1 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4571 | | 
+| 20230117T11:32:17Z | CVE-2021-26385 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26385 | | 
+| 20230117T11:32:13Z | CVE-2021-26319 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26319 | | 
+| 20230117T11:32:08Z | CVE-2021-26358 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26358 | | 
+| 20230117T11:32:04Z | CVE-2021-26357 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-26357 | | 
+| 20230117T11:31:59Z | CVE-2023-23589 | The SafeSocks option in Tor before 0.4.7.13 has a logic error in which the unsafe SOCKS4 protocol can be used but not the safe SOCKS4a protocol, aka TROVE-2022-002. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23589 | | 
+| 20230117T11:31:55Z | CVE-2023-0332 | A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file admin/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0332 | | 
+| 20230117T11:31:50Z | CVE-2022-46891 | An issue was discovered in the Arm Mali GPU Kernel Driver. There is a use-after-free. A non-privileged user can make improper GPU processing operations to gain access to already freed memory. This affects Midgard r13p0 through r32p0, Bifrost r1p0 through r40p0, and Valhall r19p0 through r40p0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46891 | | 
+| 20230117T11:31:40Z | CVE-2023-22366 | CX-Motion-MCH v2.32 and earlier contains an access of uninitialized pointer vulnerability. Having a user to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22366 | | 
+| 20230117T11:31:36Z | CVE-2023-22357 | Active debug code exists in OMRON CP1L-EL20DR-D all versions, which may lead to a command that is not specified in FINS protocol being executed without authentication. A remote unauthenticated attacker may read/write in arbitrary area of the device memory, which may lead to overwriting the firmware, causing a denial-of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22357 | | 
+| 20230117T11:31:32Z | CVE-2023-22316 | Hidden functionality vulnerability in PIX-RT100 versions RT100_TEQ_2.1.1_EQ101 and RT100_TEQ_2.1.2_EQ101 allows a network-adjacent attacker to access the product via undocumented Telnet or SSH services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22316 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230117T02:40:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10080 | 339| 
-| 20230116T08:35:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 193 | 1| 
+| 20230117T12:56:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10090 | 339| 
+| 20230117T08:33:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 195 | 1| 
 | 20230116T05:26:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2140 | 604| 
 | 20230115T09:30:31Z | Null | https://github.com/klee30810/klee30810 | 2 | 0| 
 | 20230114T15:59:52Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230117T02:03:32Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
+| 20230117T11:49:53Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
+| 20230117T11:34:04Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1892 | 226| 
+| 20230117T11:01:56Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 297 | 49| 
+| 20230117T10:19:15Z | sql注入bypass waf工具，绕waf fuzz测试工具。 | https://github.com/iceberg-N/sql_Bypass_WAF | 1 | 0| 
+| 20230117T09:45:47Z | This project involves creating an IoT (Internet of Things) system for monitoring temperature using Fuzzy logic and Firebase. | https://github.com/rkafp/IoT-FuzzyLogic | 0 | 0| 
+| 20230117T09:45:31Z | Fuzzy Rule-based Systems in Julia | https://github.com/D-Se/FuzzySystems.jl | 1 | 0| 
+| 20230117T09:32:31Z | Null | https://github.com/nooraminul430/fuzzy | 0 | 0| 
+| 20230117T08:48:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8278 | 1808| 
 | 20230117T00:07:31Z | fuzzy-guacamole | https://github.com/gjagui/fuzzy-guacamole | 0 | 0| 
 | 20230116T23:34:18Z | Null | https://github.com/AbanoubSamir004/Fuzzy_CMean_VS__Kmean | 0 | 0| 
-| 20230116T22:05:34Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 960 | 158| 
-| 20230116T14:49:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3365 | 400| 
-| 20230116T13:57:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44262 | 22004| 
-| 20230116T13:41:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1871 | 241| 
-| 20230116T13:20:44Z | DeepFuzz 논문만 보고 구현 | https://github.com/KEEPER31337/DeepFuzz | 0 | 2| 
-| 20230116T13:19:03Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
-| 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 
 
 
