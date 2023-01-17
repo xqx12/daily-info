@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T02:01:15Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20230117T00:07:31Z | fuzzy-guacamole | https://github.com/gjagui/fuzzy-guacamole | 0 | 0| 
 | 20230116T23:34:18Z | Null | https://github.com/AbanoubSamir004/Fuzzy_CMean_VS__Kmean | 0 | 0| 
 | 20230116T22:05:34Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 960 | 158| 
+| 20230116T14:49:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3365 | 400| 
 | 20230116T13:57:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44262 | 22004| 
 | 20230116T13:41:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1871 | 241| 
 | 20230116T13:20:44Z | DeepFuzz 논문만 보고 구현 | https://github.com/KEEPER31337/DeepFuzz | 0 | 2| 
 | 20230116T13:19:03Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
-| 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
-| 20230116T12:42:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 62 | 26| 
 
 
 
