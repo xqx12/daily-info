@@ -24,6 +24,8 @@
 | 20230117 | idek 2022* CTF ECRSA && Formal Security Poop && Finite Realm of Random Offical writeup | https://sec.today/pulses/9d690d54-03e9-44b3-b508-5e8f49e35d67/| 
 | 20230117 | Real World CTF 5th (2023): Dark Portal 完整Writeup | https://sec.today/pulses/b81a8404-7408-494d-b136-70d02323dc02/| 
 | 20230117 | Blue Water发布了关于Real World CTF 2023中java web的Dark Portal题目Writeup,其主要偏向于dump下来的包如何去掉混淆反编译的角度 | https://sec.today/pulses/02c40333-90bf-4af0-94bb-4a81fb2b8147/| 
+| 20230117 | r3kapig发布关于idek 2022* CTF取证部分的详细writeup | https://mp.weixin.qq.com/s/sEk8lFgn8hP7RNapcqvb5Q| 
+| 20230117 | Crypto - Finite Realm of Random Writeup by grhkm21 | https://grhkm21.github.io/posts/idek-finite-realm-of-random/| 
 
 
 # 安全维基 推荐
@@ -66,17 +68,33 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T12:36:05Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
+| 20230117T11:55:20Z | Null | https://github.com/rekwadas/roblox-exploit-3 | 0 | 0| 
+| 20230117T11:53:08Z | MavLink Protocol Drone Exploiting Tool | https://github.com/moayyad57/dronize-exploit | 0 | 0| 
+| 20230117T11:42:24Z | Null | https://github.com/rekwadas/roblox-exploit-2 | 0 | 0| 
+| 20230117T11:32:26Z | Basically i tried to recreate DEX | https://github.com/HAKANKOKCU/Birdy-Roblox-Place-Explorer | 0 | 0| 
+| 20230117T11:31:55Z | A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file admin/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0332 | 0 | 0| 
+| 20230117T11:30:47Z | m-FILTER prior to Ver.5.70R01 (Ver.5 Series) and m-FILTER prior to Ver.4.87R04 (Ver.4 Series) allows a remote unauthenticated attacker to bypass authentication and send users% unintended email when email is being sent under the certain conditions. The attacks exploiting this vulnerability have been observed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22278 | 0 | 0| 
+| 20230117T10:26:30Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12601 | 2163| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T13:02:34Z | This is an small code example of how you can execute a code and open a backdoor in a windows computer. | https://github.com/Rootkitcode/example_open_backdoor | 0 | 0| 
+| 20230117T12:15:20Z | By running one script on the attack machine and by injecting one command into the client%s terminal - a backdoor will be deployed on the client machine opening up a reverse shell. | https://github.com/bobby-valenzuela/ReverseShell | 0 | 0| 
+| 20230117T12:01:40Z | A Backdoor to remote maintence in nutrunners and tork wrenches | https://github.com/042Lugo/openprotocol_backdoor | 0 | 0| 
 | 20230117T01:51:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 26 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T11:46:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 614 | 111| 
+| 20230117T11:38:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2142 | 605| 
+| 20230117T10:49:17Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 184 | 42| 
+| 20230117T07:59:34Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 2 | 0| 
+| 20230117T07:04:29Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 538 | 31| 
 
 
 # big4 on Github 推荐
