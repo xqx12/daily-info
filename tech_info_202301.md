@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T13:29:52Z | Storm-Dll-Source which was accidently leaked by the skid %SpeedSterKawaii% but I decided to leak it again cuz the entire exploit is skidded from headhunter lol | https://github.com/TheCtkHoster/storm-dll-source | 0 | 0| 
 | 20230117T12:36:05Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
 | 20230117T11:55:20Z | Null | https://github.com/rekwadas/roblox-exploit-3 | 0 | 0| 
 | 20230117T11:53:08Z | MavLink Protocol Drone Exploiting Tool | https://github.com/moayyad57/dronize-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230117T11:30:47Z | m-FILTER prior to Ver.5.70R01 (Ver.5 Series) and m-FILTER prior to Ver.4.87R04 (Ver.4 Series) allows a remote unauthenticated attacker to bypass authentication and send users% unintended email when email is being sent under the certain conditions. The attacks exploiting this vulnerability have been observed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22278 | 0 | 0| 
 | 20230117T10:26:30Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12601 | 2163| 
 | 20230116T22:58:18Z | The Voidware Blatant config for Mobile Exploits | https://github.com/SystemXVoid/VoidwareMBConfig | 0 | 0| 
-| 20230116T21:59:15Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 135 | 121| 
 
 
 # backdoor on Github 推荐
