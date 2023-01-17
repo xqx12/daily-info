@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230117T13:29:52Z | Storm-Dll-Source which was accidently leaked by the skid %SpeedSterKawaii% but I decided to leak it again cuz the entire exploit is skidded from headhunter lol | https://github.com/TheCtkHoster/storm-dll-source | 0 | 0| 
+| 20230117T13:37:13Z | Storm-Dll-Source which was accidently leaked by the skid %SpeedSterKawaii% but I decided to leak it again cuz the entire exploit is skidded from headhunter lol | https://github.com/TheCtkHoster/storm-dll-source | 0 | 0| 
 | 20230117T12:36:05Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
 | 20230117T11:55:20Z | Null | https://github.com/rekwadas/roblox-exploit-3 | 0 | 0| 
 | 20230117T11:53:08Z | MavLink Protocol Drone Exploiting Tool | https://github.com/moayyad57/dronize-exploit | 0 | 0| 
