@@ -8,6 +8,8 @@
 | --- | --- | ---| 
 | 20230116 | 深入解读syzkaller源码及其设计系列 | https://f0rm2l1n.github.io/2021-02-02-syzkaller-diving-01/| 
 | 20230116 | 通过一处CSRF漏洞接管Yahoo任意账户，笔者找到一处http patch方法的csrf漏洞，利用后端框架的问题覆盖成为任意http方法，最终实现修改任意账户密码等行为。 | https://infosecwriteups.com/csrf-leads-to-account-takeover-in-yahoo-aa96c678d2aa?gi=c86109ae76ee&source=rss----7b722bfd1b8d---4| 
+| 20230116 | CVE-2023-0179 内核栈溢出POC以及详细分析。该漏洞可以通过覆盖栈上的变量来RCE。 | https://www.reddit.com/r/netsec/comments/10d98w1/cve20230179_linux_kernel_stack_buffer_overflow_in/| 
+| 20230116 | Windows Defender AsProtect堆溢出漏洞的详细利用过程。 | https://www.pixiepointsecurity.com/blog/nday-cve-2021-31985.html| 
 
 
 # 安全维基 推荐

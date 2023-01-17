@@ -8,6 +8,8 @@
 | --- | --- | ---| 
 | 20230116 | 深入解读syzkaller源码及其设计系列 | https://f0rm2l1n.github.io/2021-02-02-syzkaller-diving-01/| 
 | 20230116 | 通过一处CSRF漏洞接管Yahoo任意账户，笔者找到一处http patch方法的csrf漏洞，利用后端框架的问题覆盖成为任意http方法，最终实现修改任意账户密码等行为。 | https://infosecwriteups.com/csrf-leads-to-account-takeover-in-yahoo-aa96c678d2aa?gi=c86109ae76ee&source=rss----7b722bfd1b8d---4| 
+| 20230116 | CVE-2023-0179 内核栈溢出POC以及详细分析。该漏洞可以通过覆盖栈上的变量来RCE。 | https://www.reddit.com/r/netsec/comments/10d98w1/cve20230179_linux_kernel_stack_buffer_overflow_in/| 
+| 20230116 | Windows Defender AsProtect堆溢出漏洞的详细利用过程。 | https://www.pixiepointsecurity.com/blog/nday-cve-2021-31985.html| 
 | 20230115 | Bushwhackers关于rwctf的题目-hardened redis的Writeup | https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1| 
 | 20230115 | Real World CTF 5 - Teewars的解法 | http://ctf0.de/posts/realworldctf5-teewars/| 
 | 20230115 | FG-IR-22-398 分析 – FortiOS - SSLVPNd 中基于堆的缓冲区溢出 | https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd| 
@@ -24,8 +26,6 @@
 | 20230113 | 2022年APT组织分析年鉴 | https://sec.today/pulses/8e299b55-4c61-4565-9da3-80c4e21279e3/| 
 | 20230113 | 客户端SSRF到Google Cloud Project接管 | https://sec.today/pulses/7d8f8cdd-8876-4ed1-95c8-d7bf3717af2e/| 
 | 20230113 | 关于Window kernel两个条件竞争漏洞（CVE-2023-21536、CVE-2023-21537）的挖掘、利用思路。 | https://sec.today/pulses/f59d5873-516c-49df-b0a4-1549e1657099/| 
-| 20230113 | trailofbits发布关于使用tlspuffin来fuzzing wolfSSL并发现4个DOS漏洞的细节以及一些fuzzing的方法论思路 | http://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/| 
-| 20230113 | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf| 
 
 
 # 安全维基 推荐
