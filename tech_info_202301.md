@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230117T02:19:31Z | CVE-2020-28478 | Null | https://github.com/NetJBS/CVE-2020-28478--PoC | | 
 | 20230117T01:41:25Z | CVE-2022-3087 | Fuji Electric Tellus Lite V-Simulator versions 4.0.12.0 and prior are vulnerable to an out-of-bounds write which may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3087 | | 
 | 20230116T21:14:22Z | CVE-2022-47630 | Trusted Firmware-A through 2.8 has an out-of-bounds read in the X.509 parser for parsing boot certificates. This affects downstream use of get_ext and auth_nvctr. Attackers might be able to trigger dangerous read side effects or obtain sensitive information about microarchitectural state. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47630 | | 
 | 20230116T21:14:17Z | CVE-2023-0327 | A vulnerability was found in saemorris TheRadSystem. It has been classified as problematic. Affected is an unknown function of the file users.php. The manipulation of the argument q leads to cross site scripting. It is possible to launch the attack remotely. VDB-218454 is the identifier assigned to this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0327 | | 
@@ -55,7 +56,6 @@
 | 20230116T17:58:59Z | CVE-2022-4648 | The Real Testimonials WordPress plugin before 2.6.0 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as adm CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4648 | | 
 | 20230116T17:58:54Z | CVE-2022-4578 | The Video Conferencing with Zoom WordPress plugin before 4.0.10 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4578 | | 
 | 20230116T17:58:50Z | CVE-2022-4571 | The Seriously Simple Podcasting WordPress plugin before 2.19.1 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4571 | | 
-| 20230116T17:58:46Z | CVE-2022-4549 | The Tickera WordPress plugin before 3.5.1.0 does not have CSRF check in place when updating its settings, which could allow attackers to make a logged-in admin change them via a CSRF attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4549 | | 
 
 
 # klee on Github 推荐
