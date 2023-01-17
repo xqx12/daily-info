@@ -145,6 +145,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T13:55:38Z | Null | https://github.com/mhmmdikhsanrmdhn12/Fuzzy-Tsukamoto | 0 | 0| 
+| 20230117T13:55:33Z | Null | https://github.com/jamesuxcdev/fuzzy-search-demo | 0 | 0| 
 | 20230117T11:49:53Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20230117T11:34:04Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1892 | 226| 
 | 20230117T11:01:56Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 297 | 49| 
@@ -153,8 +155,6 @@
 | 20230117T09:45:31Z | Fuzzy Rule-based Systems in Julia | https://github.com/D-Se/FuzzySystems.jl | 1 | 0| 
 | 20230117T09:32:31Z | Null | https://github.com/nooraminul430/fuzzy | 0 | 0| 
 | 20230117T08:48:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8278 | 1808| 
-| 20230117T00:07:31Z | fuzzy-guacamole | https://github.com/gjagui/fuzzy-guacamole | 0 | 0| 
-| 20230116T23:34:18Z | Null | https://github.com/AbanoubSamir004/Fuzzy_CMean_VS__Kmean | 0 | 0| 
 
 
 
