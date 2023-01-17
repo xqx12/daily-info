@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230116T13:33:49Z | CVE-2022-45438 | When explicitly enabling the feature flag DASHBOARD_CACHE (disabled by default), the system allowed for an unauthenticated user to access dashboard configuration metadata using a REST API Get endpoint. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45438 | | 
-| 20230116T13:33:45Z | CVE-2022-43721 | An authenticated attacker with update datasets permission could change a dataset link to an untrusted site, users could be redirected to this site when clicking on that specific dataset. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43721 | | 
-| 20230116T13:33:40Z | CVE-2022-43720 | An authenticated attacker with write CSS template permissions can create a record with specific HTML tags that will not get properly escaped by the toast message displayed when a user deletes that specific CSS template record. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43720 | | 
-| 20230116T13:33:37Z | CVE-2022-43719 | Two legacy REST API endpoints for approval and request access are vulnerable to cross site request forgery. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43719 | | 
-| 20230116T13:33:32Z | CVE-2022-43718 | Upload data forms do not correctly render user input leading to possible XSS attack vectors that can be performed by authenticated users with database connection update permissions. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43718 | | 
-| 20230116T13:33:29Z | CVE-2022-43717 | Dashboard rendering does not sufficiently sanitize the content of markdown components leading to possible XSS attack vectors that can be performed by authenticated users with create dashboard permissions. This issue affects Apache Superset version 1.5.2 and prior versions and version 2.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43717 | | 
-| 20230116T13:33:24Z | CVE-2022-41703 | A vulnerability in the SQL Alchemy connector of Apache Superset allows an authenticated user with read access to a specific database to add subqueries to the WHERE and HAVING fields referencing tables on the same database that the user should not have access to, despite the user having the feature flag "ALLOW_ADHOC_SUB CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41703 | | 
-| 20230116T13:33:07Z | CVE-2021-4313 | A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4313 | | 
-| 20230116T11:33:15Z | CVE-2022-46169 | RCE POC for CVE-2022-46169 | https://github.com/N1arut/CVE-2022-46169_POC | | 
-| 20230116T11:22:14Z | CVE-2022-46463 | Null | https://github.com/wh-gov/CVE-2022-46463 | | 
+| 20230116T21:14:22Z | CVE-2022-47630 | Trusted Firmware-A through 2.8 has an out-of-bounds read in the X.509 parser for parsing boot certificates. This affects downstream use of get_ext and auth_nvctr. Attackers might be able to trigger dangerous read side effects or obtain sensitive information about microarchitectural state. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47630 | | 
+| 20230116T21:14:17Z | CVE-2023-0327 | A vulnerability was found in saemorris TheRadSystem. It has been classified as problematic. Affected is an unknown function of the file users.php. The manipulation of the argument q leads to cross site scripting. It is possible to launch the attack remotely. VDB-218454 is the identifier assigned to this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0327 | | 
+| 20230116T17:59:11Z | CVE-2022-4658 | The RSSImport WordPress plugin through 4.6.1 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4658 | | 
+| 20230116T17:59:07Z | CVE-2022-4655 | The Welcart e-Commerce WordPress plugin before 2.8.9 does not validate and escapes one of its shortcode attributes, which could allow users with a role as low as a contributor to perform a Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4655 | | 
+| 20230116T17:59:02Z | CVE-2022-4653 | The Greenshift WordPress plugin before 4.8.9 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4653 | | 
+| 20230116T17:58:59Z | CVE-2022-4648 | The Real Testimonials WordPress plugin before 2.6.0 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as adm CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4648 | | 
+| 20230116T17:58:54Z | CVE-2022-4578 | The Video Conferencing with Zoom WordPress plugin before 4.0.10 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4578 | | 
+| 20230116T17:58:50Z | CVE-2022-4571 | The Seriously Simple Podcasting WordPress plugin before 2.19.1 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4571 | | 
+| 20230116T17:58:46Z | CVE-2022-4549 | The Tickera WordPress plugin before 3.5.1.0 does not have CSRF check in place when updating its settings, which could allow attackers to make a logged-in admin change them via a CSRF attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4549 | | 
+| 20230116T17:58:42Z | CVE-2022-4547 | The Conditional Payment Methods for WooCommerce WordPress plugin through 1.0 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by [high privilege users such as admin,users with a role as low as admin. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4547 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230116T13:44:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10077 | 339| 
+| 20230116T21:43:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10080 | 339| 
 | 20230116T08:35:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 193 | 1| 
 | 20230116T05:26:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2140 | 604| 
 | 20230115T09:30:31Z | Null | https://github.com/klee30810/klee30810 | 2 | 0| 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T22:58:18Z | The Voidware Blatant config for Mobile Exploits | https://github.com/SystemXVoid/VoidwareMBConfig | 0 | 0| 
+| 20230116T21:59:15Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 135 | 121| 
+| 20230116T20:44:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-re | 1 | 0| 
+| 20230116T19:55:03Z | roblox exploits repo | https://github.com/Monochrome-DEV/roblos-exploitings | 0 | 0| 
 | 20230116T13:42:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12592 | 2162| 
 | 20230116T13:29:05Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 565 | 56| 
-| 20230116T13:19:13Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 134 | 120| 
 | 20230116T12:36:22Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 297 | 67| 
 | 20230116T11:52:00Z | A solution to the Travelling Sales Man problem using Genetic Algorithm that implements Elitism for optimization, Edge Adjacency Table operation for Exploration and Mutation for Exploitation. | https://github.com/samuelmunyoki/Travelling-Sales-Man-Problem | 0 | 0| 
 | 20230116T10:49:49Z | Dripware V1.0.0 is an Open-Source GUI | https://github.com/KushinaAtori/Dripware | 0 | 0| 
-| 20230116T01:13:36Z | Null | https://github.com/dev007new/RealVNC-server-up-to-6.11-DLL-Hijacking-Exploit | 0 | 0| 
-| 20230116T00:54:37Z | Null | https://github.com/MauryDev/UnityExploit | 0 | 0| 
-| 20230116T00:50:42Z | The most complete list for Minecraft leaked plugins, hacked clients, and the best anti-cheat and anti-exploit plugins available in the market. | https://github.com/GabryB03/Minecraft-Lists | 0 | 0| 
-| 20230116T00:45:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5192 | 728| 
+| 20230116T08:31:55Z | Exploit to CVE-2022-46169 vulnerability | https://github.com/Anthonyc3rb3ru5/CVE-2022-46169 | 6 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230116T23:37:09Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1204 | 167| 
+| 20230116T19:25:13Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 36 | 10| 
+| 20230116T19:13:12Z | This is a shortened code of the Roblox Lua Crash, this exploit needs Serverside to kick the other players. This will crash everybody%s roblox client. Also, you backdoor exploiters, you can get it and ruin other%s fun. | https://github.com/IvanTheProtogen/Roblox-Crash-Lua | 0 | 0| 
+| 20230116T19:11:49Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 1 | 0| 
+| 20230116T13:58:34Z | Null | https://github.com/Deepu-duck/Backdoor | 0 | 0| 
 | 20230116T07:01:45Z | Null | https://github.com/marcusd7/Chameleon-durable-backdoor | 0 | 0| 
-| 20230115T23:03:20Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 0 | 0| 
-| 20230115T19:04:39Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1203 | 167| 
 | 20230115T17:55:44Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 2 | 0| 
 | 20230115T16:15:14Z | Null | https://github.com/AceeNISM/shell-backdoor | 0 | 0| 
 | 20230115T16:02:02Z | Null | https://github.com/j3r1ch0123/backdoor-planter | 0 | 0| 
 | 20230115T10:19:33Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 25 | 2| 
-| 20230115T09:54:34Z | Null | https://github.com/Anonimo055x/Backdoor-Injection-Malwares-Rootkit | 0 | 0| 
-| 20230115T06:24:26Z | Python Backdoor for Windows | https://github.com/ryzh3n/Python-Backdoor-for-Windows | 0 | 0| 
-| 20230115T02:12:43Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T00:07:31Z | fuzzy-guacamole | https://github.com/gjagui/fuzzy-guacamole | 0 | 0| 
+| 20230116T23:34:18Z | Null | https://github.com/AbanoubSamir004/Fuzzy_CMean_VS__Kmean | 0 | 0| 
+| 20230116T22:05:34Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 960 | 158| 
 | 20230116T13:57:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44262 | 22004| 
 | 20230116T13:41:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1871 | 241| 
 | 20230116T13:20:44Z | DeepFuzz 논문만 보고 구현 | https://github.com/KEEPER31337/DeepFuzz | 0 | 2| 
 | 20230116T13:19:03Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 | 20230116T13:17:07Z | DeepFuzz 논문만 보고 구현 | https://github.com/1004-head/DeepFuzz | 0 | 0| 
 | 20230116T13:15:39Z | Null | https://github.com/TheFuzzyUngulate/fuzzyungulate.github.io | 0 | 0| 
-| 20230116T12:04:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8277 | 1805| 
-| 20230116T12:02:26Z | Optimization portfoli with cross efficiency approch | https://github.com/Reza-Emarloo/Regret-theory-based-fuzzy-multi-objective-portfolio-selection-model-involving-DEA-cross-efficiency-a | 0 | 0| 
-| 20230116T02:17:48Z | Rare-Path Guided Fuzzing | https://github.com/Shafiuzzaman-Hira/RareFuzz | 2 | 0| 
-| 20230116T01:22:32Z | Null | https://github.com/warda-a7/Api_Fuzzer | 0 | 0| 
+| 20230116T12:42:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 62 | 26| 
 
 
 
