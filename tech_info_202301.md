@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230117T02:01:15Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
+| 20230117T02:03:32Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20230117T00:07:31Z | fuzzy-guacamole | https://github.com/gjagui/fuzzy-guacamole | 0 | 0| 
 | 20230116T23:34:18Z | Null | https://github.com/AbanoubSamir004/Fuzzy_CMean_VS__Kmean | 0 | 0| 
 | 20230116T22:05:34Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 960 | 158| 
