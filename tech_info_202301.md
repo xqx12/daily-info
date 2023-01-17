@@ -101,6 +101,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230116T23:37:09Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1204 | 167| 
+| 20230116T21:24:08Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 471 | 56| 
 | 20230116T19:25:13Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 36 | 10| 
 | 20230116T19:13:12Z | This is a shortened code of the Roblox Lua Crash, this exploit needs Serverside to kick the other players. This will crash everybody%s roblox client. Also, you backdoor exploiters, you can get it and ruin other%s fun. | https://github.com/IvanTheProtogen/Roblox-Crash-Lua | 0 | 0| 
 | 20230116T19:11:49Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 1 | 0| 
@@ -109,7 +110,6 @@
 | 20230115T17:55:44Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/soci0pathh/eth-nft-drainer | 2 | 0| 
 | 20230115T16:15:14Z | Null | https://github.com/AceeNISM/shell-backdoor | 0 | 0| 
 | 20230115T16:02:02Z | Null | https://github.com/j3r1ch0123/backdoor-planter | 0 | 0| 
-| 20230115T10:19:33Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 25 | 2| 
 
 
 # symbolic execution on Github 推荐
