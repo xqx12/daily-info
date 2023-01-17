@@ -100,8 +100,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T13:25:06Z | This is an small code example of how you can execute a code and open a backdoor in a windows computer. | https://github.com/Rootkitcode/example_open_backdoor | 0 | 0| 
 | 20230117T13:05:11Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 472 | 56| 
-| 20230117T13:02:34Z | This is an small code example of how you can execute a code and open a backdoor in a windows computer. | https://github.com/Rootkitcode/example_open_backdoor | 0 | 0| 
 | 20230117T12:15:20Z | By running one script on the attack machine and by injecting one command into the client%s terminal - a backdoor will be deployed on the client machine opening up a reverse shell. | https://github.com/bobby-valenzuela/ReverseShell | 0 | 0| 
 | 20230117T12:01:40Z | A Backdoor to remote maintence in nutrunners and tork wrenches | https://github.com/042Lugo/openprotocol_backdoor | 0 | 0| 
 | 20230117T01:51:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 26 | 2| 
