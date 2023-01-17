@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230117T13:51:32Z | Null | https://github.com/monde-yan/exploitation | 0 | 0| 
 | 20230117T13:46:13Z | Programme de scraping qui parcours les différentes sociétés sur le site boursorama permettant de récupérer les données tel que le PER ou les données de graph pour par la suite crée une table de donnée exploitable | https://github.com/Rakou-FR/Boursorama-scraping | 0 | 0| 
 | 20230117T13:37:13Z | Storm-Dll-Source which was accidently leaked by the skid %SpeedSterKawaii% but I decided to leak it again cuz the entire exploit is skidded from headhunter lol | https://github.com/TheCtkHoster/storm-dll-source | 0 | 0| 
 | 20230117T12:36:05Z | Latent Semantic Analysis applied on movies, both in a content-based approach (exploiting the movies overviews) and in a collaborative approach (exploiting the users rates) | https://github.com/EnricoPittini/LSA-on-movies | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230117T11:32:26Z | Basically i tried to recreate DEX | https://github.com/HAKANKOKCU/Birdy-Roblox-Place-Explorer | 0 | 0| 
 | 20230117T11:31:55Z | A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file admin/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0332 | 0 | 0| 
 | 20230117T11:30:47Z | m-FILTER prior to Ver.5.70R01 (Ver.5 Series) and m-FILTER prior to Ver.4.87R04 (Ver.4 Series) allows a remote unauthenticated attacker to bypass authentication and send users% unintended email when email is being sent under the certain conditions. The attacks exploiting this vulnerability have been observed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22278 | 0 | 0| 
-| 20230117T10:26:30Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12601 | 2163| 
 
 
 # backdoor on Github 推荐
