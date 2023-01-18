@@ -70,6 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T13:13:41Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 0 | 0| 
 | 20230118T09:20:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3276 | 464| 
 | 20230118T01:04:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 539 | 31| 
 
