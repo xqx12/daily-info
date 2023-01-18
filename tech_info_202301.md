@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230118 | CVE-2023-0321 Campbell Scientific 产品中信息泄露 | https://www.hackplayers.com/2023/01/cve-2023-0321-info-sensible-campbell.html| 
+| 20230118 | 360发布的2022年全球高级持续性威胁（APT）研究报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf| 
+| 20230118 | X41 team对Git项目的审计报告，其中包括了两个高危漏洞的越界写漏洞细节（CVE-2022-23521、CVE-2022-41903） | http://www.x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/| 
 | 20230117 | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg| 
 | 20230117 | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow| 
 | 20230117 | 记录一下从编译的角度还原VMP的思路 | https://bbs.kanxue.com/thread-275796.htm| 
@@ -23,9 +26,6 @@
 | 20230117 | idek 2022* CTF Chronophobia && Decidophobia && Primonumerophobia && Tychophobia Offical writeup | https://sec.today/pulses/2aefd965-c33c-4705-a40b-1e0f9ebb1b29/| 
 | 20230117 | idek 2022* CTF ECRSA && Formal Security Poop && Finite Realm of Random Offical writeup | https://sec.today/pulses/9d690d54-03e9-44b3-b508-5e8f49e35d67/| 
 | 20230117 | Real World CTF 5th (2023): Dark Portal 完整Writeup | https://sec.today/pulses/b81a8404-7408-494d-b136-70d02323dc02/| 
-| 20230117 | Blue Water发布了关于Real World CTF 2023中java web的Dark Portal题目Writeup,其主要偏向于dump下来的包如何去掉混淆反编译的角度 | https://sec.today/pulses/02c40333-90bf-4af0-94bb-4a81fb2b8147/| 
-| 20230117 | r3kapig发布关于idek 2022* CTF取证部分的详细writeup | https://mp.weixin.qq.com/s/sEk8lFgn8hP7RNapcqvb5Q| 
-| 20230117 | Crypto - Finite Realm of Random Writeup by grhkm21 | https://grhkm21.github.io/posts/idek-finite-realm-of-random/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230118T01:54:23Z | CVE-2023-21891 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Visual Analyzer).  Supported versions that are affected are 5.9.0.0.0 and  6.4.0.0.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Bus CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21891 | | 
-| 20230118T01:54:18Z | CVE-2023-21846 | Vulnerability in the Oracle BI Publisher product of Oracle Fusion Middleware (component: Security).  Supported versions that are affected are 5.9.0.0.0, 6.4.0.0.0 and  12.2.1.4.0. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise Oracle BI Publisher CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21846 | | 
-| 20230118T01:54:15Z | CVE-2023-21853 | Vulnerability in the Oracle Mobile Field Service product of Oracle E-Business Suite (component: Synchronization).  Supported versions that are affected are 12.2.3-12.2.12. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Mobile Field Service.  Successful CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21853 | | 
-| 20230118T01:54:11Z | CVE-2023-21850 | Vulnerability in the Oracle Demantra Demand Management product of Oracle Supply Chain (component: E-Business Collections).  Supported versions that are affected are 12.1 and  12.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Demantra Demand Manageme CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21850 | | 
-| 20230118T01:54:07Z | CVE-2023-21841 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Su CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21841 | | 
-| 20230118T01:54:02Z | CVE-2023-21849 | Vulnerability in the Oracle Applications DBA product of Oracle E-Business Suite (component: Java utils).  Supported versions that are affected are 12.2.3-12.2.12. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Applications DBA.  Successful attacks of t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21849 | | 
-| 20230118T01:53:58Z | CVE-2023-21839 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Su CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21839 | | 
-| 20230118T01:53:54Z | CVE-2023-21843 | Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Sound).  Supported versions that are affected are Oracle Java SE: 8u351, 8u351-perf, 11.0.17, 17.0.5, 19.0.1; Oracle GraalVM Enterprise Edition: 20.3.8, 21.3.4 and  22.3.0. Difficult to exploit vulnerability all CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21843 | | 
-| 20230118T01:53:50Z | CVE-2023-21864 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21864 | | 
-| 20230118T01:53:47Z | CVE-2023-21837 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP to compromise Oracle WebLogic Server.  Succes CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21837 | | 
+| 20230118T11:52:29Z | CVE-2022-34460 | Prior Dell BIOS versions contain an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34460 | | 
+| 20230118T11:52:25Z | CVE-2022-34456 | Dell EMC Metro node, Version(s) prior to 7.1, contain a Code Injection Vulnerability. An authenticated nonprivileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34456 | | 
+| 20230118T11:52:21Z | CVE-2022-34401 | Dell BIOS contains a stack based buffer overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to send larger than expected input to a parameter in order to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34401 | | 
+| 20230118T11:52:17Z | CVE-2022-34393 | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34393 | | 
+| 20230118T11:52:12Z | CVE-2022-32490 | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32490 | | 
+| 20230118T11:52:03Z | CVE-2022-34462 | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a Hard-coded Password Vulnerability. An attacker, with the knowledge of the hard-coded credentials, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34462 | | 
+| 20230118T11:51:59Z | CVE-2022-34442 | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain LDAP user privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34442 | | 
+| 20230118T11:51:54Z | CVE-2020-36654 | A vulnerability classified as problematic has been found in GENI Portal. This affects the function no_invocation_id_error of the file portal/www/portal/sliceresource.php. The manipulation of the argument invocation_id/invocation_user leads to cross site scripting. It is possible to initiate the attack remotely. The nam CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36654 | | 
+| 20230118T11:51:50Z | CVE-2020-36653 | A vulnerability was found in GENI Portal. It has been rated as problematic. Affected by this issue is some unknown functionality of the file portal/www/portal/error-text.php. The manipulation of the argument error leads to cross site scripting. The attack may be launched remotely. The name of the patch is c2356cc412605 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36653 | | 
+| 20230118T11:51:42Z | CVE-2023-0122 | A NULL pointer dereference vulnerability in the Linux kernel NVMe functionality, in nvmet_setup_auth(), allows an attacker to perform a Pre-Auth Denial of Service (DoS) attack on a remote machine. Affected versions v6.0-rc1 to v6.0-rc3, fixed in v6.0-rc4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0122 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230118T02:42:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10098 | 340| 
+| 20230118T12:39:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10110 | 340| 
+| 20230118T06:47:11Z | Null | https://github.com/fafrincs/KLEE-FLOAT | 0 | 0| 
 | 20230117T19:00:26Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 1 | 0| 
 | 20230117T08:33:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 195 | 1| 
 | 20230116T05:26:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2140 | 604| 
@@ -70,7 +71,6 @@
 | 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 | 20230113T11:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 68 | 6| 
 | 20230113T06:15:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 50| 
-| 20230113T03:58:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 19 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,21 +85,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T12:41:13Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 44 | 2| 
+| 20230118T11:52:29Z | Prior Dell BIOS versions contain an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34460 | 0 | 0| 
+| 20230118T11:52:25Z | Dell EMC Metro node, Version(s) prior to 7.1, contain a Code Injection Vulnerability. An authenticated nonprivileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34456 | 0 | 0| 
+| 20230118T11:52:21Z | Dell BIOS contains a stack based buffer overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to send larger than expected input to a parameter in order to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34401 | 0 | 0| 
+| 20230118T11:52:17Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34393 | 0 | 0| 
+| 20230118T11:52:12Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32490 | 0 | 0| 
+| 20230118T11:52:03Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a Hard-coded Password Vulnerability. An attacker, with the knowledge of the hard-coded credentials, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34462 | 0 | 0| 
+| 20230118T11:51:59Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain LDAP user privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34442 | 0 | 0| 
+| 20230118T09:21:13Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12607 | 2163| 
 | 20230118T01:54:23Z | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Visual Analyzer).  Supported versions that are affected are 5.9.0.0.0 and  6.4.0.0.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Bus CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21891 | 0 | 0| 
-| 20230118T01:54:18Z | Vulnerability in the Oracle BI Publisher product of Oracle Fusion Middleware (component: Security).  Supported versions that are affected are 5.9.0.0.0, 6.4.0.0.0 and  12.2.1.4.0. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise Oracle BI Publisher CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21846 | 0 | 0| 
-| 20230118T01:54:15Z | Vulnerability in the Oracle Mobile Field Service product of Oracle E-Business Suite (component: Synchronization).  Supported versions that are affected are 12.2.3-12.2.12. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Mobile Field Service.  Successful CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21853 | 0 | 0| 
-| 20230118T01:54:11Z | Vulnerability in the Oracle Demantra Demand Management product of Oracle Supply Chain (component: E-Business Collections).  Supported versions that are affected are 12.1 and  12.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Demantra Demand Manageme CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21850 | 0 | 0| 
-| 20230118T01:54:07Z | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Su CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21841 | 0 | 0| 
-| 20230118T01:54:02Z | Vulnerability in the Oracle Applications DBA product of Oracle E-Business Suite (component: Java utils).  Supported versions that are affected are 12.2.3-12.2.12. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Applications DBA.  Successful attacks of t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21849 | 0 | 0| 
-| 20230118T01:53:58Z | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Su CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21839 | 0 | 0| 
-| 20230118T01:53:54Z | Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Sound).  Supported versions that are affected are Oracle Java SE: 8u351, 8u351-perf, 11.0.17, 17.0.5, 19.0.1; Oracle GraalVM Enterprise Edition: 20.3.8, 21.3.4 and  22.3.0. Difficult to exploit vulnerability all CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21843 | 0 | 0| 
-| 20230118T01:53:50Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21864 | 0 | 0| 
-| 20230118T01:53:47Z | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP to compromise Oracle WebLogic Server.  Succes CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21837 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T12:22:36Z | Automatic and dynamic Gmod lua backdoor | https://github.com/DoctorWhoFR/GBackDoor | 0 | 0| 
+| 20230118T08:37:47Z | Null | https://github.com/Lyz1213/Backdoored_PPLM | 0 | 0| 
+| 20230118T06:18:04Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 2 | 0| 
 | 20230118T02:51:15Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 479 | 57| 
 | 20230117T21:15:29Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1205 | 168| 
 | 20230117T20:01:55Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 78 | 34| 
@@ -107,9 +110,6 @@
 | 20230117T13:25:06Z | This is an small code example of how you can execute a code and open a backdoor in a windows computer. | https://github.com/Rootkitcode/example_open_backdoor | 0 | 0| 
 | 20230117T12:15:20Z | By running one script on the attack machine and by injecting one command into the client%s terminal - a backdoor will be deployed on the client machine opening up a reverse shell. | https://github.com/bobby-valenzuela/ReverseShell | 0 | 0| 
 | 20230117T12:01:40Z | A Backdoor to remote maintence in nutrunners and tork wrenches | https://github.com/042Lugo/openprotocol_backdoor | 0 | 0| 
-| 20230117T01:51:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 26 | 2| 
-| 20230116T19:13:12Z | This is a shortened code of the Roblox Lua Crash, this exploit needs Serverside to kick the other players. This will crash everybody%s roblox client. Also, you backdoor exploiters, you can get it and ruin other%s fun. | https://github.com/IvanTheProtogen/Roblox-Crash-Lua | 0 | 0| 
-| 20230116T19:11:49Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,7 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230116T14:35:43Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 5 | 1| 
+| 20230118T07:06:06Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 5 | 1| 
 | 20230116T10:17:44Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 1 | 1| 
 | 20230115T02:56:21Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 2 | 0| 
 | 20230113T21:10:57Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 1 | 0| 
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230118T01:29:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8279 | 1808| 
+| 20230118T13:00:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4524 | 1096| 
+| 20230118T13:00:28Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 118 | 4| 
+| 20230118T12:21:39Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 49 | 22| 
+| 20230118T12:00:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8280 | 1808| 
+| 20230118T11:59:49Z | FYP Project on GNN Inference Accelerator | https://github.com/pgimenes/fuzzy_carnival | 0 | 0| 
+| 20230118T10:50:28Z | Null | https://github.com/robertma12345/fuzzy-robot | 0 | 0| 
+| 20230118T10:20:27Z | Null | https://github.com/marziyep/Maven_Fuzzy_Factory_Analysis | 0 | 0| 
+| 20230118T10:19:49Z | Null | https://github.com/humpty99/fuzzers | 0 | 0| 
+| 20230118T10:18:08Z | Null | https://github.com/dirkarnez/js-fuzzy-text-search-playground | 0 | 0| 
 | 20230117T23:12:40Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 333 | 26| 
-| 20230117T23:09:45Z | Null | https://github.com/umar629/fuzzy-octo-palm-tree | 1 | 0| 
-| 20230117T22:49:38Z | Null | https://github.com/PedryJr/fuzzy-garbanzo | 0 | 0| 
-| 20230117T21:46:47Z | tools for fuzzy text processing | https://github.com/trodevel/fuzzy_text_tools | 0 | 0| 
-| 20230117T14:12:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3366 | 400| 
-| 20230117T13:57:32Z | Null | https://github.com/mhmmdikhsanrmdhn12/Fuzzy-Tsukamoto | 0 | 0| 
-| 20230117T13:55:33Z | Null | https://github.com/jamesuxcdev/fuzzy-search-demo | 0 | 0| 
-| 20230117T11:49:53Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
-| 20230117T11:34:04Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1892 | 226| 
 
 
 
