@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T13:41:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4870 | 705| 
 | 20230118T13:24:51Z | The next-gen powerful Roblox Exploit. | https://github.com/LeskaHub/epicxhack | 0 | 0| 
 | 20230118T13:06:41Z | You got a e-mail from some one or some company and they wants pay front as 1000$ with a easy offer. they sharing self information with a PDF file sent to you. So SHOULD I CHECK IT WITH OPEN??? | https://github.com/MrDeepWolf/PDF-Exploit | 0 | 0| 
 | 20230118T12:41:13Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 44 | 2| 
@@ -94,7 +95,6 @@
 | 20230118T11:52:17Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34393 | 0 | 0| 
 | 20230118T11:52:12Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32490 | 0 | 0| 
 | 20230118T11:52:03Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a Hard-coded Password Vulnerability. An attacker, with the knowledge of the hard-coded credentials, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34462 | 0 | 0| 
-| 20230118T11:51:59Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain LDAP user privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34442 | 0 | 0| 
 
 
 # backdoor on Github 推荐
