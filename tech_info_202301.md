@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230118T01:29:58Z | Null | https://github.com/Kalachu/Exploits | 0 | 0| 
+| 20230118T01:32:57Z | Open source custom DLL exploit for Roblox, with custom functions, level 8 execution, and multi Roblox injection. | https://github.com/plusgiant5/TaaprWareV2 | 0 | 0| 
+| 20230118T01:31:36Z | Null | https://github.com/Kalachu/Exploits | 0 | 0| 
 | 20230118T01:03:44Z | https://1.1.1.1 | https://github.com/Atropa-Solanaceae/1.1.1.1 | 0 | 0| 
 | 20230118T00:55:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12604 | 2163| 
-| 20230118T00:48:33Z | Open source custom DLL exploit for Roblox, with custom functions and level 8 execution. | https://github.com/plusgiant5/TaaprWareV2 | 0 | 0| 
 | 20230117T23:55:38Z | Everything you need to start developing exploits for Linux and Android kernels | https://github.com/gsingh93/linux-exploit-dev-env | 1 | 0| 
 | 20230117T23:52:22Z | Null | https://github.com/demis1997/AMM-Exploitation | 0 | 0| 
 | 20230117T22:36:10Z | This is an Automation project for Vicarius that develops an autonomous vulnerability remediation platform to help security teams protect their assets against software exploitation | https://github.com/shlomi10/VicariusWithSpring | 0 | 0| 
