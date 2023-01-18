@@ -150,11 +150,11 @@
 | 20230117T23:09:45Z | Null | https://github.com/umar629/fuzzy-octo-palm-tree | 1 | 0| 
 | 20230117T22:49:38Z | Null | https://github.com/PedryJr/fuzzy-garbanzo | 0 | 0| 
 | 20230117T21:46:47Z | tools for fuzzy text processing | https://github.com/trodevel/fuzzy_text_tools | 0 | 0| 
+| 20230117T14:12:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3366 | 400| 
 | 20230117T13:57:32Z | Null | https://github.com/mhmmdikhsanrmdhn12/Fuzzy-Tsukamoto | 0 | 0| 
 | 20230117T13:55:33Z | Null | https://github.com/jamesuxcdev/fuzzy-search-demo | 0 | 0| 
 | 20230117T11:49:53Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20230117T11:34:04Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1892 | 226| 
-| 20230117T11:01:56Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 297 | 49| 
 
 
 
