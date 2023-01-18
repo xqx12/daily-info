@@ -114,12 +114,12 @@
 | 20230117T23:09:45Z | Null | https://github.com/umar629/fuzzy-octo-palm-tree | 1 | 0| 
 | 20230117T22:49:38Z | Null | https://github.com/PedryJr/fuzzy-garbanzo | 0 | 0| 
 | 20230117T21:46:47Z | tools for fuzzy text processing | https://github.com/trodevel/fuzzy_text_tools | 0 | 0| 
-| 20230117T21:31:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8278 | 1808| 
 | 20230117T13:57:32Z | Null | https://github.com/mhmmdikhsanrmdhn12/Fuzzy-Tsukamoto | 0 | 0| 
 | 20230117T13:55:33Z | Null | https://github.com/jamesuxcdev/fuzzy-search-demo | 0 | 0| 
 | 20230117T11:49:53Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20230117T11:34:04Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1892 | 226| 
 | 20230117T11:01:56Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 297 | 49| 
+| 20230117T10:19:15Z | sql注入bypass waf工具，绕waf fuzz测试工具。 | https://github.com/iceberg-N/sql_Bypass_WAF | 1 | 0| 
 
 
 
