@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T01:03:44Z | https://1.1.1.1 | https://github.com/Atropa-Solanaceae/1.1.1.1 | 0 | 0| 
 | 20230118T00:55:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12604 | 2163| 
 | 20230118T00:48:33Z | Open source custom DLL exploit for Roblox, with custom functions and level 8 execution. | https://github.com/plusgiant5/TaaprWareV2 | 0 | 0| 
 | 20230117T23:55:38Z | Everything you need to start developing exploits for Linux and Android kernels | https://github.com/gsingh93/linux-exploit-dev-env | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20230117T22:35:24Z | This is an Automation project for Vicarius that develops an autonomous vulnerability remediation platform to help security teams protect their assets against software exploitation | https://github.com/shlomi10/Vicarius | 0 | 0| 
 | 20230117T21:26:06Z | A vulnerability has been found in Sisimai up to 4.25.14p11 and classified as problematic. This vulnerability affects the function to_plain of the file lib/sisimai/string.rb. The manipulation leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may be used. Upgrading to ve CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4891 | 0 | 0| 
 | 20230117T21:25:34Z | Out-of-bounds Read in mrb_obj_is_kind_of in in GitHub repository mruby/mruby prior to 3.2. # Impact: Possible arbitrary code execution if being exploited. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1427 | 0 | 0| 
-| 20230117T21:22:47Z | 🕵️‍♂️ Catch users faking their offline status on Discord with an exploit written in Rust  | https://github.com/oSumAtrIX/dinkleberg | 42 | 2| 
 
 
 # backdoor on Github 推荐
@@ -115,12 +115,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T01:04:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 539 | 31| 
 | 20230117T20:33:19Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 185 | 42| 
 | 20230117T19:00:26Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 1 | 0| 
 | 20230117T15:36:54Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 1 | 0| 
 | 20230117T11:46:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 614 | 111| 
 | 20230117T11:38:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2142 | 605| 
-| 20230117T07:04:29Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 538 | 31| 
 | 20230116T21:19:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3274 | 464| 
 | 20230116T15:58:17Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 13 | 4| 
 | 20230115T10:00:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 289 | 67| 

@@ -101,7 +101,6 @@
 | 20230117T15:36:54Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 1 | 0| 
 | 20230117T11:46:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 614 | 111| 
 | 20230117T11:38:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2142 | 605| 
-| 20230117T07:04:29Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 538 | 31| 
 
 
 # big4 on Github 推荐
