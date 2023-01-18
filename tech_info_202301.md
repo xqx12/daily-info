@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T01:29:58Z | Null | https://github.com/Kalachu/Exploits | 0 | 0| 
 | 20230118T01:03:44Z | https://1.1.1.1 | https://github.com/Atropa-Solanaceae/1.1.1.1 | 0 | 0| 
 | 20230118T00:55:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12604 | 2163| 
 | 20230118T00:48:33Z | Open source custom DLL exploit for Roblox, with custom functions and level 8 execution. | https://github.com/plusgiant5/TaaprWareV2 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230117T22:36:05Z | This is an Automation project for Vicarius that develops an autonomous vulnerability remediation platform to help security teams protect their assets against software exploitation | https://github.com/shlomi10/VicariusWithBrowserstack | 0 | 0| 
 | 20230117T22:35:24Z | This is an Automation project for Vicarius that develops an autonomous vulnerability remediation platform to help security teams protect their assets against software exploitation | https://github.com/shlomi10/Vicarius | 0 | 0| 
 | 20230117T21:26:06Z | A vulnerability has been found in Sisimai up to 4.25.14p11 and classified as problematic. This vulnerability affects the function to_plain of the file lib/sisimai/string.rb. The manipulation leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may be used. Upgrading to ve CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4891 | 0 | 0| 
-| 20230117T21:25:34Z | Out-of-bounds Read in mrb_obj_is_kind_of in in GitHub repository mruby/mruby prior to 3.2. # Impact: Possible arbitrary code execution if being exploited. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1427 | 0 | 0| 
 
 
 # backdoor on Github 推荐
