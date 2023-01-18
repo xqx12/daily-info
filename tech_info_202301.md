@@ -9,6 +9,7 @@
 | 20230118 | CVE-2023-0321 Campbell Scientific 产品中信息泄露 | https://www.hackplayers.com/2023/01/cve-2023-0321-info-sensible-campbell.html| 
 | 20230118 | 360发布的2022年全球高级持续性威胁（APT）研究报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf| 
 | 20230118 | X41 team对Git项目的审计报告，其中包括了两个高危漏洞的越界写漏洞细节（CVE-2022-23521、CVE-2022-41903） | http://www.x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/| 
+| 20230118 | 使用aflfuzz fuzz php | https://www.tripwire.com/state-of-security/fuzzing-php-for-fun-and-profit| 
 | 20230117 | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg| 
 | 20230117 | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow| 
 | 20230117 | 记录一下从编译的角度还原VMP的思路 | https://bbs.kanxue.com/thread-275796.htm| 
@@ -25,7 +26,6 @@
 | 20230117 | idekCTF 2022: NMPZ (OSINT) | https://sec.today/pulses/680fd407-2806-4fb3-84fc-8d51e80f3ced/| 
 | 20230117 | idek 2022* CTF Chronophobia && Decidophobia && Primonumerophobia && Tychophobia Offical writeup | https://sec.today/pulses/2aefd965-c33c-4705-a40b-1e0f9ebb1b29/| 
 | 20230117 | idek 2022* CTF ECRSA && Formal Security Poop && Finite Realm of Random Offical writeup | https://sec.today/pulses/9d690d54-03e9-44b3-b508-5e8f49e35d67/| 
-| 20230117 | Real World CTF 5th (2023): Dark Portal 完整Writeup | https://sec.today/pulses/b81a8404-7408-494d-b136-70d02323dc02/| 
 
 
 # 安全维基 推荐
