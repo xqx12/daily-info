@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T23:44:01Z | Advanced System Protector Crack  Is a very reliable, powerful, and real-time PC protection tool that scans your PC for Trojans, Spyware, Adware, Keyloggers, Worms, Riskware, Exploit, Sniffers, and all other viruses, keeping your computer safe. | https://github.com/SoftCrackPro1/https-softcrackpro.com-advanced-system-protector-crack-softcackpro- | 0 | 0| 
+| 20230118T23:14:08Z | Ce projet consiste à nettoyer, transformer et analyser des données de production et de consommation électrique afin de sensibiliser, alerter les citoyens sur leur consommation, mais aussi faire de la prédiction. | https://github.com/saliou95/Data-exploitation-and-analysis-Smart-grids- | 0 | 0| 
+| 20230118T22:57:51Z | some pwn challenges  | https://github.com/OUB3LL4/Linux-Binary-Exploitation | 0 | 0| 
+| 20230118T21:45:07Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21606 | 0 | 0| 
+| 20230118T21:45:02Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21605 | 0 | 0| 
+| 20230118T20:36:58Z | Proof of concept for exploiting the Heartbeat Extension bug detailed in the CVE-2014-0160. :old_key: :unlock: | https://github.com/undacmic/heartbleed-proof-of-concept | 4 | 0| 
+| 20230118T18:57:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8063 | 1856| 
 | 20230118T13:41:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4870 | 705| 
 | 20230118T13:24:51Z | The next-gen powerful Roblox Exploit. | https://github.com/LeskaHub/epicxhack | 0 | 0| 
 | 20230118T13:06:41Z | You got a e-mail from some one or some company and they wants pay front as 1000$ with a easy offer. they sharing self information with a PDF file sent to you. So SHOULD I CHECK IT WITH OPEN??? | https://github.com/MrDeepWolf/PDF-Exploit | 0 | 0| 
-| 20230118T12:41:13Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 44 | 2| 
-| 20230118T11:52:29Z | Prior Dell BIOS versions contain an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34460 | 0 | 0| 
-| 20230118T11:52:25Z | Dell EMC Metro node, Version(s) prior to 7.1, contain a Code Injection Vulnerability. An authenticated nonprivileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34456 | 0 | 0| 
-| 20230118T11:52:21Z | Dell BIOS contains a stack based buffer overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to send larger than expected input to a parameter in order to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34401 | 0 | 0| 
-| 20230118T11:52:17Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34393 | 0 | 0| 
-| 20230118T11:52:12Z | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32490 | 0 | 0| 
-| 20230118T11:52:03Z | Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a Hard-coded Password Vulnerability. An attacker, with the knowledge of the hard-coded credentials, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34462 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -79,6 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230118T20:49:45Z | A survey of literature and applications for symbolic execution tools | https://github.com/LinqLover/symbolic-execution-survey | 0 | 0| 
 | 20230118T13:13:41Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 0 | 0| 
 | 20230118T09:20:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3276 | 464| 
 | 20230118T01:04:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 539 | 31| 
