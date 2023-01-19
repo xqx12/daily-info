@@ -85,9 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T01:52:02Z | Everything you need to start developing exploits for Linux and Android kernels | https://github.com/gsingh93/linux-exploit-dev-env | 3 | 0| 
 | 20230119T01:48:32Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8064 | 1856| 
 | 20230119T00:33:44Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1692 | 216| 
-| 20230119T00:05:27Z | Everything you need to start developing exploits for Linux and Android kernels | https://github.com/gsingh93/linux-exploit-dev-env | 2 | 0| 
 | 20230118T23:44:01Z | Advanced System Protector Crack  Is a very reliable, powerful, and real-time PC protection tool that scans your PC for Trojans, Spyware, Adware, Keyloggers, Worms, Riskware, Exploit, Sniffers, and all other viruses, keeping your computer safe. | https://github.com/SoftCrackPro1/https-softcrackpro.com-advanced-system-protector-crack-softcackpro- | 0 | 0| 
 | 20230118T23:14:08Z | Ce projet consiste à nettoyer, transformer et analyser des données de production et de consommation électrique afin de sensibiliser, alerter les citoyens sur leur consommation, mais aussi faire de la prédiction. | https://github.com/saliou95/Data-exploitation-and-analysis-Smart-grids- | 0 | 0| 
 | 20230118T22:57:51Z | some pwn challenges  | https://github.com/OUB3LL4/Linux-Binary-Exploitation | 0 | 0| 
