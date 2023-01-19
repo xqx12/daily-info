@@ -57,10 +57,10 @@
 | 20230118T21:45:07Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21606 | 0 | 0| 
 | 20230118T21:45:02Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21605 | 0 | 0| 
 | 20230118T20:36:58Z | Proof of concept for exploiting the Heartbeat Extension bug detailed in the CVE-2014-0160. :old_key: :unlock: | https://github.com/undacmic/heartbleed-proof-of-concept | 4 | 0| 
-| 20230118T18:57:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8063 | 1856| 
 | 20230118T13:41:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4870 | 705| 
 | 20230118T13:24:51Z | The next-gen powerful Roblox Exploit. | https://github.com/LeskaHub/epicxhack | 0 | 0| 
 | 20230118T13:06:41Z | You got a e-mail from some one or some company and they wants pay front as 1000$ with a easy offer. they sharing self information with a PDF file sent to you. So SHOULD I CHECK IT WITH OPEN??? | https://github.com/MrDeepWolf/PDF-Exploit | 0 | 0| 
+| 20230118T12:41:13Z | Kubernetes  exploitation tool | https://github.com/Rolix44/Kubestroyer | 44 | 2| 
 
 
 # backdoor on Github 推荐
