@@ -24,6 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230119T13:15:23Z | CVE-2023-23690 | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | | 
+| 20230119T13:15:19Z | CVE-2022-3738 | The vulnerability allows a remote unauthenticated attacker to download a backup file, if one exists. That backup file might contain sensitive information like credentials and cryptographic material. A valid user has to create a backup after the last reboot for this attack to be successfull. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3738 | | 
 | 20230119T13:12:29Z | CVE-2022-47966 | POC for CVE-2022-47966 affecting multiple ManageEngine products | https://github.com/horizon3ai/CVE-2022-47966 | | 
 | 20230119T12:47:48Z | CVE-2022-46463 | CVE-2022-46463(Harbor 未授权) | https://github.com/nu0l/CVE-2022-46463 | | 
 | 20230119T12:12:29Z | CVE-2022-45934 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934 | | 
@@ -32,8 +34,6 @@
 | 20230119T12:08:17Z | CVE-2023-0398 | Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0398 | | 
 | 20230119T11:50:21Z | CVE-2022-23521 | Truncated Allocation Leading to Out of Bounds Write Via Large Number of Attributes | https://github.com/0xDSousa/CVE-2022-23521 | | 
 | 20230119T11:08:52Z | CVE-2021-31800 | A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server. | https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write | | 
-| 20230119T10:41:26Z | CVE-2022-47966 | CVE-2022-47966 ManageEngine unauthenticated RCE exploit via the SAML request, | https://github.com/ralph-morrinson/CVE-2022-47966-RCE-PoC | | 
-| 20230119T06:38:53Z | CVE-2022-27778 | A use of incorrectly resolved name vulnerability fixed in 7.83.1 might remove the wrong file when `--no-clobber` is used together with `--remove-on-error`. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-27778 | | 
 
 
 # klee on Github 推荐
