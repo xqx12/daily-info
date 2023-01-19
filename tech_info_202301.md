@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T13:58:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12611 | 2163| 
 | 20230119T13:55:03Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/Suldue/Rust-Cheat | 0 | 0| 
 | 20230119T13:51:42Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/Suldue/HWID-Spoofer | 0 | 0| 
 | 20230119T13:47:39Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/Suldue/Fortnite-Softaim | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230119T13:15:23Z | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | 0 | 0| 
 | 20230119T12:44:06Z | Reverse Shell as a Service | https://github.com/lukechilds/reverse-shell | 1597 | 226| 
 | 20230119T12:03:23Z | Null | https://github.com/Lossless-Cash/exploit-db | 0 | 0| 
-| 20230119T11:23:24Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7431 | 1770| 
 
 
 # backdoor on Github 推荐
