@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T02:04:31Z | This is Lab 2 | https://github.com/sahmed59/fuzzy-fortnight | 0 | 0| 
 | 20230119T00:43:19Z | Null | https://github.com/samanthakessler/fuzzy-guacamole | 0 | 0| 
 | 20230118T23:40:30Z | Null | https://github.com/fuzzy-anon/Computational-Fuzzy-Extractor | 0 | 0| 
 | 20230118T22:57:21Z | Null | https://github.com/fuzzy-anon/Computational-Fuzzy-Extractor-For-Iris | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230118T13:10:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4523 | 1096| 
 | 20230118T13:00:28Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 118 | 4| 
 | 20230118T12:21:39Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 49 | 22| 
-| 20230118T11:59:49Z | FYP Project on GNN Inference Accelerator | https://github.com/pgimenes/fuzzy_carnival | 0 | 0| 
 
 
 
