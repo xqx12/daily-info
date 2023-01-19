@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T02:23:49Z | Null | https://github.com/Gabriel160204/Backdoor-Reverse-Shell | 0 | 0| 
 | 20230118T23:09:05Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230118T20:44:51Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 0 | 0| 
 | 20230118T19:13:28Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 3 | 0| 
@@ -109,7 +110,6 @@
 | 20230118T02:51:15Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 479 | 57| 
 | 20230117T21:15:29Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1205 | 168| 
 | 20230117T20:01:55Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 78 | 34| 
-| 20230117T13:25:06Z | This is an small code example of how you can execute a code and open a backdoor in a windows computer. | https://github.com/Rootkitcode/example_open_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
