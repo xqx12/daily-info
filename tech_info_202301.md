@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230119T13:23:49Z | a web directory fuzzer with Go | https://github.com/CybersecSpirit/gofuzz | 0 | 0| 
+| 20230119T13:24:53Z | a web directory fuzzer with Go | https://github.com/CybersecSpirit/gofuzz | 0 | 0| 
 | 20230119T12:37:17Z | A backend framework for javascript | https://github.com/MohamedDerbali/FuzzyWuzzyJS | 0 | 0| 
 | 20230119T11:34:21Z | Movimento Robo com Multi-Layer Perceptron, Fuzzy e Prolog | https://github.com/LeonardoJunio/robo-ia-mlp-fuzzy-prolog | 0 | 0| 
 | 20230119T11:26:27Z | SPK dengan metode Fuzzy AHP | https://github.com/riyanandri/fuzzy_ahp | 0 | 0| 
