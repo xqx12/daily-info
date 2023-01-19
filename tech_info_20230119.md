@@ -54,6 +54,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T13:51:42Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/Suldue/HWID-Spoofer | 0 | 0| 
+| 20230119T13:47:39Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/Suldue/Fortnite-Softaim | 0 | 0| 
+| 20230119T13:44:08Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/Suldue/Fivem-Executor | 0 | 0| 
 | 20230119T13:41:32Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1719 | 218| 
 | 20230119T13:37:41Z | 🖱️ , AUTOCLICKER MADE FOR MINECRAFT , UNDETECTED , BYPASS LUNAR CLIENT AND MORE  | https://github.com/Suldue/Minecraft-Autoclicker | 0 | 0| 
 | 20230119T13:15:23Z | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | 0 | 0| 
@@ -61,9 +64,6 @@
 | 20230119T12:03:23Z | Null | https://github.com/Lossless-Cash/exploit-db | 0 | 0| 
 | 20230119T11:23:24Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7431 | 1770| 
 | 20230119T11:03:50Z | This tool is created to search for sensitive files, sensitive information by exploiting google dorking techniques | https://github.com/Yohann76/DorkingTools | 0 | 0| 
-| 20230119T10:41:26Z | CVE-2022-47966 ManageEngine unauthenticated RCE exploit via the SAML request, | https://github.com/ralph-morrinson/CVE-2022-47966-RCE-PoC | 0 | 0| 
-| 20230119T09:06:03Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12610 | 2163| 
-| 20230119T08:33:01Z | Base de données de films (MongoDB) à exploiter avec des requêtes et des tests unitaires | https://github.com/75andybermond/MflixMongoDB | 0 | 0| 
 
 
 # backdoor on Github 推荐
