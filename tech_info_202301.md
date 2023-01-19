@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230119T02:41:54Z | CVE-2022-37332 | CURRENTLY UNDER WORK... ALL I NEED TO IMPLEMENT IS JIT SPRAYING .....  | https://github.com/SpiralBL0CK/CVE-2022-37332-RCE- | | 
+| 20230119T02:43:59Z | CVE-2022-37332 | CURRENTLY UNDER WORK... ALL I NEED TO IMPLEMENT IS JIT SPRAYING .....  | https://github.com/SpiralBL0CK/CVE-2022-37332-RCE- | | 
 | 20230119T02:09:58Z | CVE-2022-43393 | An improper check for unusual or exceptional conditions in the HTTP request processing function of Zyxel GS1920-24v2 firmware prior to V4.70(ABMH.8)C0, which could allow an unauthenticated attacker to corrupt the contents of the memory and result in a denial-of-service (DoS) condition on a vulnerable device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43393 | | 
 | 20230119T02:09:52Z | CVE-2022-43391 | A buffer overflow vulnerability in the parameter of the CGI program in Zyxel NR7101 firmware prior to V1.15(ACCC.3)C0, which could allow an authenticated attacker to cause denial-of-service (DoS) conditions by sending a crafted HTTP request. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43391 | | 
 | 20230119T02:09:44Z | CVE-2023-0242 | Rapid7 Velociraptor allows users to be created with different privileges on the server. Administrators are generally allowed to run any command on the server including writing arbitrary files. However, lower privilege users are generally forbidden from writing or modifying files on the server. The VQL copy() function a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0242 | | 
