@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T13:15:23Z | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | 0 | 0| 
 | 20230119T12:44:06Z | Reverse Shell as a Service | https://github.com/lukechilds/reverse-shell | 1597 | 226| 
 | 20230119T12:43:34Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1715 | 218| 
 | 20230119T12:03:23Z | Null | https://github.com/Lossless-Cash/exploit-db | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230119T09:06:03Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12610 | 2163| 
 | 20230119T08:33:01Z | Base de données de films (MongoDB) à exploiter avec des requêtes et des tests unitaires | https://github.com/75andybermond/MflixMongoDB | 0 | 0| 
 | 20230119T08:25:04Z | Script Python para detectar falhas em alvos SMB mal configurados. Enumera usuários, diretórios, arquivos e compartilhamentos.  | https://github.com/LucasMorato/SMBCheckerExploiter | 0 | 0| 
-| 20230119T06:25:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 7 | 0| 
 
 
 # backdoor on Github 推荐
