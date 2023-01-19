@@ -153,8 +153,8 @@
 | 20230118T22:57:21Z | Null | https://github.com/fuzzy-anon/Computational-Fuzzy-Extractor-For-Iris | 0 | 0| 
 | 20230118T22:39:50Z | a Python script that uses the requests library to perform basic XSS fuzzing on a target web application | https://github.com/Cameron-Noakes/XSS-Fuzzer-Program | 0 | 0| 
 | 20230118T22:10:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8279 | 1808| 
+| 20230118T15:11:58Z | A structure-aware HTTP fuzzing library | https://github.com/epi052/feroxfuzz | 143 | 8| 
 | 20230118T13:56:05Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1846 | 213| 
-| 20230118T13:11:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4922 | 512| 
 
 
 
