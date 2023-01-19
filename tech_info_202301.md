@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T13:23:49Z | a web directory fuzzer with Go | https://github.com/CybersecSpirit/gofuzz | 0 | 0| 
 | 20230119T12:37:17Z | A backend framework for javascript | https://github.com/MohamedDerbali/FuzzyWuzzyJS | 0 | 0| 
 | 20230119T11:34:21Z | Movimento Robo com Multi-Layer Perceptron, Fuzzy e Prolog | https://github.com/LeonardoJunio/robo-ia-mlp-fuzzy-prolog | 0 | 0| 
 | 20230119T11:26:27Z | SPK dengan metode Fuzzy AHP | https://github.com/riyanandri/fuzzy_ahp | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230119T09:32:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4524 | 1096| 
 | 20230119T06:44:46Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 2524 | 360| 
 | 20230119T06:17:25Z | Esse repositório contém os códigos dos algoritmos  Gaussian Kernel Fuzzy Double K-Means (GKFDK), Gaussian Kernel Fuzzy Double K-Means Based on Global Adaptive Distance (GKFDK-GP) e Gaussian Kernel Fuzzy Double K-Means Based on Local Adaptive Distance (GKFDK-LP). Esses algoritmos são modelos de co-clustering. | https://github.com/Natandradesa/Kernel_Fuzzy_Co-clustering | 0 | 0| 
-| 20230119T02:40:43Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 1 | 0| 
 
 
 
