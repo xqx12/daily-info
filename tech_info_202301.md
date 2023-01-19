@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T02:56:35Z | Null | https://github.com/DMCB-GIST/exploit_all_samples | 0 | 0| 
 | 20230119T02:09:03Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16274 | 0 | 0| 
 | 20230119T01:52:02Z | Everything you need to start developing exploits for Linux and Android kernels | https://github.com/gsingh93/linux-exploit-dev-env | 3 | 0| 
 | 20230119T01:48:32Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8064 | 1856| 
@@ -94,7 +95,6 @@
 | 20230118T22:57:51Z | some pwn challenges  | https://github.com/OUB3LL4/Linux-Binary-Exploitation | 0 | 0| 
 | 20230118T21:45:07Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21606 | 0 | 0| 
 | 20230118T21:45:02Z | Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21605 | 0 | 0| 
-| 20230118T20:36:58Z | Proof of concept for exploiting the Heartbeat Extension bug detailed in the CVE-2014-0160. :old_key: :unlock: | https://github.com/undacmic/heartbleed-proof-of-concept | 4 | 0| 
 
 
 # backdoor on Github 推荐
