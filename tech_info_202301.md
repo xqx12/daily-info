@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230119T02:41:54Z | CVE-2022-37332 | CURRENTLY UNDER WORK... ALL I NEED TO IMPLEMENT IS JIT SPRAYING .....  | https://github.com/SpiralBL0CK/CVE-2022-37332-RCE- | | 
 | 20230119T02:09:58Z | CVE-2022-43393 | An improper check for unusual or exceptional conditions in the HTTP request processing function of Zyxel GS1920-24v2 firmware prior to V4.70(ABMH.8)C0, which could allow an unauthenticated attacker to corrupt the contents of the memory and result in a denial-of-service (DoS) condition on a vulnerable device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43393 | | 
 | 20230119T02:09:52Z | CVE-2022-43391 | A buffer overflow vulnerability in the parameter of the CGI program in Zyxel NR7101 firmware prior to V1.15(ACCC.3)C0, which could allow an authenticated attacker to cause denial-of-service (DoS) conditions by sending a crafted HTTP request. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43391 | | 
 | 20230119T02:09:44Z | CVE-2023-0242 | Rapid7 Velociraptor allows users to be created with different privileges on the server. Administrators are generally allowed to run any command on the server including writing arbitrary files. However, lower privilege users are generally forbidden from writing or modifying files on the server. The VQL copy() function a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0242 | | 
@@ -55,7 +56,6 @@
 | 20230119T02:09:23Z | CVE-2022-45922 | An issue was discovered in OpenText Content Suite Platform 22.1 (16.2.19.1803). The request handler for ll.KeepAliveSession sets a valid AdminPwd cookie even when the Web Admin password was not entered. This allows access to endpoints, which require a valid AdminPwd cookie, without knowing the password. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45922 | | 
 | 20230119T02:09:17Z | CVE-2021-43113 | iTextPDF in iText 7 and up to 7.1.17 allows command injection via a CompareTool filename that is mishandled on the gs (aka Ghostscript) command line in GhostscriptHelper.java. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-43113 | | 
 | 20230119T02:09:12Z | CVE-2023-22809 | In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22809 | | 
-| 20230119T02:09:08Z | CVE-2022-3085 | Fuji Electric Tellus Lite V-Simulator versions 4.0.12.0 and prior are vulnerable to a stack-based buffer overflow which may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3085 | | 
 
 
 # klee on Github 推荐
