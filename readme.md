@@ -13,6 +13,7 @@
 | 20230119 | Linux 6.3 将在 AMD 锐龙 CPU 上支持 Pluton 的命令响应缓冲区 CRB 以及受信任平台模块 TPM2 | https://www.phoronix.com/news/Linux-6.3-CRB-TPM2-Pluton| 
 | 20230119 | APT15使用Turian以及其变体针对Iran的活动分析 | https://unit42.paloaltonetworks.com/playful-taurus/| 
 | 20230119 | Java中的xml安全性 | https://semgrep.dev/blog/2022/xml-security-in-java| 
+| 20230119 | CVE-2022-35690:ADOBE COLDFUSION中对用户提供的数据检查不全,导致出现内存溢出漏洞,成功利用可以导致在SYSTEM层的RCE | http://www.thezdi.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion| 
 
 
 # 安全维基 推荐
