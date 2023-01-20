@@ -10,6 +10,9 @@
 | 20230119 | Firefox 在野0day漏洞分析,CVE-2022-26485(RCE)+CVE-2022-26486(SBX) | https://weiyiling.cn/one/firefox_0day_case_analysis| 
 | 20230119 | 如何利用本地提权漏洞（CVE-2021-3490）实现在5.15 之前的 Linux 内核版本进行容器逃逸。 | https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/| 
 | 20230119 | pksecurity发布其在pwn2own 2022使用的microsoft teams rce | http://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html| 
+| 20230119 | Linux 6.3 将在 AMD 锐龙 CPU 上支持 Pluton 的命令响应缓冲区 CRB 以及受信任平台模块 TPM2 | https://www.phoronix.com/news/Linux-6.3-CRB-TPM2-Pluton| 
+| 20230119 | APT15使用Turian以及其变体针对Iran的活动分析 | https://unit42.paloaltonetworks.com/playful-taurus/| 
+| 20230119 | Java中的xml安全性 | https://semgrep.dev/blog/2022/xml-security-in-java| 
 | 20230118 | CVE-2023-0321 Campbell Scientific 产品中信息泄露 | https://www.hackplayers.com/2023/01/cve-2023-0321-info-sensible-campbell.html| 
 | 20230118 | 360发布的2022年全球高级持续性威胁（APT）研究报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf| 
 | 20230118 | X41 team对Git项目的审计报告，其中包括了两个高危漏洞的越界写漏洞细节（CVE-2022-23521、CVE-2022-41903） | http://www.x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/| 
@@ -23,9 +26,6 @@
 | 20230117 | HTB: Shoppy Writeup | https://0xdf.gitlab.io/2023/01/14/htb-shoppy.html| 
 | 20230117 | cve-2022-21881用于chrome SBX利用链的windows提权poc,曾经用于天府杯的chrome sbx部分 | https://github.com/dbgsymbol/windows_lpe_pocs/blob/main/cve-2022-21881-io_completion-poc.cpp| 
 | 20230117 | idek 2022* CTF task manager预期解rce部分的writeup | https://github.com/Myldero/ctf-writeups/tree/master/idekCTF%202022/task%20manager| 
-| 20230117 | r3kapig发布关于idek 2022* CTF取证部分的详细writeup | https://sec.today/pulses/81591b87-b420-476f-8c49-afa51cc03231/| 
-| 20230117 | Crypto - Finite Realm of Random Writeup by grhkm21 | https://sec.today/pulses/92408033-1f9e-42ad-956a-016805c6baef/| 
-| 20230117 | idek 2022* CTF Hardest Demon Bloodbath by Riot题目的writeup | https://sec.today/pulses/0195a0b3-6721-4236-b7ae-023fab555671/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230119T13:41:10Z | CVE-2022-47966 | POC for CVE-2022-47966 affecting multiple ManageEngine products | https://github.com/horizon3ai/CVE-2022-47966 | | 
-| 20230119T13:21:21Z | CVE-2022-45934 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934 | | 
-| 20230119T13:15:23Z | CVE-2023-23690 | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | | 
-| 20230119T13:15:19Z | CVE-2022-3738 | The vulnerability allows a remote unauthenticated attacker to download a backup file, if one exists. That backup file might contain sensitive information like credentials and cryptographic material. A valid user has to create a backup after the last reboot for this attack to be successfull. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3738 | | 
-| 20230119T12:47:48Z | CVE-2022-46463 | CVE-2022-46463(Harbor 未授权) | https://github.com/nu0l/CVE-2022-46463 | | 
-| 20230119T12:08:35Z | CVE-2023-0397 | A malicious / defect bluetooth controller can cause a Denial of Service due to unchecked input in le_read_buffer_size_complete. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0397 | | 
-| 20230119T12:08:31Z | CVE-2022-4892 | A vulnerability was found in MyCMS. It has been classified as problematic. This affects the function build_view of the file lib/gener/view.php of the component Visitors Module. The manipulation of the argument original/converted leads to cross site scripting. It is possible to initiate the attack remotely. The name of  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4892 | | 
-| 20230119T12:08:17Z | CVE-2023-0398 | Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0398 | | 
-| 20230119T11:50:21Z | CVE-2022-23521 | Truncated Allocation Leading to Out of Bounds Write Via Large Number of Attributes | https://github.com/0xDSousa/CVE-2022-23521 | | 
-| 20230119T11:08:52Z | CVE-2021-31800 | A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server. | https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write | | 
+| 20230120T00:14:51Z | CVE-2023-0126 | Pre-authentication path traversal vulnerability in SMA1000 firmware version 12.4.2, which allows an unauthenticated attacker to access arbitrary files and directories stored outside the web root directory. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0126 | | 
+| 20230120T00:14:48Z | CVE-2022-47766 | PopojiCMS v2.0.1 backend plugin function has a file upload vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47766 | | 
+| 20230120T00:14:44Z | CVE-2022-46890 | Weak access control in NexusPHP before 1.7.33 allows a remote authenticated user to edit any post in the forum (this is caused by a lack of checks performed by the /forums.php?action=post page). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46890 | | 
+| 20230120T00:14:40Z | CVE-2022-46889 | A persistent cross-site scripting (XSS) vulnerability in NexusPHP before 1.7.33 allows remote authenticated attackers to permanently inject arbitrary web script or HTML via the title parameter used in /subtitles.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46889 | | 
+| 20230120T00:14:36Z | CVE-2022-46888 | Multiple reflective cross-site scripting (XSS) vulnerabilities in NexusPHP before 1.7.33 allow remote attackers to inject arbitrary web script or HTML via the secret parameter in /login.php; q parameter in /user-ban-log.php; query parameter in /log.php; text parameter in /moresmiles.php; q parameter in myhr.php; or id  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46888 | | 
+| 20230120T00:14:32Z | CVE-2022-46887 | Multiple SQL injection vulnerabilities in NexusPHP before 1.7.33 allow remote attackers to execute arbitrary SQL commands via the conuser[] parameter in takeconfirm.php; the delcheater parameter in cheaterbox.php; or the usernw parameter in nowarn.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46887 | | 
+| 20230120T00:14:29Z | CVE-2023-22741 | Sofia-SIP is an open-source SIP User-Agent library, compliant with the IETF RFC3261 specification. In affected versions Sofia-SIP **lacks both message length and attributes length checks** when it handles STUN packets, leading to controllable heap-over-flow. For example, in stun_parse_attribute(), after we get the attr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22741 | | 
+| 20230119T22:03:20Z | CVE-2022-0863 | The WP SVG Icons WordPress plugin through 3.2.3 does not properly validate uploaded custom icon packs, allowing an high privileged user like an admin to upload a zip file containing malicious php code, leading to remote code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-0863 | | 
+| 20230119T22:02:26Z | CVE-2023-20522 | Insufficient input validation in ASP may allow an attacker with a malicious BIOS to potentially cause a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20522 | | 
+| 20230119T21:51:23Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T20:25:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10117 | 341| 
+| 20230119T20:00:59Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 197 | 1| 
+| 20230119T16:37:09Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
+| 20230119T14:50:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 50| 
 | 20230119T12:18:24Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 2 | 0| 
 | 20230119T10:15:34Z | A Max implementation of a shift register sequencer like the MTM Turing Machine or the Klee Sequencer | https://github.com/jakebeamish/max-shift-register-sequencer | 0 | 0| 
-| 20230119T06:05:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10114 | 341| 
-| 20230119T05:55:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 196 | 1| 
 | 20230118T23:02:27Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 69 | 6| 
 | 20230118T16:26:28Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 1 | 0| 
 | 20230118T06:47:11Z | Null | https://github.com/fafrincs/KLEE-FLOAT | 0 | 0| 
 | 20230116T05:26:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2140 | 604| 
-| 20230115T09:30:31Z | Null | https://github.com/klee30810/klee30810 | 2 | 0| 
-| 20230113T14:56:21Z | contains the code and data to accompany the publication of the pyKleeBarcode software (https://github.com/WandrilleD/pyKleeBarcode) | https://github.com/WandrilleD/pyKleeBarcode-publication-supporting-code-and-data | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230119T13:58:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12611 | 2163| 
-| 20230119T13:55:03Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/Suldue/Rust-Cheat | 0 | 0| 
-| 20230119T13:51:42Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/Suldue/HWID-Spoofer | 0 | 0| 
-| 20230119T13:47:39Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/Suldue/Fortnite-Softaim | 0 | 0| 
-| 20230119T13:44:08Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/Suldue/Fivem-Executor | 0 | 0| 
-| 20230119T13:41:32Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1719 | 218| 
-| 20230119T13:37:41Z | 🖱️ , AUTOCLICKER MADE FOR MINECRAFT , UNDETECTED , BYPASS LUNAR CLIENT AND MORE  | https://github.com/Suldue/Minecraft-Autoclicker | 0 | 0| 
-| 20230119T13:15:23Z | Cloud Mobility for Dell EMC Storage, versions 1.3.0.X and below contains an Improper Check for Certificate Revocation vulnerability. A threat actor does not need any specific privileges to potentially exploit this vulnerability. An attacker could perform a man-in-the-middle attack and eavesdrop on encrypted communicati CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23690 | 0 | 0| 
-| 20230119T12:44:06Z | Reverse Shell as a Service | https://github.com/lukechilds/reverse-shell | 1597 | 226| 
-| 20230119T12:03:23Z | Null | https://github.com/Lossless-Cash/exploit-db | 0 | 0| 
+| 20230120T00:21:59Z | Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities. | https://github.com/hipotermia/vaya-ciego-nen | 36 | 16| 
+| 20230120T00:15:31Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16314 | 0 | 0| 
+| 20230120T00:15:28Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16313 | 0 | 0| 
+| 20230120T00:15:24Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16316 | 0 | 0| 
+| 20230120T00:15:20Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16315 | 0 | 0| 
+| 20230120T00:15:16Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16317 | 0 | 0| 
+| 20230120T00:15:12Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16319 | 0 | 0| 
+| 20230120T00:15:09Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16318 | 0 | 0| 
+| 20230120T00:15:05Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16320 | 0 | 0| 
+| 20230119T23:33:51Z | A FiveM Cheat undetected (for now) feel free to add features, has esp aimbot and no recoil | https://github.com/BaraX0/FiveM-Cheat-ESP-Aim-and-Admin-exploit-mods | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T00:06:26Z | Un simple backdoor en bash , ejecutar en un entorno controlado o fuera de mi responsabilidad . | https://github.com/Yimb3r/Red-Socks | 0 | 0| 
+| 20230119T21:18:12Z | Null | https://github.com/wcenatus/backdoor-nextjs | 0 | 0| 
+| 20230119T19:20:25Z | Null | https://github.com/TheOrangeDev/IcedOutBackdoor | 0 | 0| 
+| 20230119T19:04:03Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 0 | 0| 
+| 20230119T17:29:09Z | NO BACKDOOR eth drainer + approve all for all nft drainer | https://github.com/C4lme/approveall-for-all-drainer | 56 | 26| 
+| 20230119T15:25:23Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7432 | 1770| 
+| 20230119T15:21:25Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/Android-Backdoor-EvilDroid | 0 | 0| 
 | 20230119T13:47:33Z | Automatic and dynamic Gmod lua backdoor | https://github.com/DoctorWhoFR/GBackDoor_API | 0 | 0| 
 | 20230119T12:47:43Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 27 | 2| 
-| 20230119T11:23:24Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7431 | 1770| 
 | 20230119T09:54:16Z | Anywhere is a powerful botnet that allows for the remote control of compromised devices | https://github.com/thisisnzed/Anywhere | 3 | 0| 
-| 20230119T09:48:21Z | A Basic 100% Python RAT | https://github.com/sirmilann/TempoRat | 2 | 1| 
-| 20230119T06:14:32Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 1 | 0| 
-| 20230119T02:23:49Z | Null | https://github.com/Gabriel160204/Backdoor-Reverse-Shell | 0 | 0| 
-| 20230118T23:09:05Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
-| 20230118T19:13:28Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 3 | 0| 
-| 20230118T15:01:24Z | This repository contains experiments for Masters Thesis of Computer Science on AGH University of Science. Topic of thesis was Attacks on image-processing neural networks. Backdoor patch attack was carried out on three neural networks trained with use of transfer learning. Attacks were launched with use of static and adaptive adversarial patches created with targeted deepfool algorithm.  | https://github.com/oreganko/Attacks-On-Image-Processing-Neural-Networks | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230119T22:42:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3345 | 671| 
+| 20230119T21:50:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8280 | 1808| 
+| 20230119T21:16:19Z | Null | https://github.com/zazaerr/fuzzy-system | 0 | 0| 
+| 20230119T20:12:34Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 2 | 0| 
 | 20230119T13:24:53Z | a web directory fuzzer with Go | https://github.com/CybersecSpirit/gofuzz | 0 | 0| 
 | 20230119T12:37:17Z | A backend framework for javascript | https://github.com/MohamedDerbali/FuzzyWuzzyJS | 0 | 0| 
 | 20230119T11:34:21Z | Movimento Robo com Multi-Layer Perceptron, Fuzzy e Prolog | https://github.com/LeonardoJunio/robo-ia-mlp-fuzzy-prolog | 0 | 0| 
 | 20230119T11:26:27Z | SPK dengan metode Fuzzy AHP | https://github.com/riyanandri/fuzzy_ahp | 0 | 0| 
 | 20230119T11:22:15Z | Null | https://github.com/jhibongh/fuzzy-journey | 0 | 0| 
 | 20230119T10:36:10Z | Null | https://github.com/chill-panda/fuzzy-rotary-phone.github.io | 0 | 0| 
-| 20230119T10:30:07Z | Framework for Structure Aware Fuzzing. Allows to build own stamps that would convert pulp-data that came from fuzzer to data with structure you need | https://github.com/postgrespro/libblobstamper | 10 | 0| 
-| 20230119T09:32:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4524 | 1096| 
-| 20230119T06:44:46Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 2524 | 360| 
-| 20230119T06:17:25Z | Esse repositório contém os códigos dos algoritmos  Gaussian Kernel Fuzzy Double K-Means (GKFDK), Gaussian Kernel Fuzzy Double K-Means Based on Global Adaptive Distance (GKFDK-GP) e Gaussian Kernel Fuzzy Double K-Means Based on Local Adaptive Distance (GKFDK-LP). Esses algoritmos são modelos de co-clustering. | https://github.com/Natandradesa/Kernel_Fuzzy_Co-clustering | 0 | 0| 
 
 
 
