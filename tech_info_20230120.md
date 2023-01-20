@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230120T13:23:10Z | Kumpulan Alat untuk Exploitasi. | https://github.com/Xcod3bughunt3r/ExploitsTools | 0 | 0| 
+| 20230120T13:29:06Z | Kumpulan Alat untuk Exploitasi. | https://github.com/Xcod3bughunt3r/ExploitsTools | 0 | 0| 
 | 20230120T11:35:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12619 | 2163| 
 | 20230120T11:30:05Z | walkthrough with working Exploits. I am also uploading the ELF to practise | https://github.com/whoami546/binary-exploitation-walkthroughs | 0 | 0| 
 | 20230120T11:18:23Z | Dell EMC PV ME5, versions ME5.1.0.0.0 and ME5.1.0.1.0, contains a Client-side desync Vulnerability. An unauthenticated attacker could potentially exploit this vulnerability to force a victim%s browser to desynchronize its connection with the website, typically leading to XSS and DoS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23691 | 0 | 0| 
