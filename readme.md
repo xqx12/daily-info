@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T13:54:10Z | Null | https://github.com/TINGWEIJING/Diabetes-Prediction-Using-Fuzzy-Logic | 0 | 0| 
 | 20230120T13:22:57Z | Null | https://github.com/pizzaaa-steeeve/fuzzy-palm | 0 | 0| 
 | 20230120T13:05:52Z | Opslagbestand | https://github.com/puppyguusje/fuzzy-disco | 0 | 0| 
 | 20230120T12:46:41Z | Null | https://github.com/JaxToon/Fuzzy-Logic-Mamdani | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20230120T11:06:37Z | Null | https://github.com/akashrane/Fuzzy_Logic_Room_Temperature_Prediction | 0 | 0| 
 | 20230120T11:06:24Z | Null | https://github.com/Prajwal-Jadhav/fuzzy-octo-bassoon | 0 | 0| 
 | 20230120T10:45:51Z | Null | https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io | 0 | 0| 
-| 20230120T10:26:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8282 | 1807| 
 
 
 
