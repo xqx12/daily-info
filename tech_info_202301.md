@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T01:45:19Z | Null | https://github.com/StefanVaylBX2023/Exploiting-Conservation-Laws | 0 | 0| 
 | 20230120T01:20:13Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16259 | 0 | 0| 
 | 20230120T00:21:59Z | Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities. | https://github.com/hipotermia/vaya-ciego-nen | 36 | 16| 
 | 20230120T00:15:31Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16314 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230120T00:15:16Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16317 | 0 | 0| 
 | 20230120T00:15:12Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16319 | 0 | 0| 
 | 20230120T00:15:09Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16318 | 0 | 0| 
-| 20230120T00:15:05Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16320 | 0 | 0| 
 
 
 # backdoor on Github 推荐
