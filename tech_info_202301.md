@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230120T13:54:10Z | Null | https://github.com/TINGWEIJING/Diabetes-Prediction-Using-Fuzzy-Logic | 0 | 0| 
+| 20230120T13:55:46Z | Null | https://github.com/TINGWEIJING/Diabetes-Prediction-Using-Fuzzy-Logic | 0 | 0| 
 | 20230120T13:22:57Z | Null | https://github.com/pizzaaa-steeeve/fuzzy-palm | 0 | 0| 
 | 20230120T13:05:52Z | Opslagbestand | https://github.com/puppyguusje/fuzzy-disco | 0 | 0| 
 | 20230120T12:46:41Z | Null | https://github.com/JaxToon/Fuzzy-Logic-Mamdani | 0 | 0| 
