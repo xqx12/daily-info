@@ -30,6 +30,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230120T13:31:06Z | CVE-2021-37500 | Directory traversal vulnerability in Reprise License Manager (RLM) web interface before 14.2BL4 in the diagnostics function that allows RLM users with sufficient privileges to overwrite any file the on the server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37500 | | 
+| 20230120T13:31:02Z | CVE-2021-37499 | CRLF vulnerability in Reprise License Manager (RLM) web interface through 14.2BL4 in the password parameter in View License Result function, that allows remote attackers to inject arbitrary HTTP headers. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37499 | | 
+| 20230120T13:30:58Z | CVE-2021-37498 | An SSRF issue was discovered in Reprise License Manager (RLM) web interface through 14.2BL4 that allows remote attackers to trigger outbound requests to intranet servers, conduct port scans via the actserver parameter in License Activation function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37498 | | 
 | 20230120T11:32:19Z | CVE-2023-23163 | Null | https://github.com/rahulpatwari/CVE-2023-23163 | | 
 | 20230120T11:31:37Z | CVE-2023-23162 | Null | https://github.com/rahulpatwari/CVE-2023-23162 | | 
 | 20230120T11:28:30Z | CVE-2023-23161 | Null | https://github.com/rahulpatwari/CVE-2023-23161 | | 
@@ -37,9 +40,6 @@
 | 20230120T11:18:42Z | CVE-2022-39186 | EXFO - BV-10 Performance Endpoint Unit misconfiguration. System configuration file has misconfigured permissions CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39186 | | 
 | 20230120T11:18:31Z | CVE-2023-0227 | Insufficient Session Expiration in GitHub repository pyload/pyload prior to 0.5.0b3.dev36. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0227 | | 
 | 20230120T11:18:27Z | CVE-2022-3437 | A heap-based buffer overflow vulnerability was found in Samba within the GSSAPI unwrap_des() and unwrap_des3() routines of Heimdal. The DES and Triple-DES decryption routines in the Heimdal GSSAPI library allow a length-limited write buffer overflow on malloc() allocated memory when presented with a maliciously small p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3437 | | 
-| 20230120T11:18:19Z | CVE-2023-23596 | jc21 NGINX Proxy Manager through 2.9.19 allows OS command injection. When creating an access list, the backend builds an htpasswd file with crafted username and/or password input that is concatenated without any validation, and is directly passed to the exec command, potentially allowing an authenticated attacker to ex CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23596 | | 
-| 20230120T11:18:15Z | CVE-2022-40267 | Predictable Seed in Pseudo-Random Number Generator (PRNG) vulnerability in Mitsubishi Electric Corporation MELSEC iQ-F Series FX5U-xMy/z (x=32,64,80, y=T,R, z=ES,DS,ESS,DSS) with serial number 17X**** or later, and versions 1.280 and prior, Mitsubishi Electric Corporation MELSEC iQ-F Series FX5U-xMy/z (x=32,64,80, y=T, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40267 | | 
-| 20230120T11:01:56Z | CVE-2022-41099 | Script to update Windows Recovery Environment to patch against CVE-2022-41099 | https://github.com/halsey51013/UpdateWindowsRE-CVE-2022-41099 | | 
 
 
 # klee on Github 推荐
