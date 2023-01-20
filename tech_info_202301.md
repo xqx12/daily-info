@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T01:34:13Z | Null | https://github.com/humpty99/jerryscript_fuzzing | 0 | 0| 
 | 20230120T01:08:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3346 | 671| 
 | 20230120T01:04:33Z | Null | https://github.com/aboumariam/fuzzy-guide | 0 | 0| 
 | 20230119T21:50:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8280 | 1808| 
@@ -154,7 +155,6 @@
 | 20230119T12:37:17Z | A backend framework for javascript | https://github.com/MohamedDerbali/FuzzyWuzzyJS | 0 | 0| 
 | 20230119T11:34:21Z | Movimento Robo com Multi-Layer Perceptron, Fuzzy e Prolog | https://github.com/LeonardoJunio/robo-ia-mlp-fuzzy-prolog | 0 | 0| 
 | 20230119T11:26:27Z | SPK dengan metode Fuzzy AHP | https://github.com/riyanandri/fuzzy_ahp | 0 | 0| 
-| 20230119T11:22:15Z | Null | https://github.com/jhibongh/fuzzy-journey | 0 | 0| 
 
 
 
