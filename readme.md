@@ -107,6 +107,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230119T21:16:19Z | Null | https://github.com/zazaerr/fuzzy-system | 0 | 0| 
+| 20230119T20:27:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3369 | 400| 
 | 20230119T20:12:34Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 2 | 0| 
 | 20230119T13:24:53Z | a web directory fuzzer with Go | https://github.com/CybersecSpirit/gofuzz | 0 | 0| 
 | 20230119T12:37:17Z | A backend framework for javascript | https://github.com/MohamedDerbali/FuzzyWuzzyJS | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230119T11:22:15Z | Null | https://github.com/jhibongh/fuzzy-journey | 0 | 0| 
 | 20230119T10:36:10Z | Null | https://github.com/chill-panda/fuzzy-rotary-phone.github.io | 0 | 0| 
 | 20230119T10:30:07Z | Framework for Structure Aware Fuzzing. Allows to build own stamps that would convert pulp-data that came from fuzzer to data with structure you need | https://github.com/postgrespro/libblobstamper | 10 | 0| 
-| 20230119T09:32:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4524 | 1096| 
 
 
 
