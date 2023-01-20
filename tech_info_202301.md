@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230120T01:20:24Z | CVE-2023-22745 | tpm2-tss is an open source software implementation of the Trusted Computing Group (TCG) Trusted Platform Module (TPM) 2 Software Stack (TSS2). In affected versions `Tss2_RC_SetHandler` and `Tss2_RC_Decode` both index into `layer_handler` with an 8 bit layer number, but the array only has `TPM2_ERROR_TSS2_RC_LAYER_COUNT CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22745 | | 
+| 20230120T01:20:20Z | CVE-2022-46476 | D-Link DIR-859 A1 1.05 was discovered to contain a command injection vulnerability via the service= variable in the soapcgi_main function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46476 | | 
+| 20230120T01:20:17Z | CVE-2022-31901 | Buffer overflow in function Notepad_plus::addHotSpot in Notepad++ v8.4.3 and earlier allows attackers to crash the application via two crafted files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31901 | | 
 | 20230120T00:14:51Z | CVE-2023-0126 | Pre-authentication path traversal vulnerability in SMA1000 firmware version 12.4.2, which allows an unauthenticated attacker to access arbitrary files and directories stored outside the web root directory. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0126 | | 
 | 20230120T00:14:48Z | CVE-2022-47766 | PopojiCMS v2.0.1 backend plugin function has a file upload vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47766 | | 
 | 20230120T00:14:44Z | CVE-2022-46890 | Weak access control in NexusPHP before 1.7.33 allows a remote authenticated user to edit any post in the forum (this is caused by a lack of checks performed by the /forums.php?action=post page). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46890 | | 
@@ -53,9 +56,6 @@
 | 20230120T00:14:36Z | CVE-2022-46888 | Multiple reflective cross-site scripting (XSS) vulnerabilities in NexusPHP before 1.7.33 allow remote attackers to inject arbitrary web script or HTML via the secret parameter in /login.php; q parameter in /user-ban-log.php; query parameter in /log.php; text parameter in /moresmiles.php; q parameter in myhr.php; or id  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46888 | | 
 | 20230120T00:14:32Z | CVE-2022-46887 | Multiple SQL injection vulnerabilities in NexusPHP before 1.7.33 allow remote attackers to execute arbitrary SQL commands via the conuser[] parameter in takeconfirm.php; the delcheater parameter in cheaterbox.php; or the usernw parameter in nowarn.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46887 | | 
 | 20230120T00:14:29Z | CVE-2023-22741 | Sofia-SIP is an open-source SIP User-Agent library, compliant with the IETF RFC3261 specification. In affected versions Sofia-SIP **lacks both message length and attributes length checks** when it handles STUN packets, leading to controllable heap-over-flow. For example, in stun_parse_attribute(), after we get the attr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22741 | | 
-| 20230119T22:03:20Z | CVE-2022-0863 | The WP SVG Icons WordPress plugin through 3.2.3 does not properly validate uploaded custom icon packs, allowing an high privileged user like an admin to upload a zip file containing malicious php code, leading to remote code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-0863 | | 
-| 20230119T22:02:26Z | CVE-2023-20522 | Insufficient input validation in ASP may allow an attacker with a malicious BIOS to potentially cause a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20522 | | 
-| 20230119T21:51:23Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T01:20:13Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16259 | 0 | 0| 
 | 20230120T00:21:59Z | Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities. | https://github.com/hipotermia/vaya-ciego-nen | 36 | 16| 
 | 20230120T00:15:31Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16314 | 0 | 0| 
 | 20230120T00:15:28Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16313 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230120T00:15:12Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16319 | 0 | 0| 
 | 20230120T00:15:09Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16318 | 0 | 0| 
 | 20230120T00:15:05Z | Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the %cc% channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-16320 | 0 | 0| 
-| 20230119T23:33:51Z | A FiveM Cheat undetected (for now) feel free to add features, has esp aimbot and no recoil | https://github.com/BaraX0/FiveM-Cheat-ESP-Aim-and-Admin-exploit-mods | 4 | 0| 
 
 
 # backdoor on Github 推荐
