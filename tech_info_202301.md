@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T13:05:52Z | Opslagbestand | https://github.com/puppyguusje/fuzzy-disco | 0 | 0| 
 | 20230120T12:46:41Z | Null | https://github.com/JaxToon/Fuzzy-Logic-Mamdani | 0 | 0| 
 | 20230120T12:43:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3347 | 671| 
 | 20230120T12:14:49Z | Null | https://github.com/0nespo/Fuzzy-Mandani-Classification | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230120T10:45:51Z | Null | https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io | 0 | 0| 
 | 20230120T10:26:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8282 | 1807| 
 | 20230120T10:20:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1874 | 243| 
-| 20230120T01:34:13Z | Null | https://github.com/humpty99/jerryscript_fuzzing | 0 | 0| 
 
 
 
