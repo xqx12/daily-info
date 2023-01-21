@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230121T02:08:30Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 | 20230121T01:58:03Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20230121T01:52:55Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20230121T01:09:16Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
@@ -55,7 +56,6 @@
 | 20230120T23:23:30Z | CVE-2023-23607 | erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23607 | | 
 | 20230120T23:23:27Z | CVE-2021-33642 | When a file is processed, an infinite loop occurs in next_inline() of the more_curly() function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33642 | | 
 | 20230120T23:23:23Z | CVE-2021-33641 | When processing files, malloc stores the data of the current line. When processing comments, malloc incorrectly accesses the released memory (use after free). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33641 | | 
-| 20230120T23:23:19Z | CVE-2020-25502 | Cybereason EDR version 19.1.282 and above, 19.2.182 and above, 20.1.343 and above, and 20.2.X and above has a DLL hijacking vulnerability, which could allow a local attacker to execute code with elevated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-25502 | | 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T02:08:30Z | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | 12 | 1| 
 | 20230121T01:58:03Z | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | 73 | 11| 
 | 20230121T01:52:55Z | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | 42 | 8| 
 | 20230121T01:43:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230120T23:03:39Z | While trying to hack into the HP DeskJet 2700 I found a way to cause a Denial of Service on the admin login page by changing the login cookie and the authorization token in each request | https://github.com/temoc1n/HP-DeskJet-2700-DoS-Exploit- | 1 | 0| 
 | 20230120T22:36:16Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 180 | 51| 
 | 20230120T22:35:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3325 | 640| 
-| 20230120T22:18:22Z | IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4343 | 0 | 0| 
 
 
 # backdoor on Github 推荐
