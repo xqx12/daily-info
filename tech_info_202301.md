@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T01:43:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 | 20230121T01:21:57Z | Null | https://github.com/AnthonyRP05/Exploit_binaire | 0 | 0| 
 | 20230121T00:12:02Z | NWEA Testing Exploits. | https://github.com/busks/NweaTestingTool | 1 | 0| 
 | 20230120T23:15:11Z | Null | https://github.com/GitHubUser12346457/Exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230120T22:18:22Z | IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4343 | 0 | 0| 
 | 20230120T22:18:11Z | A vulnerability, which was classified as problematic, was found in earclink ESPCMS P8.21120101. Affected is an unknown function of the component Content Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VD CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0246 | 0 | 0| 
 | 20230120T22:17:59Z | A vulnerability classified as critical was found in TuziCMS 2.0.6. This vulnerability affects the function delall of the file \App\Manage\Controller\KefuController.class.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public an CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0244 | 0 | 0| 
-| 20230120T13:29:06Z | Kumpulan Alat untuk Exploitasi. | https://github.com/Xcod3bughunt3r/ExploitsTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
