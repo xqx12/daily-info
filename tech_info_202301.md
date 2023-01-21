@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230121T01:52:55Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20230121T01:09:16Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
 | 20230120T23:23:42Z | CVE-2020-16145 | Roundcube Webmail before 1.3.15 and 1.4.8 allows stored XSS in HTML messages during message display via a crafted SVG document. This issue has been fixed in 1.4.8 and 1.3.15. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16145 | | 
 | 20230120T23:23:38Z | CVE-2020-15953 | LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15953 | | 
@@ -55,7 +56,6 @@
 | 20230120T23:23:23Z | CVE-2021-33641 | When processing files, malloc stores the data of the current line. When processing comments, malloc incorrectly accesses the released memory (use after free). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33641 | | 
 | 20230120T23:23:19Z | CVE-2020-25502 | Cybereason EDR version 19.1.282 and above, 19.2.182 and above, 20.1.343 and above, and 20.2.X and above has a DLL hijacking vulnerability, which could allow a local attacker to execute code with elevated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-25502 | | 
 | 20230120T23:23:09Z | CVE-2022-46732 | Even if the authentication fails for local service authentication, the requested command could still execute regardless of authentication status. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46732 | | 
-| 20230120T23:23:05Z | CVE-2023-24028 | In MISP 2.4.167, app/Controller/Component/ACLComponent.php has incorrect access control for the decaying import function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24028 | | 
 
 
 # klee on Github 推荐
