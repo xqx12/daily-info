@@ -108,9 +108,9 @@
 | 20230120T21:00:18Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 374 | 38| 
 | 20230120T20:56:02Z | Uni project for Machine Learning | https://github.com/adam-struharnansky/project_ml_fuzzy | 0 | 0| 
 | 20230120T17:14:18Z | Fuzz Distortion | https://github.com/revertcreations/fuzzywuzzy | 0 | 0| 
+| 20230120T14:25:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3372 | 400| 
 | 20230120T13:55:46Z | Null | https://github.com/TINGWEIJING/Diabetes-Prediction-Using-Fuzzy-Logic | 0 | 0| 
 | 20230120T13:22:57Z | Null | https://github.com/pizzaaa-steeeve/fuzzy-palm | 0 | 0| 
-| 20230120T13:05:52Z | Opslagbestand | https://github.com/puppyguusje/fuzzy-disco | 0 | 0| 
 
 
 
