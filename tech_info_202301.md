@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T13:58:16Z | Null | https://github.com/sadarxd/Backdoor-version-1 | 0 | 0| 
 | 20230121T13:57:45Z | Null | https://github.com/sadarxd/Backdoor-version-2 | 0 | 0| 
 | 20230121T13:51:56Z | code is written in oop java. | https://github.com/sadarxd/Backdoor | 0 | 0| 
 | 20230121T12:11:14Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2311 | 389| 
@@ -109,7 +110,6 @@
 | 20230120T17:38:05Z | Null | https://github.com/kaster-san/backdoors | 0 | 0| 
 | 20230120T16:56:02Z | Null | https://github.com/redflyingfish/passport_and_backdoor_DNN_watermark | 0 | 0| 
 | 20230120T14:00:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
-| 20230120T11:37:42Z | Anywhere is a powerful botnet that allows for the remote control of compromised devices | https://github.com/thisisnzed/Anywhere | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
