@@ -101,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T23:08:46Z | Fast approximate string matching. | https://github.com/tomukmatthews/fuzzy-lightning | 3 | 0| 
+| 20230120T22:47:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2639 | 180| 
+| 20230120T21:49:15Z | Null | https://github.com/gabycaballeroduran/fuzzy-invention | 0 | 0| 
+| 20230120T21:11:15Z | Revizor - a fuzzer that searches for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 40 | 18| 
+| 20230120T21:00:18Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 374 | 38| 
+| 20230120T20:56:02Z | Uni project for Machine Learning | https://github.com/adam-struharnansky/project_ml_fuzzy | 0 | 0| 
+| 20230120T17:14:18Z | Fuzz Distortion | https://github.com/revertcreations/fuzzywuzzy | 0 | 0| 
 | 20230120T13:55:46Z | Null | https://github.com/TINGWEIJING/Diabetes-Prediction-Using-Fuzzy-Logic | 0 | 0| 
 | 20230120T13:22:57Z | Null | https://github.com/pizzaaa-steeeve/fuzzy-palm | 0 | 0| 
 | 20230120T13:05:52Z | Opslagbestand | https://github.com/puppyguusje/fuzzy-disco | 0 | 0| 
-| 20230120T12:46:41Z | Null | https://github.com/JaxToon/Fuzzy-Logic-Mamdani | 0 | 0| 
-| 20230120T12:43:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3347 | 671| 
-| 20230120T12:14:49Z | Null | https://github.com/0nespo/Fuzzy-Mandani-Classification | 0 | 0| 
-| 20230120T12:00:58Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
-| 20230120T11:06:37Z | Null | https://github.com/akashrane/Fuzzy_Logic_Room_Temperature_Prediction | 0 | 0| 
-| 20230120T11:06:24Z | Null | https://github.com/Prajwal-Jadhav/fuzzy-octo-bassoon | 0 | 0| 
-| 20230120T10:45:51Z | Null | https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io | 0 | 0| 
 
 
 
