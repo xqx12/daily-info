@@ -145,8 +145,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T13:40:47Z | Solutions and explanations for the book %Fuzzy Sets & Fuzzy Logic: Theory and Applications by George J. Klir and Bo Yuan% | https://github.com/x-projekt/_fuzzy-sets-logic | 0 | 0| 
+| 20230121T13:39:39Z | Fuzzy Match lib in Cython. | https://github.com/SClovesgtx/CyFuzz | 0 | 0| 
 | 20230121T13:23:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8287 | 1807| 
-| 20230121T13:16:45Z | Solutions and explanations for the book %Fuzzy Sets & Fuzzy Logic: Theory and Applications by George J. Klir and Bo Yuan% | https://github.com/x-projekt/_fuzzy-sets-logic | 0 | 0| 
 | 20230121T12:18:42Z | Null | https://github.com/harunagatennis/TSK_fuzzy_diabetes | 0 | 0| 
 | 20230121T12:16:48Z | Null | https://github.com/harunagatennis/easy_tsk_fuzzy_diabetes | 0 | 0| 
 | 20230121T11:50:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4526 | 1096| 
@@ -154,7 +155,6 @@
 | 20230121T10:50:39Z | Null | https://github.com/NovikovVN/fuzzyML | 0 | 0| 
 | 20230121T09:49:22Z | Tugas Pemrograman 2 AI | https://github.com/mnaufalrifqir/TuPro2AI_Fuzzy-Logic-Algorithm | 0 | 0| 
 | 20230121T01:29:29Z | Null | https://github.com/joyceohiri1/fuzzy-octo-rotary-phone | 0 | 0| 
-| 20230120T23:08:46Z | Fast approximate string matching. | https://github.com/tomukmatthews/fuzzy-lightning | 3 | 0| 
 
 
 
