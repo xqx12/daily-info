@@ -20,12 +20,12 @@
 | 20230120 | CVE-2023-22809:sudoedit中存在一个有意思的逻辑漏洞,sudoedit通过sudo_edith函数中--来判断文件列表进而影响执行的command_details,同时find_editorh函数会从EDITOR,SUDO_EDITOR,EDITOR环境变量中提取信息,并且调用resolve_editor函数进行解析,resolve_editor函数既解析了编辑器的路径,还解析了以--为分割的参数.而如果在环境变量中加入--,则在最后的执行命令中造成了命令行的混淆,让sudo认为--”参数之后的所有内容都视为要编辑的文件.从而可以利用这个漏洞去编辑任意敏感文件以达到提权的目的 | https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf| 
 | 20230120 | 在新版Linux内核中利用空指针引用 | https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html| 
 | 20230120 | EmojiDeploy:影响Azure web服务的RCE,其主要通过SCM服务 Kudu上的CSRF漏洞将带有恶意载荷的zip部署到Azure,再调用相关的功能从zip部署代码实现rce | http://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced| 
+| 20230120 | 解析BackgroundItems-v4.btm中的启动项信息,可用于MacOS的取证 | https://github.com/objective-see/DumpBTM/| 
 | 20230119 | viettel安全的名为vudq4的安全研究员发布关于CVE-2022-21587 (Oracle E-Business Suite 未授权RCE)的细节.其主要通过oracle.apps.bne.framework.BneMultipartRequest中的doUploadFile函数,其处理文件名带有uue的文件时候会调用doUnZip,而该函数容易遭到ZipSlip的攻击造成文件上传.同时也介绍了如何编写可以在其工作的webshell,但是由于oracle.apps.fnd.security.WLFilter的限制.所以只能去考虑如何覆盖pl来进行执行,由于所有经过pl的都会经过weblogic.servlet.CGIServlet在调试的可以发现一个不重要的文件txkFNDWRR.pl(作用只有生成log),通过覆盖来实现webshell,完成RCE | https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/| 
 | 20230119 | Firefox 在野0day漏洞分析,CVE-2022-26485(RCE)+CVE-2022-26486(SBX) | https://weiyiling.cn/one/firefox_0day_case_analysis| 
 | 20230119 | 如何利用本地提权漏洞（CVE-2021-3490）实现在5.15 之前的 Linux 内核版本进行容器逃逸。 | https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/| 
 | 20230119 | pksecurity发布其在pwn2own 2022使用的microsoft teams rce | http://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html| 
 | 20230119 | Linux 6.3 将在 AMD 锐龙 CPU 上支持 Pluton 的命令响应缓冲区 CRB 以及受信任平台模块 TPM2 | https://www.phoronix.com/news/Linux-6.3-CRB-TPM2-Pluton| 
-| 20230119 | APT15使用Turian以及其变体针对Iran的活动分析 | https://unit42.paloaltonetworks.com/playful-taurus/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230120T13:31:06Z | CVE-2021-37500 | Directory traversal vulnerability in Reprise License Manager (RLM) web interface before 14.2BL4 in the diagnostics function that allows RLM users with sufficient privileges to overwrite any file the on the server. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37500 | | 
-| 20230120T13:31:02Z | CVE-2021-37499 | CRLF vulnerability in Reprise License Manager (RLM) web interface through 14.2BL4 in the password parameter in View License Result function, that allows remote attackers to inject arbitrary HTTP headers. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37499 | | 
-| 20230120T13:30:58Z | CVE-2021-37498 | An SSRF issue was discovered in Reprise License Manager (RLM) web interface through 14.2BL4 that allows remote attackers to trigger outbound requests to intranet servers, conduct port scans via the actserver parameter in License Activation function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-37498 | | 
-| 20230120T11:32:19Z | CVE-2023-23163 | Null | https://github.com/rahulpatwari/CVE-2023-23163 | | 
-| 20230120T11:31:37Z | CVE-2023-23162 | Null | https://github.com/rahulpatwari/CVE-2023-23162 | | 
-| 20230120T11:28:30Z | CVE-2023-23161 | Null | https://github.com/rahulpatwari/CVE-2023-23161 | | 
-| 20230120T11:18:46Z | CVE-2022-4616 | The webserver in Delta DX-3021 versions prior to 1.24 is vulnerable to command injection through the network diagnosis page. This vulnerability could allow a remote unauthenticated user to add files, delete files, and change file permissions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4616 | | 
-| 20230120T11:18:42Z | CVE-2022-39186 | EXFO - BV-10 Performance Endpoint Unit misconfiguration. System configuration file has misconfigured permissions CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39186 | | 
-| 20230120T11:18:31Z | CVE-2023-0227 | Insufficient Session Expiration in GitHub repository pyload/pyload prior to 0.5.0b3.dev36. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0227 | | 
-| 20230120T11:18:27Z | CVE-2022-3437 | A heap-based buffer overflow vulnerability was found in Samba within the GSSAPI unwrap_des() and unwrap_des3() routines of Heimdal. The DES and Triple-DES decryption routines in the Heimdal GSSAPI library allow a length-limited write buffer overflow on malloc() allocated memory when presented with a maliciously small p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-3437 | | 
+| 20230120T23:23:42Z | CVE-2020-16145 | Roundcube Webmail before 1.3.15 and 1.4.8 allows stored XSS in HTML messages during message display via a crafted SVG document. This issue has been fixed in 1.4.8 and 1.3.15. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16145 | | 
+| 20230120T23:23:38Z | CVE-2020-15953 | LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15953 | | 
+| 20230120T23:23:34Z | CVE-2023-24025 | CRYSTALS-DILITHIUM (in Post-Quantum Cryptography Selected Algorithms 2022) in PQClean d03da30 may allow universal forgeries of digital signatures via a template side-channel attack because of intermediate data leakage of one vector. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24025 | | 
+| 20230120T23:23:30Z | CVE-2023-23607 | erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23607 | | 
+| 20230120T23:23:27Z | CVE-2021-33642 | When a file is processed, an infinite loop occurs in next_inline() of the more_curly() function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33642 | | 
+| 20230120T23:23:23Z | CVE-2021-33641 | When processing files, malloc stores the data of the current line. When processing comments, malloc incorrectly accesses the released memory (use after free). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33641 | | 
+| 20230120T23:23:19Z | CVE-2020-25502 | Cybereason EDR version 19.1.282 and above, 19.2.182 and above, 20.1.343 and above, and 20.2.X and above has a DLL hijacking vulnerability, which could allow a local attacker to execute code with elevated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-25502 | | 
+| 20230120T23:23:09Z | CVE-2022-46732 | Even if the authentication fails for local service authentication, the requested command could still execute regardless of authentication status. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46732 | | 
+| 20230120T23:23:05Z | CVE-2023-24028 | In MISP 2.4.167, app/Controller/Component/ACLComponent.php has incorrect access control for the decaying import function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24028 | | 
+| 20230120T23:23:01Z | CVE-2023-24027 | In MISP 2.4.167, app/webroot/js/action_table.js allows XSS via a network history name. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24027 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T18:52:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10123 | 341| 
 | 20230120T12:19:04Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 198 | 1| 
-| 20230120T12:07:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10120 | 341| 
 | 20230119T16:37:09Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
 | 20230119T14:50:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 50| 
 | 20230119T12:18:24Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 2 | 0| 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T00:12:02Z | NWEA Testing Exploits. | https://github.com/busks/NweaTestingTool | 1 | 0| 
+| 20230120T23:15:11Z | Null | https://github.com/GitHubUser12346457/Exploit | 0 | 0| 
+| 20230120T23:03:39Z | While trying to hack into the HP DeskJet 2700 I found a way to cause a Denial of Service on the admin login page by changing the login cookie and the authorization token in each request | https://github.com/temoc1n/HP-DeskJet-2700-DoS-Exploit- | 1 | 0| 
+| 20230120T22:36:16Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 180 | 51| 
+| 20230120T22:35:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3325 | 640| 
+| 20230120T22:18:22Z | IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4343 | 0 | 0| 
+| 20230120T22:18:11Z | A vulnerability, which was classified as problematic, was found in earclink ESPCMS P8.21120101. Affected is an unknown function of the component Content Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VD CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0246 | 0 | 0| 
+| 20230120T22:17:59Z | A vulnerability classified as critical was found in TuziCMS 2.0.6. This vulnerability affects the function delall of the file \App\Manage\Controller\KefuController.class.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public an CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0244 | 0 | 0| 
 | 20230120T13:29:06Z | Kumpulan Alat untuk Exploitasi. | https://github.com/Xcod3bughunt3r/ExploitsTools | 0 | 0| 
 | 20230120T11:35:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12619 | 2163| 
-| 20230120T11:30:05Z | walkthrough with working Exploits. I am also uploading the ELF to practise | https://github.com/whoami546/binary-exploitation-walkthroughs | 0 | 0| 
-| 20230120T11:18:23Z | Dell EMC PV ME5, versions ME5.1.0.0.0 and ME5.1.0.1.0, contains a Client-side desync Vulnerability. An unauthenticated attacker could potentially exploit this vulnerability to force a victim%s browser to desynchronize its connection with the website, typically leading to XSS and DoS. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23691 | 0 | 0| 
-| 20230120T11:17:15Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 30 | 3| 
-| 20230120T10:59:53Z | CTF Writeups from exploit-education | https://github.com/programmer838/Exploit-Education-Writeups | 0 | 0| 
-| 20230120T10:41:22Z | venos is a tool for looking inside code exploiting it executing commands and more | https://github.com/abrahamlinconinhindi/venos | 0 | 0| 
-| 20230120T10:29:05Z | Everything you need to build and run Linux and Android kernels for exploit development | https://github.com/gsingh93/linux-exploit-dev-env | 6 | 0| 
-| 20230120T06:45:54Z | Improvement for Thaumaturge Exploit Vulnerability | https://github.com/mysurvive/pf2e-thaum-vuln | 1 | 0| 
-| 20230120T02:55:28Z | MyBB 1.8.32 - Chained LFI Remote Code Execution (RCE) (Authenticated) python exploit script... | https://github.com/FDlucifer/mybb_1832_LFI_RCE | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230120T12:09:08Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2281 | 385| 
+| 20230120T23:59:06Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2298 | 387| 
+| 20230120T23:02:38Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 31 | 3| 
+| 20230120T17:38:05Z | Null | https://github.com/kaster-san/backdoors | 0 | 0| 
+| 20230120T16:56:02Z | Null | https://github.com/redflyingfish/passport_and_backdoor_DNN_watermark | 0 | 0| 
+| 20230120T14:00:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230120T11:37:42Z | Anywhere is a powerful botnet that allows for the remote control of compromised devices | https://github.com/thisisnzed/Anywhere | 4 | 0| 
-| 20230120T11:17:15Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 30 | 3| 
 | 20230120T08:21:56Z | Null | https://github.com/TheOrangeDev/IcedOutBackdoor | 0 | 0| 
 | 20230120T07:00:32Z | Null | https://github.com/SohamRoy05/Python-Backdoor | 0 | 0| 
-| 20230120T05:07:34Z | Null | https://github.com/redflyingfish/passport_and_backdoor_DNN_watermark | 0 | 0| 
 | 20230120T00:06:26Z | Un simple backdoor en bash , ejecutar en un entorno controlado o fuera de mi responsabilidad . | https://github.com/Yimb3r/Red-Socks | 0 | 0| 
 | 20230119T21:18:12Z | Null | https://github.com/wcenatus/backdoor-nextjs | 0 | 0| 
-| 20230119T19:04:03Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 0 | 0| 
-| 20230119T17:29:09Z | NO BACKDOOR eth drainer + approve all for all nft drainer | https://github.com/C4lme/approveall-for-all-drainer | 56 | 26| 
 
 
 # symbolic execution on Github 推荐
