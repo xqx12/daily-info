@@ -88,7 +88,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230120T12:04:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3277 | 466| 
+| 20230120T19:03:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3278 | 466| 
 | 20230120T09:37:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 311 | 24| 
 | 20230120T07:17:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 290 | 67| 
 

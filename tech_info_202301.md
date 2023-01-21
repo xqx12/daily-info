@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230121T01:02:01Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
 | 20230120T23:23:42Z | CVE-2020-16145 | Roundcube Webmail before 1.3.15 and 1.4.8 allows stored XSS in HTML messages during message display via a crafted SVG document. This issue has been fixed in 1.4.8 and 1.3.15. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16145 | | 
 | 20230120T23:23:38Z | CVE-2020-15953 | LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15953 | | 
 | 20230120T23:23:34Z | CVE-2023-24025 | CRYSTALS-DILITHIUM (in Post-Quantum Cryptography Selected Algorithms 2022) in PQClean d03da30 may allow universal forgeries of digital signatures via a template side-channel attack because of intermediate data leakage of one vector. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24025 | | 
@@ -55,7 +56,6 @@
 | 20230120T23:23:19Z | CVE-2020-25502 | Cybereason EDR version 19.1.282 and above, 19.2.182 and above, 20.1.343 and above, and 20.2.X and above has a DLL hijacking vulnerability, which could allow a local attacker to execute code with elevated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-25502 | | 
 | 20230120T23:23:09Z | CVE-2022-46732 | Even if the authentication fails for local service authentication, the requested command could still execute regardless of authentication status. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46732 | | 
 | 20230120T23:23:05Z | CVE-2023-24028 | In MISP 2.4.167, app/Controller/Component/ACLComponent.php has incorrect access control for the decaying import function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24028 | | 
-| 20230120T23:23:01Z | CVE-2023-24027 | In MISP 2.4.167, app/webroot/js/action_table.js allows XSS via a network history name. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24027 | | 
 
 
 # klee on Github 推荐
@@ -115,7 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230120T12:04:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3277 | 466| 
+| 20230120T19:03:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3278 | 466| 
 | 20230120T09:37:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 311 | 24| 
 | 20230120T07:17:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 290 | 67| 
 | 20230119T13:02:43Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 2 | 0| 
