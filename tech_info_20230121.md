@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T13:34:59Z | Null | https://github.com/pro-rat/CRAXS-RAT-V3 | 0 | 0| 
 | 20230121T13:25:00Z | Null | https://github.com/404PageN0tFound/RobloxExploits | 0 | 0| 
 | 20230121T11:58:20Z | Personal blog | https://github.com/ByteExploiter/ByteExploiter.GitHub.io | 0 | 0| 
 | 20230121T10:33:47Z | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20230121T08:59:54Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/CommonK/AutoFarm-SonicSpeed-Exploit | 16 | 0| 
 | 20230121T08:59:11Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/kurupacceu/Roblox-NYveeee-Private-Exploit-Leak3D | 16 | 0| 
 | 20230121T08:59:06Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/kurupacceu/DF2-DeaD-Frontier2-PrivateCheat | 16 | 0| 
-| 20230121T02:53:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 
 
 # backdoor on Github 推荐
