@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230121T02:14:19Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20230121T02:08:30Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 | 20230121T01:58:03Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20230121T01:52:55Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
@@ -55,7 +56,6 @@
 | 20230120T23:23:34Z | CVE-2023-24025 | CRYSTALS-DILITHIUM (in Post-Quantum Cryptography Selected Algorithms 2022) in PQClean d03da30 may allow universal forgeries of digital signatures via a template side-channel attack because of intermediate data leakage of one vector. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24025 | | 
 | 20230120T23:23:30Z | CVE-2023-23607 | erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23607 | | 
 | 20230120T23:23:27Z | CVE-2021-33642 | When a file is processed, an infinite loop occurs in next_inline() of the more_curly() function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33642 | | 
-| 20230120T23:23:23Z | CVE-2021-33641 | When processing files, malloc stores the data of the current line. When processing comments, malloc incorrectly accesses the released memory (use after free). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33641 | | 
 
 
 # klee on Github 推荐
