@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T01:58:03Z | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | 73 | 11| 
 | 20230121T01:52:55Z | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | 42 | 8| 
 | 20230121T01:43:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 | 20230121T01:21:57Z | Null | https://github.com/AnthonyRP05/Exploit_binaire | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230120T22:36:16Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 180 | 51| 
 | 20230120T22:35:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3325 | 640| 
 | 20230120T22:18:22Z | IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-4343 | 0 | 0| 
-| 20230120T22:18:11Z | A vulnerability, which was classified as problematic, was found in earclink ESPCMS P8.21120101. Affected is an unknown function of the component Content Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VD CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0246 | 0 | 0| 
 
 
 # backdoor on Github 推荐
