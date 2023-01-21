@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T02:53:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 | 20230121T02:14:19Z | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | 6 | 3| 
 | 20230121T02:08:30Z | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | 12 | 1| 
 | 20230121T01:58:03Z | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | 73 | 11| 
 | 20230121T01:52:55Z | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | 42 | 8| 
-| 20230121T01:43:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 | 20230121T01:21:57Z | Null | https://github.com/AnthonyRP05/Exploit_binaire | 0 | 0| 
 | 20230121T00:12:02Z | NWEA Testing Exploits. | https://github.com/busks/NweaTestingTool | 1 | 0| 
 | 20230120T23:20:11Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 166 | 20| 
