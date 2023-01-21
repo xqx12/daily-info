@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230120T23:20:11Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 166 | 20| 
 | 20230120T23:15:11Z | Null | https://github.com/GitHubUser12346457/Exploit | 0 | 0| 
 | 20230120T23:03:39Z | While trying to hack into the HP DeskJet 2700 I found a way to cause a Denial of Service on the admin login page by changing the login cookie and the authorization token in each request | https://github.com/temoc1n/HP-DeskJet-2700-DoS-Exploit- | 1 | 0| 
 | 20230120T22:36:16Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 180 | 51| 
@@ -68,7 +69,6 @@
 | 20230120T22:17:59Z | A vulnerability classified as critical was found in TuziCMS 2.0.6. This vulnerability affects the function delall of the file \App\Manage\Controller\KefuController.class.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public an CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0244 | 0 | 0| 
 | 20230120T13:29:06Z | Kumpulan Alat untuk Exploitasi. | https://github.com/Xcod3bughunt3r/ExploitsTools | 0 | 0| 
 | 20230120T11:35:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12619 | 2163| 
-| 20230120T11:30:05Z | walkthrough with working Exploits. I am also uploading the ELF to practise | https://github.com/whoami546/binary-exploitation-walkthroughs | 0 | 0| 
 
 
 # backdoor on Github 推荐

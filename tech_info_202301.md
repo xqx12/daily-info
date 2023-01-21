@@ -91,16 +91,16 @@
 | 20230121T01:43:17Z | Paper: Exploiting Superpixel-based Contextual Information on Active Learning for High Spatial Resolution Remote Sensing Image Classification | https://github.com/Jaychan-Tang/SNSSL | 0 | 0| 
 | 20230121T01:21:57Z | Null | https://github.com/AnthonyRP05/Exploit_binaire | 0 | 0| 
 | 20230121T00:12:02Z | NWEA Testing Exploits. | https://github.com/busks/NweaTestingTool | 1 | 0| 
+| 20230120T23:20:11Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 166 | 20| 
 | 20230120T23:15:11Z | Null | https://github.com/GitHubUser12346457/Exploit | 0 | 0| 
 | 20230120T23:03:39Z | While trying to hack into the HP DeskJet 2700 I found a way to cause a Denial of Service on the admin login page by changing the login cookie and the authorization token in each request | https://github.com/temoc1n/HP-DeskJet-2700-DoS-Exploit- | 1 | 0| 
 | 20230120T22:36:16Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 180 | 51| 
-| 20230120T22:35:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3325 | 640| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230121T02:06:04Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2299 | 387| 
+| 20230121T02:09:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2300 | 387| 
 | 20230120T23:02:38Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 31 | 3| 
 | 20230120T17:38:05Z | Null | https://github.com/kaster-san/backdoors | 0 | 0| 
 | 20230120T16:56:02Z | Null | https://github.com/redflyingfish/passport_and_backdoor_DNN_watermark | 0 | 0| 
