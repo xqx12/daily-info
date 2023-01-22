@@ -94,8 +94,8 @@
 | 20230121T22:35:28Z | Null | https://github.com/srcdslab/sm-plugin-FixSprayExploit | 1 | 1| 
 | 20230121T21:41:51Z | exploit | https://github.com/vbrexploits/eakfucker | 0 | 0| 
 | 20230121T21:09:12Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 1 | 0| 
+| 20230121T15:30:10Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 160 | 2| 
 | 20230121T13:43:59Z | Null | https://github.com/404PageN0tFound/RobloxExploits | 1 | 0| 
-| 20230121T13:34:59Z | Null | https://github.com/pro-rat/CRAXS-RAT-V3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
