@@ -95,7 +95,7 @@
 | 20230122T10:14:13Z | Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 0 | 0| 
 | 20230122T10:12:47Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
 | 20230122T05:36:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12629 | 2164| 
-| 20230122T02:44:49Z | A Python module to manage the C2 of machines during post-exploitation. | https://github.com/cyberphor/FOXDIE | 0 | 0| 
+| 20230122T04:00:04Z | Null | https://github.com/LuckyBlockExploits/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -104,7 +104,7 @@
 | 20230122T12:46:07Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2318 | 390| 
 | 20230122T11:31:11Z | keylogger搭載してるというか、それに特化したハッキングツール。 | https://github.com/ware255/yuki | 3 | 0| 
 | 20230122T10:00:07Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
-| 20230122T09:57:15Z | RDP/VPS Tools by FHNirob | https://github.com/fhnirob888/RDP-VPS-Tools | 0 | 0| 
+| 20230122T09:57:15Z | RDP/VPS Tools by FHNirob | https://github.com/fhnirob888/RDP-VPS-Tools | 0 | 1| 
 | 20230121T23:58:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 107 | 26| 
 | 20230121T21:05:58Z | Null | https://github.com/Backdoorislife/https-github.com-checkpoint-soyhenry-org-2023-01-21-Backdoorislife | 0 | 0| 
 | 20230121T16:17:25Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
