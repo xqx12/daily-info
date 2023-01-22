@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230122T02:20:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8290 | 1807| 
+| 20230122T12:56:25Z | Null | https://github.com/AidenStripes/fuzzy-memory | 0 | 0| 
+| 20230122T12:30:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8292 | 1808| 
+| 20230122T10:09:05Z | Null | https://github.com/uofthacksx-dream-team/fuzzy-fusion | 1 | 0| 
+| 20230122T05:46:22Z | Null | https://github.com/belgranomanuela/fuzzyChallenge | 1 | 0| 
 | 20230122T00:30:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1229 | 164| 
 | 20230121T22:46:34Z | Just Crazy... | https://github.com/Algebra0001/fuzzy-waddle | 0 | 0| 
 | 20230121T22:08:42Z | Floating ball controller is about floating a ball in the middle of a plastic tube using a computer cooling fan. The controller measures speed and distance using ultrasonic range sensor. This controller uses fuzzy logic rules to control the fan. This project helps could be applied to industrial applications like car speed cruiser. | https://github.com/ShahdayBhai/Floating-Ball-Using-Fuzzy-Logic-Controller | 0 | 0| 
 | 20230121T21:48:25Z | Fuzzed for the door puzzle in Blackwater / Pathfinder wrath of the righteous | https://github.com/kristianwiklund/pf_fuzzer | 0 | 0| 
 | 20230121T21:00:32Z | Web Fuzzing para descobrir arquivos escondidos dentro do WebSite - File Exposure e Hidden Files | https://github.com/GuilhermeAMonte/WebFuzzing | 0 | 0| 
 | 20230121T20:50:41Z | Null | https://github.com/l1gh7w34ver/basic_fuzz_test | 0 | 0| 
-| 20230121T20:32:41Z | Null | https://github.com/belgranomanuela/fuzzyChallenge | 1 | 0| 
-| 20230121T13:40:47Z | Solutions and explanations for the book %Fuzzy Sets & Fuzzy Logic: Theory and Applications by George J. Klir and Bo Yuan% | https://github.com/x-projekt/_fuzzy-sets-logic | 0 | 0| 
-| 20230121T13:39:39Z | Fuzzy Match lib in Cython. | https://github.com/SClovesgtx/CyFuzz | 0 | 0| 
 
 
 
