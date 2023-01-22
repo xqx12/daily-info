@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230122T13:40:53Z | This Python library clears posted data from invalid symbols to prevent SQL injection. | https://github.com/crypton1871/ExploitPatch | 0 | 0| 
 | 20230122T13:10:08Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 64 | 36| 
 | 20230122T12:15:38Z | Gixa X is a free and simple executor for roblox exploits. !Make Sure To Read The README File Before Using The Exploiter! | https://github.com/LingonJR/Giga-X | 0 | 0| 
 | 20230122T12:12:29Z | RobloxExploits provides tons of exploits to have fun with. | https://github.com/404PageN0tFound/RobloxExploits | 2 | 0| 
@@ -95,7 +96,6 @@
 | 20230122T10:12:47Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
 | 20230122T05:36:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12629 | 2164| 
 | 20230122T02:44:49Z | A Python module to manage the C2 of machines during post-exploitation. | https://github.com/cyberphor/FOXDIE | 0 | 0| 
-| 20230122T01:11:34Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 56 | 4| 
 
 
 # backdoor on Github 推荐
