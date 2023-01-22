@@ -24,10 +24,10 @@
 | 20230121T19:03:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20230121T18:10:26Z | CVE-2023-0433 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.1225. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0433 | | 
 | 20230121T15:52:37Z | CVE-2023-22809 | A script to automate privilege escalation with CVE-2023-22809 vulnerability | https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc | | 
-| 20230121T14:53:53Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
 | 20230121T10:33:47Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 | 20230121T07:10:05Z | CVE-2023-24038 | The HTML-StripScripts module through 1.06 for Perl allows _hss_attval_style ReDoS because of catastrophic backtracking for HTML content with certain style attributes. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24038 | | 
 | 20230121T07:10:01Z | CVE-2020-36655 | Yii Yii2 Gii before 2.2.2 allows remote attackers to execute arbitrary code via the Generator.php messageCategory field. The attacker can embed arbitrary PHP code into the model file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36655 | | 
+| 20230121T07:09:58Z | CVE-2023-24042 | A race condition in LightFTP through 2.2 allows an attacker to achieve path traversal via a malformed FTP request. A handler thread can use an overwritten context->FileName. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24042 | | 
 
 
 # klee on Github 推荐

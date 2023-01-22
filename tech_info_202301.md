@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230122T01:50:10Z | CVE-2022-1388 | CVE-2022-1388 Scanner | https://github.com/EvilLizard666/CVE-2022-1388 | | 
+| 20230122T01:50:00Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
 | 20230121T22:40:58Z | CVE-2021-20294 | Simple CVE-2021-20294 poc | https://github.com/tin-z/CVE-2021-20294-POC | | 
 | 20230121T22:06:39Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
 | 20230121T21:26:32Z | CVE-2023-22617 | A remote attacker might be able to cause infinite recursion in PowerDNS Recursor 4.8.0 via a DNS query that retrieves DS records for a misconfigured domain, because QName minimization is used in QM fallback mode. This is fixed in 4.8.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22617 | | 
 | 20230121T19:03:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20230121T18:10:26Z | CVE-2023-0433 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.1225. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0433 | | 
 | 20230121T15:52:37Z | CVE-2023-22809 | A script to automate privilege escalation with CVE-2023-22809 vulnerability | https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc | | 
-| 20230121T14:53:53Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
 | 20230121T10:33:47Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 | 20230121T07:10:05Z | CVE-2023-24038 | The HTML-StripScripts module through 1.06 for Perl allows _hss_attval_style ReDoS because of catastrophic backtracking for HTML content with certain style attributes. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24038 | | 
-| 20230121T07:10:01Z | CVE-2020-36655 | Yii Yii2 Gii before 2.2.2 allows remote attackers to execute arbitrary code via the Generator.php messageCategory field. The attacker can embed arbitrary PHP code into the model file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36655 | | 
 
 
 # klee on Github 推荐
