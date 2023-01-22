@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230122T01:11:34Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 56 | 4| 
 | 20230121T23:48:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20230121T23:46:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20230121T23:45:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hy | 1 | 0| 
-| 20230121T23:43:39Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 55 | 4| 
 | 20230121T23:37:19Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 145| 
 | 20230121T22:35:28Z | Null | https://github.com/srcdslab/sm-plugin-FixSprayExploit | 1 | 1| 
 | 20230121T21:41:51Z | exploit | https://github.com/vbrexploits/eakfucker | 0 | 0| 

@@ -50,13 +50,13 @@
 | 20230121T23:48:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20230121T23:46:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20230121T23:45:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hy | 1 | 0| 
-| 20230121T23:43:39Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 55 | 4| 
 | 20230121T23:37:19Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 145| 
 | 20230121T22:35:28Z | Null | https://github.com/srcdslab/sm-plugin-FixSprayExploit | 1 | 1| 
 | 20230121T21:41:51Z | exploit | https://github.com/vbrexploits/eakfucker | 0 | 0| 
 | 20230121T21:09:12Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 1 | 0| 
 | 20230121T13:43:59Z | Null | https://github.com/404PageN0tFound/RobloxExploits | 1 | 0| 
 | 20230121T13:34:59Z | Null | https://github.com/pro-rat/CRAXS-RAT-V3 | 0 | 0| 
+| 20230121T11:58:20Z | Personal blog | https://github.com/ByteExploiter/ByteExploiter.GitHub.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
