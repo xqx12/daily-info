@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230122T02:44:49Z | A Python module to manage the C2 of machines during post-exploitation. | https://github.com/cyberphor/FOXDIE | 0 | 0| 
 | 20230122T01:11:34Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 56 | 4| 
 | 20230121T23:48:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20230121T23:46:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230121T21:41:51Z | exploit | https://github.com/vbrexploits/eakfucker | 0 | 0| 
 | 20230121T21:09:12Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 1 | 0| 
 | 20230121T15:30:10Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 160 | 2| 
-| 20230121T13:43:59Z | Null | https://github.com/404PageN0tFound/RobloxExploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
