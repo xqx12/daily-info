@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230122T13:40:53Z | This Python library clears posted data from invalid symbols to prevent SQL injection. | https://github.com/crypton1871/ExploitPatch | 0 | 0| 
+| 20230122T13:42:14Z | This Python library clears posted data from invalid symbols to prevent SQL injection. | https://github.com/crypton1871/ExploitPatch | 1 | 0| 
 | 20230122T13:10:08Z | 🔫 ・Valorant Cheat External Public , Aimbot + Esp + Skin Changers  | https://github.com/Slackes/Valorant.External | 64 | 36| 
 | 20230122T12:15:38Z | Gixa X is a free and simple executor for roblox exploits. !Make Sure To Read The README File Before Using The Exploiter! | https://github.com/LingonJR/Giga-X | 0 | 0| 
 | 20230122T12:12:29Z | RobloxExploits provides tons of exploits to have fun with. | https://github.com/404PageN0tFound/RobloxExploits | 2 | 0| 
