@@ -18,22 +18,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230121T11:10:05Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
+| 20230121T22:40:58Z | CVE-2021-20294 | Simple CVE-2021-20294 poc | https://github.com/tin-z/CVE-2021-20294-POC | | 
+| 20230121T22:06:39Z | CVE-2023-0179 | Null | https://github.com/TurtleARM/CVE-2023-0179-PoC | | 
+| 20230121T21:26:32Z | CVE-2023-22617 | A remote attacker might be able to cause infinite recursion in PowerDNS Recursor 4.8.0 via a DNS query that retrieves DS records for a misconfigured domain, because QName minimization is used in QM fallback mode. This is fixed in 4.8.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22617 | | 
+| 20230121T19:03:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
+| 20230121T18:10:26Z | CVE-2023-0433 | Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.1225. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0433 | | 
+| 20230121T15:52:37Z | CVE-2023-22809 | A script to automate privilege escalation with CVE-2023-22809 vulnerability | https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc | | 
+| 20230121T14:53:53Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
 | 20230121T10:33:47Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 | 20230121T07:10:05Z | CVE-2023-24038 | The HTML-StripScripts module through 1.06 for Perl allows _hss_attval_style ReDoS because of catastrophic backtracking for HTML content with certain style attributes. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24038 | | 
 | 20230121T07:10:01Z | CVE-2020-36655 | Yii Yii2 Gii before 2.2.2 allows remote attackers to execute arbitrary code via the Generator.php messageCategory field. The attacker can embed arbitrary PHP code into the model file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36655 | | 
-| 20230121T07:09:58Z | CVE-2023-24042 | A race condition in LightFTP through 2.2 allows an attacker to achieve path traversal via a malformed FTP request. A handler thread can use an overwritten context->FileName. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24042 | | 
-| 20230121T07:09:55Z | CVE-2023-24040 | ** UNSUPPORTED WHEN ASSIGNED ** dtprintinfo in Common Desktop Environment 1.6 has a bug in the parser of lpstat (an invoked external command) during listing of the names of available printers. This allows low-privileged local users to inject arbitrary printer names via the $HOME/.printers file. This injection allows th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24040 | | 
-| 20230121T07:09:51Z | CVE-2023-24039 | ** UNSUPPORTED WHEN ASSIGNED ** A stack-based buffer overflow in ParseColors in libXm in Common Desktop Environment 1.6 can be exploited by local low-privileged users via the dtprintinfo setuid binary to escalate their privileges to root on Solaris 10 systems. NOTE: This vulnerability only affects products that are no  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24039 | | 
-| 20230121T07:09:48Z | CVE-2021-43138 | In Async before 2.6.4 and 3.x before 3.2.2, a malicious user can obtain privileges via the mapValues() method, aka lib/internal/iterator.js createObjectIterator prototype pollution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-43138 | | 
-| 20230121T02:14:19Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
-| 20230121T02:08:30Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230121T13:08:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10124 | 341| 
 | 20230121T07:11:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
 | 20230121T06:51:03Z | Null | https://github.com/rajashekharpendli/kleeteam | 0 | 0| 
 | 20230121T06:19:52Z | Null | https://github.com/rajashekharpendli/klee | 0 | 0| 
@@ -48,25 +47,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T23:48:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
+| 20230121T23:46:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
+| 20230121T23:45:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hy | 1 | 0| 
+| 20230121T23:43:39Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 55 | 4| 
+| 20230121T23:37:19Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 145| 
+| 20230121T22:35:28Z | Null | https://github.com/srcdslab/sm-plugin-FixSprayExploit | 1 | 1| 
+| 20230121T21:41:51Z | exploit | https://github.com/vbrexploits/eakfucker | 0 | 0| 
+| 20230121T21:09:12Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 1 | 0| 
 | 20230121T13:43:59Z | Null | https://github.com/404PageN0tFound/RobloxExploits | 1 | 0| 
 | 20230121T13:34:59Z | Null | https://github.com/pro-rat/CRAXS-RAT-V3 | 0 | 0| 
-| 20230121T11:58:20Z | Personal blog | https://github.com/ByteExploiter/ByteExploiter.GitHub.io | 0 | 0| 
-| 20230121T10:33:47Z | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | 0 | 0| 
-| 20230121T09:02:25Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ShikamaruZ/EclipseWare-Free-Roblox-Exploits-v1.7 | 16 | 0| 
-| 20230121T09:01:37Z | GPay balance exploit READ MORE BELOW | https://github.com/HennryXD/GPAY-BALANCE-EXPLOIT | 16 | 0| 
-| 20230121T08:59:56Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/CommonK/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 16 | 0| 
-| 20230121T08:59:54Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/CommonK/AutoFarm-SonicSpeed-Exploit | 16 | 0| 
-| 20230121T08:59:11Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/kurupacceu/Roblox-NYveeee-Private-Exploit-Leak3D | 16 | 0| 
-| 20230121T08:59:06Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/kurupacceu/DF2-DeaD-Frontier2-PrivateCheat | 16 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T23:58:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 107 | 26| 
+| 20230121T22:58:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2312 | 389| 
+| 20230121T21:05:58Z | Null | https://github.com/Backdoorislife/https-github.com-checkpoint-soyhenry-org-2023-01-21-Backdoorislife | 0 | 0| 
+| 20230121T16:17:25Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230121T13:58:16Z | Null | https://github.com/sadarxd/Backdoor-version-1 | 0 | 0| 
 | 20230121T13:57:45Z | Null | https://github.com/sadarxd/Backdoor-version-2 | 0 | 0| 
 | 20230121T13:51:56Z | code is written in oop java. | https://github.com/sadarxd/Backdoor | 0 | 0| 
-| 20230121T12:11:14Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2311 | 389| 
 | 20230121T09:04:08Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 0 | 0| 
 | 20230121T02:55:16Z | Null | https://github.com/Gabriel160204/Backdoor-Reverse-Shell | 0 | 0| 
 
@@ -86,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230121T22:46:34Z | Just Crazy... | https://github.com/Algebra0001/fuzzy-waddle | 0 | 0| 
+| 20230121T22:27:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8289 | 1807| 
+| 20230121T22:08:42Z | Floating ball controller is about floating a ball in the middle of a plastic tube using a computer cooling fan. The controller measures speed and distance using ultrasonic range sensor. This controller uses fuzzy logic rules to control the fan. This project helps could be applied to industrial applications like car speed cruiser. | https://github.com/ShahdayBhai/Floating-Ball-Using-Fuzzy-Logic-Controller | 0 | 0| 
+| 20230121T21:48:25Z | Fuzzed for the door puzzle in Blackwater / Pathfinder wrath of the righteous | https://github.com/kristianwiklund/pf_fuzzer | 0 | 0| 
+| 20230121T21:00:32Z | Web Fuzzing para descobrir arquivos escondidos dentro do WebSite - File Exposure e Hidden Files | https://github.com/GuilhermeAMonte/WebFuzzing | 0 | 0| 
+| 20230121T20:50:41Z | Null | https://github.com/l1gh7w34ver/basic_fuzz_test | 0 | 0| 
+| 20230121T20:32:41Z | Null | https://github.com/belgranomanuela/fuzzyChallenge | 1 | 0| 
 | 20230121T13:40:47Z | Solutions and explanations for the book %Fuzzy Sets & Fuzzy Logic: Theory and Applications by George J. Klir and Bo Yuan% | https://github.com/x-projekt/_fuzzy-sets-logic | 0 | 0| 
 | 20230121T13:39:39Z | Fuzzy Match lib in Cython. | https://github.com/SClovesgtx/CyFuzz | 0 | 0| 
-| 20230121T13:23:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8287 | 1807| 
 | 20230121T12:18:42Z | Null | https://github.com/harunagatennis/TSK_fuzzy_diabetes | 0 | 0| 
-| 20230121T12:16:48Z | Null | https://github.com/harunagatennis/easy_tsk_fuzzy_diabetes | 0 | 0| 
-| 20230121T11:50:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4526 | 1096| 
-| 20230121T11:22:33Z | Membangun sebuah sistem berbasis Fuzzy Logic untuk memilih 10 bengkel terbaik di kota Bandung berdasarkan dataset bengkel.xlsx | https://github.com/inggitrestuillahi/Fuzzy-Logic | 0 | 0| 
-| 20230121T10:50:39Z | Null | https://github.com/NovikovVN/fuzzyML | 0 | 0| 
-| 20230121T09:49:22Z | Tugas Pemrograman 2 AI | https://github.com/mnaufalrifqir/TuPro2AI_Fuzzy-Logic-Algorithm | 0 | 0| 
-| 20230121T01:29:29Z | Null | https://github.com/joyceohiri1/fuzzy-octo-rotary-phone | 0 | 0| 
 
 
 
