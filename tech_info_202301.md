@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T13:50:04Z | JavaScript code which will automatically sending an email to Arintra%s manager | https://github.com/lattebbrook/arintraBackdoorServices | 0 | 0| 
 | 20230123T13:23:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1532 | 619| 
 | 20230123T10:49:43Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230123T08:11:43Z | Null | https://github.com/AntoineBRTL/HadesBackdoor | 2 | 0| 
@@ -110,7 +111,6 @@
 | 20230122T19:13:38Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 0 | 0| 
 | 20230122T14:34:40Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 2 | 0| 
 | 20230122T12:46:07Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2318 | 390| 
-| 20230122T11:31:11Z | keylogger搭載してるというか、それに特化したハッキングツール。 | https://github.com/ware255/yuki | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
