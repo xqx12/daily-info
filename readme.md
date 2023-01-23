@@ -88,13 +88,13 @@
 | 20230122T23:24:02Z | Varios Recursos Recon-OSINT-Fuzz-Privesc | https://github.com/urizenlux/Resources | 0 | 0| 
 | 20230122T23:19:32Z | Fuzzy search in Python3 | https://github.com/tombuente/fuzzy.py | 0 | 0| 
 | 20230122T21:54:35Z | Web Fuzzing para descobrir arquivos escondidos dentro do WebSite - File Exposure e Hidden Files | https://github.com/GuilhermeAMonte/WebFuzzing | 0 | 0| 
+| 20230122T19:58:06Z | Null | https://github.com/jtgenova/fuzzylogic | 0 | 0| 
 | 20230122T15:48:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8293 | 1808| 
 | 20230122T13:57:07Z | Game development with Phaser and networking | https://github.com/JernejHabjan/fuzzy-waddle | 0 | 0| 
 | 20230122T13:10:18Z | In memory fuzzy string search | https://github.com/motz-art/FuzzySearch | 0 | 0| 
 | 20230122T13:05:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1230 | 164| 
 | 20230122T12:56:25Z | Null | https://github.com/AidenStripes/fuzzy-memory | 0 | 0| 
 | 20230122T10:09:05Z | Null | https://github.com/uofthacksx-dream-team/fuzzy-fusion | 1 | 0| 
-| 20230122T05:46:22Z | Null | https://github.com/belgranomanuela/fuzzyChallenge | 1 | 0| 
 
 
 
