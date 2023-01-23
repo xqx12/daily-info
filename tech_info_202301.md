@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230122T23:42:40Z | CVE-2023-0435 | Excessive Attack Surface in GitHub repository pyload/pyload prior to 0.5.0b3.dev41. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0435 | | 
+| 20230122T19:22:24Z | CVE-2023-22809 | A script to automate privilege escalation with CVE-2023-22809 vulnerability | https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc | | 
 | 20230122T17:22:27Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | | 
 | 20230122T16:55:55Z | CVE-2020-25213 | Python exploit for RCE in Wordpress | https://github.com/BLY-Coder/Python-exploit-CVE-2020-25213 | | 
 | 20230122T11:39:04Z | CVE-2023-24058 | Booked Scheduler 2.5.5 allows authenticated users to create and schedule events for any other user via a modified userId value to reservation_save.php. NOTE: 2.5.5 is a version from 2014. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24058 | | 
@@ -55,7 +56,6 @@
 | 20230122T10:20:24Z | CVE-2021-20294 | Simple CVE-2021-20294 poc | https://github.com/tin-z/CVE-2021-20294-POC | | 
 | 20230122T06:13:04Z | CVE-2023-0434 | Improper Input Validation in GitHub repository pyload/pyload prior to 0.5.0b3.dev40. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0434 | | 
 | 20230122T06:13:00Z | CVE-2023-24044 | A Host Header Injection issue on the Login page of Plesk Obsidian through 18.0.49 allows attackers to redirect users to malicious websites via a Host request header. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24044 | | 
-| 20230122T06:12:56Z | CVE-2023-23457 | A Segmentation fault was found in UPX in PackLinuxElf64::invert_pt_dynamic() in p_lx_elf.cpp. An attacker with a crafted input file allows invalid memory address access that could lead to a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23457 | | 
 
 
 # klee on Github 推荐
