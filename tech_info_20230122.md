@@ -52,9 +52,9 @@
 | 20230122T21:19:00Z | Null | https://github.com/VoltXd/printf_exploit_for_educationnal_purpose | 0 | 0| 
 | 20230122T20:43:29Z | Null | https://github.com/MgX4vY/Exploits-Storage | 0 | 0| 
 | 20230122T20:39:13Z | Null | https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis | 0 | 0| 
+| 20230122T14:37:10Z | A list of all the exploits I know | https://github.com/rumi-chan/LeagueExploits | 0 | 0| 
 | 20230122T13:59:29Z | Null | https://github.com/CryptonGamesInc/ExploitPatch | 0 | 0| 
 | 20230122T13:53:47Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12630 | 2164| 
-| 20230122T13:47:48Z | Send messages world-wide, exploiting People Nearby function. | https://github.com/AlexandrMilko/telegram-mail-public | 2 | 1| 
 
 
 # backdoor on Github 推荐
