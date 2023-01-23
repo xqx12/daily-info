@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T02:33:22Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-gbqb-_ShJ8-exploit-emerge | 0 | 0| 
 | 20230123T01:40:39Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production/ During engagements. Not all scripts or programs are fully tested/debugged. Its a mess | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
 | 20230122T22:37:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20230122T22:36:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-io | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230122T20:43:29Z | Null | https://github.com/MgX4vY/Exploits-Storage | 0 | 0| 
 | 20230122T20:39:13Z | Null | https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis | 0 | 0| 
 | 20230122T14:37:10Z | A list of all the exploits I know | https://github.com/rumi-chan/LeagueExploits | 0 | 0| 
-| 20230122T13:59:29Z | Null | https://github.com/CryptonGamesInc/ExploitPatch | 0 | 0| 
 
 
 # backdoor on Github 推荐
