@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T01:40:39Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production/ During engagements. Not all scripts or programs are fully tested/debugged. Its a mess | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
 | 20230122T22:37:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20230122T22:36:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20230122T22:35:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230122T20:39:13Z | Null | https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis | 0 | 0| 
 | 20230122T13:59:29Z | Null | https://github.com/CryptonGamesInc/ExploitPatch | 0 | 0| 
 | 20230122T13:53:47Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12630 | 2164| 
-| 20230122T13:47:48Z | Send messages world-wide, exploiting People Nearby function. | https://github.com/AlexandrMilko/telegram-mail-public | 2 | 1| 
 
 
 # backdoor on Github 推荐
