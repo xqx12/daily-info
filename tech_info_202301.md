@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T13:54:32Z | A Python3 script that fuzzes HTTP headers. | https://github.com/siunam321/fuheader | 0 | 0| 
 | 20230123T13:38:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44383 | 22058| 
 | 20230123T13:18:27Z | Create segmentation of mixed data using ensemble clustering. The data is about statistics of top 5 european football player in 2020/2021 season. I created cluster with fuzzy c-means and k-modes algorithm. | https://github.com/gufronarff/Football-Player-Segmentation-Using-Ensemble-Clustering-Fuzzy-C-Means-and-K-Modes | 0 | 0| 
 | 20230123T12:55:49Z | Null | https://github.com/infosecual/shapella-fuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230123T10:06:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8294 | 1809| 
 | 20230123T09:27:05Z | Data analysis | https://github.com/Shikishez/fuzzy | 0 | 0| 
 | 20230123T08:44:30Z | Null | https://github.com/dickymahfudin/spk-fuzzy-waspas | 0 | 0| 
-| 20230123T07:49:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1231 | 164| 
 
 
 
