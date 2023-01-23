@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T13:05:55Z | Python module for speed-up SQLI exploitation | https://github.com/Vu0r1-sec/sqli_helper | 0 | 0| 
 | 20230123T12:59:19Z | Python module for speed-up SQLI exploitation | https://github.com/Vu0r1-sec/sqli-helper | 0 | 0| 
 | 20230123T12:25:07Z | The manage engine mass loader for CVE-2022-47966 | https://github.com/Inplex-sys/CVE-2022-47966 | 3 | 0| 
 | 20230123T12:13:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3969 | 493| 
@@ -50,7 +51,6 @@
 | 20230123T05:58:59Z | 😎 ・Fortnite Cheat External release Driver bypass , Feature Aimbot + Esp | https://github.com/Slackes/Fortnite-External | 80 | 39| 
 | 20230123T03:29:02Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8068 | 1857| 
 | 20230123T02:33:22Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-gbqb-_ShJ8-exploit-emerge | 0 | 0| 
-| 20230123T01:40:39Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production/ During engagements. Not all scripts or programs are fully tested/debugged. Its a mess | https://github.com/1emvr/The-Art-of-Exploitation | 2 | 0| 
 
 
 # backdoor on Github 推荐
