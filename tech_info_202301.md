@@ -146,13 +146,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T02:29:52Z | Null | https://github.com/jtgenova/fuzzylogic | 0 | 0| 
 | 20230123T00:17:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3374 | 400| 
 | 20230123T00:05:43Z | PassFuzzer is a brute force tool that can be used to brute force most of the websites. | https://github.com/NikunjVashishtha/PassFuzzer | 1 | 0| 
 | 20230123T00:01:53Z | Null | https://github.com/biekts/tal-fuzzy-octo-risada | 0 | 0| 
 | 20230122T23:24:02Z | Varios Recursos Recon-OSINT-Fuzz-Privesc | https://github.com/urizenlux/Resources | 0 | 0| 
 | 20230122T23:19:32Z | Fuzzy search in Python3 | https://github.com/tombuente/fuzzy.py | 0 | 0| 
 | 20230122T21:54:35Z | Web Fuzzing para descobrir arquivos escondidos dentro do WebSite - File Exposure e Hidden Files | https://github.com/GuilhermeAMonte/WebFuzzing | 0 | 0| 
-| 20230122T19:58:06Z | Null | https://github.com/jtgenova/fuzzylogic | 0 | 0| 
 | 20230122T15:48:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8293 | 1808| 
 | 20230122T13:57:07Z | Game development with Phaser and networking | https://github.com/JernejHabjan/fuzzy-waddle | 0 | 0| 
 | 20230122T13:10:18Z | In memory fuzzy string search | https://github.com/motz-art/FuzzySearch | 0 | 0| 
