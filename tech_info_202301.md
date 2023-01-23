@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230122T16:36:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10145 | 341| 
+| 20230123T02:25:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10146 | 341| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
 | 20230121T07:11:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
 | 20230121T06:51:03Z | Null | https://github.com/rajashekharpendli/kleeteam | 0 | 0| 
@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T02:24:37Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 305 | 95| 
 | 20230122T23:55:27Z | This is a backdoor view to my portfolio website%s code. | https://github.com/MatthewOlaka/portfolio_link | 0 | 0| 
 | 20230122T20:52:18Z | Null | https://github.com/AntoineBRTL/HadesBackdoor | 1 | 0| 
 | 20230122T19:13:38Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20230122T11:22:11Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 2 | 0| 
 | 20230122T10:00:07Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230122T09:57:15Z | RDP/VPS Tools by FHNirob | https://github.com/fhnirob888/RDP-VPS-Tools | 0 | 1| 
-| 20230121T23:58:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 107 | 26| 
 
 
 # symbolic execution on Github 推荐
