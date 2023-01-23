@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230123T13:18:27Z | Create segmentation of mixed data using ensemble clustering. The data is about statistics of top 5 european football player in 2020/2021 season. I created cluster with fuzzy c-means and k-modes algorithm. | https://github.com/gufronarff/Football-Player-Segmentation-Using-Ensemble-Clustering-Fuzzy-C-Means-and-K-Modes | 0 | 0| 
 | 20230123T12:55:49Z | Null | https://github.com/infosecual/shapella-fuzzer | 0 | 0| 
 | 20230123T12:48:28Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1887 | 243| 
 | 20230123T11:45:01Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
 | 20230123T11:05:14Z | A filter chain based on php + python fuzz and generating procedures. | https://github.com/ProbiusOfficial/filterChainFuzzerAndGenerator | 4 | 0| 
+| 20230123T10:06:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8294 | 1809| 
 | 20230123T09:27:05Z | Data analysis | https://github.com/Shikishez/fuzzy | 0 | 0| 
 | 20230123T08:44:30Z | Null | https://github.com/dickymahfudin/spk-fuzzy-waspas | 0 | 0| 
 | 20230123T07:49:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1231 | 164| 
 | 20230123T02:29:52Z | Null | https://github.com/jtgenova/fuzzylogic | 0 | 0| 
-| 20230123T00:17:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3374 | 400| 
-| 20230123T00:05:43Z | PassFuzzer is a brute force tool that can be used to brute force most of the websites. | https://github.com/NikunjVashishtha/PassFuzzer | 1 | 0| 
 
 
 
