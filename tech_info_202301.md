@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230123T13:38:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44383 | 22059| 
+| 20230123T13:38:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44383 | 22058| 
 | 20230123T13:18:27Z | Create segmentation of mixed data using ensemble clustering. The data is about statistics of top 5 european football player in 2020/2021 season. I created cluster with fuzzy c-means and k-modes algorithm. | https://github.com/gufronarff/Football-Player-Segmentation-Using-Ensemble-Clustering-Fuzzy-C-Means-and-K-Modes | 0 | 0| 
 | 20230123T12:55:49Z | Null | https://github.com/infosecual/shapella-fuzzer | 0 | 0| 
 | 20230123T12:48:28Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1887 | 243| 
