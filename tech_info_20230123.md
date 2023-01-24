@@ -38,7 +38,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
-| 20230123T19:22:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10166 | 341| 
 
 
 # s2e on Github 推荐
