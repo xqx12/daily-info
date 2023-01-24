@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
 | 20230124T02:14:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 161 | 2| 
 | 20230124T00:25:42Z | Null | https://github.com/Haru-Jynxz/Linux-Post-Exploitation | 0 | 0| 
 | 20230124T00:12:27Z | Ltweef using point-blank exploit from Ingot menu. | https://github.com/henxdl/ext-disabler-menu | 0 | 0| 
@@ -95,12 +96,12 @@
 | 20230123T21:04:20Z | Grim finance hack simulation, exploited in December 2021 | https://github.com/Malinariy/Simulate-Grim-finance-exploit | 0 | 0| 
 | 20230123T19:32:28Z | Null | https://github.com/Haru-Jynxz/Windows-Post-Exploitation | 0 | 0| 
 | 20230123T17:00:42Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 147| 
-| 20230123T16:27:18Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 476 | 52| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
 | 20230124T01:59:48Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1533 | 620| 
 | 20230123T22:19:03Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230123T20:51:22Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 3 | 0| 
@@ -110,7 +111,6 @@
 | 20230123T07:51:40Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 2 | 0| 
 | 20230123T02:24:37Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 305 | 95| 
 | 20230122T23:55:27Z | This is a backdoor view to my portfolio website%s code. | https://github.com/MatthewOlaka/portfolio_link | 0 | 0| 
-| 20230122T19:13:38Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
