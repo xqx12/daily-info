@@ -66,7 +66,6 @@
 | 20230123T22:19:03Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230123T20:51:22Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 3 | 0| 
 | 20230123T13:50:04Z | JavaScript code which will automatically sending an email to Arintra%s manager | https://github.com/lattebbrook/arintraBackdoorServices | 0 | 0| 
-| 20230123T13:23:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1532 | 620| 
 | 20230123T10:49:43Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230123T08:11:43Z | Null | https://github.com/AntoineBRTL/HadesBackdoor | 2 | 0| 
 | 20230123T07:51:40Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 2 | 0| 
