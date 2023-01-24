@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T02:06:55Z | Null | https://github.com/Victorrmorris/fuzzy-bassoon | 0 | 0| 
+| 20230124T02:08:23Z | Null | https://github.com/Victorrmorris/fuzzy-bassoon | 0 | 0| 
 | 20230124T01:26:19Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1852 | 212| 
 | 20230124T00:33:50Z | Null | https://github.com/nuvemmmmmmmmmmmmmmm/fuzzy-octo-robot | 0 | 0| 
 | 20230123T23:14:34Z | Fuzzing frontend for zls | https://github.com/zigtools/bamboo | 3 | 0| 
