@@ -117,7 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T12:55:18Z | Experiments with Graph Neural Networks and symbolic execution | https://github.com/katyacyfra/symbolic_exec_GNN | 0 | 0| 
+| 20230124T13:06:36Z | Experiments with Graph Neural Networks and symbolic execution | https://github.com/katyacyfra/symbolic_exec_GNN | 0 | 0| 
 | 20230124T07:24:14Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 13 | 8| 
 | 20230123T15:35:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3284 | 468| 
 | 20230123T14:31:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 541 | 32| 
