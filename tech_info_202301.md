@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230124 | SecWiki周刊（第464期) | https://www.sec-wiki.com/weekly/464| 
+| 20230124 | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程... | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw| 
+| 20230124 | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw| 
 | 20230119 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ| 
 | 20230119 | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ| 
 | 20230119 | 基于代码属性图的自动化漏洞挖掘实践 | https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
@@ -38,30 +41,27 @@
 | 20230119 | 一种 Foxit Reader 漏洞利用思路探索 | https://vul.360.net/archives/648| 
 | 20230118 | 开源软件安全性分析 | https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw| 
 | 20230118 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg| 
-| 20230118 | 2022年全球高级持续性威胁（APT）研究报告 | https://cdn.isc.360.com/iscvideo-bucket/360_APT_Annual_Research_Report_2022.pdf| 
-| 20230117 | 玩转CodeQLpy之用友GRP-U8漏洞挖掘 | https://mp.weixin.qq.com/s/hYPdNN6skbikC3FFYRlbrQ| 
-| 20230117 | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230124T02:08:36Z | CVE-2023-21796 | Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21796 | | 
-| 20230124T02:08:32Z | CVE-2023-21795 | Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21796. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21795 | | 
-| 20230124T02:08:29Z | CVE-2023-21775 | Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21775 | | 
-| 20230124T02:08:25Z | CVE-2023-21719 | Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21719 | | 
-| 20230123T23:58:02Z | CVE-2023-23560 | In certain Lexmark products through 2023-01-12, SSRF can occur because of a lack of input validation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23560 | | 
-| 20230123T23:57:58Z | CVE-2023-22960 | Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22960 | | 
-| 20230123T23:57:54Z | CVE-2023-22630 | IzyBat Orange casiers before 20221102_1 allows SQL Injection via a getCasier.php?taille= URI. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22630 | | 
-| 20230123T23:57:50Z | CVE-2022-46639 | A vulnerability in the descarga_etiqueta.php component of Correos Prestashop 1.7.x allows attackers to execute a directory traversal. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46639 | | 
-| 20230123T23:57:43Z | CVE-2022-23005 | Western Digital has identified a weakness in the UFS standard that could result in a security vulnerability. This vulnerability may exist in some systems where the Host boot ROM code implements the UFS Boot feature to boot from UFS compliant storage devices. The UFS Boot feature, as specified in the UFS standard, is pr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-23005 | | 
-| 20230123T21:45:21Z | CVE-2023-22852 | Tiki through 25.0 allows CSRF attacks that are related to tiki-importer.php and tiki-import_sheet.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22852 | | 
+| 20230124T12:54:51Z | 未知编号 | Null | https://github.com/Cardtibe/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230124T12:53:45Z | 未知编号 | Null | https://github.com/Cardtibe/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230124T12:51:40Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
+| 20230124T12:08:40Z | CVE-2022-4554 | B2B Customer Ordering System developed by ID Software Project and Consultancy Services before version 1.0.0.347 has an authenticated Reflected XSS vulnerability. This has been fixed in the version 1.0.0.347. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4554 | | 
+| 20230124T11:26:49Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
+| 20230124T10:35:51Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | | 
+| 20230124T10:35:09Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20230124T08:47:35Z | CVE-2022-0847 | This is a repo to showcase the dirty pipe Linux Kernel Vulnerability. | https://github.com/mutur4/CVE-2022-0847 | | 
+| 20230124T08:33:56Z | CVE-2021-4034 | Null | https://github.com/mutur4/CVE-2021-4034 | | 
+| 20230124T06:41:05Z | CVE-2020-5313 | libImaging/FliDecode.c in Pillow before 6.2.2 has an FLI buffer overflow. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-5313 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T01:16:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10167 | 341| 
+| 20230124T12:59:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10176 | 341| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
 | 20230121T07:11:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T10:31:54Z | paper code | https://github.com/GMC-DRL/S2E-GA | 0 | 0| 
 | 20230122T00:41:22Z | Created with StackBlitz ⚡️ | https://github.com/natanbr/Alice-in-borderland---acid-game-s2e6- | 0 | 0| 
 | 20230121T12:01:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 291 | 69| 
 | 20230113T18:45:53Z | Null | https://github.com/turbocanary/turbotest_r6aikmfr_s2e79up1 | 0 | 0| 
@@ -86,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
-| 20230124T02:14:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 161 | 2| 
-| 20230124T00:25:42Z | Null | https://github.com/Haru-Jynxz/Linux-Post-Exploitation | 0 | 0| 
-| 20230124T00:12:27Z | Ltweef using point-blank exploit from Ingot menu. | https://github.com/henxdl/ext-disabler-menu | 0 | 0| 
-| 20230124T00:01:09Z | Trustzone Exploit that allows running code in secure mode on Surface RT (Tegra 3) with the help of Yahallo (by imbushuo) | https://github.com/Open-Surface-RT/UEFIPrivilegeEscalationPkg | 5 | 1| 
-| 20230123T22:01:57Z | TIPE : Exploitation optimale des couloirs aériens pour une nouvelle mobilité urbaine | https://github.com/QGarot/tipe-la-ville | 0 | 0| 
-| 20230123T21:50:15Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 56 | 5| 
-| 20230123T21:04:20Z | Grim finance hack simulation, exploited in December 2021 | https://github.com/Malinariy/Simulate-Grim-finance-exploit | 0 | 0| 
-| 20230123T19:32:28Z | Null | https://github.com/Haru-Jynxz/Windows-Post-Exploitation | 0 | 0| 
-| 20230123T17:00:42Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 147| 
+| 20230124T12:56:58Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Sallahy/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20230124T12:56:47Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Sallahy/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20230124T12:56:13Z | Null | https://github.com/Cardtibe/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
+| 20230124T12:55:23Z | Null | https://github.com/Cardtibe/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
+| 20230124T12:55:22Z | Null | https://github.com/Cardtibe/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
+| 20230124T12:54:51Z | Null | https://github.com/Cardtibe/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
+| 20230124T12:54:17Z | Null | https://github.com/Cardtibe/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
+| 20230124T12:53:45Z | Null | https://github.com/Cardtibe/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
+| 20230124T12:48:49Z | Null | https://github.com/Cardtibe/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
+| 20230124T12:30:39Z | You must run the executable whilst in an ACTUAL game that%s -started- , not beforehand. Else you will crash. Use the assigned key (F8) to open the menu and num-pad to control it. F2 is your panic button. | https://github.com/DarkRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T12:24:30Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
+| 20230124T11:07:37Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1534 | 621| 
+| 20230124T08:32:31Z | All collected web malware from IR. #malware #backdoor #webshell #hack #hacker | https://github.com/windhamwong/collected-web-malware | 0 | 0| 
+| 20230124T04:58:39Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
+| 20230124T04:27:53Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 1 | 0| 
 | 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
-| 20230124T01:59:48Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1533 | 620| 
 | 20230123T22:19:03Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230123T20:51:22Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 3 | 0| 
 | 20230123T13:50:04Z | JavaScript code which will automatically sending an email to Arintra%s manager | https://github.com/lattebbrook/arintraBackdoorServices | 0 | 0| 
 | 20230123T10:49:43Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
-| 20230123T08:11:43Z | Null | https://github.com/AntoineBRTL/HadesBackdoor | 2 | 0| 
-| 20230123T07:51:40Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 2 | 0| 
-| 20230123T02:24:37Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 305 | 95| 
-| 20230122T23:55:27Z | This is a backdoor view to my portfolio website%s code. | https://github.com/MatthewOlaka/portfolio_link | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T10:50:14Z | Fuzzy string search with AutoComplete | https://github.com/SyncfusionExamples/ej2-fuzzy-search-autocomplete | 0 | 0| 
+| 20230124T10:41:19Z | Null | https://github.com/raphmvogo/fuzzy-lamp | 0 | 0| 
+| 20230124T09:40:54Z | Markdown Text editor written in flutter to use in multiple platforms. | https://github.com/aserghini/fuzzy-octo-md | 0 | 0| 
+| 20230124T08:52:37Z | Null | https://github.com/AhmetRamazanli/Fuzzy-Logic-with-Matlab | 0 | 0| 
 | 20230124T02:08:23Z | Null | https://github.com/Victorrmorris/fuzzy-bassoon | 0 | 0| 
+| 20230124T02:03:23Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 969 | 158| 
 | 20230124T01:26:19Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1852 | 212| 
 | 20230124T00:33:50Z | Null | https://github.com/nuvemmmmmmmmmmmmmmm/fuzzy-octo-robot | 0 | 0| 
 | 20230123T23:14:34Z | Fuzzing frontend for zls | https://github.com/zigtools/bamboo | 3 | 0| 
 | 20230123T23:07:01Z | Null | https://github.com/Hamad-2004/fuzzy-octo-dollop | 0 | 0| 
-| 20230123T22:48:25Z | Null | https://github.com/Crypt00o/crypto-fuzzy-finder | 1 | 0| 
-| 20230123T22:01:12Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 119 | 4| 
-| 20230123T21:02:47Z | A conda-smithy repository for fuzzytm. | https://github.com/conda-forge/fuzzytm-feedstock | 0 | 0| 
-| 20230123T14:40:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2640 | 180| 
-| 20230123T13:54:32Z | A Python3 script that fuzzes HTTP headers. | https://github.com/siunam321/fuheader | 0 | 0| 
 
 
 
