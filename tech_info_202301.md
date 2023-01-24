@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T01:26:19Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1852 | 212| 
 | 20230124T00:33:50Z | Null | https://github.com/nuvemmmmmmmmmmmmmmm/fuzzy-octo-robot | 0 | 0| 
 | 20230123T23:14:34Z | Fuzzing frontend for zls | https://github.com/zigtools/bamboo | 3 | 0| 
 | 20230123T23:07:01Z | Null | https://github.com/Hamad-2004/fuzzy-octo-dollop | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230123T14:40:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2640 | 180| 
 | 20230123T13:54:32Z | A Python3 script that fuzzes HTTP headers. | https://github.com/siunam321/fuheader | 0 | 0| 
 | 20230123T13:38:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44383 | 22058| 
-| 20230123T13:18:27Z | Create segmentation of mixed data using ensemble clustering. The data is about statistics of top 5 european football player in 2020/2021 season. I created cluster with fuzzy c-means and k-modes algorithm. | https://github.com/gufronarff/Football-Player-Segmentation-Using-Ensemble-Clustering-Fuzzy-C-Means-and-K-Modes | 0 | 0| 
 
 
 
