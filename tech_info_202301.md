@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T02:14:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 161 | 2| 
 | 20230124T00:25:42Z | Null | https://github.com/Haru-Jynxz/Linux-Post-Exploitation | 0 | 0| 
 | 20230124T00:12:27Z | Ltweef using point-blank exploit from Ingot menu. | https://github.com/henxdl/ext-disabler-menu | 0 | 0| 
 | 20230124T00:01:09Z | Trustzone Exploit that allows running code in secure mode on Surface RT (Tegra 3) with the help of Yahallo (by imbushuo) | https://github.com/Open-Surface-RT/UEFIPrivilegeEscalationPkg | 5 | 1| 
@@ -95,7 +96,6 @@
 | 20230123T19:32:28Z | Null | https://github.com/Haru-Jynxz/Windows-Post-Exploitation | 0 | 0| 
 | 20230123T17:00:42Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 147| 
 | 20230123T16:27:18Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 476 | 52| 
-| 20230123T15:30:04Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 337 | 32| 
 
 
 # backdoor on Github 推荐
