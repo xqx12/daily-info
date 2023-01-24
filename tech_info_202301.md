@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230124T13:18:17Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
+| 20230124T13:32:53Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
 | 20230124T12:54:51Z | 未知编号 | Null | https://github.com/Cardtibe/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230124T12:53:45Z | 未知编号 | Null | https://github.com/Cardtibe/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230124T12:08:40Z | CVE-2022-4554 | B2B Customer Ordering System developed by ID Software Project and Consultancy Services before version 1.0.0.347 has an authenticated Reflected XSS vulnerability. This has been fixed in the version 1.0.0.347. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4554 | | 
