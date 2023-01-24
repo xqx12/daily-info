@@ -88,6 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230124T00:25:42Z | Null | https://github.com/Haru-Jynxz/Linux-Post-Exploitation | 0 | 0| 
 | 20230124T00:12:27Z | Ltweef using point-blank exploit from Ingot menu. | https://github.com/henxdl/ext-disabler-menu | 0 | 0| 
+| 20230124T00:01:09Z | Trustzone Exploit that allows running code in secure mode on Surface RT (Tegra 3) with the help of Yahallo (by imbushuo) | https://github.com/Open-Surface-RT/UEFIPrivilegeEscalationPkg | 5 | 1| 
 | 20230123T22:01:57Z | TIPE : Exploitation optimale des couloirs aériens pour une nouvelle mobilité urbaine | https://github.com/QGarot/tipe-la-ville | 0 | 0| 
 | 20230123T21:50:15Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 56 | 5| 
 | 20230123T21:04:20Z | Grim finance hack simulation, exploited in December 2021 | https://github.com/Malinariy/Simulate-Grim-finance-exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230123T17:00:42Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 201 | 147| 
 | 20230123T16:27:18Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 476 | 52| 
 | 20230123T15:30:04Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 337 | 32| 
-| 20230123T14:00:39Z | Source-code and Exploit for emo-locker and pyCGI challenge | https://github.com/yadhukrishnam/bi0sCTF22 | 0 | 0| 
 
 
 # backdoor on Github 推荐
