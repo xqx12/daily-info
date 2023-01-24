@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T13:12:57Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File Spoo | https://github.com/Cardtibe/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
+| 20230124T13:09:21Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/TheWagner1/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 20 | 0| 
+| 20230124T13:09:19Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/TheWagner1/AutoFarm-SonicSpeed-Exploit | 20 | 0| 
+| 20230124T13:05:34Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Sallahy/Roblox-NYveeee-Private-Exploit-Leak3D | 20 | 0| 
+| 20230124T13:05:29Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Sallahy/DF2-DeaD-Frontier2-PrivateCheat | 20 | 0| 
 | 20230124T13:01:18Z | Null | https://github.com/Cardtibe/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
-| 20230124T12:56:58Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Sallahy/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
-| 20230124T12:56:47Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Sallahy/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20230124T12:56:13Z | Null | https://github.com/Cardtibe/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20230124T12:55:22Z | Null | https://github.com/Cardtibe/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20230124T12:54:51Z | Null | https://github.com/Cardtibe/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20230124T12:54:17Z | Null | https://github.com/Cardtibe/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20230124T12:53:45Z | Null | https://github.com/Cardtibe/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
-| 20230124T12:48:49Z | Null | https://github.com/Cardtibe/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
-| 20230124T12:30:39Z | You must run the executable whilst in an ACTUAL game that%s -started- , not beforehand. Else you will crash. Use the assigned key (F8) to open the menu and num-pad to control it. F2 is your panic button. | https://github.com/DarkRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
