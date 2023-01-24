@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230124T02:08:36Z | CVE-2023-21796 | Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21796 | | 
+| 20230124T02:08:32Z | CVE-2023-21795 | Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21796. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21795 | | 
+| 20230124T02:08:29Z | CVE-2023-21775 | Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21775 | | 
+| 20230124T02:08:25Z | CVE-2023-21719 | Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21719 | | 
 | 20230123T23:58:02Z | CVE-2023-23560 | In certain Lexmark products through 2023-01-12, SSRF can occur because of a lack of input validation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23560 | | 
 | 20230123T23:57:58Z | CVE-2023-22960 | Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22960 | | 
 | 20230123T23:57:54Z | CVE-2023-22630 | IzyBat Orange casiers before 20221102_1 allows SQL Injection via a getCasier.php?taille= URI. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22630 | | 
 | 20230123T23:57:50Z | CVE-2022-46639 | A vulnerability in the descarga_etiqueta.php component of Correos Prestashop 1.7.x allows attackers to execute a directory traversal. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46639 | | 
 | 20230123T23:57:43Z | CVE-2022-23005 | Western Digital has identified a weakness in the UFS standard that could result in a security vulnerability. This vulnerability may exist in some systems where the Host boot ROM code implements the UFS Boot feature to boot from UFS compliant storage devices. The UFS Boot feature, as specified in the UFS standard, is pr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-23005 | | 
 | 20230123T21:45:21Z | CVE-2023-22852 | Tiki through 25.0 allows CSRF attacks that are related to tiki-importer.php and tiki-import_sheet.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22852 | | 
-| 20230123T21:45:18Z | CVE-2023-22853 | Tiki before 24.1, when feature_create_webhelp is enabled, allows lib/structures/structlib.php PHP Object Injection because of an eval. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22853 | | 
-| 20230123T21:45:03Z | CVE-2021-46872 | An issue was discovered in Nim before 1.6.2. The RST module of the Nim language stdlib, as used in NimForum and other products, permits the javascript: URI scheme and thus can lead to XSS in some applications. (Nim versions 1.6.2 and later are fixed; there may be backports of the fix to some earlier versions. NimForum  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-46872 | | 
-| 20230123T19:33:49Z | CVE-2023-0105 | A flaw was found in Keycloak. This flaw allows impersonation and lockout due to the email trust not being handled correctly in Keycloak. An attacker can shadow other users with the same email and lockout or impersonate them. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0105 | | 
-| 20230123T19:33:44Z | CVE-2023-0287 | A vulnerability was found in ityouknow favorites-web. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Comment Handler. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0287 | | 
 
 
 # klee on Github 推荐
