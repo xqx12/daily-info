@@ -98,7 +98,7 @@
 | 20230124T22:02:42Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 0 | 0| 
 | 20230124T21:52:32Z | Null | https://github.com/modos189/irene_plugin_fuzzy_sklearn | 0 | 0| 
 | 20230124T21:37:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4928 | 511| 
-| 20230124T21:37:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8295 | 1807| 
+| 20230124T21:37:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8295 | 1806| 
 
 
 
