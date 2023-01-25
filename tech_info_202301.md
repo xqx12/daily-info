@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T02:05:21Z | Null | https://github.com/zzzjockzzz/paramiko-backdoor | 0 | 0| 
 | 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230124T19:31:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1535 | 624| 
 | 20230124T15:30:46Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-TelegramV2 | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230124T04:27:53Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 1 | 0| 
 | 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
 | 20230123T20:51:22Z | Null | https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack | 3 | 0| 
-| 20230123T13:50:04Z | JavaScript code which will automatically sending an email to Arintra%s manager | https://github.com/lattebbrook/arintraBackdoorServices | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
