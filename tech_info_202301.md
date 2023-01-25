@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230125 | 激活上下文的缓存中毒:利用 CSRSS 进行权限提升的一种新的攻击面类型 | http://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation| 
+| 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | https://www.reddit.com/r/netsec/comments/10jnjkq/pwning_the_all_google_phone_with_a_nongoogle_bug/| 
 | 20230123 | idekCTF2022 - Pwn题目 Coroutine 的详细Writeup | https://kiprey.github.io/2023/01/idek_coroutine/| 
 | 20230123 | 详细分析 CVE-2022-34718 漏洞包含其逆向补丁,协议的所有细节过程,包括纠正Numen Cyber Labs blog中的一些不准确的地方.并成功实现dos.以及概述讲解如何将原语转换为后续rce的一些步骤 | https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/| 
 | 20230123 | U-Boot – USB DFU 中未经检查下载内容的大小和来源造成堆栈溢出 (CVE-2022-2347) | http://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/| 
@@ -24,13 +26,14 @@
 | 20230120 | r3kapig战队发布关于idek 2022* CTF的Misc,OSINT,BlockChain类别所有题目的详细writeup | https://mp.weixin.qq.com/s/1xUncQ7CBht3q55T3rKl1w| 
 | 20230120 | Gamaredon使用Telegram为网络中转媒介(目标是躲避流量监控)以攻击乌克兰目标 | https://blogs.blackberry.com/en/2023/01/gamaredon-abuses-telegram-to-target-ukrainian-organizations| 
 | 20230120 | CVE-2022-27226:iRZ Mobile Routers中CSRF到RCE | http://johnjhacking.com/blog/cve-2022-27226/| 
-| 20230120 | CVE-2023-22809:sudoedit中存在一个有意思的逻辑漏洞,sudoedit通过sudo_edith函数中--来判断文件列表进而影响执行的command_details,同时find_editorh函数会从EDITOR,SUDO_EDITOR,EDITOR环境变量中提取信息,并且调用resolve_editor函数进行解析,resolve_editor函数既解析了编辑器的路径,还解析了以--为分割的参数.而如果在环境变量中加入--,则在最后的执行命令中造成了命令行的混淆,让sudo认为--”参数之后的所有内容都视为要编辑的文件.从而可以利用这个漏洞去编辑任意敏感文件以达到提权的目的 | https://sec.today/pulses/b8209ba6-528b-449c-881e-b19f3e3443de/| 
-| 20230120 | 在新版Linux内核中利用空指针引用 | https://sec.today/pulses/6d1baec9-2c36-4834-b58f-83dbc273d6d8/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230125 | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora| 
+| 20230125 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
+| 20230125 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ| 
 | 20230124 | SecWiki周刊（第464期) | https://www.sec-wiki.com/weekly/464| 
 | 20230124 | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程... | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw| 
 | 20230124 | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw| 
@@ -38,33 +41,30 @@
 | 20230119 | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ| 
 | 20230119 | 基于代码属性图的自动化漏洞挖掘实践 | https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
 | 20230119 | mqtt攻击面和挖掘思路浅析 | https://vul.360.net/archives/649| 
-| 20230119 | 一种 Foxit Reader 漏洞利用思路探索 | https://vul.360.net/archives/648| 
-| 20230118 | 开源软件安全性分析 | https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw| 
-| 20230118 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230124T22:12:42Z | CVE-2023-24055 | POC and Scanner for CVE-2023-24055 | https://github.com/deetl/CVE-2023-24055 | | 
-| 20230124T22:12:37Z | CVE-2023-22960 | Null | https://github.com/manas3c/CVE-2023-22960 | | 
-| 20230124T22:05:20Z | CVE-2023-21867 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21867 | | 
-| 20230124T22:05:16Z | CVE-2023-21865 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21865 | | 
-| 20230124T22:05:12Z | CVE-2023-21868 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnera CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21868 | | 
-| 20230124T22:05:08Z | CVE-2023-21866 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.28 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21866 | | 
-| 20230124T22:05:04Z | CVE-2023-21863 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21863 | | 
-| 20230124T22:05:00Z | CVE-2023-21874 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this v CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21874 | | 
-| 20230124T22:04:56Z | CVE-2023-21873 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21873 | | 
-| 20230124T22:04:52Z | CVE-2023-21872 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21872 | | 
+| 20230125T06:57:59Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4186 | | 
+| 20230125T06:57:55Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4185 | | 
+| 20230125T06:57:52Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4184 | | 
+| 20230125T06:57:48Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4240 | | 
+| 20230125T06:57:44Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4238 | | 
+| 20230125T06:57:40Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4239 | | 
+| 20230125T06:57:37Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4236 | | 
+| 20230125T06:57:33Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4237 | | 
+| 20230125T06:57:30Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4235 | | 
+| 20230125T06:57:27Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4234 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230125T01:29:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10187 | 342| 
+| 20230125T09:23:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10191 | 342| 
+| 20230125T07:07:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
-| 20230121T07:11:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
 | 20230121T06:51:03Z | Null | https://github.com/rajashekharpendli/kleeteam | 0 | 0| 
 | 20230121T06:19:52Z | Null | https://github.com/rajashekharpendli/klee | 0 | 0| 
 | 20230119T16:37:09Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
+| 20230125T12:02:45Z | A post exploitation tool for enumerating cloud using metadata services. | https://github.com/redteaminterac/insiderCloudEnum | 0 | 0| 
+| 20230125T11:51:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-CgQbl-exploit-investigate | 0 | 0| 
+| 20230125T11:42:53Z | unauthenticated (2.1.0 - 2.1.0.p11) / authenticated (<2.1.0p12) RCE exploit for Checkmk. | https://github.com/gbrsh/checkmk-race | 1 | 0| 
+| 20230125T11:18:48Z | Contains CVE%s and Exploits | https://github.com/Olbrychski/Exploits | 0 | 0| 
+| 20230125T10:32:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5208 | 729| 
+| 20230125T04:18:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12637 | 2167| 
 | 20230125T01:15:21Z | Roblox script hub created using kavo lib | https://github.com/Ragoon821/ScriptXHub-v2 | 0 | 0| 
 | 20230124T23:31:20Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 1002 | 216| 
 | 20230124T22:05:20Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21867 | 0 | 0| 
-| 20230124T22:05:16Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21865 | 0 | 0| 
-| 20230124T22:05:12Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnera CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21868 | 0 | 0| 
-| 20230124T22:05:08Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.28 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21866 | 0 | 0| 
-| 20230124T22:05:04Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21863 | 0 | 0| 
-| 20230124T22:05:00Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this v CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21874 | 0 | 0| 
-| 20230124T22:04:56Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21873 | 0 | 0| 
-| 20230124T22:04:52Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21872 | 0 | 0| 
 
 
 # backdoor on Github 推荐
