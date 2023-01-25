@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T01:15:21Z | Roblox script hub created using kavo lib | https://github.com/Ragoon821/ScriptXHub-v2 | 0 | 0| 
 | 20230124T23:31:20Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 1002 | 216| 
 | 20230124T22:05:20Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21867 | 0 | 0| 
 | 20230124T22:05:16Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21865 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230124T22:05:00Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this v CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21874 | 0 | 0| 
 | 20230124T22:04:56Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21873 | 0 | 0| 
 | 20230124T22:04:52Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21872 | 0 | 0| 
-| 20230124T22:04:48Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21870 | 0 | 0| 
 
 
 # backdoor on Github 推荐
