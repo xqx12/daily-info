@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230125T13:56:11Z | BDFProxy is a tool that has been developed from two different instruments. The Backdoor Factory that actually was designed to automate patching of the files in order to plug in backcodes which might be quite crucial for penetration testing.The tool can patch on fly the binaries downloading by a victim. | https://github.com/ImranTheThirdEye/BDFProxy- | 0 | 0| 
+| 20230125T13:56:46Z | BDFProxy is a tool that has been developed from two different instruments. The Backdoor Factory that actually was designed to automate patching of the files in order to plug in backcodes which might be quite crucial for penetration testing.The tool can patch on fly the binaries downloading by a victim. | https://github.com/ImranTheThirdEye/BDFProxy- | 0 | 0| 
 | 20230125T02:05:21Z | Null | https://github.com/zzzjockzzz/paramiko-backdoor | 0 | 0| 
 
 
