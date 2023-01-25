@@ -19,22 +19,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230124T13:48:51Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
-| 20230124T12:54:51Z | 未知编号 | Null | https://github.com/Cardtibe/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20230124T12:53:45Z | 未知编号 | Null | https://github.com/Cardtibe/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20230124T12:08:40Z | CVE-2022-4554 | B2B Customer Ordering System developed by ID Software Project and Consultancy Services before version 1.0.0.347 has an authenticated Reflected XSS vulnerability. This has been fixed in the version 1.0.0.347. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4554 | | 
-| 20230124T11:26:49Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
-| 20230124T10:35:51Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | | 
-| 20230124T10:35:09Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
-| 20230124T08:47:35Z | CVE-2022-0847 | This is a repo to showcase the dirty pipe Linux Kernel Vulnerability. | https://github.com/mutur4/CVE-2022-0847 | | 
-| 20230124T08:33:56Z | CVE-2021-4034 | Null | https://github.com/mutur4/CVE-2021-4034 | | 
-| 20230124T06:41:05Z | CVE-2020-5313 | libImaging/FliDecode.c in Pillow before 6.2.2 has an FLI buffer overflow. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-5313 | | 
+| 20230124T22:12:42Z | CVE-2023-24055 | POC and Scanner for CVE-2023-24055 | https://github.com/deetl/CVE-2023-24055 | | 
+| 20230124T22:12:37Z | CVE-2023-22960 | Null | https://github.com/manas3c/CVE-2023-22960 | | 
+| 20230124T22:05:20Z | CVE-2023-21867 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21867 | | 
+| 20230124T22:05:16Z | CVE-2023-21865 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21865 | | 
+| 20230124T22:05:12Z | CVE-2023-21868 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnera CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21868 | | 
+| 20230124T22:05:08Z | CVE-2023-21866 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.28 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21866 | | 
+| 20230124T22:05:04Z | CVE-2023-21863 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21863 | | 
+| 20230124T22:05:00Z | CVE-2023-21874 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this v CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21874 | | 
+| 20230124T22:04:56Z | CVE-2023-21873 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21873 | | 
+| 20230124T22:04:52Z | CVE-2023-21872 | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21872 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T13:05:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10177 | 341| 
+| 20230124T18:51:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10186 | 342| 
 
 
 # s2e on Github 推荐
@@ -61,8 +61,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
+| 20230124T19:31:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1535 | 624| 
+| 20230124T15:30:46Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-TelegramV2 | 0 | 0| 
 | 20230124T12:24:30Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
-| 20230124T11:07:37Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1534 | 621| 
 | 20230124T08:32:31Z | All collected web malware from IR. #malware #backdoor #webshell #hack #hacker | https://github.com/windhamwong/collected-web-malware | 0 | 0| 
 | 20230124T04:58:39Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
 | 20230124T04:27:53Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 1 | 0| 
@@ -84,14 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230124T10:50:14Z | Fuzzy string search with AutoComplete | https://github.com/SyncfusionExamples/ej2-fuzzy-search-autocomplete | 0 | 0| 
-| 20230124T10:41:19Z | Null | https://github.com/raphmvogo/fuzzy-lamp | 0 | 0| 
-| 20230124T09:40:54Z | Markdown Text editor written in flutter to use in multiple platforms. | https://github.com/aserghini/fuzzy-octo-md | 0 | 0| 
-| 20230124T08:52:37Z | Null | https://github.com/AhmetRamazanli/Fuzzy-Logic-with-Matlab | 0 | 0| 
-| 20230124T02:08:23Z | Null | https://github.com/Victorrmorris/fuzzy-bassoon | 0 | 0| 
-| 20230124T02:03:23Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | https://github.com/swisskyrepo/GraphQLmap | 969 | 158| 
-| 20230124T01:26:19Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1852 | 212| 
-| 20230124T00:33:50Z | Null | https://github.com/nuvemmmmmmmmmmmmmmm/fuzzy-octo-robot | 0 | 0| 
+| 20230124T23:57:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1234 | 164| 
+| 20230124T23:50:49Z | Null | https://github.com/awawa2525/fuzzy-invention | 0 | 0| 
+| 20230124T23:50:28Z | Null | https://github.com/derwqpnin/fuzzy-invention | 0 | 0| 
+| 20230124T22:43:22Z | Null | https://github.com/HubbbaBubbba/fuzzy-onepunch-man | 0 | 0| 
+| 20230124T22:23:53Z | Null | https://github.com/jhowjhow33/tal-guacamole-fuzzy | 0 | 0| 
+| 20230124T22:02:57Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
+| 20230124T22:02:42Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 0 | 0| 
+| 20230124T21:52:32Z | Null | https://github.com/modos189/irene_plugin_fuzzy_sklearn | 0 | 0| 
+| 20230124T21:37:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4928 | 511| 
+| 20230124T21:37:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8295 | 1807| 
 
 
 
