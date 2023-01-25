@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230125T13:27:02Z | A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.   | https://github.com/Checkmarx/capital | 0 | 0| 
-| 20230125T13:24:14Z | RCE exploit PoC for multi-player PacMan  | https://github.com/oelin/rcepm | 0 | 0| 
+| 20230125T13:27:58Z | RCE exploit PoC for multi-player PacMan. | https://github.com/oelin/rcepm | 0 | 0| 
+| 20230125T13:27:12Z | A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.   | https://github.com/Checkmarx/capital | 0 | 0| 
 | 20230125T13:17:39Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 62 | 29| 
 | 20230125T13:09:14Z | An open-source archive of Betastar exploits. | https://github.com/BlacketWare/Betastar | 3 | 0| 
 | 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
