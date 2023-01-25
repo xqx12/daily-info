@@ -75,7 +75,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230124T21:24:51Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 42 | 2| 
 | 20230124T17:00:45Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 42| 
-| 20230124T14:44:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3285 | 468| 
+| 20230124T14:44:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3285 | 467| 
 | 20230124T13:06:36Z | Experiments with Graph Neural Networks and symbolic execution | https://github.com/katyacyfra/symbolic_exec_GNN | 0 | 0| 
 | 20230124T07:24:14Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 13 | 8| 
 
