@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T13:17:39Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 62 | 29| 
 | 20230125T13:09:14Z | An open-source archive of Betastar exploits. | https://github.com/BlacketWare/Betastar | 3 | 0| 
 | 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
 | 20230125T12:02:45Z | A post exploitation tool for enumerating cloud using metadata services. | https://github.com/redteaminterac/insiderCloudEnum | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230125T10:32:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5208 | 729| 
 | 20230125T04:18:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12637 | 2167| 
 | 20230125T01:15:21Z | Roblox script hub created using kavo lib | https://github.com/Ragoon821/ScriptXHub-v2 | 0 | 0| 
-| 20230124T23:31:20Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 1002 | 216| 
 
 
 # backdoor on Github 推荐
