@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T13:09:14Z | An open-source archive of Betastar exploits. | https://github.com/BlacketWare/Betastar | 3 | 0| 
 | 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
 | 20230125T12:02:45Z | A post exploitation tool for enumerating cloud using metadata services. | https://github.com/redteaminterac/insiderCloudEnum | 0 | 0| 
 | 20230125T11:51:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-CgQbl-exploit-investigate | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230125T04:18:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12637 | 2167| 
 | 20230125T01:15:21Z | Roblox script hub created using kavo lib | https://github.com/Ragoon821/ScriptXHub-v2 | 0 | 0| 
 | 20230124T23:31:20Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 1002 | 216| 
-| 20230124T22:05:20Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21867 | 0 | 0| 
 
 
 # backdoor on Github 推荐
