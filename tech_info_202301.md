@@ -96,8 +96,8 @@
 | 20230125T13:27:58Z | RCE exploit PoC for multi-player PacMan. | https://github.com/oelin/rcepm | 0 | 0| 
 | 20230125T13:27:12Z | A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.   | https://github.com/Checkmarx/capital | 0 | 0| 
 | 20230125T13:17:39Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 62 | 29| 
+| 20230125T13:01:56Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 364 | 78| 
 | 20230125T12:13:33Z | Docker implementation of BeEF Browser Exploitation Framework using Alpine Linux image base. | https://github.com/isaudits/docker-beef | 5 | 5| 
-| 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230126T01:44:23Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1990 | 32| 
+| 20230126T01:25:00Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3379 | 402| 
 | 20230126T01:16:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
 | 20230126T01:15:10Z | Rate a workshop using Fuzzy Logic | https://github.com/khalilullahalfaath/AI_Tubes-02-Fuzzy-Logic | 0 | 0| 
 | 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230125T14:00:46Z | Операції над інтервалами довіри (Основи нечіткої логіки) | https://github.com/inaprel3/FuzzyLogicOne | 0 | 0| 
 | 20230125T13:44:56Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 120 | 5| 
 | 20230125T13:41:31Z | Null | https://github.com/aymankh86/fuzzy-ai | 0 | 0| 
-| 20230125T12:56:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4927 | 511| 
 
 
 
