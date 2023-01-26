@@ -78,6 +78,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T20:47:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3286 | 467| 
+| 20230125T20:06:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 54 | 25| 
 
 
 # big4 on Github 推荐
