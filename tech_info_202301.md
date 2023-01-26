@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230126 | 记一次Webshell检测引擎绕过测试 | https://tttang.com/archive/1875/| 
 | 20230125 | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora| 
 | 20230125 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
 | 20230125 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ| 
@@ -40,7 +41,6 @@
 | 20230119 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ| 
 | 20230119 | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ| 
 | 20230119 | 基于代码属性图的自动化漏洞挖掘实践 | https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
-| 20230119 | mqtt攻击面和挖掘思路浅析 | https://vul.360.net/archives/649| 
 
 
 # CVE Github 推荐
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T02:12:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10197 | 342| 
-| 20230125T07:07:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
+| 20230126T11:45:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10206 | 343| 
+| 20230126T08:55:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
 | 20230121T06:51:03Z | Null | https://github.com/rajashekharpendli/kleeteam | 0 | 0| 
@@ -88,21 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T12:43:29Z | An All-In-One hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 138 | 28| 
+| 20230126T12:34:33Z | This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. | https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis | 0 | 0| 
+| 20230126T11:06:09Z | The aim is to understand the learning outcomes of TensorFlow data processing pipelines and understand how GPUs can accelerate data processing. Write data processing pipelines that exploit TensorFlow and have the knowledge to understand how to develop GPU-accelerated data processing pipelines using the TensorFlow and RAPIDS framework. | https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset | 0 | 0| 
+| 20230126T09:44:12Z | Bloxflip exploits for the popular Roblox Gambling Site | https://github.com/Bhood23/BloxFlip-Exploits-Roblox-Tests | 1 | 0| 
+| 20230126T08:34:45Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3608 | 744| 
+| 20230126T07:14:13Z | Learning material for RE/Exploitation | https://github.com/Hermit97/Shush | 0 | 0| 
+| 20230126T05:55:01Z | Null | https://github.com/vesh-raj/Browser-Exploit | 0 | 0| 
+| 20230126T02:08:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12642 | 2168| 
 | 20230125T23:24:38Z | Find all of my scripts and exploits here. | https://github.com/catascy/scripts | 1 | 0| 
 | 20230125T22:31:10Z | Docker implementation of Veil exploit framework | https://github.com/isaudits/docker-veil | 3 | 1| 
-| 20230125T21:03:14Z | DDoS Tool which exploits vulnerability CVE-2004-2449 from vendor GameSpy (now known as OpenSpy). User is prompted for input IP address, and port. (NOTE: Please use this responsibly, I made this as a proof of concept of vulnerability exploitation ONLY. I do not endorse DOSing, DDoSing, or cheating in any way. Use this at your own risk.) | https://github.com/ParallelVisions/DoSTool | 1 | 0| 
-| 20230125T14:11:12Z | Exploiting UI using @mui. That is all. | https://github.com/promise-J/Fiery-Priest | 0 | 0| 
-| 20230125T13:40:43Z | An open-source archive of Betastar exploits. | https://github.com/BlacketWare/Betastar | 3 | 0| 
-| 20230125T13:27:58Z | RCE exploit PoC for multi-player PacMan. | https://github.com/oelin/rcepm | 0 | 0| 
-| 20230125T13:27:12Z | A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.   | https://github.com/Checkmarx/capital | 0 | 0| 
-| 20230125T13:17:39Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 62 | 29| 
-| 20230125T13:01:56Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 364 | 78| 
-| 20230125T12:13:33Z | Docker implementation of BeEF Browser Exploitation Framework using Alpine Linux image base. | https://github.com/isaudits/docker-beef | 5 | 5| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T12:14:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 34 | 3| 
+| 20230126T06:25:15Z | :doge: | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230126T02:42:31Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
 | 20230125T18:23:03Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 639 | 125| 
 | 20230125T14:46:54Z | Null | https://github.com/marcusd7/Chameleon-durable-backdoor | 0 | 0| 
@@ -111,8 +113,6 @@
 | 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230124T19:31:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1535 | 624| 
 | 20230124T15:30:46Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-TelegramV2 | 0 | 0| 
-| 20230124T12:24:30Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
-| 20230124T08:32:31Z | All collected web malware from IR. #malware #backdoor #webshell #hack #hacker | https://github.com/windhamwong/collected-web-malware | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T12:53:48Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1679 | 79| 
+| 20230126T12:36:55Z | Código para artigo sobre %uma nova proposta de função de ativação com parâmetros aprendidos pela rede%. | https://github.com/MuriloIA/CNN_FUZZY_ACTIVATION | 0 | 0| 
+| 20230126T12:19:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3362 | 674| 
+| 20230126T11:21:12Z | Null | https://github.com/SemioTricks/fuzzy-multi-dict | 0 | 0| 
+| 20230126T11:06:14Z | Null | https://github.com/cforcookie/fuzzy-potato | 0 | 0| 
+| 20230126T11:05:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 50 | 22| 
+| 20230126T09:08:51Z | A mutation based fuzzer for Dafny | https://github.com/534014913/dafnyfl | 0 | 0| 
 | 20230126T02:52:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3380 | 402| 
 | 20230126T01:44:23Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1990 | 32| 
 | 20230126T01:16:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
-| 20230126T01:15:10Z | Rate a workshop using Fuzzy Logic | https://github.com/khalilullahalfaath/AI_Tubes-02-Fuzzy-Logic | 0 | 0| 
-| 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
-| 20230125T21:20:43Z | Null | https://github.com/keithkaple0Org/fuzzy-octo-telegram | 1 | 0| 
-| 20230125T21:03:33Z | Null | https://github.com/boondocks/fuzzy-carnival | 0 | 0| 
-| 20230125T14:00:46Z | Операції над інтервалами довіри (Основи нечіткої логіки) | https://github.com/inaprel3/FuzzyLogicOne | 0 | 0| 
-| 20230125T13:44:56Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 120 | 5| 
-| 20230125T13:41:31Z | Null | https://github.com/aymankh86/fuzzy-ai | 0 | 0| 
 
 
 
