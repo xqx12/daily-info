@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T01:16:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
 | 20230126T01:15:10Z | Rate a workshop using Fuzzy Logic | https://github.com/khalilullahalfaath/AI_Tubes-02-Fuzzy-Logic | 0 | 0| 
-| 20230126T00:06:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
 | 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
 | 20230125T21:20:43Z | Null | https://github.com/keithkaple0Org/fuzzy-octo-telegram | 1 | 0| 
 | 20230125T21:03:33Z | Null | https://github.com/boondocks/fuzzy-carnival | 0 | 0| 
