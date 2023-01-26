@@ -70,7 +70,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T13:59:24Z | Null | https://github.com/echolinux2/fuzzy-octo-fiesta | 0 | 0| 
+| 20230126T14:00:18Z | Application of Fuzzy Logic on Washing Machines | https://github.com/SamySam0/WashingFuzzy | 0 | 0| 
+| 20230126T13:59:31Z | Null | https://github.com/echolinux2/fuzzy-octo-fiesta | 0 | 0| 
 | 20230126T13:08:15Z | Untuk memenuhi tugas besar mata kuliah Kecerdasan Buatan | https://github.com/maulanaadil/Fuzzy-logic- | 0 | 0| 
 | 20230126T12:53:48Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1679 | 79| 
 | 20230126T12:36:55Z | Código para artigo sobre %uma nova proposta de função de ativação com parâmetros aprendidos pela rede%. | https://github.com/MuriloIA/CNN_FUZZY_ACTIVATION | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230126T11:06:14Z | Null | https://github.com/cforcookie/fuzzy-potato | 0 | 0| 
 | 20230126T11:05:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 50 | 22| 
 | 20230126T09:08:51Z | A mutation based fuzzer for Dafny | https://github.com/534014913/dafnyfl | 0 | 0| 
-| 20230126T02:52:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3380 | 402| 
 
 
 
