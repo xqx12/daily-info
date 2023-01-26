@@ -34,7 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T13:41:05Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 141 | 29| 
+| 20230126T13:58:40Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 142 | 29| 
 | 20230126T13:16:11Z | This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. | https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis | 0 | 0| 
 | 20230126T11:06:09Z | The aim is to understand the learning outcomes of TensorFlow data processing pipelines and understand how GPUs can accelerate data processing. Write data processing pipelines that exploit TensorFlow and have the knowledge to understand how to develop GPU-accelerated data processing pipelines using the TensorFlow and RAPIDS framework. | https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset | 0 | 0| 
 | 20230126T09:44:12Z | Bloxflip exploits for the popular Roblox Gambling Site | https://github.com/Bhood23/BloxFlip-Exploits-Roblox-Tests | 1 | 0| 
@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T13:59:24Z | Null | https://github.com/echolinux2/fuzzy-octo-fiesta | 0 | 0| 
 | 20230126T13:08:15Z | Untuk memenuhi tugas besar mata kuliah Kecerdasan Buatan | https://github.com/maulanaadil/Fuzzy-logic- | 0 | 0| 
 | 20230126T12:53:48Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1679 | 79| 
 | 20230126T12:36:55Z | Código para artigo sobre %uma nova proposta de função de ativação com parâmetros aprendidos pela rede%. | https://github.com/MuriloIA/CNN_FUZZY_ACTIVATION | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230126T11:05:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 50 | 22| 
 | 20230126T09:08:51Z | A mutation based fuzzer for Dafny | https://github.com/534014913/dafnyfl | 0 | 0| 
 | 20230126T02:52:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3380 | 402| 
-| 20230126T01:44:23Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1990 | 32| 
 
 
 
