@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230125T06:57:59Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4186 | | 
-| 20230125T06:57:55Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4185 | | 
-| 20230125T06:57:52Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4184 | | 
-| 20230125T06:57:48Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4240 | | 
-| 20230125T06:57:44Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4238 | | 
-| 20230125T06:57:40Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4239 | | 
-| 20230125T06:57:37Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4236 | | 
-| 20230125T06:57:33Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4237 | | 
-| 20230125T06:57:30Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4235 | | 
-| 20230125T06:57:27Z | 未知编号 | Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4234 | | 
+| 20230125T23:22:22Z | CVE-2022-47950 | An issue was discovered in OpenStack Swift before 2.28.1, 2.29.x before 2.29.2, and 2.30.0. By supplying crafted XML files, an authenticated user may coerce the S3 API into returning arbitrary file contents from the host server, resulting in unauthorized read access to potentially sensitive data. This impacts both s3ap CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47950 | | 
+| 20230125T23:22:13Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4227 | | 
+| 20230125T23:22:09Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4228 | | 
+| 20230125T23:22:06Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4229 | | 
+| 20230125T23:22:02Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4230 | | 
+| 20230125T23:21:58Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4248 | | 
+| 20230125T23:21:54Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4231 | | 
+| 20230125T23:21:51Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4226, CVE-2016-4227, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4222 | | 
+| 20230125T23:21:47Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-7020 | | 
+| 20230125T22:16:36Z | CVE-2022-45557 | Cross site scripting (XSS) vulnerability in Hundredrabbits Left 7.1.5 for MacOS allows attackers to execute arbitrary code via file names. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45557 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230125T13:20:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10193 | 342| 
+| 20230125T16:14:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10196 | 342| 
 | 20230125T07:07:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T18:14:21Z | Null | https://github.com/en0c-026/tensor-s2e | 0 | 0| 
 | 20230124T10:31:54Z | paper code | https://github.com/GMC-DRL/S2E-GA | 0 | 0| 
 | 20230122T00:41:22Z | Created with StackBlitz ⚡️ | https://github.com/natanbr/Alice-in-borderland---acid-game-s2e6- | 0 | 0| 
 | 20230121T12:01:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 291 | 69| 
@@ -87,21 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T23:24:38Z | Find all of my scripts and exploits here. | https://github.com/catascy/scripts | 1 | 0| 
+| 20230125T22:31:10Z | Docker implementation of Veil exploit framework | https://github.com/isaudits/docker-veil | 3 | 1| 
+| 20230125T21:03:14Z | DDoS Tool which exploits vulnerability CVE-2004-2449 from vendor GameSpy (now known as OpenSpy). User is prompted for input IP address, and port. (NOTE: Please use this responsibly, I made this as a proof of concept of vulnerability exploitation ONLY. I do not endorse DOSing, DDoSing, or cheating in any way. Use this at your own risk.) | https://github.com/ParallelVisions/DoSTool | 1 | 0| 
+| 20230125T14:11:12Z | Exploiting UI using @mui. That is all. | https://github.com/promise-J/Fiery-Priest | 0 | 0| 
 | 20230125T13:40:43Z | An open-source archive of Betastar exploits. | https://github.com/BlacketWare/Betastar | 3 | 0| 
 | 20230125T13:27:58Z | RCE exploit PoC for multi-player PacMan. | https://github.com/oelin/rcepm | 0 | 0| 
 | 20230125T13:27:12Z | A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.   | https://github.com/Checkmarx/capital | 0 | 0| 
 | 20230125T13:17:39Z | 💉・ Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | 62 | 29| 
+| 20230125T12:13:33Z | Docker implementation of BeEF Browser Exploitation Framework using Alpine Linux image base. | https://github.com/isaudits/docker-beef | 5 | 5| 
 | 20230125T12:11:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 387 | 297| 
-| 20230125T12:02:45Z | A post exploitation tool for enumerating cloud using metadata services. | https://github.com/redteaminterac/insiderCloudEnum | 0 | 0| 
-| 20230125T11:51:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-CgQbl-exploit-investigate | 0 | 0| 
-| 20230125T11:42:53Z | unauthenticated (2.1.0 - 2.1.0.p11) / authenticated (<2.1.0p12) RCE exploit for Checkmk. | https://github.com/gbrsh/checkmk-race | 1 | 0| 
-| 20230125T11:18:48Z | Contains CVE%s and Exploits | https://github.com/Olbrychski/Exploits | 0 | 0| 
-| 20230125T10:32:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5208 | 729| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230125T18:23:03Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 639 | 125| 
+| 20230125T14:46:54Z | Null | https://github.com/marcusd7/Chameleon-durable-backdoor | 0 | 0| 
 | 20230125T13:56:46Z | BDFProxy is a tool that has been developed from two different instruments. The Backdoor Factory that actually was designed to automate patching of the files in order to plug in backcodes which might be quite crucial for penetration testing.The tool can patch on fly the binaries downloading by a victim. | https://github.com/ImranTheThirdEye/BDFProxy- | 0 | 0| 
 | 20230125T02:05:21Z | Null | https://github.com/zzzjockzzz/paramiko-backdoor | 0 | 0| 
 | 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
@@ -110,8 +113,6 @@
 | 20230124T12:24:30Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
 | 20230124T08:32:31Z | All collected web malware from IR. #malware #backdoor #webshell #hack #hacker | https://github.com/windhamwong/collected-web-malware | 0 | 0| 
 | 20230124T04:58:39Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
-| 20230124T04:27:53Z | Implementation of XGBD: Explanation-Guided Backdoor Detection on Graphs | https://github.com/GuanZihan/GNN_backdoor_detection | 1 | 0| 
-| 20230124T02:17:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 32 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T00:38:19Z | this is a repository to fulfill the 2nd assignment project for Introduction to AI course | https://github.com/khalilullahalfaath/AI_Tubes-02-Fuzzy-Logic | 0 | 0| 
+| 20230126T00:06:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
+| 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
+| 20230125T21:20:43Z | Null | https://github.com/keithkaple0Org/fuzzy-octo-telegram | 1 | 0| 
+| 20230125T21:03:33Z | Null | https://github.com/boondocks/fuzzy-carnival | 0 | 0| 
+| 20230125T14:38:47Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1988 | 32| 
 | 20230125T14:00:46Z | Операції над інтервалами довіри (Основи нечіткої логіки) | https://github.com/inaprel3/FuzzyLogicOne | 0 | 0| 
 | 20230125T13:44:56Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 120 | 5| 
 | 20230125T13:41:31Z | Null | https://github.com/aymankh86/fuzzy-ai | 0 | 0| 
 | 20230125T12:56:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4927 | 511| 
-| 20230125T12:23:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 227 | 32| 
-| 20230125T12:12:28Z | Null | https://github.com/fuzzylabs/fuzzy-tech-test | 0 | 0| 
-| 20230125T11:46:18Z | Null | https://github.com/adamjedrzejewski/fuzzy | 0 | 0| 
-| 20230125T11:44:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 878 | 198| 
-| 20230125T10:55:07Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 49 | 22| 
-| 20230125T10:39:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8296 | 1806| 
 
 
 
