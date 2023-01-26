@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T13:52:50Z | Super simple implementation of backdoor and server in Python | https://github.com/KonstantinModin/backdoor | 0 | 0| 
 | 20230126T12:14:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 34 | 3| 
 | 20230126T06:25:15Z | :doge: | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230126T02:42:31Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
@@ -112,7 +113,6 @@
 | 20230125T02:05:21Z | Null | https://github.com/zzzjockzzz/paramiko-backdoor | 0 | 0| 
 | 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
 | 20230124T19:31:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1535 | 624| 
-| 20230124T15:30:46Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-TelegramV2 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

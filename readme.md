@@ -47,6 +47,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T13:52:50Z | Super simple implementation of backdoor and server in Python | https://github.com/KonstantinModin/backdoor | 0 | 0| 
 | 20230126T12:14:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 34 | 3| 
 | 20230126T06:25:15Z | :doge: | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
 | 20230126T02:42:31Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
