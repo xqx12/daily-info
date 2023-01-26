@@ -95,13 +95,13 @@
 | 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
 | 20230125T21:20:43Z | Null | https://github.com/keithkaple0Org/fuzzy-octo-telegram | 1 | 0| 
 | 20230125T21:03:33Z | Null | https://github.com/boondocks/fuzzy-carnival | 0 | 0| 
-| 20230125T14:38:47Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1988 | 32| 
 | 20230125T14:00:46Z | Операції над інтервалами довіри (Основи нечіткої логіки) | https://github.com/inaprel3/FuzzyLogicOne | 0 | 0| 
 | 20230125T13:44:56Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 120 | 5| 
 | 20230125T13:41:31Z | Null | https://github.com/aymankh86/fuzzy-ai | 0 | 0| 
 | 20230125T12:56:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4927 | 511| 
 | 20230125T12:23:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 227 | 32| 
 | 20230125T12:12:28Z | Null | https://github.com/fuzzylabs/fuzzy-tech-test | 0 | 0| 
+| 20230125T11:46:18Z | Null | https://github.com/adamjedrzejewski/fuzzy | 0 | 0| 
 
 
 

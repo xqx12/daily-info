@@ -148,12 +148,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T01:44:23Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1990 | 32| 
 | 20230126T01:16:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1235 | 164| 
 | 20230126T01:15:10Z | Rate a workshop using Fuzzy Logic | https://github.com/khalilullahalfaath/AI_Tubes-02-Fuzzy-Logic | 0 | 0| 
 | 20230125T21:30:57Z | Asynchronous parameter fuzzer, collects urls from Common Crawl and Wayback Machine, then checks  20 urls simultaneously for parameters and defines the values with random error causing characters. Spits out every page that goes over status 400 | https://github.com/777388/asynch-param-fuzzer | 0 | 0| 
 | 20230125T21:20:43Z | Null | https://github.com/keithkaple0Org/fuzzy-octo-telegram | 1 | 0| 
 | 20230125T21:03:33Z | Null | https://github.com/boondocks/fuzzy-carnival | 0 | 0| 
-| 20230125T14:38:47Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1988 | 32| 
 | 20230125T14:00:46Z | Операції над інтервалами довіри (Основи нечіткої логіки) | https://github.com/inaprel3/FuzzyLogicOne | 0 | 0| 
 | 20230125T13:44:56Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 120 | 5| 
 | 20230125T13:41:31Z | Null | https://github.com/aymankh86/fuzzy-ai | 0 | 0| 
