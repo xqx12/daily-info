@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T02:42:31Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
 | 20230125T18:23:03Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 639 | 125| 
 | 20230125T14:46:54Z | Null | https://github.com/marcusd7/Chameleon-durable-backdoor | 0 | 0| 
 | 20230125T13:56:46Z | BDFProxy is a tool that has been developed from two different instruments. The Backdoor Factory that actually was designed to automate patching of the files in order to plug in backcodes which might be quite crucial for penetration testing.The tool can patch on fly the binaries downloading by a victim. | https://github.com/ImranTheThirdEye/BDFProxy- | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20230124T15:30:46Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-TelegramV2 | 0 | 0| 
 | 20230124T12:24:30Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
 | 20230124T08:32:31Z | All collected web malware from IR. #malware #backdoor #webshell #hack #hacker | https://github.com/windhamwong/collected-web-malware | 0 | 0| 
-| 20230124T04:58:39Z | [ICLR2023] Detecting Cognitive Backdoors within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
