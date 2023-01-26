@@ -34,7 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T12:43:29Z | An All-In-One hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 138 | 28| 
+| 20230126T13:08:45Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 138 | 28| 
 | 20230126T12:34:33Z | This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. | https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis | 0 | 0| 
 | 20230126T11:06:09Z | The aim is to understand the learning outcomes of TensorFlow data processing pipelines and understand how GPUs can accelerate data processing. Write data processing pipelines that exploit TensorFlow and have the knowledge to understand how to develop GPU-accelerated data processing pipelines using the TensorFlow and RAPIDS framework. | https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset | 0 | 0| 
 | 20230126T09:44:12Z | Bloxflip exploits for the popular Roblox Gambling Site | https://github.com/Bhood23/BloxFlip-Exploits-Roblox-Tests | 1 | 0| 
