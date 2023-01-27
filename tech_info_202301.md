@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230125T23:22:22Z | CVE-2022-47950 | An issue was discovered in OpenStack Swift before 2.28.1, 2.29.x before 2.29.2, and 2.30.0. By supplying crafted XML files, an authenticated user may coerce the S3 API into returning arbitrary file contents from the host server, resulting in unauthorized read access to potentially sensitive data. This impacts both s3ap CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47950 | | 
-| 20230125T23:22:13Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4227 | | 
-| 20230125T23:22:09Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4228 | | 
-| 20230125T23:22:06Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4229 | | 
-| 20230125T23:22:02Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4230 | | 
-| 20230125T23:21:58Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4248 | | 
-| 20230125T23:21:54Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4231 | | 
-| 20230125T23:21:51Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4226, CVE-2016-4227, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-4222 | | 
-| 20230125T23:21:47Z | 未知编号 | Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2016-7020 | | 
-| 20230125T22:16:36Z | CVE-2022-45557 | Cross site scripting (XSS) vulnerability in Hundredrabbits Left 7.1.5 for MacOS allows attackers to execute arbitrary code via file names. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45557 | | 
+| 20230126T23:33:48Z | CVE-2022-40997 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40997 | | 
+| 20230126T23:33:43Z | CVE-2022-40996 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40996 | | 
+| 20230126T23:33:39Z | CVE-2022-40995 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40995 | | 
+| 20230126T23:33:34Z | CVE-2022-40994 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40994 | | 
+| 20230126T23:33:30Z | CVE-2022-40992 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40992 | | 
+| 20230126T23:33:25Z | CVE-2022-40991 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40991 | | 
+| 20230126T23:33:21Z | CVE-2022-40990 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40990 | | 
+| 20230126T23:33:17Z | CVE-2022-40986 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40986 | | 
+| 20230126T23:33:13Z | CVE-2022-40987 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40987 | | 
+| 20230126T23:33:10Z | CVE-2022-40985 | Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40985 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T13:36:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10208 | 343| 
+| 20230126T21:57:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10212 | 342| 
 | 20230126T08:55:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 200 | 1| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230126T13:58:40Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 142 | 29| 
-| 20230126T13:16:11Z | This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. | https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis | 0 | 0| 
-| 20230126T11:06:09Z | The aim is to understand the learning outcomes of TensorFlow data processing pipelines and understand how GPUs can accelerate data processing. Write data processing pipelines that exploit TensorFlow and have the knowledge to understand how to develop GPU-accelerated data processing pipelines using the TensorFlow and RAPIDS framework. | https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset | 0 | 0| 
-| 20230126T09:44:12Z | Bloxflip exploits for the popular Roblox Gambling Site | https://github.com/Bhood23/BloxFlip-Exploits-Roblox-Tests | 1 | 0| 
-| 20230126T08:34:45Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3608 | 744| 
-| 20230126T07:14:13Z | Learning material for RE/Exploitation | https://github.com/Hermit97/Shush | 0 | 0| 
-| 20230126T05:55:01Z | Null | https://github.com/vesh-raj/Browser-Exploit | 0 | 0| 
-| 20230126T02:08:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12642 | 2168| 
-| 20230125T23:24:38Z | Find all of my scripts and exploits here. | https://github.com/catascy/scripts | 1 | 0| 
-| 20230125T22:31:10Z | Docker implementation of Veil exploit framework | https://github.com/isaudits/docker-veil | 3 | 1| 
+| 20230127T00:26:28Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 7 | 4| 
+| 20230127T00:07:37Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 0 | 0| 
+| 20230126T23:42:37Z | Web3 threat related labelled datasets for data analysis and machine learning developments. | https://github.com/forta-network/labelled-datasets | 12 | 7| 
+| 20230126T22:08:43Z | L7/L4/L3 & Game METHODS (USE ONLY FOR EDUCATIONAL PURPOSES!!!) | https://github.com/sp00fing/ddos | 1 | 1| 
+| 20230126T21:58:10Z | Null | https://github.com/Roger10092/ApexExploits-script | 0 | 0| 
+| 20230126T21:34:48Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 59 | 4| 
+| 20230126T21:26:36Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 183 | 53| 
+| 20230126T21:20:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bg | 2 | 0| 
+| 20230126T21:14:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bg | 1 | 0| 
+| 20230126T21:13:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bg | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T22:11:00Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 47 | 5| 
+| 20230126T20:39:54Z | it%s easy back door | https://github.com/DenIsTooKool/.easyPythonBackdoor | 0 | 0| 
+| 20230126T20:08:07Z | Simple backdoor for FiveM servers (Only for the servers you own) | https://github.com/N0rmie/FiveM-Backdoor | 0 | 0| 
+| 20230126T19:11:51Z | Backdoor full in nodejs | https://github.com/F4LLUHQ/f4llbackdoor | 0 | 0| 
+| 20230126T15:59:16Z | This Tool Creates A Backdoor/RAT With Python Sockets. | https://github.com/Discordmodsbers/spagheTTI | 0 | 0| 
+| 20230126T15:45:32Z | Karawang Cyber Team Shell | https://github.com/UcenHaxor07/Shell-Backdoor-403 | 0 | 0| 
+| 20230126T15:31:14Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 12 | 3| 
 | 20230126T13:55:33Z | Super simple implementation of backdoor and server in Python | https://github.com/KonstantinModin/backdoor | 0 | 0| 
 | 20230126T12:14:14Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 34 | 3| 
 | 20230126T06:25:15Z | :doge: | https://github.com/ThebestkillerTBK/witch | 8 | 2| 
-| 20230126T02:42:31Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 3 | 0| 
-| 20230125T18:23:03Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 639 | 125| 
-| 20230125T14:46:54Z | Null | https://github.com/marcusd7/Chameleon-durable-backdoor | 0 | 0| 
-| 20230125T13:56:46Z | BDFProxy is a tool that has been developed from two different instruments. The Backdoor Factory that actually was designed to automate patching of the files in order to plug in backcodes which might be quite crucial for penetration testing.The tool can patch on fly the binaries downloading by a victim. | https://github.com/ImranTheThirdEye/BDFProxy- | 0 | 0| 
-| 20230125T02:05:21Z | Null | https://github.com/zzzjockzzz/paramiko-backdoor | 0 | 0| 
-| 20230124T22:45:59Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 37 | 10| 
-| 20230124T19:31:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1535 | 624| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230126T23:57:20Z | A fuzzy-matching proxy forwarder | https://github.com/MaayanLab/fuzzy-proxy | 0 | 1| 
+| 20230126T21:34:55Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 2 | 1| 
+| 20230126T17:23:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8295 | 1807| 
+| 20230126T16:53:26Z | Null | https://github.com/cforcookie/fuzzy-potato | 0 | 0| 
 | 20230126T14:00:18Z | Application of Fuzzy Logic on Washing Machines | https://github.com/SamySam0/WashingFuzzy | 0 | 0| 
 | 20230126T13:59:31Z | Null | https://github.com/echolinux2/fuzzy-octo-fiesta | 0 | 0| 
 | 20230126T13:08:15Z | Untuk memenuhi tugas besar mata kuliah Kecerdasan Buatan | https://github.com/maulanaadil/Fuzzy-logic- | 0 | 0| 
 | 20230126T12:53:48Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1679 | 79| 
 | 20230126T12:36:55Z | Código para artigo sobre %uma nova proposta de função de ativação com parâmetros aprendidos pela rede%. | https://github.com/MuriloIA/CNN_FUZZY_ACTIVATION | 0 | 0| 
 | 20230126T12:19:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3362 | 674| 
-| 20230126T11:21:12Z | Null | https://github.com/SemioTricks/fuzzy-multi-dict | 0 | 0| 
-| 20230126T11:06:14Z | Null | https://github.com/cforcookie/fuzzy-potato | 0 | 0| 
-| 20230126T11:05:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 50 | 22| 
-| 20230126T09:08:51Z | A mutation based fuzzer for Dafny | https://github.com/534014913/dafnyfl | 0 | 0| 
 
 
 
