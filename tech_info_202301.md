@@ -97,8 +97,8 @@
 | 20230127T12:12:49Z | My understanding of the ps4 6.72 webkit exploit  | https://github.com/a0zhar/PS46XX_WEbkitExploit_Docs | 0 | 0| 
 | 20230127T11:46:12Z | In Eclipse GlassFish versions 5.1.0 to 6.2.5, there is a vulnerability in relative path traversal because it does not filter request path starting with %./%. Successful exploitation could allow an remote unauthenticated attacker to access critical data, such as configuration files and deployed application source code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2712 | 0 | 0| 
 | 20230127T11:26:22Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/exploit-wizard | 0 | 0| 
+| 20230127T03:00:54Z | iOS customization app powered by CVE-2022-46689 | https://github.com/BomberFish/Mandela | 6 | 0| 
 | 20230127T00:26:28Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 7 | 4| 
-| 20230127T00:07:37Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 0 | 0| 
 
 
 # backdoor on Github 推荐
