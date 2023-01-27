@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230127T13:02:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12650 | 2168| 
 | 20230127T12:57:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 220 | 39| 
 | 20230127T12:49:00Z | Null | https://github.com/alireza-cloud/exploits | 0 | 0| 
 | 20230127T12:46:44Z | Artifact for the TCHES paper Whispering MLaaS: Exploiting Timing Channels to Compromise User Privacy in Deep Neural Networks | https://github.com/shubhishukla10/whispering_mlaas | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230127T12:12:49Z | My understanding of the ps4 6.72 webkit exploit  | https://github.com/a0zhar/PS46XX_WEbkitExploit_Docs | 0 | 0| 
 | 20230127T11:46:12Z | In Eclipse GlassFish versions 5.1.0 to 6.2.5, there is a vulnerability in relative path traversal because it does not filter request path starting with %./%. Successful exploitation could allow an remote unauthenticated attacker to access critical data, such as configuration files and deployed application source code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2712 | 0 | 0| 
 | 20230127T11:26:22Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/exploit-wizard | 0 | 0| 
-| 20230127T05:32:13Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12649 | 2168| 
 | 20230127T00:26:28Z | Roblox script execution exploit | https://github.com/NezyDev/Nezy-ExploitV2 | 7 | 4| 
 | 20230127T00:07:37Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 0 | 0| 
 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230127T02:42:02Z | Concolic (Dynamic Symbolic Execution) with Angr demo on a simple binary. | https://github.com/bobby-valenzuela/AngrConcolicDemo | 0 | 0| 
+| 20230127T05:00:44Z | Concolic (Dynamic Symbolic Execution) with Angr demo on a simple binary. | https://github.com/bobby-valenzuela/AngrConcolicDemo | 0 | 0| 
 | 20230126T13:42:11Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 3 | 0| 
 | 20230126T10:28:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3287 | 467| 
 | 20230126T09:13:04Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 14 | 8| 
