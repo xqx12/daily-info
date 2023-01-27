@@ -86,6 +86,7 @@
 | 20230127T11:52:50Z | Custom Scripts write on Python for scaning, fuzzing, enumeration, etc... | https://github.com/RobertMuriel/Pentesting_Python_Scripts | 0 | 0| 
 | 20230127T11:34:41Z | Null | https://github.com/mhsh90/fuzzy-lamp | 0 | 0| 
 | 20230127T11:09:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3364 | 675| 
+| 20230127T07:58:17Z | Demonstrative integration of the JVM-Fuzzer %Jazzer% into an intended vulnerable application. | https://github.com/NicoWK/Fuzzing_Integration | 0 | 0| 
 | 20230127T04:49:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4529 | 1095| 
 | 20230127T02:56:59Z | These are my personal projects to practice coding | https://github.com/Preds0504/fuzzy-octo-meme | 0 | 0| 
 | 20230127T02:12:09Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
