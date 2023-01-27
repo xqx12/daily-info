@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230127T02:12:09Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
 | 20230126T23:57:20Z | A fuzzy-matching proxy forwarder | https://github.com/MaayanLab/fuzzy-proxy | 0 | 1| 
 | 20230126T21:34:55Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 2 | 1| 
 | 20230126T17:23:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8295 | 1807| 
@@ -157,7 +158,6 @@
 | 20230126T13:08:15Z | Untuk memenuhi tugas besar mata kuliah Kecerdasan Buatan | https://github.com/maulanaadil/Fuzzy-logic- | 0 | 0| 
 | 20230126T12:53:48Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1679 | 79| 
 | 20230126T12:36:55Z | Código para artigo sobre %uma nova proposta de função de ativação com parâmetros aprendidos pela rede%. | https://github.com/MuriloIA/CNN_FUZZY_ACTIVATION | 0 | 0| 
-| 20230126T12:19:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3362 | 674| 
 
 
 
