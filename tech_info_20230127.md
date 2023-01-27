@@ -47,6 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230127T13:56:39Z | A vulnerability was found in SourceCodester Online Tours & Travels Management System 1.0. It has been classified as critical. This affects an unknown part of the file admin/abc.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0528 | 0 | 0| 
+| 20230127T13:48:21Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 3 | 0| 
 | 20230127T13:31:20Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/exploit-wizard | 0 | 0| 
 | 20230127T13:29:28Z | My understanding of the ps4 6.72 webkit exploit  | https://github.com/a0zhar/Untitled-TempName | 0 | 0| 
 | 20230127T13:22:59Z | to exploit the vulnerability, simply access the SASAdmin directory, select a notifications option, create a new notification template and insert an XSS payload | https://github.com/Willian-2-0-0-1/SAS-9.4-ADM-XSS | 0 | 0| 
@@ -55,8 +57,6 @@
 | 20230127T12:49:00Z | Null | https://github.com/alireza-cloud/exploits | 0 | 0| 
 | 20230127T12:46:44Z | Artifact for the TCHES paper Whispering MLaaS: Exploiting Timing Channels to Compromise User Privacy in Deep Neural Networks | https://github.com/shubhishukla10/whispering_mlaas | 0 | 0| 
 | 20230127T12:46:39Z | Null | https://github.com/virus0devil/Pentesterlab-Exploit-POC | 0 | 0| 
-| 20230127T12:12:49Z | My understanding of the ps4 6.72 webkit exploit  | https://github.com/a0zhar/PS46XX_WEbkitExploit_Docs | 0 | 0| 
-| 20230127T11:46:12Z | In Eclipse GlassFish versions 5.1.0 to 6.2.5, there is a vulnerability in relative path traversal because it does not filter request path starting with %./%. Successful exploitation could allow an remote unauthenticated attacker to access critical data, such as configuration files and deployed application source code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2712 | 0 | 0| 
 
 
 # backdoor on Github 推荐
