@@ -12,6 +12,7 @@
 | 20230127 | 通过利用一些硬编码在Yellowfin BI里的秘钥信息(例如私钥),用其生成后完成鉴权实现RCE | http://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/| 
 | 20230127 | MyBB <= 1.8.31中的RCE利用链:先通过留言板xss让admin的账号发search API的请求触发sqli注入 再通过修改template实现RCE | https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/| 
 | 20230127 | 通过TpAllocWork,TpPostWork,TpReleaseWork间接回调调用LoadLibrary以规避ETWTI堆栈跟踪 | http://0xdarkvortex.dev/proxying-dll-loads-for-hiding-etwti-stack-tracing/| 
+| 20230127 | 隐藏于USB介质中的PlugX变体 | https://unit42.paloaltonetworks.com/plugx-variants-in-usbs/| 
 | 20230125 | 激活上下文的缓存中毒:利用 CSRSS 进行权限提升的一种新的攻击面类型 | http://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation| 
 | 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | https://www.reddit.com/r/netsec/comments/10jnjkq/pwning_the_all_google_phone_with_a_nongoogle_bug/| 
 | 20230125 | CVE-2023-23504:XNU dlil.c中的堆写入漏洞 | http://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/| 
@@ -25,7 +26,6 @@
 | 20230123 | bi0sCTF 2022 jsc题目b3typer的offical writeup | https://blog.bi0s.in/2023/01/23/Pwn/bi0sCTF22-b3typer/| 
 | 20230123 | 入门级堆利用教学系列，目前共发布7篇 | https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-unsafe-unlink-part-4-3-75e00e1b0c68?gi=3c811b00aa50| 
 | 20230123 | 手把手教你如何用 ROP 绕过数据执行保护（Data Execution Prevention，DEP）。利用 QuoteDB 在 Windows 平台上进行调试教学。 | http://cybergeeks.tech/a-step-by-step-introduction-to-the-use-of-rop-gadgets-to-bypass-dep/| 
-| 20230122 | HTB: UpDown Writeup | https://0xdf.gitlab.io/2023/01/21/htb-updown.html| 
 
 
 # 安全维基 推荐
