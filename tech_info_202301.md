@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T13:33:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 0 | 0| 
+| 20230128T13:33:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20230128T13:33:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20230128T13:32:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20230128T13:32:04Z | Null | https://github.com/Alfie6193/Alfies-exploit | 0 | 0| 
