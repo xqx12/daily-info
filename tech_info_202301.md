@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230128T13:31:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fd | 0 | 0| 
+| 20230128T13:30:08Z | Alfies exxploit is a exploit made by Alfie | https://github.com/Alfie6193/Alfies-exxploit | 0 | 0| 
 | 20230128T12:11:20Z | hi my discord name: Cips#9611 my youtube name: @_Cathe my dicord server: https://discord.gg/zzxF82DHpX | https://github.com/RobloxExploitScripter/RobloxExploitScripts | 1 | 0| 
 | 20230128T11:16:53Z | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | 0 | 0| 
 | 20230128T10:48:18Z | Null | https://github.com/vegaban/drp-exploits | 0 | 0| 
@@ -97,14 +99,12 @@
 | 20230128T02:14:27Z | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | 5 | 0| 
 | 20230128T01:27:22Z | Small CTF challenges for CCIG Web Exploitation Introduction.  | https://github.com/landoncrabtree/ccig-web-exploitation-ctf | 0 | 0| 
 | 20230128T00:11:09Z | Just a simple free script for first person shooting in cars, features patched exploits such as use of radio while shooting. | https://github.com/K7AKEN/fivem-firstpersonshootingcars | 0 | 0| 
-| 20230128T00:00:34Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 1 | 0| 
-| 20230127T23:41:13Z | This is a repo hosting an exploit featuring Mojo | https://github.com/Chromium-Workshop/k1llswitch-chromium | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T13:25:02Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 60 | 8| 
+| 20230128T13:31:42Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 61 | 8| 
 | 20230128T08:08:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 389 | 74| 
 | 20230128T05:15:17Z | Quick RDP/VPS Config Tools , Change Password, Create Hidden User, Create Backdoor, Disable or Enable Task Manager, Google Chrome Install, Disable Computer Management | https://github.com/fhnirob888/RDP-VPS-Tools-by-FHNirob | 0 | 0| 
 | 20230128T03:10:33Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 5 | 0| 
