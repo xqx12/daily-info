@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:48:38Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 400 | 64| 
+| 20230128T02:58:01Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 401 | 64| 
 | 20230128T01:27:22Z | Small CTF challenges for CCIG Web Exploitation Introduction.  | https://github.com/landoncrabtree/ccig-web-exploitation-ctf | 0 | 0| 
 | 20230128T00:11:09Z | Just a simple free script for first person shooting in cars, features patched exploits such as use of radio while shooting. | https://github.com/K7AKEN/fivem-firstpersonshootingcars | 0 | 0| 
 | 20230128T00:00:34Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 1 | 0| 
@@ -149,12 +149,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230128T02:59:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8298 | 1807| 
 | 20230128T02:34:39Z | For this project, we will create a MySQL database utilizing the Maven Fuzzy Factory dataset. By utilizing SQL, we will gather, analyze, and evaluate the website traffic and performance data of a simulated e-commerce business. Our goal is to evaluate the effectiveness of different marketing strategies to optimize expenses and raise the revenue. | https://github.com/sh-jain/MySQL_MavenFuzzyFactory_Project | 0 | 0| 
 | 20230128T01:57:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1860 | 215| 
 | 20230127T23:40:21Z | SeamFuzz Artifact repository for ICSE 2023 | https://github.com/kupl/SeamFuzz-Artifact | 0 | 0| 
 | 20230127T23:20:15Z | Full Stack Developer, Open-source Maintainer & Contributor, Software Engineer  | https://github.com/shivalinggg/fuzzy-dollop | 0 | 0| 
 | 20230127T22:26:40Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
-| 20230127T21:42:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8297 | 1807| 
 | 20230127T21:01:21Z | fuzzy clock | https://github.com/adamjedrzejewski/fuzzy | 0 | 0| 
 | 20230127T20:38:10Z | Null | https://github.com/mahrukhaleem70/fuzzy-octo-umbrella | 0 | 0| 
 | 20230127T18:58:45Z | Semantic LiDAR Fuzzer | https://github.com/less-lab-uva/semLidarFuzz | 2 | 0| 

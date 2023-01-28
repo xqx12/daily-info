@@ -100,13 +100,13 @@
 | 20230127T23:40:21Z | SeamFuzz Artifact repository for ICSE 2023 | https://github.com/kupl/SeamFuzz-Artifact | 0 | 0| 
 | 20230127T23:20:15Z | Full Stack Developer, Open-source Maintainer & Contributor, Software Engineer  | https://github.com/shivalinggg/fuzzy-dollop | 0 | 0| 
 | 20230127T22:26:40Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
-| 20230127T21:42:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8297 | 1807| 
 | 20230127T21:01:21Z | fuzzy clock | https://github.com/adamjedrzejewski/fuzzy | 0 | 0| 
 | 20230127T20:38:10Z | Null | https://github.com/mahrukhaleem70/fuzzy-octo-umbrella | 0 | 0| 
 | 20230127T18:58:45Z | Semantic LiDAR Fuzzer | https://github.com/less-lab-uva/semLidarFuzz | 2 | 0| 
 | 20230127T13:48:21Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 3 | 0| 
 | 20230127T13:46:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3365 | 675| 
 | 20230127T12:17:33Z | Null | https://github.com/Fiorela141/fuzzy-eureka | 0 | 0| 
+| 20230127T11:52:50Z | Custom Scripts write on Python for scaning, fuzzing, enumeration, etc... | https://github.com/RobertMuriel/Pentesting_Python_Scripts | 0 | 0| 
 
 
 
