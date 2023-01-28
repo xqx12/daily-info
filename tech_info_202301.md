@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T13:08:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10245 | 343| 
+| 20230128T13:31:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10246 | 343| 
 | 20230128T09:06:09Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 12 | 0| 
 | 20230127T15:36:18Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 20 | 0| 
 | 20230127T14:59:20Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 27 | 2| 
@@ -89,22 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T13:31:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fd | 0 | 0| 
+| 20230128T13:33:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 0 | 0| 
+| 20230128T13:33:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
+| 20230128T13:32:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fd | 1 | 0| 
+| 20230128T13:32:04Z | Null | https://github.com/Alfie6193/Alfies-exploit | 0 | 0| 
 | 20230128T13:30:08Z | Alfies exxploit is a exploit made by Alfie | https://github.com/Alfie6193/Alfies-exxploit | 0 | 0| 
 | 20230128T12:11:20Z | hi my discord name: Cips#9611 my youtube name: @_Cathe my dicord server: https://discord.gg/zzxF82DHpX | https://github.com/RobloxExploitScripter/RobloxExploitScripts | 1 | 0| 
 | 20230128T11:16:53Z | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | 0 | 0| 
 | 20230128T10:48:18Z | Null | https://github.com/vegaban/drp-exploits | 0 | 0| 
 | 20230128T09:07:18Z | my first exploit i made  | https://github.com/Br4ubrunru/my-roblox-script-GUI | 0 | 0| 
 | 20230128T02:58:01Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 401 | 64| 
-| 20230128T02:14:27Z | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | 5 | 0| 
-| 20230128T01:27:22Z | Small CTF challenges for CCIG Web Exploitation Introduction.  | https://github.com/landoncrabtree/ccig-web-exploitation-ctf | 0 | 0| 
-| 20230128T00:11:09Z | Just a simple free script for first person shooting in cars, features patched exploits such as use of radio while shooting. | https://github.com/K7AKEN/fivem-firstpersonshootingcars | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T13:31:42Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 61 | 8| 
+| 20230128T13:32:47Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 62 | 8| 
 | 20230128T08:08:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 389 | 74| 
 | 20230128T05:15:17Z | Quick RDP/VPS Config Tools , Change Password, Create Hidden User, Create Backdoor, Disable or Enable Task Manager, Google Chrome Install, Disable Computer Management | https://github.com/fhnirob888/RDP-VPS-Tools-by-FHNirob | 0 | 0| 
 | 20230128T03:10:33Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 5 | 0| 
