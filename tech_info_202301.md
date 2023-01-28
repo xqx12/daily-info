@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230128T01:27:22Z | Small CTF challenges for CCIG Web Exploitation Introduction.  | https://github.com/landoncrabtree/ccig-web-exploitation-ctf | 0 | 0| 
 | 20230128T00:11:09Z | Just a simple free script for first person shooting in cars, features patched exploits such as use of radio while shooting. | https://github.com/K7AKEN/fivem-firstpersonshootingcars | 0 | 0| 
 | 20230128T00:00:34Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 1 | 0| 
 | 20230127T23:41:13Z | This is a repo hosting an exploit featuring Mojo | https://github.com/Chromium-Workshop/k1llswitch-chromium | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20230127T22:30:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20230127T21:41:03Z | This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. Crafted data CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42400 | 0 | 0| 
 | 20230127T20:16:54Z | PoC contract for exploiting solana logs | https://github.com/jarry-xiao/logspammer | 0 | 0| 
-| 20230127T17:53:03Z | Open source custom DLL exploit for Roblox with custom functions, level 8 execution, multi Roblox injection, and a key system. | https://github.com/plusgiant5/TaaprWareV2 | 8 | 2| 
 
 
 # backdoor on Github 推荐
