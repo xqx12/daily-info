@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230128T13:55:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12655 | 2169| 
 | 20230128T13:33:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20230128T13:33:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20230128T13:32:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fd | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20230128T11:16:53Z | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | 0 | 0| 
 | 20230128T10:48:18Z | Null | https://github.com/vegaban/drp-exploits | 0 | 0| 
 | 20230128T09:07:18Z | my first exploit i made  | https://github.com/Br4ubrunru/my-roblox-script-GUI | 0 | 0| 
-| 20230128T02:58:01Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 401 | 64| 
 
 
 # backdoor on Github 推荐
