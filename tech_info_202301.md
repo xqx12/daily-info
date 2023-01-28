@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230128 | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection| 
 | 20230127 | CVE-2023-24055:KeePass 配置文件具有写入权限的攻击者可以修改它并注入恶意触发器,可以泄露密码 | https://github.com/alt3kx/CVE-2023-24055_PoC| 
 | 20230127 | 利用 Windows CryptoAPI 中的欺骗漏洞(CVE-2022-34689),Poc的攻击分为两种:一种利用 Chrome v48,另一种侧重于crypt32.dll中易受攻击的MD5 | https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689| 
 | 20230127 | openemr中的未授权任意读取漏洞以及未授权rce的漏洞分析(XSS鉴权,文件上传+LFI) | https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/| 
@@ -25,12 +26,12 @@
 | 20230123 | U-Boot – USB DFU 中未经检查下载内容的大小和来源造成堆栈溢出 (CVE-2022-2347) | http://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/| 
 | 20230123 | bi0sCTF 2022 jsc题目b3typer的offical writeup | https://blog.bi0s.in/2023/01/23/Pwn/bi0sCTF22-b3typer/| 
 | 20230123 | 入门级堆利用教学系列，目前共发布7篇 | https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-unsafe-unlink-part-4-3-75e00e1b0c68?gi=3c811b00aa50| 
-| 20230123 | 手把手教你如何用 ROP 绕过数据执行保护（Data Execution Prevention，DEP）。利用 QuoteDB 在 Windows 平台上进行调试教学。 | http://cybergeeks.tech/a-step-by-step-introduction-to-the-use-of-rop-gadgets-to-bypass-dep/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230128 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA| 
 | 20230126 | 记一次Webshell检测引擎绕过测试 | https://tttang.com/archive/1875/| 
 | 20230125 | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora| 
 | 20230125 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
@@ -40,28 +41,28 @@
 | 20230124 | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw| 
 | 20230119 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ| 
 | 20230119 | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ| 
-| 20230119 | 基于代码属性图的自动化漏洞挖掘实践 | https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:03:39Z | CVE-2023-0047 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2023. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0047 | | 
-| 20230128T02:03:35Z | CVE-2022-39324 | Grafana is an open-source platform for monitoring and observability. Prior to versions 8.5.16 and 9.2.8, malicious user can create a snapshot and arbitrarily choose the `originalUrl` parameter by editing the query, thanks to a web proxy. When another user opens the URL of the snapshot, they will be presented with the r CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39324 | | 
-| 20230128T02:03:29Z | CVE-2023-23627 | Sanitize is an allowlist-based HTML and CSS sanitizer. Versions 5.0.0 and later, prior to 6.0.1, are vulnerable to Cross-site Scripting. When Sanitize is configured with a custom allowlist that allows `noscript` elements, attackers are able to include arbitrary HTML, resulting in XSS (cross-site scripting) or other und CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23627 | | 
-| 20230128T02:03:25Z | CVE-2023-23624 | Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, someone can use the `exclude_tag param` to filter out topics and deduce which ones were using a specific hidden tag. This affects any Discourse site using hid CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23624 | | 
-| 20230128T02:03:22Z | CVE-2023-23621 | Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, a malicious user can cause a regular expression denial of service using a carefully crafted user agent. This issue is patched in version 3.0.1 on the `stable` CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23621 | | 
-| 20230128T02:03:18Z | CVE-2023-23620 | Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, the contents of latest/top routes for restricted tags can be accessed by unauthorized users. This issue is patched in version 3.0.1 on the `stable` branch and 3.1.0.b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23620 | | 
-| 20230128T02:03:15Z | CVE-2023-23617 | OpenMage LTS is an e-commerce platform. Versions prior to 19.4.22 and 20.0.19 contain an infinite loop in malicious code filter in certain conditions. Versions 19.4.22 and 20.0.19 have a fix for this issue. There are no known workarounds. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23617 | | 
-| 20230128T02:03:11Z | CVE-2023-23616 | Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, when submitting a membership request, there is no character limit for the reason provided with the request. This could potentially allow a user to flood the database  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23616 | | 
-| 20230128T02:03:07Z | CVE-2023-22737 | wire-server provides back end services for Wire, a team communication and collaboration platform. Prior to version 2022-12-09, every member of a Conversation can remove a Bot from a Conversation due to a missing permissions check. Only Conversation admins should be able to remove Bots. Regular Conversations are not all CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22737 | | 
-| 20230128T02:03:04Z | CVE-2020-13640 | A SQL injection issue in the gVectors wpDiscuz plugin 5.3.5 and earlier for WordPress allows remote attackers to execute arbitrary SQL commands via the order parameter of a wpdLoadMoreComments request. (No 7.x versions are affected.) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-13640 | | 
+| 20230128T11:16:53Z | CVE-2021-43798 | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | | 
+| 20230128T11:01:56Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
+| 20230128T06:40:57Z | CVE-2020-24371 | lgc.c in Lua 5.4.0 mishandles the interaction between barriers and the sweep phase, leading to a memory access violation involving collectgarbage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-24371 | | 
+| 20230128T06:35:39Z | CVE-2020-14947 | OCS Inventory NG 2.7 allows Remote Command Execution via shell metacharacters to require/commandLine/CommandLine.php because mib_file in plugins/main_sections/ms_config/ms_snmp_config.php is mishandled in get_mib_oid. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14947 | | 
+| 20230128T06:35:25Z | CVE-2023-23014 | Cross Site Scripting (XSS) vulnerability in InventorySystem thru commit e08fbbe17902146313501ed0b5feba81d58f455c (on Apr 23, 2021) via edit_store_name and edit_active inputs in file InventorySystem.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23014 | | 
+| 20230128T06:35:21Z | CVE-2023-23010 | Cross Site Scripting (XSS) vulnerability in Ecommerce-CodeIgniter-Bootstrap thru commit d5904379ca55014c5df34c67deda982c73dc7fe5 (on Dec 27, 2022), allows attackers to execute arbitrary code via the languages and trans_load parameters in file add_product.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23010 | | 
+| 20230128T06:35:17Z | CVE-2022-45748 | An issue was discovered with assimp 5.1.4, a use after free occurred in function ColladaParser::ExtractDataObjectFromChannel in file /code/AssetLib/Collada/ColladaParser.cpp. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45748 | | 
+| 20230128T06:35:13Z | CVE-2022-47012 | Use of uninitialized variable in function gen_eth_recv in GNS3 dynamips 0.2.21. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47012 | | 
+| 20230128T06:35:10Z | CVE-2022-42410 | This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PGM files. Crafted data CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42410 | | 
+| 20230128T06:35:06Z | CVE-2022-42409 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. Craf CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42409 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:49:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10236 | 343| 
+| 20230128T12:20:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10244 | 343| 
+| 20230128T09:06:09Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 12 | 0| 
 | 20230127T15:36:18Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 20 | 0| 
 | 20230127T14:59:20Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 27 | 2| 
 | 20230127T14:43:54Z | Kleenapp | https://github.com/spookyman69/kleenapp | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
 | 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
 | 20230121T06:51:03Z | Null | https://github.com/rajashekharpendli/kleeteam | 0 | 0| 
-| 20230121T06:19:52Z | Null | https://github.com/rajashekharpendli/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230128T12:11:20Z | hi my discord name: Cips#9611 my youtube name: @_Cathe my dicord server: https://discord.gg/zzxF82DHpX | https://github.com/RobloxExploitScripter/RobloxExploitScripts | 1 | 0| 
+| 20230128T11:16:53Z | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | 0 | 0| 
+| 20230128T10:48:18Z | Null | https://github.com/vegaban/drp-exploits | 0 | 0| 
+| 20230128T09:07:18Z | my first exploit i made  | https://github.com/Br4ubrunru/my-roblox-script-GUI | 0 | 0| 
 | 20230128T02:58:01Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 401 | 64| 
+| 20230128T02:14:27Z | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | 5 | 0| 
 | 20230128T01:27:22Z | Small CTF challenges for CCIG Web Exploitation Introduction.  | https://github.com/landoncrabtree/ccig-web-exploitation-ctf | 0 | 0| 
 | 20230128T00:11:09Z | Just a simple free script for first person shooting in cars, features patched exploits such as use of radio while shooting. | https://github.com/K7AKEN/fivem-firstpersonshootingcars | 0 | 0| 
 | 20230128T00:00:34Z | writeups for web exploitations challenges  | https://github.com/olaayman999/PicoCTF_writeups | 1 | 0| 
 | 20230127T23:41:13Z | This is a repo hosting an exploit featuring Mojo | https://github.com/Chromium-Workshop/k1llswitch-chromium | 1 | 0| 
-| 20230127T23:22:01Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
-| 20230127T22:33:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20230127T22:31:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20230127T22:30:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20230127T21:41:03Z | This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. Crafted data CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42400 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:52:15Z | /root/.ssh/authorized_keys file watchdog and changer with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 13 | 2| 
+| 20230128T12:23:21Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 58 | 8| 
+| 20230128T08:08:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 389 | 74| 
+| 20230128T05:15:17Z | Quick RDP/VPS Config Tools , Change Password, Create Hidden User, Create Backdoor, Disable or Enable Task Manager, Google Chrome Install, Disable Computer Management | https://github.com/fhnirob888/RDP-VPS-Tools-by-FHNirob | 0 | 0| 
+| 20230128T03:10:33Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 5 | 0| 
 | 20230127T20:42:00Z | SpyMax 4.0 is and RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/SpyMax-4.0-Activated-Cracked-Download | 0 | 0| 
 | 20230127T20:28:15Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 0 | 0| 
 | 20230127T18:27:08Z | AsyncRat_v0.5.6 Latest Version+Source Code Download (AsyncRAT_v0.5.6 The Most PowerFul Remote Administration Tool Ever it Can Remote any Windows Machine + Disabling Windows 10&11 Defender For Ever and Also Other Windows Defeders For All Versions Of Windows System.Educational Purposes Use it For Fun.Requiers NetFrameWork 3.5 and 4 and 4.5 | https://github.com/SoftwaresForPC/AsyncRAT_v0.5.6-Latest-Version-Source-Code | 0 | 0| 
 | 20230127T16:25:09Z | Null | https://github.com/dchruscielski/backdoors-zip | 0 | 0| 
 | 20230127T16:13:47Z | Null | https://github.com/simranhacks/backdoor_python | 1 | 0| 
 | 20230127T13:39:11Z | 👺 Backdoor Scanner for FiveM (not a addon) | https://github.com/MasterChad/backdoor-finder-fivem | 0 | 0| 
-| 20230127T06:09:59Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 4 | 0| 
-| 20230127T04:50:28Z | Null | https://github.com/brahmaputra7/allow-backdoor | 0 | 0| 
-| 20230126T22:11:00Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 47 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:59:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8298 | 1807| 
+| 20230128T12:50:51Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 0 | 0| 
+| 20230128T12:46:17Z | Null | https://github.com/bumchenko/fuzzy-journey | 0 | 0| 
+| 20230128T12:37:37Z | Null | https://github.com/Nyanjuimarvin/Fuzz | 0 | 0| 
+| 20230128T11:57:18Z | PID vs Fuzzy Logic Cruise Control comparison for a car with Tesla model 3 properties. | https://github.com/Athok98/PID_vs_Fuzzy_Logic_Cruise_Control_comparison | 0 | 0| 
+| 20230128T11:38:00Z | Null | https://github.com/Hamzasaleem7773/fuzzy-octo-winner | 0 | 0| 
+| 20230128T11:22:36Z | Null | https://github.com/SALVIN77/fuzzy-octo-carnival-salvinkj | 0 | 0| 
+| 20230128T10:16:53Z | Null | https://github.com/JOpFuzzer/JOpFuzzer-demo | 0 | 0| 
+| 20230128T06:10:41Z | Null | https://github.com/amatoria/fuzzy-fortnight | 1 | 0| 
+| 20230128T04:11:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8299 | 1807| 
 | 20230128T02:34:39Z | For this project, we will create a MySQL database utilizing the Maven Fuzzy Factory dataset. By utilizing SQL, we will gather, analyze, and evaluate the website traffic and performance data of a simulated e-commerce business. Our goal is to evaluate the effectiveness of different marketing strategies to optimize expenses and raise the revenue. | https://github.com/sh-jain/MySQL_MavenFuzzyFactory_Project | 0 | 0| 
-| 20230128T01:57:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1860 | 215| 
-| 20230127T23:40:21Z | SeamFuzz Artifact repository for ICSE 2023 | https://github.com/kupl/SeamFuzz-Artifact | 0 | 0| 
-| 20230127T23:20:15Z | Full Stack Developer, Open-source Maintainer & Contributor, Software Engineer  | https://github.com/shivalinggg/fuzzy-dollop | 0 | 0| 
-| 20230127T22:26:40Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
-| 20230127T21:01:21Z | fuzzy clock | https://github.com/adamjedrzejewski/fuzzy | 0 | 0| 
-| 20230127T20:38:10Z | Null | https://github.com/mahrukhaleem70/fuzzy-octo-umbrella | 0 | 0| 
-| 20230127T18:58:45Z | Semantic LiDAR Fuzzer | https://github.com/less-lab-uva/semLidarFuzz | 2 | 0| 
-| 20230127T13:48:21Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 3 | 0| 
 
 
 
