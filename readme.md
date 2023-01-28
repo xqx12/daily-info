@@ -61,7 +61,7 @@
 | 20230127T22:30:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20230127T21:41:03Z | This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. Crafted data CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42400 | 0 | 0| 
 | 20230127T20:16:54Z | PoC contract for exploiting solana logs | https://github.com/jarry-xiao/logspammer | 0 | 0| 
-| 20230127T17:53:03Z | Open source custom DLL exploit for Roblox with custom functions, level 8 execution, multi Roblox injection, and a key system. | https://github.com/plusgiant5/TaaprWareV2 | 8 | 2| 
+| 20230127T17:53:03Z | Open source custom DLL exploit for Roblox with custom functions, level 8 execution, multi Roblox injection, and a key system. | https://github.com/plusgiant5/TaaprWareV2 | 8 | 3| 
 | 20230127T13:57:30Z | This repo contain Python POC of Pentesterlab. | https://github.com/virus0devil/Pentesterlab-Exploit-POC | 0 | 0| 
 | 20230127T13:57:01Z | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file admin/expense_report.php. The manipulation of the argument to_date leads to sql injection. It is possible to initiate the attack remotely. The exploit has CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0534 | 0 | 0| 
 
