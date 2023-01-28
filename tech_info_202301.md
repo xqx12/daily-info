@@ -104,21 +104,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230127T22:30:01Z | /root/.ssh/authorized_keys file watchdog and changer with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 2 | 0| 
+| 20230127T20:42:00Z | SpyMax 4.0 is and RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/SpyMax-4.0-Activated-Cracked-Download | 0 | 0| 
+| 20230127T20:28:15Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 0 | 0| 
+| 20230127T18:27:08Z | AsyncRat_v0.5.6 Latest Version+Source Code Download (AsyncRAT_v0.5.6 The Most PowerFul Remote Administration Tool Ever it Can Remote any Windows Machine + Disabling Windows 10&11 Defender For Ever and Also Other Windows Defeders For All Versions Of Windows System.Educational Purposes Use it For Fun.Requiers NetFrameWork 3.5 and 4 and 4.5 | https://github.com/SoftwaresForPC/AsyncRAT_v0.5.6-Latest-Version-Source-Code | 0 | 0| 
+| 20230127T16:25:09Z | Null | https://github.com/dchruscielski/backdoors-zip | 0 | 0| 
+| 20230127T16:13:47Z | Null | https://github.com/simranhacks/backdoor_python | 1 | 0| 
 | 20230127T13:39:11Z | 👺 Backdoor Scanner for FiveM (not a addon) | https://github.com/MasterChad/backdoor-finder-fivem | 0 | 0| 
 | 20230127T06:09:59Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 4 | 0| 
 | 20230127T04:50:28Z | Null | https://github.com/brahmaputra7/allow-backdoor | 0 | 0| 
 | 20230126T22:11:00Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 47 | 5| 
-| 20230126T20:39:54Z | it%s easy back door | https://github.com/DenIsTooKool/.easyPythonBackdoor | 0 | 0| 
-| 20230126T20:08:07Z | Simple backdoor for FiveM servers (Only for the servers you own) | https://github.com/N0rmie/FiveM-Backdoor | 0 | 0| 
-| 20230126T19:11:51Z | Backdoor full in nodejs | https://github.com/F4LLUHQ/f4llbackdoor | 0 | 0| 
-| 20230126T15:59:16Z | This Tool Creates A Backdoor/RAT With Python Sockets. | https://github.com/Discordmodsbers/spagheTTI | 0 | 0| 
-| 20230126T15:45:32Z | Karawang Cyber Team Shell | https://github.com/UcenHaxor07/Shell-Backdoor-403 | 0 | 0| 
-| 20230126T15:31:14Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 12 | 3| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230127T18:33:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 614 | 111| 
+| 20230127T15:32:00Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 0 | 0| 
 | 20230127T05:00:44Z | Concolic (Dynamic Symbolic Execution) with Angr demo on a simple binary. | https://github.com/bobby-valenzuela/AngrConcolicDemo | 0 | 0| 
 | 20230126T13:42:11Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 3 | 0| 
 | 20230126T10:28:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3287 | 467| 
@@ -127,8 +129,6 @@
 | 20230124T21:24:51Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 42 | 2| 
 | 20230124T17:00:45Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 42| 
 | 20230124T13:06:36Z | Experiments with Graph Neural Networks and symbolic execution | https://github.com/katyacyfra/symbolic_exec_GNN | 0 | 0| 
-| 20230123T14:31:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 541 | 32| 
-| 20230121T12:01:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 291 | 69| 
 
 
 # big4 on Github 推荐
