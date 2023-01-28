@@ -149,7 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230128T02:17:55Z | Null | https://github.com/sh-jain/MySQL_MavenFuzzyFactory_Project | 0 | 0| 
+| 20230128T02:34:39Z | For this project, we will create a MySQL database utilizing the Maven Fuzzy Factory dataset. By utilizing SQL, we will gather, analyze, and evaluate the website traffic and performance data of a simulated e-commerce business. Our goal is to evaluate the effectiveness of different marketing strategies to optimize expenses and raise the revenue. | https://github.com/sh-jain/MySQL_MavenFuzzyFactory_Project | 0 | 0| 
 | 20230128T01:57:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1860 | 215| 
 | 20230127T23:40:21Z | SeamFuzz Artifact repository for ICSE 2023 | https://github.com/kupl/SeamFuzz-Artifact | 0 | 0| 
 | 20230127T23:20:15Z | Full Stack Developer, Open-source Maintainer & Contributor, Software Engineer  | https://github.com/shivalinggg/fuzzy-dollop | 0 | 0| 
