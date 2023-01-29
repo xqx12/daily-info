@@ -153,12 +153,12 @@
 | 20230129T02:25:55Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 1 | 0| 
 | 20230129T02:20:21Z | Null | https://github.com/moomoomoo123/fuzzy-tribble | 0 | 0| 
 | 20230129T01:34:23Z | Null | https://github.com/aatifkazmi/fuzzy | 0 | 0| 
+| 20230129T01:07:10Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2033 | 34| 
 | 20230128T23:49:43Z | Null | https://github.com/kazitipu/fuzzy-happiness | 0 | 0| 
 | 20230128T19:41:14Z | brute force get requests to specified number | https://github.com/natementze/directory_fuzzing_in_c | 1 | 0| 
 | 20230128T18:39:28Z | MSU Marketplace web app | https://github.com/spectrumstrike/fuzzy-fortnight | 0 | 0| 
 | 20230128T18:18:02Z | Null | https://github.com/Mbuyamba/fuzzy-fortnight | 0 | 0| 
 | 20230128T18:07:20Z | Null | https://github.com/Rabiatmusa/fuzzy-umbrella | 0 | 0| 
-| 20230128T15:18:16Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2701 | 506| 
 
 
 
