@@ -149,8 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T01:37:11Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 0 | 0| 
 | 20230129T01:34:23Z | Null | https://github.com/aatifkazmi/fuzzy | 0 | 0| 
-| 20230129T01:24:51Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 0 | 0| 
 | 20230128T23:49:43Z | Null | https://github.com/kazitipu/fuzzy-happiness | 0 | 0| 
 | 20230128T19:41:14Z | brute force get requests to specified number | https://github.com/natementze/directory_fuzzing_in_c | 1 | 0| 
 | 20230128T18:39:28Z | MSU Marketplace web app | https://github.com/spectrumstrike/fuzzy-fortnight | 0 | 0| 
