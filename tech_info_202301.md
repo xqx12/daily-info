@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T02:20:21Z | Null | https://github.com/moomoomoo123/fuzzy-tribble | 0 | 0| 
 | 20230129T01:37:11Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 0 | 0| 
 | 20230129T01:34:23Z | Null | https://github.com/aatifkazmi/fuzzy | 0 | 0| 
 | 20230128T23:49:43Z | Null | https://github.com/kazitipu/fuzzy-happiness | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20230128T18:07:20Z | Null | https://github.com/Rabiatmusa/fuzzy-umbrella | 0 | 0| 
 | 20230128T15:18:16Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2701 | 506| 
 | 20230128T12:50:51Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 0 | 0| 
-| 20230128T12:46:17Z | Null | https://github.com/bumchenko/fuzzy-journey | 0 | 0| 
 
 
 
