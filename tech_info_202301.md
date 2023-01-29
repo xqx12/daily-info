@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T13:54:49Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1022 | 165| 
+| 20230129T13:57:07Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1024 | 165| 
 | 20230129T13:00:08Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 386 | 53| 
 | 20230129T12:59:04Z | Null | https://github.com/Trumpiter-max/Binary-Exploit-101 | 0 | 0| 
 | 20230129T11:46:51Z | Null | https://github.com/markuched13/Binary-Exploitation | 0 | 0| 
