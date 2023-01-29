@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T13:19:11Z | Kleeja Uploader for Desktop | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
 | 20230129T10:44:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10268 | 343| 
 | 20230129T09:43:48Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 | 20230128T20:35:19Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230127T08:51:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
 | 20230127T02:30:22Z | Null | https://github.com/ArnavAmbe/ARNAVCS1KLEE | 0 | 0| 
 | 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
-| 20230122T11:55:43Z | Null | https://github.com/Hvoya/klee-presense-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T13:16:34Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1005 | 165| 
+| 20230129T13:18:44Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1007 | 165| 
 | 20230129T13:00:08Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 386 | 53| 
 | 20230129T12:59:04Z | Null | https://github.com/Trumpiter-max/Binary-Exploit-101 | 0 | 0| 
 | 20230129T11:00:35Z | A wiki repository for the Work Package 4 Task 4 - Exploitation of PP framework for key applications | https://github.com/DEODE-NWP/WP44 | 0 | 0| 
@@ -105,8 +105,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T13:15:12Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 43 | 8| 
 | 20230129T12:25:03Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 152 | 18| 
-| 20230129T11:44:46Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 42 | 8| 
 | 20230129T10:46:58Z | Simple test of backdoor addons for Gmod | https://github.com/toomanylog/gmod_backdoor | 0 | 0| 
 | 20230129T10:41:16Z | Null | https://github.com/ganeshnikhil/client_server_backdoor | 0 | 0| 
 | 20230129T09:11:10Z | Null | https://github.com/PythonHacker24/backdoor | 0 | 0| 
