@@ -149,8 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T02:29:52Z | Null | https://github.com/Bosmade008/fuzzy-fiesta | 0 | 0| 
+| 20230129T02:25:55Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 1 | 0| 
 | 20230129T02:20:21Z | Null | https://github.com/moomoomoo123/fuzzy-tribble | 0 | 0| 
-| 20230129T01:37:11Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 0 | 0| 
 | 20230129T01:34:23Z | Null | https://github.com/aatifkazmi/fuzzy | 0 | 0| 
 | 20230128T23:49:43Z | Null | https://github.com/kazitipu/fuzzy-happiness | 0 | 0| 
 | 20230128T19:41:14Z | brute force get requests to specified number | https://github.com/natementze/directory_fuzzing_in_c | 1 | 0| 
@@ -158,7 +159,6 @@
 | 20230128T18:18:02Z | Null | https://github.com/Mbuyamba/fuzzy-fortnight | 0 | 0| 
 | 20230128T18:07:20Z | Null | https://github.com/Rabiatmusa/fuzzy-umbrella | 0 | 0| 
 | 20230128T15:18:16Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2701 | 506| 
-| 20230128T12:50:51Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 0 | 0| 
 
 
 
