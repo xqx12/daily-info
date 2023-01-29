@@ -9,6 +9,7 @@
 | 20230128 | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection| 
 | 20230128 | Malware Theory - How Packers Work, Polymorphism and Misconceptions | https://www.youtube.com/watch?v=ESLEf66EzDk&feature=youtu.be| 
 | 20230128 | 绕过OGNL注入保护机制(包括Struts和Atlassian Confluence使用一些特殊的机制) | http://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/| 
+| 20230128 | 微软在内核中引入KASAN，SKASAN和针对Hyper-V的HASAN | https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/01/26/introducing-kernel-sanitizers-on-microsoft-platforms/| 
 
 
 # 安全维基 推荐
