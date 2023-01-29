@@ -36,7 +36,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230128T20:35:19Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
-| 20230128T20:15:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10254 | 343| 
 | 20230128T19:58:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 13 | 0| 
 
 
