@@ -54,9 +54,9 @@
 | 20230128T22:27:36Z | open sourced exploit ui library | https://github.com/EpicDev2232/Lithium-UI | 0 | 0| 
 | 20230128T21:44:47Z | Null | https://github.com/Venus-Solar-Star/GlacierExploits | 0 | 0| 
 | 20230128T19:21:39Z | Null | https://github.com/WingZer0o/exploitdevelopment | 0 | 0| 
+| 20230128T18:53:08Z | Open source custom DLL exploit for Roblox with custom functions, level 8 execution, multi Roblox injection, and a key system. | https://github.com/plusgiant5/TaaprWareV2 | 9 | 3| 
 | 20230128T13:55:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12655 | 2169| 
 | 20230128T13:33:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
-| 20230128T13:33:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
 
 
 # backdoor on Github 推荐
