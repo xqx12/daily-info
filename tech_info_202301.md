@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T13:26:21Z | Null | https://github.com/echolinux2/fuzzy-disco | 0 | 0| 
 | 20230129T13:22:51Z | Null | https://github.com/lehakot-create/fuzzy-lamp | 0 | 0| 
 | 20230129T12:59:33Z | Null | https://github.com/mep03/fuzzy-giggle | 0 | 0| 
 | 20230129T12:15:22Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 1 | 0| 
@@ -159,7 +160,6 @@
 | 20230129T05:31:57Z | fuzzy-fiesta | https://github.com/Jurgenpine/fuzzy-fiesta | 0 | 0| 
 | 20230129T03:22:59Z | Null | https://github.com/Harshita-Batra-1/Fuzzy-Logic | 0 | 0| 
 | 20230129T02:58:07Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 39 | 27| 
-| 20230129T02:29:52Z | Null | https://github.com/Bosmade008/fuzzy-fiesta | 0 | 0| 
 
 
 
