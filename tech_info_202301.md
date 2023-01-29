@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
 | 20230128 | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection| 
 | 20230128 | Malware Theory - How Packers Work, Polymorphism and Misconceptions | https://www.youtube.com/watch?v=ESLEf66EzDk&feature=youtu.be| 
 | 20230128 | 绕过OGNL注入保护机制(包括Struts和Atlassian Confluence使用一些特殊的机制) | http://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/| 
@@ -25,7 +26,6 @@
 | 20230125 | CVE-2023-0210:KSMBD 中的 Linux 内核未经身份验证的堆溢出漏洞 | https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/| 
 | 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | http://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/| 
 | 20230123 | idekCTF2022 - Pwn题目 Coroutine 的详细Writeup | https://kiprey.github.io/2023/01/idek_coroutine/| 
-| 20230123 | 详细分析 CVE-2022-34718 漏洞包含其逆向补丁,协议的所有细节过程,包括纠正Numen Cyber Labs blog中的一些不准确的地方.并成功实现dos.以及概述讲解如何将原语转换为后续rce的一些步骤 | https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230129T10:37:50Z | CVE-2022-25765 | Exploit for CVE-2022-25765 command injection in pdfkit < 0.8.6 | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | | 
+| 20230129T06:37:11Z | CVE-2023-0564 | Weak Password Requirements in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0564 | | 
+| 20230129T06:37:06Z | CVE-2022-48285 | loadAsync in JSZip before 3.8.0 allows Directory Traversal via a crafted ZIP archive. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48285 | | 
+| 20230129T05:48:36Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
+| 20230129T04:29:49Z | CVE-2020-0796 | windows 10 SMB vulnerability | https://github.com/krizzz07/CVE-2020-0796 | | 
+| 20230129T03:02:10Z | CVE-2023-21839 | CVE-2023-21839 exp | https://github.com/fakenews2025/CVE-2023-21839 | | 
 | 20230129T02:18:13Z | CVE-2023-0563 | A vulnerability classified as problematic has been found in PHPGurukul Bank Locker Management System 1.0. This affects an unknown part of the file add-locker-form.php of the component Assign Locker. The manipulation of the argument ahname leads to cross site scripting. It is possible to initiate the attack remotely. Th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0563 | | 
 | 20230129T02:18:09Z | CVE-2023-0562 | A vulnerability was found in PHPGurukul Bank Locker Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file index.php of the component Login. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0562 | | 
 | 20230129T02:18:05Z | CVE-2021-4315 | A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4315 | | 
 | 20230128T19:42:56Z | CVE-2023-0561 | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. Affected is an unknown function of the file /user/s.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0561 | | 
-| 20230128T19:42:52Z | CVE-2023-0560 | A vulnerability, which was classified as critical, has been found in SourceCodester Online Tours & Travels Management System 1.0. This issue affects some unknown processing of the file admin/practice_pdf.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit h CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0560 | | 
-| 20230128T19:42:48Z | CVE-2020-16093 | In LemonLDAP::NG (aka lemonldap-ng) through 2.0.8, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16093 | | 
-| 20230128T18:54:44Z | CVE-2022-23935 | CVE-2022-23935 exploit PoC exiftool version 12.37 | https://github.com/dpbe32/CVE-2022-23935-PoC-Exploit | | 
-| 20230128T11:16:53Z | CVE-2021-43798 | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | | 
-| 20230128T11:01:56Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
-| 20230128T06:40:57Z | CVE-2020-24371 | lgc.c in Lua 5.4.0 mishandles the interaction between barriers and the sweep phase, leading to a memory access violation involving collectgarbage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-24371 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T02:16:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10256 | 343| 
+| 20230129T10:44:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10268 | 343| 
+| 20230129T09:43:48Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 | 20230128T20:35:19Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 | 20230128T19:58:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 13 | 0| 
 | 20230127T15:36:18Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 20 | 0| 
-| 20230127T14:59:20Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 27 | 2| 
 | 20230127T14:43:54Z | Kleenapp | https://github.com/spookyman69/kleenapp | 0 | 0| 
 | 20230127T08:51:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
 | 20230127T02:30:22Z | Null | https://github.com/ArnavAmbe/ARNAVCS1KLEE | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T08:34:27Z | Attempt at an introduction to S2E through google CFT.   | https://github.com/20ryanc/S2E-Guide-CFT | 0 | 0| 
 | 20230127T05:07:52Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 | 20230125T18:14:21Z | Null | https://github.com/en0c-026/tensor-s2e | 0 | 0| 
 | 20230124T10:31:54Z | paper code | https://github.com/GMC-DRL/S2E-GA | 0 | 0| 
@@ -89,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T02:18:05Z | A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4315 | 0 | 0| 
-| 20230129T00:50:55Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Padamatto/Roblox-NYveeee-Private-Exploit-Leak3D | 29 | 0| 
-| 20230129T00:50:50Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Padamatto/DF2-DeaD-Frontier2-PrivateCheat | 29 | 0| 
-| 20230129T00:50:35Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Watanabbe/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 29 | 0| 
-| 20230129T00:50:33Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Watanabbe/AutoFarm-SonicSpeed-Exploit | 29 | 0| 
-| 20230129T00:27:41Z | These are some resources I use to exploit my brain on a daily basis | https://github.com/CY83R-3X71NC710N/Brain-Biohacking | 0 | 0| 
-| 20230129T00:25:31Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 155 | 143| 
-| 20230128T23:34:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mm | 1 | 0| 
-| 20230128T23:33:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mm | 1 | 0| 
-| 20230128T23:32:48Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mm | 1 | 0| 
+| 20230129T13:00:08Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 386 | 53| 
+| 20230129T12:59:04Z | Null | https://github.com/Trumpiter-max/Binary-Exploit-101 | 0 | 0| 
+| 20230129T12:57:38Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1001 | 165| 
+| 20230129T11:00:35Z | A wiki repository for the Work Package 4 Task 4 - Exploitation of PP framework for key applications | https://github.com/DEODE-NWP/WP44 | 0 | 0| 
+| 20230129T10:59:30Z | Null | https://github.com/TibiDumitru/real-life-exploitation | 0 | 0| 
+| 20230129T10:37:50Z | Exploit for CVE-2022-25765 command injection in pdfkit < 0.8.6 | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | 0 | 0| 
+| 20230129T09:30:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3288 | 490| 
+| 20230129T09:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12661 | 2171| 
+| 20230129T06:29:12Z | (WIP)some linux malware/exploit dev research | https://github.com/bogdzn/percy | 0 | 0| 
+| 20230129T03:11:49Z | Null | https://github.com/OleliebtSarah/OleExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T02:58:59Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 109 | 12| 
+| 20230129T12:25:03Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 152 | 18| 
+| 20230129T11:44:46Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 42 | 8| 
+| 20230129T10:46:58Z | Simple test of backdoor addons for Gmod | https://github.com/toomanylog/gmod_backdoor | 0 | 0| 
+| 20230129T10:41:16Z | Null | https://github.com/ganeshnikhil/client_server_backdoor | 0 | 0| 
+| 20230129T09:11:10Z | Null | https://github.com/PythonHacker24/backdoor | 0 | 0| 
+| 20230129T05:56:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 3 | 0| 
 | 20230128T21:10:36Z | Null | https://github.com/DerekSip/BackDoor-Exploit | 1 | 0| 
 | 20230128T18:04:53Z | Null | https://github.com/nalarsawung/backdoor | 0 | 0| 
 | 20230128T16:21:03Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 1 | 0| 
 | 20230128T15:27:20Z | Quick RDP/VPS Config Tools , Change Password, Create Hidden User, Create Backdoor, Disable or Enable Task Manager, Google Chrome Install, Disable Computer Management | https://github.com/fhnirob888/RDP-VPS-Tools-by-FHNirob | 1 | 0| 
-| 20230128T08:08:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 389 | 74| 
-| 20230128T03:10:33Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 5 | 0| 
-| 20230127T20:42:00Z | SpyMax 4.0 is and RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/SpyMax-4.0-Activated-Cracked-Download | 0 | 1| 
-| 20230127T18:27:08Z | AsyncRat_v0.5.6 Latest Version+Source Code Download (AsyncRAT_v0.5.6 The Most PowerFul Remote Administration Tool Ever it Can Remote any Windows Machine + Disabling Windows 10&11 Defender For Ever and Also Other Windows Defeders For All Versions Of Windows System.Educational Purposes Use it For Fun.Requiers NetFrameWork 3.5 and 4 and 4.5 | https://github.com/SoftwaresForPC/AsyncRAT_v0.5.6-Latest-Version-Source-Code | 0 | 0| 
-| 20230127T16:25:09Z | Null | https://github.com/dchruscielski/backdoors-zip | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T12:59:33Z | Null | https://github.com/mep03/fuzzy-giggle | 0 | 0| 
+| 20230129T12:15:22Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 1 | 0| 
+| 20230129T11:40:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8301 | 1806| 
+| 20230129T11:17:41Z | Null | https://github.com/RCRDMK/fuzzy-fiesta | 0 | 0| 
+| 20230129T09:07:44Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 91 | 7| 
+| 20230129T05:31:57Z | fuzzy-fiesta | https://github.com/Jurgenpine/fuzzy-fiesta | 0 | 0| 
+| 20230129T03:22:59Z | Null | https://github.com/Harshita-Batra-1/Fuzzy-Logic | 0 | 0| 
 | 20230129T02:58:07Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 39 | 27| 
-| 20230129T02:38:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8300 | 1807| 
 | 20230129T02:29:52Z | Null | https://github.com/Bosmade008/fuzzy-fiesta | 0 | 0| 
 | 20230129T02:25:55Z | Using GPT-3 as a back-end, called via HTML attributes. | https://github.com/yoheinakajima/fuzzy.js | 1 | 0| 
-| 20230129T02:20:21Z | Null | https://github.com/moomoomoo123/fuzzy-tribble | 0 | 0| 
-| 20230129T01:34:23Z | Null | https://github.com/aatifkazmi/fuzzy | 0 | 0| 
-| 20230129T01:07:10Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2033 | 34| 
-| 20230128T23:49:43Z | Null | https://github.com/kazitipu/fuzzy-happiness | 0 | 0| 
-| 20230128T19:41:14Z | brute force get requests to specified number | https://github.com/natementze/directory_fuzzing_in_c | 1 | 0| 
-| 20230128T18:39:28Z | MSU Marketplace web app | https://github.com/spectrumstrike/fuzzy-fortnight | 0 | 0| 
 
 
 
