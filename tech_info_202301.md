@@ -94,7 +94,7 @@
 | 20230129T00:50:35Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Watanabbe/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 29 | 0| 
 | 20230129T00:50:33Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Watanabbe/AutoFarm-SonicSpeed-Exploit | 29 | 0| 
 | 20230129T00:27:41Z | These are some resources I use to exploit my brain on a daily basis | https://github.com/CY83R-3X71NC710N/Brain-Biohacking | 0 | 0| 
-| 20230129T00:25:31Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 155 | 142| 
+| 20230129T00:25:31Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 155 | 143| 
 | 20230128T23:34:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mm | 1 | 0| 
 | 20230128T23:33:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mm | 1 | 0| 
 | 20230128T23:32:48Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mm | 1 | 0| 
@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T00:42:25Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 85 | 10| 
+| 20230129T01:07:25Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 86 | 10| 
 | 20230128T21:10:36Z | Null | https://github.com/DerekSip/BackDoor-Exploit | 1 | 0| 
 | 20230128T18:04:53Z | Null | https://github.com/nalarsawung/backdoor | 0 | 0| 
 | 20230128T16:21:03Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 1 | 0| 
