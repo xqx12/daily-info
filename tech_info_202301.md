@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230129T02:18:13Z | CVE-2023-0563 | A vulnerability classified as problematic has been found in PHPGurukul Bank Locker Management System 1.0. This affects an unknown part of the file add-locker-form.php of the component Assign Locker. The manipulation of the argument ahname leads to cross site scripting. It is possible to initiate the attack remotely. Th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0563 | | 
+| 20230129T02:18:09Z | CVE-2023-0562 | A vulnerability was found in PHPGurukul Bank Locker Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file index.php of the component Login. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0562 | | 
+| 20230129T02:18:05Z | CVE-2021-4315 | A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4315 | | 
 | 20230128T19:42:56Z | CVE-2023-0561 | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. Affected is an unknown function of the file /user/s.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0561 | | 
 | 20230128T19:42:52Z | CVE-2023-0560 | A vulnerability, which was classified as critical, has been found in SourceCodester Online Tours & Travels Management System 1.0. This issue affects some unknown processing of the file admin/practice_pdf.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit h CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0560 | | 
 | 20230128T19:42:48Z | CVE-2020-16093 | In LemonLDAP::NG (aka lemonldap-ng) through 2.0.8, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16093 | | 
@@ -53,9 +56,6 @@
 | 20230128T11:16:53Z | CVE-2021-43798 | This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system. | https://github.com/mauricelambert/LabAutomationCVE-2021-43798 | | 
 | 20230128T11:01:56Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 | 20230128T06:40:57Z | CVE-2020-24371 | lgc.c in Lua 5.4.0 mishandles the interaction between barriers and the sweep phase, leading to a memory access violation involving collectgarbage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-24371 | | 
-| 20230128T06:35:39Z | CVE-2020-14947 | OCS Inventory NG 2.7 allows Remote Command Execution via shell metacharacters to require/commandLine/CommandLine.php because mib_file in plugins/main_sections/ms_config/ms_snmp_config.php is mishandled in get_mib_oid. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14947 | | 
-| 20230128T06:35:25Z | CVE-2023-23014 | Cross Site Scripting (XSS) vulnerability in InventorySystem thru commit e08fbbe17902146313501ed0b5feba81d58f455c (on Apr 23, 2021) via edit_store_name and edit_active inputs in file InventorySystem.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23014 | | 
-| 20230128T06:35:21Z | CVE-2023-23010 | Cross Site Scripting (XSS) vulnerability in Ecommerce-CodeIgniter-Bootstrap thru commit d5904379ca55014c5df34c67deda982c73dc7fe5 (on Dec 27, 2022), allows attackers to execute arbitrary code via the languages and trans_load parameters in file add_product.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23010 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T02:18:05Z | A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4315 | 0 | 0| 
 | 20230129T00:50:55Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Padamatto/Roblox-NYveeee-Private-Exploit-Leak3D | 29 | 0| 
 | 20230129T00:50:50Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Padamatto/DF2-DeaD-Frontier2-PrivateCheat | 29 | 0| 
 | 20230129T00:50:35Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Watanabbe/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 29 | 0| 
@@ -98,13 +99,12 @@
 | 20230128T23:34:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mm | 1 | 0| 
 | 20230128T23:33:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mm | 1 | 0| 
 | 20230128T23:32:48Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mm | 1 | 0| 
-| 20230128T23:31:53Z | Free roblox exploits | https://github.com/TheFreeIvcCenter/RobloxX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T02:15:21Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 99 | 11| 
+| 20230129T02:19:00Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 101 | 11| 
 | 20230128T21:10:36Z | Null | https://github.com/DerekSip/BackDoor-Exploit | 1 | 0| 
 | 20230128T18:04:53Z | Null | https://github.com/nalarsawung/backdoor | 0 | 0| 
 | 20230128T16:21:03Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 1 | 0| 
