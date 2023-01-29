@@ -51,10 +51,10 @@
 | 20230129T11:00:35Z | A wiki repository for the Work Package 4 Task 4 - Exploitation of PP framework for key applications | https://github.com/DEODE-NWP/WP44 | 0 | 0| 
 | 20230129T10:59:30Z | Null | https://github.com/TibiDumitru/real-life-exploitation | 0 | 0| 
 | 20230129T10:37:50Z | Exploit for CVE-2022-25765 command injection in pdfkit < 0.8.6 | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | 0 | 0| 
+| 20230129T09:35:44Z | Some vulnerabilities of proxies  | https://github.com/Aboudoc/Proxy-exploit | 0 | 0| 
 | 20230129T09:30:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3288 | 490| 
 | 20230129T09:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12661 | 2171| 
 | 20230129T06:29:12Z | (WIP)some linux malware/exploit dev research | https://github.com/bogdzn/percy | 0 | 0| 
-| 20230129T03:11:49Z | Null | https://github.com/OleliebtSarah/OleExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
