@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
+| 20230129 | PHP Development Server <= 7.4.21的远程源码泄露漏洞 | https://blog.projectdiscovery.io/php-http-server-source-disclosure/| 
 
 
 # 安全维基 推荐

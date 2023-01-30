@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
+| 20230129 | PHP Development Server <= 7.4.21的远程源码泄露漏洞 | https://blog.projectdiscovery.io/php-http-server-source-disclosure/| 
 | 20230128 | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection| 
 | 20230128 | Malware Theory - How Packers Work, Polymorphism and Misconceptions | https://www.youtube.com/watch?v=ESLEf66EzDk&feature=youtu.be| 
 | 20230128 | 绕过OGNL注入保护机制(包括Struts和Atlassian Confluence使用一些特殊的机制) | http://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/| 
@@ -25,7 +26,6 @@
 | 20230125 | FBI 确认 Lazarus Group 对 Harmony 的 Horizo​​n Bridge 货币盗窃负责 | https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-apt38-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft| 
 | 20230125 | CVE-2023-0210:KSMBD 中的 Linux 内核未经身份验证的堆溢出漏洞 | https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/| 
 | 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | http://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/| 
-| 20230123 | idekCTF2022 - Pwn题目 Coroutine 的详细Writeup | https://kiprey.github.io/2023/01/idek_coroutine/| 
 
 
 # 安全维基 推荐
