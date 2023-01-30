@@ -92,8 +92,8 @@
 | 20230129T13:22:51Z | Null | https://github.com/lehakot-create/fuzzy-lamp | 0 | 0| 
 | 20230129T12:59:33Z | Null | https://github.com/mep03/fuzzy-giggle | 0 | 0| 
 | 20230129T12:15:22Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 1 | 0| 
-| 20230129T11:40:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8301 | 1806| 
 | 20230129T11:17:41Z | Null | https://github.com/RCRDMK/fuzzy-fiesta | 0 | 0| 
+| 20230129T09:07:44Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 91 | 7| 
 
 
 
