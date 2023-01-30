@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230130 | bi0sCTF 2022 Web题目Vuln-Drive 2的官方writeup | https://blog.bi0s.in/2023/01/24/Web/Vuln-Drive2-bi0sCTF222023/| 
+| 20230130 | 通过补丁对比分析FortiGate SSLVPN 的 RCE 漏洞 CVE-2022-42475，漏洞原因在于32->64转换时的整数溢出 | http://wzt.ac.cn/2022/12/15/CVE-2022-42475/| 
 | 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
 | 20230129 | PHP Development Server <= 7.4.21的远程源码泄露漏洞 | https://blog.projectdiscovery.io/php-http-server-source-disclosure/| 
 | 20230128 | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection| 
@@ -24,38 +26,36 @@
 | 20230125 | CVE-2023-23504:XNU dlil.c中的堆写入漏洞 | http://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/| 
 | 20230125 | CVE-2022-42845:XNU ndrv.c中存在20年的UAF漏洞 | http://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/| 
 | 20230125 | FBI 确认 Lazarus Group 对 Harmony 的 Horizo​​n Bridge 货币盗窃负责 | https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-apt38-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft| 
-| 20230125 | CVE-2023-0210:KSMBD 中的 Linux 内核未经身份验证的堆溢出漏洞 | https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/| 
-| 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | http://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230130 | Nacos accessToken 权限认证绕过漏洞及思考 | https://mp.weixin.qq.com/s/vsdbYACk2ShI3tx0dnOxpA| 
+| 20230130 | SecWiki周刊（第465期) | https://www.sec-wiki.com/weekly/465| 
+| 20230130 | 大论文写作小技巧 | https://mp.weixin.qq.com/s/kYgU4YEAbxmemwytw9Ooig| 
+| 20230130 | php://filter过滤器利用之代码执行漏洞 | https://mp.weixin.qq.com/s/BvHzbgWA1alO7N2fkEfMYQ| 
 | 20230128 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA| 
 | 20230126 | 记一次Webshell检测引擎绕过测试 | https://tttang.com/archive/1875/| 
 | 20230125 | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora| 
 | 20230125 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
 | 20230125 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ| 
 | 20230124 | SecWiki周刊（第464期) | https://www.sec-wiki.com/weekly/464| 
-| 20230124 | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程... | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw| 
-| 20230124 | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw| 
-| 20230119 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ| 
-| 20230119 | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:16:07Z | CVE-2023-0572 | Unchecked Error Condition in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0572 | | 
-| 20230130T00:04:38Z | CVE-2023-24065 | NOSH 4a5cfdb allows stored XSS via the create user page. For example, a first name (of a physician, assistant, or billing user) can have a JavaScript payload that is executed upon visiting the /users/2/1 page. This may allow attackers to steal Protected Health Information because the product is for health charting. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24065 | | 
-| 20230130T00:04:35Z | CVE-2023-0566 | Static Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0566 | | 
-| 20230130T00:04:32Z | CVE-2023-0565 | Business Logic Errors in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0565 | | 
-| 20230129T19:44:30Z | CVE-2023-0569 | Weak Password Requirements in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0569 | | 
-| 20230129T19:44:20Z | CVE-2023-0571 | A vulnerability has been found in SourceCodester Canteen Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file createcustomer.php of the component Add Customer. The manipulation of the argument name leads to cross site scripting. The attack can be initiated remotely. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0571 | | 
-| 20230129T19:44:16Z | CVE-2023-0570 | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file user\operations\payment_operation.php. The manipulation of the argument booking_id leads to sql injection. It is possible to initiate the attack remotely. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0570 | | 
-| 20230129T19:40:29Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
-| 20230129T15:20:27Z | CVE-2020-4051 | In Dijit before versions 1.11.11, and greater than or equal to 1.12.0 and less than 1.12.9, and greater than or equal to 1.13.0 and less than 1.13.8, and greater than or equal to 1.14.0 and less than 1.14.7, and greater than or equal to 1.15.0 and less than 1.15.4, and greater than or equal to 1.16.0 and less than 1.16 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-4051 | | 
-| 20230129T15:20:24Z | CVE-2021-23450 | All versions of package dojo are vulnerable to Prototype Pollution via the setObject function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23450 | | 
+| 20230130T12:04:00Z | CVE-2023-22332 | Information disclosure vulnerability exists in Pgpool-II 4.4.0 to 4.4.1 (4.4 series), 4.3.0 to 4.3.4 (4.3 series), 4.2.0 to 4.2.11 (4.2 series), 4.1.0 to 4.1.14 (4.1 series), 4.0.0 to 4.0.21 (4.0 series), All versions of 3.7 series, All versions of 3.6 series, All versions of 3.5 series, All versions of 3.4 series, and CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22332 | | 
+| 20230130T12:03:57Z | CVE-2023-22322 | Improper restriction of XML external entity reference (XXE) vulnerability exists in OMRON CX-Motion Pro 1.4.6.013 and earlier. If a user opens a specially crafted project file created by an attacker, sensitive information in the file system where CX-Motion Pro is installed may be disclosed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22322 | | 
+| 20230130T12:03:53Z | CVE-2023-22333 | Cross-site scripting vulnerability in EasyMail 2.00.130 and earlier allows a remote unauthenticated attacker to inject an arbitrary script. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22333 | | 
+| 20230130T12:03:49Z | CVE-2023-22324 | SQL injection vulnerability in the CONPROSYS HMI System (CHS) Ver.3.5.0 and earlier allows a remote authenticated attacker to execute an arbitrary SQL command. As a result, information stored in the database may be obtained. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22324 | | 
+| 20230130T12:03:45Z | CVE-2022-46359 | Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46359 | | 
+| 20230130T12:03:42Z | CVE-2022-46358 | Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46358 | | 
+| 20230130T12:03:37Z | CVE-2022-46357 | Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46357 | | 
+| 20230130T12:03:34Z | CVE-2022-46356 | Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46356 | | 
+| 20230130T12:03:30Z | CVE-2023-0474 | Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0474 | | 
+| 20230130T12:03:26Z | CVE-2023-0473 | Type Confusion in ServiceWorker API in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0473 | | 
 
 
 # klee on Github 推荐
@@ -76,12 +76,12 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T11:27:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 69| 
 | 20230130T01:59:22Z | Attempt at an introduction to S2E through google CFT.   | https://github.com/20ryanc/S2E-Guide-CFT | 0 | 0| 
 | 20230127T05:07:52Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 | 20230125T18:14:21Z | Null | https://github.com/en0c-026/tensor-s2e | 0 | 0| 
 | 20230124T10:31:54Z | paper code | https://github.com/GMC-DRL/S2E-GA | 0 | 0| 
 | 20230122T00:41:22Z | Created with StackBlitz ⚡️ | https://github.com/natanbr/Alice-in-borderland---acid-game-s2e6- | 0 | 0| 
-| 20230121T12:01:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 291 | 69| 
 | 20230113T18:45:53Z | Null | https://github.com/turbocanary/turbotest_r6aikmfr_s2e79up1 | 0 | 0| 
 | 20230107T16:37:04Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 75 | 12| 
 | 20230105T06:57:30Z | Null | https://github.com/dona7025/S2ExamDs-ml | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:58:48Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 49 | 8| 
-| 20230130T02:08:16Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1273 | 199| 
-| 20230130T01:39:35Z | An application made with Node.js and a database for exploits, malware, etc. Which analyzes the device sent by the request and indicates possible %flaws% that may have in the device used. | https://github.com/NotNamed-repo/NotSafe | 0 | 0| 
-| 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
-| 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
-| 20230129T23:36:41Z | Invalid Curve Attack on ed25519 exploit used for Tide%s H4x Challenge 1.5 | https://github.com/AgeOfAlgorithms/Invalid-Curve-Attack-on-ed25519 | 0 | 0| 
-| 20230129T21:58:26Z | FE++ is the best anti-exploit to stop filtering enabled vulnerabilities in your Roblox game! | https://github.com/ccuser44/FE-Plus-Plus | 7 | 2| 
-| 20230129T21:55:21Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nb | 1 | 0| 
-| 20230129T21:54:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nb | 1 | 0| 
-| 20230129T21:53:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nb | 1 | 0| 
+| 20230130T13:00:50Z | For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The Project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives. | https://github.com/alexgaarciia/ExcelDashboard | 0 | 0| 
+| 20230130T12:53:24Z | Queries public repos that contain links to other repos with CVE exploits and returns them | https://github.com/Trinitok/cve_repo_query | 0 | 0| 
+| 20230130T12:44:34Z | Null | https://github.com/G3N3RA710N-L0CU57/binary-exploitation | 0 | 0| 
+| 20230130T12:40:44Z | Security Books, Mind-Maps, Vulnerabilities Notes and Exploitation and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 4 | 0| 
+| 20230130T12:34:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12665 | 2171| 
+| 20230130T12:03:30Z | Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0474 | 0 | 0| 
+| 20230130T12:03:23Z | Use after free in WebRTC in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0472 | 0 | 0| 
+| 20230130T11:42:06Z | Null | https://github.com/unCodeBoss/Private-Vulnerable-Scanner | 0 | 0| 
+| 20230130T11:39:49Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-BHoAT-seem-exploit | 0 | 0| 
+| 20230130T09:19:34Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 596 | 82| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:58:48Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 49 | 8| 
-| 20230130T02:47:36Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 182 | 22| 
+| 20230130T12:13:10Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 55 | 9| 
+| 20230130T11:52:50Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 199 | 22| 
+| 20230130T09:29:18Z | This is the source code for Data-free Backdoor. | https://github.com/lvpeizhuo/Data-free_Backdoor | 0 | 0| 
+| 20230130T07:55:33Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
+| 20230130T07:51:31Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
+| 20230130T01:40:04Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 395 | 74| 
 | 20230130T00:44:06Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
-| 20230129T18:48:26Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
 | 20230129T14:37:52Z | This code lets you to create a hidden admin account. sort of a backdoor in wordpress.  | https://github.com/sashareds/hide-administrator-account-in-wordpress | 0 | 0| 
 | 20230129T10:46:58Z | Simple test of backdoor addons for Gmod | https://github.com/toomanylog/gmod_backdoor | 0 | 0| 
 | 20230129T10:41:16Z | Null | https://github.com/ganeshnikhil/client_server_backdoor | 0 | 0| 
-| 20230129T09:11:10Z | Null | https://github.com/PythonHacker24/backdoor | 0 | 0| 
-| 20230129T05:56:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 3 | 0| 
-| 20230128T21:10:36Z | Null | https://github.com/DerekSip/BackDoor-Exploit | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T12:32:52Z | Null | https://github.com/reewardius/bbFuzzing.txt | 3 | 2| 
+| 20230130T11:29:34Z | Null | https://github.com/Tega-Og/fuzzy-happiness | 0 | 0| 
+| 20230130T09:56:00Z | 深層TSKファジィ推論をまとめている | https://github.com/harunagatennis/Deep_TSK_fuzzy_inference | 0 | 0| 
+| 20230130T08:26:41Z | Null | https://github.com/ChandraSKN/Obstacle-avoidance-by-the-robot-using-Fuzzy-Controller | 0 | 0| 
+| 20230130T08:20:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4536 | 1096| 
+| 20230130T05:55:03Z | Automation of grabbing all the subdomains and fuzzing the resultant. | https://github.com/th3hash/Sd-fuzz-automation | 0 | 0| 
+| 20230130T05:35:34Z | Use AFL++ to fuzz FreeRTOS kernel | https://github.com/jylsec/FreeRTOS-Fuzz-Driver | 0 | 0| 
 | 20230130T02:37:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8303 | 1806| 
+| 20230130T01:52:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1899 | 245| 
 | 20230130T00:34:52Z | Null | https://github.com/akmalmzkki/fuzzy-logic-best-supplier | 0 | 0| 
-| 20230129T23:11:39Z | Null | https://github.com/vadimka408/fuzzy-disco | 0 | 0| 
-| 20230129T21:54:15Z | Null | https://github.com/burik193/FastFuzzyMatching | 0 | 0| 
-| 20230129T20:10:43Z | Null | https://github.com/radi4nt/fuzzy-guacamole | 0 | 0| 
-| 20230129T15:14:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4929 | 513| 
-| 20230129T13:26:21Z | Null | https://github.com/echolinux2/fuzzy-disco | 0 | 0| 
-| 20230129T13:22:51Z | Null | https://github.com/lehakot-create/fuzzy-lamp | 0 | 0| 
-| 20230129T12:59:33Z | Null | https://github.com/mep03/fuzzy-giggle | 0 | 0| 
-| 20230129T12:15:22Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 1 | 0| 
 
 
 
