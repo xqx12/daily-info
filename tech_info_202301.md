@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230129T10:37:50Z | CVE-2022-25765 | Exploit for CVE-2022-25765 command injection in pdfkit < 0.8.6 | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | | 
-| 20230129T06:37:11Z | CVE-2023-0564 | Weak Password Requirements in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0564 | | 
-| 20230129T06:37:06Z | CVE-2022-48285 | loadAsync in JSZip before 3.8.0 allows Directory Traversal via a crafted ZIP archive. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48285 | | 
-| 20230129T05:48:36Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230129T04:29:49Z | CVE-2020-0796 | windows 10 SMB vulnerability | https://github.com/krizzz07/CVE-2020-0796 | | 
-| 20230129T03:02:10Z | CVE-2023-21839 | CVE-2023-21839 exp | https://github.com/fakenews2025/CVE-2023-21839 | | 
-| 20230129T02:18:13Z | CVE-2023-0563 | A vulnerability classified as problematic has been found in PHPGurukul Bank Locker Management System 1.0. This affects an unknown part of the file add-locker-form.php of the component Assign Locker. The manipulation of the argument ahname leads to cross site scripting. It is possible to initiate the attack remotely. Th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0563 | | 
-| 20230129T02:18:09Z | CVE-2023-0562 | A vulnerability was found in PHPGurukul Bank Locker Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file index.php of the component Login. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0562 | | 
-| 20230129T02:18:05Z | CVE-2021-4315 | A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-4315 | | 
-| 20230128T19:42:56Z | CVE-2023-0561 | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. Affected is an unknown function of the file /user/s.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0561 | | 
+| 20230130T00:04:38Z | CVE-2023-24065 | NOSH 4a5cfdb allows stored XSS via the create user page. For example, a first name (of a physician, assistant, or billing user) can have a JavaScript payload that is executed upon visiting the /users/2/1 page. This may allow attackers to steal Protected Health Information because the product is for health charting. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24065 | | 
+| 20230130T00:04:35Z | CVE-2023-0566 | Static Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0566 | | 
+| 20230130T00:04:32Z | CVE-2023-0565 | Business Logic Errors in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0565 | | 
+| 20230129T19:44:30Z | CVE-2023-0569 | Weak Password Requirements in GitHub repository publify/publify prior to 9.2.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0569 | | 
+| 20230129T19:44:20Z | CVE-2023-0571 | A vulnerability has been found in SourceCodester Canteen Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file createcustomer.php of the component Add Customer. The manipulation of the argument name leads to cross site scripting. The attack can be initiated remotely. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0571 | | 
+| 20230129T19:44:16Z | CVE-2023-0570 | A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file user\operations\payment_operation.php. The manipulation of the argument booking_id leads to sql injection. It is possible to initiate the attack remotely. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0570 | | 
+| 20230129T19:40:29Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
+| 20230129T15:20:27Z | CVE-2020-4051 | In Dijit before versions 1.11.11, and greater than or equal to 1.12.0 and less than 1.12.9, and greater than or equal to 1.13.0 and less than 1.13.8, and greater than or equal to 1.14.0 and less than 1.14.7, and greater than or equal to 1.15.0 and less than 1.15.4, and greater than or equal to 1.16.0 and less than 1.16 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-4051 | | 
+| 20230129T15:20:24Z | CVE-2021-23450 | All versions of package dojo are vulnerable to Prototype Pollution via the setObject function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23450 | | 
+| 20230129T14:19:32Z | CVE-2023-24055 | Contains a simple yara rule to hunt for possible compromised KeePass config files | https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T13:27:35Z | Kleeja Uploader for Desktop | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
-| 20230129T10:44:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10268 | 343| 
+| 20230129T18:31:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10272 | 343| 
+| 20230129T14:15:06Z | Kleeja Uploader for Desktop Tested on Kleeja >=2.3 | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
 | 20230129T09:43:48Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 | 20230128T20:35:19Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 | 20230128T19:58:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 13 | 0| 
@@ -70,7 +70,7 @@
 | 20230127T14:43:54Z | Kleenapp | https://github.com/spookyman69/kleenapp | 0 | 0| 
 | 20230127T08:51:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
 | 20230127T02:30:22Z | Null | https://github.com/ArnavAmbe/ARNAVCS1KLEE | 0 | 0| 
-| 20230123T23:27:26Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 168 | 50| 
+| 20230124T16:24:44Z | Null | https://github.com/KleeUT/kleeut.com | 2 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T13:57:07Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1024 | 165| 
-| 20230129T13:00:08Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 386 | 53| 
-| 20230129T12:59:04Z | Null | https://github.com/Trumpiter-max/Binary-Exploit-101 | 0 | 0| 
-| 20230129T11:46:51Z | Null | https://github.com/markuched13/Binary-Exploitation | 0 | 0| 
-| 20230129T11:00:35Z | A wiki repository for the Work Package 4 Task 4 - Exploitation of PP framework for key applications | https://github.com/DEODE-NWP/WP44 | 0 | 0| 
-| 20230129T10:59:30Z | Null | https://github.com/TibiDumitru/real-life-exploitation | 0 | 0| 
-| 20230129T10:37:50Z | Exploit for CVE-2022-25765 command injection in pdfkit < 0.8.6 | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | 0 | 0| 
-| 20230129T09:35:44Z | Some vulnerabilities of proxies  | https://github.com/Aboudoc/Proxy-exploit | 0 | 0| 
-| 20230129T09:30:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3288 | 490| 
-| 20230129T09:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12661 | 2171| 
+| 20230130T00:58:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1239 | 197| 
+| 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
+| 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
+| 20230129T23:36:41Z | Invalid Curve Attack on ed25519 exploit used for Tide%s H4x Challenge 1.5 | https://github.com/AgeOfAlgorithms/Invalid-Curve-Attack-on-ed25519 | 0 | 0| 
+| 20230129T21:58:26Z | FE++ is the best anti-exploit to stop filtering enabled vulnerabilities in your Roblox game! | https://github.com/ccuser44/FE-Plus-Plus | 7 | 2| 
+| 20230129T21:55:21Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nb | 1 | 0| 
+| 20230129T21:54:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nb | 1 | 0| 
+| 20230129T21:53:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nb | 1 | 0| 
+| 20230129T21:26:41Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 7 | 1| 
+| 20230129T21:18:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5217 | 729| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T13:15:12Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 43 | 8| 
-| 20230129T12:25:03Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 152 | 18| 
+| 20230130T00:44:06Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
+| 20230130T00:17:50Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 167 | 21| 
+| 20230129T18:48:26Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
+| 20230129T16:31:49Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 46 | 8| 
+| 20230129T14:37:52Z | This code lets you to create a hidden admin account. sort of a backdoor in wordpress.  | https://github.com/sashareds/hide-administrator-account-in-wordpress | 0 | 0| 
 | 20230129T10:46:58Z | Simple test of backdoor addons for Gmod | https://github.com/toomanylog/gmod_backdoor | 0 | 0| 
 | 20230129T10:41:16Z | Null | https://github.com/ganeshnikhil/client_server_backdoor | 0 | 0| 
 | 20230129T09:11:10Z | Null | https://github.com/PythonHacker24/backdoor | 0 | 0| 
 | 20230129T05:56:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 3 | 0| 
 | 20230128T21:10:36Z | Null | https://github.com/DerekSip/BackDoor-Exploit | 1 | 0| 
-| 20230128T18:04:53Z | Null | https://github.com/nalarsawung/backdoor | 0 | 0| 
-| 20230128T16:21:03Z | Carbon Crypter / Packer | https://github.com/carboncryptt/CarbonCrypt | 1 | 0| 
-| 20230128T15:27:20Z | Quick RDP/VPS Config Tools , Change Password, Create Hidden User, Create Backdoor, Disable or Enable Task Manager, Google Chrome Install, Disable Computer Management | https://github.com/fhnirob888/RDP-VPS-Tools-by-FHNirob | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
