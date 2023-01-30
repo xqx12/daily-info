@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T01:17:11Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1244 | 198| 
+| 20230130T01:27:18Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1251 | 198| 
 | 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
 | 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
 | 20230129T23:36:41Z | Invalid Curve Attack on ed25519 exploit used for Tide%s H4x Challenge 1.5 | https://github.com/AgeOfAlgorithms/Invalid-Curve-Attack-on-ed25519 | 0 | 0| 
