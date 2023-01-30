@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:07:37Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1272 | 199| 
+| 20230130T02:08:16Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1273 | 199| 
 | 20230130T01:39:35Z | An application made with Node.js and a database for exploits, malware, etc. Which analyzes the device sent by the request and indicates possible %flaws% that may have in the device used. | https://github.com/NotNamed-repo/NotSafe | 0 | 0| 
 | 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
 | 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
