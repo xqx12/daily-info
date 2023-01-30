@@ -32,7 +32,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T18:31:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10272 | 343| 
 | 20230129T14:15:06Z | Kleeja Uploader for Desktop Tested on Kleeja >=2.3 | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
 | 20230129T09:43:48Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 
@@ -73,6 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230129T22:02:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3288 | 468| 
+| 20230129T14:19:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 615 | 111| 
 
 
 # big4 on Github 推荐
