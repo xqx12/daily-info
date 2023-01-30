@@ -90,7 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T01:38:08Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1254 | 198| 
+| 20230130T01:40:14Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1255 | 198| 
+| 20230130T01:39:35Z | An application made with Node.js and a database for exploits, malware, etc. Which analyzes the device sent by the request and indicates possible %flaws% that may have in the device used. | https://github.com/NotNamed-repo/NotSafe | 0 | 0| 
 | 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
 | 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
 | 20230129T23:36:41Z | Invalid Curve Attack on ed25519 exploit used for Tide%s H4x Challenge 1.5 | https://github.com/AgeOfAlgorithms/Invalid-Curve-Attack-on-ed25519 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20230129T21:54:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nb | 1 | 0| 
 | 20230129T21:53:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nb | 1 | 0| 
 | 20230129T21:26:41Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 7 | 1| 
-| 20230129T21:18:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5217 | 729| 
 
 
 # backdoor on Github 推荐
