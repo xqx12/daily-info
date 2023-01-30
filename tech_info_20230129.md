@@ -62,7 +62,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230129T18:48:26Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
-| 20230129T16:31:49Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 46 | 8| 
 | 20230129T14:37:52Z | This code lets you to create a hidden admin account. sort of a backdoor in wordpress.  | https://github.com/sashareds/hide-administrator-account-in-wordpress | 0 | 0| 
 | 20230129T10:46:58Z | Simple test of backdoor addons for Gmod | https://github.com/toomanylog/gmod_backdoor | 0 | 0| 
 | 20230129T10:41:16Z | Null | https://github.com/ganeshnikhil/client_server_backdoor | 0 | 0| 
