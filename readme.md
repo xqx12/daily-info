@@ -40,7 +40,6 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T08:34:27Z | Attempt at an introduction to S2E through google CFT.   | https://github.com/20ryanc/S2E-Guide-CFT | 0 | 0| 
 
 
 # exploit on Github 推荐
