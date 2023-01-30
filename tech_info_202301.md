@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230130T02:16:07Z | CVE-2023-0572 | Unchecked Error Condition in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0572 | | 
 | 20230130T00:04:38Z | CVE-2023-24065 | NOSH 4a5cfdb allows stored XSS via the create user page. For example, a first name (of a physician, assistant, or billing user) can have a JavaScript payload that is executed upon visiting the /users/2/1 page. This may allow attackers to steal Protected Health Information because the product is for health charting. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24065 | | 
 | 20230130T00:04:35Z | CVE-2023-0566 | Static Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0566 | | 
 | 20230130T00:04:32Z | CVE-2023-0565 | Business Logic Errors in GitHub repository froxlor/froxlor prior to 2.0.10. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0565 | | 
@@ -55,7 +56,6 @@
 | 20230129T19:40:29Z | CVE-2022-44900 | Demo webapp vulnerable to CVE-2022-44900 | https://github.com/0xless/CVE-2022-44900-demo-lab | | 
 | 20230129T15:20:27Z | CVE-2020-4051 | In Dijit before versions 1.11.11, and greater than or equal to 1.12.0 and less than 1.12.9, and greater than or equal to 1.13.0 and less than 1.13.8, and greater than or equal to 1.14.0 and less than 1.14.7, and greater than or equal to 1.15.0 and less than 1.15.4, and greater than or equal to 1.16.0 and less than 1.16 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-4051 | | 
 | 20230129T15:20:24Z | CVE-2021-23450 | All versions of package dojo are vulnerable to Prototype Pollution via the setObject function. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23450 | | 
-| 20230129T14:19:32Z | CVE-2023-24055 | Contains a simple yara rule to hunt for possible compromised KeePass config files | https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule | | 
 
 
 # klee on Github 推荐
