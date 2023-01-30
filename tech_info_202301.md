@@ -150,7 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:25:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8302 | 1806| 
+| 20230130T02:37:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8303 | 1806| 
 | 20230130T00:34:52Z | Null | https://github.com/akmalmzkki/fuzzy-logic-best-supplier | 0 | 0| 
 | 20230129T23:11:39Z | Null | https://github.com/vadimka408/fuzzy-disco | 0 | 0| 
 | 20230129T21:54:15Z | Null | https://github.com/burik193/FastFuzzyMatching | 0 | 0| 
