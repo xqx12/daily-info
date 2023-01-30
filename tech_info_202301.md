@@ -96,10 +96,10 @@
 | 20230130T12:40:44Z | Security Books, Mind-Maps, Vulnerabilities Notes and Exploitation and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 4 | 0| 
 | 20230130T12:34:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12665 | 2171| 
 | 20230130T12:03:30Z | Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0474 | 0 | 0| 
+| 20230130T12:03:26Z | Type Confusion in ServiceWorker API in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0473 | 0 | 0| 
 | 20230130T12:03:23Z | Use after free in WebRTC in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0472 | 0 | 0| 
+| 20230130T12:03:19Z | Use after free in WebTransport in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0471 | 0 | 0| 
 | 20230130T11:42:06Z | Null | https://github.com/unCodeBoss/Private-Vulnerable-Scanner | 0 | 0| 
-| 20230130T11:39:49Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-BHoAT-seem-exploit | 0 | 0| 
-| 20230130T09:19:34Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 596 | 82| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230129T22:02:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3288 | 468| 
+| 20230130T11:58:53Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 4 | 0| 
+| 20230130T11:27:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 69| 
+| 20230130T08:45:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3290 | 468| 
 | 20230129T14:19:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 615 | 111| 
 | 20230127T15:32:00Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 0 | 0| 
 | 20230127T05:00:44Z | Concolic (Dynamic Symbolic Execution) with Angr demo on a simple binary. | https://github.com/bobby-valenzuela/AngrConcolicDemo | 0 | 0| 
-| 20230126T13:42:11Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 3 | 0| 
 | 20230126T09:13:04Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 14 | 8| 
 | 20230125T20:06:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 54 | 25| 
 | 20230124T21:24:51Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 42 | 2| 
 | 20230124T17:00:45Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 42| 
-| 20230124T13:06:36Z | Experiments with Graph Neural Networks and symbolic execution | https://github.com/katyacyfra/symbolic_exec_GNN | 0 | 0| 
 
 
 # big4 on Github 推荐
