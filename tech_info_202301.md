@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T02:18:42Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 48 | 8| 
 | 20230130T02:08:16Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 1273 | 199| 
-| 20230130T01:43:48Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 47 | 8| 
 | 20230130T01:39:35Z | An application made with Node.js and a database for exploits, malware, etc. Which analyzes the device sent by the request and indicates possible %flaws% that may have in the device used. | https://github.com/NotNamed-repo/NotSafe | 0 | 0| 
 | 20230130T00:47:59Z | Null | https://github.com/IgorSAssis/learning-exploitation | 0 | 0| 
 | 20230130T00:44:06Z | Bozo Moment | https://github.com/ThatMG393/AFS-RBLX-Exploit | 0 | 0| 
@@ -105,8 +105,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T02:18:42Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 48 | 8| 
 | 20230130T02:10:18Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 178 | 21| 
-| 20230130T01:43:48Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 47 | 8| 
 | 20230130T00:44:06Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230129T18:48:26Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
 | 20230129T14:37:52Z | This code lets you to create a hidden admin account. sort of a backdoor in wordpress.  | https://github.com/sashareds/hide-administrator-account-in-wordpress | 0 | 0| 
