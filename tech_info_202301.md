@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T12:13:10Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 55 | 9| 
+| 20230130T13:05:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 56 | 9| 
 | 20230130T11:52:50Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 199 | 22| 
 | 20230130T09:29:18Z | This is the source code for Data-free Backdoor. | https://github.com/lvpeizhuo/Data-free_Backdoor | 0 | 0| 
 | 20230130T07:55:33Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
