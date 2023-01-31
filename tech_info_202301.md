@@ -93,13 +93,13 @@
 | 20230131T00:22:18Z | This is a gathering of the different types of exploits, how to test for them, and exploit them. | https://github.com/DKrypt1337/Pen_Testing_Cheat_Sheet | 0 | 0| 
 | 20230131T00:05:31Z | A vulnerability in the URL filtering mechanism of Cisco AsyncOS Software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to bypass the URL reputation filters on an affected device. This vulnerability is due to improper processing of URLs. An attacker could exploit this vulnerabi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20057 | 0 | 0| 
 | 20230131T00:05:12Z | An arbitrary file upload vulnerability in taocms v3.0.2 allows attackers to execute arbitrary code via a crafted PHP file. This vulnerability is exploited via manipulation of the upext variable at /include/Model/Upload.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48006 | 0 | 0| 
+| 20230130T22:15:03Z | Venera Framework | https://github.com/farinap5/Venera | 2 | 0| 
 | 20230130T13:11:36Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 597 | 82| 
 | 20230130T13:00:50Z | For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The Project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives. | https://github.com/alexgaarciia/ExcelDashboard | 0 | 0| 
 | 20230130T12:53:24Z | Queries public repos that contain links to other repos with CVE exploits and returns them | https://github.com/Trinitok/cve_repo_query | 0 | 0| 
 | 20230130T12:44:34Z | Null | https://github.com/G3N3RA710N-L0CU57/binary-exploitation | 0 | 0| 
 | 20230130T12:40:44Z | Security Books, Mind-Maps, Vulnerabilities Notes and Exploitation and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 4 | 0| 
 | 20230130T12:34:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12665 | 2171| 
-| 20230130T12:03:30Z | Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0474 | 0 | 0| 
 
 
 # backdoor on Github 推荐

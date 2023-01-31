@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T22:15:03Z | Venera Framework | https://github.com/farinap5/Venera | 2 | 0| 
 | 20230130T13:11:36Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 597 | 82| 
 | 20230130T13:00:50Z | For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The Project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives. | https://github.com/alexgaarciia/ExcelDashboard | 0 | 0| 
 | 20230130T12:53:24Z | Queries public repos that contain links to other repos with CVE exploits and returns them | https://github.com/Trinitok/cve_repo_query | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20230130T12:03:30Z | Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0474 | 0 | 0| 
 | 20230130T12:03:26Z | Type Confusion in ServiceWorker API in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0473 | 0 | 0| 
 | 20230130T12:03:23Z | Use after free in WebRTC in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0472 | 0 | 0| 
-| 20230130T12:03:19Z | Use after free in WebTransport in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0471 | 0 | 0| 
 
 
 # backdoor on Github 推荐
