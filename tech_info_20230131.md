@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:27:22Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2083 | 307| 
+| 20230131T13:54:32Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2084 | 307| 
 | 20230131T12:23:31Z | Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 19 | 2| 
 | 20230131T12:16:52Z | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | 0 | 0| 
 | 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
