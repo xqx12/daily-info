@@ -37,7 +37,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T02:01:01Z | A utility library for LibGDX which has some useful classes and methods for rendering and networking | https://github.com/KleeSup/KleeGameBaseClient | 0 | 0| 
 | 20230130T01:46:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10273 | 343| 
 
 
