@@ -96,16 +96,16 @@
 | 20230131T00:05:31Z | A vulnerability in the URL filtering mechanism of Cisco AsyncOS Software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to bypass the URL reputation filters on an affected device. This vulnerability is due to improper processing of URLs. An attacker could exploit this vulnerabi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20057 | 0 | 0| 
 | 20230131T00:05:12Z | An arbitrary file upload vulnerability in taocms v3.0.2 allows attackers to execute arbitrary code via a crafted PHP file. This vulnerability is exploited via manipulation of the upext variable at /include/Model/Upload.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48006 | 0 | 0| 
 | 20230130T22:15:03Z | Venera Framework | https://github.com/farinap5/Venera | 2 | 0| 
+| 20230130T15:00:04Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 158 | 145| 
 | 20230130T13:11:36Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 597 | 82| 
 | 20230130T13:00:50Z | For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The Project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives. | https://github.com/alexgaarciia/ExcelDashboard | 0 | 0| 
 | 20230130T12:53:24Z | Queries public repos that contain links to other repos with CVE exploits and returns them | https://github.com/Trinitok/cve_repo_query | 0 | 0| 
-| 20230130T12:44:34Z | Null | https://github.com/G3N3RA710N-L0CU57/binary-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T00:39:16Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 203 | 23| 
+| 20230131T01:49:13Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 204 | 23| 
 | 20230131T00:30:02Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 57 | 10| 
 | 20230130T19:11:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230130T14:33:11Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
