@@ -66,41 +66,43 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T13:19:10Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 200 | 22| 
-| 20230130T13:05:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 56 | 9| 
+| 20230130T19:11:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
+| 20230130T14:33:11Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
+| 20230130T14:19:57Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
 | 20230130T09:29:18Z | This is the source code for Data-free Backdoor. | https://github.com/lvpeizhuo/Data-free_Backdoor | 0 | 0| 
-| 20230130T07:55:33Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
 | 20230130T07:51:31Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
 | 20230130T01:40:04Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 395 | 74| 
-| 20230130T00:44:06Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T22:22:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3290 | 468| 
+| 20230130T14:33:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 616 | 111| 
 | 20230130T11:58:53Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 4 | 0| 
 | 20230130T11:27:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 69| 
-| 20230130T08:45:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3290 | 468| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230130T23:16:06Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 32 | 2| 
+| 20230130T21:39:11Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 72 | 37| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T12:32:52Z | Null | https://github.com/reewardius/bbFuzzing.txt | 3 | 2| 
-| 20230130T11:29:34Z | Null | https://github.com/Tega-Og/fuzzy-happiness | 0 | 0| 
-| 20230130T09:56:00Z | 深層TSKファジィ推論をまとめている | https://github.com/harunagatennis/Deep_TSK_fuzzy_inference | 0 | 0| 
-| 20230130T08:26:41Z | Null | https://github.com/ChandraSKN/Obstacle-avoidance-by-the-robot-using-Fuzzy-Controller | 0 | 0| 
-| 20230130T08:20:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4536 | 1096| 
-| 20230130T05:55:03Z | Automation of grabbing all the subdomains and fuzzing the resultant. | https://github.com/th3hash/Sd-fuzz-automation | 0 | 0| 
-| 20230130T05:35:34Z | Use AFL++ to fuzz FreeRTOS kernel | https://github.com/jylsec/FreeRTOS-Fuzz-Driver | 0 | 0| 
-| 20230130T02:37:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8303 | 1806| 
-| 20230130T01:52:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1899 | 245| 
-| 20230130T00:34:52Z | Null | https://github.com/akmalmzkki/fuzzy-logic-best-supplier | 0 | 0| 
+| 20230130T23:38:04Z | Simple Python Web Directory Fuzzer | https://github.com/jwil32/pyFuzzer | 0 | 0| 
+| 20230130T23:35:56Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
+| 20230130T23:34:34Z | Null | https://github.com/grafoo/fuzzing | 0 | 0| 
+| 20230130T23:13:30Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5596-Source-and-Fuzzing | 0 | 0| 
+| 20230130T23:05:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8304 | 1805| 
+| 20230130T22:59:04Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3110-oss-fuzz | 0 | 0| 
+| 20230130T22:58:04Z | Null | https://github.com/google/fuzztest | 215 | 12| 
+| 20230130T22:57:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 882 | 200| 
+| 20230130T22:05:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2642 | 181| 
+| 20230130T21:30:11Z | Null | https://github.com/ralight/mosquitto-fuzzing | 0 | 0| 
 
 
 
