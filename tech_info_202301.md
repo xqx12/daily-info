@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T02:33:54Z | Project Zomboid coordinate exploit (patched) | https://github.com/sugol-a/pz-coordinate-exploit | 0 | 0| 
 | 20230131T02:17:12Z | A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists that could cause remote code execution when a command which exploits this vulnerability is utilized. Affected Products: CanBRASS (Versions prior to V7.5.1) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32512 | 0 | 0| 
 | 20230131T01:36:40Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5832-java-deserialization-exploits | 0 | 0| 
 | 20230131T01:32:56Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-1562-how-to-exploit-a-double-free | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20230130T22:15:03Z | Venera Framework | https://github.com/farinap5/Venera | 2 | 0| 
 | 20230130T15:00:04Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 158 | 145| 
 | 20230130T13:11:36Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 597 | 82| 
-| 20230130T13:00:50Z | For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The Project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives. | https://github.com/alexgaarciia/ExcelDashboard | 0 | 0| 
 
 
 # backdoor on Github 推荐
