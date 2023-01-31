@@ -53,10 +53,10 @@
 | 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
 | 20230131T12:16:45Z | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | 0 | 0| 
 | 20230131T12:16:41Z | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | 0 | 0| 
+| 20230131T11:45:55Z | Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges | 0 | 0| 
+| 20230131T11:45:38Z | CTF Lending by MrToph implementation with Ape, exploit with Vyper | https://github.com/0xJCN/CTF-Lending-By-MrToph | 0 | 0| 
 | 20230131T11:45:11Z | UnhackedCTF implementation with Ape, exploits with Vyper | https://github.com/0xJCN/UnhackedCTF | 0 | 0| 
 | 20230131T11:39:27Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 8 | 4| 
-| 20230131T11:20:02Z | Really Fast Time Bomb Exploit For CSGO | https://github.com/RunXScript/Instant--Bomb-Project | 0 | 0| 
-| 20230131T05:20:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 8 | 0| 
 
 
 # backdoor on Github 推荐
