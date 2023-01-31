@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:06:33Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2080 | 308| 
+| 20230131T13:13:54Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2082 | 308| 
 | 20230131T12:23:31Z | Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 19 | 2| 
 | 20230131T12:16:52Z | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | 0 | 0| 
 | 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
@@ -62,9 +62,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T13:13:38Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 215 | 23| 
 | 20230131T12:56:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 61 | 11| 
 | 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 0| 
-| 20230131T07:56:11Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 214 | 23| 
 | 20230131T03:32:42Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 396 | 74| 
 | 20230131T02:17:15Z | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | 0 | 0| 
 
