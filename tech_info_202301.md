@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T01:32:19Z | Null | https://github.com/kashitamang/fuzzy_bunny_review | 0 | 0| 
 | 20230131T00:31:51Z | These are my personal projects to practice coding | https://github.com/Preds0504/fuzzy-octo-meme | 0 | 0| 
 | 20230130T23:38:04Z | Simple Python Web Directory Fuzzer | https://github.com/jwil32/pyFuzzer | 0 | 0| 
 | 20230130T23:35:56Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20230130T22:59:04Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3110-oss-fuzz | 0 | 0| 
 | 20230130T22:58:04Z | Null | https://github.com/google/fuzztest | 215 | 12| 
 | 20230130T22:57:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 882 | 200| 
-| 20230130T22:05:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2642 | 181| 
 
 
 
