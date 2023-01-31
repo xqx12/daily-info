@@ -62,14 +62,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T12:56:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 61 | 11| 
+| 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 0| 
+| 20230131T07:56:11Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 214 | 23| 
+| 20230131T03:32:42Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 396 | 74| 
 | 20230131T02:17:15Z | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | 0 | 0| 
-| 20230131T02:07:52Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 205 | 23| 
-| 20230131T01:57:42Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 58 | 10| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T12:00:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 70| 
+| 20230131T09:07:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 27 | 5| 
+| 20230131T09:07:31Z | ISA automatic test generator using the isla symbolic execution tool | https://github.com/rems-project/isla-testgen | 1 | 0| 
+| 20230131T07:17:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3291 | 468| 
 
 
 # big4 on Github 推荐

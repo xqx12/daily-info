@@ -106,31 +106,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T12:56:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 61 | 11| 
+| 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 0| 
+| 20230131T07:56:11Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 214 | 23| 
+| 20230131T03:32:42Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 396 | 74| 
 | 20230131T02:17:15Z | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | 0 | 0| 
-| 20230131T02:07:52Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 205 | 23| 
-| 20230131T01:57:42Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 58 | 10| 
 | 20230130T19:11:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230130T14:33:11Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
 | 20230130T14:19:57Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
+| 20230130T13:00:48Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 134 | 30| 
 | 20230130T09:29:18Z | This is the source code for Data-free Backdoor. | https://github.com/lvpeizhuo/Data-free_Backdoor | 0 | 0| 
-| 20230130T07:51:31Z | Null | https://github.com/pschmitt/tailscale-backdoor | 0 | 0| 
-| 20230130T01:40:04Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 395 | 74| 
-| 20230129T14:37:52Z | This code lets you to create a hidden admin account. sort of a backdoor in wordpress.  | https://github.com/sashareds/hide-administrator-account-in-wordpress | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T22:22:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3290 | 468| 
+| 20230131T12:00:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 70| 
+| 20230131T09:07:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 27 | 5| 
+| 20230131T09:07:31Z | ISA automatic test generator using the isla symbolic execution tool | https://github.com/rems-project/isla-testgen | 1 | 0| 
+| 20230131T07:17:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3291 | 468| 
 | 20230130T14:33:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 616 | 111| 
 | 20230130T11:58:53Z | Bachelor thesis, attempting decompilation using symbolic execution | https://github.com/lokegustafsson/thesis-decompilation | 4 | 0| 
-| 20230130T11:27:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 69| 
 | 20230127T15:32:00Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 0 | 0| 
 | 20230127T05:00:44Z | Concolic (Dynamic Symbolic Execution) with Angr demo on a simple binary. | https://github.com/bobby-valenzuela/AngrConcolicDemo | 0 | 0| 
 | 20230126T09:13:04Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 14 | 8| 
 | 20230125T20:06:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 54 | 25| 
-| 20230124T21:24:51Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 42 | 2| 
-| 20230124T17:00:45Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 42| 
 
 
 # big4 on Github 推荐
