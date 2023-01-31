@@ -97,16 +97,16 @@
 | 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
 | 20230131T12:16:45Z | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | 0 | 0| 
 | 20230131T12:16:41Z | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | 0 | 0| 
+| 20230131T11:46:48Z | EthernautDAO Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/EthernautDAO-Challenges | 0 | 0| 
+| 20230131T11:46:11Z | Damn Vulnerable DeFi V3 CTF implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF | 0 | 0| 
 | 20230131T11:45:55Z | Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges | 0 | 0| 
 | 20230131T11:45:38Z | CTF Lending by MrToph implementation with Ape, exploit with Vyper | https://github.com/0xJCN/CTF-Lending-By-MrToph | 0 | 0| 
-| 20230131T11:45:11Z | UnhackedCTF implementation with Ape, exploits with Vyper | https://github.com/0xJCN/UnhackedCTF | 0 | 0| 
-| 20230131T11:39:27Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 8 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:13:38Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 215 | 23| 
+| 20230131T13:18:27Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 216 | 23| 
 | 20230131T12:56:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 61 | 11| 
 | 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 0| 
 | 20230131T03:32:42Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 396 | 74| 
