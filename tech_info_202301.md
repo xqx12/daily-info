@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230131 | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765| 
 | 20230130 | bi0sCTF 2022 Web题目Vuln-Drive 2的官方writeup | https://blog.bi0s.in/2023/01/24/Web/Vuln-Drive2-bi0sCTF222023/| 
 | 20230130 | 通过补丁对比分析FortiGate SSLVPN 的 RCE 漏洞 CVE-2022-42475，漏洞原因在于32->64转换时的整数溢出 | http://wzt.ac.cn/2022/12/15/CVE-2022-42475/| 
 | 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
@@ -25,7 +26,6 @@
 | 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | https://www.reddit.com/r/netsec/comments/10jnjkq/pwning_the_all_google_phone_with_a_nongoogle_bug/| 
 | 20230125 | CVE-2023-23504:XNU dlil.c中的堆写入漏洞 | http://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/| 
 | 20230125 | CVE-2022-42845:XNU ndrv.c中存在20年的UAF漏洞 | http://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/| 
-| 20230125 | FBI 确认 Lazarus Group 对 Harmony 的 Horizo​​n Bridge 货币盗窃负责 | https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-apt38-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230131T02:17:30Z | CVE-2022-32517 | A CWE-1021: Improper Restriction of Rendered UI Layers or Frames vulnerability exists that could cause an adversary to trick the interface user/admin into interacting with the application in an unintended way when the product does not implement restrictions on the ability to render within frames on external addresses.  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32517 | | 
-| 20230131T02:17:27Z | CVE-2022-48175 | Rukovoditel v3.2.1 was discovered to contain a remote code execution (RCE) vulnerability in the component /rukovoditel/index.php?module=dashboard/ajax_request. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48175 | | 
-| 20230131T02:17:24Z | CVE-2022-32514 | A CWE-287: Improper Authentication vulnerability exists that could allow an attacker to gain control of the device when logging into a web page. Affected Products: C-Bus Network Automation Controller - LSS5500NAC (Versions prior to V1.10.0), Wiser for C-Bus Automation Controller - LSS5500SHAC (Versions prior to V1.10.0 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32514 | | 
-| 20230131T02:17:19Z | CVE-2022-32748 | A CWE-295: Improper Certificate Validation vulnerability exists that could cause the CAE software to give wrong data to end users when using CAE to configure devices. Additionally, credentials could leak which would enable an attacker the ability to log into the configuration tool and compromise other devices in the ne CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32748 | | 
-| 20230131T02:17:15Z | CVE-2022-32747 | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | | 
-| 20230131T02:17:12Z | CVE-2022-32512 | A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists that could cause remote code execution when a command which exploits this vulnerability is utilized. Affected Products: CanBRASS (Versions prior to V7.5.1) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32512 | | 
-| 20230131T02:17:08Z | CVE-2022-32529 | A CWE-120: Buffer Copy without Checking Size of Input vulnerability exists that could cause a stack-based buffer overflow, potentially leading to remote code execution when an attacker sends specially crafted log data request messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32529 | | 
-| 20230131T02:17:05Z | CVE-2022-32528 | A CWE-306: Missing Authentication for Critical Function vulnerability exists that could cause access to manipulate and read files in the IGSS project report directory when an attacker sends specific messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0.22170) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32528 | | 
-| 20230131T02:17:01Z | CVE-2022-22732 | A CWE-668: Exposure of Resource to Wrong Sphere vulnerability exists that could cause all remote domains to access the resources (data) supplied by the server when an attacker sends a fetch request from third-party site or malicious site. Affected Products: EcoStruxure Power Commission (Versions prior to V2.22) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22732 | | 
-| 20230131T02:16:58Z | CVE-2022-32527 | A CWE-120: Buffer Copy without Checking Size of Input vulnerability exists that could cause a stack-based buffer overflow, potentially leading to remote code execution when an attacker sends specially crafted alarm cache data messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32527 | | 
+| 20230131T12:59:32Z | CVE-2022-26485 | Null | https://github.com/mistymntncop/CVE-2022-26485 | | 
+| 20230131T12:16:56Z | CVE-2022-45789 | A CWE-294: Authentication Bypass by Capture-replay vulnerability exists that could cause execution of unauthorized Modbus functions on the controller when hijacking an authenticated Modbus session. Affected Products: EcoStruxure™ Control Expert (All Versions), EcoStruxure™ Process Expert (Version V2020 & prior), Modico CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45789 | | 
+| 20230131T12:16:52Z | CVE-2023-22900 | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | | 
+| 20230131T12:16:49Z | CVE-2022-39061 | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | | 
+| 20230131T12:16:45Z | CVE-2022-39060 | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | | 
+| 20230131T12:16:41Z | CVE-2022-39059 | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | | 
+| 20230131T12:16:36Z | CVE-2022-44645 | In Apache Linkis <=1.3.0 when used with the MySQL Connector/J, a deserialization vulnerability with possible remote code execution impact exists when an attacker has write access to a database and configures new datasource with a MySQL data source and malicious parameters. Therefore, the parameters in the jdbc url shou CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44645 | | 
+| 20230131T12:16:33Z | CVE-2023-24829 | Incorrect Authorization vulnerability in Apache Software Foundation Apache IoTDB.This issue affects the iotdb-web-workbench component from 0.13.0 before 0.13.3. iotdb-web-workbench is an optional component of IoTDB, providing a web console of the database. This problem is fixed from version 0.13.3 of iotdb-web-workbenc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24829 | | 
+| 20230131T12:16:29Z | CVE-2023-0593 | A path traversal vulnerability affects yaffshiv YAFFS filesystem extractor. By crafting a malicious YAFFS file, an attacker could force yaffshiv to write outside of the extraction directory. This issue affects yaffshiv up to version 0.1 included, which is the most recent at time of publication. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0593 | | 
+| 20230131T12:16:22Z | CVE-2023-0591 | ubireader_extract_files is vulnerable to path traversal when run against specifically crafted UBIFS files, allowing the attacker to overwrite files outside of the extraction directory (provided the process has write access to that file or directory). This is due to the fact that a node name (dent_node.name) is consider CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0591 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T07:58:03Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
 | 20230131T01:57:57Z | A utility library for LibGDX which has some useful classes and methods for rendering and networking | https://github.com/KleeSup/KleeGameBaseClient | 1 | 0| 
 | 20230130T01:46:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10273 | 343| 
 | 20230129T14:15:06Z | Kleeja Uploader for Desktop Tested on Kleeja >=2.3 | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
-| 20230129T09:43:48Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 | 20230128T20:35:19Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 | 20230128T19:58:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 13 | 0| 
 | 20230127T15:36:18Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 20 | 0| 
@@ -76,30 +76,31 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230130T11:27:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 69| 
+| 20230131T12:00:34Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
+| 20230131T12:00:25Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 77 | 13| 
+| 20230131T12:00:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 70| 
 | 20230130T01:59:22Z | Attempt at an introduction to S2E through google CFT.   | https://github.com/20ryanc/S2E-Guide-CFT | 0 | 0| 
 | 20230127T05:07:52Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 | 20230125T18:14:21Z | Null | https://github.com/en0c-026/tensor-s2e | 0 | 0| 
 | 20230124T10:31:54Z | paper code | https://github.com/GMC-DRL/S2E-GA | 0 | 0| 
 | 20230122T00:41:22Z | Created with StackBlitz ⚡️ | https://github.com/natanbr/Alice-in-borderland---acid-game-s2e6- | 0 | 0| 
 | 20230113T18:45:53Z | Null | https://github.com/turbocanary/turbotest_r6aikmfr_s2e79up1 | 0 | 0| 
-| 20230107T16:37:04Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 75 | 12| 
 | 20230105T06:57:30Z | Null | https://github.com/dona7025/S2ExamDs-ml | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T02:52:59Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
-| 20230131T02:33:54Z | Project Zomboid coordinate exploit (patched) | https://github.com/sugol-a/pz-coordinate-exploit | 0 | 0| 
-| 20230131T02:17:12Z | A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists that could cause remote code execution when a command which exploits this vulnerability is utilized. Affected Products: CanBRASS (Versions prior to V7.5.1) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32512 | 0 | 0| 
-| 20230131T01:36:40Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5832-java-deserialization-exploits | 0 | 0| 
-| 20230131T01:32:56Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-1562-how-to-exploit-a-double-free | 0 | 0| 
-| 20230131T00:22:18Z | This is a gathering of the different types of exploits, how to test for them, and exploit them. | https://github.com/DKrypt1337/Pen_Testing_Cheat_Sheet | 0 | 0| 
-| 20230131T00:05:31Z | A vulnerability in the URL filtering mechanism of Cisco AsyncOS Software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to bypass the URL reputation filters on an affected device. This vulnerability is due to improper processing of URLs. An attacker could exploit this vulnerabi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20057 | 0 | 0| 
-| 20230131T00:05:12Z | An arbitrary file upload vulnerability in taocms v3.0.2 allows attackers to execute arbitrary code via a crafted PHP file. This vulnerability is exploited via manipulation of the upext variable at /include/Model/Upload.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48006 | 0 | 0| 
-| 20230130T22:15:03Z | Venera Framework | https://github.com/farinap5/Venera | 2 | 0| 
-| 20230130T15:00:04Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 158 | 145| 
+| 20230131T12:56:25Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2079 | 308| 
+| 20230131T12:23:31Z | Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 19 | 2| 
+| 20230131T12:16:52Z | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | 0 | 0| 
+| 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
+| 20230131T12:16:45Z | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | 0 | 0| 
+| 20230131T12:16:41Z | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | 0 | 0| 
+| 20230131T11:45:11Z | UnhackedCTF implementation with Ape, exploits with Vyper | https://github.com/0xJCN/UnhackedCTF | 0 | 0| 
+| 20230131T11:39:27Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 8 | 4| 
+| 20230131T11:20:02Z | Really Fast Time Bomb Exploit For CSGO | https://github.com/RunXScript/Instant--Bomb-Project | 0 | 0| 
+| 20230131T05:20:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 8 | 0| 
 
 
 # backdoor on Github 推荐
@@ -150,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T02:44:28Z | Preload the things you need to build Warm Fuzzies | https://github.com/kiki-lee/warm-fuzzies | 0 | 0| 
-| 20230131T02:40:30Z | Preload the things you need to build Warm Fuzzies | https://github.com/kiki-lee/warm-fuzzies- | 0 | 0| 
-| 20230131T01:32:19Z | Null | https://github.com/kashitamang/fuzzy_bunny_review | 0 | 0| 
-| 20230131T00:31:51Z | These are my personal projects to practice coding | https://github.com/Preds0504/fuzzy-octo-meme | 0 | 0| 
-| 20230130T23:38:04Z | Simple Python Web Directory Fuzzer | https://github.com/jwil32/pyFuzzer | 0 | 0| 
-| 20230130T23:35:56Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
-| 20230130T23:34:34Z | Null | https://github.com/grafoo/fuzzing | 0 | 0| 
-| 20230130T23:13:30Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5596-Source-and-Fuzzing | 0 | 0| 
-| 20230130T23:05:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8304 | 1805| 
-| 20230130T22:59:04Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3110-oss-fuzz | 0 | 0| 
+| 20230131T12:37:02Z | asdasd | https://github.com/sz-phg/fuzzy-adventure | 0 | 0| 
+| 20230131T12:34:21Z | Null | https://github.com/MentatBashar/fuzzy-octo-spork | 2 | 0| 
+| 20230131T12:33:09Z | Null | https://github.com/pgarcia-dev/same_fuzzy_logic_controller | 0 | 0| 
+| 20230131T11:59:38Z | Null | https://github.com/MariiaMurza/fuzzy-fortnight | 0 | 0| 
+| 20230131T11:46:43Z | Null | https://github.com/Keme1ova/fuzzy-octo-telegram | 0 | 0| 
+| 20230131T11:20:24Z | Null | https://github.com/atom-editor/fuzzy-native | 1 | 0| 
+| 20230131T10:37:31Z | Null | https://github.com/reewardius/bbFuzzing.txt | 11 | 2| 
+| 20230131T10:33:49Z | Null | https://github.com/GiuseppeDagostinoAC/fuzzy-umbrella | 0 | 0| 
+| 20230131T09:07:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1239 | 166| 
+| 20230131T04:26:44Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 883 | 200| 
 
 
 
