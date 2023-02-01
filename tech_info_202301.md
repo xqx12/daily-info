@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230131T12:59:32Z | CVE-2022-26485 | Null | https://github.com/mistymntncop/CVE-2022-26485 | | 
-| 20230131T12:16:56Z | CVE-2022-45789 | A CWE-294: Authentication Bypass by Capture-replay vulnerability exists that could cause execution of unauthorized Modbus functions on the controller when hijacking an authenticated Modbus session. Affected Products: EcoStruxure™ Control Expert (All Versions), EcoStruxure™ Process Expert (Version V2020 & prior), Modico CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45789 | | 
-| 20230131T12:16:52Z | CVE-2023-22900 | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | | 
-| 20230131T12:16:49Z | CVE-2022-39061 | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | | 
-| 20230131T12:16:45Z | CVE-2022-39060 | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | | 
-| 20230131T12:16:41Z | CVE-2022-39059 | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | | 
-| 20230131T12:16:36Z | CVE-2022-44645 | In Apache Linkis <=1.3.0 when used with the MySQL Connector/J, a deserialization vulnerability with possible remote code execution impact exists when an attacker has write access to a database and configures new datasource with a MySQL data source and malicious parameters. Therefore, the parameters in the jdbc url shou CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44645 | | 
-| 20230131T12:16:33Z | CVE-2023-24829 | Incorrect Authorization vulnerability in Apache Software Foundation Apache IoTDB.This issue affects the iotdb-web-workbench component from 0.13.0 before 0.13.3. iotdb-web-workbench is an optional component of IoTDB, providing a web console of the database. This problem is fixed from version 0.13.3 of iotdb-web-workbenc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24829 | | 
-| 20230131T12:16:29Z | CVE-2023-0593 | A path traversal vulnerability affects yaffshiv YAFFS filesystem extractor. By crafting a malicious YAFFS file, an attacker could force yaffshiv to write outside of the extraction directory. This issue affects yaffshiv up to version 0.1 included, which is the most recent at time of publication. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0593 | | 
-| 20230131T12:16:22Z | CVE-2023-0591 | ubireader_extract_files is vulnerable to path traversal when run against specifically crafted UBIFS files, allowing the attacker to overwrite files outside of the extraction directory (provided the process has write access to that file or directory). This is due to the fact that a node name (dent_node.name) is consider CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0591 | | 
+| 20230131T23:53:39Z | CVE-2022-44311 | Proof of concept for CVE-2022-44311 | https://github.com/Halcy0nic/CVE-2022-44311 | | 
+| 20230131T23:14:15Z | CVE-2020-16242 | The affected Reason S20 Ethernet Switch is vulnerable to cross-site scripting (XSS), which may allow an attacker to trick application users into performing critical application actions that include, but are not limited to, adding and updating accounts. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-16242 | | 
+| 20230131T23:14:11Z | CVE-2020-26137 | urllib3 before 1.25.9 allows CRLF injection if the attacker controls the HTTP request method, as demonstrated by inserting CR and LF control characters in the first argument of putrequest(). NOTE: this is similar to CVE-2020-26116. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26137 | | 
+| 20230131T23:14:06Z | CVE-2022-36752 | Proof of concept for CVE-2022-36752 | https://github.com/Halcy0nic/CVE-2022-36752 | | 
+| 20230131T23:14:04Z | CVE-2020-26154 | url.cpp in libproxy through 0.4.15 is prone to a buffer overflow when PAC is enabled, as demonstrated by a large PAC file that is delivered without a Content-length header. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26154 | | 
+| 20230131T23:14:01Z | CVE-2020-5387 | Dell XPS 13 9370 BIOS versions prior to 1.13.1 contains an Improper Exception Handling vulnerability. A local attacker with physical access could exploit this vulnerability to prevent the system from booting until the exploited boot device is removed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-5387 | | 
+| 20230131T23:13:57Z | CVE-2020-26164 | In kdeconnect-kde (aka KDE Connect) before 20.08.2, an attacker on the local network could send crafted packets that trigger use of large amounts of CPU, memory, or network connection slots, aka a Denial of Service attack. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26164 | | 
+| 20230131T23:13:53Z | CVE-2020-26935 | An issue was discovered in SearchController in phpMyAdmin before 4.9.6 and 5.x before 5.0.3. A SQL injection vulnerability was discovered in how phpMyAdmin processes SQL statements in the search feature. An attacker could use this flaw to inject malicious SQL in to a query. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26935 | | 
+| 20230131T23:13:50Z | CVE-2020-13943 | If an HTTP/2 client connecting to Apache Tomcat 10.0.0-M1 to 10.0.0-M7, 9.0.0.M1 to 9.0.37 or 8.5.0 to 8.5.57 exceeded the agreed maximum number of concurrent streams for a connection (in violation of the HTTP/2 protocol), it was possible that a subsequent request made on that connection could contain HTTP headers - in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-13943 | | 
+| 20230131T23:13:45Z | CVE-2020-27619 | In Python 3 through 3.9.0, the Lib/test/multibytecodec_support.py CJK codec tests call eval() on content retrieved via HTTP. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27619 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T07:58:03Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
+| 20230131T18:26:50Z | Null | https://github.com/KleeUT/kleeut.com | 1 | 0| 
+| 20230131T15:45:59Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
 | 20230131T01:57:57Z | A utility library for LibGDX which has some useful classes and methods for rendering and networking | https://github.com/KleeSup/KleeGameBaseClient | 1 | 0| 
 | 20230130T01:46:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10273 | 343| 
 | 20230129T14:15:06Z | Kleeja Uploader for Desktop Tested on Kleeja >=2.3 | https://github.com/hanirouatbi1/Kleeja-Desktop | 0 | 0| 
@@ -70,15 +71,14 @@
 | 20230127T15:36:18Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 20 | 0| 
 | 20230127T14:43:54Z | Kleenapp | https://github.com/spookyman69/kleenapp | 0 | 0| 
 | 20230127T08:51:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 201 | 1| 
-| 20230127T02:30:22Z | Null | https://github.com/ArnavAmbe/ARNAVCS1KLEE | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T17:49:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 71| 
 | 20230131T12:00:34Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
 | 20230131T12:00:25Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 77 | 13| 
-| 20230131T12:00:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 70| 
 | 20230130T01:59:22Z | Attempt at an introduction to S2E through google CFT.   | https://github.com/20ryanc/S2E-Guide-CFT | 0 | 0| 
 | 20230127T05:07:52Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 | 20230125T18:14:21Z | Null | https://github.com/en0c-026/tensor-s2e | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:54:32Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2084 | 307| 
-| 20230131T12:23:31Z | Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 19 | 2| 
-| 20230131T12:16:52Z | Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22900 | 0 | 0| 
-| 20230131T12:16:49Z | ChangingTech MegaServiSignAdapter component has a vulnerability of Out-of-bounds Read due to insufficient validation for parameter length. An unauthenticated remote attacker can exploit this vulnerability to access partial sensitive content in memory and disrupts partial services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39061 | 0 | 0| 
-| 20230131T12:16:45Z | ChangingTech MegaServiSignAdapter component has a vulnerability of improper input validation. An unauthenticated remote attacker can exploit this vulnerability to access and modify HKEY_CURRENT_USER subkey (ex: AutoRUN) in Registry where malicious scripts can be executed to take control of the system or to terminate th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39060 | 0 | 0| 
-| 20230131T12:16:41Z | ChangingTech MegaServiSignAdapter component has a path traversal vulnerability within its file reading function. An unauthenticated remote attacker can exploit this vulnerability to access arbitrary system files. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-39059 | 0 | 0| 
-| 20230131T11:47:10Z | Immunefi Community Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Immunefi-Community-Challenges | 0 | 0| 
-| 20230131T11:46:48Z | EthernautDAO Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/EthernautDAO-Challenges | 0 | 0| 
-| 20230131T11:46:11Z | Damn Vulnerable DeFi V3 CTF implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF | 0 | 0| 
-| 20230131T11:45:55Z | Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper | https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges | 0 | 0| 
+| 20230131T23:14:01Z | Dell XPS 13 9370 BIOS versions prior to 1.13.1 contains an Improper Exception Handling vulnerability. A local attacker with physical access could exploit this vulnerability to prevent the system from booting until the exploited boot device is removed. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-5387 | 0 | 0| 
+| 20230131T23:13:24Z | In FreeBSD 12.0-STABLE before r351264, 12.0-RELEASE before 12.0-RELEASE-p10, 11.3-STABLE before r351265, 11.3-RELEASE before 11.3-RELEASE-p3, and 11.2-RELEASE before 11.2-RELEASE-p14, the kernel driver for /dev/midistat implements a read handler that is not thread-safe. A multi-threaded program can exploit races in the CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-5612 | 0 | 0| 
+| 20230131T23:08:00Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 7 | 0| 
+| 20230131T23:07:14Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-4469-WindowsExploits | 0 | 0| 
+| 20230131T22:07:50Z | An issue was discovered in rConfig 3.9.3. The install script updates the /etc/sudoers file for rconfig specific tasks. After an %rConfig specific Apache configuration% update, apache has high privileges for some binaries. This can be exploited by an attacker to bypass local security restrictions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-19585 | 0 | 0| 
+| 20230131T22:07:39Z | An exploitable stack-based buffer overflow vulnerability exists in the retrieval of database fields in the video-core HTTP server of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The strcpy call overflows the destination buffer, which has a size of 2000 bytes. An attacker can send an arbitrarily l CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3914 | 0 | 0| 
+| 20230131T21:43:33Z | Notes on kernel exploitation | https://github.com/LewisSarcasm/Kernel_exploitation_notes | 0 | 0| 
+| 20230131T20:23:53Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 162 | 147| 
+| 20230131T19:59:29Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 27 | 28| 
+| 20230131T18:50:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 570 | 152| 
 
 
 # backdoor on Github 推荐
