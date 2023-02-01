@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20230131 | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765| 
 | 20230131 | Froxlor v2.0.6 RCE漏洞 (CVE-2023-0315) | https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/| 
+| 20230131 | binwalk存在一个路径穿越导致的任意文件写漏洞，可以导致RCE | http://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/| 
 
 
 # 安全维基 推荐
@@ -53,12 +54,12 @@
 | 20230131T23:13:24Z | In FreeBSD 12.0-STABLE before r351264, 12.0-RELEASE before 12.0-RELEASE-p10, 11.3-STABLE before r351265, 11.3-RELEASE before 11.3-RELEASE-p3, and 11.2-RELEASE before 11.2-RELEASE-p14, the kernel driver for /dev/midistat implements a read handler that is not thread-safe. A multi-threaded program can exploit races in the CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-5612 | 0 | 0| 
 | 20230131T23:08:00Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 7 | 0| 
 | 20230131T23:07:14Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-4469-WindowsExploits | 0 | 0| 
+| 20230131T22:21:18Z | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in production/ During engagements. Not all scripts or programs are fully tested/debugged. Its a mess | https://github.com/1emvr/The-Art-of-Exploitation | 3 | 0| 
 | 20230131T22:07:50Z | An issue was discovered in rConfig 3.9.3. The install script updates the /etc/sudoers file for rconfig specific tasks. After an %rConfig specific Apache configuration% update, apache has high privileges for some binaries. This can be exploited by an attacker to bypass local security restrictions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-19585 | 0 | 0| 
 | 20230131T22:07:39Z | An exploitable stack-based buffer overflow vulnerability exists in the retrieval of database fields in the video-core HTTP server of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The strcpy call overflows the destination buffer, which has a size of 2000 bytes. An attacker can send an arbitrarily l CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3914 | 0 | 0| 
 | 20230131T21:43:33Z | Notes on kernel exploitation | https://github.com/LewisSarcasm/Kernel_exploitation_notes | 0 | 0| 
 | 20230131T20:23:53Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 162 | 148| 
 | 20230131T19:59:29Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 27 | 28| 
-| 20230131T19:03:11Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 159 | 2| 
 
 
 # backdoor on Github 推荐
