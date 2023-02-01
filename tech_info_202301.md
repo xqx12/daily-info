@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:35:47Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 217 | 23| 
-| 20230131T12:56:31Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 61 | 11| 
-| 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 0| 
+| 20230131T22:20:33Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 220 | 23| 
+| 20230131T18:49:45Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 38 | 10| 
+| 20230131T15:56:10Z | Python Hacking Projects (Network Scanner, Mac Changer, Sniffers, ARP Spoofing, Backdoor, Keyloggers...)  | https://github.com/hs-mxmx/HACKING-Hacking_Projects | 0 | 0| 
+| 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 1| 
+| 20230131T08:27:29Z | No backdoor ETH & ERC-20 & NFT stealer drains ETH + NFT Seaport, Uniswap Drainer | https://github.com/C4lme/token-nft-stealer | 31 | 22| 
+| 20230131T08:27:29Z | Uniswap & Seaport, Opensea NFT Drainer, ERC-20, ETH All in one No backdoor | https://github.com/C4lme/nft-stealer-drainer | 42 | 0| 
 | 20230131T03:32:42Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 396 | 74| 
 | 20230131T02:17:15Z | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | 0 | 0| 
-| 20230130T19:11:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230130T14:33:11Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
 | 20230130T14:19:57Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
-| 20230130T13:00:48Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 134 | 30| 
-| 20230130T09:29:18Z | This is the source code for Data-free Backdoor. | https://github.com/lvpeizhuo/Data-free_Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,9 +136,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230131T21:26:50Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 26 | 2| 
 | 20230130T23:16:06Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 32 | 2| 
 | 20230130T21:39:11Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 72 | 37| 
-| 20230129T11:18:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 25 | 2| 
 | 20230128T11:15:06Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 8 | 1| 
 | 20230119T16:29:30Z | Null | https://github.com/tokunagak/NDSS | 0 | 0| 
 | 20230119T14:19:34Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 1 | 0| 
