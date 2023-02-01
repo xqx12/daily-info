@@ -100,11 +100,11 @@
 | 20230131T23:17:20Z | brute force get requests to specified number | https://github.com/nathantheperson/directory_fuzzing_in_c | 0 | 0| 
 | 20230131T22:29:59Z | A Chrome extension that turns your new tab page into a fuzzy finding command palette.  | https://github.com/familyfriendlymikey/fuzzyhome | 8 | 1| 
 | 20230131T22:22:35Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 1 | 16| 
+| 20230131T19:58:00Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3383 | 405| 
 | 20230131T19:31:26Z | Null | https://github.com/openiked/openiked-fuzzing | 0 | 0| 
 | 20230131T18:48:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 24| 
 | 20230131T18:27:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
 | 20230131T18:25:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 181| 
-| 20230131T17:53:03Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 882 | 200| 
 
 
 
