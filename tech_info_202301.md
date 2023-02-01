@@ -124,7 +124,7 @@
 | 20230131T19:36:30Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 12 | 5| 
 | 20230131T19:23:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3291 | 468| 
 | 20230131T18:18:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 615 | 111| 
-| 20230131T17:49:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 71| 
+| 20230131T17:49:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 292 | 72| 
 | 20230131T16:47:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 186 | 42| 
 | 20230131T16:44:10Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 34 | 23| 
 | 20230131T09:07:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 27 | 5| 
@@ -151,7 +151,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T23:28:46Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1907 | 245| 
 | 20230131T23:18:43Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 1 | 0| 
 | 20230131T23:17:20Z | brute force get requests to specified number | https://github.com/nathantheperson/directory_fuzzing_in_c | 0 | 0| 
 | 20230131T22:29:59Z | A Chrome extension that turns your new tab page into a fuzzy finding command palette.  | https://github.com/familyfriendlymikey/fuzzyhome | 8 | 1| 
@@ -161,6 +160,7 @@
 | 20230131T19:31:26Z | Null | https://github.com/openiked/openiked-fuzzing | 0 | 0| 
 | 20230131T18:48:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 24| 
 | 20230131T18:27:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
+| 20230131T18:25:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 181| 
 
 
 
