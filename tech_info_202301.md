@@ -106,7 +106,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T22:20:33Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 220 | 23| 
 | 20230131T18:49:45Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 38 | 10| 
 | 20230131T15:56:10Z | Python Hacking Projects (Network Scanner, Mac Changer, Sniffers, ARP Spoofing, Backdoor, Keyloggers...)  | https://github.com/hs-mxmx/HACKING-Hacking_Projects | 0 | 0| 
 | 20230131T12:19:06Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 1| 
@@ -116,6 +115,7 @@
 | 20230131T02:17:15Z | A CWE-290: Authentication Bypass by Spoofing vulnerability exists that could cause legitimate users to be locked out of devices or facilitate backdoor account creation by spoofing a device on the local network. Affected Products: EcoStruxure™ Cybersecurity Admin Expert (CAE) (Versions prior to 2.2) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32747 | 0 | 0| 
 | 20230130T14:33:11Z | Null | https://github.com/ysxcarl/backdoor | 0 | 0| 
 | 20230130T14:19:57Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
+| 20230130T13:00:48Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 134 | 30| 
 
 
 # symbolic execution on Github 推荐
