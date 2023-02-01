@@ -22,6 +22,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230201T13:37:35Z | CVE-2023-0610 | Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0610 | | 
+| 20230201T13:37:30Z | CVE-2023-0609 | Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0609 | | 
 | 20230201T11:24:24Z | CVE-2023-0608 | Cross-site Scripting (XSS) - DOM in GitHub repository microweber/microweber prior to 1.3.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0608 | | 
 | 20230201T11:24:20Z | CVE-2022-46679 | Dell PowerScale OneFS 8.2.x, 9.0.0.x - 9.4.0.x, contain an insufficient resource pool vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability, leading to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46679 | | 
 | 20230201T11:24:16Z | CVE-2022-45099 | Dell PowerScale OneFS, versions 8.2.x-9.4.x, contain a weak encoding for a NDMP password. A malicious and privileged local attacker could potentially exploit this vulnerability, leading to a full system compromise CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45099 | | 
@@ -30,8 +32,6 @@
 | 20230201T11:24:01Z | CVE-2022-45100 | Dell PowerScale OneFS, versions 8.2.x-9.3.x, contains an Improper Certificate Validation vulnerability. An remote unauthenticated attacker could potentially exploit this vulnerability, leading to a full compromise of the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45100 | | 
 | 20230201T11:23:57Z | CVE-2022-32482 | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32482 | | 
 | 20230201T11:23:54Z | CVE-2022-45098 | Dell PowerScale OneFS, 9.0.0.x-9.4.0.x, contain a cleartext storage of sensitive information vulnerability in S3 component. An authenticated local attacker could potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45098 | | 
-| 20230201T11:23:50Z | CVE-2022-34396 | Dell OpenManage Server Administrator (OMSA) version 10.3.0.0 and earlier contains a DLL Injection Vulnerability. A local low privileged authenticated attacker could potentially exploit this vulnerability, leading to the execution of arbitrary executable on the operating system with elevated privileges. Exploitation may CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34396 | | 
-| 20230201T11:23:47Z | CVE-2022-45102 | Dell EMC Data Protection Central, versions 19.1 through 19.7, contains a Host Header Injection vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability by injecting arbitrary \u2018Host\u2019 header values to poison a web cache or trigger redirections. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45102 | | 
 
 
 # klee on Github 推荐
