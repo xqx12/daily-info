@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230131T13:53:22Z | Null | https://github.com/MalcolmM7130/Messing-with-fuzzy | 0 | 0| 
-| 20230131T13:43:08Z | Null | https://github.com/arielcostas/fuzzy-rotary-phone | 0 | 0| 
-| 20230131T13:26:18Z | Curated list of classic fuzzing books, papers about fuzzing at information security top conferences over the years, commonly used fuzzing tools, and resources that can help us use fuzzer easily.  | https://github.com/liyansong2018/fuzzing-tutorial | 137 | 25| 
-| 20230131T13:22:44Z | asdasd | https://github.com/sz-phg/fuzzy-adventure | 0 | 0| 
-| 20230131T12:34:21Z | Null | https://github.com/MentatBashar/fuzzy-octo-spork | 2 | 0| 
-| 20230131T12:33:09Z | Null | https://github.com/pgarcia-dev/same_fuzzy_logic_controller | 0 | 0| 
-| 20230131T11:59:38Z | Null | https://github.com/MariiaMurza/fuzzy-fortnight | 0 | 0| 
-| 20230131T11:46:43Z | Null | https://github.com/Keme1ova/fuzzy-octo-telegram | 0 | 0| 
-| 20230131T11:20:24Z | Null | https://github.com/atom-editor/fuzzy-native | 1 | 0| 
-| 20230131T10:37:31Z | Null | https://github.com/reewardius/bbFuzzing.txt | 11 | 2| 
+| 20230131T23:28:46Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1907 | 245| 
+| 20230131T23:17:20Z | brute force get requests to specified number | https://github.com/nathantheperson/directory_fuzzing_in_c | 0 | 0| 
+| 20230131T22:29:59Z | A Chrome extension that turns your new tab page into a fuzzy finding command palette.  | https://github.com/familyfriendlymikey/fuzzyhome | 8 | 1| 
+| 20230131T22:22:35Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 1 | 16| 
+| 20230131T18:48:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 24| 
+| 20230131T18:27:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
+| 20230131T18:25:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 181| 
+| 20230131T17:53:03Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 882 | 200| 
+| 20230131T16:44:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8305 | 1808| 
+| 20230131T15:32:44Z | Null | https://github.com/vaseyev-lsg/fuzz_binaries | 0 | 0| 
 
 
 
