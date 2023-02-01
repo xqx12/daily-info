@@ -9,6 +9,7 @@
 | 20230131 | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765| 
 | 20230131 | Froxlor v2.0.6 RCE漏洞 (CVE-2023-0315) | https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/| 
 | 20230131 | binwalk存在一个路径穿越导致的任意文件写漏洞，可以导致RCE | http://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/| 
+| 20230131 | 使用ChatGPT分析AWS policy发现漏洞的案例。 | https://gist.github.com/ustayready/c29e9f9dca0a0b8170fbdfec11afc349| 
 
 
 # 安全维基 推荐
