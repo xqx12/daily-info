@@ -100,7 +100,7 @@
 | 20230131T21:43:33Z | Notes on kernel exploitation | https://github.com/LewisSarcasm/Kernel_exploitation_notes | 0 | 0| 
 | 20230131T20:23:53Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 162 | 147| 
 | 20230131T19:59:29Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 27 | 28| 
-| 20230131T18:50:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 570 | 152| 
+| 20230131T19:03:11Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 159 | 2| 
 
 
 # backdoor on Github 推荐
