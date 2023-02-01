@@ -98,9 +98,9 @@
 | 20230131T22:07:50Z | An issue was discovered in rConfig 3.9.3. The install script updates the /etc/sudoers file for rconfig specific tasks. After an %rConfig specific Apache configuration% update, apache has high privileges for some binaries. This can be exploited by an attacker to bypass local security restrictions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-19585 | 0 | 0| 
 | 20230131T22:07:39Z | An exploitable stack-based buffer overflow vulnerability exists in the retrieval of database fields in the video-core HTTP server of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The strcpy call overflows the destination buffer, which has a size of 2000 bytes. An attacker can send an arbitrarily l CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3914 | 0 | 0| 
 | 20230131T21:43:33Z | Notes on kernel exploitation | https://github.com/LewisSarcasm/Kernel_exploitation_notes | 0 | 0| 
+| 20230131T21:40:48Z | 🚀 Simple and Fast DB | https://github.com/FabricioFacco/ExploitDB | 2 | 0| 
 | 20230131T20:23:53Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 162 | 148| 
 | 20230131T19:59:29Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 27 | 28| 
-| 20230131T19:03:11Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 159 | 2| 
 
 
 # backdoor on Github 推荐
