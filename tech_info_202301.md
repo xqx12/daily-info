@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230131 | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765| 
+| 20230131 | Froxlor v2.0.6 RCE漏洞 (CVE-2023-0315) | https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/| 
 | 20230130 | bi0sCTF 2022 Web题目Vuln-Drive 2的官方writeup | https://blog.bi0s.in/2023/01/24/Web/Vuln-Drive2-bi0sCTF222023/| 
 | 20230130 | 通过补丁对比分析FortiGate SSLVPN 的 RCE 漏洞 CVE-2022-42475，漏洞原因在于32->64转换时的整数溢出 | http://wzt.ac.cn/2022/12/15/CVE-2022-42475/| 
 | 20230129 | Python原型链污染变体(prototype-pollution-in-python) | https://tttang.com/archive/1876/| 
@@ -25,7 +26,6 @@
 | 20230125 | 激活上下文的缓存中毒:利用 CSRSS 进行权限提升的一种新的攻击面类型 | http://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation| 
 | 20230125 | CVE-2021-39793:Arm Mali GPU 驱动程序JIT中的一个UAF漏洞,本文详细介绍了漏洞成因以及后续利用的细节 | https://www.reddit.com/r/netsec/comments/10jnjkq/pwning_the_all_google_phone_with_a_nongoogle_bug/| 
 | 20230125 | CVE-2023-23504:XNU dlil.c中的堆写入漏洞 | http://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/| 
-| 20230125 | CVE-2022-42845:XNU ndrv.c中存在20年的UAF漏洞 | http://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/| 
 
 
 # 安全维基 推荐

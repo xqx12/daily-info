@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230131 | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765| 
+| 20230131 | Froxlor v2.0.6 RCE漏洞 (CVE-2023-0315) | https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/| 
 
 
 # 安全维基 推荐
