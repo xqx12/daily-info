@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230201T13:25:17Z | How to exploit the Log4j Vulnerability | https://github.com/NicolaScremin/Log4jVuln | 0 | 0| 
 | 20230201T13:20:15Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3553-exploitation-course | 0 | 0| 
 | 20230201T12:46:13Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
 | 20230201T12:45:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-EuDlD-exploit-end | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20230201T11:43:41Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 0 | 0| 
 | 20230201T11:24:20Z | Dell PowerScale OneFS 8.2.x, 9.0.0.x - 9.4.0.x, contain an insufficient resource pool vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability, leading to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46679 | 0 | 0| 
 | 20230201T11:24:16Z | Dell PowerScale OneFS, versions 8.2.x-9.4.x, contain a weak encoding for a NDMP password. A malicious and privileged local attacker could potentially exploit this vulnerability, leading to a full system compromise CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45099 | 0 | 0| 
-| 20230201T11:24:12Z | Dell VxRail, versions prior to 7.0.410, contain a Container Escape Vulnerability. A local high-privileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the container%s underlying OS. Exploitation may lead to a system take over by an attacker. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46756 | 0 | 0| 
 
 
 # backdoor on Github 推荐
