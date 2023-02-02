@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230202T01:37:37Z | CVE-2022-36804 | Null | https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804 | | 
 | 20230201T23:40:01Z | CVE-2022-31364 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is lower_transport_layer_on_seg. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerabilit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31364 | | 
 | 20230201T23:39:57Z | CVE-2022-31363 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is pb_transport_handle_frag_. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerability t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31363 | | 
 | 20230201T23:39:54Z | CVE-2022-30904 | In Bestechnic Bluetooth Mesh SDK (BES2300) V1.0, a buffer overflow vulnerability can be triggered during provisioning, because there is no check for the SegN field of the Transaction Start PDU. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30904 | | 
@@ -32,7 +33,6 @@
 | 20230201T23:39:40Z | CVE-2023-23751 | An issue was discovered in Joomla! 4.0.0 through 4.2.4. A missing ACL check allows non super-admin users to access com_actionlogs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23751 | | 
 | 20230201T23:39:37Z | CVE-2023-23750 | An issue was discovered in Joomla! 4.0.0 through 4.2.6. A missing token check causes a CSRF vulnerability in the handling of post-installation messages. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23750 | | 
 | 20230201T23:39:34Z | CVE-2022-47872 | maccms10 2021.1000.2000 is vulnerable to Server-side request forgery (SSRF). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47872 | | 
-| 20230201T23:39:30Z | CVE-2022-45783 | An issue was discovered in dotCMS core 4.x through 22.10.2. An authenticated directory traversal vulnerability in the dotCMS API can lead to Remote Code Execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45783 | | 
 
 
 # klee on Github 推荐
