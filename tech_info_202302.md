@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230202 | MYSQL JDBC反序列化攻击介绍 | https://tttang.com/archive/1877/| 
+| 20230202 | Dompdf的URI验证可通过字母大写进行绕过，导致漏洞产生 | http://securityonline.info/cve-2023-23924-critical-severity-rce-flaw-found-in-popular-dompdf-library/| 
+| 20230202 | Cisco系列产品中出现高危漏洞。CVE-2023-20076：远程命令注入，需要身份认证；CSCwc67015：任意文件写，可导致代码执行。 | https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover| 
+| 20230202 | Mimikatz Bypass Credential Guard的记录 | https://xz.aliyun.com/t/12097| 
+| 20230202 | 红队入门级介绍，利用 Crackmapexec 和 mimikatz 绕过 LSA 进行Windows 域渗透，建议和文中提到的“上一篇博客”一起阅读 | https://infosecwriteups.com/unlocking-the-secrets-of-lsa-5bd29d5c6927?gi=069b8f50c100&source=rss----7b722bfd1b8d---4| 
 | 20230201 | 使用ipatables命令对Android应用抓包分析。 | https://mp.weixin.qq.com/s/P0ESUUXBmq2aQnrqDHsDaw| 
 | 20230201 | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551| 
 | 20230201 | WordPress漏洞整理 | http://sucur.it/3JxrIl4| 
@@ -26,21 +31,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230202T01:55:08Z | CVE-2022-36804 | Null | https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804 | | 
-| 20230202T01:50:12Z | CVE-2023-0599 | Rapid7 Metasploit Pro versions 4.21.2 and lower suffer from a stored cross site scripting vulnerability, due to a lack of JavaScript request string sanitization. Using this vulnerability, an authenticated attacker can execute arbitrary HTML and script code in the target browser against another Metasploit Pro user using CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0599 | | 
-| 20230202T01:50:09Z | CVE-2022-37034 | In dotCMS 5.x-22.06, it is possible to call the TempResource multiple times, each time requesting the dotCMS server to download a large file. If done repeatedly, this will result in Tomcat request-thread exhaustion and ultimately a denial of any other requests. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37034 | | 
-| 20230202T01:50:01Z | CVE-2023-25012 | The Linux kernel through 6.1.9 has a Use-After-Free in bigben_remove in drivers/hid/hid-bigbenff.c via a crafted USB device because the LED controllers remain registered for too long. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25012 | | 
-| 20230201T23:40:01Z | CVE-2022-31364 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is lower_transport_layer_on_seg. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerabilit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31364 | | 
-| 20230201T23:39:57Z | CVE-2022-31363 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is pb_transport_handle_frag_. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerability t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31363 | | 
-| 20230201T23:39:54Z | CVE-2022-30904 | In Bestechnic Bluetooth Mesh SDK (BES2300) V1.0, a buffer overflow vulnerability can be triggered during provisioning, because there is no check for the SegN field of the Transaction Start PDU. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30904 | | 
-| 20230201T23:39:51Z | CVE-2020-22660 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22660 | | 
-| 20230201T23:39:47Z | CVE-2020-22661 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22661 | | 
-| 20230201T23:39:44Z | CVE-2020-22662 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22662 | | 
+| 20230202T12:59:54Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/r1is/CVE-2022-0847 | | 
+| 20230202T12:39:52Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
+| 20230202T11:49:22Z | CVE-2022-33323 | Active Debug Code vulnerability in robot controller of Mitsubishi Electric Corporation industrial robot MELFA SD/SQ Series and MELFA F-Series allows a remote unauthenticated attacker to gain unauthorized access by authentication bypass through an unauthorized telnet login. As for the affected model names, controller ty CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33323 | | 
+| 20230202T11:49:17Z | CVE-2022-40269 | Authentication Bypass by Spoofing vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to 1.285X allows a re CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40269 | | 
+| 20230202T11:49:14Z | CVE-2022-40268 | Improper Restriction of Rendered UI Layers or Frames vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40268 | | 
+| 20230202T11:49:10Z | CVE-2023-0641 | A vulnerability was found in PHPGurukul Employee Leaves Management System 1.0. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file changepassword.php. The manipulation of the argument newpassword/confirmpassword leads to weak password requirements. The attack can  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0641 | | 
+| 20230202T11:49:06Z | CVE-2023-0640 | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0640 | | 
+| 20230202T11:49:02Z | CVE-2023-0639 | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01 and classified as problematic. This issue affects some unknown processing of the file get_set.ccp of the component Web Management Interface. The manipulation of the argument nextPage leads to cross site scripting. The attack may be initiated remotely. The associa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0639 | | 
+| 20230202T11:48:59Z | CVE-2023-0638 | A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220018 i CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0638 | | 
+| 20230202T11:48:55Z | CVE-2023-0637 | A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. This affects an unknown part of the file wan.asp of the component Web Management Interface. The manipulation leads to memory corruption. It is possible to initiate the attack remotely. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0637 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T10:48:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 50| 
+| 20230202T08:56:49Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 72 | 6| 
 
 
 # s2e on Github 推荐
@@ -52,30 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T12:59:20Z | Exploiting vulnerability in Brave browser to generate cryptocurrency | https://github.com/Mr-Frey/Generator_Crypto_Brave | 1 | 0| 
+| 20230202T12:39:52Z | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | 0 | 0| 
+| 20230202T11:49:06Z | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0640 | 0 | 0| 
+| 20230202T11:48:59Z | A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220018 i CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0638 | 0 | 0| 
+| 20230202T11:48:55Z | A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. This affects an unknown part of the file wan.asp of the component Web Management Interface. The manipulation leads to memory corruption. It is possible to initiate the attack remotely. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0637 | 0 | 0| 
+| 20230202T11:46:49Z | Here is my personal exploits | https://github.com/Chocapikk/PersonalRobloxScripts | 0 | 0| 
+| 20230202T10:38:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12675 | 2175| 
+| 20230202T05:32:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4889 | 709| 
 | 20230202T03:00:00Z | Exploits | https://github.com/ret2eax/exploits | 0 | 0| 
 | 20230202T02:59:43Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 347 | 32| 
-| 20230202T02:39:36Z | Exploits | https://github.com/ret2eax/Exploits | 0 | 0| 
-| 20230202T02:02:56Z | Irei colocar aqui os exploits que eu criar | https://github.com/gshell0st/Exploit-Development | 0 | 0| 
-| 20230202T00:43:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 572 | 152| 
-| 20230201T23:16:32Z | Null | https://github.com/0x414141414/0-day-silent-exploit | 0 | 0| 
-| 20230201T23:15:41Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2023-FUD | 0 | 0| 
-| 20230201T23:14:45Z | Null | https://github.com/0x414141414/Silent-Office-Word-Exploit-2023 | 0 | 0| 
-| 20230201T23:13:48Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-FUD | 0 | 0| 
-| 20230201T23:12:57Z | Null | https://github.com/0x414141414/JPG-PNG-Silent-Exploit-Builder-2023 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T09:44:30Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 15 | 7| 
+| 20230202T09:11:06Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 233 | 24| 
+| 20230202T07:49:35Z | Null | https://github.com/isha1701/ReverseBackdoor | 4 | 0| 
+| 20230202T07:45:02Z | This has been fixed backdoor  | https://github.com/MallisC5/L4-POWERFULL-CAN-BYPASS-OVH | 0 | 0| 
+| 20230202T06:52:14Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 198 | 52| 
 | 20230202T02:31:07Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) | https://github.com/KaiyuanZh/FLIP | 0 | 0| 
 | 20230201T23:59:25Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 1| 
 | 20230201T21:44:34Z | Null | https://github.com/sanlimustafa/BackDoor_V.1.0 | 0 | 0| 
 | 20230201T16:30:45Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 4 | 0| 
-| 20230201T15:58:37Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 232 | 24| 
 | 20230201T12:28:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
-| 20230201T11:49:42Z | Null | https://github.com/isha1701/ReverseBackdoor | 2 | 0| 
-| 20230201T01:08:07Z | Null | https://github.com/MeTraThz/backdoor | 0 | 0| 
-| 20230201T00:58:59Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 63 | 13| 
 
 
 # symbolic execution on Github 推荐
@@ -94,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T12:00:17Z | meow | https://github.com/elissude/fuzzy-adventure | 0 | 0| 
+| 20230202T11:45:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 232 | 34| 
+| 20230202T11:01:36Z | It includes fuzzy logic projects | https://github.com/hasimzc/FuzzyLogicAssignments | 0 | 0| 
+| 20230202T10:44:55Z | 测试性仓库 | https://github.com/knight3fax/fuzzy-goggles | 0 | 0| 
+| 20230202T10:40:51Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 5 | 0| 
+| 20230202T10:09:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 132 | 6| 
+| 20230202T08:44:06Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8559 | 963| 
+| 20230202T07:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8313 | 1811| 
 | 20230202T02:39:08Z | Made for LD 52, not submitted during Jam because of time constraints. | https://github.com/ShalinLathigra/fuzzy-memory | 0 | 0| 
 | 20230202T02:27:02Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3385 | 406| 
-| 20230202T02:23:25Z | Null | https://github.com/rizzamaidatulmasfufah/FuzzyInterfaceSystem | 0 | 0| 
-| 20230202T02:13:04Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8558 | 963| 
-| 20230202T01:48:53Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 1 | 17| 
-| 20230202T01:29:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8310 | 1811| 
-| 20230202T00:46:09Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
-| 20230201T21:30:55Z | Null | https://github.com/KarZOLA/fuzzy-journey | 0 | 0| 
-| 20230201T17:50:09Z | Null | https://github.com/reewardius/bbFuzzing.txt | 33 | 7| 
-| 20230201T13:55:22Z | PHP Fuzzing | https://github.com/Steiner-254/PHP-Fuzzing | 0 | 0| 
 
 
 
