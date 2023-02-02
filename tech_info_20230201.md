@@ -91,7 +91,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230201T23:39:19Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8557 | 963| 
-| 20230201T23:06:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8309 | 1811| 
 | 20230201T21:30:55Z | Null | https://github.com/KarZOLA/fuzzy-journey | 0 | 0| 
 | 20230201T17:50:09Z | Null | https://github.com/reewardius/bbFuzzing.txt | 33 | 7| 
 | 20230201T13:55:22Z | PHP Fuzzing | https://github.com/Steiner-254/PHP-Fuzzing | 0 | 0| 
@@ -100,6 +99,7 @@
 | 20230201T12:46:52Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
 | 20230201T12:33:45Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5596-Source-and-Fuzzing | 0 | 0| 
 | 20230201T12:17:01Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-957-TriforceLinuxSyscallFuzzer | 0 | 0| 
+| 20230201T10:59:06Z | Null | https://github.com/sycuricon/MorFuzz | 0 | 0| 
 
 
 
