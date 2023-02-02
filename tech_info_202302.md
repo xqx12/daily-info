@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:02:20Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 0 | 0| 
 | 20230202T12:59:20Z | Exploiting vulnerability in Brave browser to generate cryptocurrency | https://github.com/Mr-Frey/Generator_Crypto_Brave | 1 | 0| 
 | 20230202T12:39:52Z | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | 0 | 0| 
 | 20230202T11:49:06Z | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0640 | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230202T10:38:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12675 | 2175| 
 | 20230202T05:32:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4889 | 709| 
 | 20230202T03:00:00Z | Exploits | https://github.com/ret2eax/exploits | 0 | 0| 
-| 20230202T02:59:43Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 347 | 32| 
 
 
 # backdoor on Github 推荐
@@ -89,8 +89,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230201T16:56:35Z | A C# analyzer which performs symbolic execution on users% code | https://github.com/twoltjer/SymbolicExecutionAnalyzer | 0 | 0| 
-| 20230201T16:46:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 616 | 111| 
+| 20230202T09:25:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 617 | 111| 
+| 20230202T06:37:05Z | A C# analyzer which performs symbolic execution on users% code | https://github.com/twoltjer/SymbolicExecutionAnalyzer | 1 | 0| 
 | 20230201T13:08:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 73| 
 
 
