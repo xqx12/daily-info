@@ -23,6 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230202T01:50:12Z | CVE-2023-0599 | Rapid7 Metasploit Pro versions 4.21.2 and lower suffer from a stored cross site scripting vulnerability, due to a lack of JavaScript request string sanitization. Using this vulnerability, an authenticated attacker can execute arbitrary HTML and script code in the target browser against another Metasploit Pro user using CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0599 | | 
+| 20230202T01:50:09Z | CVE-2022-37034 | In dotCMS 5.x-22.06, it is possible to call the TempResource multiple times, each time requesting the dotCMS server to download a large file. If done repeatedly, this will result in Tomcat request-thread exhaustion and ultimately a denial of any other requests. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-37034 | | 
+| 20230202T01:50:01Z | CVE-2023-25012 | The Linux kernel through 6.1.9 has a Use-After-Free in bigben_remove in drivers/hid/hid-bigbenff.c via a crafted USB device because the LED controllers remain registered for too long. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25012 | | 
 | 20230202T01:42:26Z | CVE-2022-36804 | Null | https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804 | | 
 | 20230201T23:40:01Z | CVE-2022-31364 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is lower_transport_layer_on_seg. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerabilit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31364 | | 
 | 20230201T23:39:57Z | CVE-2022-31363 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is pb_transport_handle_frag_. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerability t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31363 | | 
@@ -30,9 +33,6 @@
 | 20230201T23:39:51Z | CVE-2020-22660 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22660 | | 
 | 20230201T23:39:47Z | CVE-2020-22661 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22661 | | 
 | 20230201T23:39:44Z | CVE-2020-22662 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22662 | | 
-| 20230201T23:39:40Z | CVE-2023-23751 | An issue was discovered in Joomla! 4.0.0 through 4.2.4. A missing ACL check allows non super-admin users to access com_actionlogs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23751 | | 
-| 20230201T23:39:37Z | CVE-2023-23750 | An issue was discovered in Joomla! 4.0.0 through 4.2.6. A missing token check causes a CSRF vulnerability in the handling of post-installation messages. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23750 | | 
-| 20230201T23:39:34Z | CVE-2022-47872 | maccms10 2021.1000.2000 is vulnerable to Server-side request forgery (SSRF). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47872 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T01:48:53Z | Null | https://github.com/barrycumbie/fuzzy-chainsaw-november | 1 | 17| 
 | 20230202T01:29:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8310 | 1811| 
 | 20230202T00:46:09Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
 | 20230201T23:39:19Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8557 | 963| 
@@ -99,7 +100,6 @@
 | 20230201T13:52:48Z | Tomcat-Fuzzing | https://github.com/Steiner-254/Tomcat-Fuzzing | 0 | 0| 
 | 20230201T13:50:26Z | Null | https://github.com/webonice/fuzzy-octo-engine | 0 | 0| 
 | 20230201T12:46:52Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
-| 20230201T12:33:45Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5596-Source-and-Fuzzing | 0 | 0| 
 
 
 
