@@ -111,7 +111,7 @@
 | 20230202T10:44:55Z | 测试性仓库 | https://github.com/knight3fax/fuzzy-goggles | 0 | 0| 
 | 20230202T10:40:51Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 5 | 0| 
 | 20230202T08:44:06Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8559 | 963| 
-| 20230202T07:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8313 | 1812| 
+| 20230202T08:22:14Z | Cairo/Starknet smart contract fuzzer | https://github.com/FuzzingLabs/cairo-fuzzer | 47 | 5| 
 
 
 
