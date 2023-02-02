@@ -10,6 +10,7 @@
 | 20230201 | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551| 
 | 20230201 | WordPress漏洞整理 | http://sucur.it/3JxrIl4| 
 | 20230201 | 一款X64二进制混淆工具，介绍了一些二进制混淆的方法和原理 | http://securityonline.info/alcatraz-x64-binary-obfuscator/| 
+| 20230201 | Firebird Internal CTF 2023 Writeup | http://mystiz.hk/posts/2023/2023-01-30-firebird-internal-ctf/| 
 
 
 # 安全维基 推荐
@@ -22,16 +23,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230201T13:37:35Z | CVE-2023-0610 | Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0610 | | 
-| 20230201T13:37:30Z | CVE-2023-0609 | Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0609 | | 
-| 20230201T11:24:24Z | CVE-2023-0608 | Cross-site Scripting (XSS) - DOM in GitHub repository microweber/microweber prior to 1.3.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0608 | | 
-| 20230201T11:24:20Z | CVE-2022-46679 | Dell PowerScale OneFS 8.2.x, 9.0.0.x - 9.4.0.x, contain an insufficient resource pool vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability, leading to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46679 | | 
-| 20230201T11:24:16Z | CVE-2022-45099 | Dell PowerScale OneFS, versions 8.2.x-9.4.x, contain a weak encoding for a NDMP password. A malicious and privileged local attacker could potentially exploit this vulnerability, leading to a full system compromise CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45099 | | 
-| 20230201T11:24:08Z | CVE-2022-34403 | Dell BIOS contains a Stack based buffer overflow vulnerability. A local authenticated attacker could potentially exploit this vulnerability by using an SMI to send larger than expected input to a parameter to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34403 | | 
-| 20230201T11:24:05Z | CVE-2022-34398 | Dell BIOS contains a Time-of-check Time-of-use vulnerability. A local authenticated malicious user could\u00a0potentially exploit this vulnerability by using a specifically timed DMA transaction during an SMI to gain arbitrary code execution on the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34398 | | 
-| 20230201T11:24:01Z | CVE-2022-45100 | Dell PowerScale OneFS, versions 8.2.x-9.3.x, contains an Improper Certificate Validation vulnerability. An remote unauthenticated attacker could potentially exploit this vulnerability, leading to a full compromise of the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45100 | | 
-| 20230201T11:23:57Z | CVE-2022-32482 | Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32482 | | 
-| 20230201T11:23:54Z | CVE-2022-45098 | Dell PowerScale OneFS, 9.0.0.x-9.4.0.x, contain a cleartext storage of sensitive information vulnerability in S3 component. An authenticated local attacker could potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45098 | | 
+| 20230201T23:40:01Z | CVE-2022-31364 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is lower_transport_layer_on_seg. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerabilit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31364 | | 
+| 20230201T23:39:57Z | CVE-2022-31363 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is pb_transport_handle_frag_. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerability t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31363 | | 
+| 20230201T23:39:54Z | CVE-2022-30904 | In Bestechnic Bluetooth Mesh SDK (BES2300) V1.0, a buffer overflow vulnerability can be triggered during provisioning, because there is no check for the SegN field of the Transaction Start PDU. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30904 | | 
+| 20230201T23:39:51Z | CVE-2020-22660 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22660 | | 
+| 20230201T23:39:47Z | CVE-2020-22661 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22661 | | 
+| 20230201T23:39:44Z | CVE-2020-22662 | In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-22662 | | 
+| 20230201T23:39:40Z | CVE-2023-23751 | An issue was discovered in Joomla! 4.0.0 through 4.2.4. A missing ACL check allows non super-admin users to access com_actionlogs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23751 | | 
+| 20230201T23:39:37Z | CVE-2023-23750 | An issue was discovered in Joomla! 4.0.0 through 4.2.6. A missing token check causes a CSRF vulnerability in the handling of post-installation messages. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23750 | | 
+| 20230201T23:39:34Z | CVE-2022-47872 | maccms10 2021.1000.2000 is vulnerable to Server-side request forgery (SSRF). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47872 | | 
+| 20230201T23:39:30Z | CVE-2022-45783 | An issue was discovered in dotCMS core 4.x through 22.10.2. An authenticated directory traversal vulnerability in the dotCMS API can lead to Remote Code Execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45783 | | 
 
 
 # klee on Github 推荐
@@ -42,22 +43,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230201T13:08:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 72| 
+| 20230201T13:08:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 293 | 73| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T00:43:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 572 | 152| 
+| 20230202T00:30:01Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 343 | 32| 
+| 20230201T23:16:32Z | Null | https://github.com/0x414141414/0-day-silent-exploit | 0 | 0| 
+| 20230201T23:15:41Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2023-FUD | 0 | 0| 
+| 20230201T23:14:45Z | Null | https://github.com/0x414141414/Silent-Office-Word-Exploit-2023 | 0 | 0| 
+| 20230201T23:13:48Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-FUD | 0 | 0| 
+| 20230201T23:12:57Z | Null | https://github.com/0x414141414/JPG-PNG-Silent-Exploit-Builder-2023 | 0 | 0| 
 | 20230201T13:42:46Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5832-java-deserialization-exploits | 0 | 0| 
 | 20230201T13:25:17Z | How to exploit the Log4j Vulnerability | https://github.com/NicolaScremin/Log4jVuln | 0 | 0| 
 | 20230201T13:20:15Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3553-exploitation-course | 0 | 0| 
-| 20230201T12:46:13Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
-| 20230201T12:45:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-EuDlD-exploit-end | 0 | 0| 
-| 20230201T12:36:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12671 | 2173| 
-| 20230201T12:06:32Z | Console tetris exploiting ncurses | https://github.com/oleg0x/Tetris | 0 | 0| 
-| 20230201T11:49:54Z | Null | https://github.com/catp3rson/crypto_exploits | 0 | 0| 
-| 20230201T11:43:41Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 0 | 0| 
-| 20230201T11:24:20Z | Dell PowerScale OneFS 8.2.x, 9.0.0.x - 9.4.0.x, contain an insufficient resource pool vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability, leading to denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46679 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T00:46:09Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
+| 20230201T23:39:19Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8557 | 963| 
+| 20230201T23:06:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8309 | 1811| 
+| 20230201T21:30:55Z | Null | https://github.com/KarZOLA/fuzzy-journey | 0 | 0| 
+| 20230201T17:50:09Z | Null | https://github.com/reewardius/bbFuzzing.txt | 33 | 7| 
 | 20230201T13:55:22Z | PHP Fuzzing | https://github.com/Steiner-254/PHP-Fuzzing | 0 | 0| 
 | 20230201T13:52:48Z | Tomcat-Fuzzing | https://github.com/Steiner-254/Tomcat-Fuzzing | 0 | 0| 
 | 20230201T13:50:26Z | Null | https://github.com/webonice/fuzzy-octo-engine | 0 | 0| 
 | 20230201T12:46:52Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5633-Source-and-Fuzzing | 0 | 0| 
 | 20230201T12:33:45Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5596-Source-and-Fuzzing | 0 | 0| 
-| 20230201T12:17:01Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-957-TriforceLinuxSyscallFuzzer | 0 | 0| 
-| 20230201T10:59:06Z | Null | https://github.com/sycuricon/MorFuzz | 0 | 0| 
-| 20230201T10:52:48Z | Null | https://github.com/reewardius/bbFuzzing.txt | 32 | 6| 
-| 20230201T10:44:08Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1241 | 167| 
-| 20230201T10:24:35Z | Enable fuzzing Verilog-consuming tools | https://github.com/mpardalos/libverismith | 0 | 0| 
 
 
 
