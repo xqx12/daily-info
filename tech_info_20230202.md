@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:11:23Z | Null | https://github.com/Greatreyhan/Fuzzy-STM32 | 0 | 0| 
 | 20230202T12:00:17Z | meow | https://github.com/elissude/fuzzy-adventure | 0 | 0| 
 | 20230202T11:45:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 232 | 34| 
 | 20230202T11:01:36Z | It includes fuzzy logic projects | https://github.com/hasimzc/FuzzyLogicAssignments | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230202T08:44:06Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8559 | 963| 
 | 20230202T07:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8313 | 1811| 
 | 20230202T02:39:08Z | Made for LD 52, not submitted during Jam because of time constraints. | https://github.com/ShalinLathigra/fuzzy-memory | 0 | 0| 
-| 20230202T02:27:02Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3385 | 406| 
 
 
 
