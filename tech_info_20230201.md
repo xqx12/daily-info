@@ -11,6 +11,7 @@
 | 20230201 | WordPress漏洞整理 | http://sucur.it/3JxrIl4| 
 | 20230201 | 一款X64二进制混淆工具，介绍了一些二进制混淆的方法和原理 | http://securityonline.info/alcatraz-x64-binary-obfuscator/| 
 | 20230201 | Firebird Internal CTF 2023 Writeup | http://mystiz.hk/posts/2023/2023-01-30-firebird-internal-ctf/| 
+| 20230201 | OSS-Fuzz后续研究计划，将从提升贡献者奖金、增加更多语言Fuzz支持、FuzzIntrospector支持等方面进行改进。 | https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html?m=1| 
 
 
 # 安全维基 推荐
@@ -54,11 +55,11 @@
 | 20230201T23:14:45Z | Null | https://github.com/0x414141414/Silent-Office-Word-Exploit-2023 | 0 | 0| 
 | 20230201T23:13:48Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-FUD | 0 | 0| 
 | 20230201T23:12:57Z | Null | https://github.com/0x414141414/JPG-PNG-Silent-Exploit-Builder-2023 | 0 | 0| 
+| 20230201T22:39:47Z | Exploits | https://github.com/ret2eax/Exploits | 0 | 0| 
 | 20230201T13:42:46Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5832-java-deserialization-exploits | 0 | 0| 
 | 20230201T13:25:17Z | How to exploit the Log4j Vulnerability | https://github.com/NicolaScremin/Log4jVuln | 0 | 0| 
 | 20230201T13:20:15Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-3553-exploitation-course | 0 | 0| 
 | 20230201T12:46:13Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
-| 20230201T12:45:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-EuDlD-exploit-end | 0 | 0| 
 
 
 # backdoor on Github 推荐
