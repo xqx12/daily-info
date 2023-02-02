@@ -21,8 +21,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:27:49Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230202T12:59:54Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/r1is/CVE-2022-0847 | | 
-| 20230202T12:39:52Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230202T11:49:22Z | CVE-2022-33323 | Active Debug Code vulnerability in robot controller of Mitsubishi Electric Corporation industrial robot MELFA SD/SQ Series and MELFA F-Series allows a remote unauthenticated attacker to gain unauthorized access by authentication bypass through an unauthorized telnet login. As for the affected model names, controller ty CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33323 | | 
 | 20230202T11:49:17Z | CVE-2022-40269 | Authentication Bypass by Spoofing vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to 1.285X allows a re CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40269 | | 
 | 20230202T11:49:14Z | CVE-2022-40268 | Improper Restriction of Rendered UI Layers or Frames vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40268 | | 
@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:26:39Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
 | 20230202T13:13:26Z | Null | https://github.com/Greatreyhan/Fuzzy-STM32 | 0 | 0| 
 | 20230202T13:12:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 133 | 6| 
 | 20230202T12:00:17Z | meow | https://github.com/elissude/fuzzy-adventure | 0 | 0| 
@@ -94,8 +95,7 @@
 | 20230202T10:44:55Z | 测试性仓库 | https://github.com/knight3fax/fuzzy-goggles | 0 | 0| 
 | 20230202T10:40:51Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 5 | 0| 
 | 20230202T08:44:06Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8559 | 963| 
-| 20230202T07:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8313 | 1811| 
-| 20230202T02:39:08Z | Made for LD 52, not submitted during Jam because of time constraints. | https://github.com/ShalinLathigra/fuzzy-memory | 0 | 0| 
+| 20230202T07:00:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8313 | 1812| 
 
 
 
