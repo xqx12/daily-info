@@ -59,10 +59,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:27:49Z | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | 1 | 0| 
 | 20230202T13:10:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12676 | 2175| 
 | 20230202T13:09:32Z | Exploiting vulnerability in Brave browser to generate cryptocurrency | https://github.com/Mr-Frey/Generator_Crypto_Brave | 2 | 0| 
 | 20230202T13:02:20Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 0 | 0| 
-| 20230202T12:39:52Z | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | 0 | 0| 
 | 20230202T11:49:06Z | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0640 | 0 | 0| 
 | 20230202T11:48:59Z | A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220018 i CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0638 | 0 | 0| 
 | 20230202T11:48:55Z | A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. This affects an unknown part of the file wan.asp of the component Web Management Interface. The manipulation leads to memory corruption. It is possible to initiate the attack remotely. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0637 | 0 | 0| 
