@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T02:39:36Z | Exploits | https://github.com/ret2eax/Exploits | 0 | 0| 
 | 20230202T02:20:51Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 346 | 32| 
 | 20230202T02:02:56Z | Irei colocar aqui os exploits que eu criar | https://github.com/gshell0st/Exploit-Development | 0 | 0| 
 | 20230202T00:43:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 572 | 152| 
@@ -58,7 +59,6 @@
 | 20230201T23:14:45Z | Null | https://github.com/0x414141414/Silent-Office-Word-Exploit-2023 | 0 | 0| 
 | 20230201T23:13:48Z | Null | https://github.com/0x414141414/New-Silent-PDF-Exploit-FUD | 0 | 0| 
 | 20230201T23:12:57Z | Null | https://github.com/0x414141414/JPG-PNG-Silent-Exploit-Builder-2023 | 0 | 0| 
-| 20230201T22:39:47Z | Exploits | https://github.com/ret2eax/Exploits | 0 | 0| 
 | 20230201T13:42:46Z | Null | https://github.com/orgTestCodacy11KRepos110MB/repo-5832-java-deserialization-exploits | 0 | 0| 
 
 
