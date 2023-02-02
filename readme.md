@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:57:47Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8560 | 963| 
 | 20230202T13:26:39Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
 | 20230202T13:13:26Z | Null | https://github.com/Greatreyhan/Fuzzy-STM32 | 0 | 0| 
 | 20230202T13:12:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 133 | 6| 
@@ -96,7 +97,6 @@
 | 20230202T11:01:36Z | It includes fuzzy logic projects | https://github.com/hasimzc/FuzzyLogicAssignments | 0 | 0| 
 | 20230202T10:44:55Z | 测试性仓库 | https://github.com/knight3fax/fuzzy-goggles | 0 | 0| 
 | 20230202T10:40:51Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 5 | 0| 
-| 20230202T08:44:06Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8559 | 963| 
 | 20230202T08:22:14Z | Cairo/Starknet smart contract fuzzer | https://github.com/FuzzingLabs/cairo-fuzzer | 47 | 6| 
 
 
