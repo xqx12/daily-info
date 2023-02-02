@@ -12,6 +12,8 @@
 | 20230201 | 一款X64二进制混淆工具，介绍了一些二进制混淆的方法和原理 | http://securityonline.info/alcatraz-x64-binary-obfuscator/| 
 | 20230201 | Firebird Internal CTF 2023 Writeup | http://mystiz.hk/posts/2023/2023-01-30-firebird-internal-ctf/| 
 | 20230201 | OSS-Fuzz后续研究计划，将从提升贡献者奖金、增加更多语言Fuzz支持、FuzzIntrospector支持等方面进行改进。 | https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html?m=1| 
+| 20230201 | F5 BIG-IP的blind format string漏洞，可导致服务崩溃甚至RCE | https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/| 
+| 20230201 | 网络安全研究人员披露了开源 ImageMagick 中两个安全漏洞的细节，这些漏洞可能导致拒绝服务（DoS）和信息泄露。 | https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html| 
 
 
 # 安全维基 推荐
