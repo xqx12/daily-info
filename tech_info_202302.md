@@ -74,6 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T13:36:49Z | A Python based Backdoor for Windows | https://github.com/BeastCodZ/Backdoor | 0 | 0| 
 | 20230202T09:44:30Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 15 | 7| 
 | 20230202T09:11:06Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 233 | 24| 
 | 20230202T07:49:35Z | Null | https://github.com/isha1701/ReverseBackdoor | 4 | 0| 
@@ -83,7 +84,6 @@
 | 20230201T23:59:25Z | Good Browser methods ddos L7 strong fixed backdoor  | https://github.com/MallisC5/special | 0 | 1| 
 | 20230201T21:44:34Z | Null | https://github.com/sanlimustafa/BackDoor_V.1.0 | 0 | 0| 
 | 20230201T16:30:45Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 4 | 0| 
-| 20230201T12:28:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 
 
 # symbolic execution on Github 推荐
