@@ -49,8 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T01:09:03Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 344 | 32| 
 | 20230202T00:43:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 572 | 152| 
-| 20230202T00:30:01Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 343 | 32| 
 | 20230201T23:16:32Z | Null | https://github.com/0x414141414/0-day-silent-exploit | 0 | 0| 
 | 20230201T23:15:41Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2023-FUD | 0 | 0| 
 | 20230201T23:14:45Z | Null | https://github.com/0x414141414/Silent-Office-Word-Exploit-2023 | 0 | 0| 
