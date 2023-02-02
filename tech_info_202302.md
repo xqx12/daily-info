@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230202T01:37:37Z | CVE-2022-36804 | Null | https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804 | | 
+| 20230202T01:42:26Z | CVE-2022-36804 | Null | https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804 | | 
 | 20230201T23:40:01Z | CVE-2022-31364 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is lower_transport_layer_on_seg. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerabilit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31364 | | 
 | 20230201T23:39:57Z | CVE-2022-31363 | Cypress : https://www.infineon.com/ Cypress Bluetooth Mesh SDK BSA0107_05.01.00-BX8-AMESH-08 is affected by: Buffer Overflow. The impact is: execute arbitrary code (remote). The component is: affected function is pb_transport_handle_frag_. ¶¶ In Cypress Bluetooth Mesh SDK, there is an out-of-bound write vulnerability t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31363 | | 
 | 20230201T23:39:54Z | CVE-2022-30904 | In Bestechnic Bluetooth Mesh SDK (BES2300) V1.0, a buffer overflow vulnerability can be triggered during provisioning, because there is no check for the SegN field of the Transaction Start PDU. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-30904 | | 
