@@ -106,8 +106,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T02:08:49Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 383 | 32| 
 | 20230203T01:56:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8321 | 1813| 
-| 20230203T01:54:40Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 382 | 32| 
 | 20230203T00:32:46Z | Null | https://github.com/data-storage-lab/Fuzzing | 0 | 0| 
 | 20230203T00:25:23Z | Null | https://github.com/alissaleigh/fuzzy-spoon | 0 | 0| 
 | 20230203T00:14:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3390 | 407| 
