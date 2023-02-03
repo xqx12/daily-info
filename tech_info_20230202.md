@@ -100,10 +100,10 @@
 | 20230202T22:20:55Z | Null | https://github.com/gjf2a/fuzzy_demo | 0 | 0| 
 | 20230202T20:21:47Z | Differential fuzzing of Filecoin and Geth EVM arithmetic operations | https://github.com/wadeAlexC/fevm-fuzzing | 0 | 0| 
 | 20230202T20:14:11Z | Storage for app-radix fuzzing | https://github.com/sylvainpelissier/app-radix-storage | 0 | 0| 
-| 20230202T18:22:01Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 236 | 34| 
 | 20230202T17:50:36Z | HTTP/HTTPS request fuzzer | https://github.com/lpiekarski/intruder | 1 | 0| 
 | 20230202T13:57:47Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8560 | 963| 
 | 20230202T13:26:39Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
+| 20230202T13:13:26Z | Null | https://github.com/Greatreyhan/Fuzzy-STM32 | 0 | 0| 
 
 
 
