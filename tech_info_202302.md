@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
+| 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
+| 20230203 | chrome v8的WebAssembly中的UAF漏洞，可在32位的Pixel中实现RCE | https://bugs.chromium.org/p/chromium/issues/detail?id=1377816| 
+| 20230203 | 使用机器学习方法（随机森林）帮助完善IDA分析结果，例如用来识别函数段、识别switch跳转表、区分 Arm 和 Thumb 代码段，识别代码中的函数指针等 | http://research.checkpoint.com/2019/thumbs-up-using-machine-learning-to-improve-idas-analysis/| 
+| 20230203 | Linux Netfilter 本地提权漏洞 PoC 公开，CVE-2023-0179 | http://securityonline.info/researcher-publishes-poc-exploit-for-privilege-escalation-flaw-cve-2023-0179-in-linux-kernel/| 
+| 20230203 | OpenSSH server 9.1中存在一个无需身份认证的double free漏洞，但考虑到权限限制和沙箱保护等因素其可利用性较差。 | http://www.openwall.com/lists/oss-security/2023/02/02/2| 
+| 20230203 | 介绍包括CVE-2022-25365在内的多个Docker漏洞，通过攻击命名管道实现权限提升，以及一个辅助分析工具PipeViewer | https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1| 
+| 20230203 | Google Chrome 在验证命令解码器时产生的缓冲区溢出漏洞 | https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-4135.html| 
+| 20230203 | 介绍了一些简单的2FA的bypass方法。不过这类方法估计很难在实际中奏效。 | https://thegrayarea.tech/bug-hunting-101-multi-factor-authentication-otp-bypass-79f03b554df6?gi=3e094ba14e0a| 
+| 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://sec.today/pulses/1dfde550-81c4-4a03-9228-7ad6037f7143/| 
+| 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://github.com/duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC| 
 | 20230202 | MYSQL JDBC反序列化攻击介绍 | https://tttang.com/archive/1877/| 
 | 20230202 | Dompdf的URI验证可通过字母大写进行绕过，导致漏洞产生 | http://securityonline.info/cve-2023-23924-critical-severity-rce-flaw-found-in-popular-dompdf-library/| 
 | 20230202 | Cisco系列产品中出现高危漏洞。CVE-2023-20076：远程命令注入，需要身份认证；CSCwc67015：任意文件写，可导致代码执行。 | https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover| 
@@ -15,11 +26,6 @@
 | 20230201 | 使用ipatables命令对Android应用抓包分析。 | https://mp.weixin.qq.com/s/P0ESUUXBmq2aQnrqDHsDaw| 
 | 20230201 | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551| 
 | 20230201 | WordPress漏洞整理 | http://sucur.it/3JxrIl4| 
-| 20230201 | 一款X64二进制混淆工具，介绍了一些二进制混淆的方法和原理 | http://securityonline.info/alcatraz-x64-binary-obfuscator/| 
-| 20230201 | Firebird Internal CTF 2023 Writeup | http://mystiz.hk/posts/2023/2023-01-30-firebird-internal-ctf/| 
-| 20230201 | OSS-Fuzz后续研究计划，将从提升贡献者奖金、增加更多语言Fuzz支持、FuzzIntrospector支持等方面进行改进。 | https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html?m=1| 
-| 20230201 | F5 BIG-IP的blind format string漏洞，可导致服务崩溃甚至RCE | https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/| 
-| 20230201 | 网络安全研究人员披露了开源 ImageMagick 中两个安全漏洞的细节，这些漏洞可能导致拒绝服务（DoS）和信息泄露。 | https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html| 
 
 
 # 安全维基 推荐
@@ -32,25 +38,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230203T02:06:16Z | CVE-2023-0634 | An uncontrolled process operation was found in the newgrp command provided by the shadow-utils package. This issue could cause the execution of arbitrary code provided by a user when running the newgrp command. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0634 | | 
-| 20230203T02:06:10Z | CVE-2023-0658 | A vulnerability, which was classified as critical, was found in Multilaser RE057 and RE170 2.1/2.2. This affects an unknown part of the file /param.file.tgz of the component Backup File Handler. The manipulation leads to information disclosure. It is possible to initiate the attack remotely. The identifier VDB-220053 w CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0658 | | 
-| 20230203T02:06:06Z | CVE-2022-38389 | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38389 | | 
-| 20230203T02:06:03Z | CVE-2022-22486 | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22486 | | 
-| 20230202T23:55:13Z | CVE-2022-48114 | RuoYi up to v4.7.5 was discovered to contain a SQL injection vulnerability via the component /tool/gen/createTable. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48114 | | 
-| 20230202T23:55:10Z | CVE-2022-48113 | A vulnerability in TOTOLINK N200RE_v5 firmware V9.3.5u.6139 allows unauthenticated attackers to access the telnet service via a crafted POST request. Attackers are also able to leverage this vulnerability to login as root via hardcoded credentials. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48113 | | 
-| 20230202T23:55:06Z | CVE-2020-15654 | When in an endless loop, a website specifying a custom cursor using CSS could make it look like the user is interacting with the user interface, when they are not. This could lead to a perceived broken state, especially when interactions with existing browser dialogs and warnings do not work. This vulnerability affects CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15654 | | 
-| 20230202T23:55:03Z | CVE-2020-15653 | An iframe sandbox element with the allow-popups flag could be bypassed when using noopener links. This could have led to security issues for websites relying on sandbox configurations that allowed popups and hosted arbitrary content. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15653 | | 
-| 20230202T23:54:59Z | CVE-2020-15656 | JIT optimizations involving the Javascript arguments object could confuse later optimizations. This risk was already mitigated by various precautions in the code, resulting in this bug rated at only moderate severity. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15656 | | 
-| 20230202T23:54:48Z | CVE-2020-29396 | A sandboxing issue in Odoo Community 11.0 through 13.0 and Odoo Enterprise 11.0 through 13.0, when running with Python 3.6 or later, allows remote authenticated users to execute arbitrary code, leading to privilege escalation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-29396 | | 
+| 20230203T12:07:56Z | CVE-2023-25139 | sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buf CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25139 | | 
+| 20230203T12:07:52Z | CVE-2023-25136 | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that "exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | | 
+| 20230203T12:07:48Z | CVE-2022-48074 | An issue in NoMachine before v8.2.3 allows attackers to execute arbitrary commands via a crafted .nxs file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48074 | | 
+| 20230203T12:07:36Z | CVE-2022-2327 | io_uring use work_flags to determine which identity need to grab from the calling process to make sure it is consistent with the calling process when executing IORING_OP. Some operations are missing some types, which can lead to incorrect reference counts which can then lead to a double free. We recommend upgrading the CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2327 | | 
+| 20230203T11:46:41Z | CVE-2022-44268 | An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic. | https://github.com/Ashifcoder/CVE-2022-44268-automated-poc | | 
+| 20230203T10:00:37Z | CVE-2022-44268 | The vulnerable recurrence docker environment for CVE-2022-44268 | https://github.com/y1nglamore/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment | | 
+| 20230203T09:03:47Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022–46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
+| 20230203T08:41:37Z | CVE-2022-31144 | CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough | https://github.com/SpiralBL0CK/CVE-2022-31144 | | 
+| 20230203T06:37:54Z | CVE-2020-12673 | In Dovecot before 2.3.11.3, sending a specially formatted NTLM request will crash the auth service because of an out-of-bounds read. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-12673 | | 
+| 20230203T06:37:50Z | CVE-2020-12674 | In Dovecot before 2.3.11.3, sending a specially formatted RPA request will crash the auth service because a length of zero is mishandled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-12674 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T10:32:47Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 73 | 6| 
 | 20230203T01:31:43Z | Null | https://github.com/LuiKlee/LuiKlee.github.io | 0 | 0| 
 | 20230202T19:25:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 169 | 50| 
 | 20230202T10:48:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 51| 
-| 20230202T08:56:49Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 72 | 6| 
 
 
 # s2e on Github 推荐
@@ -63,31 +69,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T12:22:54Z | Этот скрипт является тренировочным. Он предназначен для извлечения данных с сайта rapid7.com. В данном проекте используются две основные библиотеки bs4 и selenium. Скрипт запускался на операционной системе Windows. | https://github.com/mishaniahomi/scraping_vulnerability_and_exploit | 0 | 0| 
+| 20230203T12:07:52Z | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that %exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | 0 | 0| 
+| 20230203T11:56:47Z | Null | https://github.com/HmiBlackHat/DominExploit | 0 | 0| 
+| 20230203T11:46:41Z | An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic. | https://github.com/Ashifcoder/CVE-2022-44268-automated-poc | 0 | 0| 
+| 20230203T09:28:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 612 | 82| 
 | 20230203T02:53:41Z | ICLR paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/Yuancheng-Xu/Dynamics-Aware-Robust-Training | 0 | 0| 
+| 20230203T02:36:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3979 | 495| 
 | 20230203T02:06:06Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38389 | 0 | 0| 
 | 20230203T02:06:03Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22486 | 0 | 0| 
 | 20230203T00:40:13Z | A Security Assessment Report for a website%s source code and database with an exploit. | https://github.com/odd509/Security-Assessment-Report | 0 | 0| 
-| 20230202T23:55:56Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3993 | 0 | 0| 
-| 20230202T23:55:53Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3995 | 0 | 0| 
-| 20230202T23:55:49Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3994 | 0 | 0| 
-| 20230202T23:55:46Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3996 | 0 | 0| 
-| 20230202T23:55:42Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3946 | 0 | 0| 
-| 20230202T23:55:38Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3945 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230202T23:27:42Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 1 | 0| 
+| 20230203T09:24:04Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 18 | 7| 
+| 20230203T04:30:13Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 1 | 0| 
+| 20230203T04:28:58Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 6 | 0| 
 | 20230202T23:04:26Z | Null | https://github.com/rama1277/shell-backdoor-rama | 0 | 0| 
 | 20230202T18:05:33Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) | https://github.com/KaiyuanZh/FLIP | 2 | 0| 
 | 20230202T17:54:14Z | client-server-nat | https://github.com/LIBERTY-D/backdoor | 0 | 0| 
 | 20230202T13:36:49Z | A Python based Backdoor for Windows | https://github.com/BeastCodZ/Backdoor | 0 | 0| 
-| 20230202T09:44:30Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 15 | 7| 
 | 20230202T09:11:06Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 233 | 24| 
 | 20230202T07:49:35Z | Null | https://github.com/isha1701/ReverseBackdoor | 4 | 0| 
 | 20230202T07:45:02Z | This has been fixed backdoor  | https://github.com/MallisC5/L4-POWERFULL-CAN-BYPASS-OVH | 0 | 0| 
-| 20230202T06:52:14Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 198 | 52| 
 
 
 # symbolic execution on Github 推荐
@@ -102,21 +108,22 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T10:28:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 27 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T12:54:08Z | Null | https://github.com/rithwiksivadasan/Fuzzymatching-strings | 0 | 0| 
+| 20230203T12:45:07Z | uriel_fernade | https://github.com/Ulegom17/fuzzy-adventure | 0 | 0| 
+| 20230203T11:45:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8565 | 963| 
+| 20230203T11:41:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1247 | 168| 
+| 20230203T11:20:18Z | cli tool for searching cloudtrail events using fuzzy search | https://github.com/paololazzari/cloudtrail-event-fuzzy-viewer | 0 | 0| 
+| 20230203T10:41:25Z | Null | https://github.com/yayomu/fuzzy-octo-dollop | 0 | 0| 
+| 20230203T04:39:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8323 | 1814| 
 | 20230203T02:36:05Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 385 | 32| 
 | 20230203T02:23:54Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 237 | 34| 
-| 20230203T02:21:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8322 | 1813| 
 | 20230203T00:32:46Z | Null | https://github.com/data-storage-lab/Fuzzing | 0 | 0| 
-| 20230203T00:25:23Z | Null | https://github.com/alissaleigh/fuzzy-spoon | 0 | 0| 
-| 20230203T00:14:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3390 | 407| 
-| 20230202T23:11:36Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
-| 20230202T22:47:00Z | DA/DS projects | https://github.com/Rouss57/fuzzy-giggle | 0 | 0| 
-| 20230202T22:43:44Z | Web-Fuzzer made in python | https://github.com/1momo7/m1-Fuzzer | 0 | 0| 
-| 20230202T22:20:55Z | Null | https://github.com/gjf2a/fuzzy_demo | 0 | 0| 
 
 
 
