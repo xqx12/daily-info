@@ -77,7 +77,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T12:27:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 618 | 111| 
+| 20230203T13:05:16Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 619 | 111| 
 | 20230203T04:02:58Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 1 | 0| 
 
 
