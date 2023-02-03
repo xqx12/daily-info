@@ -21,22 +21,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230202T13:57:50Z | CVE-2023-0643 | Improper Handling of Additional Special Element in GitHub repository squidex/squidex prior to 7.4.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0643 | | 
-| 20230202T13:57:46Z | CVE-2023-0642 | Cross-Site Request Forgery (CSRF) in GitHub repository squidex/squidex prior to 7.4.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0642 | | 
-| 20230202T13:57:42Z | CVE-2022-46965 | PrestaShop module, totadministrativemandate before v1.7.1 was discovered to contain a SQL injection vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46965 | | 
-| 20230202T13:57:38Z | CVE-2020-24307 | An issue in mRemoteNG v1.76.20 allows attackers to escalate privileges via a crafted executable file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-24307 | | 
-| 20230202T13:27:49Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
-| 20230202T12:59:54Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/r1is/CVE-2022-0847 | | 
-| 20230202T11:49:22Z | CVE-2022-33323 | Active Debug Code vulnerability in robot controller of Mitsubishi Electric Corporation industrial robot MELFA SD/SQ Series and MELFA F-Series allows a remote unauthenticated attacker to gain unauthorized access by authentication bypass through an unauthorized telnet login. As for the affected model names, controller ty CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-33323 | | 
-| 20230202T11:49:17Z | CVE-2022-40269 | Authentication Bypass by Spoofing vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to 1.285X allows a re CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40269 | | 
-| 20230202T11:49:14Z | CVE-2022-40268 | Improper Restriction of Rendered UI Layers or Frames vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40268 | | 
-| 20230202T11:49:10Z | CVE-2023-0641 | A vulnerability was found in PHPGurukul Employee Leaves Management System 1.0. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file changepassword.php. The manipulation of the argument newpassword/confirmpassword leads to weak password requirements. The attack can  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0641 | | 
+| 20230202T23:55:13Z | CVE-2022-48114 | RuoYi up to v4.7.5 was discovered to contain a SQL injection vulnerability via the component /tool/gen/createTable. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48114 | | 
+| 20230202T23:55:10Z | CVE-2022-48113 | A vulnerability in TOTOLINK N200RE_v5 firmware V9.3.5u.6139 allows unauthenticated attackers to access the telnet service via a crafted POST request. Attackers are also able to leverage this vulnerability to login as root via hardcoded credentials. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48113 | | 
+| 20230202T23:55:06Z | CVE-2020-15654 | When in an endless loop, a website specifying a custom cursor using CSS could make it look like the user is interacting with the user interface, when they are not. This could lead to a perceived broken state, especially when interactions with existing browser dialogs and warnings do not work. This vulnerability affects CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15654 | | 
+| 20230202T23:55:03Z | CVE-2020-15653 | An iframe sandbox element with the allow-popups flag could be bypassed when using noopener links. This could have led to security issues for websites relying on sandbox configurations that allowed popups and hosted arbitrary content. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15653 | | 
+| 20230202T23:54:59Z | CVE-2020-15656 | JIT optimizations involving the Javascript arguments object could confuse later optimizations. This risk was already mitigated by various precautions in the code, resulting in this bug rated at only moderate severity. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15656 | | 
+| 20230202T23:54:48Z | CVE-2020-29396 | A sandboxing issue in Odoo Community 11.0 through 13.0 and Odoo Enterprise 11.0 through 13.0, when running with Python 3.6 or later, allows remote authenticated users to execute arbitrary code, leading to privilege escalation. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-29396 | | 
+| 20230202T23:54:44Z | CVE-2020-28052 | An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-28052 | | 
+| 20230202T23:54:40Z | CVE-2020-25221 | get_gate_page in mm/gup.c in the Linux kernel 5.7.x and 5.8.x before 5.8.7 allows privilege escalation because of incorrect reference counting (caused by gate page mishandling) of the struct page that backs the vsyscall page. The result is a refcount underflow. This can be triggered by any 64-bit process that can use p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-25221 | | 
+| 20230202T23:54:37Z | CVE-2020-15658 | The code for downloading files did not properly take care of special characters, which led to an attacker being able to cut off the file ending at an earlier position, leading to a different file type being downloaded than shown in the dialog. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-15658 | | 
+| 20230202T23:54:33Z | CVE-2020-27786 | A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27786 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230202T10:48:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 50| 
+| 20230202T19:25:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 169 | 50| 
+| 20230202T10:48:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 51| 
 | 20230202T08:56:49Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 72 | 6| 
 
 
@@ -49,16 +50,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230202T13:27:49Z | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | 1 | 0| 
-| 20230202T13:10:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12676 | 2175| 
-| 20230202T13:09:32Z | Exploiting vulnerability in Brave browser to generate cryptocurrency | https://github.com/Mr-Frey/Generator_Crypto_Brave | 2 | 0| 
-| 20230202T13:02:20Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 0 | 0| 
-| 20230202T11:49:06Z | A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0640 | 0 | 0| 
-| 20230202T11:48:59Z | A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220018 i CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0638 | 0 | 0| 
-| 20230202T11:48:55Z | A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. This affects an unknown part of the file wan.asp of the component Web Management Interface. The manipulation leads to memory corruption. It is possible to initiate the attack remotely. The exploit has been disclosed to the pub CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0637 | 0 | 0| 
-| 20230202T11:46:49Z | Here is my personal exploits | https://github.com/Chocapikk/PersonalRobloxScripts | 0 | 0| 
-| 20230202T05:32:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4889 | 709| 
-| 20230202T03:00:00Z | Exploits | https://github.com/ret2eax/exploits | 0 | 0| 
+| 20230202T23:55:56Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3993 | 0 | 0| 
+| 20230202T23:55:53Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3995 | 0 | 0| 
+| 20230202T23:55:49Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3994 | 0 | 0| 
+| 20230202T23:55:46Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3996 | 0 | 0| 
+| 20230202T23:55:42Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3946 | 0 | 0| 
+| 20230202T23:55:38Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3945 | 0 | 0| 
+| 20230202T23:55:35Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3943 | 0 | 0| 
+| 20230202T23:55:32Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3944 | 0 | 0| 
+| 20230202T23:55:28Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3942 | 0 | 0| 
+| 20230202T23:55:25Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3941 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230202T23:11:36Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
+| 20230202T22:47:00Z | DA/DS projects | https://github.com/Rouss57/fuzzy-giggle | 0 | 0| 
+| 20230202T22:43:44Z | Web-Fuzzer made in python | https://github.com/1momo7/m1-Fuzzer | 0 | 0| 
+| 20230202T22:26:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8320 | 1813| 
+| 20230202T22:20:55Z | Null | https://github.com/gjf2a/fuzzy_demo | 0 | 0| 
+| 20230202T20:21:47Z | Differential fuzzing of Filecoin and Geth EVM arithmetic operations | https://github.com/wadeAlexC/fevm-fuzzing | 0 | 0| 
+| 20230202T20:14:11Z | Storage for app-radix fuzzing | https://github.com/sylvainpelissier/app-radix-storage | 0 | 0| 
+| 20230202T18:22:01Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 236 | 34| 
+| 20230202T17:50:36Z | HTTP/HTTPS request fuzzer | https://github.com/lpiekarski/intruder | 1 | 0| 
 | 20230202T13:57:47Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8560 | 963| 
-| 20230202T13:26:39Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
-| 20230202T13:13:26Z | Null | https://github.com/Greatreyhan/Fuzzy-STM32 | 0 | 0| 
-| 20230202T13:12:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 133 | 6| 
-| 20230202T12:00:17Z | meow | https://github.com/elissude/fuzzy-adventure | 0 | 0| 
-| 20230202T11:45:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 232 | 34| 
-| 20230202T11:01:36Z | It includes fuzzy logic projects | https://github.com/hasimzc/FuzzyLogicAssignments | 0 | 0| 
-| 20230202T10:44:55Z | 测试性仓库 | https://github.com/knight3fax/fuzzy-goggles | 0 | 0| 
-| 20230202T10:40:51Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 5 | 0| 
-| 20230202T08:22:14Z | Cairo/Starknet smart contract fuzzer | https://github.com/FuzzingLabs/cairo-fuzzer | 47 | 6| 
 
 
 
