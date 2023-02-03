@@ -106,13 +106,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T01:49:02Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 381 | 32| 
+| 20230203T01:56:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8321 | 1813| 
+| 20230203T01:54:40Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 382 | 32| 
 | 20230203T00:32:46Z | Null | https://github.com/data-storage-lab/Fuzzing | 0 | 0| 
 | 20230203T00:25:23Z | Null | https://github.com/alissaleigh/fuzzy-spoon | 0 | 0| 
 | 20230202T23:11:36Z | Null | https://github.com/HauHuynh90/fuzzy-chainsaw-november | 0 | 0| 
 | 20230202T22:47:00Z | DA/DS projects | https://github.com/Rouss57/fuzzy-giggle | 0 | 0| 
 | 20230202T22:43:44Z | Web-Fuzzer made in python | https://github.com/1momo7/m1-Fuzzer | 0 | 0| 
-| 20230202T22:26:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8320 | 1813| 
 | 20230202T22:20:55Z | Null | https://github.com/gjf2a/fuzzy_demo | 0 | 0| 
 | 20230202T20:21:47Z | Differential fuzzing of Filecoin and Geth EVM arithmetic operations | https://github.com/wadeAlexC/fevm-fuzzing | 0 | 0| 
 | 20230202T20:14:11Z | Storage for app-radix fuzzing | https://github.com/sylvainpelissier/app-radix-storage | 0 | 0| 
