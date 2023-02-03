@@ -38,6 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230203T13:16:28Z | CVE-2023-0549 | A vulnerability, which was classified as problematic, has been found in YAFNET up to 3.1.10. This issue affects some unknown processing of the file /forum/PostPrivateMessage of the component Private Message Handler. The manipulation of the argument subject/message leads to cross site scripting. The attack may be initia CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0549 | | 
 | 20230203T12:07:56Z | CVE-2023-25139 | sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buf CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25139 | | 
 | 20230203T12:07:52Z | CVE-2023-25136 | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that "exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | | 
 | 20230203T12:07:48Z | CVE-2022-48074 | An issue in NoMachine before v8.2.3 allows attackers to execute arbitrary commands via a crafted .nxs file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48074 | | 
@@ -47,7 +48,6 @@
 | 20230203T09:03:47Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022–46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
 | 20230203T08:41:37Z | CVE-2022-31144 | CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough | https://github.com/SpiralBL0CK/CVE-2022-31144 | | 
 | 20230203T06:37:54Z | CVE-2020-12673 | In Dovecot before 2.3.11.3, sending a specially formatted NTLM request will crash the auth service because of an out-of-bounds read. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-12673 | | 
-| 20230203T06:37:50Z | CVE-2020-12674 | In Dovecot before 2.3.11.3, sending a specially formatted RPA request will crash the auth service because a length of zero is mishandled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-12674 | | 
 
 
 # klee on Github 推荐
@@ -73,12 +73,12 @@
 | 20230203T12:07:52Z | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that %exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | 0 | 0| 
 | 20230203T11:56:47Z | Null | https://github.com/HmiBlackHat/DominExploit | 0 | 0| 
 | 20230203T11:46:41Z | An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic. | https://github.com/Ashifcoder/CVE-2022-44268-automated-poc | 0 | 0| 
+| 20230203T10:38:37Z | An Exploit made by XenoExploitz | https://github.com/xenoExploits/Sapphire.WRD | 0 | 0| 
 | 20230203T09:28:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 612 | 82| 
 | 20230203T02:53:41Z | ICLR paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/Yuancheng-Xu/Dynamics-Aware-Robust-Training | 0 | 0| 
 | 20230203T02:36:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3979 | 495| 
 | 20230203T02:06:06Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38389 | 0 | 0| 
 | 20230203T02:06:03Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22486 | 0 | 0| 
-| 20230203T00:40:13Z | A Security Assessment Report for a website%s source code and database with an exploit. | https://github.com/odd509/Security-Assessment-Report | 0 | 0| 
 
 
 # backdoor on Github 推荐
