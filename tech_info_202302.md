@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230203T02:53:41Z | ICLR paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/Yuancheng-Xu/Dynamics-Aware-Robust-Training | 0 | 0| 
 | 20230203T02:06:06Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38389 | 0 | 0| 
 | 20230203T02:06:03Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22486 | 0 | 0| 
 | 20230203T00:40:13Z | A Security Assessment Report for a website%s source code and database with an exploit. | https://github.com/odd509/Security-Assessment-Report | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230202T23:55:46Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3996 | 0 | 0| 
 | 20230202T23:55:42Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3946 | 0 | 0| 
 | 20230202T23:55:38Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3945 | 0 | 0| 
-| 20230202T23:55:35Z | An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software%s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2018-3943 | 0 | 0| 
 
 
 # backdoor on Github 推荐
