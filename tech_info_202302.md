@@ -38,6 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230204T02:42:04Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230204T02:29:57Z | cve-2022-44268 | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | | 
 | 20230204T01:29:16Z | CVE-2020-10883 | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | | 
 | 20230204T01:29:12Z | CVE-2020-10882 | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | | 
@@ -47,7 +48,6 @@
 | 20230204T01:28:23Z | CVE-2023-24806 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This CVE has been rejected as it was incorrectly assigned. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24806 | | 
 | 20230204T01:28:12Z | CVE-2022-28711 | A memory corruption vulnerability exists in the cgi.c unescape functionality of ArduPilot APWeb master branch 50b6b7ac - master branch 46177cb9. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28711 | | 
 | 20230204T00:20:33Z | CVE-2023-23615 | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | | 
-| 20230204T00:20:30Z | CVE-2023-23082 | A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23082 | | 
 
 
 # klee on Github 推荐
