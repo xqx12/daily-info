@@ -90,7 +90,7 @@
 | 20230204T10:29:50Z | Samochód sterowany logiką rozmytą | https://github.com/MarcinZabielski/fuzzyCar | 0 | 0| 
 | 20230204T09:43:04Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 3 | 0| 
 | 20230204T08:37:38Z | Test for Circle CI - Sharing Files | https://github.com/MicahAcosta/circle-ci-fuzzy-enigma | 0 | 0| 
-| 20230204T08:02:32Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8568 | 964| 
+| 20230204T08:02:32Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8568 | 965| 
 
 
 
