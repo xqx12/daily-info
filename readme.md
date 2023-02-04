@@ -63,7 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230204T13:13:57Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 24 | 10| 
+| 20230204T13:13:57Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 24 | 11| 
 | 20230204T08:21:14Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 397 | 74| 
 | 20230204T07:41:56Z | A Minimalist Backdoor Written In Python | https://github.com/0xN1nja/darkness-python | 1 | 0| 
 | 20230204T06:02:05Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 3088 | 791| 
