@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T02:32:45Z | HTB Exploits  | https://github.com/AidBucket/HTB | 1 | 0| 
 | 20230204T02:29:57Z | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | 1 | 0| 
 | 20230204T01:56:47Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 0| 
 | 20230204T01:29:16Z | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230204T00:21:01Z | Vulnerability in the MySQL Connectors product of Oracle MySQL (component: Connector/ODBC). Supported versions that are affected are 5.3.13 and prior and 8.0.17 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Connectors. Successfu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2920 | 0 | 0| 
 | 20230204T00:20:57Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2922 | 0 | 0| 
 | 20230204T00:20:54Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2923 | 0 | 0| 
-| 20230204T00:20:33Z | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | 0 | 0| 
 
 
 # backdoor on Github 推荐
