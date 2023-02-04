@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230204T13:06:03Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
+| 20230204T13:08:23Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
 | 20230204T12:09:20Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
 | 20230204T12:03:06Z | AFL-based fuzz testing for .NET | https://github.com/Metalnem/sharpfuzz | 285 | 24| 
 | 20230204T11:05:02Z | Null | https://github.com/CaptureVibes/fuzzy-fortnight | 0 | 0| 
