@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T13:32:33Z | Null | https://github.com/SbtNhba/fuzzy-fishstick | 0 | 0| 
 | 20230204T13:14:15Z | Null | https://github.com/ArmanAghania/Classification-with-Matlab-and-Fuzzy-C-means | 0 | 0| 
 | 20230204T13:08:23Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
 | 20230204T12:09:20Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
@@ -132,7 +133,6 @@
 | 20230204T10:29:50Z | Samochód sterowany logiką rozmytą | https://github.com/MarcinZabielski/fuzzyCar | 0 | 0| 
 | 20230204T09:43:04Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 3 | 0| 
 | 20230204T08:37:38Z | Test for Circle CI - Sharing Files | https://github.com/MicahAcosta/circle-ci-fuzzy-enigma | 0 | 0| 
-| 20230204T08:02:32Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8568 | 965| 
 
 
 
