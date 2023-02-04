@@ -38,22 +38,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230203T13:16:28Z | CVE-2023-0549 | A vulnerability, which was classified as problematic, has been found in YAFNET up to 3.1.10. This issue affects some unknown processing of the file /forum/PostPrivateMessage of the component Private Message Handler. The manipulation of the argument subject/message leads to cross site scripting. The attack may be initia CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0549 | | 
-| 20230203T12:07:56Z | CVE-2023-25139 | sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buf CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25139 | | 
-| 20230203T12:07:52Z | CVE-2023-25136 | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that "exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | | 
-| 20230203T12:07:48Z | CVE-2022-48074 | An issue in NoMachine before v8.2.3 allows attackers to execute arbitrary commands via a crafted .nxs file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48074 | | 
-| 20230203T12:07:36Z | CVE-2022-2327 | io_uring use work_flags to determine which identity need to grab from the calling process to make sure it is consistent with the calling process when executing IORING_OP. Some operations are missing some types, which can lead to incorrect reference counts which can then lead to a double free. We recommend upgrading the CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2327 | | 
-| 20230203T11:46:41Z | CVE-2022-44268 | An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic. | https://github.com/Ashifcoder/CVE-2022-44268-automated-poc | | 
-| 20230203T10:00:37Z | CVE-2022-44268 | The vulnerable recurrence docker environment for CVE-2022-44268 | https://github.com/y1nglamore/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment | | 
-| 20230203T09:03:47Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022–46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
-| 20230203T08:41:37Z | CVE-2022-31144 | CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough | https://github.com/SpiralBL0CK/CVE-2022-31144 | | 
-| 20230203T06:37:54Z | CVE-2020-12673 | In Dovecot before 2.3.11.3, sending a specially formatted NTLM request will crash the auth service because of an out-of-bounds read. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-12673 | | 
+| 20230204T00:20:33Z | CVE-2023-23615 | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | | 
+| 20230204T00:20:30Z | CVE-2023-23082 | A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23082 | | 
+| 20230204T00:20:23Z | CVE-2022-24895 | Symfony is a PHP framework for web and console applications and a set of reusable PHP components. When authenticating users Symfony by default regenerates the session ID upon login, but preserves the rest of session attributes. Because this does not clear CSRF tokens upon login, this might enables same-site attackers t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24895 | | 
+| 20230204T00:20:19Z | CVE-2022-24894 | Symfony is a PHP framework for web and console applications and a set of reusable PHP components. The Symfony HTTP cache system, acts as a reverse proxy: It caches entire responses (including headers) and returns them to the clients. In a recent change in the `AbstractSessionListener`, the response might contain a `Set CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24894 | | 
+| 20230204T00:20:16Z | CVE-2022-23498 | Grafana is an open-source platform for monitoring and observability. When datasource query caching is enabled, Grafana caches all headers, including `grafana_session`. As a result, any user that queries a datasource where the caching is enabled can acquire another user’s session. To mitigate the vulnerability you can d CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-23498 | | 
+| 20230204T00:08:18Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230203T22:05:47Z | CVE-2020-10963 | FrozenNode Laravel-Administrator through 5.0.12 allows unrestricted file upload (and consequently Remote Code Execution) via admin/tips_image/image/file_upload image upload with PHP content within a GIF image that has the .php extension. NOTE: this product is discontinued. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10963 | | 
+| 20230203T21:58:58Z | cve-2022-44268 | Payload generator and extractor for CVE-2022-44268 written in Python. | https://github.com/agathanon/cve-2022-44268 | | 
+| 20230203T19:54:03Z | CVE-2020-26664 | A vulnerability in EbmlTypeDispatcher::send in VideoLAN VLC media player 3.0.11 allows attackers to trigger a heap-based buffer overflow via a crafted .mkv file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26664 | | 
+| 20230203T19:53:56Z | CVE-2020-36403 | HTSlib through 1.10.2 allows out-of-bounds write access in vcf_parse_format (called from vcf_parse and vcf_read). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36403 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T10:32:47Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 73 | 6| 
+| 20230203T17:05:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2148 | 604| 
+| 20230203T14:15:33Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 | 20230203T01:31:43Z | Null | https://github.com/LuiKlee/LuiKlee.github.io | 0 | 0| 
 | 20230202T19:25:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 169 | 50| 
 | 20230202T10:48:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 51| 
@@ -69,31 +70,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T12:22:54Z | Этот скрипт является тренировочным. Он предназначен для извлечения данных с сайта rapid7.com. В данном проекте используются две основные библиотеки bs4 и selenium. Скрипт запускался на операционной системе Windows. | https://github.com/mishaniahomi/scraping_vulnerability_and_exploit | 0 | 0| 
-| 20230203T12:07:52Z | OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that %exploiting this vulnerability will not  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25136 | 0 | 0| 
-| 20230203T11:56:47Z | Null | https://github.com/HmiBlackHat/DominExploit | 0 | 0| 
-| 20230203T11:46:41Z | An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic. | https://github.com/Ashifcoder/CVE-2022-44268-automated-poc | 0 | 0| 
-| 20230203T10:38:37Z | An Exploit made by XenoExploitz | https://github.com/xenoExploits/Sapphire.WRD | 0 | 0| 
-| 20230203T09:28:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 612 | 82| 
-| 20230203T02:53:41Z | ICLR paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/Yuancheng-Xu/Dynamics-Aware-Robust-Training | 0 | 0| 
-| 20230203T02:36:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3979 | 495| 
-| 20230203T02:06:06Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38389 | 0 | 0| 
-| 20230203T02:06:03Z | IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22486 | 0 | 0| 
+| 20230204T00:21:05Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2924 | 0 | 0| 
+| 20230204T00:21:01Z | Vulnerability in the MySQL Connectors product of Oracle MySQL (component: Connector/ODBC). Supported versions that are affected are 5.3.13 and prior and 8.0.17 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Connectors. Successfu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2920 | 0 | 0| 
+| 20230204T00:20:57Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2922 | 0 | 0| 
+| 20230204T00:20:54Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2923 | 0 | 0| 
+| 20230204T00:20:33Z | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | 0 | 0| 
+| 20230204T00:13:47Z | 4XX Bypass and exploit tool | https://github.com/shadowdevnotreal/4xxbypass | 0 | 0| 
+| 20230204T00:04:46Z | Null | https://github.com/joeengo/exploiting | 8 | 12| 
+| 20230203T23:40:41Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
+| 20230203T23:20:00Z | my pwnable.kr exploits | https://github.com/DanielSegal1/pwnable | 0 | 0| 
+| 20230203T22:57:31Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T09:24:04Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 18 | 7| 
-| 20230203T04:30:13Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 1 | 0| 
+| 20230203T23:05:01Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 19 | 7| 
+| 20230203T20:27:04Z | Jason-Backdoor | https://github.com/J4s0n1/Jadoor0 | 0 | 0| 
+| 20230203T20:25:14Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 3 | 2| 
+| 20230203T19:03:57Z | Null | https://github.com/sanlimustafa/BackDoor_V.2.0 | 0 | 0| 
 | 20230203T04:28:58Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 6 | 0| 
 | 20230202T23:04:26Z | Null | https://github.com/rama1277/shell-backdoor-rama | 0 | 0| 
 | 20230202T18:05:33Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) | https://github.com/KaiyuanZh/FLIP | 2 | 0| 
 | 20230202T17:54:14Z | client-server-nat | https://github.com/LIBERTY-D/backdoor | 0 | 0| 
 | 20230202T13:36:49Z | A Python based Backdoor for Windows | https://github.com/BeastCodZ/Backdoor | 0 | 0| 
 | 20230202T09:11:06Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 233 | 24| 
-| 20230202T07:49:35Z | Null | https://github.com/isha1701/ReverseBackdoor | 4 | 0| 
-| 20230202T07:45:02Z | This has been fixed backdoor  | https://github.com/MallisC5/L4-POWERFULL-CAN-BYPASS-OVH | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -115,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T00:59:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8325 | 1813| 
+| 20230204T00:22:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1257 | 168| 
+| 20230204T00:11:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1912 | 245| 
+| 20230203T23:04:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8566 | 964| 
+| 20230203T22:41:07Z | Null | https://github.com/GaetanThomas42/fuzzy-potato | 0 | 0| 
+| 20230203T21:54:09Z | Website for the Furry social platform | https://github.com/coding-bunny/fuzznet | 0 | 0| 
+| 20230203T21:44:27Z | Fuzzy C-Means & SLIC algorithms are used in this exercise | https://github.com/HokageHimanshu/Computer-Vision-Fuzzy-C-Means-SLIC | 0 | 0| 
 | 20230203T13:40:48Z | Samochód sterowany logiką rozmytą  | https://github.com/MarcinZabielski/fuzzyCar | 0 | 0| 
-| 20230203T13:08:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1249 | 168| 
 | 20230203T12:54:08Z | Null | https://github.com/rithwiksivadasan/Fuzzymatching-strings | 0 | 0| 
 | 20230203T12:45:07Z | uriel_fernade | https://github.com/Ulegom17/fuzzy-adventure | 0 | 0| 
-| 20230203T11:45:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8565 | 964| 
-| 20230203T11:20:18Z | cli tool for searching cloudtrail events using fuzzy search | https://github.com/paololazzari/cloudtrail-event-fuzzy-viewer | 0 | 0| 
-| 20230203T10:41:25Z | Null | https://github.com/yayomu/fuzzy-octo-dollop | 0 | 0| 
-| 20230203T04:39:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8323 | 1814| 
-| 20230203T02:36:05Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 385 | 32| 
-| 20230203T02:23:54Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 237 | 34| 
 
 
 
