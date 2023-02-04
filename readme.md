@@ -94,7 +94,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T23:04:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8566 | 964| 
 | 20230203T22:41:07Z | Null | https://github.com/GaetanThomas42/fuzzy-potato | 0 | 0| 
 | 20230203T21:54:09Z | Website for the Furry social platform | https://github.com/coding-bunny/fuzznet | 0 | 0| 
 | 20230203T21:44:27Z | Fuzzy C-Means & SLIC algorithms are used in this exercise | https://github.com/HokageHimanshu/Computer-Vision-Fuzzy-C-Means-SLIC | 0 | 0| 
@@ -104,6 +103,7 @@
 | 20230203T11:20:18Z | cli tool for searching cloudtrail events using fuzzy search | https://github.com/paololazzari/cloudtrail-event-fuzzy-viewer | 0 | 0| 
 | 20230203T10:41:25Z | Null | https://github.com/yayomu/fuzzy-octo-dollop | 0 | 0| 
 | 20230203T02:36:05Z | REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications | https://github.com/0xacb/recollapse | 385 | 32| 
+| 20230203T02:23:54Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 237 | 34| 
 
 
 
