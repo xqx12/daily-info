@@ -38,6 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230204T01:28:12Z | CVE-2022-28711 | A memory corruption vulnerability exists in the cgi.c unescape functionality of ArduPilot APWeb master branch 50b6b7ac - master branch 46177cb9. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28711 | | 
 | 20230204T00:20:33Z | CVE-2023-23615 | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | | 
 | 20230204T00:20:30Z | CVE-2023-23082 | A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23082 | | 
 | 20230204T00:20:23Z | CVE-2022-24895 | Symfony is a PHP framework for web and console applications and a set of reusable PHP components. When authenticating users Symfony by default regenerates the session ID upon login, but preserves the rest of session attributes. Because this does not clear CSRF tokens upon login, this might enables same-site attackers t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24895 | | 
@@ -47,7 +48,6 @@
 | 20230203T22:05:47Z | CVE-2020-10963 | FrozenNode Laravel-Administrator through 5.0.12 allows unrestricted file upload (and consequently Remote Code Execution) via admin/tips_image/image/file_upload image upload with PHP content within a GIF image that has the .php extension. NOTE: this product is discontinued. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10963 | | 
 | 20230203T21:58:58Z | cve-2022-44268 | Payload generator and extractor for CVE-2022-44268 written in Python. | https://github.com/agathanon/cve-2022-44268 | | 
 | 20230203T19:54:03Z | CVE-2020-26664 | A vulnerability in EbmlTypeDispatcher::send in VideoLAN VLC media player 3.0.11 allows attackers to trigger a heap-based buffer overflow via a crafted .mkv file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-26664 | | 
-| 20230203T19:53:56Z | CVE-2020-36403 | HTSlib through 1.10.2 allows out-of-bounds write access in vcf_parse_format (called from vcf_parse and vcf_read). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-36403 | | 
 
 
 # klee on Github 推荐
