@@ -38,8 +38,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230204T02:56:56Z | cve-2022-44268 | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | | 
 | 20230204T02:42:04Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
-| 20230204T02:29:57Z | cve-2022-44268 | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | | 
 | 20230204T01:29:16Z | CVE-2020-10883 | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | | 
 | 20230204T01:29:12Z | CVE-2020-10882 | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | | 
 | 20230204T01:29:08Z | CVE-2020-6806 | By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6806 | | 
@@ -70,9 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T02:56:56Z | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | 1 | 0| 
 | 20230204T02:45:30Z | A simple roblox Ui library used for exploiting | https://github.com/shezan78/Hydra-Ui-Lib | 0 | 0| 
 | 20230204T02:32:45Z | HTB Exploits  | https://github.com/AidBucket/HTB | 1 | 0| 
-| 20230204T02:29:57Z | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | 1 | 0| 
 | 20230204T01:56:47Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 0| 
 | 20230204T01:29:16Z | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | 0 | 0| 
 | 20230204T01:29:12Z | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | 0 | 0| 
