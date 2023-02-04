@@ -38,6 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230204T01:36:58Z | cve-2022-44268 | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | | 
 | 20230204T01:29:16Z | CVE-2020-10883 | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | | 
 | 20230204T01:29:12Z | CVE-2020-10882 | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | | 
 | 20230204T01:29:08Z | CVE-2020-6806 | By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6806 | | 
@@ -47,7 +48,6 @@
 | 20230204T01:28:12Z | CVE-2022-28711 | A memory corruption vulnerability exists in the cgi.c unescape functionality of ArduPilot APWeb master branch 50b6b7ac - master branch 46177cb9. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28711 | | 
 | 20230204T00:20:33Z | CVE-2023-23615 | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | | 
 | 20230204T00:20:30Z | CVE-2023-23082 | A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23082 | | 
-| 20230204T00:20:23Z | CVE-2022-24895 | Symfony is a PHP framework for web and console applications and a set of reusable PHP components. When authenticating users Symfony by default regenerates the session ID upon login, but preserves the rest of session attributes. Because this does not clear CSRF tokens upon login, this might enables same-site attackers t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-24895 | | 
 
 
 # klee on Github 推荐
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T01:35:08Z | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | 0 | 0| 
 | 20230204T01:29:16Z | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | 0 | 0| 
 | 20230204T01:29:12Z | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | 0 | 0| 
 | 20230204T01:29:08Z | By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6806 | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230204T00:20:54Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2923 | 0 | 0| 
 | 20230204T00:20:33Z | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | 0 | 0| 
 | 20230204T00:13:47Z | 4XX Bypass and exploit tool | https://github.com/shadowdevnotreal/4xxbypass | 0 | 0| 
-| 20230204T00:04:46Z | Null | https://github.com/joeengo/exploiting | 8 | 12| 
 
 
 # backdoor on Github 推荐
