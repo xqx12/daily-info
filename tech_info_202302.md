@@ -31,6 +31,11 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230204 | 开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA| 
+| 20230204 | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA| 
+| 20230204 | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw| 
+| 20230204 | C2服务器隐藏与Linux上线 | https://xz.aliyun.com/t/12094| 
+| 20230204 | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ| 
 | 20230201 | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg| 
 | 20230201 | 2022年度APT高级威胁报告 | https://book.yunzhan365.com/tkgd/ftku/mobile/index.html| 
 
@@ -38,21 +43,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230204T02:56:56Z | cve-2022-44268 | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | | 
-| 20230204T02:42:04Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
-| 20230204T01:29:16Z | CVE-2020-10883 | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | | 
-| 20230204T01:29:12Z | CVE-2020-10882 | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | | 
-| 20230204T01:29:08Z | CVE-2020-6806 | By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6806 | | 
-| 20230204T01:28:48Z | CVE-2021-45868 | In the Linux kernel before 5.15.3, fs/quota/quota_tree.c does not validate the block number in the quota tree (on disk). This can, for example, lead to a kernel/locking/rwsem.c use-after-free if there is a corrupted quota file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-45868 | | 
-| 20230204T01:28:37Z | CVE-2021-24374 | The Jetpack Carousel module of the JetPack WordPress plugin before 9.8 allows users to create a "carousel" type image gallery and allows users to comment on the images. A security vulnerability was found within the Jetpack Carousel module by nguyenhg_vcs that allowed the comments of non-published page/posts to be leake CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-24374 | | 
-| 20230204T01:28:23Z | CVE-2023-24806 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This CVE has been rejected as it was incorrectly assigned. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24806 | | 
-| 20230204T01:28:12Z | CVE-2022-28711 | A memory corruption vulnerability exists in the cgi.c unescape functionality of ArduPilot APWeb master branch 50b6b7ac - master branch 46177cb9. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28711 | | 
-| 20230204T00:20:33Z | CVE-2023-23615 | Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embedda CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23615 | | 
+| 20230204T11:26:36Z | CVE-2023-0663 | A vulnerability was found in Calendar Event Management System 2.3.0. It has been rated as critical. This issue affects some unknown processing of the component Login Page. The manipulation of the argument name/pwd leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0663 | | 
+| 20230204T11:26:33Z | CVE-2023-0675 | A vulnerability, which was classified as critical, was found in Calendar Event Management System 2.3.0. This affects an unknown part. The manipulation of the argument start/end leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The ident CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0675 | | 
+| 20230204T11:26:29Z | CVE-2023-0674 | A vulnerability, which was classified as problematic, has been found in XXL-JOB 2.3.1. Affected by this issue is some unknown functionality of the file /user/updatePwd of the component New Password Handler. The manipulation leads to cross-site request forgery. The attack may be launched remotely. The exploit has been d CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0674 | | 
+| 20230204T11:26:26Z | CVE-2023-0673 | A vulnerability classified as critical was found in SourceCodester Online Eyewear Shop 1.0. Affected by this vulnerability is an unknown functionality of the file oews/products/view_product.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The associated identifier of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0673 | | 
+| 20230204T10:50:20Z | CVE-2022-44268 | CVE-2022-44268 PoC | https://github.com/Baikuya/CVE-2022-44268-PoC | | 
+| 20230204T07:17:43Z | CVE-2022-26134 | Null | https://github.com/MaskCyberSecurityTeam/CVE-2022-26134_Behinder_MemShell | | 
+| 20230204T07:06:10Z | CVE-2021-39217 | OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, Custom Layout enabled admin users to execute arbitrary commands via block methods. Versions 19.4.22 and 20.0.19 contain patches for this issue. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-39217 | | 
+| 20230204T07:06:04Z | CVE-2022-48007 | A stored cross-site scripting (XSS) vulnerability in identification.php of Piwigo v13.4.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the User-Agent. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48007 | | 
+| 20230204T07:05:59Z | CVE-2022-48008 | An arbitrary file upload vulnerability in the plugin manager of LimeSurvey v5.4.15 allows attackers to execute arbitrary code via a crafted PHP file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48008 | | 
+| 20230204T07:05:54Z | CVE-2023-24430 | Jenkins Semantic Versioning Plugin 1.14 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24430 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T06:41:53Z | Null | https://github.com/RickSucksATLinux/macos-sound-with-klee | 0 | 0| 
 | 20230203T17:05:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2148 | 604| 
 | 20230203T14:15:33Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 | 20230203T01:31:43Z | Null | https://github.com/LuiKlee/LuiKlee.github.io | 0 | 0| 
@@ -70,31 +76,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T12:59:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12685 | 2175| 
+| 20230204T12:49:01Z | My understanding of the ps4 6.72 webkit exploit  | https://github.com/a0zhar/PS4672-Exploit-Explained | 0 | 0| 
+| 20230204T12:44:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-P7 | 1 | 0| 
+| 20230204T12:43:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-P7 | 1 | 0| 
+| 20230204T12:42:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-P7 | 1 | 0| 
+| 20230204T12:19:48Z | Intermediate to Advanced Excel Spreadsheet Calculations | https://github.com/SanthoshM99/Excel-Exploits | 0 | 0| 
+| 20230204T11:32:54Z | Rewritten version of Sleirsgoevy%s PS4JB | https://github.com/a0zhar/PS4exploit | 0 | 0| 
+| 20230204T11:26:36Z | A vulnerability was found in Calendar Event Management System 2.3.0. It has been rated as critical. This issue affects some unknown processing of the component Login Page. The manipulation of the argument name/pwd leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0663 | 0 | 0| 
+| 20230204T10:10:56Z | BitMax Is vsro188 files Anti exploit with such amazing features | https://github.com/SubZero0001/BitMax | 0 | 0| 
 | 20230204T02:56:56Z | Detect images that likely exploit CVE-2022-44268 | https://github.com/jnschaeffer/cve-2022-44268-detector | 1 | 0| 
-| 20230204T02:45:30Z | A simple roblox Ui library used for exploiting | https://github.com/shezan78/Hydra-Ui-Lib | 0 | 0| 
-| 20230204T02:32:45Z | HTB Exploits  | https://github.com/AidBucket/HTB | 1 | 0| 
-| 20230204T01:56:47Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 0| 
-| 20230204T01:29:16Z | This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the f CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10883 | 0 | 0| 
-| 20230204T01:29:12Z | This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by defau CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-10882 | 0 | 0| 
-| 20230204T01:29:08Z | By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6806 | 0 | 0| 
-| 20230204T00:21:05Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2924 | 0 | 0| 
-| 20230204T00:21:01Z | Vulnerability in the MySQL Connectors product of Oracle MySQL (component: Connector/ODBC). Supported versions that are affected are 5.3.13 and prior and 8.0.17 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Connectors. Successfu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2920 | 0 | 0| 
-| 20230204T00:20:57Z | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Suc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2019-2922 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230203T23:05:01Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 19 | 7| 
+| 20230204T11:35:46Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 22 | 10| 
+| 20230204T08:21:14Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 397 | 74| 
+| 20230204T07:41:56Z | A Minimalist Backdoor Written In Python | https://github.com/0xN1nja/darkness-python | 1 | 0| 
+| 20230204T06:02:05Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 3088 | 791| 
 | 20230203T20:27:04Z | Jason-Backdoor | https://github.com/J4s0n1/Jadoor0 | 0 | 0| 
 | 20230203T20:25:14Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 3 | 2| 
 | 20230203T19:03:57Z | Null | https://github.com/sanlimustafa/BackDoor_V.2.0 | 0 | 0| 
 | 20230203T04:28:58Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 6 | 0| 
 | 20230202T23:04:26Z | Null | https://github.com/rama1277/shell-backdoor-rama | 0 | 0| 
 | 20230202T18:05:33Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) | https://github.com/KaiyuanZh/FLIP | 2 | 0| 
-| 20230202T17:54:14Z | client-server-nat | https://github.com/LIBERTY-D/backdoor | 0 | 0| 
-| 20230202T13:36:49Z | A Python based Backdoor for Windows | https://github.com/BeastCodZ/Backdoor | 0 | 0| 
-| 20230202T09:11:06Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 233 | 24| 
 
 
 # symbolic execution on Github 推荐
