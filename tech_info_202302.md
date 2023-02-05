@@ -80,38 +80,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T12:20:29Z | Insight into Linux ELFs and binary exploitation | https://github.com/AvirukBasak/linux-binaries | 0 | 0| 
+| 20230205T12:09:27Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1520 | 153| 
+| 20230205T11:24:29Z | apache-shiro-exploit | https://github.com/emo-cat/shiro-exploit | 28 | 3| 
+| 20230205T11:24:15Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.  | https://github.com/emo-cat/ysoserial-rs | 41 | 14| 
+| 20230205T11:01:45Z | Exploitation d%une base de données | https://github.com/EstebanBiret/SAE-S2.04 | 0 | 0| 
+| 20230205T10:41:42Z | Null | https://github.com/fgrims/longheader_exploit | 0 | 0| 
 | 20230205T02:39:28Z | Null | https://github.com/Unknown-19/3ds_exploit_codes | 0 | 0| 
 | 20230205T02:33:56Z | Exploiting android with some little scripts | https://github.com/Shell-thon/Android_Sec | 0 | 0| 
 | 20230205T02:15:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-mfmo-7uqn6-exploit-stay | 0 | 0| 
 | 20230205T01:14:57Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 57 | 4| 
-| 20230205T00:27:18Z | Null | https://github.com/renox31/Silent-Excel-Exploit | 0 | 0| 
-| 20230205T00:24:37Z | Null | https://github.com/renox31/Silent-PDF-Exploit-FUD | 0 | 0| 
-| 20230205T00:21:14Z | clubdark or sk8r is one of the most common skidded axon exploits out there... | https://github.com/speedstarkiwi/clubdark-source | 0 | 0| 
-| 20230204T23:07:59Z | Null | https://github.com/markuched13/Binary-Exploitation | 0 | 0| 
-| 20230204T22:37:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-fv | 1 | 0| 
-| 20230204T22:35:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-fv | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
+| 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
+| 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
+| 20230205T08:28:25Z | backdoor  | https://github.com/Akshunnd/Backdoorer | 0 | 0| 
+| 20230205T07:33:36Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 0 | 0| 
+| 20230205T03:18:48Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 238 | 26| 
 | 20230204T20:35:18Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 2 | 0| 
 | 20230204T20:26:50Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 25 | 11| 
 | 20230204T18:39:45Z | backdoor in python | https://github.com/Maysterr/Python-remote-execution-powershell--backdoor- | 1 | 0| 
 | 20230204T18:16:21Z | Implemented machine learning-based inverse probability weighting and backdoor adjustment tools to investigate the effect of India%s premier child supplemental nutrition program (ICDS) on nutritional status. Found no evidence of positive average causal effect on childhood nutritional outcomes. | https://github.com/saulrichardson/Causal-Inference-and-Indian-Undernutrition | 0 | 0| 
-| 20230204T08:21:14Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 397 | 74| 
-| 20230204T07:41:56Z | A Minimalist Backdoor Written In Python | https://github.com/0xN1nja/darkness-python | 1 | 0| 
-| 20230204T06:02:05Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 3088 | 791| 
-| 20230203T20:27:04Z | Jason-Backdoor | https://github.com/J4s0n1/Jadoor0 | 0 | 0| 
-| 20230203T20:25:14Z | Ferramenta que Mescla Backdoor Metasploit em Apps Android | https://github.com/Cyber-Root0/JoinePayload | 3 | 2| 
-| 20230203T19:03:57Z | Null | https://github.com/sanlimustafa/BackDoor_V.2.0 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T08:21:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2147 | 604| 
 | 20230204T16:27:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 620 | 111| 
-| 20230203T17:05:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2148 | 604| 
 | 20230203T04:02:58Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 1 | 0| 
 | 20230202T19:56:19Z | Null | https://github.com/data-storage-lab/Symbolic-Execution | 1 | 0| 
 | 20230202T06:37:05Z | A C# analyzer which performs symbolic execution on users% code | https://github.com/twoltjer/SymbolicExecutionAnalyzer | 1 | 0| 

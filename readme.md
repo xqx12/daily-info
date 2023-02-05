@@ -38,23 +38,33 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T12:20:29Z | Insight into Linux ELFs and binary exploitation | https://github.com/AvirukBasak/linux-binaries | 0 | 0| 
+| 20230205T12:09:27Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1520 | 153| 
+| 20230205T11:24:29Z | apache-shiro-exploit | https://github.com/emo-cat/shiro-exploit | 28 | 3| 
+| 20230205T11:24:15Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.  | https://github.com/emo-cat/ysoserial-rs | 41 | 14| 
+| 20230205T11:01:45Z | Exploitation d%une base de données | https://github.com/EstebanBiret/SAE-S2.04 | 0 | 0| 
+| 20230205T10:41:42Z | Null | https://github.com/fgrims/longheader_exploit | 0 | 0| 
 | 20230205T02:39:28Z | Null | https://github.com/Unknown-19/3ds_exploit_codes | 0 | 0| 
 | 20230205T02:33:56Z | Exploiting android with some little scripts | https://github.com/Shell-thon/Android_Sec | 0 | 0| 
 | 20230205T02:15:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-mfmo-7uqn6-exploit-stay | 0 | 0| 
 | 20230205T01:14:57Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 57 | 4| 
-| 20230205T00:27:18Z | Null | https://github.com/renox31/Silent-Excel-Exploit | 0 | 0| 
-| 20230205T00:24:37Z | Null | https://github.com/renox31/Silent-PDF-Exploit-FUD | 0 | 0| 
-| 20230205T00:21:14Z | clubdark or sk8r is one of the most common skidded axon exploits out there... | https://github.com/speedstarkiwi/clubdark-source | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
+| 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
+| 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
+| 20230205T08:28:25Z | backdoor  | https://github.com/Akshunnd/Backdoorer | 0 | 0| 
+| 20230205T07:33:36Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 0 | 0| 
+| 20230205T03:18:48Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 238 | 26| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T08:21:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2147 | 604| 
 
 
 # big4 on Github 推荐
