@@ -128,6 +128,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230205T00:15:29Z | Unfinished web app fuzzer I built a while ago to learn more about sending async requests using Go. | https://github.com/familiardisaster/mace | 0 | 0| 
 | 20230205T00:09:05Z | Automatic Trafic Light Using Fuzzy Logic | https://github.com/evtechindo/Automatic-Trafic-Light-Used-Fuzzy-Logic | 0 | 0| 
+| 20230204T23:57:23Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 4 | 0| 
 | 20230204T23:07:57Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
 | 20230204T22:24:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1912 | 245| 
 | 20230204T21:16:04Z | Null | https://github.com/spheeere98/flipperzero_mifare_fuzzer | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230204T13:32:33Z | Null | https://github.com/SbtNhba/fuzzy-fishstick | 0 | 0| 
 | 20230204T13:14:15Z | Null | https://github.com/ArmanAghania/Classification-with-Matlab-and-Fuzzy-C-means | 0 | 0| 
 | 20230204T13:08:23Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
-| 20230204T12:09:20Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
 
 
 

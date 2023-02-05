@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230204T23:57:23Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 4 | 0| 
 | 20230204T23:07:57Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
 | 20230204T22:24:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1912 | 245| 
 | 20230204T21:16:04Z | Null | https://github.com/spheeere98/flipperzero_mifare_fuzzer | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230204T13:08:23Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
 | 20230204T12:09:20Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
 | 20230204T12:03:06Z | AFL-based fuzz testing for .NET | https://github.com/Metalnem/sharpfuzz | 285 | 24| 
-| 20230204T11:05:02Z | Null | https://github.com/CaptureVibes/fuzzy-fortnight | 0 | 0| 
 
 
 
