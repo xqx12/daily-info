@@ -127,6 +127,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230205T02:00:15Z | Automatic Trafic Light Using Fuzzy Logic | https://github.com/evtechindo/Automatic-Trafic-Light-Used-Fuzzy-Logic | 0 | 0| 
+| 20230205T01:59:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3396 | 407| 
 | 20230205T00:15:29Z | Unfinished web app fuzzer I built a while ago to learn more about sending async requests using Go. | https://github.com/familiardisaster/mace | 0 | 0| 
 | 20230204T23:57:23Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 4 | 0| 
 | 20230204T23:07:57Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230204T17:51:08Z | What would a basic fuzzing library look like in Julia? | https://github.com/natemcintosh/FuzzTest | 0 | 0| 
 | 20230204T13:32:33Z | Null | https://github.com/SbtNhba/fuzzy-fishstick | 0 | 0| 
 | 20230204T13:14:15Z | Null | https://github.com/ArmanAghania/Classification-with-Matlab-and-Fuzzy-C-means | 0 | 0| 
-| 20230204T13:08:23Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 0 | 0| 
 
 
 
