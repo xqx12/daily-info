@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230205T13:43:03Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Eequest Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
 | 20230205T13:32:21Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230205T08:32:29Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 

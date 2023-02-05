@@ -43,6 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230205T13:43:03Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Eequest Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
 | 20230205T13:32:21Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230205T08:32:29Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230204T23:33:10Z | CVE-2022-45786 | There are issues with the AGE drivers for Golang and Python that enable SQL injections to occur. This impacts AGE for PostgreSQL 11 & AGE for PostgreSQL 12, all versions up-to-and-including 1.1.0, when using those drivers. The fix is to update to the latest Golang and Python drivers in addition to the latest version of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45786 | | 
@@ -52,7 +53,6 @@
 | 20230204T18:04:53Z | CVE-2022-26134 | Null | https://github.com/MaskCyberSecurityTeam/CVE-2022-26134_Behinder_MemShell | | 
 | 20230204T18:00:43Z | CVE-2021-3643 | A flaw was found in sox 14.4.1. The lsx_adpcm_init function within libsox leads to a global-buffer-overflow. This flaw allows an attacker to input a malicious file, leading to the disclosure of sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3643 | | 
 | 20230204T15:50:30Z | CVE-2023-0678 | Improper Authorization in GitHub repository phpipam/phpipam prior to v1.5.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0678 | | 
-| 20230204T15:50:27Z | CVE-2023-0677 | Cross-site Scripting (XSS) - Reflected in GitHub repository phpipam/phpipam prior to v1.5.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0677 | | 
 
 
 # klee on Github 推荐
