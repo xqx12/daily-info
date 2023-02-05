@@ -95,6 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T13:46:58Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
 | 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
 | 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
 | 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20230204T20:35:18Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 2 | 0| 
 | 20230204T20:26:50Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 25 | 11| 
 | 20230204T18:39:45Z | backdoor in python | https://github.com/Maysterr/Python-remote-execution-powershell--backdoor- | 1 | 0| 
-| 20230204T18:16:21Z | Implemented machine learning-based inverse probability weighting and backdoor adjustment tools to investigate the effect of India%s premier child supplemental nutrition program (ICDS) on nutritional status. Found no evidence of positive average causal effect on childhood nutritional outcomes. | https://github.com/saulrichardson/Causal-Inference-and-Indian-Undernutrition | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
