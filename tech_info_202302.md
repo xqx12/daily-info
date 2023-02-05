@@ -43,7 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230205T12:08:51Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230205T13:32:21Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230205T08:32:29Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230204T23:33:10Z | CVE-2022-45786 | There are issues with the AGE drivers for Golang and Python that enable SQL injections to occur. This impacts AGE for PostgreSQL 11 & AGE for PostgreSQL 12, all versions up-to-and-including 1.1.0, when using those drivers. The fix is to update to the latest Golang and Python drivers in addition to the latest version of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45786 | | 
 | 20230204T22:13:35Z | CVE-2021-27077 | Null | https://github.com/peteribi/CVE-2021-27077 | | 
