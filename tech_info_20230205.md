@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T13:09:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3388 | 678| 
 | 20230205T12:47:31Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8592 | 964| 
 | 20230205T12:13:28Z | Null | https://github.com/m4prof/fuzzy-potato | 0 | 0| 
 | 20230205T07:43:21Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
