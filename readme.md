@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230205 | 在 Linux 上绕过 Spectre-BTI 用户空间缓解措施 | https://github.com/es0j/CVE-2023-0045| 
 
 
 # 安全维基 推荐
