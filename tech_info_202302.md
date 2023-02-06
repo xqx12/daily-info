@@ -43,13 +43,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230206T01:57:36Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T01:43:34Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
 | 20230206T01:29:38Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230205T22:37:02Z | CVE-2021-35287 | CVE-2021-35287 | https://github.com/l00neyhacker/CVE-2021-35287 | | 
 | 20230205T22:35:04Z | CVE-2021-35286 | CVE-2021-35286 | https://github.com/l00neyhacker/CVE-2021-35286 | | 
 | 20230205T21:45:37Z | CVE-2022-45544 | SCHLIX CMS 2.2.7-2 arbitrary File Upload | https://github.com/tristao-marinho/CVE-2022-45544 | | 
 | 20230205T18:09:49Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
-| 20230205T17:38:47Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230205T14:36:31Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Request Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
 | 20230204T23:33:10Z | CVE-2022-45786 | There are issues with the AGE drivers for Golang and Python that enable SQL injections to occur. This impacts AGE for PostgreSQL 11 & AGE for PostgreSQL 12, all versions up-to-and-including 1.1.0, when using those drivers. The fix is to update to the latest Golang and Python drivers in addition to the latest version of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45786 | | 
 | 20230204T22:13:35Z | CVE-2021-27077 | Null | https://github.com/peteribi/CVE-2021-27077 | | 
