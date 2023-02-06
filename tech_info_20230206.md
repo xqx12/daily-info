@@ -47,7 +47,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 73| 
+| 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
+| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 74| 
 
 
 # exploit on Github 推荐
@@ -76,8 +77,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 73| 
-| 20230206T01:13:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2148 | 604| 
+| 20230206T10:03:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2149 | 604| 
+| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 74| 
 
 
 # big4 on Github 推荐
