@@ -43,26 +43,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230205T13:43:03Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Eequest Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
-| 20230205T13:32:21Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230206T00:48:03Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
+| 20230205T22:37:02Z | CVE-2021-35287 | CVE-2021-35287 | https://github.com/l00neyhacker/CVE-2021-35287 | | 
+| 20230205T22:35:04Z | CVE-2021-35286 | CVE-2021-35286 | https://github.com/l00neyhacker/CVE-2021-35286 | | 
+| 20230205T21:45:37Z | CVE-2022-45544 | SCHLIX CMS 2.2.7-2 arbitrary File Upload | https://github.com/tristao-marinho/CVE-2022-45544 | | 
+| 20230205T18:09:49Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
+| 20230205T17:38:47Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230205T14:36:31Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Request Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
 | 20230205T08:32:29Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230204T23:33:10Z | CVE-2022-45786 | There are issues with the AGE drivers for Golang and Python that enable SQL injections to occur. This impacts AGE for PostgreSQL 11 & AGE for PostgreSQL 12, all versions up-to-and-including 1.1.0, when using those drivers. The fix is to update to the latest Golang and Python drivers in addition to the latest version of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45786 | | 
 | 20230204T22:13:35Z | CVE-2021-27077 | Null | https://github.com/peteribi/CVE-2021-27077 | | 
-| 20230204T21:19:30Z | CVE-2023-25193 | hb-ot-layout-gsubgpos.hh in HarfBuzz through 6.0.0 allows attackers to trigger O(n^2) growth via consecutive marks during the process of looking back for base glyphs when attaching marks. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25193 | | 
-| 20230204T19:49:28Z | CVE-2023-24055 | CVE-2023-24055 POC written in PowerShell. | https://github.com/ATTACKnDEFEND/CVE-2023-24055 | | 
-| 20230204T18:04:53Z | CVE-2022-26134 | Null | https://github.com/MaskCyberSecurityTeam/CVE-2022-26134_Behinder_MemShell | | 
-| 20230204T18:00:43Z | CVE-2021-3643 | A flaw was found in sox 14.4.1. The lsx_adpcm_init function within libsox leads to a global-buffer-overflow. This flaw allows an attacker to input a malicious file, leading to the disclosure of sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3643 | | 
-| 20230204T15:50:30Z | CVE-2023-0678 | Improper Authorization in GitHub repository phpipam/phpipam prior to v1.5.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0678 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230205T11:56:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10419 | 345| 
+| 20230206T00:36:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10425 | 345| 
+| 20230205T16:41:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 207 | 1| 
+| 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230205T08:21:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2147 | 604| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
-| 20230205T03:13:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 206 | 1| 
-| 20230205T01:44:32Z | Null | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230204T14:19:43Z | Null | https://github.com/2kCreator/2kleech35 | 0 | 0| 
 | 20230204T13:37:24Z | Null | https://github.com/2kCreator/2kleech | 0 | 0| 
 | 20230204T06:41:53Z | Null | https://github.com/RickSucksATLinux/macos-sound-with-klee | 0 | 0| 
@@ -80,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230205T12:20:29Z | Insight into Linux ELFs and binary exploitation | https://github.com/AvirukBasak/linux-binaries | 0 | 0| 
-| 20230205T12:09:27Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1520 | 153| 
-| 20230205T11:24:29Z | apache-shiro-exploit | https://github.com/emo-cat/shiro-exploit | 28 | 3| 
-| 20230205T11:24:15Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.  | https://github.com/emo-cat/ysoserial-rs | 41 | 14| 
-| 20230205T11:01:45Z | Exploitation d%une base de données | https://github.com/EstebanBiret/SAE-S2.04 | 0 | 0| 
-| 20230205T10:41:42Z | Null | https://github.com/fgrims/longheader_exploit | 0 | 0| 
-| 20230205T02:39:28Z | Null | https://github.com/Unknown-19/3ds_exploit_codes | 0 | 0| 
-| 20230205T02:33:56Z | Exploiting android with some little scripts | https://github.com/Shell-thon/Android_Sec | 0 | 0| 
-| 20230205T02:15:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-mfmo-7uqn6-exploit-stay | 0 | 0| 
-| 20230205T01:14:57Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 57 | 4| 
+| 20230206T00:40:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pm | 1 | 0| 
+| 20230206T00:39:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pm | 1 | 0| 
+| 20230206T00:38:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pm | 1 | 0| 
+| 20230205T22:19:10Z | CVE-2011-2523 exploit | https://github.com/0xFTW/CVE-2011-2523 | 0 | 0| 
+| 20230205T21:40:44Z | a repo exploited to learn backend concepts | https://github.com/jeunerturk/jeunerturk-on-backend | 0 | 0| 
+| 20230205T21:32:46Z | A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been d CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20175 | 0 | 0| 
+| 20230205T20:25:18Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 37 | 7| 
+| 20230205T20:02:31Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
+| 20230205T18:16:51Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 29 | 33| 
+| 20230205T17:33:51Z | Showcased Scripts | https://github.com/cheesynob39/R20-EXPLOITER | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
+| 20230205T18:47:28Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 32 | 7| 
+| 20230205T18:09:35Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
+| 20230205T14:30:53Z | Null | https://github.com/p3ngu19z/LED-Strip-Microphone-backdoor | 0 | 0| 
 | 20230205T13:47:54Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
 | 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
 | 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
 | 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
 | 20230205T08:28:25Z | backdoor  | https://github.com/Akshunnd/Backdoorer | 0 | 0| 
 | 20230205T07:33:36Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 0 | 0| 
-| 20230205T03:18:48Z | /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook. | https://github.com/Esonhugh/sshd_backdoor | 238 | 26| 
-| 20230204T20:35:18Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 2 | 0| 
-| 20230204T20:26:50Z | A shell script that mimics sudo and sends you back the password | https://github.com/nisay759/sudo-backdoor | 25 | 11| 
-| 20230204T18:39:45Z | backdoor in python | https://github.com/Maysterr/Python-remote-execution-powershell--backdoor- | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +127,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T00:52:39Z | Null | https://github.com/evtechindo/Temperature-and-Light-Intensity-Control-Using-with-Fuzzy-Logic | 0 | 0| 
+| 20230206T00:47:35Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
+| 20230205T23:01:24Z | Null | https://github.com/Rosc0e/fuzzy-spoon | 0 | 0| 
+| 20230205T22:19:47Z | A practical fuzzing framework for the study of vulnerabilities explicit to PLCs. | https://github.com/7linux-0/Sizzler | 0 | 0| 
+| 20230205T22:13:15Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
+| 20230205T15:31:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1260 | 168| 
 | 20230205T13:29:18Z | Null | https://github.com/kpimaker/fuzzy-pancake | 0 | 0| 
+| 20230205T13:27:47Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 5 | 0| 
 | 20230205T13:09:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3388 | 678| 
 | 20230205T12:47:31Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8592 | 964| 
-| 20230205T12:13:28Z | Null | https://github.com/m4prof/fuzzy-potato | 0 | 0| 
-| 20230205T07:43:21Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
-| 20230205T06:20:59Z | Null | https://github.com/shanithshaji/fuzzywuzzy_string_matcher | 0 | 0| 
-| 20230205T02:00:15Z | Automatic Trafic Light Using Fuzzy Logic | https://github.com/evtechindo/Automatic-Trafic-Light-Used-Fuzzy-Logic | 0 | 0| 
-| 20230205T01:59:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3396 | 407| 
-| 20230205T00:15:29Z | Unfinished web app fuzzer I built a while ago to learn more about sending async requests using Go. | https://github.com/familiardisaster/mace | 0 | 0| 
-| 20230204T23:57:23Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzyKit | 4 | 0| 
 
 
 
