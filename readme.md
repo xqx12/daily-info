@@ -24,10 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230206T13:48:53Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T12:43:01Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
 | 20230206T12:05:41Z | CVE-2022-44268 | Imagemagick CVE-2022-44268 | https://github.com/Vulnmachines/imagemagick-CVE-2022-44268 | | 
 | 20230206T11:28:36Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
-| 20230206T09:04:37Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T08:48:48Z | CVE-2023-22855 | Null | https://github.com/patrickhener/CVE-2023-22855 | | 
 | 20230206T07:30:55Z | CVE-2023-23333 | There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions  through downloader.php. | https://github.com/Timorlover/CVE-2023-23333 | | 
 | 20230206T06:31:06Z | CVE-2022-25855 | All versions of the package create-choo-app3 are vulnerable to Command Injection via the devInstall function due to improper user-input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25855 | | 
