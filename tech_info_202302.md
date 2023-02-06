@@ -132,7 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T13:21:29Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
+| 20230206T13:25:26Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
 | 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
 | 20230206T12:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1815| 
 | 20230206T11:23:33Z | Null | https://github.com/rikfie/isort-fuzzer | 0 | 0| 
