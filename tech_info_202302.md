@@ -134,11 +134,11 @@
 | 20230205T23:01:24Z | Null | https://github.com/Rosc0e/fuzzy-spoon | 0 | 0| 
 | 20230205T22:19:47Z | A practical fuzzing framework for the study of vulnerabilities explicit to PLCs. | https://github.com/7linux-0/Sizzler | 0 | 0| 
 | 20230205T22:13:15Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
+| 20230205T20:21:44Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3398 | 407| 
 | 20230205T15:31:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1260 | 168| 
 | 20230205T13:29:18Z | Null | https://github.com/kpimaker/fuzzy-pancake | 0 | 0| 
 | 20230205T13:27:47Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 5 | 0| 
 | 20230205T13:09:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3388 | 678| 
-| 20230205T12:47:31Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8592 | 964| 
 
 
 
