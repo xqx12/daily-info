@@ -43,7 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:08:07Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
+| 20230206T02:20:27Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
 | 20230206T01:57:36Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T01:29:38Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230205T22:37:02Z | CVE-2021-35287 | CVE-2021-35287 | https://github.com/l00neyhacker/CVE-2021-35287 | | 
