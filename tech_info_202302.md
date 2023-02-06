@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T01:03:36Z | This script applies God mode! Level 5 Exploit required. | https://github.com/Treker38/GodModeRoblox | 1 | 0| 
 | 20230206T00:40:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pm | 1 | 0| 
 | 20230206T00:39:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pm | 1 | 0| 
 | 20230206T00:38:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pm | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20230205T20:25:18Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 37 | 7| 
 | 20230205T20:02:31Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
 | 20230205T18:16:51Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 29 | 33| 
-| 20230205T17:33:51Z | Showcased Scripts | https://github.com/cheesynob39/R20-EXPLOITER | 0 | 0| 
 
 
 # backdoor on Github 推荐
