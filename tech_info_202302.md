@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230206 | 一种新的SROP技术，图灵完备并且可以绕过CFI。 | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_39| 
+| 20230206 | 介绍了一系列工具用来bug bountry自动化。内容比较初级。 | https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78| 
+| 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
+| 20230206 | kCTF VRP中收到的Linux内核漏洞信息及利用方式汇总文档。 | https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh| 
+| 20230206 | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268| 
 | 20230205 | 在 Linux 上绕过 Spectre-BTI 用户空间缓解措施 | https://github.com/es0j/CVE-2023-0045| 
 | 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
 | 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
@@ -21,16 +26,13 @@
 | 20230202 | MYSQL JDBC反序列化攻击介绍 | https://tttang.com/archive/1877/| 
 | 20230202 | Dompdf的URI验证可通过字母大写进行绕过，导致漏洞产生 | http://securityonline.info/cve-2023-23924-critical-severity-rce-flaw-found-in-popular-dompdf-library/| 
 | 20230202 | Cisco系列产品中出现高危漏洞。CVE-2023-20076：远程命令注入，需要身份认证；CSCwc67015：任意文件写，可导致代码执行。 | https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover| 
-| 20230202 | Mimikatz Bypass Credential Guard的记录 | https://xz.aliyun.com/t/12097| 
-| 20230202 | 红队入门级介绍，利用 Crackmapexec 和 mimikatz 绕过 LSA 进行Windows 域渗透，建议和文中提到的“上一篇博客”一起阅读 | https://infosecwriteups.com/unlocking-the-secrets-of-lsa-5bd29d5c6927?gi=069b8f50c100&source=rss----7b722bfd1b8d---4| 
-| 20230202 | Adobe Acrobat Reader UAF漏洞（CVE-2023-21608）利用代码 | https://github.com/hacksysteam/CVE-2023-21608| 
-| 20230201 | 使用ipatables命令对Android应用抓包分析。 | https://mp.weixin.qq.com/s/P0ESUUXBmq2aQnrqDHsDaw| 
-| 20230201 | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230206 | SecWiki周刊（第466期) | https://www.sec-wiki.com/weekly/466| 
+| 20230206 | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf| 
 | 20230204 | 开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA| 
 | 20230204 | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA| 
 | 20230204 | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw| 
@@ -43,31 +45,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:56:26Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
-| 20230206T02:22:28Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230206T12:43:01Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
+| 20230206T12:05:41Z | CVE-2022-44268 | Imagemagick CVE-2022-44268 | https://github.com/Vulnmachines/imagemagick-CVE-2022-44268 | | 
+| 20230206T11:28:36Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
+| 20230206T09:04:37Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
+| 20230206T08:48:48Z | CVE-2023-22855 | Null | https://github.com/patrickhener/CVE-2023-22855 | | 
+| 20230206T07:30:55Z | CVE-2023-23333 | There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions  through downloader.php. | https://github.com/Timorlover/CVE-2023-23333 | | 
+| 20230206T06:31:06Z | CVE-2022-25855 | All versions of the package create-choo-app3 are vulnerable to Command Injection via the devInstall function due to improper user-input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25855 | | 
+| 20230206T06:31:02Z | CVE-2022-25853 | All versions of the package semver-tags are vulnerable to Command Injection via the getGitTagsRemote function due to improper input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25853 | | 
+| 20230206T04:35:15Z | CVE-2022-21587 | CVE-2022-21587 POC  | https://github.com/hieuminhnv/CVE-2022-21587-POC | | 
 | 20230206T01:29:38Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
-| 20230205T22:37:02Z | CVE-2021-35287 | CVE-2021-35287 | https://github.com/l00neyhacker/CVE-2021-35287 | | 
-| 20230205T22:35:04Z | CVE-2021-35286 | CVE-2021-35286 | https://github.com/l00neyhacker/CVE-2021-35286 | | 
-| 20230205T21:45:37Z | CVE-2022-45544 | SCHLIX CMS 2.2.7-2 arbitrary File Upload | https://github.com/tristao-marinho/CVE-2022-45544 | | 
-| 20230205T18:09:49Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
-| 20230205T14:36:31Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Request Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
-| 20230204T23:33:10Z | CVE-2022-45786 | There are issues with the AGE drivers for Golang and Python that enable SQL injections to occur. This impacts AGE for PostgreSQL 11 & AGE for PostgreSQL 12, all versions up-to-and-including 1.1.0, when using those drivers. The fix is to update to the latest Golang and Python drivers in addition to the latest version of CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45786 | | 
-| 20230204T22:13:35Z | CVE-2021-27077 | Null | https://github.com/peteribi/CVE-2021-27077 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:49:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10428 | 345| 
-| 20230206T01:13:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2148 | 604| 
+| 20230206T12:42:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10448 | 345| 
+| 20230206T10:28:14Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
+| 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
+| 20230206T10:03:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2149 | 604| 
 | 20230205T16:41:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 207 | 1| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 | 20230204T14:19:43Z | Null | https://github.com/2kCreator/2kleech35 | 0 | 0| 
 | 20230204T13:37:24Z | Null | https://github.com/2kCreator/2kleech | 0 | 0| 
 | 20230204T06:41:53Z | Null | https://github.com/RickSucksATLinux/macos-sound-with-klee | 0 | 0| 
-| 20230203T14:15:33Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
-| 20230203T01:31:43Z | Null | https://github.com/LuiKlee/LuiKlee.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -80,21 +82,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T02:56:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 573 | 154| 
-| 20230206T01:03:36Z | This script applies God mode! Level 5 Exploit required. | https://github.com/Treker38/GodModeRoblox | 1 | 0| 
-| 20230206T00:41:20Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2543 | 382| 
-| 20230206T00:40:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pm | 1 | 0| 
-| 20230206T00:39:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pm | 1 | 0| 
-| 20230206T00:38:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pm | 1 | 0| 
-| 20230205T22:19:10Z | CVE-2011-2523 exploit | https://github.com/0xFTW/CVE-2011-2523 | 0 | 0| 
-| 20230205T21:40:44Z | a repo exploited to learn backend concepts | https://github.com/jeunerturk/jeunerturk-on-backend | 0 | 0| 
-| 20230205T21:32:46Z | A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been d CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20175 | 0 | 0| 
-| 20230205T20:25:18Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 37 | 7| 
+| 20230206T12:57:02Z | This tool is exploited by Qt 5.12，running in Ubuntu20.04，to control R60 test. | https://github.com/Meh-zx/R60Tool-for-Lunix | 0 | 0| 
+| 20230206T10:28:23Z | Code accompanying the paper %A Bayesian optimization, exploration-exploitation of expensive stochastic functions approach for enhanced robotic obstacle avoidance% by Catalin Stefan Teodorescu, Andrew West, Keir Groves, Barry Lennox | https://github.com/StefanT83/SC_obst_avoid_GPR_2D | 0 | 0| 
+| 20230206T07:44:52Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 392 | 53| 
+| 20230206T07:42:16Z | Exploit in your favorite Roblox games! 💀 | https://github.com/LouieIsShort/SickMan-Exploit | 0 | 0| 
+| 20230206T06:53:29Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12691 | 2176| 
+| 20230206T06:41:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9880 | 1576| 
+| 20230206T06:30:36Z | Использование уязвимости алгоритма генерации profanity | https://github.com/Noname400/profanity-exploit | 3 | 0| 
+| 20230206T05:40:00Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 171 | 21| 
+| 20230206T05:12:13Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 615 | 83| 
+| 20230206T03:45:34Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 567 | 33| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T09:46:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7350 | 2082| 
+| 20230206T09:22:33Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 135 | 32| 
 | 20230206T02:24:02Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 231 | 62| 
 | 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
 | 20230205T18:47:28Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 32 | 7| 
@@ -103,8 +107,6 @@
 | 20230205T13:47:54Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
 | 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
 | 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
-| 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
-| 20230205T08:28:25Z | backdoor  | https://github.com/Akshunnd/Backdoorer | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
+| 20230206T12:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1815| 
+| 20230206T11:23:33Z | Null | https://github.com/rikfie/isort-fuzzer | 0 | 0| 
+| 20230206T11:03:36Z | Null | https://github.com/ABDULMALIKMA/fuzzy-memory | 0 | 0| 
+| 20230206T10:57:16Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8616 | 965| 
+| 20230206T08:24:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1261 | 168| 
 | 20230206T01:07:07Z | Null | https://github.com/evtechindo/Temperature-and-Light-Intensity-Control-Using-with-Fuzzy-Logic | 0 | 0| 
 | 20230206T00:47:35Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
 | 20230205T23:01:24Z | Null | https://github.com/Rosc0e/fuzzy-spoon | 0 | 0| 
 | 20230205T22:19:47Z | A practical fuzzing framework for the study of vulnerabilities explicit to PLCs. | https://github.com/7linux-0/Sizzler | 0 | 0| 
-| 20230205T22:13:15Z | Fuzzy logic tech blog | https://github.com/mesies/fuzzy-logic | 0 | 0| 
-| 20230205T20:21:44Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3398 | 407| 
-| 20230205T15:31:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1260 | 168| 
-| 20230205T13:29:18Z | Null | https://github.com/kpimaker/fuzzy-pancake | 0 | 0| 
-| 20230205T13:27:47Z | V language fuzzing tool | https://github.com/felipensp/vfuzzer | 5 | 0| 
-| 20230205T13:09:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3388 | 678| 
 
 
 
