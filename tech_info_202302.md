@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T13:27:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-irSz7-exploit-illustrate | 0 | 0| 
 | 20230206T12:57:02Z | This tool is exploited by Qt 5.12，running in Ubuntu20.04，to control R60 test. | https://github.com/Meh-zx/R60Tool-for-Lunix | 0 | 0| 
 | 20230206T10:28:23Z | Code accompanying the paper %A Bayesian optimization, exploration-exploitation of expensive stochastic functions approach for enhanced robotic obstacle avoidance% by Catalin Stefan Teodorescu, Andrew West, Keir Groves, Barry Lennox | https://github.com/StefanT83/SC_obst_avoid_GPR_2D | 0 | 0| 
 | 20230206T07:44:52Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 392 | 53| 
@@ -92,7 +93,6 @@
 | 20230206T06:30:36Z | Использование уязвимости алгоритма генерации profanity | https://github.com/Noname400/profanity-exploit | 3 | 0| 
 | 20230206T05:40:00Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 171 | 21| 
 | 20230206T05:12:13Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 615 | 83| 
-| 20230206T03:45:34Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 567 | 33| 
 
 
 # backdoor on Github 推荐
