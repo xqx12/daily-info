@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T13:18:57Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
 | 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
 | 20230206T12:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1815| 
 | 20230206T11:23:33Z | Null | https://github.com/rikfie/isort-fuzzer | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230206T01:07:07Z | Null | https://github.com/evtechindo/Temperature-and-Light-Intensity-Control-Using-with-Fuzzy-Logic | 0 | 0| 
 | 20230206T00:47:35Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
 | 20230205T23:01:24Z | Null | https://github.com/Rosc0e/fuzzy-spoon | 0 | 0| 
-| 20230205T22:19:47Z | A practical fuzzing framework for the study of vulnerabilities explicit to PLCs. | https://github.com/7linux-0/Sizzler | 0 | 0| 
 
 
 
