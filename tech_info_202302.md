@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T02:56:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 573 | 154| 
 | 20230206T01:03:36Z | This script applies God mode! Level 5 Exploit required. | https://github.com/Treker38/GodModeRoblox | 1 | 0| 
 | 20230206T00:41:20Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2543 | 382| 
 | 20230206T00:40:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pm | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20230205T21:40:44Z | a repo exploited to learn backend concepts | https://github.com/jeunerturk/jeunerturk-on-backend | 0 | 0| 
 | 20230205T21:32:46Z | A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been d CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2017-20175 | 0 | 0| 
 | 20230205T20:25:18Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 37 | 7| 
-| 20230205T20:02:31Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
