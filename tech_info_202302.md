@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T13:46:27Z | Code accompanying the paper %A Bayesian optimization, exploration-exploitation of expensive stochastic functions approach for enhanced robotic obstacle avoidance% by Catalin Stefan Teodorescu, Andrew West, Keir Groves, Barry Lennox | https://github.com/StefanT83/SC_obst_avoid_GPR_2D | 0 | 0| 
 | 20230206T13:27:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-irSz7-exploit-illustrate | 0 | 0| 
 | 20230206T12:57:02Z | This tool is exploited by Qt 5.12，running in Ubuntu20.04，to control R60 test. | https://github.com/Meh-zx/R60Tool-for-Lunix | 0 | 0| 
-| 20230206T10:28:23Z | Code accompanying the paper %A Bayesian optimization, exploration-exploitation of expensive stochastic functions approach for enhanced robotic obstacle avoidance% by Catalin Stefan Teodorescu, Andrew West, Keir Groves, Barry Lennox | https://github.com/StefanT83/SC_obst_avoid_GPR_2D | 0 | 0| 
 | 20230206T07:44:52Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 392 | 53| 
 | 20230206T07:42:16Z | Exploit in your favorite Roblox games! 💀 | https://github.com/LouieIsShort/SickMan-Exploit | 0 | 0| 
 | 20230206T06:53:29Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12691 | 2177| 
