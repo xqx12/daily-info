@@ -18,6 +18,7 @@
 | --- | --- | ---| 
 | 20230206 | SecWiki周刊（第466期) | https://www.sec-wiki.com/weekly/466| 
 | 20230206 | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf| 
+| 20230206 | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ| 
 
 
 # CVE Github 推荐

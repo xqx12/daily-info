@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230206 | SecWiki周刊（第466期) | https://www.sec-wiki.com/weekly/466| 
 | 20230206 | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf| 
+| 20230206 | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ| 
 | 20230204 | 开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA| 
 | 20230204 | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA| 
 | 20230204 | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw| 
