@@ -31,7 +31,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230205T16:41:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 207 | 1| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
-| 20230205T08:21:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2147 | 604| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 
 
