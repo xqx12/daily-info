@@ -43,8 +43,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230206T02:22:28Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T02:20:27Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
-| 20230206T01:57:36Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230206T01:29:38Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 | 20230205T22:37:02Z | CVE-2021-35287 | CVE-2021-35287 | https://github.com/l00neyhacker/CVE-2021-35287 | | 
 | 20230205T22:35:04Z | CVE-2021-35286 | CVE-2021-35286 | https://github.com/l00neyhacker/CVE-2021-35286 | | 
@@ -95,6 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230206T02:24:02Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 231 | 62| 
 | 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
 | 20230205T18:47:28Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 32 | 7| 
 | 20230205T18:09:35Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
@@ -104,7 +105,6 @@
 | 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
 | 20230205T08:35:21Z | Devil in the Room: Triggering Audio Backdoors in the Physical World | https://github.com/TrojanRoom/trojanroom.github.io | 0 | 0| 
 | 20230205T08:28:25Z | backdoor  | https://github.com/Akshunnd/Backdoorer | 0 | 0| 
-| 20230205T07:33:36Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
