@@ -73,7 +73,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230205T17:55:12Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
-| 20230205T08:21:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2147 | 604| 
 
 
 # big4 on Github 推荐
