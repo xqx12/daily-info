@@ -23,7 +23,6 @@
 | 20230205T18:09:49Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
 | 20230205T17:38:47Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
 | 20230205T14:36:31Z | CVE-2020-35391 | Tenda N300 Authentication Bypass via Malformed HTTP Request Header | https://github.com/dumitory-dev/CVE-2020-35391-POC | | 
-| 20230205T08:32:29Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
 
 
 # klee on Github 推荐
