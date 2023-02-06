@@ -70,7 +70,7 @@
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 | 20230204T14:19:43Z | Null | https://github.com/2kCreator/2kleech35 | 0 | 0| 
 | 20230204T13:37:24Z | Null | https://github.com/2kCreator/2kleech | 0 | 0| 
-| 20230204T06:41:53Z | Null | https://github.com/RickSucksATLinux/macos-sound-with-klee | 0 | 0| 
+| 20230204T13:28:29Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 22 | 0| 
 
 
 # s2e on Github 推荐
