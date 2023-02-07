@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T13:15:09Z | The Blitz Tutorial Lab on Fuzzing with AFL++ | https://github.com/BenH11235/libtiff-fuzzing-lab | 0 | 0| 
+| 20230207T13:17:15Z | The Blitz Tutorial Lab on Fuzzing with AFL++ | https://github.com/BenH11235/libtiff-fuzzing-lab | 0 | 0| 
 | 20230207T12:38:11Z | simple endpoint fuzzer in python | https://github.com/bad-alpaca/apiFuzzer | 0 | 0| 
 | 20230207T12:28:35Z | GPFUZZ: Grammar-based Performance Fuzzer | https://github.com/QAMCAS/gpfuzz | 0 | 0| 
 | 20230207T12:05:41Z | Evolutionary Grammar-Based Fuzzer to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 0 | 0| 
