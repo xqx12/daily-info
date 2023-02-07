@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230207 | 讲述如何构建一个自毁的USB设备 | http://interruptlabs.ca/2023/02/06/I-Built-a-Self-Destructing-USB-Drive-Part-3/| 
+| 20230207 | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV| 
+| 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
+| 20230207 | 讲了如何将Android手机打造成渗透测试的实验设备，并在上面安装nmap，bettercap等工具。 | https://gbhackers.com/use-android-penetration-testing/amp/| 
 | 20230206 | 一种新的SROP技术，图灵完备并且可以绕过CFI。 | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_39| 
 | 20230206 | 介绍了一系列工具用来bug bountry自动化。内容比较初级。 | https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78| 
 | 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
@@ -22,10 +26,6 @@
 | 20230203 | 使用机器学习方法（随机森林）帮助完善IDA分析结果，例如用来识别函数段、识别switch跳转表、区分 Arm 和 Thumb 代码段，识别代码中的函数指针等 | http://research.checkpoint.com/2019/thumbs-up-using-machine-learning-to-improve-idas-analysis/| 
 | 20230203 | Linux Netfilter 本地提权漏洞 PoC 公开，CVE-2023-0179 | http://securityonline.info/researcher-publishes-poc-exploit-for-privilege-escalation-flaw-cve-2023-0179-in-linux-kernel/| 
 | 20230203 | OpenSSH server 9.1中存在一个无需身份认证的double free漏洞，但考虑到权限限制和沙箱保护等因素其可利用性较差。 | http://www.openwall.com/lists/oss-security/2023/02/02/2| 
-| 20230203 | 介绍包括CVE-2022-25365在内的多个Docker漏洞，通过攻击命名管道实现权限提升，以及一个辅助分析工具PipeViewer | https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1| 
-| 20230203 | Google Chrome 在验证命令解码器时产生的缓冲区溢出漏洞 | https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-4135.html| 
-| 20230203 | 介绍了一些简单的2FA的bypass方法。不过这类方法估计很难在实际中奏效。 | https://thegrayarea.tech/bug-hunting-101-multi-factor-authentication-otp-bypass-79f03b554df6?gi=3e094ba14e0a| 
-| 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://sec.today/pulses/1dfde550-81c4-4a03-9228-7ad6037f7143/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230207T02:51:30Z | CVE-2022-22947 | CVE-2022-22947注入哥斯拉内存马 | https://github.com/Zh0um1/CVE-2022-22947 | | 
-| 20230207T02:17:07Z | CVE-2023-23849 | Versions of Coverity Connect prior to 2022.12.0 are vulnerable to an unauthenticated Cross-Site Scripting vulnerability. Any web service hosted on the same sub domain can set a cookie for the whole subdomain which can be used to bypass other mitigations in place for malicious purposes. CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/ CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23849 | | 
-| 20230207T02:17:04Z | CVE-2023-0615 | A memory leak flaw and potential divide by zero and Integer overflow was found in the Linux kernel V4L2 and vivid test code functionality. This issue occurs when a user triggers ioctls, such as VIDIOC_S_DV_TIMINGS ioctl. This could allow a local user to crash the system if vivid test code enabled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0615 | | 
-| 20230207T02:17:00Z | CVE-2022-46496 | BTicino Door Entry HOMETOUCH for iOS 1.4.2 was discovered to be missing an SSL certificate. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46496 | | 
-| 20230207T02:16:57Z | CVE-2022-44617 | A flaw was found in libXpm. When processing a file with width of 0 and a very large height, some parser functions will be called repeatedly and can lead to an infinite loop, resulting in a Denial of Service in the application linked to the library. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44617 | | 
-| 20230207T02:16:50Z | CVE-2022-28923 | Caddy v2.4.6 was discovered to contain an open redirection vulnerability which allows attackers to redirect users to phishing websites via crafted URLs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-28923 | | 
-| 20230207T00:07:05Z | CVE-2022-4828 | The Bold Timeline Lite WordPress plugin before 1.1.5 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as ad CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4828 | | 
-| 20230207T00:07:01Z | CVE-2022-4834 | The CPT Bootstrap Carousel WordPress plugin through 1.12 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4834 | | 
-| 20230207T00:06:56Z | CVE-2022-4835 | The Social Sharing Toolkit WordPress plugin through 2.6 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4835 | | 
-| 20230207T00:06:53Z | CVE-2023-23333 | There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23333 | | 
+| 20230207T11:27:49Z | CVE-2021-22986 | Null | https://github.com/amitlttwo/CVE-2021-22986 | | 
+| 20230207T11:15:27Z | CVE-2023-23696 | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | | 
+| 20230207T11:15:19Z | CVE-2023-0706 | A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0706 | | 
+| 20230207T11:15:15Z | CVE-2022-31254 | A Incorrect Default Permissions vulnerability in rmt-server-regsharing service of SUSE Linux Enterprise Server for SAP 15, SUSE Linux Enterprise Server for SAP 15-SP1, SUSE Manager Server 4.1; openSUSE Leap 15.3, openSUSE Leap 15.4 allows local attackers with access to the _rmt user to escalate to root. This issue affe CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31254 | | 
+| 20230207T11:10:10Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
+| 20230207T11:08:25Z | CVE-2020-5902 | Null | https://github.com/amitlttwo/CVE-2020-5902 | | 
+| 20230207T06:48:25Z | CVE-2023-22736 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. Versions starting with 2.5.0-rc1 and above, prior to 2.5.8, and version 2.6.0-rc4, are vulnerable to an authorization bypass bug which allows a malicious Argo CD user to deploy Applications outside the configured allowed namespaces. Reconciled Ap CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22736 | | 
+| 20230207T06:48:22Z | CVE-2023-24827 | syft is a a CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. A password disclosure flaw was found in Syft versions v0.69.0 and v0.69.1. This flaw leaks the password stored in the SYFT_ATTEST_PASSWORD environment variable. The `SYFT_ATTEST_PASSWORD` enviro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24827 | | 
+| 20230207T06:48:18Z | CVE-2023-24808 | PDFio is a C library for reading and writing PDF files. In versions prior to 1.1.0 a denial of service (DOS) vulnerability exists in the pdfio parser. Crafted pdf files can cause the program to run at 100% utilization and never terminate. The pdf which causes this crash found in testing is about 28kb in size and was di CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24808 | | 
+| 20230207T06:48:14Z | CVE-2022-4552 | The FL3R FeelBox WordPress plugin through 8.1 does not have CSRF check when updating its settings, and is missing sanitisation as well as escaping, which could allow attackers to make logged in admin add Stored XSS payloads via a CSRF attack CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4552 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T02:49:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10453 | 344| 
+| 20230207T12:59:31Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
+| 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
+| 20230207T12:04:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10473 | 344| 
+| 20230207T03:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2150 | 605| 
 | 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
 | 20230206T10:28:14Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
-| 20230206T10:03:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2149 | 604| 
 | 20230205T16:41:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 207 | 1| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
-| 20230204T14:19:43Z | Null | https://github.com/2kCreator/2kleech35 | 0 | 0| 
-| 20230204T13:37:24Z | Null | https://github.com/2kCreator/2kleech | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,21 +83,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T02:58:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4896 | 711| 
+| 20230207T12:47:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4900 | 712| 
+| 20230207T12:34:33Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2308 | 335| 
+| 20230207T11:15:27Z | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | 0 | 0| 
+| 20230207T10:37:03Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-yrmb-UNZqD-exploit-re | 0 | 0| 
+| 20230207T08:06:19Z | XLL EXPLOIT - SILENT EXPLOIT - DOC EXPLOIT | https://github.com/AdinExpl/-XLL-EXPLOIT-DROPPER | 1 | 0| 
 | 20230207T01:22:32Z | My exploits | https://github.com/Nikev2/Roblox-Epxloit-Archive | 0 | 0| 
 | 20230207T01:22:02Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/Exploit-Wizard | 0 | 0| 
 | 20230207T00:06:46Z | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | 0 | 0| 
 | 20230207T00:06:42Z | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | 0 | 0| 
 | 20230207T00:06:39Z | In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31576 | 0 | 0| 
-| 20230207T00:06:35Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31575 | 0 | 0| 
-| 20230207T00:06:32Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31574 | 0 | 0| 
-| 20230207T00:06:28Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31573 | 0 | 0| 
-| 20230206T23:55:55Z | GUI tool for checkm8 exploit | https://github.com/sen0rxol0/rook-release | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T04:26:12Z | Null | https://github.com/nus1x/php-backdoor | 0 | 0| 
 | 20230206T23:59:44Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/UGBA | 0 | 0| 
 | 20230206T23:35:57Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7355 | 2082| 
 | 20230206T22:44:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 106 | 13| 
@@ -107,7 +108,6 @@
 | 20230206T17:31:14Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 33 | 8| 
 | 20230206T02:24:02Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 231 | 62| 
 | 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
-| 20230205T18:09:35Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T02:05:04Z | Null | https://github.com/MONGOLIANrat072/fuzzy-computing-machine | 0 | 0| 
-| 20230207T00:51:25Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 5 | 1| 
-| 20230207T00:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
-| 20230206T23:25:08Z | Prototype of Fuzzy Logic based fire detection system | https://github.com/feignt/Fuzzy-Logic-Fire-Detection-System | 0 | 0| 
-| 20230206T23:14:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3399 | 407| 
-| 20230206T21:54:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1918 | 246| 
-| 20230206T21:42:53Z | A CLI fuzzy finder made in c# | https://github.com/mohamedLT/CsFuzz | 0 | 0| 
-| 20230206T15:40:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 509 | 65| 
-| 20230206T13:29:18Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 240 | 34| 
-| 20230206T13:25:26Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
+| 20230207T12:38:11Z | simple endpoint fuzzer in python | https://github.com/bad-alpaca/apiFuzzer | 0 | 0| 
+| 20230207T12:28:35Z | GPFUZZ: Grammar-based Performance Fuzzer | https://github.com/QAMCAS/gpfuzz | 0 | 0| 
+| 20230207T12:05:41Z | Evolutionary Grammar-Based Fuzzer to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 0 | 0| 
+| 20230207T10:32:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 710 | 96| 
+| 20230207T10:22:49Z | FUTAG (FUzzing Target Automated Generator) - автоматический генератор фаззинг-оберток для библиотек | https://github.com/ispras/Futag | 36 | 5| 
+| 20230207T10:11:54Z | Null | https://github.com/Makhnov/FUZZYTALES | 0 | 0| 
+| 20230207T09:56:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4549 | 1095| 
+| 20230207T08:53:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
+| 20230207T06:25:32Z | DOM fuzzer | https://github.com/googleprojectzero/domato | 1497 | 286| 
+| 20230207T03:51:28Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1919 | 246| 
 
 
 
