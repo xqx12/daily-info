@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T01:06:11Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
 | 20230206T16:54:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10449 | 344| 
 | 20230206T10:28:14Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 | 20230204T14:19:43Z | Null | https://github.com/2kCreator/2kleech35 | 0 | 0| 
 | 20230204T13:37:24Z | Null | https://github.com/2kCreator/2kleech | 0 | 0| 
-| 20230204T13:28:29Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 22 | 0| 
 
 
 # s2e on Github 推荐
