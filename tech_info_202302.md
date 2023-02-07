@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230206T13:54:16Z | CVE-2022-44268 | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | https://github.com/voidz0r/CVE-2022-44268 | | 
-| 20230206T13:48:53Z | CVE-2023-0045 | Null | https://github.com/es0j/CVE-2023-0045 | | 
-| 20230206T12:05:41Z | CVE-2022-44268 | Imagemagick CVE-2022-44268 | https://github.com/Vulnmachines/imagemagick-CVE-2022-44268 | | 
-| 20230206T11:28:36Z | CVE-2020-3992 | Python / scapy module implementing SRVLOC/SLP protocol and scans for enabled OpenSLP services. | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
-| 20230206T08:48:48Z | CVE-2023-22855 | Null | https://github.com/patrickhener/CVE-2023-22855 | | 
-| 20230206T07:30:55Z | CVE-2023-23333 | There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions  through downloader.php. | https://github.com/Timorlover/CVE-2023-23333 | | 
-| 20230206T06:31:06Z | CVE-2022-25855 | All versions of the package create-choo-app3 are vulnerable to Command Injection via the devInstall function due to improper user-input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25855 | | 
-| 20230206T06:31:02Z | CVE-2022-25853 | All versions of the package semver-tags are vulnerable to Command Injection via the getGitTagsRemote function due to improper input sanitization. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25853 | | 
-| 20230206T04:35:15Z | CVE-2022-21587 | CVE-2022-21587 POC  | https://github.com/hieuminhnv/CVE-2022-21587-POC | | 
-| 20230206T01:29:38Z | CVE-2021-21974 | Analysis of the ransom demands from Shodan results | https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT | | 
+| 20230207T00:07:05Z | CVE-2022-4828 | The Bold Timeline Lite WordPress plugin before 1.1.5 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as ad CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4828 | | 
+| 20230207T00:07:01Z | CVE-2022-4834 | The CPT Bootstrap Carousel WordPress plugin through 1.12 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4834 | | 
+| 20230207T00:06:56Z | CVE-2022-4835 | The Social Sharing Toolkit WordPress plugin through 2.6 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4835 | | 
+| 20230207T00:06:53Z | CVE-2023-23333 | There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23333 | | 
+| 20230207T00:06:50Z | CVE-2022-48166 | An access control issue in Wavlink WL-WN530HG4 M30HG4.V5030.201217 allows unauthenticated attackers to download configuration data and log files and obtain admin credentials. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-48166 | | 
+| 20230207T00:06:46Z | CVE-2021-31578 | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | | 
+| 20230207T00:06:42Z | CVE-2021-31577 | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | | 
+| 20230207T00:06:39Z | CVE-2021-31576 | In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31576 | | 
+| 20230207T00:06:35Z | CVE-2021-31575 | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31575 | | 
+| 20230207T00:06:32Z | CVE-2021-31574 | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31574 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T13:16:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10449 | 345| 
+| 20230206T16:54:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10449 | 344| 
 | 20230206T10:28:14Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230206T10:03:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2149 | 604| 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T13:46:27Z | Code accompanying the paper %A Bayesian optimization, exploration-exploitation of expensive stochastic functions approach for enhanced robotic obstacle avoidance% by Catalin Stefan Teodorescu, Andrew West, Keir Groves, Barry Lennox | https://github.com/StefanT83/SC_obst_avoid_GPR_2D | 0 | 0| 
-| 20230206T13:27:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-irSz7-exploit-illustrate | 0 | 0| 
-| 20230206T12:57:02Z | This tool is exploited by Qt 5.12，running in Ubuntu20.04，to control R60 test. | https://github.com/Meh-zx/R60Tool-for-Lunix | 0 | 0| 
-| 20230206T07:44:52Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 392 | 53| 
-| 20230206T07:42:16Z | Exploit in your favorite Roblox games! 💀 | https://github.com/LouieIsShort/SickMan-Exploit | 0 | 0| 
-| 20230206T06:53:29Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12691 | 2177| 
-| 20230206T06:41:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9880 | 1576| 
-| 20230206T06:30:36Z | Использование уязвимости алгоритма генерации profanity | https://github.com/Noname400/profanity-exploit | 3 | 0| 
-| 20230206T05:40:00Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 171 | 21| 
-| 20230206T05:12:13Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 615 | 83| 
+| 20230207T00:06:46Z | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | 0 | 0| 
+| 20230207T00:06:42Z | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | 0 | 0| 
+| 20230207T00:06:39Z | In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31576 | 0 | 0| 
+| 20230207T00:06:35Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31575 | 0 | 0| 
+| 20230207T00:06:32Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31574 | 0 | 0| 
+| 20230207T00:06:28Z | In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31573 | 0 | 0| 
+| 20230206T23:55:55Z | GUI tool for checkm8 exploit | https://github.com/sen0rxol0/rook-release | 1 | 0| 
+| 20230206T23:42:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bc | 1 | 0| 
+| 20230206T23:41:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bc | 1 | 0| 
+| 20230206T23:40:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bc | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230206T09:46:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7350 | 2082| 
-| 20230206T09:22:33Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 135 | 32| 
+| 20230206T23:59:44Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/UGBA | 0 | 0| 
+| 20230206T23:35:57Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7355 | 2082| 
+| 20230206T22:44:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 106 | 13| 
+| 20230206T22:13:15Z | A simple python reverse shell written just for fun. | https://github.com/4n4nk3/TinkererShell | 66 | 19| 
+| 20230206T20:25:13Z | Digiatal Forensics project | https://github.com/nithin22/Backdoor-Windows | 0 | 0| 
+| 20230206T17:35:39Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 136 | 32| 
+| 20230206T17:31:14Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 33 | 8| 
 | 20230206T02:24:02Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 231 | 62| 
 | 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
-| 20230205T18:47:28Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 32 | 7| 
 | 20230205T18:09:35Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
-| 20230205T14:30:53Z | Null | https://github.com/p3ngu19z/LED-Strip-Microphone-backdoor | 0 | 0| 
-| 20230205T13:47:54Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
-| 20230205T11:43:45Z | working on creating a script for backdooring linux system | https://github.com/PKHarsimran/BackdoorLinux | 0 | 1| 
-| 20230205T09:42:21Z | Auto Download and Execute script for downloading backdoor with any other file like img.pdf.etc  | https://github.com/sanskar30/autodownloadandexexcute | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T00:51:25Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 5 | 1| 
+| 20230207T00:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
+| 20230206T23:25:08Z | Prototype of Fuzzy Logic based fire detection system | https://github.com/feignt/Fuzzy-Logic-Fire-Detection-System | 0 | 0| 
+| 20230206T21:54:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1918 | 246| 
+| 20230206T21:42:53Z | A CLI fuzzy finder made in c# | https://github.com/mohamedLT/CsFuzz | 0 | 0| 
+| 20230206T15:40:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 509 | 65| 
 | 20230206T13:29:18Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 240 | 34| 
 | 20230206T13:25:26Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
 | 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
-| 20230206T12:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1815| 
 | 20230206T11:23:33Z | Null | https://github.com/rikfie/isort-fuzzer | 0 | 0| 
-| 20230206T11:03:36Z | Null | https://github.com/ABDULMALIKMA/fuzzy-memory | 0 | 0| 
-| 20230206T10:57:16Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8616 | 965| 
-| 20230206T08:24:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1261 | 168| 
-| 20230206T01:07:07Z | Null | https://github.com/evtechindo/Temperature-and-Light-Intensity-Control-Using-with-Fuzzy-Logic | 0 | 0| 
-| 20230206T00:47:35Z | Ant Sugar Incubator Using Fuzzy Logic | https://github.com/evtechindo/Ant-Sugar-Incubator-Using-Fuzzy-Logic | 0 | 0| 
 
 
 
