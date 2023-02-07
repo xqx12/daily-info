@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T13:50:54Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 85 | 38| 
 | 20230207T13:49:46Z | GitOps Repository | https://github.com/hacbs-release-tests/appstudio-CqExT-exploit-check | 0 | 0| 
-| 20230207T13:45:24Z | 🎯 Fortnite External Cheat Release C++ / Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 85 | 38| 
 | 20230207T13:34:54Z | exploit de PoC de vulnerabilitat log4j | https://github.com/jorddiprogrammer/log4j_poc | 0 | 0| 
 | 20230207T13:25:29Z | A vulnerability was found in Custom-Content-Width 1.0. It has been declared as problematic. Affected by this vulnerability is the function override_content_width/register_settings of the file custom-content-width.php. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2015-10075 | 0 | 0| 
 | 20230207T13:25:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-Tqk8x-cook-exploit | 0 | 0| 
