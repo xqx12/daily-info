@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T01:11:23Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/Exploit-Wizard | 0 | 0| 
 | 20230207T00:06:46Z | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | 0 | 0| 
 | 20230207T00:06:42Z | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | 0 | 0| 
 | 20230207T00:06:39Z | In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31576 | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230206T23:55:55Z | GUI tool for checkm8 exploit | https://github.com/sen0rxol0/rook-release | 1 | 0| 
 | 20230206T23:42:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bc | 1 | 0| 
 | 20230206T23:41:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bc | 1 | 0| 
-| 20230206T23:40:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bc | 1 | 0| 
 
 
 # backdoor on Github 推荐
