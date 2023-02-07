@@ -11,6 +11,8 @@
 | 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
 | 20230206 | kCTF VRP中收到的Linux内核漏洞信息及利用方式汇总文档。 | https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh| 
 | 20230206 | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268| 
+| 20230206 | Apache SCXML中的SCXMLReader对象未对传入的XML文件URL进行检查导致RCE | https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/| 
+| 20230206 | 由于锁的错误使用导致的Android Binder UAF漏洞细节（CVE-2023-20928） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2374| 
 
 
 # 安全维基 推荐

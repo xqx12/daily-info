@@ -11,6 +11,8 @@
 | 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
 | 20230206 | kCTF VRP中收到的Linux内核漏洞信息及利用方式汇总文档。 | https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh| 
 | 20230206 | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268| 
+| 20230206 | Apache SCXML中的SCXMLReader对象未对传入的XML文件URL进行检查导致RCE | https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/| 
+| 20230206 | 由于锁的错误使用导致的Android Binder UAF漏洞细节（CVE-2023-20928） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2374| 
 | 20230205 | 在 Linux 上绕过 Spectre-BTI 用户空间缓解措施 | https://github.com/es0j/CVE-2023-0045| 
 | 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
 | 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
@@ -24,8 +26,6 @@
 | 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://sec.today/pulses/1dfde550-81c4-4a03-9228-7ad6037f7143/| 
 | 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://github.com/duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC| 
 | 20230202 | MYSQL JDBC反序列化攻击介绍 | https://tttang.com/archive/1877/| 
-| 20230202 | Dompdf的URI验证可通过字母大写进行绕过，导致漏洞产生 | http://securityonline.info/cve-2023-23924-critical-severity-rce-flaw-found-in-popular-dompdf-library/| 
-| 20230202 | Cisco系列产品中出现高危漏洞。CVE-2023-20076：远程命令注入，需要身份认证；CSCwc67015：任意文件写，可导致代码执行。 | https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover| 
 
 
 # 安全维基 推荐
