@@ -135,13 +135,13 @@
 | 20230207T00:51:25Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 5 | 1| 
 | 20230207T00:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
 | 20230206T23:25:08Z | Prototype of Fuzzy Logic based fire detection system | https://github.com/feignt/Fuzzy-Logic-Fire-Detection-System | 0 | 0| 
+| 20230206T23:14:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3399 | 407| 
 | 20230206T21:54:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1918 | 246| 
 | 20230206T21:42:53Z | A CLI fuzzy finder made in c# | https://github.com/mohamedLT/CsFuzz | 0 | 0| 
 | 20230206T15:40:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 509 | 65| 
 | 20230206T13:29:18Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 240 | 34| 
 | 20230206T13:25:26Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
 | 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
-| 20230206T11:23:33Z | Null | https://github.com/rikfie/isort-fuzzer | 0 | 0| 
 
 
 
