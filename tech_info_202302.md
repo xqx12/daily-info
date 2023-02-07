@@ -13,6 +13,7 @@
 | 20230206 | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268| 
 | 20230206 | Apache SCXML中的SCXMLReader对象未对传入的XML文件URL进行检查导致RCE | https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/| 
 | 20230206 | 由于锁的错误使用导致的Android Binder UAF漏洞细节（CVE-2023-20928） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2374| 
+| 20230206 | 攻入丰田GSPIMS系统的历程。该系统允许用户只通过email地址进行登陆，作者借此获得了系统管理员权限。 | https://www.reddit.com/r/netsec/comments/10vb5qy/hacking_into_toyotas_global_supplier_management/| 
 | 20230205 | 在 Linux 上绕过 Spectre-BTI 用户空间缓解措施 | https://github.com/es0j/CVE-2023-0045| 
 | 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
 | 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
@@ -25,7 +26,6 @@
 | 20230203 | 介绍了一些简单的2FA的bypass方法。不过这类方法估计很难在实际中奏效。 | https://thegrayarea.tech/bug-hunting-101-multi-factor-authentication-otp-bypass-79f03b554df6?gi=3e094ba14e0a| 
 | 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://sec.today/pulses/1dfde550-81c4-4a03-9228-7ad6037f7143/| 
 | 20230203 | CVE-2022-44268:ImageMagick任意文件读取PoC | https://github.com/duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC| 
-| 20230202 | MYSQL JDBC反序列化攻击介绍 | https://tttang.com/archive/1877/| 
 
 
 # 安全维基 推荐
