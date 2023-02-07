@@ -50,16 +50,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T13:02:40Z | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | 0 | 0| 
+| 20230207T13:12:05Z | Pagina de Exploits | https://github.com/InfinityCorp214/InfinityCorp214.github.io | 0 | 0| 
+| 20230207T13:07:53Z | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | 0 | 0| 
 | 20230207T12:47:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4900 | 712| 
 | 20230207T12:34:33Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2308 | 335| 
 | 20230207T11:15:27Z | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | 0 | 0| 
 | 20230207T10:37:03Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-yrmb-UNZqD-exploit-re | 0 | 0| 
 | 20230207T08:06:19Z | XLL EXPLOIT - SILENT EXPLOIT - DOC EXPLOIT | https://github.com/AdinExpl/-XLL-EXPLOIT-DROPPER | 1 | 0| 
+| 20230207T07:26:01Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 617 | 83| 
 | 20230207T01:22:32Z | My exploits | https://github.com/Nikev2/Roblox-Epxloit-Archive | 0 | 0| 
 | 20230207T01:22:02Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/Exploit-Wizard | 0 | 0| 
-| 20230207T00:06:46Z | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | 0 | 0| 
-| 20230207T00:06:42Z | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | 0 | 0| 
 
 
 # backdoor on Github 推荐
