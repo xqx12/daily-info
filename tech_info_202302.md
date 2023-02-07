@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T02:05:04Z | Null | https://github.com/MONGOLIANrat072/fuzzy-computing-machine | 0 | 0| 
 | 20230207T00:51:25Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 5 | 1| 
 | 20230207T00:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
 | 20230206T23:25:08Z | Prototype of Fuzzy Logic based fire detection system | https://github.com/feignt/Fuzzy-Logic-Fire-Detection-System | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20230206T15:40:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 509 | 65| 
 | 20230206T13:29:18Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 240 | 34| 
 | 20230206T13:25:26Z | Null | https://github.com/QXSI/fuzzy-potato | 0 | 0| 
-| 20230206T12:47:00Z | Collection of projects for use in quick start guides. | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-getting-started | 0 | 0| 
 
 
 
