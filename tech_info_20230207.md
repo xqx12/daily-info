@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T13:33:31Z | exploit de PoC de vulnerabilitat log4j | https://github.com/jorddiprogrammer/log4j_poc | 0 | 0| 
 | 20230207T13:25:29Z | A vulnerability was found in Custom-Content-Width 1.0. It has been declared as problematic. Affected by this vulnerability is the function override_content_width/register_settings of the file custom-content-width.php. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2015-10075 | 0 | 0| 
 | 20230207T13:25:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-Tqk8x-cook-exploit | 0 | 0| 
 | 20230207T13:12:05Z | Pagina de Exploits | https://github.com/InfinityCorp214/InfinityCorp214.github.io | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20230207T11:15:27Z | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | 0 | 0| 
 | 20230207T10:37:03Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-yrmb-UNZqD-exploit-re | 0 | 0| 
 | 20230207T08:06:19Z | XLL EXPLOIT - SILENT EXPLOIT - DOC EXPLOIT | https://github.com/AdinExpl/-XLL-EXPLOIT-DROPPER | 1 | 0| 
-| 20230207T07:26:01Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 617 | 83| 
 
 
 # backdoor on Github 推荐
