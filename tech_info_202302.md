@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230207T13:02:40Z | CVE-2022-23935 | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | | 
+| 20230207T13:07:53Z | CVE-2022-23935 | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | | 
 | 20230207T11:27:49Z | CVE-2021-22986 | Null | https://github.com/amitlttwo/CVE-2021-22986 | | 
 | 20230207T11:15:27Z | CVE-2023-23696 | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | | 
 | 20230207T11:15:19Z | CVE-2023-0706 | A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0706 | | 
