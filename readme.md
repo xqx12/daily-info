@@ -14,6 +14,7 @@
 | 20230206 | Apache SCXML中的SCXMLReader对象未对传入的XML文件URL进行检查导致RCE | https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/| 
 | 20230206 | 由于锁的错误使用导致的Android Binder UAF漏洞细节（CVE-2023-20928） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2374| 
 | 20230206 | 攻入丰田GSPIMS系统的历程。该系统允许用户只通过email地址进行登陆，作者借此获得了系统管理员权限。 | https://www.reddit.com/r/netsec/comments/10vb5qy/hacking_into_toyotas_global_supplier_management/| 
+| 20230206 | 介绍 github 新研发的代码搜索功能所使用的底层算法 | http://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/| 
 
 
 # 安全维基 推荐
