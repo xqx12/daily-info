@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230207T13:02:40Z | CVE-2022-23935 | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | | 
 | 20230207T11:27:49Z | CVE-2021-22986 | Null | https://github.com/amitlttwo/CVE-2021-22986 | | 
 | 20230207T11:15:27Z | CVE-2023-23696 | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | | 
 | 20230207T11:15:19Z | CVE-2023-0706 | A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0706 | | 
@@ -29,7 +30,6 @@
 | 20230207T06:48:25Z | CVE-2023-22736 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. Versions starting with 2.5.0-rc1 and above, prior to 2.5.8, and version 2.6.0-rc4, are vulnerable to an authorization bypass bug which allows a malicious Argo CD user to deploy Applications outside the configured allowed namespaces. Reconciled Ap CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22736 | | 
 | 20230207T06:48:22Z | CVE-2023-24827 | syft is a a CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. A password disclosure flaw was found in Syft versions v0.69.0 and v0.69.1. This flaw leaks the password stored in the SYFT_ATTEST_PASSWORD environment variable. The `SYFT_ATTEST_PASSWORD` enviro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24827 | | 
 | 20230207T06:48:18Z | CVE-2023-24808 | PDFio is a C library for reading and writing PDF files. In versions prior to 1.1.0 a denial of service (DOS) vulnerability exists in the pdfio parser. Crafted pdf files can cause the program to run at 100% utilization and never terminate. The pdf which causes this crash found in testing is about 28kb in size and was di CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24808 | | 
-| 20230207T06:48:14Z | CVE-2022-4552 | The FL3R FeelBox WordPress plugin through 8.1 does not have CSRF check when updating its settings, and is missing sanitisation as well as escaping, which could allow attackers to make logged in admin add Stored XSS payloads via a CSRF attack CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4552 | | 
 
 
 # klee on Github 推荐
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T13:02:40Z | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | 0 | 0| 
 | 20230207T12:47:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4900 | 712| 
 | 20230207T12:34:33Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2308 | 335| 
 | 20230207T11:15:27Z | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20230207T01:22:02Z | Simple Exploit Builder Written In C# To Simplify Payload Creation | https://github.com/BYT3W1Z4RD/Exploit-Wizard | 0 | 0| 
 | 20230207T00:06:46Z | In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31578 | 0 | 0| 
 | 20230207T00:06:42Z | In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31577 | 0 | 0| 
-| 20230207T00:06:39Z | In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-31576 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T03:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2150 | 605| 
 
 
 # big4 on Github 推荐
