@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
+| 20230208 | ESXiArgs勒索病毒开始流行，利用未patch的ESXi漏洞。 | https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide| 
+| 20230208 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db| 
+| 20230208 | 基于ebpf的Linux event 监控框架Pulsar的一个简单教程，支持监控网络、进程、log、系统调用等事件。 | http://blog.exein.io/pulsar-tutorial| 
+| 20230208 | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs| 
+| 20230208 | NETGEAR NIGHTHAWK R7000P中由栈溢出导致的RCE漏洞细节。 | http://hdwsec.fr/blog/20230201-netgear/| 
+| 20230208 | 该文主要解释了 IP 数据包在 Linux 网络堆栈中的队列位置，降低延迟的新功能（例如 Byte Queue Limits BQL ）的运行方式以及如何通过控制缓冲区以降低延迟 | http://www.coverfire.com/articles/queueing-in-the-linux-network-stack/| 
+| 20230208 | 谷歌将在2月8日“宣布” （并非发布）对标 ChatGPT 的竞争产品 Bard （吟游诗人），它将由对话神经网络模型 LaMDA 提供支持 | http://cybersecuritynews.com/google-chat-gpt-rival/| 
 | 20230207 | 讲述如何构建一个自毁的USB设备 | http://interruptlabs.ca/2023/02/06/I-Built-a-Self-Destructing-USB-Drive-Part-3/| 
 | 20230207 | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV| 
 | 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
@@ -18,14 +26,6 @@
 | 20230206 | 介绍了一系列工具用来bug bountry自动化。内容比较初级。 | https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78| 
 | 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
 | 20230206 | kCTF VRP中收到的Linux内核漏洞信息及利用方式汇总文档。 | https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh| 
-| 20230206 | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268| 
-| 20230206 | Apache SCXML中的SCXMLReader对象未对传入的XML文件URL进行检查导致RCE | https://pyn3rd.github.io/2023/02/06/Apache-SCXML-Remote-Code-Execution/| 
-| 20230206 | 由于锁的错误使用导致的Android Binder UAF漏洞细节（CVE-2023-20928） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2374| 
-| 20230206 | 攻入丰田GSPIMS系统的历程。该系统允许用户只通过email地址进行登陆，作者借此获得了系统管理员权限。 | https://www.reddit.com/r/netsec/comments/10vb5qy/hacking_into_toyotas_global_supplier_management/| 
-| 20230206 | 介绍 github 新研发的代码搜索功能所使用的底层算法 | http://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/| 
-| 20230205 | 在 Linux 上绕过 Spectre-BTI 用户空间缓解措施 | https://github.com/es0j/CVE-2023-0045| 
-| 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
-| 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
 
 
 # 安全维基 推荐
@@ -46,29 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230208T01:37:33Z | CVE-2023-23026 | Cross site scripting (XSS) vulnerability in sourcecodester oretnom23 sales management system 1.0, allows attackers to execute arbitrary code via the product_name and product_price inputs in file print.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23026 | | 
-| 20230208T01:37:29Z | CVE-2023-23011 | Cross Site Scripting (XSS) vulnerability in InvoicePlane 1.6 via filter_product input to file modal_product_lookups.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23011 | | 
-| 20230208T01:37:26Z | CVE-2023-0736 | Cross-site Scripting (XSS) - Stored in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0736 | | 
-| 20230208T01:37:22Z | CVE-2023-0735 | Cross-Site Request Forgery (CSRF) in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0735 | | 
-| 20230208T01:37:18Z | CVE-2023-0731 | The Interactive Geo Maps plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the action content parameter in versions up to, and including, 1.5.9 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers with editor level CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0731 | | 
-| 20230208T01:37:15Z | CVE-2023-0730 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_folder_order function. This makes it possible for unauthenticated attackers to invoke this function via forged request gran CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0730 | | 
-| 20230208T01:37:11Z | CVE-2023-0727 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_delete_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0727 | | 
-| 20230208T01:37:08Z | CVE-2023-0723 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_move_object function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0723 | | 
-| 20230208T01:37:04Z | CVE-2023-0719 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_sort_order function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0719 | | 
-| 20230208T01:37:00Z | CVE-2023-0712 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_move_object function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0712 | | 
+| 20230208T12:29:15Z | CVE-2021-44228 | Null | https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC | | 
+| 20230208T11:37:29Z | CVE-2021-3958 | Improper Handling of Parameters vulnerability in Ipack Automation Systems Ipack SCADA Software allows : Blind SQL Injection.This issue affects Ipack SCADA Software: from unspecified before 1.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3958 | | 
+| 20230208T11:37:25Z | CVE-2023-0744 | Improper Access Control in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0744 | | 
+| 20230208T11:37:21Z | CVE-2023-0743 | Cross-site Scripting (XSS) - Generic in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0743 | | 
+| 20230208T11:37:17Z | CVE-2023-0742 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0742 | | 
+| 20230208T11:37:13Z | CVE-2023-0741 | Cross-site Scripting (XSS) - DOM in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0741 | | 
+| 20230208T11:37:08Z | CVE-2023-0740 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0740 | | 
+| 20230208T11:37:04Z | CVE-2022-43761 | Missing authentication when creating and managing the B&R APROL database in versions < R 4.2-07 allows reading and changing the system configuration. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43761 | | 
+| 20230208T11:37:00Z | CVE-2022-2094 | The Yellow Yard Searchbar WordPress plugin before 2.8.2 does not escape some URL parameters before outputting them back to the user, leading to Reflected Cross-Site Scripting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2094 | | 
+| 20230208T07:13:33Z | CVE-2023-0726 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_edit_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0726 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230208T02:56:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10491 | 344| 
+| 20230208T12:59:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10507 | 345| 
+| 20230208T11:38:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
+| 20230208T10:55:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2151 | 605| 
+| 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
-| 20230207T14:34:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 208 | 1| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
 | 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
-| 20230207T03:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2150 | 605| 
 | 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
-| 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T12:32:01Z | Il2Cpp android unity game exploitation by injecting assembly in runtime proof-of-concept. | https://github.com/acessors/Il2Cpp-Exploitation-POC | 4 | 0| 
+| 20230208T12:17:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4908 | 712| 
+| 20230208T11:25:34Z | Notes and Tips  | https://github.com/SwiftGlitxh/Exploits-How-To | 0 | 0| 
+| 20230208T10:38:43Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
+| 20230208T10:34:40Z | Tool made to search for admin tab on the site | https://github.com/guilhermeow/SynchNouys | 6 | 2| 
+| 20230208T03:43:25Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 9 | 4| 
 | 20230208T02:46:20Z | Buffer overflows have been the most common sort of support risk in the previous decade. Also, buffer overflow issues are the most prevalent sort of network penetration issue, which occurs when an anonymous Web user attempts to gain control of a server in certain manner. | https://github.com/indujaabey/Exploit-an-Application-Running-On-Windows-Using-Buffer-Overflow | 0 | 0| 
 | 20230208T01:36:50Z | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | 0 | 0| 
 | 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
-| 20230208T00:55:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ny | 1 | 0| 
-| 20230208T00:35:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 161 | 2| 
-| 20230208T00:04:23Z | A basic program that exploits 3 vulnerabilities to read files and delete them. | https://github.com/Nameless9000/TavernAIPwn | 0 | 0| 
-| 20230207T23:26:03Z | An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47419 | 0 | 0| 
-| 20230207T23:25:12Z | An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6090 | 0 | 0| 
-| 20230207T23:21:44Z | Null | https://github.com/marklindsey11/ESXiArgs-POC-EXPLOIT-CODE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T12:53:56Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
+| 20230208T11:10:49Z | A Minecraft client for combat and movement hacks mainly, 0 backdoors. | https://github.com/HAX-MC/XenZ-Client | 0 | 0| 
+| 20230208T10:01:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1937 | 808| 
+| 20230208T09:52:12Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2417 | 405| 
+| 20230208T03:56:36Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 57 | 21| 
 | 20230207T22:37:40Z | Async Rat Crypter is a Software To Make Async Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/Async-Rat-Crypter-FUD-2023-Download | 1 | 0| 
 | 20230207T22:37:39Z | MobiHok v6 is RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/MobiHok-v6-Cracked-Activated-Download-Latest-Version | 1 | 0| 
 | 20230207T22:37:38Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 1 | 0| 
 | 20230207T21:32:33Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 136 | 32| 
 | 20230207T19:41:59Z | SpyMax v4.0 Android RAT is a Software to Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only).  | https://github.com/SoftwaresForPC/SpyMax-v4.0-Cracked-Activated-Download-Latest-Version | 1 | 0| 
-| 20230207T17:44:02Z | Brata Rat Crypter is a Software to Crypts Brata Rat Server and Makes it FUD (Fully Undetectable) to ByPass Google Protect and All AntiViruses. (For Educational Puposes Only) | https://github.com/SoftwaresForPC/Brata-Rat-Crypter-FUD-2023-Download | 1 | 0| 
-| 20230207T17:16:10Z | Null | https://github.com/HengerLi/BackdoorFL | 0 | 0| 
-| 20230207T04:26:12Z | Null | https://github.com/nus1x/php-backdoor | 0 | 0| 
-| 20230206T23:59:44Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/UGBA | 0 | 0| 
-| 20230206T23:35:57Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7355 | 2082| 
 
 
 # symbolic execution on Github 推荐
@@ -134,16 +134,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T12:41:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8336 | 1815| 
+| 20230208T12:31:19Z | Null | https://github.com/the-umm/fuzzy-carnival | 0 | 0| 
+| 20230208T11:58:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3396 | 680| 
+| 20230208T11:32:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 302 | 52| 
+| 20230208T10:59:03Z | Null | https://github.com/Swetlana-K/fuzzy-octo-guacamole | 0 | 0| 
+| 20230208T10:25:09Z | Null | https://github.com/fuzzyhax1384/fuzzyhax1384.github.io | 0 | 0| 
+| 20230208T08:45:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4553 | 1096| 
 | 20230208T02:47:57Z | Turns on DIGITAL pins and reads in a grid. | https://github.com/saltchicken/pin_fuzzer | 0 | 0| 
 | 20230208T02:39:55Z | a better UI for fuzzers | https://github.com/eqv/fuzz_ui | 3 | 0| 
 | 20230208T02:19:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3404 | 407| 
-| 20230208T00:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1816| 
-| 20230208T00:10:27Z | Null | https://github.com/Mojtaba0091/fuzzy-guacamole | 1 | 0| 
-| 20230207T20:54:48Z | Repo containing sites created while learning HTML and CSS | https://github.com/Sudheeradh/fuzzy-octo-fiesta | 0 | 0| 
-| 20230207T18:14:33Z | Null | https://github.com/reewardius/bbFuzzing.txt | 51 | 8| 
-| 20230207T14:29:50Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 6 | 1| 
-| 20230207T13:54:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 180| 
-| 20230207T13:17:15Z | The Blitz Tutorial Lab on Fuzzing with AFL++ | https://github.com/BenH11235/libtiff-fuzzing-lab | 0 | 0| 
 
 
 
