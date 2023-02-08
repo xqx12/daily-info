@@ -39,7 +39,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230208T12:59:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10507 | 345| 
+| 20230208T13:26:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10510 | 345| 
 | 20230208T11:38:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
 | 20230208T10:55:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2151 | 605| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T13:20:21Z | Fuzzball MUCK Server | https://github.com/starafar/fuzzball | 0 | 0| 
 | 20230208T13:15:33Z | Null | https://github.com/nekrasovvitaliy/FastFuzzySearch | 0 | 0| 
 | 20230208T12:41:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8336 | 1815| 
 | 20230208T12:31:19Z | Null | https://github.com/the-umm/fuzzy-carnival | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230208T10:25:09Z | Null | https://github.com/fuzzyhax1384/fuzzyhax1384.github.io | 0 | 0| 
 | 20230208T08:45:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4553 | 1096| 
 | 20230208T02:47:57Z | Turns on DIGITAL pins and reads in a grid. | https://github.com/saltchicken/pin_fuzzer | 0 | 0| 
-| 20230208T02:39:55Z | a better UI for fuzzers | https://github.com/eqv/fuzz_ui | 3 | 0| 
 
 
 
