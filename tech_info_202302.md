@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T23:45:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10488 | 344| 
+| 20230208T01:40:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10489 | 344| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230207T14:34:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 208 | 1| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
@@ -87,12 +87,12 @@
 | 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:55:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ny | 1 | 0| 
+| 20230208T00:35:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 161 | 2| 
 | 20230208T00:04:23Z | A basic program that exploits 3 vulnerabilities to read files and delete them. | https://github.com/Nameless9000/TavernAIPwn | 0 | 0| 
 | 20230207T23:26:03Z | An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47419 | 0 | 0| 
 | 20230207T23:25:12Z | An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6090 | 0 | 0| 
 | 20230207T23:21:44Z | Null | https://github.com/marklindsey11/ESXiArgs-POC-EXPLOIT-CODE | 0 | 0| 
 | 20230207T16:39:26Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 0 | 0| 
-| 20230207T13:50:54Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 85 | 38| 
 
 
 # backdoor on Github 推荐
