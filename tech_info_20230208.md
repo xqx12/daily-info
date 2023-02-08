@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230208T13:51:20Z | CVE-2022-43765 | B&R APROL versions < R 4.2-07 doesn’t process correctly specially formatted data packages sent to port 55502/tcp, which may allow a network based attacker to cause an application Denial-of-Service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43765 | | 
 | 20230208T13:51:16Z | CVE-2022-43764 | Insufficient validation of input parameters when changing configuration on Tbase server in B&R APROL versions < R 4.2-07 could result in buffer overflow. This may lead to Denial-of-Service conditions or execution of arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43764 | | 
 | 20230208T13:51:12Z | CVE-2022-43763 | Insufficient check of preconditions could lead to Denial of Service conditions when calling commands on the Tbase server of B&R APROL versions < R 4.2-07. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43763 | | 
 | 20230208T13:51:08Z | CVE-2022-43762 | Lack of verification in B&R APROL Tbase server versions < R 4.2-07 may lead to memory leaks when receiving messages CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43762 | | 
@@ -33,7 +34,6 @@
 | 20230208T11:37:21Z | CVE-2023-0743 | Cross-site Scripting (XSS) - Generic in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0743 | | 
 | 20230208T11:37:17Z | CVE-2023-0742 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0742 | | 
 | 20230208T11:37:13Z | CVE-2023-0741 | Cross-site Scripting (XSS) - DOM in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0741 | | 
-| 20230208T11:37:08Z | CVE-2023-0740 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0740 | | 
 
 
 # klee on Github 推荐
