@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230208T01:37:33Z | CVE-2023-23026 | Cross site scripting (XSS) vulnerability in sourcecodester oretnom23 sales management system 1.0, allows attackers to execute arbitrary code via the product_name and product_price inputs in file print.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23026 | | 
+| 20230208T01:37:29Z | CVE-2023-23011 | Cross Site Scripting (XSS) vulnerability in InvoicePlane 1.6 via filter_product input to file modal_product_lookups.php. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23011 | | 
+| 20230208T01:37:26Z | CVE-2023-0736 | Cross-site Scripting (XSS) - Stored in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0736 | | 
+| 20230208T01:37:22Z | CVE-2023-0735 | Cross-Site Request Forgery (CSRF) in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0735 | | 
 | 20230208T01:37:18Z | CVE-2023-0731 | The Interactive Geo Maps plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the action content parameter in versions up to, and including, 1.5.9 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers with editor level CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0731 | | 
 | 20230208T01:37:15Z | CVE-2023-0730 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_folder_order function. This makes it possible for unauthenticated attackers to invoke this function via forged request gran CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0730 | | 
 | 20230208T01:37:11Z | CVE-2023-0727 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_delete_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0727 | | 
 | 20230208T01:37:08Z | CVE-2023-0723 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_move_object function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0723 | | 
 | 20230208T01:37:04Z | CVE-2023-0719 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_sort_order function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0719 | | 
 | 20230208T01:37:00Z | CVE-2023-0712 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_move_object function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0712 | | 
-| 20230208T01:36:57Z | CVE-2022-47418 | LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or "Type II") cross-site scripting (XSS) condition in the document version comments. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47418 | | 
-| 20230208T01:36:53Z | CVE-2021-36471 | Directory Traversal vulnerability in AdminLTE 3.1.0 allows remote attackers to gain escalated privilege and view sensitive information via /admin/index2.html, /admin/index3.html URIs. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36471 | | 
-| 20230208T01:36:50Z | CVE-2023-24828 | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | | 
-| 20230208T01:36:46Z | CVE-2023-0718 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0718 | | 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T01:36:50Z | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | 0 | 0| 
 | 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:55:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ny | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230207T23:21:44Z | Null | https://github.com/marklindsey11/ESXiArgs-POC-EXPLOIT-CODE | 0 | 0| 
 | 20230207T16:39:26Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 0 | 0| 
 | 20230207T13:50:54Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 85 | 38| 
-| 20230207T13:49:46Z | GitOps Repository | https://github.com/hacbs-release-tests/appstudio-CqExT-exploit-check | 0 | 0| 
 
 
 # backdoor on Github 推荐
