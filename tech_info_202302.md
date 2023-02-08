@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T02:46:20Z | Buffer overflows have been the most common sort of support risk in the previous decade. Also, buffer overflow issues are the most prevalent sort of network penetration issue, which occurs when an anonymous Web user attempts to gain control of a server in certain manner. | https://github.com/indujaabey/Exploit-an-Application-Running-On-Windows-Using-Buffer-Overflow | 0 | 0| 
 | 20230208T01:36:50Z | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | 0 | 0| 
 | 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
 | 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230207T23:26:03Z | An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47419 | 0 | 0| 
 | 20230207T23:25:12Z | An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6090 | 0 | 0| 
 | 20230207T23:21:44Z | Null | https://github.com/marklindsey11/ESXiArgs-POC-EXPLOIT-CODE | 0 | 0| 
-| 20230207T16:39:26Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 0 | 0| 
 
 
 # backdoor on Github 推荐
