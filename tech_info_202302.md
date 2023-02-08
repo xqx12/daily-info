@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T13:15:33Z | Null | https://github.com/nekrasovvitaliy/FastFuzzySearch | 0 | 0| 
 | 20230208T12:41:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8336 | 1815| 
 | 20230208T12:31:19Z | Null | https://github.com/the-umm/fuzzy-carnival | 0 | 0| 
 | 20230208T11:58:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3396 | 680| 
@@ -144,7 +145,6 @@
 | 20230208T08:45:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4553 | 1096| 
 | 20230208T02:47:57Z | Turns on DIGITAL pins and reads in a grid. | https://github.com/saltchicken/pin_fuzzer | 0 | 0| 
 | 20230208T02:39:55Z | a better UI for fuzzers | https://github.com/eqv/fuzz_ui | 3 | 0| 
-| 20230208T02:19:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3404 | 407| 
 
 
 
