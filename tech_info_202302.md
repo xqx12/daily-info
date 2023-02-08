@@ -46,29 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230207T13:07:53Z | CVE-2022-23935 | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | | 
-| 20230207T11:27:49Z | CVE-2021-22986 | Null | https://github.com/amitlttwo/CVE-2021-22986 | | 
-| 20230207T11:15:27Z | CVE-2023-23696 | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | | 
-| 20230207T11:15:19Z | CVE-2023-0706 | A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0706 | | 
-| 20230207T11:15:15Z | CVE-2022-31254 | A Incorrect Default Permissions vulnerability in rmt-server-regsharing service of SUSE Linux Enterprise Server for SAP 15, SUSE Linux Enterprise Server for SAP 15-SP1, SUSE Manager Server 4.1; openSUSE Leap 15.3, openSUSE Leap 15.4 allows local attackers with access to the _rmt user to escalate to root. This issue affe CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-31254 | | 
-| 20230207T11:10:10Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
-| 20230207T11:08:25Z | CVE-2020-5902 | Null | https://github.com/amitlttwo/CVE-2020-5902 | | 
-| 20230207T06:48:25Z | CVE-2023-22736 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. Versions starting with 2.5.0-rc1 and above, prior to 2.5.8, and version 2.6.0-rc4, are vulnerable to an authorization bypass bug which allows a malicious Argo CD user to deploy Applications outside the configured allowed namespaces. Reconciled Ap CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22736 | | 
-| 20230207T06:48:22Z | CVE-2023-24827 | syft is a a CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. A password disclosure flaw was found in Syft versions v0.69.0 and v0.69.1. This flaw leaks the password stored in the SYFT_ATTEST_PASSWORD environment variable. The `SYFT_ATTEST_PASSWORD` enviro CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24827 | | 
-| 20230207T06:48:18Z | CVE-2023-24808 | PDFio is a C library for reading and writing PDF files. In versions prior to 1.1.0 a denial of service (DOS) vulnerability exists in the pdfio parser. Crafted pdf files can cause the program to run at 100% utilization and never terminate. The pdf which causes this crash found in testing is about 28kb in size and was di CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24808 | | 
+| 20230207T23:26:11Z | CVE-2023-0728 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0728 | | 
+| 20230207T23:26:08Z | CVE-2023-0713 | The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_add_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0713 | | 
+| 20230207T23:26:03Z | CVE-2022-47419 | An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47419 | | 
+| 20230207T23:26:00Z | CVE-2022-47417 | LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or "Type II") cross-site scripting (XSS) condition in the document file name. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47417 | | 
+| 20230207T23:25:56Z | CVE-2022-47416 | LogicalDOC Enterprise is vulnerable to a stored (persistent, or "Type II") cross-site scripting (XSS) condition in the in-app chat system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47416 | | 
+| 20230207T23:25:52Z | CVE-2022-47415 | LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or "Type II") cross-site scripting (XSS) condition in the in-app messaging system (both subject and message bodies). CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47415 | | 
+| 20230207T23:25:48Z | CVE-2022-47414 | If an attacker has access to the console for OpenKM (and is authenticated), a stored XSS vulnerability is reachable in the document "note" functionality. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47414 | | 
+| 20230207T23:25:44Z | CVE-2022-47413 | Given a malicious document provided by an attacker, the OpenKM DMS is vulnerable to a stored (persistent, or "Type II") XSS condition. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47413 | | 
+| 20230207T23:25:41Z | CVE-2022-46663 | In GNU Less before 609, crafted data can result in "less -R" not filtering ANSI escape sequences sent to the terminal. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46663 | | 
+| 20230207T23:25:12Z | CVE-2020-6090 | An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6090 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230207T13:47:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10477 | 344| 
+| 20230207T23:45:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10488 | 344| 
+| 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
+| 20230207T14:34:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 208 | 1| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
 | 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
 | 20230207T03:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2150 | 605| 
 | 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
-| 20230206T10:28:14Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230206T10:16:46Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
-| 20230205T16:41:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 207 | 1| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 | 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 
@@ -77,37 +77,37 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
-| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 74| 
+| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 75| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
+| 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
+| 20230208T00:55:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ny | 1 | 0| 
+| 20230208T00:04:23Z | A basic program that exploits 3 vulnerabilities to read files and delete them. | https://github.com/Nameless9000/TavernAIPwn | 0 | 0| 
+| 20230207T23:26:03Z | An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47419 | 0 | 0| 
+| 20230207T23:25:12Z | An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-6090 | 0 | 0| 
+| 20230207T23:21:44Z | Null | https://github.com/marklindsey11/ESXiArgs-POC-EXPLOIT-CODE | 0 | 0| 
+| 20230207T16:39:26Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 0 | 0| 
 | 20230207T13:50:54Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 85 | 38| 
 | 20230207T13:49:46Z | GitOps Repository | https://github.com/hacbs-release-tests/appstudio-CqExT-exploit-check | 0 | 0| 
-| 20230207T13:34:54Z | exploit de PoC de vulnerabilitat log4j | https://github.com/jorddiprogrammer/log4j_poc | 0 | 0| 
-| 20230207T13:25:29Z | A vulnerability was found in Custom-Content-Width 1.0. It has been declared as problematic. Affected by this vulnerability is the function override_content_width/register_settings of the file custom-content-width.php. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2015-10075 | 0 | 0| 
-| 20230207T13:25:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-Tqk8x-cook-exploit | 0 | 0| 
-| 20230207T13:12:05Z | Pagina de Exploits | https://github.com/InfinityCorp214/InfinityCorp214.github.io | 0 | 0| 
-| 20230207T13:07:53Z | CVE-2022-23935 exploit PoC exiftool version 12.37 written in python | https://github.com/0xFTW/CVE-2022-23935 | 0 | 0| 
-| 20230207T12:47:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4900 | 712| 
-| 20230207T12:34:33Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2308 | 335| 
-| 20230207T11:15:27Z | Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23696 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230207T22:37:40Z | Async Rat Crypter is a Software To Make Async Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/Async-Rat-Crypter-FUD-2023-Download | 1 | 0| 
+| 20230207T22:37:39Z | MobiHok v6 is RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/MobiHok-v6-Cracked-Activated-Download-Latest-Version | 1 | 0| 
+| 20230207T22:37:38Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 1 | 0| 
+| 20230207T21:32:33Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 136 | 32| 
+| 20230207T19:41:59Z | SpyMax v4.0 Android RAT is a Software to Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only).  | https://github.com/SoftwaresForPC/SpyMax-v4.0-Cracked-Activated-Download-Latest-Version | 1 | 0| 
+| 20230207T17:44:02Z | Brata Rat Crypter is a Software to Crypts Brata Rat Server and Makes it FUD (Fully Undetectable) to ByPass Google Protect and All AntiViruses. (For Educational Puposes Only) | https://github.com/SoftwaresForPC/Brata-Rat-Crypter-FUD-2023-Download | 1 | 0| 
+| 20230207T17:16:10Z | Null | https://github.com/HengerLi/BackdoorFL | 0 | 0| 
 | 20230207T04:26:12Z | Null | https://github.com/nus1x/php-backdoor | 0 | 0| 
 | 20230206T23:59:44Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/UGBA | 0 | 0| 
 | 20230206T23:35:57Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7355 | 2082| 
-| 20230206T22:44:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 106 | 13| 
-| 20230206T22:13:15Z | A simple python reverse shell written just for fun. | https://github.com/4n4nk3/TinkererShell | 66 | 19| 
-| 20230206T20:25:13Z | Digiatal Forensics project | https://github.com/nithin22/Backdoor-Windows | 0 | 0| 
-| 20230206T17:35:39Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 136 | 32| 
-| 20230206T17:31:14Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 33 | 8| 
-| 20230206T02:24:02Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 231 | 62| 
-| 20230205T23:38:36Z | An official PyTorch implementation of %Unnoticeable Backdoor Attack on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/Unnoticeable-Backdoor-Attacks-on-Graph-Neural-Networks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T00:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1816| 
+| 20230208T00:10:27Z | Null | https://github.com/Mojtaba0091/fuzzy-guacamole | 1 | 0| 
+| 20230207T20:54:48Z | Repo containing sites created while learning HTML and CSS | https://github.com/Sudheeradh/fuzzy-octo-fiesta | 0 | 0| 
+| 20230207T18:14:33Z | Null | https://github.com/reewardius/bbFuzzing.txt | 51 | 8| 
+| 20230207T14:29:50Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 6 | 1| 
+| 20230207T13:54:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 180| 
 | 20230207T13:17:15Z | The Blitz Tutorial Lab on Fuzzing with AFL++ | https://github.com/BenH11235/libtiff-fuzzing-lab | 0 | 0| 
+| 20230207T13:02:12Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2072 | 34| 
 | 20230207T12:38:11Z | simple endpoint fuzzer in python | https://github.com/bad-alpaca/apiFuzzer | 0 | 0| 
 | 20230207T12:28:35Z | GPFUZZ: Grammar-based Performance Fuzzer | https://github.com/QAMCAS/gpfuzz | 0 | 0| 
-| 20230207T12:05:41Z | Evolutionary Grammar-Based Fuzzer to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 0 | 0| 
-| 20230207T10:32:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 710 | 96| 
-| 20230207T10:22:49Z | FUTAG (FUzzing Target Automated Generator) - автоматический генератор фаззинг-оберток для библиотек | https://github.com/ispras/Futag | 36 | 5| 
-| 20230207T10:11:54Z | Null | https://github.com/Makhnov/FUZZYTALES | 0 | 0| 
-| 20230207T09:56:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4549 | 1095| 
-| 20230207T08:53:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8333 | 1815| 
-| 20230207T06:25:32Z | DOM fuzzer | https://github.com/googleprojectzero/domato | 1497 | 286| 
 
 
 
