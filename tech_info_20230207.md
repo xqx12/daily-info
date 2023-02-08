@@ -11,6 +11,8 @@
 | 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
 | 20230207 | 讲了如何将Android手机打造成渗透测试的实验设备，并在上面安装nmap，bettercap等工具。 | https://gbhackers.com/use-android-penetration-testing/amp/| 
 | 20230207 | 蓝牙漏洞趋势预测。近几年蓝牙漏洞的数量呈上升趋势。 | http://i5c.us/d29522| 
+| 20230207 | Netgear R7000P router的upnpd server存在栈溢出漏洞，原因是sprintf的输出buffer长度没有检查。 | https://www.reddit.com/r/netsec/comments/10vy3iq/netgear_nighthawk_upnpd_preauthentication_buffer/| 
+| 20230207 | AWS Console的身份认证次数限制存在缺陷，通过多线程即可提升密码爆破速度。 | https://www.reddit.com/r/netsec/comments/10w5prw/discovering_a_weakness_leading_to_a_partial/| 
 
 
 # 安全维基 推荐

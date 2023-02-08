@@ -11,6 +11,8 @@
 | 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
 | 20230207 | 讲了如何将Android手机打造成渗透测试的实验设备，并在上面安装nmap，bettercap等工具。 | https://gbhackers.com/use-android-penetration-testing/amp/| 
 | 20230207 | 蓝牙漏洞趋势预测。近几年蓝牙漏洞的数量呈上升趋势。 | http://i5c.us/d29522| 
+| 20230207 | Netgear R7000P router的upnpd server存在栈溢出漏洞，原因是sprintf的输出buffer长度没有检查。 | https://www.reddit.com/r/netsec/comments/10vy3iq/netgear_nighthawk_upnpd_preauthentication_buffer/| 
+| 20230207 | AWS Console的身份认证次数限制存在缺陷，通过多线程即可提升密码爆破速度。 | https://www.reddit.com/r/netsec/comments/10w5prw/discovering_a_weakness_leading_to_a_partial/| 
 | 20230206 | 一种新的SROP技术，图灵完备并且可以绕过CFI。 | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_39| 
 | 20230206 | 介绍了一系列工具用来bug bountry自动化。内容比较初级。 | https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78| 
 | 20230206 | 反fuzz技术论文，防止应用程序被fuzz | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_38| 
@@ -24,8 +26,6 @@
 | 20230203 | ESET发布2022年最后一个季度APT活动总结报告 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/eset_apt_activity_report_t32022.pdf| 
 | 20230203 | WithSecure发布的关于lazarus APT活动各个阶段的分析与总结 | http://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf| 
 | 20230203 | chrome v8的WebAssembly中的UAF漏洞，可在32位的Pixel中实现RCE | https://bugs.chromium.org/p/chromium/issues/detail?id=1377816| 
-| 20230203 | 使用机器学习方法（随机森林）帮助完善IDA分析结果，例如用来识别函数段、识别switch跳转表、区分 Arm 和 Thumb 代码段，识别代码中的函数指针等 | http://research.checkpoint.com/2019/thumbs-up-using-machine-learning-to-improve-idas-analysis/| 
-| 20230203 | Linux Netfilter 本地提权漏洞 PoC 公开，CVE-2023-0179 | http://securityonline.info/researcher-publishes-poc-exploit-for-privilege-escalation-flaw-cve-2023-0179-in-linux-kernel/| 
 
 
 # 安全维基 推荐
