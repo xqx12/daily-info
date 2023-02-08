@@ -24,6 +24,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230208T13:51:16Z | CVE-2022-43764 | Insufficient validation of input parameters when changing configuration on Tbase server in B&R APROL versions < R 4.2-07 could result in buffer overflow. This may lead to Denial-of-Service conditions or execution of arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43764 | | 
+| 20230208T13:51:12Z | CVE-2022-43763 | Insufficient check of preconditions could lead to Denial of Service conditions when calling commands on the Tbase server of B&R APROL versions < R 4.2-07. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43763 | | 
+| 20230208T13:51:08Z | CVE-2022-43762 | Lack of verification in B&R APROL Tbase server versions < R 4.2-07 may lead to memory leaks when receiving messages CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43762 | | 
 | 20230208T12:29:15Z | CVE-2021-44228 | Null | https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC | | 
 | 20230208T11:37:29Z | CVE-2021-3958 | Improper Handling of Parameters vulnerability in Ipack Automation Systems Ipack SCADA Software allows : Blind SQL Injection.This issue affects Ipack SCADA Software: from unspecified before 1.1.0. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-3958 | | 
 | 20230208T11:37:25Z | CVE-2023-0744 | Improper Access Control in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0744 | | 
@@ -31,9 +34,6 @@
 | 20230208T11:37:17Z | CVE-2023-0742 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0742 | | 
 | 20230208T11:37:13Z | CVE-2023-0741 | Cross-site Scripting (XSS) - DOM in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0741 | | 
 | 20230208T11:37:08Z | CVE-2023-0740 | Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0740 | | 
-| 20230208T11:37:04Z | CVE-2022-43761 | Missing authentication when creating and managing the B&R APROL database in versions < R 4.2-07 allows reading and changing the system configuration. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43761 | | 
-| 20230208T11:37:00Z | CVE-2022-2094 | The Yellow Yard Searchbar WordPress plugin before 2.8.2 does not escape some URL parameters before outputting them back to the user, leading to Reflected Cross-Site Scripting CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-2094 | | 
-| 20230208T07:13:33Z | CVE-2023-0726 | The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_edit_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0726 | | 
 
 
 # klee on Github 推荐
