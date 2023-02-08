@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T02:37:30Z | Turns on DIGITAL pins and reads in a grid. | https://github.com/saltchicken/pin_fuzzer | 0 | 0| 
 | 20230208T02:19:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3404 | 407| 
 | 20230208T00:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8334 | 1816| 
 | 20230208T00:10:27Z | Null | https://github.com/Mojtaba0091/fuzzy-guacamole | 1 | 0| 
@@ -142,7 +143,6 @@
 | 20230207T13:54:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2641 | 180| 
 | 20230207T13:17:15Z | The Blitz Tutorial Lab on Fuzzing with AFL++ | https://github.com/BenH11235/libtiff-fuzzing-lab | 0 | 0| 
 | 20230207T13:02:12Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2072 | 34| 
-| 20230207T12:38:11Z | simple endpoint fuzzer in python | https://github.com/bad-alpaca/apiFuzzer | 0 | 0| 
 
 
 
