@@ -58,11 +58,11 @@
 | 20230208T11:25:34Z | Notes and Tips  | https://github.com/SwiftGlitxh/Exploits-How-To | 0 | 0| 
 | 20230208T10:38:43Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
 | 20230208T10:34:40Z | Tool made to search for admin tab on the site | https://github.com/guilhermeow/SynchNouys | 6 | 2| 
+| 20230208T08:46:04Z | The lecture I made for clean code and class exploitation | https://github.com/eladjmc/class-lecture | 5 | 0| 
 | 20230208T03:43:25Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 9 | 4| 
 | 20230208T02:46:20Z | Buffer overflows have been the most common sort of support risk in the previous decade. Also, buffer overflow issues are the most prevalent sort of network penetration issue, which occurs when an anonymous Web user attempts to gain control of a server in certain manner. | https://github.com/indujaabey/Exploit-an-Application-Running-On-Windows-Using-Buffer-Overflow | 0 | 0| 
 | 20230208T01:36:50Z | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | 0 | 0| 
 | 20230208T00:57:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ny | 1 | 0| 
-| 20230208T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ny | 1 | 0| 
 
 
 # backdoor on Github 推荐
