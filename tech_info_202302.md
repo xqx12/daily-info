@@ -93,8 +93,8 @@
 | 20230209T13:23:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nh | 1 | 0| 
 | 20230209T11:08:10Z | Null | https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864 | 0 | 0| 
 | 20230209T11:04:59Z | Published exploits for vulnerabilties related to Minecraft | https://github.com/OrangeMC/exploits | 0 | 0| 
+| 20230209T10:56:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4912 | 712| 
 | 20230209T03:07:33Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 75 | 38| 
-| 20230209T02:19:22Z | Identified vulnerability called CVE-2016-5195 on Linux systems and Exploited successfully as well as gained root access of that system. Technologies: C ,C++ | https://github.com/ireshchaminda1/System-Exploitation-May-2021- | 0 | 0| 
 
 
 # backdoor on Github 推荐
