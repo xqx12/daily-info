@@ -18,6 +18,9 @@
 | 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://sec.today/pulses/9d65b1f2-b454-45ea-b24f-8a98cdd013da/| 
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://sec.today/pulses/fe0ff9ec-9549-475f-b2bd-fef46c9c4d6b/| 
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | https://sec.today/pulses/5c2fad2b-9f67-4015-af72-5d88df520361/| 
+| 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://www.synacktiv.com/en/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html| 
+| 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
+| 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 
 
 # 安全维基 推荐
@@ -92,6 +95,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T11:08:47Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 0 | 0| 
 
 
 # fuzz on Github 推荐

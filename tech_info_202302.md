@@ -18,14 +18,14 @@
 | 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://sec.today/pulses/9d65b1f2-b454-45ea-b24f-8a98cdd013da/| 
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://sec.today/pulses/fe0ff9ec-9549-475f-b2bd-fef46c9c4d6b/| 
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | https://sec.today/pulses/5c2fad2b-9f67-4015-af72-5d88df520361/| 
+| 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://www.synacktiv.com/en/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html| 
+| 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
+| 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 | 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
 | 20230208 | ESXiArgs勒索病毒开始流行，利用未patch的ESXi漏洞。 | https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide| 
 | 20230208 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db| 
 | 20230208 | 基于ebpf的Linux event 监控框架Pulsar的一个简单教程，支持监控网络、进程、log、系统调用等事件。 | http://blog.exein.io/pulsar-tutorial| 
 | 20230208 | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs| 
-| 20230208 | NETGEAR NIGHTHAWK R7000P中由栈溢出导致的RCE漏洞细节。 | http://hdwsec.fr/blog/20230201-netgear/| 
-| 20230208 | 该文主要解释了 IP 数据包在 Linux 网络堆栈中的队列位置，降低延迟的新功能（例如 Byte Queue Limits BQL ）的运行方式以及如何通过控制缓冲区以降低延迟 | http://www.coverfire.com/articles/queueing-in-the-linux-network-stack/| 
-| 20230208 | 谷歌将在2月8日“宣布” （并非发布）对标 ChatGPT 的竞争产品 Bard （吟游诗人），它将由对话神经网络模型 LaMDA 提供支持 | http://cybersecuritynews.com/google-chat-gpt-rival/| 
 
 
 # 安全维基 推荐
@@ -129,8 +129,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T11:08:47Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 0 | 0| 
 | 20230208T03:11:43Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 3 | 0| 
-| 20230207T15:19:29Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 0 | 0| 
 | 20230206T00:35:54Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 33 | 2| 
 | 20230203T10:28:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 27 | 2| 
 
