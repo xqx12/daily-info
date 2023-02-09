@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230209T01:52:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2419 | 405| 
+| 20230209T12:16:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 93 | 17| 
+| 20230209T08:11:32Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 2 | 0| 
+| 20230209T04:22:15Z | Null | https://github.com/EkiXu/sshd_backdoor | 0 | 0| 
+| 20230209T01:52:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2419 | 406| 
 | 20230208T22:18:53Z | Null | https://github.com/Mothfinger/backdooraction | 0 | 0| 
 | 20230208T14:36:11Z | Training-free Lexical Backdoor Attacks on Language Models | https://github.com/Jinxhy/TFLexAttack | 0 | 0| 
 | 20230208T14:35:17Z | Null | https://github.com/Guo-lab/graphBackdoor_ssl | 0 | 0| 
 | 20230208T12:53:56Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
 | 20230208T11:10:49Z | A Minecraft client for combat and movement hacks mainly, 0 backdoors. | https://github.com/HAX-MC/XenZ-Client | 0 | 0| 
 | 20230208T10:01:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1937 | 808| 
-| 20230208T03:56:36Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 57 | 21| 
-| 20230207T22:37:40Z | Async Rat Crypter is a Software To Make Async Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/Async-Rat-Crypter-FUD-2023-Download | 1 | 0| 
-| 20230207T22:37:39Z | MobiHok v6 is RAT Software For Remote Android Device and has alot of Features (Remote cam, Remote files and live Seceen Recoing, and More Features. This RAT Software Requires NetFrameWork 3.5 and 4 and 4.5 (For Educational Purposes Only) | https://github.com/SoftwaresForPC/MobiHok-v6-Cracked-Activated-Download-Latest-Version | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
