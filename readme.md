@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T13:38:20Z | ima hackove za igra | https://github.com/Vicitoww/Exploits | 0 | 0| 
 | 20230209T13:30:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3991 | 497| 
 | 20230209T13:26:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nh | 2 | 0| 
 | 20230209T13:26:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nh | 2 | 0| 
@@ -76,7 +77,6 @@
 | 20230209T11:04:59Z | Published exploits for vulnerabilties related to Minecraft | https://github.com/OrangeMC/exploits | 0 | 0| 
 | 20230209T03:07:33Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 75 | 38| 
 | 20230209T02:19:22Z | Identified vulnerability called CVE-2016-5195 on Linux systems and Exploited successfully as well as gained root access of that system. Technologies: C ,C++ | https://github.com/ireshchaminda1/System-Exploitation-May-2021- | 0 | 0| 
-| 20230209T02:17:22Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
 
 
 # backdoor on Github 推荐
