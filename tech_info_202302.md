@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T02:23:05Z | Null | https://github.com/CGCL-codes/HistFuzz | 0 | 0| 
 | 20230209T02:16:40Z | Public repository for SeamFuzz | https://github.com/kupl/SeamFuzz-public | 0 | 0| 
 | 20230209T02:13:11Z | Null | https://github.com/CGCL-codes/HistFuzzer | 0 | 0| 
 | 20230209T02:11:54Z | Null | https://github.com/CGCL-codes/JOpFuzzer | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20230208T23:19:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 883 | 203| 
 | 20230208T22:09:06Z | Coding Interview Question | https://github.com/dutta-anirban/fuzzy-duck | 0 | 0| 
 | 20230208T22:00:07Z | Solutions for the fuzzing exercises from Antonio Morales  | https://github.com/sugar42/Fuzzing101_Solutions | 0 | 0| 
-| 20230208T21:01:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8339 | 1815| 
 
 
 
