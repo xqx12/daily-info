@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T01:38:17Z | An improved Apple Music/Spotify recommendation algorithm (TEMP NAME) | https://github.com/elijahlarios/fuzz | 0 | 0| 
 | 20230209T01:04:44Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1354 | 98| 
 | 20230209T01:04:29Z | Null | https://github.com/fatimahk1234/fuzzy-octo-barnacle | 0 | 0| 
 | 20230208T23:19:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 883 | 203| 
@@ -144,7 +145,6 @@
 | 20230208T18:34:52Z | neural network with fuzzified inverter (work in progress) | https://github.com/Ishikawa7/neural-network-with-fuzzified-inverter | 0 | 0| 
 | 20230208T13:20:21Z | Fuzzball MUCK Server | https://github.com/starafar/fuzzball | 0 | 0| 
 | 20230208T13:15:33Z | Null | https://github.com/nekrasovvitaliy/FastFuzzySearch | 0 | 0| 
-| 20230208T12:31:19Z | Null | https://github.com/the-umm/fuzzy-carnival | 0 | 0| 
 
 
 
