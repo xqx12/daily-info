@@ -59,10 +59,10 @@
 | 20230208T22:44:54Z | A collection of CVE%s that are weaponized to exploit whatever PoC it is exploiting. Such as automatically dropping beacons and shells.  | https://github.com/Oracle-Security/Weaponized-CVEs | 0 | 0| 
 | 20230208T22:44:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5251 | 734| 
 | 20230208T22:34:37Z | 🥊・Ferramenta feita para burlar o banimento de hardware do FiveM. | https://github.com/browlete/Fivem-Unban | 4 | 1| 
+| 20230208T20:36:31Z | Il2Cpp android unity game exploitation by injecting assembly in runtime proof-of-concept. | https://github.com/acessors/Il2Cpp-Exploitation-POC | 8 | 1| 
+| 20230208T19:02:52Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3312 | 491| 
 | 20230208T18:46:30Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 37| 
 | 20230208T13:46:31Z | Null | https://github.com/BaconBloxYT/Prison-Life-ExploitzHub-op | 0 | 0| 
-| 20230208T13:37:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4909 | 712| 
-| 20230208T12:32:01Z | Il2Cpp android unity game exploitation by injecting assembly in runtime proof-of-concept. | https://github.com/acessors/Il2Cpp-Exploitation-POC | 4 | 0| 
 
 
 # backdoor on Github 推荐
