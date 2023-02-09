@@ -6,6 +6,18 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230209 | NewsPenguin:针对巴基斯坦的新组织使用的植入插件分析 | https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool| 
+| 20230209 | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA| 
+| 20230209 | DiceCTF 2023 - seaside && vinaigrette offical writeup | http://priv.pub/posts/dicectf-2023| 
+| 20230209 | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges| 
+| 20230209 | bi0sCTF 2022 Offical source code && env && sol | https://github.com/teambi0s/bi0sCTF/tree/main/2022| 
+| 20230209 | CUDA Program Intro and Reverse | https://bbs.kanxue.com/thread-275989.htm| 
+| 20230209 | DiceCTF 2022 - recursive-csp && unfinished && jwtjail && chess.rs offical writeup | https://brycec.me/posts/dicectf_2023_challenges| 
+| 20230209 | DiceCTF 2023 - geminiblog && jnotes && impossible-xss offical writeup | https://blog.ankursundara.com/dicectf23-writeups/| 
+| 20230209 | 从 2023 年 3 月开始，Microsoft Edge中将原生嵌入 Acrobat PDF 组件。 | https://blogs.windows.com/msedgedev/2023/02/08/adobe-acrobat-microsoft-edge-pdf/| 
+| 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://sec.today/pulses/9d65b1f2-b454-45ea-b24f-8a98cdd013da/| 
+| 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://sec.today/pulses/fe0ff9ec-9549-475f-b2bd-fef46c9c4d6b/| 
+| 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | https://sec.today/pulses/5c2fad2b-9f67-4015-af72-5d88df520361/| 
 | 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
 | 20230208 | ESXiArgs勒索病毒开始流行，利用未patch的ESXi漏洞。 | https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide| 
 | 20230208 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db| 
@@ -14,55 +26,43 @@
 | 20230208 | NETGEAR NIGHTHAWK R7000P中由栈溢出导致的RCE漏洞细节。 | http://hdwsec.fr/blog/20230201-netgear/| 
 | 20230208 | 该文主要解释了 IP 数据包在 Linux 网络堆栈中的队列位置，降低延迟的新功能（例如 Byte Queue Limits BQL ）的运行方式以及如何通过控制缓冲区以降低延迟 | http://www.coverfire.com/articles/queueing-in-the-linux-network-stack/| 
 | 20230208 | 谷歌将在2月8日“宣布” （并非发布）对标 ChatGPT 的竞争产品 Bard （吟游诗人），它将由对话神经网络模型 LaMDA 提供支持 | http://cybersecuritynews.com/google-chat-gpt-rival/| 
-| 20230208 | 支持多种 CPU 架构的后门、shellcode 生成器 | http://securityonline.info/hackebds-backdoor-and-shellcode-generation-for-various-architecture-devices/| 
-| 20230208 | Dota2 使用旧版本的 V8 引擎导致游戏易被攻击。攻击者可以先在游廊中建立自定义地图，向自定义地图中插入恶意 JS 脚本。若玩家下载并运行了该自定义地图，则会被攻击。该漏洞已经出现在野利用，黑客会向被攻击的电脑中注入远控。 | http://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/| 
-| 20230208 | OpenSSH CVE-2023-25136的漏洞细节和POC | https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/| 
-| 20230208 | OpenSSL的多个漏洞简报 | http://mta.openssl.org/pipermail/openssl-announce/2023-February/000251.html| 
-| 20230208 | 编译器优化导致未定义行为的meme | https://www.reddit.com/r/programmerhumor/comments/10wur63| 
-| 20230207 | 讲述如何构建一个自毁的USB设备 | http://interruptlabs.ca/2023/02/06/I-Built-a-Self-Destructing-USB-Drive-Part-3/| 
-| 20230207 | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV| 
-| 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
-| 20230207 | 讲了如何将Android手机打造成渗透测试的实验设备，并在上面安装nmap，bettercap等工具。 | https://gbhackers.com/use-android-penetration-testing/amp/| 
-| 20230207 | 蓝牙漏洞趋势预测。近几年蓝牙漏洞的数量呈上升趋势。 | http://i5c.us/d29522| 
-| 20230207 | Netgear R7000P router的upnpd server存在栈溢出漏洞，原因是sprintf的输出buffer长度没有检查。 | https://www.reddit.com/r/netsec/comments/10vy3iq/netgear_nighthawk_upnpd_preauthentication_buffer/| 
-| 20230207 | AWS Console的身份认证次数限制存在缺陷，通过多线程即可提升密码爆破速度。 | https://www.reddit.com/r/netsec/comments/10w5prw/discovering_a_weakness_leading_to_a_partial/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230209 | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g| 
+| 20230209 | 如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论... | https://www.zhihu.com/question/22790506/answer/990626321| 
+| 20230209 | ChatGPT研究框架（80页PPT） | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw| 
+| 20230209 | ChatGPT概念“狂飙” | https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw| 
+| 20230209 | 换种思路做入侵检测 | https://mp.weixin.qq.com/s/7AwMJQjH8_zWUT3bWkoEzQ| 
+| 20230209 | 2022网络空间安全重大项目发展概况 | https://mp.weixin.qq.com/s/w5Go3qqC8vJnJKL4k9R0Bg| 
 | 20230206 | SecWiki周刊（第466期) | https://www.sec-wiki.com/weekly/466| 
 | 20230206 | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf| 
 | 20230206 | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ| 
 | 20230204 | 开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA| 
-| 20230204 | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA| 
-| 20230204 | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw| 
-| 20230204 | C2服务器隐藏与Linux上线 | https://xz.aliyun.com/t/12094| 
-| 20230204 | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ| 
-| 20230201 | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg| 
-| 20230201 | 2022年度APT高级威胁报告 | https://book.yunzhan365.com/tkgd/ftku/mobile/index.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230209T01:58:50Z | CVE-2023-0669 | Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0669 | | 
-| 20230209T01:58:47Z | CVE-2023-0251 | Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to a buffer overflow through improper restrictions of operations within memory, which could allow an attacker to remotely execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0251 | | 
-| 20230209T01:58:43Z | CVE-2023-0250 | Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to a stack-based buffer overflow, which could allow an attacker to remotely execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0250 | | 
-| 20230209T01:58:40Z | CVE-2023-0249 | Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to out-of-bounds write, which may allow an attacker to remotely execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0249 | | 
-| 20230209T01:46:01Z | CVE-2022-0316 | Wordpress Multiple themes - Unauthenticated Arbitrary File Upload | https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit | | 
-| 20230208T23:47:40Z | CVE-2022-40692 | Cross-Site Request Forgery (CSRF) vulnerability in WP Sunshine Sunshine Photo Cart plugin <= 2.9.13 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40692 | | 
-| 20230208T23:47:35Z | CVE-2022-44585 | Cross-Site Request Forgery (CSRF) vulnerability in Magneticlab Sàrl Homepage Pop-up plugin <= 1.2.5 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44585 | | 
-| 20230208T23:47:30Z | CVE-2023-25163 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a u CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25163 | | 
-| 20230208T23:47:27Z | CVE-2022-47648 | Bosch Security Systems B420 firmware 02.02.0001 employs IP based authorization in its authentication mechanism, allowing attackers to access the device as long as they are on the same network as a legitimate user. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47648 | | 
-| 20230208T23:47:24Z | CVE-2022-45982 | thinkphp 6.0.0~6.0.13 and 6.1.0~6.1.1 contains a deserialization vulnerability. This vulnerability allows attackers to execute arbitrary code via a crafted payload. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45982 | | 
+| 20230209T11:55:40Z | CVE-2022-43440 | Uncontrolled Search Path Element in Checkmk Agent in Tribe29 Checkmk before 2.1.0p1, before 2.0.0p25 and before 1.6.0p29 on a Checkmk server allows the site user to escalate privileges via a manipulated unixcat executable CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43440 | | 
+| 20230209T11:48:07Z | CVE-2023-25136 | Null | https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free | | 
+| 20230209T10:49:46Z | CVE-2023-25194 | Null | https://github.com/ohnonoyesyes/CVE-2023-25194 | | 
+| 20230209T08:52:20Z | CVE-2022-21587 | CVE-2022-21587 POC  | https://github.com/hieuminhnv/CVE-2022-21587-POC | | 
+| 20230209T06:32:58Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22965 | | 
+| 20230209T06:32:51Z | CVE-2022-27904 | Automox Agent for macOS before version 39 was vulnerable to a time-of-check/time-of-use (TOCTOU) race-condition attack during the agent install process. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-27904 | | 
+| 20230209T06:32:47Z | CVE-2020-27068 | Product: AndroidVersions: Android kernelAndroid ID: A-127973231References: Upstream kernel CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27068 | | 
+| 20230209T06:32:29Z | CVE-2022-29622 | An arbitrary file upload vulnerability in formidable v3.1.4 allows attackers to execute arbitrary code via a crafted filename. NOTE: some third parties dispute this issue because the product has common use cases in which uploading arbitrary files is the desired behavior. Also, there are configuration options in all ver CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29622 | | 
+| 20230209T06:31:57Z | CVE-2020-14410 | SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14410 | | 
+| 20230209T06:31:53Z | CVE-2021-33657 | There is a heap overflow problem in video/SDL_pixels.c in SDL (Simple DirectMedia Layer) 2.x to 2.0.18 versions. By crafting a malicious .BMP file, an attacker can cause the application using this library to crash, denial of service or Code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33657 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230209T01:23:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 210 | 1| 
-| 20230209T01:23:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10526 | 345| 
+| 20230209T12:55:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10537 | 345| 
+| 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
 | 20230208T10:55:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2151 | 605| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
@@ -76,6 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
+| 20230209T08:18:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 18 | 10| 
 | 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
 | 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 
@@ -83,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T11:08:10Z | Null | https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864 | 0 | 0| 
+| 20230209T11:04:59Z | Published exploits for vulnerabilties related to Minecraft | https://github.com/OrangeMC/exploits | 0 | 0| 
+| 20230209T08:01:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3992 | 497| 
+| 20230209T03:07:33Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 75 | 38| 
+| 20230209T02:50:32Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12712 | 2178| 
 | 20230209T02:19:22Z | Identified vulnerability called CVE-2016-5195 on Linux systems and Exploited successfully as well as gained root access of that system. Technologies: C ,C++ | https://github.com/ireshchaminda1/System-Exploitation-May-2021- | 0 | 0| 
 | 20230209T02:17:22Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
 | 20230209T01:58:29Z | Wings is Pterodactyl%s server control plane. This vulnerability can be used to delete files and directories recursively on the host system. This vulnerability can be combined with `GHSA-p8r3-83r8-jwj5` to overwrite files on the host system. In order to use this exploit, an attacker must have an existing %server% alloca CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25168 | 0 | 0| 
 | 20230209T01:46:01Z | Wordpress Multiple themes - Unauthenticated Arbitrary File Upload | https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit | 0 | 0| 
 | 20230209T00:22:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-iu | 1 | 0| 
-| 20230209T00:21:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
-| 20230209T00:20:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-iu | 1 | 0| 
-| 20230209T00:07:25Z | The exploit I use on the roblox game %https://www.roblox.com/games/333164326/Admin-House% | https://github.com/rodaguJDev/Admin-House-GUI | 0 | 0| 
-| 20230209T00:01:07Z | Roblox Kanye Hub Exploit Script | https://github.com/IWonderKanyeWest/Kanye-hub | 0 | 0| 
-| 20230208T23:59:08Z | Null | https://github.com/sofianehamza/Projet-exploitation-massive-des-donn-es | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T10:25:59Z | Template code for dynamic symbolic execution workshop | https://github.com/hacker-volodya/dse-workshop | 0 | 0| 
 | 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
 | 20230208T11:53:57Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 84 | 17| 
 | 20230208T10:55:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2151 | 605| 
@@ -135,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
+| 20230209T12:19:32Z | HTML Özelliklerini kullanarak hazırlanan uygulama çalışması | https://github.com/Sedakoluk/fuzzy-spoon | 0 | 0| 
+| 20230209T12:18:26Z | Fuzzscan是一款信息收集工具，支持对目标资产网段的端口扫描与web服务的探测。 | https://github.com/Avienma/Fuzzscan | 44 | 3| 
+| 20230209T11:26:01Z | Null | https://github.com/FANYbg/fuzzy-octo-giggle | 0 | 0| 
+| 20230209T11:03:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4557 | 1096| 
+| 20230209T09:10:25Z | Null | https://github.com/Harliamonti/fizz-fuzz | 0 | 0| 
+| 20230209T09:05:41Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 163 | 17| 
 | 20230209T02:23:05Z | Null | https://github.com/CGCL-codes/HistFuzz | 0 | 0| 
 | 20230209T02:16:40Z | Public repository for SeamFuzz | https://github.com/kupl/SeamFuzz-public | 0 | 0| 
 | 20230209T02:13:11Z | Null | https://github.com/CGCL-codes/HistFuzzer | 0 | 0| 
-| 20230209T02:11:54Z | Null | https://github.com/CGCL-codes/JOpFuzzer | 0 | 0| 
-| 20230209T01:38:17Z | An improved Apple Music/Spotify recommendation algorithm (TEMP NAME) | https://github.com/elijahlarios/fuzz | 0 | 0| 
-| 20230209T01:04:44Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1354 | 98| 
-| 20230209T01:04:29Z | Null | https://github.com/fatimahk1234/fuzzy-octo-barnacle | 0 | 0| 
-| 20230208T23:19:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 883 | 203| 
-| 20230208T22:09:06Z | Coding Interview Question | https://github.com/dutta-anirban/fuzzy-duck | 0 | 0| 
-| 20230208T22:00:07Z | Solutions for the fuzzing exercises from Antonio Morales  | https://github.com/sugar42/Fuzzing101_Solutions | 0 | 0| 
 
 
 
