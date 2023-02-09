@@ -16,6 +16,7 @@
 | 20230208 | 谷歌将在2月8日“宣布” （并非发布）对标 ChatGPT 的竞争产品 Bard （吟游诗人），它将由对话神经网络模型 LaMDA 提供支持 | http://cybersecuritynews.com/google-chat-gpt-rival/| 
 | 20230208 | 支持多种 CPU 架构的后门、shellcode 生成器 | http://securityonline.info/hackebds-backdoor-and-shellcode-generation-for-various-architecture-devices/| 
 | 20230208 | Dota2 使用旧版本的 V8 引擎导致游戏易被攻击。攻击者可以先在游廊中建立自定义地图，向自定义地图中插入恶意 JS 脚本。若玩家下载并运行了该自定义地图，则会被攻击。该漏洞已经出现在野利用，黑客会向被攻击的电脑中注入远控。 | http://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/| 
+| 20230208 | OpenSSH CVE-2023-25136的漏洞细节和POC | https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/| 
 
 
 # 安全维基 推荐

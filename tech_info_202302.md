@@ -16,6 +16,7 @@
 | 20230208 | 谷歌将在2月8日“宣布” （并非发布）对标 ChatGPT 的竞争产品 Bard （吟游诗人），它将由对话神经网络模型 LaMDA 提供支持 | http://cybersecuritynews.com/google-chat-gpt-rival/| 
 | 20230208 | 支持多种 CPU 架构的后门、shellcode 生成器 | http://securityonline.info/hackebds-backdoor-and-shellcode-generation-for-various-architecture-devices/| 
 | 20230208 | Dota2 使用旧版本的 V8 引擎导致游戏易被攻击。攻击者可以先在游廊中建立自定义地图，向自定义地图中插入恶意 JS 脚本。若玩家下载并运行了该自定义地图，则会被攻击。该漏洞已经出现在野利用，黑客会向被攻击的电脑中注入远控。 | http://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/| 
+| 20230208 | OpenSSH CVE-2023-25136的漏洞细节和POC | https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/| 
 | 20230207 | 讲述如何构建一个自毁的USB设备 | http://interruptlabs.ca/2023/02/06/I-Built-a-Self-Destructing-USB-Drive-Part-3/| 
 | 20230207 | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV| 
 | 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
@@ -25,7 +26,6 @@
 | 20230207 | AWS Console的身份认证次数限制存在缺陷，通过多线程即可提升密码爆破速度。 | https://www.reddit.com/r/netsec/comments/10w5prw/discovering_a_weakness_leading_to_a_partial/| 
 | 20230207 | 常见的 Docker 攻防策略，通俗易懂。 | https://infosecwriteups.com/attacking-and-securing-docker-containers-cc8c80f05b5b?gi=0db4a238f53e&source=rss----7b722bfd1b8d---4| 
 | 20230206 | 一种新的SROP技术，图灵完备并且可以绕过CFI。 | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_39| 
-| 20230206 | 介绍了一系列工具用来bug bountry自动化。内容比较初级。 | https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78| 
 
 
 # 安全维基 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T02:19:22Z | Identified vulnerability called CVE-2016-5195 on Linux systems and Exploited successfully as well as gained root access of that system. Technologies: C ,C++ | https://github.com/ireshchaminda1/System-Exploitation-May-2021- | 0 | 0| 
 | 20230209T02:17:22Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
 | 20230209T01:58:29Z | Wings is Pterodactyl%s server control plane. This vulnerability can be used to delete files and directories recursively on the host system. This vulnerability can be combined with `GHSA-p8r3-83r8-jwj5` to overwrite files on the host system. In order to use this exploit, an attacker must have an existing %server% alloca CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25168 | 0 | 0| 
 | 20230209T01:46:01Z | Wordpress Multiple themes - Unauthenticated Arbitrary File Upload | https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230209T00:07:25Z | The exploit I use on the roblox game %https://www.roblox.com/games/333164326/Admin-House% | https://github.com/rodaguJDev/Admin-House-GUI | 0 | 0| 
 | 20230209T00:01:07Z | Roblox Kanye Hub Exploit Script | https://github.com/IWonderKanyeWest/Kanye-hub | 0 | 0| 
 | 20230208T23:59:08Z | Null | https://github.com/sofianehamza/Projet-exploitation-massive-des-donn-es | 0 | 0| 
-| 20230208T23:47:12Z | Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validate CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24508 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T02:16:40Z | Public repository for SeamFuzz | https://github.com/kupl/SeamFuzz-public | 0 | 0| 
 | 20230209T02:13:11Z | Null | https://github.com/CGCL-codes/HistFuzzer | 0 | 0| 
 | 20230209T02:11:54Z | Null | https://github.com/CGCL-codes/JOpFuzzer | 0 | 0| 
 | 20230209T01:38:17Z | An improved Apple Music/Spotify recommendation algorithm (TEMP NAME) | https://github.com/elijahlarios/fuzz | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20230208T22:09:06Z | Coding Interview Question | https://github.com/dutta-anirban/fuzzy-duck | 0 | 0| 
 | 20230208T22:00:07Z | Solutions for the fuzzing exercises from Antonio Morales  | https://github.com/sugar42/Fuzzing101_Solutions | 0 | 0| 
 | 20230208T21:01:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8339 | 1815| 
-| 20230208T18:34:52Z | neural network with fuzzified inverter (work in progress) | https://github.com/Ishikawa7/neural-network-with-fuzzified-inverter | 0 | 0| 
 
 
 
