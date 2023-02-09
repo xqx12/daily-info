@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T02:17:22Z | Binary exploitation challenges | https://github.com/ywoak/Override | 0 | 0| 
 | 20230209T01:58:29Z | Wings is Pterodactyl%s server control plane. This vulnerability can be used to delete files and directories recursively on the host system. This vulnerability can be combined with `GHSA-p8r3-83r8-jwj5` to overwrite files on the host system. In order to use this exploit, an attacker must have an existing %server% alloca CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25168 | 0 | 0| 
 | 20230209T01:46:01Z | Wordpress Multiple themes - Unauthenticated Arbitrary File Upload | https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit | 0 | 0| 
 | 20230209T00:22:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-iu | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230209T00:01:07Z | Roblox Kanye Hub Exploit Script | https://github.com/IWonderKanyeWest/Kanye-hub | 0 | 0| 
 | 20230208T23:59:08Z | Null | https://github.com/sofianehamza/Projet-exploitation-massive-des-donn-es | 0 | 0| 
 | 20230208T23:47:12Z | Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validate CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24508 | 0 | 0| 
-| 20230208T23:32:37Z | A python tool to create custom fontpacks for XSLeaks exploitation | https://github.com/Pranyub/Ligature-Factory | 1 | 0| 
 
 
 # backdoor on Github 推荐
