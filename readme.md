@@ -18,6 +18,7 @@
 | 20230208 | Dota2 使用旧版本的 V8 引擎导致游戏易被攻击。攻击者可以先在游廊中建立自定义地图，向自定义地图中插入恶意 JS 脚本。若玩家下载并运行了该自定义地图，则会被攻击。该漏洞已经出现在野利用，黑客会向被攻击的电脑中注入远控。 | http://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/| 
 | 20230208 | OpenSSH CVE-2023-25136的漏洞细节和POC | https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/| 
 | 20230208 | OpenSSL的多个漏洞简报 | http://mta.openssl.org/pipermail/openssl-announce/2023-February/000251.html| 
+| 20230208 | 编译器优化导致未定义行为的meme | https://www.reddit.com/r/programmerhumor/comments/10wur63| 
 
 
 # 安全维基 推荐
