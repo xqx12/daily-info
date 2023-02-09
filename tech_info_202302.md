@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230209T01:46:01Z | CVE-2022-0316 | Wordpress Multiple themes - Unauthenticated Arbitrary File Upload | https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit | | 
 | 20230208T23:47:40Z | CVE-2022-40692 | Cross-Site Request Forgery (CSRF) vulnerability in WP Sunshine Sunshine Photo Cart plugin <= 2.9.13 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40692 | | 
 | 20230208T23:47:35Z | CVE-2022-44585 | Cross-Site Request Forgery (CSRF) vulnerability in Magneticlab Sàrl Homepage Pop-up plugin <= 1.2.5 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44585 | | 
 | 20230208T23:47:30Z | CVE-2023-25163 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a u CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25163 | | 
@@ -55,7 +56,6 @@
 | 20230208T23:47:16Z | CVE-2022-38777 | An issue was discovered in the rollback feature of Elastic Endpoint Security for Windows, which could allow unprivileged users to elevate their privileges to those of the LocalSystem account. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38777 | | 
 | 20230208T23:47:12Z | CVE-2023-24508 | Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validate CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24508 | | 
 | 20230208T23:47:08Z | CVE-2022-26872 | AMI Megarac Password reset interception via API CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26872 | | 
-| 20230208T23:07:35Z | CVE-2021-26084 | Confluence server webwork OGNL injection | https://github.com/smadi0x01/CVE-2021-26084 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
 | 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
-| 20230206T02:44:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 294 | 75| 
 
 
 # exploit on Github 推荐
