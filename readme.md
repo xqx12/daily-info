@@ -53,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230208T23:59:08Z | Null | https://github.com/sofianehamza/Projet-exploitation-massive-des-donn-es | 0 | 0| 
+| 20230208T23:47:12Z | Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validate CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24508 | 0 | 0| 
+| 20230208T23:32:37Z | A python tool to create custom fontpacks for XSLeaks exploitation | https://github.com/Pranyub/Ligature-Factory | 1 | 0| 
+| 20230208T22:44:54Z | A collection of CVE%s that are weaponized to exploit whatever PoC it is exploiting. Such as automatically dropping beacons and shells.  | https://github.com/Oracle-Security/Weaponized-CVEs | 0 | 0| 
+| 20230208T22:44:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5251 | 734| 
+| 20230208T22:34:37Z | 🥊・Ferramenta feita para burlar o banimento de hardware do FiveM. | https://github.com/browlete/Fivem-Unban | 4 | 1| 
+| 20230208T18:46:30Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 37| 
 | 20230208T13:46:31Z | Null | https://github.com/BaconBloxYT/Prison-Life-ExploitzHub-op | 0 | 0| 
 | 20230208T13:37:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4909 | 712| 
 | 20230208T12:32:01Z | Il2Cpp android unity game exploitation by injecting assembly in runtime proof-of-concept. | https://github.com/acessors/Il2Cpp-Exploitation-POC | 4 | 0| 
-| 20230208T11:25:34Z | Notes and Tips  | https://github.com/SwiftGlitxh/Exploits-How-To | 0 | 0| 
-| 20230208T10:38:43Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
-| 20230208T10:34:40Z | Tool made to search for admin tab on the site | https://github.com/guilhermeow/SynchNouys | 6 | 2| 
-| 20230208T08:46:04Z | The lecture I made for clean code and class exploitation | https://github.com/eladjmc/class-lecture | 5 | 0| 
-| 20230208T03:43:25Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 9 | 4| 
-| 20230208T02:46:20Z | Buffer overflows have been the most common sort of support risk in the previous decade. Also, buffer overflow issues are the most prevalent sort of network penetration issue, which occurs when an anonymous Web user attempts to gain control of a server in certain manner. | https://github.com/indujaabey/Exploit-an-Application-Running-On-Windows-Using-Buffer-Overflow | 0 | 0| 
-| 20230208T01:36:50Z | Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24828 | 0 | 0| 
 
 
 # backdoor on Github 推荐
