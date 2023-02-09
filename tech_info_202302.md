@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T13:09:24Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
 | 20230209T12:16:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 93 | 17| 
 | 20230209T08:11:32Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 2 | 0| 
 | 20230209T04:22:15Z | Null | https://github.com/EkiXu/sshd_backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20230208T14:35:17Z | Null | https://github.com/Guo-lab/graphBackdoor_ssl | 0 | 0| 
 | 20230208T12:53:56Z | Null | https://github.com/AnonymousFoxx/Shell-Backdoor | 0 | 0| 
 | 20230208T11:10:49Z | A Minecraft client for combat and movement hacks mainly, 0 backdoors. | https://github.com/HAX-MC/XenZ-Client | 0 | 0| 
-| 20230208T10:01:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1937 | 808| 
 
 
 # symbolic execution on Github 推荐
