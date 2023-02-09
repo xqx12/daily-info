@@ -17,6 +17,7 @@
 | 20230208 | 支持多种 CPU 架构的后门、shellcode 生成器 | http://securityonline.info/hackebds-backdoor-and-shellcode-generation-for-various-architecture-devices/| 
 | 20230208 | Dota2 使用旧版本的 V8 引擎导致游戏易被攻击。攻击者可以先在游廊中建立自定义地图，向自定义地图中插入恶意 JS 脚本。若玩家下载并运行了该自定义地图，则会被攻击。该漏洞已经出现在野利用，黑客会向被攻击的电脑中注入远控。 | http://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/| 
 | 20230208 | OpenSSH CVE-2023-25136的漏洞细节和POC | https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/| 
+| 20230208 | OpenSSL的多个漏洞简报 | http://mta.openssl.org/pipermail/openssl-announce/2023-February/000251.html| 
 | 20230207 | 讲述如何构建一个自毁的USB设备 | http://interruptlabs.ca/2023/02/06/I-Built-a-Self-Destructing-USB-Drive-Part-3/| 
 | 20230207 | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV| 
 | 20230207 | 一个很有趣的漏洞，由于golang库和cloudflare黑名单机制的共同问题，导致了cloudflare的worker可以通过构造一个由IPv4扩展而来的IPv6地址来进行SSRF。 | http://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/| 
@@ -25,7 +26,6 @@
 | 20230207 | Netgear R7000P router的upnpd server存在栈溢出漏洞，原因是sprintf的输出buffer长度没有检查。 | https://www.reddit.com/r/netsec/comments/10vy3iq/netgear_nighthawk_upnpd_preauthentication_buffer/| 
 | 20230207 | AWS Console的身份认证次数限制存在缺陷，通过多线程即可提升密码爆破速度。 | https://www.reddit.com/r/netsec/comments/10w5prw/discovering_a_weakness_leading_to_a_partial/| 
 | 20230207 | 常见的 Docker 攻防策略，通俗易懂。 | https://infosecwriteups.com/attacking-and-securing-docker-containers-cc8c80f05b5b?gi=0db4a238f53e&source=rss----7b722bfd1b8d---4| 
-| 20230206 | 一种新的SROP技术，图灵完备并且可以绕过CFI。 | http://link.springer.com/chapter/10.1007/978-3-031-25538-0_39| 
 
 
 # 安全维基 推荐
