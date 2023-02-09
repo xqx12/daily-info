@@ -110,11 +110,11 @@
 | 20230209T12:18:26Z | Fuzzscan是一款信息收集工具，支持对目标资产网段的端口扫描与web服务的探测。 | https://github.com/Avienma/Fuzzscan | 44 | 3| 
 | 20230209T11:26:01Z | Null | https://github.com/FANYbg/fuzzy-octo-giggle | 0 | 0| 
 | 20230209T11:03:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4557 | 1096| 
+| 20230209T09:12:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8344 | 1818| 
 | 20230209T09:10:25Z | Null | https://github.com/Harliamonti/fizz-fuzz | 0 | 0| 
 | 20230209T09:05:41Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 163 | 17| 
 | 20230209T02:23:05Z | Null | https://github.com/CGCL-codes/HistFuzz | 0 | 0| 
 | 20230209T02:16:40Z | Public repository for SeamFuzz | https://github.com/kupl/SeamFuzz-public | 0 | 0| 
-| 20230209T02:13:11Z | Null | https://github.com/CGCL-codes/HistFuzzer | 0 | 0| 
 
 
 
