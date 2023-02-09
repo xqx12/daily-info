@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T01:04:29Z | Null | https://github.com/fatimahk1234/fuzzy-octo-barnacle | 0 | 0| 
 | 20230208T23:19:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 883 | 203| 
 | 20230208T22:09:06Z | Coding Interview Question | https://github.com/dutta-anirban/fuzzy-duck | 0 | 0| 
 | 20230208T22:00:07Z | Solutions for the fuzzing exercises from Antonio Morales  | https://github.com/sugar42/Fuzzing101_Solutions | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20230208T13:15:33Z | Null | https://github.com/nekrasovvitaliy/FastFuzzySearch | 0 | 0| 
 | 20230208T12:31:19Z | Null | https://github.com/the-umm/fuzzy-carnival | 0 | 0| 
 | 20230208T11:58:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3396 | 680| 
-| 20230208T11:32:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 302 | 52| 
 
 
 
