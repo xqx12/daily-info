@@ -23,9 +23,9 @@
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 | 20230209 | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb| 
 | 20230209 | CVE-2023-0669 的 EXP | http://packetstormsecurity.com/files/170940| 
+| 20230209 | 对安卓端恶意程序 Godfather 的详细分析，包括运行环境检测、设备信息收集、利用呼叫转移绕过双因素认证等。 | https://muha2xmad.github.io/malware-analysis/godfather/| 
+| 20230209 | 绕过 VMProtect 最新反调试的方法 | http://cyber.wtf/2023/02/09/defeating-vmprotects-latest-tricks/| 
 | 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
-| 20230208 | ESXiArgs勒索病毒开始流行，利用未patch的ESXi漏洞。 | https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide| 
-| 20230208 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db| 
 
 
 # 安全维基 推荐
