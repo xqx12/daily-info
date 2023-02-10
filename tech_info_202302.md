@@ -22,10 +22,10 @@
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 | 20230209 | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb| 
+| 20230209 | CVE-2023-0669 的 EXP | http://packetstormsecurity.com/files/170940| 
 | 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
 | 20230208 | ESXiArgs勒索病毒开始流行，利用未patch的ESXi漏洞。 | https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide| 
 | 20230208 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db| 
-| 20230208 | 基于ebpf的Linux event 监控框架Pulsar的一个简单教程，支持监控网络、进程、log、系统调用等事件。 | http://blog.exein.io/pulsar-tutorial| 
 
 
 # 安全维基 推荐
