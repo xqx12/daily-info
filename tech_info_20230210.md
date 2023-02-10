@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T13:16:45Z | test and study | https://github.com/akihi878/fuzzy-octo-dollop | 0 | 0| 
 | 20230210T12:48:23Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/Fleischmaki/Fuzzle | 0 | 0| 
 | 20230210T12:40:30Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
 | 20230210T11:43:09Z | Null | https://github.com/Mimk2/fuzzy-carnival | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20230210T07:58:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 414 | 71| 
 | 20230210T02:51:55Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 1 | 0| 
 | 20230210T02:37:48Z | Null | https://github.com/Josh-Hin/fuzzy-waffle | 0 | 0| 
-| 20230210T01:51:13Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 
 
 
