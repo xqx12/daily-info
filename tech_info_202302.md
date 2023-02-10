@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
+| 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
+| 20230210 | 部分公开的Black Hat Asia 2023的议题题目 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
+| 20230210 | windows kernel中注册表相关的一个UAF漏洞，当内存压力过大导致内存分配失败，负责释放注册表子键对象的函数可能直接返回，从而导致内存释放失败，造成UAF | https://bugs.chromium.org/p/project-zero/issues/detail?id=2369| 
 | 20230209 | NewsPenguin:针对巴基斯坦的新组织使用的植入插件分析 | https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool| 
 | 20230209 | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA| 
 | 20230209 | DiceCTF 2023 - seaside && vinaigrette offical writeup | http://priv.pub/posts/dicectf-2023| 
@@ -22,10 +26,6 @@
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 | 20230209 | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb| 
-| 20230209 | CVE-2023-0669 的 EXP | http://packetstormsecurity.com/files/170940| 
-| 20230209 | 对安卓端恶意程序 Godfather 的详细分析，包括运行环境检测、设备信息收集、利用呼叫转移绕过双因素认证等。 | https://muha2xmad.github.io/malware-analysis/godfather/| 
-| 20230209 | 绕过 VMProtect 最新反调试的方法 | http://cyber.wtf/2023/02/09/defeating-vmprotects-latest-tricks/| 
-| 20230208 | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230210T12:10:17Z | CVE-2023-24055 | Null | https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x- | | 
 | 20230209T21:53:40Z | CVE-2023-24689 | An issue in Mojoportal v2.7.0.0 and below allows an authenticated attacker to list all css files inside the root path of the webserver via manipulation of the "s" parameter in /DesignTools/ManageSkin.aspx CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24689 | | 
 | 20230209T21:53:36Z | CVE-2023-24688 | An issue in Mojoportal v2.7.0.0 allows an unauthenticated attacker to register a new user even if the Allow User Registrations feature is disabled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24688 | | 
 | 20230209T21:53:32Z | CVE-2023-24687 | Mojoportal v2.7.0.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Company Info Settings component. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtCompanyName parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24687 | | 
@@ -55,15 +56,14 @@
 | 20230209T21:53:18Z | CVE-2023-22799 | A ReDoS based DoS vulnerability in the GlobalID <1.0.1 which could allow an attacker supplying a carefully crafted input can cause the regular expression engine to take an unexpected amount of time. All users running an affected release should either upgrade or use one of the workarounds immediately. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22799 | | 
 | 20230209T21:53:10Z | CVE-2023-22797 | An open redirect vulnerability is fixed in Rails 7.0.4.1 with the new protection against open redirects from calling redirect_to with untrusted user input. In prior versions the developer was fully responsible for only providing trusted input. However the check introduced could allow an attacker to bypass with a carefu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22797 | | 
 | 20230209T21:53:06Z | CVE-2023-22796 | A regular expression based DoS vulnerability in Active Support <6.1.7.1 and <7.0.4.1. A specially crafted string passed to the underscore method can cause the regular expression engine to enter a state of catastrophic backtracking. This can cause the process to use large amounts of CPU and memory, leading to a possible CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22796 | | 
-| 20230209T21:53:03Z | CVE-2023-22795 | A regular expression based DoS vulnerability in Action Dispatch <6.1.7.1 and <7.0.4.1 related to the If-None-Match header. A specially crafted HTTP If-None-Match header can cause the regular expression engine to enter a state of catastrophic backtracking, when on a version of Ruby below 3.2.0. This can cause the proces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22795 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230209T18:28:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10540 | 346| 
+| 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 605| 
+| 20230210T11:15:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10548 | 346| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
-| 20230208T10:55:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2151 | 605| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T12:46:35Z | Null | https://github.com/unCodeBoss/Apache-Tomcat-Exploiter-2023 | 0 | 0| 
+| 20230210T12:39:35Z | BitMax Is vsro188 files Anti exploit with such amazing features | https://github.com/SubZero0001/BitMax | 2 | 0| 
+| 20230210T12:32:53Z | ExploitsToUseList - well the name says it lol | https://github.com/Yxild/ExploitsToUseList | 0 | 0| 
+| 20230210T10:50:38Z | BirdyXploit is a WRD based no-key open source Roblox exploit app. | https://github.com/HAKANKOKCU/BirdyXploit | 1 | 0| 
+| 20230210T08:39:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12721 | 2176| 
+| 20230210T08:20:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4914 | 713| 
+| 20230210T08:10:56Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 14| 
 | 20230210T02:18:21Z | A collection of PowerShell modules for interacting with the Shodan API. Includes modules for returning information about the API, client IP, DNS, exploits, honeypot scores, hosts, ports, profiles, and scans. Shodan API key required. Query and scan credits used.  | https://github.com/simeononsecurity/Shodan_PS | 13 | 4| 
 | 20230210T02:06:59Z | CCTV Camera scanner using the GoAhead webserver exploit | https://github.com/mitchwolfe1/CCTV-GoAhead-Exploit | 11 | 10| 
 | 20230210T02:00:45Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
-| 20230210T01:43:04Z | Identify and exploit leaked handles for local privilege escalation. | https://github.com/0x00Check/ExploitLeakedHandle | 0 | 2| 
-| 20230210T00:23:47Z | Customize powershell-empire to exploit kubernetes | https://github.com/BuildAndDestroy/powershell-empire-custom | 1 | 0| 
-| 20230210T00:21:04Z | The old et exploits (Deleted) were saved by me, so I published them again. (Link to the slideshow with the codes on The readme) | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
-| 20230210T00:06:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20230210T00:05:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20230210T00:03:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20230209T22:17:09Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 206 | 149| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T12:04:29Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 7 | 0| 
+| 20230210T09:58:19Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 95 | 17| 
+| 20230210T07:54:18Z | python backdoor | https://github.com/decoh/Backdoor | 0 | 0| 
 | 20230210T01:30:07Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 1| 
 | 20230209T22:29:40Z | Código em python que consegue acesso a um serviço ftp na versão vsfptd 2.3.4 | https://github.com/sergiocripton/Backdoor-vsftpd-2.3.4 | 0 | 0| 
 | 20230209T20:44:44Z | Training-free Lexical Backdoor Attacks on Language Models | https://github.com/Jinxhy/TFLexAttack | 1 | 0| 
-| 20230209T20:00:32Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 5 | 0| 
 | 20230209T16:07:43Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230209T13:09:24Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
-| 20230209T12:16:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 93 | 17| 
 | 20230209T08:11:32Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 2 | 0| 
 | 20230209T04:22:15Z | Null | https://github.com/EkiXu/sshd_backdoor | 0 | 0| 
-| 20230209T01:52:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2419 | 406| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T12:48:23Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/Fleischmaki/Fuzzle | 0 | 0| 
+| 20230210T12:40:30Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
+| 20230210T11:43:09Z | Null | https://github.com/Mimk2/fuzzy-carnival | 0 | 0| 
+| 20230210T10:53:16Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1355 | 98| 
+| 20230210T09:04:05Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 241 | 36| 
+| 20230210T08:55:52Z | Fuzzy search prototyp for Consolidated EU Financial Sanctions List | https://github.com/j0si/fuzzy_sanctions | 2 | 1| 
+| 20230210T07:58:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 414 | 71| 
 | 20230210T02:51:55Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 1 | 0| 
 | 20230210T02:37:48Z | Null | https://github.com/Josh-Hin/fuzzy-waffle | 0 | 0| 
 | 20230210T01:51:13Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
-| 20230210T01:49:53Z | Fuzz.ly client library for Python3 | https://github.com/kheina-com/fuzzly | 0 | 0| 
-| 20230210T01:43:58Z | Null | https://github.com/Talipisk/Fuzzy-tribble-a | 0 | 0| 
-| 20230210T00:26:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3404 | 685| 
-| 20230209T23:36:43Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 65 | 27| 
-| 20230209T22:51:39Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
-| 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
-| 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
 
 
 
