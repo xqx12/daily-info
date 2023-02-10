@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T01:35:39Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 | 20230210T01:20:32Z | Fuzz.ly client library for Python3 | https://github.com/kheina-com/fuzzly | 0 | 0| 
 | 20230210T00:26:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3404 | 685| 
 | 20230209T23:36:43Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 65 | 27| 
@@ -149,7 +150,6 @@
 | 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
 | 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
 | 20230209T12:19:32Z | HTML Özelliklerini kullanarak hazırlanan uygulama çalışması | https://github.com/Sedakoluk/fuzzy-spoon | 0 | 0| 
-| 20230209T12:18:26Z | Fuzzscan是一款信息收集工具，支持对目标资产网段的端口扫描与web服务的探测。 | https://github.com/Avienma/Fuzzscan | 44 | 3| 
 
 
 
