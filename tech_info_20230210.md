@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T13:03:09Z | Null | https://github.com/kfernandez31/BSK-3-Binary-Exploitation | 0 | 0| 
 | 20230210T12:46:35Z | Null | https://github.com/unCodeBoss/Apache-Tomcat-Exploiter-2023 | 0 | 0| 
 | 20230210T12:39:35Z | BitMax Is vsro188 files Anti exploit with such amazing features | https://github.com/SubZero0001/BitMax | 2 | 0| 
 | 20230210T12:32:53Z | ExploitsToUseList - well the name says it lol | https://github.com/Yxild/ExploitsToUseList | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230210T08:10:56Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 14| 
 | 20230210T02:18:21Z | A collection of PowerShell modules for interacting with the Shodan API. Includes modules for returning information about the API, client IP, DNS, exploits, honeypot scores, hosts, ports, profiles, and scans. Shodan API key required. Query and scan credits used.  | https://github.com/simeononsecurity/Shodan_PS | 13 | 4| 
 | 20230210T02:06:59Z | CCTV Camera scanner using the GoAhead webserver exploit | https://github.com/mitchwolfe1/CCTV-GoAhead-Exploit | 11 | 10| 
-| 20230210T02:00:45Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 
 
 # backdoor on Github 推荐
