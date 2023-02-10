@@ -21,6 +21,7 @@
 | 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://www.synacktiv.com/en/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html| 
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
+| 20230209 | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb| 
 
 
 # 安全维基 推荐
@@ -37,28 +38,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230209T11:55:40Z | CVE-2022-43440 | Uncontrolled Search Path Element in Checkmk Agent in Tribe29 Checkmk before 2.1.0p1, before 2.0.0p25 and before 1.6.0p29 on a Checkmk server allows the site user to escalate privileges via a manipulated unixcat executable CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43440 | | 
-| 20230209T11:48:07Z | CVE-2023-25136 | Null | https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free | | 
-| 20230209T10:49:46Z | CVE-2023-25194 | Null | https://github.com/ohnonoyesyes/CVE-2023-25194 | | 
-| 20230209T08:52:20Z | CVE-2022-21587 | CVE-2022-21587 POC  | https://github.com/hieuminhnv/CVE-2022-21587-POC | | 
-| 20230209T06:32:58Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to th CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-22965 | | 
-| 20230209T06:32:51Z | CVE-2022-27904 | Automox Agent for macOS before version 39 was vulnerable to a time-of-check/time-of-use (TOCTOU) race-condition attack during the agent install process. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-27904 | | 
-| 20230209T06:32:47Z | CVE-2020-27068 | Product: AndroidVersions: Android kernelAndroid ID: A-127973231References: Upstream kernel CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-27068 | | 
-| 20230209T06:32:29Z | CVE-2022-29622 | An arbitrary file upload vulnerability in formidable v3.1.4 allows attackers to execute arbitrary code via a crafted filename. NOTE: some third parties dispute this issue because the product has common use cases in which uploading arbitrary files is the desired behavior. Also, there are configuration options in all ver CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29622 | | 
-| 20230209T06:31:57Z | CVE-2020-14410 | SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-14410 | | 
-| 20230209T06:31:53Z | CVE-2021-33657 | There is a heap overflow problem in video/SDL_pixels.c in SDL (Simple DirectMedia Layer) 2.x to 2.0.18 versions. By crafting a malicious .BMP file, an attacker can cause the application using this library to crash, denial of service or Code execution. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-33657 | | 
+| 20230209T21:53:40Z | CVE-2023-24689 | An issue in Mojoportal v2.7.0.0 and below allows an authenticated attacker to list all css files inside the root path of the webserver via manipulation of the "s" parameter in /DesignTools/ManageSkin.aspx CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24689 | | 
+| 20230209T21:53:36Z | CVE-2023-24688 | An issue in Mojoportal v2.7.0.0 allows an unauthenticated attacker to register a new user even if the Allow User Registrations feature is disabled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24688 | | 
+| 20230209T21:53:32Z | CVE-2023-24687 | Mojoportal v2.7.0.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Company Info Settings component. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtCompanyName parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24687 | | 
+| 20230209T21:53:28Z | CVE-2023-24323 | Mojoportal v2.7 was discovered to contain an authenticated XML external entity (XXE) injection vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24323 | | 
+| 20230209T21:53:25Z | CVE-2023-24322 | A reflected cross-site scripting (XSS) vulnerability in the FileDialog.aspx component of mojoPortal v2.7.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the ed and tbi parameters. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24322 | | 
+| 20230209T21:53:22Z | CVE-2023-23912 | A vulnerability, found in EdgeRouters Version 2.0.9-hotfix.5 and earlier and UniFi Security Gateways (USG) Version 4.4.56 and earlier with their DHCPv6 prefix delegation set to dhcpv6-stateless or dhcpv6-stateful, allows a malicious actor directly connected to the WAN interface of an affected device to create a remote  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23912 | | 
+| 20230209T21:53:18Z | CVE-2023-22799 | A ReDoS based DoS vulnerability in the GlobalID <1.0.1 which could allow an attacker supplying a carefully crafted input can cause the regular expression engine to take an unexpected amount of time. All users running an affected release should either upgrade or use one of the workarounds immediately. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22799 | | 
+| 20230209T21:53:10Z | CVE-2023-22797 | An open redirect vulnerability is fixed in Rails 7.0.4.1 with the new protection against open redirects from calling redirect_to with untrusted user input. In prior versions the developer was fully responsible for only providing trusted input. However the check introduced could allow an attacker to bypass with a carefu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22797 | | 
+| 20230209T21:53:06Z | CVE-2023-22796 | A regular expression based DoS vulnerability in Active Support <6.1.7.1 and <7.0.4.1. A specially crafted string passed to the underscore method can cause the regular expression engine to enter a state of catastrophic backtracking. This can cause the process to use large amounts of CPU and memory, leading to a possible CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22796 | | 
+| 20230209T21:53:03Z | CVE-2023-22795 | A regular expression based DoS vulnerability in Action Dispatch <6.1.7.1 and <7.0.4.1 related to the If-None-Match header. A specially crafted HTTP If-None-Match header can cause the regular expression engine to enter a state of catastrophic backtracking, when on a version of Ruby below 3.2.0. This can cause the proces CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22795 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230209T12:55:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10537 | 345| 
+| 20230209T18:28:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10540 | 346| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
 | 20230209T08:18:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 18 | 10| 
 | 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
@@ -67,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T22:17:09Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 206 | 149| 
+| 20230209T21:55:16Z | SYNgularity1 - Exploits and PoC Code for CVEs, Vulnerabilities, etc.  | https://github.com/SYNgularity1/exploits | 0 | 0| 
 | 20230209T13:38:20Z | ima hackove za igra | https://github.com/Vicitoww/Exploits | 0 | 0| 
 | 20230209T13:30:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3991 | 497| 
 | 20230209T13:26:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nh | 2 | 0| 
@@ -75,13 +79,15 @@
 | 20230209T13:23:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nh | 1 | 0| 
 | 20230209T11:08:10Z | Null | https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864 | 0 | 0| 
 | 20230209T11:04:59Z | Published exploits for vulnerabilties related to Minecraft | https://github.com/OrangeMC/exploits | 0 | 0| 
-| 20230209T10:56:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4912 | 712| 
-| 20230209T03:07:33Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 75 | 38| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T22:29:40Z | Código em python que consegue acesso a um serviço ftp na versão vsfptd 2.3.4 | https://github.com/sergiocripton/Backdoor-vsftpd-2.3.4 | 0 | 0| 
+| 20230209T20:44:44Z | Training-free Lexical Backdoor Attacks on Language Models | https://github.com/Jinxhy/TFLexAttack | 1 | 0| 
+| 20230209T20:00:32Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 5 | 0| 
+| 20230209T16:07:43Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230209T13:09:24Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
 | 20230209T12:16:41Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 93 | 17| 
 | 20230209T08:11:32Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 2 | 0| 
@@ -105,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230209T23:36:43Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 65 | 27| 
+| 20230209T22:51:39Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
+| 20230209T22:37:57Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 0 | 0| 
+| 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
+| 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
 | 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
 | 20230209T12:19:32Z | HTML Özelliklerini kullanarak hazırlanan uygulama çalışması | https://github.com/Sedakoluk/fuzzy-spoon | 0 | 0| 
 | 20230209T12:18:26Z | Fuzzscan是一款信息收集工具，支持对目标资产网段的端口扫描与web服务的探测。 | https://github.com/Avienma/Fuzzscan | 44 | 3| 
 | 20230209T11:26:01Z | Null | https://github.com/FANYbg/fuzzy-octo-giggle | 0 | 0| 
 | 20230209T11:03:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4557 | 1096| 
-| 20230209T09:12:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8344 | 1818| 
-| 20230209T09:10:25Z | Null | https://github.com/Harliamonti/fizz-fuzz | 0 | 0| 
-| 20230209T09:05:41Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 163 | 17| 
-| 20230209T02:23:05Z | Null | https://github.com/CGCL-codes/HistFuzz | 0 | 0| 
-| 20230209T02:16:40Z | Public repository for SeamFuzz | https://github.com/kupl/SeamFuzz-public | 0 | 0| 
 
 
 
