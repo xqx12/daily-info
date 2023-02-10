@@ -88,7 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230210T02:06:59Z | CCTV Camera scanner using the GoAhead webserver exploit | https://github.com/mitchwolfe1/CCTV-GoAhead-Exploit | 11 | 10| 
 | 20230210T02:00:45Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
-| 20230210T01:43:04Z | Identify and exploit leaked handles for local privilege escalation. | https://github.com/0x00Check/ExploitLeakedHandle | 0 | 0| 
+| 20230210T01:43:04Z | Identify and exploit leaked handles for local privilege escalation. | https://github.com/0x00Check/ExploitLeakedHandle | 0 | 1| 
 | 20230210T00:23:47Z | Customize powershell-empire to exploit kubernetes | https://github.com/BuildAndDestroy/powershell-empire-custom | 1 | 0| 
 | 20230210T00:21:04Z | The old et exploits (Deleted) were saved by me, so I published them again. (Link to the slideshow with the codes on The readme) | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
 | 20230210T00:06:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
