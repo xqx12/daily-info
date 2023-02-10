@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T01:43:04Z | Identify and exploit leaked handles for local privilege escalation. | https://github.com/0x00Check/ExploitLeakedHandle | 0 | 0| 
 | 20230210T00:23:47Z | Customize powershell-empire to exploit kubernetes | https://github.com/BuildAndDestroy/powershell-empire-custom | 1 | 0| 
 | 20230210T00:21:04Z | The old et exploits (Deleted) were saved by me, so I published them again. (Link to the slideshow with the codes on The readme) | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
 | 20230210T00:06:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230209T21:55:16Z | SYNgularity1 - Exploits and PoC Code for CVEs, Vulnerabilities, etc.  | https://github.com/SYNgularity1/exploits | 0 | 0| 
 | 20230209T13:38:20Z | ima hackove za igra | https://github.com/Vicitoww/Exploits | 0 | 0| 
 | 20230209T13:30:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3991 | 497| 
-| 20230209T13:26:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nh | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T01:43:58Z | Null | https://github.com/Talipisk/Fuzzy-tribble-a | 0 | 0| 
 | 20230210T01:35:39Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 | 20230210T01:20:32Z | Fuzz.ly client library for Python3 | https://github.com/kheina-com/fuzzly | 0 | 0| 
 | 20230210T00:26:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3404 | 685| 
@@ -149,7 +150,6 @@
 | 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
 | 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
 | 20230209T16:35:25Z | Fuzzing Automatic Differentiation in Deep-Learning Libraries (ICSE%23) | https://github.com/ise-uiuc/NablaFuzz | 3 | 0| 
-| 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
 
 
 
