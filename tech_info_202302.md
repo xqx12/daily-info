@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230210T13:16:42Z | CVE-2022-47986 | Null | https://github.com/dhina016/CVE-2022-47986 | | 
 | 20230210T12:10:17Z | CVE-2023-24055 | Null | https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x- | | 
 | 20230209T21:53:40Z | CVE-2023-24689 | An issue in Mojoportal v2.7.0.0 and below allows an authenticated attacker to list all css files inside the root path of the webserver via manipulation of the "s" parameter in /DesignTools/ManageSkin.aspx CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24689 | | 
 | 20230209T21:53:36Z | CVE-2023-24688 | An issue in Mojoportal v2.7.0.0 allows an unauthenticated attacker to register a new user even if the Allow User Registrations feature is disabled. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24688 | | 
@@ -55,7 +56,6 @@
 | 20230209T21:53:22Z | CVE-2023-23912 | A vulnerability, found in EdgeRouters Version 2.0.9-hotfix.5 and earlier and UniFi Security Gateways (USG) Version 4.4.56 and earlier with their DHCPv6 prefix delegation set to dhcpv6-stateless or dhcpv6-stateful, allows a malicious actor directly connected to the WAN interface of an affected device to create a remote  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23912 | | 
 | 20230209T21:53:18Z | CVE-2023-22799 | A ReDoS based DoS vulnerability in the GlobalID <1.0.1 which could allow an attacker supplying a carefully crafted input can cause the regular expression engine to take an unexpected amount of time. All users running an affected release should either upgrade or use one of the workarounds immediately. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22799 | | 
 | 20230209T21:53:10Z | CVE-2023-22797 | An open redirect vulnerability is fixed in Rails 7.0.4.1 with the new protection against open redirects from calling redirect_to with untrusted user input. In prior versions the developer was fully responsible for only providing trusted input. However the check introduced could allow an attacker to bypass with a carefu CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22797 | | 
-| 20230209T21:53:06Z | CVE-2023-22796 | A regular expression based DoS vulnerability in Active Support <6.1.7.1 and <7.0.4.1. A specially crafted string passed to the underscore method can cause the regular expression engine to enter a state of catastrophic backtracking. This can cause the process to use large amounts of CPU and memory, leading to a possible CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22796 | | 
 
 
 # klee on Github 推荐

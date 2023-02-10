@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230210T13:16:42Z | CVE-2022-47986 | Null | https://github.com/dhina016/CVE-2022-47986 | | 
 | 20230210T12:10:17Z | CVE-2023-24055 | Null | https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x- | | 
 
 
