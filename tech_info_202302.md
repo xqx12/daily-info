@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T02:18:21Z | A collection of PowerShell modules for interacting with the Shodan API. Includes modules for returning information about the API, client IP, DNS, exploits, honeypot scores, hosts, ports, profiles, and scans. Shodan API key required. Query and scan credits used.  | https://github.com/simeononsecurity/Shodan_PS | 13 | 4| 
 | 20230210T02:06:59Z | CCTV Camera scanner using the GoAhead webserver exploit | https://github.com/mitchwolfe1/CCTV-GoAhead-Exploit | 11 | 10| 
 | 20230210T02:00:45Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 | 20230210T01:43:04Z | Identify and exploit leaked handles for local privilege escalation. | https://github.com/0x00Check/ExploitLeakedHandle | 0 | 1| 
@@ -95,7 +96,6 @@
 | 20230210T00:05:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20230210T00:03:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20230209T22:17:09Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 206 | 149| 
-| 20230209T21:55:16Z | SYNgularity1 - Exploits and PoC Code for CVEs, Vulnerabilities, etc.  | https://github.com/SYNgularity1/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
