@@ -140,9 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T01:51:13Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 | 20230210T01:49:53Z | Fuzz.ly client library for Python3 | https://github.com/kheina-com/fuzzly | 0 | 0| 
 | 20230210T01:43:58Z | Null | https://github.com/Talipisk/Fuzzy-tribble-a | 0 | 0| 
-| 20230210T01:35:39Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 | 20230210T00:26:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3404 | 685| 
 | 20230209T23:36:43Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 65 | 27| 
 | 20230209T22:51:39Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
