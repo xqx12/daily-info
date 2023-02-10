@@ -120,10 +120,10 @@
 | 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
 | 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
 | 20230209T16:35:25Z | Fuzzing Automatic Differentiation in Deep-Learning Libraries (ICSE%23) | https://github.com/ise-uiuc/NablaFuzz | 3 | 0| 
+| 20230209T15:36:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3406 | 407| 
 | 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
 | 20230209T12:19:32Z | HTML Özelliklerini kullanarak hazırlanan uygulama çalışması | https://github.com/Sedakoluk/fuzzy-spoon | 0 | 0| 
 | 20230209T12:18:26Z | Fuzzscan是一款信息收集工具，支持对目标资产网段的端口扫描与web服务的探测。 | https://github.com/Avienma/Fuzzscan | 44 | 3| 
-| 20230209T11:26:01Z | Null | https://github.com/FANYbg/fuzzy-octo-giggle | 0 | 0| 
 
 
 
