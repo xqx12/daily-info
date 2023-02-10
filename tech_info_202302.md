@@ -148,8 +148,8 @@
 | 20230209T22:37:57Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 0 | 0| 
 | 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
 | 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
+| 20230209T16:35:25Z | Fuzzing Automatic Differentiation in Deep-Learning Libraries (ICSE%23) | https://github.com/ise-uiuc/NablaFuzz | 3 | 0| 
 | 20230209T12:21:15Z | GattFuzz | https://github.com/0xXxyu/GattFuzz | 3 | 0| 
-| 20230209T12:19:32Z | HTML Özelliklerini kullanarak hazırlanan uygulama çalışması | https://github.com/Sedakoluk/fuzzy-spoon | 0 | 0| 
 
 
 
