@@ -71,6 +71,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230209T22:17:09Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 206 | 149| 
 | 20230209T21:55:16Z | SYNgularity1 - Exploits and PoC Code for CVEs, Vulnerabilities, etc.  | https://github.com/SYNgularity1/exploits | 0 | 0| 
+| 20230209T18:23:37Z | A basic Python program to check Cybersecurity & Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities (KEV) Catalog  | https://github.com/santosomar/kev_checker | 2 | 0| 
 | 20230209T13:38:20Z | ima hackove za igra | https://github.com/Vicitoww/Exploits | 0 | 0| 
 | 20230209T13:30:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3991 | 497| 
 | 20230209T13:26:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nh | 2 | 0| 
@@ -78,7 +79,6 @@
 | 20230209T13:23:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12713 | 2178| 
 | 20230209T13:23:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nh | 1 | 0| 
 | 20230209T11:08:10Z | Null | https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864 | 0 | 0| 
-| 20230209T11:04:59Z | Published exploits for vulnerabilties related to Minecraft | https://github.com/OrangeMC/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
