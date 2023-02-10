@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T13:44:44Z | Source code for our paper %The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs | 7 | 1| 
 | 20230210T13:26:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-gfbn-fkb6o-exploit-wan | 0 | 0| 
 | 20230210T13:03:09Z | Null | https://github.com/kfernandez31/BSK-3-Binary-Exploitation | 0 | 0| 
 | 20230210T12:46:35Z | Null | https://github.com/unCodeBoss/Apache-Tomcat-Exploiter-2023 | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20230210T08:39:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12721 | 2176| 
 | 20230210T08:20:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4914 | 713| 
 | 20230210T08:10:56Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 14| 
-| 20230210T02:18:21Z | A collection of PowerShell modules for interacting with the Shodan API. Includes modules for returning information about the API, client IP, DNS, exploits, honeypot scores, hosts, ports, profiles, and scans. Shodan API key required. Query and scan credits used.  | https://github.com/simeononsecurity/Shodan_PS | 13 | 4| 
 
 
 # backdoor on Github 推荐
