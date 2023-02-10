@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T02:37:48Z | Null | https://github.com/Josh-Hin/fuzzy-waffle | 0 | 0| 
 | 20230210T01:51:13Z | Null | https://github.com/Josh-Hin/fuzzy-waffle.github.io | 0 | 0| 
 | 20230210T01:49:53Z | Fuzz.ly client library for Python3 | https://github.com/kheina-com/fuzzly | 0 | 0| 
 | 20230210T01:43:58Z | Null | https://github.com/Talipisk/Fuzzy-tribble-a | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20230209T22:37:57Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 0 | 0| 
 | 20230209T21:35:39Z | assignment-00-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-00-Fuzzyspuffyy | 0 | 0| 
 | 20230209T18:54:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8346 | 1818| 
-| 20230209T16:35:25Z | Fuzzing Automatic Differentiation in Deep-Learning Libraries (ICSE%23) | https://github.com/ise-uiuc/NablaFuzz | 3 | 0| 
 
 
 
