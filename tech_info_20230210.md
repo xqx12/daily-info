@@ -52,11 +52,11 @@
 | 20230210T22:54:02Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 1| 
 | 20230210T22:48:11Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 613 | 68| 
 | 20230210T21:51:37Z | Null | https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es | 0 | 0| 
+| 20230210T21:48:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4915 | 713| 
 | 20230210T21:12:22Z | Null | https://github.com/TyphanieD/Exploitation-donnees-massives | 0 | 0| 
 | 20230210T21:12:14Z | Null | https://github.com/ianis17/exploitation_donnees_massives | 0 | 0| 
 | 20230210T21:11:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 35 | 37| 
 | 20230210T19:57:15Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 104 | 2| 
-| 20230210T13:44:44Z | Source code for our paper %The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs | 7 | 1| 
 
 
 # backdoor on Github 推荐
