@@ -20,14 +20,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230210T13:16:42Z | CVE-2022-47986 | Null | https://github.com/dhina016/CVE-2022-47986 | | 
-| 20230210T12:10:17Z | CVE-2023-24055 | Null | https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x- | | 
+| 20230210T21:01:46Z | CVE-2022-23935 | 🐍 Python Exploit for CVE-2022-23935 | https://github.com/BKreisel/CVE-2022-23935 | | 
+| 20230210T19:49:38Z | CVE-2022-46650 | Acemanager in ALEOS before version 4.16 allows a user with valid credentials to reconfigure the device to expose the ACEManager credentials on the pre-login status page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46650 | | 
+| 20230210T19:49:35Z | CVE-2022-46649 | Acemanager in ALEOS before version 4.16 allows a user with valid credentials to manipulate the IP logging operation to execute arbitrary shell commands on the device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46649 | | 
+| 20230210T19:49:31Z | CVE-2022-26174 | A remote code execution (RCE) vulnerability in Beekeeper Studio v3.2.0 allows attackers to execute arbitrary code via a crafted payload injected into the display fields. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-26174 | | 
+| 20230210T17:37:08Z | CVE-2023-24613 | The user interface of Array Networks AG Series and vxAG through 9.4.0.470 could allow a remote attacker to use the gdb tool to overwrite the backend function call stack after accessing the system with administrator privileges. A successful exploit could leverage this vulnerability in the backend binary file that handle CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24613 | | 
+| 20230210T17:37:04Z | CVE-2023-24234 | A stored cross-site scripting (XSS) vulnerability in the component php-inventory-management-system/brand.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Brand Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24234 | | 
+| 20230210T17:37:01Z | CVE-2023-24233 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/orders.php?o=add of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Client Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24233 | | 
+| 20230210T17:36:57Z | CVE-2023-24232 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/product.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Product Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24232 | | 
+| 20230210T17:36:54Z | CVE-2023-24231 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/categories.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Categories Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24231 | | 
+| 20230210T17:36:50Z | CVE-2023-24230 | A stored cross-site scripting (XSS) vulnerability in the component /formwork/panel/dashboard of Formwork v1.12.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Page title parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24230 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230210T13:35:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10549 | 346| 
+| 20230210T23:26:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10553 | 346| 
 | 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 605| 
 
 
@@ -39,21 +47,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T23:41:49Z | The old et exploits (Deleted) were saved by me, so I published them again. (Link to the slideshow with the codes on The readme) | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
+| 20230210T23:16:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 574 | 153| 
+| 20230210T22:54:02Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 1| 
+| 20230210T22:48:11Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 613 | 68| 
+| 20230210T21:51:37Z | Null | https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es | 0 | 0| 
+| 20230210T21:12:22Z | Null | https://github.com/TyphanieD/Exploitation-donnees-massives | 0 | 0| 
+| 20230210T21:12:14Z | Null | https://github.com/ianis17/exploitation_donnees_massives | 0 | 0| 
+| 20230210T21:11:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 35 | 37| 
 | 20230210T13:44:44Z | Source code for our paper %The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs | 7 | 1| 
 | 20230210T13:26:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-gfbn-fkb6o-exploit-wan | 0 | 0| 
-| 20230210T13:03:09Z | Null | https://github.com/kfernandez31/BSK-3-Binary-Exploitation | 0 | 0| 
-| 20230210T12:46:35Z | Null | https://github.com/unCodeBoss/Apache-Tomcat-Exploiter-2023 | 0 | 0| 
-| 20230210T12:39:35Z | BitMax Is vsro188 files Anti exploit with such amazing features | https://github.com/SubZero0001/BitMax | 2 | 0| 
-| 20230210T12:32:53Z | ExploitsToUseList - well the name says it lol | https://github.com/Yxild/ExploitsToUseList | 0 | 0| 
-| 20230210T10:50:38Z | BirdyXploit is a WRD based no-key open source Roblox exploit app. | https://github.com/HAKANKOKCU/BirdyXploit | 1 | 0| 
-| 20230210T08:39:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12721 | 2176| 
-| 20230210T08:20:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4914 | 713| 
-| 20230210T08:10:56Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 53 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T17:42:46Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 0 | 0| 
 | 20230210T12:04:29Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 7 | 0| 
 | 20230210T09:58:19Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 95 | 17| 
 | 20230210T07:54:18Z | python backdoor | https://github.com/decoh/Backdoor | 0 | 0| 
@@ -75,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230210T23:56:56Z | A web fuzzer written in Rust | https://github.com/p3nal/fuzzrs | 0 | 0| 
+| 20230210T23:22:12Z | asda | https://github.com/lyb1234567/fuzzer | 0 | 0| 
+| 20230210T23:03:55Z | Work In Progress AST Based Fuzzer for CRuby | https://github.com/fresh-eggs/sakura | 0 | 0| 
+| 20230210T18:38:26Z | Null | https://github.com/reewardius/bbFuzzing.txt | 57 | 8| 
+| 20230210T16:31:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
 | 20230210T13:27:04Z | Null | https://github.com/the-umm/fuzzy-carnival2 | 0 | 0| 
 | 20230210T13:16:45Z | test and study | https://github.com/akihi878/fuzzy-octo-dollop | 0 | 0| 
 | 20230210T12:48:23Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/Fleischmaki/Fuzzle | 0 | 0| 
 | 20230210T12:40:30Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
 | 20230210T11:43:09Z | Null | https://github.com/Mimk2/fuzzy-carnival | 0 | 0| 
-| 20230210T10:53:16Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1355 | 98| 
-| 20230210T09:04:05Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 241 | 36| 
-| 20230210T08:55:52Z | Fuzzy search prototyp for Consolidated EU Financial Sanctions List | https://github.com/j0si/fuzzy_sanctions | 2 | 1| 
-| 20230210T07:58:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 414 | 71| 
-| 20230210T02:51:55Z | Null | https://github.com/LittleHawk03/Fuzzing_Project | 1 | 0| 
 
 
 
