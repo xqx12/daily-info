@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230211T13:48:54Z | CVE-2023-0669 | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | https://github.com/0xf4n9x/CVE-2023-0669 | | 
 | 20230211T13:13:06Z | CVE-2022-34445 | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | | 
 | 20230211T13:13:02Z | CVE-2022-34444 | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | | 
 | 20230211T13:12:59Z | CVE-2022-34404 | Dell System Update, version 2.0.0 and earlier, contains an Improper Certificate Validation in data parser module. A local attacker with high privileges could potentially exploit this vulnerability, leading to credential theft and/or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34404 | | 
@@ -55,7 +56,6 @@
 | 20230211T13:12:45Z | CVE-2022-34387 | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain a privilege escalation vulnerability. A local authenticated malicious user could potentially exploit this vulnerability to elevate privileges and gain total control of the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34387 | | 
 | 20230211T13:12:42Z | CVE-2022-34386 | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34386 | | 
 | 20230211T13:12:38Z | CVE-2022-34385 | SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34385 | | 
-| 20230211T13:12:35Z | CVE-2022-34384 | Dell SupportAssist Client Consumer (version 3.11.1 and prior), SupportAssist Client Commercial (version 3.2 and prior), Dell Command , Update, Dell Update, and Alienware Update versions before 4.5 contain a Local Privilege Escalation Vulnerability in the Advanced Driver Restore component. A local malicious user may pot CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34384 | | 
 
 
 # klee on Github 推荐
