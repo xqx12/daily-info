@@ -55,8 +55,8 @@
 | 20230210T21:12:22Z | Null | https://github.com/TyphanieD/Exploitation-donnees-massives | 0 | 0| 
 | 20230210T21:12:14Z | Null | https://github.com/ianis17/exploitation_donnees_massives | 0 | 0| 
 | 20230210T21:11:59Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 35 | 37| 
+| 20230210T19:57:15Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 104 | 2| 
 | 20230210T13:44:44Z | Source code for our paper %The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs | 7 | 1| 
-| 20230210T13:26:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-gfbn-fkb6o-exploit-wan | 0 | 0| 
 
 
 # backdoor on Github 推荐
