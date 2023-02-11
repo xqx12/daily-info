@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T02:36:14Z | Estimate your BAC over time | https://github.com/XtremeCookiez/fuzzy-drink-meter | 0 | 0| 
 | 20230211T02:05:00Z | Null | https://github.com/kach9201/fuzzy-profgen | 0 | 0| 
 | 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
 | 20230210T23:56:56Z | A web fuzzer written in Rust | https://github.com/p3nal/fuzzrs | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20230210T16:31:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
 | 20230210T14:33:47Z | Null | https://github.com/jesperkristensen58/CaptureTheEther-Fuzzy-Identity-Solution | 0 | 0| 
 | 20230210T13:27:04Z | Null | https://github.com/the-umm/fuzzy-carnival2 | 0 | 0| 
-| 20230210T13:16:45Z | test and study | https://github.com/akihi878/fuzzy-octo-dollop | 0 | 0| 
 
 
 
