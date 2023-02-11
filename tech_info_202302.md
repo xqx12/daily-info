@@ -88,6 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230211T01:16:28Z | jailbreak hack for roblox.  Roblox exploit. 5M cash in 10 min. | https://github.com/Ilikedogslol3/Jailbreak-hack | 1 | 0| 
 | 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
+| 20230211T00:31:26Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 163 | 2| 
 | 20230211T00:03:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 1 | 0| 
 | 20230211T00:02:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg | 1 | 0| 
 | 20230211T00:00:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hg | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230210T23:16:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 574 | 153| 
 | 20230210T22:54:02Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 1| 
 | 20230210T22:48:11Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 613 | 68| 
-| 20230210T21:51:37Z | Null | https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es | 0 | 0| 
 
 
 # backdoor on Github 推荐
