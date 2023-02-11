@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230211T01:13:12Z | jailbreak hack for roblox.  Roblox exploit. 5M cash in 10 min. | https://github.com/Ilikedogslol3/Jailbreak-hack | 0 | 0| 
+| 20230211T01:16:28Z | jailbreak hack for roblox.  Roblox exploit. 5M cash in 10 min. | https://github.com/Ilikedogslol3/Jailbreak-hack | 1 | 0| 
 | 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
 | 20230211T00:03:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 1 | 0| 
 | 20230211T00:02:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg | 1 | 0| 
