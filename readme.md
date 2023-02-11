@@ -90,11 +90,11 @@
 | 20230210T23:03:55Z | Work In Progress AST Based Fuzzer for CRuby | https://github.com/fresh-eggs/sakura | 0 | 0| 
 | 20230210T18:38:26Z | Null | https://github.com/reewardius/bbFuzzing.txt | 57 | 8| 
 | 20230210T16:31:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
+| 20230210T14:33:47Z | Null | https://github.com/jesperkristensen58/CaptureTheEther-Fuzzy-Identity-Solution | 0 | 0| 
 | 20230210T13:27:04Z | Null | https://github.com/the-umm/fuzzy-carnival2 | 0 | 0| 
 | 20230210T13:16:45Z | test and study | https://github.com/akihi878/fuzzy-octo-dollop | 0 | 0| 
 | 20230210T12:48:23Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/Fleischmaki/Fuzzle | 0 | 0| 
 | 20230210T12:40:30Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
-| 20230210T11:43:09Z | Null | https://github.com/Mimk2/fuzzy-carnival | 0 | 0| 
 
 
 
