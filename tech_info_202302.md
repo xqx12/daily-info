@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230211T12:43:33Z | CVE-2023-0669 | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | https://github.com/0xf4n9x/CVE-2023-0669 | | 
+| 20230211T07:30:47Z | CVE-2022-44118 | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | https://github.com/Athishpranav2003/CVE-2022-44118-Exploit | | 
 | 20230210T21:01:46Z | CVE-2022-23935 | 🐍 Python Exploit for CVE-2022-23935 | https://github.com/BKreisel/CVE-2022-23935 | | 
 | 20230210T19:49:38Z | CVE-2022-46650 | Acemanager in ALEOS before version 4.16 allows a user with valid credentials to reconfigure the device to expose the ACEManager credentials on the pre-login status page. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46650 | | 
 | 20230210T19:49:35Z | CVE-2022-46649 | Acemanager in ALEOS before version 4.16 allows a user with valid credentials to manipulate the IP logging operation to execute arbitrary shell commands on the device. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-46649 | | 
@@ -54,15 +56,14 @@
 | 20230210T17:37:04Z | CVE-2023-24234 | A stored cross-site scripting (XSS) vulnerability in the component php-inventory-management-system/brand.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Brand Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24234 | | 
 | 20230210T17:37:01Z | CVE-2023-24233 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/orders.php?o=add of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Client Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24233 | | 
 | 20230210T17:36:57Z | CVE-2023-24232 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/product.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Product Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24232 | | 
-| 20230210T17:36:54Z | CVE-2023-24231 | A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/categories.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Categories Name parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24231 | | 
-| 20230210T17:36:50Z | CVE-2023-24230 | A stored cross-site scripting (XSS) vulnerability in the component /formwork/panel/dashboard of Formwork v1.12.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Page title parameter. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24230 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230210T23:26:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10553 | 346| 
-| 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 605| 
+| 20230211T12:18:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10563 | 346| 
+| 20230211T10:23:39Z | Null | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
+| 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 606| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
@@ -70,37 +71,37 @@
 | 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
 | 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
 | 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
-| 20230205T05:14:23Z | Null | https://github.com/RickSucksATLinux/klee-os-linux | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T09:59:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 296 | 74| 
 | 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
 | 20230209T08:18:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 18 | 10| 
-| 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
 | 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T12:56:23Z | Alfies exploit is a new way to exxploit in roblox using lua c# and them basic lams | https://github.com/Alfie6193/Alfies_exploit | 0 | 0| 
+| 20230211T12:46:36Z | Search for Exploits easily without any need of a local database !! | https://github.com/redtrib3/Sploit-search | 3 | 0| 
+| 20230211T12:31:24Z | Exploits For CVEs | https://github.com/jujuo0o/CVE-Exploits | 0 | 0| 
+| 20230211T11:12:04Z | Exploiting natural language processing to study ESG sentiments against financial performances of companies | https://github.com/neelblabla/ESG-and-Financial-Performance | 0 | 0| 
+| 20230211T08:44:58Z | 🎮 Ethernaut is a 💡smart contract security game on the 🌐 Ethereum blockchain.  🤔 The goal is to teach players about secure code writing in decentralized apps through challenges.  💻 Players learn by solving 💰crypto challenges and exploits in smart contracts. | https://github.com/Shoelacez/ethernaut_challenges | 0 | 0| 
+| 20230211T08:33:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12726 | 2177| 
+| 20230211T07:19:26Z | pro exploit framework lel | https://github.com/weeeeee8/uiX | 0 | 0| 
 | 20230211T01:16:28Z | jailbreak hack for roblox.  Roblox exploit. 5M cash in 10 min. | https://github.com/Ilikedogslol3/Jailbreak-hack | 1 | 0| 
 | 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
 | 20230211T00:31:26Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 163 | 2| 
-| 20230211T00:03:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 1 | 0| 
-| 20230211T00:02:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg | 1 | 0| 
-| 20230211T00:00:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hg | 1 | 0| 
-| 20230210T23:41:49Z | The old et exploits (Deleted) were saved by me, so I published them again. (Link to the slideshow with the codes on The readme) | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
-| 20230210T23:16:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 574 | 153| 
-| 20230210T22:54:02Z | Just a simple roblox ui library used for exploiting. | https://github.com/shezan78/Mercury-Ui-Lib | 0 | 1| 
-| 20230210T22:48:11Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 613 | 68| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T12:55:18Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
 | 20230211T02:47:47Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 96 | 17| 
 | 20230211T02:33:10Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 8 | 0| 
 | 20230210T17:42:46Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20230209T20:44:44Z | Training-free Lexical Backdoor Attacks on Language Models | https://github.com/Jinxhy/TFLexAttack | 1 | 0| 
 | 20230209T16:07:43Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
 | 20230209T13:09:24Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
-| 20230209T08:11:32Z | DC RAT Crypter is a Software To Make Dc Rat Server Crypted and FUD (Fully Undetectable) and also to make Server ByPass Windows Defender 10/11. and Also All AntiViruses (For Edctional Purposes Only) | https://github.com/SoftwaresForPC/DC-Rat-Crypter-FUD-2023-Download | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T12:41:19Z | Null | https://github.com/fuzzop125/fuzzop125 | 0 | 0| 
+| 20230211T12:27:18Z | Null | https://github.com/AdamKorcz/golang-fuzz | 0 | 0| 
+| 20230211T10:20:24Z | Null | https://github.com/papqoapqa/fuzzy-engine | 0 | 0| 
+| 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1818| 
+| 20230211T10:05:49Z | Null | https://github.com/Dimiturpenev/fuzzy-enigma | 0 | 0| 
+| 20230211T05:32:01Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzPy | 5 | 0| 
 | 20230211T02:36:14Z | Estimate your BAC over time | https://github.com/XtremeCookiez/fuzzy-drink-meter | 0 | 0| 
 | 20230211T02:05:00Z | Null | https://github.com/kach9201/fuzzy-profgen | 0 | 0| 
 | 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
 | 20230210T23:56:56Z | A web fuzzer written in Rust | https://github.com/p3nal/fuzzrs | 0 | 0| 
-| 20230210T23:22:12Z | asda | https://github.com/lyb1234567/fuzzer | 0 | 0| 
-| 20230210T23:03:55Z | Work In Progress AST Based Fuzzer for CRuby | https://github.com/fresh-eggs/sakura | 0 | 0| 
-| 20230210T18:38:26Z | Null | https://github.com/reewardius/bbFuzzing.txt | 57 | 8| 
-| 20230210T16:31:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
-| 20230210T14:33:47Z | Null | https://github.com/jesperkristensen58/CaptureTheEther-Fuzzy-Identity-Solution | 0 | 0| 
-| 20230210T13:27:04Z | Null | https://github.com/the-umm/fuzzy-carnival2 | 0 | 0| 
 
 
 
