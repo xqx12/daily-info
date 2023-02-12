@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T13:34:30Z | Null | https://github.com/Kepins/Laboratory-AI-fuzzy | 0 | 0| 
 | 20230212T11:56:22Z | Null | https://github.com/IX4ndeR/fuzzy-potato | 0 | 0| 
 | 20230212T11:47:35Z | Null | https://github.com/d1was/fuzzy-labs | 0 | 0| 
 | 20230212T11:24:04Z | Null | https://github.com/NEdm1/r.vsh.fuzzy | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20230212T10:02:52Z | Null | https://github.com/Squirre17/xv-fuzz | 0 | 0| 
 | 20230212T09:51:41Z | Null | https://github.com/fuzzy123-ai/fuzzy123-ai.github.io | 0 | 0| 
 | 20230212T07:47:09Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
-| 20230212T07:43:48Z | KK is a tool for scanning web-based applications, using fuzzing methods to search for sensitive files and other vulnerabilities. Unfortunately, this tool is not perfect and is still in the development stage. | https://github.com/0xshdax/Kucari-Kamu | 0 | 0| 
 
 
 
