@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T22:48:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 15 | 8| 
 | 20230210T19:29:50Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 | 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 606| 
 | 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 5| 
@@ -125,7 +126,6 @@
 | 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
 | 20230208T11:53:57Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 84 | 17| 
 | 20230205T17:55:12Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
-| 20230204T16:27:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 620 | 111| 
 
 
 # big4 on Github 推荐
