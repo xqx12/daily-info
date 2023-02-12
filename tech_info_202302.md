@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T02:27:26Z | A interesting trick I found online for something I was trying to exploit in the past - leaving it here in case I need it again. | https://github.com/familiardisaster/test | 0 | 0| 
 | 20230212T02:09:42Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
 | 20230212T02:07:50Z | 🎮 Ethernaut is a 💡smart contract security game on the 🌐 Ethereum blockchain.  🤔 The goal is to teach players about secure code writing in decentralized apps through challenges.  💻 Players learn by solving 💰crypto challenges and exploits in smart contracts. | https://github.com/Shoelacez/ethernaut_challenges | 0 | 0| 
 | 20230212T01:14:15Z | Null | https://github.com/ErrorInfinity404/Infinity-s-Exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230211T23:58:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nm | 1 | 0| 
 | 20230211T22:40:14Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 1 | 0| 
 | 20230211T22:40:00Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/suldyee/FiveM-Executor | 1 | 0| 
-| 20230211T22:39:53Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 1 | 0| 
 
 
 # backdoor on Github 推荐
