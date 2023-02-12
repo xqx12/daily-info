@@ -95,7 +95,7 @@
 | 20230211T22:40:00Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/suldyee/FiveM-Executor | 1 | 0| 
 | 20230211T22:39:53Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 1 | 0| 
 | 20230211T22:39:40Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
-| 20230211T13:13:06Z | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | 0 | 0| 
+| 20230211T16:18:57Z | iOS customization app powered by CVE-2022-46689 | https://github.com/BomberFish/Mandela | 11 | 1| 
 
 
 # backdoor on Github 推荐

@@ -49,10 +49,10 @@
 | 20230211T22:40:00Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/suldyee/FiveM-Executor | 1 | 0| 
 | 20230211T22:39:53Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 1 | 0| 
 | 20230211T22:39:40Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
+| 20230211T16:18:57Z | iOS customization app powered by CVE-2022-46689 | https://github.com/BomberFish/Mandela | 11 | 1| 
 | 20230211T13:13:06Z | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | 0 | 0| 
 | 20230211T13:13:02Z | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | 0 | 0| 
 | 20230211T13:12:59Z | Dell System Update, version 2.0.0 and earlier, contains an Improper Certificate Validation in data parser module. A local attacker with high privileges could potentially exploit this vulnerability, leading to credential theft and/or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34404 | 0 | 0| 
-| 20230211T13:12:52Z | Dell SupportAssist contains a rate limit bypass issues in screenmeet API third party component. An unauthenticated attacker could potentially exploit this vulnerability and impersonate a legitimate dell customer to a dell support technician. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34389 | 0 | 0| 
 
 
 # backdoor on Github 推荐
