@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T02:57:34Z | Retired async Open Redirect fuzzer I was working on before I learned about the power of Go. | https://github.com/familiardisaster/echo | 0 | 0| 
 | 20230211T22:20:38Z | Rare-Path Guided Fuzzing | https://github.com/Shafiuzzaman-Hira/RareFuzz | 4 | 0| 
 | 20230211T20:24:11Z | Null | https://github.com/DaKillaSword/fuzzy-spork | 0 | 0| 
 | 20230211T20:00:09Z | Null | https://github.com/yermakovdo/fuzzy-octo-wadle | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20230211T10:20:24Z | Null | https://github.com/papqoapqa/fuzzy-engine | 0 | 0| 
 | 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1820| 
 | 20230211T10:05:49Z | Null | https://github.com/Dimiturpenev/fuzzy-enigma | 0 | 0| 
-| 20230211T05:32:01Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzPy | 5 | 0| 
 
 
 
