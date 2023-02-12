@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230212T02:08:39Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
+| 20230212T02:09:42Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
 | 20230212T02:07:50Z | 🎮 Ethernaut is a 💡smart contract security game on the 🌐 Ethereum blockchain.  🤔 The goal is to teach players about secure code writing in decentralized apps through challenges.  💻 Players learn by solving 💰crypto challenges and exploits in smart contracts. | https://github.com/Shoelacez/ethernaut_challenges | 0 | 0| 
 | 20230212T01:14:15Z | Null | https://github.com/ErrorInfinity404/Infinity-s-Exploit | 0 | 0| 
 | 20230212T00:07:22Z | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | 0 | 0| 
