@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T01:14:15Z | Null | https://github.com/ErrorInfinity404/Infinity-s-Exploit | 0 | 0| 
 | 20230212T00:07:22Z | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | 0 | 0| 
 | 20230212T00:00:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nm | 1 | 0| 
 | 20230211T23:59:48Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nm | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230211T22:39:53Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 1 | 0| 
 | 20230211T22:39:40Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
 | 20230211T13:13:06Z | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | 0 | 0| 
-| 20230211T13:13:02Z | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | 0 | 0| 
 
 
 # backdoor on Github 推荐
