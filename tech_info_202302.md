@@ -86,21 +86,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T12:51:39Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 3 | 0| 
+| 20230212T12:09:49Z | A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0784 | 0 | 0| 
+| 20230212T11:04:14Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 3 | 1| 
+| 20230212T10:25:08Z | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | 3 | 2| 
+| 20230212T08:07:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12729 | 2180| 
+| 20230212T07:08:40Z | This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux. It uses the fork in the following link | https://github.com/P2Enjoy/kohya_ss-docker | 11 | 1| 
 | 20230212T02:34:21Z | Get Your Life With L33THub A Roblox Exploit Script! | https://github.com/GlitterLov3r/L33THub | 0 | 0| 
 | 20230212T02:27:26Z | A interesting trick I found online for something I was trying to exploit in the past - leaving it here in case I need it again. | https://github.com/familiardisaster/test | 0 | 0| 
 | 20230212T02:09:42Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
 | 20230212T02:07:50Z | 🎮 Ethernaut is a 💡smart contract security game on the 🌐 Ethereum blockchain.  🤔 The goal is to teach players about secure code writing in decentralized apps through challenges.  💻 Players learn by solving 💰crypto challenges and exploits in smart contracts. | https://github.com/Shoelacez/ethernaut_challenges | 0 | 0| 
-| 20230212T01:14:15Z | Null | https://github.com/ErrorInfinity404/Infinity-s-Exploit | 0 | 0| 
-| 20230212T00:07:22Z | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | 0 | 0| 
-| 20230212T00:00:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nm | 1 | 0| 
-| 20230211T23:59:48Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nm | 1 | 0| 
-| 20230211T23:58:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nm | 1 | 0| 
-| 20230211T22:40:14Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T09:43:22Z | Null | https://github.com/Casanova5065/Backdoor.Pyrat | 0 | 0| 
+| 20230212T06:32:56Z | A backdoor implementation of a Tic-Tac-Toe game that opens a reverse shell between the target computer & control system. GUI build with TKinter | https://github.com/kartikmehta8/UnReal-TicTacToe | 0 | 0| 
 | 20230212T02:14:14Z | This repo is the official implementation of the ICLR%23 paper %Towards Robustness Certification Against Universal Perturbations.% We calculate the certified robustness against universal perturbations (UAP/ Backdoor) given a trained model. | https://github.com/ruoxi-jia-group/Universal_Pert_Cert | 4 | 1| 
 | 20230211T22:23:20Z | A wordpress backdoor plugin | https://github.com/Infinity242/Wordpress-Backdoor | 0 | 0| 
 | 20230211T20:26:54Z | Create a backdoor PHP file easily | https://github.com/fish-hue/Backdoor-PHP-maker | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20230211T12:55:18Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
 | 20230211T02:47:47Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 96 | 17| 
 | 20230211T02:33:10Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 8 | 0| 
-| 20230210T17:42:46Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 0 | 0| 
-| 20230210T07:54:18Z | python backdoor | https://github.com/decoh/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
