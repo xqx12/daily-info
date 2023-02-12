@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T13:45:08Z | A filter chain based on php + python fuzz and generating procedures. | https://github.com/ProbiusOfficial/filterChainFuzzerAndGenerator | 26 | 2| 
 | 20230212T13:34:30Z | Null | https://github.com/Kepins/Laboratory-AI-fuzzy | 0 | 0| 
 | 20230212T11:56:22Z | Null | https://github.com/IX4ndeR/fuzzy-potato | 0 | 0| 
 | 20230212T11:47:35Z | Null | https://github.com/d1was/fuzzy-labs | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230212T10:19:18Z | Null | https://github.com/cajcajqion/fuzzy-funicular | 0 | 0| 
 | 20230212T10:02:52Z | Null | https://github.com/Squirre17/xv-fuzz | 0 | 0| 
 | 20230212T09:51:41Z | Null | https://github.com/fuzzy123-ai/fuzzy123-ai.github.io | 0 | 0| 
-| 20230212T07:47:09Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
 
 
 
