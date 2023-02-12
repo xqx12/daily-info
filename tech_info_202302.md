@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230212T00:07:22Z | CVE-2022-32595 | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | | 
+| 20230211T22:04:14Z | CVE-2022-44877 | Bash Script for Checking Command Injection Vulnerability  on CentOS Web Panel [CWP] (CVE-2022-44877) | https://github.com/Chocapikk/CVE-2022-44877 | | 
+| 20230211T19:45:34Z | CVE-2023-0783 | A vulnerability was found in EcShop 4.1.5. It has been classified as critical. This affects an unknown part of the file /ecshop/admin/template.php of the component PHP File Handler. The manipulation leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the publi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0783 | | 
+| 20230211T19:45:31Z | CVE-2023-0782 | A vulnerability was found in Tenda AC23 16.03.07.45 and classified as critical. Affected by this issue is the function formSetSysToolDDNS/formGetSysToolDDNS of the file /bin/httpd. The manipulation leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public an CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0782 | | 
+| 20230211T15:39:37Z | CVE-2022-45771 | [PoC] Privilege escalation & code execution via LFI in PwnDoC  | https://github.com/yuriisanin/CVE-2022-45771 | | 
+| 20230211T15:25:24Z | CVE-2022-1253 | Heap-based Buffer Overflow in GitHub repository strukturag/libde265 prior to and including 1.0.8. The fix is established in commit 8e89fe0e175d2870c39486fdd09250b230ec10b8 but does not yet belong to an official release. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1253 | | 
+| 20230211T15:25:04Z | CVE-2023-0781 | A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been declared as critical. This vulnerability affects the function query of the file removeOrder.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0781 | | 
 | 20230211T13:48:54Z | CVE-2023-0669 | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | https://github.com/0xf4n9x/CVE-2023-0669 | | 
 | 20230211T13:13:06Z | CVE-2022-34445 | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | | 
 | 20230211T13:13:02Z | CVE-2022-34444 | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | | 
-| 20230211T13:12:59Z | CVE-2022-34404 | Dell System Update, version 2.0.0 and earlier, contains an Improper Certificate Validation in data parser module. A local attacker with high privileges could potentially exploit this vulnerability, leading to credential theft and/or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34404 | | 
-| 20230211T13:12:56Z | CVE-2022-34392 | SupportAssist for Home PCs (versions 3.11.4 and prior) contain an insufficient session expiration Vulnerability. An authenticated non-admin user can be able to obtain the refresh token and that leads to reuse the access token and fetch sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34392 | | 
-| 20230211T13:12:52Z | CVE-2022-34389 | Dell SupportAssist contains a rate limit bypass issues in screenmeet API third party component. An unauthenticated attacker could potentially exploit this vulnerability and impersonate a legitimate dell customer to a dell support technician. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34389 | | 
-| 20230211T13:12:49Z | CVE-2022-34388 | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain information disclosure vulnerability. A local malicious user with low privileges could exploit this vulnerability to view and modify sensitive information in the database of the affected appli CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34388 | | 
-| 20230211T13:12:45Z | CVE-2022-34387 | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain a privilege escalation vulnerability. A local authenticated malicious user could potentially exploit this vulnerability to elevate privileges and gain total control of the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34387 | | 
-| 20230211T13:12:42Z | CVE-2022-34386 | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34386 | | 
-| 20230211T13:12:38Z | CVE-2022-34385 | SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34385 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230211T13:25:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10564 | 346| 
-| 20230211T10:23:39Z | Null | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
+| 20230211T22:23:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10567 | 346| 
+| 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 606| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
+| 20230209T02:37:53Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 28 | 1| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
 | 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
 | 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
-| 20230205T16:00:46Z | Kleenscan Telegram Bot | https://github.com/nchgroup/kleenscan-telegram-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T00:07:22Z | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | 0 | 0| 
+| 20230212T00:00:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nm | 1 | 0| 
+| 20230211T23:59:48Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nm | 1 | 0| 
+| 20230211T23:58:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nm | 1 | 0| 
+| 20230211T22:40:14Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/suldyee/HWID-Spoofer | 1 | 0| 
+| 20230211T22:40:00Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/suldyee/FiveM-Executor | 1 | 0| 
+| 20230211T22:39:53Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 1 | 0| 
+| 20230211T22:39:40Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
 | 20230211T13:13:06Z | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | 0 | 0| 
 | 20230211T13:13:02Z | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | 0 | 0| 
-| 20230211T13:12:59Z | Dell System Update, version 2.0.0 and earlier, contains an Improper Certificate Validation in data parser module. A local attacker with high privileges could potentially exploit this vulnerability, leading to credential theft and/or denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34404 | 0 | 0| 
-| 20230211T13:12:52Z | Dell SupportAssist contains a rate limit bypass issues in screenmeet API third party component. An unauthenticated attacker could potentially exploit this vulnerability and impersonate a legitimate dell customer to a dell support technician. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34389 | 0 | 0| 
-| 20230211T13:12:49Z | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain information disclosure vulnerability. A local malicious user with low privileges could exploit this vulnerability to view and modify sensitive information in the database of the affected appli CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34388 | 0 | 0| 
-| 20230211T13:12:45Z | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain a privilege escalation vulnerability. A local authenticated malicious user could potentially exploit this vulnerability to elevate privileges and gain total control of the system. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34387 | 0 | 0| 
-| 20230211T13:12:42Z | Dell SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34386 | 0 | 0| 
-| 20230211T13:12:38Z | SupportAssist for Home PCs (version 3.11.4 and prior) and SupportAssist for Business PCs (version 3.2.0 and prior) contain cryptographic weakness vulnerability. An authenticated non-admin user could potentially exploit the issue and obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34385 | 0 | 0| 
-| 20230211T13:12:31Z | Multiple Cisco products are affected by a vulnerability in the Snort detection engine that could allow an unauthenticated, remote attacker to bypass a configured File Policy for HTTP. The vulnerability is due to incorrect detection of modified HTTP packets used in chunked responses. An attacker could exploit this vulne CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2020-3299 | 0 | 0| 
-| 20230211T13:12:27Z | Multiple Cisco products are affected by a vulnerability in the Snort application detection engine that could allow an unauthenticated, remote attacker to bypass the configured policies on an affected system. The vulnerability is due to a flaw in the detection algorithm. An attacker could exploit this vulnerability by s CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-1236 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T22:23:20Z | A wordpress backdoor plugin | https://github.com/Infinity242/Wordpress-Backdoor | 0 | 0| 
+| 20230211T21:55:54Z | This repo is the official implementation of the ICLR%23 paper %Towards Robustness Certification Against Universal Perturbations.% We calculate the certified robustness against universal perturbations (UAP/ Backdoor) given a trained model. | https://github.com/ruoxi-jia-group/Universal_Pert_Cert | 2 | 1| 
+| 20230211T20:26:54Z | Create a backdoor PHP file easily | https://github.com/fish-hue/Backdoor-PHP-maker | 0 | 0| 
+| 20230211T19:42:28Z | Reverse Shell is a minimalistic implementation of a reverse shell backdoor that we can implement to establish a connection between the target computer and the control system. | https://github.com/kartikmehta8/reverse-shell | 0 | 0| 
+| 20230211T15:52:43Z | Null | https://github.com/dadyutenga/php-BACKDOORS | 0 | 0| 
 | 20230211T12:55:18Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
 | 20230211T02:47:47Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 96 | 17| 
 | 20230211T02:33:10Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 8 | 0| 
 | 20230210T17:42:46Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 0 | 0| 
 | 20230210T07:54:18Z | python backdoor | https://github.com/decoh/Backdoor | 0 | 0| 
-| 20230210T01:30:07Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 1| 
-| 20230209T22:29:40Z | Código em python que consegue acesso a um serviço ftp na versão vsfptd 2.3.4 | https://github.com/sergiocripton/Backdoor-vsftpd-2.3.4 | 0 | 0| 
-| 20230209T20:44:44Z | Training-free Lexical Backdoor Attacks on Language Models | https://github.com/Jinxhy/TFLexAttack | 1 | 0| 
-| 20230209T16:07:43Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 39 | 10| 
-| 20230209T13:09:24Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230211T22:20:38Z | Rare-Path Guided Fuzzing | https://github.com/Shafiuzzaman-Hira/RareFuzz | 4 | 0| 
+| 20230211T20:24:11Z | Null | https://github.com/DaKillaSword/fuzzy-spork | 0 | 0| 
+| 20230211T20:00:09Z | Null | https://github.com/yermakovdo/fuzzy-octo-wadle | 0 | 0| 
 | 20230211T12:41:19Z | Null | https://github.com/fuzzop125/fuzzop125 | 0 | 0| 
 | 20230211T12:27:18Z | Null | https://github.com/AdamKorcz/golang-fuzz | 0 | 0| 
 | 20230211T10:20:24Z | Null | https://github.com/papqoapqa/fuzzy-engine | 0 | 0| 
-| 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1818| 
+| 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1820| 
 | 20230211T10:05:49Z | Null | https://github.com/Dimiturpenev/fuzzy-enigma | 0 | 0| 
 | 20230211T05:32:01Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzPy | 5 | 0| 
 | 20230211T02:36:14Z | Estimate your BAC over time | https://github.com/XtremeCookiez/fuzzy-drink-meter | 0 | 0| 
-| 20230211T02:05:00Z | Null | https://github.com/kach9201/fuzzy-profgen | 0 | 0| 
-| 20230211T00:33:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2124 | 406| 
-| 20230210T23:56:56Z | A web fuzzer written in Rust | https://github.com/p3nal/fuzzrs | 0 | 0| 
 
 
 
