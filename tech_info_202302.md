@@ -31,56 +31,56 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230212 | ZKP in Hidden Order Group 未知阶群内的零知识证明 | https://zhuanlan.zhihu.com/p/603726514| 
+| 20230212 | 某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA| 
+| 20230212 | 2022全国微信泄密典型案例 | https://mp.weixin.qq.com/s/ScR0FLsUi9-zLUmKAAXDTQ| 
+| 20230212 | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ| 
+| 20230212 | ChatGPT在安全运营中的应用初探 | https://mp.weixin.qq.com/s/QqoVOAgzXzHafvZmtXWTxg| 
+| 20230212 | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg| 
 | 20230209 | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g| 
 | 20230209 | 如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论... | https://www.zhihu.com/question/22790506/answer/990626321| 
 | 20230209 | ChatGPT研究框架（80页PPT） | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw| 
 | 20230209 | ChatGPT概念“狂飙” | https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw| 
-| 20230209 | 换种思路做入侵检测 | https://mp.weixin.qq.com/s/7AwMJQjH8_zWUT3bWkoEzQ| 
-| 20230209 | 2022网络空间安全重大项目发展概况 | https://mp.weixin.qq.com/s/w5Go3qqC8vJnJKL4k9R0Bg| 
-| 20230206 | SecWiki周刊（第466期) | https://www.sec-wiki.com/weekly/466| 
-| 20230206 | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf| 
-| 20230206 | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ| 
-| 20230204 | 开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230212T01:16:29Z | CVE-2021-36823 | Auth. Stored Cross-Site Scripting (XSS) vulnerability in WordPress Absolutely Glamorous Custom Admin plugin <= 6.8 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36823 | | 
-| 20230212T01:16:26Z | CVE-2021-23150 | Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability discovered in AMP for WP – Accelerated Mobile Pages plugin <= 1.0.77.31 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23150 | | 
-| 20230212T01:16:22Z | CVE-2021-36826 | Authenticated (subscriber or higher user role if allowed to access projects) Stored Cross-Site Scripting (XSS) vulnerability in weDevs WP Project Manager plugin <= 2.4.13 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36826 | | 
-| 20230212T00:07:22Z | CVE-2022-32595 | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | | 
-| 20230211T22:04:14Z | CVE-2022-44877 | Bash Script for Checking Command Injection Vulnerability  on CentOS Web Panel [CWP] (CVE-2022-44877) | https://github.com/Chocapikk/CVE-2022-44877 | | 
-| 20230211T19:45:34Z | CVE-2023-0783 | A vulnerability was found in EcShop 4.1.5. It has been classified as critical. This affects an unknown part of the file /ecshop/admin/template.php of the component PHP File Handler. The manipulation leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the publi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0783 | | 
-| 20230211T19:45:31Z | CVE-2023-0782 | A vulnerability was found in Tenda AC23 16.03.07.45 and classified as critical. Affected by this issue is the function formSetSysToolDDNS/formGetSysToolDDNS of the file /bin/httpd. The manipulation leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public an CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0782 | | 
-| 20230211T15:39:37Z | CVE-2022-45771 | [PoC] Privilege escalation & code execution via LFI in PwnDoC  | https://github.com/yuriisanin/CVE-2022-45771 | | 
-| 20230211T15:25:24Z | CVE-2022-1253 | Heap-based Buffer Overflow in GitHub repository strukturag/libde265 prior to and including 1.0.8. The fix is established in commit 8e89fe0e175d2870c39486fdd09250b230ec10b8 but does not yet belong to an official release. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1253 | | 
-| 20230211T15:25:04Z | CVE-2023-0781 | A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been declared as critical. This vulnerability affects the function query of the file removeOrder.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0781 | | 
+| 20230212T12:09:52Z | CVE-2023-0785 | A vulnerability classified as problematic was found in SourceCodester Best Online News Portal 1.0. Affected by this vulnerability is an unknown functionality of the file check_availability.php. The manipulation of the argument username leads to exposure of sensitive information through data queries. The attack can be l CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0785 | | 
+| 20230212T12:09:49Z | CVE-2023-0784 | A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0784 | | 
+| 20230212T07:15:28Z | CVE-2022-0435 | Null | https://github.com/wlswotmd/CVE-2022-0435 | | 
+| 20230212T07:09:56Z | CVE-2022-1015 | Null | https://github.com/wlswotmd/CVE-2022-1015 | | 
+| 20230212T06:44:48Z | CVE-2022-25733 | Denial of service in modem due to null pointer dereference while processing DNS packets CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25733 | | 
+| 20230212T06:44:44Z | CVE-2022-41731 | IBM Watson Knowledge Catalog on Cloud Pak for Data 4.5.0 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 237402. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41731 | | 
+| 20230212T06:44:40Z | CVE-2022-25729 | Memory corruption in modem due to improper length check while copying into memory CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25729 | | 
+| 20230212T06:44:37Z | CVE-2022-38681 | In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38681 | | 
+| 20230212T06:44:33Z | CVE-2022-38674 | In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38674 | | 
+| 20230212T06:44:29Z | CVE-2022-38396 | HP Factory Preinstalled Images on certain systems that shipped with Windows 10 versions 20H2 and earlier OS versions might allow escalation of privilege via execution of certain files outside the restricted path. This potential vulnerability was remediated starting with Windows 10 versions 21H2 on October 31, 2021. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38396 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230212T01:16:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10568 | 346| 
+| 20230212T12:45:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10576 | 346| 
+| 20230212T10:17:19Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 29 | 1| 
+| 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 606| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
-| 20230209T02:37:53Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 28 | 1| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
 | 20230207T12:42:55Z | Null | https://github.com/ZinkevichBogdan/KleerZinkevichBogdan.github.io | 0 | 0| 
-| 20230207T01:07:37Z | A Mathematica file generating the Klee-Minty Cube that shows the Simplex Method is exponentially slow.https://www.ams.jhu.edu/~grimmer/Klee.pdf | https://github.com/profgrimmer/Klee-Minty | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T10:16:12Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230211T09:59:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 296 | 74| 
 | 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
 | 20230209T08:18:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 18 | 10| 
-| 20230206T11:00:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 8| 
 
 
 # exploit on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230212T02:57:34Z | Retired async Open Redirect fuzzer I was working on before I learned about the power of Go. | https://github.com/familiardisaster/echo | 0 | 0| 
-| 20230211T22:20:38Z | Rare-Path Guided Fuzzing | https://github.com/Shafiuzzaman-Hira/RareFuzz | 4 | 0| 
-| 20230211T20:24:11Z | Null | https://github.com/DaKillaSword/fuzzy-spork | 0 | 0| 
-| 20230211T20:00:09Z | Null | https://github.com/yermakovdo/fuzzy-octo-wadle | 0 | 0| 
-| 20230211T12:41:19Z | Null | https://github.com/fuzzop125/fuzzop125 | 0 | 0| 
-| 20230211T12:27:18Z | Null | https://github.com/AdamKorcz/golang-fuzz | 0 | 0| 
-| 20230211T11:23:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3407 | 407| 
-| 20230211T10:20:24Z | Null | https://github.com/papqoapqa/fuzzy-engine | 0 | 0| 
-| 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1820| 
-| 20230211T10:05:49Z | Null | https://github.com/Dimiturpenev/fuzzy-enigma | 0 | 0| 
+| 20230212T11:56:22Z | Null | https://github.com/IX4ndeR/fuzzy-potato | 0 | 0| 
+| 20230212T11:47:35Z | Null | https://github.com/d1was/fuzzy-labs | 0 | 0| 
+| 20230212T11:24:04Z | Null | https://github.com/NEdm1/r.vsh.fuzzy | 0 | 0| 
+| 20230212T11:04:57Z | Project for postgresql generational fuzzing automatization | https://github.com/St-elin/pgfuzz | 1 | 0| 
+| 20230212T11:01:26Z | Null | https://github.com/Tykky/fuzzy-engine | 0 | 0| 
+| 20230212T10:19:18Z | Null | https://github.com/cajcajqion/fuzzy-funicular | 0 | 0| 
+| 20230212T10:02:52Z | Null | https://github.com/Squirre17/xv-fuzz | 0 | 0| 
+| 20230212T09:51:41Z | Null | https://github.com/fuzzy123-ai/fuzzy123-ai.github.io | 0 | 0| 
+| 20230212T07:47:09Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 2 | 0| 
+| 20230212T07:43:48Z | KK is a tool for scanning web-based applications, using fuzzing methods to search for sensitive files and other vulnerabilities. Unfortunately, this tool is not perfect and is still in the development stage. | https://github.com/0xshdax/Kucari-Kamu | 0 | 0| 
 
 
 
