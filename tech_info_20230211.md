@@ -86,11 +86,11 @@
 | 20230211T20:00:09Z | Null | https://github.com/yermakovdo/fuzzy-octo-wadle | 0 | 0| 
 | 20230211T12:41:19Z | Null | https://github.com/fuzzop125/fuzzop125 | 0 | 0| 
 | 20230211T12:27:18Z | Null | https://github.com/AdamKorcz/golang-fuzz | 0 | 0| 
+| 20230211T11:23:59Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3407 | 407| 
 | 20230211T10:20:24Z | Null | https://github.com/papqoapqa/fuzzy-engine | 0 | 0| 
 | 20230211T10:18:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8357 | 1820| 
 | 20230211T10:05:49Z | Null | https://github.com/Dimiturpenev/fuzzy-enigma | 0 | 0| 
 | 20230211T05:32:01Z | Fuzzy Logic Operations Toolkit | https://github.com/yibocat/FuzzPy | 5 | 0| 
-| 20230211T02:36:14Z | Estimate your BAC over time | https://github.com/XtremeCookiez/fuzzy-drink-meter | 0 | 0| 
 
 
 
