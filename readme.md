@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T13:58:10Z | Repository containing Solidity exploits that must be managed when developing smart contract. | https://github.com/pierobassa/Solidity-Exploits | 0 | 0| 
 | 20230212T12:51:39Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 3 | 0| 
 | 20230212T12:09:49Z | A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0784 | 0 | 0| 
 | 20230212T11:04:14Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 3 | 1| 
@@ -60,7 +61,6 @@
 | 20230212T02:34:21Z | Get Your Life With L33THub A Roblox Exploit Script! | https://github.com/GlitterLov3r/L33THub | 0 | 0| 
 | 20230212T02:27:26Z | A interesting trick I found online for something I was trying to exploit in the past - leaving it here in case I need it again. | https://github.com/familiardisaster/test | 0 | 0| 
 | 20230212T02:09:42Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
-| 20230212T02:07:50Z | 🎮 Ethernaut is a 💡smart contract security game on the 🌐 Ethereum blockchain.  🤔 The goal is to teach players about secure code writing in decentralized apps through challenges.  💻 Players learn by solving 💰crypto challenges and exploits in smart contracts. | https://github.com/Shoelacez/ethernaut_challenges | 0 | 0| 
 
 
 # backdoor on Github 推荐
