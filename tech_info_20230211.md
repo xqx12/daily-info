@@ -59,7 +59,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230211T22:23:20Z | A wordpress backdoor plugin | https://github.com/Infinity242/Wordpress-Backdoor | 0 | 0| 
-| 20230211T21:55:54Z | This repo is the official implementation of the ICLR%23 paper %Towards Robustness Certification Against Universal Perturbations.% We calculate the certified robustness against universal perturbations (UAP/ Backdoor) given a trained model. | https://github.com/ruoxi-jia-group/Universal_Pert_Cert | 2 | 1| 
 | 20230211T20:26:54Z | Create a backdoor PHP file easily | https://github.com/fish-hue/Backdoor-PHP-maker | 0 | 0| 
 | 20230211T19:42:28Z | Reverse Shell is a minimalistic implementation of a reverse shell backdoor that we can implement to establish a connection between the target computer and the control system. | https://github.com/kartikmehta8/reverse-shell | 0 | 0| 
 | 20230211T15:52:43Z | Null | https://github.com/dadyutenga/php-BACKDOORS | 0 | 0| 
