@@ -31,7 +31,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230211T22:23:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10567 | 346| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 
 

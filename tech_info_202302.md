@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230212T01:16:29Z | CVE-2021-36823 | Auth. Stored Cross-Site Scripting (XSS) vulnerability in WordPress Absolutely Glamorous Custom Admin plugin <= 6.8 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36823 | | 
+| 20230212T01:16:26Z | CVE-2021-23150 | Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability discovered in AMP for WP – Accelerated Mobile Pages plugin <= 1.0.77.31 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-23150 | | 
+| 20230212T01:16:22Z | CVE-2021-36826 | Authenticated (subscriber or higher user role if allowed to access projects) Stored Cross-Site Scripting (XSS) vulnerability in weDevs WP Project Manager plugin <= 2.4.13 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-36826 | | 
 | 20230212T00:07:22Z | CVE-2022-32595 | In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32595 | | 
 | 20230211T22:04:14Z | CVE-2022-44877 | Bash Script for Checking Command Injection Vulnerability  on CentOS Web Panel [CWP] (CVE-2022-44877) | https://github.com/Chocapikk/CVE-2022-44877 | | 
 | 20230211T19:45:34Z | CVE-2023-0783 | A vulnerability was found in EcShop 4.1.5. It has been classified as critical. This affects an unknown part of the file /ecshop/admin/template.php of the component PHP File Handler. The manipulation leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the publi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0783 | | 
@@ -53,15 +56,12 @@
 | 20230211T15:39:37Z | CVE-2022-45771 | [PoC] Privilege escalation & code execution via LFI in PwnDoC  | https://github.com/yuriisanin/CVE-2022-45771 | | 
 | 20230211T15:25:24Z | CVE-2022-1253 | Heap-based Buffer Overflow in GitHub repository strukturag/libde265 prior to and including 1.0.8. The fix is established in commit 8e89fe0e175d2870c39486fdd09250b230ec10b8 but does not yet belong to an official release. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-1253 | | 
 | 20230211T15:25:04Z | CVE-2023-0781 | A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been declared as critical. This vulnerability affects the function query of the file removeOrder.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0781 | | 
-| 20230211T13:48:54Z | CVE-2023-0669 | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | https://github.com/0xf4n9x/CVE-2023-0669 | | 
-| 20230211T13:13:06Z | CVE-2022-34445 | Dell PowerScale OneFS, versions 8.2.x through 9.3.x contain a weak encoding for a password. A malicious local privileged attacker may potentially exploit this vulnerability, leading to information disclosure. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34445 | | 
-| 20230211T13:13:02Z | CVE-2022-34444 | Dell PowerScale OneFS, versions 9.2.0.x through 9.4.0.x contain an information vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability to cause data leak. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34444 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230211T22:23:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10567 | 346| 
+| 20230212T01:16:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10568 | 346| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230210T11:52:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2152 | 606| 
 | 20230209T11:23:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 209 | 1| 
