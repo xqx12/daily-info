@@ -142,7 +142,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230213T01:41:48Z | Null | https://github.com/pa-ruby-archive/external_oss-fuzz | 0 | 0| 
-| 20230213T01:41:29Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 0| 
+| 20230213T01:41:29Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 1| 
 | 20230213T00:56:46Z | Source Code for Services Fuzzy Search | https://github.com/VPMSourceCode/Services_Fuzzy_Search | 0 | 0| 
 | 20230213T00:53:57Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 188 | 25| 
 | 20230213T00:24:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8361 | 1820| 
