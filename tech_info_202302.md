@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T02:44:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 575 | 153| 
+| 20230213T02:44:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 575 | 154| 
 | 20230213T02:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4920 | 713| 
 | 20230213T02:32:35Z | exploit WITH RAT | https://github.com/alespk1/MadCity-Money | 0 | 0| 
 | 20230213T02:27:18Z | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | 1 | 0| 
