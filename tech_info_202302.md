@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230213T12:56:12Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
+| 20230213T13:04:03Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/Malwareman007/CVE-2023-21608 | | 
+| 20230213T13:02:54Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
 | 20230213T12:31:33Z | CVE-2023-25727 | In phpMyAdmin before 4.9.11 and 5.x before 5.2.1, an authenticated user can trigger XSS by uploading a crafted .sql file through the drag-and-drop interface. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25727 | | 
 | 20230213T12:31:29Z | CVE-2023-24572 | Dell Command , Integration Suite for System Center, versions before 6.4.0 contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24572 | | 
 | 20230213T12:31:26Z | CVE-2023-23697 | Dell Command , Intel vPro Out of Band, versions before 4.4.0, contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23697 | | 
 | 20230213T12:31:22Z | CVE-2022-45455 | Local privilege escalation due to incomplete uninstallation cleanup. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107, Acronis Agent (Windows) before build 30025, Acronis Cyber Protect 15 (Windows) before build 30984. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45455 | | 
 | 20230213T12:31:18Z | CVE-2022-45454 | Sensitive information disclosure due to insecure folder permissions. The following products are affected: Acronis Agent (Windows) before build 30161, Acronis Cyber Protect 15 (Windows) before build 30984. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45454 | | 
 | 20230213T12:31:15Z | CVE-2022-34397 | Dell Unisphere for PowerMax vApp, VASA Provider vApp, and Solution Enabler vApp version 10.0.0.5 and below contains an authorization bypass vulnerability, allowing users to perform actions in which they are not authorized. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-34397 | | 
-| 20230213T10:22:32Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/Malwareman007/CVE-2023-21608 | | 
 | 20230213T10:06:44Z | CVE-2023-0669 | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | https://github.com/0xf4n9x/CVE-2023-0669 | | 
 | 20230213T09:45:37Z | CVE-2020-2551 | Null | https://github.com/w3security/CVE-2020-2551 | | 
 
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T12:56:12Z | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | 7 | 0| 
+| 20230213T13:02:54Z | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | 8 | 0| 
 | 20230213T12:49:45Z | Heap-47 is an gdb extension to enhance the heap debugging. It is designed to be used by exploit developper to facilitate the heap exploitation | https://github.com/toDo-cpu/h47 | 0 | 0| 
 | 20230213T12:39:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12733 | 2180| 
 | 20230213T12:31:29Z | Dell Command , Integration Suite for System Center, versions before 6.4.0 contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24572 | 0 | 0| 
