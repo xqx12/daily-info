@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230212 | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935| 
 
 
 # 安全维基 推荐
@@ -22,22 +23,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230212T12:09:52Z | CVE-2023-0785 | A vulnerability classified as problematic was found in SourceCodester Best Online News Portal 1.0. Affected by this vulnerability is an unknown functionality of the file check_availability.php. The manipulation of the argument username leads to exposure of sensitive information through data queries. The attack can be l CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0785 | | 
-| 20230212T12:09:49Z | CVE-2023-0784 | A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0784 | | 
-| 20230212T07:15:28Z | CVE-2022-0435 | Null | https://github.com/wlswotmd/CVE-2022-0435 | | 
-| 20230212T07:09:56Z | CVE-2022-1015 | Null | https://github.com/wlswotmd/CVE-2022-1015 | | 
-| 20230212T06:44:48Z | CVE-2022-25733 | Denial of service in modem due to null pointer dereference while processing DNS packets CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25733 | | 
-| 20230212T06:44:44Z | CVE-2022-41731 | IBM Watson Knowledge Catalog on Cloud Pak for Data 4.5.0 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 237402. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-41731 | | 
-| 20230212T06:44:40Z | CVE-2022-25729 | Memory corruption in modem due to improper length check while copying into memory CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-25729 | | 
-| 20230212T06:44:37Z | CVE-2022-38681 | In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38681 | | 
-| 20230212T06:44:33Z | CVE-2022-38674 | In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38674 | | 
-| 20230212T06:44:29Z | CVE-2022-38396 | HP Factory Preinstalled Images on certain systems that shipped with Windows 10 versions 20H2 and earlier OS versions might allow escalation of privilege via execution of certain files outside the restricted path. This potential vulnerability was remediated starting with Windows 10 versions 21H2 on October 31, 2021. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38396 | | 
+| 20230212T16:12:15Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
+| 20230212T15:26:23Z | CVE-2023-0794 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0794 | | 
+| 20230212T15:26:19Z | CVE-2023-0793 | Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0793 | | 
+| 20230212T15:26:16Z | CVE-2023-0792 | Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0792 | | 
+| 20230212T15:26:12Z | CVE-2023-0791 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0791 | | 
+| 20230212T15:26:09Z | CVE-2023-0790 | Uncaught Exception in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0790 | | 
+| 20230212T15:26:06Z | CVE-2023-0789 | Command Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0789 | | 
+| 20230212T15:26:02Z | CVE-2023-0788 | Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0788 | | 
+| 20230212T15:25:59Z | CVE-2023-0787 | Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0787 | | 
+| 20230212T15:25:56Z | CVE-2023-0786 | Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0786 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230212T13:35:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10578 | 346| 
+| 20230212T18:06:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10583 | 346| 
 | 20230212T10:17:19Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 29 | 1| 
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 
@@ -66,6 +67,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T21:39:16Z | A backdoor written in go | https://github.com/borzacchiello/brev | 0 | 0| 
+| 20230212T20:01:11Z | Null | https://github.com/Alaqian/Pruning-Defense-Against-Backdooring-Attacks-on-Deep-Neural-Networks | 0 | 0| 
+| 20230212T19:55:08Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 13 | 4| 
 | 20230212T09:43:22Z | Null | https://github.com/Casanova5065/Backdoor.Pyrat | 0 | 0| 
 | 20230212T06:32:56Z | A backdoor implementation of a Tic-Tac-Toe game that opens a reverse shell between the target computer & control system. GUI build with TKinter | https://github.com/kartikmehta8/UnReal-TicTacToe | 0 | 0| 
 | 20230212T02:14:14Z | This repo is the official implementation of the ICLR%23 paper %Towards Robustness Certification Against Universal Perturbations.% We calculate the certified robustness against universal perturbations (UAP/ Backdoor) given a trained model. | https://github.com/ruoxi-jia-group/Universal_Pert_Cert | 4 | 1| 
