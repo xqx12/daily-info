@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T13:08:37Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5260 | 734| 
+| 20230213T13:18:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5261 | 734| 
 | 20230213T13:02:54Z | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | 8 | 0| 
 | 20230213T12:49:45Z | Heap-47 is an gdb extension to enhance the heap debugging. It is designed to be used by exploit developper to facilitate the heap exploitation | https://github.com/toDo-cpu/h47 | 0 | 0| 
 | 20230213T12:39:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12733 | 2180| 
