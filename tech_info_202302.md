@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230213T02:01:39Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
 | 20230212T16:12:15Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
 | 20230212T15:26:23Z | CVE-2023-0794 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0794 | | 
 | 20230212T15:26:19Z | CVE-2023-0793 | Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0793 | | 
@@ -55,7 +56,6 @@
 | 20230212T15:26:06Z | CVE-2023-0789 | Command Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0789 | | 
 | 20230212T15:26:02Z | CVE-2023-0788 | Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0788 | | 
 | 20230212T15:25:59Z | CVE-2023-0787 | Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0787 | | 
-| 20230212T15:25:56Z | CVE-2023-0786 | Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0786 | | 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T02:01:39Z | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | 0 | 0| 
 | 20230213T00:58:58Z | Null | https://github.com/Ines-Somrani/Projet-exploitation-des-donn-es | 0 | 0| 
 | 20230213T00:05:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ub | 1 | 0| 
 | 20230213T00:04:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ub | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230212T21:23:38Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
 | 20230212T14:52:22Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 2 | 0| 
 | 20230212T13:58:10Z | Repository containing Solidity exploits that must be managed when developing smart contract. | https://github.com/pierobassa/Solidity-Exploits | 0 | 0| 
-| 20230212T12:51:39Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 3 | 0| 
 
 
 # backdoor on Github 推荐
