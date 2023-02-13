@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T02:44:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 575 | 153| 
+| 20230213T02:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4920 | 713| 
 | 20230213T02:32:35Z | exploit WITH RAT | https://github.com/alespk1/MadCity-Money | 0 | 0| 
 | 20230213T02:27:18Z | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | 1 | 0| 
 | 20230213T00:58:58Z | Null | https://github.com/Ines-Somrani/Projet-exploitation-des-donn-es | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20230213T00:04:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ub | 1 | 0| 
 | 20230212T23:21:42Z | Null | https://github.com/Doctype02/exploitdb | 0 | 0| 
 | 20230212T23:14:04Z | AndroRAT is a capability that can be used to inject a root exploit as a silent installation to perform a malicious task on the device. This AndroRAT is designed to exploit CVE-2015-1805, a vulnerability that was discovered and made public in 2016. | https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805 | 0 | 0| 
-| 20230212T21:23:38Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
-| 20230212T14:52:22Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 2 | 0| 
 
 
 # backdoor on Github 推荐
