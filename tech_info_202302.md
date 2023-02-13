@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T02:02:28Z | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | 0 | 0| 
+| 20230213T02:03:00Z | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | 0 | 0| 
 | 20230213T00:58:58Z | Null | https://github.com/Ines-Somrani/Projet-exploitation-des-donn-es | 0 | 0| 
 | 20230213T00:05:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ub | 1 | 0| 
 | 20230213T00:04:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ub | 1 | 0| 
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T01:56:44Z | 🔎 The fuzzysort library implemented as a handy React component | https://github.com/tresabhi/react-fuzzysort | 0 | 0| 
+| 20230213T02:03:30Z | 🔎 The fuzzysort library implemented as a handy React component | https://github.com/tresabhi/react-fuzzysort | 0 | 0| 
 | 20230213T01:54:24Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 1| 
 | 20230213T01:41:48Z | Null | https://github.com/pa-ruby-archive/external_oss-fuzz | 0 | 0| 
 | 20230213T00:56:46Z | Source Code for Services Fuzzy Search | https://github.com/VPMSourceCode/Services_Fuzzy_Search | 0 | 0| 
