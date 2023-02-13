@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230213T02:36:15Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
 | 20230213T02:27:18Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
-| 20230212T16:12:15Z | CVE-2022-21587 | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | | 
 | 20230212T15:26:23Z | CVE-2023-0794 | Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0794 | | 
 | 20230212T15:26:19Z | CVE-2023-0793 | Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0793 | | 
 | 20230212T15:26:16Z | CVE-2023-0792 | Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0792 | | 
