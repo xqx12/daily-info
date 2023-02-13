@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T01:41:48Z | Null | https://github.com/pa-ruby-archive/external_oss-fuzz | 0 | 0| 
 | 20230213T01:41:29Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 0| 
 | 20230213T00:56:46Z | Source Code for Services Fuzzy Search | https://github.com/VPMSourceCode/Services_Fuzzy_Search | 0 | 0| 
 | 20230213T00:53:57Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 188 | 25| 
@@ -150,7 +151,6 @@
 | 20230212T22:13:49Z | Null | https://github.com/spheeere98/mifare_fuzzer | 0 | 0| 
 | 20230212T21:19:28Z | _.capricorniano._ | https://github.com/OnoOzaky8/fuzzy-octo-meme.json | 0 | 0| 
 | 20230212T20:48:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1269 | 168| 
-| 20230212T17:01:36Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 14 | 1| 
 
 
 
