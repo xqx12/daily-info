@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T02:03:04Z | Create a backdoor PHP file easily | https://github.com/fish-hue/bdphp | 0 | 0| 
 | 20230213T01:54:56Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
 | 20230212T21:39:16Z | A backdoor written in go | https://github.com/borzacchiello/brev | 0 | 0| 
 | 20230212T20:01:11Z | Null | https://github.com/Alaqian/Pruning-Defense-Against-Backdooring-Attacks-on-Deep-Neural-Networks | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20230212T02:14:14Z | This repo is the official implementation of the ICLR%23 paper %Towards Robustness Certification Against Universal Perturbations.% We calculate the certified robustness against universal perturbations (UAP/ Backdoor) given a trained model. | https://github.com/ruoxi-jia-group/Universal_Pert_Cert | 4 | 1| 
 | 20230211T22:23:20Z | A wordpress backdoor plugin | https://github.com/Infinity242/Wordpress-Backdoor | 0 | 0| 
 | 20230211T20:26:54Z | Create a backdoor PHP file easily | https://github.com/fish-hue/Backdoor-PHP-maker | 0 | 0| 
-| 20230211T19:42:28Z | Reverse Shell is a minimalistic implementation of a reverse shell backdoor that we can implement to establish a connection between the target computer and the control system. | https://github.com/kartikmehta8/reverse-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
