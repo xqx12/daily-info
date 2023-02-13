@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T13:22:25Z | an online boutique .. buy as you scroll  | https://github.com/JyteCeo/Fuzzion-Hub | 0 | 0| 
 | 20230213T12:52:18Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8697 | 974| 
 | 20230213T12:10:00Z | Null | https://github.com/Renzs90/fuzzy-succotash | 0 | 0| 
 | 20230213T12:02:57Z | Fuzz directories on web applications  | https://github.com/nathantheperson/dirfuzzenum | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20230213T02:03:30Z | 🔎 The fuzzysort library implemented as a handy React component | https://github.com/tresabhi/react-fuzzysort | 0 | 0| 
 | 20230213T01:54:24Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 1| 
 | 20230213T01:41:48Z | Null | https://github.com/pa-ruby-archive/external_oss-fuzz | 0 | 0| 
-| 20230213T00:56:46Z | Source Code for Services Fuzzy Search | https://github.com/VPMSourceCode/Services_Fuzzy_Search | 0 | 0| 
 
 
 
