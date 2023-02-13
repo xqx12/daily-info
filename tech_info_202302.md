@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T01:38:40Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
+| 20230213T01:54:56Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
 | 20230212T21:39:16Z | A backdoor written in go | https://github.com/borzacchiello/brev | 0 | 0| 
 | 20230212T20:01:11Z | Null | https://github.com/Alaqian/Pruning-Defense-Against-Backdooring-Attacks-on-Deep-Neural-Networks | 0 | 0| 
 | 20230212T19:55:08Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 13 | 4| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T01:56:44Z | 🔎 The fuzzysort library implemented as a handy React component | https://github.com/tresabhi/react-fuzzysort | 0 | 0| 
 | 20230213T01:54:24Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 3 | 1| 
 | 20230213T01:41:48Z | Null | https://github.com/pa-ruby-archive/external_oss-fuzz | 0 | 0| 
 | 20230213T00:56:46Z | Source Code for Services Fuzzy Search | https://github.com/VPMSourceCode/Services_Fuzzy_Search | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20230212T22:20:49Z | Null | https://github.com/DanielEbert/conanFuzzExample | 0 | 0| 
 | 20230212T22:13:49Z | Null | https://github.com/spheeere98/mifare_fuzzer | 0 | 0| 
 | 20230212T21:19:28Z | _.capricorniano._ | https://github.com/OnoOzaky8/fuzzy-octo-meme.json | 0 | 0| 
-| 20230212T20:48:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1269 | 168| 
 
 
 
