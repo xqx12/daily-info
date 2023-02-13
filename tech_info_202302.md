@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230212 | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935| 
+| 20230212 | 复现和分析2020年发现的Shadowsocks 重定向漏洞，利用已知明文攻击可能造成中间人攻击 | https://www.freebuf.com/articles/blockchain-articles/357051.html| 
 | 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
 | 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
 | 20230210 | 部分公开的Black Hat Asia 2023的议题题目 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
@@ -25,7 +26,6 @@
 | 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | https://sec.today/pulses/5c2fad2b-9f67-4015-af72-5d88df520361/| 
 | 20230209 | Pwn2Own Austin 2021 中用来获取Netgear R6700v3 RCE的漏洞细节。Netgear R6700v3在检查更新文件时curl 命令使用-k参数未校验证书的合法性，并在处理该文件时存在堆溢出，从而导致伪造相关更新文件，进而造成WAN端的未认证RCE。 | https://www.synacktiv.com/en/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html| 
 | 20230209 | 可远程导入加密PE文件到内存中解密并运行，实现无文件加载 | https://github.com/TheD1rkMtr/FilelessPELoader| 
-| 20230209 | Dompdf 项目中存在反序列化导致的 RCE 漏洞，该漏洞是因为 CVE-2023-23924 修复不完整导致可以绕过补丁进行攻击。 | http://securityonline.info/cve-2023-24813-rce-flaw-dompdf-project/| 
 
 
 # 安全维基 推荐

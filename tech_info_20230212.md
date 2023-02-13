@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230212 | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935| 
+| 20230212 | 复现和分析2020年发现的Shadowsocks 重定向漏洞，利用已知明文攻击可能造成中间人攻击 | https://www.freebuf.com/articles/blockchain-articles/357051.html| 
 
 
 # 安全维基 推荐
