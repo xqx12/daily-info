@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T23:21:42Z | Null | https://github.com/Doctype02/exploitdb | 0 | 0| 
+| 20230212T23:14:04Z | AndroRAT is a capability that can be used to inject a root exploit as a silent installation to perform a malicious task on the device. This AndroRAT is designed to exploit CVE-2015-1805, a vulnerability that was discovered and made public in 2016. | https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805 | 0 | 0| 
+| 20230212T21:23:38Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
+| 20230212T14:52:22Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/suldyee/Valorant-External-Cheat | 2 | 0| 
 | 20230212T13:58:10Z | Repository containing Solidity exploits that must be managed when developing smart contract. | https://github.com/pierobassa/Solidity-Exploits | 0 | 0| 
 | 20230212T12:51:39Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 3 | 0| 
 | 20230212T12:09:49Z | A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0784 | 0 | 0| 
 | 20230212T11:04:14Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 3 | 1| 
 | 20230212T10:25:08Z | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | 3 | 2| 
 | 20230212T08:07:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12729 | 2180| 
-| 20230212T07:08:40Z | This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux. It uses the fork in the following link | https://github.com/P2Enjoy/kohya_ss-docker | 11 | 1| 
-| 20230212T02:34:21Z | Get Your Life With L33THub A Roblox Exploit Script! | https://github.com/GlitterLov3r/L33THub | 0 | 0| 
-| 20230212T02:27:26Z | A interesting trick I found online for something I was trying to exploit in the past - leaving it here in case I need it again. | https://github.com/familiardisaster/test | 0 | 0| 
-| 20230212T02:09:42Z | Code Exploitation | https://github.com/SounakMandal/SecureIOT | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230212T22:53:40Z | Null | https://github.com/kach9201/fuzzy-profgen | 0 | 0| 
+| 20230212T22:20:49Z | Null | https://github.com/DanielEbert/conanFuzzExample | 0 | 0| 
+| 20230212T22:13:49Z | Null | https://github.com/spheeere98/mifare_fuzzer | 0 | 0| 
+| 20230212T21:19:28Z | _.capricorniano._ | https://github.com/OnoOzaky8/fuzzy-octo-meme.json | 0 | 0| 
+| 20230212T20:48:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1269 | 168| 
+| 20230212T17:01:36Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 14 | 1| 
+| 20230212T15:12:06Z | Null | https://github.com/Tykky/fuzzy-engine | 0 | 0| 
 | 20230212T13:45:08Z | A filter chain based on php + python fuzz and generating procedures. | https://github.com/ProbiusOfficial/filterChainFuzzerAndGenerator | 26 | 2| 
 | 20230212T13:34:30Z | Null | https://github.com/Kepins/Laboratory-AI-fuzzy | 0 | 0| 
 | 20230212T11:56:22Z | Null | https://github.com/IX4ndeR/fuzzy-potato | 0 | 0| 
-| 20230212T11:47:35Z | Null | https://github.com/d1was/fuzzy-labs | 0 | 0| 
-| 20230212T11:24:04Z | Null | https://github.com/NEdm1/r.vsh.fuzzy | 0 | 0| 
-| 20230212T11:04:57Z | Project for postgresql generational fuzzing automatization | https://github.com/St-elin/pgfuzz | 1 | 0| 
-| 20230212T11:01:26Z | Null | https://github.com/Tykky/fuzzy-engine | 0 | 0| 
-| 20230212T10:19:18Z | Null | https://github.com/cajcajqion/fuzzy-funicular | 0 | 0| 
-| 20230212T10:02:52Z | Null | https://github.com/Squirre17/xv-fuzz | 0 | 0| 
-| 20230212T09:51:41Z | Null | https://github.com/fuzzy123-ai/fuzzy123-ai.github.io | 0 | 0| 
 
 
 
