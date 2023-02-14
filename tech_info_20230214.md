@@ -19,9 +19,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230214T13:01:48Z | CVE-2022-28368 | Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file). | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230214T11:56:15Z | CVE-2023-25066 | Cross-Site Request Forgery (CSRF) vulnerability in FolioVision FV Flowplayer Video Player plugin <= 7.5.30.7212 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25066 | | 
 | 20230214T11:56:11Z | CVE-2022-43469 | Cross-Site Request Forgery (CSRF) vulnerability in Orchestrated Corona Virus (COVID-19) Banner & Live Data plugin <= 1.7.0.6 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43469 | | 
-| 20230214T08:38:25Z | CVE-2022-28368 | Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file). | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230214T06:27:50Z | CVE-2023-22375 | ** UNSUPPORTED WHEN ASSIGNED ** Cross-site request forgery (CSRF) vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a remote unauthenticated attacker to hijack the authentication and conduct arbitrary operations by having a logged-in user to view a malicious page. NOTE: This vuln CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22375 | | 
 | 20230214T06:27:47Z | CVE-2023-22370 | ** UNSUPPORTED WHEN ASSIGNED ** Stored cross-site scripting vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a network-adjacent authenticated attacker to inject an arbitrary script. NOTE: This vulnerability only affects products that are no longer supported by the developer. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22370 | | 
 | 20230214T06:27:43Z | CVE-2023-0655 | SonicWall Email Security contains a vulnerability that could permit a remote unauthenticated attacker access to an error page that includes sensitive information about users email addresses. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0655 | | 
@@ -34,7 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230214T12:13:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10612 | 345| 
+| 20230214T13:01:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10613 | 345| 
 | 20230214T03:17:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 211 | 1| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
@@ -48,11 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T12:44:28Z | Hacking is the act of identifying and then exploiting weaknesses in a computer system or network, usually to gain unauthorized access to personal or organizational data | https://github.com/deepakkumar392/villain2.0 | 0 | 0| 
+| 20230214T11:55:20Z | Automotive Security Analyzer for Exploitability Risks (AutoSAlfER) | https://github.com/MarSalfer/AutoSAlfER | 1 | 0| 
+| 20230214T11:54:26Z | Null | https://github.com/h4ckm310n/Container-Vulnerability-Exploit | 0 | 0| 
+| 20230214T11:42:32Z | The IPPro is a 16-bit signed fixed-point, five-stage balanced pipelined RISC architecture that exploits the DSP48E1 features and provides balance among performance, latency and efficient resource utilization.  | https://github.com/fsiddiqui85/IPPro | 0 | 0| 
+| 20230214T11:18:01Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
+| 20230214T10:40:28Z | forge solidity exploit format example | https://github.com/sysfixed/forge_solidity_exploit_format_example | 0 | 0| 
+| 20230214T10:00:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4933 | 713| 
+| 20230214T03:19:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12739 | 2180| 
 | 20230214T02:04:56Z | Null | https://github.com/exerunsyou/ExploitWare0.4 | 0 | 0| 
 | 20230214T01:46:29Z | Null | https://github.com/exerunsyou/ExploitWare | 0 | 0| 
-| 20230214T01:33:22Z | Bl0ck: a tool to interrupt the transmission of QoS Data frames in Wi-Fi 5 and 6 networks | https://github.com/efchatz/Bl0ck | 2 | 0| 
-| 20230214T01:21:38Z | this is a cracked version of sypanse( witch is paid). it is a roblox hack/exploit. use at your owne risk | https://github.com/white1out/cracked-synpase | 0 | 0| 
-| 20230214T01:03:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 201 | 39| 
 
 
 # backdoor on Github 推荐
@@ -64,6 +69,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
+| 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 
 
 # big4 on Github 推荐
