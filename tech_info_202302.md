@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T01:46:29Z | Null | https://github.com/exerunsyou/ExploitWare | 0 | 0| 
 | 20230214T01:33:22Z | Bl0ck: a tool to interrupt the transmission of QoS Data frames in Wi-Fi 5 and 6 networks | https://github.com/efchatz/Bl0ck | 2 | 0| 
 | 20230214T01:21:38Z | this is a cracked version of sypanse( witch is paid). it is a roblox hack/exploit. use at your owne risk | https://github.com/white1out/cracked-synpase | 0 | 0| 
 | 20230214T01:03:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 201 | 39| 
@@ -95,7 +96,6 @@
 | 20230213T23:40:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-by | 1 | 0| 
 | 20230213T23:40:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-by | 1 | 0| 
 | 20230213T21:26:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 69 | 26| 
-| 20230213T13:32:55Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
