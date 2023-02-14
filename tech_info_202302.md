@@ -101,21 +101,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230213T13:00:18Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 142 | 32| 
-| 20230213T12:40:52Z | Null | https://github.com/VexWasHere/backdoor | 0 | 0| 
-| 20230213T10:22:35Z | hacking all sosmed method backdoor | https://github.com/mrben45/msfauto | 0 | 0| 
-| 20230213T08:47:19Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/DoTheSmartThings/CleanThings | 0 | 0| 
-| 20230213T08:26:25Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 96 | 17| 
-| 20230213T02:03:04Z | Create a backdoor PHP file easily | https://github.com/fish-hue/bdphp | 0 | 0| 
-| 20230213T01:54:56Z | Detection of backdoor attacks in the audio domain | https://github.com/OrsonTyphanel93/Detection-of-backdoor-attacks-in-the-audio-domain-AI-Cybersecurity-Defense- | 0 | 0| 
-| 20230212T21:39:16Z | A backdoor written in go | https://github.com/borzacchiello/brev | 0 | 0| 
-| 20230212T20:01:11Z | Null | https://github.com/Alaqian/Pruning-Defense-Against-Backdooring-Attacks-on-Deep-Neural-Networks | 0 | 0| 
-| 20230212T19:55:08Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 13 | 4| 
+| 20230213T22:14:41Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 1 | 0| 
+| 20230213T22:12:19Z | Null | https://github.com/carlospolop/LambdaLayerBackdoor | 2 | 1| 
+| 20230213T21:32:08Z | This repository is the official implementation of the paper %ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms.%  ASSET achieves state-of-the-art reliability in detecting poisoned samples in end-to-end supervised learning/ self-supervised learning/ transfer learning. | https://github.com/ruoxi-jia-group/ASSET | 2 | 0| 
+| 20230213T19:38:59Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 17 | 1| 
+| 20230213T19:06:11Z | Null | https://github.com/sanlimustafa/BackDoor_V.3.0 | 0 | 0| 
+| 20230213T18:34:10Z | Null | https://github.com/Guo-lab/graphBackdoor_ssl | 0 | 0| 
+| 20230213T18:17:51Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
+| 20230213T16:54:13Z | Shell Backdoor  | https://github.com/wibuhaxor/shell | 0 | 0| 
+| 20230213T16:52:56Z | shell Backdoor | https://github.com/wibuhaxor/shell7x | 0 | 0| 
+| 20230213T16:51:40Z | Shell backdoor  | https://github.com/wibuhaxor/shell7 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230213T19:16:04Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 2 | 0| 
+| 20230213T15:12:12Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 43 | 2| 
 | 20230213T07:28:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2153 | 606| 
 | 20230213T03:44:57Z | Symbolic Execution - all in one | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20230211T22:48:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 15 | 8| 
@@ -124,8 +126,6 @@
 | 20230209T21:49:03Z | A survey of literature and applications for symbolic execution tools | https://github.com/LinqLover/symbolic-execution-survey | 0 | 0| 
 | 20230209T21:10:32Z | ISA automatic test generator using the isla symbolic execution tool | https://github.com/rems-project/isla-testgen | 2 | 0| 
 | 20230209T10:25:59Z | Template code for dynamic symbolic execution workshop | https://github.com/hacker-volodya/dse-workshop | 0 | 0| 
-| 20230209T01:38:31Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 295 | 75| 
-| 20230208T11:53:57Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 84 | 17| 
 
 
 # big4 on Github 推荐
