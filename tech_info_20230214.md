@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T13:05:41Z | Null | https://github.com/raaleksej/fuzzy-waddle | 0 | 0| 
 | 20230214T11:45:24Z | HiveMQ Fuzzing | https://github.com/Nereuxofficial/HiveMQ-Fuzzing | 0 | 0| 
 | 20230214T10:56:09Z | Null | https://github.com/smoia/fuzzy-invention | 0 | 0| 
 | 20230214T09:39:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4564 | 1097| 

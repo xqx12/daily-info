@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T13:05:41Z | Null | https://github.com/raaleksej/fuzzy-waddle | 0 | 0| 
 | 20230214T11:45:24Z | HiveMQ Fuzzing | https://github.com/Nereuxofficial/HiveMQ-Fuzzing | 0 | 0| 
 | 20230214T10:56:09Z | Null | https://github.com/smoia/fuzzy-invention | 0 | 0| 
 | 20230214T09:39:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4564 | 1097| 
@@ -150,7 +151,6 @@
 | 20230214T00:49:57Z | SUSE Rancher KB website alternative | https://github.com/zaggash/rancherkb-fuzz | 0 | 0| 
 | 20230214T00:15:46Z | Mutation Protocol Fuzzing tool in python act like client that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 0 | 0| 
 | 20230213T19:39:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 242 | 36| 
-| 20230213T17:14:50Z | Null | https://github.com/FizzaBatool/FuzzyLogicInterface | 0 | 0| 
 
 
 
