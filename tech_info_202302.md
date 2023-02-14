@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230214 | 介绍渗透攻击电信网络的过程 | http://link.medium.com/LDhm3bGroxb| 
+| 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
+| 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
 | 20230213 | 宋教授对 LeakSanitizer 的原理介绍 | http://maskray.me/blog/2023-02-12-all-about-leak-sanitizer| 
 | 20230213 | Web 应用黑盒模糊测试工具 Firefly | https://blog.yeswehack.com/yeswerhackers/firefly-smart-black-box-fuzzer-web-applications/| 
 | 20230213 | Linux tty子系统UAF漏洞（CVE-2020-29661）详情与利用思路 | https://www.youtube.com/watch?v=96f8H48d-y8| 
@@ -23,9 +26,6 @@
 | 20230209 | NewsPenguin:针对巴基斯坦的新组织使用的植入插件分析 | https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool| 
 | 20230209 | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA| 
 | 20230209 | DiceCTF 2023 - seaside && vinaigrette offical writeup | http://priv.pub/posts/dicectf-2023| 
-| 20230209 | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges| 
-| 20230209 | bi0sCTF 2022 Offical source code && env && sol | https://github.com/teambi0s/bi0sCTF/tree/main/2022| 
-| 20230209 | CUDA Program Intro and Reverse | https://bbs.kanxue.com/thread-275989.htm| 
 
 
 # 安全维基 推荐
@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230214T01:52:44Z | CVE-2023-0804 | LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3609, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0804 | | 
-| 20230214T01:52:40Z | CVE-2023-0803 | LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3516, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0803 | | 
-| 20230214T01:52:37Z | CVE-2023-0802 | LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3724, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0802 | | 
-| 20230214T01:52:33Z | CVE-2023-0801 | LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6778, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0801 | | 
-| 20230214T01:52:29Z | CVE-2023-0800 | LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3502, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0800 | | 
-| 20230214T01:52:26Z | CVE-2023-0799 | LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3701, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0799 | | 
-| 20230214T01:52:22Z | CVE-2023-0798 | LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3400, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0798 | | 
-| 20230214T01:52:18Z | CVE-2023-0797 | LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6921, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0797 | | 
-| 20230214T01:52:15Z | CVE-2023-0796 | LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3592, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0796 | | 
-| 20230214T01:52:11Z | CVE-2023-0795 | LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3488, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0795 | | 
+| 20230214T11:56:15Z | CVE-2023-25066 | Cross-Site Request Forgery (CSRF) vulnerability in FolioVision FV Flowplayer Video Player plugin <= 7.5.30.7212 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25066 | | 
+| 20230214T11:56:11Z | CVE-2022-43469 | Cross-Site Request Forgery (CSRF) vulnerability in Orchestrated Corona Virus (COVID-19) Banner & Live Data plugin <= 1.7.0.6 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43469 | | 
+| 20230214T08:38:25Z | CVE-2022-28368 | Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file). | https://github.com/rvizx/CVE-2022-28368 | | 
+| 20230214T06:27:50Z | CVE-2023-22375 | ** UNSUPPORTED WHEN ASSIGNED ** Cross-site request forgery (CSRF) vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a remote unauthenticated attacker to hijack the authentication and conduct arbitrary operations by having a logged-in user to view a malicious page. NOTE: This vuln CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22375 | | 
+| 20230214T06:27:47Z | CVE-2023-22370 | ** UNSUPPORTED WHEN ASSIGNED ** Stored cross-site scripting vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a network-adjacent authenticated attacker to inject an arbitrary script. NOTE: This vulnerability only affects products that are no longer supported by the developer. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22370 | | 
+| 20230214T06:27:43Z | CVE-2023-0655 | SonicWall Email Security contains a vulnerability that could permit a remote unauthenticated attacker access to an error page that includes sensitive information about users email addresses. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0655 | | 
+| 20230214T06:27:40Z | CVE-2023-25614 | SAP NetWeaver AS ABAP (BSP Framework) application - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allow an unauthenticated attacker to inject the code that can be executed by the application over the network. On successful exploitation it can gain access to the sensitive information which le CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25614 | | 
+| 20230214T06:27:37Z | CVE-2023-24530 | SAP BusinessObjects Business Intelligence Platform (CMC) - versions 420, 430, allows an authenticated admin user to upload malicious code that can be executed by the application over the network. On successful exploitation, attacker can perform operations that may completely compromise the application causing high impa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24530 | | 
+| 20230214T06:27:33Z | CVE-2023-24529 | Due to lack of proper input validation, BSP application (CRM_BSP_FRAME) - versions 700, 701, 702, 731, 740, 750, 751, 752, 75C, 75D, 75E, 75F, 75G, 75H, allow malicious inputs from untrusted sources, which can be leveraged by an attacker to execute a Reflected Cross-Site Scripting (XSS) attack. As a result, an attacker CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24529 | | 
+| 20230214T06:27:30Z | CVE-2023-24528 | SAP Fiori apps for Travel Management in SAP ERP (My Travel Requests) - version 600, allows an authenticated attacker to exploit a certain misconfigured application endpoint to view sensitive data. This endpoint is normally exposed over the network and successful exploitation can lead to exposure of data like travel doc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24528 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T12:13:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10612 | 345| 
+| 20230214T03:17:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 211 | 1| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
-| 20230214T01:24:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10606 | 346| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
 | 20230213T07:28:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2153 | 606| 
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
-| 20230211T07:00:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 210 | 1| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 | 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
@@ -101,8 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T09:20:00Z | Null | https://github.com/carlospolop/LambdaLayerBackdoor | 3 | 1| 
 | 20230213T22:14:41Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 1 | 0| 
-| 20230213T22:12:19Z | Null | https://github.com/carlospolop/LambdaLayerBackdoor | 2 | 1| 
 | 20230213T21:32:08Z | This repository is the official implementation of the paper %ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms.%  ASSET achieves state-of-the-art reliability in detecting poisoned samples in end-to-end supervised learning/ self-supervised learning/ transfer learning. | https://github.com/ruoxi-jia-group/ASSET | 2 | 0| 
 | 20230213T19:38:59Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 17 | 1| 
 | 20230213T19:06:11Z | Null | https://github.com/sanlimustafa/BackDoor_V.3.0 | 0 | 0| 
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T11:45:24Z | HiveMQ Fuzzing | https://github.com/Nereuxofficial/HiveMQ-Fuzzing | 0 | 0| 
+| 20230214T10:56:09Z | Null | https://github.com/smoia/fuzzy-invention | 0 | 0| 
+| 20230214T09:39:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4564 | 1097| 
+| 20230214T09:12:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1270 | 168| 
+| 20230214T04:47:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 163 | 18| 
 | 20230214T01:01:20Z | Repositório para o trabalho de conclusão do curso de Ciencias da Computação. | https://github.com/samuelmartinscoutinho/fuzzytcc | 0 | 0| 
 | 20230214T00:49:57Z | SUSE Rancher KB website alternative | https://github.com/zaggash/rancherkb-fuzz | 0 | 0| 
 | 20230214T00:15:46Z | Mutation Protocol Fuzzing tool in python act like client that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 0 | 0| 
 | 20230213T19:39:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 242 | 36| 
-| 20230213T17:05:11Z | Null | https://github.com/reewardius/bbFuzzing.txt | 74 | 13| 
-| 20230213T13:52:26Z | Null | https://github.com/umraan-xm/Fuzzy-Logic-Evaluator | 0 | 0| 
-| 20230213T13:49:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8367 | 1820| 
-| 20230213T13:48:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4564 | 1097| 
-| 20230213T13:44:52Z | an online boutique .. buy as you scroll  | https://github.com/JyteCeo/Fuzzion-Hub | 0 | 0| 
-| 20230213T12:52:18Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8697 | 974| 
+| 20230213T17:14:50Z | Null | https://github.com/FizzaBatool/FuzzyLogicInterface | 0 | 0| 
 
 
 
