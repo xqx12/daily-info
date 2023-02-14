@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T13:18:12Z | DaBestOne | https://github.com/FurryBoyYT/DoorsScriptHackExploit | 0 | 0| 
+| 20230214T13:17:06Z | roblox 0x exploit | https://github.com/Pieeees/0x | 0 | 0| 
 | 20230214T12:44:28Z | Hacking is the act of identifying and then exploiting weaknesses in a computer system or network, usually to gain unauthorized access to personal or organizational data | https://github.com/deepakkumar392/villain2.0 | 0 | 0| 
 | 20230214T11:55:20Z | Automotive Security Analyzer for Exploitability Risks (AutoSAlfER) | https://github.com/MarSalfer/AutoSAlfER | 1 | 0| 
 | 20230214T11:54:26Z | Null | https://github.com/h4ckm310n/Container-Vulnerability-Exploit | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20230214T10:40:28Z | forge solidity exploit format example | https://github.com/sysfixed/forge_solidity_exploit_format_example | 0 | 0| 
 | 20230214T10:00:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4933 | 713| 
 | 20230214T03:19:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12739 | 2180| 
-| 20230214T02:04:56Z | Null | https://github.com/exerunsyou/ExploitWare0.4 | 0 | 0| 
-| 20230214T01:46:29Z | Null | https://github.com/exerunsyou/ExploitWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
