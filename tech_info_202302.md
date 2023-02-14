@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T01:21:38Z | this is a cracked version of sypanse( witch is paid). it is a roblox hack/exploit. use at your owne risk | https://github.com/white1out/cracked-synpase | 0 | 0| 
 | 20230214T01:03:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 201 | 39| 
 | 20230213T23:54:21Z | Possibly original (yet probably not) generalized game playing AI | https://github.com/J-sandler/DynamicExploitation | 0 | 0| 
 | 20230213T23:42:07Z | Baicells Nova 436Q, Nova 430E, Nova 430I, and Neutrino 430 LTE TDD eNodeB devices with firmware through QRTB 2.12.7 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been test CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0776 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230213T21:26:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 69 | 26| 
 | 20230213T13:32:55Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 0 | 0| 
 | 20230213T13:18:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5261 | 734| 
-| 20230213T13:02:54Z | Oracle E-BS CVE-2022-21587 Exploit | https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit | 8 | 0| 
 
 
 # backdoor on Github 推荐
