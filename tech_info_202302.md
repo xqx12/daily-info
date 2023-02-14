@@ -13,6 +13,7 @@
 | 20230213 | PS4和PS5上的漏洞利用过程：修改游戏存档文件，利用栈溢出漏洞实现shellcode执行，利用越界写漏洞逃逸emulator。 | https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/| 
 | 20230213 | BNB Beacon Chain 无限铸币漏洞 | https://jumpcrypto.com/helping-secure-bnb-chain-through-responsible-disclosure/| 
 | 20230213 | 替换剪贴板中钱包地址的恶意软件再次活跃，使用了新的混淆方法。 | https://blog.phylum.io/phylum-discovers-revived-crypto-wallet-address-replacement-attack| 
+| 20230213 | 对Bing Chat进行提示词泄漏攻击 | https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/| 
 | 20230212 | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935| 
 | 20230212 | 复现和分析2020年发现的Shadowsocks 重定向漏洞，利用已知明文攻击可能造成中间人攻击 | https://www.freebuf.com/articles/blockchain-articles/357051.html| 
 | 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
@@ -25,7 +26,6 @@
 | 20230209 | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges| 
 | 20230209 | bi0sCTF 2022 Offical source code && env && sol | https://github.com/teambi0s/bi0sCTF/tree/main/2022| 
 | 20230209 | CUDA Program Intro and Reverse | https://bbs.kanxue.com/thread-275989.htm| 
-| 20230209 | DiceCTF 2022 - recursive-csp && unfinished && jwtjail && chess.rs offical writeup | https://brycec.me/posts/dicectf_2023_challenges| 
 
 
 # 安全维基 推荐

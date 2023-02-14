@@ -13,6 +13,7 @@
 | 20230213 | PS4和PS5上的漏洞利用过程：修改游戏存档文件，利用栈溢出漏洞实现shellcode执行，利用越界写漏洞逃逸emulator。 | https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/| 
 | 20230213 | BNB Beacon Chain 无限铸币漏洞 | https://jumpcrypto.com/helping-secure-bnb-chain-through-responsible-disclosure/| 
 | 20230213 | 替换剪贴板中钱包地址的恶意软件再次活跃，使用了新的混淆方法。 | https://blog.phylum.io/phylum-discovers-revived-crypto-wallet-address-replacement-attack| 
+| 20230213 | 对Bing Chat进行提示词泄漏攻击 | https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/| 
 
 
 # 安全维基 推荐
