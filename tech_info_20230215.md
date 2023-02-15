@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230215T13:21:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-aq | 0 | 0| 
+| 20230215T13:22:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T13:21:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T12:10:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12749 | 2180| 
 | 20230215T12:09:23Z | Repo for POC%s to demonstrate XSS Exploits | https://github.com/MWR-CyberSec/XSS-POC | 0 | 0| 
