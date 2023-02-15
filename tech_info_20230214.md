@@ -10,6 +10,8 @@
 | 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
 | 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
 | 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
+| 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
+| 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
 
 
 # 安全维基 推荐

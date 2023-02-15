@@ -10,6 +10,8 @@
 | 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
 | 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
 | 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
+| 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
+| 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
 | 20230213 | 宋教授对 LeakSanitizer 的原理介绍 | http://maskray.me/blog/2023-02-12-all-about-leak-sanitizer| 
 | 20230213 | Web 应用黑盒模糊测试工具 Firefly | https://blog.yeswehack.com/yeswerhackers/firefly-smart-black-box-fuzzer-web-applications/| 
 | 20230213 | Linux tty子系统UAF漏洞（CVE-2020-29661）详情与利用思路 | https://www.youtube.com/watch?v=96f8H48d-y8| 
@@ -24,8 +26,6 @@
 | 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
 | 20230210 | 部分公开的Black Hat Asia 2023的议题题目 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
 | 20230210 | windows kernel中注册表相关的一个UAF漏洞，当内存压力过大导致内存分配失败，负责释放注册表子键对象的函数可能直接返回，从而导致内存释放失败，造成UAF | https://bugs.chromium.org/p/project-zero/issues/detail?id=2369| 
-| 20230209 | NewsPenguin:针对巴基斯坦的新组织使用的植入插件分析 | https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool| 
-| 20230209 | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA| 
 
 
 # 安全维基 推荐
