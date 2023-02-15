@@ -117,6 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T12:32:22Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 620 | 111| 
 | 20230214T17:20:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2154 | 606| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
 | 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
@@ -126,7 +127,6 @@
 | 20230210T19:29:50Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 | 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 5| 
 | 20230209T21:49:03Z | A survey of literature and applications for symbolic execution tools | https://github.com/LinqLover/symbolic-execution-survey | 0 | 0| 
-| 20230209T21:10:32Z | ISA automatic test generator using the isla symbolic execution tool | https://github.com/rems-project/isla-testgen | 2 | 0| 
 
 
 # big4 on Github 推荐
