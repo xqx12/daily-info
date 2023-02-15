@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:47:22Z | Null | https://github.com/exerunsyou/ExploitWare-Scripthub | 0 | 0| 
 | 20230215T02:44:37Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 | 20230215T02:37:27Z | The implementation of %Exploiting Asymmetric Influence between Instances for Label Enhancement% | https://github.com/zhanghrswpu/AILE | 0 | 0| 
 | 20230215T02:31:04Z | fast free roblox exploit using legacy launch wrd api. made by coolpro1. make sure to STAR ⭐ this hack if this works!! | https://github.com/lol19093109/wrd | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230214T23:01:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pj | 1 | 0| 
 | 20230214T23:00:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pj | 1 | 0| 
 | 20230214T22:59:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pj | 1 | 0| 
-| 20230214T22:35:08Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 63 | 29| 
 
 
 # backdoor on Github 推荐
