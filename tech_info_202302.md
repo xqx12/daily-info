@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:18:05Z | CVE-2023-23618 | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | | 
+| 20230215T02:18:01Z | CVE-2023-23381 | Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23381 | | 
+| 20230215T02:17:58Z | CVE-2023-22743 | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, by carefully crafting DLL and putting into a subdirectory of a specific name living next to the Git for Windows installer, Windows can be tricked into side-loading said DLL. This potentially allows users wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22743 | | 
+| 20230215T02:17:38Z | CVE-2022-29557 | LexisNexis Firco Compliance Link 3.7 allows CSRF. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29557 | | 
 | 20230215T00:06:14Z | CVE-2023-21823 | Windows Graphics Component Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21823 | | 
 | 20230215T00:06:10Z | CVE-2023-21815 | Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21815 | | 
 | 20230215T00:06:07Z | CVE-2023-21808 | .NET and Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21808 | | 
 | 20230215T00:06:03Z | CVE-2023-21778 | Microsoft Dynamics Unified Service Desk Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21778 | | 
 | 20230215T00:05:59Z | CVE-2023-21567 | Visual Studio Denial of Service Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21567 | | 
 | 20230215T00:05:54Z | CVE-2023-21566 | Visual Studio Elevation of Privilege Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21566 | | 
-| 20230215T00:05:51Z | CVE-2023-21553 | Azure DevOps Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21553 | | 
-| 20230215T00:05:26Z | CVE-2023-23074 | Cross site scripting (XSS) vulnerability in Zoho ManageEngine ServiceDesk Plus 14 via embedding videos in the language component. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23074 | | 
-| 20230215T00:05:20Z | CVE-2023-25724 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25724 | | 
-| 20230215T00:05:17Z | CVE-2023-25723 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25723 | | 
 
 
 # klee on Github 推荐
