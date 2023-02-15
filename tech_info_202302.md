@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:34:47Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 243 | 36| 
 | 20230215T02:13:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 715 | 95| 
 | 20230214T23:18:05Z | Null | https://github.com/saldavidroth/fuzzy-guide | 0 | 0| 
 | 20230214T22:56:14Z | Simple Fuzzing Script with C  | https://github.com/amaym0nn/fuzzing-script-with-c | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20230214T21:14:12Z | assignment-02-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-02-Fuzzyspuffyy | 0 | 0| 
 | 20230214T20:26:01Z | Numerical simulations of article ¨Fuzzy synchronizations of chaotic systems with hidden attractors¨ | https://github.com/Jessica-ZM/Fuzzy_Synchronizations | 0 | 0| 
 | 20230214T19:51:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3414 | 409| 
-| 20230214T18:15:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8370 | 1821| 
 
 
 
