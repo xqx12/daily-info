@@ -95,7 +95,7 @@
 | 20230214T21:14:12Z | assignment-02-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-02-Fuzzyspuffyy | 0 | 0| 
 | 20230214T20:26:01Z | Numerical simulations of article ¨Fuzzy synchronizations of chaotic systems with hidden attractors¨ | https://github.com/Jessica-ZM/Fuzzy_Synchronizations | 0 | 0| 
 | 20230214T19:51:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3414 | 409| 
-| 20230214T18:15:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8370 | 1821| 
+| 20230214T18:15:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8370 | 1822| 
 | 20230214T13:05:41Z | Null | https://github.com/raaleksej/fuzzy-waddle | 0 | 0| 
 
 
