@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T13:26:09Z | A library for ROBLOX Script Executors to load / save configs (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 2 | 0| 
+| 20230215T13:23:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T13:22:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T13:21:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T12:10:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12749 | 2180| 
@@ -95,8 +97,6 @@
 | 20230215T11:10:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadjhnv4274-tenant-app-t20Ot-accommodate-exploit | 0 | 0| 
 | 20230215T11:06:24Z | Exploit Menu privé récent indétectable pour Garry%s Mod | https://github.com/bdlglua/ExploitMenuGlua | 0 | 0| 
 | 20230215T10:04:25Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2347 | 340| 
-| 20230215T02:47:22Z | Null | https://github.com/exerunsyou/ExploitWare-Scripthub | 0 | 0| 
-| 20230215T02:44:37Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
