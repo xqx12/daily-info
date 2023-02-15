@@ -29,7 +29,7 @@
 | 20230214T21:55:00Z | CVE-2023-21691 | Microsoft Protected Extensible Authentication Protocol (PEAP) Information Disclosure Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21691 | | 
 | 20230214T21:54:56Z | CVE-2023-21690 | Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21690 | | 
 | 20230214T21:54:53Z | CVE-2023-21689 | Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21689 | | 
-| 20230214T13:01:48Z | CVE-2022-28368 | Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file). | https://github.com/rvizx/CVE-2022-28368 | | 
+| 20230214T21:54:49Z | CVE-2023-21688 | NT OS Kernel Elevation of Privilege Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21688 | | 
 
 
 # klee on Github 推荐
