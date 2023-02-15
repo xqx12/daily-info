@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:30:03Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 | 20230215T02:29:01Z | fast free roblox exploit using legacy launch wrd api. made by coolpro1. make sure to STAR ⭐ this hack if this works!! | https://github.com/lol19093109/wrd | 0 | 0| 
-| 20230215T02:28:44Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 | 20230215T02:18:05Z | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | 0 | 0| 
 | 20230214T23:06:44Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 29 | 3| 
 | 20230214T23:01:09Z | G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-Sploit | 6 | 3| 
