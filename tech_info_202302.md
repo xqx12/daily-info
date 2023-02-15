@@ -9,6 +9,7 @@
 | 20230214 | 介绍渗透攻击电信网络的过程 | http://link.medium.com/LDhm3bGroxb| 
 | 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
 | 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
+| 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
 | 20230213 | 宋教授对 LeakSanitizer 的原理介绍 | http://maskray.me/blog/2023-02-12-all-about-leak-sanitizer| 
 | 20230213 | Web 应用黑盒模糊测试工具 Firefly | https://blog.yeswehack.com/yeswerhackers/firefly-smart-black-box-fuzzer-web-applications/| 
 | 20230213 | Linux tty子系统UAF漏洞（CVE-2020-29661）详情与利用思路 | https://www.youtube.com/watch?v=96f8H48d-y8| 
@@ -25,7 +26,6 @@
 | 20230210 | windows kernel中注册表相关的一个UAF漏洞，当内存压力过大导致内存分配失败，负责释放注册表子键对象的函数可能直接返回，从而导致内存释放失败，造成UAF | https://bugs.chromium.org/p/project-zero/issues/detail?id=2369| 
 | 20230209 | NewsPenguin:针对巴基斯坦的新组织使用的植入插件分析 | https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool| 
 | 20230209 | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA| 
-| 20230209 | DiceCTF 2023 - seaside && vinaigrette offical writeup | http://priv.pub/posts/dicectf-2023| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230214T13:01:48Z | CVE-2022-28368 | Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file). | https://github.com/rvizx/CVE-2022-28368 | | 
-| 20230214T11:56:15Z | CVE-2023-25066 | Cross-Site Request Forgery (CSRF) vulnerability in FolioVision FV Flowplayer Video Player plugin <= 7.5.30.7212 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25066 | | 
-| 20230214T11:56:11Z | CVE-2022-43469 | Cross-Site Request Forgery (CSRF) vulnerability in Orchestrated Corona Virus (COVID-19) Banner & Live Data plugin <= 1.7.0.6 versions. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-43469 | | 
-| 20230214T06:27:50Z | CVE-2023-22375 | ** UNSUPPORTED WHEN ASSIGNED ** Cross-site request forgery (CSRF) vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a remote unauthenticated attacker to hijack the authentication and conduct arbitrary operations by having a logged-in user to view a malicious page. NOTE: This vuln CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22375 | | 
-| 20230214T06:27:47Z | CVE-2023-22370 | ** UNSUPPORTED WHEN ASSIGNED ** Stored cross-site scripting vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a network-adjacent authenticated attacker to inject an arbitrary script. NOTE: This vulnerability only affects products that are no longer supported by the developer. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22370 | | 
-| 20230214T06:27:43Z | CVE-2023-0655 | SonicWall Email Security contains a vulnerability that could permit a remote unauthenticated attacker access to an error page that includes sensitive information about users email addresses. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0655 | | 
-| 20230214T06:27:40Z | CVE-2023-25614 | SAP NetWeaver AS ABAP (BSP Framework) application - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allow an unauthenticated attacker to inject the code that can be executed by the application over the network. On successful exploitation it can gain access to the sensitive information which le CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25614 | | 
-| 20230214T06:27:37Z | CVE-2023-24530 | SAP BusinessObjects Business Intelligence Platform (CMC) - versions 420, 430, allows an authenticated admin user to upload malicious code that can be executed by the application over the network. On successful exploitation, attacker can perform operations that may completely compromise the application causing high impa CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24530 | | 
-| 20230214T06:27:33Z | CVE-2023-24529 | Due to lack of proper input validation, BSP application (CRM_BSP_FRAME) - versions 700, 701, 702, 731, 740, 750, 751, 752, 75C, 75D, 75E, 75F, 75G, 75H, allow malicious inputs from untrusted sources, which can be leveraged by an attacker to execute a Reflected Cross-Site Scripting (XSS) attack. As a result, an attacker CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24529 | | 
-| 20230214T06:27:30Z | CVE-2023-24528 | SAP Fiori apps for Travel Management in SAP ERP (My Travel Requests) - version 600, allows an authenticated attacker to exploit a certain misconfigured application endpoint to view sensitive data. This endpoint is normally exposed over the network and successful exploitation can lead to exposure of data like travel doc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24528 | | 
+| 20230215T00:06:14Z | CVE-2023-21823 | Windows Graphics Component Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21823 | | 
+| 20230215T00:06:10Z | CVE-2023-21815 | Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21815 | | 
+| 20230215T00:06:07Z | CVE-2023-21808 | .NET and Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21808 | | 
+| 20230215T00:06:03Z | CVE-2023-21778 | Microsoft Dynamics Unified Service Desk Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21778 | | 
+| 20230215T00:05:59Z | CVE-2023-21567 | Visual Studio Denial of Service Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21567 | | 
+| 20230215T00:05:54Z | CVE-2023-21566 | Visual Studio Elevation of Privilege Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21566 | | 
+| 20230215T00:05:51Z | CVE-2023-21553 | Azure DevOps Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21553 | | 
+| 20230215T00:05:26Z | CVE-2023-23074 | Cross site scripting (XSS) vulnerability in Zoho ManageEngine ServiceDesk Plus 14 via embedding videos in the language component. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23074 | | 
+| 20230215T00:05:20Z | CVE-2023-25724 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25724 | | 
+| 20230215T00:05:17Z | CVE-2023-25723 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25723 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230214T13:01:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10613 | 344| 
+| 20230214T17:48:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10615 | 344| 
+| 20230214T17:20:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2154 | 606| 
 | 20230214T03:17:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 211 | 1| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
-| 20230213T07:28:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2153 | 606| 
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230214T23:06:44Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 29 | 3| 
+| 20230214T23:01:09Z | G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-Sploit | 6 | 3| 
+| 20230214T23:01:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pj | 1 | 0| 
+| 20230214T23:00:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pj | 1 | 0| 
+| 20230214T22:59:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pj | 1 | 0| 
+| 20230214T22:35:03Z | 💉 Example Injector Exec &  For further Development | https://github.com/Serups/Example-Exec | 36 | 9| 
+| 20230214T22:35:02Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 38| 
+| 20230214T21:29:46Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
+| 20230214T21:08:11Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
 | 20230214T13:18:12Z | DaBestOne | https://github.com/FurryBoyYT/DoorsScriptHackExploit | 0 | 0| 
-| 20230214T13:17:06Z | roblox 0x exploit | https://github.com/Pieeees/0x | 0 | 0| 
-| 20230214T12:44:28Z | Hacking is the act of identifying and then exploiting weaknesses in a computer system or network, usually to gain unauthorized access to personal or organizational data | https://github.com/deepakkumar392/villain2.0 | 0 | 0| 
-| 20230214T11:55:20Z | Automotive Security Analyzer for Exploitability Risks (AutoSAlfER) | https://github.com/MarSalfer/AutoSAlfER | 1 | 0| 
-| 20230214T11:54:26Z | Null | https://github.com/h4ckm310n/Container-Vulnerability-Exploit | 0 | 0| 
-| 20230214T11:42:32Z | The IPPro is a 16-bit signed fixed-point, five-stage balanced pipelined RISC architecture that exploits the DSP48E1 features and provides balance among performance, latency and efficient resource utilization.  | https://github.com/fsiddiqui85/IPPro | 0 | 0| 
-| 20230214T11:18:01Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
-| 20230214T10:40:28Z | forge solidity exploit format example | https://github.com/sysfixed/forge_solidity_exploit_format_example | 0 | 0| 
-| 20230214T10:00:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4933 | 713| 
-| 20230214T03:19:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12739 | 2180| 
 
 
 # backdoor on Github 推荐
