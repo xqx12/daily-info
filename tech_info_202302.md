@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:28:44Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 | 20230215T02:24:39Z | fast free roblox exploit using legacy launch wrd api. made by coolpro1. | https://github.com/lol19093109/wrd | 0 | 0| 
 | 20230215T02:18:05Z | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | 0 | 0| 
 | 20230214T23:06:44Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 29 | 3| 
@@ -96,7 +97,6 @@
 | 20230214T22:59:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pj | 1 | 0| 
 | 20230214T22:35:08Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 63 | 29| 
 | 20230214T22:35:03Z | 💉 Example Injector Exec &  For further Development | https://github.com/Serups/Example-Exec | 36 | 9| 
-| 20230214T22:35:02Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 38| 
 
 
 # backdoor on Github 推荐
