@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:18:05Z | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | 0 | 0| 
 | 20230214T23:06:44Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 29 | 3| 
 | 20230214T23:01:09Z | G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-Sploit | 6 | 3| 
 | 20230214T23:01:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pj | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20230214T22:35:03Z | 💉 Example Injector Exec &  For further Development | https://github.com/Serups/Example-Exec | 36 | 9| 
 | 20230214T22:35:02Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 38| 
 | 20230214T21:29:46Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
-| 20230214T21:08:11Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
 
 
 # backdoor on Github 推荐
