@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T02:57:48Z | Quad-stage silicone fuzz pedal.  Over-the-top with all the sustain you crave | https://github.com/SharkbombAudio/TankFuzz | 0 | 0| 
 | 20230215T02:48:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 244 | 36| 
 | 20230215T02:44:56Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 82 | 5| 
 | 20230215T02:13:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 715 | 95| 
@@ -151,7 +152,6 @@
 | 20230214T22:25:08Z | Null | https://github.com/SCA2021/fuzzy-octo-carnival-papa | 0 | 0| 
 | 20230214T21:31:35Z | Project risk example using scikit-fuzzy library in Python | https://github.com/stephensheridan/python-project-risk-scikit-fuzzy | 0 | 0| 
 | 20230214T21:14:12Z | assignment-02-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-02-Fuzzyspuffyy | 0 | 0| 
-| 20230214T20:26:01Z | Numerical simulations of article ¨Fuzzy synchronizations of chaotic systems with hidden attractors¨ | https://github.com/Jessica-ZM/Fuzzy_Synchronizations | 0 | 0| 
 
 
 
