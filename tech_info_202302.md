@@ -92,11 +92,11 @@
 | 20230214T23:01:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pj | 1 | 0| 
 | 20230214T23:00:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pj | 1 | 0| 
 | 20230214T22:59:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pj | 1 | 0| 
+| 20230214T22:35:08Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 63 | 29| 
 | 20230214T22:35:03Z | 💉 Example Injector Exec &  For further Development | https://github.com/Serups/Example-Exec | 36 | 9| 
 | 20230214T22:35:02Z | 💻📖 Cheat , Rust External Release Bypass / Aimbot + Esp  | https://github.com/Serups/Rust-External | 58 | 38| 
 | 20230214T21:29:46Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 208 | 148| 
 | 20230214T21:08:11Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
-| 20230214T13:18:12Z | DaBestOne | https://github.com/FurryBoyYT/DoorsScriptHackExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
