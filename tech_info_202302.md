@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
 | 20230214 | 介绍渗透攻击电信网络的过程 | http://link.medium.com/LDhm3bGroxb| 
 | 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
 | 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
@@ -25,7 +26,6 @@
 | 20230212 | 复现和分析2020年发现的Shadowsocks 重定向漏洞，利用已知明文攻击可能造成中间人攻击 | https://www.freebuf.com/articles/blockchain-articles/357051.html| 
 | 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
 | 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
-| 20230210 | 部分公开的Black Hat Asia 2023的议题题目 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230215T02:18:05Z | CVE-2023-23618 | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | | 
-| 20230215T02:18:01Z | CVE-2023-23381 | Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23381 | | 
-| 20230215T02:17:58Z | CVE-2023-22743 | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, by carefully crafting DLL and putting into a subdirectory of a specific name living next to the Git for Windows installer, Windows can be tricked into side-loading said DLL. This potentially allows users wit CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22743 | | 
-| 20230215T02:17:38Z | CVE-2022-29557 | LexisNexis Firco Compliance Link 3.7 allows CSRF. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-29557 | | 
-| 20230215T00:06:14Z | CVE-2023-21823 | Windows Graphics Component Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21823 | | 
-| 20230215T00:06:10Z | CVE-2023-21815 | Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21815 | | 
-| 20230215T00:06:07Z | CVE-2023-21808 | .NET and Visual Studio Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21808 | | 
-| 20230215T00:06:03Z | CVE-2023-21778 | Microsoft Dynamics Unified Service Desk Remote Code Execution Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21778 | | 
-| 20230215T00:05:59Z | CVE-2023-21567 | Visual Studio Denial of Service Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21567 | | 
-| 20230215T00:05:54Z | CVE-2023-21566 | Visual Studio Elevation of Privilege Vulnerability CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21566 | | 
+| 20230215T11:12:34Z | CVE-2022-45154 | A Cleartext Storage of Sensitive Information vulnerability in suppportutils of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15, SUSE Linux Enterprise Server 15 SP3 allows attackers that get access to the support logs to gain knowledge of the stored credentials This issue affects: SUSE Linux Enterprise  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45154 | | 
+| 20230215T11:12:30Z | CVE-2022-45153 | An Incorrect Default Permissions vulnerability in saphanabootstrap-formula of SUSE Linux Enterprise Module for SAP Applications 15-SP1, SUSE Linux Enterprise Server for SAP 12-SP5; openSUSE Leap 15.4 allows local attackers to escalate to root by manipulating the sudo configuration that is created. This issue affects: S CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45153 | | 
+| 20230215T11:12:27Z | CVE-2022-42735 | Improper Privilege Management vulnerability in Apache Software Foundation Apache ShenYu. ShenYu Admin allows low-privilege low-level administrators create users with higher privileges than their own. This issue affects Apache ShenYu: 2.5.0. Upgrade to Apache ShenYu 2.5.1 or apply patch https://github.com/apache/shenyu/ CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42735 | | 
+| 20230215T06:48:24Z | CVE-2021-24388 | In the VikRentCar Car Rental Management System WordPress plugin before 1.1.7, there is a custom filed option by which we can manage all the fields that the users will have to fill in before saving the order. However, the field name is not sanitised or escaped before being output back in the page, leading to a stored Cr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-24388 | | 
+| 20230215T06:47:48Z | CVE-2023-20949 | In s2mpg11_pmic_probe of s2mpg11-regulator.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-259323 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20949 | | 
+| 20230215T06:47:44Z | CVE-2023-20927 | In permissions of AndroidManifest.xml, there is a possible way to grant signature permissions due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-24 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20927 | | 
+| 20230215T06:47:41Z | CVE-2022-32953 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the SdHostDriver buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated by using IOMMU protection for the ACPI r CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32953 | | 
+| 20230215T06:47:37Z | CVE-2022-32476 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the AhciBusDxe shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for the ACPI CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32476 | | 
+| 20230215T06:47:34Z | CVE-2022-32473 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the HddPassword shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for the ACP CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32473 | | 
+| 20230215T06:47:30Z | CVE-2022-32470 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the FwBlockServiceSmm shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32470 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230215T02:16:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10617 | 344| 
+| 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
+| 20230215T12:48:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10623 | 344| 
 | 20230214T17:20:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2154 | 606| 
 | 20230214T03:17:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 211 | 1| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
 | 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
-| 20230207T13:11:17Z | Null | https://github.com/ZinkevichBogdan/Kleer | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T06:36:24Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230214T13:52:13Z | Null | https://github.com/MetadataGitTesting/S2eJej9r | 0 | 0| 
-| 20230213T07:18:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230211T09:59:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 296 | 74| 
 | 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T12:10:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12749 | 2180| 
+| 20230215T12:09:23Z | Repo for POC%s to demonstrate XSS Exploits | https://github.com/MWR-CyberSec/XSS-POC | 0 | 0| 
+| 20230215T11:12:24Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
+| 20230215T11:10:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadjhnv4274-tenant-app-t20Ot-accommodate-exploit | 0 | 0| 
+| 20230215T11:06:24Z | Exploit Menu privé récent indétectable pour Garry%s Mod | https://github.com/bdlglua/ExploitMenuGlua | 0 | 0| 
+| 20230215T10:04:25Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2347 | 340| 
 | 20230215T02:47:22Z | Null | https://github.com/exerunsyou/ExploitWare-Scripthub | 0 | 0| 
 | 20230215T02:44:37Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
 | 20230215T02:37:27Z | The implementation of %Exploiting Asymmetric Influence between Instances for Label Enhancement% | https://github.com/zhanghrswpu/AILE | 0 | 0| 
 | 20230215T02:31:04Z | fast free roblox exploit using legacy launch wrd api. made by coolpro1. make sure to STAR ⭐ this hack if this works!! | https://github.com/lol19093109/wrd | 0 | 0| 
-| 20230215T02:18:05Z | Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patc CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23618 | 0 | 0| 
-| 20230214T23:06:44Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 29 | 3| 
-| 20230214T23:01:09Z | G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-Sploit | 6 | 3| 
-| 20230214T23:01:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pj | 1 | 0| 
-| 20230214T23:00:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pj | 1 | 0| 
-| 20230214T22:59:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pj | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T09:06:53Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 671 | 98| 
+| 20230215T07:36:57Z | Fortinet FortiGate 4.x < 5.0.7 - SSH后门访问 | https://github.com/CKevens/Fortinet_FortiGate_SSH_Backdoor_Access | 0 | 0| 
+| 20230215T07:12:25Z | gmod backdoor scanner | https://github.com/mattybdiditagain/mScan | 1 | 0| 
+| 20230215T04:43:51Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
+| 20230214T13:36:42Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 100 | 17| 
 | 20230214T09:20:00Z | Null | https://github.com/carlospolop/LambdaLayerBackdoor | 3 | 1| 
 | 20230213T22:14:41Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 1 | 0| 
 | 20230213T21:32:08Z | This repository is the official implementation of the paper %ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms.%  ASSET achieves state-of-the-art reliability in detecting poisoned samples in end-to-end supervised learning/ self-supervised learning/ transfer learning. | https://github.com/ruoxi-jia-group/ASSET | 2 | 0| 
 | 20230213T19:38:59Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 17 | 1| 
 | 20230213T19:06:11Z | Null | https://github.com/sanlimustafa/BackDoor_V.3.0 | 0 | 0| 
-| 20230213T18:34:10Z | Null | https://github.com/Guo-lab/graphBackdoor_ssl | 0 | 0| 
-| 20230213T18:17:51Z | windows backdoor / rat | https://github.com/vende11s/Dupnix-3 | 3 | 0| 
-| 20230213T16:54:13Z | Shell Backdoor  | https://github.com/wibuhaxor/shell | 0 | 0| 
-| 20230213T16:52:56Z | shell Backdoor | https://github.com/wibuhaxor/shell7x | 0 | 0| 
-| 20230213T16:51:40Z | Shell backdoor  | https://github.com/wibuhaxor/shell7 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T12:26:11Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/Owfuzz/Owfuzz | 0 | 0| 
+| 20230215T12:08:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8372 | 1823| 
+| 20230215T11:48:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1271 | 168| 
+| 20230215T10:17:16Z | Null | https://github.com/aduquet/SelectingMRs_FuzzerBasedApproach | 0 | 0| 
+| 20230215T09:15:11Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 164 | 19| 
+| 20230215T06:39:34Z | Null | https://github.com/shruti-shukla/fuzzy-adventure | 0 | 0| 
 | 20230215T02:57:48Z | Quad-stage silicone fuzz pedal.  Over-the-top with all the sustain you crave | https://github.com/SharkbombAudio/TankFuzz | 0 | 0| 
 | 20230215T02:48:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 244 | 36| 
 | 20230215T02:44:56Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 82 | 5| 
 | 20230215T02:17:18Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 12 | 1| 
-| 20230215T02:13:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 715 | 95| 
-| 20230214T23:18:05Z | Null | https://github.com/saldavidroth/fuzzy-guide | 0 | 0| 
-| 20230214T22:56:14Z | Simple Fuzzing Script with C  | https://github.com/amaym0nn/fuzzing-script-with-c | 0 | 0| 
-| 20230214T22:36:06Z | Classes and functions related to fuzzy searching. | https://github.com/SimpleArt/fuzzylib | 0 | 0| 
-| 20230214T22:25:08Z | Null | https://github.com/SCA2021/fuzzy-octo-carnival-papa | 0 | 0| 
-| 20230214T21:31:35Z | Project risk example using scikit-fuzzy library in Python | https://github.com/stephensheridan/python-project-risk-scikit-fuzzy | 0 | 0| 
 
 
 
