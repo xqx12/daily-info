@@ -12,6 +12,7 @@
 | 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
 | 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
 | 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
+| 20230214 | JEB在逆向时会在沙箱中执行目标程序的代码，但在Java 18中不使用指定flag则沙箱不会被开启，此时代码会直接在环境中执行，给JEB使用者带来风险。 | https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/| 
 | 20230213 | 宋教授对 LeakSanitizer 的原理介绍 | http://maskray.me/blog/2023-02-12-all-about-leak-sanitizer| 
 | 20230213 | Web 应用黑盒模糊测试工具 Firefly | https://blog.yeswehack.com/yeswerhackers/firefly-smart-black-box-fuzzer-web-applications/| 
 | 20230213 | Linux tty子系统UAF漏洞（CVE-2020-29661）详情与利用思路 | https://www.youtube.com/watch?v=96f8H48d-y8| 
@@ -25,7 +26,6 @@
 | 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
 | 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
 | 20230210 | 部分公开的Black Hat Asia 2023的议题题目 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
-| 20230210 | windows kernel中注册表相关的一个UAF漏洞，当内存压力过大导致内存分配失败，负责释放注册表子键对象的函数可能直接返回，从而导致内存释放失败，造成UAF | https://bugs.chromium.org/p/project-zero/issues/detail?id=2369| 
 
 
 # 安全维基 推荐

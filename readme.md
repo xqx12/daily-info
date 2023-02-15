@@ -12,6 +12,7 @@
 | 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
 | 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
 | 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
+| 20230214 | JEB在逆向时会在沙箱中执行目标程序的代码，但在Java 18中不使用指定flag则沙箱不会被开启，此时代码会直接在环境中执行，给JEB使用者带来风险。 | https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/| 
 
 
 # 安全维基 推荐
