@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T13:22:47Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1933 | 247| 
 | 20230215T13:02:53Z | Null | https://github.com/Jlutripper/FuzzScene | 0 | 0| 
 | 20230215T12:26:11Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/Owfuzz/Owfuzz | 0 | 0| 
 | 20230215T12:08:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8372 | 1823| 
@@ -88,7 +89,6 @@
 | 20230215T06:39:34Z | Null | https://github.com/shruti-shukla/fuzzy-adventure | 0 | 0| 
 | 20230215T02:57:48Z | Quad-stage silicone fuzz pedal.  Over-the-top with all the sustain you crave | https://github.com/SharkbombAudio/TankFuzz | 0 | 0| 
 | 20230215T02:48:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 244 | 36| 
-| 20230215T02:44:56Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 82 | 5| 
 
 
 
