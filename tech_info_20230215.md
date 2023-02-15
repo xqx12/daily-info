@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T13:21:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-aq | 0 | 0| 
+| 20230215T13:21:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20230215T12:10:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12749 | 2180| 
 | 20230215T12:09:23Z | Repo for POC%s to demonstrate XSS Exploits | https://github.com/MWR-CyberSec/XSS-POC | 0 | 0| 
 | 20230215T11:12:24Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
@@ -53,8 +55,6 @@
 | 20230215T10:04:25Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2347 | 340| 
 | 20230215T02:47:22Z | Null | https://github.com/exerunsyou/ExploitWare-Scripthub | 0 | 0| 
 | 20230215T02:44:37Z | Null | https://github.com/GucciExploiter/Stumble-Exploit | 0 | 0| 
-| 20230215T02:37:27Z | The implementation of %Exploiting Asymmetric Influence between Instances for Label Enhancement% | https://github.com/zhanghrswpu/AILE | 0 | 0| 
-| 20230215T02:31:04Z | fast free roblox exploit using legacy launch wrd api. made by coolpro1. make sure to STAR ⭐ this hack if this works!! | https://github.com/lol19093109/wrd | 0 | 0| 
 
 
 # backdoor on Github 推荐
