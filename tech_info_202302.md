@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T02:25:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 576 | 155| 
 | 20230216T01:53:27Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 124 | 39| 
 | 20230216T01:40:38Z | yes | https://github.com/xohv/roblox-exploits | 0 | 0| 
 | 20230216T01:11:13Z | Null | https://github.com/trolepro/exploit_test.txt | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
 | 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
 | 20230216T00:06:03Z | Venera Framework | https://github.com/farinap5/Venera | 4 | 0| 
-| 20230215T23:25:48Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | 0 | 0| 
 
 
 # backdoor on Github 推荐
