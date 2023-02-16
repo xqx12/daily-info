@@ -49,6 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T13:07:21Z | GitOps Repository | https://github.com/app-studio-test/loadfodr5529-tenant-app-n_a3F-benefit-exploit | 0 | 0| 
+| 20230216T13:07:20Z | GitOps Repository | https://github.com/app-studio-test/loadyexh1779-tenant-app--DGpo-suffer-exploit | 0 | 0| 
+| 20230216T13:06:21Z | GitOps Repository | https://github.com/app-studio-test/loadlsbv4488-tenant-app-eZVCk-permit-exploit | 0 | 0| 
 | 20230216T12:53:45Z | Null | https://github.com/xmer2006/Roblox-Exploiting | 0 | 0| 
 | 20230216T12:24:38Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Rammussss/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
 | 20230216T12:24:27Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Rammussss/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
@@ -56,9 +59,6 @@
 | 20230216T12:22:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Rammussss/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20230216T11:38:18Z | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | 0 | 0| 
 | 20230216T11:35:46Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 571 | 33| 
-| 20230216T09:21:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12752 | 2180| 
-| 20230216T02:25:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 576 | 155| 
-| 20230216T01:53:27Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 124 | 39| 
 
 
 # backdoor on Github 推荐
