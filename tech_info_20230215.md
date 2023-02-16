@@ -36,7 +36,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230215T18:25:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2155 | 606| 
 | 20230215T13:47:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 212 | 1| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
 
