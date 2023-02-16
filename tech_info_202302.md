@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T01:04:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yt | 1 | 0| 
+| 20230216T01:03:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
 | 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
 | 20230216T00:01:43Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 123 | 39| 
@@ -95,8 +97,6 @@
 | 20230215T23:25:38Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14. It has been rated as problematic. This issue affects some unknown processing of the component Web Management Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be use CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0848 | 0 | 0| 
 | 20230215T23:17:51Z | Exploit for the vulnerability null pointer derefrence to in XWorm RAT | https://github.com/sqrtZeroKnowledge/XWorm-Trojan | 0 | 0| 
 | 20230215T23:01:42Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Raimbow-Friends | 0 | 0| 
-| 20230215T22:55:49Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Better | 0 | 0| 
-| 20230215T20:18:01Z | surface-rt-uefi-u-boot-exploit for booting surface-rt-uefi-u-boot from uefi | https://github.com/wmjb/surface-rt-uefi-u-boot-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
