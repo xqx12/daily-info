@@ -10,6 +10,7 @@
 | 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
 | 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
 | 20230215 | 一个gitlib导入github repo的反序列化漏洞的exp | http://packetstormsecurity.com/files/171008| 
+| 20230215 | 一个web安全的靶场应用，其中的漏洞源自真实漏洞。不过目前只有三个exploit challenge。 | https://www.kitploit.com/2023/02/web-hacking-playground-web-application.html| 
 
 
 # 安全维基 推荐
