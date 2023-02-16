@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T01:53:27Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 124 | 39| 
 | 20230216T01:40:38Z | yes | https://github.com/xohv/roblox-exploits | 0 | 0| 
 | 20230216T01:11:13Z | Null | https://github.com/trolepro/exploit_test.txt | 0 | 0| 
 | 20230216T01:06:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yt | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20230216T01:03:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
 | 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
-| 20230216T00:01:43Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 123 | 39| 
 | 20230215T23:25:48Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | 0 | 0| 
 | 20230215T23:25:42Z | A vulnerability has been found in Netgear WNDR3700v2 1.0.1.14 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifie CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0849 | 0 | 0| 
 
