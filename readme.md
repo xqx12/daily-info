@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230216T13:49:20Z | CVE-2023-0860 | Null | https://github.com/0xsu3ks/CVE-2023-0860 | | 
 | 20230216T11:38:25Z | CVE-2023-0662 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, excessive number of parts in HTTP form upload can cause high resource consumption and excessive number of log entries. This can cause denial of service on the affected server by exhausting CPU resources or disk space. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0662 | | 
 | 20230216T11:38:22Z | CVE-2023-0568 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, core path resolution function allocate buffer one byte too small. When resolving paths with lengths close to system MAXPATHLEN setting, this may lead to the byte after the allocated buffer being overwritten with NUL value, which might lead to unaut CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0568 | | 
 | 20230216T11:38:18Z | CVE-2023-0861 | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | | 
@@ -49,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T13:43:36Z | GitOps Repository | https://github.com/app-studio-test/loadnomc5424-tenant-app-AGctX-exploit-lets | 0 | 0| 
 | 20230216T13:07:21Z | GitOps Repository | https://github.com/app-studio-test/loadfodr5529-tenant-app-n_a3F-benefit-exploit | 0 | 0| 
 | 20230216T13:07:20Z | GitOps Repository | https://github.com/app-studio-test/loadyexh1779-tenant-app--DGpo-suffer-exploit | 0 | 0| 
 | 20230216T13:06:21Z | GitOps Repository | https://github.com/app-studio-test/loadlsbv4488-tenant-app-eZVCk-permit-exploit | 0 | 0| 
@@ -58,7 +60,6 @@
 | 20230216T12:23:05Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Rammussss/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
 | 20230216T12:22:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Rammussss/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20230216T11:38:18Z | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | 0 | 0| 
-| 20230216T11:35:46Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 571 | 33| 
 
 
 # backdoor on Github 推荐
