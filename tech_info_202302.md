@@ -142,10 +142,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T13:59:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3421 | 687| 
 | 20230216T13:14:52Z | Null | https://github.com/Fleurvb/fuzzy_inventions | 0 | 0| 
 | 20230216T12:24:44Z | Null | https://github.com/Nice-Major/fuzzy-tribble | 0 | 0| 
 | 20230216T12:22:08Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/FlyingFoxFuzz | 0 | 0| 
-| 20230216T12:14:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3420 | 687| 
 | 20230216T11:59:54Z | Fuzzy Sync Presentation 2021 | https://github.com/richiejp/fuzzy-sync-pres-2021 | 0 | 0| 
 | 20230216T11:46:17Z | Fuzzy Systems / Computational Intelligence Assignments | https://github.com/minakosm/Fuzzy-Systems | 0 | 0| 
 | 20230216T11:37:20Z | Android application using Fuzzy Logic processes | https://github.com/LuanScudeler/FuzzyProject | 1 | 0| 
