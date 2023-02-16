@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230216T01:05:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yt | 0 | 0| 
+| 20230216T01:06:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T01:04:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T01:03:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
