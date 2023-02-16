@@ -95,7 +95,7 @@
 | 20230216T01:03:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
 | 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
-| 20230216T00:06:03Z | Venera Framework | https://github.com/farinap5/Venera | 4 | 1| 
+| 20230216T00:06:03Z | Venera Framework | https://github.com/farinap5/Venera | 4 | 0| 
 | 20230215T23:25:48Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | 0 | 0| 
 
 
@@ -117,8 +117,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
 | 20230215T23:37:03Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
-| 20230215T18:25:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2155 | 606| 
 | 20230215T12:32:22Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 620 | 111| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
 | 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
