@@ -146,12 +146,12 @@
 | 20230215T22:30:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 0| 
 | 20230215T21:43:26Z | A degree project where a a recommendation system was developed that uses fuzzy as the inference system to make decision | https://github.com/5D-kif/Fuzzy-System---Diet-Plan-Recommendation-System-SADO-2.0- | 0 | 0| 
 | 20230215T21:25:18Z | Null | https://github.com/Cash4Cause/fuzzy-octo-potato | 0 | 0| 
+| 20230215T19:58:39Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3415 | 410| 
 | 20230215T16:03:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1273 | 168| 
 | 20230215T14:16:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 247 | 36| 
 | 20230215T13:45:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8373 | 1824| 
 | 20230215T13:22:47Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1933 | 247| 
 | 20230215T13:02:53Z | Null | https://github.com/Jlutripper/FuzzScene | 0 | 0| 
-| 20230215T12:26:11Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/Owfuzz/Owfuzz | 0 | 0| 
 
 
 
