@@ -8,6 +8,8 @@
 | --- | --- | ---| 
 | 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
 | 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
+| 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
+| 20230215 | 一个gitlib导入github repo的反序列化漏洞的exp | http://packetstormsecurity.com/files/171008| 
 
 
 # 安全维基 推荐
@@ -56,8 +58,8 @@
 | 20230215T22:55:49Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Better | 0 | 0| 
 | 20230215T20:18:01Z | surface-rt-uefi-u-boot-exploit for booting surface-rt-uefi-u-boot from uefi | https://github.com/wmjb/surface-rt-uefi-u-boot-exploit | 1 | 0| 
 | 20230215T19:53:29Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3218 | 565| 
+| 20230215T18:33:51Z | Exploit GUI for steep steps | https://github.com/ketzelmania/steep-steps-gui | 0 | 0| 
 | 20230215T13:52:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 575 | 155| 
-| 20230215T13:51:57Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 9 | 1| 
 
 
 # backdoor on Github 推荐
