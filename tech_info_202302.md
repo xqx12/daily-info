@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230216 | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection| 
+| 20230216 | 从零开始写一个调试器，系列之一 | http://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/| 
+| 20230216 | 从攻防两个不同维度分析网络安全中双方的对抗。以Sysmon日志、ATT&CK标签日志、操作系统日志的分析实践为实例。 | https://www.freebuf.com/articles/es/357478.html| 
+| 20230216 | 介绍linux内核的漏洞缓解机制及绕过方法，最后解释了CVE-2022-0847的漏洞利用方法，该方法不受漏洞缓解机制的限制 | http://blog.topsec.com.cn/linux%e5%86%85%e6%a0%b8%e5%b8%b8%e7%94%a8%e4%bf%9d%e6%8a%a4%e5%92%8c%e7%bb%95%e8%bf%87%e6%8a%80%e6%9c%af/| 
+| 20230216 | IBM WebSphere Liberty 在其轻量级第三方身份验证 (LTPA) 协议的实现中存在缺陷，攻击者可构造任意其他用户的令牌。 | http://pretalx.hackerhotel.nl/hackerhotel-2023/talk/7JEEWB/| 
+| 20230216 | 使用ChatGPT对取证及攻击识别方向的一些实验，作者使用Meterpreter、PowerShell Empire 感染系统后，对产生的进程、服务行为输入到ChatGPT中，其在恶意进程识别、服务安装和加密程序检查上表现良好。 | https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/| 
+| 20230216 | Arris Router Firmware远程代码执行漏洞(CVE-2022-45701)的漏洞利用，影响多个型号（TG2482A, TG2492, SBG10）设备。 | http://packetstormsecurity.com/files/171001| 
+| 20230216 | 如何在不把服务端打DoS的情况下检测服务端的原型污染漏洞 | https://portswigger.net/research/server-side-prototype-pollution| 
 | 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
 | 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
 | 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
@@ -18,19 +26,13 @@
 | 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
 | 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
 | 20230214 | JEB在逆向时会在沙箱中执行目标程序的代码，但在Java 18中不使用指定flag则沙箱不会被开启，此时代码会直接在环境中执行，给JEB使用者带来风险。 | https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/| 
-| 20230213 | 宋教授对 LeakSanitizer 的原理介绍 | http://maskray.me/blog/2023-02-12-all-about-leak-sanitizer| 
-| 20230213 | Web 应用黑盒模糊测试工具 Firefly | https://blog.yeswehack.com/yeswerhackers/firefly-smart-black-box-fuzzer-web-applications/| 
-| 20230213 | Linux tty子系统UAF漏洞（CVE-2020-29661）详情与利用思路 | https://www.youtube.com/watch?v=96f8H48d-y8| 
-| 20230213 | GoAnywhere MFT反序列化漏洞（CVE-2023-0669）利用工具 | https://github.com/0xf4n9x/CVE-2023-0669| 
-| 20230213 | PS4和PS5上的漏洞利用过程：修改游戏存档文件，利用栈溢出漏洞实现shellcode执行，利用越界写漏洞逃逸emulator。 | https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/| 
-| 20230213 | BNB Beacon Chain 无限铸币漏洞 | https://jumpcrypto.com/helping-secure-bnb-chain-through-responsible-disclosure/| 
-| 20230213 | 替换剪贴板中钱包地址的恶意软件再次活跃，使用了新的混淆方法。 | https://blog.phylum.io/phylum-discovers-revived-crypto-wallet-address-replacement-attack| 
-| 20230213 | 对Bing Chat进行提示词泄漏攻击 | https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230216 | 某 T 路由器固件解压缩探秘 | https://paper.seebug.org/2048/| 
+| 20230216 | Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
 | 20230213 | VirusTotal 版本的引擎与桌面版引擎的比较分析 | https://mp.weixin.qq.com/s/SpmgKfG2eeWCPMZ4RqEDPA| 
 | 20230213 | SecWiki周刊（第467期) | https://www.sec-wiki.com/weekly/467| 
 | 20230213 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
@@ -39,30 +41,29 @@
 | 20230212 | 某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA| 
 | 20230212 | 2022全国微信泄密典型案例 | https://mp.weixin.qq.com/s/ScR0FLsUi9-zLUmKAAXDTQ| 
 | 20230212 | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ| 
-| 20230212 | ChatGPT在安全运营中的应用初探 | https://mp.weixin.qq.com/s/QqoVOAgzXzHafvZmtXWTxg| 
-| 20230212 | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230216T11:38:25Z | CVE-2023-0662 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, excessive number of parts in HTTP form upload can cause high resource consumption and excessive number of log entries. This can cause denial of service on the affected server by exhausting CPU resources or disk space. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0662 | | 
+| 20230216T11:38:22Z | CVE-2023-0568 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, core path resolution function allocate buffer one byte too small. When resolving paths with lengths close to system MAXPATHLEN setting, this may lead to the byte after the allocated buffer being overwritten with NUL value, which might lead to unaut CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0568 | | 
+| 20230216T11:38:18Z | CVE-2023-0861 | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | | 
+| 20230216T11:38:15Z | CVE-2023-0862 | The NetModule NSRW web administration interface is vulnerable to path traversals, which could lead to arbitrary file uploads and deletion. By uploading malicious files to the web root directory, authenticated users could gain remote command execution with elevated privileges. This issue affects NSRW: from 4.3.0.0 befor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0862 | | 
+| 20230216T11:38:11Z | CVE-2023-0860 | Improper Restriction of Excessive Authentication Attempts in GitHub repository modoboa/modoboa-installer prior to 2.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0860 | | 
 | 20230215T23:26:06Z | CVE-2023-22855 | Kardex Mlog MCC 5.7.12+0-a203c2a213-master allows remote code execution. It spawns a web interface listening on port 8088. A user-controllable path is handed to a path-concatenation method (Path.Combine from .NET) without proper sanitisation. This yields the possibility of including local files, as well as remote files CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22855 | | 
 | 20230215T23:26:02Z | CVE-2022-45546 | Information Disclosure in Authentication Component of ScreenCheck BadgeMaker 2.6.2.0 application allows internal attacker to obtain credentials for authentication via network sniffing. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45546 | | 
 | 20230215T23:25:59Z | CVE-2022-42455 | ASUS EC Tool driver (aka d.sys) 1beb15c90dcf7a5234ed077833a0a3e900969b60be1d04fcebce0a9f8994bdbb, as signed by ASUS and shipped with multiple ASUS software products, contains multiple IOCTL handlers that provide raw read and write access to port I/O and MSRs via unprivileged IOCTL calls. Local users can gain privileges CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42455 | | 
 | 20230215T23:25:55Z | CVE-2022-45543 | Cross site scripting (XSS) vulnerability in DiscuzX 3.4 allows attackers to execute arbitrary code via the datetline, title, tpp, or username parameters via the audit search. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45543 | | 
 | 20230215T23:25:48Z | CVE-2023-0850 | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | | 
-| 20230215T23:25:42Z | CVE-2023-0849 | A vulnerability has been found in Netgear WNDR3700v2 1.0.1.14 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifie CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0849 | | 
-| 20230215T23:25:38Z | CVE-2023-0848 | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14. It has been rated as problematic. This issue affects some unknown processing of the component Web Management Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be use CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0848 | | 
-| 20230215T23:25:35Z | CVE-2022-40016 | Use After Free (UAF) vulnerability in ireader media-server before commit 3e0f63f1d3553f75c7d4eb32fa7c7a1976a9ff84 in librtmp, allows attackers to cause a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40016 | | 
-| 20230215T23:25:31Z | CVE-2022-38935 | An issue was discovered in NiterForum version 2.5.0-beta in /src/main/java/cn/niter/forum/api/SsoApi.java and /src/main/java/cn/niter/forum/controller/AdminController.java, allows attackers to gain escalated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38935 | | 
-| 20230215T23:25:28Z | CVE-2022-38868 | SQL Injection vulnerability in Ehoney version 2.0.0 in models/protocol.go and models/images.go, allows attackers to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38868 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T12:52:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10636 | 346| 
+| 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
 | 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
-| 20230216T01:53:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10629 | 344| 
 | 20230215T13:47:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 212 | 1| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 | 20230211T22:15:10Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 0 | 0| 
 | 20230208T05:46:48Z | For nostr verification | https://github.com/KleeTaurus/kleetaurus.github.io | 0 | 0| 
-| 20230207T15:40:40Z | Null | https://github.com/freezeburger/230206-any-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T12:53:45Z | Null | https://github.com/xmer2006/Roblox-Exploiting | 0 | 0| 
+| 20230216T12:24:38Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Rammussss/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20230216T12:24:27Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Rammussss/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20230216T12:23:05Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Rammussss/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20230216T12:22:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Rammussss/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20230216T11:38:18Z | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | 0 | 0| 
+| 20230216T11:35:46Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 571 | 33| 
+| 20230216T09:21:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12752 | 2180| 
 | 20230216T02:25:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 576 | 155| 
 | 20230216T01:53:27Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 124 | 39| 
-| 20230216T01:40:38Z | yes | https://github.com/xohv/roblox-exploits | 0 | 0| 
-| 20230216T01:11:13Z | Null | https://github.com/trolepro/exploit_test.txt | 0 | 0| 
-| 20230216T01:06:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yt | 1 | 0| 
-| 20230216T01:04:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yt | 1 | 0| 
-| 20230216T01:03:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
-| 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
-| 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
-| 20230216T00:06:03Z | Venera Framework | https://github.com/farinap5/Venera | 4 | 0| 
 
 
 # backdoor on Github 推荐
