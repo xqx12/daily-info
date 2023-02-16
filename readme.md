@@ -86,8 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230216T02:58:36Z | Null | https://github.com/sgd88888/DrgenFuzzer | 0 | 0| 
-| 20230216T00:58:54Z | Null | https://github.com/fuzzydomo/fuzzydomo | 0 | 0| 
+| 20230216T12:24:44Z | Null | https://github.com/Nice-Major/fuzzy-tribble | 0 | 0| 
+| 20230216T12:22:08Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/FlyingFoxFuzz | 0 | 0| 
+| 20230216T12:14:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3420 | 687| 
+| 20230216T11:59:54Z | Fuzzy Sync Presentation 2021 | https://github.com/richiejp/fuzzy-sync-pres-2021 | 0 | 0| 
+| 20230216T11:46:17Z | Fuzzy Systems / Computational Intelligence Assignments | https://github.com/minakosm/Fuzzy-Systems | 0 | 0| 
+| 20230216T11:37:20Z | Android application using Fuzzy Logic processes | https://github.com/LuanScudeler/FuzzyProject | 1 | 0| 
+| 20230216T11:24:51Z | Null | https://github.com/Fusionbreaks/fuzzy-couscous | 0 | 0| 
+| 20230216T11:23:46Z | Null | https://github.com/Bacterygerm/fuzzy-tribble | 0 | 0| 
+| 20230216T10:28:26Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 44 | 22| 
+| 20230216T09:58:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8377 | 1824| 
 
 
 
