@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
+| 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
 | 20230214 | 介绍渗透攻击电信网络的过程 | http://link.medium.com/LDhm3bGroxb| 
 | 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
 | 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
@@ -25,7 +26,6 @@
 | 20230212 | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935| 
 | 20230212 | 复现和分析2020年发现的Shadowsocks 重定向漏洞，利用已知明文攻击可能造成中间人攻击 | https://www.freebuf.com/articles/blockchain-articles/357051.html| 
 | 20230210 | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt| 
-| 20230210 | 在Linux Kernel项目中根据git commits记录自动化找到其中包含的静默修复的安全漏洞 | http://sam4k.com/analysing-linux-kernel-commits/| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230215T11:12:34Z | CVE-2022-45154 | A Cleartext Storage of Sensitive Information vulnerability in suppportutils of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15, SUSE Linux Enterprise Server 15 SP3 allows attackers that get access to the support logs to gain knowledge of the stored credentials This issue affects: SUSE Linux Enterprise  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45154 | | 
-| 20230215T11:12:30Z | CVE-2022-45153 | An Incorrect Default Permissions vulnerability in saphanabootstrap-formula of SUSE Linux Enterprise Module for SAP Applications 15-SP1, SUSE Linux Enterprise Server for SAP 12-SP5; openSUSE Leap 15.4 allows local attackers to escalate to root by manipulating the sudo configuration that is created. This issue affects: S CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45153 | | 
-| 20230215T11:12:27Z | CVE-2022-42735 | Improper Privilege Management vulnerability in Apache Software Foundation Apache ShenYu. ShenYu Admin allows low-privilege low-level administrators create users with higher privileges than their own. This issue affects Apache ShenYu: 2.5.0. Upgrade to Apache ShenYu 2.5.1 or apply patch https://github.com/apache/shenyu/ CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42735 | | 
-| 20230215T06:48:24Z | CVE-2021-24388 | In the VikRentCar Car Rental Management System WordPress plugin before 1.1.7, there is a custom filed option by which we can manage all the fields that the users will have to fill in before saving the order. However, the field name is not sanitised or escaped before being output back in the page, leading to a stored Cr CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-24388 | | 
-| 20230215T06:47:48Z | CVE-2023-20949 | In s2mpg11_pmic_probe of s2mpg11-regulator.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-259323 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20949 | | 
-| 20230215T06:47:44Z | CVE-2023-20927 | In permissions of AndroidManifest.xml, there is a possible way to grant signature permissions due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-24 CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-20927 | | 
-| 20230215T06:47:41Z | CVE-2022-32953 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the SdHostDriver buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated by using IOMMU protection for the ACPI r CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32953 | | 
-| 20230215T06:47:37Z | CVE-2022-32476 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the AhciBusDxe shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for the ACPI CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32476 | | 
-| 20230215T06:47:34Z | CVE-2022-32473 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the HddPassword shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for the ACP CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32473 | | 
-| 20230215T06:47:30Z | CVE-2022-32470 | An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the FwBlockServiceSmm shared buffer used by SMM and non-SMM code could cause TOCTOU race-condition issues that could lead to corruption of SMRAM and escalation of privileges. This attack can be mitigated using IOMMU protection for t CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-32470 | | 
+| 20230215T23:26:06Z | CVE-2023-22855 | Kardex Mlog MCC 5.7.12+0-a203c2a213-master allows remote code execution. It spawns a web interface listening on port 8088. A user-controllable path is handed to a path-concatenation method (Path.Combine from .NET) without proper sanitisation. This yields the possibility of including local files, as well as remote files CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22855 | | 
+| 20230215T23:26:02Z | CVE-2022-45546 | Information Disclosure in Authentication Component of ScreenCheck BadgeMaker 2.6.2.0 application allows internal attacker to obtain credentials for authentication via network sniffing. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45546 | | 
+| 20230215T23:25:59Z | CVE-2022-42455 | ASUS EC Tool driver (aka d.sys) 1beb15c90dcf7a5234ed077833a0a3e900969b60be1d04fcebce0a9f8994bdbb, as signed by ASUS and shipped with multiple ASUS software products, contains multiple IOCTL handlers that provide raw read and write access to port I/O and MSRs via unprivileged IOCTL calls. Local users can gain privileges CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-42455 | | 
+| 20230215T23:25:55Z | CVE-2022-45543 | Cross site scripting (XSS) vulnerability in DiscuzX 3.4 allows attackers to execute arbitrary code via the datetline, title, tpp, or username parameters via the audit search. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-45543 | | 
+| 20230215T23:25:48Z | CVE-2023-0850 | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | | 
+| 20230215T23:25:42Z | CVE-2023-0849 | A vulnerability has been found in Netgear WNDR3700v2 1.0.1.14 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifie CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0849 | | 
+| 20230215T23:25:38Z | CVE-2023-0848 | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14. It has been rated as problematic. This issue affects some unknown processing of the component Web Management Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be use CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0848 | | 
+| 20230215T23:25:35Z | CVE-2022-40016 | Use After Free (UAF) vulnerability in ireader media-server before commit 3e0f63f1d3553f75c7d4eb32fa7c7a1976a9ff84 in librtmp, allows attackers to cause a denial of service. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-40016 | | 
+| 20230215T23:25:31Z | CVE-2022-38935 | An issue was discovered in NiterForum version 2.5.0-beta in /src/main/java/cn/niter/forum/api/SsoApi.java and /src/main/java/cn/niter/forum/controller/AdminController.java, allows attackers to gain escalated privileges. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38935 | | 
+| 20230215T23:25:28Z | CVE-2022-38868 | SQL Injection vulnerability in Ehoney version 2.0.0 in models/protocol.go and models/images.go, allows attackers to execute arbitrary code. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-38868 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T00:44:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10626 | 344| 
+| 20230215T18:25:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2155 | 606| 
 | 20230215T13:47:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 212 | 1| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
-| 20230215T12:48:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10623 | 344| 
-| 20230214T17:20:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2154 | 606| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T22:19:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 297 | 74| 
 | 20230215T06:36:24Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230214T13:52:13Z | Null | https://github.com/MetadataGitTesting/S2eJej9r | 0 | 0| 
-| 20230211T09:59:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 296 | 74| 
 | 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
 | 20230209T08:18:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 18 | 10| 
@@ -87,21 +87,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230215T13:52:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 575 | 155| 
-| 20230215T13:51:57Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 9 | 1| 
-| 20230215T13:26:09Z | A library for ROBLOX Script Executors to load / save configs (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 2 | 0| 
-| 20230215T13:23:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-aq | 1 | 0| 
-| 20230215T13:22:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-aq | 1 | 0| 
-| 20230215T13:21:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
-| 20230215T12:10:09Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12749 | 2180| 
-| 20230215T12:09:23Z | Repo for POC%s to demonstrate XSS Exploits | https://github.com/MWR-CyberSec/XSS-POC | 0 | 0| 
-| 20230215T11:12:24Z | roblox 0x exploit | https://github.com/Pieeees/0x | 2 | 0| 
-| 20230215T11:10:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadjhnv4274-tenant-app-t20Ot-accommodate-exploit | 0 | 0| 
+| 20230216T00:59:58Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 41 | 46| 
+| 20230216T00:46:42Z | Null | https://github.com/KenniGZ/BrotMitExploit | 0 | 0| 
+| 20230216T00:01:43Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 123 | 39| 
+| 20230215T23:25:48Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifi CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0850 | 0 | 0| 
+| 20230215T23:25:42Z | A vulnerability has been found in Netgear WNDR3700v2 1.0.1.14 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifie CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0849 | 0 | 0| 
+| 20230215T23:25:38Z | A vulnerability was found in Netgear WNDR3700v2 1.0.1.14. It has been rated as problematic. This issue affects some unknown processing of the component Web Management Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be use CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0848 | 0 | 0| 
+| 20230215T23:17:51Z | Exploit for the vulnerability null pointer derefrence to in XWorm RAT | https://github.com/sqrtZeroKnowledge/XWorm-Trojan | 0 | 0| 
+| 20230215T23:01:42Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Raimbow-Friends | 0 | 0| 
+| 20230215T22:55:49Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Better | 0 | 0| 
+| 20230215T20:18:01Z | surface-rt-uefi-u-boot-exploit for booting surface-rt-uefi-u-boot from uefi | https://github.com/wmjb/surface-rt-uefi-u-boot-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230215T18:37:47Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
 | 20230215T09:06:53Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 671 | 98| 
 | 20230215T07:36:57Z | Fortinet FortiGate 4.x < 5.0.7 - SSH后门访问 | https://github.com/CKevens/Fortinet_FortiGate_SSH_Backdoor_Access | 0 | 0| 
 | 20230215T07:12:25Z | gmod backdoor scanner | https://github.com/mattybdiditagain/mScan | 1 | 0| 
@@ -111,7 +112,6 @@
 | 20230213T22:14:41Z | Measure and Boost Backdoor Robustness | https://github.com/ebagdasa/mithridates | 1 | 0| 
 | 20230213T21:32:08Z | This repository is the official implementation of the paper %ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms.%  ASSET achieves state-of-the-art reliability in detecting poisoned samples in end-to-end supervised learning/ self-supervised learning/ transfer learning. | https://github.com/ruoxi-jia-group/ASSET | 2 | 0| 
 | 20230213T19:38:59Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 17 | 1| 
-| 20230213T19:06:11Z | Null | https://github.com/sanlimustafa/BackDoor_V.3.0 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230215T13:45:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8373 | 1823| 
-| 20230215T13:43:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1272 | 168| 
+| 20230216T00:58:54Z | Null | https://github.com/fuzzydomo/fuzzydomo | 0 | 0| 
+| 20230215T22:30:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 0| 
+| 20230215T21:43:26Z | A degree project where a a recommendation system was developed that uses fuzzy as the inference system to make decision | https://github.com/5D-kif/Fuzzy-System---Diet-Plan-Recommendation-System-SADO-2.0- | 0 | 0| 
+| 20230215T21:25:18Z | Null | https://github.com/Cash4Cause/fuzzy-octo-potato | 0 | 0| 
+| 20230215T16:03:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1273 | 168| 
+| 20230215T14:16:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 247 | 36| 
+| 20230215T13:45:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8373 | 1824| 
 | 20230215T13:22:47Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1933 | 247| 
 | 20230215T13:02:53Z | Null | https://github.com/Jlutripper/FuzzScene | 0 | 0| 
 | 20230215T12:26:11Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/Owfuzz/Owfuzz | 0 | 0| 
-| 20230215T10:17:16Z | Null | https://github.com/aduquet/SelectingMRs_FuzzerBasedApproach | 0 | 0| 
-| 20230215T09:15:11Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 164 | 19| 
-| 20230215T06:39:34Z | Null | https://github.com/shruti-shukla/fuzzy-adventure | 0 | 0| 
-| 20230215T02:57:48Z | Quad-stage silicone fuzz pedal.  Over-the-top with all the sustain you crave | https://github.com/SharkbombAudio/TankFuzz | 0 | 0| 
-| 20230215T02:48:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 244 | 36| 
 
 
 
