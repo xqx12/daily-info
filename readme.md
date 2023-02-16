@@ -64,11 +64,17 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T12:54:04Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 1 | 0| 
+| 20230216T09:52:43Z | Null | https://github.com/agungsoboru/backdoor | 0 | 0| 
+| 20230216T09:43:45Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
+| 20230216T04:29:01Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 672 | 98| 
+| 20230216T02:58:59Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 111| 
 | 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
 
 
