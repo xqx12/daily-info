@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T01:59:38Z | Practicing fuzzing101 | https://github.com/sheepbelldoor/Fuzzing101_practice | 0 | 0| 
 | 20230217T00:28:08Z | Розробка програмного забезпечення для реалізації прямих та інверсних моделей при додаванні нечітких множин на основі а-перерізів. | https://github.com/inaprel3/FuzzyLogicTwo | 0 | 0| 
 | 20230216T23:51:21Z | Null | https://github.com/julianfere/fuzzy-garbanzo | 0 | 0| 
 | 20230216T23:04:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1937 | 247| 
@@ -153,7 +154,6 @@
 | 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
 | 20230216T17:31:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
 | 20230216T16:22:57Z | Null | https://github.com/wjl88/svelte-fuzzy-demos | 0 | 0| 
-| 20230216T13:59:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3421 | 687| 
 
 
 
