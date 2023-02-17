@@ -99,12 +99,12 @@
 | 20230216T23:04:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1937 | 247| 
 | 20230216T21:51:36Z | Null | https://github.com/h738020239a/fuzzy-space-pancake | 0 | 0| 
 | 20230216T21:30:36Z | Null | https://github.com/jereczek12/ZSI-samochod-fuzzy | 0 | 0| 
-| 20230216T20:24:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8378 | 1825| 
 | 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
 | 20230216T17:31:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
 | 20230216T16:22:57Z | Null | https://github.com/wjl88/svelte-fuzzy-demos | 0 | 0| 
 | 20230216T13:59:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3421 | 687| 
 | 20230216T13:14:52Z | Null | https://github.com/Fleurvb/fuzzy_inventions | 0 | 0| 
+| 20230216T12:24:44Z | Null | https://github.com/Nice-Major/fuzzy-tribble | 0 | 0| 
 
 
 

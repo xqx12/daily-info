@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T02:06:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8379 | 1825| 
 | 20230217T01:59:38Z | Practicing fuzzing101 | https://github.com/sheepbelldoor/Fuzzing101_practice | 0 | 0| 
 | 20230217T00:28:08Z | Розробка програмного забезпечення для реалізації прямих та інверсних моделей при додаванні нечітких множин на основі а-перерізів. | https://github.com/inaprel3/FuzzyLogicTwo | 0 | 0| 
+| 20230217T00:16:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3413 | 410| 
 | 20230216T23:51:21Z | Null | https://github.com/julianfere/fuzzy-garbanzo | 0 | 0| 
 | 20230216T23:04:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1937 | 247| 
 | 20230216T21:51:36Z | Null | https://github.com/h738020239a/fuzzy-space-pancake | 0 | 0| 
 | 20230216T21:30:36Z | Null | https://github.com/jereczek12/ZSI-samochod-fuzzy | 0 | 0| 
-| 20230216T20:24:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8378 | 1825| 
 | 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
 | 20230216T17:31:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
-| 20230216T16:22:57Z | Null | https://github.com/wjl88/svelte-fuzzy-demos | 0 | 0| 
 
 
 
