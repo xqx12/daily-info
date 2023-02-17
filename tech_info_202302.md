@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
 | 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
 | 20230217T10:36:41Z | Null | https://github.com/zhuangshuli/MAE-Backdoor | 0 | 0| 
 | 20230217T05:29:31Z | Null | https://github.com/r-a303931/cscn461-backdoors | 0 | 0| 
@@ -112,22 +113,21 @@
 | 20230216T12:54:04Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 1 | 0| 
 | 20230216T09:52:43Z | Null | https://github.com/agungsoboru/backdoor | 0 | 0| 
 | 20230216T09:43:45Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
-| 20230216T04:29:01Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 672 | 98| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T07:50:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3322 | 470| 
+| 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 | 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 111| 
-| 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
 | 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230213T15:12:12Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 43 | 2| 
 | 20230213T03:44:57Z | Symbolic Execution - all in one | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20230211T22:48:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 15 | 8| 
 | 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 5| 
-| 20230209T21:49:03Z | A survey of literature and applications for symbolic execution tools | https://github.com/LinqLover/symbolic-execution-survey | 0 | 0| 
 
 
 # big4 on Github 推荐

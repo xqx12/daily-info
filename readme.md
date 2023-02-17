@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
 | 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
 | 20230217T10:36:41Z | Null | https://github.com/zhuangshuli/MAE-Backdoor | 0 | 0| 
 | 20230217T05:29:31Z | Null | https://github.com/r-a303931/cscn461-backdoors | 0 | 0| 
@@ -78,6 +79,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T07:50:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3322 | 470| 
+| 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 
 
