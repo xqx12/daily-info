@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T01:06:40Z | A library for ROBLOX Script Executors to load / save configurations (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 3 | 0| 
 | 20230217T00:54:56Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/Exunys/Aimbot-V2 | 30 | 47| 
-| 20230217T00:54:53Z | A library for ROBLOX Script Executors to load / save configs (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 3 | 0| 
 | 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
 | 20230216T22:43:15Z | A powerful and sophisticated tool for detecting and exploiting open redirect vulnerabilities using the sed utility and a selected list of carefully crafted payloads with encoding techniques. | https://github.com/blackhatethicalhacking/OpenRediWrecked | 2 | 0| 
 | 20230216T22:25:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mk | 1 | 0| 
