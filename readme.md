@@ -96,7 +96,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230216T23:51:21Z | Null | https://github.com/julianfere/fuzzy-garbanzo | 0 | 0| 
-| 20230216T23:04:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1937 | 247| 
 | 20230216T21:51:36Z | Null | https://github.com/h738020239a/fuzzy-space-pancake | 0 | 0| 
 | 20230216T21:30:36Z | Null | https://github.com/jereczek12/ZSI-samochod-fuzzy | 0 | 0| 
 | 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
@@ -105,6 +104,7 @@
 | 20230216T13:59:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3421 | 687| 
 | 20230216T13:14:52Z | Null | https://github.com/Fleurvb/fuzzy_inventions | 0 | 0| 
 | 20230216T12:24:44Z | Null | https://github.com/Nice-Major/fuzzy-tribble | 0 | 0| 
+| 20230216T12:22:08Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/FlyingFoxFuzz | 0 | 0| 
 
 
 
