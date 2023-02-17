@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:55:01Z | virus photo | https://github.com/007-bk/backdoor | 0 | 0| 
 | 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
 | 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
 | 20230217T10:36:41Z | Null | https://github.com/zhuangshuli/MAE-Backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
 | 20230216T12:54:04Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 1 | 0| 
 | 20230216T09:52:43Z | Null | https://github.com/agungsoboru/backdoor | 0 | 0| 
-| 20230216T09:43:45Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
