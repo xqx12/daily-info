@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:07:16Z | Repositório para o trabalho de conclusão do curso de Ciencias da Computação. | https://github.com/samuelmartinscoutinho/fuzzytcc | 0 | 0| 
 | 20230217T12:54:32Z | A practical fuzzing tool for SMT solvers | https://github.com/CGCL-codes/HistFuzz | 2 | 0| 
 | 20230217T12:22:22Z | Null | https://github.com/febriaricandra/fuzzy-umbrella | 0 | 0| 
 | 20230217T11:55:27Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 158 | 5| 
@@ -154,7 +155,6 @@
 | 20230217T08:25:52Z | Null | https://github.com/jereczek12/ZSI-fuzzy-car | 0 | 0| 
 | 20230217T02:32:20Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1938 | 247| 
 | 20230217T02:14:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8380 | 1825| 
-| 20230217T01:59:38Z | Practicing fuzzing101 | https://github.com/sheepbelldoor/Fuzzing101_practice | 0 | 0| 
 
 
 
