@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:22:50Z | GitOps Repository | https://github.com/app-studio-test/loaduqfh2985-tenant-app-GmwV_-present-exploit | 0 | 0| 
 | 20230217T12:45:50Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 212 | 50| 
 | 20230217T12:16:58Z | Null | https://github.com/JsHuang/ExploitRelated | 0 | 0| 
 | 20230217T12:15:44Z | Dell Secure Connect Gateway (SCG) version 5.14.00.12 contains a broken cryptographic algorithm vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23695 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20230217T01:06:40Z | A library for ROBLOX Script Executors to load / save configurations (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 3 | 0| 
 | 20230217T00:54:56Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/Exunys/Aimbot-V2 | 30 | 47| 
 | 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
-| 20230216T22:43:15Z | A powerful and sophisticated tool for detecting and exploiting open redirect vulnerabilities using the sed utility and a selected list of carefully crafted payloads with encoding techniques. | https://github.com/blackhatethicalhacking/OpenRediWrecked | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230217T07:50:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3322 | 470| 
+| 20230217T13:25:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3323 | 470| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 | 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 111| 

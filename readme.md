@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T13:22:50Z | GitOps Repository | https://github.com/app-studio-test/loaduqfh2985-tenant-app-GmwV_-present-exploit | 0 | 0| 
 | 20230217T12:45:50Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 212 | 50| 
 | 20230217T12:16:58Z | Null | https://github.com/JsHuang/ExploitRelated | 0 | 0| 
 | 20230217T12:15:44Z | Dell Secure Connect Gateway (SCG) version 5.14.00.12 contains a broken cryptographic algorithm vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23695 | 0 | 0| 
@@ -79,7 +80,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230217T07:50:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3322 | 470| 
+| 20230217T13:25:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3323 | 470| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 
