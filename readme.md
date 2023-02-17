@@ -14,6 +14,7 @@
 | 20230216 | 使用ChatGPT对取证及攻击识别方向的一些实验，作者使用Meterpreter、PowerShell Empire 感染系统后，对产生的进程、服务行为输入到ChatGPT中，其在恶意进程识别、服务安装和加密程序检查上表现良好。 | https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/| 
 | 20230216 | Arris Router Firmware远程代码执行漏洞(CVE-2022-45701)的漏洞利用，影响多个型号（TG2482A, TG2492, SBG10）设备。 | http://packetstormsecurity.com/files/171001| 
 | 20230216 | 如何在不把服务端打DoS的情况下检测服务端的原型污染漏洞 | https://portswigger.net/research/server-side-prototype-pollution| 
+| 20230216 | Rustproofing Linux (Part 3/4 Integer Overflows) | http://research.nccgroup.com/2023/02/14/rustproofing-linux-part-3-4-integer-overflows/| 
 
 
 # 安全维基 推荐
@@ -26,18 +27,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230216T13:49:20Z | CVE-2023-0860 | Null | https://github.com/0xsu3ks/CVE-2023-0860 | | 
-| 20230216T11:38:25Z | CVE-2023-0662 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, excessive number of parts in HTTP form upload can cause high resource consumption and excessive number of log entries. This can cause denial of service on the affected server by exhausting CPU resources or disk space. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0662 | | 
-| 20230216T11:38:22Z | CVE-2023-0568 | In PHP 8.0.X before 8.0.28, 8.1.X before 8.1.16 and 8.2.X before 8.2.3, core path resolution function allocate buffer one byte too small. When resolving paths with lengths close to system MAXPATHLEN setting, this may lead to the byte after the allocated buffer being overwritten with NUL value, which might lead to unaut CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0568 | | 
-| 20230216T11:38:18Z | CVE-2023-0861 | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | | 
-| 20230216T11:38:15Z | CVE-2023-0862 | The NetModule NSRW web administration interface is vulnerable to path traversals, which could lead to arbitrary file uploads and deletion. By uploading malicious files to the web root directory, authenticated users could gain remote command execution with elevated privileges. This issue affects NSRW: from 4.3.0.0 befor CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0862 | | 
-| 20230216T11:38:11Z | CVE-2023-0860 | Improper Restriction of Excessive Authentication Attempts in GitHub repository modoboa/modoboa-installer prior to 2.0.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0860 | | 
+| 20230216T23:58:37Z | CVE-2022-4903 | A vulnerability was found in CodenameOne 7.0.70. It has been classified as problematic. Affected is an unknown function. The manipulation leads to use of implicit intent for sensitive communication. It is possible to launch the attack remotely. Upgrading to version 7.0.71 is able to address this issue. The name of the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4903 | | 
+| 20230216T23:58:34Z | CVE-2023-24344 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formWlanGuestSetup. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24344 | | 
+| 20230216T23:58:30Z | CVE-2023-24343 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSchedule. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24343 | | 
+| 20230216T23:58:27Z | CVE-2023-24346 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the wan_connected parameter at /goform/formEasySetupWizard3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24346 | | 
+| 20230216T23:58:24Z | CVE-2023-24345 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSetWanDhcpplus. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24345 | | 
+| 20230216T23:58:20Z | CVE-2023-24347 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formSetWanDhcpplus. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24347 | | 
+| 20230216T23:58:14Z | CVE-2023-25151 | opentelemetry-go-contrib is a collection of extensions for OpenTelemetry-Go. The v0.38.0 release of `go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp` uses the `httpconv.ServerRequest` function to annotate metric measurements for the `http.server.request_content_length`, `http.server.response_content_lengt CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25151 | | 
+| 20230216T23:58:10Z | CVE-2023-0821 | HashiCorp Nomad and Nomad Enterprise 1.2.15 up to 1.3.8, and 1.4.3 jobs using a maliciously compressed artifact stanza source can cause excessive disk usage. Fixed in 1.2.16, 1.3.9, and 1.4.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0821 | | 
+| 20230216T23:58:06Z | CVE-2022-47703 | TIANJIE CPE906-3 is vulnerable to password disclosure. This is present on Software Version WEB5.0_LCD_20200513, Firmware Version MV8.003, and Hardware Version CPF906-V5.0_LCD_20200513. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47703 | | 
+| 20230216T23:58:02Z | CVE-2022-44299 | SiteServerCMS 7.1.3 sscms has a file read vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44299 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230216T12:52:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10636 | 346| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
 | 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
 
@@ -50,21 +54,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
+| 20230216T22:43:15Z | A powerful and sophisticated tool for detecting and exploiting open redirect vulnerabilities using the sed utility and a selected list of carefully crafted payloads with encoding techniques. | https://github.com/blackhatethicalhacking/OpenRediWrecked | 2 | 0| 
+| 20230216T22:25:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mk | 1 | 0| 
+| 20230216T22:24:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mk | 1 | 0| 
+| 20230216T22:23:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mk | 1 | 0| 
+| 20230216T21:21:11Z | Progress in Nightmare Intro to Binary Exploitation Course | https://github.com/remiliacmdlet/Nightmare | 0 | 0| 
+| 20230216T21:16:46Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 44 | 47| 
 | 20230216T13:43:36Z | GitOps Repository | https://github.com/app-studio-test/loadnomc5424-tenant-app-AGctX-exploit-lets | 0 | 0| 
 | 20230216T13:07:21Z | GitOps Repository | https://github.com/app-studio-test/loadfodr5529-tenant-app-n_a3F-benefit-exploit | 0 | 0| 
 | 20230216T13:07:20Z | GitOps Repository | https://github.com/app-studio-test/loadyexh1779-tenant-app--DGpo-suffer-exploit | 0 | 0| 
-| 20230216T13:06:21Z | GitOps Repository | https://github.com/app-studio-test/loadlsbv4488-tenant-app-eZVCk-permit-exploit | 0 | 0| 
-| 20230216T12:53:45Z | Null | https://github.com/xmer2006/Roblox-Exploiting | 0 | 0| 
-| 20230216T12:24:38Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Rammussss/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
-| 20230216T12:24:27Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Rammussss/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
-| 20230216T12:23:05Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/Rammussss/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
-| 20230216T12:22:53Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/Rammussss/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
-| 20230216T11:38:18Z | NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 b CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0861 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
 | 20230216T12:54:04Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 1 | 0| 
 | 20230216T09:52:43Z | Null | https://github.com/agungsoboru/backdoor | 0 | 0| 
 | 20230216T09:43:45Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
@@ -82,21 +87,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T15:39:04Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 1 | 0| 
+| 20230216T15:13:11Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 37 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230216T23:51:21Z | Null | https://github.com/julianfere/fuzzy-garbanzo | 0 | 0| 
+| 20230216T23:04:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1937 | 247| 
+| 20230216T21:51:36Z | Null | https://github.com/h738020239a/fuzzy-space-pancake | 0 | 0| 
+| 20230216T21:30:36Z | Null | https://github.com/jereczek12/ZSI-samochod-fuzzy | 0 | 0| 
+| 20230216T20:24:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8378 | 1825| 
+| 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
+| 20230216T17:31:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
+| 20230216T16:22:57Z | Null | https://github.com/wjl88/svelte-fuzzy-demos | 0 | 0| 
 | 20230216T13:59:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3421 | 687| 
 | 20230216T13:14:52Z | Null | https://github.com/Fleurvb/fuzzy_inventions | 0 | 0| 
-| 20230216T12:24:44Z | Null | https://github.com/Nice-Major/fuzzy-tribble | 0 | 0| 
-| 20230216T12:22:08Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/FlyingFoxFuzz | 0 | 0| 
-| 20230216T11:59:54Z | Fuzzy Sync Presentation 2021 | https://github.com/richiejp/fuzzy-sync-pres-2021 | 0 | 0| 
-| 20230216T11:46:17Z | Fuzzy Systems / Computational Intelligence Assignments | https://github.com/minakosm/Fuzzy-Systems | 0 | 0| 
-| 20230216T11:37:20Z | Android application using Fuzzy Logic processes | https://github.com/LuanScudeler/FuzzyProject | 1 | 0| 
-| 20230216T11:24:51Z | Null | https://github.com/Fusionbreaks/fuzzy-couscous | 0 | 0| 
-| 20230216T11:23:46Z | Null | https://github.com/Bacterygerm/fuzzy-tribble | 0 | 0| 
-| 20230216T10:28:26Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 44 | 22| 
 
 
 
