@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230217 | 利用华为SD-Update模式的检测和使用时间不一致，替换更新数据包，绕过签名验证，获取root权限。 | https://labs.taszk.io/articles/post/reunzip/| 
+| 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
+| 20230217 | 深入剖析acmailer的两个nday漏洞-CVE-2021-20617 & CVE-2021-20618 | http://starlabs.sg/blog/2023/02-dissecting-the-vulnerabilities-a-comprehensive-teardown-of-acmailer/| 
+| 20230217 | 制作可自毁的U盘 | http://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/| 
+| 20230217 | Blue Hat 2023，作者介绍了由其中一个 UEFI Secure Boot 演讲所引发出的思考和回顾。 | http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html| 
+| 20230217 | 微软关于new bing的一周总结。 | https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week/| 
 | 20230216 | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection| 
 | 20230216 | 从零开始写一个调试器，系列之一 | http://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/| 
 | 20230216 | 从攻防两个不同维度分析网络安全中双方的对抗。以Sysmon日志、ATT&CK标签日志、操作系统日志的分析实践为实例。 | https://www.freebuf.com/articles/es/357478.html| 
@@ -20,17 +26,14 @@
 | 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
 | 20230215 | 一个gitlib导入github repo的反序列化漏洞的exp | http://packetstormsecurity.com/files/171008| 
 | 20230215 | 一个web安全的靶场应用，其中的漏洞源自真实漏洞。不过目前只有三个exploit challenge。 | https://www.kitploit.com/2023/02/web-hacking-playground-web-application.html| 
-| 20230214 | 介绍渗透攻击电信网络的过程 | http://link.medium.com/LDhm3bGroxb| 
-| 20230214 | Hack-A-Sat 比赛 writeup | http://www.freebuf.com/articles/357367.html| 
-| 20230214 | 通过修改TCP协议栈来帮助远程利用堆溢出漏洞 | https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html| 
-| 20230214 | 学习 Semgrep教程 | http://goingbeyondgrep.com/posts/learning-semgrep/| 
-| 20230214 | EVM中calldata的编码与解码 | http://degatchi.com/articles/reading-raw-evm-calldata| 
-| 20230214 | 远程侧信道攻击与防御 | https://martinschwarzl.at/media/files/thesis_main.pdf| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ| 
+| 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-上） | https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g| 
+| 20230217 | 网络流量异常检测综述 | https://mp.weixin.qq.com/s/6zEkXro7WFjNQWPWv53NcA| 
 | 20230216 | 某 T 路由器固件解压缩探秘 | https://paper.seebug.org/2048/| 
 | 20230216 | Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
 | 20230213 | VirusTotal 版本的引擎与桌面版引擎的比较分析 | https://mp.weixin.qq.com/s/SpmgKfG2eeWCPMZ4RqEDPA| 
@@ -38,34 +41,31 @@
 | 20230213 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
 | 20230213 | 2023年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw| 
 | 20230212 | ZKP in Hidden Order Group 未知阶群内的零知识证明 | https://zhuanlan.zhihu.com/p/603726514| 
-| 20230212 | 某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA| 
-| 20230212 | 2022全国微信泄密典型案例 | https://mp.weixin.qq.com/s/ScR0FLsUi9-zLUmKAAXDTQ| 
-| 20230212 | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230216T23:58:37Z | CVE-2022-4903 | A vulnerability was found in CodenameOne 7.0.70. It has been classified as problematic. Affected is an unknown function. The manipulation leads to use of implicit intent for sensitive communication. It is possible to launch the attack remotely. Upgrading to version 7.0.71 is able to address this issue. The name of the  CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-4903 | | 
-| 20230216T23:58:34Z | CVE-2023-24344 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formWlanGuestSetup. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24344 | | 
-| 20230216T23:58:30Z | CVE-2023-24343 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSchedule. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24343 | | 
-| 20230216T23:58:27Z | CVE-2023-24346 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the wan_connected parameter at /goform/formEasySetupWizard3. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24346 | | 
-| 20230216T23:58:24Z | CVE-2023-24345 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSetWanDhcpplus. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24345 | | 
-| 20230216T23:58:20Z | CVE-2023-24347 | D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formSetWanDhcpplus. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24347 | | 
-| 20230216T23:58:14Z | CVE-2023-25151 | opentelemetry-go-contrib is a collection of extensions for OpenTelemetry-Go. The v0.38.0 release of `go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp` uses the `httpconv.ServerRequest` function to annotate metric measurements for the `http.server.request_content_length`, `http.server.response_content_lengt CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-25151 | | 
-| 20230216T23:58:10Z | CVE-2023-0821 | HashiCorp Nomad and Nomad Enterprise 1.2.15 up to 1.3.8, and 1.4.3 jobs using a maliciously compressed artifact stanza source can cause excessive disk usage. Fixed in 1.2.16, 1.3.9, and 1.4.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0821 | | 
-| 20230216T23:58:06Z | CVE-2022-47703 | TIANJIE CPE906-3 is vulnerable to password disclosure. This is present on Software Version WEB5.0_LCD_20200513, Firmware Version MV8.003, and Hardware Version CPF906-V5.0_LCD_20200513. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-47703 | | 
-| 20230216T23:58:02Z | CVE-2022-44299 | SiteServerCMS 7.1.3 sscms has a file read vulnerability. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2022-44299 | | 
+| 20230217T12:15:58Z | CVE-2023-24078 | Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24078 | | 
+| 20230217T12:15:55Z | CVE-2023-24221 | LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/DeptMapper.xml. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24221 | | 
+| 20230217T12:15:51Z | CVE-2023-24220 | LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/RoleMapper.xml. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24220 | | 
+| 20230217T12:15:48Z | CVE-2023-24219 | LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/UserMapper.xml. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-24219 | | 
+| 20230217T12:15:44Z | CVE-2023-23695 | Dell Secure Connect Gateway (SCG) version 5.14.00.12 contains a broken cryptographic algorithm vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23695 | | 
+| 20230217T12:15:41Z | CVE-2023-0887 | A vulnerability was found in phjounin TFTPD64-SE 4.64 and classified as critical. This issue affects some unknown processing of the file tftpd64_svc.exe. The manipulation leads to unquoted search path. An attack has to be approached locally. The associated identifier of this vulnerability is VDB-221351. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0887 | | 
+| 20230217T12:15:37Z | CVE-2023-0883 | A vulnerability has been found in SourceCodester Online Pizza Ordering System 1.0 and classified as critical. This vulnerability affects unknown code of the file /php-opos/index.php. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0883 | | 
+| 20230217T12:15:34Z | CVE-2023-0882 | Improper Input Validation, Authorization Bypass Through User-Controlled Key vulnerability in Kron Tech Single Connect on Windows allows Privilege Abuse.This issue affects Single Connect: 2.16. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0882 | | 
+| 20230217T09:58:26Z | CVE-2020-5245 | Null | https://github.com/LycsHub/CVE-2020-5245 | | 
+| 20230217T06:46:05Z | CVE-2023-0878 | Cross-site Scripting (XSS) - Generic in GitHub repository nuxt/framework prior to 3.2.1. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0878 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230217T02:43:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10644 | 346| 
+| 20230217T12:32:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10652 | 346| 
+| 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
+| 20230217T06:22:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 213 | 2| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
-| 20230216T02:19:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2156 | 606| 
-| 20230215T13:47:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 212 | 1| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230216T18:27:56Z | Null | https://github.com/SKyletoft/s2e-autocxx-error | 0 | 0| 
 | 20230215T22:19:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 297 | 74| 
-| 20230215T06:36:24Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230214T13:52:13Z | Null | https://github.com/MetadataGitTesting/S2eJej9r | 0 | 0| 
 | 20230209T15:55:48Z | Null | https://github.com/uweDF7823D/s2ewgs21g3a | 0 | 0| 
 | 20230209T08:59:46Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 14 | 15| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T12:45:50Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 212 | 50| 
+| 20230217T12:16:58Z | Null | https://github.com/JsHuang/ExploitRelated | 0 | 0| 
+| 20230217T12:15:44Z | Dell Secure Connect Gateway (SCG) version 5.14.00.12 contains a broken cryptographic algorithm vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23695 | 0 | 0| 
+| 20230217T12:15:37Z | A vulnerability has been found in SourceCodester Online Pizza Ordering System 1.0 and classified as critical. This vulnerability affects unknown code of the file /php-opos/index.php. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the p CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0883 | 0 | 0| 
+| 20230217T10:40:20Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 1 | 0| 
+| 20230217T09:15:03Z | Null | https://github.com/JsHuang/exploit_db | 4 | 0| 
 | 20230217T01:06:40Z | A library for ROBLOX Script Executors to load / save configurations (supports types Color3, Vector3/2, CFrame, EnumItems...) | https://github.com/Exunys/Config-Library | 3 | 0| 
 | 20230217T00:54:56Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/Exunys/Aimbot-V2 | 30 | 47| 
 | 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
 | 20230216T22:43:15Z | A powerful and sophisticated tool for detecting and exploiting open redirect vulnerabilities using the sed utility and a selected list of carefully crafted payloads with encoding techniques. | https://github.com/blackhatethicalhacking/OpenRediWrecked | 2 | 0| 
-| 20230216T22:25:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mk | 1 | 0| 
-| 20230216T22:24:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mk | 1 | 0| 
-| 20230216T22:23:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mk | 1 | 0| 
-| 20230216T21:21:11Z | Progress in Nightmare Intro to Binary Exploitation Course | https://github.com/remiliacmdlet/Nightmare | 0 | 0| 
-| 20230216T21:16:46Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 44 | 47| 
-| 20230216T16:11:42Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8154 | 1880| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
+| 20230217T10:36:41Z | Null | https://github.com/zhuangshuli/MAE-Backdoor | 0 | 0| 
+| 20230217T05:29:31Z | Null | https://github.com/r-a303931/cscn461-backdoors | 0 | 0| 
+| 20230217T04:29:17Z | Repositórios de teste de scripts e backdoors. | https://github.com/gabriel-cheng/hacklab | 0 | 0| 
 | 20230217T02:36:44Z | Null | https://github.com/EkiXu/sshd_backdoor | 4 | 1| 
 | 20230216T22:56:26Z | Backdoor command execution in PHP 8.1.0-dev  | https://github.com/Anasi10/PHP-8.1.0-exploit | 0 | 0| 
 | 20230216T12:54:04Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 1 | 0| 
 | 20230216T09:52:43Z | Null | https://github.com/agungsoboru/backdoor | 0 | 0| 
 | 20230216T09:43:45Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
 | 20230216T04:29:01Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 672 | 98| 
-| 20230216T02:58:59Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
-| 20230215T18:37:47Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
-| 20230215T07:36:57Z | Fortinet FortiGate 4.x < 5.0.7 - SSH后门访问 | https://github.com/CKevens/Fortinet_FortiGate_SSH_Backdoor_Access | 0 | 0| 
-| 20230215T07:12:25Z | gmod backdoor scanner | https://github.com/mattybdiditagain/mScan | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230217T12:54:32Z | A practical fuzzing tool for SMT solvers | https://github.com/CGCL-codes/HistFuzz | 2 | 0| 
+| 20230217T12:22:22Z | Null | https://github.com/febriaricandra/fuzzy-umbrella | 0 | 0| 
+| 20230217T11:55:27Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 158 | 5| 
+| 20230217T11:37:33Z | Null | https://github.com/Democrace/fuzzy-octa-fumish | 0 | 0| 
+| 20230217T11:11:53Z | Null | https://github.com/anooooooooonymous/analyzing-smart-contract-fuzzers | 0 | 0| 
+| 20230217T09:25:00Z | 各种Fuzzing工具集合 | https://github.com/JsHuang/Fuzzers | 0 | 0| 
+| 20230217T08:25:52Z | Null | https://github.com/jereczek12/ZSI-fuzzy-car | 0 | 0| 
 | 20230217T02:32:20Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1938 | 247| 
 | 20230217T02:14:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8380 | 1825| 
 | 20230217T01:59:38Z | Practicing fuzzing101 | https://github.com/sheepbelldoor/Fuzzing101_practice | 0 | 0| 
-| 20230217T00:28:08Z | Розробка програмного забезпечення для реалізації прямих та інверсних моделей при додаванні нечітких множин на основі а-перерізів. | https://github.com/inaprel3/FuzzyLogicTwo | 0 | 0| 
-| 20230217T00:16:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3413 | 410| 
-| 20230216T23:51:21Z | Null | https://github.com/julianfere/fuzzy-garbanzo | 0 | 0| 
-| 20230216T21:51:36Z | Null | https://github.com/h738020239a/fuzzy-space-pancake | 0 | 0| 
-| 20230216T21:30:36Z | Null | https://github.com/jereczek12/ZSI-samochod-fuzzy | 0 | 0| 
-| 20230216T17:50:30Z | Null | https://github.com/JeffafaV/Grammar-Based-Fuzzing-Example | 0 | 0| 
-| 20230216T17:31:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2650 | 181| 
 
 
 
