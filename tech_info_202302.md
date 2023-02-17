@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230217T02:06:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8379 | 1825| 
+| 20230217T02:14:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8380 | 1825| 
 | 20230217T01:59:38Z | Practicing fuzzing101 | https://github.com/sheepbelldoor/Fuzzing101_practice | 0 | 0| 
 | 20230217T00:28:08Z | Розробка програмного забезпечення для реалізації прямих та інверсних моделей при додаванні нечітких множин на основі а-перерізів. | https://github.com/inaprel3/FuzzyLogicTwo | 0 | 0| 
 | 20230217T00:16:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3413 | 410| 
