@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230217T13:25:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3323 | 470| 
+| 20230218T02:34:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3324 | 470| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
 | 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 111| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T02:36:29Z | it%s a repository to projects in PowerBI | https://github.com/rodrigoermeson/fuzzy-guide | 0 | 0| 
 | 20230218T02:16:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44887 | 22287| 
 | 20230218T02:14:08Z | backend and frontend react app for fuzzy searching cars database | https://github.com/ePenguin-dev/cars-fuzzy | 0 | 0| 
 | 20230218T01:33:06Z | Null | https://github.com/baekhyunwook/test_fuzzyc | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230217T22:12:28Z | Mutation Protocol Fuzzing tool in python act like client that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
 | 20230217T21:53:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1939 | 247| 
 | 20230217T21:36:43Z | Null | https://github.com/GamingDarksouls/Fuzzy-Doodle | 0 | 0| 
-| 20230217T15:08:07Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
 
 
 
