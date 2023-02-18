@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230218T01:04:17Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
+| 20230218T01:12:01Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
 | 20230217T23:23:23Z | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | 0 | 0| 
 | 20230217T23:23:16Z | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22246 | 0 | 0| 
 | 20230217T23:23:13Z | FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21584 | 0 | 0| 
