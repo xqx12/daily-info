@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T02:50:27Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3679 | 787| 
 | 20230218T02:26:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 47 | 49| 
 | 20230218T02:24:04Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
 | 20230217T23:23:23Z | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20230217T23:23:06Z | Adobe Bridge versions 12.0.3 (and earlier) and 13.0.1 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a vict CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21583 | 0 | 0| 
 | 20230217T23:23:03Z | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22243 | 0 | 0| 
 | 20230217T23:23:00Z | Photoshop version 23.5.3 (and earlier), 24.1 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21577 | 0 | 0| 
-| 20230217T23:22:56Z | After Affects versions 23.1 (and earlier), 22.6.3 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22239 | 0 | 0| 
 
 
 # backdoor on Github 推荐
