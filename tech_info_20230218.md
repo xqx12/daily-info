@@ -48,6 +48,7 @@
 | 20230218T12:41:41Z | An exploit payload providing SAMU services on PS4 over REST APIs | https://github.com/obhq/samu-services | 0 | 0| 
 | 20230218T12:33:15Z | Null | https://github.com/exploit40/exploit40 | 0 | 0| 
 | 20230218T07:02:15Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 572 | 33| 
+| 20230218T04:16:37Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 35 | 2| 
 | 20230218T02:50:27Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3679 | 787| 
 | 20230218T02:26:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 47 | 49| 
 | 20230218T02:24:04Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
@@ -65,12 +66,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
+| 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 | 20230218T02:34:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3324 | 470| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T07:30:40Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 1 | 0| 
 
 
 # fuzz on Github 推荐

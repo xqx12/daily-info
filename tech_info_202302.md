@@ -92,12 +92,12 @@
 | 20230218T12:41:41Z | An exploit payload providing SAMU services on PS4 over REST APIs | https://github.com/obhq/samu-services | 0 | 0| 
 | 20230218T12:33:15Z | Null | https://github.com/exploit40/exploit40 | 0 | 0| 
 | 20230218T07:02:15Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 572 | 33| 
+| 20230218T04:16:37Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 35 | 2| 
 | 20230218T02:50:27Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3679 | 787| 
 | 20230218T02:26:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 47 | 49| 
 | 20230218T02:24:04Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
 | 20230217T23:23:23Z | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | 0 | 0| 
 | 20230217T23:23:16Z | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22246 | 0 | 0| 
-| 20230217T23:23:13Z | FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21584 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,26 +118,26 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
+| 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 | 20230218T02:34:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3324 | 470| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T02:39:13Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 2 | 0| 
-| 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 111| 
+| 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 110| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
 | 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230213T15:12:12Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 43 | 2| 
-| 20230213T03:44:57Z | Symbolic Execution - all in one | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
-| 20230211T22:48:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 15 | 8| 
 | 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 6| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T07:30:40Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 1 | 0| 
 | 20230217T16:16:23Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 2 | 0| 
 | 20230217T02:13:33Z | Prototype implementation of Cash et al.%s NDSS%14 scheme PiBas. | https://github.com/AKarbas/PiBas-Implementation | 0 | 0| 
 | 20230216T15:13:11Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 37 | 2| 
 | 20230211T05:58:44Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 2 | 1| 
-| 20230209T11:08:47Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 0 | 0| 
 | 20230208T03:11:43Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 3 | 0| 
 | 20230203T10:28:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 27 | 2| 
 
