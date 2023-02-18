@@ -16,7 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230218T12:41:26Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
+| 20230218T13:11:13Z | CVE-2022-32132 | Null | https://github.com/reewardius/CVE-2022-32132 | | 
+| 20230218T13:10:56Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
 | 20230218T12:19:24Z | CVE-2023-23752 | CVE-2023-23752 nuclei template | https://github.com/Saboor-Hakimi/CVE-2023-23752 | | 
 | 20230218T07:12:31Z | CVE-2023-0901 | Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0901 | | 
 | 20230218T05:54:58Z | CVE-2023-0669 | CVE-2023-0669 Encrpytion helper  | https://github.com/yosef0x01/CVE-2023-0669 | | 
@@ -25,7 +26,6 @@
 | 20230218T01:36:41Z | CVE-2021-32846 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107, function `pci_vtsock_proc_tx` in `virtio-sock` can lead to to uninitialized memory use. In this situation, there is a check for the return value to be less or equal to `VTSOCK_MAXSEGS`, but that check is not sufficien CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32846 | | 
 | 20230218T01:36:38Z | CVE-2021-32845 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, the implementation of `qnotify` at `pci_vtrnd_notify` fails to check the return value of `vq_getchain`. This leads to `struct iovec iov;` being uninitialized and used to read memory in `len = (in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32845 | | 
 | 20230218T01:36:34Z | CVE-2021-32844 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, ` vi_pci_write` has is a call to `vc_cfgwrite` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32844 | | 
-| 20230218T01:36:31Z | CVE-2021-32843 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, `virtio.c` has is a call to `vc_cfgread` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. This is CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32843 | | 
 
 
 # klee on Github 推荐
