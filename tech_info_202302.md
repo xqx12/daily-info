@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230218T12:41:26Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
+| 20230218T12:19:24Z | CVE-2023-23752 | CVE-2023-23752 nuclei template | https://github.com/Saboor-Hakimi/CVE-2023-23752 | | 
+| 20230218T07:12:31Z | CVE-2023-0901 | Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0901 | | 
+| 20230218T05:54:58Z | CVE-2023-0669 | CVE-2023-0669 Encrpytion helper  | https://github.com/yosef0x01/CVE-2023-0669 | | 
+| 20230218T05:33:35Z | CVE-2022-0492 | Docker Breakout Checker and PoC via CAP_SYS_ADMIN and via user namespaces (CVE-2022-0492) | https://github.com/T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC | | 
+| 20230218T03:49:51Z | CVE-2023-23752 |  Joomla! 未授权访问漏洞 | https://github.com/YusinoMy/CVE-2023-23752 | | 
 | 20230218T01:36:41Z | CVE-2021-32846 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107, function `pci_vtsock_proc_tx` in `virtio-sock` can lead to to uninitialized memory use. In this situation, there is a check for the return value to be less or equal to `VTSOCK_MAXSEGS`, but that check is not sufficien CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32846 | | 
 | 20230218T01:36:38Z | CVE-2021-32845 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, the implementation of `qnotify` at `pci_vtrnd_notify` fails to check the return value of `vq_getchain`. This leads to `struct iovec iov;` being uninitialized and used to read memory in `len = (in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32845 | | 
 | 20230218T01:36:34Z | CVE-2021-32844 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, ` vi_pci_write` has is a call to `vc_cfgwrite` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. T CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32844 | | 
 | 20230218T01:36:31Z | CVE-2021-32843 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, `virtio.c` has is a call to `vc_cfgread` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. This is CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32843 | | 
-| 20230217T23:23:23Z | CVE-2023-21593 | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | | 
-| 20230217T23:23:20Z | CVE-2023-23064 | TOTOLINK A720R V4.1.5cu.532_ B20210610 is vulnerable to Incorrect Access Control. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-23064 | | 
-| 20230217T23:23:16Z | CVE-2023-22246 | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22246 | | 
-| 20230217T23:23:13Z | CVE-2023-21584 | FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21584 | | 
-| 20230217T23:23:10Z | CVE-2023-22244 | Adobe Premiere Rush version 2.6 (and earlier) is affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22244 | | 
-| 20230217T23:23:06Z | CVE-2023-21583 | Adobe Bridge versions 12.0.3 (and earlier) and 13.0.1 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a vict CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21583 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230218T02:18:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10656 | 346| 
+| 20230218T12:38:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10665 | 347| 
+| 20230218T04:53:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 214 | 2| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
-| 20230217T06:22:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 213 | 2| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
-| 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 50| 
+| 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 49| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
 | 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T12:51:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2183| 
+| 20230218T12:41:41Z | An exploit payload providing SAMU services on PS4 over REST APIs | https://github.com/obhq/samu-services | 0 | 0| 
+| 20230218T12:33:15Z | Null | https://github.com/exploit40/exploit40 | 0 | 0| 
+| 20230218T07:02:15Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 572 | 33| 
 | 20230218T02:50:27Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3679 | 787| 
 | 20230218T02:26:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 47 | 49| 
 | 20230218T02:24:04Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
 | 20230217T23:23:23Z | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | 0 | 0| 
 | 20230217T23:23:16Z | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22246 | 0 | 0| 
 | 20230217T23:23:13Z | FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21584 | 0 | 0| 
-| 20230217T23:23:10Z | Adobe Premiere Rush version 2.6 (and earlier) is affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22244 | 0 | 0| 
-| 20230217T23:23:06Z | Adobe Bridge versions 12.0.3 (and earlier) and 13.0.1 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a vict CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21583 | 0 | 0| 
-| 20230217T23:23:03Z | Adobe Animate versions 22.0.8 (and earlier) and 23.0.0 (and earlier) are affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-22243 | 0 | 0| 
-| 20230217T23:23:00Z | Photoshop version 23.5.3 (and earlier), 24.1 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must o CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21577 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230218T02:47:17Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 50 | 8| 
-| 20230218T00:03:44Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 0 | 0| 
+| 20230218T11:23:43Z | A plugin base for a Minecraft ForceOp/Backdoor plugin I made by taking out chunks of my full on backdoor (HackBackdoor!) | https://github.com/wendellmeset/HackBackdoorBase | 1 | 0| 
+| 20230218T08:51:58Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 52 | 8| 
+| 20230218T07:48:29Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
+| 20230218T00:03:44Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 0 | 1| 
 | 20230217T23:34:01Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 0 | 0| 
-| 20230217T20:56:03Z | A plugin base for a Minecraft ForceOp/Backdoor plugin I made by taking out chunks of my full on backdoor (HackBackdoor!) | https://github.com/wendellmeset/HackBackdoorBase | 0 | 0| 
 | 20230217T20:04:42Z | Funny backdoor plugin with unsorted code .-. | https://github.com/Dwarslooper/TailsPloit | 1 | 0| 
 | 20230217T19:00:31Z | A simple php backdoor hack to access directory, access to mysql, access to execute shell command. | https://github.com/megdevs/php-backdoor | 0 | 0| 
 | 20230217T17:34:43Z | This repository contains the code of backdoor which can be used to exploit victim%s machine ,we can download /upload /execute commands on victims machine from our machine . | https://github.com/zedxpace/backdoor_in_python | 1 | 0| 
 | 20230217T13:55:01Z | virus photo | https://github.com/007-bk/backdoor | 0 | 0| 
 | 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
-| 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
