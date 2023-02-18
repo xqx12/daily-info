@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230218T13:29:07Z | Null | https://github.com/naldirs/flood-fuzzy-sugeno-logic-example | 0 | 0| 
+| 20230218T13:43:54Z | This is fuzzy sugeno logic example using Arduino | https://github.com/naldirs/flood-fuzzy-sugeno-logic-example | 0 | 0| 
 | 20230218T13:05:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3429 | 687| 
 | 20230218T11:55:00Z | Null | https://github.com/bank99/fuzzy-doodle | 0 | 0| 
 | 20230218T11:45:16Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 30 | 7| 
