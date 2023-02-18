@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T13:55:21Z | Exercise S2 - Pham Viet Duc | https://github.com/vietduc218/s2exercise | 0 | 0| 
 | 20230218T05:47:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 298 | 74| 
 | 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230216T18:27:56Z | Null | https://github.com/SKyletoft/s2e-autocxx-error | 0 | 0| 
