@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T01:39:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44885 | 22287| 
 | 20230218T01:33:06Z | Null | https://github.com/baekhyunwook/test_fuzzyc | 0 | 0| 
 | 20230218T01:16:24Z | Null | https://github.com/garronej/fuzzy-octo-meme | 0 | 0| 
 | 20230217T23:12:25Z | Fuzzy head by Frank Belknap Long is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Fuzzy-head_69931 | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230217T21:36:43Z | Null | https://github.com/GamingDarksouls/Fuzzy-Doodle | 0 | 0| 
 | 20230217T13:07:16Z | Repositório para o trabalho de conclusão do curso de Ciencias da Computação. | https://github.com/samuelmartinscoutinho/fuzzytcc | 0 | 0| 
 | 20230217T12:54:32Z | A practical fuzzing tool for SMT solvers | https://github.com/CGCL-codes/HistFuzz | 2 | 0| 
-| 20230217T12:22:22Z | Null | https://github.com/febriaricandra/fuzzy-umbrella | 0 | 0| 
 
 
 
