@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T02:49:57Z | Teste | https://github.com/DonAlex015/fuzzy-dollop | 0 | 0| 
 | 20230218T02:41:42Z | it%s a repository to projects in PowerBI | https://github.com/rodrigoermeson/fuzzy-guide | 0 | 0| 
 | 20230218T02:16:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44887 | 22287| 
 | 20230218T02:14:08Z | backend and frontend react app for fuzzy searching cars database | https://github.com/ePenguin-dev/cars-fuzzy | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230217T23:11:31Z | Fuzzy-Wuzz, a little brown bear of the Sierras by Allen Chaffee is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Fuzzy-Wuzz-a-little-brown-bear-of-the-Sierras_69923 | 0 | 0| 
 | 20230217T22:12:28Z | Mutation Protocol Fuzzing tool in python act like client that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
 | 20230217T21:53:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1939 | 247| 
-| 20230217T21:36:43Z | Null | https://github.com/GamingDarksouls/Fuzzy-Doodle | 0 | 0| 
 
 
 
