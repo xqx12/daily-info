@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230218T13:19:03Z | CVE-2022-32074 | Null | https://github.com/reewardius/CVE-2022-32074 | | 
 | 20230218T13:14:53Z | CVE-2022-31889 | Null | https://github.com/reewardius/CVE-2022-31889 | | 
 | 20230218T13:14:50Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
 | 20230218T13:11:13Z | CVE-2022-32132 | Null | https://github.com/reewardius/CVE-2022-32132 | | 
@@ -55,7 +56,6 @@
 | 20230218T05:33:35Z | CVE-2022-0492 | Docker Breakout Checker and PoC via CAP_SYS_ADMIN and via user namespaces (CVE-2022-0492) | https://github.com/T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC | | 
 | 20230218T03:49:51Z | CVE-2023-23752 |  Joomla! 未授权访问漏洞 | https://github.com/YusinoMy/CVE-2023-23752 | | 
 | 20230218T01:36:41Z | CVE-2021-32846 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107, function `pci_vtsock_proc_tx` in `virtio-sock` can lead to to uninitialized memory use. In this situation, there is a check for the return value to be less or equal to `VTSOCK_MAXSEGS`, but that check is not sufficien CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32846 | | 
-| 20230218T01:36:38Z | CVE-2021-32845 | HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, the implementation of `qnotify` at `pci_vtrnd_notify` fails to check the return value of `vq_getchain`. This leads to `struct iovec iov;` being uninitialized and used to read memory in `len = (in CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2021-32845 | | 
 
 
 # klee on Github 推荐
