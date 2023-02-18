@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T02:14:08Z | backend and frontend react app for fuzzy searching cars database | https://github.com/ePenguin-dev/cars-fuzzy | 0 | 0| 
 | 20230218T01:55:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44886 | 22287| 
 | 20230218T01:33:06Z | Null | https://github.com/baekhyunwook/test_fuzzyc | 0 | 0| 
 | 20230218T01:16:24Z | Null | https://github.com/garronej/fuzzy-octo-meme | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230217T21:53:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1939 | 247| 
 | 20230217T21:36:43Z | Null | https://github.com/GamingDarksouls/Fuzzy-Doodle | 0 | 0| 
 | 20230217T15:08:07Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
-| 20230217T13:07:16Z | Repositório para o trabalho de conclusão do curso de Ciencias da Computação. | https://github.com/samuelmartinscoutinho/fuzzytcc | 0 | 0| 
 
 
 
