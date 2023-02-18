@@ -13,6 +13,7 @@
 | 20230217 | Blue Hat 2023，作者介绍了由其中一个 UEFI Secure Boot 演讲所引发出的思考和回顾。 | http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html| 
 | 20230217 | 微软关于new bing的一周总结。 | https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week/| 
 | 20230217 | Citrix CVE-2022-27518 漏洞分析 | http://paper.seebug.org/2049/| 
+| 20230217 | 卡巴斯基 2022 年的垃圾邮件和钓鱼监测报告。包含2022年钓鱼邮件相关数据，图表，钓鱼手段，邮件样例等。 | https://securelist.com/spam-phishing-scam-report-2022/108692/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bbpvey3241hcgtw| 
 | 20230216 | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection| 
 | 20230216 | 从零开始写一个调试器，系列之一 | http://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/| 
 | 20230216 | 从攻防两个不同维度分析网络安全中双方的对抗。以Sysmon日志、ATT&CK标签日志、操作系统日志的分析实践为实例。 | https://www.freebuf.com/articles/es/357478.html| 
@@ -25,7 +26,6 @@
 | 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
 | 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
 | 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
-| 20230215 | 一个gitlib导入github repo的反序列化漏洞的exp | http://packetstormsecurity.com/files/171008| 
 
 
 # 安全维基 推荐

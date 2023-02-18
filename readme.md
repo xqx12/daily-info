@@ -13,6 +13,7 @@
 | 20230217 | Blue Hat 2023，作者介绍了由其中一个 UEFI Secure Boot 演讲所引发出的思考和回顾。 | http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html| 
 | 20230217 | 微软关于new bing的一周总结。 | https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week/| 
 | 20230217 | Citrix CVE-2022-27518 漏洞分析 | http://paper.seebug.org/2049/| 
+| 20230217 | 卡巴斯基 2022 年的垃圾邮件和钓鱼监测报告。包含2022年钓鱼邮件相关数据，图表，钓鱼手段，邮件样例等。 | https://securelist.com/spam-phishing-scam-report-2022/108692/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bbpvey3241hcgtw| 
 
 
 # 安全维基 推荐
