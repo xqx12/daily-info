@@ -127,7 +127,7 @@
 | 20230213T15:12:12Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 43 | 2| 
 | 20230213T03:44:57Z | Symbolic Execution - all in one | https://github.com/XD3an/symbolic-execution-all-in-one | 1 | 0| 
 | 20230211T22:48:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 15 | 8| 
-| 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 5| 
+| 20230210T05:28:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 29 | 6| 
 
 
 # big4 on Github 推荐
