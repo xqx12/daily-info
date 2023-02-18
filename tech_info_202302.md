@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T13:28:05Z | Null | https://github.com/naldirs/flood-fuzzy-sugeno-logic-example | 0 | 0| 
 | 20230218T13:05:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3429 | 687| 
 | 20230218T11:55:00Z | Null | https://github.com/bank99/fuzzy-doodle | 0 | 0| 
 | 20230218T11:45:16Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists and  Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 30 | 7| 
@@ -154,7 +155,6 @@
 | 20230218T02:41:42Z | it%s a repository to projects in PowerBI | https://github.com/rodrigoermeson/fuzzy-guide | 0 | 0| 
 | 20230218T02:16:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44887 | 22287| 
 | 20230218T02:14:08Z | backend and frontend react app for fuzzy searching cars database | https://github.com/ePenguin-dev/cars-fuzzy | 0 | 0| 
-| 20230218T01:33:06Z | Null | https://github.com/baekhyunwook/test_fuzzyc | 0 | 0| 
 
 
 
