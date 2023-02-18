@@ -153,8 +153,8 @@
 | 20230217T22:12:28Z | Mutation Protocol Fuzzing tool in python act like client that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
 | 20230217T21:53:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1939 | 247| 
 | 20230217T21:36:43Z | Null | https://github.com/GamingDarksouls/Fuzzy-Doodle | 0 | 0| 
+| 20230217T15:08:07Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
 | 20230217T13:07:16Z | Repositório para o trabalho de conclusão do curso de Ciencias da Computação. | https://github.com/samuelmartinscoutinho/fuzzytcc | 0 | 0| 
-| 20230217T12:54:32Z | A practical fuzzing tool for SMT solvers | https://github.com/CGCL-codes/HistFuzz | 2 | 0| 
 
 
 
