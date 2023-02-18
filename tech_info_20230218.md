@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T13:40:25Z | Bot which parses Apple security documents and alerts users when a patch for an actively exploited vulnerability is added. | https://github.com/kolyasapphire/apple-actively-exploited | 0 | 0| 
 | 20230218T12:51:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2183| 
 | 20230218T12:41:41Z | An exploit payload providing SAMU services on PS4 over REST APIs | https://github.com/obhq/samu-services | 0 | 0| 
 | 20230218T12:33:15Z | Null | https://github.com/exploit40/exploit40 | 0 | 0| 
