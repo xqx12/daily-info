@@ -109,10 +109,10 @@
 | 20230217T20:04:42Z | Funny backdoor plugin with unsorted code .-. | https://github.com/Dwarslooper/TailsPloit | 1 | 0| 
 | 20230217T19:00:31Z | A simple php backdoor hack to access directory, access to mysql, access to execute shell command. | https://github.com/megdevs/php-backdoor | 0 | 0| 
 | 20230217T17:34:43Z | This repository contains the code of backdoor which can be used to exploit victim%s machine ,we can download /upload /execute commands on victims machine from our machine . | https://github.com/zedxpace/backdoor_in_python | 1 | 0| 
+| 20230217T14:39:12Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 50 | 8| 
 | 20230217T13:55:01Z | virus photo | https://github.com/007-bk/backdoor | 0 | 0| 
 | 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
 | 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
-| 20230217T10:36:41Z | Null | https://github.com/zhuangshuli/MAE-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
