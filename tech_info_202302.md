@@ -103,13 +103,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230218T02:47:17Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 50 | 8| 
 | 20230218T00:03:44Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 0 | 0| 
 | 20230217T23:34:01Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 0 | 0| 
 | 20230217T20:56:03Z | A plugin base for a Minecraft ForceOp/Backdoor plugin I made by taking out chunks of my full on backdoor (HackBackdoor!) | https://github.com/wendellmeset/HackBackdoorBase | 0 | 0| 
 | 20230217T20:04:42Z | Funny backdoor plugin with unsorted code .-. | https://github.com/Dwarslooper/TailsPloit | 1 | 0| 
 | 20230217T19:00:31Z | A simple php backdoor hack to access directory, access to mysql, access to execute shell command. | https://github.com/megdevs/php-backdoor | 0 | 0| 
 | 20230217T17:34:43Z | This repository contains the code of backdoor which can be used to exploit victim%s machine ,we can download /upload /execute commands on victims machine from our machine . | https://github.com/zedxpace/backdoor_in_python | 1 | 0| 
-| 20230217T14:39:12Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 50 | 8| 
 | 20230217T13:55:01Z | virus photo | https://github.com/007-bk/backdoor | 0 | 0| 
 | 20230217T13:03:44Z | Null | https://github.com/bsl-offical/shell-Backdoor- | 0 | 0| 
 | 20230217T12:13:50Z | Implementación de un backdoor simple en Python para Linux | https://github.com/juliospau/linuxbackdoor | 0 | 0| 
