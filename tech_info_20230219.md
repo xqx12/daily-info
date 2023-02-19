@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230219T13:24:11Z | CVE-2023-25555 | test | https://github.com/Shmily-ing/CVE-2023-25555 | | 
 | 20230219T13:20:58Z | CVE-2022-25365 | Null | https://github.com/followboy1999/CVE-2022-25365 | | 
 | 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
 | 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
