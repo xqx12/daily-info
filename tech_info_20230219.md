@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
 | 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
 | 20230219T12:02:33Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
@@ -61,6 +62,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T06:06:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3325 | 470| 
 | 20230219T02:36:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 19 | 2| 
 
 

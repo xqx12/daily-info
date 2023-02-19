@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
 | 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
 | 20230219T12:02:33Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
@@ -55,7 +56,6 @@
 | 20230218T13:19:03Z | CVE-2022-32074 | Null | https://github.com/reewardius/CVE-2022-32074 | | 
 | 20230218T13:14:53Z | CVE-2022-31889 | Null | https://github.com/reewardius/CVE-2022-31889 | | 
 | 20230218T13:14:50Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
-| 20230218T13:11:13Z | CVE-2022-32132 | Null | https://github.com/reewardius/CVE-2022-32132 | | 
 
 
 # klee on Github 推荐
@@ -119,11 +119,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T06:06:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3325 | 470| 
 | 20230219T02:36:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 19 | 2| 
 | 20230218T18:26:40Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
 | 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
-| 20230218T02:34:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3324 | 470| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 110| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
