@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230219T02:05:24Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
-| 20230218T21:25:43Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
+| 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
+| 20230219T12:02:33Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
+| 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
+| 20230219T08:47:15Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230218T15:24:59Z | CVE-2022-0739 | BookingPress < 1.0.11 - Unauthenticated SQL Injection | https://github.com/ElGanz0/CVE-2022-0739 | | 
 | 20230218T15:12:45Z | CVE-2020-1472 | Lab introduction to ZeroLogon | https://github.com/RicYaben/CVE-2020-1472-LAB | | 
 | 20230218T13:19:03Z | CVE-2022-32074 | Null | https://github.com/reewardius/CVE-2022-32074 | | 
 | 20230218T13:14:53Z | CVE-2022-31889 | Null | https://github.com/reewardius/CVE-2022-31889 | | 
 | 20230218T13:14:50Z | CVE-2022-31890 | Null | https://github.com/reewardius/CVE-2022-31890 | | 
 | 20230218T13:11:13Z | CVE-2022-32132 | Null | https://github.com/reewardius/CVE-2022-32132 | | 
-| 20230218T12:19:24Z | CVE-2023-23752 | CVE-2023-23752 nuclei template | https://github.com/Saboor-Hakimi/CVE-2023-23752 | | 
-| 20230218T07:12:31Z | CVE-2023-0901 | Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0901 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T11:24:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10672 | 347| 
+| 20230219T08:38:35Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 1 | 0| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
-| 20230218T16:08:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10668 | 347| 
 | 20230218T04:53:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 214 | 2| 
 | 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 49| 
 | 20230214T02:32:19Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20230214T00:49:01Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 30 | 1| 
-| 20230212T06:21:45Z | An open-source Chinese font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T11:00:07Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 27 | 3| 
+| 20230219T10:59:42Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 83 | 26| 
+| 20230219T10:59:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2184| 
+| 20230219T09:34:24Z | all binnary exploitation technicques exploit are here | https://github.com/subhodeep2/Binnary_exploitation_exploit | 0 | 0| 
 | 20230219T02:44:08Z | Null | https://github.com/Darkhaxxor005/Exploit-Linux-CrazyReverseShell | 0 | 0| 
 | 20230219T00:24:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-js | 1 | 0| 
 | 20230219T00:23:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-js | 1 | 0| 
 | 20230219T00:22:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-js | 1 | 0| 
 | 20230219T00:10:56Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 48 | 50| 
 | 20230218T22:50:40Z | App to show vulnerabilities of Android devices | https://github.com/ChickenHook/AndroidExploits | 0 | 0| 
-| 20230218T22:35:40Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 1 | 0| 
-| 20230218T19:47:54Z | Labsecurity is a tool that bundles ethical hacking python scripts into a single tool with cli interface. | https://github.com/dylanmeca/labsecurity | 20 | 7| 
-| 20230218T13:42:15Z | Bot which parses Apple security documents and alerts users when a patch for an actively exploited vulnerability is added. | https://github.com/kolyasapphire/apple-actively-exploited | 0 | 0| 
-| 20230218T12:51:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2183| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230218T18:20:06Z | Dc Rat is a Remote Software That Can Remote Any Windows Version and Control It From Anywhere. Freatures (Remote Desktop, Remote Files, Remote Webcam and Alot Of Fantastic and PowerFul Features). (For Educational Purposes Only). | https://github.com/SoftwaresForPCs/Dc-Rat-Cracked-Activated-For-Windows | 1 | 0| 
-| 20230218T18:07:33Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 1 | 0| 
-| 20230218T18:07:28Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 1 | 1| 
+| 20230219T11:55:24Z | Dc Rat is a Remote Software That Can Remote Any Windows Version and Control It From Anywhere. Freatures (Remote Desktop, Remote Files, Remote Webcam and Alot Of Fantastic and PowerFul Features). (For Educational Purposes Only). | https://github.com/SoftwaresForPCs/Dc-Rat-Cracked-Activated-For-Windows | 2 | 0| 
+| 20230219T11:55:06Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 2 | 1| 
+| 20230219T11:54:43Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 2 | 0| 
+| 20230219T08:47:23Z | Null | https://github.com/tirthpatel08/Backdoor | 0 | 0| 
+| 20230219T06:34:18Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 0 | 0| 
 | 20230218T11:23:43Z | A plugin base for a Minecraft ForceOp/Backdoor plugin I made by taking out chunks of my full on backdoor (HackBackdoor!) | https://github.com/wendellmeset/HackBackdoorBase | 1 | 0| 
 | 20230218T08:51:58Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 52 | 8| 
 | 20230218T07:48:29Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
 | 20230217T20:04:42Z | Funny backdoor plugin with unsorted code .-. | https://github.com/Dwarslooper/TailsPloit | 1 | 0| 
 | 20230217T19:00:31Z | A simple php backdoor hack to access directory, access to mysql, access to execute shell command. | https://github.com/megdevs/php-backdoor | 0 | 0| 
-| 20230217T17:34:43Z | This repository contains the code of backdoor which can be used to exploit victim%s machine ,we can download /upload /execute commands on victims machine from our machine . | https://github.com/zedxpace/backdoor_in_python | 1 | 0| 
-| 20230217T13:55:01Z | virus photo | https://github.com/007-bk/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T12:37:17Z | Null | https://github.com/gab50000/api_fuzz | 0 | 0| 
+| 20230219T12:09:46Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 1 | 0| 
+| 20230219T12:04:48Z | Fuzzer script to get steam groups index | https://github.com/1ukah/steam-groups-fuzzer | 0 | 0| 
+| 20230219T11:35:14Z | i will write it letter | https://github.com/CodewithAli45/fuzzy-octo-umbrella | 0 | 0| 
+| 20230219T09:22:51Z | Null | https://github.com/AskarXD/fuzzy-sniffle | 0 | 0| 
+| 20230219T09:17:08Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 30 | 7| 
+| 20230219T08:49:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8745 | 978| 
+| 20230219T08:27:48Z | This is a Fuzzy Logic demo for Godot 3.5 | https://github.com/wnx1012266/FuzzyLogicDemo | 0 | 0| 
 | 20230219T02:12:07Z | Zigzags from Narnia | https://github.com/BadBadBabyBliss/Fuzzy-Fishstick | 0 | 0| 
 | 20230219T01:15:28Z | Null | https://github.com/amirtabadkani/FacadePersonalization_Fuzzylogic | 0 | 0| 
-| 20230219T00:25:00Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 0 | 0| 
-| 20230218T23:41:40Z | How About  | https://github.com/penailape/Fuzzy-Goggles- | 0 | 0| 
-| 20230218T23:14:26Z | Null | https://github.com/midhubalan/fuzzy-meme | 0 | 0| 
-| 20230218T21:54:18Z | Null | https://github.com/nouhelion/fuzzy | 0 | 0| 
-| 20230218T20:50:34Z | Null | https://github.com/Attractively12/fuzzy-octo-enigma | 0 | 0| 
-| 20230218T19:19:05Z | Integration Tests for Fuzzing Microservices | https://github.com/ChinuSaraf/UIUC_CS-597_Fuzzing-Microservices-Integration_Tests | 0 | 0| 
-| 20230218T14:25:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8382 | 1826| 
-| 20230218T13:43:54Z | This is fuzzy sugeno logic example using Arduino | https://github.com/naldirs/flood-fuzzy-sugeno-logic-example | 0 | 0| 
 
 
 
