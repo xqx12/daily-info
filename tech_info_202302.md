@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T00:24:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-js | 1 | 0| 
+| 20230219T00:23:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-js | 1 | 0| 
+| 20230219T00:22:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-js | 1 | 0| 
+| 20230218T22:50:40Z | App to show vulnerabilities of Android devices | https://github.com/ChickenHook/AndroidExploits | 0 | 0| 
+| 20230218T22:35:40Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 1 | 0| 
+| 20230218T19:47:54Z | Labsecurity is a tool that bundles ethical hacking python scripts into a single tool with cli interface. | https://github.com/dylanmeca/labsecurity | 20 | 7| 
 | 20230218T13:42:15Z | Bot which parses Apple security documents and alerts users when a patch for an actively exploited vulnerability is added. | https://github.com/kolyasapphire/apple-actively-exploited | 0 | 0| 
 | 20230218T12:51:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2183| 
 | 20230218T12:41:41Z | An exploit payload providing SAMU services on PS4 over REST APIs | https://github.com/obhq/samu-services | 0 | 0| 
 | 20230218T12:33:15Z | Null | https://github.com/exploit40/exploit40 | 0 | 0| 
-| 20230218T07:02:15Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 572 | 33| 
-| 20230218T04:16:37Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 35 | 2| 
-| 20230218T02:50:27Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3679 | 787| 
-| 20230218T02:26:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 47 | 49| 
-| 20230218T02:24:04Z | Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster   | https://github.com/thesafdari/safex | 0 | 0| 
-| 20230217T23:23:23Z | Adobe InDesign versions ID18.1 (and earlier) and ID17.4 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interacti CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-21593 | 0 | 0| 
 
 
 # backdoor on Github 推荐
