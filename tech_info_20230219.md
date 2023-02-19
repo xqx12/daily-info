@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230219T13:19:10Z | CVE-2022-25365 | Null | https://github.com/followboy1999/CVE-2022-25365 | | 
 | 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
 | 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
 | 20230219T12:02:33Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
