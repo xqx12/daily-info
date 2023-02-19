@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T02:12:07Z | Zigzags from Narnia | https://github.com/BadBadBabyBliss/Fuzzy-Fishstick | 0 | 0| 
 | 20230219T01:15:28Z | Null | https://github.com/amirtabadkani/FacadePersonalization_Fuzzylogic | 0 | 0| 
 | 20230219T00:25:00Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 0 | 0| 
 | 20230218T23:41:40Z | How About  | https://github.com/penailape/Fuzzy-Goggles- | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230218T19:19:05Z | Integration Tests for Fuzzing Microservices | https://github.com/ChinuSaraf/UIUC_CS-597_Fuzzing-Microservices-Integration_Tests | 0 | 0| 
 | 20230218T14:25:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8382 | 1826| 
 | 20230218T13:43:54Z | This is fuzzy sugeno logic example using Arduino | https://github.com/naldirs/flood-fuzzy-sugeno-logic-example | 0 | 0| 
-| 20230218T13:05:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3429 | 687| 
 
 
 
