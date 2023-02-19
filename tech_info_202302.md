@@ -146,7 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230219T13:40:28Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
+| 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
+| 20230219T13:46:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8746 | 978| 
 | 20230219T13:09:45Z | This repository is a practice container! | https://github.com/GauravGedu/fuzzy-computing-machine | 0 | 0| 
 | 20230219T12:37:17Z | Null | https://github.com/gab50000/api_fuzz | 0 | 0| 
 | 20230219T12:09:46Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 1 | 0| 
@@ -154,7 +155,6 @@
 | 20230219T11:35:14Z | i will write it letter | https://github.com/CodewithAli45/fuzzy-octo-umbrella | 0 | 0| 
 | 20230219T09:22:51Z | Null | https://github.com/AskarXD/fuzzy-sniffle | 0 | 0| 
 | 20230219T09:17:08Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 30 | 7| 
-| 20230219T08:49:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8745 | 978| 
 | 20230219T08:27:48Z | This is a Fuzzy Logic demo for Godot 3.5 | https://github.com/wnx1012266/FuzzyLogicDemo | 0 | 0| 
 
 
