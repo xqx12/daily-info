@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230219T02:05:24Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230218T21:25:43Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230218T15:24:59Z | CVE-2022-0739 | BookingPress < 1.0.11 - Unauthenticated SQL Injection | https://github.com/ElGanz0/CVE-2022-0739 | | 
 | 20230218T15:12:45Z | CVE-2020-1472 | Lab introduction to ZeroLogon | https://github.com/RicYaben/CVE-2020-1472-LAB | | 
@@ -55,7 +56,6 @@
 | 20230218T13:11:13Z | CVE-2022-32132 | Null | https://github.com/reewardius/CVE-2022-32132 | | 
 | 20230218T12:19:24Z | CVE-2023-23752 | CVE-2023-23752 nuclei template | https://github.com/Saboor-Hakimi/CVE-2023-23752 | | 
 | 20230218T07:12:31Z | CVE-2023-0901 | Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4. CVE project by @Sn0wAlice | https://github.com/Live-Hack-CVE/CVE-2023-0901 | | 
-| 20230218T05:54:58Z | CVE-2023-0669 | CVE-2023-0669 Encrpytion helper  | https://github.com/yosef0x01/CVE-2023-0669 | | 
 
 
 # klee on Github 推荐
