@@ -31,7 +31,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230219T23:20:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2159 | 606| 
-| 20230219T15:57:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10675 | 347| 
 
 
 # s2e on Github 推荐
