@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230219 | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX| 
 
 
 # 安全维基 推荐

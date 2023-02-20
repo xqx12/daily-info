@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230219 | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX| 
 | 20230217 | 利用华为SD-Update模式的检测和使用时间不一致，替换更新数据包，绕过签名验证，获取root权限。 | https://labs.taszk.io/articles/post/reunzip/| 
 | 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
 | 20230217 | 深入剖析acmailer的两个nday漏洞-CVE-2021-20617 & CVE-2021-20618 | http://starlabs.sg/blog/2023/02-dissecting-the-vulnerabilities-a-comprehensive-teardown-of-acmailer/| 
@@ -25,7 +26,6 @@
 | 20230216 | Rustproofing Linux (Part 3/4 Integer Overflows) | http://research.nccgroup.com/2023/02/14/rustproofing-linux-part-3-4-integer-overflows/| 
 | 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
 | 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
-| 20230215 | 通过直接调用text-davinci-003可以绕过chatgpt content filtering。不过严格意义上来说text-davinci-003和chatgpt并不是同一个模型 | http://blog.checkpoint.com/2023/02/07/cybercriminals-bypass-chatgpt-restrictions-to-generate-malicious-content/| 
 
 
 # 安全维基 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T02:36:22Z | android app native so fuzz. efficiently run in a real machine with frida environment. | https://github.com/idhyt/AndroidFridaFuzz | 0 | 0| 
 | 20230220T02:22:26Z | moonbase.app express - mongodb - api backend server | https://github.com/MoonBaseDAO/fuzzy-parakeet | 0 | 0| 
 | 20230220T02:10:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8386 | 1826| 
 | 20230220T01:20:56Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2088 | 34| 
@@ -155,7 +156,6 @@
 | 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
 | 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
 | 20230219T13:46:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8746 | 978| 
-| 20230219T13:09:45Z | This repository is a practice container! | https://github.com/GauravGedu/fuzzy-computing-machine | 0 | 0| 
 
 
 
