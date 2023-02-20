@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230220T01:28:04Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311 | | 
 | 20230220T00:01:24Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230219T21:57:28Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T13:24:11Z | CVE-2023-25555 | test | https://github.com/Shmily-ing/CVE-2023-25555 | | 
@@ -55,7 +56,6 @@
 | 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230219T08:47:15Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230218T15:24:59Z | CVE-2022-0739 | BookingPress < 1.0.11 - Unauthenticated SQL Injection | https://github.com/ElGanz0/CVE-2022-0739 | | 
-| 20230218T15:12:45Z | CVE-2020-1472 | Lab introduction to ZeroLogon | https://github.com/RicYaben/CVE-2020-1472-LAB | | 
 
 
 # klee on Github 推荐
