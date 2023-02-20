@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T13:22:29Z | Null | https://github.com/itslilsteph/fuzzy-succotash | 0 | 0| 
 | 20230220T12:57:36Z | Null | https://github.com/blu3sh0rk/Fuzzing-crash | 0 | 0| 
 | 20230220T12:54:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44929 | 22307| 
 | 20230220T12:44:39Z | Fuzzer for Atomic and Hyperion | https://github.com/ankh2054/wax-api-fuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230220T08:45:57Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 251 | 36| 
 | 20230220T07:49:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8388 | 1826| 
 | 20230220T02:52:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
-| 20230220T02:51:06Z | This is also a practice repo... | https://github.com/GauravGedu/fuzzy-world2 | 0 | 0| 
 
 
 
