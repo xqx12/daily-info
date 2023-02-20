@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230220 | homepod越狱工具 | https://github.com/tihmstar/homepwn#3d-print-version| 
+| 20230220 | 三星推出了一种针对IM和SMS的zero-click RCE的防护。原理是在沙箱环境下解析图片之类文件以确保其未触发漏洞。 | https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html| 
+| 20230220 | Picus出版的2023年版APT攻击报告 | http://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/RedReport2023-Picus.pdf| 
+| 20230220 | 一种使用VNC进行钓鱼等技术，该技术主要是通过引导受害者登陆一个由noVNC搭建的通向VNC的Web站点并进行登陆。由于受害者登陆的站是真实的站，因此这种钓鱼方法可以自然地直接绕过MFA。 | https://medium.com/@psychsecurity/mfa-phishing-using-novnc-and-aws-ebc781b4d093| 
+| 20230220 | 介绍了最近的威胁活动中HTML走私使用的相关技术，包括payload encoding和payload deliver | http://link.medium.com/7wloMoWIxxb| 
+| 20230220 | 通过PS2 Emulator破解ps4/ps5系列文章的第三篇，本篇主要与在PS4/PS5上的调试与利用方式有关。 | https://www.reddit.com/r/netsec/comments/115u6xc/mast1c0re_part_3_escaping_the_ps5_emulator/| 
 | 20230219 | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX| 
 | 20230217 | 利用华为SD-Update模式的检测和使用时间不一致，替换更新数据包，绕过签名验证，获取root权限。 | https://labs.taszk.io/articles/post/reunzip/| 
 | 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
@@ -20,17 +26,12 @@
 | 20230216 | 从攻防两个不同维度分析网络安全中双方的对抗。以Sysmon日志、ATT&CK标签日志、操作系统日志的分析实践为实例。 | https://www.freebuf.com/articles/es/357478.html| 
 | 20230216 | 介绍linux内核的漏洞缓解机制及绕过方法，最后解释了CVE-2022-0847的漏洞利用方法，该方法不受漏洞缓解机制的限制 | http://blog.topsec.com.cn/linux%e5%86%85%e6%a0%b8%e5%b8%b8%e7%94%a8%e4%bf%9d%e6%8a%a4%e5%92%8c%e7%bb%95%e8%bf%87%e6%8a%80%e6%9c%af/| 
 | 20230216 | IBM WebSphere Liberty 在其轻量级第三方身份验证 (LTPA) 协议的实现中存在缺陷，攻击者可构造任意其他用户的令牌。 | http://pretalx.hackerhotel.nl/hackerhotel-2023/talk/7JEEWB/| 
-| 20230216 | 使用ChatGPT对取证及攻击识别方向的一些实验，作者使用Meterpreter、PowerShell Empire 感染系统后，对产生的进程、服务行为输入到ChatGPT中，其在恶意进程识别、服务安装和加密程序检查上表现良好。 | https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/| 
-| 20230216 | Arris Router Firmware远程代码执行漏洞(CVE-2022-45701)的漏洞利用，影响多个型号（TG2482A, TG2492, SBG10）设备。 | http://packetstormsecurity.com/files/171001| 
-| 20230216 | 如何在不把服务端打DoS的情况下检测服务端的原型污染漏洞 | https://portswigger.net/research/server-side-prototype-pollution| 
-| 20230216 | Rustproofing Linux (Part 3/4 Integer Overflows) | http://research.nccgroup.com/2023/02/14/rustproofing-linux-part-3-4-integer-overflows/| 
-| 20230215 | Apache xmlsec 相关软件远程代码执行漏洞(CVE-2022-47966)的另外一种payload，可以绕过一些公开的漏洞利用检测。 | https://vulncheck.com/blog/cve-2022-47966-payload| 
-| 20230215 | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230220 | SecWiki周刊（第468期) | https://www.sec-wiki.com/weekly/468| 
 | 20230219 | Citrix CVE-2022-27518 漏洞分析 | https://paper.seebug.org/2049/| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-上） | https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g| 
@@ -40,30 +41,29 @@
 | 20230213 | VirusTotal 版本的引擎与桌面版引擎的比较分析 | https://mp.weixin.qq.com/s/SpmgKfG2eeWCPMZ4RqEDPA| 
 | 20230213 | SecWiki周刊（第467期) | https://www.sec-wiki.com/weekly/467| 
 | 20230213 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
-| 20230213 | 2023年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230220T02:52:12Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
+| 20230220T12:53:52Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
+| 20230220T12:10:17Z | CVE-2022-37032 | PoC for CVE-2022-37032，tested on frr-8.3。 | https://github.com/spwpun/CVE-2022-37032 | | 
+| 20230220T10:30:17Z | CVE-2023-23752 | Null | https://github.com/Vulnmachines/joomla_CVE-2023-23752 | | 
+| 20230220T09:13:49Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
+| 20230220T03:24:17Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230220T02:25:19Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311 | | 
 | 20230219T21:57:28Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T13:24:11Z | CVE-2023-25555 | test | https://github.com/Shmily-ing/CVE-2023-25555 | | 
 | 20230219T13:20:58Z | CVE-2022-25365 | Null | https://github.com/followboy1999/CVE-2022-25365 | | 
 | 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
-| 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
-| 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
-| 20230219T08:47:15Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
-| 20230218T15:24:59Z | CVE-2022-0739 | BookingPress < 1.0.11 - Unauthenticated SQL Injection | https://github.com/ElGanz0/CVE-2022-0739 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230220T02:41:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10677 | 348| 
+| 20230220T09:47:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10682 | 348| 
+| 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
-| 20230219T23:20:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2159 | 606| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20230218T04:53:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 214 | 2| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230219T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5l | 1 | 0| 
-| 20230219T23:55:38Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5l | 1 | 0| 
-| 20230219T23:54:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5l | 1 | 0| 
-| 20230219T22:25:09Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 1 | 0| 
-| 20230219T21:57:14Z | Tool to unlock any android phone  | https://github.com/t4ppe/Unlock-All-Android-Phone | 1 | 0| 
-| 20230219T20:31:32Z | An Android Remote Control Tool Allows You To Control & Monitor Android Phone From Your PC | https://github.com/X444OM/PekkaRat-2023 | 29 | 0| 
-| 20230219T17:14:35Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 38 | 2| 
-| 20230219T11:00:07Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 27 | 3| 
-| 20230219T10:59:42Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 83 | 26| 
-| 20230219T10:59:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2184| 
+| 20230220T12:54:39Z | Repository for all red teaming/offensive hacking related scripts and exploits | https://github.com/RFC1918-hub/Red-Teaming-Scripts | 0 | 0| 
+| 20230220T12:37:35Z | An iOS jailbreak that will maybe release. Using MacDirtyCow exploit and will support any iOS 16.1 device. *PLEASE don’t open the file now. The file just contains a python script that just showing the things will be shown when using the jailbreak. IT NOT JAILBREAKING. | https://github.com/Fomri/Omri-a-Jailbreak | 0 | 0| 
+| 20230220T12:00:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12758 | 2183| 
+| 20230220T11:22:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-SOl89-exploit-have | 0 | 0| 
+| 20230220T10:46:50Z | This project will teach you how to exploit the (elf-like) binary. | https://github.com/manettifabrizio/42cursus_override | 0 | 0| 
+| 20230220T10:37:20Z | Repository contains psexec, which will help to exploit the forgotten pipe | https://github.com/MzHmO/psexec_noinstall | 0 | 0| 
+| 20230220T09:34:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5277 | 734| 
+| 20230220T09:18:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5025 | 1703| 
+| 20230220T07:07:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 577 | 155| 
+| 20230220T06:54:17Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 238 | 53| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T12:07:43Z | Create multiple backdoors in Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
+| 20230220T11:48:57Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 3 | 1| 
+| 20230220T09:11:51Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 54 | 8| 
+| 20230220T05:19:14Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 1 | 2| 
+| 20230220T03:17:54Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 1 | 0| 
 | 20230220T00:32:35Z | Repositórios de teste de scripts e backdoors. | https://github.com/gabriel-cheng/hacklab | 0 | 0| 
-| 20230219T21:36:34Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 52 | 8| 
 | 20230219T15:51:28Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
 | 20230219T15:00:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 108 | 14| 
 | 20230219T13:12:34Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
-| 20230219T11:55:24Z | Dc Rat is a Remote Software That Can Remote Any Windows Version and Control It From Anywhere. Freatures (Remote Desktop, Remote Files, Remote Webcam and Alot Of Fantastic and PowerFul Features). (For Educational Purposes Only). | https://github.com/SoftwaresForPCs/Dc-Rat-Cracked-Activated-For-Windows | 2 | 0| 
-| 20230219T11:55:06Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 2 | 1| 
-| 20230219T11:54:43Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 2 | 0| 
-| 20230219T08:47:23Z | Null | https://github.com/tirthpatel08/Backdoor | 0 | 0| 
-| 20230219T06:34:18Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 0 | 0| 
+| 20230219T11:55:24Z | Dc Rat is a Remote Software That Can Remote Any Windows Version and Control It From Anywhere. Freatures (Remote Desktop, Remote Files, Remote Webcam and Alot Of Fantastic and PowerFul Features). (For Educational Purposes Only). | https://github.com/SoftwaresForPCs/Dc-Rat-Cracked-Activated-For-Windows | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T12:57:36Z | Null | https://github.com/blu3sh0rk/Fuzzing-crash | 0 | 0| 
+| 20230220T12:54:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44929 | 22307| 
+| 20230220T12:44:39Z | Fuzzer for Atomic and Hyperion | https://github.com/ankh2054/wax-api-fuzzer | 0 | 0| 
+| 20230220T12:44:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 162 | 5| 
+| 20230220T12:38:21Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 2 | 0| 
+| 20230220T12:02:18Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
+| 20230220T08:45:57Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 251 | 36| 
+| 20230220T07:49:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8388 | 1826| 
 | 20230220T02:52:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
 | 20230220T02:51:06Z | This is also a practice repo... | https://github.com/GauravGedu/fuzzy-world2 | 0 | 0| 
-| 20230220T02:36:22Z | android app native so fuzz. efficiently run in a real machine with frida environment. | https://github.com/idhyt/AndroidFridaFuzz | 0 | 0| 
-| 20230220T02:22:26Z | moonbase.app express - mongodb - api backend server | https://github.com/MoonBaseDAO/fuzzy-parakeet | 0 | 0| 
-| 20230220T02:10:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8386 | 1826| 
-| 20230220T01:20:56Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2088 | 34| 
-| 20230219T22:30:07Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 0 | 0| 
-| 20230219T21:02:48Z | Null | https://github.com/ahmsabryy/fuzzme | 0 | 0| 
-| 20230219T20:36:23Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/HiddenRiverLabs/PuzzFuzz | 0 | 0| 
-| 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
 
 
 
