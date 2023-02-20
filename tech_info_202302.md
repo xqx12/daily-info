@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T02:52:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
 | 20230220T02:51:06Z | This is also a practice repo... | https://github.com/GauravGedu/fuzzy-world2 | 0 | 0| 
 | 20230220T02:36:22Z | android app native so fuzz. efficiently run in a real machine with frida environment. | https://github.com/idhyt/AndroidFridaFuzz | 0 | 0| 
 | 20230220T02:22:26Z | moonbase.app express - mongodb - api backend server | https://github.com/MoonBaseDAO/fuzzy-parakeet | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230219T21:02:48Z | Null | https://github.com/ahmsabryy/fuzzme | 0 | 0| 
 | 20230219T20:36:23Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/HiddenRiverLabs/PuzzFuzz | 0 | 0| 
 | 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
-| 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
 
 
 
