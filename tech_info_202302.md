@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T13:49:06Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 18 | 4| 
 | 20230220T12:54:39Z | Repository for all red teaming/offensive hacking related scripts and exploits | https://github.com/RFC1918-hub/Red-Teaming-Scripts | 0 | 0| 
 | 20230220T12:37:35Z | An iOS jailbreak that will maybe release. Using MacDirtyCow exploit and will support any iOS 16.1 device. *PLEASE don’t open the file now. The file just contains a python script that just showing the things will be shown when using the jailbreak. IT NOT JAILBREAKING. | https://github.com/Fomri/Omri-a-Jailbreak | 0 | 0| 
 | 20230220T12:00:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12758 | 2183| 
@@ -98,7 +99,6 @@
 | 20230220T09:34:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5277 | 734| 
 | 20230220T09:18:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5025 | 1703| 
 | 20230220T07:07:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 577 | 155| 
-| 20230220T06:54:17Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 238 | 53| 
 
 
 # backdoor on Github 推荐
