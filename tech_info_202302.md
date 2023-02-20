@@ -153,9 +153,9 @@
 | 20230220T12:44:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 162 | 5| 
 | 20230220T12:38:21Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 2 | 0| 
 | 20230220T12:02:18Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
+| 20230220T09:10:04Z | Black box fuzzer for web applications | https://github.com/Brum3ns/firefly | 116 | 11| 
 | 20230220T08:45:57Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 251 | 36| 
 | 20230220T07:49:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8388 | 1826| 
-| 20230220T02:52:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3416 | 412| 
 
 
 
