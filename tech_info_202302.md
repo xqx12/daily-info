@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230219 | Citrix CVE-2022-27518 漏洞分析 | https://paper.seebug.org/2049/| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-上） | https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g| 
 | 20230217 | 网络流量异常检测综述 | https://mp.weixin.qq.com/s/6zEkXro7WFjNQWPWv53NcA| 
@@ -40,32 +41,31 @@
 | 20230213 | SecWiki周刊（第467期) | https://www.sec-wiki.com/weekly/467| 
 | 20230213 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
 | 20230213 | 2023年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw| 
-| 20230212 | ZKP in Hidden Order Group 未知阶群内的零知识证明 | https://zhuanlan.zhihu.com/p/603726514| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230220T00:01:24Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
+| 20230219T21:57:28Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T13:24:11Z | CVE-2023-25555 | test | https://github.com/Shmily-ing/CVE-2023-25555 | | 
 | 20230219T13:20:58Z | CVE-2022-25365 | Null | https://github.com/followboy1999/CVE-2022-25365 | | 
 | 20230219T13:00:48Z | CVE-2021-4034 | Null | https://github.com/dadvlingd/CVE-2021-4034 | | 
 | 20230219T12:58:09Z | 未知编号 | test | https://github.com/Shmily-ing/CVE-202 | | 
-| 20230219T12:02:33Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 | 20230219T11:42:03Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230219T08:47:15Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230218T15:24:59Z | CVE-2022-0739 | BookingPress < 1.0.11 - Unauthenticated SQL Injection | https://github.com/ElGanz0/CVE-2022-0739 | | 
 | 20230218T15:12:45Z | CVE-2020-1472 | Lab introduction to ZeroLogon | https://github.com/RicYaben/CVE-2020-1472-LAB | | 
-| 20230218T13:19:03Z | CVE-2022-32074 | Null | https://github.com/reewardius/CVE-2022-32074 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230219T13:21:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10673 | 347| 
-| 20230219T08:38:35Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 1 | 0| 
+| 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
+| 20230219T23:20:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2159 | 606| 
+| 20230219T15:57:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10675 | 347| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20230218T04:53:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 214 | 2| 
-| 20230217T07:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2158 | 606| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 49| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5l | 1 | 0| 
+| 20230219T23:55:38Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5l | 1 | 0| 
+| 20230219T23:54:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5l | 1 | 0| 
+| 20230219T22:25:09Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 1 | 0| 
+| 20230219T21:57:14Z | Tool to unlock any android phone  | https://github.com/t4ppe/Unlock-All-Android-Phone | 1 | 0| 
+| 20230219T20:31:32Z | An Android Remote Control Tool Allows You To Control & Monitor Android Phone From Your PC | https://github.com/X444OM/PekkaRat-2023 | 29 | 0| 
+| 20230219T17:14:35Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 38 | 2| 
 | 20230219T11:00:07Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 27 | 3| 
 | 20230219T10:59:42Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 83 | 26| 
 | 20230219T10:59:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12757 | 2184| 
-| 20230219T09:34:24Z | all binnary exploitation technicques exploit are here | https://github.com/subhodeep2/Binnary_exploitation_exploit | 0 | 0| 
-| 20230219T02:44:08Z | Null | https://github.com/Darkhaxxor005/Exploit-Linux-CrazyReverseShell | 0 | 0| 
-| 20230219T00:24:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-js | 1 | 0| 
-| 20230219T00:23:17Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-js | 1 | 0| 
-| 20230219T00:22:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-js | 1 | 0| 
-| 20230219T00:10:56Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | 48 | 50| 
-| 20230218T22:50:40Z | App to show vulnerabilities of Android devices | https://github.com/ChickenHook/AndroidExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T00:32:35Z | Repositórios de teste de scripts e backdoors. | https://github.com/gabriel-cheng/hacklab | 0 | 0| 
+| 20230219T21:36:34Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 52 | 8| 
+| 20230219T15:51:28Z | End to End Encrypted Real Time Chat System | https://github.com/GodsComma/backdoor-deals | 0 | 0| 
+| 20230219T15:00:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 108 | 14| 
 | 20230219T13:12:34Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
 | 20230219T11:55:24Z | Dc Rat is a Remote Software That Can Remote Any Windows Version and Control It From Anywhere. Freatures (Remote Desktop, Remote Files, Remote Webcam and Alot Of Fantastic and PowerFul Features). (For Educational Purposes Only). | https://github.com/SoftwaresForPCs/Dc-Rat-Cracked-Activated-For-Windows | 2 | 0| 
 | 20230219T11:55:06Z | MobiHok is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/MobiHok-v6-Cracked-Activated-Latest-Version-2023 | 2 | 1| 
 | 20230219T11:54:43Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 2 | 0| 
 | 20230219T08:47:23Z | Null | https://github.com/tirthpatel08/Backdoor | 0 | 0| 
 | 20230219T06:34:18Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 0 | 0| 
-| 20230218T11:23:43Z | A plugin base for a Minecraft ForceOp/Backdoor plugin I made by taking out chunks of my full on backdoor (HackBackdoor!) | https://github.com/wendellmeset/HackBackdoorBase | 1 | 0| 
-| 20230218T08:51:58Z | Obfuscated powershell reverse backdoor with Flipper Zero and USB Rubber Ducky payloads | https://github.com/Drew-Alleman/powershell-backdoor-generator | 52 | 8| 
-| 20230218T07:48:29Z | Code and data for paper %BITE: Textual Backdoor Attacks with Iterative Trigger Injection% | https://github.com/INK-USC/BITE | 0 | 0| 
-| 20230217T20:04:42Z | Funny backdoor plugin with unsorted code .-. | https://github.com/Dwarslooper/TailsPloit | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230219T22:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8384 | 1826| 
+| 20230219T22:30:07Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 0 | 0| 
+| 20230219T21:02:48Z | Null | https://github.com/ahmsabryy/fuzzme | 0 | 0| 
+| 20230219T20:50:58Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2087 | 34| 
+| 20230219T20:36:23Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/HiddenRiverLabs/PuzzFuzz | 0 | 0| 
+| 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
 | 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
 | 20230219T13:46:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8746 | 978| 
 | 20230219T13:09:45Z | This repository is a practice container! | https://github.com/GauravGedu/fuzzy-computing-machine | 0 | 0| 
 | 20230219T12:37:17Z | Null | https://github.com/gab50000/api_fuzz | 0 | 0| 
-| 20230219T12:09:46Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 1 | 0| 
-| 20230219T12:04:48Z | Fuzzer script to get steam groups index | https://github.com/1ukah/steam-groups-fuzzer | 0 | 0| 
-| 20230219T11:35:14Z | i will write it letter | https://github.com/CodewithAli45/fuzzy-octo-umbrella | 0 | 0| 
-| 20230219T09:22:51Z | Null | https://github.com/AskarXD/fuzzy-sniffle | 0 | 0| 
-| 20230219T09:17:08Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 30 | 7| 
-| 20230219T08:27:48Z | This is a Fuzzy Logic demo for Godot 3.5 | https://github.com/wnx1012266/FuzzyLogicDemo | 0 | 0| 
 
 
 
