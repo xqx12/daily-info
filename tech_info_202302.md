@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T01:20:56Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2088 | 34| 
 | 20230219T22:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8384 | 1826| 
 | 20230219T22:30:07Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 0 | 0| 
 | 20230219T21:02:48Z | Null | https://github.com/ahmsabryy/fuzzme | 0 | 0| 
-| 20230219T20:50:58Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2087 | 34| 
 | 20230219T20:36:23Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/HiddenRiverLabs/PuzzFuzz | 0 | 0| 
 | 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
 | 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 

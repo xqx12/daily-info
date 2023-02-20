@@ -87,13 +87,13 @@
 | 20230219T22:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8384 | 1826| 
 | 20230219T22:30:07Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 0 | 0| 
 | 20230219T21:02:48Z | Null | https://github.com/ahmsabryy/fuzzme | 0 | 0| 
-| 20230219T20:50:58Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2087 | 34| 
 | 20230219T20:36:23Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/HiddenRiverLabs/PuzzFuzz | 0 | 0| 
 | 20230219T18:48:49Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 0 | 0| 
 | 20230219T13:47:45Z | Null | https://github.com/robmarguz/Fuzzy | 0 | 0| 
 | 20230219T13:46:36Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8746 | 978| 
 | 20230219T13:09:45Z | This repository is a practice container! | https://github.com/GauravGedu/fuzzy-computing-machine | 0 | 0| 
 | 20230219T12:37:17Z | Null | https://github.com/gab50000/api_fuzz | 0 | 0| 
+| 20230219T12:09:46Z | A VS Code extension that allows you to run a fuzzy search across all file contents in your project. | https://github.com/NouemanKHAL/global-fuzzy-search | 1 | 0| 
 
 
 
