@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:17:11Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230221T01:15:07Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
-| 20230220T22:02:38Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
 | 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:17:40Z | krnl api roblox exploit open source (key) | https://github.com/dsfhdfshsdfhjdfsh/krnl-api-roblox-exploit | 0 | 0| 
 | 20230221T01:07:17Z | NEW DUPING EXPLOIT 2023 | https://github.com/TinoSipreme/Dupe-script-2023 | 0 | 0| 
 | 20230221T00:34:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 10 | 1| 
 | 20230220T23:20:25Z | Basic py code for a snake game and calculator  (Change the speed, lower the number faster it goes.) | https://github.com/MxthyFN/Eternal-Exploits---Calculator-x-Snake-Game-py-WORKING-2023 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230220T23:09:48Z | this is for roblox i will update this every update hopefully | https://github.com/Sploiter13/print-exploit | 0 | 0| 
 | 20230220T22:44:10Z | This code will contain a buffer overflow vulnerability to exploit.  | https://github.com/shenetworks/LuckySpin | 0 | 0| 
 | 20230220T22:39:57Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
-| 20230220T13:49:06Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 18 | 4| 
 
 
 # backdoor on Github 推荐
