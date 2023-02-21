@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:56:51Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/OpenSSL-src-Heap-Memory-Corruption-with-RSA-Private-Key-Operation-CVE-2022-2274 | | 
 | 20230221T01:17:11Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230221T01:15:07Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 | 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
@@ -55,7 +56,6 @@
 | 20230220T13:44:57Z | CVE-2023- | Null | https://github.com/Shmily-ing/CVE-2023-XXXXX | | 
 | 20230220T12:10:17Z | CVE-2022-37032 | PoC for CVE-2022-37032，tested on frr-8.3。 | https://github.com/spwpun/CVE-2022-37032 | | 
 | 20230220T09:13:49Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
-| 20230220T02:25:19Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311 | | 
 
 
 # klee on Github 推荐
@@ -147,8 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:57:06Z | Binary samples for fuzzing tests. | https://github.com/davea42/libdwarf-binary-samples | 1 | 0| 
 | 20230221T01:33:34Z | Week5 Day4 | https://github.com/Talohs/fuzzy-train | 0 | 0| 
-| 20230221T01:24:57Z | Binary samples for fuzzing tests. | https://github.com/davea42/libdwarf-binary-samples | 0 | 0| 
 | 20230221T00:44:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4571 | 1097| 
 | 20230221T00:39:02Z | Null | https://github.com/ruxi09/Fuzzer | 0 | 0| 
 | 20230221T00:27:49Z | Null | https://github.com/Smallzeus01/fuzzy-octo-chainsaw | 0 | 0| 
