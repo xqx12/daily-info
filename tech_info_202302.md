@@ -89,8 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:07:10Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 1 | 0| 
-| 20230221T12:42:27Z | Null | https://github.com/0n3xpl01t/exploits | 0 | 0| 
+| 20230221T13:32:22Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 2 | 0| 
+| 20230221T13:28:26Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 22 | 0| 
+| 20230221T13:20:18Z | Null | https://github.com/0n3xpl01t/exploits | 0 | 0| 
 | 20230221T12:28:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 578 | 156| 
 | 20230221T12:27:24Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
 | 20230221T12:01:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4017 | 499| 
@@ -98,7 +99,6 @@
 | 20230221T11:18:41Z | Site | https://github.com/EmuExploit/EmuExploit.github.io | 0 | 0| 
 | 20230221T09:54:47Z | Null | https://github.com/Mani-Selvaraj/xss-exploit | 0 | 0| 
 | 20230221T09:24:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12763 | 2183| 
-| 20230221T08:49:16Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
