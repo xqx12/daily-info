@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:07:17Z | NEW DUPING EXPLOIT 2023 | https://github.com/TinoSipreme/Dupe-script-2023 | 0 | 0| 
 | 20230221T00:34:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 10 | 1| 
 | 20230220T23:20:25Z | Basic py code for a snake game and calculator  (Change the speed, lower the number faster it goes.) | https://github.com/MxthyFN/Eternal-Exploits---Calculator-x-Snake-Game-py-WORKING-2023 | 0 | 0| 
 | 20230220T23:20:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2l | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20230220T22:44:10Z | This code will contain a buffer overflow vulnerability to exploit.  | https://github.com/shenetworks/LuckySpin | 0 | 0| 
 | 20230220T22:39:57Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
 | 20230220T13:49:06Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 18 | 4| 
-| 20230220T12:54:39Z | Repository for all red teaming/offensive hacking related scripts and exploits | https://github.com/RFC1918-hub/Red-Teaming-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
