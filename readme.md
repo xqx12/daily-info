@@ -90,9 +90,9 @@
 | 20230221T11:34:25Z | Null | https://github.com/peplaionud/fuzzy-octo-dollop | 0 | 0| 
 | 20230221T11:28:27Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 5 | 0| 
 | 20230221T08:59:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8393 | 1826| 
+| 20230221T03:28:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4573 | 1097| 
 | 20230221T02:24:01Z | Null | https://github.com/kaesluder/fuzzy-lister | 0 | 0| 
 | 20230221T02:15:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 250 | 36| 
-| 20230221T02:08:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4572 | 1097| 
 | 20230221T01:57:06Z | Binary samples for fuzzing tests. | https://github.com/davea42/libdwarf-binary-samples | 1 | 0| 
 
 
