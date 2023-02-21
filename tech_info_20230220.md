@@ -23,19 +23,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230220T22:02:38Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
+| 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
+| 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
+| 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
 | 20230220T13:49:05Z | CVE-2023-23752 | Null | https://github.com/Vulnmachines/joomla_CVE-2023-23752 | | 
 | 20230220T13:44:57Z | CVE-2023- | Null | https://github.com/Shmily-ing/CVE-2023-XXXXX | | 
-| 20230220T12:53:52Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230220T12:10:17Z | CVE-2022-37032 | PoC for CVE-2022-37032，tested on frr-8.3。 | https://github.com/spwpun/CVE-2022-37032 | | 
 | 20230220T09:13:49Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
-| 20230220T03:24:17Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230220T02:25:19Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230220T13:47:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10684 | 348| 
+| 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 
 
@@ -47,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T23:20:25Z | Basic py code for a snake game and calculator  (Change the speed, lower the number faster it goes.) | https://github.com/MxthyFN/Eternal-Exploits---Calculator-x-Snake-Game-py-WORKING-2023 | 0 | 0| 
+| 20230220T23:20:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2l | 1 | 0| 
+| 20230220T23:19:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2l | 1 | 0| 
+| 20230220T23:17:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2l | 1 | 0| 
+| 20230220T23:09:48Z | this is for roblox i will update this every update hopefully | https://github.com/Sploiter13/print-exploit | 0 | 0| 
+| 20230220T22:44:10Z | This code will contain a buffer overflow vulnerability to exploit.  | https://github.com/shenetworks/LuckySpin | 0 | 0| 
+| 20230220T22:39:57Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
 | 20230220T13:49:06Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 18 | 4| 
 | 20230220T12:54:39Z | Repository for all red teaming/offensive hacking related scripts and exploits | https://github.com/RFC1918-hub/Red-Teaming-Scripts | 0 | 0| 
 | 20230220T12:37:35Z | An iOS jailbreak that will maybe release. Using MacDirtyCow exploit and will support any iOS 16.1 device. *PLEASE don’t open the file now. The file just contains a python script that just showing the things will be shown when using the jailbreak. IT NOT JAILBREAKING. | https://github.com/Fomri/Omri-a-Jailbreak | 0 | 0| 
-| 20230220T12:00:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12758 | 2183| 
-| 20230220T11:22:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-SOl89-exploit-have | 0 | 0| 
-| 20230220T10:46:50Z | This project will teach you how to exploit the (elf-like) binary. | https://github.com/manettifabrizio/42cursus_override | 0 | 0| 
-| 20230220T10:37:20Z | Repository contains psexec, which will help to exploit the forgotten pipe | https://github.com/MzHmO/psexec_noinstall | 0 | 0| 
-| 20230220T09:34:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5277 | 734| 
-| 20230220T09:18:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5025 | 1703| 
-| 20230220T07:07:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 577 | 155| 
 
 
 # backdoor on Github 推荐
@@ -73,8 +75,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 470| 
+| 20230220T17:48:58Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 43| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
-| 20230220T07:37:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3328 | 470| 
 
 
 # big4 on Github 推荐
