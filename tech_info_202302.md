@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T02:02:09Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
+| 20230221T02:01:22Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T02:01:10Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
-| 20230221T01:59:25Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T01:56:51Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/OpenSSL-src-Heap-Memory-Corruption-with-RSA-Private-Key-Operation-CVE-2022-2274 | | 
 | 20230221T01:17:11Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
-| 20230221T01:15:07Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 | 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
 | 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
