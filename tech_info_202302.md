@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:21:15Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
@@ -55,7 +56,6 @@
 | 20230221T03:00:00Z | CVE-2022-41082 | Null | https://github.com/bigherocenter/CVE-2022-41082-POC | | 
 | 20230221T02:56:04Z | CVE-2022-41082 | CVE-2022-41082 Exchange Server  | https://github.com/bigherocenter/CVE-2022-41082 | | 
 | 20230221T02:45:19Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
-| 20230221T02:02:09Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 
 
 # klee on Github 推荐
