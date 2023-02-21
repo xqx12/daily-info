@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T01:15:07Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 | 20230220T22:02:38Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
 | 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
@@ -55,7 +56,6 @@
 | 20230220T12:10:17Z | CVE-2022-37032 | PoC for CVE-2022-37032，tested on frr-8.3。 | https://github.com/spwpun/CVE-2022-37032 | | 
 | 20230220T09:13:49Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
 | 20230220T02:25:19Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311 | | 
-| 20230219T21:57:28Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Jeromeyoung/CVE-2021-40154 | | 
 
 
 # klee on Github 推荐
