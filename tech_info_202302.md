@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:25:19Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
-| 20230221T13:21:15Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T13:10:52Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
