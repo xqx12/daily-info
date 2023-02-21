@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T02:56:04Z | CVE-2022-41082 | CVE-2022-41082 Exchange Server  | https://github.com/bigherocenter/CVE-2022-41082 | | 
 | 20230221T02:45:19Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230221T02:02:09Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 | 20230221T02:01:22Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
@@ -55,7 +56,6 @@
 | 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
 | 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
 | 20230220T13:49:05Z | CVE-2023-23752 | Null | https://github.com/Vulnmachines/joomla_CVE-2023-23752 | | 
-| 20230220T13:44:57Z | CVE-2023- | Null | https://github.com/Shmily-ing/CVE-2023-XXXXX | | 
 
 
 # klee on Github 推荐
