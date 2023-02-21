@@ -64,11 +64,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T23:59:55Z | Null | https://github.com/NativeCognitive/Ro_Backdoor_Sentry | 0 | 0| 
+| 20230220T21:32:45Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
+| 20230220T21:22:04Z | backdoor finder | https://github.com/hologrammw/clockmelt | 0 | 0| 
 | 20230220T12:07:43Z | Create multiple backdoors in Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
 | 20230220T11:48:57Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 3 | 1| 
 | 20230220T09:11:51Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 54 | 8| 
 | 20230220T05:19:14Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 1 | 2| 
-| 20230220T03:17:54Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 1 | 0| 
 | 20230220T00:32:35Z | Repositórios de teste de scripts e backdoors. | https://github.com/gabriel-cheng/hacklab | 0 | 0| 
 
 
@@ -89,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230220T23:45:42Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 66 | 27| 
+| 20230220T23:45:05Z | Null | https://github.com/fuzzybit/fuzzybit.github.io | 0 | 0| 
+| 20230220T23:20:16Z | A small linux image generator that generates and explains cute images. | https://github.com/magicaldave/Fuzzy-Ai | 0 | 0| 
+| 20230220T15:34:55Z | property testing and verification front-end for Rust | https://github.com/camshaft/bolero | 104 | 12| 
+| 20230220T14:21:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8389 | 1825| 
+| 20230220T14:02:40Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 884 | 204| 
 | 20230220T13:51:48Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 3 | 0| 
 | 20230220T13:49:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1274 | 169| 
 | 20230220T13:49:41Z | Null | https://github.com/mrbooshehri/cmd-fuzzy-ssh | 0 | 0| 
 | 20230220T13:24:31Z | Null | https://github.com/itslilsteph/fuzzy-succotash | 0 | 0| 
-| 20230220T12:57:36Z | Null | https://github.com/blu3sh0rk/Fuzzing-crash | 0 | 0| 
-| 20230220T12:54:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44929 | 22307| 
-| 20230220T12:44:39Z | Fuzzer for Atomic and Hyperion | https://github.com/ankh2054/wax-api-fuzzer | 0 | 0| 
-| 20230220T12:44:39Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 162 | 5| 
-| 20230220T12:02:18Z | Null | https://github.com/larsbpf/fuzzing-lecture | 1 | 0| 
-| 20230220T09:10:04Z | Black box fuzzer for web applications | https://github.com/Brum3ns/firefly | 116 | 11| 
 
 
 
