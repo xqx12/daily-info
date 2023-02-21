@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:08:54Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 1 | 0| 
 | 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
 | 20230221T03:57:42Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 3 | 0| 
 | 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 

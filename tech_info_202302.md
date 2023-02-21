@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:08:54Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 1 | 0| 
 | 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
 | 20230221T03:57:42Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 3 | 0| 
 | 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 
@@ -113,7 +114,6 @@
 | 20230220T21:22:04Z | backdoor finder | https://github.com/hologrammw/clockmelt | 0 | 0| 
 | 20230220T12:07:43Z | Create multiple backdoors in Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
 | 20230220T11:48:57Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 3 | 1| 
-| 20230220T09:11:51Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 54 | 8| 
 
 
 # symbolic execution on Github 推荐
