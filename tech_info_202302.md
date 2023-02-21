@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T02:01:10Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
+| 20230221T01:59:25Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T01:56:51Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/OpenSSL-src-Heap-Memory-Corruption-with-RSA-Private-Key-Operation-CVE-2022-2274 | | 
 | 20230221T01:17:11Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230221T01:15:07Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
@@ -54,8 +56,6 @@
 | 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
 | 20230220T13:49:05Z | CVE-2023-23752 | Null | https://github.com/Vulnmachines/joomla_CVE-2023-23752 | | 
 | 20230220T13:44:57Z | CVE-2023- | Null | https://github.com/Shmily-ing/CVE-2023-XXXXX | | 
-| 20230220T12:10:17Z | CVE-2022-37032 | PoC for CVE-2022-37032，tested on frr-8.3。 | https://github.com/spwpun/CVE-2022-37032 | | 
-| 20230220T09:13:49Z | CVE-2022-28368 | Dompdf RCE PoC Exploit - CVE-2022-28368 | https://github.com/rvizx/CVE-2022-28368 | | 
 
 
 # klee on Github 推荐
