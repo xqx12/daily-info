@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T01:17:40Z | krnl api roblox exploit open source (key) | https://github.com/dsfhdfshsdfhjdfsh/krnl-api-roblox-exploit | 0 | 0| 
+| 20230221T01:19:51Z | krnl api roblox exploit open source (key) | https://github.com/dsfhdfshsdfhjdfsh/krnl-api-roblox-exploit | 0 | 0| 
 | 20230221T01:07:17Z | NEW DUPING EXPLOIT 2023 | https://github.com/TinoSipreme/Dupe-script-2023 | 0 | 0| 
 | 20230221T00:34:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 10 | 1| 
 | 20230220T23:20:25Z | Basic py code for a snake game and calculator  (Change the speed, lower the number faster it goes.) | https://github.com/MxthyFN/Eternal-Exploits---Calculator-x-Snake-Game-py-WORKING-2023 | 0 | 0| 
