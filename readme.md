@@ -12,6 +12,10 @@
 | 20230220 | 一种使用VNC进行钓鱼等技术，该技术主要是通过引导受害者登陆一个由noVNC搭建的通向VNC的Web站点并进行登陆。由于受害者登陆的站是真实的站，因此这种钓鱼方法可以自然地直接绕过MFA。 | https://medium.com/@psychsecurity/mfa-phishing-using-novnc-and-aws-ebc781b4d093| 
 | 20230220 | 介绍了最近的威胁活动中HTML走私使用的相关技术，包括payload encoding和payload deliver | http://link.medium.com/7wloMoWIxxb| 
 | 20230220 | 通过PS2 Emulator破解ps4/ps5系列文章的第三篇，本篇主要与在PS4/PS5上的调试与利用方式有关。 | https://www.reddit.com/r/netsec/comments/115u6xc/mast1c0re_part_3_escaping_the_ps5_emulator/| 
+| 20230220 | 谷歌版ChatGPT LaMDA的部分细节。 | https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html| 
+| 20230220 | Anderson University搭建的CTF平台。 | http://316ctf.com/| 
+| 20230220 | AMD Ryzen Master存在提权漏洞。看描述像installer中的文件提权。 | http://securityonline.info/cve-2022-27677-amd-ryzen-master-privilege-escalation-vulnerability/| 
+| 20230220 | Chrome Devtools的RFC，将允许用户本地覆写http reponse的header。 | https://github.com/ChromeDevTools/rfcs/discussions/4| 
 
 
 # 安全维基 推荐

@@ -12,6 +12,10 @@
 | 20230220 | 一种使用VNC进行钓鱼等技术，该技术主要是通过引导受害者登陆一个由noVNC搭建的通向VNC的Web站点并进行登陆。由于受害者登陆的站是真实的站，因此这种钓鱼方法可以自然地直接绕过MFA。 | https://medium.com/@psychsecurity/mfa-phishing-using-novnc-and-aws-ebc781b4d093| 
 | 20230220 | 介绍了最近的威胁活动中HTML走私使用的相关技术，包括payload encoding和payload deliver | http://link.medium.com/7wloMoWIxxb| 
 | 20230220 | 通过PS2 Emulator破解ps4/ps5系列文章的第三篇，本篇主要与在PS4/PS5上的调试与利用方式有关。 | https://www.reddit.com/r/netsec/comments/115u6xc/mast1c0re_part_3_escaping_the_ps5_emulator/| 
+| 20230220 | 谷歌版ChatGPT LaMDA的部分细节。 | https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html| 
+| 20230220 | Anderson University搭建的CTF平台。 | http://316ctf.com/| 
+| 20230220 | AMD Ryzen Master存在提权漏洞。看描述像installer中的文件提权。 | http://securityonline.info/cve-2022-27677-amd-ryzen-master-privilege-escalation-vulnerability/| 
+| 20230220 | Chrome Devtools的RFC，将允许用户本地覆写http reponse的header。 | https://github.com/ChromeDevTools/rfcs/discussions/4| 
 | 20230219 | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX| 
 | 20230217 | 利用华为SD-Update模式的检测和使用时间不一致，替换更新数据包，绕过签名验证，获取root权限。 | https://labs.taszk.io/articles/post/reunzip/| 
 | 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
@@ -22,10 +26,6 @@
 | 20230217 | Citrix CVE-2022-27518 漏洞分析 | http://paper.seebug.org/2049/| 
 | 20230217 | 卡巴斯基 2022 年的垃圾邮件和钓鱼监测报告。包含2022年钓鱼邮件相关数据，图表，钓鱼手段，邮件样例等。 | https://securelist.com/spam-phishing-scam-report-2022/108692/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bbpvey3241hcgtw| 
 | 20230216 | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection| 
-| 20230216 | 从零开始写一个调试器，系列之一 | http://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/| 
-| 20230216 | 从攻防两个不同维度分析网络安全中双方的对抗。以Sysmon日志、ATT&CK标签日志、操作系统日志的分析实践为实例。 | https://www.freebuf.com/articles/es/357478.html| 
-| 20230216 | 介绍linux内核的漏洞缓解机制及绕过方法，最后解释了CVE-2022-0847的漏洞利用方法，该方法不受漏洞缓解机制的限制 | http://blog.topsec.com.cn/linux%e5%86%85%e6%a0%b8%e5%b8%b8%e7%94%a8%e4%bf%9d%e6%8a%a4%e5%92%8c%e7%bb%95%e8%bf%87%e6%8a%80%e6%9c%af/| 
-| 20230216 | IBM WebSphere Liberty 在其轻量级第三方身份验证 (LTPA) 协议的实现中存在缺陷，攻击者可构造任意其他用户的令牌。 | http://pretalx.hackerhotel.nl/hackerhotel-2023/talk/7JEEWB/| 
 
 
 # 安全维基 推荐
