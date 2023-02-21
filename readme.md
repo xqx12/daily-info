@@ -56,12 +56,12 @@
 | 20230220T23:20:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2l | 1 | 0| 
 | 20230220T23:19:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2l | 1 | 0| 
 | 20230220T23:17:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2l | 1 | 0| 
-| 20230220T23:09:48Z | this is for roblox i will update this every update hopefully | https://github.com/Sploiter13/print-exploit | 0 | 0| 
 | 20230220T22:44:10Z | This code will contain a buffer overflow vulnerability to exploit.  | https://github.com/shenetworks/LuckySpin | 0 | 0| 
 | 20230220T22:39:57Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
 | 20230220T13:49:06Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 18 | 4| 
 | 20230220T12:54:39Z | Repository for all red teaming/offensive hacking related scripts and exploits | https://github.com/RFC1918-hub/Red-Teaming-Scripts | 0 | 0| 
 | 20230220T12:37:35Z | An iOS jailbreak that will maybe release. Using MacDirtyCow exploit and will support any iOS 16.1 device. *PLEASE don’t open the file now. The file just contains a python script that just showing the things will be shown when using the jailbreak. IT NOT JAILBREAKING. | https://github.com/Fomri/Omri-a-Jailbreak | 0 | 0| 
+| 20230220T12:00:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12758 | 2183| 
 
 
 # backdoor on Github 推荐
