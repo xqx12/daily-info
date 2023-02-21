@@ -156,7 +156,7 @@
 | 20230220T23:45:42Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 66 | 27| 
 | 20230220T23:45:05Z | Null | https://github.com/fuzzybit/fuzzybit.github.io | 0 | 0| 
 | 20230220T23:20:16Z | A small linux image generator that generates and explains cute images. | https://github.com/magicaldave/Fuzzy-Ai | 0 | 0| 
-| 20230220T15:34:55Z | property testing and verification front-end for Rust | https://github.com/camshaft/bolero | 104 | 12| 
+| 20230220T19:47:34Z | A fuzzing crash triaging application for Windows environments | https://github.com/gr4ysku11/CrashBin | 0 | 0| 
 
 
 

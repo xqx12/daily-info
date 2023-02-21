@@ -97,13 +97,13 @@
 | 20230220T23:45:42Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 66 | 27| 
 | 20230220T23:45:05Z | Null | https://github.com/fuzzybit/fuzzybit.github.io | 0 | 0| 
 | 20230220T23:20:16Z | A small linux image generator that generates and explains cute images. | https://github.com/magicaldave/Fuzzy-Ai | 0 | 0| 
+| 20230220T19:47:34Z | A fuzzing crash triaging application for Windows environments | https://github.com/gr4ysku11/CrashBin | 0 | 0| 
 | 20230220T15:34:55Z | property testing and verification front-end for Rust | https://github.com/camshaft/bolero | 104 | 12| 
 | 20230220T14:21:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8389 | 1825| 
 | 20230220T14:02:40Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 884 | 204| 
 | 20230220T13:51:48Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 3 | 0| 
 | 20230220T13:49:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1274 | 169| 
 | 20230220T13:49:41Z | Null | https://github.com/mrbooshehri/cmd-fuzzy-ssh | 0 | 0| 
-| 20230220T13:24:31Z | Null | https://github.com/itslilsteph/fuzzy-succotash | 0 | 0| 
 
 
 
