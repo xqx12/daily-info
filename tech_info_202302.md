@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230221 | CVE-2022-24942 的 WP。HTTPsReq_HdrParse 函数在拷贝字符串时，没有考虑到长度是否超过了 buffer 的最大可用长度，导致堆溢出。 | https://bugprove.com/knowledge-hub/cve-2022-24942-heap-based-buffer-overflow-in-silicon-labs-gecko-sdk/| 
+| 20230221 | python重写的DPAPI渗透工具 | https://www.reddit.com/r/netsec/comments/1179msr/github_zblurxdploot_dpapi_looting_remotely_in/| 
+| 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
+| 20230221 | 面向编译器开发者的安全知识库，包括内存破坏类攻击，侧信道攻击，物理攻击等 | https://llsoftsec.github.io/llsoftsecbook/| 
 | 20230220 | homepod越狱工具 | https://github.com/tihmstar/homepwn#3d-print-version| 
 | 20230220 | 三星推出了一种针对IM和SMS的zero-click RCE的防护。原理是在沙箱环境下解析图片之类文件以确保其未触发漏洞。 | https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html| 
 | 20230220 | Picus出版的2023年版APT攻击报告 | http://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/RedReport2023-Picus.pdf| 
@@ -22,10 +26,6 @@
 | 20230217 | 深入剖析acmailer的两个nday漏洞-CVE-2021-20617 & CVE-2021-20618 | http://starlabs.sg/blog/2023/02-dissecting-the-vulnerabilities-a-comprehensive-teardown-of-acmailer/| 
 | 20230217 | 制作可自毁的U盘 | http://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/| 
 | 20230217 | Blue Hat 2023，作者介绍了由其中一个 UEFI Secure Boot 演讲所引发出的思考和回顾。 | http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html| 
-| 20230217 | 微软关于new bing的一周总结。 | https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week/| 
-| 20230217 | Citrix CVE-2022-27518 漏洞分析 | http://paper.seebug.org/2049/| 
-| 20230217 | 卡巴斯基 2022 年的垃圾邮件和钓鱼监测报告。包含2022年钓鱼邮件相关数据，图表，钓鱼手段，邮件样例等。 | https://securelist.com/spam-phishing-scam-report-2022/108692/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_bbpvey3241hcgtw| 
-| 20230216 | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection| 
 
 
 # 安全维基 推荐
@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230221T12:42:49Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230221T06:52:28Z | CVE-2023-0669 | Null | https://github.com/Griffin-01/CVE-2023-0669 | | 
+| 20230221T03:30:20Z | CVE-2022-23131 | Null | https://github.com/clearcdq/Zabbix-SAML-SSO-_CVE-2022-23131 | | 
+| 20230221T03:00:00Z | CVE-2022-41082 | Null | https://github.com/bigherocenter/CVE-2022-41082-POC | | 
 | 20230221T02:56:04Z | CVE-2022-41082 | CVE-2022-41082 Exchange Server  | https://github.com/bigherocenter/CVE-2022-41082 | | 
 | 20230221T02:45:19Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 | 20230221T02:02:09Z | CVE-2022-44268 | Null | https://github.com/nfm/heroku-CVE-2022-44268-reproduction | | 
 | 20230221T02:01:22Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T02:01:10Z | CVE-2022-44311 | Null | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T01:56:51Z | CVE-2022-2274 | Null | https://github.com/DesmondSanctity/OpenSSL-src-Heap-Memory-Corruption-with-RSA-Private-Key-Operation-CVE-2022-2274 | | 
-| 20230220T21:31:02Z | CVE-2023-23752 | Poc for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/CVE-2023-23752 | | 
-| 20230220T20:40:22Z | CVE-2021-4034 | Null | https://github.com/k4u5h41/CVE-2021-4034_Python3 | | 
-| 20230220T19:59:00Z | CVE-2020-7384 | Null | https://github.com/0xCarsonS/CVE-2020-7384 | | 
-| 20230220T13:49:05Z | CVE-2023-23752 | Null | https://github.com/Vulnmachines/joomla_CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T02:33:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10710 | 349| 
+| 20230221T12:36:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10734 | 349| 
+| 20230221T06:10:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 215 | 2| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
-| 20230218T04:53:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 214 | 2| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
 | 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 49| 
@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
+| 20230221T03:57:42Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 3 | 0| 
+| 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 
 | 20230221T00:48:45Z | EzSploit is a tool that makes RAT%s for 3 different OS%s | https://github.com/stutghost/EzSploit | 0 | 0| 
-| 20230221T00:19:57Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 2 | 0| 
 | 20230220T23:59:55Z | Null | https://github.com/NativeCognitive/Ro_Backdoor_Sentry | 0 | 0| 
 | 20230220T21:32:45Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
 | 20230220T21:22:04Z | backdoor finder | https://github.com/hologrammw/clockmelt | 0 | 0| 
 | 20230220T12:07:43Z | Create multiple backdoors in Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
 | 20230220T11:48:57Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 3 | 1| 
 | 20230220T09:11:51Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 54 | 8| 
-| 20230220T05:19:14Z | Hack all the OS using python | https://github.com/karthi-the-hacker/Backdoor-py | 1 | 2| 
-| 20230220T00:32:35Z | Repositórios de teste de scripts e backdoors. | https://github.com/gabriel-cheng/hacklab | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T12:59:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 165 | 19| 
+| 20230221T12:18:25Z | Null | https://github.com/janelle-05/fuzzy-couscous | 0 | 0| 
+| 20230221T11:51:06Z | Made on college for fuzzy logic disciplin | https://github.com/luizasabreu/fuzzy-clustering | 0 | 0| 
+| 20230221T11:34:25Z | Null | https://github.com/peplaionud/fuzzy-octo-dollop | 0 | 0| 
+| 20230221T11:28:27Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 5 | 0| 
+| 20230221T08:59:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8393 | 1826| 
 | 20230221T02:24:01Z | Null | https://github.com/kaesluder/fuzzy-lister | 0 | 0| 
+| 20230221T02:15:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 250 | 36| 
 | 20230221T02:08:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4572 | 1097| 
 | 20230221T01:57:06Z | Binary samples for fuzzing tests. | https://github.com/davea42/libdwarf-binary-samples | 1 | 0| 
-| 20230221T01:33:34Z | Week5 Day4 | https://github.com/Talohs/fuzzy-train | 0 | 0| 
-| 20230221T00:39:02Z | Null | https://github.com/ruxi09/Fuzzer | 0 | 0| 
-| 20230221T00:27:49Z | Null | https://github.com/Smallzeus01/fuzzy-octo-chainsaw | 0 | 0| 
-| 20230221T00:19:59Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 530 | 48| 
-| 20230220T23:45:42Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 66 | 27| 
-| 20230220T23:45:05Z | Null | https://github.com/fuzzybit/fuzzybit.github.io | 0 | 0| 
-| 20230220T23:20:16Z | A small linux image generator that generates and explains cute images. | https://github.com/magicaldave/Fuzzy-Ai | 0 | 0| 
 
 
 
