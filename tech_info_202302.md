@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:39:49Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 26 | 0| 
+| 20230221T13:52:52Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 36 | 0| 
 | 20230221T13:32:22Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 2 | 0| 
 | 20230221T13:20:18Z | Null | https://github.com/0n3xpl01t/exploits | 0 | 0| 
 | 20230221T12:28:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 578 | 156| 
