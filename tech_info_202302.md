@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T01:36:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10705 | 348| 
+| 20230221T02:15:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10706 | 348| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T02:14:51Z | A basic Python program to check Cybersecurity & Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities (KEV) Catalog  | https://github.com/santosomar/kev_checker | 8 | 2| 
 | 20230221T01:29:57Z | C# krnl api roblox exploit open source (key) star this if you find this helpful | https://github.com/dsfhdfshsdfhjdfsh/krnl-api-roblox-exploit | 0 | 0| 
 | 20230221T01:07:17Z | NEW DUPING EXPLOIT 2023 | https://github.com/TinoSipreme/Dupe-script-2023 | 0 | 0| 
 | 20230221T00:34:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 10 | 1| 
@@ -98,7 +99,6 @@
 | 20230220T23:17:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2l | 1 | 0| 
 | 20230220T23:09:48Z | this is for roblox i will update this every update hopefully | https://github.com/Sploiter13/print-exploit | 0 | 0| 
 | 20230220T22:44:10Z | This code will contain a buffer overflow vulnerability to exploit.  | https://github.com/shenetworks/LuckySpin | 0 | 0| 
-| 20230220T22:39:57Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
