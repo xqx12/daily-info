@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:25:19Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230221T13:41:02Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:39:49Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 26 | 0| 
 | 20230221T13:32:22Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 2 | 0| 
-| 20230221T13:28:26Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 22 | 0| 
 | 20230221T13:20:18Z | Null | https://github.com/0n3xpl01t/exploits | 0 | 0| 
 | 20230221T12:28:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 578 | 156| 
 | 20230221T12:27:24Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
