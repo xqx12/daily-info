@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:41:02Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230221T13:58:11Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
@@ -119,6 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
 | 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 470| 
 | 20230220T17:48:58Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 43| 
@@ -128,7 +129,6 @@
 | 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 | 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 110| 
 | 20230214T12:53:26Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
-| 20230214T10:03:25Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 
 
 # big4 on Github 推荐

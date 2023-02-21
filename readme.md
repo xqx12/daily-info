@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:41:02Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230221T13:58:11Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
@@ -72,6 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
 
 
