@@ -56,7 +56,7 @@
 | 20230221T23:18:06Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
 | 20230221T23:09:25Z | GPay balance exploit READ MORE BELOW | https://github.com/funnyboiy/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20230221T22:57:31Z | Roblox interface for exploiting in 096 game roblox.  | https://github.com/Xan007/096-Exploit | 0 | 0| 
-| 20230221T22:19:10Z | Null | https://github.com/Neo33ASM/Exploitant-Drone | 0 | 0| 
+| 20230221T22:38:35Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
 
 
 # backdoor on Github 推荐

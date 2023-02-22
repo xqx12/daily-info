@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230222T02:14:50Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230222T02:12:01Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230222T02:08:51Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
 | 20230221T18:48:01Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
