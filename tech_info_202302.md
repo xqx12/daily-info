@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T01:12:53Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 0| 
 | 20230222T01:05:31Z | FFuF Lab | https://github.com/rreimao/FuzzingLab | 0 | 0| 
 | 20230222T00:47:01Z | Null | https://github.com/fwqinsidninef/fuzzy-giggle | 0 | 0| 
 | 20230221T23:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2651 | 181| 
@@ -157,7 +158,6 @@
 | 20230221T21:42:38Z | Null | https://github.com/JVE12/fuzzy-spork | 0 | 0| 
 | 20230221T20:39:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8395 | 1827| 
 | 20230221T20:38:01Z | Null | https://github.com/ptfajemilo/Adaptive_neuro_fuzzzy_system_with_Metaheuristics_Algorithm_for_groundwater_exploration | 0 | 0| 
-| 20230221T20:36:57Z | Null | https://github.com/duongben/fuzzy-broccoli | 0 | 0| 
 
 
 
