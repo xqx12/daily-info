@@ -21,7 +21,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230221T23:55:58Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
 | 20230221T18:48:01Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
@@ -31,6 +30,7 @@
 | 20230221T13:10:52Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 | 20230221T06:52:28Z | CVE-2023-0669 | Null | https://github.com/Griffin-01/CVE-2023-0669 | | 
 | 20230221T03:30:20Z | CVE-2022-23131 | Null | https://github.com/clearcdq/Zabbix-SAML-SSO-_CVE-2022-23131 | | 
+| 20230221T03:00:00Z | CVE-2022-41082 | Null | https://github.com/bigherocenter/CVE-2022-41082-POC | | 
 
 
 # klee on Github 推荐
