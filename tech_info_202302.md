@@ -10,6 +10,7 @@
 | 20230221 | python重写的DPAPI渗透工具 | https://www.reddit.com/r/netsec/comments/1179msr/github_zblurxdploot_dpapi_looting_remotely_in/| 
 | 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
 | 20230221 | 面向编译器开发者的安全知识库，包括内存破坏类攻击，侧信道攻击，物理攻击等 | https://llsoftsec.github.io/llsoftsecbook/| 
+| 20230221 | TrueBot Analysis Part II - Static unpacker | https://malware.love/malware_analysis/reverse_engineering/2023/02/18/analyzing-truebot-static-unpacking.html| 
 | 20230220 | homepod越狱工具 | https://github.com/tihmstar/homepwn#3d-print-version| 
 | 20230220 | 三星推出了一种针对IM和SMS的zero-click RCE的防护。原理是在沙箱环境下解析图片之类文件以确保其未触发漏洞。 | https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html| 
 | 20230220 | Picus出版的2023年版APT攻击报告 | http://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/RedReport2023-Picus.pdf| 
@@ -25,7 +26,6 @@
 | 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
 | 20230217 | 深入剖析acmailer的两个nday漏洞-CVE-2021-20617 & CVE-2021-20618 | http://starlabs.sg/blog/2023/02-dissecting-the-vulnerabilities-a-comprehensive-teardown-of-acmailer/| 
 | 20230217 | 制作可自毁的U盘 | http://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/| 
-| 20230217 | Blue Hat 2023，作者介绍了由其中一个 UEFI Secure Boot 演讲所引发出的思考和回顾。 | http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:58:11Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230221T13:24:39Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
+| 20230222T00:59:37Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230221T23:55:58Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
+| 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
+| 20230221T18:48:01Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
+| 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
+| 20230221T14:58:54Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 | 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
 | 20230221T13:10:52Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 | 20230221T06:52:28Z | CVE-2023-0669 | Null | https://github.com/Griffin-01/CVE-2023-0669 | | 
-| 20230221T03:30:20Z | CVE-2022-23131 | Null | https://github.com/clearcdq/Zabbix-SAML-SSO-_CVE-2022-23131 | | 
-| 20230221T03:00:00Z | CVE-2022-41082 | Null | https://github.com/bigherocenter/CVE-2022-41082-POC | | 
-| 20230221T02:56:04Z | CVE-2022-41082 | CVE-2022-41082 Exchange Server  | https://github.com/bigherocenter/CVE-2022-41082 | | 
-| 20230221T02:45:19Z | CVE-2022-39952 | CVE-2022-39952 Unauthenticated RCE in Fortinet FortiNAC | https://github.com/Florian-R0th/CVE-2022-39952 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:11:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10735 | 349| 
+| 20230222T00:50:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10745 | 349| 
 | 20230221T06:10:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 215 | 2| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T13:52:52Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 36 | 0| 
-| 20230221T13:32:22Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 2 | 0| 
-| 20230221T13:20:18Z | Null | https://github.com/0n3xpl01t/exploits | 0 | 0| 
-| 20230221T12:28:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 578 | 156| 
-| 20230221T12:27:24Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/suldyee/Fortnite-softaim | 1 | 0| 
-| 20230221T12:01:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4017 | 499| 
-| 20230221T11:38:15Z | Accurate prediction of cancer prognosis by exploiting patient-specific cancer driver genes | https://github.com/SYL320/Cancer_prognosis | 0 | 0| 
-| 20230221T11:18:41Z | Site | https://github.com/EmuExploit/EmuExploit.github.io | 0 | 0| 
-| 20230221T09:54:47Z | Null | https://github.com/Mani-Selvaraj/xss-exploit | 0 | 0| 
-| 20230221T09:24:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12763 | 2183| 
+| 20230222T00:49:34Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/monkeyn00/Dead-Frontier-2-Private-Cheat | 0 | 0| 
+| 20230222T00:49:24Z | Roblox Nyvee Private Exploit | https://github.com/monkeyn00/Roblox-Nyvee-Private-Exploit | 0 | 0| 
+| 20230221T23:58:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1m | 1 | 0| 
+| 20230221T23:57:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1m | 1 | 0| 
+| 20230221T23:56:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1m | 1 | 0| 
+| 20230221T23:38:15Z | A way to utililise exploits to unblock the web on managed devices. | https://github.com/RealGingerMcFerren/Web-Unblocker | 0 | 0| 
+| 20230221T23:24:09Z | PoC Chromium exploit (opens calculator) | https://github.com/paulsery/Chromium-941743 | 0 | 0| 
+| 20230221T23:22:54Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/boordagoy/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
+| 20230221T23:18:06Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
+| 20230221T23:09:25Z | GPay balance exploit READ MORE BELOW | https://github.com/funnyboiy/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230221T20:37:10Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 56 | 8| 
+| 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
+| 20230221T19:14:28Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 44 | 9| 
+| 20230221T18:51:22Z | tool backdoor NanoCore cracked by Shisui | https://github.com/Brontok5/NanoCore | 0 | 0| 
 | 20230221T13:08:54Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 1 | 0| 
 | 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
-| 20230221T03:57:42Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 3 | 0| 
 | 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 
 | 20230221T00:48:45Z | EzSploit is a tool that makes RAT%s for 3 different OS%s | https://github.com/stutghost/EzSploit | 0 | 0| 
 | 20230220T23:59:55Z | Null | https://github.com/NativeCognitive/Ro_Backdoor_Sentry | 0 | 0| 
 | 20230220T21:32:45Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
-| 20230220T21:22:04Z | backdoor finder | https://github.com/hologrammw/clockmelt | 0 | 0| 
-| 20230220T12:07:43Z | Create multiple backdoors in Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
-| 20230220T11:48:57Z | SpyMax is a Tool To Remote Android Devices and Has alot Of Feature (Remote Cam, Remote Files and Alot Of Fantastic Features). (For Educational Purposes Only) | https://github.com/SoftwaresForPCs/SpyMax-v4.0-Cracked-Activated-For-Windows | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T12:59:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 165 | 19| 
-| 20230221T12:18:25Z | Null | https://github.com/janelle-05/fuzzy-couscous | 0 | 0| 
-| 20230221T11:51:06Z | Made on college for fuzzy logic disciplin | https://github.com/luizasabreu/fuzzy-clustering | 0 | 0| 
-| 20230221T11:34:25Z | Null | https://github.com/peplaionud/fuzzy-octo-dollop | 0 | 0| 
-| 20230221T11:28:27Z | Blind RCE fuzzer | https://github.com/Traumatism/raycharles | 5 | 0| 
-| 20230221T08:59:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8393 | 1826| 
-| 20230221T03:28:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4573 | 1097| 
-| 20230221T02:24:01Z | Null | https://github.com/kaesluder/fuzzy-lister | 0 | 0| 
-| 20230221T02:15:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 250 | 36| 
-| 20230221T01:57:06Z | Binary samples for fuzzing tests. | https://github.com/davea42/libdwarf-binary-samples | 1 | 0| 
+| 20230222T00:47:01Z | Null | https://github.com/fwqinsidninef/fuzzy-giggle | 0 | 0| 
+| 20230221T23:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2651 | 181| 
+| 20230221T23:11:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4949 | 514| 
+| 20230221T22:42:05Z | Minimalist application switcher for Hammerspoon | https://github.com/minusf/FuzzySwitcher.spoon | 0 | 0| 
+| 20230221T21:52:17Z | Implementation of a Fuzzer for libspdm | https://github.com/decarv/libspdm-fuzzer | 0 | 0| 
+| 20230221T21:42:38Z | Null | https://github.com/JVE12/fuzzy-spork | 0 | 0| 
+| 20230221T20:39:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8395 | 1827| 
+| 20230221T20:38:01Z | Null | https://github.com/ptfajemilo/Adaptive_neuro_fuzzzy_system_with_Metaheuristics_Algorithm_for_groundwater_exploration | 0 | 0| 
+| 20230221T20:36:57Z | Null | https://github.com/duongben/fuzzy-broccoli | 0 | 0| 
+| 20230221T20:01:12Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1945 | 247| 
 
 
 
