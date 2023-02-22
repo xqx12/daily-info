@@ -56,7 +56,7 @@
 | 20230221T23:18:06Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
 | 20230221T23:09:25Z | GPay balance exploit READ MORE BELOW | https://github.com/funnyboiy/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20230221T22:57:31Z | Roblox interface for exploiting in 096 game roblox.  | https://github.com/Xan007/096-Exploit | 0 | 0| 
-| 20230221T13:52:52Z | Null | https://github.com/ezkx/SYNAPSE-X-CRACKED-2023-DOWNLOAD-PC-ROBLOX-HACK-EXPLOIT-SYNAPSE-X-FREE-UNDETECTED | 36 | 0| 
+| 20230221T22:19:10Z | Null | https://github.com/Neo33ASM/Exploitant-Drone | 0 | 0| 
 
 
 # backdoor on Github 推荐
