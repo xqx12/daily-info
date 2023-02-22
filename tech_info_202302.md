@@ -119,6 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T09:13:13Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 14 | 5| 
 | 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
 | 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 471| 
@@ -128,13 +129,12 @@
 | 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
 | 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 | 20230218T05:47:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 298 | 74| 
-| 20230216T05:01:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 621 | 110| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230221T05:34:39Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 6 | 1| 
+| 20230222T03:43:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 7 | 1| 
 | 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 29| 
 | 20230218T07:30:40Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 1 | 0| 
 | 20230217T16:16:23Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 2 | 0| 
