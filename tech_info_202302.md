@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230222T01:28:22Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230222T01:18:00Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
-| 20230222T01:17:49Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
 | 20230221T18:48:01Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T01:23:09Z | FFuF Lab | https://github.com/rreimao/FuzzingLab | 0 | 0| 
 | 20230222T01:12:53Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 0| 
-| 20230222T01:05:31Z | FFuF Lab | https://github.com/rreimao/FuzzingLab | 0 | 0| 
 | 20230222T00:47:01Z | Null | https://github.com/fwqinsidninef/fuzzy-giggle | 0 | 0| 
 | 20230221T23:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2651 | 181| 
 | 20230221T23:11:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4949 | 514| 

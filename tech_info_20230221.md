@@ -96,8 +96,8 @@
 | 20230221T20:39:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8395 | 1827| 
 | 20230221T20:38:01Z | Null | https://github.com/ptfajemilo/Adaptive_neuro_fuzzzy_system_with_Metaheuristics_Algorithm_for_groundwater_exploration | 0 | 0| 
 | 20230221T20:36:57Z | Null | https://github.com/duongben/fuzzy-broccoli | 0 | 0| 
+| 20230221T20:05:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1276 | 169| 
 | 20230221T20:01:12Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1945 | 247| 
-| 20230221T12:59:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 165 | 19| 
 
 
 
