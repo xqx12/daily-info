@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T02:23:54Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
+| 20230222T01:19:40Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 30 | 3| 
 | 20230222T01:06:50Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 509 | 40| 
 | 20230222T00:49:34Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/monkeyn00/Dead-Frontier-2-Private-Cheat | 0 | 0| 
 | 20230222T00:49:24Z | Roblox Nyvee Private Exploit | https://github.com/monkeyn00/Roblox-Nyvee-Private-Exploit | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20230221T23:56:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1m | 1 | 0| 
 | 20230221T23:38:15Z | A way to utililise exploits to unblock the web on managed devices. | https://github.com/RealGingerMcFerren/Web-Unblocker | 0 | 0| 
 | 20230221T23:24:09Z | PoC Chromium exploit (opens calculator) | https://github.com/paulsery/Chromium-941743 | 0 | 0| 
-| 20230221T23:22:54Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/boordagoy/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20230221T23:18:06Z | All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder | https://github.com/DARKNOSY/Viper-Aiot | 2 | 0| 
 
 
 # backdoor on Github 推荐
