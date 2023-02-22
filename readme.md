@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T13:29:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/lafrap1337/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
 | 20230222T11:17:47Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
 | 20230222T11:10:41Z | CyberSec Resources: FRAMEWORKS & STANDARDS; Pentesting Audits & Hacking; PURPLE TEAMING, AD, API, web, clouds, CTF, OSINT, Pentest tools, Network Security, Privilege escalation, Exploiting, Reversing, Secure Code, Bug Bounty, ... | https://github.com/txuswashere/pentesting | 3 | 0| 
@@ -53,7 +54,6 @@
 | 20230222T01:19:40Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 30 | 3| 
 | 20230222T01:06:50Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 509 | 40| 
 | 20230222T00:49:34Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/monkeyn00/Dead-Frontier-2-Private-Cheat | 0 | 0| 
-| 20230222T00:49:24Z | Roblox Nyvee Private Exploit | https://github.com/monkeyn00/Roblox-Nyvee-Private-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
