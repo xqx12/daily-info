@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T13:58:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
 | 20230222T13:53:30Z | Disable extensions using exploits for chrome and wifi proxy%s. | https://github.com/L413/Ext-Disable | 0 | 0| 
 | 20230222T13:29:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/lafrap1337/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
@@ -96,9 +97,8 @@
 | 20230222T11:10:41Z | CyberSec Resources: FRAMEWORKS & STANDARDS; Pentesting Audits & Hacking; PURPLE TEAMING, AD, API, web, clouds, CTF, OSINT, Pentest tools, Network Security, Privilege escalation, Exploiting, Reversing, Secure Code, Bug Bounty, ... | https://github.com/txuswashere/pentesting | 3 | 0| 
 | 20230222T09:46:49Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
 | 20230222T08:15:44Z | ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) Framework for exploiting a Vulnerability. | https://github.com/FacelessHacker/MITRE | 0 | 0| 
+| 20230222T07:36:06Z | 🐇 Unsecured Api Exploiter | https://github.com/Neotoxic-off/Sloppy | 2 | 0| 
 | 20230222T02:23:54Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
-| 20230222T01:19:40Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 30 | 3| 
-| 20230222T01:06:50Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 509 | 40| 
 
 
 # backdoor on Github 推荐
@@ -151,7 +151,7 @@
 | 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
 | 20230222T13:23:13Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 36| 
 | 20230222T13:23:09Z | Null | https://github.com/oniretis/fuzzy-computing-machine | 0 | 0| 
-| 20230222T13:18:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44966 | 22337| 
+| 20230222T13:18:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44966 | 22338| 
 | 20230222T11:47:16Z | Null | https://github.com/Frattolevrai/fuzzy-giggle | 0 | 0| 
 | 20230222T11:40:20Z | Null | https://github.com/ihatiko/struct-fuzzer-gen | 0 | 0| 
 | 20230222T10:32:08Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 169 | 5| 
