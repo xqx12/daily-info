@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230222 | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch| 
+| 20230222 | 作者审计了vscode中的两款插件，利用插件中的XSS漏洞，以DNS rebind、dns-prefetch等方法绕过保护，从而达到泄露ssh私钥发送给攻击者的攻击效果。 | http://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/| 
+| 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
+| 20230222 | 微软对2022年DDoS攻击的趋势分析 | https://www.microsoft.com/en-us/security/blog/2023/02/21/2022-in-review-ddos-attack-trends-and-insights/| 
+| 20230222 | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952| 
 | 20230221 | CVE-2022-24942 的 WP。HTTPsReq_HdrParse 函数在拷贝字符串时，没有考虑到长度是否超过了 buffer 的最大可用长度，导致堆溢出。 | https://bugprove.com/knowledge-hub/cve-2022-24942-heap-based-buffer-overflow-in-silicon-labs-gecko-sdk/| 
 | 20230221 | python重写的DPAPI渗透工具 | https://www.reddit.com/r/netsec/comments/1179msr/github_zblurxdploot_dpapi_looting_remotely_in/| 
 | 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
@@ -21,11 +26,6 @@
 | 20230220 | Anderson University搭建的CTF平台。 | http://316ctf.com/| 
 | 20230220 | AMD Ryzen Master存在提权漏洞。看描述像installer中的文件提权。 | http://securityonline.info/cve-2022-27677-amd-ryzen-master-privilege-escalation-vulnerability/| 
 | 20230220 | Chrome Devtools的RFC，将允许用户本地覆写http reponse的header。 | https://github.com/ChromeDevTools/rfcs/discussions/4| 
-| 20230219 | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX| 
-| 20230217 | 利用华为SD-Update模式的检测和使用时间不一致，替换更新数据包，绕过签名验证，获取root权限。 | https://labs.taszk.io/articles/post/reunzip/| 
-| 20230217 | Windows本地提权漏洞（CVE-2022-37955）细节，配置了文件首选项域组策略的用户可以通过符号链接以system权限造成任意文件覆盖，从而导致提权。 | http://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/| 
-| 20230217 | 深入剖析acmailer的两个nday漏洞-CVE-2021-20617 & CVE-2021-20618 | http://starlabs.sg/blog/2023/02-dissecting-the-vulnerabilities-a-comprehensive-teardown-of-acmailer/| 
-| 20230217 | 制作可自毁的U盘 | http://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230222T12:38:13Z | CVE-2022-31814 | Null | https://github.com/Madliife0/CVE-2022-31814 | | 
+| 20230222T12:30:56Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
+| 20230222T08:59:57Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
+| 20230222T06:36:43Z | CVE-2022-39952 | Write Behinder_webshell to target using CVE-2022-39952 | https://github.com/shiyeshu/CVE-2022-39952_webshell | | 
+| 20230222T05:16:06Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230222T02:56:30Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230222T02:55:37Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
-| 20230221T18:48:01Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
 | 20230221T14:58:54Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
 | 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
-| 20230221T13:15:47Z | CVE-2022-2274 | OpenSSL-src Heap Memory Corruption with RSA Private Key Operation : CVE-2022-2274 | https://github.com/DesmondSanctity/CVE-2022-2274 | | 
-| 20230221T13:10:52Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
-| 20230221T06:52:28Z | CVE-2023-0669 | Null | https://github.com/Griffin-01/CVE-2023-0669 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230222T02:56:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10750 | 349| 
-| 20230221T06:10:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 215 | 2| 
+| 20230222T12:56:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10765 | 349| 
+| 20230222T07:57:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 216 | 2| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
+| 20230219T09:21:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 | 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
-| 20230215T12:55:58Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 171 | 49| 
 
 
 # s2e on Github 推荐
@@ -89,21 +89,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
+| 20230222T11:17:47Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
+| 20230222T11:10:41Z | CyberSec Resources: FRAMEWORKS & STANDARDS; Pentesting Audits & Hacking; PURPLE TEAMING, AD, API, web, clouds, CTF, OSINT, Pentest tools, Network Security, Privilege escalation, Exploiting, Reversing, Secure Code, Bug Bounty, ... | https://github.com/txuswashere/pentesting | 3 | 0| 
+| 20230222T09:46:49Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
+| 20230222T08:15:44Z | ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) Framework for exploiting a Vulnerability. | https://github.com/FacelessHacker/MITRE | 0 | 0| 
 | 20230222T02:23:54Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
 | 20230222T01:19:40Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 30 | 3| 
 | 20230222T01:06:50Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 509 | 40| 
 | 20230222T00:49:34Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/monkeyn00/Dead-Frontier-2-Private-Cheat | 0 | 0| 
 | 20230222T00:49:24Z | Roblox Nyvee Private Exploit | https://github.com/monkeyn00/Roblox-Nyvee-Private-Exploit | 0 | 0| 
-| 20230221T23:58:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1m | 1 | 0| 
-| 20230221T23:57:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1m | 1 | 0| 
-| 20230221T23:56:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1m | 1 | 0| 
-| 20230221T23:38:15Z | A way to utililise exploits to unblock the web on managed devices. | https://github.com/RealGingerMcFerren/Web-Unblocker | 0 | 0| 
-| 20230221T23:24:09Z | PoC Chromium exploit (opens calculator) | https://github.com/paulsery/Chromium-941743 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T12:11:05Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 102 | 18| 
+| 20230222T05:07:56Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
 | 20230221T20:37:10Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 56 | 8| 
 | 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 | 20230221T19:14:28Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 44 | 9| 
@@ -112,8 +114,6 @@
 | 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
 | 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 
 | 20230221T00:48:45Z | EzSploit is a tool that makes RAT%s for 3 different OS%s | https://github.com/stutghost/EzSploit | 0 | 0| 
-| 20230220T23:59:55Z | Null | https://github.com/NativeCognitive/Ro_Backdoor_Sentry | 0 | 0| 
-| 20230220T21:32:45Z | The all-in-one website backdoor tool for white hat hackers  | https://github.com/NSXSoftware/anchovE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T11:47:16Z | Null | https://github.com/Frattolevrai/fuzzy-giggle | 0 | 0| 
+| 20230222T11:40:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44965 | 22334| 
+| 20230222T11:40:20Z | Null | https://github.com/ihatiko/struct-fuzzer-gen | 0 | 0| 
+| 20230222T10:32:08Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 169 | 5| 
+| 20230222T10:23:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4576 | 1098| 
+| 20230222T10:22:30Z | Null | https://github.com/lalinnx/Fuzzy | 0 | 0| 
+| 20230222T06:39:53Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 23 | 1| 
+| 20230222T06:31:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8394 | 1827| 
 | 20230222T02:19:51Z | Samsung Galaxy s22 Plus  | https://github.com/Thomasbailey1995/fuzzy-barnacle | 0 | 0| 
 | 20230222T01:23:09Z | FFuF Lab | https://github.com/rreimao/FuzzingLab | 0 | 0| 
-| 20230222T01:12:53Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 0| 
-| 20230222T00:47:01Z | Null | https://github.com/fwqinsidninef/fuzzy-giggle | 0 | 0| 
-| 20230221T23:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2651 | 181| 
-| 20230221T23:11:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4949 | 514| 
-| 20230221T22:42:05Z | Minimalist application switcher for Hammerspoon | https://github.com/minusf/FuzzySwitcher.spoon | 0 | 0| 
-| 20230221T21:52:17Z | Implementation of a Fuzzer for libspdm | https://github.com/decarv/libspdm-fuzzer | 0 | 0| 
-| 20230221T21:42:38Z | Null | https://github.com/JVE12/fuzzy-spork | 0 | 0| 
-| 20230221T20:39:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8395 | 1827| 
 
 
 
