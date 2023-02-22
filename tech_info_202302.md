@@ -149,7 +149,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230222T11:47:16Z | Null | https://github.com/Frattolevrai/fuzzy-giggle | 0 | 0| 
-| 20230222T11:40:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44965 | 22334| 
+| 20230222T11:40:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44965 | 22336| 
 | 20230222T11:40:20Z | Null | https://github.com/ihatiko/struct-fuzzer-gen | 0 | 0| 
 | 20230222T10:32:08Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 169 | 5| 
 | 20230222T10:23:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4576 | 1098| 
