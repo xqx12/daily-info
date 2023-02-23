@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:54:54Z | An automated testing tool to fuzz JavaScript transpiler | https://github.com/clhiker/TransFuzz | 0 | 0| 
 | 20230223T02:50:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8396 | 1826| 
-| 20230223T02:25:05Z | Null | https://github.com/clhiker/TransFuzz | 0 | 0| 
 | 20230223T02:15:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 248| 
 | 20230223T01:19:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8790 | 983| 
 | 20230223T00:57:16Z | Null | https://github.com/sakshamio/fuzzy-carnival | 0 | 0| 
