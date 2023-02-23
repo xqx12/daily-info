@@ -67,8 +67,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T23:28:57Z | Null | https://github.com/Ishadabsiddiqui/BackDoor | 0 | 0| 
+| 20230222T23:05:48Z | Null | https://github.com/Brainhub24/Backdoor-Playground | 0 | 0| 
+| 20230222T15:48:44Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
+| 20230222T14:49:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 110 | 14| 
 | 20230222T12:11:05Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 102 | 18| 
-| 20230222T05:07:56Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
 
 
 # symbolic execution on Github 推荐

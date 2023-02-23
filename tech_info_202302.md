@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T23:28:57Z | Null | https://github.com/Ishadabsiddiqui/BackDoor | 0 | 0| 
+| 20230222T23:05:48Z | Null | https://github.com/Brainhub24/Backdoor-Playground | 0 | 0| 
+| 20230222T15:48:44Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
+| 20230222T14:49:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 110 | 14| 
 | 20230222T12:11:05Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 102 | 18| 
-| 20230222T05:07:56Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
 | 20230221T20:37:10Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 56 | 8| 
 | 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 | 20230221T19:14:28Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 44 | 9| 
 | 20230221T18:51:22Z | tool backdoor NanoCore cracked by Shisui | https://github.com/Brontok5/NanoCore | 0 | 0| 
-| 20230221T13:08:54Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 1 | 0| 
-| 20230221T07:04:15Z | This Webshell is Free to Use. | https://github.com/0x0v0/N0rn-BackdoorV2 | 0 | 0| 
-| 20230221T03:45:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 109 | 14| 
-| 20230221T00:48:45Z | EzSploit is a tool that makes RAT%s for 3 different OS%s | https://github.com/stutghost/EzSploit | 0 | 0| 
+| 20230221T18:51:19Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 112 | 27| 
 
 
 # symbolic execution on Github 推荐
