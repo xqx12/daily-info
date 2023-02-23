@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230223T01:28:09Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230223T01:31:38Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230222T22:12:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230222T20:56:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230223T01:20:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 41 | 3| 
+| 20230223T01:30:06Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 43 | 3| 
 | 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
 | 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
