@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T13:18:54Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 53 | 3| 
+| 20230223T11:58:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5285 | 735| 
 | 20230223T11:43:09Z | Null | https://github.com/0XMohomiester/Windows-Exploit-Development-practises | 0 | 0| 
 | 20230223T11:38:51Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
 | 20230223T11:36:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12775 | 2184| 
@@ -97,8 +99,6 @@
 | 20230223T10:34:10Z | This is a Proof of Concept Exploit, Please use responsibly | https://github.com/Dheeraj-hack/xmlrpc_ddos | 0 | 2| 
 | 20230223T10:02:22Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 66 | 29| 
 | 20230223T09:54:53Z | Null | https://github.com/mickdec/ATTINY85-Exploit | 0 | 0| 
-| 20230223T09:42:09Z | Null | https://github.com/Bayol-Alexia/TP_SystemeExploitation | 0 | 0| 
-| 20230223T09:41:50Z | Null | https://github.com/ColineAuber/TP2_systeme_exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -148,10 +148,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T13:24:10Z | Introduction to version control with Git (Applied) :]] | https://github.com/baarb02/-fuzzy-octo-waddle | 0 | 0| 
+| 20230223T13:23:53Z | my first repository - test - itroduction to version control with Git | https://github.com/SofieBT2/fuzzy-lamp | 0 | 0| 
 | 20230223T13:23:50Z | DOM fuzzer | https://github.com/googleprojectzero/domato | 1503 | 287| 
 | 20230223T13:23:26Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 248| 
-| 20230223T12:55:32Z | my first repository - test - itroduction to version control with Git | https://github.com/SofieBT2/fuzzy-lamp | 0 | 0| 
-| 20230223T12:55:19Z | Introduction to version control with Git (Applied) :]] | https://github.com/baarb02/-fuzzy-octo-waddle | 0 | 0| 
 | 20230223T12:49:56Z | cool decription  | https://github.com/baarb02/fuzzy-octo-waddle | 0 | 0| 
 | 20230223T11:06:37Z | Repo contains implementations of fuzzy logic structures and operations, implementation of neural networks and genetic algorithms. They are first tested separately and then combines in various ways. | https://github.com/gister9000/Combining-fuzzy-logic-neural-networks-and-genetic-algorithm | 1 | 0| 
 | 20230223T11:00:24Z | Null | https://github.com/HelloAllen11/fuzz_dict | 0 | 0| 
