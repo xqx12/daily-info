@@ -90,6 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230223T13:33:40Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 54 | 3| 
+| 20230223T12:53:12Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5038 | 1704| 
 | 20230223T11:58:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5285 | 735| 
 | 20230223T11:43:09Z | Null | https://github.com/0XMohomiester/Windows-Exploit-Development-practises | 0 | 0| 
 | 20230223T11:38:51Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
@@ -98,7 +99,6 @@
 | 20230223T10:52:51Z | A serie of python modules to exploit BGC Argo data. | https://github.com/hermilth/biodynpa | 0 | 0| 
 | 20230223T10:34:10Z | This is a Proof of Concept Exploit, Please use responsibly | https://github.com/Dheeraj-hack/xmlrpc_ddos | 0 | 2| 
 | 20230223T10:02:22Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 66 | 29| 
-| 20230223T09:54:53Z | Null | https://github.com/mickdec/ATTINY85-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
