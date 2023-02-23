@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T01:19:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8790 | 983| 
 | 20230223T00:57:16Z | Null | https://github.com/sakshamio/fuzzy-carnival | 0 | 0| 
 | 20230222T22:38:16Z | Just for fun | https://github.com/Cludstreem/fuzzy | 0 | 0| 
 | 20230222T20:48:40Z | Fuzzy control project from the 2021 course on Artificial Intelligence and Expert Systems (AIES) | https://github.com/SLR-96/AIES2021_Fuzzy | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230222T17:06:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1948 | 248| 
 | 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
 | 20230222T13:23:09Z | Null | https://github.com/oniretis/fuzzy-computing-machine | 0 | 0| 
-| 20230222T13:18:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44966 | 22338| 
 
 
 
