@@ -156,7 +156,7 @@
 | 20230223T11:06:37Z | Repo contains implementations of fuzzy logic structures and operations, implementation of neural networks and genetic algorithms. They are first tested separately and then combines in various ways. | https://github.com/gister9000/Combining-fuzzy-logic-neural-networks-and-genetic-algorithm | 1 | 0| 
 | 20230223T11:00:24Z | Null | https://github.com/HelloAllen11/fuzz_dict | 0 | 0| 
 | 20230223T10:13:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3418 | 412| 
-| 20230223T09:30:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1277 | 169| 
+| 20230223T09:30:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1277 | 170| 
 | 20230223T08:45:05Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 259 | 37| 
 
 
