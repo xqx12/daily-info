@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:08:38Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230223T02:09:26Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230223T01:55:08Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
 | 20230223T01:48:23Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
 | 20230223T01:38:55Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
