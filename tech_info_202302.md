@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T01:20:07Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 41 | 3| 
 | 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
 | 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
 | 20230222T23:19:49Z | Roblox Fruit Exploit | https://github.com/Sildamiluug/Roblox-Fruit-Exploit | 0 | 0| 
 | 20230222T23:19:38Z | AutoFarm SonicSpeed Exploit | https://github.com/Sildamiluug/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
-| 20230222T22:25:55Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 40 | 3| 
 | 20230222T22:16:05Z | Roblox interface for exploiting in 096 game roblox.  | https://github.com/Xan007/MyExploit | 0 | 0| 
 | 20230222T13:58:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
 
