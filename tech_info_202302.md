@@ -31,38 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230222 | 精准EDR能力白皮书 | https://www.dwcon.cn/uploads/file/2023/02/21/1676967277745514.pdf| 
+| 20230222 | 如何研究一家网络安全公司？ | https://mp.weixin.qq.com/s/YNuzTwVrINd3eSWlHGVMFQ| 
+| 20230222 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg| 
+| 20230222 | 论坛·2022全球网空态势回顾 | https://mp.weixin.qq.com/s/UoQwrnXr8OTfjyDzOT6xmg| 
+| 20230222 | ChatGPT在MITREATT&CK落地中的应用 | https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg| 
 | 20230220 | SecWiki周刊（第468期) | https://www.sec-wiki.com/weekly/468| 
 | 20230219 | Citrix CVE-2022-27518 漏洞分析 | https://paper.seebug.org/2049/| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-上） | https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g| 
 | 20230217 | 网络流量异常检测综述 | https://mp.weixin.qq.com/s/6zEkXro7WFjNQWPWv53NcA| 
-| 20230216 | 某 T 路由器固件解压缩探秘 | https://paper.seebug.org/2048/| 
-| 20230216 | Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
-| 20230213 | VirusTotal 版本的引擎与桌面版引擎的比较分析 | https://mp.weixin.qq.com/s/SpmgKfG2eeWCPMZ4RqEDPA| 
-| 20230213 | SecWiki周刊（第467期) | https://www.sec-wiki.com/weekly/467| 
-| 20230213 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
+| 20230222T22:12:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230222T20:56:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230222T20:56:04Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Blacking000/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230222T17:50:51Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
 | 20230222T12:38:13Z | CVE-2022-31814 | Null | https://github.com/Madliife0/CVE-2022-31814 | | 
-| 20230222T12:30:56Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
 | 20230222T08:59:57Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 | 20230222T06:36:43Z | CVE-2022-39952 | Write Behinder_webshell to target using CVE-2022-39952 | https://github.com/shiyeshu/CVE-2022-39952_webshell | | 
 | 20230222T05:16:06Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 | 20230222T02:56:30Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230221T20:11:51Z | cve-2022-35737 | A CodeQL query to find CVE 2022-35737 | https://github.com/rvermeulen/codeql-cve-2022-35737 | | 
-| 20230221T14:58:57Z | CVE-2022-45599 | Null | https://github.com/ethancunt/CVE-2022-45599 | | 
-| 20230221T14:58:54Z | CVE-2022-45600 | Null | https://github.com/ethancunt/CVE-2022-45600 | | 
-| 20230221T13:16:39Z | CVE-2022-44311 | Out-Of-Bounds Read in html2xhtml : CVE-2022-44311 | https://github.com/DesmondSanctity/CVE-2022-44311 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230222T13:38:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10765 | 349| 
-| 20230222T07:57:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 216 | 2| 
+| 20230223T00:34:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10771 | 349| 
+| 20230222T23:41:30Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
+| 20230222T14:21:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 217 | 2| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230219T23:57:26Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
@@ -70,7 +71,6 @@
 | 20230219T09:21:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
-| 20230216T07:29:23Z | Null | https://github.com/Mjzo/Kleene-Closure-Glossery | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -119,11 +119,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T14:58:17Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 188 | 43| 
 | 20230222T09:13:13Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 14 | 5| 
 | 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
 | 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 471| 
-| 20230220T17:48:58Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 187 | 43| 
 | 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230218T18:26:40Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T00:57:16Z | Null | https://github.com/sakshamio/fuzzy-carnival | 0 | 0| 
+| 20230222T22:38:16Z | Just for fun | https://github.com/Cludstreem/fuzzy | 0 | 0| 
+| 20230222T20:48:40Z | Fuzzy control project from the 2021 course on Artificial Intelligence and Expert Systems (AIES) | https://github.com/SLR-96/AIES2021_Fuzzy | 0 | 0| 
+| 20230222T20:29:57Z | Implementation of a Fuzzer for libspdm | https://github.com/decarv/libspdm-fuzzer | 0 | 0| 
+| 20230222T19:53:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 37| 
+| 20230222T18:55:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 1| 
+| 20230222T17:06:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1948 | 248| 
 | 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
-| 20230222T13:23:13Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 36| 
 | 20230222T13:23:09Z | Null | https://github.com/oniretis/fuzzy-computing-machine | 0 | 0| 
 | 20230222T13:18:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44966 | 22338| 
-| 20230222T11:47:16Z | Null | https://github.com/Frattolevrai/fuzzy-giggle | 0 | 0| 
-| 20230222T11:40:20Z | Null | https://github.com/ihatiko/struct-fuzzer-gen | 0 | 0| 
-| 20230222T10:32:08Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 169 | 5| 
-| 20230222T10:23:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4576 | 1098| 
-| 20230222T10:22:30Z | Null | https://github.com/lalinnx/Fuzzy | 0 | 0| 
-| 20230222T06:39:53Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 23 | 1| 
 
 
 
