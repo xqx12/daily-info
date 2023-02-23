@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T05:38:52Z | Null | https://github.com/badboycxcc/IIS_Backdoor_Dll | 1 | 0| 
+| 20230223T04:48:43Z | Null | https://github.com/wdbbsq/federated_backdoor | 0 | 0| 
+| 20230223T04:32:26Z | shitty ass da hood/dh backdoor script, fires shit from the main event and forces requires | https://github.com/IRunServers/shitty-dh-backdoor | 0 | 0| 
 | 20230223T02:35:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7496 | 1772| 
-| 20230223T02:31:55Z | Null | https://github.com/wdbbsq/federated_backdoor | 0 | 0| 
 | 20230223T02:25:43Z | Null | https://github.com/wdbbsq/backdoor | 0 | 0| 
 | 20230222T23:28:57Z | Null | https://github.com/Ishadabsiddiqui/BackDoor | 0 | 0| 
 | 20230222T23:05:48Z | Null | https://github.com/Brainhub24/Backdoor-Playground | 0 | 0| 
 | 20230222T15:48:44Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
 | 20230222T14:49:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 110 | 14| 
 | 20230222T12:11:05Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 102 | 18| 
-| 20230221T20:37:10Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 56 | 8| 
-| 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
