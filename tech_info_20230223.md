@@ -102,9 +102,9 @@
 | 20230223T11:00:24Z | Null | https://github.com/HelloAllen11/fuzz_dict | 0 | 0| 
 | 20230223T10:13:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3418 | 412| 
 | 20230223T09:30:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1277 | 169| 
+| 20230223T08:45:05Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 259 | 37| 
 | 20230223T08:23:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 886 | 204| 
 | 20230223T07:41:55Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 172 | 5| 
-| 20230223T02:54:54Z | An automated testing tool to fuzz JavaScript transpiler | https://github.com/clhiker/TransFuzz | 0 | 0| 
 
 
 
