@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:31:55Z | Null | https://github.com/wdbbsq/federated_backdoor | 0 | 0| 
 | 20230223T02:25:43Z | Null | https://github.com/wdbbsq/backdoor | 0 | 0| 
 | 20230222T23:28:57Z | Null | https://github.com/Ishadabsiddiqui/BackDoor | 0 | 0| 
 | 20230222T23:05:48Z | Null | https://github.com/Brainhub24/Backdoor-Playground | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20230221T20:37:10Z | Reverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a new signature after every build. With the capabilties to create a Flipper Zero/ Hak5 USB Rubber ducky payload. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 56 | 8| 
 | 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 | 20230221T19:14:28Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 44 | 9| 
-| 20230221T18:51:22Z | tool backdoor NanoCore cracked by Shisui | https://github.com/Brontok5/NanoCore | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
