@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230223T01:42:20Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
 | 20230223T01:38:55Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
 | 20230223T01:33:35Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
@@ -55,7 +56,6 @@
 | 20230222T12:38:13Z | CVE-2022-31814 | Null | https://github.com/Madliife0/CVE-2022-31814 | | 
 | 20230222T08:59:57Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 | 20230222T06:36:43Z | CVE-2022-39952 | Write Behinder_webshell to target using CVE-2022-39952 | https://github.com/shiyeshu/CVE-2022-39952_webshell | | 
-| 20230222T05:16:06Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
 
 
 # klee on Github 推荐
