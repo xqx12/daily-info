@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:32:29Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 45 | 4| 
+| 20230223T02:42:46Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 46 | 4| 
 | 20230223T02:14:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 372 | 79| 
 | 20230223T01:59:41Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 225 | 21| 
 | 20230223T01:59:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 10 | 2| 
@@ -119,12 +119,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:44:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2162 | 606| 
 | 20230222T14:58:17Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 188 | 43| 
 | 20230222T09:13:13Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 14 | 5| 
 | 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
 | 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 471| 
-| 20230220T09:34:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2161 | 606| 
 | 20230218T18:26:40Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
 | 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
