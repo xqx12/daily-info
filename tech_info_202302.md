@@ -154,10 +154,10 @@
 | 20230222T20:48:40Z | Fuzzy control project from the 2021 course on Artificial Intelligence and Expert Systems (AIES) | https://github.com/SLR-96/AIES2021_Fuzzy | 0 | 0| 
 | 20230222T20:29:57Z | Implementation of a Fuzzer for libspdm | https://github.com/decarv/libspdm-fuzzer | 0 | 0| 
 | 20230222T19:53:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 37| 
+| 20230222T19:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8394 | 1826| 
 | 20230222T18:55:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 1| 
 | 20230222T17:06:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1948 | 248| 
 | 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
-| 20230222T13:23:09Z | Null | https://github.com/oniretis/fuzzy-computing-machine | 0 | 0| 
 
 
 
