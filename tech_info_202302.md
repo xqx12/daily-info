@@ -93,12 +93,12 @@
 | 20230223T01:59:41Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 225 | 21| 
 | 20230223T01:59:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 10 | 2| 
 | 20230223T01:49:44Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 44 | 4| 
+| 20230223T00:25:14Z | 50+ Gadgets(20 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 262 | 50| 
 | 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
 | 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230223T00:00:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
-| 20230222T23:19:49Z | Roblox Fruit Exploit | https://github.com/Sildamiluug/Roblox-Fruit-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
