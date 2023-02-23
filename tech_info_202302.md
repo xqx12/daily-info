@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:11:31Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230223T02:14:46Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230223T01:55:08Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
 | 20230223T01:48:23Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
 | 20230223T01:38:55Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:14:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 372 | 79| 
 | 20230223T01:59:41Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 225 | 21| 
 | 20230223T01:59:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 10 | 2| 
 | 20230223T01:49:44Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 44 | 4| 
@@ -98,7 +99,6 @@
 | 20230223T00:00:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
 | 20230222T23:19:49Z | Roblox Fruit Exploit | https://github.com/Sildamiluug/Roblox-Fruit-Exploit | 0 | 0| 
-| 20230222T23:19:38Z | AutoFarm SonicSpeed Exploit | https://github.com/Sildamiluug/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
