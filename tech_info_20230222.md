@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
+| 20230222T23:19:49Z | Roblox Fruit Exploit | https://github.com/Sildamiluug/Roblox-Fruit-Exploit | 0 | 0| 
+| 20230222T23:19:38Z | AutoFarm SonicSpeed Exploit | https://github.com/Sildamiluug/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20230222T22:25:55Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 40 | 3| 
+| 20230222T22:16:05Z | Roblox interface for exploiting in 096 game roblox.  | https://github.com/Xan007/MyExploit | 0 | 0| 
 | 20230222T13:58:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
 | 20230222T13:53:30Z | Disable extensions using exploits for chrome and wifi proxy%s. | https://github.com/L413/Ext-Disable | 0 | 0| 
 | 20230222T13:29:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/lafrap1337/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
-| 20230222T11:17:47Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
-| 20230222T11:10:41Z | CyberSec Resources: FRAMEWORKS & STANDARDS; Pentesting Audits & Hacking; PURPLE TEAMING, AD, API, web, clouds, CTF, OSINT, Pentest tools, Network Security, Privilege escalation, Exploiting, Reversing, Secure Code, Bug Bounty, ... | https://github.com/txuswashere/pentesting | 3 | 0| 
-| 20230222T09:46:49Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
-| 20230222T08:15:44Z | ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) Framework for exploiting a Vulnerability. | https://github.com/FacelessHacker/MITRE | 0 | 0| 
-| 20230222T07:36:06Z | 🐇 Unsecured Api Exploiter | https://github.com/Neotoxic-off/Sloppy | 2 | 0| 
-| 20230222T02:23:54Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
+| 20230222T12:18:43Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 2 | 0| 
 
 
 # backdoor on Github 推荐

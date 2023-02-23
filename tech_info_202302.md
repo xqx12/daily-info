@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
+| 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230222T22:12:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230222T20:56:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230222T20:56:04Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Blacking000/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -55,7 +56,6 @@
 | 20230222T08:59:57Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 | 20230222T06:36:43Z | CVE-2022-39952 | Write Behinder_webshell to target using CVE-2022-39952 | https://github.com/shiyeshu/CVE-2022-39952_webshell | | 
 | 20230222T05:16:06Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669 | | 
-| 20230222T02:56:30Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 
 
 # klee on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
+| 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
+| 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
+| 20230223T00:00:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4l | 1 | 0| 
+| 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
+| 20230222T23:19:49Z | Roblox Fruit Exploit | https://github.com/Sildamiluug/Roblox-Fruit-Exploit | 0 | 0| 
+| 20230222T23:19:38Z | AutoFarm SonicSpeed Exploit | https://github.com/Sildamiluug/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20230222T22:25:55Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 40 | 3| 
+| 20230222T22:16:05Z | Roblox interface for exploiting in 096 game roblox.  | https://github.com/Xan007/MyExploit | 0 | 0| 
 | 20230222T13:58:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
-| 20230222T13:53:30Z | Disable extensions using exploits for chrome and wifi proxy%s. | https://github.com/L413/Ext-Disable | 0 | 0| 
-| 20230222T13:29:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/lafrap1337/Dead-Frontier-2-Cheat | 0 | 0| 
-| 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
-| 20230222T11:17:47Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
-| 20230222T11:10:41Z | CyberSec Resources: FRAMEWORKS & STANDARDS; Pentesting Audits & Hacking; PURPLE TEAMING, AD, API, web, clouds, CTF, OSINT, Pentest tools, Network Security, Privilege escalation, Exploiting, Reversing, Secure Code, Bug Bounty, ... | https://github.com/txuswashere/pentesting | 3 | 0| 
-| 20230222T09:46:49Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
-| 20230222T08:15:44Z | ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) Framework for exploiting a Vulnerability. | https://github.com/FacelessHacker/MITRE | 0 | 0| 
-| 20230222T07:36:06Z | 🐇 Unsecured Api Exploiter | https://github.com/Neotoxic-off/Sloppy | 2 | 0| 
-| 20230222T02:23:54Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 6 | 1| 
 
 
 # backdoor on Github 推荐
