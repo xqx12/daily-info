@@ -11,6 +11,7 @@
 | 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
 | 20230222 | 微软对2022年DDoS攻击的趋势分析 | https://www.microsoft.com/en-us/security/blog/2023/02/21/2022-in-review-ddos-attack-trends-and-insights/| 
 | 20230222 | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952| 
+| 20230222 | 编写一个Chrome浏览器扩展，尽可能地窃取用户信息，包括cookie，浏览历史，tab截图等等。 | https://mattfrisbie.substack.com/p/spy-chrome-extension| 
 
 
 # 安全维基 推荐
@@ -60,7 +61,7 @@
 | 20230222T13:29:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/lafrap1337/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230222T12:37:59Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12766 | 2184| 
 | 20230222T12:18:43Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 2 | 0| 
-| 20230222T11:17:47Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
+| 20230222T12:11:05Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 102 | 18| 
 
 
 # backdoor on Github 推荐

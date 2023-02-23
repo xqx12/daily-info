@@ -11,6 +11,7 @@
 | 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
 | 20230222 | 微软对2022年DDoS攻击的趋势分析 | https://www.microsoft.com/en-us/security/blog/2023/02/21/2022-in-review-ddos-attack-trends-and-insights/| 
 | 20230222 | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952| 
+| 20230222 | 编写一个Chrome浏览器扩展，尽可能地窃取用户信息，包括cookie，浏览历史，tab截图等等。 | https://mattfrisbie.substack.com/p/spy-chrome-extension| 
 | 20230221 | CVE-2022-24942 的 WP。HTTPsReq_HdrParse 函数在拷贝字符串时，没有考虑到长度是否超过了 buffer 的最大可用长度，导致堆溢出。 | https://bugprove.com/knowledge-hub/cve-2022-24942-heap-based-buffer-overflow-in-silicon-labs-gecko-sdk/| 
 | 20230221 | python重写的DPAPI渗透工具 | https://www.reddit.com/r/netsec/comments/1179msr/github_zblurxdploot_dpapi_looting_remotely_in/| 
 | 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
@@ -25,7 +26,6 @@
 | 20230220 | 谷歌版ChatGPT LaMDA的部分细节。 | https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html| 
 | 20230220 | Anderson University搭建的CTF平台。 | http://316ctf.com/| 
 | 20230220 | AMD Ryzen Master存在提权漏洞。看描述像installer中的文件提权。 | http://securityonline.info/cve-2022-27677-amd-ryzen-master-privilege-escalation-vulnerability/| 
-| 20230220 | Chrome Devtools的RFC，将允许用户本地覆写http reponse的header。 | https://github.com/ChromeDevTools/rfcs/discussions/4| 
 
 
 # 安全维基 推荐
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230223T01:30:06Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 43 | 3| 
+| 20230223T01:49:44Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 44 | 4| 
 | 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
 | 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
 | 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
