@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:25:43Z | Null | https://github.com/wdbbsq/backdoor | 0 | 0| 
 | 20230222T23:28:57Z | Null | https://github.com/Ishadabsiddiqui/BackDoor | 0 | 0| 
 | 20230222T23:05:48Z | Null | https://github.com/Brainhub24/Backdoor-Playground | 0 | 0| 
 | 20230222T15:48:44Z | Null | https://github.com/BootModulex/TateCrypter | 4 | 0| 
@@ -113,7 +114,6 @@
 | 20230221T19:39:41Z | Simple TCP listener experiment coded in Golang  | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 | 20230221T19:14:28Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 44 | 9| 
 | 20230221T18:51:22Z | tool backdoor NanoCore cracked by Shisui | https://github.com/Brontok5/NanoCore | 0 | 0| 
-| 20230221T18:51:19Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 112 | 27| 
 
 
 # symbolic execution on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T02:25:05Z | Null | https://github.com/clhiker/TransFuzz | 0 | 0| 
 | 20230223T02:15:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 248| 
 | 20230223T01:19:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8790 | 983| 
 | 20230223T00:57:16Z | Null | https://github.com/sakshamio/fuzzy-carnival | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230222T19:53:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 37| 
 | 20230222T19:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8394 | 1826| 
 | 20230222T18:55:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 1| 
-| 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
 
 
 
