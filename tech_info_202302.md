@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230223 | Node.js 的 undici 库存在 CRLF 注入漏洞 | https://hackerone.com/reports/1820955| 
+| 20230223 | Fuzzilli新增了一个用于将js代码转换成Fuzzili IR的工具。 | https://github.com/googleprojectzero/fuzzilli/commit/807625f0112df22bfe293aa4d36d67c31c4fb243| 
+| 20230223 | 像使用IDA一样使用Ghidra的插件 | https://gist.github.com/NyaMisty/06e65d0f0268d456d9d086aee08952ee| 
+| 20230223 | 这篇文章以实际案例展示了盲目信任第三方API会导致导致一系列安全问题 | https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22| 
+| 20230223 | 苹果Lightning接口通信协议的逆向工程分享视频，视频中还用到了chatGPT来猜测可能的协议 | http://hackaday.com/2023/02/22/reverse-engineering-the-apple-lightning-connector/| 
+| 20230223 | 一篇介绍macos自带安全机制的文章，讲的还是比较清楚。 | https://www.huntress.com/blog/built-in-macos-security-tools| 
+| 20230223 | 使用NtQueueApcThreadEx向windows进程注入任意shellcode，可以用于bypass部分终端安全检测 | https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection| 
+| 20230223 | 使用OPENAI达芬奇模型(ChatGPT的背后模型)分析shellcode的功能 | https://www.archcloudlabs.com/projects/shellcode_gpt/| 
+| 20230223 | Amazon的语言模型仅使用1 billion个参数就可以达到91.68%的准确率，超过了用了175 billion个参数的GPT-3.5（准确率75.17%），该模型已开源。 | https://arxiv.org/pdf/2302.00923.pdf| 
 | 20230222 | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch| 
 | 20230222 | 作者审计了vscode中的两款插件，利用插件中的XSS漏洞，以DNS rebind、dns-prefetch等方法绕过保护，从而达到泄露ssh私钥发送给攻击者的攻击效果。 | http://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/| 
 | 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
@@ -17,20 +26,13 @@
 | 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
 | 20230221 | 面向编译器开发者的安全知识库，包括内存破坏类攻击，侧信道攻击，物理攻击等 | https://llsoftsec.github.io/llsoftsecbook/| 
 | 20230221 | TrueBot Analysis Part II - Static unpacker | https://malware.love/malware_analysis/reverse_engineering/2023/02/18/analyzing-truebot-static-unpacking.html| 
-| 20230220 | homepod越狱工具 | https://github.com/tihmstar/homepwn#3d-print-version| 
-| 20230220 | 三星推出了一种针对IM和SMS的zero-click RCE的防护。原理是在沙箱环境下解析图片之类文件以确保其未触发漏洞。 | https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html| 
-| 20230220 | Picus出版的2023年版APT攻击报告 | http://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/RedReport2023-Picus.pdf| 
-| 20230220 | 一种使用VNC进行钓鱼等技术，该技术主要是通过引导受害者登陆一个由noVNC搭建的通向VNC的Web站点并进行登陆。由于受害者登陆的站是真实的站，因此这种钓鱼方法可以自然地直接绕过MFA。 | https://medium.com/@psychsecurity/mfa-phishing-using-novnc-and-aws-ebc781b4d093| 
-| 20230220 | 介绍了最近的威胁活动中HTML走私使用的相关技术，包括payload encoding和payload deliver | http://link.medium.com/7wloMoWIxxb| 
-| 20230220 | 通过PS2 Emulator破解ps4/ps5系列文章的第三篇，本篇主要与在PS4/PS5上的调试与利用方式有关。 | https://www.reddit.com/r/netsec/comments/115u6xc/mast1c0re_part_3_escaping_the_ps5_emulator/| 
-| 20230220 | 谷歌版ChatGPT LaMDA的部分细节。 | https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html| 
-| 20230220 | Anderson University搭建的CTF平台。 | http://316ctf.com/| 
-| 20230220 | AMD Ryzen Master存在提权漏洞。看描述像installer中的文件提权。 | http://securityonline.info/cve-2022-27677-amd-ryzen-master-privilege-escalation-vulnerability/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230223 | 通过 Rank-1 相似性矩阵分解建模反病毒引擎共识演化 | https://mp.weixin.qq.com/s/_eLxhU_8b52RtAmNOqKgLw| 
+| 20230223 | 从攻击视角探讨ChatGPT对网络安全的影响 | https://mp.weixin.qq.com/s/ph5GnQFIGcSzi-9H-YlJTA| 
 | 20230222 | 精准EDR能力白皮书 | https://www.dwcon.cn/uploads/file/2023/02/21/1676967277745514.pdf| 
 | 20230222 | 如何研究一家网络安全公司？ | https://mp.weixin.qq.com/s/YNuzTwVrINd3eSWlHGVMFQ| 
 | 20230222 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg| 
@@ -39,30 +41,28 @@
 | 20230220 | SecWiki周刊（第468期) | https://www.sec-wiki.com/weekly/468| 
 | 20230219 | Citrix CVE-2022-27518 漏洞分析 | https://paper.seebug.org/2049/| 
 | 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ| 
-| 20230217 | 2022年全球国防网络空间情况综述（网军建设篇-上） | https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g| 
-| 20230217 | 网络流量异常检测综述 | https://mp.weixin.qq.com/s/6zEkXro7WFjNQWPWv53NcA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:53:47Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230223T01:55:08Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
+| 20230223T12:48:12Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230223T12:17:16Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230223T07:16:25Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
+| 20230223T06:21:08Z | CVE-2022-30507 | PoC for Arbitrary Code Execution in Notable | https://github.com/yosef0x01/CVE-2022-30507 | | 
+| 20230223T04:44:25Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
+| 20230223T03:40:25Z | CVE-2023-0297 | pyLoad versions prior to 0.5.0b3.dev31 are vulnerable to Python code injection due to the pyimport functionality exposed through the js2py library. | https://github.com/b11y/CVE-2023-0297 | | 
+| 20230223T03:40:24Z | CVE-2022-32429 | allows unauthenticated attackers to arbitrarily configure settings within the application, leading to remote code execution. | https://github.com/b11y/CVE-2022-32429 | | 
 | 20230223T01:48:23Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
 | 20230223T01:38:55Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
 | 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
-| 20230222T22:12:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230222T20:56:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20230222T20:56:04Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/Blacking000/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20230222T12:38:13Z | CVE-2022-31814 | Null | https://github.com/Madliife0/CVE-2022-31814 | | 
-| 20230222T08:59:57Z | CVE-2020-15568 | Repository for CVE-2020-15568 Metasploit module | https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:44:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2162 | 606| 
-| 20230223T01:42:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10772 | 349| 
+| 20230223T09:22:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10781 | 349| 
+| 20230223T06:35:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2165 | 606| 
 | 20230222T23:41:30Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
 | 20230222T14:21:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 217 | 2| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T08:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 299 | 74| 
 | 20230218T14:11:14Z | Exercise S2 - Pham Viet Duc | https://github.com/vietduc218/s2exercise | 0 | 0| 
-| 20230218T05:47:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 298 | 74| 
 | 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230216T18:27:56Z | Null | https://github.com/SKyletoft/s2e-autocxx-error | 0 | 0| 
 | 20230214T13:52:13Z | Null | https://github.com/MetadataGitTesting/S2eJej9r | 0 | 0| 
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230223T02:42:46Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 46 | 4| 
-| 20230223T02:14:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 372 | 79| 
-| 20230223T01:59:41Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 225 | 21| 
-| 20230223T01:59:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 10 | 2| 
-| 20230223T00:25:14Z | 50+ Gadgets(20 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 262 | 50| 
-| 20230223T00:07:30Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
-| 20230223T00:02:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4l | 1 | 0| 
-| 20230223T00:01:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4l | 1 | 0| 
-| 20230223T00:00:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4l | 1 | 0| 
-| 20230222T23:19:59Z | Risk of Rain 2 Cheat | https://github.com/Sildamiluug/Risk-Of-Rain-2-Exploit-Scripts- | 0 | 0| 
+| 20230223T11:43:09Z | Null | https://github.com/0XMohomiester/Windows-Exploit-Development-practises | 0 | 0| 
+| 20230223T11:38:51Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
+| 20230223T11:36:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12775 | 2184| 
+| 20230223T11:14:58Z | 50+ Gadgets(20 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 264 | 50| 
+| 20230223T10:52:51Z | A serie of python modules to exploit BGC Argo data. | https://github.com/hermilth/biodynpa | 0 | 0| 
+| 20230223T10:34:10Z | This is a Proof of Concept Exploit, Please use responsibly | https://github.com/Dheeraj-hack/xmlrpc_ddos | 0 | 2| 
+| 20230223T10:02:22Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 66 | 29| 
+| 20230223T09:54:53Z | Null | https://github.com/mickdec/ATTINY85-Exploit | 0 | 0| 
+| 20230223T09:42:09Z | Null | https://github.com/Bayol-Alexia/TP_SystemeExploitation | 0 | 0| 
+| 20230223T09:41:50Z | Null | https://github.com/ColineAuber/TP2_systeme_exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,22 +119,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T08:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 299 | 74| 
+| 20230223T06:40:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3330 | 471| 
+| 20230223T06:35:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2165 | 606| 
 | 20230223T02:46:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 622 | 110| 
-| 20230223T02:44:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2162 | 606| 
 | 20230222T14:58:17Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 188 | 43| 
 | 20230222T09:13:13Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 14 | 5| 
 | 20230221T13:53:41Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 3 | 0| 
 | 20230221T03:55:08Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 20 | 2| 
-| 20230220T22:17:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3329 | 471| 
 | 20230218T18:26:40Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230218T11:48:35Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 16 | 8| 
-| 20230218T06:31:32Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230222T03:43:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 7 | 1| 
+| 20230223T03:07:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 8 | 1| 
 | 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 29| 
 | 20230218T07:30:40Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 1 | 0| 
 | 20230217T16:16:23Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 2 | 0| 
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230223T12:55:32Z | my first repository - test - itroduction to version control with Git | https://github.com/SofieBT2/fuzzy-lamp | 0 | 0| 
+| 20230223T12:55:19Z | Introduction to version control with Git (Applied) :]] | https://github.com/baarb02/-fuzzy-octo-waddle | 0 | 0| 
+| 20230223T12:49:56Z | cool decription  | https://github.com/baarb02/fuzzy-octo-waddle | 0 | 0| 
+| 20230223T11:06:37Z | Repo contains implementations of fuzzy logic structures and operations, implementation of neural networks and genetic algorithms. They are first tested separately and then combines in various ways. | https://github.com/gister9000/Combining-fuzzy-logic-neural-networks-and-genetic-algorithm | 1 | 0| 
+| 20230223T11:00:24Z | Null | https://github.com/HelloAllen11/fuzz_dict | 0 | 0| 
+| 20230223T10:13:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3418 | 412| 
+| 20230223T09:30:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1277 | 169| 
+| 20230223T08:23:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 886 | 204| 
+| 20230223T07:41:55Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 172 | 5| 
 | 20230223T02:54:54Z | An automated testing tool to fuzz JavaScript transpiler | https://github.com/clhiker/TransFuzz | 0 | 0| 
-| 20230223T02:50:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8396 | 1826| 
-| 20230223T02:15:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 248| 
-| 20230223T01:19:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 8790 | 983| 
-| 20230223T00:57:16Z | Null | https://github.com/sakshamio/fuzzy-carnival | 0 | 0| 
-| 20230222T22:38:16Z | Just for fun | https://github.com/Cludstreem/fuzzy | 0 | 0| 
-| 20230222T20:48:40Z | Fuzzy control project from the 2021 course on Artificial Intelligence and Expert Systems (AIES) | https://github.com/SLR-96/AIES2021_Fuzzy | 0 | 0| 
-| 20230222T20:29:57Z | Implementation of a Fuzzer for libspdm | https://github.com/decarv/libspdm-fuzzer | 0 | 0| 
-| 20230222T19:53:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 37| 
-| 20230222T18:55:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 1| 
 
 
 
