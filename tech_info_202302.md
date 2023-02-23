@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230223T01:42:20Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
+| 20230223T01:48:23Z | CVE-2023-23752 | CVE-2023-23752 poc | https://github.com/wangking1/CVE-2023-23752-poc | | 
 | 20230223T01:38:55Z | CVE-2023-22809 | Null | https://github.com/M4fiaB0y/CVE-2023-22809 | | 
 | 20230223T01:33:35Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230223T00:42:39Z | CVE-2023-21839 | Null | https://github.com/Scarehehe/Weblogic-CVE-2023-21839 | | 
