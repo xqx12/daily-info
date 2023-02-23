@@ -96,10 +96,10 @@
 | 20230222T19:53:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 258 | 37| 
 | 20230222T19:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8394 | 1826| 
 | 20230222T18:55:43Z | Tools for engineering features for fuzzy matching and entity resolution between two datasets. | https://github.com/patricknormile/fuzzy-feature-foundry | 0 | 1| 
-| 20230222T17:06:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1948 | 248| 
 | 20230222T13:58:34Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 167 | 20| 
 | 20230222T13:23:09Z | Null | https://github.com/oniretis/fuzzy-computing-machine | 0 | 0| 
 | 20230222T13:18:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 44966 | 22338| 
+| 20230222T11:47:16Z | Null | https://github.com/Frattolevrai/fuzzy-giggle | 0 | 0| 
 
 
 
