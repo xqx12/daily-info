@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T01:18:06Z | Null | https://github.com/RizzyFuzz/RizzyFuzz | 0 | 0| 
 | 20230224T01:10:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 249| 
 | 20230224T00:54:18Z | Null | https://github.com/jaggs79/fuzzy-spoon | 0 | 0| 
 | 20230223T22:55:31Z | Shift Planning Tool | https://github.com/FelixRohr/fuzzy-carnival | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230223T13:23:53Z | my first repository - test - itroduction to version control with Git | https://github.com/SofieBT2/fuzzy-lamp | 0 | 0| 
 | 20230223T13:23:50Z | DOM fuzzer | https://github.com/googleprojectzero/domato | 1503 | 287| 
 | 20230223T12:49:56Z | cool decription  | https://github.com/baarb02/fuzzy-octo-waddle | 0 | 0| 
-| 20230223T11:06:37Z | Repo contains implementations of fuzzy logic structures and operations, implementation of neural networks and genetic algorithms. They are first tested separately and then combines in various ways. | https://github.com/gister9000/Combining-fuzzy-logic-neural-networks-and-genetic-algorithm | 1 | 0| 
 
 
 
