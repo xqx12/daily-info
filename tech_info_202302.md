@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T01:25:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 249| 
 | 20230224T01:18:06Z | Null | https://github.com/RizzyFuzz/RizzyFuzz | 0 | 0| 
-| 20230224T01:10:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 249| 
 | 20230224T00:54:18Z | Null | https://github.com/jaggs79/fuzzy-spoon | 0 | 0| 
 | 20230223T22:55:31Z | Shift Planning Tool | https://github.com/FelixRohr/fuzzy-carnival | 0 | 0| 
 | 20230223T19:33:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1279 | 170| 
