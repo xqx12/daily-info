@@ -39,7 +39,7 @@
 | 20230223T12:17:16Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230223T07:16:25Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
 | 20230223T06:21:08Z | CVE-2022-30507 | PoC for Arbitrary Code Execution in Notable | https://github.com/yosef0x01/CVE-2022-30507 | | 
-| 20230223T04:44:25Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
+| 20230223T03:40:25Z | CVE-2023-0297 | pyLoad versions prior to 0.5.0b3.dev31 are vulnerable to Python code injection due to the pyimport functionality exposed through the js2py library. | https://github.com/b11y/CVE-2023-0297 | | 
 
 
 # klee on Github 推荐
