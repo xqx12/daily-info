@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T01:33:35Z | Just some exploit tools can be used in Grey Hack | https://github.com/thomasbad/GreyHackNoobTools | 0 | 0| 
 | 20230224T01:10:58Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 65 | 7| 
 | 20230223T23:50:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5m | 1 | 0| 
 | 20230223T23:49:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5m | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20230223T21:55:10Z | Latest Chrome PoC for RCE code execution | https://github.com/grandDancer/Chrome-CVE-PoC | 4 | 1| 
 | 20230223T21:16:59Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
 | 20230223T13:33:40Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 54 | 3| 
-| 20230223T12:53:12Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5038 | 1704| 
 
 
 # backdoor on Github 推荐
