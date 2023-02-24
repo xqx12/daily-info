@@ -57,10 +57,10 @@
 | 20230224T09:15:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12784 | 2184| 
 | 20230224T09:05:30Z | Fixes an oversight with the td_buyback command leading to infinite money | https://github.com/rowedahelicon/MvM-Cash-Exploit-Fix | 0 | 0| 
 | 20230224T08:13:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 578 | 156| 
+| 20230224T07:23:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5042 | 1705| 
 | 20230224T05:13:15Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 7 | 3| 
 | 20230224T02:34:31Z | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | 2 | 0| 
 | 20230224T02:06:46Z | Grey hack tool. To exploit the mail configuration from PC with no open ports | https://github.com/thomasbad/rocmail | 0 | 0| 
-| 20230224T01:33:35Z | Just some exploit tools can be used in Grey Hack | https://github.com/thomasbad/GreyHackNoobTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T11:13:37Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 0 | 0| 
+| 20230224T10:22:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2168 | 606| 
 
 
 # big4 on Github 推荐
