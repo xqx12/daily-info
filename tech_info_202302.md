@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230224T13:35:00Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖，构造协议通过socket一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230224T12:43:04Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
 | 20230224T08:44:27Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE | https://github.com/hacats/CVE-2023-21839 | | 
@@ -55,7 +56,6 @@
 | 20230224T01:54:40Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
 | 20230224T01:33:15Z | CVE-2023-999993 | Null | https://github.com/yrtsec/CVE-2023-999993 | | 
 | 20230223T21:08:53Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
-| 20230223T17:08:36Z | CVE-2020-0418 | Null | https://github.com/fernandodruszcz/CVE-2020-0418 | | 
 
 
 # klee on Github 推荐
