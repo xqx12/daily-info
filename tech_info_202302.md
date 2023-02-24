@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230224T02:32:22Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
+| 20230224T02:34:31Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230224T02:09:20Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T01:58:18Z | CVE-2023-999992 | Null | https://github.com/yrtsec/CVE-2023-999992 | | 
 | 20230224T01:54:40Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
