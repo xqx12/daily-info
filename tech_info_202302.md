@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230224T02:01:03Z | Grey hack tool. To exploit the mail configuration from PC with no open ports | https://github.com/thomasbad/rocmail | 0 | 0| 
+| 20230224T02:06:46Z | Grey hack tool. To exploit the mail configuration from PC with no open ports | https://github.com/thomasbad/rocmail | 0 | 0| 
 | 20230224T01:33:35Z | Just some exploit tools can be used in Grey Hack | https://github.com/thomasbad/GreyHackNoobTools | 0 | 0| 
 | 20230224T01:10:58Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 65 | 7| 
 | 20230223T23:50:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5m | 1 | 0| 
