@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230224T01:31:56Z | CVE-2023-999993 | Null | https://github.com/yrtsec/CVE-2023-999993 | | 
 | 20230223T22:42:07Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230223T21:08:53Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 | 20230223T17:08:36Z | CVE-2020-0418 | Null | https://github.com/fernandodruszcz/CVE-2020-0418 | | 
@@ -55,7 +56,6 @@
 | 20230223T12:17:16Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230223T07:16:25Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
 | 20230223T06:21:08Z | CVE-2022-30507 | PoC for Arbitrary Code Execution in Notable | https://github.com/yosef0x01/CVE-2022-30507 | | 
-| 20230223T04:44:25Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
 
 
 # klee on Github 推荐
