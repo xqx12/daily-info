@@ -65,9 +65,9 @@
 | 20230223T23:32:47Z | Latest PyTorch Implementation of DeltaGRU & DeltaLSTM that Exploits Temporal Sparsity in Sequential Data | https://github.com/gaochangw/DeltaRNN | 1 | 0| 
 | 20230223T21:55:10Z | Latest Chrome PoC for RCE code execution | https://github.com/grandDancer/Chrome-CVE-PoC | 4 | 1| 
 | 20230223T21:16:59Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
-| 20230223T20:22:48Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 64 | 6| 
 | 20230223T13:33:40Z | Injections and exploits for ChatBots, a curated list of prompt commands | https://github.com/Cranot/chatbot-injections-exploits | 54 | 3| 
 | 20230223T12:53:12Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5038 | 1704| 
+| 20230223T11:58:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5285 | 735| 
 
 
 # backdoor on Github 推荐
@@ -104,7 +104,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230223T22:55:31Z | Shift Planning Tool | https://github.com/FelixRohr/fuzzy-carnival | 0 | 0| 
-| 20230223T22:31:29Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1947 | 249| 
 | 20230223T19:33:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1279 | 170| 
 | 20230223T19:07:51Z | Null | https://github.com/AlexCallenderInTimeTec/fuzzy-system | 0 | 0| 
 | 20230223T13:24:10Z | Introduction to version control with Git (Applied) :]] | https://github.com/baarb02/-fuzzy-octo-waddle | 0 | 0| 
@@ -113,6 +112,7 @@
 | 20230223T12:49:56Z | cool decription  | https://github.com/baarb02/fuzzy-octo-waddle | 0 | 0| 
 | 20230223T11:06:37Z | Repo contains implementations of fuzzy logic structures and operations, implementation of neural networks and genetic algorithms. They are first tested separately and then combines in various ways. | https://github.com/gister9000/Combining-fuzzy-logic-neural-networks-and-genetic-algorithm | 1 | 0| 
 | 20230223T11:00:24Z | Null | https://github.com/HelloAllen11/fuzz_dict | 0 | 0| 
+| 20230223T10:13:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3418 | 412| 
 
 
 
