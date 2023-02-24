@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T02:34:31Z | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | 2 | 0| 
 | 20230224T02:06:46Z | Grey hack tool. To exploit the mail configuration from PC with no open ports | https://github.com/thomasbad/rocmail | 0 | 0| 
 | 20230224T01:33:35Z | Just some exploit tools can be used in Grey Hack | https://github.com/thomasbad/GreyHackNoobTools | 0 | 0| 
 | 20230224T01:10:58Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 65 | 7| 
@@ -98,7 +99,6 @@
 | 20230223T23:45:36Z | Soure code for the paper, entitled %Exploiting Semantic Localization in Highly Dynamic Wireless Networks using Deep Homoscedastic Domain Adaptation%  | https://github.com/Leo-Chu/SemanticLoc | 0 | 0| 
 | 20230223T23:32:47Z | Latest PyTorch Implementation of DeltaGRU & DeltaLSTM that Exploits Temporal Sparsity in Sequential Data | https://github.com/gaochangw/DeltaRNN | 1 | 0| 
 | 20230223T21:55:10Z | Latest Chrome PoC for RCE code execution | https://github.com/grandDancer/Chrome-CVE-PoC | 4 | 1| 
-| 20230223T21:16:59Z | 🎯 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 86 | 39| 
 
 
 # backdoor on Github 推荐
