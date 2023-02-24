@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T13:34:48Z | Proof-of-Concept Exploits Based On Known CVE%s | https://github.com/SirCryptic/PoC | 0 | 0| 
 | 20230224T13:24:24Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 2 | 1| 
 | 20230224T11:22:01Z | Null | https://github.com/Pratikbhatkulkar23/binary_exploit | 0 | 0| 
 | 20230224T11:00:48Z | Null | https://github.com/l1crust/Exploits | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20230224T07:23:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5042 | 1705| 
 | 20230224T05:13:15Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 7 | 3| 
 | 20230224T02:34:31Z | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | 2 | 0| 
-| 20230224T02:06:46Z | Grey hack tool. To exploit the mail configuration from PC with no open ports | https://github.com/thomasbad/rocmail | 0 | 0| 
 
 
 # backdoor on Github 推荐
