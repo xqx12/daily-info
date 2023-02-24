@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230224T01:58:18Z | CVE-2023-999992 | Null | https://github.com/yrtsec/CVE-2023-999992 | | 
 | 20230224T01:54:40Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
 | 20230224T01:33:55Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T01:33:15Z | CVE-2023-999993 | Null | https://github.com/yrtsec/CVE-2023-999993 | | 
@@ -55,7 +56,6 @@
 | 20230223T16:13:47Z | CVE-2023-999991 | Null | https://github.com/yrtsec/CVE-2023-999991 | | 
 | 20230223T15:10:49Z | CVE-2021-42756 | Null | https://github.com/3ndorph1n/CVE-2021-42756 | | 
 | 20230223T12:48:12Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230223T12:17:16Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/Blacking000/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
