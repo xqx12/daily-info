@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230224T12:34:49Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 1 | 1| 
+| 20230224T13:24:24Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 2 | 1| 
 | 20230224T11:22:01Z | Null | https://github.com/Pratikbhatkulkar23/binary_exploit | 0 | 0| 
 | 20230224T11:00:48Z | Null | https://github.com/l1crust/Exploits | 0 | 0| 
 | 20230224T09:15:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12784 | 2184| 
