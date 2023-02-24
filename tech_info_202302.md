@@ -15,6 +15,7 @@
 | 20230223 | 使用NtQueueApcThreadEx向windows进程注入任意shellcode，可以用于bypass部分终端安全检测 | https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection| 
 | 20230223 | 使用OPENAI达芬奇模型(ChatGPT的背后模型)分析shellcode的功能 | https://www.archcloudlabs.com/projects/shellcode_gpt/| 
 | 20230223 | Amazon的语言模型仅使用1 billion个参数就可以达到91.68%的准确率，超过了用了175 billion个参数的GPT-3.5（准确率75.17%），该模型已开源。 | https://arxiv.org/pdf/2302.00923.pdf| 
+| 20230223 | 安全研究员Man Yue Mo通过分析调试时出现的GPU执行错误，发现了一个由于CPU缓存和物理内存不一致导致的信息泄露漏洞，该漏洞通过读取物理内存中的脏数据导致可以泄露用户态、内核数据，本文中介绍了一种如何利用该漏洞绕过KASLR 的方法。 | http://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/| 
 | 20230222 | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch| 
 | 20230222 | 作者审计了vscode中的两款插件，利用插件中的XSS漏洞，以DNS rebind、dns-prefetch等方法绕过保护，从而达到泄露ssh私钥发送给攻击者的攻击效果。 | http://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/| 
 | 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
@@ -25,7 +26,6 @@
 | 20230221 | python重写的DPAPI渗透工具 | https://www.reddit.com/r/netsec/comments/1179msr/github_zblurxdploot_dpapi_looting_remotely_in/| 
 | 20230221 | Colossal-AI，开源语言模型，与ChatGPT使用相同的实现，使用个人可以负担得起的资源即可训练 | https://www.hpc-ai.tech/blog/colossal-ai-chatgpt| 
 | 20230221 | 面向编译器开发者的安全知识库，包括内存破坏类攻击，侧信道攻击，物理攻击等 | https://llsoftsec.github.io/llsoftsecbook/| 
-| 20230221 | TrueBot Analysis Part II - Static unpacker | https://malware.love/malware_analysis/reverse_engineering/2023/02/18/analyzing-truebot-static-unpacking.html| 
 
 
 # 安全维基 推荐
