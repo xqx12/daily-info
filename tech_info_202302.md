@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230224T02:09:20Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T01:58:18Z | CVE-2023-999992 | Null | https://github.com/yrtsec/CVE-2023-999992 | | 
 | 20230224T01:54:40Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
-| 20230224T01:33:55Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T01:33:15Z | CVE-2023-999993 | Null | https://github.com/yrtsec/CVE-2023-999993 | | 
 | 20230223T22:42:07Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230223T21:08:53Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
