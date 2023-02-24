@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230224T13:35:00Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖，构造协议通过socket一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230224T13:37:18Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230224T12:43:04Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
 | 20230224T08:44:27Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE | https://github.com/hacats/CVE-2023-21839 | | 
@@ -38,8 +38,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T13:37:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2169 | 606| 
 | 20230224T11:42:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10794 | 349| 
-| 20230224T10:22:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2168 | 606| 
 | 20230224T00:05:46Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
 
 
@@ -76,8 +76,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230224T13:37:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2169 | 606| 
 | 20230224T11:13:37Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 0 | 0| 
-| 20230224T10:22:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2168 | 606| 
 
 
 # big4 on Github 推荐
