@@ -89,7 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230224T11:11:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 261 | 37| 
+| 20230224T11:11:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 261 | 36| 
 | 20230224T10:23:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8399 | 1828| 
 | 20230224T10:02:00Z | Null | https://github.com/awwaoeing/fuzzy-eureka | 0 | 0| 
 | 20230224T09:48:00Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1568 | 268| 
