@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T02:27:59Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230225T01:05:40Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230225T02:31:35Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T02:30:05Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230224T15:47:28Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
 | 20230224T08:44:27Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE | https://github.com/hacats/CVE-2023-21839 | | 
@@ -149,6 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T02:29:26Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions | 0 | 0| 
+| 20230225T02:29:13Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2095 | 34| 
 | 20230225T02:27:07Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions- | 0 | 0| 
 | 20230225T01:24:44Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 200 | 51| 
 | 20230225T00:26:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1950 | 250| 
@@ -157,8 +159,6 @@
 | 20230224T20:36:25Z | Null | https://github.com/pbaity/fuzzy-barnacle | 0 | 0| 
 | 20230224T19:54:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1280 | 171| 
 | 20230224T19:45:50Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1658 | 320| 
-| 20230224T19:05:35Z | Fuzzy approach to solving Traveling Salesman Problem | https://github.com/Via-R/fuzzy-tsp | 0 | 0| 
-| 20230224T17:36:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2094 | 34| 
 
 
 
