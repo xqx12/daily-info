@@ -56,11 +56,11 @@
 | 20230224T22:57:36Z | Null | https://github.com/aarora4/Exploit-DoS-8803 | 0 | 0| 
 | 20230224T22:33:57Z | Simple Copy Exploit/Trick Demonstration  | https://github.com/djamysh/SimpleCopyExploitDemonstration | 0 | 0| 
 | 20230224T21:14:30Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 82 | 40| 
-| 20230224T16:22:34Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8168 | 1889| 
 | 20230224T13:34:48Z | Proof-of-Concept Exploits Based On Known CVE%s | https://github.com/SirCryptic/PoC | 0 | 0| 
 | 20230224T13:24:24Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 2 | 1| 
 | 20230224T11:22:01Z | Null | https://github.com/Pratikbhatkulkar23/binary_exploit | 0 | 0| 
 | 20230224T11:00:48Z | Null | https://github.com/l1crust/Exploits | 0 | 0| 
+| 20230224T09:15:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12784 | 2184| 
 
 
 # backdoor on Github 推荐
