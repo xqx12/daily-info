@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T13:41:39Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T13:57:09Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 | 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230225T11:03:29Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T13:54:50Z | Null | https://github.com/Longstone-tech/Samba-smbd-3.x--4.x-Exploit | 0 | 0| 
 | 20230225T13:27:19Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 1 | 0| 
 | 20230225T12:45:02Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 4 | 1| 
 | 20230225T12:09:27Z | Null | https://github.com/zftang/Exploiting-the-Fairness-Utility-Tradeoff-for-Mitigating-Un-predefined-Bias-in-Machine-Classification | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230225T10:28:05Z | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | 127 | 6| 
 | 20230225T10:10:34Z | GitOps Repository | https://github.com/northdepot/devfile-sample-dotnet60-basic-NA_QT-exploit-send | 0 | 0| 
 | 20230225T03:15:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
-| 20230225T01:58:53Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5294 | 735| 
 
 
 # backdoor on Github 推荐
