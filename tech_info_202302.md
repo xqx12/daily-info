@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T02:27:07Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions- | 0 | 0| 
 | 20230225T01:24:44Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 200 | 51| 
 | 20230225T00:26:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1950 | 250| 
 | 20230224T22:27:07Z | Null | https://github.com/robot-tie/fuzzy | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20230224T19:45:50Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1658 | 320| 
 | 20230224T19:05:35Z | Fuzzy approach to solving Traveling Salesman Problem | https://github.com/Via-R/fuzzy-tsp | 0 | 0| 
 | 20230224T17:36:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2094 | 34| 
-| 20230224T17:23:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3425 | 413| 
 
 
 
