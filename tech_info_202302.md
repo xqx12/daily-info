@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T01:24:44Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 200 | 51| 
 | 20230225T00:26:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1950 | 250| 
 | 20230224T22:27:07Z | Null | https://github.com/robot-tie/fuzzy | 0 | 0| 
 | 20230224T20:45:51Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 2 | 0| 
@@ -158,7 +159,6 @@
 | 20230224T19:05:35Z | Fuzzy approach to solving Traveling Salesman Problem | https://github.com/Via-R/fuzzy-tsp | 0 | 0| 
 | 20230224T17:36:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2094 | 34| 
 | 20230224T13:50:08Z | Null | https://github.com/HuyNguyen271/Fuzzy_logic | 0 | 0| 
-| 20230224T11:11:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 261 | 36| 
 
 
 
