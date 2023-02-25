@@ -83,7 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230225T12:50:14Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
+| 20230225T13:55:00Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 15 | 1| 
+| 20230225T13:54:06Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
 | 20230225T12:44:34Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 0 | 0| 
 | 20230225T12:22:34Z | Null | https://github.com/cuongle2002/fuzzy-week-4 | 0 | 0| 
 | 20230225T11:12:07Z | Null | https://github.com/TangNgheQuangHuy/TangNgheQuangHuy-20146255-fuzzylogic | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230225T02:29:26Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions | 0 | 0| 
 | 20230225T02:29:13Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2095 | 34| 
 | 20230225T02:27:07Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions- | 0 | 0| 
-| 20230225T01:24:44Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 200 | 51| 
 
 
 
