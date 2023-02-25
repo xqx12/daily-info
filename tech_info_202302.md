@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230225 | 云原生安全峰会原始PPTX | https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/schedule/| 
+| 20230225 | 2022年ABC123公众号年刊_PDF | https://pan.baidu.com/s/1Dpcrte795U5myCckVANyZg?pwd=1234| 
+| 20230225 | 云原生安全峰会原始PPTX | /news/31046| 
 | 20230224 | [HTB] NodeBlog Writeup | https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw| 
 | 20230224 | 2022年度BOTNET趋势报告 | https://book.yunzhan365.com/tkgd/ikxy/mobile/index.html| 
 | 20230224 | 个人信息出境标准合同办法 | https://mp.weixin.qq.com/s/5T7pCReDif6tzCd56m3zKA| 
@@ -38,29 +41,27 @@
 | 20230223 | 从攻击视角探讨ChatGPT对网络安全的影响 | https://mp.weixin.qq.com/s/ph5GnQFIGcSzi-9H-YlJTA| 
 | 20230223 | 2022年度反诈报告 | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA| 
 | 20230223 | 2022网络金融黑产研究报告 | https://mp.weixin.qq.com/s/tQE0BtclxX6McZRoO5MKVg| 
-| 20230223 | 一种基于网络流量风险数据聚类的APT攻击溯源方法 | https://mp.weixin.qq.com/s/Mg-eC9NOThERVu_fjBOzkw| 
-| 20230222 | 精准EDR能力白皮书 | https://www.dwcon.cn/uploads/file/2023/02/21/1676967277745514.pdf| 
-| 20230222 | 如何研究一家网络安全公司？ | https://mp.weixin.qq.com/s/YNuzTwVrINd3eSWlHGVMFQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T02:32:34Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230225T02:30:05Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230224T15:47:28Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
+| 20230225T12:45:29Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
+| 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
+| 20230225T11:03:29Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230225T09:38:48Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230225T06:56:07Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
+| 20230225T03:21:02Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
 | 20230224T08:44:27Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE | https://github.com/hacats/CVE-2023-21839 | | 
-| 20230224T02:34:31Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230224T01:58:18Z | CVE-2023-999992 | Null | https://github.com/yrtsec/CVE-2023-999992 | | 
-| 20230224T01:54:40Z | CVE-2023-23752 | CVE-2023-23752 Joomla 未授权访问漏洞 poc | https://github.com/ifacker/CVE-2023-23752-Joomla | | 
-| 20230224T01:33:15Z | CVE-2023-999993 | Null | https://github.com/yrtsec/CVE-2023-999993 | | 
-| 20230223T21:08:53Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T04:30:48Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 20 | 11| 
 | 20230225T02:18:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10798 | 349| 
 | 20230224T14:10:15Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230224T13:37:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2169 | 606| 
@@ -70,7 +71,6 @@
 | 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
 | 20230219T09:21:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 | 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
-| 20230217T00:08:13Z | Null | https://github.com/jswayman571/GetKleend | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,21 +90,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T12:45:02Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 4 | 1| 
+| 20230225T12:27:03Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 0 | 0| 
+| 20230225T12:09:27Z | Null | https://github.com/zftang/Exploiting-the-Fairness-Utility-Tradeoff-for-Mitigating-Un-predefined-Bias-in-Machine-Classification | 0 | 0| 
+| 20230225T11:11:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4027 | 501| 
+| 20230225T10:40:45Z | Null | https://github.com/khanhdz191/linux-kernel-exploitation | 0 | 0| 
+| 20230225T10:28:05Z | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | 127 | 6| 
+| 20230225T10:10:34Z | GitOps Repository | https://github.com/northdepot/devfile-sample-dotnet60-basic-NA_QT-exploit-send | 0 | 0| 
+| 20230225T03:15:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
 | 20230225T01:58:53Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5294 | 735| 
 | 20230225T01:12:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8169 | 1889| 
-| 20230225T00:48:36Z | A bash script I use when I am performing any return oriented programming exploits | https://github.com/dilldylanpickle/ROPchecker | 0 | 0| 
-| 20230225T00:20:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2k | 1 | 0| 
-| 20230225T00:19:08Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2k | 1 | 0| 
-| 20230225T00:18:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2k | 1 | 0| 
-| 20230224T23:41:57Z | Welcome to this tutorial series on ARM assembly basics. This is the preparation for the followup tutorial series on ARM exploit development. Before we can dive into creating ARM shellcode and build ROP chains, we need to cover some ARM Assembly basics first. | https://github.com/guyb27/asm_arm_with_Azeria | 0 | 0| 
-| 20230224T23:28:19Z | Null | https://github.com/1337x0/rExploit | 0 | 0| 
-| 20230224T22:57:36Z | Null | https://github.com/aarora4/Exploit-DoS-8803 | 0 | 0| 
-| 20230224T22:33:57Z | Simple Copy Exploit/Trick Demonstration  | https://github.com/djamysh/SimpleCopyExploitDemonstration | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T10:05:19Z | Null | https://github.com/gegestalt/Backdoor | 0 | 0| 
+| 20230225T05:12:49Z | Null | https://github.com/khrisyu9/BackdoorDefenseDA | 0 | 0| 
+| 20230225T03:56:08Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 19 | 8| 
 | 20230225T02:49:23Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
 | 20230225T02:48:26Z | A server-side backdoor that can execute shell commands, capture and exfiltrate sensitive data, and persist across system reboots, designed for stealthy operation. | https://github.com/pneb/Stealth-Backdoor | 0 | 0| 
 | 20230224T23:11:48Z | (2/24/23) this is my first discord bot, its a backdoor, in order for a victim to execute it they would need the filelink url, simply drop the .py file onto discord and copy it, before you paste the url put %curl% and after put %-o main.py && py main.py% | https://github.com/qoudaq/first-malware | 0 | 0| 
@@ -112,9 +115,6 @@
 | 20230224T21:01:12Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 113 | 14| 
 | 20230224T20:25:55Z | Null | https://github.com/ain-soph/nas_backdoor | 0 | 0| 
 | 20230224T18:19:55Z | backdoor simples (não finalizado) usando a biblioteca socket | https://github.com/boloto1979/v01_backdoor | 0 | 0| 
-| 20230224T16:39:14Z | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | https://github.com/NajeebJebreel/DBALFA | 2 | 0| 
-| 20230224T16:37:55Z | Null | https://github.com/Carlos-CodeBot/Backdoor | 0 | 0| 
-| 20230224T05:17:03Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7500 | 1772| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T12:50:14Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
+| 20230225T12:44:34Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 0 | 0| 
+| 20230225T12:22:34Z | Null | https://github.com/cuongle2002/fuzzy-week-4 | 0 | 0| 
+| 20230225T11:12:07Z | Null | https://github.com/TangNgheQuangHuy/TangNgheQuangHuy-20146255-fuzzylogic | 0 | 0| 
+| 20230225T11:09:52Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 0 | 0| 
+| 20230225T10:07:44Z | Null | https://github.com/salehiali1374/Interval-Type-2-Fuzzy-Control-and-Stochastic-Modeling-of-COVID-19-Spread | 0 | 0| 
 | 20230225T02:29:26Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions | 0 | 0| 
 | 20230225T02:29:13Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2095 | 34| 
 | 20230225T02:27:07Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions- | 0 | 0| 
 | 20230225T01:24:44Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 200 | 51| 
-| 20230225T00:26:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1950 | 250| 
-| 20230224T22:27:07Z | Null | https://github.com/robot-tie/fuzzy | 0 | 0| 
-| 20230224T20:45:51Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 2 | 0| 
-| 20230224T20:36:25Z | Null | https://github.com/pbaity/fuzzy-barnacle | 0 | 0| 
-| 20230224T19:54:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1280 | 171| 
-| 20230224T19:45:50Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1658 | 320| 
 
 
 
