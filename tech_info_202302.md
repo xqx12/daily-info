@@ -93,13 +93,13 @@
 | 20230225T13:27:19Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 1 | 0| 
 | 20230225T12:45:02Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 4 | 1| 
 | 20230225T12:09:27Z | Null | https://github.com/zftang/Exploiting-the-Fairness-Utility-Tradeoff-for-Mitigating-Un-predefined-Bias-in-Machine-Classification | 0 | 0| 
+| 20230225T11:25:38Z | Simple Copy Exploit/Trick Demonstration  | https://github.com/djamysh/SimpleCopyExploitDemonstration | 1 | 0| 
 | 20230225T11:11:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4027 | 501| 
 | 20230225T10:40:45Z | Null | https://github.com/khanhdz191/linux-kernel-exploitation | 0 | 0| 
 | 20230225T10:28:05Z | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | 127 | 6| 
 | 20230225T10:10:34Z | GitOps Repository | https://github.com/northdepot/devfile-sample-dotnet60-basic-NA_QT-exploit-send | 0 | 0| 
 | 20230225T03:15:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
 | 20230225T01:58:53Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5294 | 735| 
-| 20230225T01:12:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8169 | 1889| 
 
 
 # backdoor on Github 推荐
