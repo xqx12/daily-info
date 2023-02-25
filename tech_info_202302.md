@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T01:38:13Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T01:43:59Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230225T01:05:40Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230224T15:47:28Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
