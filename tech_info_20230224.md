@@ -102,9 +102,9 @@
 | 20230224T19:45:50Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1658 | 320| 
 | 20230224T19:05:35Z | Fuzzy approach to solving Traveling Salesman Problem | https://github.com/Via-R/fuzzy-tsp | 0 | 0| 
 | 20230224T17:36:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2094 | 34| 
+| 20230224T17:23:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3425 | 413| 
 | 20230224T13:50:08Z | Null | https://github.com/HuyNguyen271/Fuzzy_logic | 0 | 0| 
 | 20230224T11:11:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 261 | 36| 
-| 20230224T10:23:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8399 | 1828| 
 
 
 
