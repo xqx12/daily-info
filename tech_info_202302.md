@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T13:33:19Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T13:41:39Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 | 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230225T11:03:29Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230225T10:05:19Z | Null | https://github.com/gegestalt/Backdoor | 0 | 0| 
+| 20230225T13:40:38Z | Null | https://github.com/gegestalt/Backdoor | 0 | 0| 
 | 20230225T05:12:49Z | Null | https://github.com/khrisyu9/BackdoorDefenseDA | 0 | 0| 
 | 20230225T03:56:08Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 19 | 8| 
 | 20230225T02:49:23Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
