@@ -69,12 +69,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T11:49:29Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 22 | 14| 
+| 20230225T06:55:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3331 | 472| 
 | 20230225T00:41:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 299 | 74| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T10:19:15Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 9 | 1| 
 
 
 # fuzz on Github 推荐
