@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T13:27:19Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 1 | 0| 
 | 20230225T12:45:02Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 4 | 1| 
-| 20230225T12:27:03Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 0 | 0| 
 | 20230225T12:09:27Z | Null | https://github.com/zftang/Exploiting-the-Fairness-Utility-Tradeoff-for-Mitigating-Un-predefined-Bias-in-Machine-Classification | 0 | 0| 
 | 20230225T11:11:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4027 | 501| 
 | 20230225T10:40:45Z | Null | https://github.com/khanhdz191/linux-kernel-exploitation | 0 | 0| 
