@@ -101,10 +101,10 @@
 | 20230224T19:54:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1280 | 171| 
 | 20230224T19:45:50Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1658 | 320| 
 | 20230224T19:05:35Z | Fuzzy approach to solving Traveling Salesman Problem | https://github.com/Via-R/fuzzy-tsp | 0 | 0| 
+| 20230224T17:36:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2094 | 34| 
 | 20230224T13:50:08Z | Null | https://github.com/HuyNguyen271/Fuzzy_logic | 0 | 0| 
 | 20230224T11:11:33Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 261 | 36| 
 | 20230224T10:23:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8399 | 1828| 
-| 20230224T10:02:00Z | Null | https://github.com/awwaoeing/fuzzy-eureka | 0 | 0| 
 
 
 
