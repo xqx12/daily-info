@@ -105,6 +105,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T02:49:23Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
+| 20230225T02:48:26Z | A server-side backdoor that can execute shell commands, capture and exfiltrate sensitive data, and persist across system reboots, designed for stealthy operation. | https://github.com/pneb/Stealth-Backdoor | 0 | 0| 
 | 20230224T23:11:48Z | (2/24/23) this is my first discord bot, its a backdoor, in order for a victim to execute it they would need the filelink url, simply drop the .py file onto discord and copy it, before you paste the url put %curl% and after put %-o main.py && py main.py% | https://github.com/qoudaq/first-malware | 0 | 0| 
 | 20230224T21:50:01Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 112 | 28| 
 | 20230224T21:01:12Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 113 | 14| 
@@ -113,8 +115,6 @@
 | 20230224T16:39:14Z | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | https://github.com/NajeebJebreel/DBALFA | 2 | 0| 
 | 20230224T16:37:55Z | Null | https://github.com/Carlos-CodeBot/Backdoor | 0 | 0| 
 | 20230224T05:17:03Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7500 | 1772| 
-| 20230224T00:25:12Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 14 | 7| 
-| 20230224T00:23:32Z | R package for backdoor criterion causal effect analysis  | https://github.com/ads303/causal.inf | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
