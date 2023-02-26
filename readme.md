@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T13:45:01Z | rain is falling, binaries are being exploited, we are happy | https://github.com/kmeixner247/rainfall | 0 | 0| 
 | 20230226T13:08:49Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 16 | 3| 
 | 20230226T12:59:53Z | This is a simple python script, that permits sqlmap to exploit the WebSocket(HackTheBox Soccer.htb only) | https://github.com/Crypt0Ninja/SoccerHTBMiddleServer | 0 | 0| 
 | 20230226T12:43:48Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20230226T11:35:45Z | 🔰 〢 Features ALL OF THIS FROM A SIMPLE IMAGE FILE SENT THROUGH DISCORD:  Steal Chrome Passwords  / Cookies / History Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord Bypass TokenProtector / BetterDiscord Custom Installer / Setuper Icon / Name / Description Customizable Cookies Exploiter Tech (💎) | https://github.com/veloxxx77/IKUZI-imagge-logger | 0 | 0| 
 | 20230226T11:35:05Z | 🔰 〢 Features ALL OF THIS FROM A SIMPLE IMAGE FILE SENT THROUGH DISCORD:  Steal Chrome Passwords / Cookies / History Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord Bypass TokenProtector / BetterDiscord Custom Installer / Setuper Icon / Name / Description Customizable Cookies Exploiter Tech (💎) | https://github.com/veloxxx77/IKUZI-image-logger | 0 | 0| 
 | 20230226T11:19:23Z | Click here to cached 672 exploit host for your PS4 : andyxforce707.github.io/PS4-exploit-host-for-firmware-672/index.html | https://github.com/andyxforce707/PS4-exploit-host-for-firmware-672 | 0 | 0| 
-| 20230226T10:44:08Z | Null | https://github.com/Slayy2357/Clash-Royale-Exploit-v1.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
