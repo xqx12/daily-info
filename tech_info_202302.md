@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T13:50:44Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T13:54:57Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230226T13:36:06Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230226T13:29:28Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230226T11:37:11Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
@@ -150,10 +150,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T13:56:22Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 2 | 0| 
 | 20230226T13:43:30Z | Null | https://github.com/bachthang02/fuzzylogic.github.io | 0 | 0| 
 | 20230226T13:18:44Z | Bài tập AI 4 - Fuzzy logic | https://github.com/tranhuulong0412/BaiTapAI_4_FUZZY_LOGIC | 0 | 0| 
 | 20230226T12:38:20Z | https://colab.research.google.com/drive/1bkQTP_vI6-iqyofSwPi0cmHDMNTYqiRY#scrollTo=DyiIxLxIZk8- | https://github.com/HuyHoang-20146252/AI_W4_Fuzzy_25_02_03 | 0 | 0| 
-| 20230226T12:27:04Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
 | 20230226T12:05:14Z | Null | https://github.com/ygeee/fuzzy-octo-robot | 0 | 0| 
 | 20230226T11:45:24Z | learning | https://github.com/s3lvan/fuzzy-octo-parakeet | 0 | 0| 
 | 20230226T10:02:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3449 | 689| 
