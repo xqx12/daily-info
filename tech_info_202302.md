@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230226T02:47:39Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230226T02:33:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
-| 20230226T02:26:44Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230226T02:22:52Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
 | 20230225T19:16:26Z | cve-2021-23358 | Detection script for cve-2021-23358 | https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358 | | 
@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:37:01Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
+| 20230226T02:48:13Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
 | 20230226T02:23:28Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/google.basyiri.my.id | 1 | 0| 
 | 20230226T01:48:34Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/twitter.basyiri.my.id | 1 | 0| 
 | 20230226T01:27:55Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/facebook.basyiri.my.id | 1 | 0| 
