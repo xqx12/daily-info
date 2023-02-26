@@ -99,7 +99,7 @@
 | 20230225T22:43:16Z | Framework for rapid development and reusable of offensive security tools | https://github.com/htrgouvea/spellbook | 72 | 17| 
 | 20230225T21:41:37Z | Common classees of AndroidExploits project | https://github.com/ChickenHook/AndroidExploits-Common | 0 | 0| 
 | 20230225T21:20:05Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 40 | 2| 
-| 20230225T13:54:50Z | Null | https://github.com/Longstone-tech/Samba-smbd-3.x--4.x-Exploit | 0 | 0| 
+| 20230225T15:27:03Z | Rusty Process Injection and Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 70 | 13| 
 
 
 # backdoor on Github 推荐
