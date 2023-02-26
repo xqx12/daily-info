@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:32:26Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
+| 20230226T02:33:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
 | 20230226T02:26:44Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230226T02:22:52Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T02:28:32Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
 | 20230226T02:23:28Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/google.basyiri.my.id | 1 | 0| 
 | 20230226T01:48:34Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/twitter.basyiri.my.id | 1 | 0| 
 | 20230226T01:27:55Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/facebook.basyiri.my.id | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20230225T18:47:26Z | Shell backdoor wibuhaxor | https://github.com/Ok7v/wibuhaxor1337.github.io | 1 | 0| 
 | 20230225T15:59:29Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
 | 20230225T15:30:07Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
-| 20230225T14:05:19Z | Null | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
