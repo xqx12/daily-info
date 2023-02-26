@@ -120,7 +120,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230226T01:47:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3333 | 472| 
+| 20230226T06:23:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3333 | 472| 
 | 20230225T17:45:08Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 189 | 43| 
 | 20230225T16:39:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 35 | 24| 
 | 20230225T15:54:26Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 2 | 0| 
