@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230226T02:32:26Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
 | 20230226T02:26:44Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230226T02:22:52Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
@@ -55,7 +56,6 @@
 | 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 | 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230225T03:21:02Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
-| 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T02:23:58Z | Rusty Process Injection / Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 70 | 13| 
 | 20230226T02:17:30Z | Null | https://github.com/jtriley-eth/counter-exploit-toolkit | 18 | 2| 
 | 20230226T00:52:31Z | Group coursework for operating systems module. Project baaed on Pintos Project 2. Implementation of argument passing onto stack and five system calls were required in addition to exploits done on different system calls by each member of the group.  | https://github.com/amhawary/pintos-prj2 | 0 | 0| 
 | 20230225T23:49:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5p | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20230225T22:43:16Z | Framework for rapid development and reusable of offensive security tools | https://github.com/htrgouvea/spellbook | 72 | 17| 
 | 20230225T21:41:37Z | Common classees of AndroidExploits project | https://github.com/ChickenHook/AndroidExploits-Common | 0 | 0| 
 | 20230225T21:20:05Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 40 | 2| 
-| 20230225T15:27:03Z | Rusty Process Injection and Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 70 | 13| 
 
 
 # backdoor on Github 推荐
