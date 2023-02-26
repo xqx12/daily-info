@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T13:08:49Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 16 | 3| 
 | 20230226T12:59:53Z | This is a simple python script, that permits sqlmap to exploit the WebSocket(HackTheBox Soccer.htb only) | https://github.com/Crypt0Ninja/SoccerHTBMiddleServer | 0 | 0| 
-| 20230226T12:57:50Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 15 | 3| 
 | 20230226T12:43:48Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
 | 20230226T12:25:34Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
 | 20230226T11:49:44Z | Exploiting CVE-2020-1472 vulnerability (a.k.a Zerologon) without effort. | https://github.com/n3rada/zero-effort | 0 | 0| 
