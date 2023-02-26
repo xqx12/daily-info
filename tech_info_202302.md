@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T01:42:01Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/twitter.basyiri.my.id | 0 | 0| 
 | 20230226T01:27:55Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/facebook.basyiri.my.id | 1 | 0| 
 | 20230226T00:59:24Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/github.basyiri.my.id | 1 | 0| 
 | 20230225T23:51:59Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 5 | 0| 
@@ -114,7 +115,6 @@
 | 20230225T15:30:07Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
 | 20230225T14:05:19Z | Null | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
 | 20230225T13:40:38Z | Null | https://github.com/gegestalt/Backdoor | 0 | 0| 
-| 20230225T05:12:49Z | Null | https://github.com/khrisyu9/BackdoorDefenseDA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
