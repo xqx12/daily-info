@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T13:43:30Z | Null | https://github.com/bachthang02/fuzzylogic.github.io | 0 | 0| 
 | 20230226T13:18:44Z | Bài tập AI 4 - Fuzzy logic | https://github.com/tranhuulong0412/BaiTapAI_4_FUZZY_LOGIC | 0 | 0| 
 | 20230226T12:38:20Z | https://colab.research.google.com/drive/1bkQTP_vI6-iqyofSwPi0cmHDMNTYqiRY#scrollTo=DyiIxLxIZk8- | https://github.com/HuyHoang-20146252/AI_W4_Fuzzy_25_02_03 | 0 | 0| 
 | 20230226T12:27:04Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
@@ -159,7 +160,6 @@
 | 20230226T09:08:07Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 17 | 1| 
 | 20230226T01:07:33Z | Null | https://github.com/cpt61058/fuzzy-fiesta | 0 | 0| 
 | 20230225T23:01:22Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
-| 20230225T22:27:53Z | Null | https://github.com/msryannhawkins/fuzzy-barnacle | 0 | 0| 
 
 
 
