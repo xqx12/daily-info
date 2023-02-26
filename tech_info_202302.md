@@ -91,6 +91,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230226T00:52:31Z | Group coursework for operating systems module. Project baaed on Pintos Project 2. Implementation of argument passing onto stack and five system calls were required in addition to exploits done on different system calls by each member of the group.  | https://github.com/amhawary/pintos-prj2 | 0 | 0| 
+| 20230226T00:32:01Z | Null | https://github.com/jtriley-eth/counter-exploit-toolkit | 13 | 2| 
 | 20230225T23:49:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5p | 1 | 0| 
 | 20230225T23:48:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5p | 1 | 0| 
 | 20230225T23:47:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5p | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20230225T21:41:37Z | Common classees of AndroidExploits project | https://github.com/ChickenHook/AndroidExploits-Common | 0 | 0| 
 | 20230225T21:20:05Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 40 | 2| 
 | 20230225T13:54:50Z | Null | https://github.com/Longstone-tech/Samba-smbd-3.x--4.x-Exploit | 0 | 0| 
-| 20230225T13:27:19Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 1 | 0| 
 
 
 # backdoor on Github 推荐
