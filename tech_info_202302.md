@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T01:07:33Z | Null | https://github.com/cpt61058/fuzzy-fiesta | 0 | 0| 
 | 20230225T23:01:22Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
 | 20230225T22:27:53Z | Null | https://github.com/msryannhawkins/fuzzy-barnacle | 0 | 0| 
 | 20230225T21:37:23Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 8 | 1| 
@@ -157,9 +158,8 @@
 | 20230225T20:28:40Z | Scrimba React Router learning Course | https://github.com/Gauravkumario/fuzzy-adventure | 0 | 0| 
 | 20230225T20:06:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2097 | 35| 
 | 20230225T19:52:28Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
+| 20230225T17:02:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 26| 
 | 20230225T13:55:00Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 15 | 1| 
-| 20230225T13:54:06Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
-| 20230225T12:22:34Z | Null | https://github.com/cuongle2002/fuzzy-week-4 | 0 | 0| 
 
 
 
