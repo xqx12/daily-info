@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T01:32:42Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T01:37:02Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230225T23:53:39Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
 | 20230225T19:16:26Z | cve-2021-23358 | Detection script for cve-2021-23358 | https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358 | | 
