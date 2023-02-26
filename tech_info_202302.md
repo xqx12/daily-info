@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230225T13:57:09Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T00:17:02Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230225T23:53:39Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
+| 20230225T19:16:26Z | cve-2021-23358 | Detection script for cve-2021-23358 | https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358 | | 
+| 20230225T16:26:24Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
+| 20230225T15:03:25Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
 | 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
-| 20230225T11:03:29Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230225T09:38:48Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230225T06:56:07Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
 | 20230225T03:21:02Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230224T11:44:49Z | CVE-2020-14882 | 综合利用工具 | https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL | | 
-| 20230224T08:44:27Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE | https://github.com/hacats/CVE-2023-21839 | | 
-| 20230224T01:58:18Z | CVE-2023-999992 | Null | https://github.com/yrtsec/CVE-2023-999992 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T17:03:15Z | Null | https://github.com/kleelab/kleelab.github.io | 3 | 0| 
 | 20230225T04:30:48Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 20 | 11| 
 | 20230225T02:18:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10798 | 349| 
 | 20230224T14:10:15Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
@@ -70,14 +71,13 @@
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
 | 20230219T09:21:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
-| 20230218T22:54:48Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T15:54:26Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 2 | 0| 
 | 20230225T00:41:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 299 | 74| 
-| 20230224T14:32:12Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 1 | 0| 
 | 20230218T14:11:14Z | Exercise S2 - Pham Viet Duc | https://github.com/vietduc218/s2exercise | 0 | 0| 
 | 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230216T18:27:56Z | Null | https://github.com/SKyletoft/s2e-autocxx-error | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T00:52:31Z | Group coursework for operating systems module. Project baaed on Pintos Project 2. Implementation of argument passing onto stack and five system calls were required in addition to exploits done on different system calls by each member of the group.  | https://github.com/amhawary/pintos-prj2 | 0 | 0| 
+| 20230225T23:49:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5p | 1 | 0| 
+| 20230225T23:48:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5p | 1 | 0| 
+| 20230225T23:47:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5p | 1 | 0| 
+| 20230225T23:22:25Z | Burp Extension for Exploit Prediction Scoring System calculation of CVE vulnerabilities | https://github.com/cbk914/EPSS-Calculator | 0 | 0| 
+| 20230225T22:43:16Z | Framework for rapid development and reusable of offensive security tools | https://github.com/htrgouvea/spellbook | 72 | 17| 
+| 20230225T21:41:37Z | Common classees of AndroidExploits project | https://github.com/ChickenHook/AndroidExploits-Common | 0 | 0| 
+| 20230225T21:20:05Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 40 | 2| 
 | 20230225T13:54:50Z | Null | https://github.com/Longstone-tech/Samba-smbd-3.x--4.x-Exploit | 0 | 0| 
 | 20230225T13:27:19Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.  | https://github.com/dnyim/IllegalStack | 1 | 0| 
-| 20230225T12:45:02Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 4 | 1| 
-| 20230225T12:09:27Z | Null | https://github.com/zftang/Exploiting-the-Fairness-Utility-Tradeoff-for-Mitigating-Un-predefined-Bias-in-Machine-Classification | 0 | 0| 
-| 20230225T11:25:38Z | Simple Copy Exploit/Trick Demonstration  | https://github.com/djamysh/SimpleCopyExploitDemonstration | 1 | 0| 
-| 20230225T11:11:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4027 | 501| 
-| 20230225T10:40:45Z | Null | https://github.com/khanhdz191/linux-kernel-exploitation | 0 | 0| 
-| 20230225T10:28:05Z | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | 127 | 6| 
-| 20230225T10:10:34Z | GitOps Repository | https://github.com/northdepot/devfile-sample-dotnet60-basic-NA_QT-exploit-send | 0 | 0| 
-| 20230225T03:15:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T00:59:24Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/github.basyiri.my.id | 1 | 0| 
+| 20230225T23:51:59Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 5 | 0| 
+| 20230225T22:56:02Z | Remote Command executor | https://github.com/0xor0ne/recmd | 1 | 0| 
+| 20230225T18:47:26Z | Shell backdoor wibuhaxor | https://github.com/Ok7v/wibuhaxor1337.github.io | 1 | 0| 
+| 20230225T15:59:29Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
+| 20230225T15:30:07Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
+| 20230225T14:05:19Z | Null | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
 | 20230225T13:40:38Z | Null | https://github.com/gegestalt/Backdoor | 0 | 0| 
 | 20230225T05:12:49Z | Null | https://github.com/khrisyu9/BackdoorDefenseDA | 0 | 0| 
 | 20230225T03:56:08Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 19 | 8| 
-| 20230225T02:49:23Z | Backdoor feito a partir da linguagem java | https://github.com/PatrickLeonardo/java-backdoor | 0 | 0| 
-| 20230225T02:48:26Z | A server-side backdoor that can execute shell commands, capture and exfiltrate sensitive data, and persist across system reboots, designed for stealthy operation. | https://github.com/pneb/Stealth-Backdoor | 0 | 0| 
-| 20230224T23:11:48Z | (2/24/23) this is my first discord bot, its a backdoor, in order for a victim to execute it they would need the filelink url, simply drop the .py file onto discord and copy it, before you paste the url put %curl% and after put %-o main.py && py main.py% | https://github.com/qoudaq/first-malware | 0 | 0| 
-| 20230224T21:50:01Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 112 | 28| 
-| 20230224T21:01:12Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 113 | 14| 
-| 20230224T20:25:55Z | Null | https://github.com/ain-soph/nas_backdoor | 0 | 0| 
-| 20230224T18:19:55Z | backdoor simples (não finalizado) usando a biblioteca socket | https://github.com/boloto1979/v01_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230225T23:01:22Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
+| 20230225T22:27:53Z | Null | https://github.com/msryannhawkins/fuzzy-barnacle | 0 | 0| 
+| 20230225T21:37:23Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 8 | 1| 
+| 20230225T20:46:57Z | Null | https://github.com/Arattel/Fuzzy_genetic_algorithms_implementations | 0 | 0| 
+| 20230225T20:28:40Z | Scrimba React Router learning Course | https://github.com/Gauravkumario/fuzzy-adventure | 0 | 0| 
+| 20230225T20:06:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2097 | 35| 
+| 20230225T19:52:28Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
 | 20230225T13:55:00Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 15 | 1| 
 | 20230225T13:54:06Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
-| 20230225T12:44:34Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 0 | 0| 
 | 20230225T12:22:34Z | Null | https://github.com/cuongle2002/fuzzy-week-4 | 0 | 0| 
-| 20230225T11:12:07Z | Null | https://github.com/TangNgheQuangHuy/TangNgheQuangHuy-20146255-fuzzylogic | 0 | 0| 
-| 20230225T11:09:52Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 0 | 0| 
-| 20230225T10:07:44Z | Null | https://github.com/salehiali1374/Interval-Type-2-Fuzzy-Control-and-Stochastic-Modeling-of-COVID-19-Spread | 0 | 0| 
-| 20230225T02:29:26Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions | 0 | 0| 
-| 20230225T02:29:13Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2095 | 34| 
-| 20230225T02:27:07Z | Rode0day future solutions for fuzzing competition | https://github.com/cyberdojo-cmky/Rode0day-solutions- | 0 | 0| 
 
 
 
