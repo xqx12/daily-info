@@ -103,8 +103,8 @@
 | 20230225T20:06:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2097 | 35| 
 | 20230225T19:52:28Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
 | 20230225T17:02:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 26| 
+| 20230225T16:28:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3427 | 413| 
 | 20230225T13:55:00Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 15 | 1| 
-| 20230225T13:54:06Z | Null | https://github.com/thanhphu5902/FUZZY | 0 | 0| 
 
 
 

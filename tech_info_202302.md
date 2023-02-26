@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:06:26Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T02:08:36Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230225T23:53:39Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
 | 20230225T19:16:26Z | cve-2021-23358 | Detection script for cve-2021-23358 | https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358 | | 
@@ -159,7 +159,7 @@
 | 20230225T20:06:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2097 | 35| 
 | 20230225T19:52:28Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
 | 20230225T17:02:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 26| 
-| 20230225T13:55:00Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 15 | 1| 
+| 20230225T16:28:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3427 | 413| 
 
 
 
