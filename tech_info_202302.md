@@ -31,39 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230226 | chatGPT生成webshell实践与探究 | https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg| 
+| 20230226 | ChatGPT在信息安全竞赛中出题与解题实践 | https://mp.weixin.qq.com/s/EIGuFDXojTazH3gDV8vkVg| 
+| 20230226 | 针对开发者的供应链攻击 | https://mp.weixin.qq.com/s/7lmd4jFM3UWIZRbXzf3TWA| 
+| 20230226 | 从用户视角评估俄乌冲突中乌克兰互联网稳定性 | https://mp.weixin.qq.com/s/gGpg1fKQTZqSHakyVrkTig| 
+| 20230226 | 2022 SANS 网络威胁情报峰会资料 | https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md| 
 | 20230225 | 云原生安全峰会原始PPTX | https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/schedule/| 
 | 20230225 | 2022年ABC123公众号年刊_PDF | https://pan.baidu.com/s/1Dpcrte795U5myCckVANyZg?pwd=1234| 
 | 20230225 | 云原生安全峰会原始PPTX | /news/31046| 
 | 20230224 | [HTB] NodeBlog Writeup | https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw| 
 | 20230224 | 2022年度BOTNET趋势报告 | https://book.yunzhan365.com/tkgd/ikxy/mobile/index.html| 
-| 20230224 | 个人信息出境标准合同办法 | https://mp.weixin.qq.com/s/5T7pCReDif6tzCd56m3zKA| 
-| 20230223 | 通过 Rank-1 相似性矩阵分解建模反病毒引擎共识演化 | https://mp.weixin.qq.com/s/_eLxhU_8b52RtAmNOqKgLw| 
-| 20230223 | 从攻击视角探讨ChatGPT对网络安全的影响 | https://mp.weixin.qq.com/s/ph5GnQFIGcSzi-9H-YlJTA| 
-| 20230223 | 2022年度反诈报告 | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA| 
-| 20230223 | 2022网络金融黑产研究报告 | https://mp.weixin.qq.com/s/tQE0BtclxX6McZRoO5MKVg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:47:39Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T12:30:48Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230226T12:04:08Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230226T11:37:11Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230226T08:21:15Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230226T07:09:46Z | CVE-2022-0847 | Null | https://github.com/orsuprasad/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20230226T07:00:57Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
 | 20230226T02:33:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
-| 20230226T02:22:52Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230225T19:51:38Z | CVE-2022-48309 | CVE-2022-48309 and CVE-2022-48310 | https://github.com/nitschSB/CVE-2022-48309-and-CVE-2022-48310 | | 
 | 20230225T19:16:26Z | cve-2021-23358 | Detection script for cve-2021-23358 | https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358 | | 
 | 20230225T16:26:24Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
-| 20230225T15:03:25Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230225T12:35:24Z | CVE-2023-22974 | OpenEMR < 7.0.0 Arbitrary File Read | https://github.com/gbrsh/CVE-2023-22974 | | 
-| 20230225T12:16:13Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
-| 20230225T03:21:02Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T11:17:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10824 | 350| 
 | 20230225T17:03:15Z | Null | https://github.com/kleelab/kleelab.github.io | 3 | 0| 
 | 20230225T04:30:48Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 20 | 11| 
-| 20230225T02:18:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10798 | 349| 
 | 20230224T14:10:15Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230224T13:37:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2169 | 606| 
 | 20230224T00:05:46Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:42:14Z | Null | https://github.com/jtriley-eth/counter-exploit-toolkit | 20 | 2| 
-| 20230226T02:23:58Z | Rusty Process Injection / Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 70 | 13| 
-| 20230226T00:52:31Z | Group coursework for operating systems module. Project baaed on Pintos Project 2. Implementation of argument passing onto stack and five system calls were required in addition to exploits done on different system calls by each member of the group.  | https://github.com/amhawary/pintos-prj2 | 0 | 0| 
-| 20230225T23:49:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5p | 1 | 0| 
-| 20230225T23:48:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5p | 1 | 0| 
-| 20230225T23:47:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5p | 1 | 0| 
-| 20230225T23:22:25Z | Burp Extension for Exploit Prediction Scoring System calculation of CVE vulnerabilities | https://github.com/cbk914/EPSS-Calculator | 0 | 0| 
-| 20230225T22:43:16Z | Framework for rapid development and reusable of offensive security tools | https://github.com/htrgouvea/spellbook | 72 | 17| 
-| 20230225T21:41:37Z | Common classees of AndroidExploits project | https://github.com/ChickenHook/AndroidExploits-Common | 0 | 0| 
-| 20230225T21:20:05Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/X444OM/CRAXS-RAT-V3 | 40 | 2| 
+| 20230226T12:59:53Z | This is a simple python script, that permits sqlmap to exploit the WebSocket(HackTheBox Soccer.htb only) | https://github.com/Crypt0Ninja/SoccerHTBMiddleServer | 0 | 0| 
+| 20230226T12:57:50Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 15 | 3| 
+| 20230226T12:43:48Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
+| 20230226T12:25:34Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12788 | 2184| 
+| 20230226T11:49:44Z | Exploiting CVE-2020-1472 vulnerability (a.k.a Zerologon) without effort. | https://github.com/n3rada/zero-effort | 0 | 0| 
+| 20230226T11:37:40Z | 🔰 〢 Features ALL OF THIS FROM A SIMPLE IMAGE FILE SENT THROUGH DISCORD:  Steal Chrome Passwords / Cookies / History Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord Bypass TokenProtector / BetterDiscord Custom Installer / Setuper Icon / Name / Description Customizable Cookies Exploiter Tech (💎) | https://github.com/veloxxx77/ikuzi_image_logger | 0 | 0| 
+| 20230226T11:35:45Z | 🔰 〢 Features ALL OF THIS FROM A SIMPLE IMAGE FILE SENT THROUGH DISCORD:  Steal Chrome Passwords  / Cookies / History Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord Bypass TokenProtector / BetterDiscord Custom Installer / Setuper Icon / Name / Description Customizable Cookies Exploiter Tech (💎) | https://github.com/veloxxx77/IKUZI-imagge-logger | 0 | 0| 
+| 20230226T11:35:05Z | 🔰 〢 Features ALL OF THIS FROM A SIMPLE IMAGE FILE SENT THROUGH DISCORD:  Steal Chrome Passwords / Cookies / History Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord Bypass TokenProtector / BetterDiscord Custom Installer / Setuper Icon / Name / Description Customizable Cookies Exploiter Tech (💎) | https://github.com/veloxxx77/IKUZI-image-logger | 0 | 0| 
+| 20230226T11:19:23Z | Click here to cached 672 exploit host for your PS4 : andyxforce707.github.io/PS4-exploit-host-for-firmware-672/index.html | https://github.com/andyxforce707/PS4-exploit-host-for-firmware-672 | 0 | 0| 
+| 20230226T10:44:08Z | Null | https://github.com/Slayy2357/Clash-Royale-Exploit-v1.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230226T02:58:05Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/google.basyiri.my.id | 1 | 0| 
-| 20230226T02:56:23Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/twitter.basyiri.my.id | 1 | 0| 
-| 20230226T02:54:59Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/facebook.basyiri.my.id | 1 | 0| 
-| 20230226T02:53:13Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/github.basyiri.my.id | 1 | 0| 
-| 20230226T02:48:13Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
-| 20230225T23:51:59Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 5 | 0| 
-| 20230225T22:56:02Z | Remote Command executor | https://github.com/0xor0ne/recmd | 1 | 0| 
-| 20230225T18:47:26Z | Shell backdoor wibuhaxor | https://github.com/Ok7v/wibuhaxor1337.github.io | 1 | 0| 
-| 20230225T15:59:29Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
-| 20230225T15:30:07Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
+| 20230226T10:55:44Z | Shell backdoor wibuhaxor | https://github.com/Ok7v/wibuhaxor1337.github.io | 2 | 0| 
+| 20230226T10:48:14Z | Backdoor project to establish connection to end to end with a shell. | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
+| 20230226T09:02:30Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
+| 20230226T08:25:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger-gui | 0 | 0| 
+| 20230226T07:46:54Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 8| 
+| 20230226T07:16:12Z | Null | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
+| 20230226T06:35:58Z | tools find shell backdoor php on website  | https://github.com/mrtampan/php_findbackdoor | 0 | 0| 
+| 20230226T04:35:56Z | Backdoor | https://github.com/PrazThapa/Programming-and-Algorithm-cw1 | 0 | 0| 
+| 20230226T04:31:56Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/facebook.basyiri.my.id | 1 | 0| 
+| 20230226T04:29:18Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/twitter.basyiri.my.id | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230226T12:38:20Z | https://colab.research.google.com/drive/1bkQTP_vI6-iqyofSwPi0cmHDMNTYqiRY#scrollTo=DyiIxLxIZk8- | https://github.com/HuyHoang-20146252/AI_W4_Fuzzy_25_02_03 | 0 | 0| 
+| 20230226T12:27:04Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
+| 20230226T12:05:14Z | Null | https://github.com/ygeee/fuzzy-octo-robot | 0 | 0| 
+| 20230226T11:45:24Z | learning | https://github.com/s3lvan/fuzzy-octo-parakeet | 0 | 0| 
+| 20230226T10:02:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3449 | 689| 
+| 20230226T09:08:07Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 17 | 1| 
 | 20230226T01:07:33Z | Null | https://github.com/cpt61058/fuzzy-fiesta | 0 | 0| 
 | 20230225T23:01:22Z | Null | https://github.com/vitoriapinheiro/FuzzyLogic | 0 | 0| 
 | 20230225T22:27:53Z | Null | https://github.com/msryannhawkins/fuzzy-barnacle | 0 | 0| 
 | 20230225T21:37:23Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 8 | 1| 
-| 20230225T20:46:57Z | Null | https://github.com/Arattel/Fuzzy_genetic_algorithms_implementations | 0 | 0| 
-| 20230225T20:28:40Z | Scrimba React Router learning Course | https://github.com/Gauravkumario/fuzzy-adventure | 0 | 0| 
-| 20230225T20:06:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2097 | 35| 
-| 20230225T19:52:28Z | Null | https://github.com/dad84/fuzzy-octo-funicular | 1 | 0| 
-| 20230225T17:02:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 88 | 26| 
-| 20230225T16:28:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3427 | 413| 
 
 
 
