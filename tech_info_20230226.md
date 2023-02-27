@@ -9,6 +9,7 @@
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
+| 20230226 | Toxssin：XSS自动化利用工具 | http://skynettools.com/toxssin-open-source-penetration-testing-tool-that-automates-exploiting-cross-site-scripting-xss/| 
 
 
 # 安全维基 推荐
@@ -24,7 +25,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230226T20:36:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230226T20:22:36Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669-bis | | 
 | 20230226T19:07:35Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230226T18:26:27Z | CVE-2022-39952 | PoC for CVE-2022-39952 affecting Fortinet FortiNAC. | https://github.com/Chocapikk/CVE-2022-39952 | | 

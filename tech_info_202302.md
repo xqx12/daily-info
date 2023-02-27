@@ -9,6 +9,7 @@
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
+| 20230226 | Toxssin：XSS自动化利用工具 | http://skynettools.com/toxssin-open-source-penetration-testing-tool-that-automates-exploiting-cross-site-scripting-xss/| 
 | 20230224 | 绕过 ESP32 芯片的 Flash 加密功能 | http://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/| 
 | 20230224 | 不使用 EFI bootkit，通过开启内核调试模式来关闭 windows 的 PatchGuard | https://hexderef.com/patchguard-bypass| 
 | 20230224 | 一种黑盒检测原型链污染的方法。 | http://www.intruder.io/research/server-side-prototype-pollution| 
@@ -25,7 +26,6 @@
 | 20230223 | Amazon的语言模型仅使用1 billion个参数就可以达到91.68%的准确率，超过了用了175 billion个参数的GPT-3.5（准确率75.17%），该模型已开源。 | https://arxiv.org/pdf/2302.00923.pdf| 
 | 20230223 | 安全研究员Man Yue Mo通过分析调试时出现的GPU执行错误，发现了一个由于CPU缓存和物理内存不一致导致的信息泄露漏洞，该漏洞通过读取物理内存中的脏数据导致可以泄露用户态、内核数据，本文中介绍了一种如何利用该漏洞绕过KASLR 的方法。 | http://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/| 
 | 20230222 | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch| 
-| 20230222 | 作者审计了vscode中的两款插件，利用插件中的XSS漏洞，以DNS rebind、dns-prefetch等方法绕过保护，从而达到泄露ssh私钥发送给攻击者的攻击效果。 | http://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/| 
 
 
 # 安全维基 推荐
@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T02:28:31Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T02:29:58Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230227T02:29:53Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T02:20:33Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T02:18:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
 | 20230227T02:08:12Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
-| 20230226T20:36:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230226T20:22:36Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669-bis | | 
 | 20230226T19:07:35Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230226T18:26:27Z | CVE-2022-39952 | PoC for CVE-2022-39952 affecting Fortinet FortiNAC. | https://github.com/Chocapikk/CVE-2022-39952 | | 
