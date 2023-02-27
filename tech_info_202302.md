@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T02:20:57Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T02:24:43Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T02:20:33Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T02:18:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
@@ -150,11 +150,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:27:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
 | 20230227T01:14:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3431 | 413| 
 | 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1831| 
 | 20230227T00:45:04Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 150 | 38| 
 | 20230227T00:23:57Z | Trabalho realizado para a disciplina de Inteligência artificial, ministrada pelo professor Cleyton Rodrigues. Sobre a Lógica de Fuzzy Aplicada ao controle de nível de reservatório de água para a distribuição de água. | https://github.com/CharlesVilela/L-gicaFuzzyReservatorioAgua | 0 | 0| 
-| 20230227T00:16:00Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
 | 20230226T23:43:45Z | Julia package for fuzzy inference | https://github.com/lucaferranti/FuzzyLogic.jl | 4 | 1| 
 | 20230226T21:33:29Z | Null | https://github.com/Anonymous09875/fuzzy-sniffle | 0 | 0| 
 | 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
