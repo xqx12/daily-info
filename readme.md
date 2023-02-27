@@ -30,7 +30,6 @@
 | 20230226T19:07:35Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
 | 20230226T18:26:27Z | CVE-2022-39952 | PoC for CVE-2022-39952 affecting Fortinet FortiNAC. | https://github.com/Chocapikk/CVE-2022-39952 | | 
 | 20230226T07:09:46Z | CVE-2022-0847 | Null | https://github.com/orsuprasad/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20230226T07:00:57Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
 | 20230226T02:33:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/Analysis4CVE-2023-0669 | | 
 
 
