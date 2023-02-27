@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T01:53:28Z | Remote Command executor | https://github.com/0xor0ne/recmd | 9 | 2| 
+| 20230227T01:55:01Z | Remote Command executor | https://github.com/0xor0ne/recmd | 10 | 2| 
 | 20230226T20:44:32Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 9| 
 | 20230226T20:17:55Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 3 | 0| 
 | 20230226T18:05:13Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
