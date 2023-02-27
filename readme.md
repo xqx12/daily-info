@@ -63,7 +63,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230226T23:39:43Z | Remote Command executor | https://github.com/0xor0ne/recmd | 8 | 2| 
 | 20230226T20:44:32Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 9| 
 | 20230226T20:17:55Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 3 | 0| 
 | 20230226T18:05:13Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
@@ -73,6 +72,7 @@
 | 20230226T08:25:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger-gui | 0 | 0| 
 | 20230226T07:16:12Z | Null | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
 | 20230226T06:35:58Z | tools find shell backdoor php on website  | https://github.com/mrtampan/php_findbackdoor | 0 | 0| 
+| 20230226T04:35:56Z | Backdoor | https://github.com/PrazThapa/Programming-and-Algorithm-cw1 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
