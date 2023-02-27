@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T12:50:31Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T13:02:45Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230227T12:07:06Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:01:22Z | Null | https://github.com/khalifadione/Slash_Syst-me_d-exploitation | 0 | 0| 
 | 20230227T11:59:32Z | This repository contains full of pen testing tools and exploit tools . Use it for Educational Purpose only !!! | https://github.com/CodingWithRam/Ethical_Hacking | 0 | 0| 
 | 20230227T11:10:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4029 | 501| 
 | 20230227T11:10:27Z | Null | https://github.com/Exploiterarmy/exploiterarmy.github.io | 1 | 0| 
@@ -63,7 +64,6 @@
 | 20230227T03:46:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 580 | 156| 
 | 20230227T01:17:40Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/bronep/Fivem-Executor | 1 | 0| 
 | 20230227T01:15:58Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/bronep/Rust-Cheat | 1 | 0| 
-| 20230227T01:15:58Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 1 | 0| 
 
 
 # backdoor on Github 推荐
