@@ -97,12 +97,12 @@
 | 20230226T21:33:29Z | Null | https://github.com/Anonymous09875/fuzzy-sniffle | 0 | 0| 
 | 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
 | 20230226T20:11:06Z | Null | https://github.com/Elvis-Osano/fuzzy-carnival | 0 | 0| 
-| 20230226T16:43:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8407 | 1829| 
 | 20230226T13:56:22Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 2 | 0| 
 | 20230226T13:43:30Z | Null | https://github.com/bachthang02/fuzzylogic.github.io | 0 | 0| 
 | 20230226T13:18:44Z | Bài tập AI 4 - Fuzzy logic | https://github.com/tranhuulong0412/BaiTapAI_4_FUZZY_LOGIC | 0 | 0| 
 | 20230226T12:38:20Z | https://colab.research.google.com/drive/1bkQTP_vI6-iqyofSwPi0cmHDMNTYqiRY#scrollTo=DyiIxLxIZk8- | https://github.com/HuyHoang-20146252/AI_W4_Fuzzy_25_02_03 | 0 | 0| 
 | 20230226T12:05:14Z | Null | https://github.com/ygeee/fuzzy-octo-robot | 0 | 0| 
+| 20230226T11:45:24Z | learning | https://github.com/s3lvan/fuzzy-octo-parakeet | 0 | 0| 
 
 
 

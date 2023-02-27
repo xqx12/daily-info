@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T01:07:16Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T01:12:20Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T00:49:50Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T00:19:50Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230226T22:38:19Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1829| 
 | 20230227T00:45:04Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 150 | 38| 
 | 20230227T00:23:57Z | Trabalho realizado para a disciplina de Inteligência artificial, ministrada pelo professor Cleyton Rodrigues. Sobre a Lógica de Fuzzy Aplicada ao controle de nível de reservatório de água para a distribuição de água. | https://github.com/CharlesVilela/L-gicaFuzzyReservatorioAgua | 0 | 0| 
 | 20230227T00:16:00Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230226T21:33:29Z | Null | https://github.com/Anonymous09875/fuzzy-sniffle | 0 | 0| 
 | 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
 | 20230226T20:11:06Z | Null | https://github.com/Elvis-Osano/fuzzy-carnival | 0 | 0| 
-| 20230226T16:43:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8407 | 1829| 
 | 20230226T13:56:22Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 2 | 0| 
 | 20230226T13:43:30Z | Null | https://github.com/bachthang02/fuzzylogic.github.io | 0 | 0| 
 
