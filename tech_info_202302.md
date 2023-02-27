@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:59:55Z | Example Python function Fuzzy | https://github.com/viniciustrainotti/python-function-fuzzy | 0 | 0| 
 | 20230227T02:51:57Z | Null | https://github.com/PoppingSnack/FuzzTest | 0 | 0| 
 | 20230227T02:27:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
 | 20230227T01:14:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3431 | 413| 
@@ -159,7 +160,6 @@
 | 20230226T23:43:45Z | Julia package for fuzzy inference | https://github.com/lucaferranti/FuzzyLogic.jl | 4 | 1| 
 | 20230226T21:33:29Z | Null | https://github.com/Anonymous09875/fuzzy-sniffle | 0 | 0| 
 | 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
-| 20230226T20:11:06Z | Null | https://github.com/Elvis-Osano/fuzzy-carnival | 0 | 0| 
 
 
 
