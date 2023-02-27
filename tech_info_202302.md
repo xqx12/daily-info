@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T01:17:40Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/bronep/Fivem-Executor | 1 | 0| 
+| 20230227T01:15:58Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/bronep/Rust-Cheat | 1 | 0| 
+| 20230227T01:15:58Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 1 | 0| 
+| 20230227T01:15:57Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/bronep/Fortnite-Softaim | 1 | 0| 
+| 20230227T01:15:56Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/bronep/Valorant-Cheat | 1 | 0| 
 | 20230227T00:53:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v9 | 1 | 0| 
 | 20230227T00:52:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v9 | 1 | 0| 
 | 20230227T00:51:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v9 | 1 | 0| 
 | 20230226T22:49:33Z | f | https://github.com/pawlos11/exploit | 0 | 0| 
 | 20230226T22:18:03Z | Null | https://github.com/9lyph/ExploitBridge | 0 | 0| 
-| 20230226T20:54:14Z | unauthenticated (2.1.0 - 2.1.0.p11) / authenticated (<2.1.0p12) RCE exploit for Checkmk. | https://github.com/gbrsh/checkmk-race | 3 | 0| 
-| 20230226T16:10:23Z | Null | https://github.com/buschinelli-joao/exploit-challenges | 0 | 0| 
-| 20230226T13:45:01Z | rain is falling, binaries are being exploited, we are happy | https://github.com/kmeixner247/rainfall | 0 | 0| 
-| 20230226T13:08:49Z | Tips on how to write exploit scripts (faster!) | https://github.com/rizemon/exploit-writing-for-oswe | 16 | 3| 
-| 20230226T12:59:53Z | This is a simple python script, that permits sqlmap to exploit the WebSocket(HackTheBox Soccer.htb only) | https://github.com/Crypt0Ninja/SoccerHTBMiddleServer | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -150,7 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1829| 
+| 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1830| 
 | 20230227T00:45:04Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 150 | 38| 
 | 20230227T00:23:57Z | Trabalho realizado para a disciplina de Inteligência artificial, ministrada pelo professor Cleyton Rodrigues. Sobre a Lógica de Fuzzy Aplicada ao controle de nível de reservatório de água para a distribuição de água. | https://github.com/CharlesVilela/L-gicaFuzzyReservatorioAgua | 0 | 0| 
 | 20230227T00:16:00Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
