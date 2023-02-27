@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T01:14:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3431 | 413| 
 | 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1831| 
 | 20230227T00:45:04Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 150 | 38| 
 | 20230227T00:23:57Z | Trabalho realizado para a disciplina de Inteligência artificial, ministrada pelo professor Cleyton Rodrigues. Sobre a Lógica de Fuzzy Aplicada ao controle de nível de reservatório de água para a distribuição de água. | https://github.com/CharlesVilela/L-gicaFuzzyReservatorioAgua | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
 | 20230226T20:11:06Z | Null | https://github.com/Elvis-Osano/fuzzy-carnival | 0 | 0| 
 | 20230226T13:56:22Z | Genetic Algorithm Optimization | https://github.com/dad84/fuzzy-octo-funicular | 2 | 0| 
-| 20230226T13:43:30Z | Null | https://github.com/bachthang02/fuzzylogic.github.io | 0 | 0| 
 
 
 
