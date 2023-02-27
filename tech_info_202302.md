@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T01:53:02Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T01:56:59Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
 | 20230227T00:49:50Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T00:19:50Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
