@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:16:21Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
-| 20230227T02:12:18Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T02:08:12Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
 | 20230227T00:19:50Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T01:55:01Z | Remote Command executor | https://github.com/0xor0ne/recmd | 10 | 2| 
+| 20230227T02:15:19Z | Remote Command executor | https://github.com/0xor0ne/recmd | 11 | 2| 
 | 20230226T20:44:32Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 9| 
 | 20230226T20:17:55Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 3 | 0| 
 | 20230226T18:05:13Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
