@@ -10,6 +10,7 @@
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
 | 20230226 | Toxssin：XSS自动化利用工具 | http://skynettools.com/toxssin-open-source-penetration-testing-tool-that-automates-exploiting-cross-site-scripting-xss/| 
+| 20230226 | 缓解措施NSPredicateVisitor可被绕过，允许攻击者执行任意代码。 | https://gbhackers.com/apple-privilege-escalation/| 
 
 
 # 安全维基 推荐
