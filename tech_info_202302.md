@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230227 | Weblogic CVE-2023-21839 RCE的漏洞利用代码，该漏洞为Weblogic IIOP/T3协议的实现缺陷 | https://github.com/4ra1n/CVE-2023-21839| 
+| 20230227 | 通用UEFI bootkit，可实现用户态代码执行 | https://github.com/realoriginal/bootlicker| 
+| 20230227 | 安卓APP逆向工程实用脚本 | http://securityonline.info/apk-sh-makes-reverse-engineering-android-apps-easier/| 
+| 20230227 | 模块化的、支持多语言的webshell | https://github.com/kraken-ng/Kraken| 
+| 20230227 | 将libafl harness编译为wasm来进行fuzz。 | https://github.com/AFLplusplus/LibAFL/tree/main/fuzzers/baby_fuzzer_wasm#libafl-wasm| 
+| 20230227 | 如何利用Phobos 勒索软件特定版本的问题对密钥生成可能性进行剪枝，从而在理论上实现对该勒索软件的暴力破解。 | https://www.reddit.com/r/ReverseEngineering/comments/11axztr/a_tale_of_phobos_how_we_almost_cracked_a/| 
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
@@ -20,17 +26,12 @@
 | 20230223 | Fuzzilli新增了一个用于将js代码转换成Fuzzili IR的工具。 | https://github.com/googleprojectzero/fuzzilli/commit/807625f0112df22bfe293aa4d36d67c31c4fb243| 
 | 20230223 | 像使用IDA一样使用Ghidra的插件 | https://gist.github.com/NyaMisty/06e65d0f0268d456d9d086aee08952ee| 
 | 20230223 | 这篇文章以实际案例展示了盲目信任第三方API会导致导致一系列安全问题 | https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22| 
-| 20230223 | 苹果Lightning接口通信协议的逆向工程分享视频，视频中还用到了chatGPT来猜测可能的协议 | http://hackaday.com/2023/02/22/reverse-engineering-the-apple-lightning-connector/| 
-| 20230223 | 一篇介绍macos自带安全机制的文章，讲的还是比较清楚。 | https://www.huntress.com/blog/built-in-macos-security-tools| 
-| 20230223 | 使用NtQueueApcThreadEx向windows进程注入任意shellcode，可以用于bypass部分终端安全检测 | https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection| 
-| 20230223 | 使用OPENAI达芬奇模型(ChatGPT的背后模型)分析shellcode的功能 | https://www.archcloudlabs.com/projects/shellcode_gpt/| 
-| 20230223 | Amazon的语言模型仅使用1 billion个参数就可以达到91.68%的准确率，超过了用了175 billion个参数的GPT-3.5（准确率75.17%），该模型已开源。 | https://arxiv.org/pdf/2302.00923.pdf| 
-| 20230223 | 安全研究员Man Yue Mo通过分析调试时出现的GPU执行错误，发现了一个由于CPU缓存和物理内存不一致导致的信息泄露漏洞，该漏洞通过读取物理内存中的脏数据导致可以泄露用户态、内核数据，本文中介绍了一种如何利用该漏洞绕过KASLR 的方法。 | http://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230227 | SecWiki周刊（第469期) | https://www.sec-wiki.com/weekly/469| 
 | 20230226 | chatGPT生成webshell实践与探究 | https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg| 
 | 20230226 | ChatGPT在信息安全竞赛中出题与解题实践 | https://mp.weixin.qq.com/s/EIGuFDXojTazH3gDV8vkVg| 
 | 20230226 | 针对开发者的供应链攻击 | https://mp.weixin.qq.com/s/7lmd4jFM3UWIZRbXzf3TWA| 
@@ -40,27 +41,27 @@
 | 20230225 | 2022年ABC123公众号年刊_PDF | https://pan.baidu.com/s/1Dpcrte795U5myCckVANyZg?pwd=1234| 
 | 20230225 | 云原生安全峰会原始PPTX | /news/31046| 
 | 20230224 | [HTB] NodeBlog Writeup | https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw| 
-| 20230224 | 2022年度BOTNET趋势报告 | https://book.yunzhan365.com/tkgd/ikxy/mobile/index.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T02:57:59Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T12:50:31Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
+| 20230227T12:07:06Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
+| 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
+| 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
+| 20230227T08:39:53Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
+| 20230227T05:38:27Z | CVE-2021-32305 | Null | https://github.com/sz-guanx/CVE-2021-32305 | | 
 | 20230227T02:48:37Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230227T02:36:06Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230227T02:20:33Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
-| 20230227T02:18:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
 | 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
-| 20230226T20:22:36Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669-bis | | 
-| 20230226T19:07:35Z | CVE-2023-23752 | simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose | https://github.com/z3n70/CVE-2023-23752 | | 
-| 20230226T18:26:27Z | CVE-2022-39952 | PoC for CVE-2022-39952 affecting Fortinet FortiNAC. | https://github.com/Chocapikk/CVE-2022-39952 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T08:41:17Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 12 | 6| 
 | 20230227T02:27:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10832 | 350| 
 | 20230227T02:18:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2172 | 606| 
 | 20230227T02:01:00Z | Null | https://github.com/onionoino/klee | 1 | 1| 
@@ -70,13 +71,13 @@
 | 20230224T14:10:15Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 2 | 0| 
 | 20230224T00:05:46Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
-| 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T02:18:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 300 | 74| 
+| 20230227T11:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 302 | 74| 
+| 20230227T07:18:09Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 78 | 14| 
 | 20230226T16:24:58Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 3 | 0| 
 | 20230218T14:11:14Z | Exercise S2 - Pham Viet Duc | https://github.com/vietduc218/s2exercise | 0 | 0| 
 | 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
@@ -90,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T11:59:32Z | This repository contains full of pen testing tools and exploit tools . Use it for Educational Purpose only !!! | https://github.com/CodingWithRam/Ethical_Hacking | 0 | 0| 
+| 20230227T11:10:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4029 | 501| 
+| 20230227T11:10:27Z | Null | https://github.com/Exploiterarmy/exploiterarmy.github.io | 1 | 0| 
+| 20230227T10:27:31Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
+| 20230227T09:42:06Z | 🧠 Emotional Algorithmic Exploitation (EAE) is a growing concern in the age of artificial intelligence (AI). It involves the use of AI to manipulate people%s emotions and desires in order to influence their behavior, often for the benefit of corporations or governments. | https://github.com/EAE-AI/ethical-ai | 0 | 0| 
+| 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
+| 20230227T03:46:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 580 | 156| 
 | 20230227T01:17:40Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/bronep/Fivem-Executor | 1 | 0| 
 | 20230227T01:15:58Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/bronep/Rust-Cheat | 1 | 0| 
 | 20230227T01:15:58Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 1 | 0| 
-| 20230227T01:15:57Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/bronep/Fortnite-Softaim | 1 | 0| 
-| 20230227T01:15:56Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/bronep/Valorant-Cheat | 1 | 0| 
-| 20230227T00:53:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v9 | 1 | 0| 
-| 20230227T00:52:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v9 | 1 | 0| 
-| 20230227T00:51:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v9 | 1 | 0| 
-| 20230226T22:49:33Z | f | https://github.com/pawlos11/exploit | 0 | 0| 
-| 20230226T22:18:03Z | Null | https://github.com/9lyph/ExploitBridge | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T02:20:54Z | Remote Command executor | https://github.com/0xor0ne/recmd | 13 | 2| 
+| 20230227T12:38:37Z | Backdoor project to establish connection to end to end with a shell with capabilities of file uploading/downloading and terminal commands compatibility  | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
+| 20230227T12:32:17Z | php bacdoor | https://github.com/cvericel/backdoor | 0 | 0| 
+| 20230227T10:50:40Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2540 | 425| 
+| 20230227T09:20:56Z | Remote Command executor | https://github.com/0xor0ne/recmd | 17 | 2| 
+| 20230227T07:27:23Z | a | https://github.com/chechoblones/backdoor | 0 | 0| 
+| 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
+| 20230227T05:47:04Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
 | 20230226T20:44:32Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 9| 
 | 20230226T20:17:55Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 3 | 0| 
 | 20230226T18:05:13Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
-| 20230226T10:55:44Z | Shell backdoor wibuhaxor | https://github.com/Ok7v/wibuhaxor1337.github.io | 2 | 0| 
-| 20230226T10:48:14Z | Backdoor project to establish connection to end to end with a shell. | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
-| 20230226T09:02:30Z | Backdoor For Law Enforcement | https://github.com/intrapegasus/backdoor.basyiri.my.id | 2 | 0| 
-| 20230226T08:25:31Z | lazer is a backdoor for osu! | https://github.com/LMNYX/osu-scoreforger-gui | 0 | 0| 
-| 20230226T07:16:12Z | Null | https://github.com/Lord-Hyperion789/Golang-Backdoor | 4 | 0| 
-| 20230226T06:35:58Z | tools find shell backdoor php on website  | https://github.com/mrtampan/php_findbackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -135,8 +136,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T11:51:37Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 12 | 1| 
 | 20230227T02:12:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 28 | 2| 
-| 20230226T15:56:16Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 11 | 1| 
 | 20230226T15:55:05Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 2 | 0| 
 | 20230225T10:19:15Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 9 | 1| 
 | 20230224T12:09:49Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 4 | 0| 
@@ -150,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
+| 20230227T12:35:43Z | Null | https://github.com/khanhdz191/Tiny-URL-Fuzzer | 0 | 0| 
+| 20230227T12:31:07Z | This work introduce the idea of a fuzzy logic system, the fuzzy control and how the fuzzy logic works. Also since the fuzzy set theory is possible to implement in many areas, this work introduce to the use of fuzzy model for information retrieval systems this approach to capture the relationships between words and query language. | https://github.com/brunobonaiuto/Fuzzy-logic-and-Fuzzy-Information-Retreival | 0 | 0| 
+| 20230227T12:26:22Z | Null | https://github.com/maheenbatool/Development-of-Assistive-Technology-Using-Fuzzy-Logic-for-a-Person-with-Dementia | 0 | 0| 
+| 20230227T11:52:21Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 37 | 11| 
+| 20230227T11:24:56Z | Null | https://github.com/Royalnma/fuzzy-tele | 0 | 0| 
+| 20230227T10:55:57Z | Null | https://github.com/tememumtaza/FuzzyAHP | 0 | 0| 
+| 20230227T08:30:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 262 | 36| 
+| 20230227T08:07:25Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 174 | 5| 
 | 20230227T02:59:55Z | Example Python function Fuzzy | https://github.com/viniciustrainotti/python-function-fuzzy | 0 | 0| 
-| 20230227T02:51:57Z | Null | https://github.com/PoppingSnack/FuzzTest | 0 | 0| 
-| 20230227T02:27:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
-| 20230227T01:14:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3431 | 413| 
-| 20230227T01:10:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8408 | 1831| 
-| 20230227T00:45:04Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 150 | 38| 
-| 20230227T00:23:57Z | Trabalho realizado para a disciplina de Inteligência artificial, ministrada pelo professor Cleyton Rodrigues. Sobre a Lógica de Fuzzy Aplicada ao controle de nível de reservatório de água para a distribuição de água. | https://github.com/CharlesVilela/L-gicaFuzzyReservatorioAgua | 0 | 0| 
-| 20230226T23:43:45Z | Julia package for fuzzy inference | https://github.com/lucaferranti/FuzzyLogic.jl | 4 | 1| 
-| 20230226T21:33:29Z | Null | https://github.com/Anonymous09875/fuzzy-sniffle | 0 | 0| 
-| 20230226T20:22:40Z | Null | https://github.com/Pavlocha/fuzzy-barnacle | 0 | 0| 
 
 
 
