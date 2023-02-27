@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:42:02Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T13:27:00Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T13:20:18Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
-| 20230227T12:07:06Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
 | 20230227T05:38:27Z | CVE-2021-32305 | Null | https://github.com/sz-guanx/CVE-2021-32305 | | 
@@ -106,10 +106,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:31:55Z | Remote Command executor | https://github.com/0xor0ne/recmd | 18 | 2| 
 | 20230227T12:38:37Z | Backdoor project to establish connection to end to end with a shell with capabilities of file uploading/downloading and terminal commands compatibility  | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
 | 20230227T12:32:17Z | php bacdoor | https://github.com/cvericel/backdoor | 0 | 0| 
 | 20230227T10:50:40Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2540 | 425| 
-| 20230227T09:20:56Z | Remote Command executor | https://github.com/0xor0ne/recmd | 17 | 2| 
 | 20230227T07:27:23Z | a | https://github.com/chechoblones/backdoor | 0 | 0| 
 | 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
 | 20230227T05:47:04Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
