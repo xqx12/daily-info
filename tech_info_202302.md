@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:15:03Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
 | 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
 | 20230227T12:35:43Z | Null | https://github.com/khanhdz191/Tiny-URL-Fuzzer | 0 | 0| 
 | 20230227T12:31:07Z | This work introduce the idea of a fuzzy logic system, the fuzzy control and how the fuzzy logic works. Also since the fuzzy set theory is possible to implement in many areas, this work introduce to the use of fuzzy model for information retrieval systems this approach to capture the relationships between words and query language. | https://github.com/brunobonaiuto/Fuzzy-logic-and-Fuzzy-Information-Retreival | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230227T10:55:57Z | Null | https://github.com/tememumtaza/FuzzyAHP | 0 | 0| 
 | 20230227T08:30:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 262 | 36| 
 | 20230227T08:07:25Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 174 | 5| 
-| 20230227T02:59:55Z | Example Python function Fuzzy | https://github.com/viniciustrainotti/python-function-fuzzy | 0 | 0| 
 
 
 
