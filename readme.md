@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:37:13Z | Grammar-based Fuzzing of Data Integration Parsers in Computational Materials Science | https://github.com/hub-se/fuzzingcmscodeparsers | 0 | 0| 
 | 20230227T13:20:18Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
 | 20230227T13:18:18Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
 | 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20230227T11:52:21Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 37 | 11| 
 | 20230227T11:24:56Z | Null | https://github.com/Royalnma/fuzzy-tele | 0 | 0| 
 | 20230227T10:55:57Z | Null | https://github.com/tememumtaza/FuzzyAHP | 0 | 0| 
-| 20230227T08:30:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 262 | 36| 
 
 
 
