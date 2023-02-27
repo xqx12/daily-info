@@ -7,6 +7,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
+| 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
+| 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
 | 20230224 | 绕过 ESP32 芯片的 Flash 加密功能 | http://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/| 
 | 20230224 | 不使用 EFI bootkit，通过开启内核调试模式来关闭 windows 的 PatchGuard | https://hexderef.com/patchguard-bypass| 
 | 20230224 | 一种黑盒检测原型链污染的方法。 | http://www.intruder.io/research/server-side-prototype-pollution| 
@@ -24,8 +26,6 @@
 | 20230223 | 安全研究员Man Yue Mo通过分析调试时出现的GPU执行错误，发现了一个由于CPU缓存和物理内存不一致导致的信息泄露漏洞，该漏洞通过读取物理内存中的脏数据导致可以泄露用户态、内核数据，本文中介绍了一种如何利用该漏洞绕过KASLR 的方法。 | http://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/| 
 | 20230222 | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch| 
 | 20230222 | 作者审计了vscode中的两款插件，利用插件中的XSS漏洞，以DNS rebind、dns-prefetch等方法绕过保护，从而达到泄露ssh私钥发送给攻击者的攻击效果。 | http://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/| 
-| 20230222 | 解读 PoshC2 渗透框架代码实现 | https://www.reddit.com/r/netsec/comments/1185gd3/a_deep_dive_into_a_poshc2_implant/| 
-| 20230222 | 微软对2022年DDoS攻击的趋势分析 | https://www.microsoft.com/en-us/security/blog/2023/02/21/2022-in-review-ddos-attack-trends-and-insights/| 
 
 
 # 安全维基 推荐

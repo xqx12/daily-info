@@ -7,6 +7,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
+| 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
+| 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
 
 
 # 安全维基 推荐
