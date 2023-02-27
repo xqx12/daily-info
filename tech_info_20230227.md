@@ -23,12 +23,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:20:18Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T13:15:33Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230227T12:07:06Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
-| 20230227T08:39:53Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T05:38:27Z | CVE-2021-32305 | Null | https://github.com/sz-guanx/CVE-2021-32305 | | 
 | 20230227T02:48:37Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
@@ -89,15 +89,15 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T11:51:37Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 12 | 1| 
+| 20230227T13:21:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 13 | 1| 
 | 20230227T02:12:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 28 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:20:18Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
 | 20230227T13:18:18Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
-| 20230227T13:16:05Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
 | 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
 | 20230227T12:35:43Z | Null | https://github.com/khanhdz191/Tiny-URL-Fuzzer | 0 | 0| 
 | 20230227T12:31:07Z | This work introduce the idea of a fuzzy logic system, the fuzzy control and how the fuzzy logic works. Also since the fuzzy set theory is possible to implement in many areas, this work introduce to the use of fuzzy model for information retrieval systems this approach to capture the relationships between words and query language. | https://github.com/brunobonaiuto/Fuzzy-logic-and-Fuzzy-Information-Retreival | 0 | 0| 
