@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:39:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5304 | 735| 
 | 20230227T13:01:22Z | Null | https://github.com/khalifadione/Slash_Syst-me_d-exploitation | 0 | 0| 
 | 20230227T11:59:32Z | This repository contains full of pen testing tools and exploit tools . Use it for Educational Purpose only !!! | https://github.com/CodingWithRam/Ethical_Hacking | 0 | 0| 
 | 20230227T11:10:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4029 | 501| 
@@ -100,7 +101,6 @@
 | 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
 | 20230227T03:46:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 580 | 156| 
 | 20230227T01:17:40Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/bronep/Fivem-Executor | 1 | 0| 
-| 20230227T01:15:58Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/bronep/Rust-Cheat | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:40:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8413 | 1830| 
 | 20230227T13:37:13Z | Grammar-based Fuzzing of Data Integration Parsers in Computational Materials Science | https://github.com/hub-se/fuzzingcmscodeparsers | 0 | 0| 
 | 20230227T13:20:18Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
 | 20230227T13:18:18Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230227T12:26:22Z | Null | https://github.com/maheenbatool/Development-of-Assistive-Technology-Using-Fuzzy-Logic-for-a-Person-with-Dementia | 0 | 0| 
 | 20230227T11:52:21Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 37 | 11| 
 | 20230227T11:24:56Z | Null | https://github.com/Royalnma/fuzzy-tele | 0 | 0| 
-| 20230227T10:55:57Z | Null | https://github.com/tememumtaza/FuzzyAHP | 0 | 0| 
 
 
 
