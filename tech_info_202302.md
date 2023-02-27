@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:01:00Z | Null | https://github.com/onionoino/klee | 1 | 1| 
 | 20230227T01:00:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2171 | 606| 
 | 20230226T23:51:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10830 | 350| 
 | 20230226T13:16:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 218 | 2| 
@@ -70,7 +71,6 @@
 | 20230224T00:05:46Z | A project for the generation of synthetic data for research into social networks and NLP | https://github.com/forxiny/kleek | 0 | 0| 
 | 20230220T17:33:01Z | Null | https://github.com/Peltorator/klees-measure-lower-bounds-repo | 0 | 0| 
 | 20230219T17:59:23Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 2 | 0| 
-| 20230219T09:21:14Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 74 | 6| 
 
 
 # s2e on Github 推荐
