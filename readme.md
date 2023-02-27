@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230227T13:13:42Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230227T13:15:33Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230227T12:07:06Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T13:16:05Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
 | 20230227T13:15:03Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
 | 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
 | 20230227T12:35:43Z | Null | https://github.com/khanhdz191/Tiny-URL-Fuzzer | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20230227T11:24:56Z | Null | https://github.com/Royalnma/fuzzy-tele | 0 | 0| 
 | 20230227T10:55:57Z | Null | https://github.com/tememumtaza/FuzzyAHP | 0 | 0| 
 | 20230227T08:30:46Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 262 | 36| 
-| 20230227T08:07:25Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 174 | 5| 
 
 
 
