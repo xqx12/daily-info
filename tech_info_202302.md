@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:18:24Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230227T02:16:21Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
 | 20230227T02:08:12Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
-| 20230227T00:19:50Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230226T22:38:19Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230226T20:36:10Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230226T20:22:36Z | CVE-2023-0669 | Null | https://github.com/trhacknon/CVE-2023-0669-bis | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:18:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2172 | 606| 
 | 20230227T02:01:00Z | Null | https://github.com/onionoino/klee | 1 | 1| 
-| 20230227T01:00:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2171 | 606| 
 | 20230226T23:51:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10830 | 350| 
 | 20230226T13:16:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 218 | 2| 
 | 20230225T17:03:15Z | Null | https://github.com/kleelab/kleelab.github.io | 3 | 0| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230227T02:18:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 300 | 74| 
 | 20230226T16:24:58Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 3 | 0| 
-| 20230225T00:41:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 299 | 74| 
 | 20230218T14:11:14Z | Exercise S2 - Pham Viet Duc | https://github.com/vietduc218/s2exercise | 0 | 0| 
 | 20230217T07:05:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230216T18:27:56Z | Null | https://github.com/SKyletoft/s2e-autocxx-error | 0 | 0| 
