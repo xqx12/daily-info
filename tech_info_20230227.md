@@ -78,7 +78,7 @@
 | 20230227T12:32:17Z | php bacdoor | https://github.com/cvericel/backdoor | 0 | 0| 
 | 20230227T10:50:40Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2540 | 425| 
 | 20230227T07:27:23Z | a | https://github.com/chechoblones/backdoor | 0 | 0| 
-| 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
+| 20230227T05:47:04Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
