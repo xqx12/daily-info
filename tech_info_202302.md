@@ -12,6 +12,7 @@
 | 20230227 | 模块化的、支持多语言的webshell | https://github.com/kraken-ng/Kraken| 
 | 20230227 | 将libafl harness编译为wasm来进行fuzz。 | https://github.com/AFLplusplus/LibAFL/tree/main/fuzzers/baby_fuzzer_wasm#libafl-wasm| 
 | 20230227 | 如何利用Phobos 勒索软件特定版本的问题对密钥生成可能性进行剪枝，从而在理论上实现对该勒索软件的暴力破解。 | https://www.reddit.com/r/ReverseEngineering/comments/11axztr/a_tale_of_phobos_how_we_almost_cracked_a/| 
+| 20230227 | ProxmoxVE 下的 Windows 内核调试环境配置 | http://paper.seebug.org/2052/| 
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
@@ -25,7 +26,6 @@
 | 20230223 | Node.js 的 undici 库存在 CRLF 注入漏洞 | https://hackerone.com/reports/1820955| 
 | 20230223 | Fuzzilli新增了一个用于将js代码转换成Fuzzili IR的工具。 | https://github.com/googleprojectzero/fuzzilli/commit/807625f0112df22bfe293aa4d36d67c31c4fb243| 
 | 20230223 | 像使用IDA一样使用Ghidra的插件 | https://gist.github.com/NyaMisty/06e65d0f0268d456d9d086aee08952ee| 
-| 20230223 | 这篇文章以实际案例展示了盲目信任第三方API会导致导致一系列安全问题 | https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230228T00:50:36Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230228T00:32:59Z | cve-2022-42889 | Null | https://github.com/devenes/text4shell-cve-2022-42889 | | 
+| 20230228T00:27:37Z | cve-2020-0796 | cve-2020-0796利用工具级 | https://github.com/OldDream666/cve-2020-0796 | | 
+| 20230227T23:19:24Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
+| 20230227T19:31:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
+| 20230227T18:08:39Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 | 20230227T13:42:02Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
-| 20230227T13:27:00Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230227T13:20:18Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230227T12:14:59Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
-| 20230227T11:29:56Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
 | 20230227T05:38:27Z | CVE-2021-32305 | Null | https://github.com/sz-guanx/CVE-2021-32305 | | 
-| 20230227T02:48:37Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230227T02:12:58Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
-| 20230227T01:21:09Z | CVE-2022-40881 | Null | https://github.com/yilin1203/CVE-2022-40881 | | 
 
 
 # klee on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T00:57:03Z | title | https://github.com/bribes/math-nation-exploit | 0 | 0| 
+| 20230227T23:56:28Z | Attack on vulnerability in developed feature where cwe-760 can be exploited and unsalted hashes can be obtained to perform a recovery with several strategies. | https://github.com/alexandertoepfer/cwe-shark-h | 0 | 0| 
+| 20230227T23:22:29Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 3 | 0| 
+| 20230227T23:19:33Z | Code to replicate ecological and genomic analyses in %Integration of genomic and ecologic methods inform management of an undescribed, yet highly exploited, sardine species%. | https://github.com/jessicovsky/Harengulasp_eco-gen-analyses | 0 | 0| 
+| 20230227T22:52:45Z | 💭 Fortnite External Cheat Release  /  Feature Aimbot + Esp  | https://github.com/Serups/Fortnite-External | 89 | 40| 
+| 20230227T22:43:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8v | 1 | 0| 
+| 20230227T22:43:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8v | 1 | 0| 
+| 20230227T22:42:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8v | 1 | 0| 
+| 20230227T21:05:53Z | A website which shows all of our known glitches and exploits. | https://github.com/GameGlitchExploiter/website | 0 | 0| 
 | 20230227T13:39:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5304 | 735| 
-| 20230227T13:01:22Z | Null | https://github.com/khalifadione/Slash_Syst-me_d-exploitation | 0 | 0| 
-| 20230227T11:59:32Z | This repository contains full of pen testing tools and exploit tools . Use it for Educational Purpose only !!! | https://github.com/CodingWithRam/Ethical_Hacking | 0 | 0| 
-| 20230227T11:10:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4029 | 501| 
-| 20230227T11:10:27Z | Null | https://github.com/Exploiterarmy/exploiterarmy.github.io | 1 | 0| 
-| 20230227T10:27:31Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
-| 20230227T09:42:06Z | 🧠 Emotional Algorithmic Exploitation (EAE) is a growing concern in the age of artificial intelligence (AI). It involves the use of AI to manipulate people%s emotions and desires in order to influence their behavior, often for the benefit of corporations or governments. | https://github.com/EAE-AI/ethical-ai | 0 | 0| 
-| 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
-| 20230227T03:46:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 580 | 156| 
-| 20230227T01:17:40Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/bronep/Fivem-Executor | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T00:39:21Z | Code Repository for the Paper ---Revisiting the Assumption of Latent Separability for Backdoor Defenses (ICLR 2023) | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 14 | 1| 
+| 20230227T20:23:27Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 4 | 0| 
+| 20230227T16:20:46Z | Poweshell payload in png file  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20230227T15:47:02Z | Dc Rat is Remote Administration Tool That Can Controls any Windows Machine Remotely, (All Windows Versions). (Features Remote Desktop, Remote Camera, Remote Files and Registry and More PowerFul and Fantastic Features It Can Do). (Warning For Educational Purposes Only). | https://github.com/SystemSoftwares/Dc-Rat-Cracked-Activated-For-Windows | 1 | 0| 
+| 20230227T14:16:47Z | Null | https://github.com/ebonx77/shell-backdoor | 0 | 0| 
 | 20230227T13:31:55Z | Remote Command executor | https://github.com/0xor0ne/recmd | 18 | 2| 
 | 20230227T12:38:37Z | Backdoor project to establish connection to end to end with a shell with capabilities of file uploading/downloading and terminal commands compatibility  | https://github.com/gegestalt/Static-addressed-backdoor | 0 | 0| 
 | 20230227T12:32:17Z | php bacdoor | https://github.com/cvericel/backdoor | 0 | 0| 
 | 20230227T10:50:40Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 2540 | 425| 
 | 20230227T07:27:23Z | a | https://github.com/chechoblones/backdoor | 0 | 0| 
-| 20230227T06:07:54Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 105 | 18| 
-| 20230227T05:47:04Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 4 | 0| 
-| 20230226T20:44:32Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 57 | 9| 
-| 20230226T20:17:55Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 3 | 0| 
-| 20230226T18:05:13Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230227T13:40:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8413 | 1830| 
-| 20230227T13:37:13Z | Grammar-based Fuzzing of Data Integration Parsers in Computational Materials Science | https://github.com/hub-se/fuzzingcmscodeparsers | 0 | 0| 
-| 20230227T13:20:18Z | Everything about menu | https://github.com/IkeArDevTech/Fuzzy | 0 | 0| 
-| 20230227T13:18:18Z | python ile fuzzing aracı | https://github.com/goktugtirak/fuzzing | 0 | 0| 
-| 20230227T12:56:24Z | Null | https://github.com/shahzaibhabib/foundry_fuzz | 0 | 0| 
-| 20230227T12:35:43Z | Null | https://github.com/khanhdz191/Tiny-URL-Fuzzer | 0 | 0| 
-| 20230227T12:31:07Z | This work introduce the idea of a fuzzy logic system, the fuzzy control and how the fuzzy logic works. Also since the fuzzy set theory is possible to implement in many areas, this work introduce to the use of fuzzy model for information retrieval systems this approach to capture the relationships between words and query language. | https://github.com/brunobonaiuto/Fuzzy-logic-and-Fuzzy-Information-Retreival | 0 | 0| 
-| 20230227T12:26:22Z | Null | https://github.com/maheenbatool/Development-of-Assistive-Technology-Using-Fuzzy-Logic-for-a-Person-with-Dementia | 0 | 0| 
-| 20230227T11:52:21Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 37 | 11| 
-| 20230227T11:24:56Z | Null | https://github.com/Royalnma/fuzzy-tele | 0 | 0| 
+| 20230228T00:17:44Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
+| 20230228T00:14:02Z | Null | https://github.com/Machine-Saver-Inc/fuzzy-octo-fishstick | 0 | 0| 
+| 20230227T23:27:22Z | Null | https://github.com/garryhouk/fuzzy-octo-fortnight | 0 | 0| 
+| 20230227T22:57:10Z | A script to fuzz for improper access control on a website. | https://github.com/RosePwns/FFIAC | 0 | 0| 
+| 20230227T22:37:32Z | A script to fuzz websites for information disclosures.  | https://github.com/RosePwns/FFID | 0 | 0| 
+| 20230227T22:18:31Z | A script to fuzz for Server-Side Request Forgery | https://github.com/RosePwns/FFSSRF | 0 | 0| 
+| 20230227T21:57:42Z | Null | https://github.com/google/fuzztest | 229 | 14| 
+| 20230227T21:32:53Z | A python script to fuzz for XSS vulnerabilities.  | https://github.com/RosePwns/FFXSS | 0 | 0| 
+| 20230227T16:08:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 888 | 204| 
+| 20230227T13:52:30Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 287 | 35| 
 
 
 
