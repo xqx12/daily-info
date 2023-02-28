@@ -34,6 +34,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T08:51:30Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 6| 
+| 20230228T07:11:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2173 | 607| 
 
 
 # s2e on Github 推荐
@@ -45,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T13:01:03Z | TP réalisé pendant le module SMB101 - Système d%exploitation : Principes, programmation et virtualisation | https://github.com/Sano07/SMB101-SystemeExploitation | 0 | 0| 
 | 20230228T12:59:51Z | TP réalisé pendant le module SMB101 - Système d%exploitation : Principes, programmation et virtualisation | https://github.com/Sano07/SMB101---Syst-me-d-exploitation | 0 | 0| 
 | 20230228T12:49:24Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 0 | 0| 
 | 20230228T12:21:41Z | I wrote this simple exploit during the %Exploit Writing course% for linux. | https://github.com/B1t3r/1st-Exploit | 0 | 0| 
@@ -54,7 +57,6 @@
 | 20230228T11:02:07Z | Null | https://github.com/9lyph/Exploit-Bridge | 0 | 0| 
 | 20230228T09:59:51Z | Various scripts for web exploitation and for deployment of docker applications | https://github.com/Lavender-exe/Web-Exploitation-Scripts | 0 | 0| 
 | 20230228T09:44:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 583 | 156| 
-| 20230228T08:55:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12799 | 2184| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +77,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T12:30:52Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 624 | 111| 
+| 20230228T07:11:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2173 | 607| 
+| 20230228T05:52:43Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 36 | 24| 
+| 20230228T04:39:50Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 21 | 2| 
 | 20230228T02:16:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3338 | 473| 
 
 
