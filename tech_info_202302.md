@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T01:29:46Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 1| 
 | 20230228T00:17:44Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20230228T00:14:02Z | Null | https://github.com/Machine-Saver-Inc/fuzzy-octo-fishstick | 0 | 0| 
 | 20230227T23:27:22Z | Null | https://github.com/garryhouk/fuzzy-octo-fortnight | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230227T21:57:42Z | Null | https://github.com/google/fuzztest | 229 | 14| 
 | 20230227T21:32:53Z | A python script to fuzz for XSS vulnerabilities.  | https://github.com/RosePwns/FFXSS | 0 | 0| 
 | 20230227T16:08:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 888 | 204| 
-| 20230227T13:52:30Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 287 | 35| 
 
 
 
