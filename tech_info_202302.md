@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230228T02:27:35Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230228T02:26:30Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
-| 20230228T02:25:05Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230228T02:06:51Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 | 20230228T01:48:25Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230228T01:36:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
