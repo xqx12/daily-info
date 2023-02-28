@@ -13,6 +13,7 @@
 | 20230227 | 将libafl harness编译为wasm来进行fuzz。 | https://github.com/AFLplusplus/LibAFL/tree/main/fuzzers/baby_fuzzer_wasm#libafl-wasm| 
 | 20230227 | 如何利用Phobos 勒索软件特定版本的问题对密钥生成可能性进行剪枝，从而在理论上实现对该勒索软件的暴力破解。 | https://www.reddit.com/r/ReverseEngineering/comments/11axztr/a_tale_of_phobos_how_we_almost_cracked_a/| 
 | 20230227 | ProxmoxVE 下的 Windows 内核调试环境配置 | http://paper.seebug.org/2052/| 
+| 20230227 | 利用 Windows WMI 服务隔离漏洞实现本地权限提升 | https://blog.securelayer7.net/how-to-exploit-the-windows-wmi-service-isolation-vulnerability/| 
 
 
 # 安全维基 推荐

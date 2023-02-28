@@ -13,6 +13,7 @@
 | 20230227 | 将libafl harness编译为wasm来进行fuzz。 | https://github.com/AFLplusplus/LibAFL/tree/main/fuzzers/baby_fuzzer_wasm#libafl-wasm| 
 | 20230227 | 如何利用Phobos 勒索软件特定版本的问题对密钥生成可能性进行剪枝，从而在理论上实现对该勒索软件的暴力破解。 | https://www.reddit.com/r/ReverseEngineering/comments/11axztr/a_tale_of_phobos_how_we_almost_cracked_a/| 
 | 20230227 | ProxmoxVE 下的 Windows 内核调试环境配置 | http://paper.seebug.org/2052/| 
+| 20230227 | 利用 Windows WMI 服务隔离漏洞实现本地权限提升 | https://blog.securelayer7.net/how-to-exploit-the-windows-wmi-service-isolation-vulnerability/| 
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
@@ -25,7 +26,6 @@
 | 20230224 | 微软MSRC官网的XSS漏洞的发现过程。 | https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82| 
 | 20230223 | Node.js 的 undici 库存在 CRLF 注入漏洞 | https://hackerone.com/reports/1820955| 
 | 20230223 | Fuzzilli新增了一个用于将js代码转换成Fuzzili IR的工具。 | https://github.com/googleprojectzero/fuzzilli/commit/807625f0112df22bfe293aa4d36d67c31c4fb243| 
-| 20230223 | 像使用IDA一样使用Ghidra的插件 | https://gist.github.com/NyaMisty/06e65d0f0268d456d9d086aee08952ee| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230228T02:26:30Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230228T02:25:05Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230228T02:08:59Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230228T02:06:51Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 | 20230228T01:48:25Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230228T01:36:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
