@@ -60,8 +60,8 @@
 | 20230227T22:43:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8v | 1 | 0| 
 | 20230227T22:42:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8v | 1 | 0| 
 | 20230227T21:05:53Z | A website which shows all of our known glitches and exploits. | https://github.com/GameGlitchExploiter/website | 0 | 0| 
+| 20230227T19:04:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 380 | 79| 
 | 20230227T13:39:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5304 | 735| 
-| 20230227T13:01:22Z | Null | https://github.com/khalifadione/Slash_Syst-me_d-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
