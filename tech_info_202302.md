@@ -106,12 +106,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T13:43:47Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 3 | 0| 
 | 20230228T12:32:52Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 4 | 0| 
 | 20230228T11:47:28Z | A data-free backdoor detector for deep neural networks | https://github.com/FuChong-cyber/Data-Free-Neural-Backdoor-Detector-FreeEagle | 0 | 0| 
 | 20230228T11:25:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 206 | 52| 
 | 20230228T10:18:22Z | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | https://github.com/NajeebJebreel/DBALFA | 2 | 0| 
 | 20230228T10:04:13Z | Null | https://github.com/mohamadxnadeem/Reverse_Backdoor | 0 | 0| 
-| 20230228T09:35:35Z | DOSrat 2.0 a CLI RAT written in C++ | https://github.com/Criper98/DOSrat-2.0 | 3 | 0| 
 | 20230228T06:15:12Z | Null | https://github.com/shahnewazaopu/Fat-Rat-Trozen-backdoor | 0 | 0| 
 | 20230228T03:21:15Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 9| 
 | 20230228T01:33:26Z | Null | https://github.com/ALISAXXW/backdoors-in-federated-learning | 0 | 0| 
