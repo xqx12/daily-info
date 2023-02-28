@@ -155,12 +155,12 @@
 | 20230228T11:58:53Z | Null | https://github.com/ldm0902/fuzzy-octo-winner | 0 | 0| 
 | 20230228T11:37:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1282 | 172| 
 | 20230228T10:15:08Z | Null | https://github.com/the-Jirakinalan/fuzzy-octo-parakeet | 1 | 0| 
+| 20230228T10:10:56Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 7 | 0| 
 | 20230228T09:18:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3451 | 693| 
 | 20230228T06:59:17Z | Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting (TIFS 2022 Accepted). | https://github.com/Messi-Q/IR-Fuzz | 18 | 2| 
 | 20230228T03:41:53Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 17 | 2| 
 | 20230228T02:42:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3436 | 413| 
 | 20230228T02:01:51Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
-| 20230228T01:29:46Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 1| 
 
 
 
