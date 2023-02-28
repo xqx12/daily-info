@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230228T13:45:44Z | CVE-2022-22965 |  🚀 Exploit for Spring4Shell in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | | 
 | 20230228T13:25:50Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230228T12:11:48Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
-| 20230228T12:02:46Z | CVE-2022-22965 |  🚀 Exploit for Spring4Shell in C | https://github.com/pwnwriter/CVE-2022-22965 | | 
 | 20230228T11:29:52Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20230228T09:17:58Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
 | 20230228T08:09:35Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
