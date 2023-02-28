@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T02:42:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3436 | 413| 
 | 20230228T02:01:51Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
 | 20230228T01:29:46Z | Null | https://github.com/mmsaki/fuzzy-octo-lamp | 0 | 1| 
 | 20230228T00:17:44Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230227T22:37:32Z | A script to fuzz websites for information disclosures.  | https://github.com/RosePwns/FFID | 0 | 0| 
 | 20230227T22:18:31Z | A script to fuzz for Server-Side Request Forgery | https://github.com/RosePwns/FFSSRF | 0 | 0| 
 | 20230227T21:57:42Z | Null | https://github.com/google/fuzztest | 229 | 14| 
-| 20230227T21:32:53Z | A python script to fuzz for XSS vulnerabilities.  | https://github.com/RosePwns/FFXSS | 0 | 0| 
 
 
 

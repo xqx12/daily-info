@@ -104,10 +104,10 @@
 | 20230227T22:18:31Z | A script to fuzz for Server-Side Request Forgery | https://github.com/RosePwns/FFSSRF | 0 | 0| 
 | 20230227T21:57:42Z | Null | https://github.com/google/fuzztest | 229 | 14| 
 | 20230227T21:32:53Z | A python script to fuzz for XSS vulnerabilities.  | https://github.com/RosePwns/FFXSS | 0 | 0| 
-| 20230227T18:16:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3435 | 413| 
 | 20230227T16:08:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 888 | 204| 
 | 20230227T13:52:30Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 287 | 35| 
 | 20230227T13:40:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8413 | 1830| 
+| 20230227T13:37:13Z | Grammar-based Fuzzing of Data Integration Parsers in Computational Materials Science | https://github.com/hub-se/fuzzingcmscodeparsers | 0 | 0| 
 
 
 
