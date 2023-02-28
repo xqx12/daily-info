@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230228T01:06:10Z | cve-2022-42889 | Null | https://github.com/devenes/text4shell-cve-2022-42889 | | 
 | 20230228T00:50:36Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230228T00:32:59Z | cve-2022-42889 | Null | https://github.com/devenes/text4shell-cve-2022-42889 | | 
 | 20230228T00:27:37Z | cve-2020-0796 | cve-2020-0796利用工具级 | https://github.com/OldDream666/cve-2020-0796 | | 
 | 20230227T23:19:24Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230227T19:31:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
