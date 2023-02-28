@@ -142,7 +142,7 @@
 | 20230226T15:55:05Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 2 | 0| 
 | 20230225T10:19:15Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 9 | 1| 
 | 20230224T12:09:49Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 4 | 0| 
-| 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 29| 
+| 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 28| 
 | 20230220T08:35:24Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 3 | 0| 
 | 20230217T16:16:23Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 2 | 0| 
 | 20230217T02:13:33Z | Prototype implementation of Cash et al.%s NDSS%14 scheme PiBas. | https://github.com/AKarbas/PiBas-Implementation | 0 | 0| 
