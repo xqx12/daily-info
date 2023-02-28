@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T01:37:57Z | Math/Algebra Nation Early Review Exploit By Faav#6320 | https://github.com/bribes/mathnation-review-exploit | 0 | 0| 
+| 20230228T01:35:36Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 529 | 730| 
 | 20230228T00:57:03Z | title | https://github.com/bribes/math-nation-exploit | 0 | 0| 
 | 20230227T23:56:28Z | Attack on vulnerability in developed feature where cwe-760 can be exploited and unsalted hashes can be obtained to perform a recovery with several strategies. | https://github.com/alexandertoepfer/cwe-shark-h | 0 | 0| 
 | 20230227T23:22:29Z | Various CTF-like puzzles and corresponding exploits. | https://github.com/R-Rothrock/testing_sites | 3 | 0| 
@@ -99,8 +101,6 @@
 | 20230227T22:43:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8v | 1 | 0| 
 | 20230227T22:43:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8v | 1 | 0| 
 | 20230227T22:42:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8v | 1 | 0| 
-| 20230227T21:05:53Z | A website which shows all of our known glitches and exploits. | https://github.com/GameGlitchExploiter/website | 0 | 0| 
-| 20230227T13:39:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5304 | 735| 
 
 
 # backdoor on Github 推荐
