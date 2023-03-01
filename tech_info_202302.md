@@ -138,14 +138,14 @@
 | --- | --- | --- | --- | ---| 
 | 20230228T12:51:21Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 1 | 0| 
 | 20230228T04:23:37Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 1 | 0| 
-| 20230227T14:40:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 14 | 1| 
+| 20230227T14:40:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 14 | 2| 
 | 20230227T14:39:48Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 72 | 38| 
 | 20230227T02:12:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 28 | 2| 
-| 20230226T15:55:05Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 2 | 0| 
+| 20230226T15:55:05Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 2 | 1| 
 | 20230225T10:19:15Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 9 | 1| 
 | 20230224T12:09:49Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 4 | 0| 
 | 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 28| 
-| 20230220T08:35:24Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 3 | 0| 
+| 20230220T08:35:24Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 3 | 1| 
 
 
 # fuzz on Github 推荐
