@@ -9,22 +9,33 @@
 | 20230228 | 逆向分析 Intel 8086 处理器的 ModR/M 寻址微码 | http://www.righto.com/2023/02/8086-modrm-addressing.html| 
 | 20230228 | 恶意软件开始利用eBPF的一些特性来辅助攻击 | http://redcanary.com/blog/ebpf-malware/| 
 | 20230228 | 由google project zero研究员发现的Arm Mali CSF UAF漏洞细节。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2373| 
+| 20230228 | hdmi的干涉可以被用作侧信道进行数据传输。这个技术可以用于在物理隔离的机器中偷数据。 | https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html| 
+| 20230228 | 卡巴斯基发布了移动平台下的恶意软件全方位的统计报告 | https://securelist.com/mobile-threat-report-2022/108844/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_1770xhjtaes6ymu| 
+| 20230228 | 通过自动化分析发现了Gecko SDK的溢出漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/11ddyvz/cve202224942_heapbased_buffer_overflow_in_silicon/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230228 | 企业级SaaS化脆弱性管理平台建设实践 | https://mp.weixin.qq.com/s/9WoNVqGmc-KMPlPHTn5kwg| 
+| 20230228 | 网络靶场：划时代的新型网络安全基础设施 | https://mp.weixin.qq.com/s/EVrDJfoL2_I5_o4flRo3Kg| 
+| 20230228 | 伪造Cisco VPN证书更新程序的C3木马 | https://mp.weixin.qq.com/s/iKPm0T3aR3Shjiw_W6jTsw| 
+| 20230228 | 中国网络安全市场洞察报告（2022年） | https://docs.qq.com/pdf/DT0tXT2l4TlFLYUtG?&u=2f6f19393f7e4f08b1a6d90a50ad8d3a| 
+| 20230228 | ChatGPT 中，G、P、T 分别是什么意思？ | https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA| 
+| 20230228 | 2022 年度最“不可赦”漏洞 | https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw| 
+| 20230228 | 活跃的hoze挖矿木马分析 | https://mp.weixin.qq.com/s/-mZD0pPbeIgxoTUNNFBnrw| 
+| 20230228 | 加密SOCKS5信道中防DNS泄露 | https://mp.weixin.qq.com/s/SNu9SXFFT1xA6LH4r81YOw| 
+| 20230228 | 数字中国建设整体布局规划 | https://mp.weixin.qq.com/s/zUmy99B8wx7p8MrXVoYD1g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230228T13:54:57Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230228T13:45:44Z | CVE-2022-22965 |  🚀 Exploit for Spring4Shell in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | | 
+| 20230228T22:06:12Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
+| 20230228T17:01:21Z | CVE-2022-22965 |  🚀 Exploit for Spring core RCE in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | | 
 | 20230228T12:11:48Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230228T11:29:52Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20230228T09:17:58Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230228T08:09:35Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230228T02:06:51Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 | 20230228T01:36:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230228T01:34:25Z | cve-2022-42889 | Kubernetes Lab for CVE-2022-42889 | https://github.com/devenes/text4shell-cve-2022-42889 | | 
@@ -47,31 +58,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T23:39:16Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 0 | 0| 
+| 20230228T23:34:56Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 10 | 0| 
+| 20230228T23:33:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5t | 1 | 0| 
+| 20230228T23:32:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5t | 1 | 0| 
+| 20230228T23:31:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5t | 1 | 0| 
+| 20230228T23:26:34Z | OSES 2022-23 Group Project: Buffer Overflow Exploit (Priviledge Escalation) | https://github.com/Lelezinski/buffer-overflow-demo | 0 | 0| 
+| 20230228T23:23:20Z | K[nown]E[exploited]V[ulnerabilietes]IN[sights] | https://github.com/Marcuccio/kevin | 0 | 0| 
+| 20230228T22:49:47Z | Exploiting digital side channels to extract passwords | https://github.com/anderson-truong/ECE188-Side-Channel-Attacks | 0 | 0| 
+| 20230228T21:52:09Z | The old et exploits (Deleted) were saved by me. | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
 | 20230228T13:45:44Z |  🚀 Exploit for Spring4Shell in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | 0 | 0| 
-| 20230228T13:08:39Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 3 | 0| 
-| 20230228T13:06:16Z | TP réalisé pendant le module SMB101 - Système d%exploitation : Principes, programmation et virtualisation | https://github.com/Sano07/SMB101-SystemeExploitation | 0 | 0| 
-| 20230228T12:59:51Z | TP réalisé pendant le module SMB101 - Système d%exploitation : Principes, programmation et virtualisation | https://github.com/Sano07/SMB101---Syst-me-d-exploitation | 0 | 0| 
-| 20230228T12:49:24Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 0 | 0| 
-| 20230228T12:21:41Z | I wrote this simple exploit during the %Exploit Writing course% for linux. | https://github.com/B1t3r/1st-Exploit | 0 | 0| 
-| 20230228T12:07:06Z | Python script to brute force multiple file name with LFI exploit  | https://github.com/VouillamozHugo/LFI_Bruteforce | 0 | 0| 
-| 20230228T12:07:05Z | Null | https://github.com/restdone/exploit_restdone | 0 | 0| 
-| 20230228T11:02:07Z | Null | https://github.com/9lyph/Exploit-Bridge | 0 | 0| 
-| 20230228T09:59:51Z | Various scripts for web exploitation and for deployment of docker applications | https://github.com/Lavender-exe/Web-Exploitation-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T23:34:56Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 10 | 0| 
+| 20230228T18:49:26Z | Remote Command executor | https://github.com/0xor0ne/recmd | 32 | 6| 
+| 20230228T18:20:40Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 3 | 0| 
+| 20230228T18:10:04Z | Backdoor Stuff | https://github.com/RexerField/RexDoor | 0 | 0| 
+| 20230228T17:23:48Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 9| 
+| 20230228T17:22:16Z | Ukab (UNO) Sample php_backdoor generator/connector , py3 urllib-based 100% | https://github.com/timizart/Ukab | 0 | 0| 
+| 20230228T17:12:25Z | 一句話木馬管理工具-Webshell Manager | https://github.com/malbuffer4pt/WebBus | 1 | 0| 
+| 20230228T16:40:54Z | No backdoor ETH & ERC-20 & NFT stealer drains ETH + NFT Seaport, Uniswap Drainer | https://github.com/C4lme/monkey-drainer | 31 | 23| 
+| 20230228T16:39:50Z | Uniswap & Seaport, Opensea NFT Drainer, ERC-20, ETH All in one No backdoor | https://github.com/C4lme/nft-drainer-monkey-drainer | 42 | 0| 
 | 20230228T13:43:47Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 3 | 0| 
-| 20230228T12:32:52Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 4 | 0| 
-| 20230228T11:47:28Z | A data-free backdoor detector for deep neural networks | https://github.com/FuChong-cyber/Data-Free-Neural-Backdoor-Detector-FreeEagle | 0 | 0| 
-| 20230228T11:25:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 206 | 52| 
-| 20230228T10:18:22Z | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | https://github.com/NajeebJebreel/DBALFA | 2 | 0| 
-| 20230228T10:04:13Z | Null | https://github.com/mohamadxnadeem/Reverse_Backdoor | 0 | 0| 
-| 20230228T06:15:12Z | Null | https://github.com/shahnewazaopu/Fat-Rat-Trozen-backdoor | 0 | 0| 
-| 20230228T03:21:15Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 9| 
-| 20230228T01:33:26Z | Null | https://github.com/ALISAXXW/backdoors-in-federated-learning | 0 | 0| 
-| 20230228T01:11:33Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 106 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -94,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230228T12:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8420 | 1830| 
+| 20230228T21:30:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
+| 20230228T19:22:32Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
+| 20230228T17:45:01Z | Generating random queries for tabular data | https://github.com/skababji-ehil/fuzzy_sql | 0 | 0| 
+| 20230228T15:58:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8421 | 1832| 
+| 20230228T15:35:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1282 | 174| 
+| 20230228T15:25:56Z | Custom bootloader & os that will eventually launch a hypervisor for full system snapshot based fuzzing | https://github.com/seal9055/vfuzz | 3 | 1| 
 | 20230228T11:58:53Z | Null | https://github.com/ldm0902/fuzzy-octo-winner | 0 | 0| 
-| 20230228T11:37:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1282 | 172| 
 | 20230228T10:15:08Z | Null | https://github.com/the-Jirakinalan/fuzzy-octo-parakeet | 1 | 0| 
 | 20230228T10:10:56Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 7 | 0| 
 | 20230228T09:18:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3451 | 693| 
-| 20230228T06:59:17Z | Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting (TIFS 2022 Accepted). | https://github.com/Messi-Q/IR-Fuzz | 18 | 2| 
-| 20230228T03:41:53Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 17 | 2| 
-| 20230228T02:42:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3436 | 413| 
-| 20230228T02:01:51Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
 
 
 
