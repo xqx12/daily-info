@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230228T21:31:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3436 | 413| 
 | 20230228T21:30:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
 | 20230228T19:22:32Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
 | 20230228T17:45:01Z | Generating random queries for tabular data | https://github.com/skababji-ehil/fuzzy_sql | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230228T10:10:56Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 7 | 0| 
 | 20230228T09:18:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3451 | 693| 
 | 20230228T06:59:17Z | Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting (TIFS 2022 Accepted). | https://github.com/Messi-Q/IR-Fuzz | 18 | 2| 
-| 20230228T03:41:53Z | WEB API fuzzing  | https://github.com/vulntinker/FUA | 17 | 2| 
 
 
 
