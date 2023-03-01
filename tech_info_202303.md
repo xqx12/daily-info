@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230301T13:24:29Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
+| 20230301T13:24:41Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
 | 20230301T13:21:58Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230301T11:33:31Z | CVE-2022-0337 | Null | https://github.com/maldev866/ChExp-CVE-2022-0337- | | 
 | 20230301T11:24:28Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
