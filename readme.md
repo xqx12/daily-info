@@ -98,6 +98,7 @@
 | 20230301T11:01:42Z | Null | https://github.com/luckyshmo/fuzz-demo | 0 | 0| 
 | 20230301T10:31:41Z | Fuzz a list of domains for specific endpoints | https://github.com/ameenalkurdy/endsfuzzer | 0 | 0| 
 | 20230301T09:41:12Z | Null | https://github.com/DeroMuli/fuzzylogic | 0 | 0| 
+| 20230301T08:17:18Z | Fuzzy Logic – A form of knowledge representation suitable for notions that cannot be defined precisely. | https://github.com/Foxriver-2005/Traffic-Control-Using-Fuzzy-Logic | 0 | 0| 
 | 20230301T07:38:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4583 | 1101| 
 | 20230301T06:56:10Z | Null | https://github.com/Yamauti-Kaito/fuzzy-potato | 0 | 0| 
 | 20230301T01:47:00Z | Null | https://github.com/RodrigoGomez104418/fuzzy-sniffle.io | 0 | 0| 
