@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T13:44:07Z | Null | https://github.com/dityasalsabila/FuzzySugeno-acneSeverity | 0 | 0| 
 | 20230301T12:37:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8424 | 1832| 
 | 20230301T11:59:13Z | Null | https://github.com/T0K4TIN/fuzzy-octo-meme | 0 | 0| 
 | 20230301T11:01:42Z | Null | https://github.com/luckyshmo/fuzz-demo | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20230301T07:38:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4583 | 1101| 
 | 20230301T06:56:10Z | Null | https://github.com/Yamauti-Kaito/fuzzy-potato | 0 | 0| 
 | 20230301T01:47:00Z | Null | https://github.com/RodrigoGomez104418/fuzzy-sniffle.io | 0 | 0| 
-| 20230301T01:36:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1283 | 174| 
 
 
 
