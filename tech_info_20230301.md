@@ -76,7 +76,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230301T01:01:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3340 | 473| 
+| 20230301T11:56:09Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
+| 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 607| 
+| 20230301T06:34:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3340 | 473| 
+| 20230301T06:27:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 322 | 24| 
 
 
 # big4 on Github 推荐
