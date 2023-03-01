@@ -67,7 +67,7 @@
 | 20230228T23:23:20Z | K[nown]E[exploited]V[ulnerabilietes]IN[sights] | https://github.com/Marcuccio/kevin | 0 | 0| 
 | 20230228T22:49:47Z | Exploiting digital side channels to extract passwords | https://github.com/anderson-truong/ECE188-Side-Channel-Attacks | 0 | 0| 
 | 20230228T21:52:09Z | The old et exploits (Deleted) were saved by me. | https://github.com/Tacogamerman/Et-exploits-legacy | 1 | 0| 
-| 20230228T13:45:44Z |  🚀 Exploit for Spring4Shell in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | 0 | 0| 
+| 20230228T19:48:03Z | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 529 | 43| 
 
 
 # backdoor on Github 推荐
