@@ -51,11 +51,11 @@
 | 20230228T12:11:48Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230228T11:29:52Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20230228T09:17:58Z | CVE-2023-21839 | Null | https://github.com/DXask88MA/Weblogic-CVE-2023-21839 | | 
-| 20230228T02:06:51Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 | 20230228T01:36:42Z | CVE-2022-39952 | POC for CVE-2022-39952 | https://github.com/horizon3ai/CVE-2022-39952 | | 
 | 20230228T01:34:25Z | cve-2022-42889 | Kubernetes Lab for CVE-2022-42889 | https://github.com/devenes/text4shell-cve-2022-42889 | | 
 | 20230228T00:27:37Z | cve-2020-0796 | cve-2020-0796利用工具级 | https://github.com/OldDream666/cve-2020-0796 | | 
 | 20230227T19:31:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
+| 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
