@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T13:15:07Z | The purpose of this paper is to exploit Twitter data in order to perform sociological analysis. In particular, the frame chosen for this work are past USA midterm elections held on the 8th of November 2022. | https://github.com/MatteoScianna/Twitter-analysis-US-midterms | 0 | 0| 
 | 20230301T13:13:29Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 2 | 1| 
 | 20230301T12:33:05Z | D-Link DIR-615 vulnerabilities PoCs | https://github.com/ftdot/dir615_pocs | 0 | 0| 
 | 20230301T12:24:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3332 | 497| 
@@ -57,7 +58,6 @@
 | 20230301T07:44:09Z | binary exploitation | https://github.com/ayoubrs/Over_Ride | 0 | 0| 
 | 20230301T02:23:00Z | #exploits | https://github.com/gkpiccoli/pentesting | 0 | 0| 
 | 20230301T02:07:00Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It servers for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 0 | 0| 
-| 20230301T01:44:24Z | An exploit for Deepwoken | https://github.com/lukankerhubsources/Deepsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
