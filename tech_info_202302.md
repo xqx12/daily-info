@@ -46,7 +46,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230228T22:06:12Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230228T17:01:21Z | CVE-2022-22965 |  🚀 Exploit for Spring core RCE in C [ wip ] | https://github.com/pwnwriter/CVE-2022-22965 | | 
 | 20230228T12:11:48Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230228T11:29:52Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
@@ -56,6 +55,7 @@
 | 20230228T00:27:37Z | cve-2020-0796 | cve-2020-0796利用工具级 | https://github.com/OldDream666/cve-2020-0796 | | 
 | 20230227T19:31:54Z | CVE-2023-0669 | Null | https://github.com/yosef0x01/CVE-2023-0669-Analysis | | 
 | 20230227T09:04:40Z | CVE-2021-22205 | Null | https://github.com/hhhotdrink/CVE-2021-22205 | | 
+| 20230227T05:38:27Z | CVE-2021-32305 | Null | https://github.com/sz-guanx/CVE-2021-32305 | | 
 
 
 # klee on Github 推荐
