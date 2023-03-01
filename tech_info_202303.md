@@ -49,6 +49,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230301T12:33:05Z | D-Link DIR-615 vulnerabilities PoCs | https://github.com/ftdot/dir615_pocs | 0 | 0| 
+| 20230301T12:24:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3332 | 497| 
 | 20230301T12:20:32Z | Null | https://github.com/b4chir/exploits | 0 | 0| 
 | 20230301T11:55:53Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 1 | 1| 
 | 20230301T11:09:32Z | An Ethernaut x Foundry Box to locally test your Ethernaut exploits before submission (and train your Foundry skills!). | https://github.com/NaviNavu/foundry-ethernaut-box | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20230301T02:23:00Z | #exploits | https://github.com/gkpiccoli/pentesting | 0 | 0| 
 | 20230301T02:07:00Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It servers for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 0 | 0| 
 | 20230301T01:44:24Z | An exploit for Deepwoken | https://github.com/lukankerhubsources/Deepsploit | 0 | 0| 
-| 20230301T01:42:14Z | OSES 2022-23 Group Project: Buffer Overflow Exploit (Priviledge Escalation) | https://github.com/Lelezinski/buffer-overflow-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
