@@ -12,6 +12,7 @@
 | 20230228 | hdmi的干涉可以被用作侧信道进行数据传输。这个技术可以用于在物理隔离的机器中偷数据。 | https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html| 
 | 20230228 | 卡巴斯基发布了移动平台下的恶意软件全方位的统计报告 | https://securelist.com/mobile-threat-report-2022/108844/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_1770xhjtaes6ymu| 
 | 20230228 | 通过自动化分析发现了Gecko SDK的溢出漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/11ddyvz/cve202224942_heapbased_buffer_overflow_in_silicon/| 
+| 20230228 | SolarWinds NPM对Json数据反序列化时缺乏校验，导致远程命令执行，攻击需认证。 | https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor| 
 
 
 # 安全维基 推荐
@@ -95,7 +96,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230228T12:51:21Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 1 | 0| 
 | 20230228T04:23:37Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 1 | 0| 
 
 

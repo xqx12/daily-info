@@ -12,6 +12,7 @@
 | 20230228 | hdmi的干涉可以被用作侧信道进行数据传输。这个技术可以用于在物理隔离的机器中偷数据。 | https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html| 
 | 20230228 | 卡巴斯基发布了移动平台下的恶意软件全方位的统计报告 | https://securelist.com/mobile-threat-report-2022/108844/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_1770xhjtaes6ymu| 
 | 20230228 | 通过自动化分析发现了Gecko SDK的溢出漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/11ddyvz/cve202224942_heapbased_buffer_overflow_in_silicon/| 
+| 20230228 | SolarWinds NPM对Json数据反序列化时缺乏校验，导致远程命令执行，攻击需认证。 | https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor| 
 | 20230227 | Weblogic CVE-2023-21839 RCE的漏洞利用代码，该漏洞为Weblogic IIOP/T3协议的实现缺陷 | https://github.com/4ra1n/CVE-2023-21839| 
 | 20230227 | 通用UEFI bootkit，可实现用户态代码执行 | https://github.com/realoriginal/bootlicker| 
 | 20230227 | 安卓APP逆向工程实用脚本 | http://securityonline.info/apk-sh-makes-reverse-engineering-android-apps-easier/| 
@@ -25,7 +26,6 @@
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
 | 20230226 | Toxssin：XSS自动化利用工具 | http://skynettools.com/toxssin-open-source-penetration-testing-tool-that-automates-exploiting-cross-site-scripting-xss/| 
 | 20230226 | 缓解措施NSPredicateVisitor可被绕过，允许攻击者执行任意代码。 | https://gbhackers.com/apple-privilege-escalation/| 
-| 20230224 | 绕过 ESP32 芯片的 Flash 加密功能 | http://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/| 
 
 
 # 安全维基 推荐
@@ -136,7 +136,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230228T12:51:21Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 1 | 0| 
 | 20230228T04:23:37Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 1 | 0| 
 | 20230227T14:40:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 14 | 2| 
 | 20230227T14:39:48Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 72 | 38| 
@@ -146,6 +145,7 @@
 | 20230224T12:09:49Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 4 | 0| 
 | 20230220T13:49:50Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 74 | 28| 
 | 20230220T08:35:24Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 3 | 1| 
+| 20230217T16:16:23Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 2 | 0| 
 
 
 # fuzz on Github 推荐
