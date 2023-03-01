@@ -76,7 +76,7 @@
 | 20230228T18:49:26Z | Remote Command executor | https://github.com/0xor0ne/recmd | 32 | 6| 
 | 20230228T18:20:40Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 3 | 0| 
 | 20230228T18:10:04Z | Backdoor Stuff | https://github.com/RexerField/RexDoor | 0 | 0| 
-| 20230228T17:23:48Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 9| 
+| 20230228T17:23:48Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 10| 
 | 20230228T17:22:16Z | Ukab (UNO) Sample php_backdoor generator/connector , py3 urllib-based 100% | https://github.com/timizart/Ukab | 0 | 0| 
 | 20230228T17:12:25Z | 一句話木馬管理工具-Webshell Manager | https://github.com/malbuffer4pt/WebBus | 1 | 0| 
 | 20230228T16:40:54Z | No backdoor ETH & ERC-20 & NFT stealer drains ETH + NFT Seaport, Uniswap Drainer | https://github.com/C4lme/monkey-drainer | 31 | 23| 
