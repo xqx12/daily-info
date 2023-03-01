@@ -107,13 +107,13 @@
 | 20230228T21:30:03Z | Null | https://github.com/marticztn/fuzzyerasoftworks.com | 0 | 0| 
 | 20230228T19:22:32Z | Null | https://github.com/alvarotorijano/flipperZero_helpDeskFuzzer | 0 | 0| 
 | 20230228T17:45:01Z | Generating random queries for tabular data | https://github.com/skababji-ehil/fuzzy_sql | 0 | 0| 
-| 20230228T15:58:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8421 | 1832| 
 | 20230228T15:35:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1282 | 174| 
 | 20230228T15:25:56Z | Custom bootloader & os that will eventually launch a hypervisor for full system snapshot based fuzzing | https://github.com/seal9055/vfuzz | 3 | 1| 
 | 20230228T11:58:53Z | Null | https://github.com/ldm0902/fuzzy-octo-winner | 0 | 0| 
 | 20230228T10:15:08Z | Null | https://github.com/the-Jirakinalan/fuzzy-octo-parakeet | 1 | 0| 
 | 20230228T10:10:56Z | Null | https://github.com/adriandersen/obsidian-fuzzytag | 7 | 0| 
 | 20230228T09:18:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3451 | 693| 
+| 20230228T06:59:17Z | Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting (TIFS 2022 Accepted). | https://github.com/Messi-Q/IR-Fuzz | 18 | 2| 
 
 
 
