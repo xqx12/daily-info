@@ -48,10 +48,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T13:13:29Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 2 | 1| 
 | 20230301T12:33:05Z | D-Link DIR-615 vulnerabilities PoCs | https://github.com/ftdot/dir615_pocs | 0 | 0| 
 | 20230301T12:24:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3332 | 497| 
 | 20230301T12:20:32Z | Null | https://github.com/b4chir/exploits | 0 | 0| 
-| 20230301T11:55:53Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 1 | 1| 
 | 20230301T11:09:32Z | An Ethernaut x Foundry Box to locally test your Ethernaut exploits before submission (and train your Foundry skills!). | https://github.com/NaviNavu/foundry-ethernaut-box | 0 | 0| 
 | 20230301T07:47:50Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 8 | 3| 
 | 20230301T07:44:09Z | binary exploitation | https://github.com/ayoubrs/Over_Ride | 0 | 0| 
