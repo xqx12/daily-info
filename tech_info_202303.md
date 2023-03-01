@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T13:28:31Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/koirp/Fortnite-Softaim | 1 | 0| 
+| 20230301T13:26:26Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/koirp/Rust-Cheat | 1 | 0| 
+| 20230301T13:25:58Z | Null | https://github.com/georgebas123/Instagram-Account-Takeover-Exploit | 0 | 0| 
+| 20230301T13:24:46Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/koirp/Valorant-Cheat | 1 | 0| 
+| 20230301T13:22:44Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/koirp/HWID-Spoofer | 1 | 0| 
+| 20230301T13:21:13Z | PRIVATE TOOL!!! | https://github.com/farrasrayhand/MikroTik_Exploit | 1 | 0| 
 | 20230301T13:15:07Z | The purpose of this paper is to exploit Twitter data in order to perform sociological analysis. In particular, the frame chosen for this work are past USA midterm elections held on the 8th of November 2022. | https://github.com/MatteoScianna/Twitter-analysis-US-midterms | 0 | 0| 
 | 20230301T13:13:29Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 2 | 1| 
 | 20230301T12:33:05Z | D-Link DIR-615 vulnerabilities PoCs | https://github.com/ftdot/dir615_pocs | 0 | 0| 
 | 20230301T12:24:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3332 | 497| 
-| 20230301T12:20:32Z | Null | https://github.com/b4chir/exploits | 0 | 0| 
-| 20230301T11:09:32Z | An Ethernaut x Foundry Box to locally test your Ethernaut exploits before submission (and train your Foundry skills!). | https://github.com/NaviNavu/foundry-ethernaut-box | 0 | 0| 
-| 20230301T07:47:50Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 8 | 3| 
-| 20230301T07:44:09Z | binary exploitation | https://github.com/ayoubrs/Over_Ride | 0 | 0| 
-| 20230301T02:23:00Z | #exploits | https://github.com/gkpiccoli/pentesting | 0 | 0| 
-| 20230301T02:07:00Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It servers for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
