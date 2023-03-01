@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230228T23:34:56Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 10 | 0| 
-| 20230228T18:49:26Z | Remote Command executor | https://github.com/0xor0ne/recmd | 32 | 6| 
 | 20230228T18:20:40Z | Cyber Security projects. . . | https://github.com/bharadwajamavilla/Cyber-Octopus | 3 | 0| 
 | 20230228T18:10:04Z | Backdoor Stuff | https://github.com/RexerField/RexDoor | 0 | 0| 
 | 20230228T17:23:48Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 58 | 10| 
@@ -81,6 +80,7 @@
 | 20230228T16:40:54Z | No backdoor ETH & ERC-20 & NFT stealer drains ETH + NFT Seaport, Uniswap Drainer | https://github.com/C4lme/monkey-drainer | 31 | 23| 
 | 20230228T16:39:50Z | Uniswap & Seaport, Opensea NFT Drainer, ERC-20, ETH All in one No backdoor | https://github.com/C4lme/nft-drainer-monkey-drainer | 42 | 0| 
 | 20230228T13:43:47Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 3 | 0| 
+| 20230228T12:32:52Z | A python utility to remotely control your device | https://github.com/Xeroxxhah/6u4rd | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
