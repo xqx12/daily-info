@@ -92,7 +92,6 @@
 | 20230228T07:11:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2173 | 607| 
 | 20230228T05:52:43Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 36 | 24| 
 | 20230228T04:39:50Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 21 | 2| 
-| 20230228T02:16:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3338 | 473| 
 
 
 # big4 on Github 推荐

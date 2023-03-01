@@ -125,8 +125,8 @@
 | 20230228T07:11:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2173 | 607| 
 | 20230228T05:52:43Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 36 | 24| 
 | 20230228T04:39:50Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 21 | 2| 
-| 20230228T02:16:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3338 | 473| 
 | 20230227T11:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 302 | 74| 
+| 20230227T01:44:15Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 321 | 24| 
 | 20230226T20:25:30Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 43| 
 | 20230226T16:24:58Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 3 | 0| 
 | 20230225T11:49:29Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 22 | 14| 
