@@ -13,6 +13,8 @@
 | 20230228 | 卡巴斯基发布了移动平台下的恶意软件全方位的统计报告 | https://securelist.com/mobile-threat-report-2022/108844/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_1770xhjtaes6ymu| 
 | 20230228 | 通过自动化分析发现了Gecko SDK的溢出漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/11ddyvz/cve202224942_heapbased_buffer_overflow_in_silicon/| 
 | 20230228 | SolarWinds NPM对Json数据反序列化时缺乏校验，导致远程命令执行，攻击需认证。 | https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor| 
+| 20230228 | 借助uWSGI配置文件利用任意文件写漏洞实现RCE。uWSGI配置文件语法支持从http读取、文件描述符、进程stdout读取数据等。 | http://blog.doyensec.com//2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html| 
+| 20230228 | 一种将uWSGI服务器所部署服务的受限文件写入漏洞转换成RCE的攻击方式 | http://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html| 
 | 20230227 | Weblogic CVE-2023-21839 RCE的漏洞利用代码，该漏洞为Weblogic IIOP/T3协议的实现缺陷 | https://github.com/4ra1n/CVE-2023-21839| 
 | 20230227 | 通用UEFI bootkit，可实现用户态代码执行 | https://github.com/realoriginal/bootlicker| 
 | 20230227 | 安卓APP逆向工程实用脚本 | http://securityonline.info/apk-sh-makes-reverse-engineering-android-apps-easier/| 
@@ -24,8 +26,6 @@
 | 20230226 | 一个合约的形式化认证工具。 | https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67| 
 | 20230226 | 使用oledump分析MSI文件。 | http://i5c.us/d29584| 
 | 20230226 | Goanaywhere存在因反序列化导致的RCE漏洞。 | https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere| 
-| 20230226 | Toxssin：XSS自动化利用工具 | http://skynettools.com/toxssin-open-source-penetration-testing-tool-that-automates-exploiting-cross-site-scripting-xss/| 
-| 20230226 | 缓解措施NSPredicateVisitor可被绕过，允许攻击者执行任意代码。 | https://gbhackers.com/apple-privilege-escalation/| 
 
 
 # 安全维基 推荐
