@@ -24,10 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230301T13:21:58Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230301T13:16:42Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
 | 20230301T11:33:31Z | CVE-2022-0337 | Null | https://github.com/maldev866/ChExp-CVE-2022-0337- | | 
 | 20230301T11:24:28Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
-| 20230301T09:54:07Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230301T06:22:14Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
 | 20230301T02:30:42Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
 | 20230301T01:51:12Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
