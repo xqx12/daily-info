@@ -24,25 +24,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230301T13:58:28Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
-| 20230301T13:24:41Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
-| 20230301T13:21:58Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230301T22:41:02Z | 未知编号 | Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/LucyRcs/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230301T22:41:00Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230301T16:38:03Z | CVE-2023-22490 | Null | https://github.com/smash8tap/CVE-2023-22490_PoC | | 
+| 20230301T16:21:47Z | CVE-2022-25845 | Null | https://github.com/nerowander/CVE-2022-25845-exploit | | 
+| 20230301T16:14:01Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
+| 20230301T15:29:57Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230301T15:29:31Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
 | 20230301T11:33:31Z | CVE-2022-0337 | Null | https://github.com/maldev866/ChExp-CVE-2022-0337- | | 
 | 20230301T11:24:28Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230301T06:22:14Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
-| 20230301T02:30:42Z | CVE-2023-21608 | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2023-21608 | | 
-| 20230301T01:51:12Z | CVE-2022-40684 | 一键枚举所有用户名以及写入SSH公钥 | https://github.com/z-bool/CVE-2022-40684 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 607| 
+| 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 608| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T20:40:12Z | E-comm shopping site | https://github.com/megha980/S2E-Shop | 0 | 0| 
+| 20230301T15:37:30Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 78 | 14| 
 | 20230301T11:56:09Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230301T01:38:26Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 85 | 45| 
 
@@ -50,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
+| 20230301T19:54:57Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
 | 20230301T13:30:19Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/koirp/HWID-Spoofer | 2 | 0| 
 | 20230301T13:30:18Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/koirp/Valorant-Cheat | 2 | 0| 
 | 20230301T13:30:17Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/koirp/Rust-Cheat | 2 | 0| 
-| 20230301T13:30:16Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/koirp/Fivem-Executor | 2 | 0| 
 | 20230301T13:30:16Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/koirp/Fortnite-Softaim | 2 | 0| 
-| 20230301T13:25:58Z | Null | https://github.com/georgebas123/Instagram-Account-Takeover-Exploit | 0 | 0| 
-| 20230301T13:21:13Z | PRIVATE TOOL!!! | https://github.com/farrasrayhand/MikroTik_Exploit | 1 | 0| 
-| 20230301T13:15:07Z | The purpose of this paper is to exploit Twitter data in order to perform sociological analysis. In particular, the frame chosen for this work are past USA midterm elections held on the 8th of November 2022. | https://github.com/MatteoScianna/Twitter-analysis-US-midterms | 0 | 0| 
-| 20230301T13:13:29Z | Modicon M580/M340 Safety Protection bypass and utils. | https://github.com/0xedh/schneider_plc_exploit | 2 | 1| 
-| 20230301T12:33:05Z | D-Link DIR-615 vulnerabilities PoCs | https://github.com/ftdot/dir615_pocs | 0 | 0| 
+| 20230301T13:30:16Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/koirp/Fivem-Executor | 2 | 0| 
+| 20230301T13:30:05Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 2 | 0| 
+| 20230301T13:30:03Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/bronep/Valorant-Cheat | 2 | 0| 
+| 20230301T13:30:02Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/bronep/Rust-Cheat | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
+| 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
+| 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
+| 20230301T20:31:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 264 | 36| 
+| 20230301T20:26:33Z | Null | https://github.com/Srv45/-Fuzzy-Logic-to-Diagnose-Malaria | 0 | 0| 
+| 20230301T20:11:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8425 | 1831| 
+| 20230301T20:07:50Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 10 | 2| 
 | 20230301T13:59:26Z | 基于关系学习的内核模糊测试工具 | https://github.com/Yuhan2001/myFuzzer | 0 | 0| 
 | 20230301T13:44:07Z | Null | https://github.com/dityasalsabila/FuzzySugeno-acneSeverity | 0 | 0| 
-| 20230301T12:37:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8424 | 1832| 
-| 20230301T11:59:13Z | Null | https://github.com/T0K4TIN/fuzzy-octo-meme | 0 | 0| 
-| 20230301T11:01:42Z | Null | https://github.com/luckyshmo/fuzz-demo | 0 | 0| 
-| 20230301T10:31:41Z | Fuzz a list of domains for specific endpoints | https://github.com/ameenalkurdy/endsfuzzer | 0 | 0| 
-| 20230301T09:41:12Z | Null | https://github.com/DeroMuli/fuzzylogic | 0 | 0| 
-| 20230301T08:17:18Z | Fuzzy Logic – A form of knowledge representation suitable for notions that cannot be defined precisely. | https://github.com/Foxriver-2005/Traffic-Control-Using-Fuzzy-Logic | 0 | 0| 
-| 20230301T07:38:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4583 | 1101| 
-| 20230301T06:56:10Z | Null | https://github.com/Yamauti-Kaito/fuzzy-potato | 0 | 0| 
+| 20230301T13:31:14Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 520 | 66| 
 
 
 
