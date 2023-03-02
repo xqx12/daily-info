@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T13:10:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5314 | 735| 
 | 20230302T12:55:42Z | Checker and exploit for Bluekeep CVE-2019-0708 vulnerability | https://github.com/davidfortytwo/bluekeep | 0 | 0| 
 | 20230302T12:17:17Z | Null | https://github.com/HaxorSec1945/cve-exploit | 0 | 0| 
 | 20230302T12:08:41Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
@@ -58,7 +59,6 @@
 | 20230302T06:38:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
 | 20230302T02:55:12Z | 60+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 276 | 51| 
 | 20230302T02:29:15Z | Null | https://github.com/Sayim0x/CORS-Exploit | 0 | 0| 
-| 20230302T02:28:40Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb Unive… | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
 
 
 # backdoor on Github 推荐
