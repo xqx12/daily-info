@@ -58,13 +58,13 @@
 | 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
 | 20230301T19:54:57Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
+| 20230301T17:54:21Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 58 | 4| 
 | 20230301T13:30:19Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/koirp/HWID-Spoofer | 2 | 0| 
 | 20230301T13:30:18Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/koirp/Valorant-Cheat | 2 | 0| 
 | 20230301T13:30:17Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/koirp/Rust-Cheat | 2 | 0| 
 | 20230301T13:30:16Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/koirp/Fortnite-Softaim | 2 | 0| 
 | 20230301T13:30:16Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/koirp/Fivem-Executor | 2 | 0| 
 | 20230301T13:30:05Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 2 | 0| 
-| 20230301T13:30:03Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/bronep/Valorant-Cheat | 2 | 0| 
 
 
 # backdoor on Github 推荐
