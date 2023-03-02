@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T01:24:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
 | 20230301T19:54:57Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
@@ -64,7 +65,6 @@
 | 20230301T13:30:17Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/koirp/Rust-Cheat | 2 | 0| 
 | 20230301T13:30:16Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/koirp/Fortnite-Softaim | 2 | 0| 
 | 20230301T13:30:16Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/koirp/Fivem-Executor | 2 | 0| 
-| 20230301T13:30:05Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/bronep/HWID-Spoofer | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
 | 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
 | 20230302T00:53:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1286 | 175| 
 | 20230302T00:30:00Z | Null | https://github.com/weirdsmiley/fuzzylogic | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20230301T20:31:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 264 | 36| 
 | 20230301T20:26:33Z | Null | https://github.com/Srv45/-Fuzzy-Logic-to-Diagnose-Malaria | 0 | 0| 
 | 20230301T20:11:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8425 | 1831| 
-| 20230301T20:07:50Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 10 | 2| 
 
 
 
