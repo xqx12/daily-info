@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T01:31:32Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3438 | 413| 
 | 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
 | 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
 | 20230302T00:53:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1286 | 175| 
@@ -113,7 +114,6 @@
 | 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
 | 20230301T20:31:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 264 | 36| 
 | 20230301T20:26:33Z | Null | https://github.com/Srv45/-Fuzzy-Logic-to-Diagnose-Malaria | 0 | 0| 
-| 20230301T20:11:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8425 | 1831| 
 
 
 
