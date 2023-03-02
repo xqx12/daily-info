@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T13:30:39Z | my playground for python learning | https://github.com/fuzz123123/Fuzzland | 0 | 0| 
 | 20230302T13:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3456 | 692| 
 | 20230302T12:31:47Z | Null | https://github.com/loyejaotdiqr47123/fuzzy-doodle | 0 | 0| 
 | 20230302T12:15:35Z | Luu Quang Hoi - 20146124 | https://github.com/LuuQuangHoi/AI_Exercise_Fuzzy_W5 | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20230302T07:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1287 | 176| 
 | 20230302T06:39:04Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
 | 20230302T02:51:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3439 | 414| 
-| 20230302T02:48:20Z | Null | https://github.com/gongfubook/apollo-fuzz | 0 | 0| 
 
 
 
