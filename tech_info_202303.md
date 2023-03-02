@@ -13,6 +13,7 @@
 | 20230301 | sudo 的 per-command chroot 特性实现代码中存在 double free 漏洞 | http://seclists.org/oss-sec/2023/q1/119| 
 | 20230301 | 微软发布多模态大语言模型 KOSMOS-1 | https://arxiv.org/pdf/2302.14045.pdf| 
 | 20230301 | sudo又出现了漏洞，不过这次需要在/etc/sudoers配置了chroot之后才能触发 | http://seclists.org/oss-sec/2023/q1/120| 
+| 20230301 | Linux内核UAF漏洞（CVE-2023-1118）细节 | http://seclists.org/oss-sec/2023/q1/128| 
 
 
 # 安全维基 推荐
