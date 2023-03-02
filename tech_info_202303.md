@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T02:48:20Z | Null | https://github.com/gongfubook/apollo-fuzz | 0 | 0| 
 | 20230302T02:09:24Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
 | 20230302T01:31:32Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3438 | 413| 
 | 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20230301T23:49:49Z | A project meant to be used as an enumerator/fuzzer for mapping out scam organizations. It%s methods are based off of analysis of the most commonly used scam URL formats. This tool is not intended to work as a replacement for standard enumeration tools. | https://github.com/natstandridge/Scam-Mapper | 0 | 0| 
 | 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
 | 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
-| 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
 
 
 
