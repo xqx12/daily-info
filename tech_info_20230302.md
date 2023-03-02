@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T13:59:09Z | This repository will use NVD (National Vulnerabilities Database), JVN (Japan Vulnerability Notes),OVAL(Open Vulnerability and Assessment Language), Exploit Databases, metasploit databases and etc.... to scan servers and patch the servers via SSH | https://github.com/aliiikz/scan_and_patch_servers | 0 | 0| 
 | 20230302T13:29:58Z | Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School | https://github.com/SchoolIzBoring/Unblocked-Websites | 2 | 0| 
 | 20230302T13:10:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5314 | 735| 
 | 20230302T12:55:42Z | Checker and exploit for Bluekeep CVE-2019-0708 vulnerability | https://github.com/davidfortytwo/bluekeep | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20230302T11:26:26Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 57 | 15| 
 | 20230302T11:19:52Z | In this article, we will implement a Twist Attack with an example and show how, using certain points on the secp256k1 elliptic curve, we can get partial private key values ​​and restore a Bitcoin Wallet within 5-15 minutes using “Sagemath pollard rho function: (discrete_log_rho)” and “ Chinese Remainder Theorem” . | https://github.com/demining/Twist-Attack-2 | 0 | 0| 
 | 20230302T08:56:53Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 568 | 100| 
-| 20230302T06:38:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
 
 
 # backdoor on Github 推荐
