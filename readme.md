@@ -14,6 +14,8 @@
 | 20230301 | 微软发布多模态大语言模型 KOSMOS-1 | https://arxiv.org/pdf/2302.14045.pdf| 
 | 20230301 | sudo又出现了漏洞，不过这次需要在/etc/sudoers配置了chroot之后才能触发 | http://seclists.org/oss-sec/2023/q1/120| 
 | 20230301 | Linux内核UAF漏洞（CVE-2023-1118）细节 | http://seclists.org/oss-sec/2023/q1/128| 
+| 20230301 | 关于BlackLotus UEFI bootkit的详细分析。这个bootkit利用UEFI安全启动的nday漏洞绕过安全启动并在启动过程中加载恶意的内核模块。 | https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/| 
+| 20230301 | ZK Framework在22年5月份修复的漏洞CVE-2022-36537被攻击者广泛利用，能够实现远程命令执行、安装恶意驱动等。 | https://www.rapid7.com/blog/post/2023/03/01/etr-active-exploitation-of-zk-framework-cve-2022-36537/| 
 
 
 # 安全维基 推荐
