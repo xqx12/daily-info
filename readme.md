@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230301T23:49:49Z | A project meant to be used as an enumerator/fuzzer for mapping out scam organizations. It%s methods are based off of analysis of the most commonly used scam URL formats. This tool is not intended to work as a replacement for standard enumeration tools. | https://github.com/natstandridge/Scam-Mapper | 0 | 0| 
 | 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
 | 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
 | 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20230301T20:07:50Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 10 | 2| 
 | 20230301T13:59:26Z | 基于关系学习的内核模糊测试工具 | https://github.com/Yuhan2001/myFuzzer | 0 | 0| 
 | 20230301T13:44:07Z | Null | https://github.com/dityasalsabila/FuzzySugeno-acneSeverity | 0 | 0| 
-| 20230301T13:31:14Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 520 | 66| 
 
 
 

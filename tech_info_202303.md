@@ -114,10 +114,10 @@
 | 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
 | 20230302T00:53:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1286 | 175| 
 | 20230302T00:30:00Z | Null | https://github.com/weirdsmiley/fuzzylogic | 0 | 0| 
+| 20230301T23:49:49Z | A project meant to be used as an enumerator/fuzzer for mapping out scam organizations. It%s methods are based off of analysis of the most commonly used scam URL formats. This tool is not intended to work as a replacement for standard enumeration tools. | https://github.com/natstandridge/Scam-Mapper | 0 | 0| 
 | 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
 | 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
 | 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
-| 20230301T20:31:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 264 | 36| 
 
 
 
