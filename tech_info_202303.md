@@ -62,13 +62,13 @@
 | 20230302T02:29:15Z | Null | https://github.com/Sayim0x/CORS-Exploit | 0 | 0| 
 | 20230302T02:28:40Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb Unive… | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
 | 20230302T01:55:25Z | Null | https://github.com/SoftCreed/Exploits | 0 | 0| 
+| 20230302T01:50:07Z | Rusty Process Injection / Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 73 | 13| 
 | 20230302T01:26:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T01:25:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T01:24:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
 | 20230301T19:54:57Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
-| 20230301T17:54:21Z | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | 58 | 4| 
 
 
 # backdoor on Github 推荐
@@ -108,9 +108,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T02:51:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3439 | 413| 
 | 20230302T02:48:20Z | Null | https://github.com/gongfubook/apollo-fuzz | 0 | 0| 
 | 20230302T02:09:24Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
-| 20230302T01:31:32Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3438 | 413| 
 | 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
 | 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
 | 20230302T00:53:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1286 | 175| 
