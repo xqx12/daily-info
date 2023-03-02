@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T13:29:58Z | Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School | https://github.com/SchoolIzBoring/Unblocked-Websites | 2 | 0| 
 | 20230302T13:10:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5314 | 735| 
 | 20230302T12:55:42Z | Checker and exploit for Bluekeep CVE-2019-0708 vulnerability | https://github.com/davidfortytwo/bluekeep | 0 | 0| 
 | 20230302T12:17:17Z | Null | https://github.com/HaxorSec1945/cve-exploit | 0 | 0| 
 | 20230302T12:08:41Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20230302T12:00:07Z | Various nefarious labs | https://github.com/scottymcandrew/exploit-labs | 1 | 1| 
+| 20230302T11:26:26Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 57 | 15| 
 | 20230302T11:19:52Z | In this article, we will implement a Twist Attack with an example and show how, using certain points on the secp256k1 elliptic curve, we can get partial private key values ​​and restore a Bitcoin Wallet within 5-15 minutes using “Sagemath pollard rho function: (discrete_log_rho)” and “ Chinese Remainder Theorem” . | https://github.com/demining/Twist-Attack-2 | 0 | 0| 
 | 20230302T08:56:53Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 568 | 100| 
 | 20230302T06:38:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
-| 20230302T02:55:12Z | 60+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 276 | 51| 
-| 20230302T02:29:15Z | Null | https://github.com/Sayim0x/CORS-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
