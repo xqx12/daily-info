@@ -21,6 +21,12 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230302 | [HTB] SteamCloud Writeup | https://mp.weixin.qq.com/s/UU9FiZ61X8_XnaoDTv3ovA| 
+| 20230302 | 在机器学习模型中植入不可检测的后门 | https://arxiv.org/pdf/2204.06974.pdf| 
+| 20230302 | ChatGPT潜在的八大“安全隐患”洞察 | https://mp.weixin.qq.com/s/a4ZBuI3SMNobWDeaXrEJ_w| 
+| 20230302 | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg| 
+| 20230302 | Apache Flink 2022 平台建设大会视频及PPT | https://flink-learning.org.cn/activity/detail/d3d092c45467c40fb8526c4ec2141be2?name=activity&tab=suoyou&page=1| 
+| 20230302 | Apache Flink 2022 平台建设大会视频及PPT | /news/31063| 
 | 20230301 | 美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特... | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw| 
 | 20230301 | 逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ| 
 
@@ -28,21 +34,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230302T02:40:26Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230302T12:42:50Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
+| 20230302T12:36:02Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230302T10:35:20Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230302T10:23:12Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230302T09:23:03Z | CVE-2022-45988 | CVE-2022-45988 StarSoftComm HP CooCare An elevation of privilege vulnerability exists | https://github.com/happy0717/CVE-2022-45988 | | 
+| 20230302T07:55:45Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
+| 20230302T03:03:03Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
 | 20230301T22:41:02Z | 未知编号 | Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/LucyRcs/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20230301T22:41:00Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230301T16:38:03Z | CVE-2023-22490 | Null | https://github.com/smash8tap/CVE-2023-22490_PoC | | 
 | 20230301T16:21:47Z | CVE-2022-25845 | Null | https://github.com/nerowander/CVE-2022-25845-exploit | | 
-| 20230301T16:14:01Z | CVE-2022-31814 | Null | https://github.com/TheUnknownSoul/CVE-2022-31814 | | 
-| 20230301T15:29:57Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230301T15:29:31Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
-| 20230301T11:33:31Z | CVE-2022-0337 | Null | https://github.com/maldev866/ChExp-CVE-2022-0337- | | 
-| 20230301T11:24:28Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T10:33:18Z | Null | https://github.com/Kleerodgers/Kleerodgers | 0 | 0| 
+| 20230302T10:29:30Z | Perform Time Series Analysis on KLEE Dataset | https://github.com/anastzel/time-series-klee | 0 | 0| 
+| 20230302T03:18:07Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 75 | 6| 
 | 20230302T00:31:55Z | Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. | https://github.com/Subramanyam6/Symbolic-Execution-Testing-of-TCP-using-KLEE-Float | 0 | 0| 
 | 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 608| 
 
@@ -59,21 +68,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T12:55:42Z | Checker and exploit for Bluekeep CVE-2019-0708 vulnerability | https://github.com/davidfortytwo/bluekeep | 0 | 0| 
+| 20230302T12:17:17Z | Null | https://github.com/HaxorSec1945/cve-exploit | 0 | 0| 
+| 20230302T12:08:41Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20230302T12:00:07Z | Various nefarious labs | https://github.com/scottymcandrew/exploit-labs | 1 | 1| 
+| 20230302T11:19:52Z | In this article, we will implement a Twist Attack with an example and show how, using certain points on the secp256k1 elliptic curve, we can get partial private key values ​​and restore a Bitcoin Wallet within 5-15 minutes using “Sagemath pollard rho function: (discrete_log_rho)” and “ Chinese Remainder Theorem” . | https://github.com/demining/Twist-Attack-2 | 0 | 0| 
+| 20230302T06:38:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
 | 20230302T02:55:12Z | 60+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 276 | 51| 
 | 20230302T02:29:15Z | Null | https://github.com/Sayim0x/CORS-Exploit | 0 | 0| 
 | 20230302T02:28:40Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb Unive… | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
 | 20230302T01:55:25Z | Null | https://github.com/SoftCreed/Exploits | 0 | 0| 
-| 20230302T01:50:07Z | Rusty Process Injection / Post-Exploitation Techniques | https://github.com/memN0ps/arsenal-rs | 73 | 13| 
-| 20230302T01:26:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0o | 1 | 0| 
-| 20230302T01:25:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0o | 1 | 0| 
-| 20230302T01:24:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0o | 1 | 0| 
-| 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
-| 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T09:12:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 108 | 18| 
 | 20230301T19:26:49Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 11 | 0| 
 | 20230301T13:59:49Z | Remote Command executor | https://github.com/0xor0ne/recmd | 35 | 6| 
 | 20230301T12:59:29Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 18 | 3| 
@@ -108,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T12:31:47Z | Null | https://github.com/loyejaotdiqr47123/fuzzy-doodle | 0 | 0| 
+| 20230302T12:15:35Z | Luu Quang Hoi - 20146124 | https://github.com/LuuQuangHoi/AI_Exercise_Fuzzy_W5 | 0 | 0| 
+| 20230302T12:12:25Z | LuuQuangHoi - 20146124 - FuzzyLogic | https://github.com/LuuQuangHoi/AI_Exercise_FuzzyLogic | 0 | 0| 
+| 20230302T11:29:18Z | Null | https://github.com/Pranabiitp/Fuzzy-Ensemble-based-Multi-stage-Network | 0 | 0| 
+| 20230302T09:58:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8426 | 1831| 
+| 20230302T07:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1287 | 176| 
+| 20230302T06:39:04Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
 | 20230302T02:51:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3439 | 414| 
 | 20230302T02:48:20Z | Null | https://github.com/gongfubook/apollo-fuzz | 0 | 0| 
-| 20230302T02:09:24Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
-| 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
-| 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
-| 20230302T00:53:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1286 | 175| 
-| 20230302T00:30:00Z | Null | https://github.com/weirdsmiley/fuzzylogic | 0 | 0| 
-| 20230301T23:49:49Z | A project meant to be used as an enumerator/fuzzer for mapping out scam organizations. It%s methods are based off of analysis of the most commonly used scam URL formats. This tool is not intended to work as a replacement for standard enumeration tools. | https://github.com/natstandridge/Scam-Mapper | 0 | 0| 
-| 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
-| 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
+| 20230302T02:08:16Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1576 | 268| 
 
 
 
