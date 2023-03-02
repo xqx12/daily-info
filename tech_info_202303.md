@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T02:09:24Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
 | 20230302T01:31:32Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3438 | 413| 
 | 20230302T01:20:47Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
 | 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
 | 20230301T21:40:53Z | Shallow | https://github.com/Bombastic71/fuzzy-dollop | 0 | 0| 
 | 20230301T20:31:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 264 | 36| 
-| 20230301T20:26:33Z | Null | https://github.com/Srv45/-Fuzzy-Logic-to-Diagnose-Malaria | 0 | 0| 
 
 
 
