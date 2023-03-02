@@ -120,7 +120,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230302T13:42:13Z | my playground for python learning | https://github.com/fuzz123123/Fuzzland | 0 | 0| 
-| 20230302T13:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3456 | 692| 
+| 20230302T13:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3456 | 691| 
 | 20230302T12:31:47Z | Null | https://github.com/loyejaotdiqr47123/fuzzy-doodle | 0 | 0| 
 | 20230302T12:15:35Z | Luu Quang Hoi - 20146124 | https://github.com/LuuQuangHoi/AI_Exercise_Fuzzy_W5 | 0 | 0| 
 | 20230302T12:12:25Z | LuuQuangHoi - 20146124 - FuzzyLogic | https://github.com/LuuQuangHoi/AI_Exercise_FuzzyLogic | 0 | 0| 
