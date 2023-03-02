@@ -102,6 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T01:03:29Z | Null | https://github.com/joseffaghihi/fuzzy-Big-Bird | 0 | 0| 
 | 20230302T00:30:00Z | Null | https://github.com/weirdsmiley/fuzzylogic | 0 | 0| 
 | 20230301T23:42:47Z | Null | https://github.com/JVE12/fuzzy-succotash | 0 | 0| 
 | 20230301T22:53:44Z | ARCHIVED! A string similarity metric library for VL. With an example of FuzzySearch implementation. | https://github.com/vvvv/VL.FuzzySearch | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230301T20:11:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8425 | 1831| 
 | 20230301T20:07:50Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 10 | 2| 
 | 20230301T13:59:26Z | 基于关系学习的内核模糊测试工具 | https://github.com/Yuhan2001/myFuzzer | 0 | 0| 
-| 20230301T13:44:07Z | Null | https://github.com/dityasalsabila/FuzzySugeno-acneSeverity | 0 | 0| 
 
 
 
