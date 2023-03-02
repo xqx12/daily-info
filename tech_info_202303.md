@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T02:55:12Z | 60+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 276 | 51| 
 | 20230302T02:29:15Z | Null | https://github.com/Sayim0x/CORS-Exploit | 0 | 0| 
 | 20230302T02:28:40Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb Unive… | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
 | 20230302T01:55:25Z | Null | https://github.com/SoftCreed/Exploits | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230302T01:24:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
-| 20230301T19:54:57Z | 🥊 Valorant External Release Bypass / Aimbot + Esp + Obs bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
 
 
 # backdoor on Github 推荐
