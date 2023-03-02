@@ -55,6 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T01:26:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0o | 1 | 0| 
+| 20230302T01:25:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T01:24:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0o | 1 | 0| 
 | 20230302T00:19:52Z | DeaD Frontier 2 Cheat Aimbot Softaim MORE | https://github.com/aboounzo/Dead-Frontier-2-Cheat | 0 | 0| 
 | 20230301T22:29:53Z | roblox exploits | https://github.com/jenny-mod/roblox-exploits | 0 | 0| 
@@ -63,8 +65,6 @@
 | 20230301T13:30:19Z | 🖥️ / HWID Spoofer for games like: Warzone 2, Rust, Valorant, R6, GTA5, Fortnite, Fivem, Overwatch etc | https://github.com/koirp/HWID-Spoofer | 2 | 0| 
 | 20230301T13:30:18Z | ✨ , Cheat with a simple GUI made for Valorant , UNDETECTED , AIMBOT , ESP , NO RECOIL , MORE | https://github.com/koirp/Valorant-Cheat | 2 | 0| 
 | 20230301T13:30:17Z | 🔥 , Cheat with a simple GUI made for Rust , UNDETECTED , AIMBOT , ESP , FLY , NO RECOIL , INFINITE AMMO , MORE | https://github.com/koirp/Rust-Cheat | 2 | 0| 
-| 20230301T13:30:16Z | 💥 , FORTNITE Softaim that gives you insane aim and reduces your bloom , UNDETECTED | https://github.com/koirp/Fortnite-Softaim | 2 | 0| 
-| 20230301T13:30:16Z | 💉,  Fivem Executor , UNDETECTED , DUMPER | https://github.com/koirp/Fivem-Executor | 2 | 0| 
 
 
 # backdoor on Github 推荐
