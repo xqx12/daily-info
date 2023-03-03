@@ -35,7 +35,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230303T01:55:40Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230303T01:58:58Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230303T01:20:21Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230303T00:58:28Z | 未知编号 | Null | https://github.com/Cvergara2023/Cvergara2023 | | 
 | 20230303T00:21:35Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
