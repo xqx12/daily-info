@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T13:45:05Z | A Tail Wagging Competition | https://github.com/optimisticjc/fuzzy-waddle | 0 | 0| 
 | 20230303T13:24:13Z | Null | https://github.com/LanzyKevin/aspnet_client-fuzz-list | 0 | 0| 
 | 20230303T13:07:41Z | A Peach based, ICS protocol oriented, Fine-grained Coverage feedback Fuzzer. | https://github.com/Ashieta/PIFC_Fuzzer | 0 | 0| 
 | 20230303T11:23:41Z | fuzzy searching, hard forked from https://github.com/jmaargh/fzyr  | https://github.com/museun/fuzzy | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230302T23:33:56Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
 | 20230302T22:49:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1577 | 268| 
 | 20230302T21:56:08Z | Null | https://github.com/johnleoharkins/fuzzy-chainsaw | 0 | 0| 
-| 20230302T20:35:26Z | No do overs | https://github.com/Turner1a/fuzzy-octo-bassoon | 0 | 0| 
 
 
 
