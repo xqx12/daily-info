@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230302 | 针对进程设置路由规则 | https://www.kawabangga.com/posts/4935| 
 | 20230301 | PHP SplDoublyLinkedList::pop函数中的UAF漏洞及利用 | https://therealcoiffeur.com/c101010| 
 | 20230301 | 区块链常见漏洞列表 | https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md| 
 | 20230301 | 介绍去中心化交易所 Uniswap（从v1到v3）所使用的协议 | http://mirror.xyz/haruxe.eth/q-2jXIvcXI4cPDgmQLac1L_iQ6zXgbmCtIhgCHnabc8| 
@@ -34,23 +35,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230302T13:20:55Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230303T00:58:28Z | 未知编号 | Null | https://github.com/Cvergara2023/Cvergara2023 | | 
+| 20230303T00:53:12Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230303T00:21:35Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
+| 20230302T20:25:43Z | CVE-2022-23093 | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | | 
+| 20230302T16:51:04Z | CVE-2022-1471 | Code for veracode blog | https://github.com/1fabunicorn/SnakeYAML-CVE-2022-1471-POC | | 
+| 20230302T16:16:51Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230302T14:25:56Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230302T12:42:50Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
-| 20230302T12:36:02Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230302T10:35:20Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230302T09:23:03Z | CVE-2022-45988 | CVE-2022-45988 StarSoftComm HP CooCare An elevation of privilege vulnerability exists | https://github.com/happy0717/CVE-2022-45988 | | 
-| 20230302T07:55:45Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
-| 20230302T03:03:03Z | CVE-2023-23752 | 未授权访问漏洞 | https://github.com/ibaiw/joomla_CVE-2023-23752 | | 
-| 20230301T22:41:02Z | 未知编号 | Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/LucyRcs/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20230301T16:38:03Z | CVE-2023-22490 | Null | https://github.com/smash8tap/CVE-2023-22490_PoC | | 
-| 20230301T16:21:47Z | CVE-2022-25845 | Null | https://github.com/nerowander/CVE-2022-25845-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T18:42:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10888 | 353| 
 | 20230302T10:33:18Z | Null | https://github.com/Kleerodgers/Kleerodgers | 0 | 0| 
 | 20230302T10:29:30Z | Perform Time Series Analysis on KLEE Dataset | https://github.com/anastzel/time-series-klee | 0 | 0| 
+| 20230302T07:22:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 221 | 2| 
 | 20230302T03:18:07Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 75 | 6| 
 | 20230302T00:31:55Z | Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. | https://github.com/Subramanyam6/Symbolic-Execution-Testing-of-TCP-using-KLEE-Float | 0 | 0| 
 | 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 608| 
@@ -68,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T00:53:49Z | Detects technologies used on a website and their versions and searches Exploit-DB for any known vulnerabilities. | https://github.com/Hacking-Notes/VulnFinder | 0 | 0| 
+| 20230303T00:49:21Z | This code contains an exploitable bufferoverflow | https://github.com/shenetworks/LuckySpin | 0 | 0| 
+| 20230303T00:44:37Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 82 | 22| 
+| 20230303T00:31:11Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb University | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
+| 20230302T23:45:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ch | 1 | 0| 
+| 20230302T23:44:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ch | 1 | 0| 
+| 20230302T23:43:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ch | 1 | 0| 
+| 20230302T22:58:37Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3460 | 521| 
+| 20230302T20:25:43Z | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | 1 | 0| 
 | 20230302T13:59:09Z | This repository will use NVD (National Vulnerabilities Database), JVN (Japan Vulnerability Notes),OVAL(Open Vulnerability and Assessment Language), Exploit Databases, metasploit databases and etc.... to scan servers and patch the servers via SSH | https://github.com/aliiikz/scan_and_patch_servers | 0 | 0| 
-| 20230302T13:29:58Z | Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School | https://github.com/SchoolIzBoring/Unblocked-Websites | 2 | 0| 
-| 20230302T13:10:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5314 | 735| 
-| 20230302T12:55:42Z | Checker and exploit for Bluekeep CVE-2019-0708 vulnerability | https://github.com/davidfortytwo/bluekeep | 0 | 0| 
-| 20230302T12:17:17Z | Null | https://github.com/HaxorSec1945/cve-exploit | 0 | 0| 
-| 20230302T12:08:41Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20230302T12:00:07Z | Various nefarious labs | https://github.com/scottymcandrew/exploit-labs | 1 | 1| 
-| 20230302T11:26:26Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 57 | 15| 
-| 20230302T11:19:52Z | In this article, we will implement a Twist Attack with an example and show how, using certain points on the secp256k1 elliptic curve, we can get partial private key values ​​and restore a Bitcoin Wallet within 5-15 minutes using “Sagemath pollard rho function: (discrete_log_rho)” and “ Chinese Remainder Theorem” . | https://github.com/demining/Twist-Attack-2 | 0 | 0| 
-| 20230302T08:56:53Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 568 | 100| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230302T22:11:40Z | Null | https://github.com/Ajithrajachristian/Backdoor-py | 0 | 0| 
+| 20230302T20:02:33Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 40 | 11| 
+| 20230302T19:21:21Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
+| 20230302T16:01:39Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1344 | 466| 
+| 20230302T15:55:13Z | Webshelll / Backdoor Colection | https://github.com/KosameAmegai/WebShell | 0 | 0| 
+| 20230302T14:35:19Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 0 | 0| 
+| 20230302T14:17:58Z | Null | https://github.com/Shell-IndoXploit/Download-Shell-Backdoor-IndoXploit | 1 | 0| 
 | 20230302T09:12:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 108 | 18| 
 | 20230301T19:26:49Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 11 | 0| 
 | 20230301T13:59:49Z | Remote Command executor | https://github.com/0xor0ne/recmd | 35 | 6| 
-| 20230301T12:59:29Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 18 | 3| 
-| 20230301T07:25:42Z | Null | https://github.com/SewoongLab/ntk-backdoor | 1 | 0| 
-| 20230301T06:51:13Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 0 | 0| 
-| 20230301T06:40:40Z | Create an undetectable python backdoor with NXcrypt and Metasploit, all with one program | https://github.com/Vort3xed/SpeedShell | 0 | 0| 
-| 20230301T05:19:46Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
-| 20230301T03:36:45Z | 一句話木馬管理工具-Webshell Manager | https://github.com/malbuffer4pt/WebBus | 1 | 0| 
-| 20230301T03:11:27Z | Hacker hacked vsftpd server and left a backdoor in it. To active the backdoor use this exploit.  | https://github.com/subhodeep2/vsftpd_exploit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T00:22:35Z | Null | https://github.com/scoop7117/fuzzer | 0 | 0| 
+| 20230303T00:21:46Z | Proyecto Final del Curso de Desarrollo Web 2023 | https://github.com/csbaenasierraalta/fuzzy-couscous | 0 | 0| 
+| 20230302T23:33:56Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
+| 20230302T21:56:08Z | Null | https://github.com/johnleoharkins/fuzzy-chainsaw | 0 | 0| 
+| 20230302T20:35:26Z | No do overs | https://github.com/Turner1a/fuzzy-octo-bassoon | 0 | 0| 
+| 20230302T18:25:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2656 | 181| 
+| 20230302T16:09:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1960 | 251| 
+| 20230302T16:03:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 88 | 7| 
 | 20230302T13:56:12Z | junks | https://github.com/fuzz123123/fuzzTest | 0 | 0| 
 | 20230302T13:42:13Z | my playground for python learning | https://github.com/fuzz123123/Fuzzland | 0 | 0| 
-| 20230302T13:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3456 | 692| 
-| 20230302T12:31:47Z | Null | https://github.com/loyejaotdiqr47123/fuzzy-doodle | 0 | 0| 
-| 20230302T12:15:35Z | Luu Quang Hoi - 20146124 | https://github.com/LuuQuangHoi/AI_Exercise_Fuzzy_W5 | 0 | 0| 
-| 20230302T12:12:25Z | LuuQuangHoi - 20146124 - FuzzyLogic | https://github.com/LuuQuangHoi/AI_Exercise_FuzzyLogic | 0 | 0| 
-| 20230302T11:29:18Z | Null | https://github.com/Pranabiitp/Fuzzy-Ensemble-based-Multi-stage-Network | 0 | 0| 
-| 20230302T09:58:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8426 | 1831| 
-| 20230302T07:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1287 | 176| 
-| 20230302T06:39:04Z | python | https://github.com/rhkddns3459/url_fuzzer | 0 | 0| 
 
 
 
