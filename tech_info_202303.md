@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T01:34:28Z | Null | https://github.com/ringa-tech/bing-html-exploit | 0 | 0| 
 | 20230303T00:53:49Z | Detects technologies used on a website and their versions and searches Exploit-DB for any known vulnerabilities. | https://github.com/Hacking-Notes/VulnFinder | 0 | 0| 
 | 20230303T00:49:21Z | This code contains an exploitable bufferoverflow | https://github.com/shenetworks/LuckySpin | 0 | 0| 
 | 20230303T00:44:37Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 82 | 22| 
@@ -80,7 +81,6 @@
 | 20230302T23:43:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T22:58:37Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3460 | 521| 
 | 20230302T20:25:43Z | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | 1 | 0| 
-| 20230302T13:59:09Z | This repository will use NVD (National Vulnerabilities Database), JVN (Japan Vulnerability Notes),OVAL(Open Vulnerability and Assessment Language), Exploit Databases, metasploit databases and etc.... to scan servers and patch the servers via SSH | https://github.com/aliiikz/scan_and_patch_servers | 0 | 0| 
 
 
 # backdoor on Github 推荐
