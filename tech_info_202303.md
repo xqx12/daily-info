@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230303 | NetBSD HFS 文件系统存在本地内存破坏漏洞 | http://seclists.org/fulldisclosure/2023/Mar/0| 
+| 20230303 | 广泛使用的 Java 框架中的一个严重漏洞已被攻击者利用。 专家表示，这种情况可能会对未打补丁的软件构成重大的供应链威胁。 CVE-2022-36537 影响 ZK Java Web Framework 版本 9.6.1、9.6.0.1、9.5.1.3、9.0.1.2 和 8.6.4.1。 | http://www.freebuf.com/news/359129.html| 
+| 20230303 | 白宫新的国家网络安全战略要求立法为销售时几乎不考虑安全性的软件产品和服务确立责任。 该战略还设想云提供商和美国军方在破坏网络犯罪基础设施方面发挥更积极的作用。 根据该战略，中国是美国面临的最大网络威胁。 | https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/| 
+| 20230303 | Apple webkit 2022年在野漏洞CVE-2022-42856的root cause分析 | https://voidistaff.github.io/safari/2023/02/20/CVE-2022-42856.html| 
+| 20230303 | 基于eBPF技术实现TLS加密的明文捕获，无需CA证书。 | https://github.com/gojue/ecapture| 
 | 20230302 | 针对进程设置路由规则 | https://www.kawabangga.com/posts/4935| 
 | 20230302 | OpenAI引入可调用ChatGPT的API，价格是之前同类模型的十分之一 | https://openai.com/blog/introducing-chatgpt-and-whisper-apis| 
 | 20230301 | PHP SplDoublyLinkedList::pop函数中的UAF漏洞及利用 | https://therealcoiffeur.com/c101010| 
@@ -23,6 +28,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230303 | 星链StarLink终端信号分析和信关站设计图（更新） | https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ| 
+| 20230303 | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw| 
 | 20230302 | [HTB] SteamCloud Writeup | https://mp.weixin.qq.com/s/UU9FiZ61X8_XnaoDTv3ovA| 
 | 20230302 | 在机器学习模型中植入不可检测的后门 | https://arxiv.org/pdf/2204.06974.pdf| 
 | 20230302 | ChatGPT潜在的八大“安全隐患”洞察 | https://mp.weixin.qq.com/s/a4ZBuI3SMNobWDeaXrEJ_w| 
@@ -36,34 +43,35 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230303T02:51:13Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230303T02:48:04Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230303T02:34:48Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
-| 20230303T02:29:10Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
-| 20230303T00:58:28Z | 未知编号 | Null | https://github.com/Cvergara2023/Cvergara2023 | | 
-| 20230303T00:21:35Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
-| 20230302T20:25:43Z | CVE-2022-23093 | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | | 
-| 20230302T16:51:04Z | CVE-2022-1471 | Code for veracode blog | https://github.com/1fabunicorn/SnakeYAML-CVE-2022-1471-POC | | 
-| 20230302T12:42:50Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
-| 20230302T10:35:20Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230303T12:56:58Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
+| 20230303T11:36:09Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230303T11:34:46Z | CVE-2023-0050 | cve-2023-0050 | https://github.com/wh-gov/CVE-2023-0050 | | 
+| 20230303T11:07:54Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
+| 20230303T09:21:53Z | CVE-2022-45988 | CVE-2022-45988 StarSoftComm HP CooCare An elevation of privilege vulnerability exists | https://github.com/happy0717/CVE-2022-45988 | | 
+| 20230303T09:04:19Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
+| 20230303T07:47:28Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230303T07:28:12Z | CVE-2020-7247 | Initial POC for CVE-2020-7247 | https://github.com/gatariee/CVE-2020-7247 | | 
+| 20230303T06:48:01Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
+| 20230303T05:25:18Z | CVE-2023-20921 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230303T02:55:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10890 | 353| 
+| 20230303T11:59:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10899 | 353| 
+| 20230303T07:12:42Z | Null | https://github.com/KleemoffDeveloper/KleemoffDeveloper.github.io | 0 | 0| 
+| 20230303T06:45:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2175 | 608| 
 | 20230302T10:33:18Z | Null | https://github.com/Kleerodgers/Kleerodgers | 0 | 0| 
 | 20230302T10:29:30Z | Perform Time Series Analysis on KLEE Dataset | https://github.com/anastzel/time-series-klee | 0 | 0| 
 | 20230302T07:22:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 221 | 2| 
 | 20230302T03:18:07Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 75 | 6| 
 | 20230302T00:31:55Z | Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. | https://github.com/Subramanyam6/Symbolic-Execution-Testing-of-TCP-using-KLEE-Float | 0 | 0| 
-| 20230301T07:47:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2174 | 608| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230302T02:46:34Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 79 | 14| 
+| 20230303T03:59:44Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 80 | 14| 
 | 20230301T20:40:12Z | E-comm shopping site | https://github.com/megha980/S2E-Shop | 0 | 0| 
 | 20230301T11:56:09Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230301T01:38:26Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 85 | 45| 
@@ -87,16 +95,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T09:50:14Z | An open source browser-based software, specially designed for Researchers. | https://github.com/MrDebugger/mobiShell | 2 | 0| 
+| 20230303T09:45:52Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 4 | 0| 
+| 20230303T06:02:37Z | Remote Command executor | https://github.com/0xor0ne/recmd | 36 | 6| 
+| 20230303T05:43:24Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1345 | 466| 
+| 20230303T05:34:30Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
 | 20230303T02:38:29Z | Null | https://github.com/VineelGajjala/EthackBackdoor | 0 | 0| 
 | 20230302T22:11:40Z | Null | https://github.com/Ajithrajachristian/Backdoor-py | 0 | 0| 
 | 20230302T20:02:33Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 40 | 11| 
-| 20230302T19:21:21Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
-| 20230302T16:01:39Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1344 | 466| 
 | 20230302T15:55:13Z | Webshelll / Backdoor Colection | https://github.com/KosameAmegai/WebShell | 0 | 0| 
 | 20230302T14:35:19Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 0 | 0| 
-| 20230302T14:17:58Z | Null | https://github.com/Shell-IndoXploit/Download-Shell-Backdoor-IndoXploit | 1 | 0| 
-| 20230302T09:12:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 108 | 18| 
-| 20230301T19:26:49Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 11 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T11:23:41Z | fuzzy searching, hard forked from https://github.com/jmaargh/fzyr  | https://github.com/museun/fuzzy | 0 | 0| 
 | 20230303T01:29:40Z | Null | https://github.com/FredDeadRedemption/Fuzz | 0 | 0| 
 | 20230303T00:22:35Z | Null | https://github.com/scoop7117/fuzzer | 0 | 0| 
 | 20230303T00:21:46Z | Proyecto Final del Curso de Desarrollo Web 2023 | https://github.com/csbaenasierraalta/fuzzy-couscous | 0 | 0| 
 | 20230302T23:33:56Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
+| 20230302T22:49:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1577 | 268| 
 | 20230302T21:56:08Z | Null | https://github.com/johnleoharkins/fuzzy-chainsaw | 0 | 0| 
 | 20230302T20:35:26Z | No do overs | https://github.com/Turner1a/fuzzy-octo-bassoon | 0 | 0| 
 | 20230302T18:25:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2656 | 181| 
 | 20230302T16:09:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1960 | 251| 
-| 20230302T16:03:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 88 | 7| 
-| 20230302T13:56:12Z | junks | https://github.com/fuzz123123/fuzzTest | 0 | 0| 
 
 
 
