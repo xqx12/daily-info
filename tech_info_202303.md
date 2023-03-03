@@ -80,11 +80,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T13:10:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12816 | 2188| 
 | 20230303T12:56:58Z | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | 0 | 0| 
 | 20230303T12:33:00Z | Web: https://fuze136.github.io | https://github.com/fuze136/F-136-Exploit | 0 | 0| 
 | 20230303T12:23:32Z | The Best Winlocker builder! Spoofing all antivirus | https://github.com/TwoTwoFixeris/Top1ExploitWinlocker | 0 | 0| 
 | 20230303T12:05:10Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
-| 20230303T12:04:41Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12815 | 2188| 
 | 20230303T11:26:17Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 8 | 1| 
 | 20230303T10:34:40Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It serves for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 2 | 0| 
 | 20230303T03:51:20Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 9 | 3| 
