@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230303T01:29:18Z | Null | https://github.com/FredDeadRedemption/Fuzz | 0 | 0| 
+| 20230303T01:29:40Z | Null | https://github.com/FredDeadRedemption/Fuzz | 0 | 0| 
 | 20230303T00:22:35Z | Null | https://github.com/scoop7117/fuzzer | 0 | 0| 
 | 20230303T00:21:46Z | Proyecto Final del Curso de Desarrollo Web 2023 | https://github.com/csbaenasierraalta/fuzzy-couscous | 0 | 0| 
 | 20230302T23:33:56Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
