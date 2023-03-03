@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T02:10:59Z | An exploit for Egg Farm Simulator | https://github.com/lukankerhubsources/Egg-Farm-Simulator | 0 | 0| 
 | 20230303T01:34:28Z | Null | https://github.com/ringa-tech/bing-html-exploit | 0 | 0| 
 | 20230303T00:53:49Z | Detects technologies used on a website and their versions and searches Exploit-DB for any known vulnerabilities. | https://github.com/Hacking-Notes/VulnFinder | 0 | 0| 
 | 20230303T00:49:21Z | This code contains an exploitable bufferoverflow | https://github.com/shenetworks/LuckySpin | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230302T23:44:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T23:43:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T22:58:37Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3460 | 521| 
-| 20230302T20:25:43Z | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | 1 | 0| 
 
 
 # backdoor on Github 推荐
