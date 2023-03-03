@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T02:21:23Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 72 | 68| 
 | 20230303T02:10:59Z | An exploit for Egg Farm Simulator | https://github.com/lukankerhubsources/Egg-Farm-Simulator | 0 | 0| 
 | 20230303T01:34:28Z | Null | https://github.com/ringa-tech/bing-html-exploit | 0 | 0| 
 | 20230303T00:53:49Z | Detects technologies used on a website and their versions and searches Exploit-DB for any known vulnerabilities. | https://github.com/Hacking-Notes/VulnFinder | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230302T23:45:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T23:44:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T23:43:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ch | 1 | 0| 
-| 20230302T22:58:37Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3460 | 521| 
 
 
 # backdoor on Github 推荐
