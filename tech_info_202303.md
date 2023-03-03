@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T02:41:01Z | Null | https://github.com/Ye4r/JbossExploit | 0 | 0| 
 | 20230303T02:21:23Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 72 | 68| 
 | 20230303T02:10:59Z | An exploit for Egg Farm Simulator | https://github.com/lukankerhubsources/Egg-Farm-Simulator | 0 | 0| 
 | 20230303T01:34:28Z | Null | https://github.com/ringa-tech/bing-html-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230303T00:31:11Z | The repository in which I have put all the resources: slides, PDFs, and codes I have written and coded for the workshop I have delivered in Cyber360 event hosted by ITC club with its partner Shellmates at Saad Dahleb University | https://github.com/Imeneallouche/Binary-Exploitation-workshop-preparation-Cyber360-event | 1 | 0| 
 | 20230302T23:45:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ch | 1 | 0| 
 | 20230302T23:44:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ch | 1 | 0| 
-| 20230302T23:43:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ch | 1 | 0| 
 
 
 # backdoor on Github 推荐
