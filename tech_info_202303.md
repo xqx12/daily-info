@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T01:29:18Z | Null | https://github.com/FredDeadRedemption/Fuzz | 0 | 0| 
 | 20230303T00:22:35Z | Null | https://github.com/scoop7117/fuzzer | 0 | 0| 
 | 20230303T00:21:46Z | Proyecto Final del Curso de Desarrollo Web 2023 | https://github.com/csbaenasierraalta/fuzzy-couscous | 0 | 0| 
 | 20230302T23:33:56Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
@@ -131,7 +132,6 @@
 | 20230302T16:09:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1960 | 251| 
 | 20230302T16:03:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 88 | 7| 
 | 20230302T13:56:12Z | junks | https://github.com/fuzz123123/fuzzTest | 0 | 0| 
-| 20230302T13:42:13Z | my playground for python learning | https://github.com/fuzz123123/Fuzzland | 0 | 0| 
 
 
 
