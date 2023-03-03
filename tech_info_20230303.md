@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T13:16:25Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 101 | 24| 
 | 20230303T13:12:43Z | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | 0 | 0| 
 | 20230303T13:10:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12816 | 2188| 
 | 20230303T12:33:00Z | Web: https://fuze136.github.io | https://github.com/fuze136/F-136-Exploit | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20230303T10:34:40Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It serves for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 2 | 0| 
 | 20230303T03:51:20Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 9 | 3| 
 | 20230303T02:41:01Z | Null | https://github.com/Ye4r/JbossExploit | 0 | 0| 
-| 20230303T02:21:23Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 72 | 68| 
 
 
 # backdoor on Github 推荐
