@@ -35,8 +35,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230303T01:20:21Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230303T00:58:28Z | 未知编号 | Null | https://github.com/Cvergara2023/Cvergara2023 | | 
-| 20230303T00:53:12Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230303T00:21:35Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
 | 20230302T20:25:43Z | CVE-2022-23093 | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | | 
 | 20230302T16:51:04Z | CVE-2022-1471 | Code for veracode blog | https://github.com/1fabunicorn/SnakeYAML-CVE-2022-1471-POC | | 
