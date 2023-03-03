@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230303T13:18:26Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230303T13:29:58Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230303T13:12:43Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
 | 20230303T11:34:46Z | CVE-2023-0050 | cve-2023-0050 | https://github.com/wh-gov/CVE-2023-0050 | | 
 | 20230303T11:07:54Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
