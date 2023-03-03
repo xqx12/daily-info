@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230302 | 针对进程设置路由规则 | https://www.kawabangga.com/posts/4935| 
+| 20230302 | OpenAI引入可调用ChatGPT的API，价格是之前同类模型的十分之一 | https://openai.com/blog/introducing-chatgpt-and-whisper-apis| 
 
 
 # 安全维基 推荐
@@ -25,7 +26,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230302T20:25:43Z | CVE-2022-23093 | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | | 
 | 20230302T16:51:04Z | CVE-2022-1471 | Code for veracode blog | https://github.com/1fabunicorn/SnakeYAML-CVE-2022-1471-POC | | 
-| 20230302T16:16:51Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230302T12:42:50Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230302T10:35:20Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230302T09:23:03Z | CVE-2022-45988 | CVE-2022-45988 StarSoftComm HP CooCare An elevation of privilege vulnerability exists | https://github.com/happy0717/CVE-2022-45988 | | 

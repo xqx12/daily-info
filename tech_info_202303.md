@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230302 | 针对进程设置路由规则 | https://www.kawabangga.com/posts/4935| 
+| 20230302 | OpenAI引入可调用ChatGPT的API，价格是之前同类模型的十分之一 | https://openai.com/blog/introducing-chatgpt-and-whisper-apis| 
 | 20230301 | PHP SplDoublyLinkedList::pop函数中的UAF漏洞及利用 | https://therealcoiffeur.com/c101010| 
 | 20230301 | 区块链常见漏洞列表 | https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md| 
 | 20230301 | 介绍去中心化交易所 Uniswap（从v1到v3）所使用的协议 | http://mirror.xyz/haruxe.eth/q-2jXIvcXI4cPDgmQLac1L_iQ6zXgbmCtIhgCHnabc8| 
@@ -35,6 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230303T02:51:13Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230303T02:48:04Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230303T02:34:48Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230303T02:29:10Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
@@ -42,7 +44,6 @@
 | 20230303T00:21:35Z | CVE-2022-22978 | Null | https://github.com/umakant76705/CVE-2022-22978 | | 
 | 20230302T20:25:43Z | CVE-2022-23093 | The FreeBSD ICMP buffer overflow | https://github.com/Inplex-sys/CVE-2022-23093 | | 
 | 20230302T16:51:04Z | CVE-2022-1471 | Code for veracode blog | https://github.com/1fabunicorn/SnakeYAML-CVE-2022-1471-POC | | 
-| 20230302T16:16:51Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
 | 20230302T12:42:50Z | CVE-2022-1386 | Null | https://github.com/ardzz/CVE-2022-1386 | | 
 | 20230302T10:35:20Z | 未知编号 | The exploit for this vulnerability is being used in the wild | https://github.com/LucyRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 
