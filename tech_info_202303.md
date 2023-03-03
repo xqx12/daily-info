@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T13:28:59Z | Generate VEX (Vulnerability Exploitability Exchange) CycloneDX documents | https://github.com/madpah/vexy | 9 | 2| 
 | 20230303T13:18:58Z | Null | https://github.com/vas0k/aws-exploitation-wrapper-go | 0 | 0| 
 | 20230303T13:16:25Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 101 | 24| 
 | 20230303T13:12:43Z | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20230303T12:05:10Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230303T11:26:17Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 8 | 1| 
 | 20230303T10:34:40Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It serves for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 2 | 0| 
-| 20230303T03:51:20Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 9 | 3| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230303T12:54:27Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 93 | 23| 
+| 20230303T13:29:55Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 95 | 23| 
 | 20230302T09:19:44Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 5 | 0| 
 | 20230301T20:04:19Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 15 | 2| 
 | 20230301T07:49:58Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 2 | 0| 
