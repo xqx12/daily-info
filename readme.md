@@ -55,12 +55,12 @@
 | 20230303T22:59:14Z | Este .html y .py te permiten evadir el numero maximo de 6 mensajes impuesto por Bing sobre BingChat | https://github.com/SenninOne/limiteBingExploit | 0 | 0| 
 | 20230303T17:25:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 166 | 2| 
 | 20230303T16:51:03Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 3796 | 957| 
+| 20230303T14:20:54Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3251 | 566| 
 | 20230303T13:28:59Z | Generate VEX (Vulnerability Exploitability Exchange) CycloneDX documents | https://github.com/madpah/vexy | 9 | 2| 
 | 20230303T13:18:58Z | Null | https://github.com/vas0k/aws-exploitation-wrapper-go | 0 | 0| 
 | 20230303T13:16:25Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 101 | 24| 
 | 20230303T13:12:43Z | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | 0 | 0| 
 | 20230303T13:10:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12816 | 2188| 
-| 20230303T12:33:00Z | Web: https://fuze136.github.io | https://github.com/fuze136/F-136-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
