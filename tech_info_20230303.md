@@ -53,6 +53,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230303T23:57:09Z | Following along with the original ConsoleCowboy basic blockchain exploitation course (spun my way, with brownie). | https://github.com/RichardPalladino/BasicBlockchainExploitation | 0 | 0| 
+| 20230303T16:51:03Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 3796 | 957| 
 | 20230303T13:28:59Z | Generate VEX (Vulnerability Exploitability Exchange) CycloneDX documents | https://github.com/madpah/vexy | 9 | 2| 
 | 20230303T13:18:58Z | Null | https://github.com/vas0k/aws-exploitation-wrapper-go | 0 | 0| 
 | 20230303T13:16:25Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 101 | 24| 
@@ -61,7 +62,6 @@
 | 20230303T12:33:00Z | Web: https://fuze136.github.io | https://github.com/fuze136/F-136-Exploit | 0 | 0| 
 | 20230303T12:23:32Z | The Best Winlocker builder! Spoofing all antivirus | https://github.com/TwoTwoFixeris/Top1ExploitWinlocker | 0 | 0| 
 | 20230303T12:05:10Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
-| 20230303T11:26:17Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 8 | 1| 
 
 
 # backdoor on Github 推荐
