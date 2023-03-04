@@ -100,12 +100,12 @@
 | 20230303T22:07:27Z | Fuzz Buzz in c language . | https://github.com/mohamedsidry/repo-4-fuzz-buzz | 0 | 0| 
 | 20230303T21:11:54Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 0 | 0| 
 | 20230303T20:56:38Z | Un formulaire statique en glassmorphism | https://github.com/SunlightKim/fuzzy-happiness | 0 | 0| 
-| 20230303T19:55:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1292 | 178| 
 | 20230303T18:37:06Z | Employee Tracker | https://github.com/graysonwagner/fuzzy-sniffle | 0 | 0| 
 | 20230303T18:34:04Z | Graphical gauges and history table generators for Weewx | https://github.com/brewster76/fuzzy-archer | 31 | 29| 
 | 20230303T17:23:46Z | Null | https://github.com/SZU-AdvTech-2022/313-RULF-Rust-Library-Fuzzing-via-API-Dependency-Graph-Traversal | 0 | 0| 
 | 20230303T17:19:30Z | Null | https://github.com/SZU-AdvTech-2022/268-CollAFL-Path-Sensitive-Fuzzing | 0 | 0| 
 | 20230303T13:45:05Z | A Tail Wagging Competition | https://github.com/optimisticjc/fuzzy-waddle | 0 | 0| 
+| 20230303T13:24:13Z | Null | https://github.com/LanzyKevin/aspnet_client-fuzz-list | 0 | 0| 
 
 
 
