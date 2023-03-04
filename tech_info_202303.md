@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T02:51:27Z | Using a Python GUI (Tkinter) and the fuzzywuzzy library to get rid of duplicate bullet points from a list of bullet points.  Includes EXE file to run without Python. | https://github.com/cybersader/fuzzyListDedupeGUI | 0 | 0| 
 | 20230304T02:51:05Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 727 | 99| 
 | 20230304T02:44:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8429 | 1832| 
 | 20230304T02:36:43Z | Null | https://github.com/HaruTaniguchi/fuzzy-goggles | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230303T22:42:17Z | Null | https://github.com/posong2023/fuzzy-octo-succotash | 0 | 0| 
 | 20230303T22:07:27Z | Fuzz Buzz in c language . | https://github.com/mohamedsidry/repo-4-fuzz-buzz | 0 | 0| 
 | 20230303T21:11:54Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 0 | 0| 
-| 20230303T20:56:38Z | Un formulaire statique en glassmorphism | https://github.com/SunlightKim/fuzzy-happiness | 0 | 0| 
 
 
 
