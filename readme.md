@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:48:22Z | A simple scriptting language for buffer overflow exploitation | https://github.com/ngn13/binscript | 0 | 0| 
 | 20230304T13:25:23Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 0 | 0| 
 | 20230304T13:22:42Z | Simple GUI exploit | https://github.com/TexTvT/Simple-GUI-Exploit | 0 | 0| 
 | 20230304T13:16:55Z | Null | https://github.com/EasyLocal/RbxExploitUIBackups | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230304T08:42:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 587 | 156| 
 | 20230304T08:31:06Z | Null | https://github.com/EasyLocal/RbxExploitScripts | 0 | 0| 
 | 20230304T03:07:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12818 | 2188| 
-| 20230304T02:27:23Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/AzertySolar115/CraxsRat-V3-Latest-Version-For-Lifetime | 1 | 0| 
 
 
 # backdoor on Github 推荐
