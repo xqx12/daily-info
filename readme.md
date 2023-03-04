@@ -23,22 +23,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230303T13:29:58Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230303T22:53:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20230303T20:30:01Z | CVE-2023-26604 | Checker for CVE-2023-26604 | https://github.com/Zenmovie/CVE-2023-26604 | | 
+| 20230303T19:26:31Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
+| 20230303T19:25:08Z | CVE-2022-38374 | Null | https://github.com/M4fiaB0y/CVE-2022-38374 | | 
+| 20230303T16:33:34Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230303T13:12:43Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
 | 20230303T11:34:46Z | CVE-2023-0050 | cve-2023-0050 | https://github.com/wh-gov/CVE-2023-0050 | | 
 | 20230303T11:07:54Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20230303T09:21:53Z | CVE-2022-45988 | CVE-2022-45988 StarSoftComm HP CooCare An elevation of privilege vulnerability exists | https://github.com/happy0717/CVE-2022-45988 | | 
 | 20230303T09:04:19Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/Christbowel/CVE-2023-25136 | | 
-| 20230303T07:47:28Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230303T07:28:12Z | CVE-2020-7247 | Initial POC for CVE-2020-7247 | https://github.com/gatariee/CVE-2020-7247 | | 
-| 20230303T06:48:01Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
-| 20230303T05:25:18Z | CVE-2023-20921 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230303T13:57:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10901 | 353| 
+| 20230303T18:08:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10906 | 353| 
 | 20230303T13:04:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2176 | 608| 
 | 20230303T07:12:42Z | Null | https://github.com/KleemoffDeveloper/KleemoffDeveloper.github.io | 0 | 0| 
 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T23:57:09Z | Following along with the original ConsoleCowboy basic blockchain exploitation course (spun my way, with brownie). | https://github.com/RichardPalladino/BasicBlockchainExploitation | 0 | 0| 
 | 20230303T13:28:59Z | Generate VEX (Vulnerability Exploitability Exchange) CycloneDX documents | https://github.com/madpah/vexy | 9 | 2| 
 | 20230303T13:18:58Z | Null | https://github.com/vas0k/aws-exploitation-wrapper-go | 0 | 0| 
 | 20230303T13:16:25Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 101 | 24| 
@@ -61,24 +62,27 @@
 | 20230303T12:23:32Z | The Best Winlocker builder! Spoofing all antivirus | https://github.com/TwoTwoFixeris/Top1ExploitWinlocker | 0 | 0| 
 | 20230303T12:05:10Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230303T11:26:17Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 8 | 1| 
-| 20230303T10:34:40Z | This repo contains the components that make up the locally hosted Western Cyber Security Association Exploit Hub. It serves for an easy setup process for our raspberry pi%s. This is a server portal that hosts vulnerable web applications as well as some general information and suggestions for how members can spend their time during sessions. | https://github.com/TheStandardPancake/WCSAExploitHub | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T20:54:30Z |  The ultimate goal is to develop an accurate and reliable model that can detect backdoors in Android applications, which can help improve the security of mobile devices. | https://github.com/leonTech254/BACKDOOR_ANDROID_DETECTOR | 0 | 0| 
+| 20230303T19:20:12Z | Experiments with using mqtt as a C2 mechanism | https://github.com/grampae/mqtaxi | 0 | 0| 
+| 20230303T18:12:01Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 5 | 0| 
+| 20230303T17:56:05Z | Webshelll / Backdoor Colection | https://github.com/KosameAmegai/WebShell | 1 | 0| 
+| 20230303T15:50:29Z | webshell | https://github.com/liiuxii/zxc | 7 | 5| 
+| 20230303T15:42:20Z | Null | https://github.com/shahnewazaopu/Villain-Backdoor-Payload | 0 | 0| 
 | 20230303T09:50:14Z | An open source browser-based software, specially designed for Researchers. | https://github.com/MrDebugger/mobiShell | 2 | 0| 
-| 20230303T09:45:52Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 4 | 0| 
 | 20230303T06:02:37Z | Remote Command executor | https://github.com/0xor0ne/recmd | 36 | 6| 
 | 20230303T05:43:24Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1345 | 466| 
 | 20230303T05:34:30Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
-| 20230303T02:38:29Z | Null | https://github.com/VineelGajjala/EthackBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230303T13:19:20Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3344 | 474| 
+| 20230303T17:26:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3346 | 474| 
 | 20230303T13:04:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2176 | 608| 
 | 20230303T08:07:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 325 | 24| 
 
@@ -92,13 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230303T22:42:17Z | Null | https://github.com/posong2023/fuzzy-octo-succotash | 0 | 0| 
+| 20230303T22:07:27Z | Fuzz Buzz in c language . | https://github.com/mohamedsidry/repo-4-fuzz-buzz | 0 | 0| 
+| 20230303T21:11:54Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 0 | 0| 
+| 20230303T20:56:38Z | Un formulaire statique en glassmorphism | https://github.com/SunlightKim/fuzzy-happiness | 0 | 0| 
+| 20230303T19:55:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1292 | 178| 
+| 20230303T18:37:06Z | Employee Tracker | https://github.com/graysonwagner/fuzzy-sniffle | 0 | 0| 
+| 20230303T18:34:04Z | Graphical gauges and history table generators for Weewx | https://github.com/brewster76/fuzzy-archer | 31 | 29| 
+| 20230303T17:23:46Z | Null | https://github.com/SZU-AdvTech-2022/313-RULF-Rust-Library-Fuzzing-via-API-Dependency-Graph-Traversal | 0 | 0| 
+| 20230303T17:19:30Z | Null | https://github.com/SZU-AdvTech-2022/268-CollAFL-Path-Sensitive-Fuzzing | 0 | 0| 
 | 20230303T13:45:05Z | A Tail Wagging Competition | https://github.com/optimisticjc/fuzzy-waddle | 0 | 0| 
-| 20230303T13:24:13Z | Null | https://github.com/LanzyKevin/aspnet_client-fuzz-list | 0 | 0| 
-| 20230303T13:07:41Z | A Peach based, ICS protocol oriented, Fine-grained Coverage feedback Fuzzer. | https://github.com/Ashieta/PIFC_Fuzzer | 0 | 0| 
-| 20230303T11:23:41Z | fuzzy searching, hard forked from https://github.com/jmaargh/fzyr  | https://github.com/museun/fuzzy | 0 | 0| 
-| 20230303T01:29:40Z | Null | https://github.com/FredDeadRedemption/Fuzz | 0 | 0| 
-| 20230303T00:22:35Z | Null | https://github.com/scoop7117/fuzzer | 0 | 0| 
-| 20230303T00:21:46Z | Proyecto Final del Curso de Desarrollo Web 2023 | https://github.com/csbaenasierraalta/fuzzy-couscous | 0 | 0| 
 
 
 
