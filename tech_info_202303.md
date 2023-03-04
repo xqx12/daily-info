@@ -131,9 +131,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T02:09:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3439 | 414| 
 | 20230304T01:48:18Z | Available for all | https://github.com/Kazmi1100/fuzzy-chainsaw | 1 | 0| 
 | 20230304T01:04:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1293 | 178| 
-| 20230303T23:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3440 | 414| 
 | 20230303T22:42:17Z | Null | https://github.com/posong2023/fuzzy-octo-succotash | 0 | 0| 
 | 20230303T22:07:27Z | Fuzz Buzz in c language . | https://github.com/mohamedsidry/repo-4-fuzz-buzz | 0 | 0| 
 | 20230303T21:11:54Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 0 | 0| 
