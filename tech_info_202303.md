@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T01:43:28Z | This paper was submitted to ICASSP 2023: Exploiting Interactivity and Heterogeneity for Sleep Stage Classification via Heterogeneous Graph Neural Network | https://github.com/zhouyh310/SleepHGNN | 0 | 0| 
 | 20230304T01:40:38Z | Null | https://github.com/kryptonx2/Exploit | 0 | 0| 
 | 20230304T00:56:40Z | Null | https://github.com/Wrigsflow/Exploit-doors | 0 | 0| 
 | 20230304T00:56:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-oz | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20230304T00:34:59Z | Authenticated -u user -p pass -v example.local exploit to run Powershell empire in Active Directory | https://github.com/Omnipuppy/.Net-Powershell-Empire-Execute-through-AD-in-Syswow64-Authenticated | 0 | 0| 
 | 20230304T00:17:36Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
 | 20230304T00:16:44Z | WebDAV Server Xploiter | https://github.com/murkl/inception | 1 | 0| 
-| 20230304T00:09:39Z | All about %Operating System% module at EFREI Paris. | https://github.com/selimhaddioui/EFREI_SystemeExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
