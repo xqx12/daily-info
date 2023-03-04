@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T02:19:34Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/AzertySolar115/--CraxsRat-V3---Latest-Version-For-Lifetime | 1 | 0| 
+| 20230304T02:24:44Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/AzertySolar115/--CraxsRat-V3---Latest-Version-For-Lifetime | 1 | 0| 
 | 20230304T02:12:06Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 34 | 70| 
 | 20230304T01:43:28Z | This paper was submitted to ICASSP 2023: Exploiting Interactivity and Heterogeneity for Sleep Stage Classification via Heterogeneous Graph Neural Network | https://github.com/zhouyh310/SleepHGNN | 0 | 0| 
 | 20230304T01:40:38Z | Null | https://github.com/kryptonx2/Exploit | 0 | 0| 
