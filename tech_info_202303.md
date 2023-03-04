@@ -43,13 +43,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:54:25Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230304T12:35:47Z | CVE-2020-7247 | CVE-2020-7247 Remote Code Execution POC | https://github.com/gatariee/CVE-2020-7247 | | 
 | 20230304T12:31:54Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230304T02:51:43Z | CVE-2022-38374 | Null | https://github.com/M4fiaB0y/CVE-2022-38374 | | 
 | 20230303T22:53:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20230303T20:30:01Z | CVE-2023-26604 | Checker for CVE-2023-26604 | https://github.com/Zenmovie/CVE-2023-26604 | | 
 | 20230303T19:26:31Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
-| 20230303T16:33:34Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230303T13:12:43Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
 | 20230303T11:34:46Z | CVE-2023-0050 | cve-2023-0050 | https://github.com/wh-gov/CVE-2023-0050 | | 
 | 20230303T11:07:54Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:47:33Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 0 | 0| 
 | 20230304T13:12:03Z | backkkkkkdododoodoooooororororrrrrr | https://github.com/qysniubi/minecraft-backdoor-plugin | 0 | 0| 
 | 20230304T11:15:53Z | Remote Command executor | https://github.com/0xor0ne/recmd | 37 | 6| 
 | 20230304T09:02:24Z | PHP Backdoor Scanner | https://github.com/s3ve/PHP-Backdoor-Scanner | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20230303T18:12:01Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 5 | 0| 
 | 20230303T17:56:05Z | Webshelll / Backdoor Colection | https://github.com/KosameAmegai/WebShell | 1 | 0| 
 | 20230303T15:50:29Z | webshell | https://github.com/liiuxii/zxc | 7 | 5| 
-| 20230303T15:42:20Z | Null | https://github.com/shahnewazaopu/Villain-Backdoor-Payload | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

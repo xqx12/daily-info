@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:54:25Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230304T12:35:47Z | CVE-2020-7247 | CVE-2020-7247 Remote Code Execution POC | https://github.com/gatariee/CVE-2020-7247 | | 
 | 20230304T12:31:54Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230304T02:51:43Z | CVE-2022-38374 | Null | https://github.com/M4fiaB0y/CVE-2022-38374 | | 
@@ -53,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:47:33Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 0 | 0| 
 | 20230304T13:12:03Z | backkkkkkdododoodoooooororororrrrrr | https://github.com/qysniubi/minecraft-backdoor-plugin | 0 | 0| 
 | 20230304T11:15:53Z | Remote Command executor | https://github.com/0xor0ne/recmd | 37 | 6| 
 | 20230304T09:02:24Z | PHP Backdoor Scanner | https://github.com/s3ve/PHP-Backdoor-Scanner | 0 | 0| 
