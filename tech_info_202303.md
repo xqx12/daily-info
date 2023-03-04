@@ -81,6 +81,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T13:25:23Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 0 | 0| 
+| 20230304T13:22:42Z | Simple GUI exploit | https://github.com/TexTvT/Simple-GUI-Exploit | 0 | 0| 
 | 20230304T13:16:55Z | Null | https://github.com/EasyLocal/RbxExploitUIBackups | 0 | 0| 
 | 20230304T12:44:50Z | mass exploiter for draytek vigor (CVE-2022-32548) | https://github.com/uicres/draytek-RCE | 0 | 0| 
 | 20230304T12:43:25Z | Null | https://github.com/SZU-AdvTech-2022/110-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20230304T08:31:06Z | Null | https://github.com/EasyLocal/RbxExploitScripts | 0 | 0| 
 | 20230304T03:07:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12818 | 2188| 
 | 20230304T02:27:23Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/AzertySolar115/CraxsRat-V3-Latest-Version-For-Lifetime | 1 | 0| 
-| 20230304T02:24:44Z | Craxs Rat V3 Latest 2023 Android Remote Access Tool | https://github.com/AzertySolar115/--CraxsRat-V3---Latest-Version-For-Lifetime | 1 | 0| 
-| 20230304T02:12:06Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 34 | 70| 
 
 
 # backdoor on Github 推荐
