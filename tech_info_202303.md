@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T02:51:05Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 727 | 99| 
 | 20230304T02:44:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8429 | 1832| 
 | 20230304T02:36:43Z | Null | https://github.com/HaruTaniguchi/fuzzy-goggles | 0 | 0| 
 | 20230304T02:09:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3439 | 414| 
@@ -140,7 +141,6 @@
 | 20230303T22:07:27Z | Fuzz Buzz in c language . | https://github.com/mohamedsidry/repo-4-fuzz-buzz | 0 | 0| 
 | 20230303T21:11:54Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 0 | 0| 
 | 20230303T20:56:38Z | Un formulaire statique en glassmorphism | https://github.com/SunlightKim/fuzzy-happiness | 0 | 0| 
-| 20230303T18:37:06Z | Employee Tracker | https://github.com/graysonwagner/fuzzy-sniffle | 0 | 0| 
 
 
 
