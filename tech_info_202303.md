@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T01:35:17Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 23 | 2| 
+| 20230305T02:26:01Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 24 | 2| 
 | 20230305T01:22:56Z | Exploit used for Roblox, Level 7 Lua Executor, Cracked For All Users. | https://github.com/TheMethods/Updated-Synapse-X-Cracked-v.280- | 0 | 0| 
 | 20230305T01:10:48Z | CVE-2022-31814 | https://github.com/drcayber/RCE | 0 | 0| 
 | 20230305T00:20:43Z | Null | https://github.com/Mariusonpc/Roblox-exploit | 0 | 0| 
