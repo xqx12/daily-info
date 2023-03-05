@@ -28,39 +28,40 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230304 | NDSS 2023 论文录用列表 | https://mp.weixin.qq.com/s/ZRIFX2GmP8niyUfiWj8ewA| 
+| 20230304 | 2023年开源安全和风险分析 | https://pan.baidu.com/share/init?surl=rIn1ikOgPYC31UN-tGmJPw&pwd=KYAQ| 
+| 20230304 | 第50次《中国互联网络发展状况统计报告》 | https://www.cnnic.net.cn/NMediaFile/2022/0926/MAIN1664183425619U2MS433V3V.pdf| 
+| 20230304 | NDSS 2023 论文录用列表 | /news/31072| 
 | 20230303 | 星链StarLink终端信号分析和信关站设计图（更新） | https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ| 
 | 20230303 | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw| 
 | 20230302 | [HTB] SteamCloud Writeup | https://mp.weixin.qq.com/s/UU9FiZ61X8_XnaoDTv3ovA| 
 | 20230302 | 在机器学习模型中植入不可检测的后门 | https://arxiv.org/pdf/2204.06974.pdf| 
 | 20230302 | ChatGPT潜在的八大“安全隐患”洞察 | https://mp.weixin.qq.com/s/a4ZBuI3SMNobWDeaXrEJ_w| 
 | 20230302 | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg| 
-| 20230302 | Apache Flink 2022 平台建设大会视频及PPT | https://flink-learning.org.cn/activity/detail/d3d092c45467c40fb8526c4ec2141be2?name=activity&tab=suoyou&page=1| 
-| 20230302 | Apache Flink 2022 平台建设大会视频及PPT | /news/31063| 
-| 20230301 | 美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特... | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw| 
-| 20230301 | 逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230305T00:56:14Z | CVE-2022-31814 | RCE for webapp | https://github.com/drcayber/CVE-2022-31814 | | 
+| 20230304T21:47:18Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230304T17:14:12Z | CVE-2021-3129 | Laravel Debug mode RCE漏洞（CVE-2021-3129）poc / exp | https://github.com/ajisai-babu/CVE-2021-3129-exp | | 
 | 20230304T13:54:25Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230304T12:35:47Z | CVE-2020-7247 | CVE-2020-7247 Remote Code Execution POC | https://github.com/gatariee/CVE-2020-7247 | | 
-| 20230304T12:31:54Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230304T02:51:43Z | CVE-2022-38374 | Null | https://github.com/M4fiaB0y/CVE-2022-38374 | | 
 | 20230303T22:53:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20230303T20:30:01Z | CVE-2023-26604 | Checker for CVE-2023-26604 | https://github.com/Zenmovie/CVE-2023-26604 | | 
 | 20230303T19:26:31Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20230303T13:12:43Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
-| 20230303T11:34:46Z | CVE-2023-0050 | cve-2023-0050 | https://github.com/wh-gov/CVE-2023-0050 | | 
-| 20230303T11:07:54Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T21:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2177 | 608| 
+| 20230304T19:33:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10925 | 352| 
 | 20230304T13:04:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 223 | 2| 
-| 20230304T12:02:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10919 | 352| 
-| 20230304T11:33:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2175 | 608| 
+| 20230304T10:14:57Z | Null | https://github.com/KleeQiqi/KleeQiqi | 0 | 0| 
 | 20230304T09:21:59Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 3 | 0| 
 | 20230303T07:12:42Z | Null | https://github.com/KleemoffDeveloper/KleemoffDeveloper.github.io | 0 | 0| 
 | 20230302T10:33:18Z | Null | https://github.com/Kleerodgers/Kleerodgers | 0 | 0| 
@@ -72,6 +73,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230304T21:10:38Z | this is the discription | https://github.com/Nieznany0/My-reposatory-s2eo6hgwwmb | 0 | 0| 
 | 20230303T03:59:44Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 80 | 14| 
 | 20230301T20:40:12Z | E-comm shopping site | https://github.com/megha980/S2E-Shop | 0 | 0| 
 | 20230301T11:56:09Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
@@ -81,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T13:48:22Z | A simple scriptting language for buffer overflow exploitation | https://github.com/ngn13/binscript | 0 | 0| 
-| 20230304T13:25:23Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 0 | 0| 
-| 20230304T13:22:42Z | Simple GUI exploit | https://github.com/TexTvT/Simple-GUI-Exploit | 0 | 0| 
-| 20230304T13:16:55Z | Null | https://github.com/EasyLocal/RbxExploitUIBackups | 0 | 0| 
-| 20230304T12:44:50Z | mass exploiter for draytek vigor (CVE-2022-32548) | https://github.com/uicres/draytek-RCE | 0 | 0| 
-| 20230304T12:43:25Z | Null | https://github.com/SZU-AdvTech-2022/110-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations | 0 | 0| 
-| 20230304T09:53:55Z | Handcrafted malwares for exchange | https://github.com/irondefence/Falstmalwares | 0 | 0| 
-| 20230304T08:42:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 587 | 156| 
-| 20230304T08:31:06Z | Null | https://github.com/EasyLocal/RbxExploitScripts | 0 | 0| 
-| 20230304T03:07:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12818 | 2188| 
+| 20230305T00:20:43Z | Null | https://github.com/Mariusonpc/Roblox-exploit | 0 | 0| 
+| 20230305T00:15:34Z | Null | https://github.com/Mariusonpc/Roblox-exploit-no-key | 0 | 0| 
+| 20230305T00:11:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-n9 | 1 | 0| 
+| 20230305T00:09:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-n9 | 1 | 0| 
+| 20230305T00:09:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n9 | 1 | 0| 
+| 20230304T23:27:58Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 22 | 2| 
+| 20230304T23:11:12Z | Python Script to exploit the Library booking System, Timify, by booking all the places with random people (using a public api for generating italian names) | https://github.com/michaelsaccone/library-booking-hack | 0 | 0| 
+| 20230304T22:48:34Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 2 | 4| 
+| 20230304T22:35:37Z | Null | https://github.com/MrUmoz/exploitDB | 0 | 0| 
+| 20230304T22:29:32Z | Projet Android, savoir exploiter une API, réaliser une IHM et gérer la gestion des erreurs | https://github.com/ronanhenry-web/StrangerThings | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T13:47:33Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 0 | 0| 
+| 20230304T21:50:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1978 | 815| 
+| 20230304T17:43:31Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 404 | 77| 
+| 20230304T17:31:26Z | Remote Trojan  | https://github.com/ShareToolsForFree/Babylon-RAT-1.7.0.0 | 1 | 0| 
+| 20230304T17:31:23Z | Remote Trojan  | https://github.com/ShareToolsForFree/Revenge-RAT-V0.3 | 1 | 0| 
+| 20230304T17:31:06Z | Remote Trojan  | https://github.com/ShareToolsForFree/PCRat-2010-V3.5-Build0715 | 1 | 0| 
+| 20230304T16:57:56Z | Remote Trojan | https://github.com/ShareToolsForFree/Hunting-Bitches-V1.0 | 1 | 0| 
+| 20230304T16:36:42Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 1 | 0| 
+| 20230304T15:33:12Z | Cracked version of XWorm V3.1 | https://github.com/ShareToolsForFree/XWorm-V3.1-Cracked | 1 | 0| 
 | 20230304T13:12:03Z | backkkkkkdododoodoooooororororrrrrr | https://github.com/qysniubi/minecraft-backdoor-plugin | 0 | 0| 
 | 20230304T11:15:53Z | Remote Command executor | https://github.com/0xor0ne/recmd | 37 | 6| 
-| 20230304T09:02:24Z | PHP Backdoor Scanner | https://github.com/s3ve/PHP-Backdoor-Scanner | 0 | 0| 
-| 20230304T05:44:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1976 | 815| 
-| 20230303T20:54:30Z |  The ultimate goal is to develop an accurate and reliable model that can detect backdoors in Android applications, which can help improve the security of mobile devices. | https://github.com/leonTech254/BACKDOOR_ANDROID_DETECTOR | 0 | 0| 
-| 20230303T19:20:12Z | Experiments with using mqtt as a C2 mechanism | https://github.com/grampae/mqtaxi | 0 | 0| 
-| 20230303T18:12:01Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 5 | 0| 
-| 20230303T17:56:05Z | Webshelll / Backdoor Colection | https://github.com/KosameAmegai/WebShell | 1 | 0| 
-| 20230303T15:50:29Z | webshell | https://github.com/liiuxii/zxc | 7 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -133,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T00:59:23Z | Null | https://github.com/HoanDiep/BT4_Fuzzy_Tri_tue_nhan_tao | 0 | 0| 
+| 20230305T00:40:14Z | Graphical gauges and history table generators for Weewx | https://github.com/brewster76/fuzzy-archer | 33 | 29| 
+| 20230304T22:25:06Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 265 | 36| 
+| 20230304T22:25:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8436 | 1833| 
+| 20230304T22:12:08Z | Null | https://github.com/Fatima-ezzah/Fuzzy-K-means | 0 | 0| 
+| 20230304T20:36:18Z | Using a Python GUI (Tkinter) and the fuzzywuzzy library to get rid of duplicate bullet points from a list of bullet points.  Includes EXE file to run without Python. | https://github.com/cybersader/fuzzyListDedupeGUI | 0 | 0| 
+| 20230304T20:02:32Z | Null | https://github.com/bbaltuntas/tubitak-fuzzy | 0 | 0| 
+| 20230304T19:43:09Z | Null | https://github.com/SClovesgtx/FuzzCy | 0 | 0| 
+| 20230304T17:26:29Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 534 | 48| 
 | 20230304T12:31:36Z | Null | https://github.com/SZU-AdvTech-2022/313-RULF-Rust-Library-Fuzzing-via-API-Dependency-Graph-Traversal | 0 | 0| 
-| 20230304T12:25:54Z | Null | https://github.com/SZU-AdvTech-2022/268-CollAFL-Path-Sensitive-Fuzzing | 0 | 0| 
-| 20230304T12:12:58Z | Null | https://github.com/SunlightKim/fuzzy-happiness-main | 0 | 0| 
-| 20230304T12:07:47Z | Null | https://github.com/flukeatt2545/Fuzzy-octo-dollop | 0 | 0| 
-| 20230304T11:22:59Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 39 | 14| 
-| 20230304T11:11:04Z | Protocal fuzz source seed Automatic generation | https://github.com/Du-Mu/protofuzz | 0 | 0| 
-| 20230304T10:51:54Z | Null | https://github.com/Nitindholera/fuzzy-journey | 0 | 0| 
-| 20230304T10:46:26Z | Null | https://github.com/tharun-gtk/fuzzylogic-cricket-performance-evaluator | 0 | 0| 
-| 20230304T09:45:22Z | Python script | https://github.com/DatMinhLeChon/fuzzy-attributes-matching | 0 | 0| 
-| 20230304T02:51:27Z | Using a Python GUI (Tkinter) and the fuzzywuzzy library to get rid of duplicate bullet points from a list of bullet points.  Includes EXE file to run without Python. | https://github.com/cybersader/fuzzyListDedupeGUI | 0 | 0| 
 
 
 
