@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T01:22:56Z | Exploit used for Roblox, Level 7 Lua Executor, Cracked For All Users. | https://github.com/TheMethods/Updated-Synapse-X-Cracked-v.280- | 0 | 0| 
 | 20230305T01:10:48Z | CVE-2022-31814 | https://github.com/drcayber/RCE | 0 | 0| 
 | 20230305T00:20:43Z | Null | https://github.com/Mariusonpc/Roblox-exploit | 0 | 0| 
 | 20230305T00:15:34Z | Null | https://github.com/Mariusonpc/Roblox-exploit-no-key | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230304T23:27:58Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 22 | 2| 
 | 20230304T23:11:12Z | Python Script to exploit the Library booking System, Timify, by booking all the places with random people (using a public api for generating italian names) | https://github.com/michaelsaccone/library-booking-hack | 0 | 0| 
 | 20230304T22:48:34Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 2 | 4| 
-| 20230304T22:35:37Z | Null | https://github.com/MrUmoz/exploitDB | 0 | 0| 
 
 
 # backdoor on Github 推荐
