@@ -86,7 +86,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T13:54:17Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 181 | 40| 
+| 20230304T15:50:19Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 6 | 0| 
 | 20230304T03:23:14Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 16 | 2| 
 
 
