@@ -43,31 +43,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230305T12:40:47Z | CVE-2020-2551 | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | | 
+| 20230305T12:40:40Z | CVE-2020-2546 | CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3, | https://github.com/hktalent/CVE_2020_2546 | | 
+| 20230305T04:43:51Z | CVE-2021-3129 | Laravel Debug mode RCE漏洞（CVE-2021-3129）poc / exp | https://github.com/ajisai-babu/CVE-2021-3129-exp | | 
+| 20230305T04:43:12Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230305T03:41:25Z | CVE-2023-23752 | Joomla 未授权访问漏洞 CVE-2023-23752 | https://github.com/keyuan15/CVE-2023-23752 | | 
 | 20230305T00:56:14Z | CVE-2022-31814 | RCE for webapp | https://github.com/drcayber/CVE-2022-31814 | | 
 | 20230304T21:47:18Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
-| 20230304T17:14:12Z | CVE-2021-3129 | Laravel Debug mode RCE漏洞（CVE-2021-3129）poc / exp | https://github.com/ajisai-babu/CVE-2021-3129-exp | | 
-| 20230304T13:54:25Z | CVE-2023-21839 | Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE) | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230304T12:35:47Z | CVE-2020-7247 | CVE-2020-7247 Remote Code Execution POC | https://github.com/gatariee/CVE-2020-7247 | | 
 | 20230304T02:51:43Z | CVE-2022-38374 | Null | https://github.com/M4fiaB0y/CVE-2022-38374 | | 
 | 20230303T22:53:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20230303T20:30:01Z | CVE-2023-26604 | Checker for CVE-2023-26604 | https://github.com/Zenmovie/CVE-2023-26604 | | 
-| 20230303T19:26:31Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
-| 20230303T13:12:43Z | CVE-2022-21587 | This script is used for automating exploit for Oracle Ebussiness (EBS) for CVE 2022-21587 ( Unauthenticated File Upload For Remote Code Execution) | https://github.com/sahabrifki/CVE-2022-21587-Oracle-EBS- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T01:56:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10926 | 352| 
+| 20230305T12:49:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 10933 | 352| 
+| 20230305T11:49:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 223 | 2| 
+| 20230305T09:10:23Z | Fully buildable project files of Sun and Moon of Teyvat Pack (Klee, Nahida), a leader mod for Sid Meier%s Civilization VI. | https://github.com/dwughjsd/SunAndMoonOfTeyvat_civ6mod | 2 | 0| 
 | 20230304T21:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2177 | 608| 
-| 20230304T13:04:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 223 | 2| 
 | 20230304T10:14:57Z | Null | https://github.com/KleeQiqi/KleeQiqi | 0 | 0| 
 | 20230304T09:21:59Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 3 | 0| 
 | 20230303T07:12:42Z | Null | https://github.com/KleemoffDeveloper/KleemoffDeveloper.github.io | 0 | 0| 
 | 20230302T10:33:18Z | Null | https://github.com/Kleerodgers/Kleerodgers | 0 | 0| 
 | 20230302T10:29:30Z | Perform Time Series Analysis on KLEE Dataset | https://github.com/anastzel/time-series-klee | 0 | 0| 
 | 20230302T03:18:07Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 75 | 6| 
-| 20230302T00:31:55Z | Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. | https://github.com/Subramanyam6/Symbolic-Execution-Testing-of-TCP-using-KLEE-Float | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,22 +83,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T02:26:01Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 24 | 2| 
-| 20230305T01:22:56Z | Exploit used for Roblox, Level 7 Lua Executor, Cracked For All Users. | https://github.com/TheMethods/Updated-Synapse-X-Cracked-v.280- | 0 | 0| 
-| 20230305T01:10:48Z | CVE-2022-31814 | https://github.com/drcayber/RCE | 0 | 0| 
-| 20230305T00:20:43Z | Null | https://github.com/Mariusonpc/Roblox-exploit | 0 | 0| 
-| 20230305T00:15:34Z | Null | https://github.com/Mariusonpc/Roblox-exploit-no-key | 0 | 0| 
-| 20230305T00:11:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-n9 | 1 | 0| 
-| 20230305T00:09:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-n9 | 1 | 0| 
-| 20230305T00:09:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n9 | 1 | 0| 
-| 20230304T23:11:12Z | Python Script to exploit the Library booking System, Timify, by booking all the places with random people (using a public api for generating italian names) | https://github.com/michaelsaccone/library-booking-hack | 0 | 0| 
-| 20230304T22:48:34Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 2 | 4| 
+| 20230305T12:40:47Z | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | 195 | 46| 
+| 20230305T12:40:40Z | CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3, | https://github.com/hktalent/CVE_2020_2546 | 129 | 29| 
+| 20230305T12:39:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 26| 
+| 20230305T12:29:25Z | Ladon hacking framework penetration scanner & Cobalt strike, Ladon 10.9 has 200 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3711 | 790| 
+| 20230305T12:04:21Z | Ladon hacking Scanner for PowerShell, vulnerability / exploit / detection / MS17010/SmbGhost,Brute-Force SMB/IPC/WMI/NBT/SSH/FTP/MSSQL/MYSQL/ORACLE/VNC | https://github.com/k8gege/PowerLadon | 119 | 50| 
+| 20230305T11:52:45Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3464 | 523| 
+| 20230305T07:55:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
+| 20230305T07:28:02Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 4974 | 2008| 
+| 20230305T02:56:12Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 25 | 2| 
+| 20230305T02:51:45Z | Null | https://github.com/TechGeek1979/Mobile-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T21:50:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1978 | 815| 
+| 20230305T12:50:43Z | Remote Command executor | https://github.com/0xor0ne/recmd | 38 | 6| 
+| 20230305T11:46:30Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1980 | 816| 
+| 20230305T08:25:57Z | This is the official implementation of our paper Untargeted Backdoor Attack against Object Detection. | https://github.com/Chengxiao-Luo/Untargeted-Backdoor-Attack-against-Object-Detection | 1 | 0| 
 | 20230304T17:43:31Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 404 | 77| 
 | 20230304T17:31:26Z | Remote Trojan  | https://github.com/ShareToolsForFree/Babylon-RAT-1.7.0.0 | 1 | 0| 
 | 20230304T17:31:23Z | Remote Trojan  | https://github.com/ShareToolsForFree/Revenge-RAT-V0.3 | 1 | 0| 
@@ -106,19 +108,17 @@
 | 20230304T16:57:56Z | Remote Trojan | https://github.com/ShareToolsForFree/Hunting-Bitches-V1.0 | 1 | 0| 
 | 20230304T16:36:42Z | This is the official implementation of our paper Backdoor Defense Via Suppressing Model Shortcuts. | https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts | 1 | 0| 
 | 20230304T15:33:12Z | Cracked version of XWorm V3.1 | https://github.com/ShareToolsForFree/XWorm-V3.1-Cracked | 1 | 0| 
-| 20230304T13:12:03Z | backkkkkkdododoodoooooororororrrrrr | https://github.com/qysniubi/minecraft-backdoor-plugin | 0 | 0| 
-| 20230304T11:15:53Z | Remote Command executor | https://github.com/0xor0ne/recmd | 37 | 6| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T08:54:26Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 324 | 24| 
+| 20230305T07:41:56Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1021 | 125| 
 | 20230304T21:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2177 | 608| 
 | 20230304T18:53:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3347 | 474| 
 | 20230304T16:19:06Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 30 | 7| 
-| 20230304T14:58:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1020 | 125| 
 | 20230304T10:44:01Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 54 | 25| 
-| 20230303T08:07:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 325 | 24| 
 | 20230302T00:31:55Z | Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. | https://github.com/Subramanyam6/Symbolic-Execution-Testing-of-TCP-using-KLEE-Float | 0 | 0| 
 | 20230301T11:56:09Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 
@@ -126,7 +126,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T01:47:56Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 216 | 47| 
+| 20230305T12:31:51Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 257 | 51| 
 | 20230304T15:50:19Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 6 | 0| 
 | 20230304T03:23:14Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 16 | 2| 
 | 20230301T07:49:58Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 2 | 0| 
