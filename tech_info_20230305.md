@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T13:17:57Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 11 | 0| 
+| 20230305T13:17:57Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 11 | 1| 
 | 20230305T13:11:05Z | Null | https://github.com/PhucThinh20146028/Medical-Diagnosis-System-Using-Fuzzy-Logic | 0 | 0| 
 | 20230305T12:40:48Z | Basic college assignment for fuzzy walking machine | https://github.com/xylarshayu/Fuzzy-Washing-Machine-Assignment | 0 | 0| 
 | 20230305T12:32:18Z | Null | https://github.com/lindseykim6/KAIST-Fuzz | 0 | 0| 
