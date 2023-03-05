@@ -46,7 +46,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230304T23:27:58Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 22 | 2| 
 | 20230304T23:11:12Z | Python Script to exploit the Library booking System, Timify, by booking all the places with random people (using a public api for generating italian names) | https://github.com/michaelsaccone/library-booking-hack | 0 | 0| 
 | 20230304T22:48:34Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 2 | 4| 
 | 20230304T22:35:37Z | Null | https://github.com/MrUmoz/exploitDB | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20230304T13:22:42Z | Simple GUI exploit | https://github.com/TexTvT/Simple-GUI-Exploit | 0 | 0| 
 | 20230304T13:16:55Z | Null | https://github.com/EasyLocal/RbxExploitUIBackups | 0 | 0| 
 | 20230304T12:44:50Z | mass exploiter for draytek vigor (CVE-2022-32548) | https://github.com/uicres/draytek-RCE | 0 | 0| 
+| 20230304T12:43:25Z | Null | https://github.com/SZU-AdvTech-2022/110-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations | 0 | 0| 
 
 
 # backdoor on Github 推荐
