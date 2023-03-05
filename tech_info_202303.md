@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T01:10:48Z | CVE-2022-31814 | https://github.com/drcayber/RCE | 0 | 0| 
 | 20230305T00:20:43Z | Null | https://github.com/Mariusonpc/Roblox-exploit | 0 | 0| 
 | 20230305T00:15:34Z | Null | https://github.com/Mariusonpc/Roblox-exploit-no-key | 0 | 0| 
 | 20230305T00:11:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-n9 | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230304T23:11:12Z | Python Script to exploit the Library booking System, Timify, by booking all the places with random people (using a public api for generating italian names) | https://github.com/michaelsaccone/library-booking-hack | 0 | 0| 
 | 20230304T22:48:34Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 2 | 4| 
 | 20230304T22:35:37Z | Null | https://github.com/MrUmoz/exploitDB | 0 | 0| 
-| 20230304T22:29:32Z | Projet Android, savoir exploiter une API, réaliser une IHM et gérer la gestion des erreurs | https://github.com/ronanhenry-web/StrangerThings | 0 | 0| 
 
 
 # backdoor on Github 推荐
