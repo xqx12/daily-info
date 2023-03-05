@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T13:11:05Z | Null | https://github.com/PhucThinh20146028/Medical-Diagnosis-System-Using-Fuzzy-Logic | 0 | 0| 
+| 20230305T12:40:48Z | Basic college assignment for fuzzy walking machine | https://github.com/xylarshayu/Fuzzy-Washing-Machine-Assignment | 0 | 0| 
+| 20230305T12:32:18Z | Null | https://github.com/lindseykim6/KAIST-Fuzz | 0 | 0| 
+| 20230305T12:02:22Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 10 | 0| 
+| 20230305T11:32:42Z | Null | https://github.com/feyzaozkan/fuzzy_final | 0 | 0| 
+| 20230305T11:21:30Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3443 | 413| 
+| 20230305T09:35:39Z | The github repository storing the code for TOSEM Feb 2023 Submitted Paper - Context-Aware Robustness Fuzzing for Deep Learning Models | https://github.com/PapRep/Clover | 0 | 0| 
+| 20230305T09:15:38Z | Trying out foundry for Smart Contracts Development, testing, fuzzing, etc | https://github.com/codeTIT4N/trying-foundry | 0 | 0| 
+| 20230305T02:55:57Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 890 | 205| 
 | 20230305T00:59:23Z | Null | https://github.com/HoanDiep/BT4_Fuzzy_Tri_tue_nhan_tao | 0 | 0| 
-| 20230305T00:40:14Z | Graphical gauges and history table generators for Weewx | https://github.com/brewster76/fuzzy-archer | 33 | 29| 
-| 20230304T22:25:06Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 265 | 36| 
-| 20230304T22:25:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8436 | 1833| 
-| 20230304T22:12:08Z | Null | https://github.com/Fatima-ezzah/Fuzzy-K-means | 0 | 0| 
-| 20230304T20:36:18Z | Using a Python GUI (Tkinter) and the fuzzywuzzy library to get rid of duplicate bullet points from a list of bullet points.  Includes EXE file to run without Python. | https://github.com/cybersader/fuzzyListDedupeGUI | 0 | 0| 
-| 20230304T20:02:32Z | Null | https://github.com/bbaltuntas/tubitak-fuzzy | 0 | 0| 
-| 20230304T19:43:09Z | Null | https://github.com/SClovesgtx/FuzzCy | 0 | 0| 
-| 20230304T17:26:29Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 534 | 48| 
-| 20230304T16:47:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3440 | 414| 
 
 
 
