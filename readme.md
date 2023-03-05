@@ -99,9 +99,9 @@
 | 20230304T20:02:32Z | Null | https://github.com/bbaltuntas/tubitak-fuzzy | 0 | 0| 
 | 20230304T19:43:09Z | Null | https://github.com/SClovesgtx/FuzzCy | 0 | 0| 
 | 20230304T17:26:29Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 534 | 48| 
+| 20230304T16:47:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3440 | 414| 
 | 20230304T12:31:36Z | Null | https://github.com/SZU-AdvTech-2022/313-RULF-Rust-Library-Fuzzing-via-API-Dependency-Graph-Traversal | 0 | 0| 
 | 20230304T12:25:54Z | Null | https://github.com/SZU-AdvTech-2022/268-CollAFL-Path-Sensitive-Fuzzing | 0 | 0| 
-| 20230304T12:12:58Z | Null | https://github.com/SunlightKim/fuzzy-happiness-main | 0 | 0| 
 
 
 
