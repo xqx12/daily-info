@@ -40,6 +40,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T13:48:19Z | for faster answer contact me at discord ROOT44x#5660 | https://github.com/ROOT44x/The-vampire-legacies-script-selling- | 0 | 0| 
+| 20230305T13:34:48Z | Null | https://github.com/golsarp/Exploiting-ML-Models | 0 | 0| 
+| 20230305T13:33:31Z | Tips, Tricks, and Scripts for Linux Post Exploitation | https://github.com/regorsec/Linux-Post-Exploitation | 3 | 0| 
 | 20230305T12:40:47Z | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | 195 | 46| 
 | 20230305T12:40:40Z | CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3, | https://github.com/hktalent/CVE_2020_2546 | 129 | 29| 
 | 20230305T12:39:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 68 | 26| 
@@ -47,9 +50,6 @@
 | 20230305T12:04:21Z | Ladon hacking Scanner for PowerShell, vulnerability / exploit / detection / MS17010/SmbGhost,Brute-Force SMB/IPC/WMI/NBT/SSH/FTP/MSSQL/MYSQL/ORACLE/VNC | https://github.com/k8gege/PowerLadon | 119 | 50| 
 | 20230305T11:52:45Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3464 | 523| 
 | 20230305T10:24:51Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 383 | 78| 
-| 20230305T07:55:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 586 | 156| 
-| 20230305T07:28:02Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 4974 | 2008| 
-| 20230305T02:56:12Z | MOC3ingbird Exploit for Live2D | https://github.com/OpenL2D/moc3ingbird | 25 | 2| 
 
 
 # backdoor on Github 推荐
@@ -70,12 +70,14 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230305T13:24:26Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 258 | 54| 
+| 20230305T13:54:48Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 262 | 54| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230305T13:50:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8438 | 1833| 
+| 20230305T13:49:50Z | Unikraft fuzzing application | https://github.com/nephele-unikraft/app-fuzz | 0 | 0| 
 | 20230305T13:17:57Z | autofz: Automated Fuzzer Composition at Runtime | https://github.com/sslab-gatech/autofz | 11 | 1| 
 | 20230305T13:11:05Z | Null | https://github.com/PhucThinh20146028/Medical-Diagnosis-System-Using-Fuzzy-Logic | 0 | 0| 
 | 20230305T12:40:48Z | Basic college assignment for fuzzy walking machine | https://github.com/xylarshayu/Fuzzy-Washing-Machine-Assignment | 0 | 0| 
@@ -84,8 +86,6 @@
 | 20230305T11:21:30Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3443 | 413| 
 | 20230305T09:35:39Z | The github repository storing the code for TOSEM Feb 2023 Submitted Paper - Context-Aware Robustness Fuzzing for Deep Learning Models | https://github.com/PapRep/Clover | 0 | 0| 
 | 20230305T09:15:38Z | Trying out foundry for Smart Contracts Development, testing, fuzzing, etc | https://github.com/codeTIT4N/trying-foundry | 0 | 0| 
-| 20230305T02:55:57Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 890 | 205| 
-| 20230305T00:59:23Z | Null | https://github.com/HoanDiep/BT4_Fuzzy_Tri_tue_nhan_tao | 0 | 0| 
 
 
 
