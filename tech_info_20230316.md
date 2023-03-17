@@ -20,6 +20,7 @@
 | 20230316 | BianLian 勒索软件集团正在加强其业务并逐渐成熟，以比以往任何时候都更快的速度入侵系统。研究人员发现，BianLian已经从加密转向纯粹的数据窃取勒索策略 | https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion| 
 | 20230316 | 对 Intel 8086 处理器中的乘法算法进行逆向工程 | http://www.righto.com/2023/03/8086-multiplication-microcode.html| 
 | 20230316 | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | http://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet| 
+| 20230316 | ESET 研究人员发现了数十个模仿 Telegram 和 WhatsApp 的网站，主要针对 Android 和 Windows 用户，其中包含这些即时消息应用程序的木马化版本。 | https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/| 
 
 
 # 安全维基 推荐

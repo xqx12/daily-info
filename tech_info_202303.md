@@ -20,12 +20,12 @@
 | 20230316 | BianLian 勒索软件集团正在加强其业务并逐渐成熟，以比以往任何时候都更快的速度入侵系统。研究人员发现，BianLian已经从加密转向纯粹的数据窃取勒索策略 | https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion| 
 | 20230316 | 对 Intel 8086 处理器中的乘法算法进行逆向工程 | http://www.righto.com/2023/03/8086-multiplication-microcode.html| 
 | 20230316 | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | http://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet| 
+| 20230316 | ESET 研究人员发现了数十个模仿 Telegram 和 WhatsApp 的网站，主要针对 Android 和 Windows 用户，其中包含这些即时消息应用程序的木马化版本。 | https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/| 
 | 20230315 | GPT4发布！ | https://openai.com/product/gpt-4| 
 | 20230315 | Linux 内核中 TIOCSTI 内核功能存在 TTY 回传漏洞 | http://seclists.org/oss-sec/2023/q1/142| 
 | 20230315 | 在 Broadcom Full MAC Wi-Fi 驱动程序中发现了一个 slab-out-of-bounds 读取漏洞 | https://sec.today/pulses/4abf7c2e-79b2-43f3-867f-561e4b324a15/| 
 | 20230315 | 研究者对 Hotspot 版本 1.4.1 的更新进行审计。这个版本包含一个新添加的 D-Bus 助手和 Polkit 身份验证。在审计期间，研究者发现帮助程序脚本 elevate_perf_privileges.sh 中存在一个默认情况下可能无法利用的漏洞，但在更改 Polkit 配置或使用具有较弱身份验证要求的替代身份验证机制时，很容易成为本地根漏洞利用。 | https://sec.today/pulses/c3206bee-ea43-43a1-8bca-e5ed967afa68/| 
 | 20230315 | 研究者已发现多个 TPM 2.0 实现存在越界写入和越界读取漏洞，这些漏洞可以通过发送带有加密参数的恶意 TPM 2.0 命令从用户模式应用程序触发。 | https://sec.today/pulses/d0ba80f8-fb7b-42e6-a82d-df785d9727fb/| 
-| 20230315 | ZDI发布的2023 年 3 月安全更新：Adobe 发布新补丁以解决 Adob​​e Photoshop、Experience Manager、Dimension、Commerce、Substance 3D Stager、云桌面应用程序和 Illustrator 程序中的 CVE。 微软发布了 74 个新补丁，解决 Microsoft Windows 和 Windows 组件、Office 和 Office 组件、Edge（基于 Chromium）、Microsoft Dynamics、Visual Studio 和 Azure 中的 CVE。 | https://sec.today/pulses/f1c4a580-dee1-412d-add9-67f0c5510f01/| 
 
 
 # 安全维基 推荐
