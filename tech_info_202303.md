@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230317T00:34:00Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230317T00:19:25Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
-| 20230316T23:24:56Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230316T20:44:47Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230316T18:46:51Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
 | 20230316T16:11:28Z | CVE-2023-25610 | Mass RCE Exploiter for Fortinet(FortiOS/Fortiproxy) CVE-2023-25610 | https://github.com/l1ced/CVE-2023-25610-mass | | 

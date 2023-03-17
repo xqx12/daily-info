@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230316T23:24:56Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230316T20:44:47Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230316T18:46:51Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
 | 20230316T16:11:28Z | CVE-2023-25610 | Mass RCE Exploiter for Fortinet(FortiOS/Fortiproxy) CVE-2023-25610 | https://github.com/l1ced/CVE-2023-25610-mass | | 
@@ -37,6 +36,7 @@
 | 20230316T14:54:37Z | CVE-2021-26700 | Null | https://github.com/jason-ntu/CVE-2021-26700 | | 
 | 20230316T14:08:27Z | CVE-2023-23397 | CVE-2023-23397 - Microsoft Outlook Vulnerability | https://github.com/alicangnll/CVE-2023-23397 | | 
 | 20230316T12:41:39Z | CVE-2023-27587 | The simple PoC of CVE-2023-27587 | https://github.com/sec-fx/CVE-2023-27587-PoC | | 
+| 20230316T11:19:33Z | CVE-2023-0179 | 针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。 | https://github.com/H4K6/CVE-2023-0179-PoC | | 
 
 
 # klee on Github 推荐
