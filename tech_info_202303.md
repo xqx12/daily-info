@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230317T01:37:02Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230317T01:37:54Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230317T00:36:22Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230316T20:44:47Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230316T18:46:51Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
@@ -105,7 +105,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230316T19:21:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 116 | 14| 
 | 20230316T18:28:42Z | Null | https://github.com/xyber196/ModSecurityBackdoor | 0 | 0| 
-| 20230316T18:27:59Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 185 | 92| 
+| 20230316T18:27:59Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 185 | 93| 
 | 20230316T14:15:19Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 693 | 302| 
 | 20230316T13:35:24Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 0| 
 | 20230316T12:04:44Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 409 | 77| 
