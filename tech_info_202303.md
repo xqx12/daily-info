@@ -134,7 +134,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230317T01:47:11Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 545 | 87| 
+| 20230317T10:20:53Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 548 | 88| 
+| 20230317T08:22:20Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 17 | 2| 
 | 20230317T01:25:10Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 5 | 0| 
 | 20230315T21:19:23Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 39 | 3| 
 | 20230315T08:59:03Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 7 | 1| 
@@ -142,7 +143,6 @@
 | 20230314T01:01:39Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 14 | 1| 
 | 20230312T15:21:40Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 1 | 1| 
 | 20230309T11:02:31Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 7 | 0| 
-| 20230304T03:23:14Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 16 | 2| 
 
 
 # fuzz on Github 推荐
