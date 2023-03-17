@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230317T00:41:59Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230317T00:42:40Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230317T00:36:22Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230316T20:44:47Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230316T18:46:51Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T00:43:10Z | Just some playground | https://github.com/vikt0r0/fuzzy-sniffle | 0 | 0| 
 | 20230317T00:38:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8475 | 1845| 
 | 20230316T23:55:20Z | Null | https://github.com/lightninglabs/lnd-fuzz | 0 | 0| 
 | 20230316T23:36:54Z | Fuzzy clustering of fuzzy data | https://github.com/lapkin25/fuzzy-data-clustering | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20230316T17:42:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2083 | 227| 
 | 20230316T15:03:11Z | Ad-hox OSS fuzz | https://github.com/HiragiChi/OSS-fuzz | 0 | 0| 
 | 20230316T14:02:10Z | Notion widgets | https://github.com/Fishiox2/fuzzy-octopus | 0 | 0| 
-| 20230316T13:54:15Z | Null | https://github.com/Cash4Cause/fuzzy-octo-robot | 0 | 0| 
 
 
 
