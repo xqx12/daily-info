@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230317T01:56:14Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
-| 20230317T01:52:30Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
-| 20230316T20:44:47Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
-| 20230316T18:46:51Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
+| 20230317T11:51:37Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230317T10:55:25Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
+| 20230317T10:45:40Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
+| 20230317T10:25:07Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
+| 20230317T08:46:52Z | CVE-2023-23397 | CVE-2023-23397 - Microsoft Outlook Vulnerability | https://github.com/alicangnll/CVE-2023-23397 | | 
+| 20230317T08:43:11Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
+| 20230317T06:53:57Z | CVE-2023-23397 | PoC for CVE-2023-23397 | https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell | | 
+| 20230317T05:32:11Z | CVE-2023-0179 | 针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。 | https://github.com/H4K6/CVE-2023-0179-PoC | | 
+| 20230317T03:43:08Z | CVE-2023-23397 | CVE-2023-23397 Remediation Script (Powershell) | https://github.com/im007/CVE-2023-23397 | | 
 | 20230316T16:11:28Z | CVE-2023-25610 | Mass RCE Exploiter for Fortinet(FortiOS/Fortiproxy) CVE-2023-25610 | https://github.com/l1ced/CVE-2023-25610-mass | | 
-| 20230316T15:59:39Z | CVE-2023-27842 | Null | https://github.com/tristao-marinho/CVE-2023-27842 | | 
-| 20230316T15:18:48Z | CVE-2023-23397 | Null | https://github.com/j0eyv/CVE-2023-23397 | | 
-| 20230316T15:02:06Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
-| 20230316T14:54:37Z | CVE-2021-26700 | Null | https://github.com/jason-ntu/CVE-2021-26700 | | 
-| 20230316T14:08:27Z | CVE-2023-23397 | CVE-2023-23397 - Microsoft Outlook Vulnerability | https://github.com/alicangnll/CVE-2023-23397 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T02:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2185 | 608| 
 | 20230317T01:55:49Z | A Professional Team of Best Cleaners | https://github.com/sharmarakesh94/Kleenr | 0 | 0| 
-| 20230316T16:12:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2184 | 608| 
 | 20230316T11:05:48Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230316T08:04:03Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 173 | 49| 
 | 20230315T17:01:18Z | My Portfolio Website | https://github.com/Brian-K-Lee/BrianKLee | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
 | 20230316T14:14:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 309 | 76| 
 | 20230315T02:43:24Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 19 | 6| 
 | 20230312T03:23:08Z | The exploit generator CRAX++ is CRAX with a plugin system, s2e 2.0 upgrade, dynamic ROP, code selection, and I/O states (HITCON 2022) | https://github.com/SQLab/CRAXplusplus | 80 | 14| 
@@ -88,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230317T00:28:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l3- | 1 | 0| 
-| 20230317T00:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l3 | 1 | 0| 
-| 20230317T00:21:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l3 | 1 | 0| 
-| 20230317T00:20:14Z | Automated mitigation of major exploit. | https://github.com/enthusedcoder/Mitigate_freesshd | 0 | 0| 
-| 20230316T23:59:16Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 153 | 7| 
-| 20230316T23:50:32Z | Null | https://github.com/minus-twelve/Exploits | 0 | 0| 
-| 20230316T22:23:25Z | really bad lel | https://github.com/PepeerFrog/MyOldRobloxExploitGui | 0 | 0| 
-| 20230316T21:18:55Z | Fhack Exploit | https://github.com/GigglyGiggle/FhackMain | 0 | 0| 
-| 20230316T20:42:20Z | > Request to upload 2.16.20XX | https://github.com/FlamesLLC/-GPT4Exploits- | 0 | 0| 
-| 20230316T18:58:29Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/nhakkaou/Rainfall-42 | 1 | 0| 
+| 20230317T11:54:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8230 | 1902| 
+| 20230317T11:25:58Z | A tool made to streamline Wordpress penetration testing, from the information gathering stage, to exploitation and more. | https://github.com/VirtuaceOfficial/wp-assassin | 0 | 0| 
+| 20230317T11:13:21Z | This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works. | https://github.com/martinclauss/exim-rce-cve-2018-6789 | 7 | 6| 
+| 20230317T10:50:20Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 894 | 186| 
+| 20230317T10:00:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5025 | 723| 
+| 20230317T09:29:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 599 | 159| 
+| 20230317T08:58:43Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 490 | 95| 
+| 20230317T08:57:08Z | Null | https://github.com/Atharva-K12/Computing-Equilibria-by-Minimizing-Exploitability-with-Best-Response-Ensembles | 0 | 0| 
+| 20230317T08:44:28Z | Code and data associated with Cornford et al., 2023, Ongoing over-exploitation and delayed responses to environmental change highlight the urgency for action to promote vertebrate recoveries by 2030. | https://github.com/rcornf/lpi_lags_2023 | 0 | 0| 
+| 20230317T06:24:23Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 14 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T07:57:07Z | Unofficial  implementation of NeurIPS 2021 paper Backdoor Attack with Imperceptible Input and Latent Modification. | https://github.com/RJ-T/Wasserstein-Backdoor | 0 | 0| 
+| 20230317T06:08:19Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 1 | 0| 
 | 20230316T19:21:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 116 | 14| 
 | 20230316T18:28:42Z | Null | https://github.com/xyber196/ModSecurityBackdoor | 0 | 0| 
 | 20230316T18:27:59Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 185 | 93| 
 | 20230316T14:15:19Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 693 | 302| 
 | 20230316T13:35:24Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 0| 
 | 20230316T12:04:44Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 409 | 77| 
-| 20230316T10:47:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1993 | 820| 
+| 20230316T10:47:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1993 | 821| 
 | 20230316T07:20:30Z | Null | https://github.com/seo1-say/simple-malware | 0 | 0| 
-| 20230315T20:53:40Z | PHP Wordpress Backdoor - Allows manual insertion of a user into any wordpress site, given that you have file read/write access | https://github.com/hord-brayden/WP-Backdoor | 0 | 0| 
-| 20230315T17:38:39Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 40 | 11| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
+| 20230317T11:18:10Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 1 | 0| 
+| 20230317T08:50:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 174 | 22| 
 | 20230317T01:47:21Z | jobify 2023 | https://github.com/Blurzschyter/fuzzy-winner | 0 | 0| 
 | 20230317T00:43:10Z | Just some playground | https://github.com/vikt0r0/fuzzy-sniffle | 0 | 0| 
 | 20230317T00:38:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8475 | 1845| 
 | 20230316T23:55:20Z | Null | https://github.com/lightninglabs/lnd-fuzz | 0 | 0| 
 | 20230316T23:36:54Z | Fuzzy clustering of fuzzy data | https://github.com/lapkin25/fuzzy-data-clustering | 0 | 0| 
+| 20230316T22:18:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1312 | 179| 
 | 20230316T21:28:18Z | The project constitutes a course of laboratory work on fuzzy mathematics  | https://github.com/Leonid-St/fuzzy-mathematics-labs-project | 1 | 0| 
-| 20230316T20:03:18Z | Personal website | https://github.com/fuzztheplanet/fuzztheplanet.github.io | 0 | 0| 
-| 20230316T18:18:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 173 | 22| 
-| 20230316T17:42:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2083 | 227| 
-| 20230316T15:45:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3472 | 416| 
 
 
 
