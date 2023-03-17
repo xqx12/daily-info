@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T00:28:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l3- | 1 | 0| 
 | 20230317T00:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l3 | 1 | 0| 
 | 20230317T00:21:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l3 | 1 | 0| 
 | 20230317T00:20:14Z | Automated mitigation of major exploit. | https://github.com/enthusedcoder/Mitigate_freesshd | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20230316T21:18:55Z | Fhack Exploit | https://github.com/GigglyGiggle/FhackMain | 0 | 0| 
 | 20230316T20:42:20Z | > Request to upload 2.16.20XX | https://github.com/FlamesLLC/-GPT4Exploits- | 0 | 0| 
 | 20230316T18:58:29Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/nhakkaou/Rainfall-42 | 1 | 0| 
-| 20230316T15:34:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 597 | 159| 
 
 
 # backdoor on Github 推荐
