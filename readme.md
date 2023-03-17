@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:46:27Z | Null | https://github.com/Bequen/fuzzy-numerics | 0 | 0| 
 | 20230317T12:20:50Z | Null | https://github.com/gio-makasa/fuzzy-sniffle | 0 | 0| 
 | 20230317T12:11:50Z | Null | https://github.com/Swett12/fuzzy | 0 | 0| 
 | 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
