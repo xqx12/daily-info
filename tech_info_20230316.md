@@ -13,6 +13,9 @@
 | 20230316 | 威胁行为者继续利用自 2017 年及更早以来已公开的漏洞。文章中提到的受损企业有五年或更长时间来修补或缓解这些漏洞，但他们没有这样做。 | http://blog.exodusintel.com/2023/03/15/everything-old-is-new-again/?utm_source=rss&utm_medium=rss&utm_campaign=everything-old-is-new-again| 
 | 20230316 | 根据 Cyber​​eason 进行的一项新的全球研究，勒索软件的祸害直接影响组织为实现安全运营中心 (SOC) 现代化而做出的投资决策。 | https://www.cybereason.com/blog/how-ransomware-is-driving-soc-modernization-requirements| 
 | 20230316 | Apache Airflow的错误信息生成功能中存在信息泄漏漏洞 | http://seclists.org/oss-sec/2023/q1/153| 
+| 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
+| 20230316 | 服务器端请求伪造 (SSRF) 使用跨协议的重定向攻击绕过反 SSRF 过滤 | http://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html| 
+| 20230316 | GPT_Vuln-analyzer - 使用 ChatGPT API 和 Python-Nmap 模块使用 GPT3 模型创建基于 Nmap 扫描数据的漏洞报告 | https://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html| 
 
 
 # 安全维基 推荐
