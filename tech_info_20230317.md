@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230317T12:38:30Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
+| 20230317T12:40:24Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230317T12:19:38Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230317T10:55:25Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230317T10:45:40Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
