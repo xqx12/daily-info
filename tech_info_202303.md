@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T01:47:21Z | jobify 2023 | https://github.com/Blurzschyter/fuzzy-winner | 0 | 0| 
 | 20230317T00:43:10Z | Just some playground | https://github.com/vikt0r0/fuzzy-sniffle | 0 | 0| 
 | 20230317T00:38:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8475 | 1845| 
 | 20230316T23:55:20Z | Null | https://github.com/lightninglabs/lnd-fuzz | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20230316T18:18:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 173 | 22| 
 | 20230316T17:42:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2083 | 227| 
 | 20230316T15:03:11Z | Ad-hox OSS fuzz | https://github.com/HiragiChi/OSS-fuzz | 0 | 0| 
-| 20230316T14:02:10Z | Notion widgets | https://github.com/Fishiox2/fuzzy-octopus | 0 | 0| 
 
 
 
