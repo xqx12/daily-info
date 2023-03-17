@@ -94,11 +94,11 @@
 | 20230317T11:25:58Z | A tool made to streamline Wordpress penetration testing, from the information gathering stage, to exploitation and more. | https://github.com/VirtuaceOfficial/wp-assassin | 0 | 0| 
 | 20230317T11:13:21Z | This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works. | https://github.com/martinclauss/exim-rce-cve-2018-6789 | 7 | 6| 
 | 20230317T10:50:20Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 894 | 186| 
+| 20230317T10:07:33Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 414 | 57| 
 | 20230317T10:00:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5025 | 723| 
 | 20230317T08:58:43Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 490 | 95| 
 | 20230317T08:57:08Z | Null | https://github.com/Atharva-K12/Computing-Equilibria-by-Minimizing-Exploitability-with-Best-Response-Ensembles | 0 | 0| 
 | 20230317T08:44:28Z | Code and data associated with Cornford et al., 2023, Ongoing over-exploitation and delayed responses to environmental change highlight the urgency for action to promote vertebrate recoveries by 2030. | https://github.com/rcornf/lpi_lags_2023 | 0 | 0| 
-| 20230317T06:24:23Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 14 | 7| 
 
 
 # backdoor on Github 推荐
