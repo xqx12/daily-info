@@ -16,11 +16,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:41:50Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230317T12:40:24Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230317T12:19:38Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230317T10:55:25Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 | 20230317T10:45:40Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
-| 20230317T10:25:07Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230317T08:46:52Z | CVE-2023-23397 | CVE-2023-23397 - Microsoft Outlook Vulnerability | https://github.com/alicangnll/CVE-2023-23397 | | 
 | 20230317T08:43:11Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
 | 20230317T06:53:57Z | CVE-2023-23397 | PoC for CVE-2023-23397 | https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell | | 
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230317T12:25:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4775 | 943| 
+| 20230317T12:42:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4774 | 943| 
 | 20230317T12:12:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 600 | 159| 
 | 20230317T11:54:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8230 | 1902| 
 | 20230317T11:25:58Z | A tool made to streamline Wordpress penetration testing, from the information gathering stage, to exploitation and more. | https://github.com/VirtuaceOfficial/wp-assassin | 0 | 0| 
