@@ -89,9 +89,9 @@
 | 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
 | 20230317T11:18:10Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 1 | 0| 
 | 20230317T08:50:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 174 | 22| 
+| 20230317T02:04:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8476 | 1845| 
 | 20230317T01:47:21Z | jobify 2023 | https://github.com/Blurzschyter/fuzzy-winner | 0 | 0| 
 | 20230317T00:43:10Z | Just some playground | https://github.com/vikt0r0/fuzzy-sniffle | 0 | 0| 
-| 20230317T00:38:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8475 | 1845| 
 
 
 
