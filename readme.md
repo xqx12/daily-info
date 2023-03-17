@@ -101,12 +101,12 @@
 | 20230316T23:36:54Z | Fuzzy clustering of fuzzy data | https://github.com/lapkin25/fuzzy-data-clustering | 0 | 0| 
 | 20230316T21:28:18Z | The project constitutes a course of laboratory work on fuzzy mathematics  | https://github.com/Leonid-St/fuzzy-mathematics-labs-project | 1 | 0| 
 | 20230316T20:03:18Z | Personal website | https://github.com/fuzztheplanet/fuzztheplanet.github.io | 0 | 0| 
-| 20230316T19:50:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8473 | 1845| 
 | 20230316T18:18:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 173 | 22| 
 | 20230316T17:42:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2083 | 227| 
 | 20230316T15:03:11Z | Ad-hox OSS fuzz | https://github.com/HiragiChi/OSS-fuzz | 0 | 0| 
 | 20230316T14:02:10Z | Notion widgets | https://github.com/Fishiox2/fuzzy-octopus | 0 | 0| 
 | 20230316T13:54:15Z | Null | https://github.com/Cash4Cause/fuzzy-octo-robot | 0 | 0| 
+| 20230316T13:47:05Z | Null | https://github.com/Cash4Cause/fuzzy-octo-fortnight | 0 | 0| 
 
 
 
