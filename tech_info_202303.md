@@ -156,7 +156,7 @@
 | 20230316T20:03:18Z | Personal website | https://github.com/fuzztheplanet/fuzztheplanet.github.io | 0 | 0| 
 | 20230316T18:18:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 173 | 22| 
 | 20230316T17:42:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2083 | 227| 
-| 20230316T15:03:11Z | Ad-hox OSS fuzz | https://github.com/HiragiChi/OSS-fuzz | 0 | 0| 
+| 20230316T15:45:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3472 | 416| 
 
 
 
