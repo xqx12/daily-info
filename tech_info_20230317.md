@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:11:50Z | Null | https://github.com/Swett12/fuzzy | 0 | 0| 
 | 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
 | 20230317T11:18:10Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 1 | 0| 
 | 20230317T08:50:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 174 | 22| 
