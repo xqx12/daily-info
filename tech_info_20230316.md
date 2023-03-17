@@ -16,6 +16,10 @@
 | 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
 | 20230316 | 服务器端请求伪造 (SSRF) 使用跨协议的重定向攻击绕过反 SSRF 过滤 | http://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html| 
 | 20230316 | GPT_Vuln-analyzer - 使用 ChatGPT API 和 Python-Nmap 模块使用 GPT3 模型创建基于 Nmap 扫描数据的漏洞报告 | https://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html| 
+| 20230316 | 介绍如何学习 Web3 安全成为 Solidity 智能合约审计员学习 Web3 安全 | http://engn33r.com/learn-auditing.html| 
+| 20230316 | BianLian 勒索软件集团正在加强其业务并逐渐成熟，以比以往任何时候都更快的速度入侵系统。研究人员发现，BianLian已经从加密转向纯粹的数据窃取勒索策略 | https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion| 
+| 20230316 | 对 Intel 8086 处理器中的乘法算法进行逆向工程 | http://www.righto.com/2023/03/8086-multiplication-microcode.html| 
+| 20230316 | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | http://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet| 
 
 
 # 安全维基 推荐

@@ -16,16 +16,16 @@
 | 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
 | 20230316 | 服务器端请求伪造 (SSRF) 使用跨协议的重定向攻击绕过反 SSRF 过滤 | http://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html| 
 | 20230316 | GPT_Vuln-analyzer - 使用 ChatGPT API 和 Python-Nmap 模块使用 GPT3 模型创建基于 Nmap 扫描数据的漏洞报告 | https://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html| 
+| 20230316 | 介绍如何学习 Web3 安全成为 Solidity 智能合约审计员学习 Web3 安全 | http://engn33r.com/learn-auditing.html| 
+| 20230316 | BianLian 勒索软件集团正在加强其业务并逐渐成熟，以比以往任何时候都更快的速度入侵系统。研究人员发现，BianLian已经从加密转向纯粹的数据窃取勒索策略 | https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion| 
+| 20230316 | 对 Intel 8086 处理器中的乘法算法进行逆向工程 | http://www.righto.com/2023/03/8086-multiplication-microcode.html| 
+| 20230316 | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | http://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet| 
 | 20230315 | GPT4发布！ | https://openai.com/product/gpt-4| 
 | 20230315 | Linux 内核中 TIOCSTI 内核功能存在 TTY 回传漏洞 | http://seclists.org/oss-sec/2023/q1/142| 
 | 20230315 | 在 Broadcom Full MAC Wi-Fi 驱动程序中发现了一个 slab-out-of-bounds 读取漏洞 | https://sec.today/pulses/4abf7c2e-79b2-43f3-867f-561e4b324a15/| 
 | 20230315 | 研究者对 Hotspot 版本 1.4.1 的更新进行审计。这个版本包含一个新添加的 D-Bus 助手和 Polkit 身份验证。在审计期间，研究者发现帮助程序脚本 elevate_perf_privileges.sh 中存在一个默认情况下可能无法利用的漏洞，但在更改 Polkit 配置或使用具有较弱身份验证要求的替代身份验证机制时，很容易成为本地根漏洞利用。 | https://sec.today/pulses/c3206bee-ea43-43a1-8bca-e5ed967afa68/| 
 | 20230315 | 研究者已发现多个 TPM 2.0 实现存在越界写入和越界读取漏洞，这些漏洞可以通过发送带有加密参数的恶意 TPM 2.0 命令从用户模式应用程序触发。 | https://sec.today/pulses/d0ba80f8-fb7b-42e6-a82d-df785d9727fb/| 
 | 20230315 | ZDI发布的2023 年 3 月安全更新：Adobe 发布新补丁以解决 Adob​​e Photoshop、Experience Manager、Dimension、Commerce、Substance 3D Stager、云桌面应用程序和 Illustrator 程序中的 CVE。 微软发布了 74 个新补丁，解决 Microsoft Windows 和 Windows 组件、Office 和 Office 组件、Edge（基于 Chromium）、Microsoft Dynamics、Visual Studio 和 Azure 中的 CVE。 | https://sec.today/pulses/f1c4a580-dee1-412d-add9-67f0c5510f01/| 
-| 20230315 | Mozilla 发起了 Responsible AI Challenge，该计划旨在鼓励开发人员构建雄心勃勃、合乎道德且全面的 AI 解决方案。目标是通过投资创建可信赖的人工智能，确保人工智能的未来以正确的方式造福于人类。 Mozilla Builders 将向顶级应用程序和项目投资 50,000 美元，第一名获得者将获得 25,000 美元的大奖 | https://sec.today/pulses/df4fc44c-c929-4e30-bc51-bd04fa5fb4f4/| 
-| 20230315 | Trail of Bits 针对人工智能推出了一项将信息安全和物理安全方法结合起来以创建新的风险评估和保障计划。该计划评估潜在风险，并为基于人工智能的系统确定必要的安全措施。 | https://sec.today/pulses/0d130ed3-3445-414c-b245-16816617eb68/| 
-| 20230315 | 在 Broadcom Full MAC Wi-Fi 驱动程序中发现了一个 slab-out-of-bounds 读取漏洞 | http://seclists.org/oss-sec/2023/q1/141| 
-| 20230315 | 研究者对 Hotspot 版本 1.4.1 的更新进行审计。这个版本包含一个新添加的 D-Bus 助手和 Polkit 身份验证。在审计期间，研究者发现帮助程序脚本 elevate_perf_privileges.sh 中存在一个默认情况下可能无法利用的漏洞，但在更改 Polkit 配置或使用具有较弱身份验证要求的替代身份验证机制时，很容易成为本地根漏洞利用。 | http://seclists.org/oss-sec/2023/q1/148| 
 
 
 # 安全维基 推荐
