@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:25:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4775 | 943| 
 | 20230317T12:12:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 600 | 159| 
 | 20230317T11:54:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8230 | 1902| 
 | 20230317T11:25:58Z | A tool made to streamline Wordpress penetration testing, from the information gathering stage, to exploitation and more. | https://github.com/VirtuaceOfficial/wp-assassin | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230317T10:00:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5025 | 723| 
 | 20230317T08:58:43Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 490 | 95| 
 | 20230317T08:57:08Z | Null | https://github.com/Atharva-K12/Computing-Equilibria-by-Minimizing-Exploitability-with-Best-Response-Ensembles | 0 | 0| 
-| 20230317T08:44:28Z | Code and data associated with Cornford et al., 2023, Ongoing over-exploitation and delayed responses to environmental change highlight the urgency for action to promote vertebrate recoveries by 2030. | https://github.com/rcornf/lpi_lags_2023 | 0 | 0| 
 
 
 # backdoor on Github 推荐
