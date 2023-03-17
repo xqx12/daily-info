@@ -88,6 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T00:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l3 | 1 | 0| 
+| 20230317T00:21:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l3 | 1 | 0| 
+| 20230317T00:20:14Z | Automated mitigation of major exploit. | https://github.com/enthusedcoder/Mitigate_freesshd | 0 | 0| 
 | 20230316T23:59:16Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 153 | 7| 
 | 20230316T23:50:32Z | Null | https://github.com/minus-twelve/Exploits | 0 | 0| 
 | 20230316T22:23:25Z | really bad lel | https://github.com/PepeerFrog/MyOldRobloxExploitGui | 0 | 0| 
@@ -95,9 +98,6 @@
 | 20230316T20:42:20Z | > Request to upload 2.16.20XX | https://github.com/FlamesLLC/-GPT4Exploits- | 0 | 0| 
 | 20230316T18:58:29Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/nhakkaou/Rainfall-42 | 1 | 0| 
 | 20230316T15:34:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 597 | 159| 
-| 20230316T15:09:42Z | Null | https://github.com/Jsounds/Exploitation1 | 0 | 0| 
-| 20230316T14:52:57Z | Null | https://github.com/BrucevandeVen/Cloud-Exploits | 0 | 0| 
-| 20230316T14:28:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/my-app-10-6fNZr-pray-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
