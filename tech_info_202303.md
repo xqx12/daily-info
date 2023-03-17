@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:46:15Z | CVE-2023-23397 | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | | 
 | 20230317T12:41:50Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 | 20230317T12:40:24Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230317T12:19:38Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
@@ -55,7 +56,6 @@
 | 20230317T08:43:11Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
 | 20230317T06:53:57Z | CVE-2023-23397 | PoC for CVE-2023-23397 | https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell | | 
 | 20230317T05:32:11Z | CVE-2023-0179 | 针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。 | https://github.com/H4K6/CVE-2023-0179-PoC | | 
-| 20230317T03:43:08Z | CVE-2023-23397 | CVE-2023-23397 Remediation Script (Powershell) | https://github.com/im007/CVE-2023-23397 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230317T12:46:15Z | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | 0 | 0| 
 | 20230317T12:42:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4774 | 943| 
 | 20230317T12:12:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 600 | 159| 
 | 20230317T11:54:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8230 | 1902| 
@@ -97,8 +98,7 @@
 | 20230317T10:50:20Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 894 | 186| 
 | 20230317T10:07:33Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 414 | 57| 
 | 20230317T10:00:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5025 | 723| 
-| 20230317T08:58:43Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 490 | 95| 
-| 20230317T08:57:08Z | Null | https://github.com/Atharva-K12/Computing-Equilibria-by-Minimizing-Exploitability-with-Best-Response-Ensembles | 0 | 0| 
+| 20230317T09:20:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 26| 
 
 
 # backdoor on Github 推荐
