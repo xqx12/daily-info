@@ -71,7 +71,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230318T01:48:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8477 | 1847| 
+| 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
+| 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
+| 20230318T08:16:04Z | As a pharmacy student, I have developed expertise in pharmaceutical care and sciences. My proficiency in software design-expert and IBM SPSS, has been useful in conducting research and analyzing data related to pharmaceuticals. | https://github.com/Radiaputra/fuzzy-potato | 0 | 0| 
+| 20230318T07:27:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8480 | 1848| 
+| 20230318T05:39:28Z | Null | https://github.com/romix40002/fuzzy | 0 | 0| 
+| 20230318T05:35:30Z | Backupmanager um Lokale und Remote Daten zu sichern, Sicherung von verschiedenen DBMS, sowie Sortierung von Dateien und Löschen von Duplikaten | https://github.com/germ86/fuzzy-journey-backup | 0 | 0| 
 | 20230318T01:07:47Z | Fuzzer with golang | https://github.com/fnemeth10/go_fuzzer | 0 | 0| 
 | 20230318T00:40:37Z | Null | https://github.com/jimmyouza/fuzzy-eureka | 0 | 0| 
 
