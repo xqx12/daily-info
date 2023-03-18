@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:08:09Z | Null | https://github.com/YuB-X/Roblox-Basic-Exploit-V2 | 0 | 0| 
 | 20230318T11:47:57Z | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | 0 | 0| 
 | 20230318T11:20:37Z | This script exploits a vulnerability (CVE-2021-25094) in the TypeHub WordPress plugin. | https://github.com/aliestercrowleymv/TypeHub-Exploiter | 0 | 1| 
 | 20230318T09:28:52Z | exploits de roblox | https://github.com/MatiasE003/scripting-lua | 0 | 0| 
