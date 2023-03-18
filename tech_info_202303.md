@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230318T12:37:40Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230318T12:44:42Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230318T11:47:57Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
 | 20230318T11:37:10Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230318T11:29:28Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
