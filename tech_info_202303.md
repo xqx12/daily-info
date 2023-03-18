@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230318T12:36:33Z | Null | https://github.com/YuB-X/Roblox-Basic-Exploit-V2 | 0 | 0| 
+| 20230318T12:40:05Z | Null | https://github.com/YuB-X/Roblox-Basic-Exploit-V2 | 1 | 0| 
 | 20230318T11:47:57Z | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | 0 | 0| 
 | 20230318T11:37:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4778 | 944| 
 | 20230318T11:20:37Z | This script exploits a vulnerability (CVE-2021-25094) in the TypeHub WordPress plugin. | https://github.com/aliestercrowleymv/TypeHub-Exploiter | 0 | 1| 
