@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230318T00:55:52Z | Contains any original exploits for Blooket. | https://github.com/TonicGaro/blooket | 0 | 0| 
+| 20230318T01:09:26Z | Contains any original exploits for Blooket. | https://github.com/TonicGaro/blooket | 0 | 0| 
 | 20230318T00:32:08Z | Null | https://github.com/TikTokRishiRecon/exploitss | 0 | 0| 
 | 20230317T23:49:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-15 | 1 | 0| 
 | 20230317T23:48:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-15 | 1 | 0| 
