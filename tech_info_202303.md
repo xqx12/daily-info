@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:46:10Z | A collection of useful lists for penetration testing - LFI, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 6 | 0| 
 | 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230318T05:35:30Z | Backupmanager um Lokale und Remote Daten zu sichern, Sicherung von verschiedenen DBMS, sowie Sortierung von Dateien und Löschen von Duplikaten | https://github.com/germ86/fuzzy-journey-backup | 0 | 0| 
 | 20230318T01:07:47Z | Fuzzer with golang | https://github.com/fnemeth10/go_fuzzer | 0 | 0| 
 | 20230318T00:40:37Z | Null | https://github.com/jimmyouza/fuzzy-eureka | 0 | 0| 
-| 20230317T22:01:43Z | Field positioning and tracker with, GPS, IMU, 2.5GHz and sub-GHz | https://github.com/EmilsSturitis/fuzzy-octo-dollop | 0 | 0| 
 
 
 

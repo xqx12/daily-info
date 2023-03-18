@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:46:10Z | A collection of useful lists for penetration testing - LFI, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 6 | 0| 
 | 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
