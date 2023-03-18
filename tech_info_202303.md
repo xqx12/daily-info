@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T00:55:52Z | Contains any original exploits for Blooket. | https://github.com/TonicGaro/blooket | 0 | 0| 
 | 20230318T00:32:08Z | Null | https://github.com/TikTokRishiRecon/exploitss | 0 | 0| 
 | 20230317T23:49:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-15 | 1 | 0| 
 | 20230317T23:48:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-15 | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20230317T16:49:38Z | My Exploits for: PCMan FTP Server 2.0.7 - Seattle Lab Mail (SLmail) 5.5 - Easy RM to MP3 Converter 2.7.3 | https://github.com/CalfCrusher/Windows-Stack-Based-Buffer-Overflow-Exploits | 0 | 0| 
 | 20230317T12:46:15Z | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | 0 | 0| 
 | 20230317T12:42:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4774 | 943| 
-| 20230317T12:12:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 600 | 159| 
 
 
 # backdoor on Github 推荐
