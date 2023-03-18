@@ -119,12 +119,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:30:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3366 | 475| 
 | 20230318T05:30:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2187 | 608| 
 | 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
 | 20230317T05:59:27Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 18 | 8| 
 | 20230316T14:14:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 309 | 76| 
-| 20230315T16:23:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3365 | 475| 
 | 20230314T13:43:36Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 66 | 8| 
 | 20230311T15:50:35Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 1 | 0| 
 | 20230307T12:19:24Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 189 | 42| 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
 | 20230318T08:16:04Z | As a pharmacy student, I have developed expertise in pharmaceutical care and sciences. My proficiency in software design-expert and IBM SPSS, has been useful in conducting research and analyzing data related to pharmaceuticals. | https://github.com/Radiaputra/fuzzy-potato | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230318T01:07:47Z | Fuzzer with golang | https://github.com/fnemeth10/go_fuzzer | 0 | 0| 
 | 20230318T00:40:37Z | Null | https://github.com/jimmyouza/fuzzy-eureka | 0 | 0| 
 | 20230317T22:01:43Z | Field positioning and tracker with, GPS, IMU, 2.5GHz and sub-GHz | https://github.com/EmilsSturitis/fuzzy-octo-dollop | 0 | 0| 
-| 20230317T19:46:31Z | Creating an R Package as a group | https://github.com/treytipton4/fuzzybunnies | 0 | 2| 
 
 
 

@@ -67,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:30:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3366 | 475| 
 | 20230318T05:30:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2187 | 608| 
 
 
@@ -79,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
 | 20230318T08:16:04Z | As a pharmacy student, I have developed expertise in pharmaceutical care and sciences. My proficiency in software design-expert and IBM SPSS, has been useful in conducting research and analyzing data related to pharmaceuticals. | https://github.com/Radiaputra/fuzzy-potato | 0 | 0| 
