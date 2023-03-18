@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T00:40:37Z | Null | https://github.com/jimmyouza/fuzzy-eureka | 0 | 0| 
 | 20230317T22:01:43Z | Field positioning and tracker with, GPS, IMU, 2.5GHz and sub-GHz | https://github.com/EmilsSturitis/fuzzy-octo-dollop | 0 | 0| 
 | 20230317T21:46:09Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230317T19:46:31Z | Creating an R Package as a group | https://github.com/treytipton4/fuzzybunnies | 0 | 2| 
@@ -157,7 +158,6 @@
 | 20230317T12:46:27Z | Null | https://github.com/Bequen/fuzzy-numerics | 0 | 0| 
 | 20230317T12:20:50Z | Null | https://github.com/gio-makasa/fuzzy-sniffle | 0 | 0| 
 | 20230317T12:11:50Z | Null | https://github.com/Swett12/fuzzy | 0 | 0| 
-| 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
 
 
 
