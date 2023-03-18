@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230318T01:14:49Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230318T01:20:15Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230317T19:51:35Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
 | 20230317T19:38:26Z | CVE-2021-22 | Null | https://github.com/LingerANR/CVE-2021-22-555 | | 
 | 20230317T18:52:41Z | CVE-2023-23397 | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | | 
