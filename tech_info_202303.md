@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230318T00:28:12Z | Null | https://github.com/TikTokRishiRecon/exploitss | 0 | 0| 
+| 20230318T00:32:08Z | Null | https://github.com/TikTokRishiRecon/exploitss | 0 | 0| 
 | 20230317T23:49:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-15 | 1 | 0| 
 | 20230317T23:48:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-15 | 1 | 0| 
 | 20230317T23:47:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-15 | 1 | 0| 
