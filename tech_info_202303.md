@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230318T01:45:17Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
-| 20230318T01:20:15Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230318T11:54:15Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
+| 20230318T11:47:57Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
+| 20230318T11:37:10Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
+| 20230318T11:29:28Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
+| 20230318T09:22:44Z | CVE-2021-26084 | Confluence server webwork OGNL injection | https://github.com/smadi0x86/CVE-2021-26084 | | 
 | 20230317T19:51:35Z | CVE-2023-23397 | Python script to create a message with the vulenrability properties set | https://github.com/grn-bogo/CVE-2023-23397 | | 
 | 20230317T19:38:26Z | CVE-2021-22 | Null | https://github.com/LingerANR/CVE-2021-22-555 | | 
 | 20230317T18:52:41Z | CVE-2023-23397 | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | | 
 | 20230317T18:05:37Z | CVE-2023-23397 | Generates meeting requests taking advantage of CVE-2023-23397. This requires the outlook thick client to send. | https://github.com/BillSkiCO/CVE-2023-23397_EXPLOIT | | 
 | 20230317T17:47:49Z | CVE-2023-0179 | 针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。 | https://github.com/H4K6/CVE-2023-0179-PoC | | 
-| 20230317T17:06:44Z | CVE-2023-23396 | Exploit and report for CVE-2023-23396. | https://github.com/LucaBarile/CVE-2023-23396 | | 
-| 20230317T13:51:40Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
-| 20230317T12:41:50Z | CVE-2023-23397 | Exploit for the CVE-2023-23397 | https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T05:30:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2187 | 608| 
 | 20230317T20:19:39Z | Null | https://github.com/KLee954/klee954.github.io | 0 | 0| 
-| 20230317T02:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2185 | 608| 
 | 20230317T01:55:49Z | A Professional Team of Best Cleaners | https://github.com/sharmarakesh94/Kleenr | 0 | 0| 
 | 20230316T11:05:48Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230316T08:04:03Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 173 | 48| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T11:47:57Z | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | 0 | 0| 
+| 20230318T11:20:37Z | This script exploits a vulnerability (CVE-2021-25094) in the TypeHub WordPress plugin. | https://github.com/aliestercrowleymv/TypeHub-Exploiter | 0 | 1| 
+| 20230318T09:28:52Z | exploits de roblox | https://github.com/MatiasE003/scripting-lua | 0 | 0| 
+| 20230318T04:25:37Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 10 | 2| 
+| 20230318T03:55:21Z | A LuaU-based script hub supports many exploits and games, featuring prioritized aiming functionality and a medium level of stacked features for a versatile experience. | https://github.com/natnatzsx/nat.xyz | 0 | 0| 
 | 20230318T01:32:54Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 393 | 78| 
 | 20230318T01:09:26Z | Contains any original exploits for Blooket. | https://github.com/TonicGaro/blooket | 0 | 0| 
 | 20230318T00:32:08Z | Null | https://github.com/TikTokRishiRecon/exploitss | 0 | 0| 
 | 20230317T23:49:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-15 | 1 | 0| 
 | 20230317T23:48:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-15 | 1 | 0| 
-| 20230317T23:47:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-15 | 1 | 0| 
-| 20230317T22:56:23Z | Auto Updating Print Exploit For Roblox. | https://github.com/Sploiter13/print-exploit | 0 | 1| 
-| 20230317T22:21:28Z | Local File Inclusion (LFI) açığını sömüren bir program | https://github.com/willgraham-A/LFI-Exploit | 0 | 0| 
-| 20230317T16:49:38Z | My Exploits for: PCMan FTP Server 2.0.7 - Seattle Lab Mail (SLmail) 5.5 - Easy RM to MP3 Converter 2.7.3 | https://github.com/CalfCrusher/Windows-Stack-Based-Buffer-Overflow-Exploits | 0 | 0| 
-| 20230317T12:46:15Z | Exploit POC for CVE-2023-23397 | https://github.com/ahmedkhlief/CVE-2023-23397-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230318T11:43:02Z | The code of backdoor attack against multi-agent cooperative reinforcement learning | https://github.com/Shaymine/MARNet | 1 | 0| 
+| 20230318T11:25:57Z | Generating SAT Formulas with Planted Backdoors | https://github.com/aur3l14no/sat-planting-backdoors | 0 | 0| 
+| 20230318T10:39:36Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 1 | 0| 
+| 20230318T10:10:06Z | a backdoor library for testing | https://github.com/hisamdavid/revuot | 0 | 0| 
+| 20230318T06:24:54Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
+| 20230318T06:20:33Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/DoTheSmartThings/CleanThings | 0 | 1| 
 | 20230317T23:32:30Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/Davis0147/OSRipper | 0 | 0| 
 | 20230317T16:15:06Z | a backdoor library for testing | https://github.com/hisamdavid/reversepy | 0 | 0| 
 | 20230317T07:57:07Z | Unofficial  implementation of NeurIPS 2021 paper Backdoor Attack with Imperceptible Input and Latent Modification. | https://github.com/RJ-T/Wasserstein-Backdoor | 0 | 0| 
 | 20230317T06:08:19Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 1 | 0| 
-| 20230316T19:21:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 116 | 14| 
-| 20230316T19:19:22Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 38 | 10| 
-| 20230316T18:28:42Z | Null | https://github.com/xyber196/ModSecurityBackdoor | 0 | 0| 
-| 20230316T18:27:59Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 185 | 93| 
-| 20230316T14:15:19Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 693 | 302| 
-| 20230316T13:35:24Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
