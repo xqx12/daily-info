@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230318T01:06:09Z | Fuzzer with golang | https://github.com/fnemeth10/go_fuzzer | 0 | 0| 
+| 20230318T01:07:47Z | Fuzzer with golang | https://github.com/fnemeth10/go_fuzzer | 0 | 0| 
 | 20230318T00:40:37Z | Null | https://github.com/jimmyouza/fuzzy-eureka | 0 | 0| 
 | 20230317T22:01:43Z | Field positioning and tracker with, GPS, IMU, 2.5GHz and sub-GHz | https://github.com/EmilsSturitis/fuzzy-octo-dollop | 0 | 0| 
 | 20230317T21:46:09Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
