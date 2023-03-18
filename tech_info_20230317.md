@@ -91,13 +91,13 @@
 | 20230317T22:01:43Z | Field positioning and tracker with, GPS, IMU, 2.5GHz and sub-GHz | https://github.com/EmilsSturitis/fuzzy-octo-dollop | 0 | 0| 
 | 20230317T21:46:09Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230317T19:46:31Z | Creating an R Package as a group | https://github.com/treytipton4/fuzzybunnies | 0 | 2| 
-| 20230317T17:54:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8476 | 1847| 
 | 20230317T17:17:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2660 | 183| 
 | 20230317T14:09:22Z | A collection of fuzzers built using Honggfuzz and Cargofuzz tools | https://github.com/lambdaclass/fuzzing_examples | 1 | 0| 
 | 20230317T12:46:27Z | Null | https://github.com/Bequen/fuzzy-numerics | 0 | 0| 
 | 20230317T12:20:50Z | Null | https://github.com/gio-makasa/fuzzy-sniffle | 0 | 0| 
 | 20230317T12:11:50Z | Null | https://github.com/Swett12/fuzzy | 0 | 0| 
 | 20230317T11:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3503 | 700| 
+| 20230317T11:18:10Z | Null | https://github.com/Doanvo-hau/Fuzzylogic | 1 | 0| 
 
 
 
