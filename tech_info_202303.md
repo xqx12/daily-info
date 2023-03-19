@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230319T12:12:44Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
+| 20230319T12:17:33Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
 | 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
 | 20230319T12:04:07Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
 | 20230319T11:53:50Z | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | 0 | 0| 
