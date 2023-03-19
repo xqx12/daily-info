@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T00:23:58Z | A library that is open source that easily allows the ability to give any exploit a gui. | https://github.com/HappySunChild/Window-Library | 0 | 0| 
 | 20230318T23:58:21Z | A Whole List Of Roblox Exploiting Scripts | https://github.com/Burhan666/Script---Pack-Roblox | 0 | 0| 
 | 20230318T23:46:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5353 | 738| 
 | 20230318T23:25:07Z | A simple react SPA allowing users to input an ethereum address and have GPT-3.5 / GPT-4 explain and locate exploits.  | https://github.com/0x4337/0xExploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230318T21:38:06Z | This repository contains a structure exploiting algorithm for Robust Control problems. | https://github.com/SphinxDG/KYP-SDP | 0 | 0| 
 | 20230318T16:09:46Z | This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux. It uses the fork in the following link | https://github.com/P2Enjoy/kohya_ss-docker | 48 | 8| 
 | 20230318T12:40:05Z | Null | https://github.com/YuB-X/Roblox-Basic-Exploit-V2 | 1 | 0| 
-| 20230318T11:47:57Z | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
