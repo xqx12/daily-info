@@ -152,7 +152,7 @@
 | 20230318T21:10:27Z | yep, its a fuzz | https://github.com/MeijisIrlnd/fuzz | 0 | 0| 
 | 20230318T17:49:16Z | Work with Fuzzy Logic Design Toolbox in Matlab | https://github.com/lucaskydelima/Fuzzy-Logic-with-Matlab | 0 | 0| 
 | 20230318T17:37:59Z | Null | https://github.com/starwhetsmolontiomont1987/fuzzy-octo-spork | 0 | 0| 
-| 20230318T17:05:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8482 | 1847| 
+| 20230318T17:05:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8482 | 1848| 
 | 20230318T12:46:10Z | A collection of useful lists for penetration testing - LFI, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 6 | 0| 
 | 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
