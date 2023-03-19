@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230319T01:42:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-02 | 0 | 0| 
+| 20230319T01:43:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-02 | 1 | 0| 
 | 20230319T01:42:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-02 | 1 | 0| 
 | 20230319T01:39:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-02 | 1 | 0| 
 | 20230319T00:23:58Z | A library that is open source that easily allows the ability to give any exploit a gui. | https://github.com/HappySunChild/Window-Library | 0 | 0| 
