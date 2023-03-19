@@ -98,7 +98,7 @@
 | 20230319T09:35:11Z | Hacks, Exploits | https://github.com/SquidManLovesGitHub/SquidManLovesGitHub.github.io | 0 | 0| 
 | 20230319T09:25:17Z | A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process. | https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking | 4 | 1| 
 | 20230319T08:57:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8238 | 1904| 
-| 20230319T03:38:36Z | Roblox Exploit Framework | https://github.com/weeeeee8/compile | 0 | 0| 
+| 20230319T08:15:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13270 | 2227| 
 
 
 # backdoor on Github 推荐
