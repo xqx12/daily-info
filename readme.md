@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T12:46:16Z | (MADE BY ETXNIGHT) Info on et exploits: Et exploits is a massive gui of many executable javascript commands. This can be used for many things including translation, fun, privacy, bypassing filters, and keeping yourself safe. These scripts are executed by bookmarklet. | https://github.com/Tacogamerman/Et-exploits-Revival | 2 | 0| 
 | 20230319T12:41:30Z | a tool to create malware in python, reverse shell, spyware, and open tcp port. | https://github.com/IbonSanto09/PS-exploit | 1 | 0| 
 | 20230319T12:17:33Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
 | 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20230319T09:53:46Z | Security and Hacking Tools, Exploits, Scripts | https://github.com/seo1-say/tools | 0 | 0| 
 | 20230319T09:35:11Z | Hacks, Exploits | https://github.com/SquidManLovesGitHub/SquidManLovesGitHub.github.io | 0 | 0| 
 | 20230319T09:25:17Z | A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process. | https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking | 4 | 1| 
-| 20230319T08:57:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8238 | 1904| 
 
 
 # backdoor on Github 推荐
