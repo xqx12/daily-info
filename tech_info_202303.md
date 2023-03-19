@@ -154,7 +154,7 @@
 | 20230318T17:37:59Z | Null | https://github.com/starwhetsmolontiomont1987/fuzzy-octo-spork | 0 | 0| 
 | 20230318T17:08:34Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 626 | 32| 
 | 20230318T17:05:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8482 | 1848| 
-| 20230318T13:23:29Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 53 | 9| 
+| 20230318T13:23:29Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 53 | 10| 
 | 20230318T12:46:10Z | A collection of useful lists for penetration testing - LFI, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 6 | 0| 
 | 20230318T12:31:56Z | Fuzzes your bools for you, so you don%t have to. | https://github.com/tomvandig/fuzzy-bools | 0 | 0| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
