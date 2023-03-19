@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230319T12:01:44Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
+| 20230319T12:04:07Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
 | 20230319T11:53:50Z | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | 0 | 0| 
 | 20230319T11:44:40Z | Do not exploit this code into professional work! Use it for fun or for normal downloading stuffs! | https://github.com/souraOP/gdrive-pdf-downloader | 0 | 0| 
 | 20230319T09:53:46Z | Security and Hacking Tools, Exploits, Scripts | https://github.com/seo1-say/tools | 0 | 0| 
