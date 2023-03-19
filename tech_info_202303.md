@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T00:23:02Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 
 | 20230318T21:10:27Z | yep, its a fuzz | https://github.com/MeijisIrlnd/fuzz | 0 | 0| 
 | 20230318T17:49:16Z | Work with Fuzzy Logic Design Toolbox in Matlab | https://github.com/lucaskydelima/Fuzzy-Logic-with-Matlab | 0 | 0| 
 | 20230318T17:37:59Z | Null | https://github.com/starwhetsmolontiomont1987/fuzzy-octo-spork | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230318T09:24:16Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 52 | 9| 
 | 20230318T08:21:38Z | Godot4 Game | https://github.com/SzaszAttila2001/FuzzyPlatformer | 0 | 0| 
 | 20230318T08:16:04Z | As a pharmacy student, I have developed expertise in pharmaceutical care and sciences. My proficiency in software design-expert and IBM SPSS, has been useful in conducting research and analyzing data related to pharmaceuticals. | https://github.com/Radiaputra/fuzzy-potato | 0 | 0| 
-| 20230318T05:39:28Z | Null | https://github.com/romix40002/fuzzy | 0 | 0| 
 
 
 
