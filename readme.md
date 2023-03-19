@@ -53,9 +53,9 @@
 | 20230318T22:00:34Z | Null | https://github.com/VersedQuartz20/EXPLOITZ | 0 | 0| 
 | 20230318T21:46:31Z | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | 0 | 0| 
 | 20230318T21:38:06Z | This repository contains a structure exploiting algorithm for Robust Control problems. | https://github.com/SphinxDG/KYP-SDP | 0 | 0| 
+| 20230318T16:09:46Z | This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux. It uses the fork in the following link | https://github.com/P2Enjoy/kohya_ss-docker | 48 | 8| 
 | 20230318T12:40:05Z | Null | https://github.com/YuB-X/Roblox-Basic-Exploit-V2 | 1 | 0| 
 | 20230318T11:47:57Z | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | 0 | 0| 
-| 20230318T11:37:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4778 | 944| 
 
 
 # backdoor on Github 推荐
