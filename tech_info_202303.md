@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230319T12:08:40Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230319T11:53:50Z | CVE-2022-0739 | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | | 
 | 20230319T11:46:11Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
-| 20230319T11:26:44Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230319T10:18:31Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
 | 20230319T10:12:25Z | CVE-2022-23773 | Null | https://github.com/Liuyushung/CVE-2022-23773-Reproduce | | 
 | 20230318T21:46:31Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
 | 20230319T12:04:07Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
 | 20230319T11:53:50Z | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | 0 | 0| 
 | 20230319T11:44:40Z | Do not exploit this code into professional work! Use it for fun or for normal downloading stuffs! | https://github.com/souraOP/gdrive-pdf-downloader | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230319T08:57:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8238 | 1904| 
 | 20230319T03:38:36Z | Roblox Exploit Framework | https://github.com/weeeeee8/compile | 0 | 0| 
 | 20230319T01:43:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-02 | 1 | 0| 
-| 20230319T01:42:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-02 | 1 | 0| 
 
 
 # backdoor on Github 推荐
