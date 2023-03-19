@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T12:39:19Z | a tool to create malware in python, reverse shell, spyware, and open tcp port. | https://github.com/IbonSanto09/PS-exploit | 0 | 0| 
 | 20230319T12:17:33Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
 | 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
 | 20230319T12:04:07Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230319T09:35:11Z | Hacks, Exploits | https://github.com/SquidManLovesGitHub/SquidManLovesGitHub.github.io | 0 | 0| 
 | 20230319T09:25:17Z | A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process. | https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking | 4 | 1| 
 | 20230319T08:57:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8238 | 1904| 
-| 20230319T08:15:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13270 | 2227| 
 
 
 # backdoor on Github 推荐
