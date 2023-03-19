@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T12:56:31Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 39 | 10| 
 | 20230319T12:24:09Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 5 | 1| 
 | 20230319T10:03:50Z | Simple Backdoor in python using socket library | https://github.com/Arker123/Backdoor | 0 | 0| 
 | 20230319T08:51:13Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
@@ -113,7 +114,6 @@
 | 20230318T11:43:02Z | The code of backdoor attack against multi-agent cooperative reinforcement learning | https://github.com/Shaymine/MARNet | 1 | 0| 
 | 20230318T11:25:57Z | Generating SAT Formulas with Planted Backdoors | https://github.com/aur3l14no/sat-planting-backdoors | 0 | 0| 
 | 20230318T10:10:06Z | a backdoor library for testing | https://github.com/hisamdavid/revuot | 0 | 0| 
-| 20230318T06:24:54Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
