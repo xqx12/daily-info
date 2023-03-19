@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230319T01:38:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-02 | 0 | 0| 
+| 20230319T01:39:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-02 | 0 | 0| 
+| 20230319T01:39:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-02 | 1 | 0| 
 | 20230319T00:23:58Z | A library that is open source that easily allows the ability to give any exploit a gui. | https://github.com/HappySunChild/Window-Library | 0 | 0| 
 | 20230318T23:58:21Z | A Whole List Of Roblox Exploiting Scripts | https://github.com/Burhan666/Script---Pack-Roblox | 0 | 0| 
 | 20230318T23:46:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5353 | 738| 
@@ -98,7 +99,6 @@
 | 20230318T22:00:34Z | Null | https://github.com/VersedQuartz20/EXPLOITZ | 0 | 0| 
 | 20230318T21:46:31Z | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | 0 | 0| 
 | 20230318T21:38:06Z | This repository contains a structure exploiting algorithm for Robust Control problems. | https://github.com/SphinxDG/KYP-SDP | 0 | 0| 
-| 20230318T17:04:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4779 | 944| 
 
 
 # backdoor on Github 推荐
