@@ -90,7 +90,7 @@
 | 20230319T11:36:49Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 43 | 3| 
 | 20230319T10:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 523 | 66| 
 | 20230319T08:49:48Z | Null | https://github.com/lilinaDeli/fuzzy-umbrella.github.io | 0 | 0| 
-| 20230319T07:13:42Z | That repo contains Platypus Finance smart contracts and fuzzing tests for Foundry framework to detect exploit that was used on  | https://github.com/sqrlfirst/platypus-exploit-analysis | 0 | 0| 
+| 20230319T08:45:16Z | Null | https://github.com/reewardius/bbFuzzing.txt | 95 | 17| 
 
 
 
