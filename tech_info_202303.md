@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230319 | JavaScript 项目中的依赖异味 | https://mp.weixin.qq.com/s/fuxZV0rZxFGacNvqmCxBSQ| 
+| 20230319 | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw| 
 | 20230318 | 对窃密恶意软件及其操作者的大规模研究 | https://mp.weixin.qq.com/s/7GqDuiTx5BQyIX34PBRg9w| 
 | 20230318 | 美军太空战态势感知能力建设 | https://mp.weixin.qq.com/s/zqNOciFMCoFbNppYx0454g| 
 | 20230318 | 2022年度网络空间测绘报告 | https://book.yunzhan365.com/tkgd/pdrf/mobile/index.html| 
@@ -39,23 +41,21 @@
 | 20230316 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
 | 20230316 | 基于真实数据的移动赌博诈骗分析 | https://mp.weixin.qq.com/s/qDi5bIkoun3nBQU25tsp7Q| 
 | 20230316 | VulDeePecker:基于深度学习的漏洞检测系统 | https://mp.weixin.qq.com/s/bB8a0Pgh23zy2tlxxtnV1g| 
-| 20230315 | ChatGPT在社工攻击和反钓鱼中的应用 | https://mp.weixin.qq.com/s/rCIS-J4jo1fBtcTuivj6PA| 
-| 20230315 | 利用自定义堆栈进行 Shellcode 开发 | https://mp.weixin.qq.com/s/5p0YwBeZr-8Wu2oY08FkiA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230319T21:53:22Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
+| 20230319T21:32:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
+| 20230319T20:10:03Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
+| 20230319T18:40:56Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815 | | 
+| 20230319T15:32:03Z | CVE-2023-23752 | An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints. | https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner | | 
 | 20230319T12:08:40Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230319T11:53:50Z | CVE-2022-0739 | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | | 
 | 20230319T11:46:11Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
-| 20230319T10:18:31Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
 | 20230319T10:12:25Z | CVE-2022-23773 | Null | https://github.com/Liuyushung/CVE-2022-23773-Reproduce | | 
 | 20230318T21:46:31Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | | 
-| 20230318T21:19:56Z | CVE-2023-23397 | Null | https://github.com/djackreuter/CVE-2023-23397-PoC | | 
-| 20230318T17:22:37Z | CVE-2023-0861 | Analyzing and Reproducing the Command Injection Vulnerability (CVE-2023-0861) in NetModule Routers | https://github.com/seifallahhomrani1/CVE-2023-0861-POC | | 
-| 20230318T14:50:23Z | CVE-2023-23415 | Null | https://github.com/amitdubey1921/CVE-2023-23415 | | 
-| 20230318T14:34:33Z | CVE-2023-23397 | Simple PoC in PowerShell for CVE-2023-23397 | https://github.com/ka7ana/CVE-2023-23397 | | 
 
 
 # klee on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T23:46:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5357 | 738| 
+| 20230319T22:30:40Z | An ESP library heavily inspired by sense | https://github.com/Stefanuk12/R-ESP | 0 | 0| 
+| 20230319T21:38:58Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anti-acropalypse | 4 | 0| 
+| 20230319T16:21:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 601 | 159| 
 | 20230319T12:46:16Z | (MADE BY ETXNIGHT) Info on et exploits: Et exploits is a massive gui of many executable javascript commands. This can be used for many things including translation, fun, privacy, bypassing filters, and keeping yourself safe. These scripts are executed by bookmarklet. | https://github.com/Tacogamerman/Et-exploits-Revival | 2 | 0| 
 | 20230319T12:41:30Z | a tool to create malware in python, reverse shell, spyware, and open tcp port. | https://github.com/IbonSanto09/PS-exploit | 1 | 0| 
 | 20230319T12:17:33Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
 | 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
 | 20230319T12:04:07Z | Tool used for detecting and exploiting vulnerabilities in web applications | https://github.com/kgodzisz/sqlmap | 0 | 0| 
 | 20230319T11:53:50Z | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | 0 | 0| 
-| 20230319T11:44:40Z | Do not exploit this code into professional work! Use it for fun or for normal downloading stuffs! | https://github.com/souraOP/gdrive-pdf-downloader | 0 | 0| 
-| 20230319T09:53:46Z | Security and Hacking Tools, Exploits, Scripts | https://github.com/seo1-say/tools | 0 | 0| 
-| 20230319T09:35:11Z | Hacks, Exploits | https://github.com/SquidManLovesGitHub/SquidManLovesGitHub.github.io | 0 | 0| 
-| 20230319T09:25:17Z | A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process. | https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking | 4 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T18:43:25Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 9 | 1| 
+| 20230319T16:50:14Z | WebSocket Backdoor for running commands using WebSocket (EDUCATIONAL PURPOSES ONLY) | https://github.com/Eventretta/WSCommander | 0 | 0| 
+| 20230319T16:44:24Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
+| 20230319T16:19:16Z | Null | https://github.com/haneeth25/Python-Backdoor | 0 | 0| 
 | 20230319T12:56:31Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 39 | 10| 
-| 20230319T12:24:09Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 5 | 1| 
 | 20230319T10:03:50Z | Simple Backdoor in python using socket library | https://github.com/Arker123/Backdoor | 0 | 0| 
-| 20230319T08:51:13Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
 | 20230319T02:36:22Z | Null | https://github.com/koalanis/robco-password-backdoor | 0 | 0| 
 | 20230318T20:42:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1995 | 821| 
 | 20230318T15:39:48Z | backdoor | https://github.com/shahaf2284/backdoor | 0 | 0| 
 | 20230318T11:43:02Z | The code of backdoor attack against multi-agent cooperative reinforcement learning | https://github.com/Shaymine/MARNet | 1 | 0| 
-| 20230318T11:25:57Z | Generating SAT Formulas with Planted Backdoors | https://github.com/aur3l14no/sat-planting-backdoors | 0 | 0| 
-| 20230318T10:10:06Z | a backdoor library for testing | https://github.com/hisamdavid/revuot | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230319T23:57:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
+| 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
+| 20230319T23:03:51Z | Null | https://github.com/LSDeia/fuzzy-octo-train | 0 | 0| 
+| 20230319T22:46:16Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 
+| 20230319T22:41:23Z | Easy-to-use grammar-based black-box fuzzer | https://github.com/langston-barrett/tree-crasher | 0 | 0| 
+| 20230319T20:46:53Z | Null | https://github.com/RiceNoob/fuzzy-meme | 0 | 0| 
+| 20230319T20:09:23Z | PCB Design for a fuzz effect based on the Death By Audio %Octave Clang% | https://github.com/whbeers/ensemble | 0 | 0| 
 | 20230319T11:36:49Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 43 | 3| 
 | 20230319T10:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 523 | 66| 
 | 20230319T08:49:48Z | Null | https://github.com/lilinaDeli/fuzzy-umbrella.github.io | 0 | 0| 
-| 20230319T07:13:42Z | That repo contains Platypus Finance smart contracts and fuzzing tests for Foundry framework to detect exploit that was used on  | https://github.com/sqrlfirst/platypus-exploit-analysis | 0 | 0| 
-| 20230319T01:53:58Z | Coverage-Guided Greybox Distributed Fuzzer | https://github.com/Cybergenik/hopper | 70 | 2| 
-| 20230319T00:23:02Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 
-| 20230318T21:10:27Z | yep, its a fuzz | https://github.com/MeijisIrlnd/fuzz | 0 | 0| 
-| 20230318T17:49:16Z | Work with Fuzzy Logic Design Toolbox in Matlab | https://github.com/lucaskydelima/Fuzzy-Logic-with-Matlab | 0 | 0| 
-| 20230318T17:37:59Z | Null | https://github.com/starwhetsmolontiomont1987/fuzzy-octo-spork | 0 | 0| 
-| 20230318T17:08:34Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 626 | 32| 
 
 
 
