@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230320T00:18:19Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
+| 20230319T23:16:24Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230319T21:53:22Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
 | 20230319T21:32:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230319T20:10:03Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
 | 20230319T18:40:56Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815 | | 
 | 20230319T15:32:03Z | CVE-2023-23752 | An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints. | https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner | | 
-| 20230319T12:08:40Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230319T11:53:50Z | CVE-2022-0739 | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | | 
-| 20230319T11:46:11Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230319T10:12:25Z | CVE-2022-23773 | Null | https://github.com/Liuyushung/CVE-2022-23773-Reproduce | | 
 | 20230318T21:46:31Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | | 
 
