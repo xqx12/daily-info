@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T00:29:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230320T00:03:00Z | Null | https://github.com/rroanovniefnnr/fuzzy-eureka | 0 | 0| 
-| 20230319T23:57:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
 | 20230319T23:03:51Z | Null | https://github.com/LSDeia/fuzzy-octo-train | 0 | 0| 
 | 20230319T22:46:16Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 

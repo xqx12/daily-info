@@ -82,7 +82,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230319T23:57:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
 | 20230319T23:03:51Z | Null | https://github.com/LSDeia/fuzzy-octo-train | 0 | 0| 
 | 20230319T22:46:16Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 
@@ -92,6 +91,7 @@
 | 20230319T11:36:49Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 43 | 3| 
 | 20230319T10:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 523 | 66| 
 | 20230319T08:49:48Z | Null | https://github.com/lilinaDeli/fuzzy-umbrella.github.io | 0 | 0| 
+| 20230319T07:13:42Z | That repo contains Platypus Finance smart contracts and fuzzing tests for Foundry framework to detect exploit that was used on  | https://github.com/sqrlfirst/platypus-exploit-analysis | 0 | 0| 
 
 
 
