@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T01:35:28Z | Dead-simple, efficient string and array fuzzy matching library (string.contains, but better) | https://github.com/WebFreak001/FuzzyMatch | 0 | 0| 
 | 20230320T00:29:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230320T00:03:00Z | Null | https://github.com/rroanovniefnnr/fuzzy-eureka | 0 | 0| 
 | 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230319T20:46:53Z | Null | https://github.com/RiceNoob/fuzzy-meme | 0 | 0| 
 | 20230319T20:09:23Z | PCB Design for a fuzz effect based on the Death By Audio %Octave Clang% | https://github.com/whbeers/ensemble | 0 | 0| 
 | 20230319T11:36:49Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 43 | 3| 
-| 20230319T10:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 523 | 66| 
 
 
 
