@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230320 | OpenSIPS 安全审计报告已完全公开，其中包含关于如何在 80 多页的报告中重现漏洞和额外详细信息的所有信息，以及 80 多页的文档和完整的模糊测试结果列表 | https://www.rtcsec.com/post/2023/03/opensips-security-audit-report/| 
+| 20230320 | 介绍如何通过光学手段在不破坏的情况下审查硅板结构 | http://www.bunniestudios.com/blog/?p=6712| 
+| 20230320 | 在抓包时如何在没有私钥的情况下绕过客户端侧的非对称加密 | http://link.medium.com/EuW4M1N13xb| 
+| 20230320 | Microsoft Office Outlook 包含一个特权提升漏洞，允许对另一服务进行 NTLM 中继攻击以验证用户身份。利用此漏洞的第一步是使用 .NET MsgKit 库创建 Outlook MSG 文件 | https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/| 
+| 20230320 | 调试 D-Link：模拟执行固件并破解 d-link 路由器，包含缓冲区溢出和远程代码执行漏洞以及 DIR-867 路由器中的命令注入漏洞（CVE-2022-41140 和 CVE-2023-24762） | http://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware| 
+| 20230320 | DotRunpeX 是一种使用 Process Hollowing 技术在 .NET 中编写的新注入器，用于感染具有各种已知恶意软件系列的系统，主要与窃取程序、RAT、加载程序和下载程序相关 | http://research.checkpoint.com/2023/dotrunpex-demystifying-new-virtualized-net-injector-used-in-the-wild/| 
+| 20230320 | wifi_db，使用几个表来存储与 airodump-ng 捕获的无线网络流量相关的信息，包括接入点的 MAC 地址（bssid）、网络名称、信道、频率、运营商、加密类型和从该 AP 接收的数据包总数 | https://www.kitploit.com/2023/03/wifidb-script-to-parse-aircrack-ng.html| 
+| 20230320 | CertVerify 是一种旨在检测使用不受信任或泄露的代码签名证书签名的可执行文件（exe、dll、sys）的工具，可用于分发恶意软件和其他恶意软件 | https://www.kitploit.com/2023/03/certverify-scanner-that-files-with.html| 
+| 20230320 | CVE-2023-21036的发现和利用过程。由于屏幕截图裁剪后没有被正确截断，攻击者可恢复出裁剪前的图像，可能导致受害者的隐私信息被泄露。 | http://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html| 
+| 20230320 | 游戏中作弊和反作弊的对比研究 | https://sec.today/pulses/bfaebb0c-99f1-40c8-b378-7bf47e2cb2b0/| 
 | 20230317 | DNS Remote Code Execution: Finding the Vulnerability(Part 1) | https://www.youtube.com/watch?v=xWoQ-E8n4B0| 
 | 20230316 | OneNote 已被用作恶意软件传播机制，并且已发现一些诱饵笔记可传送 Qakbot、XWorm、Icedid 和 AsyncRAT 等恶意软件系列 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/onenote-spear-phishing-campaign/| 
 | 20230316 | Fortinet 于 2023 年 3 月 7 日发布了安全更新，以解决此高危安全漏洞 (CVE-2022-41328)，该漏洞可能允许攻击者执行未经授权的代码或命令。该公司在公告中表示：FortiOS 中对受限目录路径名的不当限制漏洞（路径遍历）[CWE-22] 允许特权攻击者通过 CLI 命令读写任意文件。受影响的产品包括 FortiOS 版本 6.4.0 到 6.4.11、FortiOS 版本 7.0.0 到 7.0.9、FortiOS 版本 7.2.0 到 7.2.3，以及 FortiOS 6.0 和 6.2 的所有版本。虽然该漏洞的公告并未提及该漏洞正在被野外利用，但 Fortinet 上周的一份报告显示，CVE-2022-41328 漏洞已被用于入侵和破坏客户的多个 FortiGate 防火墙设备。 | https://www.freebuf.com/news/360360.html| 
@@ -16,21 +26,12 @@
 | 20230316 | Apache Airflow的错误信息生成功能中存在信息泄漏漏洞 | http://seclists.org/oss-sec/2023/q1/153| 
 | 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
 | 20230316 | 服务器端请求伪造 (SSRF) 使用跨协议的重定向攻击绕过反 SSRF 过滤 | http://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html| 
-| 20230316 | GPT_Vuln-analyzer - 使用 ChatGPT API 和 Python-Nmap 模块使用 GPT3 模型创建基于 Nmap 扫描数据的漏洞报告 | https://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html| 
-| 20230316 | 介绍如何学习 Web3 安全成为 Solidity 智能合约审计员学习 Web3 安全 | http://engn33r.com/learn-auditing.html| 
-| 20230316 | BianLian 勒索软件集团正在加强其业务并逐渐成熟，以比以往任何时候都更快的速度入侵系统。研究人员发现，BianLian已经从加密转向纯粹的数据窃取勒索策略 | https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion| 
-| 20230316 | 对 Intel 8086 处理器中的乘法算法进行逆向工程 | http://www.righto.com/2023/03/8086-multiplication-microcode.html| 
-| 20230316 | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | http://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet| 
-| 20230316 | ESET 研究人员发现了数十个模仿 Telegram 和 WhatsApp 的网站，主要针对 Android 和 Windows 用户，其中包含这些即时消息应用程序的木马化版本。 | https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/| 
-| 20230316 | 微软宣布从 Edge 移动应用 111 版开始，用户可以通过一种新方式在移动设备上安全地下载和访问文件。用户现在可以安全地将文件从 Edge 移动应用下载并保存到 OneDrive，而不是在移动设备上本地下载和保存文件（这会使企业数据面临风险），以便他们以后可以访问它们。 | https://techcommunity.microsoft.com/t5/microsoft-edge-insider/improving-security-and-productivity-securely-save-files-from/ba-p/3760836| 
-| 20230315 | GPT4发布！ | https://openai.com/product/gpt-4| 
-| 20230315 | Linux 内核中 TIOCSTI 内核功能存在 TTY 回传漏洞 | http://seclists.org/oss-sec/2023/q1/142| 
-| 20230315 | 在 Broadcom Full MAC Wi-Fi 驱动程序中发现了一个 slab-out-of-bounds 读取漏洞 | https://sec.today/pulses/4abf7c2e-79b2-43f3-867f-561e4b324a15/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230320 | SecWiki周刊（第472期) | https://www.sec-wiki.com/weekly/472| 
 | 20230319 | JavaScript 项目中的依赖异味 | https://mp.weixin.qq.com/s/fuxZV0rZxFGacNvqmCxBSQ| 
 | 20230319 | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw| 
 | 20230318 | 对窃密恶意软件及其操作者的大规模研究 | https://mp.weixin.qq.com/s/7GqDuiTx5BQyIX34PBRg9w| 
@@ -40,22 +41,21 @@
 | 20230316 | 百万级文件的Bug定位 | https://mp.weixin.qq.com/s/gUUuyJ84eU55UgcUdRcvmw| 
 | 20230316 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
 | 20230316 | 基于真实数据的移动赌博诈骗分析 | https://mp.weixin.qq.com/s/qDi5bIkoun3nBQU25tsp7Q| 
-| 20230316 | VulDeePecker:基于深度学习的漏洞检测系统 | https://mp.weixin.qq.com/s/bB8a0Pgh23zy2tlxxtnV1g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230320T11:05:24Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
+| 20230320T09:59:39Z | CVE-2023-23192 | CVE-2023-23192 test  | https://github.com/Penkyzduyi/CVE-2023-23192 | | 
+| 20230320T09:57:53Z | CVE-2023-1337 | Puni love is | https://github.com/Penkyzduyi/CVE-2023-1337 | | 
+| 20230320T08:06:55Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
 | 20230320T01:13:14Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230320T00:18:19Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
 | 20230319T23:16:24Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230319T21:53:22Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
 | 20230319T20:10:03Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
 | 20230319T18:40:56Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815 | | 
-| 20230319T15:32:03Z | CVE-2023-23752 | An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints. | https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner | | 
-| 20230319T11:53:50Z | CVE-2022-0739 | Null | https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739 | | 
-| 20230319T10:12:25Z | CVE-2022-23773 | Null | https://github.com/Liuyushung/CVE-2022-23773-Reproduce | | 
-| 20230318T21:46:31Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T09:42:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
+| 20230320T05:00:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 310 | 76| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
-| 20230316T14:14:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 309 | 76| 
 | 20230315T02:43:24Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 19 | 6| 
 | 20230312T03:23:08Z | The exploit generator CRAX++ is CRAX with a plugin system, s2e 2.0 upgrade, dynamic ROP, code selection, and I/O states (HITCON 2022) | https://github.com/SQLab/CRAXplusplus | 80 | 14| 
 | 20230310T11:57:51Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 84 | 45| 
@@ -89,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T11:04:54Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 417 | 57| 
+| 20230320T10:05:04Z | Custom exploit written for enumerating usernames as per CVE-2016-6210 | https://github.com/goomdan/CVE-2016-6210-exploit | 0 | 0| 
+| 20230320T09:48:56Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 805 | 101| 
+| 20230320T09:19:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5031 | 723| 
+| 20230320T09:06:01Z | Null | https://github.com/youcef-2001/SystemeExploit | 0 | 0| 
+| 20230320T07:52:41Z | Null | https://github.com/THU-LIJX/Exploration-Exploitation-for-Recommendation-Systems | 0 | 0| 
+| 20230320T07:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
+| 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
 | 20230320T01:31:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-UJ182-choose-exploit | 0 | 0| 
 | 20230320T01:05:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 394 | 78| 
-| 20230319T23:46:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5357 | 738| 
-| 20230319T22:30:40Z | An ESP library heavily inspired by sense | https://github.com/Stefanuk12/R-ESP | 0 | 0| 
-| 20230319T21:38:58Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anti-acropalypse | 4 | 0| 
-| 20230319T21:09:28Z | Resources and exploits made for OSWE preparation.  | https://github.com/Xcatolin/OSWE-Prep | 0 | 0| 
-| 20230319T20:46:50Z | Null | https://github.com/dsfdsfvndfknvjdk/ExploitHub | 0 | 0| 
-| 20230319T16:21:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 601 | 159| 
-| 20230319T12:46:16Z | (MADE BY ETXNIGHT) Info on et exploits: Et exploits is a massive gui of many executable javascript commands. This can be used for many things including translation, fun, privacy, bypassing filters, and keeping yourself safe. These scripts are executed by bookmarklet. | https://github.com/Tacogamerman/Et-exploits-Revival | 2 | 0| 
-| 20230319T12:41:30Z | a tool to create malware in python, reverse shell, spyware, and open tcp port. | https://github.com/IbonSanto09/PS-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -134,30 +135,30 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T09:53:14Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 554 | 89| 
 | 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
-| 20230319T11:00:21Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 553 | 89| 
 | 20230317T13:52:30Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 7 | 1| 
 | 20230317T08:22:20Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 17 | 2| 
 | 20230317T01:25:10Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 5 | 0| 
 | 20230314T19:22:39Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 75 | 28| 
 | 20230314T01:01:39Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 14 | 1| 
-| 20230312T15:21:40Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 1 | 1| 
+| 20230312T15:21:40Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 1 | 2| 
 | 20230309T11:02:31Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 7 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T12:00:06Z | Fuzzy Logic for Audio Distortion Theory | https://github.com/NumberSigmaTafKsee/FuzzBomb | 0 | 0| 
+| 20230320T09:19:13Z | A HTTP protocol fuzzer written in C. | https://github.com/nikolastyllis/httpcannon | 0 | 0| 
+| 20230320T07:50:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8487 | 1851| 
+| 20230320T07:06:37Z | Null | https://github.com/MorgandeCesso/fuzzy-logic | 0 | 0| 
+| 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
+| 20230320T02:58:43Z | 基于pwntools+angr的简单CTF AMD64 PWN  AUTO FUZZ | https://github.com/hexian2001/HRP-Nnepnep-auto-pwn | 15 | 1| 
 | 20230320T01:35:46Z | Dead-simple, efficient string and array fuzzy matching library (string.contains, but better) | https://github.com/WebFreak001/FuzzyMatch | 0 | 0| 
 | 20230320T00:29:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230320T00:03:00Z | Null | https://github.com/rroanovniefnnr/fuzzy-eureka | 0 | 0| 
 | 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
-| 20230319T23:03:51Z | Null | https://github.com/LSDeia/fuzzy-octo-train | 0 | 0| 
-| 20230319T22:46:16Z | iSCSI fuzzing tgt (server) and open-iscsi (client) | https://github.com/LaNdErTiS/iSCSIProtocolFuzzing | 0 | 0| 
-| 20230319T22:41:23Z | Easy-to-use grammar-based black-box fuzzer | https://github.com/langston-barrett/tree-crasher | 0 | 0| 
-| 20230319T20:46:53Z | Null | https://github.com/RiceNoob/fuzzy-meme | 0 | 0| 
-| 20230319T20:09:23Z | PCB Design for a fuzz effect based on the Death By Audio %Octave Clang% | https://github.com/whbeers/ensemble | 0 | 0| 
-| 20230319T11:36:49Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 43 | 3| 
 
 
 
