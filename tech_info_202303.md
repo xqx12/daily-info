@@ -16,6 +16,7 @@
 | 20230320 | CertVerify 是一种旨在检测使用不受信任或泄露的代码签名证书签名的可执行文件（exe、dll、sys）的工具，可用于分发恶意软件和其他恶意软件 | https://www.kitploit.com/2023/03/certverify-scanner-that-files-with.html| 
 | 20230320 | CVE-2023-21036的发现和利用过程。由于屏幕截图裁剪后没有被正确截断，攻击者可恢复出裁剪前的图像，可能导致受害者的隐私信息被泄露。 | http://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html| 
 | 20230320 | 游戏中作弊和反作弊的对比研究 | https://sec.today/pulses/bfaebb0c-99f1-40c8-b378-7bf47e2cb2b0/| 
+| 20230320 | 游戏中作弊和反作弊的对比研究 | http://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf| 
 | 20230317 | DNS Remote Code Execution: Finding the Vulnerability(Part 1) | https://www.youtube.com/watch?v=xWoQ-E8n4B0| 
 | 20230316 | OneNote 已被用作恶意软件传播机制，并且已发现一些诱饵笔记可传送 Qakbot、XWorm、Icedid 和 AsyncRAT 等恶意软件系列 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/onenote-spear-phishing-campaign/| 
 | 20230316 | Fortinet 于 2023 年 3 月 7 日发布了安全更新，以解决此高危安全漏洞 (CVE-2022-41328)，该漏洞可能允许攻击者执行未经授权的代码或命令。该公司在公告中表示：FortiOS 中对受限目录路径名的不当限制漏洞（路径遍历）[CWE-22] 允许特权攻击者通过 CLI 命令读写任意文件。受影响的产品包括 FortiOS 版本 6.4.0 到 6.4.11、FortiOS 版本 7.0.0 到 7.0.9、FortiOS 版本 7.2.0 到 7.2.3，以及 FortiOS 6.0 和 6.2 的所有版本。虽然该漏洞的公告并未提及该漏洞正在被野外利用，但 Fortinet 上周的一份报告显示，CVE-2022-41328 漏洞已被用于入侵和破坏客户的多个 FortiGate 防火墙设备。 | https://www.freebuf.com/news/360360.html| 
@@ -25,7 +26,6 @@
 | 20230316 | 根据 Cyber​​eason 进行的一项新的全球研究，勒索软件的祸害直接影响组织为实现安全运营中心 (SOC) 现代化而做出的投资决策。 | https://www.cybereason.com/blog/how-ransomware-is-driving-soc-modernization-requirements| 
 | 20230316 | Apache Airflow的错误信息生成功能中存在信息泄漏漏洞 | http://seclists.org/oss-sec/2023/q1/153| 
 | 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
-| 20230316 | 服务器端请求伪造 (SSRF) 使用跨协议的重定向攻击绕过反 SSRF 过滤 | http://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html| 
 
 
 # 安全维基 推荐
@@ -105,16 +105,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T10:59:15Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 2 | 0| 
+| 20230320T10:17:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 117 | 14| 
+| 20230320T07:59:20Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
+| 20230320T05:01:37Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 6 | 1| 
+| 20230320T02:07:19Z | Null | https://github.com/SCLBD/backdoorbench_docs | 0 | 0| 
 | 20230319T18:43:25Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 9 | 1| 
 | 20230319T16:50:14Z | WebSocket Backdoor for running commands using WebSocket (EDUCATIONAL PURPOSES ONLY) | https://github.com/Eventretta/WSCommander | 0 | 0| 
 | 20230319T16:44:24Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
 | 20230319T16:19:16Z | Null | https://github.com/haneeth25/Python-Backdoor | 0 | 0| 
 | 20230319T12:56:31Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 39 | 10| 
-| 20230319T10:03:50Z | Simple Backdoor in python using socket library | https://github.com/Arker123/Backdoor | 0 | 0| 
-| 20230319T02:36:22Z | Null | https://github.com/koalanis/robco-password-backdoor | 0 | 0| 
-| 20230318T20:42:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1995 | 821| 
-| 20230318T15:39:48Z | backdoor | https://github.com/shahaf2284/backdoor | 0 | 0| 
-| 20230318T11:43:02Z | The code of backdoor attack against multi-agent cooperative reinforcement learning | https://github.com/Shaymine/MARNet | 1 | 0| 
 
 
 # symbolic execution on Github 推荐

@@ -16,6 +16,7 @@
 | 20230320 | CertVerify 是一种旨在检测使用不受信任或泄露的代码签名证书签名的可执行文件（exe、dll、sys）的工具，可用于分发恶意软件和其他恶意软件 | https://www.kitploit.com/2023/03/certverify-scanner-that-files-with.html| 
 | 20230320 | CVE-2023-21036的发现和利用过程。由于屏幕截图裁剪后没有被正确截断，攻击者可恢复出裁剪前的图像，可能导致受害者的隐私信息被泄露。 | http://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html| 
 | 20230320 | 游戏中作弊和反作弊的对比研究 | https://sec.today/pulses/bfaebb0c-99f1-40c8-b378-7bf47e2cb2b0/| 
+| 20230320 | 游戏中作弊和反作弊的对比研究 | http://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf| 
 
 
 # 安全维基 推荐
@@ -65,6 +66,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T10:59:15Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 2 | 0| 
+| 20230320T10:17:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 117 | 14| 
+| 20230320T07:59:20Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
+| 20230320T05:01:37Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 6 | 1| 
+| 20230320T02:07:19Z | Null | https://github.com/SCLBD/backdoorbench_docs | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
