@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230320T12:13:13Z | CVE-2021-44228 | CVE-2021-44228  | https://github.com/heeloo123/CVE-2021-44228 | | 
 | 20230320T11:05:24Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20230320T09:59:39Z | CVE-2023-23192 | CVE-2023-23192 test  | https://github.com/Penkyzduyi/CVE-2023-23192 | | 
 | 20230320T09:57:53Z | CVE-2023-1337 | Puni love is | https://github.com/Penkyzduyi/CVE-2023-1337 | | 
@@ -55,7 +56,6 @@
 | 20230319T23:16:24Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
 | 20230319T21:53:22Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
 | 20230319T20:10:03Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
-| 20230319T18:40:56Z | CVE-2020-24815 | Null | https://github.com/ziadanbari2021/exploit-CVE-2020-24815 | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
+| 20230320T12:03:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13277 | 2228| 
 | 20230320T10:05:04Z | Custom exploit written for enumerating usernames as per CVE-2016-6210 | https://github.com/goomdan/CVE-2016-6210-exploit | 0 | 0| 
 | 20230320T09:48:56Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 805 | 101| 
 | 20230320T09:19:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5031 | 723| 
@@ -99,7 +100,6 @@
 | 20230320T07:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
 | 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
 | 20230320T01:31:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-UJ182-choose-exploit | 0 | 0| 
-| 20230320T01:05:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 394 | 78| 
 
 
 # backdoor on Github 推荐
