@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230320T01:35:28Z | Dead-simple, efficient string and array fuzzy matching library (string.contains, but better) | https://github.com/WebFreak001/FuzzyMatch | 0 | 0| 
+| 20230320T01:35:46Z | Dead-simple, efficient string and array fuzzy matching library (string.contains, but better) | https://github.com/WebFreak001/FuzzyMatch | 0 | 0| 
 | 20230320T00:29:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
 | 20230320T00:03:00Z | Null | https://github.com/rroanovniefnnr/fuzzy-eureka | 0 | 0| 
 | 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
