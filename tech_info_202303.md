@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230320T11:04:54Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 417 | 57| 
+| 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
 | 20230320T10:05:04Z | Custom exploit written for enumerating usernames as per CVE-2016-6210 | https://github.com/goomdan/CVE-2016-6210-exploit | 0 | 0| 
 | 20230320T09:48:56Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 805 | 101| 
 | 20230320T09:19:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5031 | 723| 
