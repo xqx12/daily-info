@@ -92,6 +92,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
 | 20230320T12:03:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13277 | 2228| 
+| 20230320T10:05:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4781 | 945| 
 | 20230320T10:05:04Z | Custom exploit written for enumerating usernames as per CVE-2016-6210 | https://github.com/goomdan/CVE-2016-6210-exploit | 0 | 0| 
 | 20230320T09:48:56Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 805 | 101| 
 | 20230320T09:19:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5031 | 723| 
@@ -99,7 +100,6 @@
 | 20230320T07:52:41Z | Null | https://github.com/THU-LIJX/Exploration-Exploitation-for-Recommendation-Systems | 0 | 0| 
 | 20230320T07:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
 | 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
-| 20230320T01:31:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-UJ182-choose-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
