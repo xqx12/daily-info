@@ -93,12 +93,12 @@
 | 20230319T23:46:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5357 | 738| 
 | 20230319T22:30:40Z | An ESP library heavily inspired by sense | https://github.com/Stefanuk12/R-ESP | 0 | 0| 
 | 20230319T21:38:58Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anti-acropalypse | 4 | 0| 
+| 20230319T21:09:28Z | Resources and exploits made for OSWE preparation.  | https://github.com/Xcatolin/OSWE-Prep | 0 | 0| 
 | 20230319T20:46:50Z | Null | https://github.com/dsfdsfvndfknvjdk/ExploitHub | 0 | 0| 
 | 20230319T16:21:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 601 | 159| 
 | 20230319T12:46:16Z | (MADE BY ETXNIGHT) Info on et exploits: Et exploits is a massive gui of many executable javascript commands. This can be used for many things including translation, fun, privacy, bypassing filters, and keeping yourself safe. These scripts are executed by bookmarklet. | https://github.com/Tacogamerman/Et-exploits-Revival | 2 | 0| 
 | 20230319T12:41:30Z | a tool to create malware in python, reverse shell, spyware, and open tcp port. | https://github.com/IbonSanto09/PS-exploit | 1 | 0| 
 | 20230319T12:17:33Z | ans for http://exploit.education/phoenix/ | https://github.com/zhufengning/phoenix-wp | 0 | 0| 
-| 20230319T12:07:03Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua- | 0 | 0| 
 
 
 # backdoor on Github 推荐
