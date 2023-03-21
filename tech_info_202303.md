@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230320T12:13:13Z | CVE-2021-44228 | CVE-2021-44228  | https://github.com/heeloo123/CVE-2021-44228 | | 
-| 20230320T11:05:24Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
-| 20230320T09:59:39Z | CVE-2023-23192 | CVE-2023-23192 test  | https://github.com/Penkyzduyi/CVE-2023-23192 | | 
-| 20230320T09:57:53Z | CVE-2023-1337 | Puni love is | https://github.com/Penkyzduyi/CVE-2023-1337 | | 
-| 20230320T08:06:55Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
-| 20230320T01:13:14Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
-| 20230320T00:18:19Z | CVE-2023-23415 | CVE-2023-23415 | https://github.com/wh-gov/CVE-2023-23415 | | 
-| 20230319T23:16:24Z | CVE-2023-23397 | Null | https://github.com/api0cradle/CVE-2023-23397-POC-Powershell | | 
-| 20230319T21:53:22Z | CVE-2022-22963 | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit | | 
-| 20230319T20:10:03Z | CVE-2023-23397 | Null | https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook | | 
+| 20230320T23:57:27Z | CVE-2022-46169 | Repo for CVE-2022-46169 | https://github.com/doosec101/CVE-2022-46169 | | 
+| 20230320T23:40:35Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
+| 20230320T23:34:15Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
+| 20230320T23:30:28Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
+| 20230320T19:53:26Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
+| 20230320T17:55:07Z | CVE-2023-23397 | Patch for MS Outlook Critical Vulnerability - CVSS 9.8 | https://github.com/SecCTechs/CVE-2023-23397 | | 
+| 20230320T16:47:16Z | CVE-2023-23397 | Simple CVE-2023-23397 poc with sending of the payload by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
+| 20230320T15:07:02Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
+| 20230320T13:20:43Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
+| 20230320T13:00:20Z | CVE-2020-0796 | CVE-2020-0796 SMB Ghost vulnerability detection and mitigation | https://github.com/heeloo123/CVE-2020-0796 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T16:51:22Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 271 | 50| 
+| 20230320T16:02:01Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 59 | 19| 
+| 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
+| 20230320T13:13:47Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 27 | 0| 
 | 20230318T19:16:00Z | Null | https://github.com/ayupimphil/kleeford-coin-auctions | 0 | 0| 
-| 20230318T14:32:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2188 | 608| 
 | 20230317T20:19:39Z | Null | https://github.com/KLee954/klee954.github.io | 0 | 0| 
 | 20230317T01:55:49Z | A Professional Team of Best Cleaners | https://github.com/sharmarakesh94/Kleenr | 0 | 0| 
 | 20230316T11:05:48Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230316T08:04:03Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 173 | 48| 
 | 20230315T17:01:18Z | My Portfolio Website | https://github.com/Brian-K-Lee/BrianKLee | 0 | 0| 
-| 20230315T08:43:59Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 232 | 2| 
-| 20230314T21:22:29Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 81 | 6| 
-| 20230313T07:20:43Z | Null | https://github.com/kleemeo/kleemeo | 1 | 1| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T23:55:47Z | Automate exploits against Metasploitable 2 server | https://github.com/mayala5/Metasploit-Exploits-for-Metasploitable-2-Server | 0 | 0| 
+| 20230320T23:50:07Z | Null | https://github.com/Spectricium/Private-Exploits-Key-Only-My-Exploits | 0 | 0| 
+| 20230320T23:46:54Z | Security and networks automated exploit - adds the page /admin/shellex.php | https://github.com/kpafg/SaNEx4Exploit | 0 | 0| 
+| 20230320T23:18:18Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 84 | 40| 
+| 20230320T21:25:28Z | GitOps Repository | https://github.com/pmacik-testing/citron-0132-app-auX4b-burn-exploit | 0 | 0| 
+| 20230320T20:53:05Z | Null | https://github.com/edmcman/cposc-exploit | 0 | 0| 
+| 20230320T20:08:33Z | Binary Exploitation Challenges writeups | https://github.com/tareqraihan926/TryHackme-PWN101 | 0 | 0| 
+| 20230320T18:14:05Z | Null | https://github.com/asdaasdsaddf/tela-de-carregamento-exploit | 0 | 0| 
+| 20230320T14:28:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
 | 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
-| 20230320T12:03:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13277 | 2228| 
-| 20230320T10:05:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4781 | 945| 
-| 20230320T10:05:04Z | Custom exploit written for enumerating usernames as per CVE-2016-6210 | https://github.com/goomdan/CVE-2016-6210-exploit | 0 | 0| 
-| 20230320T09:48:56Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 805 | 101| 
-| 20230320T09:19:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5031 | 723| 
-| 20230320T09:06:01Z | Null | https://github.com/youcef-2001/SystemeExploit | 0 | 0| 
-| 20230320T07:52:41Z | Null | https://github.com/THU-LIJX/Exploration-Exploitation-for-Recommendation-Systems | 0 | 0| 
-| 20230320T07:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
-| 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T20:21:20Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-password-backdoor | 0 | 0| 
+| 20230320T19:21:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 118 | 14| 
+| 20230320T14:00:29Z | Null | https://github.com/Dhruv02G/Reverse-Backdoor-Project | 0 | 0| 
 | 20230320T10:59:15Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 2 | 0| 
-| 20230320T10:17:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 117 | 14| 
 | 20230320T07:59:20Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
 | 20230320T05:01:37Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 6 | 1| 
 | 20230320T02:07:19Z | Null | https://github.com/SCLBD/backdoorbench_docs | 0 | 0| 
 | 20230319T18:43:25Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 9 | 1| 
 | 20230319T16:50:14Z | WebSocket Backdoor for running commands using WebSocket (EDUCATIONAL PURPOSES ONLY) | https://github.com/Eventretta/WSCommander | 0 | 0| 
 | 20230319T16:44:24Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
-| 20230319T16:19:16Z | Null | https://github.com/haneeth25/Python-Backdoor | 0 | 0| 
-| 20230319T12:56:31Z | Generate FUD backdoors | https://github.com/abdallah-elsharif/hellMaker | 39 | 10| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230320T23:16:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4617 | 1108| 
+| 20230320T22:18:54Z | Null | https://github.com/verd1c/fuzz | 0 | 0| 
+| 20230320T22:11:16Z | Implementation of k-Means and Fuzzy c-means Clustering Algorithm | https://github.com/arnav10goel/k-Means-and-Fuzzy-Means-Clustering-Implementation | 0 | 0| 
+| 20230320T16:41:34Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 272 | 38| 
+| 20230320T15:09:02Z | property testing and verification front-end for Rust | https://github.com/camshaft/bolero | 107 | 12| 
 | 20230320T12:50:27Z | 基于pwntools+angr的简单CTF AMD64 PWN  AUTO FUZZ | https://github.com/hexian2001/HRP-Nnepnep-auto-pwn | 16 | 1| 
 | 20230320T12:29:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8488 | 1852| 
 | 20230320T12:00:06Z | Fuzzy Logic for Audio Distortion Theory | https://github.com/NumberSigmaTafKsee/FuzzBomb | 0 | 0| 
 | 20230320T09:19:13Z | A HTTP protocol fuzzer written in C. | https://github.com/nikolastyllis/httpcannon | 0 | 0| 
 | 20230320T07:06:37Z | Null | https://github.com/MorgandeCesso/fuzzy-logic | 0 | 0| 
-| 20230320T05:45:21Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 58 | 3| 
-| 20230320T01:35:46Z | Dead-simple, efficient string and array fuzzy matching library (string.contains, but better) | https://github.com/WebFreak001/FuzzyMatch | 0 | 0| 
-| 20230320T00:29:05Z | Null | https://github.com/icse2024-t-scheduler/magma-rl-fuzzing | 0 | 0| 
-| 20230320T00:03:00Z | Null | https://github.com/rroanovniefnnr/fuzzy-eureka | 0 | 0| 
-| 20230319T23:49:29Z | This project aims to demonstrate how to create a neuro-fuzzy network using Python. We can use the Keras library, which provides a convenient interface for building and training neural networks, and the skfuzzy module, which provides functions for working with fuzzy logic.. | https://github.com/Mr-Khans/Neural-Fuzzy-Network | 0 | 0| 
 
 
 
