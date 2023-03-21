@@ -59,7 +59,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230320T23:55:47Z | Automate exploits against Metasploitable 2 server | https://github.com/mayala5/Metasploit-Exploits-for-Metasploitable-2-Server | 0 | 0| 
 | 20230320T23:50:07Z | Null | https://github.com/Spectricium/Private-Exploits-Key-Only-My-Exploits | 0 | 0| 
 | 20230320T23:46:54Z | Security and networks automated exploit - adds the page /admin/shellex.php | https://github.com/kpafg/SaNEx4Exploit | 0 | 0| 
 | 20230320T23:18:18Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 84 | 40| 
@@ -69,6 +68,7 @@
 | 20230320T18:14:05Z | Null | https://github.com/asdaasdsaddf/tela-de-carregamento-exploit | 0 | 0| 
 | 20230320T14:28:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
 | 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
+| 20230320T12:03:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13277 | 2228| 
 
 
 # backdoor on Github 推荐
@@ -86,7 +86,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230320T05:00:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 310 | 76| 
+| 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
+| 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 
 
 # big4 on Github 推荐
