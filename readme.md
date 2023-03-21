@@ -25,8 +25,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230321T12:33:27Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230321T12:29:32Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
-| 20230321T12:23:45Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230321T11:41:36Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
 | 20230321T10:42:28Z | CVE-2022-46463 | harbor unauthorized detection | https://github.com/404tk/CVE-2022-46463 | | 
 | 20230321T10:02:26Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | | 
