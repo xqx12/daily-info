@@ -90,6 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T00:57:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-06 | 1 | 0| 
+| 20230321T00:57:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-06 | 1 | 0| 
+| 20230321T00:56:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-06 | 1 | 0| 
 | 20230321T00:46:00Z | Security and networks automated exploit - adds the page /admin/shellex.php | https://github.com/kpafg/SaNEx4Exploit | 0 | 0| 
 | 20230321T00:25:07Z | GitOps Repository | https://github.com/northdepot/g3-NA_QT-predict-exploit | 0 | 0| 
 | 20230321T00:17:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-4PWaJ-exploit-train | 0 | 0| 
@@ -97,9 +100,6 @@
 | 20230320T23:50:07Z | Null | https://github.com/Spectricium/Private-Exploits-Key-Only-My-Exploits | 0 | 0| 
 | 20230320T23:18:18Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 84 | 40| 
 | 20230320T21:25:28Z | GitOps Repository | https://github.com/pmacik-testing/citron-0132-app-auX4b-burn-exploit | 0 | 0| 
-| 20230320T20:53:05Z | Null | https://github.com/edmcman/cposc-exploit | 0 | 0| 
-| 20230320T20:08:33Z | Binary Exploitation Challenges writeups | https://github.com/tareqraihan926/TryHackme-PWN101 | 0 | 0| 
-| 20230320T18:14:05Z | Null | https://github.com/asdaasdsaddf/tela-de-carregamento-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
