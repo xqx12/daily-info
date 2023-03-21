@@ -93,7 +93,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T12:50:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3517 | 701| 
 | 20230321T11:22:16Z | Null | https://github.com/yusuf140298/SPK-Fuzzy-Tsukamoto-CI-3- | 0 | 0| 
+| 20230321T09:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8490 | 1852| 
 | 20230321T09:23:10Z | neural network with fuzzified inverter | https://github.com/Ishikawa7/Neural-Network-with-fuzzified-inverter | 0 | 0| 
 | 20230321T06:13:07Z | Null | https://github.com/Shawdox/Shaw-sFuzzing | 0 | 0| 
 | 20230321T06:08:22Z | Holy shit! It%s me! Anyway.... | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
