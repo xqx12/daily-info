@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T12:20:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5365 | 740| 
 | 20230321T11:23:34Z | 一个简单的Shiro RCE检测和利用脚本。- Simple checker and exploit for Shiro RCE. | https://github.com/Hack3rHan/ShiroRceTool | 3 | 0| 
 | 20230321T11:11:26Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 2 | 0| 
 | 20230321T09:44:58Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 11 | 2| 
 | 20230321T09:19:10Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5100 | 1719| 
-| 20230321T08:56:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5364 | 740| 
 | 20230321T08:44:09Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
 | 20230321T07:46:27Z | This is a batch script that automates the post exploitation phase when you gain a shell and you have obtained administrative rights, whether it%s from your beacon or shell. | https://github.com/smadi0x86/JustBatchThem | 6 | 0| 
 | 20230321T06:58:18Z | Null | https://github.com/sotyarena/web-exploitation-3 | 0 | 0| 
