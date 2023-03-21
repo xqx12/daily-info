@@ -60,7 +60,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230320T23:50:07Z | Null | https://github.com/Spectricium/Private-Exploits-Key-Only-My-Exploits | 0 | 0| 
-| 20230320T23:46:54Z | Security and networks automated exploit - adds the page /admin/shellex.php | https://github.com/kpafg/SaNEx4Exploit | 0 | 0| 
 | 20230320T23:18:18Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 84 | 40| 
 | 20230320T21:25:28Z | GitOps Repository | https://github.com/pmacik-testing/citron-0132-app-auX4b-burn-exploit | 0 | 0| 
 | 20230320T20:53:05Z | Null | https://github.com/edmcman/cposc-exploit | 0 | 0| 
@@ -69,6 +68,7 @@
 | 20230320T14:28:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 602 | 159| 
 | 20230320T12:04:36Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 418 | 57| 
 | 20230320T12:03:07Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13277 | 2228| 
+| 20230320T10:05:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4781 | 946| 
 
 
 # backdoor on Github 推荐
