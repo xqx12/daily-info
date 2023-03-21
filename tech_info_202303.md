@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T01:34:37Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2001 | 255| 
 | 20230320T23:16:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4617 | 1108| 
 | 20230320T22:18:54Z | Null | https://github.com/verd1c/fuzz | 0 | 0| 
 | 20230320T22:11:16Z | Implementation of k-Means and Fuzzy c-means Clustering Algorithm | https://github.com/arnav10goel/k-Means-and-Fuzzy-Means-Clustering-Implementation | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20230320T12:29:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8488 | 1852| 
 | 20230320T12:00:06Z | Fuzzy Logic for Audio Distortion Theory | https://github.com/NumberSigmaTafKsee/FuzzBomb | 0 | 0| 
 | 20230320T09:19:13Z | A HTTP protocol fuzzer written in C. | https://github.com/nikolastyllis/httpcannon | 0 | 0| 
-| 20230320T07:06:37Z | Null | https://github.com/MorgandeCesso/fuzzy-logic | 0 | 0| 
 
 
 
