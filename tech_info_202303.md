@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230321 | 《吾爱破解精华集 2022》自解压包源代码 | https://www.52pojie.cn/thread-1757035-1-1.html| 
 | 20230320 | SecWiki周刊（第472期) | https://www.sec-wiki.com/weekly/472| 
 | 20230319 | JavaScript 项目中的依赖异味 | https://mp.weixin.qq.com/s/fuxZV0rZxFGacNvqmCxBSQ| 
 | 20230319 | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw| 
@@ -40,7 +41,6 @@
 | 20230318 | 先进攻防知识WIKI | https://d3fend.notion.site/d3fend/WIKI-V0-3-33e49c4f6b9545a19ec175df6267272b| 
 | 20230316 | 百万级文件的Bug定位 | https://mp.weixin.qq.com/s/gUUuyJ84eU55UgcUdRcvmw| 
 | 20230316 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
-| 20230316 | 基于真实数据的移动赌博诈骗分析 | https://mp.weixin.qq.com/s/qDi5bIkoun3nBQU25tsp7Q| 
 
 
 # CVE Github 推荐

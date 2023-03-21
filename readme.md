@@ -20,6 +20,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230321 | 《吾爱破解精华集 2022》自解压包源代码 | https://www.52pojie.cn/thread-1757035-1-1.html| 
 
 
 # CVE Github 推荐
