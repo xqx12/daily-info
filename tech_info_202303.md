@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230321 | telnet 选项 iac 注入漏洞：libcurl 支持使用 TELnet 协议进行通信，作为其中的一部分，它允许用户传递用户名和“telnet 选项”以进行服务器协商 | http://seclists.org/oss-sec/2023/q1/174| 
+| 20230321 | 发现一个新的恶意僵尸网络，它使用Realtek SDK、华为路由器和Hadoop YARN，利用CVE-2014-8361和CVE-2017-17215等漏洞，可能进行大规模攻击 | https://www.freebuf.com/news/361013.html| 
+| 20230321 | 微软修复了 Outlook 中的零日漏洞 CVE-2023-23397，这是一种特权提升漏洞，可能允许攻击者访问受害者的 Net-NTLMv2 响应身份验证个人哈希并使用 | http://www.freebuf.com/news/361030.html| 
+| 20230321 | CVE-2023-27535，libcurl 将重用以前创建的 FTP 连接，即使一个或多个选项已更改，这可能导致使用错误的凭据进行第二次传输。 | http://seclists.org/oss-sec/2023/q1/176| 
+| 20230321 | 基于硬件断点的硬件调用栈欺骗 | https://sec.today/pulses/c0bcbc07-9cb8-48f0-94d9-48d579c17c1b/| 
+| 20230321 | 逆向 Domyos EL500 蓝牙椭圆机，对 BLE 通信进行逆向工程，并在 Pytho 中构建自定义 eConnected 接口 | http://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/| 
+| 20230321 | PD虚拟机逃逸漏洞（CVE-2023-27326）的EXP | https://github.com/Impalabs/CVE-2023-27326| 
+| 20230321 | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit| 
+| 20230321 | 从攻击者的角度来看 IcedID 的 VNC 后门，通过提取和重组嵌入在 Brad Dunca 发布的私人和公共捕获中的 VNC (RFC6143) 流量获得的见解 | http://blog.nviso.eu/2023/03/20/icedids-vnc-backdoors-dark-cat-anubis-keyhole/| 
 | 20230320 | OpenSIPS 安全审计报告已完全公开，其中包含关于如何在 80 多页的报告中重现漏洞和额外详细信息的所有信息，以及 80 多页的文档和完整的模糊测试结果列表 | https://www.rtcsec.com/post/2023/03/opensips-security-audit-report/| 
 | 20230320 | 介绍如何通过光学手段在不破坏的情况下审查硅板结构 | http://www.bunniestudios.com/blog/?p=6712| 
 | 20230320 | 在抓包时如何在没有私钥的情况下绕过客户端侧的非对称加密 | http://link.medium.com/EuW4M1N13xb| 
@@ -17,15 +26,6 @@
 | 20230320 | CVE-2023-21036的发现和利用过程。由于屏幕截图裁剪后没有被正确截断，攻击者可恢复出裁剪前的图像，可能导致受害者的隐私信息被泄露。 | http://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html| 
 | 20230320 | 游戏中作弊和反作弊的对比研究 | https://sec.today/pulses/bfaebb0c-99f1-40c8-b378-7bf47e2cb2b0/| 
 | 20230320 | 游戏中作弊和反作弊的对比研究 | http://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf| 
-| 20230317 | DNS Remote Code Execution: Finding the Vulnerability(Part 1) | https://www.youtube.com/watch?v=xWoQ-E8n4B0| 
-| 20230316 | OneNote 已被用作恶意软件传播机制，并且已发现一些诱饵笔记可传送 Qakbot、XWorm、Icedid 和 AsyncRAT 等恶意软件系列 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/onenote-spear-phishing-campaign/| 
-| 20230316 | Fortinet 于 2023 年 3 月 7 日发布了安全更新，以解决此高危安全漏洞 (CVE-2022-41328)，该漏洞可能允许攻击者执行未经授权的代码或命令。该公司在公告中表示：FortiOS 中对受限目录路径名的不当限制漏洞（路径遍历）[CWE-22] 允许特权攻击者通过 CLI 命令读写任意文件。受影响的产品包括 FortiOS 版本 6.4.0 到 6.4.11、FortiOS 版本 7.0.0 到 7.0.9、FortiOS 版本 7.2.0 到 7.2.3，以及 FortiOS 6.0 和 6.2 的所有版本。虽然该漏洞的公告并未提及该漏洞正在被野外利用，但 Fortinet 上周的一份报告显示，CVE-2022-41328 漏洞已被用于入侵和破坏客户的多个 FortiGate 防火墙设备。 | https://www.freebuf.com/news/360360.html| 
-| 20230316 | OpenBSD的libskey存在基于栈的缓冲区溢出漏洞，可以通过SSH触发，但是很难被利用 | http://seclists.org/oss-sec/2023/q1/158| 
-| 20230316 | Avast Premier - Macintosh 反病毒程序，提供恶意软件保护和各种额外功能，包括 VPN 和 PC 优化工具 | http://www.codeaurora.org/uncategorized/2023/03/11/avast-premier-review| 
-| 20230316 | 威胁行为者继续利用自 2017 年及更早以来已公开的漏洞。文章中提到的受损企业有五年或更长时间来修补或缓解这些漏洞，但他们没有这样做。 | http://blog.exodusintel.com/2023/03/15/everything-old-is-new-again/?utm_source=rss&utm_medium=rss&utm_campaign=everything-old-is-new-again| 
-| 20230316 | 根据 Cyber​​eason 进行的一项新的全球研究，勒索软件的祸害直接影响组织为实现安全运营中心 (SOC) 现代化而做出的投资决策。 | https://www.cybereason.com/blog/how-ransomware-is-driving-soc-modernization-requirements| 
-| 20230316 | Apache Airflow的错误信息生成功能中存在信息泄漏漏洞 | http://seclists.org/oss-sec/2023/q1/153| 
-| 20230316 | Foxit PDF 阅读器和编辑器中的多个 RCE 漏洞（CVE-2023-27329、CVE-2023-27330、CVE-2023-27331） | http://securityonline.info/multiple-rce-vulnerabilities-in-foxit-pdf-reader-and-editor/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230321T01:58:40Z | CVE-2023-21768 | Windows 11 System Permission Elevation | https://github.com/HKxiaoli/Windows_AFD_LPE_CVE-2023-21768 | | 
-| 20230321T01:52:18Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
-| 20230321T00:22:14Z | CVE-2023-23397 | Simple CVE-2023-23397 poc with sending of the payload by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
-| 20230320T23:57:27Z | CVE-2022-46169 | Repo for CVE-2022-46169 | https://github.com/doosec101/CVE-2022-46169 | | 
-| 20230320T23:34:15Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
-| 20230320T23:30:28Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
-| 20230320T19:53:26Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
-| 20230320T17:55:07Z | CVE-2023-23397 | Patch for MS Outlook Critical Vulnerability - CVSS 9.8 | https://github.com/SecCTechs/CVE-2023-23397 | | 
-| 20230320T15:07:02Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
-| 20230320T13:20:43Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
+| 20230321T11:47:02Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
+| 20230321T11:41:36Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
+| 20230321T11:10:06Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
+| 20230321T10:42:28Z | CVE-2022-46463 | harbor unauthorized detection | https://github.com/404tk/CVE-2022-46463 | | 
+| 20230321T10:02:26Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | | 
+| 20230321T08:32:32Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
+| 20230321T08:25:38Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
+| 20230321T08:02:48Z | CVE-2022-46087 | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | https://github.com/G37SYS73M/CVE-2022-46087 | | 
+| 20230321T07:54:36Z | CVE-2021-30632 | Null | https://github.com/maldev866/ChExp_CVE-2021-30632 | | 
+| 20230321T06:16:01Z | CVE-2022-22963 | Null | https://github.com/Mustafa1986/CVE-2022-22963 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T03:28:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 60 | 19| 
 | 20230320T16:51:22Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 271 | 50| 
-| 20230320T16:02:01Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 59 | 19| 
 | 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
 | 20230320T13:13:47Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 27 | 0| 
 | 20230318T19:16:00Z | Null | https://github.com/ayupimphil/kleeford-coin-auctions | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T11:23:34Z | 一个简单的Shiro RCE检测和利用脚本。- Simple checker and exploit for Shiro RCE. | https://github.com/Hack3rHan/ShiroRceTool | 3 | 0| 
+| 20230321T11:11:26Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 2 | 0| 
+| 20230321T09:44:58Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 11 | 2| 
+| 20230321T08:56:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5364 | 740| 
+| 20230321T08:44:09Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
+| 20230321T07:46:27Z | This is a batch script that automates the post exploitation phase when you gain a shell and you have obtained administrative rights, whether it%s from your beacon or shell. | https://github.com/smadi0x86/JustBatchThem | 6 | 0| 
+| 20230321T06:58:18Z | Null | https://github.com/sotyarena/web-exploitation-3 | 0 | 0| 
 | 20230321T00:57:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-06 | 1 | 0| 
 | 20230321T00:57:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-06 | 1 | 0| 
 | 20230321T00:56:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-06 | 1 | 0| 
-| 20230321T00:46:00Z | Security and networks automated exploit - adds the page /admin/shellex.php | https://github.com/kpafg/SaNEx4Exploit | 0 | 0| 
-| 20230321T00:25:07Z | GitOps Repository | https://github.com/northdepot/g3-NA_QT-predict-exploit | 0 | 0| 
-| 20230321T00:17:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-4PWaJ-exploit-train | 0 | 0| 
-| 20230321T00:03:50Z | Automate exploits against Metasploitable 2 server | https://github.com/mayala5/Metasploit-Exploits-for-Metasploitable-2-Server | 0 | 0| 
-| 20230320T23:50:07Z | Null | https://github.com/Spectricium/Private-Exploits-Key-Only-My-Exploits | 0 | 0| 
-| 20230320T23:18:18Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 84 | 40| 
-| 20230320T22:49:29Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 397 | 78| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T09:32:18Z | Sends telegram message with starcount of MSWapp in backdoor Haifa  | https://github.com/ISessa/MSW | 1 | 0| 
+| 20230321T08:34:41Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 17 | 0| 
+| 20230321T03:38:56Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
+| 20230321T03:04:20Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 3 | 0| 
 | 20230320T20:21:20Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-password-backdoor | 0 | 0| 
 | 20230320T19:21:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 118 | 14| 
 | 20230320T14:00:29Z | Null | https://github.com/Dhruv02G/Reverse-Backdoor-Project | 0 | 0| 
-| 20230320T10:59:15Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 2 | 0| 
-| 20230320T07:59:20Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
 | 20230320T05:01:37Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 6 | 1| 
 | 20230320T02:07:19Z | Null | https://github.com/SCLBD/backdoorbench_docs | 0 | 0| 
 | 20230319T18:43:25Z | This is a shell script that creates an SSH backdoor on an iPhone. | https://github.com/SleepTheGod/iPhone-SSH-Backdoor | 9 | 1| 
-| 20230319T16:50:14Z | WebSocket Backdoor for running commands using WebSocket (EDUCATIONAL PURPOSES ONLY) | https://github.com/Eventretta/WSCommander | 0 | 0| 
-| 20230319T16:44:24Z | Attack/Flood njRAT with fake or randomized victims | https://github.com/ChimesOfDestruction/SRC-njRAT-Attacker-Flooder | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T11:22:16Z | Null | https://github.com/yusuf140298/SPK-Fuzzy-Tsukamoto-CI-3- | 0 | 0| 
+| 20230321T09:23:10Z | neural network with fuzzified inverter | https://github.com/Ishikawa7/Neural-Network-with-fuzzified-inverter | 0 | 0| 
+| 20230321T06:13:07Z | Null | https://github.com/Shawdox/Shaw-sFuzzing | 0 | 0| 
+| 20230321T06:08:22Z | Holy shit! It%s me! Anyway.... | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
 | 20230321T01:34:37Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2001 | 255| 
 | 20230320T23:16:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4617 | 1108| 
 | 20230320T22:18:54Z | Null | https://github.com/verd1c/fuzz | 0 | 0| 
 | 20230320T22:11:16Z | Implementation of k-Means and Fuzzy c-means Clustering Algorithm | https://github.com/arnav10goel/k-Means-and-Fuzzy-Means-Clustering-Implementation | 0 | 0| 
 | 20230320T16:41:34Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 272 | 38| 
 | 20230320T15:09:02Z | property testing and verification front-end for Rust | https://github.com/camshaft/bolero | 107 | 12| 
-| 20230320T12:50:27Z | 基于pwntools+angr的简单CTF AMD64 PWN  AUTO FUZZ | https://github.com/hexian2001/HRP-Nnepnep-auto-pwn | 16 | 1| 
-| 20230320T12:29:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8488 | 1852| 
-| 20230320T12:00:06Z | Fuzzy Logic for Audio Distortion Theory | https://github.com/NumberSigmaTafKsee/FuzzBomb | 0 | 0| 
-| 20230320T09:19:13Z | A HTTP protocol fuzzer written in C. | https://github.com/nikolastyllis/httpcannon | 0 | 0| 
 
 
 
