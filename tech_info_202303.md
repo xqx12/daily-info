@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230321T00:22:14Z | CVE-2023-23397 | Simple CVE-2023-23397 poc with sending of the payload by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230320T23:57:27Z | CVE-2022-46169 | Repo for CVE-2022-46169 | https://github.com/doosec101/CVE-2022-46169 | | 
 | 20230320T23:40:35Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230320T23:34:15Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230320T23:30:28Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20230320T19:53:26Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230320T17:55:07Z | CVE-2023-23397 | Patch for MS Outlook Critical Vulnerability - CVSS 9.8 | https://github.com/SecCTechs/CVE-2023-23397 | | 
-| 20230320T16:47:16Z | CVE-2023-23397 | Simple CVE-2023-23397 poc with sending of the payload by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230320T15:07:02Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
 | 20230320T13:20:43Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20230320T13:00:20Z | CVE-2020-0796 | CVE-2020-0796 SMB Ghost vulnerability detection and mitigation | https://github.com/heeloo123/CVE-2020-0796 | | 
