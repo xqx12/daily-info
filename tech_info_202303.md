@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230321T01:10:16Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230321T00:22:14Z | CVE-2023-23397 | Simple CVE-2023-23397 poc with sending of the payload by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230320T23:57:27Z | CVE-2022-46169 | Repo for CVE-2022-46169 | https://github.com/doosec101/CVE-2022-46169 | | 
-| 20230320T23:40:35Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230320T23:34:15Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230320T23:30:28Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20230320T19:53:26Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
