@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230321 | 《吾爱破解精华集 2022》自解压包源代码 | https://www.52pojie.cn/thread-1757035-1-1.html| 
+| 20230321 | APTRS：一款功能强大的自动化渗透测试报告系统 | https://github.com/Anof-cyber/APTRS| 
 | 20230320 | SecWiki周刊（第472期) | https://www.sec-wiki.com/weekly/472| 
 | 20230319 | JavaScript 项目中的依赖异味 | https://mp.weixin.qq.com/s/fuxZV0rZxFGacNvqmCxBSQ| 
 | 20230319 | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw| 
@@ -40,7 +41,6 @@
 | 20230318 | 2022年度网络空间测绘报告 | https://book.yunzhan365.com/tkgd/pdrf/mobile/index.html| 
 | 20230318 | 先进攻防知识WIKI | https://d3fend.notion.site/d3fend/WIKI-V0-3-33e49c4f6b9545a19ec175df6267272b| 
 | 20230316 | 百万级文件的Bug定位 | https://mp.weixin.qq.com/s/gUUuyJ84eU55UgcUdRcvmw| 
-| 20230316 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
 
 
 # CVE Github 推荐
