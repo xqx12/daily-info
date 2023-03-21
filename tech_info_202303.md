@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230321T12:57:47Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20230321T12:33:27Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
 | 20230321T12:29:32Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230321T11:41:36Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
@@ -55,7 +56,6 @@
 | 20230321T08:25:38Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230321T08:02:48Z | CVE-2022-46087 | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | https://github.com/G37SYS73M/CVE-2022-46087 | | 
 | 20230321T07:54:36Z | CVE-2021-30632 | Null | https://github.com/maldev866/ChExp_CVE-2021-30632 | | 
-| 20230321T06:16:01Z | CVE-2022-22963 | Null | https://github.com/Mustafa1986/CVE-2022-22963 | | 
 
 
 # klee on Github 推荐
@@ -90,7 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230321T12:49:05Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
+| 20230321T12:56:48Z | Tips and tricks on reversing and exploiting Windows using free and easy to get tools. | https://github.com/fortra/Reversing-and-Exploiting-with-Free-Tools-Series | 0 | 0| 
+| 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 | 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
 | 20230321T12:27:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 12 | 2| 
 | 20230321T12:20:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5365 | 740| 
@@ -99,7 +100,6 @@
 | 20230321T08:44:09Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
 | 20230321T07:46:27Z | This is a batch script that automates the post exploitation phase when you gain a shell and you have obtained administrative rights, whether it%s from your beacon or shell. | https://github.com/smadi0x86/JustBatchThem | 6 | 0| 
 | 20230321T06:58:18Z | Null | https://github.com/sotyarena/web-exploitation-3 | 0 | 0| 
-| 20230321T00:57:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-06 | 1 | 0| 
 
 
 # backdoor on Github 推荐
