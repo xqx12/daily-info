@@ -151,7 +151,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T12:40:07Z | Null | https://github.com/Yukino-3/Fuzzy | 0 | 0| 
+| 20230322T12:44:26Z | Blazing fast fuzzy text search for Python. | https://github.com/x-tabdeveloping/fuzz-lightyear | 0 | 0| 
+| 20230322T12:43:20Z | Null | https://github.com/Yukino-3/Fuzzy | 0 | 0| 
 | 20230322T12:08:18Z | Null | https://github.com/nilesjamex/fuzzy-enigma | 0 | 0| 
 | 20230322T12:02:11Z | Repository linked to DSN 2023 paper %IRIS: a Record and Replay Framework to Enable Hardware-assisted Virtualization Fuzzing% | https://github.com/dessertlab/iris | 0 | 0| 
 | 20230322T11:57:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4623 | 1109| 
@@ -160,7 +161,6 @@
 | 20230322T08:25:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 182| 
 | 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
 | 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
-| 20230322T01:18:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3478 | 415| 
 
 
 
