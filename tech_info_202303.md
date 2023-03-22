@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T00:07:27Z | 🌸 Powerful tool to find exploits and vulnerabilities in web databases | https://github.com/ParabellumGroup/tupan | 0 | 0| 
+| 20230322T00:36:33Z | 🌸 Powerful tool to find exploits and vulnerabilities in web databases 🌸 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
 | 20230321T23:14:20Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anticropalypse | 6 | 0| 
 | 20230321T23:09:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4784 | 946| 
