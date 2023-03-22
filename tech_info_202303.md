@@ -153,6 +153,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
 | 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
+| 20230322T01:18:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3478 | 415| 
 | 20230322T00:05:29Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20230321T23:52:22Z | Work on fuzzy logic for Introduction to Artificial Intelligence. FisPro Fuzzy | https://github.com/FrancoVigier/IIA-FuzzyLogic-HVAC-Example-Vigier | 0 | 0| 
 | 20230321T23:09:54Z | Null | https://github.com/hiropoofs/Python_DataScience_FuzzyLogic | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230321T22:06:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 273 | 40| 
 | 20230321T21:46:29Z | Winter%23 CS295 Final Project: Fuzzing NetworkX | https://github.com/WangYuNeng/NetworkX-Fuzzer | 0 | 0| 
 | 20230321T21:22:01Z | Null | https://github.com/paulabelmon/fuzzy-octo-chainsaw | 0 | 0| 
-| 20230321T19:41:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2664 | 183| 
 
 
 
