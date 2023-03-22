@@ -159,8 +159,8 @@
 | 20230322T11:37:20Z | Null | https://github.com/Mar-velous/fuzzy-bernacle | 0 | 0| 
 | 20230322T09:08:19Z | Null | https://github.com/murisi/namada-fuzzer | 0 | 0| 
 | 20230322T08:25:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 182| 
+| 20230322T03:28:02Z | Easy-to-use grammar-based black-box fuzzer | https://github.com/langston-barrett/tree-crasher | 5 | 2| 
 | 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
-| 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
 
 
 
