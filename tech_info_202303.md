@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:27:49Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaneousscripts | 0 | 0| 
 | 20230322T12:26:36Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
 | 20230322T12:26:36Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1472 | 293| 
 | 20230322T12:25:57Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 182 | 36| 
@@ -100,7 +101,6 @@
 | 20230322T10:55:35Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13292 | 2233| 
 | 20230322T09:44:07Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 0 | 0| 
 | 20230322T08:34:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 603 | 159| 
-| 20230322T07:59:51Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10006 | 1584| 
 
 
 # backdoor on Github 推荐
