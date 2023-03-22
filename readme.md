@@ -73,7 +73,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230321T23:50:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 120 | 14| 
 | 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
-| 20230321T17:20:06Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 1 | 0| 
 | 20230321T13:03:26Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 4 | 2| 
 | 20230321T12:22:40Z | Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 2 | 1| 
 | 20230321T12:02:17Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
