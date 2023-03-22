@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:40:44Z | save cves from exploit-db | https://github.com/crypticq/Exploit-db | 0 | 0| 
 | 20230322T12:27:49Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaneousscripts | 0 | 0| 
 | 20230322T12:26:36Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
 | 20230322T12:26:36Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1472 | 293| 
@@ -100,7 +101,6 @@
 | 20230322T11:52:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs--aSfv-exploit-speak | 0 | 0| 
 | 20230322T10:55:35Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13292 | 2233| 
 | 20230322T09:44:07Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 0 | 0| 
-| 20230322T08:34:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 603 | 159| 
 
 
 # backdoor on Github 推荐
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:40:07Z | Null | https://github.com/Yukino-3/Fuzzy | 0 | 0| 
 | 20230322T12:08:18Z | Null | https://github.com/nilesjamex/fuzzy-enigma | 0 | 0| 
 | 20230322T12:02:11Z | Repository linked to DSN 2023 paper %IRIS: a Record and Replay Framework to Enable Hardware-assisted Virtualization Fuzzing% | https://github.com/dessertlab/iris | 0 | 0| 
 | 20230322T11:57:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4623 | 1109| 
@@ -160,7 +161,6 @@
 | 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
 | 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
 | 20230322T01:18:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3478 | 415| 
-| 20230322T00:05:29Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 
 
 
