@@ -65,7 +65,7 @@
 | 20230321T12:56:48Z | Tips and tricks on reversing and exploiting Windows using free and easy to get tools. | https://github.com/fortra/Reversing-and-Exploiting-with-Free-Tools-Series | 0 | 0| 
 | 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 | 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
-| 20230321T12:27:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 12 | 2| 
+| 20230321T11:23:34Z | 一个简单的Shiro RCE检测和利用脚本。- Simple checker and exploit for Shiro RCE. | https://github.com/Hack3rHan/ShiroRceTool | 3 | 0| 
 
 
 # backdoor on Github 推荐
