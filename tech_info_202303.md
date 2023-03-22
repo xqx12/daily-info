@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230321T23:58:47Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
+| 20230321T21:20:35Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
+| 20230321T18:38:59Z | CVE-2023-23397 | Proof of Concept for CVE-2023-23397 in Python | https://github.com/tiepologian/CVE-2023-23397 | | 
+| 20230321T17:23:07Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
+| 20230321T17:11:09Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
+| 20230321T13:27:22Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
 | 20230321T12:57:47Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20230321T12:33:27Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Impalabs/CVE-2023-27326 | | 
-| 20230321T12:29:32Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
-| 20230321T11:41:36Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
 | 20230321T10:42:28Z | CVE-2022-46463 | harbor unauthorized detection | https://github.com/404tk/CVE-2022-46463 | | 
 | 20230321T10:02:26Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | | 
-| 20230321T08:32:32Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
-| 20230321T08:25:38Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
-| 20230321T08:02:48Z | CVE-2022-46087 | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | https://github.com/G37SYS73M/CVE-2022-46087 | | 
-| 20230321T07:54:36Z | CVE-2021-30632 | Null | https://github.com/maldev866/ChExp_CVE-2021-30632 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T15:10:54Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 15 | 7| 
 | 20230321T12:26:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 61 | 19| 
 | 20230320T16:51:22Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 271 | 50| 
 | 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
@@ -68,7 +69,6 @@
 | 20230318T19:16:00Z | Null | https://github.com/ayupimphil/kleeford-coin-auctions | 0 | 0| 
 | 20230317T20:19:39Z | Null | https://github.com/KLee954/klee954.github.io | 0 | 0| 
 | 20230317T01:55:49Z | A Professional Team of Best Cleaners | https://github.com/sharmarakesh94/Kleenr | 0 | 0| 
-| 20230316T11:05:48Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230316T08:04:03Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 173 | 48| 
 | 20230315T17:01:18Z | My Portfolio Website | https://github.com/Brian-K-Lee/BrianKLee | 0 | 0| 
 
@@ -76,11 +76,12 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T19:34:37Z | Null | https://github.com/pabloqr/S2E2 | 0 | 0| 
+| 20230321T18:36:04Z | The exploit generator CRAX++ is CRAX with a plugin system, s2e 2.0 upgrade, dynamic ROP, code selection, and I/O states (HITCON 2022) | https://github.com/SQLab/CRAXplusplus | 81 | 14| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 | 20230320T09:42:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
 | 20230315T02:43:24Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 19 | 6| 
-| 20230312T03:23:08Z | The exploit generator CRAX++ is CRAX with a plugin system, s2e 2.0 upgrade, dynamic ROP, code selection, and I/O states (HITCON 2022) | https://github.com/SQLab/CRAXplusplus | 80 | 14| 
 | 20230310T11:57:51Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 84 | 45| 
 | 20230304T21:10:38Z | this is the discription | https://github.com/Nieznany0/My-reposatory-s2eo6hgwwmb | 0 | 0| 
 | 20230301T20:40:12Z | E-comm shopping site | https://github.com/megha980/S2E-Shop | 0 | 0| 
@@ -90,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
+| 20230321T23:14:20Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anticropalypse | 6 | 0| 
+| 20230321T22:08:13Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/devfile-sample-java-springboot-basic-TWoAZ-maintain-exploit | 0 | 0| 
+| 20230321T21:31:26Z | Base exploit for the %Buffer Overflow Prep% room on TryHackMe | https://github.com/Black0utDev/Buffer-Overflow-THM | 0 | 0| 
+| 20230321T18:13:34Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
 | 20230321T12:56:48Z | Tips and tricks on reversing and exploiting Windows using free and easy to get tools. | https://github.com/fortra/Reversing-and-Exploiting-with-Free-Tools-Series | 0 | 0| 
 | 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 | 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
 | 20230321T12:27:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 12 | 2| 
 | 20230321T12:20:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5365 | 740| 
-| 20230321T11:23:34Z | 一个简单的Shiro RCE检测和利用脚本。- Simple checker and exploit for Shiro RCE. | https://github.com/Hack3rHan/ShiroRceTool | 3 | 0| 
-| 20230321T11:11:26Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 2 | 0| 
-| 20230321T08:44:09Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
-| 20230321T07:46:27Z | This is a batch script that automates the post exploitation phase when you gain a shell and you have obtained administrative rights, whether it%s from your beacon or shell. | https://github.com/smadi0x86/JustBatchThem | 6 | 0| 
-| 20230321T06:58:18Z | Null | https://github.com/sotyarena/web-exploitation-3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T23:50:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 120 | 14| 
+| 20230321T23:49:22Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4108 | 1609| 
+| 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
+| 20230321T17:20:06Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 1 | 0| 
+| 20230321T13:03:26Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 4 | 2| 
 | 20230321T12:22:40Z | Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 2 | 1| 
 | 20230321T12:02:17Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
 | 20230321T09:32:18Z | Sends telegram message with starcount of MSWapp in backdoor Haifa  | https://github.com/ISessa/MSW | 1 | 0| 
 | 20230321T08:34:41Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 17 | 0| 
 | 20230321T03:38:56Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
-| 20230321T03:04:20Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 3 | 0| 
-| 20230320T20:21:20Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-password-backdoor | 0 | 0| 
-| 20230320T19:21:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 118 | 14| 
-| 20230320T14:00:29Z | Null | https://github.com/Dhruv02G/Reverse-Backdoor-Project | 0 | 0| 
-| 20230320T05:01:37Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 6 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -135,8 +136,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T22:17:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 558 | 90| 
 | 20230321T11:17:52Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 0 | 0| 
-| 20230321T07:31:02Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 557 | 90| 
 | 20230321T02:11:50Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 8 | 1| 
 | 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
 | 20230317T08:22:20Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 17 | 2| 
@@ -150,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230321T23:52:22Z | Work on fuzzy logic for Introduction to Artificial Intelligence. FisPro Fuzzy | https://github.com/FrancoVigier/IIA-FuzzyLogic-HVAC-Example-Vigier | 0 | 0| 
+| 20230321T23:09:54Z | Null | https://github.com/hiropoofs/Python_DataScience_FuzzyLogic | 0 | 0| 
+| 20230321T23:01:55Z | Null | https://github.com/ValhallaVik/fuzzy-robot | 0 | 0| 
+| 20230321T22:06:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 273 | 40| 
+| 20230321T21:46:29Z | Winter%23 CS295 Final Project: Fuzzing NetworkX | https://github.com/WangYuNeng/NetworkX-Fuzzer | 0 | 0| 
+| 20230321T21:22:01Z | Null | https://github.com/paulabelmon/fuzzy-octo-chainsaw | 0 | 0| 
+| 20230321T17:18:40Z | Simple Minecraft Gambling Plugin | https://github.com/fuzziejaxer/FuzzieSlots | 1 | 0| 
+| 20230321T16:19:00Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 61 | 25| 
 | 20230321T12:50:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3517 | 701| 
 | 20230321T11:22:16Z | Null | https://github.com/yusuf140298/SPK-Fuzzy-Tsukamoto-CI-3- | 0 | 0| 
-| 20230321T09:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8490 | 1852| 
-| 20230321T09:23:10Z | neural network with fuzzified inverter | https://github.com/Ishikawa7/Neural-Network-with-fuzzified-inverter | 0 | 0| 
-| 20230321T06:13:07Z | Null | https://github.com/Shawdox/Shaw-sFuzzing | 0 | 0| 
-| 20230321T06:08:22Z | Holy shit! It%s me! Anyway.... | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 2| 
-| 20230321T01:34:37Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2001 | 255| 
-| 20230320T23:16:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4617 | 1108| 
-| 20230320T22:18:54Z | Null | https://github.com/verd1c/fuzz | 0 | 0| 
-| 20230320T22:11:16Z | Implementation of k-Means and Fuzzy c-means Clustering Algorithm | https://github.com/arnav10goel/k-Means-and-Fuzzy-Means-Clustering-Implementation | 0 | 0| 
 
 
 
