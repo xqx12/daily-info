@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:26:36Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
+| 20230322T12:26:36Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1472 | 293| 
+| 20230322T12:25:57Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 182 | 36| 
 | 20230322T12:18:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5037 | 724| 
 | 20230322T12:13:22Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 578 | 102| 
-| 20230322T12:09:16Z | Miscellaneious ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
 | 20230322T11:52:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs--aSfv-exploit-speak | 0 | 0| 
+| 20230322T10:55:35Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13292 | 2233| 
 | 20230322T09:44:07Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 0 | 0| 
-| 20230322T09:09:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 181 | 36| 
 | 20230322T08:34:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 603 | 159| 
 | 20230322T07:59:51Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10006 | 1584| 
-| 20230322T07:34:15Z | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | 65 | 29| 
-| 20230322T01:46:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 13 | 2| 
 
 
 # backdoor on Github 推荐
