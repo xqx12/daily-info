@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:08:18Z | Null | https://github.com/nilesjamex/fuzzy-enigma | 0 | 0| 
 | 20230322T12:02:11Z | Repository linked to DSN 2023 paper %IRIS: a Record and Replay Framework to Enable Hardware-assisted Virtualization Fuzzing% | https://github.com/dessertlab/iris | 0 | 0| 
 | 20230322T11:57:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4623 | 1109| 
 | 20230322T11:37:20Z | Null | https://github.com/Mar-velous/fuzzy-bernacle | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
 | 20230322T01:18:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3478 | 415| 
 | 20230322T00:05:29Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
-| 20230321T23:52:22Z | Work on fuzzy logic for Introduction to Artificial Intelligence. FisPro Fuzzy | https://github.com/FrancoVigier/IIA-FuzzyLogic-HVAC-Example-Vigier | 0 | 0| 
 
 
 
