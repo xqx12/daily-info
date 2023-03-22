@@ -58,6 +58,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
 | 20230321T23:14:20Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anticropalypse | 6 | 0| 
+| 20230321T23:09:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4784 | 946| 
 | 20230321T22:08:13Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/devfile-sample-java-springboot-basic-TWoAZ-maintain-exploit | 0 | 0| 
 | 20230321T21:31:26Z | Base exploit for the %Buffer Overflow Prep% room on TryHackMe | https://github.com/Black0utDev/Buffer-Overflow-THM | 0 | 0| 
 | 20230321T18:13:34Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
@@ -65,7 +66,6 @@
 | 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 | 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
 | 20230321T12:27:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 12 | 2| 
-| 20230321T12:20:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5365 | 740| 
 
 
 # backdoor on Github 推荐
