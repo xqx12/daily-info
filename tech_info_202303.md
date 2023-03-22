@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T00:05:29Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20230321T23:52:22Z | Work on fuzzy logic for Introduction to Artificial Intelligence. FisPro Fuzzy | https://github.com/FrancoVigier/IIA-FuzzyLogic-HVAC-Example-Vigier | 0 | 0| 
 | 20230321T23:09:54Z | Null | https://github.com/hiropoofs/Python_DataScience_FuzzyLogic | 0 | 0| 
 | 20230321T23:01:55Z | Null | https://github.com/ValhallaVik/fuzzy-robot | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230321T19:41:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2664 | 183| 
 | 20230321T17:18:40Z | Simple Minecraft Gambling Plugin | https://github.com/fuzziejaxer/FuzzieSlots | 1 | 0| 
 | 20230321T16:19:00Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 61 | 25| 
-| 20230321T12:50:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3517 | 701| 
 
 
 
