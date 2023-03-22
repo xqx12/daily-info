@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
 | 20230322T01:30:49Z | Null | https://github.com/aabis1/fuzzy-spork | 0 | 0| 
 | 20230322T00:05:29Z | Socialz: Multi-Feature Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20230321T23:52:22Z | Work on fuzzy logic for Introduction to Artificial Intelligence. FisPro Fuzzy | https://github.com/FrancoVigier/IIA-FuzzyLogic-HVAC-Example-Vigier | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230321T21:46:29Z | Winter%23 CS295 Final Project: Fuzzing NetworkX | https://github.com/WangYuNeng/NetworkX-Fuzzer | 0 | 0| 
 | 20230321T21:22:01Z | Null | https://github.com/paulabelmon/fuzzy-octo-chainsaw | 0 | 0| 
 | 20230321T19:41:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2664 | 183| 
-| 20230321T17:18:40Z | Simple Minecraft Gambling Plugin | https://github.com/fuzziejaxer/FuzzieSlots | 1 | 0| 
 
 
 
