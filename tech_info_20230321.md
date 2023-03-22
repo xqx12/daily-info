@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230321T23:50:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 120 | 14| 
-| 20230321T23:49:22Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4108 | 1610| 
 | 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
 | 20230321T17:20:06Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 1 | 0| 
 | 20230321T13:03:26Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 4 | 2| 
@@ -81,6 +80,7 @@
 | 20230321T09:32:18Z | Sends telegram message with starcount of MSWapp in backdoor Haifa  | https://github.com/ISessa/MSW | 1 | 0| 
 | 20230321T08:34:41Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 17 | 0| 
 | 20230321T03:38:56Z | Backdoor Attacks | https://github.com/xianglinyang/backdoor_attack | 0 | 0| 
+| 20230321T03:04:20Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
