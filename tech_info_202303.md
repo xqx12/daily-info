@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T12:37:58Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4160 | 1620| 
+| 20230322T12:46:46Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4161 | 1620| 
 | 20230322T10:14:38Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 13 | 5| 
 | 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
 | 20230322T06:12:31Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 122 | 14| 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T09:43:46Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 420 | 36| 
+| 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
 | 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230321T10:07:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3369 | 476| 
