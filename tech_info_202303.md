@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:51:39Z | Null | https://github.com/REytchison/fuzz-mtg-23 | 0 | 0| 
 | 20230322T12:44:26Z | Blazing fast fuzzy text search for Python. | https://github.com/x-tabdeveloping/fuzz-lightyear | 0 | 0| 
 | 20230322T12:43:20Z | Null | https://github.com/Yukino-3/Fuzzy | 0 | 0| 
 | 20230322T12:08:18Z | Null | https://github.com/nilesjamex/fuzzy-enigma | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230322T09:08:19Z | Null | https://github.com/murisi/namada-fuzzer | 0 | 0| 
 | 20230322T08:25:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 182| 
 | 20230322T03:28:02Z | Easy-to-use grammar-based black-box fuzzer | https://github.com/langston-barrett/tree-crasher | 5 | 2| 
-| 20230322T01:37:07Z | Catch smart contract bugs at scale with fuzz tests | https://github.com/aviggiano/fuzzy-fyi | 0 | 0| 
 
 
 
