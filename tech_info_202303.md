@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:13:22Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 578 | 102| 
 | 20230322T12:09:16Z | Miscellaneious ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
 | 20230322T11:52:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs--aSfv-exploit-speak | 0 | 0| 
-| 20230322T09:48:56Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 577 | 102| 
 | 20230322T09:44:07Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 0 | 0| 
 | 20230322T09:09:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 181 | 36| 
 | 20230322T08:53:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5036 | 724| 
