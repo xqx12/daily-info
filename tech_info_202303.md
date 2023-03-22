@@ -91,6 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T00:51:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-07 | 1 | 0| 
+| 20230322T00:50:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-07 | 1 | 0| 
+| 20230322T00:49:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-07 | 1 | 0| 
 | 20230322T00:42:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5373 | 742| 
 | 20230322T00:36:33Z | 🌸 Powerful tool to find exploits and vulnerabilities in web databases 🌸 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
@@ -98,9 +101,6 @@
 | 20230321T23:09:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4784 | 946| 
 | 20230321T22:08:13Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/devfile-sample-java-springboot-basic-TWoAZ-maintain-exploit | 0 | 0| 
 | 20230321T21:31:26Z | Base exploit for the %Buffer Overflow Prep% room on TryHackMe | https://github.com/Black0utDev/Buffer-Overflow-THM | 0 | 0| 
-| 20230321T18:13:34Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
-| 20230321T12:56:48Z | Tips and tricks on reversing and exploiting Windows using free and easy to get tools. | https://github.com/fortra/Reversing-and-Exploiting-with-Free-Tools-Series | 0 | 0| 
-| 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
