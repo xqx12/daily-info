@@ -34,6 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:42:40Z | cve-2023-23397 | Python script for sending e-mails with CVE-2023-23397 payload using SMTP | https://github.com/BronzeBee/cve-2023-23397 | | 
 | 20230322T11:41:06Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230322T09:20:27Z | CVE-2022-1015 | Null | https://github.com/pivik271/CVE-2022-1015 | | 
 | 20230322T07:24:36Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 

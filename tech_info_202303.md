@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230322T12:42:40Z | cve-2023-23397 | Python script for sending e-mails with CVE-2023-23397 payload using SMTP | https://github.com/BronzeBee/cve-2023-23397 | | 
 | 20230322T11:41:06Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230322T09:20:27Z | CVE-2022-1015 | Null | https://github.com/pivik271/CVE-2022-1015 | | 
 | 20230322T07:24:36Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
@@ -55,7 +56,6 @@
 | 20230321T23:58:47Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230321T18:38:59Z | CVE-2023-23397 | Proof of Concept for CVE-2023-23397 in Python | https://github.com/tiepologian/CVE-2023-23397 | | 
 | 20230321T17:11:09Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
-| 20230321T13:27:22Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
 
 
 # klee on Github 推荐
