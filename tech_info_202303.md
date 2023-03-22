@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T00:42:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5373 | 742| 
 | 20230322T00:36:33Z | 🌸 Powerful tool to find exploits and vulnerabilities in web databases 🌸 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
 | 20230321T23:14:20Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anticropalypse | 6 | 0| 
@@ -100,7 +101,6 @@
 | 20230321T18:13:34Z | 🥊 Valorant Cheating Release / Aimbot + Esp + Discord Bypass ! | https://github.com/Serups/Valorant.External | 85 | 40| 
 | 20230321T12:56:48Z | Tips and tricks on reversing and exploiting Windows using free and easy to get tools. | https://github.com/fortra/Reversing-and-Exploiting-with-Free-Tools-Series | 0 | 0| 
 | 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
-| 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
 
 
 # backdoor on Github 推荐
