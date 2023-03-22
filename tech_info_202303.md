@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T00:58:35Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4113 | 1612| 
+| 20230322T01:08:44Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4114 | 1612| 
 | 20230322T00:02:12Z | Null | https://github.com/LuPang-Coder/BackdoorCleansing | 0 | 0| 
 | 20230321T23:50:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 120 | 14| 
 | 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230321T10:07:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3369 | 476| 
 | 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
@@ -130,7 +131,6 @@
 | 20230317T05:59:27Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 18 | 8| 
 | 20230314T13:43:36Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 66 | 8| 
 | 20230311T15:50:35Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 1 | 0| 
-| 20230307T12:19:24Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 189 | 42| 
 
 
 # big4 on Github 推荐
