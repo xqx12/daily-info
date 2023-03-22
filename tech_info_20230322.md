@@ -16,6 +16,7 @@
 | 20230322 | 一种深入混淆 PowerShell 负载的各个组件的方法，无论您是在 Windows 还是 Kali Linux 上 | https://www.kitploit.com/2023/03/invoke-psobfuscation-in-depth-approach.html| 
 | 20230322 | Google Pixel 标记工具中的 Acropalypse 缺陷允许部分恢复编辑或编辑的屏幕截图和图像。 | https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html| 
 | 20230322 | Snappy库中的 file_exists()函数存在反序列化漏洞，评分9.8 | https://sec.today/pulses/cfcb5c9c-9fb8-49b5-b12e-b214d442e453/| 
+| 20230322 | Snappy库中的 file_exists()函数存在反序列化漏洞，评分9.8 | http://securityonline.info/cve-2023-28115-rce-vulnerability-affects-the-popular-php-library-snappy/| 
 
 
 # 安全维基 推荐
@@ -81,12 +82,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T09:43:46Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 420 | 36| 
+| 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T11:57:07Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 1 | 0| 
+| 20230322T06:57:02Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 559 | 90| 
 
 
 # fuzz on Github 推荐

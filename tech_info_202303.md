@@ -16,6 +16,7 @@
 | 20230322 | 一种深入混淆 PowerShell 负载的各个组件的方法，无论您是在 Windows 还是 Kali Linux 上 | https://www.kitploit.com/2023/03/invoke-psobfuscation-in-depth-approach.html| 
 | 20230322 | Google Pixel 标记工具中的 Acropalypse 缺陷允许部分恢复编辑或编辑的屏幕截图和图像。 | https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html| 
 | 20230322 | Snappy库中的 file_exists()函数存在反序列化漏洞，评分9.8 | https://sec.today/pulses/cfcb5c9c-9fb8-49b5-b12e-b214d442e453/| 
+| 20230322 | Snappy库中的 file_exists()函数存在反序列化漏洞，评分9.8 | http://securityonline.info/cve-2023-28115-rce-vulnerability-affects-the-popular-php-library-snappy/| 
 | 20230321 | telnet 选项 iac 注入漏洞：libcurl 支持使用 TELnet 协议进行通信，作为其中的一部分，它允许用户传递用户名和“telnet 选项”以进行服务器协商 | http://seclists.org/oss-sec/2023/q1/174| 
 | 20230321 | 发现一个新的恶意僵尸网络，它使用Realtek SDK、华为路由器和Hadoop YARN，利用CVE-2014-8361和CVE-2017-17215等漏洞，可能进行大规模攻击 | https://www.freebuf.com/news/361013.html| 
 | 20230321 | 微软修复了 Outlook 中的零日漏洞 CVE-2023-23397，这是一种特权提升漏洞，可能允许攻击者访问受害者的 Net-NTLMv2 响应身份验证个人哈希并使用 | http://www.freebuf.com/news/361030.html| 
@@ -25,7 +26,6 @@
 | 20230321 | PD虚拟机逃逸漏洞（CVE-2023-27326）的EXP | https://github.com/Impalabs/CVE-2023-27326| 
 | 20230321 | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit| 
 | 20230321 | 从攻击者的角度来看 IcedID 的 VNC 后门，通过提取和重组嵌入在 Brad Dunca 发布的私人和公共捕获中的 VNC (RFC6143) 流量获得的见解 | http://blog.nviso.eu/2023/03/20/icedids-vnc-backdoors-dark-cat-anubis-keyhole/| 
-| 20230320 | OpenSIPS 安全审计报告已完全公开，其中包含关于如何在 80 多页的报告中重现漏洞和额外详细信息的所有信息，以及 80 多页的文档和完整的模糊测试结果列表 | https://www.rtcsec.com/post/2023/03/opensips-security-audit-report/| 
 
 
 # 安全维基 推荐
@@ -121,23 +121,23 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T09:43:46Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 420 | 36| 
+| 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230321T10:07:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3369 | 476| 
-| 20230320T14:26:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2189 | 609| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 | 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
 | 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
 | 20230317T05:59:27Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 18 | 8| 
 | 20230314T13:43:36Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 66 | 8| 
-| 20230311T15:50:35Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 1 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230321T22:17:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 558 | 90| 
-| 20230321T11:17:52Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 0 | 0| 
+| 20230322T11:57:07Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 1 | 0| 
+| 20230322T06:57:02Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 559 | 90| 
 | 20230321T02:11:50Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 8 | 1| 
 | 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
 | 20230317T08:22:20Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 17 | 2| 
