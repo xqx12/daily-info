@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T00:07:27Z | 🌸 Powerful tool to find exploits and vulnerabilities in web databases | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230321T23:50:55Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptHubGui | 0 | 1| 
 | 20230321T23:14:20Z | Discord bot which monitors for and deletes images vulnerable to the Acropalypse exploit (CVE-2023-21036) | https://github.com/qixils/anticropalypse | 6 | 0| 
 | 20230321T22:08:13Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/devfile-sample-java-springboot-basic-TWoAZ-maintain-exploit | 0 | 0| 
@@ -100,13 +101,12 @@
 | 20230321T12:50:48Z | Null | https://github.com/Tomoya233/test_for_exploit | 0 | 0| 
 | 20230321T12:29:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5101 | 1719| 
 | 20230321T12:27:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 12 | 2| 
-| 20230321T12:20:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5365 | 740| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T00:05:23Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4109 | 1610| 
+| 20230322T00:07:19Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4110 | 1610| 
 | 20230322T00:02:12Z | Null | https://github.com/LuPang-Coder/BackdoorCleansing | 0 | 0| 
 | 20230321T23:50:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 120 | 14| 
 | 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
