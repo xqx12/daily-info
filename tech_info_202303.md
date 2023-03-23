@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:51:30Z | CVE-2023-21036 | Detection an sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230323T01:41:45Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230323T01:15:57Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
 | 20230323T01:08:46Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
-| 20230323T00:27:58Z | CVE-2023-21036 | Detection an sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230322T21:29:16Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230322T21:26:20Z | CVE-2022-44268 | Null | https://github.com/betillogalvanfbc/POC-CVE-2022-44268 | | 
 | 20230322T20:11:03Z | CVE-2022-41082 | https & http | https://github.com/notareaperbutDR34P3r/vuln-CVE-2022-41082 | | 
@@ -106,8 +106,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 | 20230323T01:22:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4172 | 1621| 
-| 20230323T00:35:24Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 19 | 5| 
 | 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
 | 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
 | 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
