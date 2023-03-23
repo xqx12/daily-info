@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T00:19:53Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 907 | 147| 
 | 20230322T23:50:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-08 | 1 | 0| 
 | 20230322T23:50:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-08 | 1 | 0| 
 | 20230322T23:49:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-08 | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20230322T21:52:55Z | Null | https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io | 0 | 0| 
 | 20230322T21:23:59Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 5 | 7| 
 | 20230322T20:45:29Z | This is a collection of simple applications that exploit different Machine Learning libraries | https://github.com/LucaSoriani1/MachineLearning | 0 | 0| 
-| 20230322T20:21:31Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 906 | 147| 
 | 20230322T13:37:35Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 1 | 0| 
 
 
