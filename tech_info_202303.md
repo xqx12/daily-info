@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T20:24:28Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 18 | 5| 
+| 20230323T00:35:24Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 19 | 5| 
 | 20230322T18:59:40Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4171 | 1621| 
 | 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
 | 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
