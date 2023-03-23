@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:37:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2006 | 255| 
 | 20230323T00:08:50Z | Null | https://github.com/Sohug24/fuzzy-octo-palm-tree | 0 | 0| 
 | 20230322T23:31:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 183| 
 | 20230322T23:08:02Z | AI based fuzzer based on imitation learning | https://github.com/eth-sri/ilf | 113 | 31| 
@@ -160,7 +161,6 @@
 | 20230322T19:29:34Z | About fuzzy logic using the Maxwell%s pendulum | https://github.com/Kristal1ik/FuzzyContApp | 0 | 0| 
 | 20230322T16:49:21Z | Implementation of 2 articles in MATLAB related to fuzzy systems | https://github.com/Pedram-G/Fuzzy-systems-projects | 0 | 0| 
 | 20230322T13:41:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8495 | 1854| 
-| 20230322T12:51:39Z | Null | https://github.com/REytchison/fuzz-mtg-23 | 0 | 0| 
 
 
 
