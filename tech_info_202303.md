@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:28:32Z | Task automation scripts and exploits | https://github.com/Droix3d/Scripts-Tools | 0 | 0| 
 | 20230323T00:27:33Z | Vicus: Exploiting local structures to improve network-based analysis of biological data | https://github.com/rikenbit/Vicus | 0 | 0| 
 | 20230323T00:19:53Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 907 | 147| 
 | 20230322T23:50:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-08 | 1 | 0| 
@@ -100,14 +101,13 @@
 | 20230322T21:57:42Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 207 | 41| 
 | 20230322T21:52:55Z | Null | https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io | 0 | 0| 
 | 20230322T21:23:59Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 5 | 7| 
-| 20230322T20:45:29Z | This is a collection of simple applications that exploit different Machine Learning libraries | https://github.com/LucaSoriani1/MachineLearning | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:22:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4172 | 1621| 
 | 20230323T00:35:24Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 19 | 5| 
-| 20230322T18:59:40Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4171 | 1621| 
 | 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
 | 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
 | 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
