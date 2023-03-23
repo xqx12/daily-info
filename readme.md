@@ -74,8 +74,8 @@
 | 20230322T21:52:55Z | Null | https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io | 0 | 0| 
 | 20230322T21:23:59Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 5 | 7| 
 | 20230322T20:45:29Z | This is a collection of simple applications that exploit different Machine Learning libraries | https://github.com/LucaSoriani1/MachineLearning | 0 | 0| 
+| 20230322T14:12:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4787 | 947| 
 | 20230322T13:37:35Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 1 | 0| 
-| 20230322T12:40:44Z | save cves from exploit-db | https://github.com/crypticq/Exploit-db | 0 | 0| 
 
 
 # backdoor on Github 推荐
