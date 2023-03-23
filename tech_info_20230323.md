@@ -17,6 +17,8 @@
 | 20230323 | 通过 USB EEM 设置 KDNET 以进行引导加载程序和 Hyper-V 调试 | https://tandasat.github.io/blog/windows/2023/03/21/setting-up-kdnet-over-usb-eem-for-bootloader-and-hyper-v-debugging.html| 
 | 20230323 | Windows 11的截图工具也存在和acropalypse相似的漏洞。 | https://sec.today/pulses/caa3c2ff-c350-4f75-bb4d-f31953e76100/| 
 | 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://sec.today/pulses/4439f29e-7e1d-4bf3-ac89-a423121a5676/| 
+| 20230323 | Windows 11的截图工具也存在和acropalypse相似的漏洞。 | http://i5c.us/d29660| 
+| 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html| 
 
 
 # 安全维基 推荐
@@ -67,6 +69,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T11:51:12Z | Simple php backdoor. (Educational purpose only) | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 0| 
+| 20230323T09:40:50Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
+| 20230323T06:25:11Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 0 | 0| 
 | 20230323T01:58:30Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 | 20230323T01:22:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4172 | 1622| 
@@ -75,7 +80,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T00:54:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2191 | 609| 
+| 20230323T11:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
+| 20230323T09:30:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
 
 
 # big4 on Github 推荐

@@ -17,6 +17,8 @@
 | 20230323 | 通过 USB EEM 设置 KDNET 以进行引导加载程序和 Hyper-V 调试 | https://tandasat.github.io/blog/windows/2023/03/21/setting-up-kdnet-over-usb-eem-for-bootloader-and-hyper-v-debugging.html| 
 | 20230323 | Windows 11的截图工具也存在和acropalypse相似的漏洞。 | https://sec.today/pulses/caa3c2ff-c350-4f75-bb4d-f31953e76100/| 
 | 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://sec.today/pulses/4439f29e-7e1d-4bf3-ac89-a423121a5676/| 
+| 20230323 | Windows 11的截图工具也存在和acropalypse相似的漏洞。 | http://i5c.us/d29660| 
+| 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html| 
 | 20230322 | Jenkins 这些版本包含对以下插件的安全漏洞修复：JaCoCo 插件 3.3.2.1、OctoPerf 负载测试插件 4.5.1，4.5.2 和 4.5.3、管道聚合器视图插件 1.1 | http://seclists.org/oss-sec/2023/q1/184| 
 | 20230322 | Rapid7 观察到在多个客户环境中利用 Adob​​e ColdFusion | https://www.rapid7.com/blog/post/2023/03/21/etr-rapid7-observed-exploitation-of-adobe-coldfusion/| 
 | 20230322 | Pwn2Own 温哥华 2023 - 完整时间表 | http://www.thezdi.com/blog/2023/3/21/pwn2own-vancouver-schedule-2023| 
@@ -24,8 +26,6 @@
 | 20230322 | Netgear Orbi Satellite RBS750，远程代码执行漏洞 TAOS-2022-1595 (CVE-2022-36429) | https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/| 
 | 20230322 | APKHunt 是一款基于 OWASP MASVS 框架的 Android 应用综合静态代码分析工具。可供移动应用程序开发人员和安全测试人员使用，以确保测试结果的完整性和一致性 | http://securityonline.info/apkhunt-comprehensive-static-code-analysis-tool-for-android-apps/| 
 | 20230322 | Hayabusa 是由日本大和安全集团创建的 Windows 事件日志快速取证时间线生成器和威胁搜寻工具。它是用 Rust 编写的，支持多线程以尽可能快。输出将合并到单个 CSV 时间线中，以便在 Excel、Timeline Explorer、Elastic Stack 等中轻松分析 | https://blog.ecapuano.com/p/find-threats-in-event-logs-with-hayabusa| 
-| 20230322 | 一种深入混淆 PowerShell 负载的各个组件的方法，无论您是在 Windows 还是 Kali Linux 上 | https://www.kitploit.com/2023/03/invoke-psobfuscation-in-depth-approach.html| 
-| 20230322 | Google Pixel 标记工具中的 Acropalypse 缺陷允许部分恢复编辑或编辑的屏幕截图和图像。 | https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html| 
 
 
 # 安全维基 推荐
@@ -106,6 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T11:51:12Z | Simple php backdoor. (Educational purpose only) | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 0| 
+| 20230323T09:40:50Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
+| 20230323T06:25:11Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 0 | 0| 
 | 20230323T01:58:30Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 | 20230323T01:22:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4172 | 1622| 
@@ -113,18 +116,15 @@
 | 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
 | 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
 | 20230322T06:12:31Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 122 | 14| 
-| 20230322T02:49:54Z | Php Command Backdoor | https://github.com/rizkytegar/php-command-backdoor | 0 | 0| 
-| 20230322T00:02:12Z | Null | https://github.com/LuPang-Coder/BackdoorCleansing | 0 | 0| 
-| 20230321T12:22:40Z | Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T00:54:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2191 | 609| 
+| 20230323T11:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
+| 20230323T09:30:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
 | 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
-| 20230321T10:07:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3369 | 476| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 | 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
 | 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
@@ -136,7 +136,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T23:46:29Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 561 | 91| 
+| 20230322T23:46:29Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 561 | 92| 
 | 20230322T11:57:07Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 1 | 0| 
 | 20230321T02:11:50Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 8 | 1| 
 | 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
