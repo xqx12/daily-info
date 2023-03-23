@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230323T01:20:10Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
+| 20230323T01:41:45Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230323T01:15:57Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
 | 20230323T01:08:46Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
 | 20230323T00:27:58Z | CVE-2023-21036 | Detection an sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
