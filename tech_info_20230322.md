@@ -34,18 +34,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230322T23:52:02Z | CVE-2023-21036 | Detection an sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230322T21:29:16Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
+| 20230322T21:26:20Z | CVE-2022-44268 | Null | https://github.com/betillogalvanfbc/POC-CVE-2022-44268 | | 
+| 20230322T20:11:03Z | CVE-2022-41082 | https & http | https://github.com/notareaperbutDR34P3r/vuln-CVE-2022-41082 | | 
+| 20230322T16:12:37Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
+| 20230322T13:41:58Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
 | 20230322T12:42:40Z | cve-2023-23397 | Python script for sending e-mails with CVE-2023-23397 payload using SMTP | https://github.com/BronzeBee/cve-2023-23397 | | 
 | 20230322T11:41:06Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230322T09:20:27Z | CVE-2022-1015 | Null | https://github.com/pivik271/CVE-2022-1015 | | 
-| 20230322T07:24:36Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
 | 20230322T04:37:01Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
-| 20230322T04:27:35Z | cve-2022-42475 | Null | https://github.com/Mustafa1986/cve-2022-42475-Fortinet | | 
-| 20230322T04:24:48Z | CVE-2023-28343 | Altenergy Power System Control Software set_timezone RCE Vulnerability (CVE-2023-28343) | https://github.com/gobysec/CVE-2023-28343 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T16:51:58Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
+| 20230322T13:11:13Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
 | 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 
 
@@ -61,23 +66,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T12:40:44Z | save cves from exploit-db | https://github.com/crypticq/Exploit-db | 0 | 0| 
-| 20230322T12:27:49Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaneousscripts | 0 | 0| 
-| 20230322T12:26:36Z | Miscellaneous ethical scripts for exploitation (CTFs among other things) | https://github.com/OscarNaslundCuesta/miscellaniousscripts | 0 | 0| 
-| 20230322T12:26:36Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1472 | 293| 
-| 20230322T12:25:57Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 182 | 36| 
-| 20230322T12:18:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5037 | 724| 
-| 20230322T12:13:22Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 578 | 102| 
-| 20230322T11:52:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs--aSfv-exploit-speak | 0 | 0| 
-| 20230322T10:55:35Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13292 | 2233| 
-| 20230322T09:44:07Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 0 | 0| 
+| 20230322T23:50:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-08 | 1 | 0| 
+| 20230322T23:50:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-08 | 1 | 0| 
+| 20230322T23:49:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-08 | 1 | 0| 
+| 20230322T22:29:12Z | Scepter is a free script hub which aims to be well documented for the learning exploiter. | https://github.com/cyr0zn/Specter | 0 | 0| 
+| 20230322T21:57:42Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 207 | 41| 
+| 20230322T21:52:55Z | Null | https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io | 0 | 0| 
+| 20230322T21:23:59Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 5 | 7| 
+| 20230322T20:45:29Z | This is a collection of simple applications that exploit different Machine Learning libraries | https://github.com/LucaSoriani1/MachineLearning | 0 | 0| 
+| 20230322T20:21:31Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 906 | 147| 
+| 20230322T13:37:35Z | vulnerability scanner for wordpress | https://github.com/crypticq/WP-killer | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230322T12:50:47Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 14 | 5| 
-| 20230322T12:46:46Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4161 | 1620| 
+| 20230322T20:24:28Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 18 | 5| 
+| 20230322T18:59:40Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4171 | 1621| 
+| 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
+| 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
 | 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
 | 20230322T06:12:31Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 122 | 14| 
 | 20230322T02:49:54Z | Php Command Backdoor | https://github.com/rizkytegar/php-command-backdoor | 0 | 0| 
@@ -102,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230322T23:31:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 183| 
+| 20230322T23:08:02Z | AI based fuzzer based on imitation learning | https://github.com/eth-sri/ilf | 113 | 31| 
+| 20230322T23:02:39Z | Null | https://github.com/SClovesgtx/FuzzCy | 0 | 0| 
+| 20230322T21:58:37Z | Null | https://github.com/algeria-source/fuzzy-robot | 0 | 0| 
+| 20230322T20:34:10Z | This application fetches the country data and filters countries based on regions(continents) and also implements fuzz search based on the name of the country and the capital of the country | https://github.com/Kavery-pm/CountryFilter | 0 | 0| 
+| 20230322T19:29:34Z | About fuzzy logic using the Maxwell%s pendulum | https://github.com/Kristal1ik/FuzzyContApp | 0 | 0| 
+| 20230322T16:49:21Z | Implementation of 2 articles in MATLAB related to fuzzy systems | https://github.com/Pedram-G/Fuzzy-systems-projects | 0 | 0| 
+| 20230322T13:41:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8495 | 1854| 
 | 20230322T12:51:39Z | Null | https://github.com/REytchison/fuzz-mtg-23 | 0 | 0| 
 | 20230322T12:44:26Z | Blazing fast fuzzy text search for Python. | https://github.com/x-tabdeveloping/fuzz-lightyear | 0 | 0| 
-| 20230322T12:43:20Z | Null | https://github.com/Yukino-3/Fuzzy | 0 | 0| 
-| 20230322T12:08:18Z | Null | https://github.com/nilesjamex/fuzzy-enigma | 0 | 0| 
-| 20230322T12:02:11Z | Repository linked to DSN 2023 paper %IRIS: a Record and Replay Framework to Enable Hardware-assisted Virtualization Fuzzing% | https://github.com/dessertlab/iris | 0 | 0| 
-| 20230322T11:57:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4623 | 1109| 
-| 20230322T11:37:20Z | Null | https://github.com/Mar-velous/fuzzy-bernacle | 0 | 0| 
-| 20230322T09:08:19Z | Null | https://github.com/murisi/namada-fuzzer | 0 | 0| 
-| 20230322T08:25:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1323 | 182| 
-| 20230322T03:28:02Z | Easy-to-use grammar-based black-box fuzzer | https://github.com/langston-barrett/tree-crasher | 5 | 2| 
 
 
 
