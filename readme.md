@@ -51,7 +51,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230322T16:51:58Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230322T13:11:13Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
-| 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 
 
 # s2e on Github 推荐
@@ -94,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
-| 20230322T09:32:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2190 | 609| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 
 
