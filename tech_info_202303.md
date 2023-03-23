@@ -98,9 +98,9 @@
 | 20230323T10:34:10Z | Null | https://github.com/karlajohansen08/JPG-PNG-EXPLOIT | 0 | 0| 
 | 20230323T10:21:12Z | Null | https://github.com/ouldevloper/Linux-kernel-exploit | 0 | 0| 
 | 20230323T09:54:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 15 | 7| 
+| 20230323T09:48:37Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13296 | 2234| 
 | 20230323T09:15:01Z | Null | https://github.com/pwnforce/DeFi-exploit | 0 | 0| 
 | 20230323T08:29:40Z | Vicus: Exploiting local structures to improve network-based analysis of biological data | https://github.com/rikenbit/Vicus | 0 | 0| 
-| 20230323T05:46:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4790 | 947| 
 
 
 # backdoor on Github 推荐
@@ -151,13 +151,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T12:42:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1326 | 183| 
 | 20230323T11:09:26Z | First fuzzing | https://github.com/ald15/fuzzing_test | 0 | 0| 
 | 20230323T10:22:03Z | Convenience scripts to get a docker container for dev & fuzzing up | https://github.com/mu00d8/docker-dev-environment | 0 | 0| 
 | 20230323T10:05:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8498 | 1854| 
 | 20230323T09:44:22Z | Objectivity .NET Course Coding Challenge | https://github.com/WilliamBuntu/fuzzy-sniffle-Net | 0 | 0| 
 | 20230323T09:38:50Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 62 | 26| 
 | 20230323T09:28:44Z | Null | https://github.com/ysu-ganesan/FUZZY-C-MEANS-AND-CATBOOST-ALGORITHM-FOR-FAST-AND-OPTIMIZED-VIDEO-CODING | 0 | 0| 
-| 20230323T08:35:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1325 | 183| 
 | 20230323T07:38:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 274 | 40| 
 | 20230323T07:24:48Z | Null | https://github.com/CVEDB/oss-fuzz | 0 | 0| 
 | 20230323T01:37:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2006 | 255| 
