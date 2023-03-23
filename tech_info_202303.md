@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230323T12:15:59Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
+| 20230323T12:15:56Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230323T10:31:24Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
 | 20230323T10:28:22Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230323T08:43:03Z | CVE-2022-42475 | CVE-2022-42475 飞塔RCE漏洞 POC | https://github.com/CKevens/CVE-2022-42475-RCE-POC | | 
@@ -54,8 +56,6 @@
 | 20230323T05:43:33Z | CVE-2022-44268 | Null | https://github.com/betillogalvanfbc/POC-CVE-2022-44268 | | 
 | 20230323T03:19:30Z | CVE-2022-30190 | This is exploit of CVE-2022-30190 on PowerPoint. | https://github.com/Gra3s/CVE-2022-30190_EXP_PowerPoint | | 
 | 20230323T01:15:57Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
-| 20230322T21:49:08Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
-| 20230322T21:29:16Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 
 
 # klee on Github 推荐
