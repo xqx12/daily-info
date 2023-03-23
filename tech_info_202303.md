@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:58:30Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 | 20230323T01:22:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4172 | 1622| 
 | 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20230322T06:12:31Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 122 | 14| 
 | 20230322T02:49:54Z | Php Command Backdoor | https://github.com/rizkytegar/php-command-backdoor | 0 | 0| 
 | 20230322T00:02:12Z | Null | https://github.com/LuPang-Coder/BackdoorCleansing | 0 | 0| 
-| 20230321T19:31:24Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 0 | 0| 
 | 20230321T12:22:40Z | Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 2 | 1| 
 
 
