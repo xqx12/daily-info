@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T01:54:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4788 | 947| 
 | 20230323T01:46:16Z | Exploiting the unique power of CLIP Embeddings for Zero Shot 2D Grid World Navigation with no fine-tuning or additional training | https://github.com/raju-kurapati/2DnavigationUsingCLIP | 0 | 0| 
 | 20230323T01:28:32Z | Task automation scripts and exploits | https://github.com/Droix3d/Scripts-Tools | 0 | 0| 
 | 20230323T00:27:33Z | Vicus: Exploiting local structures to improve network-based analysis of biological data | https://github.com/rikenbit/Vicus | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230322T23:49:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-08 | 1 | 0| 
 | 20230322T22:29:12Z | Scepter is a free script hub which aims to be well documented for the learning exploiter. | https://github.com/cyr0zn/Specter | 0 | 0| 
 | 20230322T21:57:42Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 207 | 41| 
-| 20230322T21:52:55Z | Null | https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
