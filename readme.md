@@ -34,7 +34,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230322T23:52:02Z | CVE-2023-21036 | Detection an sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230322T21:29:16Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230322T21:26:20Z | CVE-2022-44268 | Null | https://github.com/betillogalvanfbc/POC-CVE-2022-44268 | | 
 | 20230322T20:11:03Z | CVE-2022-41082 | https & http | https://github.com/notareaperbutDR34P3r/vuln-CVE-2022-41082 | | 
@@ -44,6 +43,7 @@
 | 20230322T11:41:06Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 | 20230322T09:20:27Z | CVE-2022-1015 | Null | https://github.com/pivik271/CVE-2022-1015 | | 
 | 20230322T04:37:01Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
+| 20230322T04:27:35Z | cve-2022-42475 | Null | https://github.com/Mustafa1986/cve-2022-42475-Fortinet | | 
 
 
 # klee on Github 推荐
