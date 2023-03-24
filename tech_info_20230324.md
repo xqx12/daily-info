@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:46:10Z | This folder contains the final project of %Virtual and Augmented Reality Systems% (second year master%s degree in Computer Engineering). The project consists of the creation of a demo of the game %Boccette% by exploiting the API and prefabs provided by the Ultraleap library.  | https://github.com/iamvincenzo/UltraleapPoolGameDemo | 1 | 0| 
 | 20230324T12:00:49Z | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | 0 | 0| 
 | 20230324T10:10:33Z | Gaining root access of remote system without Sudo Permission after setting up Connection with Host , Exploiting Misconfigurations  of Commands. | https://github.com/Azad-02/Privilege-Escalation-for-UNIX-and-WINDOWS-Binaries | 1 | 0| 
 | 20230324T08:21:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5049 | 726| 
@@ -60,12 +61,12 @@
 | 20230324T01:58:08Z | Null | https://github.com/agarcia50S/HirevueExploit | 0 | 0| 
 | 20230324T01:24:15Z | Null | https://github.com/Ubvta/Exploit | 0 | 0| 
 | 20230324T01:05:26Z | Null | https://github.com/TecR0c/exploits | 0 | 0| 
-| 20230324T01:04:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10013 | 1584| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:44:56Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 4 | 0| 
 | 20230324T12:20:09Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 21 | 6| 
 | 20230324T10:22:51Z | phpstudy后门批量检测 | https://github.com/Pikaqi/phpstudy-backdoor | 0 | 0| 
 | 20230324T09:48:02Z | Null | https://github.com/omkarpotpelwar/Python-Backdoor | 0 | 0| 
