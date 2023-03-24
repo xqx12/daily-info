@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230324T00:11:09Z | Null | https://github.com/akabacon/fuzzy | 0 | 0| 
+| 20230324T00:11:32Z | Null | https://github.com/akabacon/fuzzy | 0 | 0| 
 | 20230323T23:11:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2010 | 256| 
 | 20230323T21:33:28Z | Null | https://github.com/testcarlos2908/fuzzy-adventure | 0 | 0| 
 | 20230323T21:09:25Z | Null | https://github.com/Stuart5082/Fuzzy-octo-euraka | 0 | 0| 
