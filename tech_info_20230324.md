@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
 | 20230324T12:21:39Z | Null | https://github.com/Danialshahbazi/fuzzy-chainsaw | 0 | 0| 
 | 20230324T11:23:52Z | Null | https://github.com/adrianbarbeito-accenture/fuzzy-spork | 0 | 0| 
 | 20230324T10:44:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8504 | 1858| 
@@ -100,7 +101,6 @@
 | 20230324T09:44:24Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 262 | 54| 
 | 20230324T09:33:03Z | Null | https://github.com/find-new-world/Fuzzing | 0 | 0| 
 | 20230324T05:27:33Z | Fuzz tool for kubernetes api. | https://github.com/DapengSun/kubernetes-fuzz-tool | 0 | 0| 
-| 20230324T01:31:38Z | just try | https://github.com/necnoc/fuzzy-octo-pancake | 0 | 0| 
 
 
 
