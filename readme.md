@@ -19,6 +19,7 @@
 | 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://sec.today/pulses/4439f29e-7e1d-4bf3-ac89-a423121a5676/| 
 | 20230323 | Windows 11的截图工具也存在和acropalypse相似的漏洞。 | http://i5c.us/d29660| 
 | 20230323 | 一种error-based oracle，可以泄露文件内容。通过iconv使得内容长度翻倍触发内存分配报错，再通过dechunk逐字节爆破。 | https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html| 
+| 20230323 | psexec 原理分析和实现 | http://paper.seebug.org/2056/| 
 
 
 # 安全维基 推荐
@@ -29,22 +30,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230323T12:39:49Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230323T23:19:32Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230323T22:45:37Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
+| 20230323T21:28:20Z | CVE-2023-28343 | CVE-2023-28343 POC exploit | https://github.com/superzerosec/CVE-2023-28343 | | 
+| 20230323T16:47:45Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
+| 20230323T16:29:34Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
+| 20230323T14:12:12Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
+| 20230323T13:41:23Z | CVE-2023-23397 | Null | https://github.com/stevesec/CVE-2023-23397 | | 
 | 20230323T12:15:59Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230323T12:15:56Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230323T10:31:24Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
-| 20230323T08:43:03Z | CVE-2022-42475 | CVE-2022-42475 飞塔RCE漏洞 POC | https://github.com/CKevens/CVE-2022-42475-RCE-POC | | 
-| 20230323T08:33:16Z | 未知编号 | Yara rule compatible with ClamAV based on expl_outlook_cve_2023_23397yar | https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar | | 
-| 20230323T08:10:39Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
-| 20230323T05:43:33Z | CVE-2022-44268 | Null | https://github.com/betillogalvanfbc/POC-CVE-2022-44268 | | 
-| 20230323T03:19:30Z | CVE-2022-30190 | This is exploit of CVE-2022-30190 on PowerPoint. | https://github.com/Gra3s/CVE-2022-30190_EXP_PowerPoint | | 
-| 20230323T01:15:57Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T11:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
+| 20230323T23:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2194 | 609| 
+| 20230323T18:26:48Z | Source universe for: kleest0 | https://github.com/r-universe/kleest0 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -56,25 +58,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T22:54:59Z | Hack A Ton (BLUE TEAM)-- Friends (?) Exploiting All Resources. Their public repository. | https://github.com/itenium-be/Codename-FEAR | 8 | 0| 
+| 20230323T22:29:46Z | Null | https://github.com/Miuzaki/SkullExploit | 0 | 0| 
+| 20230323T22:15:50Z | This repository contains complete source code for setting up the environment and exploit code for the vulnerability. | https://github.com/rohit-sonii/Escalating-Self-XSS-to-Account-Takeover | 13 | 5| 
+| 20230323T22:00:21Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 909 | 147| 
+| 20230323T20:01:16Z | Exploit | https://github.com/ListLua/NBLT2Script | 0 | 0| 
+| 20230323T17:40:43Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 97 | 112| 
+| 20230323T14:56:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 605 | 159| 
 | 20230323T11:45:33Z | Windows subsystem shortcut (lnk) exploit generator written in C# | https://github.com/gigajew/lnksploit | 26 | 18| 
 | 20230323T11:43:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5043 | 725| 
 | 20230323T11:17:55Z | Null | https://github.com/GrzechuG/ExploitDB-framework | 3 | 0| 
-| 20230323T11:09:30Z | Exploiting poor Google Translate to automate translations without having to pay for the API lol | https://github.com/quenchhe/google_translate_automation | 0 | 0| 
-| 20230323T10:34:10Z | Null | https://github.com/karlajohansen08/JPG-PNG-EXPLOIT | 0 | 0| 
-| 20230323T10:21:12Z | Null | https://github.com/ouldevloper/Linux-kernel-exploit | 0 | 0| 
-| 20230323T09:54:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 15 | 7| 
-| 20230323T09:48:37Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13296 | 2234| 
-| 20230323T09:15:01Z | Null | https://github.com/pwnforce/DeFi-exploit | 0 | 0| 
-| 20230323T08:29:40Z | Vicus: Exploiting local structures to improve network-based analysis of biological data | https://github.com/rikenbit/Vicus | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T12:48:34Z | Simple PHP Backdoor | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 0| 
+| 20230323T18:18:32Z | Reverse Backdoor code that would be run on victim%s computer | https://github.com/deniseosoria/reverseBackdoor | 0 | 0| 
+| 20230323T14:08:33Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 0 | 0| 
+| 20230323T12:48:34Z | Simple PHP Backdoor | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 1| 
 | 20230323T11:48:12Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4200 | 1630| 
 | 20230323T09:40:50Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
-| 20230323T06:25:11Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 0 | 0| 
 | 20230323T01:58:30Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 
@@ -95,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230323T23:11:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2010 | 256| 
+| 20230323T21:33:28Z | Null | https://github.com/testcarlos2908/fuzzy-adventure | 0 | 0| 
+| 20230323T21:09:25Z | Null | https://github.com/Stuart5082/Fuzzy-octo-euraka | 0 | 0| 
+| 20230323T15:19:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 894 | 207| 
 | 20230323T12:59:56Z | test | https://github.com/Mando-coder/fuzzy-engine | 0 | 0| 
 | 20230323T12:42:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1326 | 183| 
 | 20230323T11:09:26Z | First fuzzing | https://github.com/ald15/fuzzing_test | 0 | 0| 
 | 20230323T10:22:03Z | Convenience scripts to get a docker container for dev & fuzzing up | https://github.com/mu00d8/docker-dev-environment | 0 | 0| 
 | 20230323T10:05:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8498 | 1854| 
 | 20230323T09:44:22Z | Objectivity .NET Course Coding Challenge | https://github.com/WilliamBuntu/fuzzy-sniffle-Net | 0 | 0| 
-| 20230323T09:38:50Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 62 | 26| 
-| 20230323T09:28:44Z | Null | https://github.com/ysu-ganesan/FUZZY-C-MEANS-AND-CATBOOST-ALGORITHM-FOR-FAST-AND-OPTIMIZED-VIDEO-CODING | 0 | 0| 
-| 20230323T07:38:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 274 | 40| 
-| 20230323T07:24:48Z | Null | https://github.com/CVEDB/oss-fuzz | 0 | 0| 
 
 
 
