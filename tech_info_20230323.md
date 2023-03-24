@@ -33,13 +33,13 @@
 | 20230323T23:19:32Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230323T22:45:37Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230323T21:28:20Z | CVE-2023-28343 | CVE-2023-28343 POC exploit | https://github.com/superzerosec/CVE-2023-28343 | | 
-| 20230323T16:47:45Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
 | 20230323T16:29:34Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
 | 20230323T14:12:12Z | CVE-2023-23192 | CVE-2023-23192 | https://github.com/pinarsadioglu/CVE-2023-23192 | | 
 | 20230323T13:41:23Z | CVE-2023-23397 | Null | https://github.com/stevesec/CVE-2023-23397 | | 
 | 20230323T12:15:59Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230323T12:15:56Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230323T10:31:24Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
+| 20230323T08:43:03Z | CVE-2022-42475 | CVE-2022-42475 飞塔RCE漏洞 POC | https://github.com/CKevens/CVE-2022-42475-RCE-POC | | 
 
 
 # klee on Github 推荐
@@ -65,7 +65,7 @@
 | 20230323T20:01:16Z | Exploit | https://github.com/ListLua/NBLT2Script | 0 | 0| 
 | 20230323T17:40:43Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 97 | 112| 
 | 20230323T14:56:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 605 | 159| 
-| 20230323T13:52:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4791 | 947| 
+| 20230323T13:52:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4791 | 948| 
 | 20230323T11:45:33Z | Windows subsystem shortcut (lnk) exploit generator written in C# | https://github.com/gigajew/lnksploit | 26 | 18| 
 | 20230323T11:43:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5043 | 725| 
 
