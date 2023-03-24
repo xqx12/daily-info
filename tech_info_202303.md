@@ -142,10 +142,10 @@
 | 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
 | 20230317T08:22:20Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 17 | 2| 
 | 20230317T01:25:10Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 5 | 0| 
+| 20230315T22:41:01Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 31 | 2| 
 | 20230314T19:22:39Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 75 | 28| 
 | 20230314T01:01:39Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 14 | 1| 
 | 20230312T15:21:40Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 1 | 2| 
-| 20230309T11:02:31Z | Artifacts of our NDSS%23 paper titled %Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attack% | https://github.com/VoodooChild99/Conquer | 7 | 0| 
 
 
 # fuzz on Github 推荐
