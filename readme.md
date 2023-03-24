@@ -38,8 +38,8 @@
 | 20230323T12:15:59Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24716 | | 
 | 20230323T12:15:56Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230323T10:31:24Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
-| 20230323T08:43:03Z | CVE-2022-42475 | CVE-2022-42475 飞塔RCE漏洞 POC | https://github.com/CKevens/CVE-2022-42475-RCE-POC | | 
 | 20230323T08:33:16Z | 未知编号 | Yara rule compatible with ClamAV based on expl_outlook_cve_2023_23397yar | https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar | | 
+| 20230323T08:10:39Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 
 
 # klee on Github 推荐
