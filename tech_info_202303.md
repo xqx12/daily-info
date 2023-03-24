@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:20:09Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 21 | 6| 
 | 20230324T10:22:51Z | phpstudy后门批量检测 | https://github.com/Pikaqi/phpstudy-backdoor | 0 | 0| 
 | 20230324T09:48:02Z | Null | https://github.com/omkarpotpelwar/Python-Backdoor | 0 | 0| 
 | 20230324T05:41:05Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 11 | 2| 
@@ -115,7 +116,6 @@
 | 20230323T18:18:32Z | Reverse Backdoor code that would be run on victim%s computer | https://github.com/deniseosoria/reverseBackdoor | 0 | 0| 
 | 20230323T12:48:34Z | Simple PHP Backdoor | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 1| 
 | 20230323T11:48:12Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4200 | 1630| 
-| 20230323T09:40:50Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
