@@ -64,10 +64,10 @@
 | 20230323T22:00:21Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 909 | 147| 
 | 20230323T20:01:16Z | Exploit | https://github.com/ListLua/NBLT2Script | 0 | 0| 
 | 20230323T17:40:43Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 97 | 112| 
+| 20230323T15:17:23Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 173 | 3| 
 | 20230323T14:56:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 605 | 159| 
 | 20230323T13:52:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4791 | 948| 
 | 20230323T11:45:33Z | Windows subsystem shortcut (lnk) exploit generator written in C# | https://github.com/gigajew/lnksploit | 26 | 18| 
-| 20230323T11:43:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5043 | 725| 
 
 
 # backdoor on Github 推荐
