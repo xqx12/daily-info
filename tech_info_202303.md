@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T00:11:09Z | Null | https://github.com/akabacon/fuzzy | 0 | 0| 
 | 20230323T23:11:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2010 | 256| 
 | 20230323T21:33:28Z | Null | https://github.com/testcarlos2908/fuzzy-adventure | 0 | 0| 
 | 20230323T21:09:25Z | Null | https://github.com/Stuart5082/Fuzzy-octo-euraka | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230323T11:09:26Z | First fuzzing | https://github.com/ald15/fuzzing_test | 0 | 0| 
 | 20230323T10:22:03Z | Convenience scripts to get a docker container for dev & fuzzing up | https://github.com/mu00d8/docker-dev-environment | 0 | 0| 
 | 20230323T10:05:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8498 | 1854| 
-| 20230323T09:44:22Z | Objectivity .NET Course Coding Challenge | https://github.com/WilliamBuntu/fuzzy-sniffle-Net | 0 | 0| 
 
 
 
