@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T01:10:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 411 | 78| 
 | 20230323T18:18:32Z | Reverse Backdoor code that would be run on victim%s computer | https://github.com/deniseosoria/reverseBackdoor | 0 | 0| 
 | 20230323T14:08:33Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 0 | 0| 
 | 20230323T12:48:34Z | Simple PHP Backdoor | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 1| 
@@ -115,7 +116,6 @@
 | 20230323T01:52:32Z | 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引 | https://github.com/davinci01010/pinduoduo_backdoor_x | 20 | 6| 
 | 20230322T18:34:18Z | haha bukkit, spigot and discord api go brrrrr | https://github.com/Codeman04TheFreaking2nd/Wardenware-Backdoor | 0 | 0| 
 | 20230322T16:47:42Z | Null | https://github.com/otaviootavio/backdoor-list | 0 | 0| 
-| 20230322T08:01:22Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 5 | 2| 
 
 
 # symbolic execution on Github 推荐
