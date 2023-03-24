@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230324T01:20:34Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
 | 20230324T01:00:46Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
-| 20230324T01:00:24Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
 | 20230323T22:45:37Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230323T21:28:20Z | CVE-2023-28343 | CVE-2023-28343 POC exploit | https://github.com/superzerosec/CVE-2023-28343 | | 
 | 20230323T16:29:34Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T01:20:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20230323T23:13:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1038 | 128| 
 | 20230323T23:13:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
 | 20230323T23:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2194 | 609| 
@@ -130,7 +131,6 @@
 | 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
 | 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
-| 20230317T05:59:27Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 18 | 8| 
 
 
 # big4 on Github 推荐
