@@ -121,8 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T11:01:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
-| 20230323T09:30:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
+| 20230323T23:13:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1038 | 128| 
+| 20230323T23:13:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
+| 20230323T23:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2194 | 609| 
 | 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
@@ -130,7 +131,6 @@
 | 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
 | 20230317T05:59:27Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 18 | 8| 
-| 20230314T13:43:36Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 66 | 8| 
 
 
 # big4 on Github 推荐
