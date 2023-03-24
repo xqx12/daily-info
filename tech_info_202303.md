@@ -98,9 +98,9 @@
 | 20230323T20:01:16Z | Exploit | https://github.com/ListLua/NBLT2Script | 0 | 0| 
 | 20230323T17:40:43Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 97 | 112| 
 | 20230323T14:56:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 605 | 159| 
+| 20230323T13:52:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4791 | 947| 
 | 20230323T11:45:33Z | Windows subsystem shortcut (lnk) exploit generator written in C# | https://github.com/gigajew/lnksploit | 26 | 18| 
 | 20230323T11:43:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5043 | 725| 
-| 20230323T11:17:55Z | Null | https://github.com/GrzechuG/ExploitDB-framework | 3 | 0| 
 
 
 # backdoor on Github 推荐
