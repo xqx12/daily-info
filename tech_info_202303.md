@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230324T00:55:41Z | Null | https://github.com/TecR0c/exploits | 0 | 0| 
+| 20230324T01:05:26Z | Null | https://github.com/TecR0c/exploits | 0 | 0| 
+| 20230324T01:04:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10013 | 1584| 
 | 20230323T22:54:59Z | Hack A Ton (BLUE TEAM)-- Friends (?) Exploiting All Resources. Their public repository. | https://github.com/itenium-be/Codename-FEAR | 8 | 0| 
 | 20230323T22:29:46Z | Null | https://github.com/Miuzaki/SkullExploit | 0 | 0| 
 | 20230323T22:15:50Z | This repository contains complete source code for setting up the environment and exploit code for the vulnerability. | https://github.com/rohit-sonii/Escalating-Self-XSS-to-Account-Takeover | 13 | 5| 
@@ -100,7 +101,6 @@
 | 20230323T17:40:43Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 97 | 112| 
 | 20230323T14:56:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 605 | 159| 
 | 20230323T13:52:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4791 | 948| 
-| 20230323T11:45:33Z | Windows subsystem shortcut (lnk) exploit generator written in C# | https://github.com/gigajew/lnksploit | 26 | 18| 
 
 
 # backdoor on Github 推荐
