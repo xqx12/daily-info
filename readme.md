@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230323T23:19:32Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230323T22:45:37Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230323T21:28:20Z | CVE-2023-28343 | CVE-2023-28343 POC exploit | https://github.com/superzerosec/CVE-2023-28343 | | 
 | 20230323T16:29:34Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
@@ -40,6 +39,7 @@
 | 20230323T12:15:56Z | CVE-2022-24715 |  Authenticated Remote Code Execution in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/JacobEbben/CVE-2022-24715 | | 
 | 20230323T10:31:24Z | CVE-2023-21768 | CVE-2023-21768 Windows 11 22H2 系统本地提权 POC | https://github.com/CKevens/CVE-2023-21768-POC | | 
 | 20230323T08:43:03Z | CVE-2022-42475 | CVE-2022-42475 飞塔RCE漏洞 POC | https://github.com/CKevens/CVE-2022-42475-RCE-POC | | 
+| 20230323T08:33:16Z | 未知编号 | Yara rule compatible with ClamAV based on expl_outlook_cve_2023_23397yar | https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar | | 
 
 
 # klee on Github 推荐
