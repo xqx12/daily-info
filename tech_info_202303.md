@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:00:49Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230324T11:15:59Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230324T11:15:24Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230324T11:13:47Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
@@ -55,7 +56,6 @@
 | 20230324T08:51:16Z | CVE-2023-28432 | CVE-2023-28432 POC | https://github.com/acheiii/CVE-2023-28432 | | 
 | 20230324T08:21:50Z | CVE-2022-45934 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934 | | 
 | 20230324T07:38:51Z | CVE-2023-1454 | jeecg-boot unauthorized SQL Injection Vulnerability (CVE-2023-1454) | https://github.com/gobysec/CVE-2023-1454 | | 
-| 20230324T07:36:57Z | CVE-2023-20860 | Null | https://github.com/limo520/CVE-2023-20860 | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T12:00:49Z | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | 0 | 0| 
 | 20230324T10:10:33Z | Gaining root access of remote system without Sudo Permission after setting up Connection with Host , Exploiting Misconfigurations  of Commands. | https://github.com/Azad-02/Privilege-Escalation-for-UNIX-and-WINDOWS-Binaries | 1 | 0| 
 | 20230324T08:21:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5049 | 726| 
 | 20230324T08:05:51Z | CTF Walkthrough provides comprehensive guides for various CTF challenge types, including binary exploitation, web app security, cryptography, and more. Our walkthroughs are written in a clear and concise manner, making them easy to follow for anyone. Join our community today and start mastering CTF challenges! | https://github.com/MY7H404/CTF-Walkthrough | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230324T01:24:15Z | Null | https://github.com/Ubvta/Exploit | 0 | 0| 
 | 20230324T01:05:26Z | Null | https://github.com/TecR0c/exploits | 0 | 0| 
 | 20230324T01:04:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10013 | 1584| 
-| 20230323T22:54:59Z | Hack A Ton (BLUE TEAM)-- Friends (?) Exploiting All Resources. Their public repository. | https://github.com/itenium-be/Codename-FEAR | 8 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,10 +121,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T09:44:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1039 | 128| 
+| 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
 | 20230324T01:20:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
-| 20230323T23:13:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1038 | 128| 
 | 20230323T23:13:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3370 | 476| 
-| 20230323T23:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2194 | 609| 
 | 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
