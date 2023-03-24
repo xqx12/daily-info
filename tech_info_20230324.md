@@ -18,6 +18,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
 
 
 # CVE Github 推荐

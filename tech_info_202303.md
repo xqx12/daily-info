@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
 | 20230322 | FastJson 与原生反序列化 | https://paper.seebug.org/2055/| 
 | 20230322 | jar-analyzer 一个用于分析Jar包的GUI工具 | https://github.com/4ra1n/jar-analyzer| 
 | 20230322 | 结合图学习和自动数据收集的代码漏洞检测模型 | https://mp.weixin.qq.com/s/lCkG4_wyhTpX1qDgF9_Flg| 
@@ -40,7 +41,6 @@
 | 20230322 | 2021广东省数字政府网络安全指数评估报告 | http://zfsg.gd.gov.cn/zwgk/wjk/content/post_3829200.html| 
 | 20230321 | 《吾爱破解精华集 2022》自解压包源代码 | https://www.52pojie.cn/thread-1757035-1-1.html| 
 | 20230321 | APTRS：一款功能强大的自动化渗透测试报告系统 | https://github.com/Anof-cyber/APTRS| 
-| 20230320 | SecWiki周刊（第472期) | https://www.sec-wiki.com/weekly/472| 
 
 
 # CVE Github 推荐
