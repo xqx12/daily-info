@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230325T01:01:45Z | Null | https://github.com/elite-coder-5150/fuzzy-cognitive-model-php | 0 | 0| 
+| 20230325T01:12:32Z | Null | https://github.com/elite-coder-5150/fuzzy-cognitive-model-php | 0 | 0| 
 | 20230325T00:22:07Z | array of 생활코딩 | https://github.com/justdoityesdoit/fuzzy-spork | 0 | 0| 
 | 20230324T23:22:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 141 | 13| 
 | 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
