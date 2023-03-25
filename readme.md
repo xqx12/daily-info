@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230325T12:23:54Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230325T11:56:42Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230325T08:49:58Z | CVE-2022-32199 | Null | https://github.com/Toxich4/CVE-2022-32199 | | 
 | 20230325T08:41:35Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
