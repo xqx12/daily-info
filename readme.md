@@ -18,10 +18,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230325T12:57:41Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230325T12:55:26Z | CVE-2022-32199 | Null | https://github.com/Toxich4/CVE-2022-32199 | | 
 | 20230325T12:45:55Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230325T12:35:45Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
-| 20230325T11:56:42Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230325T06:40:40Z | CVE-2023-23752 | Joomla Unauthorized Access Vulnerability (CVE-2023-23752) Dockerized | https://github.com/karthikuj/CVE-2023-23752-Docker | | 
 | 20230325T03:56:11Z | 未知编号 | Null | https://github.com/rodrigosilvaluz/CVE_2022_0847 | | 
 
