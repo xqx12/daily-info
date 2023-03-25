@@ -159,8 +159,8 @@
 | 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 230| 
 | 20230324T20:43:54Z | fuzzing introduces unexpected inputs into a system and watches to see if the system has any negative reactions to the inputs that indicate security, performance, or quality gaps or issues. This python script take the log that the fuzzer created and send it again to the at console in parallel to see what happening in the developed CLI console. | https://github.com/Alongri/AT-commands-fuzzer | 0 | 0| 
 | 20230324T19:46:38Z | Null | https://github.com/jolapodolszanska/fuzzy-machine | 0 | 0| 
+| 20230324T15:46:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3484 | 416| 
 | 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
-| 20230324T12:21:39Z | Null | https://github.com/Danialshahbazi/fuzzy-chainsaw | 0 | 0| 
 
 
 
