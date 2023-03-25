@@ -106,23 +106,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T11:17:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 415 | 78| 
+| 20230325T10:48:04Z | Null | https://github.com/DrTom/rails_configuration-management-backdoor | 0 | 2| 
+| 20230325T07:57:44Z | Null | https://github.com/Yugi71120/python-backdoor | 0 | 0| 
+| 20230325T05:19:44Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-termlink-protocol | 0 | 0| 
+| 20230325T02:54:27Z | Code for the CVPR %23 paper, %Defending Against Patch-based Data Poisoning Backdoor Attacks on Self-Supervised Learning% | https://github.com/UCDvision/PatchSearch | 0 | 0| 
+| 20230325T02:05:26Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 91 | 15| 
 | 20230324T23:24:04Z | Chinese RAT - Full translation by me. | https://github.com/ChimesOfDestruction/SiMay-RAT-Translated-by-ChimesOfDestruction | 1 | 0| 
 | 20230324T18:45:48Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 0 | 0| 
 | 20230324T15:04:50Z | This is a backdoor | https://github.com/Tim0100/Backdoor2 | 0 | 0| 
 | 20230324T14:54:22Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
-| 20230324T14:10:29Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 413 | 78| 
-| 20230324T12:44:56Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 4 | 0| 
-| 20230324T12:20:09Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 21 | 7| 
-| 20230324T10:22:51Z | phpstudy后门批量检测 | https://github.com/Pikaqi/phpstudy-backdoor | 0 | 0| 
-| 20230324T09:48:02Z | Null | https://github.com/omkarpotpelwar/Python-Backdoor | 0 | 0| 
-| 20230324T05:41:05Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 11 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230324T23:22:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3372 | 476| 
-| 20230324T09:44:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1039 | 128| 
+| 20230325T10:21:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3374 | 476| 
+| 20230325T09:29:27Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 34 | 7| 
+| 20230325T04:54:01Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1040 | 128| 
 | 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 610| 
 | 20230324T01:20:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 | 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
@@ -130,7 +131,6 @@
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 | 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
 | 20230318T17:20:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 36 | 24| 
-| 20230317T09:45:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 629 | 111| 
 
 
 # big4 on Github 推荐

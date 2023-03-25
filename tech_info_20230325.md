@@ -50,11 +50,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T11:17:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 415 | 78| 
+| 20230325T10:48:04Z | Null | https://github.com/DrTom/rails_configuration-management-backdoor | 0 | 2| 
+| 20230325T07:57:44Z | Null | https://github.com/Yugi71120/python-backdoor | 0 | 0| 
+| 20230325T05:19:44Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-termlink-protocol | 0 | 0| 
+| 20230325T02:54:27Z | Code for the CVPR %23 paper, %Defending Against Patch-based Data Poisoning Backdoor Attacks on Self-Supervised Learning% | https://github.com/UCDvision/PatchSearch | 0 | 0| 
+| 20230325T02:05:26Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 91 | 15| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T10:21:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3374 | 476| 
+| 20230325T09:29:27Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 34 | 7| 
+| 20230325T04:54:01Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1040 | 128| 
 
 
 # big4 on Github 推荐
