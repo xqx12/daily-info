@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T23:22:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 141 | 13| 
 | 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
 | 20230324T21:10:06Z | Python implementation on Fuzzy C Means algorithm from scratch | https://github.com/jumana-nounou/FuzzyCMeansAlgorithm | 0 | 0| 
 | 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 230| 
@@ -106,7 +107,6 @@
 | 20230324T12:21:39Z | Null | https://github.com/Danialshahbazi/fuzzy-chainsaw | 0 | 0| 
 | 20230324T12:20:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 742 | 100| 
 | 20230324T11:23:52Z | Null | https://github.com/adrianbarbeito-accenture/fuzzy-spork | 0 | 0| 
-| 20230324T10:44:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8504 | 1858| 
 
 
 
