@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T00:22:07Z | array of 생활코딩 | https://github.com/justdoityesdoit/fuzzy-spork | 0 | 0| 
 | 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
 | 20230324T21:10:06Z | Python implementation on Fuzzy C Means algorithm from scratch | https://github.com/jumana-nounou/FuzzyCMeansAlgorithm | 0 | 0| 
-| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 229| 
+| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 230| 
 | 20230324T20:43:54Z | fuzzing introduces unexpected inputs into a system and watches to see if the system has any negative reactions to the inputs that indicate security, performance, or quality gaps or issues. This python script take the log that the fuzzer created and send it again to the at console in parallel to see what happening in the developed CLI console. | https://github.com/Alongri/AT-commands-fuzzer | 0 | 0| 
 | 20230324T19:46:38Z | Null | https://github.com/jolapodolszanska/fuzzy-machine | 0 | 0| 
 | 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
 | 20230324T12:21:39Z | Null | https://github.com/Danialshahbazi/fuzzy-chainsaw | 0 | 0| 
 | 20230324T12:20:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 742 | 100| 
 | 20230324T11:23:52Z | Null | https://github.com/adrianbarbeito-accenture/fuzzy-spork | 0 | 0| 
-| 20230324T10:44:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8504 | 1858| 
 
 
 

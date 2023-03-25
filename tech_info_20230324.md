@@ -99,7 +99,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
 | 20230324T21:10:06Z | Python implementation on Fuzzy C Means algorithm from scratch | https://github.com/jumana-nounou/FuzzyCMeansAlgorithm | 0 | 0| 
-| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 229| 
+| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 230| 
 | 20230324T20:43:54Z | fuzzing introduces unexpected inputs into a system and watches to see if the system has any negative reactions to the inputs that indicate security, performance, or quality gaps or issues. This python script take the log that the fuzzer created and send it again to the at console in parallel to see what happening in the developed CLI console. | https://github.com/Alongri/AT-commands-fuzzer | 0 | 0| 
 | 20230324T19:46:38Z | Null | https://github.com/jolapodolszanska/fuzzy-machine | 0 | 0| 
 | 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
