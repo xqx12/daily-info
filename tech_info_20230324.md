@@ -83,8 +83,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T23:22:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3372 | 476| 
 | 20230324T09:44:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1039 | 128| 
-| 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
+| 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 610| 
 | 20230324T01:20:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
 
 
