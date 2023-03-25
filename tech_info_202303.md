@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230325T00:55:58Z | a simple tool to detect the exploitation of BlueKeep vulnerability (CVE-2019-0708) | https://github.com/tranqtruong/Detect-BlueKeep | 0 | 0| 
+| 20230325T00:57:14Z | a simple tool to detect the exploitation of BlueKeep vulnerability (CVE-2019-0708) | https://github.com/tranqtruong/Detect-BlueKeep | 0 | 0| 
 | 20230324T23:56:09Z | A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware.  | https://github.com/MrWaltz-b14/Argonify--- | 0 | 0| 
 | 20230324T23:47:43Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 990 | 349| 
 | 20230324T23:46:17Z | Null | https://github.com/ribbyee/parry-exploit | 0 | 0| 
