@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230325 | 使用Frida Hook 自动化发现可DLL劫持利用白文件 | https://bbs.kanxue.com/thread-276613.htm| 
+| 20230325 | 一些常用的恶意软件分析工具 | https://mp.weixin.qq.com/s/X29iHBf3Qa5Jk4cwckrbrA| 
 
 
 # CVE Github 推荐

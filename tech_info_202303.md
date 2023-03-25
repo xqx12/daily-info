@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230325 | 使用Frida Hook 自动化发现可DLL劫持利用白文件 | https://bbs.kanxue.com/thread-276613.htm| 
+| 20230325 | 一些常用的恶意软件分析工具 | https://mp.weixin.qq.com/s/X29iHBf3Qa5Jk4cwckrbrA| 
 | 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
 | 20230324 | 以色列网络安全产业研究及对我启示 | https://mp.weixin.qq.com/s/Bb3-PTjphSIjoJX55tOYoQ| 
 | 20230322 | FastJson 与原生反序列化 | https://paper.seebug.org/2055/| 
@@ -40,7 +41,6 @@
 | 20230322 | Python沙箱逃逸学习记录 | https://xz.aliyun.com/t/12303| 
 | 20230322 | 探究公众号接口漏洞：从后台登录口到旁站getshell | https://xz.aliyun.com/t/12321| 
 | 20230322 | Node.js些许漏洞 | https://xz.aliyun.com/t/12328| 
-| 20230322 | 2021广东省数字政府网络安全指数评估报告 | http://zfsg.gd.gov.cn/zwgk/wjk/content/post_3829200.html| 
 
 
 # CVE Github 推荐
