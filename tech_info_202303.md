@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230325T00:54:51Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230324T23:39:13Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230324T23:35:20Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230324T23:07:43Z | CVE-2022-47529 | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | https://github.com/hyp3rlinx/CVE-2022-47529 | | 
@@ -54,7 +55,6 @@
 | 20230324T19:47:42Z | CVE-2023-23397 | An exploitation demo of Outlook Elevation of Privilege Vulnerability | https://github.com/madelynadams9/CVE-2023-23397-Report | | 
 | 20230324T16:00:02Z | CVE-2023-21716 | test of exploit for CVE-2023-21716 | https://github.com/hv0l/CVE-2023-21716_exploit | | 
 | 20230324T14:37:08Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
-| 20230324T12:00:49Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230324T09:26:00Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
 
 
