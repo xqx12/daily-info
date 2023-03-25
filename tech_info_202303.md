@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T12:37:25Z | This paper was submitted to ICASSP 2023: Exploiting Interactivity and Heterogeneity for Sleep Stage Classification via Heterogeneous Graph Neural Network | https://github.com/zhouyh310/SleepHGNN | 1 | 0| 
 | 20230325T12:10:26Z | We present a framework called TLF that builds a classifier for the target domain having only few labeled training records by transferring knowledge from the source domain having many labeled records. While existing methods often focus on one issue and leave the other one for the further work, TLF is capable of handling both issues simultaneously. In TLF, we alleviate feature discrepancy by identifying shared label distributions that act as the pivots to bridge the domains. We handle distribution divergence by simultaneously optimizing the structural risk functional, joint distributions between domains, and the manifold consistency underlying marginal distributions. Moreover, for the manifold consistency we exploit its intrinsic properties by identifying $k$ nearest neighbors of a record, where the value of k is determined automatically in TLF. Furthermore, since negative transfer is not desired, we consider only the source records that are belonging to the source pivots during the knowledge transfer. We evaluate TLF on seven publicly available natural datasets and compare the performance of TLF against the performance of eleven state-of-the-art techniques. We also evaluate the effectiveness of TLF in some challenging situations. Our experimental results, including statistical sign test and Nemenyi test analyses, indicate a clear superiority of the proposed framework over the state-of-the-art techniques. | https://github.com/grahman20/TLF | 0 | 0| 
 | 20230325T11:56:37Z | Speckle reduction in SAR time series using an updating strategy, final project of the course %Remote sensing data: from sensor to large-scale geospatial data exploitation% by F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt of the Master MVA (Mathematiques, Vision, Apprentissage) | https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy | 0 | 0| 
 | 20230325T11:38:12Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230325T03:48:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5395 | 743| 
 | 20230325T00:57:14Z | a simple tool to detect the exploitation of BlueKeep vulnerability (CVE-2019-0708) | https://github.com/tranqtruong/Detect-BlueKeep | 0 | 0| 
 | 20230324T23:56:09Z | A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware.  | https://github.com/MrWaltz-b14/Argonify--- | 0 | 0| 
-| 20230324T23:47:43Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 990 | 349| 
 
 
 # backdoor on Github 推荐
