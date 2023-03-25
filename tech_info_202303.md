@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230325 | 使用Frida Hook 自动化发现可DLL劫持利用白文件 | https://bbs.kanxue.com/thread-276613.htm| 
 | 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
 | 20230324 | 以色列网络安全产业研究及对我启示 | https://mp.weixin.qq.com/s/Bb3-PTjphSIjoJX55tOYoQ| 
 | 20230322 | FastJson 与原生反序列化 | https://paper.seebug.org/2055/| 
@@ -40,22 +41,21 @@
 | 20230322 | 探究公众号接口漏洞：从后台登录口到旁站getshell | https://xz.aliyun.com/t/12321| 
 | 20230322 | Node.js些许漏洞 | https://xz.aliyun.com/t/12328| 
 | 20230322 | 2021广东省数字政府网络安全指数评估报告 | http://zfsg.gd.gov.cn/zwgk/wjk/content/post_3829200.html| 
-| 20230321 | 《吾爱破解精华集 2022》自解压包源代码 | https://www.52pojie.cn/thread-1757035-1-1.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230325T00:54:51Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
-| 20230324T23:39:13Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230325T11:56:42Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
+| 20230325T08:49:58Z | CVE-2022-32199 | Null | https://github.com/Toxich4/CVE-2022-32199 | | 
+| 20230325T08:41:35Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230325T06:40:40Z | CVE-2023-23752 | Joomla Unauthorized Access Vulnerability (CVE-2023-23752) Dockerized | https://github.com/karthikuj/CVE-2023-23752-Docker | | 
+| 20230325T03:56:11Z | 未知编号 | Null | https://github.com/rodrigosilvaluz/CVE_2022_0847 | | 
 | 20230324T23:35:20Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
 | 20230324T23:07:43Z | CVE-2022-47529 | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | https://github.com/hyp3rlinx/CVE-2022-47529 | | 
 | 20230324T20:21:42Z | CVE-2023-23397 | CVE-2023-23397 powershell patch script for Windows 10 and 11  | https://github.com/Zeppperoni/CVE-2023-23397-Patch | | 
 | 20230324T20:19:37Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230324T19:47:42Z | CVE-2023-23397 | An exploitation demo of Outlook Elevation of Privilege Vulnerability | https://github.com/madelynadams9/CVE-2023-23397-Report | | 
-| 20230324T16:00:02Z | CVE-2023-21716 | test of exploit for CVE-2023-21716 | https://github.com/hv0l/CVE-2023-21716_exploit | | 
-| 20230324T14:37:08Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
-| 20230324T09:26:00Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
 
 
 # klee on Github 推荐
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T09:36:59Z | Null | https://github.com/naeuny/S2eunho | 0 | 0| 
 | 20230324T20:52:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 313 | 76| 
 | 20230322T09:27:35Z | Null | https://github.com/turbocanary/turbotest_rmukat1d_s2e36nfa | 0 | 0| 
 | 20230322T09:24:58Z | Null | https://github.com/Graham-Broughton/S2E7 | 0 | 0| 
@@ -85,22 +86,21 @@
 | 20230321T18:36:04Z | The exploit generator CRAX++ is CRAX with a plugin system, s2e 2.0 upgrade, dynamic ROP, code selection, and I/O states (HITCON 2022) | https://github.com/SQLab/CRAXplusplus | 81 | 14| 
 | 20230320T09:42:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 8| 
 | 20230317T06:42:31Z | bring selective symbolic execution to rust  | https://github.com/dingiso/s2e-rust | 0 | 0| 
-| 20230315T02:43:24Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 19 | 6| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T11:56:37Z | Speckle reduction in SAR time series using an updating strategy, final project of the course %Remote sensing data: from sensor to large-scale geospatial data exploitation% by F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt of the Master MVA (Mathematiques, Vision, Apprentissage) | https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy | 0 | 0| 
+| 20230325T11:38:12Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
+| 20230325T11:11:26Z | self-explanatory | https://github.com/IMaWeeb300/My-Roblox-Exploits | 0 | 0| 
+| 20230325T10:00:32Z | A recreation of the exploit used on PoolzFinance | https://github.com/Kalzak/PoolzFinanceExploit | 0 | 0| 
+| 20230325T07:18:45Z | binary play | https://github.com/planetminguez/binary_exploit | 0 | 0| 
+| 20230325T03:48:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5395 | 743| 
 | 20230325T00:57:14Z | a simple tool to detect the exploitation of BlueKeep vulnerability (CVE-2019-0708) | https://github.com/tranqtruong/Detect-BlueKeep | 0 | 0| 
 | 20230324T23:56:09Z | A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware.  | https://github.com/MrWaltz-b14/Argonify--- | 0 | 0| 
 | 20230324T23:47:43Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 990 | 349| 
 | 20230324T23:46:17Z | Null | https://github.com/ribbyee/parry-exploit | 0 | 0| 
-| 20230324T23:17:18Z | Null | https://github.com/ARTP3R/Exploits | 0 | 0| 
-| 20230324T22:55:10Z | This Python script exploits a vulnerability in the bWAPP web application when the security level is set to medium | https://github.com/tukru/DO0M_EXPLOIT | 1 | 0| 
-| 20230324T21:51:23Z | Repo para realizar una PoC de XSS en swagger | https://github.com/gpereyra-lac/swagger_exploit | 0 | 0| 
-| 20230324T20:48:34Z | Null | https://github.com/cbclemmer/Pattern_Exploiting_Training | 0 | 0| 
-| 20230324T20:42:23Z | IOS screentime remover using the dirtycow exploit | https://github.com/BluStik/ScreenTimeRemover | 0 | 0| 
-| 20230324T20:33:49Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T11:57:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 895 | 208| 
+| 20230325T11:47:59Z | Null | https://github.com/iaudouard/fuzzysyn | 0 | 0| 
+| 20230325T10:44:52Z | Null | https://github.com/Shayflake/fuzzy-journey | 0 | 0| 
+| 20230325T07:57:19Z | Null | https://github.com/Big-Jobman/fuzzy-funicular | 0 | 0| 
+| 20230325T07:21:43Z | Null | https://github.com/yasyjlakh/fuzzy-memory | 0 | 0| 
+| 20230325T03:53:00Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2730 | 512| 
 | 20230325T01:12:32Z | Null | https://github.com/elite-coder-5150/fuzzy-cognitive-model-php | 0 | 0| 
 | 20230325T00:22:07Z | array of 생활코딩 | https://github.com/justdoityesdoit/fuzzy-spork | 0 | 0| 
 | 20230324T23:22:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 141 | 13| 
 | 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
-| 20230324T21:10:06Z | Python implementation on Fuzzy C Means algorithm from scratch | https://github.com/jumana-nounou/FuzzyCMeansAlgorithm | 0 | 0| 
-| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 230| 
-| 20230324T20:43:54Z | fuzzing introduces unexpected inputs into a system and watches to see if the system has any negative reactions to the inputs that indicate security, performance, or quality gaps or issues. This python script take the log that the fuzzer created and send it again to the at console in parallel to see what happening in the developed CLI console. | https://github.com/Alongri/AT-commands-fuzzer | 0 | 0| 
-| 20230324T19:46:38Z | Null | https://github.com/jolapodolszanska/fuzzy-machine | 0 | 0| 
-| 20230324T15:46:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3484 | 416| 
-| 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
 
 
 
