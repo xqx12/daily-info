@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T00:55:58Z | a simple tool to detect the exploitation of BlueKeep vulnerability (CVE-2019-0708) | https://github.com/tranqtruong/Detect-BlueKeep | 0 | 0| 
 | 20230324T23:56:09Z | A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware.  | https://github.com/MrWaltz-b14/Argonify--- | 0 | 0| 
 | 20230324T23:47:43Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 990 | 349| 
 | 20230324T23:46:17Z | Null | https://github.com/ribbyee/parry-exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230324T20:48:34Z | Null | https://github.com/cbclemmer/Pattern_Exploiting_Training | 0 | 0| 
 | 20230324T20:42:23Z | IOS screentime remover using the dirtycow exploit | https://github.com/BluStik/ScreenTimeRemover | 0 | 0| 
 | 20230324T20:33:49Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 0 | 0| 
-| 20230324T12:46:10Z | This folder contains the final project of %Virtual and Augmented Reality Systems% (second year master%s degree in Computer Engineering). The project consists of the creation of a demo of the game %Boccette% by exploiting the API and prefabs provided by the Ultraleap library.  | https://github.com/iamvincenzo/UltraleapPoolGameDemo | 1 | 0| 
 
 
 # backdoor on Github 推荐
