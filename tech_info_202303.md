@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230324T12:41:46Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
-| 20230324T12:17:09Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
-| 20230324T12:06:56Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
+| 20230324T23:39:13Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
+| 20230324T23:35:20Z | CVE-2023-27532 | Exploit for CVE-2023-27532 against Veeam Backup & Replication | https://github.com/sfewer-r7/CVE-2023-27532 | | 
+| 20230324T23:07:43Z | CVE-2022-47529 | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | https://github.com/hyp3rlinx/CVE-2022-47529 | | 
+| 20230324T20:21:42Z | CVE-2023-23397 | CVE-2023-23397 powershell patch script for Windows 10 and 11  | https://github.com/Zeppperoni/CVE-2023-23397-Patch | | 
+| 20230324T20:19:37Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
+| 20230324T19:47:42Z | CVE-2023-23397 | An exploitation demo of Outlook Elevation of Privilege Vulnerability | https://github.com/madelynadams9/CVE-2023-23397-Report | | 
+| 20230324T16:00:02Z | CVE-2023-21716 | test of exploit for CVE-2023-21716 | https://github.com/hv0l/CVE-2023-21716_exploit | | 
+| 20230324T14:37:08Z | CVE-2023-28432 | MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)  | https://github.com/gobysec/CVE-2023-28432 | | 
 | 20230324T12:00:49Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
-| 20230324T11:13:47Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230324T09:26:00Z | CVE-2023-28432 | CVE-2023-28434 nuclei templates | https://github.com/Mr-xn/CVE-2023-28432 | | 
-| 20230324T08:59:35Z | CVE-2023-28432 | MinIO存在信息泄露漏洞，未经身份认证的远程攻击者通过发送特殊HTTP请求即可获取所有环境变量，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，造成敏感信息泄露，最终可能导致攻击者以管理员身份登录MinIO | https://github.com/MzzdToT/CVE-2023-28432 | | 
-| 20230324T08:51:16Z | CVE-2023-28432 | CVE-2023-28432 POC | https://github.com/acheiii/CVE-2023-28432 | | 
-| 20230324T08:21:50Z | CVE-2022-45934 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934 | | 
-| 20230324T07:38:51Z | CVE-2023-1454 | jeecg-boot unauthorized SQL Injection Vulnerability (CVE-2023-1454) | https://github.com/gobysec/CVE-2023-1454 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 609| 
+| 20230324T16:29:01Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 63 | 19| 
+| 20230324T04:12:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2195 | 610| 
 | 20230323T18:26:48Z | Source universe for: kleest0 | https://github.com/r-universe/kleest0 | 0 | 0| 
 | 20230322T16:51:58Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230322T13:11:13Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
-| 20230321T12:26:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 61 | 19| 
 | 20230320T16:51:22Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 271 | 50| 
 | 20230320T13:13:47Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 27 | 0| 
 | 20230318T19:16:00Z | Null | https://github.com/ayupimphil/kleeford-coin-auctions | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230323T06:44:35Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 312 | 76| 
+| 20230324T20:52:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 313 | 76| 
 | 20230322T09:27:35Z | Null | https://github.com/turbocanary/turbotest_rmukat1d_s2e36nfa | 0 | 0| 
 | 20230322T09:24:58Z | Null | https://github.com/Graham-Broughton/S2E7 | 0 | 0| 
 | 20230322T09:24:47Z | Null | https://github.com/Graham-Broughton/S2E6 | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T23:56:09Z | A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware.  | https://github.com/MrWaltz-b14/Argonify--- | 0 | 0| 
+| 20230324T23:47:43Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 990 | 349| 
+| 20230324T23:46:17Z | Null | https://github.com/ribbyee/parry-exploit | 0 | 0| 
+| 20230324T23:17:18Z | Null | https://github.com/ARTP3R/Exploits | 0 | 0| 
+| 20230324T22:55:10Z | This Python script exploits a vulnerability in the bWAPP web application when the security level is set to medium | https://github.com/tukru/DO0M_EXPLOIT | 1 | 0| 
+| 20230324T21:51:23Z | Repo para realizar una PoC de XSS en swagger | https://github.com/gpereyra-lac/swagger_exploit | 0 | 0| 
+| 20230324T20:48:34Z | Null | https://github.com/cbclemmer/Pattern_Exploiting_Training | 0 | 0| 
+| 20230324T20:42:23Z | IOS screentime remover using the dirtycow exploit | https://github.com/BluStik/ScreenTimeRemover | 0 | 0| 
+| 20230324T20:33:49Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 0 | 0| 
 | 20230324T12:46:10Z | This folder contains the final project of %Virtual and Augmented Reality Systems% (second year master%s degree in Computer Engineering). The project consists of the creation of a demo of the game %Boccette% by exploiting the API and prefabs provided by the Ultraleap library.  | https://github.com/iamvincenzo/UltraleapPoolGameDemo | 1 | 0| 
-| 20230324T12:00:49Z | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | 0 | 0| 
-| 20230324T10:10:33Z | Gaining root access of remote system without Sudo Permission after setting up Connection with Host , Exploiting Misconfigurations  of Commands. | https://github.com/Azad-02/Privilege-Escalation-for-UNIX-and-WINDOWS-Binaries | 1 | 0| 
-| 20230324T08:21:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5049 | 726| 
-| 20230324T08:05:51Z | CTF Walkthrough provides comprehensive guides for various CTF challenge types, including binary exploitation, web app security, cryptography, and more. Our walkthroughs are written in a clear and concise manner, making them easy to follow for anyone. Join our community today and start mastering CTF challenges! | https://github.com/MY7H404/CTF-Walkthrough | 0 | 0| 
-| 20230324T04:25:41Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 899 | 187| 
-| 20230324T04:01:48Z | Official Repository for %Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR% | https://github.com/aneeshan95/Sketch_PVT | 0 | 0| 
-| 20230324T01:58:08Z | Null | https://github.com/agarcia50S/HirevueExploit | 0 | 0| 
-| 20230324T01:24:15Z | Null | https://github.com/Ubvta/Exploit | 0 | 0| 
-| 20230324T01:05:26Z | Null | https://github.com/TecR0c/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T23:24:04Z | Chinese RAT - Full translation by me. | https://github.com/ChimesOfDestruction/SiMay-RAT-Translated-by-ChimesOfDestruction | 1 | 0| 
+| 20230324T18:45:48Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 0 | 0| 
+| 20230324T15:04:50Z | This is a backdoor | https://github.com/Tim0100/Backdoor2 | 0 | 0| 
+| 20230324T14:54:22Z | Null | https://github.com/Tim0100/Backdoor | 0 | 0| 
+| 20230324T14:10:29Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 413 | 78| 
 | 20230324T12:44:56Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 4 | 0| 
-| 20230324T12:20:09Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 21 | 6| 
+| 20230324T12:20:09Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 21 | 7| 
 | 20230324T10:22:51Z | phpstudy后门批量检测 | https://github.com/Pikaqi/phpstudy-backdoor | 0 | 0| 
 | 20230324T09:48:02Z | Null | https://github.com/omkarpotpelwar/Python-Backdoor | 0 | 0| 
 | 20230324T05:41:05Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 11 | 2| 
-| 20230324T05:05:40Z | Backdoors | https://github.com/ad5jp/phperkaigi2023 | 1 | 0| 
-| 20230324T04:05:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 412 | 78| 
-| 20230324T02:31:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 123 | 14| 
-| 20230323T18:18:32Z | Reverse Backdoor code that would be run on victim%s computer | https://github.com/deniseosoria/reverseBackdoor | 0 | 0| 
-| 20230323T12:48:34Z | Simple PHP Backdoor | https://github.com/NomanProdhan/devil-php-backdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230324T22:52:51Z | Null | https://github.com/maimonahST/FuzzyInteger-AlgorithmsProject | 0 | 0| 
+| 20230324T21:10:06Z | Python implementation on Fuzzy C Means algorithm from scratch | https://github.com/jumana-nounou/FuzzyCMeansAlgorithm | 0 | 0| 
+| 20230324T21:04:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2095 | 229| 
+| 20230324T20:43:54Z | fuzzing introduces unexpected inputs into a system and watches to see if the system has any negative reactions to the inputs that indicate security, performance, or quality gaps or issues. This python script take the log that the fuzzer created and send it again to the at console in parallel to see what happening in the developed CLI console. | https://github.com/Alongri/AT-commands-fuzzer | 0 | 0| 
+| 20230324T19:46:38Z | Null | https://github.com/jolapodolszanska/fuzzy-machine | 0 | 0| 
 | 20230324T12:27:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 175 | 22| 
 | 20230324T12:21:39Z | Null | https://github.com/Danialshahbazi/fuzzy-chainsaw | 0 | 0| 
 | 20230324T12:20:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 742 | 100| 
 | 20230324T11:23:52Z | Null | https://github.com/adrianbarbeito-accenture/fuzzy-spork | 0 | 0| 
 | 20230324T10:44:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8504 | 1858| 
-| 20230324T10:42:53Z | My 🙀  | https://github.com/Rivasplace53/fuzzy-octo-fiesta | 1 | 0| 
-| 20230324T10:37:33Z | Fuzzy Q learning for Scaling Group | https://github.com/doandang27052000/Fuzzy-Q-Learning-Golang | 0 | 0| 
-| 20230324T10:01:42Z | Null | https://github.com/Jennie-Williams234/fuzzy-fiesta | 0 | 0| 
-| 20230324T09:44:24Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 262 | 54| 
-| 20230324T09:33:03Z | Null | https://github.com/find-new-world/Fuzzing | 0 | 0| 
 
 
 
