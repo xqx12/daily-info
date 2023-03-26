@@ -60,7 +60,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230326T00:09:23Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
+| 20230326T09:32:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 36 | 8| 
+| 20230326T02:24:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 
 
 # big4 on Github 推荐
