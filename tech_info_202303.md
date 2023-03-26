@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T01:25:48Z | Upgrade your Roblox game with our ultimate exploit. Unmatched features and security guarantee domination. Intuitive interface and advanced security make it easy to use with confidence. Download now to revolutionize your gameplay. | https://github.com/nannodeveloper/Nannomaly | 0 | 0| 
 | 20230326T01:11:14Z | Null | https://github.com/mandsala/Exploiting-Old-Wordpress | 0 | 0| 
 | 20230326T00:58:53Z | [CVPR 2023] DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality | https://github.com/yizhiwang96/deepvecfont-v2 | 2 | 0| 
-| 20230326T00:48:01Z | Upgrade your Roblox game with our ultimate exploit. Unmatched features and security guarantee domination. Intuitive interface and advanced security make it easy to use with confidence. Download now to revolutionize your gameplay. | https://github.com/nannodeveloper/Nannomaly | 0 | 0| 
 | 20230325T22:25:10Z | Synapse exploit in DLL need Hacker Process to launche the Internal UI Enjoy ! | https://github.com/Kyanxte/SynapseX-DLL | 0 | 0| 
 | 20230325T21:41:01Z | Null | https://github.com/MegamiShin/Exploit-Scripts | 0 | 0| 
 | 20230325T21:29:09Z | - Image classification using Deep learning. - Utilizing both frequency and pixel domain information of images. - Implemented MVNN model from a research paper published in 2019 IEEE ICDM. Achieved comparable accuracy to the original model. - Compared with several deep learning models: Pre-trained (VGG-16, VGG-19) and our own implementations of CNN based models (with different number of layers) - Research project utilized as a part of a course: COMP 5331 - Knowledge Discovery in Databases, from HKUST (The Hong Kong University of Science and Technology). - Referenced paper (for MVNN model) -  P. Qi, J. Cao, T. Yang, J. Guo, and J. Li. Exploiting multi-domain visual information for fake news detection. In 2019 IEEE International Conference on Data Mining (ICDM), pages 518–527, 2019. | https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection | 7 | 4| 
