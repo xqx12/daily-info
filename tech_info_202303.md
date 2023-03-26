@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T01:40:45Z | Hi | https://github.com/fuzzbear0001/fuzzbear0001 | 0 | 0| 
 | 20230325T23:16:21Z | Null | https://github.com/BigReinhard/fuzzy-umbrella | 0 | 0| 
 | 20230325T22:52:23Z | Repo with short wordlists to fuzz when you know your target :] | https://github.com/nullfd/minifuzz.txt | 0 | 0| 
 | 20230325T22:15:00Z | Null | https://github.com/Kosi82/Fuzzy-Octo-Succotash | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230325T10:44:52Z | Null | https://github.com/Shayflake/fuzzy-journey | 0 | 0| 
 | 20230325T07:57:19Z | Null | https://github.com/Big-Jobman/fuzzy-funicular | 0 | 0| 
 | 20230325T07:21:43Z | Null | https://github.com/yasyjlakh/fuzzy-memory | 0 | 0| 
-| 20230325T03:53:00Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2730 | 512| 
 
 
 
