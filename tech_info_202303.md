@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230326T00:39:44Z | CVE-2022-24716 | Null | https://github.com/pumpkinpiteam/CVE-2022-24716 | | 
+| 20230326T01:03:07Z | CVE-2022-24716 | Null | https://github.com/pumpkinpiteam/CVE-2022-24716 | | 
 | 20230326T00:18:55Z | CVE-2022-31814 | pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814) | https://github.com/Chocapikk/CVE-2022-31814 | | 
 | 20230325T22:25:37Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
 | 20230325T19:19:58Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
