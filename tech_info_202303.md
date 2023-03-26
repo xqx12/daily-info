@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230326T00:28:47Z | CVE-2022-24716 | Null | https://github.com/pumpkinpiteam/CVE-2022-24716 | | 
 | 20230326T00:18:55Z | CVE-2022-31814 | pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814) | https://github.com/Chocapikk/CVE-2022-31814 | | 
 | 20230325T22:25:37Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
 | 20230325T19:19:58Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
@@ -55,7 +56,6 @@
 | 20230325T12:55:26Z | CVE-2022-32199 | Null | https://github.com/Toxich4/CVE-2022-32199 | | 
 | 20230325T12:45:55Z | CVE-2023-21036 | Detection and sanitization for Acropalypse Now - CVE-2023-21036 | https://github.com/infobyte/CVE-2023-21036 | | 
 | 20230325T06:40:40Z | CVE-2023-23752 | Joomla Unauthorized Access Vulnerability (CVE-2023-23752) Dockerized | https://github.com/karthikuj/CVE-2023-23752-Docker | | 
-| 20230325T03:56:11Z | 未知编号 | Null | https://github.com/rodrigosilvaluz/CVE_2022_0847 | | 
 
 
 # klee on Github 推荐
