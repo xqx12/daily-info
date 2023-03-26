@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T01:13:34Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 92 | 15| 
 | 20230325T22:55:37Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2008 | 823| 
 | 20230325T21:07:15Z | A simple malware written in Rust. It opens a console on the infected host. | https://github.com/rozensoftware/rozbie | 1 | 0| 
 | 20230325T19:30:30Z | priming Backdoor | https://github.com/Lorword/Backdoor | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230325T11:17:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 415 | 78| 
 | 20230325T10:48:04Z | Null | https://github.com/DrTom/rails_configuration-management-backdoor | 0 | 2| 
 | 20230325T07:57:44Z | Null | https://github.com/Yugi71120/python-backdoor | 0 | 0| 
-| 20230325T05:19:44Z | A tty backdoor access program for RobCo terminals | https://github.com/koalanis/robco-termlink-protocol | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
