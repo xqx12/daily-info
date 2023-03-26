@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T12:21:20Z | tmux based cli tool for searching s3 objects using fuzzy search | https://github.com/paololazzari/s3-fuzzy-viewer | 0 | 0| 
 | 20230326T11:57:59Z | Null | https://github.com/h-qtr/fuzzy-fortnight | 0 | 0| 
 | 20230326T11:55:35Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
 | 20230326T11:53:18Z | Null | https://github.com/advi14/fuzzy-octo-spoon | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20230326T08:46:02Z | Null | https://github.com/Muhaimen46/Examination-Paper-Evaluation-Using-OCR-and-Mark-Distribution-using-Fuzzy-Logic | 0 | 0| 
 | 20230326T06:36:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1326 | 184| 
 | 20230326T02:54:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3528 | 702| 
-| 20230326T01:40:45Z | Hi | https://github.com/fuzzbear0001/fuzzbear0001 | 0 | 0| 
 
 
 
