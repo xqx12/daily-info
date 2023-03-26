@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T00:48:01Z | Upgrade your Roblox game with our ultimate exploit. Unmatched features and security guarantee domination. Intuitive interface and advanced security make it easy to use with confidence. Download now to revolutionize your gameplay. | https://github.com/nannodeveloper/Nannomaly | 0 | 0| 
 | 20230325T23:53:35Z | [CVPR 2023] DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality | https://github.com/yizhiwang96/deepvecfont-v2 | 1 | 0| 
 | 20230325T22:25:10Z | Synapse exploit in DLL need Hacker Process to launche the Internal UI Enjoy ! | https://github.com/Kyanxte/SynapseX-DLL | 0 | 0| 
 | 20230325T21:41:01Z | Null | https://github.com/MegamiShin/Exploit-Scripts | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230325T12:10:26Z | We present a framework called TLF that builds a classifier for the target domain having only few labeled training records by transferring knowledge from the source domain having many labeled records. While existing methods often focus on one issue and leave the other one for the further work, TLF is capable of handling both issues simultaneously. In TLF, we alleviate feature discrepancy by identifying shared label distributions that act as the pivots to bridge the domains. We handle distribution divergence by simultaneously optimizing the structural risk functional, joint distributions between domains, and the manifold consistency underlying marginal distributions. Moreover, for the manifold consistency we exploit its intrinsic properties by identifying $k$ nearest neighbors of a record, where the value of k is determined automatically in TLF. Furthermore, since negative transfer is not desired, we consider only the source records that are belonging to the source pivots during the knowledge transfer. We evaluate TLF on seven publicly available natural datasets and compare the performance of TLF against the performance of eleven state-of-the-art techniques. We also evaluate the effectiveness of TLF in some challenging situations. Our experimental results, including statistical sign test and Nemenyi test analyses, indicate a clear superiority of the proposed framework over the state-of-the-art techniques. | https://github.com/grahman20/TLF | 0 | 0| 
 | 20230325T11:56:37Z | Speckle reduction in SAR time series using an updating strategy, final project of the course %Remote sensing data: from sensor to large-scale geospatial data exploitation% by F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt of the Master MVA (Mathematiques, Vision, Apprentissage) | https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy | 0 | 0| 
 | 20230325T11:38:12Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
-| 20230325T11:11:26Z | self-explanatory | https://github.com/IMaWeeb300/My-Roblox-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
