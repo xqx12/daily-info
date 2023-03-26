@@ -41,10 +41,10 @@
 | 20230326T08:52:55Z | Null | https://github.com/ExploitHackers/ExploitHackers.github.io | 0 | 0| 
 | 20230326T07:49:39Z | Graduation_Project: Most efforts have focused on detecting vulnerable contracts, but automated verification of the exploitable nature of detected vulnerabilities is lacking. Therefore, this project requires the development of an automated analysis tool that integrates vulnerability detection and verification. | https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool | 2 | 0| 
 | 20230326T06:55:35Z | A Basic Proof Of Concept Remote Administration Tool Written In C# With Functioning Exploits | https://github.com/BYT3W1Z4RD/SharpRAT | 0 | 0| 
+| 20230326T04:45:37Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 63 | 18| 
 | 20230326T03:21:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 606 | 159| 
 | 20230326T01:25:48Z | Upgrade your Roblox game with our ultimate exploit. Unmatched features and security guarantee domination. Intuitive interface and advanced security make it easy to use with confidence. Download now to revolutionize your gameplay. | https://github.com/nannodeveloper/Nannomaly | 0 | 0| 
 | 20230326T01:11:14Z | Null | https://github.com/mandsala/Exploiting-Old-Wordpress | 0 | 0| 
-| 20230326T01:05:48Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | 2 | 3| 
 
 
 # backdoor on Github 推荐
