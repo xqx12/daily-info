@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T12:56:23Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 845 | 170| 
 | 20230326T12:37:54Z | Null | https://github.com/emmanuela001/fuzzy-tribble | 0 | 0| 
 | 20230326T12:21:20Z | tmux based cli tool for searching s3 objects using fuzzy search | https://github.com/paololazzari/s3-fuzzy-viewer | 0 | 0| 
 | 20230326T11:57:59Z | Null | https://github.com/h-qtr/fuzzy-fortnight | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20230326T09:52:05Z | Null | https://github.com/Nbharti67/Maven_Fuzzy_Factory | 0 | 0| 
 | 20230326T09:38:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4626 | 1112| 
 | 20230326T08:46:02Z | Null | https://github.com/Muhaimen46/Examination-Paper-Evaluation-Using-OCR-and-Mark-Distribution-using-Fuzzy-Logic | 0 | 0| 
-| 20230326T06:36:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1326 | 184| 
 
 
 
