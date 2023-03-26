@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T12:33:00Z | Roblox scripts. Fastest backdoor scanner | https://github.com/Its-LALOL/LALOL-Hub | 0 | 0| 
 | 20230326T09:51:06Z | Null | https://github.com/Yugi71120/python-backdoor | 1 | 0| 
 | 20230326T08:42:51Z | Null | https://github.com/Aapng-cmd/backdoor_2 | 0 | 0| 
 | 20230326T07:53:27Z | Sends telegram message with starcount of MSWapp in backdoor Haifa  | https://github.com/ISessa/MSW | 1 | 0| 
@@ -113,7 +114,6 @@
 | 20230326T06:02:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2010 | 823| 
 | 20230325T21:07:15Z | A simple malware written in Rust. It opens a console on the infected host. | https://github.com/rozensoftware/rozbie | 1 | 0| 
 | 20230325T19:30:30Z | priming Backdoor | https://github.com/Lorword/Backdoor | 0 | 0| 
-| 20230325T16:36:40Z | Roblox %tools%. Fastest backdoor scanner | https://github.com/Its-LALOL/LALOL-Hub | 0 | 0| 
 | 20230325T14:19:16Z | Crypt and run in memory with RC4 algorithm. Currently bypassed Windows Defender. | https://github.com/ChimesOfDestruction/RC4-Crypter | 1 | 0| 
 | 20230325T13:58:23Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 1 | 0| 
 
