@@ -100,7 +100,7 @@
 | 20230325T10:44:52Z | Null | https://github.com/Shayflake/fuzzy-journey | 0 | 0| 
 | 20230325T07:57:19Z | Null | https://github.com/Big-Jobman/fuzzy-funicular | 0 | 0| 
 | 20230325T07:21:43Z | Null | https://github.com/yasyjlakh/fuzzy-memory | 0 | 0| 
-| 20230325T03:53:00Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2730 | 512| 
+| 20230325T05:57:42Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3485 | 416| 
 
 
 
