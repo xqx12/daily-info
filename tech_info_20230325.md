@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230325T22:25:37Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
-| 20230325T21:28:33Z | CVE-2022-31814 | pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814) | https://github.com/Chocapikk/CVE-2022-31814 | | 
 | 20230325T19:19:58Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230325T17:33:35Z | CVE-2023-28432 | MinIO存在信息泄露漏洞，未经身份认证的远程攻击者通过发送特殊HTTP请求即可获取所有环境变量，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，造成敏感信息泄露，最终可能导致攻击者以管理员身份登录MinIO | https://github.com/MzzdToT/CVE-2023-28432 | | 
 | 20230325T17:04:33Z | CVE-2022-24112 | Null | https://github.com/wshepherd0010/CVE-2022-24112-Lab | | 
