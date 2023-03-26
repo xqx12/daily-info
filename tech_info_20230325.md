@@ -75,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T17:22:32Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 | 20230325T12:35:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2196 | 610| 
 | 20230325T12:19:32Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 35 | 8| 
 | 20230325T10:21:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3374 | 476| 

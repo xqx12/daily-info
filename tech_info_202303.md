@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230325T17:22:32Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
 | 20230325T12:35:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2196 | 610| 
 | 20230325T12:19:32Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 35 | 8| 
 | 20230325T10:21:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3374 | 476| 
@@ -130,7 +131,6 @@
 | 20230322T01:08:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230320T14:24:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 311 | 76| 
 | 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
-| 20230318T17:20:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 36 | 24| 
 
 
 # big4 on Github 推荐
