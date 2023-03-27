@@ -68,7 +68,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230326T09:32:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 36 | 8| 
+| 20230326T20:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1041 | 128| 
+| 20230326T18:16:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3377 | 476| 
+| 20230326T16:33:01Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 37 | 8| 
 | 20230326T02:24:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 
 
