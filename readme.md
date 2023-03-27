@@ -70,6 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T12:04:07Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 3 | 0| 
 | 20230327T12:02:54Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 3 | 1| 
 | 20230327T12:02:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4297 | 1645| 
 | 20230327T11:32:22Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 22 | 8| 
