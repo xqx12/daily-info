@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T00:50:16Z | CISA Known Exploited Vulnerabilities & Microsoft Sentinel | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
 | 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 159| 
 | 20230327T00:41:28Z | 📙 A walkthrough of the exploits from the COMPSCI 456 class at UWW (spring 2023) | https://github.com/jcbhmr/compsci-456-exploits | 0 | 0| 
-| 20230326T23:39:19Z | CISA Known Exploited Vulnerabilties | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
 | 20230326T22:35:32Z | Null | https://github.com/Bilmemi/R20-EXPLOITER | 0 | 0| 
 | 20230326T21:58:16Z | exploit executor for serverside games | https://github.com/ceat-ceat/onimaiexecutor | 0 | 0| 
 | 20230326T21:08:25Z | Null | https://github.com/Mr-R013X-404/LaravelExploit | 0 | 0| 
