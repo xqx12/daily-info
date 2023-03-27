@@ -16,6 +16,7 @@
 | 20230327 | CVE-2023-1177：MLflow 中的 LFI/RFI：本地文件包含/远程文件注入组合漏洞可导致整个系统或云提供商被远程未经身份验证的攻击接管 | https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow| 
 | 20230327 | GitHub.com 的 RSA SSH 私钥曾短暂暴露在公共 GitHub 存储库中。我们没有理由相信暴露的密钥被滥用，并且出于谨慎考虑采取了这一行动。我们更新了 RSASSH 主机 key | http://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/| 
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://sec.today/pulses/cf2e1209-12a9-4d73-972a-08b2bc9f46ba/| 
+| 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://gbhackers.com/malicious-chatgpt-chrome-extension/| 
 | 20230324 | Unit 42 研究人员一直在跟踪恶意 JavaScript 注入活动，该活动将受害者重定向到恶意内容，例如广告软件和诈骗页面。该威胁在整个 2022 年都处于活跃状态，并在 2023 年继续感染网站。Tranco 中受影响网站的存在表明该活动可能影响了大量人员 | https://unit42.paloaltonetworks.com/malicious-javascript-injection/| 
 | 20230324 | Pwn2Own 温哥华 2023 - 第二天结果 | http://www.thezdi.com/blog/2023/3/23/pwn2own-vancouver-2023-day-two-results| 
 | 20230324 | 安全研究员利用ChatGPT做基本的代码静态分析 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/chatgpt-the-right-tool-for-the-job/| 
@@ -25,7 +26,6 @@
 | 20230324 | Node原型链污染，无需本地文件系统或环境变量即可执行任意代码 | https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem| 
 | 20230323 | python cgi 文档和教程易受 XSS（跨站点脚本）攻击 | http://seclists.org/fulldisclosure/2023/Mar/13| 
 | 20230323 | OpenAI Codex（和GPT-4）不能在智能合约审计上打败人类，但可以在智能合约的自动审计上打败人类审计员，例如重入、费用分配和费用分配 | http://blog.trailofbits.com/2023/03/22/codex-and-gpt4-cant-beat-humans-on-smart-contract-audits/| 
-| 20230323 | 根据微软发布的Patch来定位漏洞，并在24小时内写出afd.sys驱动的漏洞利用 | https://securityintelligence.com/posts/patch-tuesday-exploit-wednesday-pwning-windows-ancillary-function-driver-winsock/| 
 
 
 # 安全维基 推荐
@@ -91,24 +91,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T11:02:50Z | x64 Linux Binary Exploitation Guide | https://github.com/lolzc0de/learn-exploitdev | 0 | 0| 
+| 20230327T10:51:35Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 786 | 343| 
+| 20230327T10:20:33Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 14 | 7| 
+| 20230327T08:56:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 70 | 27| 
+| 20230327T08:30:11Z |  The purpose of this project, we are not interested in the application and verification of ML approaches but we wish to  exploit the transaction data simulator code. | https://github.com/RishavMondal/New-Gen-Data-Models--Credit-card-fraud-detection-system | 0 | 0| 
+| 20230327T08:04:45Z | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | 18 | 4| 
 | 20230327T01:52:07Z | Null | https://github.com/byth22/exploits | 0 | 0| 
 | 20230327T01:47:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 408 | 80| 
 | 20230327T00:50:16Z | CISA Known Exploited Vulnerabilities & Microsoft Sentinel | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
 | 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 160| 
-| 20230327T00:41:28Z | 📙 A walkthrough of the exploits from the COMPSCI 456 class at UWW (spring 2023) | https://github.com/jcbhmr/compsci-456-exploits | 0 | 0| 
-| 20230326T22:35:32Z | Null | https://github.com/Bilmemi/R20-EXPLOITER | 0 | 0| 
-| 20230326T21:58:16Z | exploit executor for serverside games | https://github.com/ceat-ceat/onimaiexecutor | 0 | 0| 
-| 20230326T21:08:25Z | Null | https://github.com/Mr-R013X-404/LaravelExploit | 0 | 0| 
-| 20230326T20:19:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4801 | 948| 
-| 20230326T16:19:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4139 | 515| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T12:02:54Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 3 | 1| 
+| 20230327T12:02:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4297 | 1645| 
 | 20230327T11:32:22Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 22 | 8| 
-| 20230327T11:32:11Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 2 | 1| 
-| 20230327T10:52:12Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4296 | 1645| 
 | 20230327T10:51:35Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 786 | 343| 
 | 20230327T07:42:15Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 3 | 0| 
 | 20230327T07:00:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 124 | 14| 
@@ -121,8 +121,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230326T20:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1041 | 128| 
-| 20230326T18:16:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3377 | 476| 
+| 20230327T12:01:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3379 | 476| 
+| 20230327T07:00:03Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1042 | 128| 
 | 20230326T16:33:01Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 37 | 8| 
 | 20230326T02:24:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230325T17:22:32Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
@@ -136,7 +136,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230327T01:43:08Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 583 | 94| 
+| 20230327T11:15:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 594 | 94| 
 | 20230326T12:12:17Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 19 | 2| 
 | 20230323T12:16:40Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 2 | 0| 
 | 20230321T02:11:50Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 8 | 1| 
