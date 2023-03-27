@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T00:52:43Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
 | 20230326T23:36:15Z | Null | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gratificacao | 0 | 0| 
 | 20230326T23:22:52Z | Exemplo de logica fuzzy em java com gorjetas | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gorjetas | 0 | 0| 
 | 20230326T21:36:36Z | Null | https://github.com/Aditomasz/FuzzyLogic | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230326T20:13:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3487 | 416| 
 | 20230326T20:06:49Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
 | 20230326T15:07:54Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
-| 20230326T12:56:23Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 845 | 170| 
 
 
 
