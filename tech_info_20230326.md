@@ -16,6 +16,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230326T22:04:02Z | CVE-2023-28858 | This PoC demonstrates the vulnerability described in CVE-2023-28858 | https://github.com/improbably-you/poc_cve_2023_28858 | | 
+| 20230326T19:01:10Z | CVE-2023-23752 | Null | https://github.com/0xNahim/CVE-2023-23752 | | 
+| 20230326T15:52:14Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics version <1.7.4 | https://github.com/0xM4hm0ud/CVE-2022-24637 | | 
+| 20230326T15:11:43Z | CVE-2022-32199 | Null | https://github.com/Toxich4/CVE-2022-32199 | | 
 | 20230326T11:31:44Z | CVE-2023-23397 | Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email. | https://github.com/Trackflaw/CVE-2023-23397 | | 
 | 20230326T10:02:51Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230326T05:38:24Z | CVE-2022-31814 | pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814) | https://github.com/Chocapikk/CVE-2022-31814 | | 
@@ -50,6 +54,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T23:48:34Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 5 | 1| 
+| 20230326T22:25:02Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 6 | 2| 
+| 20230326T19:49:16Z | Different programs(Backdoor, Keylogger etc.) | https://github.com/Nole19/Ethical_Hacking | 1 | 0| 
 | 20230326T12:33:00Z | Roblox scripts. Fastest backdoor scanner | https://github.com/Its-LALOL/LALOL-Hub | 0 | 0| 
 | 20230326T09:51:06Z | Null | https://github.com/Yugi71120/python-backdoor | 1 | 0| 
 | 20230326T08:42:51Z | Null | https://github.com/Aapng-cmd/backdoor_2 | 0 | 0| 
@@ -68,22 +75,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T23:48:26Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 582 | 94| 
 | 20230326T12:12:17Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 19 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230326T23:36:15Z | Null | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gratificacao | 0 | 0| 
+| 20230326T23:22:52Z | Exemplo de logica fuzzy em java com gorjetas | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gorjetas | 0 | 0| 
+| 20230326T21:36:36Z | Null | https://github.com/Aditomasz/FuzzyLogic | 0 | 0| 
+| 20230326T21:18:58Z | Binary Fuzzer utilising Kaitai Struct | https://github.com/chen-ky/ks-bin-fuzzer | 0 | 0| 
+| 20230326T20:31:37Z | Null | https://github.com/lucas-r-leite/Fuzz_Face_Cabbage | 0 | 0| 
+| 20230326T20:17:57Z | Null | https://github.com/karanshergill/fuzz-lists | 0 | 0| 
+| 20230326T20:06:49Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
+| 20230326T15:07:54Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
 | 20230326T12:56:23Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 845 | 170| 
 | 20230326T12:37:54Z | Null | https://github.com/emmanuela001/fuzzy-tribble | 0 | 0| 
-| 20230326T12:21:20Z | tmux based cli tool for searching s3 objects using fuzzy search | https://github.com/paololazzari/s3-fuzzy-viewer | 0 | 0| 
-| 20230326T11:57:59Z | Null | https://github.com/h-qtr/fuzzy-fortnight | 0 | 0| 
-| 20230326T11:55:35Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
-| 20230326T11:53:18Z | Null | https://github.com/advi14/fuzzy-octo-spoon | 0 | 0| 
-| 20230326T11:06:00Z | Secouriste  | https://github.com/dioufyahmadah/fuzzy-funiculaire | 0 | 0| 
-| 20230326T09:52:05Z | Null | https://github.com/Nbharti67/Maven_Fuzzy_Factory | 0 | 0| 
-| 20230326T09:38:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4626 | 1112| 
-| 20230326T08:46:02Z | Null | https://github.com/Muhaimen46/Examination-Paper-Evaluation-Using-OCR-and-Mark-Distribution-using-Fuzzy-Logic | 0 | 0| 
 
 
 
