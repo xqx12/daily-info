@@ -157,10 +157,10 @@
 | 20230326T21:18:58Z | Binary Fuzzer utilising Kaitai Struct | https://github.com/chen-ky/ks-bin-fuzzer | 0 | 0| 
 | 20230326T20:31:37Z | Null | https://github.com/lucas-r-leite/Fuzz_Face_Cabbage | 0 | 0| 
 | 20230326T20:17:57Z | Null | https://github.com/karanshergill/fuzz-lists | 0 | 0| 
+| 20230326T20:13:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3487 | 416| 
 | 20230326T20:06:49Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
 | 20230326T15:07:54Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
 | 20230326T12:56:23Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 845 | 170| 
-| 20230326T12:37:54Z | Null | https://github.com/emmanuela001/fuzzy-tribble | 0 | 0| 
 
 
 
