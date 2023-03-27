@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T01:54:35Z | Fuzz tool for kubernetes api. | https://github.com/DapengSun/kubernetes_fuzz_tool | 0 | 0| 
 | 20230327T01:33:02Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3488 | 416| 
 | 20230327T00:52:43Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
 | 20230326T23:36:15Z | Null | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gratificacao | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230326T20:31:37Z | Null | https://github.com/lucas-r-leite/Fuzz_Face_Cabbage | 0 | 0| 
 | 20230326T20:17:57Z | Null | https://github.com/karanshergill/fuzz-lists | 0 | 0| 
 | 20230326T20:06:49Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
-| 20230326T15:07:54Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
 
 
 
