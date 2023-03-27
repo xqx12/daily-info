@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T01:52:07Z | Null | https://github.com/byth22/exploits | 0 | 0| 
 | 20230327T01:47:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 408 | 80| 
 | 20230327T00:50:16Z | CISA Known Exploited Vulnerabilities & Microsoft Sentinel | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
 | 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 160| 
@@ -100,7 +101,6 @@
 | 20230326T21:08:25Z | Null | https://github.com/Mr-R013X-404/LaravelExploit | 0 | 0| 
 | 20230326T20:19:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4801 | 948| 
 | 20230326T16:19:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4139 | 515| 
-| 20230326T12:44:55Z | Stuff from my experiments in computer security | https://github.com/wiemerc/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
