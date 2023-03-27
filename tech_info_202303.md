@@ -92,7 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230327T00:50:16Z | CISA Known Exploited Vulnerabilities & Microsoft Sentinel | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
-| 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 159| 
+| 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 160| 
 | 20230327T00:41:28Z | 📙 A walkthrough of the exploits from the COMPSCI 456 class at UWW (spring 2023) | https://github.com/jcbhmr/compsci-456-exploits | 0 | 0| 
 | 20230326T22:35:32Z | Null | https://github.com/Bilmemi/R20-EXPLOITER | 0 | 0| 
 | 20230326T21:58:16Z | exploit executor for serverside games | https://github.com/ceat-ceat/onimaiexecutor | 0 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T01:33:02Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3488 | 416| 
 | 20230327T00:52:43Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
 | 20230326T23:36:15Z | Null | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gratificacao | 0 | 0| 
 | 20230326T23:22:52Z | Exemplo de logica fuzzy em java com gorjetas | https://github.com/MaiconHCM/exemplo-logica-fuzzy-java-gorjetas | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20230326T21:18:58Z | Binary Fuzzer utilising Kaitai Struct | https://github.com/chen-ky/ks-bin-fuzzer | 0 | 0| 
 | 20230326T20:31:37Z | Null | https://github.com/lucas-r-leite/Fuzz_Face_Cabbage | 0 | 0| 
 | 20230326T20:17:57Z | Null | https://github.com/karanshergill/fuzz-lists | 0 | 0| 
-| 20230326T20:13:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3487 | 416| 
 | 20230326T20:06:49Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
 | 20230326T15:07:54Z | Material of the Hardening 7 talk: %Fuzzing: l%arte di scoprire vulnerabilità in maniera automatizzata% | https://github.com/marcellomaugeri/Hardening-7-Fuzzing | 0 | 0| 
 
