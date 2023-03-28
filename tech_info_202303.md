@@ -20,12 +20,12 @@
 | 20230327 | Web 3.0 仍将是犯罪分子的游乐场，他们将利用尖端技术进行数据盗窃、金融阴谋等老套路。在本文中，我将详细介绍诈骗者如何使用 IPFS 进行电子邮件钓鱼攻击 | https://securelist.com/ipfs-phishing/109158/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_dbjq4xrtw241rcn| 
 | 20230327 | 由中国第三大电子商务公司拼多多数字签名的 Android 应用程序利用一个零日漏洞，允许他们暗中控制数百万最终用户设备窃取个人数据并安装恶意应用程序 | https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/| 
 | 20230327 | NullMixer，一种基于 SEO 投毒和社会工程技术的全球恶意软件传播策略，用于精准引诱技术的用户（包括 IT 人员）。大多数受害者安装了 Windows 10 专业版和企业版操作系统，包括 Windows Server 的多个数据中心版本。其中一些也是 Windows Embedded，表明此类恶意软件操作甚至渗透到 IoT 环境中。 | https://securityaffairs.com/144092/malware/maas-threats-delivered-through-nullmixer-malware.html| 
+| 20230327 | 微软研究员发布的GPT4的详细评测，评测范围包括GPT在多模态、跨学科理解、代码、数学、心理学等多个方面。评测结果显示GPT4已经可以称作为AGI的雏形。 | https://arxiv.org/abs/2303.12712| 
+| 20230327 | 维基解密创始人朱利安·阿桑奇 (Julian Assange) 的支持者齐聚伦敦，参加一场艺术展，同时展出绝密政府文件。 “暴力状态”是一个有超过 15 位艺术家和合作者参加的展览，其中包括艾未未、德雷德·斯科特和薇薇安·韦斯特伍 | https://www.foxnews.com/politics/julian-assange-supporters-gather-london-exhibition-largest-physical-showing-classified-docs?intcmp=tw_pols| 
 | 20230324 | Unit 42 研究人员一直在跟踪恶意 JavaScript 注入活动，该活动将受害者重定向到恶意内容，例如广告软件和诈骗页面。该威胁在整个 2022 年都处于活跃状态，并在 2023 年继续感染网站。Tranco 中受影响网站的存在表明该活动可能影响了大量人员 | https://unit42.paloaltonetworks.com/malicious-javascript-injection/| 
 | 20230324 | Pwn2Own 温哥华 2023 - 第二天结果 | http://www.thezdi.com/blog/2023/3/23/pwn2own-vancouver-2023-day-two-results| 
 | 20230324 | 安全研究员利用ChatGPT做基本的代码静态分析 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/chatgpt-the-right-tool-for-the-job/| 
 | 20230324 | 使用 LoLBins 绕过 EDR | https://bishopfox.com/blog/edr-bypass-with-lolbins| 
-| 20230324 | ChatGPT 隐私错误向其他用户公开聊天历史记录 | http://cybersecuritynews.com/chatgpt-privacy-bug/| 
-| 20230324 | 朝鲜 APT 组织 ‘Kimsuky 通过新的鱼叉式网络钓鱼活动瞄准专家 | http://therecord.media/north-korea-apt-kimsuky-attacks| 
 
 
 # 安全维基 推荐
