@@ -17,15 +17,15 @@
 | 20230327 | GitHub.com 的 RSA SSH 私钥曾短暂暴露在公共 GitHub 存储库中。我们没有理由相信暴露的密钥被滥用，并且出于谨慎考虑采取了这一行动。我们更新了 RSASSH 主机 key | http://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/| 
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://sec.today/pulses/cf2e1209-12a9-4d73-972a-08b2bc9f46ba/| 
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://gbhackers.com/malicious-chatgpt-chrome-extension/| 
+| 20230327 | Web 3.0 仍将是犯罪分子的游乐场，他们将利用尖端技术进行数据盗窃、金融阴谋等老套路。在本文中，我将详细介绍诈骗者如何使用 IPFS 进行电子邮件钓鱼攻击 | https://securelist.com/ipfs-phishing/109158/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_dbjq4xrtw241rcn| 
+| 20230327 | 由中国第三大电子商务公司拼多多数字签名的 Android 应用程序利用一个零日漏洞，允许他们暗中控制数百万最终用户设备窃取个人数据并安装恶意应用程序 | https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/| 
+| 20230327 | NullMixer，一种基于 SEO 投毒和社会工程技术的全球恶意软件传播策略，用于精准引诱技术的用户（包括 IT 人员）。大多数受害者安装了 Windows 10 专业版和企业版操作系统，包括 Windows Server 的多个数据中心版本。其中一些也是 Windows Embedded，表明此类恶意软件操作甚至渗透到 IoT 环境中。 | https://securityaffairs.com/144092/malware/maas-threats-delivered-through-nullmixer-malware.html| 
 | 20230324 | Unit 42 研究人员一直在跟踪恶意 JavaScript 注入活动，该活动将受害者重定向到恶意内容，例如广告软件和诈骗页面。该威胁在整个 2022 年都处于活跃状态，并在 2023 年继续感染网站。Tranco 中受影响网站的存在表明该活动可能影响了大量人员 | https://unit42.paloaltonetworks.com/malicious-javascript-injection/| 
 | 20230324 | Pwn2Own 温哥华 2023 - 第二天结果 | http://www.thezdi.com/blog/2023/3/23/pwn2own-vancouver-2023-day-two-results| 
 | 20230324 | 安全研究员利用ChatGPT做基本的代码静态分析 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/chatgpt-the-right-tool-for-the-job/| 
 | 20230324 | 使用 LoLBins 绕过 EDR | https://bishopfox.com/blog/edr-bypass-with-lolbins| 
 | 20230324 | ChatGPT 隐私错误向其他用户公开聊天历史记录 | http://cybersecuritynews.com/chatgpt-privacy-bug/| 
 | 20230324 | 朝鲜 APT 组织 ‘Kimsuky 通过新的鱼叉式网络钓鱼活动瞄准专家 | http://therecord.media/north-korea-apt-kimsuky-attacks| 
-| 20230324 | Node原型链污染，无需本地文件系统或环境变量即可执行任意代码 | https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem| 
-| 20230323 | python cgi 文档和教程易受 XSS（跨站点脚本）攻击 | http://seclists.org/fulldisclosure/2023/Mar/13| 
-| 20230323 | OpenAI Codex（和GPT-4）不能在智能合约审计上打败人类，但可以在智能合约的自动审计上打败人类审计员，例如重入、费用分配和费用分配 | http://blog.trailofbits.com/2023/03/22/codex-and-gpt4-cant-beat-humans-on-smart-contract-audits/| 
 
 
 # 安全维基 推荐
@@ -106,9 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T01:34:27Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 79 | 17| 
 | 20230328T01:32:40Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 801 | 349| 
-| 20230328T01:31:59Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 78 | 16| 
-| 20230328T01:31:28Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4309 | 1654| 
+| 20230328T01:31:28Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4309 | 1656| 
 | 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
 | 20230327T19:57:35Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
 | 20230327T19:54:18Z | New release of njRAT | https://github.com/ChimesOfDestruction/njRAT-0.7d-Platinum-Edition | 2 | 0| 
