@@ -53,9 +53,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T12:03:37Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 495 | 114| 
+| 20230328T12:03:37Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 495 | 115| 
 | 20230328T11:20:14Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 856 | 380| 
-| 20230328T11:19:18Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4399 | 1697| 
+| 20230328T11:19:18Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4399 | 1698| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
 | 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
 | 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
@@ -74,6 +74,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T09:39:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 604 | 95| 
+| 20230328T08:51:31Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 47 | 4| 
+| 20230328T07:30:47Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 33 | 2| 
+| 20230328T04:22:13Z | Null | https://github.com/allenkpz/NDSS | 0 | 0| 
 
 
 # fuzz on Github 推荐
