@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:25:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/testuser-0002-app-5cwOl-exploit-rid | 0 | 0| 
 | 20230328T12:16:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 161| 
 | 20230328T12:08:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5058 | 726| 
 | 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
 | 20230328T06:41:25Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1852 | 336| 
 | 20230328T03:16:06Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 123 | 29| 
-| 20230328T01:01:01Z | Um Exploit feito para roblox em C# | https://github.com/GUHhRD/Exploit-Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
