@@ -65,10 +65,10 @@
 | 20230327T22:47:27Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
 | 20230327T22:40:34Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
 | 20230327T20:49:01Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Specter | 0 | 0| 
+| 20230327T18:44:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 409 | 80| 
 | 20230327T16:54:24Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 100 | 117| 
 | 20230327T11:54:29Z | ma5671  | https://github.com/0neday/MA5671-exploit | 4 | 0| 
 | 20230327T11:02:50Z | x64 Linux Binary Exploitation Guide | https://github.com/lolzc0de/learn-exploitdev | 0 | 0| 
-| 20230327T10:51:35Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 786 | 343| 
 
 
 # backdoor on Github 推荐
