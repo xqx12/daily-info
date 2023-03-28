@@ -151,6 +151,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
+| 20230328T05:53:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 745 | 102| 
 | 20230328T01:37:30Z | This is an exercise for using GitHub | https://github.com/romdf/fuzzy-octo-broccoli | 0 | 0| 
 | 20230328T01:06:05Z | AFL FUZZ 101 | https://github.com/sascha47/AFL_fuzz | 0 | 0| 
 | 20230328T00:45:45Z | Fuzzer - Generic music-themed social media front end project using Next.js and Typescript | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
@@ -159,8 +161,6 @@
 | 20230327T23:28:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 896 | 210| 
 | 20230327T22:37:58Z | ambiente de pruebas para evaluacion | https://github.com/Behemonth/fuzzy-enigma | 0 | 0| 
 | 20230327T22:06:24Z | Yet another python wrapper for *junegunn*%s  [fzf](https://github.com/junegunn/fzf) ***pronunced yaa-pee fuzz*** with handlers for python lists, sqlite3 and postgres | https://github.com/harshalchaudhari35/yapy-fuzz | 0 | 0| 
-| 20230327T11:35:30Z | Null | https://github.com/SophrosyneX/Fuzzing-empirical-study | 0 | 0| 
-| 20230327T11:24:55Z | Null | https://github.com/MK170499/fuzzy-succotash | 0 | 0| 
 
 
 

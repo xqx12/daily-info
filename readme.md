@@ -65,6 +65,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
+| 20230328T05:53:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 745 | 102| 
 | 20230328T01:37:30Z | This is an exercise for using GitHub | https://github.com/romdf/fuzzy-octo-broccoli | 0 | 0| 
 | 20230328T01:06:05Z | AFL FUZZ 101 | https://github.com/sascha47/AFL_fuzz | 0 | 0| 
 | 20230328T00:45:45Z | Fuzzer - Generic music-themed social media front end project using Next.js and Typescript | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
