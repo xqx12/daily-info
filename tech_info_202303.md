@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T01:34:27Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 79 | 17| 
+| 20230328T01:37:50Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 81 | 18| 
 | 20230328T01:32:40Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 801 | 349| 
 | 20230328T01:31:28Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4309 | 1656| 
 | 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T01:37:30Z | This is an exercise for using GitHub | https://github.com/romdf/fuzzy-octo-broccoli | 0 | 0| 
 | 20230328T01:06:05Z | AFL FUZZ 101 | https://github.com/sascha47/AFL_fuzz | 0 | 0| 
 | 20230328T00:45:45Z | Fuzzer - Generic music-themed social media front end project using Next.js and Typescript | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
 | 20230327T23:58:31Z | Null | https://github.com/09365693518/-fuzzy-octo-giggle | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230327T22:06:24Z | Yet another python wrapper for *junegunn*%s  [fzf](https://github.com/junegunn/fzf) ***pronunced yaa-pee fuzz*** with handlers for python lists, sqlite3 and postgres | https://github.com/harshalchaudhari35/yapy-fuzz | 0 | 0| 
 | 20230327T11:35:30Z | Null | https://github.com/SophrosyneX/Fuzzing-empirical-study | 0 | 0| 
 | 20230327T11:24:55Z | Null | https://github.com/MK170499/fuzzy-succotash | 0 | 0| 
-| 20230327T11:16:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1112| 
 
 
 
