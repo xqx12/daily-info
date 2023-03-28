@@ -22,6 +22,8 @@
 | 20230327 | NullMixer，一种基于 SEO 投毒和社会工程技术的全球恶意软件传播策略，用于精准引诱技术的用户（包括 IT 人员）。大多数受害者安装了 Windows 10 专业版和企业版操作系统，包括 Windows Server 的多个数据中心版本。其中一些也是 Windows Embedded，表明此类恶意软件操作甚至渗透到 IoT 环境中。 | https://securityaffairs.com/144092/malware/maas-threats-delivered-through-nullmixer-malware.html| 
 | 20230327 | 微软研究员发布的GPT4的详细评测，评测范围包括GPT在多模态、跨学科理解、代码、数学、心理学等多个方面。评测结果显示GPT4已经可以称作为AGI的雏形。 | https://arxiv.org/abs/2303.12712| 
 | 20230327 | 维基解密创始人朱利安·阿桑奇 (Julian Assange) 的支持者齐聚伦敦，参加一场艺术展，同时展出绝密政府文件。 “暴力状态”是一个有超过 15 位艺术家和合作者参加的展览，其中包括艾未未、德雷德·斯科特和薇薇安·韦斯特伍 | https://www.foxnews.com/politics/julian-assange-supporters-gather-london-exhibition-largest-physical-showing-classified-docs?intcmp=tw_pols| 
+| 20230327 | 一种通过结合php iconv 和dechunk filter形成报错信息侧信道泄漏文件内容等方法。可以在有任意文件读取能力又没有回显的情况下获取到文件的内容。 | https://github.com/synacktiv/php_filter_chains_oracle_exploit| 
+| 20230327 | 文中介绍如何安全的设置SSHD使其免受诸如密码暴破攻击等各类威胁 | https://haydenjames.io/ssh-security-protecting-your-linux-server-from-threats/| 
 
 
 # 安全维基 推荐
