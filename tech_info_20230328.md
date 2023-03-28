@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:16:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 161| 
 | 20230328T12:08:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5058 | 726| 
 | 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
 | 20230328T10:01:06Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET2 | 0 | 0| 
@@ -46,16 +47,15 @@
 | 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
 | 20230328T06:41:25Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1852 | 336| 
 | 20230328T03:16:06Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 123 | 29| 
-| 20230328T01:49:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 608 | 161| 
 | 20230328T01:01:01Z | Um Exploit feito para roblox em C# | https://github.com/GUHhRD/Exploit-Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:14:51Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4400 | 1698| 
 | 20230328T12:09:39Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 497 | 117| 
 | 20230328T12:07:23Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 856 | 382| 
-| 20230328T11:19:18Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4399 | 1698| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
 | 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
 | 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:17:16Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 314 | 40| 
 | 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
 | 20230328T05:53:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 745 | 102| 
 | 20230328T01:37:30Z | This is an exercise for using GitHub | https://github.com/romdf/fuzzy-octo-broccoli | 0 | 0| 
