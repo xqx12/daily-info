@@ -106,8 +106,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T01:51:48Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 89 | 22| 
 | 20230328T01:49:03Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4312 | 1659| 
-| 20230328T01:47:18Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 88 | 21| 
 | 20230328T01:39:02Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 802 | 351| 
 | 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
 | 20230327T19:57:35Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
