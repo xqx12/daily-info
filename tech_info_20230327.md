@@ -115,7 +115,7 @@
 | 20230327T11:24:55Z | Null | https://github.com/MK170499/fuzzy-succotash | 0 | 0| 
 | 20230327T11:16:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1112| 
 | 20230327T11:10:31Z | Null | https://github.com/xjnine/GB-Fuzzy | 0 | 0| 
-| 20230327T09:18:35Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
+| 20230327T09:37:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3490 | 416| 
 
 
 
