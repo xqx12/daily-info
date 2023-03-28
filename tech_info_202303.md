@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:34:04Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1586 | 271| 
 | 20230328T12:30:02Z | Building up a pretty large fuzzing list for almost everything!  | https://github.com/karanshergill/Monster-Lists | 0 | 0| 
 | 20230328T12:17:16Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 314 | 40| 
 | 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
@@ -160,7 +161,6 @@
 | 20230328T00:45:45Z | Fuzzer - Generic music-themed social media front end project using Next.js and Typescript | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
 | 20230327T23:58:31Z | Null | https://github.com/09365693518/-fuzzy-octo-giggle | 0 | 0| 
 | 20230327T23:45:26Z | Fuzzer - Social Media App created with Django and React | https://github.com/danielrdzc/Fuzzer | 0 | 0| 
-| 20230327T23:28:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 896 | 210| 
 
 
 
