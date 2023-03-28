@@ -45,15 +45,15 @@
 | 20230328T10:42:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4816 | 950| 
 | 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
 | 20230328T10:01:06Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET2 | 0 | 0| 
+| 20230328T09:37:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 51 | 27| 
 | 20230328T07:53:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5404 | 746| 
 | 20230328T07:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-HhvKH-exploit-suppose | 0 | 0| 
-| 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T12:45:56Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 512 | 118| 
+| 20230328T12:46:25Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 513 | 119| 
 | 20230328T12:25:43Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4401 | 1699| 
 | 20230328T12:17:25Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 857 | 383| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
