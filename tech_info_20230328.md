@@ -38,9 +38,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:08:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5058 | 726| 
 | 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
 | 20230328T10:01:06Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET2 | 0 | 0| 
-| 20230328T10:00:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5059 | 726| 
 | 20230328T07:53:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5404 | 746| 
 | 20230328T07:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-HhvKH-exploit-suppose | 0 | 0| 
 | 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
