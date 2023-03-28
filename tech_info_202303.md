@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230328 | 供应链攻击之PHP Composer漏洞 | https://mp.weixin.qq.com/s/OA823YMj6AxD_ahrQksOfQ| 
+| 20230328 | 通过 Qodana 的污点分析保护 PHP 代码 | https://mp.weixin.qq.com/s/QbcLigLj_sUWx5awghX7qQ| 
+| 20230328 | 密码工程技术人员国家职业标准 | http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/qt/gztz/202303/t20230327_497435.html| 
 | 20230327 | [HTB] Paper Writeup | https://mp.weixin.qq.com/s/qbiTp3Et4yik0bAYrYCgMg| 
 | 20230327 | [HTB] GoodGames Writeup | https://mp.weixin.qq.com/s/WPnNpY6Tl-U58vsDGWQvBw| 
 | 20230327 | SecWiki周刊（第473期) | https://www.sec-wiki.com/weekly/473| 
@@ -38,24 +41,21 @@
 | 20230325 | 一些常用的恶意软件分析工具 | https://mp.weixin.qq.com/s/X29iHBf3Qa5Jk4cwckrbrA| 
 | 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
 | 20230324 | 以色列网络安全产业研究及对我启示 | https://mp.weixin.qq.com/s/Bb3-PTjphSIjoJX55tOYoQ| 
-| 20230322 | FastJson 与原生反序列化 | https://paper.seebug.org/2055/| 
-| 20230322 | jar-analyzer 一个用于分析Jar包的GUI工具 | https://github.com/4ra1n/jar-analyzer| 
-| 20230322 | 结合图学习和自动数据收集的代码漏洞检测模型 | https://mp.weixin.qq.com/s/lCkG4_wyhTpX1qDgF9_Flg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230328T10:09:23Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
+| 20230328T04:57:18Z | CVE-2023-23397 | exploit for CVE-2023-23397 | https://github.com/D7-M/CVE-2023-23397-exploit | | 
+| 20230328T03:25:10Z | Cve-2023-28432 | 通过vulhub的复现过程实现了，基本的批量检测。比较垃圾但是勉强能用 | https://github.com/steponeerror/Cve-2023-28432- | | 
 | 20230328T00:31:50Z | CVE-2022-46836 | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk <= 2.1.0p10, Checkmk <= 2.0.0p27, and Checkmk <= 1.6.0p29 | https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution | | 
 | 20230327T19:45:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/doosec101/CVE-2022-24716 | | 
-| 20230327T17:55:22Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230327T14:11:21Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
 | 20230327T13:52:46Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
 | 20230327T09:18:20Z | CVE-2022-47909 | Unauthenticated Arbitrary File Deletion by abusing Livestatus Query Language Injection in Checkmk <= 2.1.0p11, Checkmk <= 2.0.0p28, and all versions of Checkmk 1.6.0 (EOL) | https://github.com/JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion | | 
 | 20230327T07:59:48Z | CVE-2023-25262 | Null | https://github.com/trustcves/CVE-2023-25262 | | 
 | 20230327T07:59:36Z | CVE-2023-25260 | Null | https://github.com/trustcves/CVE-2023-25260 | | 
-| 20230327T07:55:18Z | CVE-2023-25261 | Null | https://github.com/trustcves/CVE-2023-25261 | | 
-| 20230327T07:29:44Z | CVE-2023-25263 | Null | https://github.com/trustcves/CVE-2023-25263 | | 
 
 
 # klee on Github 推荐
