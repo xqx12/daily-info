@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T12:27:34Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 501 | 118| 
+| 20230328T12:29:35Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 503 | 118| 
 | 20230328T12:25:43Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4401 | 1699| 
 | 20230328T12:17:25Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 857 | 383| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T12:30:02Z | Building up a pretty large fuzzing list for almost everything!  | https://github.com/karanshergill/Monster-Lists | 0 | 0| 
 | 20230328T12:17:16Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 314 | 40| 
 | 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
 | 20230328T05:53:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 745 | 102| 
@@ -160,7 +161,6 @@
 | 20230327T23:58:31Z | Null | https://github.com/09365693518/-fuzzy-octo-giggle | 0 | 0| 
 | 20230327T23:45:26Z | Fuzzer - Social Media App created with Django and React | https://github.com/danielrdzc/Fuzzer | 0 | 0| 
 | 20230327T23:28:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 896 | 210| 
-| 20230327T22:37:58Z | ambiente de pruebas para evaluacion | https://github.com/Behemonth/fuzzy-enigma | 0 | 0| 
 
 
 
