@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T00:45:45Z | Fuzzer - Generic music-themed social media front end project using Next.js and Typescript | https://github.com/danielrdzc/fuzzer-fe | 0 | 0| 
 | 20230327T23:58:31Z | Null | https://github.com/09365693518/-fuzzy-octo-giggle | 0 | 0| 
 | 20230327T23:45:26Z | Fuzzer - Social Media App created with Django and React | https://github.com/danielrdzc/Fuzzer | 0 | 0| 
 | 20230327T23:28:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 896 | 210| 
@@ -160,7 +161,6 @@
 | 20230327T11:24:55Z | Null | https://github.com/MK170499/fuzzy-succotash | 0 | 0| 
 | 20230327T11:16:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1112| 
 | 20230327T11:10:31Z | Null | https://github.com/xjnine/GB-Fuzzy | 0 | 0| 
-| 20230327T09:37:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3490 | 416| 
 
 
 
