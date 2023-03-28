@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230327 | [HTB] Paper Writeup | https://mp.weixin.qq.com/s/qbiTp3Et4yik0bAYrYCgMg| 
 | 20230327 | [HTB] GoodGames Writeup | https://mp.weixin.qq.com/s/WPnNpY6Tl-U58vsDGWQvBw| 
+| 20230327 | SecWiki周刊（第473期) | https://www.sec-wiki.com/weekly/473| 
 | 20230325 | 使用Frida Hook 自动化发现可DLL劫持利用白文件 | https://bbs.kanxue.com/thread-276613.htm| 
 | 20230325 | 一些常用的恶意软件分析工具 | https://mp.weixin.qq.com/s/X29iHBf3Qa5Jk4cwckrbrA| 
 | 20230324 | Squirrel：基于覆盖反馈的数据库管理软件模糊测试工具详解 | https://mp.weixin.qq.com/s/rW4PnPiNq-m4W7AvHGq36Q| 
@@ -40,29 +41,28 @@
 | 20230322 | FastJson 与原生反序列化 | https://paper.seebug.org/2055/| 
 | 20230322 | jar-analyzer 一个用于分析Jar包的GUI工具 | https://github.com/4ra1n/jar-analyzer| 
 | 20230322 | 结合图学习和自动数据收集的代码漏洞检测模型 | https://mp.weixin.qq.com/s/lCkG4_wyhTpX1qDgF9_Flg| 
-| 20230322 | Python沙箱逃逸学习记录 | https://xz.aliyun.com/t/12303| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230327T22:31:22Z | CVE-2022-46836 | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk <= 2.1.0p10, Checkmk <= 2.0.0p27, and Checkmk <= 1.6.0p29 | https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution | | 
+| 20230327T19:45:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/doosec101/CVE-2022-24716 | | 
+| 20230327T17:55:22Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
+| 20230327T14:11:21Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
+| 20230327T13:52:46Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
 | 20230327T09:18:20Z | CVE-2022-47909 | Unauthenticated Arbitrary File Deletion by abusing Livestatus Query Language Injection in Checkmk <= 2.1.0p11, Checkmk <= 2.0.0p28, and all versions of Checkmk 1.6.0 (EOL) | https://github.com/JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion | | 
-| 20230327T08:04:45Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230327T07:59:48Z | CVE-2023-25262 | Null | https://github.com/trustcves/CVE-2023-25262 | | 
 | 20230327T07:59:36Z | CVE-2023-25260 | Null | https://github.com/trustcves/CVE-2023-25260 | | 
 | 20230327T07:55:18Z | CVE-2023-25261 | Null | https://github.com/trustcves/CVE-2023-25261 | | 
 | 20230327T07:29:44Z | CVE-2023-25263 | Null | https://github.com/trustcves/CVE-2023-25263 | | 
-| 20230327T07:23:38Z | cve-2023-28432 | Null | https://github.com/yuyongxr/minio_cve-2023-28432 | | 
-| 20230327T07:15:08Z | Cve-2023-28432 | 通过vulhub的复现过程实现了，基本的批量检测。比较垃圾但是勉强能用 | https://github.com/steponeerror/Cve-2023-28432- | | 
-| 20230327T04:44:26Z | 未知编号 | Null | https://github.com/Eri11/CVEri2023 | | 
-| 20230327T02:47:49Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/doosec101/CVE-2022-24716 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T21:39:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2198 | 612| 
 | 20230327T11:32:07Z | 230327-40194-any-klee | https://github.com/freezeburger/230327-40194-any-klee | 1 | 0| 
-| 20230325T12:35:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2196 | 610| 
 | 20230324T16:29:01Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 63 | 19| 
 | 20230323T18:26:48Z | Source universe for: kleest0 | https://github.com/r-universe/kleest0 | 0 | 0| 
 | 20230322T16:51:58Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
@@ -91,56 +91,56 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T23:52:33Z | A simple windows batch file to scan the user%s computer for any 3rd party exploitation software. | https://github.com/dtb-bullet/Roblox-3rd-Party-Software-Scanner | 2 | 0| 
+| 20230327T23:41:05Z | Descrição de vulnerabilidades conhecidas, exploits públicos, POC sobre CVE. Feito exclusivamente para fins didáticos e para o conhecimento sobre as falhas reportadas. | https://github.com/luisfelipe146/CVEpedia | 0 | 0| 
+| 20230327T22:54:37Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treespace.el | 0 | 0| 
+| 20230327T22:47:27Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
+| 20230327T22:40:34Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
+| 20230327T20:49:01Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Specter | 0 | 0| 
+| 20230327T16:54:24Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 100 | 117| 
+| 20230327T11:54:29Z | ma5671  | https://github.com/0neday/MA5671-exploit | 4 | 0| 
 | 20230327T11:02:50Z | x64 Linux Binary Exploitation Guide | https://github.com/lolzc0de/learn-exploitdev | 0 | 0| 
 | 20230327T10:51:35Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 786 | 343| 
-| 20230327T10:20:33Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 14 | 7| 
-| 20230327T08:56:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 70 | 27| 
-| 20230327T08:30:11Z |  The purpose of this project, we are not interested in the application and verification of ML approaches but we wish to  exploit the transaction data simulator code. | https://github.com/RishavMondal/New-Gen-Data-Models--Credit-card-fraud-detection-system | 0 | 0| 
-| 20230327T08:04:45Z | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | 18 | 4| 
-| 20230327T01:52:07Z | Null | https://github.com/byth22/exploits | 0 | 0| 
-| 20230327T01:47:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 408 | 80| 
-| 20230327T00:50:16Z | CISA Known Exploited Vulnerabilities & Microsoft Sentinel | https://github.com/dcodev1702/cisa_known_exploited_cves | 0 | 0| 
-| 20230327T00:47:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 160| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230327T12:13:32Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 5 | 1| 
+| 20230327T23:59:35Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 46 | 9| 
+| 20230327T22:05:14Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 795 | 349| 
+| 20230327T21:34:09Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4304 | 1653| 
+| 20230327T19:57:35Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
+| 20230327T19:54:18Z | New release of njRAT | https://github.com/ChimesOfDestruction/njRAT-0.7d-Platinum-Edition | 2 | 0| 
+| 20230327T15:54:22Z | Maybe the most detailed analysis of pdd backdoors | https://github.com/gavinkwoe/pinduoduo_backdoor_detailed_report | 0 | 0| 
+| 20230327T15:25:24Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/ddecadall/pinduoduo_backdoor_detailed_report | 1 | 3| 
 | 20230327T12:04:07Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 3 | 0| 
-| 20230327T12:02:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4297 | 1645| 
 | 20230327T11:32:22Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 22 | 8| 
-| 20230327T10:51:35Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 786 | 343| 
 | 20230327T07:42:15Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 3 | 0| 
-| 20230327T07:00:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 124 | 14| 
-| 20230327T06:30:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2011 | 823| 
-| 20230327T04:40:36Z | AntiBackdoor | https://github.com/AckerRun1337/AntiBackdoor-Plugins | 0 | 0| 
-| 20230327T03:42:07Z | Full source code release | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 6 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T22:14:46Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 3 | 0| 
+| 20230327T21:44:43Z | Null | https://github.com/22slin22/symbolic-execution | 0 | 0| 
+| 20230327T21:39:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2198 | 612| 
 | 20230327T12:01:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3379 | 476| 
 | 20230327T07:00:03Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1042 | 128| 
 | 20230326T16:33:01Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 37 | 8| 
 | 20230326T02:24:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230325T17:22:32Z | Symbolic execution engine written for the OOX language | https://github.com/tjausm/Jip | 0 | 0| 
-| 20230325T12:35:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2196 | 610| 
 | 20230324T20:52:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 313 | 76| 
 | 20230324T01:20:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 53 | 25| 
-| 20230322T12:46:24Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 421 | 36| 
-| 20230318T20:29:27Z | Null | https://github.com/TomMD/toy-rust-symbolic-execution | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230327T11:15:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 594 | 94| 
+| 20230327T22:42:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 602 | 95| 
+| 20230327T13:42:31Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 41 | 3| 
 | 20230326T12:12:17Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 19 | 2| 
 | 20230323T12:16:40Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 2 | 0| 
 | 20230321T02:11:50Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 8 | 1| 
-| 20230319T13:09:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 40 | 3| 
 | 20230317T01:25:10Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 5 | 0| 
 | 20230315T22:41:01Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 31 | 2| 
 | 20230314T19:22:39Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 75 | 28| 
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230327T23:58:31Z | Null | https://github.com/09365693518/-fuzzy-octo-giggle | 0 | 0| 
+| 20230327T23:45:26Z | Fuzzer - Social Media App created with Django and React | https://github.com/danielrdzc/Fuzzer | 0 | 0| 
+| 20230327T23:28:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 896 | 210| 
+| 20230327T22:37:58Z | ambiente de pruebas para evaluacion | https://github.com/Behemonth/fuzzy-enigma | 0 | 0| 
+| 20230327T22:06:24Z | Yet another python wrapper for *junegunn*%s  [fzf](https://github.com/junegunn/fzf) ***pronunced yaa-pee fuzz*** with handlers for python lists, sqlite3 and postgres | https://github.com/harshalchaudhari35/yapy-fuzz | 0 | 0| 
 | 20230327T11:35:30Z | Null | https://github.com/SophrosyneX/Fuzzing-empirical-study | 0 | 0| 
 | 20230327T11:24:55Z | Null | https://github.com/MK170499/fuzzy-succotash | 0 | 0| 
 | 20230327T11:16:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1112| 
 | 20230327T11:10:31Z | Null | https://github.com/xjnine/GB-Fuzzy | 0 | 0| 
 | 20230327T09:18:35Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
-| 20230327T06:34:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8512 | 1856| 
-| 20230327T03:30:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1380 | 102| 
-| 20230327T01:54:35Z | Fuzz tool for kubernetes api. | https://github.com/DapengSun/kubernetes_fuzz_tool | 0 | 0| 
-| 20230327T01:33:02Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3488 | 416| 
-| 20230327T00:52:43Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
 
 
 
