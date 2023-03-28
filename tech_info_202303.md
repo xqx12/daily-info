@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T01:01:01Z | Um Exploit feito para roblox em C# | https://github.com/GUHhRD/Exploit-Roblox | 0 | 0| 
 | 20230327T23:52:33Z | A simple windows batch file to scan the user%s computer for any 3rd party exploitation software. | https://github.com/dtb-bullet/Roblox-3rd-Party-Software-Scanner | 2 | 0| 
 | 20230327T23:41:05Z | Descrição de vulnerabilidades conhecidas, exploits públicos, POC sobre CVE. Feito exclusivamente para fins didáticos e para o conhecimento sobre as falhas reportadas. | https://github.com/luisfelipe146/CVEpedia | 0 | 0| 
 | 20230327T22:54:37Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treespace.el | 0 | 0| 
@@ -100,13 +101,12 @@
 | 20230327T19:31:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4809 | 948| 
 | 20230327T18:44:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 409 | 80| 
 | 20230327T16:54:24Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 100 | 117| 
-| 20230327T11:54:29Z | ma5671  | https://github.com/0neday/MA5671-exploit | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T00:56:54Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 62 | 11| 
+| 20230328T01:02:05Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 63 | 11| 
 | 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
 | 20230328T00:48:10Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 797 | 349| 
 | 20230328T00:22:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4305 | 1653| 
