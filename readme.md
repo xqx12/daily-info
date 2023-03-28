@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230327T22:31:22Z | CVE-2022-46836 | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk <= 2.1.0p10, Checkmk <= 2.0.0p27, and Checkmk <= 1.6.0p29 | https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution | | 
 | 20230327T19:45:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/doosec101/CVE-2022-24716 | | 
 | 20230327T17:55:22Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 | 20230327T14:11:21Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
@@ -40,6 +39,7 @@
 | 20230327T07:59:36Z | CVE-2023-25260 | Null | https://github.com/trustcves/CVE-2023-25260 | | 
 | 20230327T07:55:18Z | CVE-2023-25261 | Null | https://github.com/trustcves/CVE-2023-25261 | | 
 | 20230327T07:29:44Z | CVE-2023-25263 | Null | https://github.com/trustcves/CVE-2023-25263 | | 
+| 20230327T07:23:38Z | cve-2023-28432 | Null | https://github.com/yuyongxr/minio_cve-2023-28432 | | 
 
 
 # klee on Github 推荐
@@ -65,10 +65,10 @@
 | 20230327T22:47:27Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
 | 20230327T22:40:34Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
 | 20230327T20:49:01Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Specter | 0 | 0| 
+| 20230327T19:31:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4809 | 948| 
 | 20230327T18:44:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 409 | 80| 
 | 20230327T16:54:24Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 100 | 117| 
 | 20230327T11:54:29Z | ma5671  | https://github.com/0neday/MA5671-exploit | 4 | 0| 
-| 20230327T11:02:50Z | x64 Linux Binary Exploitation Guide | https://github.com/lolzc0de/learn-exploitdev | 0 | 0| 
 
 
 # backdoor on Github 推荐
