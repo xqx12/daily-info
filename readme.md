@@ -53,7 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T12:17:35Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 498 | 117| 
+| 20230328T12:21:59Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 499 | 117| 
 | 20230328T12:17:25Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 857 | 383| 
 | 20230328T12:14:51Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4400 | 1698| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
