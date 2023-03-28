@@ -38,16 +38,30 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
+| 20230328T10:01:06Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET2 | 0 | 0| 
+| 20230328T10:00:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5059 | 726| 
+| 20230328T07:53:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5404 | 746| 
+| 20230328T07:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-HhvKH-exploit-suppose | 0 | 0| 
+| 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
+| 20230328T06:41:25Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1852 | 336| 
+| 20230328T03:16:06Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 123 | 29| 
+| 20230328T01:49:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 608 | 161| 
 | 20230328T01:01:01Z | Um Exploit feito para roblox em C# | https://github.com/GUHhRD/Exploit-Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T01:51:59Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 90 | 22| 
-| 20230328T01:49:03Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4312 | 1659| 
-| 20230328T01:39:02Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 802 | 351| 
-| 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
+| 20230328T12:03:37Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 495 | 114| 
+| 20230328T11:20:14Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 856 | 380| 
+| 20230328T11:19:18Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4399 | 1697| 
+| 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
+| 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
+| 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
+| 20230328T04:01:23Z | Maybe the most detailed analysis of pdd backdoors | https://github.com/gavinkwoe/pinduoduo_backdoor_detailed_report | 0 | 2| 
+| 20230328T03:51:31Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 4 | 0| 
+| 20230328T03:39:01Z | Null | https://github.com/gemarkode/PHP-command-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

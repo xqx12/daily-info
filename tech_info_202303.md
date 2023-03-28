@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T10:03:09Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET3 | 0 | 0| 
+| 20230328T10:01:06Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET2 | 0 | 0| 
+| 20230328T10:00:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5059 | 726| 
+| 20230328T07:53:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5404 | 746| 
+| 20230328T07:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-HhvKH-exploit-suppose | 0 | 0| 
+| 20230328T06:57:59Z | NLMyo🔧: a toolbox built to leverage the power of Large Language Models (LLMs) to exploit histology text reports. Demo version at: https://lbgi.fr/NLMyo | https://github.com/lambda-science/NLMyo | 0 | 0| 
+| 20230328T06:41:25Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1852 | 336| 
+| 20230328T03:16:06Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 123 | 29| 
+| 20230328T01:49:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 608 | 161| 
 | 20230328T01:01:01Z | Um Exploit feito para roblox em C# | https://github.com/GUHhRD/Exploit-Roblox | 0 | 0| 
-| 20230327T23:52:33Z | A simple windows batch file to scan the user%s computer for any 3rd party exploitation software. | https://github.com/dtb-bullet/Roblox-3rd-Party-Software-Scanner | 2 | 0| 
-| 20230327T23:41:05Z | Descrição de vulnerabilidades conhecidas, exploits públicos, POC sobre CVE. Feito exclusivamente para fins didáticos e para o conhecimento sobre as falhas reportadas. | https://github.com/luisfelipe146/CVEpedia | 0 | 0| 
-| 20230327T22:54:37Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treespace.el | 0 | 0| 
-| 20230327T22:47:27Z | flop.py documentations about pentesting attacks technique, personnal exploits/codes and any other pentest methodologies. | https://github.com/floppy-sh/Floppy_Ressources | 3 | 0| 
-| 20230327T22:40:34Z | ThinkCyber Journey | https://github.com/KaroJon/Exploits | 0 | 0| 
-| 20230327T20:49:01Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Specter | 0 | 0| 
-| 20230327T19:31:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4809 | 948| 
-| 20230327T18:44:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 409 | 80| 
-| 20230327T16:54:24Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 100 | 117| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230328T01:51:59Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 90 | 22| 
-| 20230328T01:49:03Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4312 | 1659| 
-| 20230328T01:39:02Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 802 | 351| 
-| 20230328T00:51:08Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
+| 20230328T12:03:37Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 495 | 114| 
+| 20230328T11:20:14Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 856 | 380| 
+| 20230328T11:19:18Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4399 | 1697| 
+| 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
+| 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
+| 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
+| 20230328T04:01:23Z | Maybe the most detailed analysis of pdd backdoors | https://github.com/gavinkwoe/pinduoduo_backdoor_detailed_report | 0 | 2| 
+| 20230328T03:51:31Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 4 | 0| 
+| 20230328T03:39:01Z | Null | https://github.com/gemarkode/PHP-command-backdoor | 0 | 0| 
 | 20230327T19:57:35Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
-| 20230327T19:54:18Z | New release of njRAT | https://github.com/ChimesOfDestruction/njRAT-0.7d-Platinum-Edition | 2 | 0| 
-| 20230327T15:54:22Z | Maybe the most detailed analysis of pdd backdoors | https://github.com/gavinkwoe/pinduoduo_backdoor_detailed_report | 0 | 0| 
-| 20230327T15:25:24Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/ddecadall/pinduoduo_backdoor_detailed_report | 1 | 3| 
-| 20230327T12:04:07Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 3 | 0| 
-| 20230327T11:32:22Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 22 | 8| 
 
 
 # symbolic execution on Github 推荐
