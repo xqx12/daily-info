@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T00:26:18Z | Null | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
 | 20230328T00:24:14Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 56 | 11| 
 | 20230328T00:22:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4305 | 1653| 
 | 20230328T00:15:18Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 796 | 349| 
@@ -115,7 +116,6 @@
 | 20230327T15:25:24Z | 拼多多恶意行为分析 Pinduoduo Malicious code detailed analysis  | https://github.com/ddecadall/pinduoduo_backdoor_detailed_report | 1 | 3| 
 | 20230327T12:04:07Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 3 | 0| 
 | 20230327T11:32:22Z | C2 and malware created with python | https://github.com/polymaster3313/Polyaccess | 22 | 8| 
-| 20230327T07:42:15Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
