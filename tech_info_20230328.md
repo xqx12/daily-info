@@ -93,10 +93,10 @@
 | 20230328T21:27:07Z | Null | https://github.com/aviggiano/fuzzy-fyi-demo | 0 | 0| 
 | 20230328T20:36:33Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230328T18:03:10Z | Null | https://github.com/sohaibssb/Neuro-fuzzy-systems | 0 | 0| 
-| 20230328T15:37:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3494 | 416| 
 | 20230328T12:34:04Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1586 | 271| 
 | 20230328T12:30:02Z | Building up a pretty large fuzzing list for almost everything!  | https://github.com/karanshergill/Monster-Lists | 0 | 0| 
 | 20230328T12:17:16Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 314 | 40| 
+| 20230328T11:57:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4628 | 1111| 
 
 
 
