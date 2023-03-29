@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230328T13:03:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3380 | 476| 
 | 20230328T00:18:37Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230328T00:06:33Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 422 | 36| 
 
