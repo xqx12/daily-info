@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:29:24Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
 | 20230329T11:54:29Z | A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda | https://github.com/bet4it/hyperpwn | 530 | 55| 
 | 20230329T10:24:40Z | Guide to follow the steps to run an exploit of Metasploit and upload a persistent reverse-shell file | https://github.com/SirChooks/Persistent-Exploit | 0 | 0| 
 | 20230329T10:23:44Z | Exploiting the Heartbleed bug using Go | https://github.com/nddq/heartbleed-go | 0 | 0| 
+| 20230329T09:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4820 | 950| 
 | 20230329T09:19:40Z | Full LPE Exploit for CVE-2019-5603 / FreeBSD-SA-19:15.mqueuefs / FreeBSD-SA-19:24.mqueuefs | https://github.com/raymontag/CVE-2019-5603 | 0 | 0| 
 | 20230329T09:15:47Z | Full LPE Exploit for CVE-2019-5596 / FreeBSD-SA-19:02.fd | https://github.com/raymontag/CVE-2019-5596 | 0 | 0| 
 | 20230329T09:06:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 609 | 161| 
-| 20230329T08:47:21Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1252 | 572| 
-| 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
 
 
 # backdoor on Github 推荐
