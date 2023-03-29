@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230329T01:26:30Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
+| 20230329T01:33:56Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
 | 20230329T01:18:21Z | CVE-2023-23397 | Null | https://github.com/jacquesquail/CVE-2023-23397 | | 
 | 20230328T18:04:17Z | CVE-2022-45003 | Null | https://github.com/mha98/CVE-2022-45003 | | 
 | 20230328T17:49:59Z | CVE-2022-45004 | Null | https://github.com/mha98/CVE-2022-45004 | | 
@@ -106,8 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T01:35:38Z | Null | https://github.com/zero-zdx/backdoors | 0 | 0| 
 | 20230329T01:32:27Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 881 | 387| 
-| 20230329T01:30:35Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 669 | 135| 
+| 20230329T01:30:35Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 669 | 136| 
 | 20230329T00:44:30Z | Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder | https://github.com/tsun/BDMAE | 0 | 0| 
 | 20230329T00:17:53Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 20 | 8| 
 | 20230328T16:42:16Z | A Backdoor for hack the target system | https://github.com/alihandurmus/Backdoor | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230328T12:25:43Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4401 | 1699| 
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
 | 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
-| 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
