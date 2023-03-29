@@ -11,6 +11,9 @@
 | 20230329 | Ubuntu的Linux内核以及Graphviz 软件被发现存在多个漏洞。 | http://cybersecuritynews.com/linux-kernel-vulnerabilities/| 
 | 20230329 | 一个JADX插件，可以使得JADX拥有动态代码执行的能力。 | https://www.reddit.com/r/ReverseEngineering/comments/122w8l9/github_jadxecute_enhancing_jadx_reverse/?rdt=58329| 
 | 20230329 | 微软发布基于GPT4的Security Copilot，主要亮点是1.可以部分自动化的威胁处置2.提供要给安全的AI Assistant，可以辅助人做情报总结，样本分析等 | https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/| 
+| 20230329 | 今天的大量加密骗局都涉及某种网络钓鱼攻击，用户被诱骗访问一个阴暗/恶意的网站并将他们的钱包连接到该网站。主要目标是诱骗用 户签署交易，最终让攻击者控制用户的代币 | http://blog.doyensec.com//2023/03/28/wallet-info.html| 
+| 20230329 | APPLE-SA-2023-03-27-1 iOS 16.4 和 iPadOS 16.4 修复了 iOS 16 和 iPad OS 16.4 版本中发现的一些安全问题。信息也可在 https://support.apple.com/HT21367 获得 | http://seclists.org/fulldisclosure/2023/Mar/19| 
+| 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
 | 20230327 | 泄漏后Twitter迅速向在线协作平台GitHub发送侵犯版权通知，要求其删除泄露的代码。 GitHub删除了泄漏的代码。本次泄漏的来源不排除是前雇员 | https://www.freebuf.com/news/361710.html| 
 | 20230327 | 用于 Web 应用程序安全、漏洞赏金和渗透测试的 ChatGPT 提示列表。更快的搜寻和报告 作为漏洞赏金猎人集思广益，以节省侦察时间、找到好的程序、学习技术技能、撰写报告并优化以获得最大回报 | https://github.com/TakSec/chatgpt-prompts-bug-bounty| 
 | 20230327 | RedTeamGuides 是一个提供红队教程和指导以及备忘单的平台。该平台提供了广泛的资源，包括分步教程、操作指南和备忘单，涵盖与红队和渗透测试技术相关的不同主题，例如侦察、开发、后期开发和特权升级 | https://redteamguides.com| 
@@ -23,9 +26,6 @@
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://sec.today/pulses/cf2e1209-12a9-4d73-972a-08b2bc9f46ba/| 
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://gbhackers.com/malicious-chatgpt-chrome-extension/| 
 | 20230327 | Web 3.0 仍将是犯罪分子的游乐场，他们将利用尖端技术进行数据盗窃、金融阴谋等老套路。在本文中，我将详细介绍诈骗者如何使用 IPFS 进行电子邮件钓鱼攻击 | https://securelist.com/ipfs-phishing/109158/?reseller=gb_kdaily-blog_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=gl_kdaily-blog_ag0241&utm_content=sm-post&utm_term=gl_twitter_organic_dbjq4xrtw241rcn| 
-| 20230327 | 由中国第三大电子商务公司拼多多数字签名的 Android 应用程序利用一个零日漏洞，允许他们暗中控制数百万最终用户设备窃取个人数据并安装恶意应用程序 | https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/| 
-| 20230327 | NullMixer，一种基于 SEO 投毒和社会工程技术的全球恶意软件传播策略，用于精准引诱技术的用户（包括 IT 人员）。大多数受害者安装了 Windows 10 专业版和企业版操作系统，包括 Windows Server 的多个数据中心版本。其中一些也是 Windows Embedded，表明此类恶意软件操作甚至渗透到 IoT 环境中。 | https://securityaffairs.com/144092/malware/maas-threats-delivered-through-nullmixer-malware.html| 
-| 20230327 | 微软研究员发布的GPT4的详细评测，评测范围包括GPT在多模态、跨学科理解、代码、数学、心理学等多个方面。评测结果显示GPT4已经可以称作为AGI的雏形。 | https://arxiv.org/abs/2303.12712| 
 
 
 # 安全维基 推荐

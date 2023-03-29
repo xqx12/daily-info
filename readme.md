@@ -11,6 +11,9 @@
 | 20230329 | Ubuntu的Linux内核以及Graphviz 软件被发现存在多个漏洞。 | http://cybersecuritynews.com/linux-kernel-vulnerabilities/| 
 | 20230329 | 一个JADX插件，可以使得JADX拥有动态代码执行的能力。 | https://www.reddit.com/r/ReverseEngineering/comments/122w8l9/github_jadxecute_enhancing_jadx_reverse/?rdt=58329| 
 | 20230329 | 微软发布基于GPT4的Security Copilot，主要亮点是1.可以部分自动化的威胁处置2.提供要给安全的AI Assistant，可以辅助人做情报总结，样本分析等 | https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/| 
+| 20230329 | 今天的大量加密骗局都涉及某种网络钓鱼攻击，用户被诱骗访问一个阴暗/恶意的网站并将他们的钱包连接到该网站。主要目标是诱骗用 户签署交易，最终让攻击者控制用户的代币 | http://blog.doyensec.com//2023/03/28/wallet-info.html| 
+| 20230329 | APPLE-SA-2023-03-27-1 iOS 16.4 和 iPadOS 16.4 修复了 iOS 16 和 iPad OS 16.4 版本中发现的一些安全问题。信息也可在 https://support.apple.com/HT21367 获得 | http://seclists.org/fulldisclosure/2023/Mar/19| 
+| 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
 
 
 # 安全维基 推荐
