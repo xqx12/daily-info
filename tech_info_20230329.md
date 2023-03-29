@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:26:49Z | Null | https://github.com/kurotych/fuzzy-tag.nvim | 0 | 0| 
 | 20230329T12:21:44Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
 | 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
 | 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 

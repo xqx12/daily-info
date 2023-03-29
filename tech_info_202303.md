@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:26:49Z | Null | https://github.com/kurotych/fuzzy-tag.nvim | 0 | 0| 
 | 20230329T12:21:44Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
 | 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
 | 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 
@@ -160,7 +161,6 @@
 | 20230329T00:56:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3493 | 416| 
 | 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
 | 20230328T23:19:42Z | Null | https://github.com/Audrey-505/fuzzy-octo-chainsaw | 0 | 0| 
-| 20230328T21:47:09Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4976 | 521| 
 
 
 
