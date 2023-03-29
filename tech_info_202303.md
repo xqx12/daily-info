@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:47:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-uf_yg-exploit-have | 0 | 0| 
+| 20230329T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-3HQoF-check-exploit | 0 | 0| 
 | 20230329T12:29:24Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20230329T10:23:44Z | Exploiting the Heartbleed bug using Go | https://github.com/nddq/heartbleed-go | 0 | 0| 
 | 20230329T10:04:00Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8283 | 1911| 
 | 20230329T09:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4820 | 950| 
-| 20230329T09:19:40Z | Full LPE Exploit for CVE-2019-5603 / FreeBSD-SA-19:15.mqueuefs / FreeBSD-SA-19:24.mqueuefs | https://github.com/raymontag/CVE-2019-5603 | 0 | 0| 
-| 20230329T09:15:47Z | Full LPE Exploit for CVE-2019-5596 / FreeBSD-SA-19:02.fd | https://github.com/raymontag/CVE-2019-5596 | 0 | 0| 
 
 
 # backdoor on Github 推荐
