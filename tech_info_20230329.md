@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:51:21Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:47:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-uf_yg-exploit-have | 0 | 0| 
 | 20230329T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-3HQoF-check-exploit | 0 | 0| 
-| 20230329T12:29:24Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
 | 20230329T11:54:29Z | A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda | https://github.com/bet4it/hyperpwn | 530 | 55| 
