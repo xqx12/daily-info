@@ -96,11 +96,11 @@
 | 20230329T10:24:40Z | Guide to follow the steps to run an exploit of Metasploit and upload a persistent reverse-shell file | https://github.com/SirChooks/Persistent-Exploit | 0 | 0| 
 | 20230329T10:23:44Z | Exploiting the Heartbleed bug using Go | https://github.com/nddq/heartbleed-go | 0 | 0| 
 | 20230329T09:19:40Z | Full LPE Exploit for CVE-2019-5603 / FreeBSD-SA-19:15.mqueuefs / FreeBSD-SA-19:24.mqueuefs | https://github.com/raymontag/CVE-2019-5603 | 0 | 0| 
+| 20230329T09:15:47Z | Full LPE Exploit for CVE-2019-5596 / FreeBSD-SA-19:02.fd | https://github.com/raymontag/CVE-2019-5596 | 0 | 0| 
 | 20230329T09:06:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 609 | 161| 
+| 20230329T08:47:21Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1252 | 572| 
 | 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
 | 20230328T23:05:22Z | Source for %Exploiting Symmetry in High-Dimensional Dynamic Programming% | https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming | 9 | 3| 
-| 20230328T21:58:40Z | A repo for security research and PoCs | https://github.com/stigward/PoCs-and-Exploits | 1 | 0| 
-| 20230328T21:33:13Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebund.el | 0 | 0| 
 
 
 # backdoor on Github 推荐
