@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T01:16:41Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 664 | 135| 
+| 20230329T01:25:58Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 668 | 135| 
 | 20230329T01:03:32Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 878 | 386| 
 | 20230329T00:17:53Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 20 | 8| 
 | 20230328T16:42:16Z | A Backdoor for hack the target system | https://github.com/alihandurmus/Backdoor | 0 | 0| 
