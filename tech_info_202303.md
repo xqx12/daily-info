@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230329T01:26:30Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
 | 20230329T01:18:21Z | CVE-2023-23397 | Null | https://github.com/jacquesquail/CVE-2023-23397 | | 
 | 20230328T18:04:17Z | CVE-2022-45003 | Null | https://github.com/mha98/CVE-2022-45003 | | 
 | 20230328T17:49:59Z | CVE-2022-45004 | Null | https://github.com/mha98/CVE-2022-45004 | | 
@@ -55,7 +56,6 @@
 | 20230328T03:25:10Z | Cve-2023-28432 | 通过vulhub的复现过程实现了，基本的批量检测。比较垃圾但是勉强能用 | https://github.com/steponeerror/Cve-2023-28432- | | 
 | 20230328T00:31:50Z | CVE-2022-46836 | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk <= 2.1.0p10, Checkmk <= 2.0.0p27, and Checkmk <= 1.6.0p29 | https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution | | 
 | 20230327T19:45:56Z | CVE-2022-24716 | Arbitrary File Disclosure Vulnerability in Icinga Web 2 <2.8.6, <2.9.6, <2.10 | https://github.com/doosec101/CVE-2022-24716 | | 
-| 20230327T14:11:21Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
 
 
 # klee on Github 推荐
@@ -106,8 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T01:27:14Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 879 | 387| 
 | 20230329T01:25:58Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 668 | 135| 
-| 20230329T01:03:32Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 878 | 386| 
+| 20230329T00:44:30Z | Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder | https://github.com/tsun/BDMAE | 0 | 0| 
 | 20230329T00:17:53Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 20 | 8| 
 | 20230328T16:42:16Z | A Backdoor for hack the target system | https://github.com/alihandurmus/Backdoor | 0 | 0| 
 | 20230328T15:56:15Z | Roblox scripts. Fastest backdoor scanner. Infecter | https://github.com/Its-LALOL/LALOL-Hub | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230328T05:27:10Z | The system created helps users to detect backdoors in Android applications running in the background. | https://github.com/Ashafrida/Backdoor-Detection-in-Android-applications- | 0 | 0| 
 | 20230328T05:15:00Z | Null | https://github.com/jayantkhanna1/Backdoor | 0 | 0| 
 | 20230328T04:29:07Z | Multiplayer React/Backbone Web poker game | https://github.com/dtoney12/BackDoorPoker | 0 | 0| 
-| 20230328T04:01:23Z | Maybe the most detailed analysis of pdd backdoors | https://github.com/gavinkwoe/pinduoduo_backdoor_detailed_report | 0 | 2| 
 
 
 # symbolic execution on Github 推荐
