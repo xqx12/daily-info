@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
 | 20230328T23:05:22Z | Source for %Exploiting Symmetry in High-Dimensional Dynamic Programming% | https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming | 9 | 3| 
 | 20230328T21:58:40Z | A repo for security research and PoCs | https://github.com/stigward/PoCs-and-Exploits | 1 | 0| 
 | 20230328T21:33:13Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebund.el | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230328T17:19:32Z | Living Off The Land Binaries And Exploits | https://github.com/theaqueen21/LOLBAH | 0 | 0| 
 | 20230328T12:29:58Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET_ | 0 | 0| 
 | 20230328T12:25:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/testuser-0002-app-5cwOl-exploit-rid | 0 | 0| 
-| 20230328T12:16:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 161| 
 
 
 # backdoor on Github 推荐
