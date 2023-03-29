@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T01:05:06Z | Null | https://github.com/cabralpriscila/fuzzi-trader | 0 | 0| 
 | 20230329T00:59:21Z | Null | https://github.com/MasterSeafood-SeafoodMaster/cihw_fuzzySystem-python | 0 | 0| 
 | 20230329T00:56:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3493 | 416| 
 | 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
@@ -160,7 +161,6 @@
 | 20230328T21:27:07Z | Null | https://github.com/aviggiano/fuzzy-fyi-demo | 0 | 0| 
 | 20230328T20:36:33Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230328T18:03:10Z | Null | https://github.com/sohaibssb/Neuro-fuzzy-systems | 0 | 0| 
-| 20230328T12:34:04Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1586 | 271| 
 
 
 
