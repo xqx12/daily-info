@@ -14,6 +14,7 @@
 | 20230329 | 今天的大量加密骗局都涉及某种网络钓鱼攻击，用户被诱骗访问一个阴暗/恶意的网站并将他们的钱包连接到该网站。主要目标是诱骗用 户签署交易，最终让攻击者控制用户的代币 | http://blog.doyensec.com//2023/03/28/wallet-info.html| 
 | 20230329 | APPLE-SA-2023-03-27-1 iOS 16.4 和 iPadOS 16.4 修复了 iOS 16 和 iPad OS 16.4 版本中发现的一些安全问题。信息也可在 https://support.apple.com/HT21367 获得 | http://seclists.org/fulldisclosure/2023/Mar/19| 
 | 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
+| 20230329 | OpenSSL存在两个低严重性漏洞，分别涉及证书策略和证书验证函数，可被恶意攻击者利用，需要更新应用程序以进行修复。 | http://seclists.org/oss-sec/2023/q1/202?utm_source=dlvr.it&utm_medium=twitter| 
 
 
 # 安全维基 推荐
@@ -90,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T12:05:29Z | websocket fuzzer | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
+| 20230329T12:11:08Z | websocket fuzzer | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
 | 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
 | 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 
 | 20230329T10:33:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3543 | 705| 
