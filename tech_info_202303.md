@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T00:55:20Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 656 | 134| 
+| 20230329T00:57:44Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 657 | 134| 
 | 20230329T00:37:11Z | Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo | https://github.com/davinci1012/pinduoduo_backdoor_unpacker | 877 | 386| 
 | 20230329T00:17:53Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 20 | 8| 
 | 20230328T16:42:16Z | A Backdoor for hack the target system | https://github.com/alihandurmus/Backdoor | 0 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T00:59:21Z | Null | https://github.com/MasterSeafood-SeafoodMaster/cihw_fuzzySystem-python | 0 | 0| 
 | 20230329T00:56:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3493 | 416| 
 | 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
 | 20230328T23:19:42Z | Null | https://github.com/Audrey-505/fuzzy-octo-chainsaw | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230328T20:36:33Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230328T18:03:10Z | Null | https://github.com/sohaibssb/Neuro-fuzzy-systems | 0 | 0| 
 | 20230328T12:34:04Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1586 | 271| 
-| 20230328T12:30:02Z | Building up a pretty large fuzzing list for almost everything!  | https://github.com/karanshergill/Monster-Lists | 0 | 0| 
 
 
 
