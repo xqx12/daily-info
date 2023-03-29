@@ -70,12 +70,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T11:41:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
+| 20230329T07:33:19Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 37 | 8| 
+| 20230329T06:47:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3381 | 476| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T01:30:47Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 607 | 96| 
+| 20230329T08:25:46Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 3 | 0| 
+| 20230329T07:47:31Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 610 | 96| 
 
 
 # fuzz on Github 推荐
