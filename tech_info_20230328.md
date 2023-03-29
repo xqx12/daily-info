@@ -48,9 +48,9 @@
 | 20230328T18:58:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4147 | 516| 
 | 20230328T18:48:32Z | a tiny, exploitable chatbot that can use tools | https://github.com/eryk-mazus/xoxo | 21 | 2| 
 | 20230328T17:19:32Z | Living Off The Land Binaries And Exploits | https://github.com/theaqueen21/LOLBAH | 0 | 0| 
+| 20230328T14:21:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4816 | 950| 
 | 20230328T12:29:58Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET_ | 0 | 0| 
 | 20230328T12:25:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/testuser-0002-app-5cwOl-exploit-rid | 0 | 0| 
-| 20230328T12:16:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 607 | 161| 
 
 
 # backdoor on Github 推荐
