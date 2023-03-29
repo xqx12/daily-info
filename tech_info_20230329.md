@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
 | 20230329T11:54:29Z | A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda | https://github.com/bet4it/hyperpwn | 530 | 55| 
 | 20230329T10:24:40Z | Guide to follow the steps to run an exploit of Metasploit and upload a persistent reverse-shell file | https://github.com/SirChooks/Persistent-Exploit | 0 | 0| 
@@ -91,7 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T12:20:49Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
+| 20230329T12:21:44Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
 | 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
 | 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 
 | 20230329T10:33:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3543 | 705| 

@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 | 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
 | 20230329T11:54:29Z | A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda | https://github.com/bet4it/hyperpwn | 530 | 55| 
 | 20230329T10:24:40Z | Guide to follow the steps to run an exploit of Metasploit and upload a persistent reverse-shell file | https://github.com/SirChooks/Persistent-Exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230329T09:06:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 609 | 161| 
 | 20230329T08:47:21Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1252 | 572| 
 | 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
-| 20230328T23:05:22Z | Source for %Exploiting Symmetry in High-Dimensional Dynamic Programming% | https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming | 9 | 3| 
 
 
 # backdoor on Github 推荐
@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230329T12:20:49Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
+| 20230329T12:21:44Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
 | 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
 | 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 
 | 20230329T10:33:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3543 | 705| 
