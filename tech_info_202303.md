@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230330T12:36:03Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
+| 20230330T12:39:22Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
 | 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
 | 20230330T12:14:55Z | Null | https://github.com/Edumarek123/fuzzy_pid | 0 | 0| 
