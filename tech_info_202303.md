@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T10:26:17Z | Indonesian Code Party | https://github.com/revanmalang/shell-backdoor | 0 | 0| 
+| 20230330T09:20:39Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 1 | 0| 
+| 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 0| 
+| 20230330T04:38:21Z | Null | https://github.com/eunsaemy/backdoor | 0 | 0| 
+| 20230330T03:55:18Z | Null | https://github.com/DavidDontKnow/backdoor-e-com | 0 | 0| 
 | 20230329T19:51:31Z | Frontend and Backend for all of Backdoor-api | https://github.com/kekons4/Command-Center | 0 | 0| 
 | 20230329T19:40:36Z | Simple backdoor/keylogger/RAT with dedicated simple encrypted websocket C&C server. Still in development. | https://github.com/hsheric0210/Gloom | 0 | 0| 
 | 20230329T15:54:25Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 5 | 3| 
 | 20230329T13:45:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 125 | 14| 
 | 20230329T08:07:05Z | haven%t fixed the backdoor yet  | https://github.com/MallisC5/server | 0 | 0| 
-| 20230329T06:36:31Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
-| 20230329T04:27:05Z | pcb design for a distortion effect based on the ProCo RAT | https://github.com/whbeers/backdoor | 0 | 0| 
-| 20230329T03:28:17Z | Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder | https://github.com/tsun/BDMAE | 1 | 0| 
-| 20230329T01:54:58Z | Maybe the most detailed analysis of pdd  backdoors | https://github.com/davincifans101/pinduoduo_backdoor_detailed_report | 676 | 137| 
-| 20230329T01:35:38Z | Null | https://github.com/zero-zdx/backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
