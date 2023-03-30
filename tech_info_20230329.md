@@ -19,6 +19,12 @@
 | 20230329 | Internet Download Manager v6.41 Build 3 - 远程代码执行 (RCE) | https://www.exploit-db.com/exploits/51131?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230329 | 一种针对 Linux 服务器的新型恶意软件，名为 Mélofée，基于一个名为 Reptile 的开源项目，该项目的功能有限，主要是安装一个用于隐藏自身的挂钩 | https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html| 
 | 20230329 | 谷歌的威胁分析小组 (TAG) 透露，去年修补的许多零日漏洞被商业间谍软件供应商利用来针对 Android 和 iOS 设备。这两个截然不同的活动既有限又针对性强，利用了修复发布与实际部署到目标设备之间的补丁间隙。 | https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html| 
+| 20230329 | Rocket Software UniRPC 服务器（已修复）- 多个漏洞 ：unirpcd 服务中 LZ4 解压中的预验证内存耗尽，udsub 服务中的验证后堆溢出等 | https://www.rapid7.com/blog/post/2023/03/29/multiple-vulnerabilities-in-rocket-software-unirpc-server-fixed/| 
+| 20230329 | 欧洲刑警组织警告黑客使用 ChatGPT 进行网络攻击 进行网络攻击，通过利用人工智能 (LLM) 及其对调查人员的用处对恐怖分子和犯罪组织进行网络攻击 | http://cybersecuritynews.com/hackers-use-chatgpt-to-conduct-cyber-attacks/| 
+| 20230329 | HardHat C2 - 用 C# 编写的跨平台、协作、命令和控制框架，专为红队和易用性而设计。旨在帮助红队参与和渗透测试。它包含三个主要组件，一个 ASP.NET teamserver，一个 blazor .NET 客户端和基于 c# 的植入程序 | https://github.com/DragoQCC/HardHatC2| 
+| 20230329 | 根据鲁汶大学 imec-DistriNet 的 Domien Schepers、Aanjhan Ranganathan 和 Mathy Vanhoef 撰写的一项技术研究，IEEE 802.11 WiFi 协议标准中的一个基本安全漏洞允许攻击者欺骗接入点以在明文中公开网络帧 | https://gbhackers.com/new-wifi-flaw/| 
+| 20230329 | Intezer 报道称，在最近的网络间谍活动中，一名南亚高级持续威胁 (APT) 攻击者一直以中国的核能部门为目标。该组织被称为“苦涩”，至少从 2021 年开始活跃，以孟加拉国、中国、巴基斯坦和沙特阿拉伯的能源和政府组织为目标而闻名，其特点是使用 Excel 漏洞和 Microsoft 编译的 HTML 帮助（ CHM) 和 Windows Installer (MSI) 文件 | https://www.securityweek.com/chinas-nuclear-energy-sector-targeted-in-cyberespionage-campaign/| 
+| 20230329 | ARM WebKit 远程代码执行零日漏洞 (CVE-2022-38181) 和 ARM GPU 沙箱绕过零日漏洞用于使用多个 0-day 和 n-day 漏洞攻击三星互联网浏览器版本 | https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/| 
 
 
 # 安全维基 推荐
