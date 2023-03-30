@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230330T12:13:29Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 0 | 0| 
+| 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
 | 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 | 20230330T11:58:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0457-app-aOIUR-address-exploit | 0 | 0| 
 | 20230330T11:43:57Z | Null | https://github.com/amit-pathak009/Exploit-bank | 0 | 0| 
