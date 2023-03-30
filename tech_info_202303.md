@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T23:53:07Z | Root | https://github.com/n012judge420/fuzzy-octo-umbrella | 0 | 0| 
+| 20230329T23:05:09Z | Null | https://github.com/itsyaelx/FuzzySets.py | 0 | 0| 
+| 20230329T21:54:51Z | Fluent fuzzer is simple fuzzer for your projects like Api or Unit tests projects | https://github.com/SaveliyShur/FluentFuzzer | 1 | 0| 
+| 20230329T21:18:15Z | plugin to simplify oss-fuzz for gradle project | https://github.com/loosebazooka/ossfuzz-gradle-plugin | 0 | 0| 
+| 20230329T21:16:18Z | Null | https://github.com/camiparis34/fuzzy-fortnight | 0 | 0| 
+| 20230329T20:11:34Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 20 | 0| 
+| 20230329T17:58:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2667 | 183| 
+| 20230329T17:09:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8521 | 1858| 
+| 20230329T17:05:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 900 | 212| 
 | 20230329T12:26:49Z | Null | https://github.com/kurotych/fuzzy-tag.nvim | 0 | 0| 
-| 20230329T12:21:44Z | pentesting websocket fuzzer and proxy | https://github.com/alessiogiorgianni/wsfuzz | 0 | 0| 
-| 20230329T11:20:57Z | Null | https://github.com/appconnect-testing/fuzzy-adventure | 0 | 0| 
-| 20230329T11:02:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 275 | 40| 
-| 20230329T10:33:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3543 | 705| 
-| 20230329T01:05:06Z | Null | https://github.com/cabralpriscila/fuzzi-trader | 0 | 0| 
-| 20230329T00:59:21Z | Null | https://github.com/MasterSeafood-SeafoodMaster/cihw_fuzzySystem-python | 0 | 0| 
-| 20230329T00:56:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3493 | 416| 
-| 20230329T00:22:52Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2199 | 415| 
-| 20230328T23:19:42Z | Null | https://github.com/Audrey-505/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
