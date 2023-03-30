@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:37:58Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
 | 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
 | 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 | 20230330T11:58:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0457-app-aOIUR-address-exploit | 0 | 0| 
@@ -52,9 +53,8 @@
 | 20230330T11:38:39Z | Null | https://github.com/ias-tubs/Accept_All_Exploits | 1 | 0| 
 | 20230330T11:37:53Z | Search for Exploits easily without any need of a local database . | https://github.com/redtrib3/Sploit-search | 4 | 0| 
 | 20230330T11:16:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0368-app-jSu3D-exploit-fulfil | 0 | 0| 
+| 20230330T10:39:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4821 | 950| 
 | 20230330T10:36:54Z | Simple tool to check Indicators of 3CX DLL-sideloading exploitation | https://github.com/tpez0/3CXIOCs | 0 | 0| 
-| 20230330T09:52:39Z | , Request to upload 3.20.20XX ,  | https://github.com/FlamesLLC/BingExploitsv0 | 0 | 0| 
-| 20230330T09:46:54Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0105-app-BL1cR-clear-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:36:03Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
 | 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
 | 20230330T12:14:55Z | Null | https://github.com/Edumarek123/fuzzy_pid | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230330T10:30:01Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2740 | 514| 
 | 20230330T09:10:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 177 | 22| 
 | 20230330T08:59:33Z | Null | https://github.com/shuimuLiu/fuzz | 0 | 0| 
-| 20230330T08:50:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3548 | 706| 
 
 
 
