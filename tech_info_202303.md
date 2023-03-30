@@ -16,6 +16,9 @@
 | 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
 | 20230329 | OpenSSL存在两个低严重性漏洞，分别涉及证书策略和证书验证函数，可被恶意攻击者利用，需要更新应用程序以进行修复。 | http://seclists.org/oss-sec/2023/q1/202?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230329 | 使用 ZoomEye 找到未启用身份验证的 Jupyter 服务器 | http://paper.seebug.org/2057/| 
+| 20230329 | Internet Download Manager v6.41 Build 3 - 远程代码执行 (RCE) | https://www.exploit-db.com/exploits/51131?utm_source=dlvr.it&utm_medium=twitter| 
+| 20230329 | 一种针对 Linux 服务器的新型恶意软件，名为 Mélofée，基于一个名为 Reptile 的开源项目，该项目的功能有限，主要是安装一个用于隐藏自身的挂钩 | https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html| 
+| 20230329 | 谷歌的威胁分析小组 (TAG) 透露，去年修补的许多零日漏洞被商业间谍软件供应商利用来针对 Android 和 iOS 设备。这两个截然不同的活动既有限又针对性强，利用了修复发布与实际部署到目标设备之间的补丁间隙。 | https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html| 
 | 20230327 | 泄漏后Twitter迅速向在线协作平台GitHub发送侵犯版权通知，要求其删除泄露的代码。 GitHub删除了泄漏的代码。本次泄漏的来源不排除是前雇员 | https://www.freebuf.com/news/361710.html| 
 | 20230327 | 用于 Web 应用程序安全、漏洞赏金和渗透测试的 ChatGPT 提示列表。更快的搜寻和报告 作为漏洞赏金猎人集思广益，以节省侦察时间、找到好的程序、学习技术技能、撰写报告并优化以获得最大回报 | https://github.com/TakSec/chatgpt-prompts-bug-bounty| 
 | 20230327 | RedTeamGuides 是一个提供红队教程和指导以及备忘单的平台。该平台提供了广泛的资源，包括分步教程、操作指南和备忘单，涵盖与红队和渗透测试技术相关的不同主题，例如侦察、开发、后期开发和特权升级 | https://redteamguides.com| 
@@ -23,9 +26,6 @@
 | 20230327 | QRExfiltrate - 允许您将任何二进制文件转换为二维码视频的工具。二进制文件的数据可以被重新组合恢复，从而允许在屋里隔离的系统中泄露数据 | https://www.kitploit.com/2023/03/qrexfiltrate-tool-that-allows-you-to.html| 
 | 20230327 | Pwn2Own Vancouver 2023 - 对Tesla Model 3 上的信息娱乐系统进行漏洞利用；使用堆溢出和 OOB 写入来提升权限 | http://cybersecuritynews.com/pwn2own-vancouver-2023/| 
 | 20230327 | Near-Ultrasound Inaudible Trojan可以对智能手机、智能扬声器和其他物联网（包括苹果的 Siri、谷歌的助手、微软的 Cortana 和亚马逊的 Alex）等由语音助手驱动的设备发起无声攻击 | https://www.bleepingcomputer.com/news/security/inaudible-ultrasound-attack-can-stealthily-control-your-phone-smart-speaker/| 
-| 20230327 | CVE-2023-1177：MLflow 中的 LFI/RFI：本地文件包含/远程文件注入组合漏洞可导致整个系统或云提供商被远程未经身份验证的攻击接管 | https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow| 
-| 20230327 | GitHub.com 的 RSA SSH 私钥曾短暂暴露在公共 GitHub 存储库中。我们没有理由相信暴露的密钥被滥用，并且出于谨慎考虑采取了这一行动。我们更新了 RSASSH 主机 key | http://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/| 
-| 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://sec.today/pulses/cf2e1209-12a9-4d73-972a-08b2bc9f46ba/| 
 
 
 # 安全维基 推荐

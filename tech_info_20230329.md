@@ -16,6 +16,9 @@
 | 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
 | 20230329 | OpenSSL存在两个低严重性漏洞，分别涉及证书策略和证书验证函数，可被恶意攻击者利用，需要更新应用程序以进行修复。 | http://seclists.org/oss-sec/2023/q1/202?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230329 | 使用 ZoomEye 找到未启用身份验证的 Jupyter 服务器 | http://paper.seebug.org/2057/| 
+| 20230329 | Internet Download Manager v6.41 Build 3 - 远程代码执行 (RCE) | https://www.exploit-db.com/exploits/51131?utm_source=dlvr.it&utm_medium=twitter| 
+| 20230329 | 一种针对 Linux 服务器的新型恶意软件，名为 Mélofée，基于一个名为 Reptile 的开源项目，该项目的功能有限，主要是安装一个用于隐藏自身的挂钩 | https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html| 
+| 20230329 | 谷歌的威胁分析小组 (TAG) 透露，去年修补的许多零日漏洞被商业间谍软件供应商利用来针对 Android 和 iOS 设备。这两个截然不同的活动既有限又针对性强，利用了修复发布与实际部署到目标设备之间的补丁间隙。 | https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html| 
 
 
 # 安全维基 推荐
