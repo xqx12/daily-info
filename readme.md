@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:08:48Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 | 20230330T11:58:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0457-app-aOIUR-address-exploit | 0 | 0| 
 | 20230330T11:43:57Z | Null | https://github.com/amit-pathak009/Exploit-bank | 0 | 0| 
 | 20230330T11:38:39Z | Null | https://github.com/ias-tubs/Accept_All_Exploits | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20230330T09:52:39Z | , Request to upload 3.20.20XX ,  | https://github.com/FlamesLLC/BingExploitsv0 | 0 | 0| 
 | 20230330T09:46:54Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0105-app-BL1cR-clear-exploit | 0 | 0| 
 | 20230330T09:43:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0079-app-mhBVT-exploit-permit | 0 | 0| 
-| 20230330T09:42:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0061-app-ttrcF-complete-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
