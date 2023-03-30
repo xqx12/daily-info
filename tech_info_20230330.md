@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:46:43Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 | 20230330T12:39:22Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
 | 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230330T10:38:33Z | FuzzyDR: Fuzzy Deontic Reasoning for Agent Deliberation within Institutional Enivronments | https://github.com/complexityOfDharma/FuzzyDR | 0 | 0| 
 | 20230330T10:30:01Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2740 | 514| 
 | 20230330T09:10:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 177 | 22| 
-| 20230330T08:59:33Z | Null | https://github.com/shuimuLiu/fuzz | 0 | 0| 
 
 
 
