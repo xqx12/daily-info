@@ -57,11 +57,11 @@
 | 20230329T20:42:07Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/HellenM3/VENOM-RAT-HVNC-5.6 | 20 | 0| 
 | 20230329T19:47:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-I_sCR-exploit-pay | 0 | 0| 
 | 20230329T19:12:48Z | Post-Exploitation Tool to Steal MySQL Data, and with persistence extract all data from MySQL table every time that Windows are opened with a Server to receive the extracted Files | https://github.com/S12cybersecurity/MySQL-DataStealer | 1 | 0| 
-| 20230329T13:58:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4821 | 950| 
 | 20230329T12:51:21Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:47:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-uf_yg-exploit-have | 0 | 0| 
 | 20230329T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-3HQoF-check-exploit | 0 | 0| 
 | 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
+| 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
 
 
 # backdoor on Github 推荐
