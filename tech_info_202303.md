@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T00:18:58Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 883 | 99| 
 | 20230329T22:06:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 610 | 161| 
 | 20230329T21:25:41Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
 | 20230329T20:42:07Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/HellenM3/VENOM-RAT-HVNC-5.6 | 20 | 0| 
@@ -100,7 +101,6 @@
 | 20230329T12:51:21Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:47:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-uf_yg-exploit-have | 0 | 0| 
 | 20230329T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-3HQoF-check-exploit | 0 | 0| 
-| 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
