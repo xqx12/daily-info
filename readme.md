@@ -104,6 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230329T23:53:07Z | Root | https://github.com/n012judge420/fuzzy-octo-umbrella | 0 | 0| 
 | 20230329T23:05:09Z | Null | https://github.com/itsyaelx/FuzzySets.py | 0 | 0| 
+| 20230329T22:50:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4977 | 521| 
 | 20230329T21:54:51Z | Fluent fuzzer is simple fuzzer for your projects like Api or Unit tests projects | https://github.com/SaveliyShur/FluentFuzzer | 1 | 0| 
 | 20230329T21:18:15Z | plugin to simplify oss-fuzz for gradle project | https://github.com/loosebazooka/ossfuzz-gradle-plugin | 0 | 0| 
 | 20230329T21:16:18Z | Null | https://github.com/camiparis34/fuzzy-fortnight | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230329T17:58:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2667 | 183| 
 | 20230329T17:09:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8521 | 1858| 
 | 20230329T17:05:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 900 | 212| 
-| 20230329T12:26:49Z | Null | https://github.com/kurotych/fuzzy-tag.nvim | 0 | 0| 
 
 
 
