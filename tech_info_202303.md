@@ -15,6 +15,7 @@
 | 20230329 | APPLE-SA-2023-03-27-1 iOS 16.4 和 iPadOS 16.4 修复了 iOS 16 和 iPad OS 16.4 版本中发现的一些安全问题。信息也可在 https://support.apple.com/HT21367 获得 | http://seclists.org/fulldisclosure/2023/Mar/19| 
 | 20230329 | PaleRa1n 越狱已发展成为最可靠的 iOS 15 和 iOS 16 越狱，兼容 iOS 15.0 一直到 iOS 16.3.1（支持 iOS 16.4）。越狱基于 checkm8 漏洞利用 | https://idevicecentral.com/ios-customization/best-10-jailbreak-tweaks-for-palera1n-jailbreak-on-ios-15-and-ios-16/| 
 | 20230329 | OpenSSL存在两个低严重性漏洞，分别涉及证书策略和证书验证函数，可被恶意攻击者利用，需要更新应用程序以进行修复。 | http://seclists.org/oss-sec/2023/q1/202?utm_source=dlvr.it&utm_medium=twitter| 
+| 20230329 | 使用 ZoomEye 找到未启用身份验证的 Jupyter 服务器 | http://paper.seebug.org/2057/| 
 | 20230327 | 泄漏后Twitter迅速向在线协作平台GitHub发送侵犯版权通知，要求其删除泄露的代码。 GitHub删除了泄漏的代码。本次泄漏的来源不排除是前雇员 | https://www.freebuf.com/news/361710.html| 
 | 20230327 | 用于 Web 应用程序安全、漏洞赏金和渗透测试的 ChatGPT 提示列表。更快的搜寻和报告 作为漏洞赏金猎人集思广益，以节省侦察时间、找到好的程序、学习技术技能、撰写报告并优化以获得最大回报 | https://github.com/TakSec/chatgpt-prompts-bug-bounty| 
 | 20230327 | RedTeamGuides 是一个提供红队教程和指导以及备忘单的平台。该平台提供了广泛的资源，包括分步教程、操作指南和备忘单，涵盖与红队和渗透测试技术相关的不同主题，例如侦察、开发、后期开发和特权升级 | https://redteamguides.com| 
@@ -25,7 +26,6 @@
 | 20230327 | CVE-2023-1177：MLflow 中的 LFI/RFI：本地文件包含/远程文件注入组合漏洞可导致整个系统或云提供商被远程未经身份验证的攻击接管 | https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow| 
 | 20230327 | GitHub.com 的 RSA SSH 私钥曾短暂暴露在公共 GitHub 存储库中。我们没有理由相信暴露的密钥被滥用，并且出于谨慎考虑采取了这一行动。我们更新了 RSASSH 主机 key | http://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/| 
 | 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://sec.today/pulses/cf2e1209-12a9-4d73-972a-08b2bc9f46ba/| 
-| 20230327 | 由于Google Chrome 上的ChatGPT 扩展程序的木马化版本，数以千计的 Facebook 帐户被盗。恶意版本有额外的代码来从 Facebook 窃取 Facebook 会话 cookie。此扩展程序由发布者于 2023 年 2 月 14 日发布，可供 Chrome 网上应用店用户使用 | https://gbhackers.com/malicious-chatgpt-chrome-extension/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230329T13:13:02Z | CVE-2023-27532 | POC for Veeam Backup and Replication CVE-2023-27532 | https://github.com/horizon3ai/CVE-2023-27532 | | 
+| 20230329T13:12:50Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
 | 20230329T04:39:38Z | CVE-2023-24998 | Apache Commons FileUpload 보안 취약점 테스트 | https://github.com/nice1st/CVE-2023-24998 | | 
 | 20230329T03:56:25Z | CVE-2023-8888 | CVE-2023-8888.test | https://github.com/xiahao90/CVE-2023-8888.test | | 
 | 20230329T02:08:33Z | CVE-2023-26984 | An issue in the password reset function of Peppermint v0.2.4 allows attackers to access the emails and passwords of the Tickets page via a crafted request. | https://github.com/bypazs/CVE-2023-26984 | | 
 | 20230329T02:01:52Z | CVE-2023-26982 | Trudesk v1.2.6 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Add Tags parameter under the Create Ticket function. | https://github.com/bypazs/CVE-2023-26982 | | 
-| 20230329T01:33:56Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
 | 20230329T01:18:21Z | CVE-2023-23397 | Null | https://github.com/jacquesquail/CVE-2023-23397 | | 
 | 20230328T18:04:17Z | CVE-2022-45003 | Null | https://github.com/mha98/CVE-2022-45003 | | 
 | 20230328T17:49:59Z | CVE-2022-45004 | Null | https://github.com/mha98/CVE-2022-45004 | | 
 | 20230328T13:07:34Z | CVE-2023-1665 | CVE-2023-1665 - Twake App | https://github.com/0xsu3ks/CVE-2023-1665 | | 
-| 20230328T10:09:23Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure | https://github.com/Acceis/exploit-CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230327T19:13:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 314 | 76| 
+| 20230329T21:38:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 315 | 76| 
 | 20230327T14:22:44Z | Null | https://github.com/KimKiHyun0206/S2E4 | 0 | 0| 
 | 20230325T09:36:59Z | Null | https://github.com/naeuny/S2eunho | 0 | 0| 
 | 20230322T09:27:35Z | Null | https://github.com/turbocanary/turbotest_rmukat1d_s2e36nfa | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230329T22:06:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 610 | 161| 
+| 20230329T21:25:41Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
+| 20230329T20:42:07Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/HellenM3/VENOM-RAT-HVNC-5.6 | 20 | 0| 
+| 20230329T19:47:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-I_sCR-exploit-pay | 0 | 0| 
+| 20230329T19:12:48Z | Post-Exploitation Tool to Steal MySQL Data, and with persistence extract all data from MySQL table every time that Windows are opened with a Server to receive the extracted Files | https://github.com/S12cybersecurity/MySQL-DataStealer | 1 | 0| 
+| 20230329T14:48:55Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 102 | 125| 
 | 20230329T12:51:21Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230329T12:47:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-uf_yg-exploit-have | 0 | 0| 
 | 20230329T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-3HQoF-check-exploit | 0 | 0| 
 | 20230329T12:18:02Z | Roblox exploit scripts archive. | https://github.com/Lyuuniversal/Scripts | 0 | 0| 
-| 20230329T11:57:08Z | Null | https://github.com/Jonaspng/CTF_Exploit_website | 0 | 0| 
-| 20230329T11:54:29Z | A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda | https://github.com/bet4it/hyperpwn | 530 | 55| 
-| 20230329T10:24:40Z | Guide to follow the steps to run an exploit of Metasploit and upload a persistent reverse-shell file | https://github.com/SirChooks/Persistent-Exploit | 0 | 0| 
-| 20230329T10:23:44Z | Exploiting the Heartbleed bug using Go | https://github.com/nddq/heartbleed-go | 0 | 0| 
-| 20230329T10:04:00Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8283 | 1911| 
-| 20230329T09:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4820 | 950| 
 
 
 # backdoor on Github 推荐
