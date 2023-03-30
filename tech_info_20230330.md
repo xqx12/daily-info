@@ -62,7 +62,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230330T10:26:17Z | Indonesian Code Party | https://github.com/revanmalang/shell-backdoor | 0 | 0| 
 | 20230330T09:20:39Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 1 | 0| 
-| 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 0| 
+| 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 1| 
 | 20230330T04:38:21Z | Null | https://github.com/eunsaemy/backdoor | 0 | 0| 
 | 20230330T03:55:18Z | Null | https://github.com/DavidDontKnow/backdoor-e-com | 0 | 0| 
 
