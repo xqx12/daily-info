@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230330T12:37:58Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
+| 20230330T12:54:37Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
 | 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
 | 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 | 20230330T11:58:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0457-app-aOIUR-address-exploit | 0 | 0| 
@@ -85,8 +85,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:49:42Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 | 20230330T12:48:51Z | A believer in the true spirit of friendship and world being one big happy family | https://github.com/ash-pixel/fuzzy-invention | 0 | 0| 
-| 20230330T12:46:43Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 | 20230330T12:39:22Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
 | 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
