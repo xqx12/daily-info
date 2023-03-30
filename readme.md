@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
 | 20230330T12:14:55Z | Null | https://github.com/Edumarek123/fuzzy_pid | 0 | 0| 
 | 20230330T11:41:43Z | WFD Detection in Vannamei Shrimp Using Fuzzy Logic | https://github.com/lsawfa/WFD-Detection-Using-Fuzzy | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230330T09:10:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 177 | 22| 
 | 20230330T08:59:33Z | Null | https://github.com/shuimuLiu/fuzz | 0 | 0| 
 | 20230330T08:50:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3548 | 706| 
-| 20230330T08:42:53Z | Course project of Automated Testing 2022fall, NJU Software Institute. | https://github.com/Cyrus-iwnl/fuzz-cov | 0 | 0| 
 
 
 
