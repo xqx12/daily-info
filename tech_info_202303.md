@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T01:54:36Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230330T01:45:47Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4978 | 521| 
 | 20230330T00:54:01Z | Muhammad andika | https://github.com/Dika7890/fuzzy-barnacle | 0 | 0| 
 | 20230330T00:48:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3497 | 416| 
@@ -160,7 +161,6 @@
 | 20230329T21:18:15Z | plugin to simplify oss-fuzz for gradle project | https://github.com/loosebazooka/ossfuzz-gradle-plugin | 0 | 0| 
 | 20230329T21:16:18Z | Null | https://github.com/camiparis34/fuzzy-fortnight | 0 | 0| 
 | 20230329T20:11:34Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 20 | 0| 
-| 20230329T17:58:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2667 | 183| 
 
 
 
