@@ -77,9 +77,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T12:29:06Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 1 | 0| 
 | 20230331T12:14:55Z | In this project we are doing temperature controlling using fuzzy logic libraries from MATLAB using different rule based that are in parallel with our needs for natural applications. | https://github.com/basheeraltaweel/Temperature-control-using-fuzzy-logic | 0 | 0| 
 | 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
-| 20230331T11:18:13Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 0 | 0| 
 | 20230331T11:10:53Z | Null | https://github.com/shark4ce/concurrency-fuzzing-github-query | 0 | 0| 
 | 20230331T10:34:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3550 | 708| 
 | 20230331T08:44:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 750 | 104| 
