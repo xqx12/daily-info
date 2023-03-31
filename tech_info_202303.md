@@ -92,7 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230331T01:10:18Z | , Request to upload 2.30.20XX.  , @FlamesLLC [C] - Flames 20XX [C] 20XX | https://github.com/FlamesLLC/Exploits--FlamesLLCOpsec20XX | 0 | 0| 
-| 20230331T01:09:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4824 | 951| 
+| 20230331T01:09:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4824 | 952| 
 | 20230331T00:06:47Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 7 | 0| 
 | 20230330T23:56:52Z | Exploit | https://github.com/IDontFeelLikeIt/Exploit | 0 | 0| 
 | 20230330T23:50:39Z | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/wc-uaa-exploit | 0 | 0| 
