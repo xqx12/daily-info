@@ -45,6 +45,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T11:41:53Z | FiveM Cheat ESP Aim and fun mods Make Sure To Run The Hack BEFORE THE GAME ! Admin exploit only works on some servers  image  image  mod menu | https://github.com/KyotoCheats/kyotocheats | 0 | 0| 
+| 20230331T10:23:44Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 1 | 0| 
+| 20230331T10:21:58Z | RobloxInjector-V2.4-BUILD SYSTEM REQUIREMENTS: Intel & Amd Processor; Windows 10/8.1/8 | https://github.com/angelcheats/RobloxInjector-V2.6-exploits | 0 | 0| 
+| 20230331T10:02:20Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
+| 20230331T03:43:25Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 72 | 18| 
 | 20230331T01:10:18Z | , Request to upload 2.30.20XX.  , @FlamesLLC [C] - Flames 20XX [C] 20XX | https://github.com/FlamesLLC/Exploits--FlamesLLCOpsec20XX | 0 | 0| 
 | 20230331T01:09:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4824 | 952| 
 | 20230331T00:06:47Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 7 | 0| 
@@ -59,11 +64,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T08:28:20Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1045 | 128| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T09:47:50Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 619 | 97| 
 
 
 # fuzz on Github 推荐

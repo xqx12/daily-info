@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T11:41:53Z | FiveM Cheat ESP Aim and fun mods Make Sure To Run The Hack BEFORE THE GAME ! Admin exploit only works on some servers  image  image  mod menu | https://github.com/KyotoCheats/kyotocheats | 0 | 0| 
+| 20230331T10:23:44Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 1 | 0| 
+| 20230331T10:21:58Z | RobloxInjector-V2.4-BUILD SYSTEM REQUIREMENTS: Intel & Amd Processor; Windows 10/8.1/8 | https://github.com/angelcheats/RobloxInjector-V2.6-exploits | 0 | 0| 
+| 20230331T10:02:20Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
+| 20230331T03:43:25Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 72 | 18| 
 | 20230331T01:10:18Z | , Request to upload 2.30.20XX.  , @FlamesLLC [C] - Flames 20XX [C] 20XX | https://github.com/FlamesLLC/Exploits--FlamesLLCOpsec20XX | 0 | 0| 
 | 20230331T01:09:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4824 | 952| 
 | 20230331T00:06:47Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 7 | 0| 
 | 20230330T23:56:52Z | Exploit | https://github.com/IDontFeelLikeIt/Exploit | 0 | 0| 
 | 20230330T23:50:39Z | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/wc-uaa-exploit | 0 | 0| 
-| 20230330T23:49:42Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 897 | 101| 
-| 20230330T23:40:34Z | Null | https://github.com/KaaZiXD/Roblox-Synapse-X-Cracked-Roblox-Exploit-Free-Download | 168 | 0| 
-| 20230330T23:04:51Z | Browser extension for js script injection. | https://github.com/Cod3dDOT/ExploitUtils | 0 | 0| 
-| 20230330T20:56:42Z | Null | https://github.com/Cod3dDOT/exploiting_tss | 0 | 0| 
-| 20230330T20:30:08Z | Null | https://github.com/Spectricium/examples-i-learned-roblox-exploits-lua | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,8 +121,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T08:28:20Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1045 | 128| 
 | 20230330T21:17:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3381 | 476| 
-| 20230330T02:31:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1044 | 128| 
 | 20230329T13:39:21Z | Null | https://github.com/22slin22/symbolic-execution | 0 | 0| 
 | 20230329T11:41:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
 | 20230329T07:33:19Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 37 | 8| 
@@ -136,8 +136,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T09:47:50Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 619 | 97| 
 | 20230330T11:55:19Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 6 | 0| 
-| 20230330T11:19:21Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 613 | 96| 
 | 20230330T09:09:47Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 20 | 2| 
 | 20230329T08:25:46Z | Mimicking EqualNet https://www.ndss-symposium.org/wp-content/uploads/2022-154-paper.pdf | https://github.com/Abduarraheem/Mimic-EqualNet | 3 | 0| 
 | 20230328T15:26:05Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 49 | 5| 
