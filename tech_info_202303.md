@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T12:14:55Z | In this project we are doing temperature controlling using fuzzy logic libraries from MATLAB using different rule based that are in parallel with our needs for natural applications. | https://github.com/basheeraltaweel/Temperature-control-using-fuzzy-logic | 0 | 0| 
 | 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
 | 20230331T11:18:13Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 0 | 0| 
 | 20230331T11:10:53Z | Null | https://github.com/shark4ce/concurrency-fuzzing-github-query | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230331T00:24:21Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
 | 20230331T00:08:00Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
-| 20230331T00:03:47Z | Nama_NIM : Marsita Harim_E1E120014 | https://github.com/marsita-mar/Tugas3_LogikaFuzzy-Marsita-Harim | 0 | 0| 
 
 
 
