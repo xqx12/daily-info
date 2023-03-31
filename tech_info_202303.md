@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T00:24:21Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
 | 20230331T00:08:00Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
 | 20230331T00:03:47Z | Nama_NIM : Marsita Harim_E1E120014 | https://github.com/marsita-mar/Tugas3_LogikaFuzzy-Marsita-Harim | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230330T22:40:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3500 | 417| 
 | 20230330T22:33:58Z | Google Cloud, Identity Aware Proxy, Identity Platoform, Google App Engine | https://github.com/hsmtkk/fuzzy-parakeet | 0 | 0| 
 | 20230330T15:57:37Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 69 | 11| 
-| 20230330T12:49:42Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 
 
 
