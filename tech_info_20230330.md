@@ -79,7 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230330T03:22:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3379 | 476| 
+| 20230330T21:17:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3381 | 476| 
 | 20230330T02:31:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1044 | 128| 
 
 
