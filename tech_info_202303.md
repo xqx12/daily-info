@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T12:44:40Z | Null | https://github.com/leapigufpb/FuzzyClass | 0 | 0| 
 | 20230331T12:29:06Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 1 | 0| 
 | 20230331T12:14:55Z | In this project we are doing temperature controlling using fuzzy logic libraries from MATLAB using different rule based that are in parallel with our needs for natural applications. | https://github.com/basheeraltaweel/Temperature-control-using-fuzzy-logic | 0 | 0| 
 | 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20230331T08:36:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8526 | 1859| 
 | 20230331T00:24:21Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
-| 20230331T00:08:00Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
 
 
 
