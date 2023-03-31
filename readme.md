@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T12:15:33Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 904 | 187| 
 | 20230331T12:04:59Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 2 | 0| 
 | 20230331T11:41:53Z | FiveM Cheat ESP Aim and fun mods Make Sure To Run The Hack BEFORE THE GAME ! Admin exploit only works on some servers  image  image  mod menu | https://github.com/KyotoCheats/kyotocheats | 0 | 0| 
 | 20230331T10:21:58Z | RobloxInjector-V2.4-BUILD SYSTEM REQUIREMENTS: Intel & Amd Processor; Windows 10/8.1/8 | https://github.com/angelcheats/RobloxInjector-V2.6-exploits | 0 | 0| 
