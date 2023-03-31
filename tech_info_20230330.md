@@ -27,8 +27,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230330T15:17:02Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
+| 20230330T14:54:04Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/EXPLOITIOS16MACOSIPHONE14CVE202323529 | | 
+| 20230330T14:33:20Z | CVE-2023-26692 | ZCBS/ZBBS/ZPBS v4.14k - Reflected XSS | https://github.com/bigzooooz/CVE-2023-26692 | | 
+| 20230330T14:18:53Z | CVE-2020-8835 | Null | https://github.com/johnatag/INF8602-CVE-2020-8835 | | 
+| 20230330T13:54:51Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | | 
 | 20230330T10:41:21Z | CVE-2023-28447 | Module for PrestaShop 1.7.X to fix CVE-2023-28447 vulnerability (Smarty XSS) | https://github.com/drkbcn/lblfixer_cve_2023_28447 | | 
-| 20230330T10:38:00Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
 
 
 # klee on Github 推荐
@@ -45,21 +49,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T23:56:52Z | Exploit | https://github.com/IDontFeelLikeIt/Exploit | 0 | 0| 
+| 20230330T23:50:39Z | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/wc-uaa-exploit | 0 | 0| 
+| 20230330T23:49:42Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 897 | 101| 
+| 20230330T23:40:34Z | Null | https://github.com/KaaZiXD/Roblox-Synapse-X-Cracked-Roblox-Exploit-Free-Download | 168 | 0| 
+| 20230330T23:04:51Z | Browser extension for js script injection. | https://github.com/Cod3dDOT/ExploitUtils | 0 | 0| 
+| 20230330T20:56:42Z | Null | https://github.com/Cod3dDOT/exploiting_tss | 0 | 0| 
+| 20230330T20:30:08Z | Null | https://github.com/Spectricium/examples-i-learned-roblox-exploits-lua | 0 | 0| 
 | 20230330T12:54:37Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
 | 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
 | 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
-| 20230330T11:58:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0457-app-aOIUR-address-exploit | 0 | 0| 
-| 20230330T11:43:57Z | Null | https://github.com/amit-pathak009/Exploit-bank | 0 | 0| 
-| 20230330T11:38:39Z | Null | https://github.com/ias-tubs/Accept_All_Exploits | 1 | 0| 
-| 20230330T11:37:53Z | Search for Exploits easily without any need of a local database . | https://github.com/redtrib3/Sploit-search | 4 | 0| 
-| 20230330T11:16:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/loadtest-0368-app-jSu3D-exploit-fulfil | 0 | 0| 
-| 20230330T10:39:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4821 | 950| 
-| 20230330T10:36:54Z | Simple tool to check Indicators of 3CX DLL-sideloading exploitation | https://github.com/tpez0/3CXIOCs | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T19:36:22Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
+| 20230330T19:29:51Z | TheBatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheBatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. | https://github.com/abderehman-chebab/TheBatRat | 0 | 0| 
+| 20230330T15:07:15Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 10 | 3| 
+| 20230330T14:31:17Z | Null | https://github.com/truongworks/Backdoor-Iphone | 0 | 0| 
+| 20230330T13:25:06Z | Null | https://github.com/collinsowino/Backdoor | 0 | 0| 
 | 20230330T10:26:17Z | Indonesian Code Party | https://github.com/revanmalang/shell-backdoor | 0 | 0| 
 | 20230330T09:20:39Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 1 | 0| 
 | 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 1| 
@@ -85,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230330T23:59:54Z | Nama_NIM : Marsita Harim_E1E120014 | https://github.com/marsita-mar/Tugas3_LogikaFuzzy-Marsita-Harim | 0 | 0| 
+| 20230330T23:58:16Z | Null | https://github.com/tresyam/fuzzy-guide10 | 0 | 0| 
+| 20230330T23:02:54Z | Null | https://github.com/acetinkaya/python-fuzzy-logic | 1 | 0| 
+| 20230330T22:58:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8523 | 1859| 
+| 20230330T22:33:58Z | Google Cloud, Identity Aware Proxy, Identity Platoform, Google App Engine | https://github.com/hsmtkk/fuzzy-parakeet | 0 | 0| 
+| 20230330T15:57:37Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 69 | 11| 
 | 20230330T12:49:42Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 | 20230330T12:48:51Z | A believer in the true spirit of friendship and world being one big happy family | https://github.com/ash-pixel/fuzzy-invention | 0 | 0| 
 | 20230330T12:39:22Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
-| 20230330T12:32:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8522 | 1858| 
 | 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
-| 20230330T12:14:55Z | Null | https://github.com/Edumarek123/fuzzy_pid | 0 | 0| 
-| 20230330T11:41:43Z | WFD Detection in Vannamei Shrimp Using Fuzzy Logic | https://github.com/lsawfa/WFD-Detection-Using-Fuzzy | 0 | 0| 
-| 20230330T11:15:20Z | Null | https://github.com/2126ka33/fuzzy-journey | 0 | 0| 
-| 20230330T10:38:33Z | FuzzyDR: Fuzzy Deontic Reasoning for Agent Deliberation within Institutional Enivronments | https://github.com/complexityOfDharma/FuzzyDR | 0 | 0| 
-| 20230330T10:30:01Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2740 | 514| 
 
 
 
