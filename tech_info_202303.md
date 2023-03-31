@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230331 | 将来自第三方产品的 DLL 注入到 Firefox 进程中的情况非常普遍——根据我们的遥测，超过 70% 的 Windows 用户至少拥有一个这样的 DLL！ （需要明确的是，这意味着任何未由 Mozilla 或操作系统的一部分进行数字签名的 DLL） | https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/| 
+| 20230331 | Velocirraptor 版本 0.6.8 现已可用，它是用于端点取证分析的数字取证和事件响应 (DFIR) 工具 | https://www.rapid7.com/blog/post/2023/03/30/velociraptor-version-0-6-8-available-now/| 
+| 20230331 | NIST 宣布 SHA-1 应在 2030 年 12 月 31 日之前（在正式弃用 SHA-1 之后）于 2011 年彻底淘汰。 | http://evervault.com/blog/sha-1-gets-shattered| 
+| 20230331 | Team82 发布了基于 boofuzz 网络模糊器的自主开发的 OPC UA 网络模糊器，它帮助我们找到了 KepwareEX 服务器中的零日漏洞，并引发了一次崩溃，我们能够利用它来开发远程代码执行漏洞，并在Pwn2Own 迈阿密 ICS 黑客大赛。 | http://okt.to/rGmkcv| 
+| 20230331 | Joomla 4.0.0 到 4.2 中的代码执行漏洞CVE-20233-23752 | https://vulncheck.com/blog/joomla-for-rce| 
+| 20230331 | Whats Your Sign 是一个具有简单目标的实用程序：从 UI 中，可以轻松查看任何文件的加密签名信息。文件或二进制文件的加密签名很重要，因为它可以确定文件是否值得信任。例如，Apple 签名的二进制文件始终是可信的，而未签名的文件可能不受信任甚至是恶意的 | http://objective-see.org/products/whatsyoursign.html| 
+| 20230331 | Sophos X-Ops 跟踪的一个供应链攻击案例，可能由与民族国家相关的组织实施。 受影响的3CX DesktopApp——基于合法软件的 PBX 电话系统，可在 Windows、MacOS、Linux、Android 和 iO 上使用 | http://news.sophos.com/en-us/2023/03/29/3cx-dll-sideloading-attack/| 
 | 20230330 | Gold Digger 是一种工具，可扫描文件夹和文件以查找 gold.json 文件中的内容匹配项，并生成包含扫描结果的日志文件。该工具已被证明可以在处理数千个文件时提高工作效率 | http://securityonline.info/golddigger-quickly-discover-sensitive-information-in-files-recursively/| 
 | 20230329 | MacStealer：Uptycs EDR 识别的基于 macOS 的新型窃取恶意软件（配备 YARA 进程扫描、高级检测以及关联进程文件、进程和套​​接字事件的能力） | https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware| 
 | 20230329 | 从2022年9月开始出现的一系列针对加密货币用户的剪贴板注入攻击，从操作系统设计的角度来看，目前还没有什么完美的解决方案，这 在今天仍然很有意义。防止此类攻击的唯一方法是非常谨慎和细心，或者使用像样的反恶意软件解决方案来检测恶意代码 | https://securelist.com/copy-paste-heist-clipboard-injector-targeting-cryptowallets/109186/| 
@@ -19,18 +26,14 @@
 | 20230329 | 使用 ZoomEye 找到未启用身份验证的 Jupyter 服务器 | http://paper.seebug.org/2057/| 
 | 20230329 | Internet Download Manager v6.41 Build 3 - 远程代码执行 (RCE) | https://www.exploit-db.com/exploits/51131?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230329 | 一种针对 Linux 服务器的新型恶意软件，名为 Mélofée，基于一个名为 Reptile 的开源项目，该项目的功能有限，主要是安装一个用于隐藏自身的挂钩 | https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html| 
-| 20230329 | 谷歌的威胁分析小组 (TAG) 透露，去年修补的许多零日漏洞被商业间谍软件供应商利用来针对 Android 和 iOS 设备。这两个截然不同的活动既有限又针对性强，利用了修复发布与实际部署到目标设备之间的补丁间隙。 | https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html| 
-| 20230329 | Rocket Software UniRPC 服务器（已修复）- 多个漏洞 ：unirpcd 服务中 LZ4 解压中的预验证内存耗尽，udsub 服务中的验证后堆溢出等 | https://www.rapid7.com/blog/post/2023/03/29/multiple-vulnerabilities-in-rocket-software-unirpc-server-fixed/| 
-| 20230329 | 欧洲刑警组织警告黑客使用 ChatGPT 进行网络攻击 进行网络攻击，通过利用人工智能 (LLM) 及其对调查人员的用处对恐怖分子和犯罪组织进行网络攻击 | http://cybersecuritynews.com/hackers-use-chatgpt-to-conduct-cyber-attacks/| 
-| 20230329 | HardHat C2 - 用 C# 编写的跨平台、协作、命令和控制框架，专为红队和易用性而设计。旨在帮助红队参与和渗透测试。它包含三个主要组件，一个 ASP.NET teamserver，一个 blazor .NET 客户端和基于 c# 的植入程序 | https://github.com/DragoQCC/HardHatC2| 
-| 20230329 | 根据鲁汶大学 imec-DistriNet 的 Domien Schepers、Aanjhan Ranganathan 和 Mathy Vanhoef 撰写的一项技术研究，IEEE 802.11 WiFi 协议标准中的一个基本安全漏洞允许攻击者欺骗接入点以在明文中公开网络帧 | https://gbhackers.com/new-wifi-flaw/| 
-| 20230329 | Intezer 报道称，在最近的网络间谍活动中，一名南亚高级持续威胁 (APT) 攻击者一直以中国的核能部门为目标。该组织被称为“苦涩”，至少从 2021 年开始活跃，以孟加拉国、中国、巴基斯坦和沙特阿拉伯的能源和政府组织为目标而闻名，其特点是使用 Excel 漏洞和 Microsoft 编译的 HTML 帮助（ CHM) 和 Windows Installer (MSI) 文件 | https://www.securityweek.com/chinas-nuclear-energy-sector-targeted-in-cyberespionage-campaign/| 
-| 20230329 | ARM WebKit 远程代码执行零日漏洞 (CVE-2022-38181) 和 ARM GPU 沙箱绕过零日漏洞用于使用多个 0-day 和 n-day 漏洞攻击三星互联网浏览器版本 | https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230331 | 浅谈基于深度学习的漏洞检测 | https://mp.weixin.qq.com/s/fM5qAnQxWXLfAofgVqcWvw| 
+| 20230331 | 记一次RCE+heapdump信息泄露引发的血案 | https://mp.weixin.qq.com/s/6ZDto8QAUKTur5s_haGFdw| 
+| 20230331 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules| 
 | 20230330 | 隐私、安全和密码学的研究趋势 ——来自微软研究院的研究成果... | https://zhuanlan.zhihu.com/p/616161071| 
 | 20230330 | attack_range: Splunk Attack Range | https://github.com/splunk/attack_range| 
 | 20230330 | 2023产业互联网安全十大趋势报告 | https://share.weiyun.com/YqrCdqZ8| 
@@ -38,24 +41,21 @@
 | 20230330 | 源代码与二进制漏洞的融合 | https://mp.weixin.qq.com/s/07-8djbE7bnNsHCsFdEWaA| 
 | 20230330 | 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA| 
 | 20230330 | Java执行命令过程即命令拼接问题 | https://mp.weixin.qq.com/s/vUgHj6jkIGuXX4X66NutnQ| 
-| 20230330 | 纵向突破-漏洞归纳总结 | https://mp.weixin.qq.com/s/64WVh50cU31QXfL2FNN6oA| 
-| 20230330 | 美国升级爱因斯坦系统，切换国家网络防御系统后端大脑 | https://mp.weixin.qq.com/s/8qJGsK95xkR6nIEMCjbtng| 
-| 20230330 | 第十六届中国网络空间安全学科专业建设与人才培养研讨会视频回... | https://wx.vzan.com/live/page/1551654502| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230330T15:17:02Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
+| 20230331T11:07:18Z | CVE-2022-42896 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896 | | 
+| 20230331T03:36:44Z | CVE-2023-23397 | CVE-2023-23397漏洞的简单PoC，有效载荷通过电子邮件发送。 | https://github.com/CKevens/CVE-2023-23397-POC | | 
+| 20230331T02:24:16Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
+| 20230331T02:16:50Z | CVE-2023-24998 | Apache Commons FileUpload 보안 취약점 테스트 | https://github.com/nice1st/CVE-2023-24998 | | 
 | 20230330T14:54:04Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/EXPLOITIOS16MACOSIPHONE14CVE202323529 | | 
 | 20230330T14:33:20Z | CVE-2023-26692 | ZCBS/ZBBS/ZPBS v4.14k - Reflected XSS | https://github.com/bigzooooz/CVE-2023-26692 | | 
 | 20230330T14:18:53Z | CVE-2020-8835 | Null | https://github.com/johnatag/INF8602-CVE-2020-8835 | | 
 | 20230330T13:54:51Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | | 
 | 20230330T10:41:21Z | CVE-2023-28447 | Module for PrestaShop 1.7.X to fix CVE-2023-28447 vulnerability (Smarty XSS) | https://github.com/drkbcn/lblfixer_cve_2023_28447 | | 
 | 20230329T13:13:02Z | CVE-2023-27532 | POC for Veeam Backup and Replication CVE-2023-27532 | https://github.com/horizon3ai/CVE-2023-27532 | | 
-| 20230329T04:39:38Z | CVE-2023-24998 | Apache Commons FileUpload 보안 취약점 테스트 | https://github.com/nice1st/CVE-2023-24998 | | 
-| 20230329T03:56:25Z | CVE-2023-8888 | CVE-2023-8888.test | https://github.com/xiahao90/CVE-2023-8888.test | | 
-| 20230329T02:08:33Z | CVE-2023-26984 | An issue in the password reset function of Peppermint v0.2.4 allows attackers to access the emails and passwords of the Tickets page via a crafted request. | https://github.com/bypazs/CVE-2023-26984 | | 
 
 
 # klee on Github 推荐
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T03:43:29Z | Developing from GraphBackdoor_Supervised | https://github.com/Guo-lab/GraphBackdoor_Unsupervised | 1 | 0| 
 | 20230330T19:36:22Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
 | 20230330T19:29:51Z | TheBatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheBatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. | https://github.com/abderehman-chebab/TheBatRat | 0 | 0| 
 | 20230330T15:07:15Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 10 | 3| 
@@ -115,7 +116,6 @@
 | 20230330T09:20:39Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 1 | 0| 
 | 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 1| 
 | 20230330T04:38:21Z | Null | https://github.com/eunsaemy/backdoor | 0 | 0| 
-| 20230330T03:55:18Z | Null | https://github.com/DavidDontKnow/backdoor-e-com | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230331T01:45:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8524 | 1859| 
+| 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
+| 20230331T11:18:13Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 0 | 0| 
+| 20230331T11:10:53Z | Null | https://github.com/shark4ce/concurrency-fuzzing-github-query | 0 | 0| 
+| 20230331T10:34:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3550 | 708| 
+| 20230331T08:44:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 750 | 104| 
+| 20230331T08:36:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8526 | 1859| 
 | 20230331T00:24:21Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
 | 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
 | 20230331T00:08:00Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
 | 20230331T00:03:47Z | Nama_NIM : Marsita Harim_E1E120014 | https://github.com/marsita-mar/Tugas3_LogikaFuzzy-Marsita-Harim | 0 | 0| 
-| 20230330T23:58:16Z | Null | https://github.com/tresyam/fuzzy-guide10 | 0 | 0| 
-| 20230330T23:02:54Z | Null | https://github.com/acetinkaya/python-fuzzy-logic | 1 | 0| 
-| 20230330T22:40:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3500 | 417| 
-| 20230330T22:33:58Z | Google Cloud, Identity Aware Proxy, Identity Platoform, Google App Engine | https://github.com/hsmtkk/fuzzy-parakeet | 0 | 0| 
-| 20230330T15:57:37Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 69 | 11| 
 
 
 
