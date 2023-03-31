@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T00:06:47Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 7 | 0| 
 | 20230330T23:56:52Z | Exploit | https://github.com/IDontFeelLikeIt/Exploit | 0 | 0| 
 | 20230330T23:50:39Z | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/wc-uaa-exploit | 0 | 0| 
 | 20230330T23:49:42Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 897 | 101| 
@@ -100,7 +101,6 @@
 | 20230330T20:30:08Z | Null | https://github.com/Spectricium/examples-i-learned-roblox-exploits-lua | 0 | 0| 
 | 20230330T12:54:37Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
 | 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
-| 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
