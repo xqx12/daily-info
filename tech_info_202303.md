@@ -151,6 +151,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
+| 20230331T00:08:00Z | Null | https://github.com/csiul/Projet-Fuzzer | 0 | 0| 
 | 20230331T00:03:47Z | Nama_NIM : Marsita Harim_E1E120014 | https://github.com/marsita-mar/Tugas3_LogikaFuzzy-Marsita-Harim | 0 | 0| 
 | 20230330T23:58:16Z | Null | https://github.com/tresyam/fuzzy-guide10 | 0 | 0| 
 | 20230330T23:02:54Z | Null | https://github.com/acetinkaya/python-fuzzy-logic | 1 | 0| 
@@ -159,8 +161,6 @@
 | 20230330T15:57:37Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 69 | 11| 
 | 20230330T12:49:42Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
 | 20230330T12:48:51Z | A believer in the true spirit of friendship and world being one big happy family | https://github.com/ash-pixel/fuzzy-invention | 0 | 0| 
-| 20230330T12:39:22Z | Null | https://github.com/a0950088/Fuzzy_System | 0 | 0| 
-| 20230330T12:16:28Z | Fuzzy Controller | https://github.com/Edumarek123/FUZZY_Controller | 0 | 0| 
 
 
 
