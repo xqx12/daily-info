@@ -157,10 +157,10 @@
 | 20230330T23:58:16Z | Null | https://github.com/tresyam/fuzzy-guide10 | 0 | 0| 
 | 20230330T23:02:54Z | Null | https://github.com/acetinkaya/python-fuzzy-logic | 1 | 0| 
 | 20230330T22:58:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8523 | 1859| 
+| 20230330T22:40:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3500 | 417| 
 | 20230330T22:33:58Z | Google Cloud, Identity Aware Proxy, Identity Platoform, Google App Engine | https://github.com/hsmtkk/fuzzy-parakeet | 0 | 0| 
 | 20230330T15:57:37Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 69 | 11| 
 | 20230330T12:49:42Z | fuzz testing | https://github.com/srv-smn/learning-echidna | 1 | 0| 
-| 20230330T12:48:51Z | A believer in the true spirit of friendship and world being one big happy family | https://github.com/ash-pixel/fuzzy-invention | 0 | 0| 
 
 
 
