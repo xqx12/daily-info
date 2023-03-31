@@ -56,9 +56,9 @@
 | 20230330T23:04:51Z | Browser extension for js script injection. | https://github.com/Cod3dDOT/ExploitUtils | 0 | 0| 
 | 20230330T20:56:42Z | Null | https://github.com/Cod3dDOT/exploiting_tss | 0 | 0| 
 | 20230330T20:30:08Z | Null | https://github.com/Spectricium/examples-i-learned-roblox-exploits-lua | 0 | 0| 
+| 20230330T13:55:27Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/sysplu/Nullify | 105 | 130| 
 | 20230330T12:54:37Z | Simple python script to exploit sellix developer api to make as many products sold and leave as many feedbacks as you want on your store. | https://github.com/Automized/Sellix-Feedback-Exploit | 1 | 0| 
 | 20230330T12:21:38Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITDOCVE202328629 | 1 | 0| 
-| 20230330T12:13:26Z | TranthanhthaiZScript%s Lua script hub roblox exploiter | https://github.com/TranthanhthaiZScripts/MyScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
