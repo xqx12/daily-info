@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T21:19:56Z | Null | https://github.com/Audrey-505/fuzzy-octo-chainsaw | 1 | 1| 
+| 20230331T20:27:19Z | Null | https://github.com/sscodersen/fuzzy-spork | 1 | 0| 
+| 20230331T18:59:08Z | Null | https://github.com/Juan-M-V/concrete-ml-fuzzer | 0 | 0| 
+| 20230331T18:32:56Z | pytest support | https://github.com/OpenMandrivaAssociation/python-fuzzywuzzy | 0 | 0| 
+| 20230331T18:09:01Z | Web Fuzzer Written c++ | https://github.com/HarleyQuinn0x1/WebFuzzer | 0 | 0| 
+| 20230331T16:09:28Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 926 | 59| 
 | 20230331T12:44:40Z | Null | https://github.com/leapigufpb/FuzzyClass | 0 | 0| 
 | 20230331T12:29:06Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 1 | 0| 
 | 20230331T12:14:55Z | In this project we are doing temperature controlling using fuzzy logic libraries from MATLAB using different rule based that are in parallel with our needs for natural applications. | https://github.com/basheeraltaweel/Temperature-control-using-fuzzy-logic | 0 | 0| 
 | 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
-| 20230331T11:10:53Z | Null | https://github.com/shark4ce/concurrency-fuzzing-github-query | 0 | 0| 
-| 20230331T10:34:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3550 | 708| 
-| 20230331T08:44:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 750 | 104| 
-| 20230331T08:36:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8526 | 1859| 
-| 20230331T00:24:21Z | *Placeholder Name* will be the greatest game of all time. | https://github.com/AustinBray77/fuzzy-succotash | 0 | 0| 
-| 20230331T00:08:40Z | Null | https://github.com/aoooa147/fuzzy-computing-machine | 1 | 0| 
 
 
 
