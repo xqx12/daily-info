@@ -41,13 +41,13 @@
 | 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
 | 20230401T11:37:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 856 | 107| 
 | 20230401T10:59:50Z | CVE_Prioritizer combines CVSS, EPSS and CISAs Known Exploited Vulnerabilities to help you prioritize vulnerabilities | https://github.com/TURROKS/CVE_Prioritizer | 0 | 0| 
+| 20230401T10:19:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4828 | 952| 
 | 20230401T09:51:38Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13349 | 2247| 
 | 20230401T09:44:59Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
 | 20230401T09:31:20Z | Android hacking made easy with Metasploit framework - my project on exploiting vulnerabilities for penetration testing and ethical hacking. | https://github.com/TusharPuranik/Hacking-Android-devices-using-Metasploit-Framework | 0 | 0| 
 | 20230401T07:31:56Z | Null | https://github.com/nethuntar/exploit | 0 | 0| 
 | 20230401T01:32:37Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 16 | 7| 
 | 20230401T00:13:11Z | %Blackhat Go% Repository: Practical Go programs for cybersecurity, covering network recon, vulnerability scanning, post-exploitation. Valuable resource, regularly updated  | https://github.com/mohdjishin/blackhat-go | 0 | 0| 
-| 20230401T00:01:42Z | Security: exploit_dev, lin_exploit, pen_test, post_exploit, recon, research, reverse_engr, web_exploit, web_exploit_2, win_exploit | https://github.com/ahsan-karim/security_notes_pub | 0 | 0| 
 
 
 # backdoor on Github 推荐
