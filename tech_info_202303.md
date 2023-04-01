@@ -97,10 +97,10 @@
 | 20230331T21:32:45Z | The 1st roblox blox fruit fruit finder. No exploits! | https://github.com/Hacker-cell-dket/Blox-Fruit--Fruit-Finder | 0 | 0| 
 | 20230331T21:31:12Z | Null | https://github.com/nabati17/Roblox-Synapse-X-Crack-Exploit-For-Free | 47 | 0| 
 | 20230331T19:24:46Z | These are all for purely educational purposes, to inform game developers of how their games may be exploited and are in no way encouraged | https://github.com/Oli-idk/RobloxLearning | 0 | 0| 
+| 20230331T19:23:43Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 15 | 7| 
 | 20230331T19:23:30Z | Alternative pearl algorythm to search for the best positions and avoid bugs and exploits. | https://github.com/arkflame/FlamePearls | 1 | 0| 
 | 20230331T12:21:18Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 906 | 187| 
 | 20230331T12:04:59Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 2 | 0| 
-| 20230331T11:41:53Z | FiveM Cheat ESP Aim and fun mods Make Sure To Run The Hack BEFORE THE GAME ! Admin exploit only works on some servers  image  image  mod menu | https://github.com/KyotoCheats/kyotocheats | 0 | 0| 
 
 
 # backdoor on Github 推荐
