@@ -55,11 +55,11 @@
 | 20230331T21:34:19Z | Null | https://github.com/BaconBloxYT/ExploitzHub-game.s | 0 | 0| 
 | 20230331T21:32:45Z | The 1st roblox blox fruit fruit finder. No exploits! | https://github.com/Hacker-cell-dket/Blox-Fruit--Fruit-Finder | 0 | 0| 
 | 20230331T21:31:12Z | Null | https://github.com/nabati17/Roblox-Synapse-X-Crack-Exploit-For-Free | 47 | 0| 
+| 20230331T19:26:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 174 | 6| 
 | 20230331T19:24:46Z | These are all for purely educational purposes, to inform game developers of how their games may be exploited and are in no way encouraged | https://github.com/Oli-idk/RobloxLearning | 0 | 0| 
 | 20230331T19:23:43Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 15 | 7| 
 | 20230331T19:23:30Z | Alternative pearl algorythm to search for the best positions and avoid bugs and exploits. | https://github.com/arkflame/FlamePearls | 1 | 0| 
 | 20230331T12:21:18Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 906 | 187| 
-| 20230331T12:04:59Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 2 | 0| 
 
 
 # backdoor on Github 推荐
