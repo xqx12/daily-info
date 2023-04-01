@@ -13,6 +13,7 @@
 | 20230331 | Joomla 4.0.0 到 4.2 中的代码执行漏洞CVE-20233-23752 | https://vulncheck.com/blog/joomla-for-rce| 
 | 20230331 | Whats Your Sign 是一个具有简单目标的实用程序：从 UI 中，可以轻松查看任何文件的加密签名信息。文件或二进制文件的加密签名很重要，因为它可以确定文件是否值得信任。例如，Apple 签名的二进制文件始终是可信的，而未签名的文件可能不受信任甚至是恶意的 | http://objective-see.org/products/whatsyoursign.html| 
 | 20230331 | Sophos X-Ops 跟踪的一个供应链攻击案例，可能由与民族国家相关的组织实施。 受影响的3CX DesktopApp——基于合法软件的 PBX 电话系统，可在 Windows、MacOS、Linux、Android 和 iO 上使用 | http://news.sophos.com/en-us/2023/03/29/3cx-dll-sideloading-attack/| 
+| 20230331 | 如何预防并及时修复 aCropalypse安全漏洞的方法 | http://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/| 
 | 20230330 | Gold Digger 是一种工具，可扫描文件夹和文件以查找 gold.json 文件中的内容匹配项，并生成包含扫描结果的日志文件。该工具已被证明可以在处理数千个文件时提高工作效率 | http://securityonline.info/golddigger-quickly-discover-sensitive-information-in-files-recursively/| 
 | 20230329 | MacStealer：Uptycs EDR 识别的基于 macOS 的新型窃取恶意软件（配备 YARA 进程扫描、高级检测以及关联进程文件、进程和套​​接字事件的能力） | https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware| 
 | 20230329 | 从2022年9月开始出现的一系列针对加密货币用户的剪贴板注入攻击，从操作系统设计的角度来看，目前还没有什么完美的解决方案，这 在今天仍然很有意义。防止此类攻击的唯一方法是非常谨慎和细心，或者使用像样的反恶意软件解决方案来检测恶意代码 | https://securelist.com/copy-paste-heist-clipboard-injector-targeting-cryptowallets/109186/| 
@@ -25,7 +26,6 @@
 | 20230329 | OpenSSL存在两个低严重性漏洞，分别涉及证书策略和证书验证函数，可被恶意攻击者利用，需要更新应用程序以进行修复。 | http://seclists.org/oss-sec/2023/q1/202?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230329 | 使用 ZoomEye 找到未启用身份验证的 Jupyter 服务器 | http://paper.seebug.org/2057/| 
 | 20230329 | Internet Download Manager v6.41 Build 3 - 远程代码执行 (RCE) | https://www.exploit-db.com/exploits/51131?utm_source=dlvr.it&utm_medium=twitter| 
-| 20230329 | 一种针对 Linux 服务器的新型恶意软件，名为 Mélofée，基于一个名为 Reptile 的开源项目，该项目的功能有限，主要是安装一个用于隐藏自身的挂钩 | https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230331T16:21:28Z | CVE-2022-46169 | Null | https://github.com/devAL3X/CVE-2022-46169_poc | | 
+| 20230331T14:09:52Z | CVE-2023-28432 | minio敏感信息泄露 | https://github.com/Majus527/MinIO_CVE-2023-28432 | | 
 | 20230331T11:07:18Z | CVE-2022-42896 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896 | | 
 | 20230331T03:36:44Z | CVE-2023-23397 | CVE-2023-23397漏洞的简单PoC，有效载荷通过电子邮件发送。 | https://github.com/CKevens/CVE-2023-23397-POC | | 
 | 20230331T02:24:16Z | CVE-2023-28432 | CVE-2023-28432 MinIO敏感信息泄露检测脚本 | https://github.com/Cuerz/CVE-2023-28432 | | 
@@ -54,15 +56,14 @@
 | 20230330T14:33:20Z | CVE-2023-26692 | ZCBS/ZBBS/ZPBS v4.14k - Reflected XSS | https://github.com/bigzooooz/CVE-2023-26692 | | 
 | 20230330T14:18:53Z | CVE-2020-8835 | Null | https://github.com/johnatag/INF8602-CVE-2020-8835 | | 
 | 20230330T13:54:51Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | | 
-| 20230330T10:41:21Z | CVE-2023-28447 | Module for PrestaShop 1.7.X to fix CVE-2023-28447 vulnerability (Smarty XSS) | https://github.com/drkbcn/lblfixer_cve_2023_28447 | | 
-| 20230329T13:13:02Z | CVE-2023-27532 | POC for Veeam Backup and Replication CVE-2023-27532 | https://github.com/horizon3ai/CVE-2023-27532 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T23:08:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2198 | 612| 
+| 20230331T13:53:06Z | Share a NS Account Customization project from WebStorm to GitHub. TK 03/29/23 | https://github.com/ThomasKleeman/New_Project_Test-Tom-Kleeman | 0 | 0| 
 | 20230330T01:32:55Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 173 | 48| 
-| 20230329T11:41:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
 | 20230329T08:00:17Z | HeySong Music Playing for study flutter | https://github.com/NekoNo001/Klee-Song | 0 | 0| 
 | 20230329T05:09:09Z | Null | https://github.com/onionoino/klee | 1 | 1| 
 | 20230327T11:32:07Z | 230327-40194-any-klee | https://github.com/freezeburger/230327-40194-any-klee | 1 | 0| 
@@ -70,7 +71,6 @@
 | 20230323T18:26:48Z | Source universe for: kleest0 | https://github.com/r-universe/kleest0 | 0 | 0| 
 | 20230322T16:51:58Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 14 | 7| 
 | 20230322T13:11:13Z | Config files for my GitHub profile. | https://github.com/kleeblattdev/kleeblattdev | 0 | 0| 
-| 20230320T16:51:22Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 271 | 50| 
 
 
 # s2e on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T23:37:47Z | Hacking automation for a quick exploit | https://github.com/chill-c0der2/RedRab | 0 | 0| 
+| 20230331T23:36:11Z | Security: exploit_dev, lin_exploit, pen_test, post_exploit, recon, research, reverse_engr, web_exploit, web_exploit_2, win_exploit | https://github.com/ahsan-karim/Sec_Notes_Pub | 0 | 0| 
+| 20230331T21:34:19Z | Null | https://github.com/BaconBloxYT/ExploitzHub-game.s | 0 | 0| 
+| 20230331T21:32:45Z | The 1st roblox blox fruit fruit finder. No exploits! | https://github.com/Hacker-cell-dket/Blox-Fruit--Fruit-Finder | 0 | 0| 
+| 20230331T21:31:12Z | Null | https://github.com/nabati17/Roblox-Synapse-X-Crack-Exploit-For-Free | 47 | 0| 
+| 20230331T19:24:46Z | These are all for purely educational purposes, to inform game developers of how their games may be exploited and are in no way encouraged | https://github.com/Oli-idk/RobloxLearning | 0 | 0| 
+| 20230331T19:23:30Z | Alternative pearl algorythm to search for the best positions and avoid bugs and exploits. | https://github.com/arkflame/FlamePearls | 1 | 0| 
 | 20230331T12:21:18Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 906 | 187| 
 | 20230331T12:04:59Z | This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files. | https://github.com/kljunowsky/XXElixir | 2 | 0| 
 | 20230331T11:41:53Z | FiveM Cheat ESP Aim and fun mods Make Sure To Run The Hack BEFORE THE GAME ! Admin exploit only works on some servers  image  image  mod menu | https://github.com/KyotoCheats/kyotocheats | 0 | 0| 
-| 20230331T10:21:58Z | RobloxInjector-V2.4-BUILD SYSTEM REQUIREMENTS: Intel & Amd Processor; Windows 10/8.1/8 | https://github.com/angelcheats/RobloxInjector-V2.6-exploits | 0 | 0| 
-| 20230331T10:02:20Z | Null | https://github.com/HenryHo1033/exploit_practice | 0 | 0| 
-| 20230331T09:10:56Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5143 | 1728| 
-| 20230331T08:50:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4827 | 952| 
-| 20230331T03:43:25Z | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 72 | 18| 
-| 20230331T01:10:18Z | , Request to upload 2.30.20XX.  , @FlamesLLC [C] - Flames 20XX [C] 20XX | https://github.com/FlamesLLC/Exploits--FlamesLLCOpsec20XX | 0 | 0| 
-| 20230331T00:06:47Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 7 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T23:51:31Z | Null | https://github.com/blob83/backdooryes | 0 | 0| 
+| 20230331T23:30:06Z | TheBatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheBatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. | https://github.com/abderehman-chebab/TheBatRat | 1 | 0| 
+| 20230331T21:50:50Z | Educational purposes only! | https://github.com/tomiichx/tomic_backdoor | 1 | 2| 
+| 20230331T18:55:22Z | Android backdoored app, improved source code of msfvenom android .apk | https://github.com/efxtv/msfvenom-backdoor-android-master-source-2023 | 0 | 0| 
+| 20230331T15:23:17Z | Website Shell BackDoors ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 0 | 0| 
 | 20230331T03:43:29Z | Developing from GraphBackdoor_Supervised | https://github.com/Guo-lab/GraphBackdoor_Unsupervised | 1 | 0| 
 | 20230330T19:36:22Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
-| 20230330T19:29:51Z | TheBatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheBatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. | https://github.com/abderehman-chebab/TheBatRat | 0 | 0| 
 | 20230330T15:07:15Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 10 | 3| 
 | 20230330T14:31:17Z | Null | https://github.com/truongworks/Backdoor-Iphone | 0 | 0| 
 | 20230330T13:25:06Z | Null | https://github.com/collinsowino/Backdoor | 0 | 0| 
-| 20230330T10:26:17Z | Indonesian Code Party | https://github.com/revanmalang/shell-backdoor | 0 | 0| 
-| 20230330T09:20:39Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 1 | 0| 
-| 20230330T06:13:57Z | A backdoor that%s use Telegram as a C2 server | https://github.com/boz3r/Hellcat | 0 | 1| 
-| 20230330T04:38:21Z | Null | https://github.com/eunsaemy/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
