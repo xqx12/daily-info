@@ -157,10 +157,10 @@
 | 20230331T18:32:56Z | pytest support | https://github.com/OpenMandrivaAssociation/python-fuzzywuzzy | 0 | 0| 
 | 20230331T18:09:01Z | Web Fuzzer Written c++ | https://github.com/HarleyQuinn0x1/WebFuzzer | 0 | 0| 
 | 20230331T16:09:28Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 926 | 59| 
+| 20230331T13:05:35Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1744 | 335| 
 | 20230331T12:44:40Z | Null | https://github.com/leapigufpb/FuzzyClass | 0 | 0| 
 | 20230331T12:29:06Z | Coding | https://github.com/SamirK95/fuzzy-sniffle | 1 | 0| 
 | 20230331T12:14:55Z | In this project we are doing temperature controlling using fuzzy logic libraries from MATLAB using different rule based that are in parallel with our needs for natural applications. | https://github.com/basheeraltaweel/Temperature-control-using-fuzzy-logic | 0 | 0| 
-| 20230331T11:53:38Z | Let%s see what the fuzz is all about. | https://github.com/Khongchai/t3_test | 0 | 0| 
 
 
 
