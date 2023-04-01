@@ -70,7 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230401T11:40:59Z | Null | https://github.com/Ratimon/smart-contract-fuzzing-echidna | 0 | 0| 
+| 20230401T12:23:50Z | Null | https://github.com/Ratimon/smart-contract-fuzzing-echidna | 0 | 0| 
 | 20230401T09:39:41Z | A python upload fuzzer | https://github.com/Kannone94/Uploadzzer | 0 | 0| 
 | 20230401T08:59:43Z | Null | https://github.com/marsita-mar/Tugas3_LogikaFuzzy_Marsita-Harim_E1E120014 | 0 | 0| 
 | 20230401T08:48:26Z | libFuzzer based JS/TS fuzzer. | https://github.com/littledivy/dfuzz | 0 | 0| 
