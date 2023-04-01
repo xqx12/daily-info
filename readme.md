@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230401T12:56:55Z | Null | https://github.com/Nay-Htet007/0day-Exploit-Collections | 0 | 0| 
 | 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
 | 20230401T11:37:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 856 | 107| 
 | 20230401T10:59:50Z | CVE_Prioritizer combines CVSS, EPSS and CISAs Known Exploited Vulnerabilities to help you prioritize vulnerabilities | https://github.com/TURROKS/CVE_Prioritizer | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230401T09:31:20Z | Android hacking made easy with Metasploit framework - my project on exploiting vulnerabilities for penetration testing and ethical hacking. | https://github.com/TusharPuranik/Hacking-Android-devices-using-Metasploit-Framework | 0 | 0| 
 | 20230401T07:31:56Z | Null | https://github.com/nethuntar/exploit | 0 | 0| 
 | 20230401T01:32:37Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 16 | 7| 
-| 20230401T00:13:11Z | %Blackhat Go% Repository: Practical Go programs for cybersecurity, covering network recon, vulnerability scanning, post-exploitation. Valuable resource, regularly updated  | https://github.com/mohdjishin/blackhat-go | 0 | 0| 
 
 
 # backdoor on Github 推荐
