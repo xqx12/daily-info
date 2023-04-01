@@ -76,6 +76,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230331T23:08:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2198 | 612| 
+| 20230331T15:27:13Z | GenSym, a compiler for parallel symbolic execution of LLVM IR | https://github.com/Generative-Program-Analysis/GenSym | 46 | 2| 
 | 20230331T08:28:20Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1045 | 128| 
 
 
