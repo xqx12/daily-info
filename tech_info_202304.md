@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230402 | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ| 
 | 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
 | 20230401 | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ| 
 | 20230401 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ| 
@@ -36,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230401T18:52:11Z | Null | https://github.com/abstruse-scientia/Kleenex | 0 | 0| 
+| 20230402T05:16:45Z | An application that helps user to free up disk space on a computer%s hard drive | https://github.com/abstruse-scientia/Kleenex | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -47,28 +48,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T11:57:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 939 | 188| 
+| 20230402T11:48:20Z | A savegame exploit for the game %Führerschein Coach 2008% | https://github.com/toombaumarkt/NDS-FC2008-Save-Exploit | 0 | 0| 
+| 20230402T10:38:40Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/the-dedsec/ZENNA-PHP-RAT | 11 | 2| 
+| 20230402T10:33:01Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3738 | 751| 
+| 20230402T08:45:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8296 | 1914| 
+| 20230402T08:28:24Z | codes we wrote till now for building smart contracts and blockchain enrollment | https://github.com/risheek06/Ace-HACK-bajrangi-exploiters | 0 | 0| 
+| 20230402T08:22:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4832 | 952| 
+| 20230402T07:59:49Z | Null | https://github.com/Zalushka/EzExploitStore | 0 | 0| 
+| 20230402T02:23:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 611 | 161| 
 | 20230402T01:19:48Z | This repository explores common web application vulnerabilities and provides practical tips on how to protect against them. It includes examples of real-world attacks and step-by-step instructions on how to exploit vulnerabilities in a safe and controlled environment.  | https://github.com/zacharie410/Exploiting-Web-Apps | 0 | 0| 
-| 20230402T01:12:07Z |  a simple web exploiter using python and pyside2 | https://github.com/hanicraft/Web-Exploiter | 0 | 0| 
-| 20230402T00:47:21Z | These scripts are for exploiting in ROBLOX simulation games | https://github.com/TenebrousScripts/SimulatorScripts | 0 | 0| 
-| 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
-| 20230401T23:08:54Z | Null | https://github.com/SergeSerb/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 52 | 0| 
-| 20230401T23:07:52Z | Null | https://github.com/vecike/Free-Roblox-Synapse-X-Crack-Exploit-Undetected | 52 | 0| 
-| 20230401T23:03:01Z | Null | https://github.com/abdulkadirtoklu4/Python-Samba-Usermap-Exploit | 0 | 0| 
-| 20230401T22:20:34Z | Null | https://github.com/rksabde/Roblox-Exploits | 0 | 0| 
-| 20230401T21:22:16Z | Multi-Threaded IDOR POC Script for Fast Exploitation | https://github.com/szyth/idoar | 0 | 0| 
-| 20230401T21:03:27Z | Null | https://github.com/sanjaykariyappa/ExPLoit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T10:44:45Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 264 | 126| 
+| 20230402T08:31:20Z | php shell backdoors ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 0 | 0| 
+| 20230402T03:47:38Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 3 | 0| 
+| 20230402T02:32:28Z | Null | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
 | 20230402T00:32:36Z | Crypt and run in memory with RC4 algorithm. | https://github.com/ChimesOfDestruction/RC4-Crypter | 3 | 0| 
 | 20230402T00:21:13Z | SRC Collection: Autoit, Delphi, .NET, VB6, C++ and more. | https://github.com/ChimesOfDestruction/Crypters-Source-Collection | 1 | 0| 
 | 20230401T19:26:42Z | Pablo Santhus | https://github.com/Jh0-0n/-PHP-Backdoor-indetect-vel- | 1 | 1| 
 | 20230401T17:36:03Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 37 | 8| 
 | 20230401T13:02:55Z | FIshShell is a multi-session handler and Windows & Linux backdoor payload generator. It allows users\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell. | https://github.com/TriDEntApollO/FishShell | 1 | 0| 
 | 20230401T12:49:15Z | tools find shell backdoor php on website  | https://github.com/mrtampan/php_findbackdoor | 3 | 0| 
-| 20230401T02:34:42Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 11 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -87,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T11:37:45Z | Null | https://github.com/amirrezarajabi/Fuzzy | 0 | 0| 
+| 20230402T11:34:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2020 | 259| 
+| 20230402T07:40:22Z | Null | https://github.com/Darksharpsexy/fuzzy-octo-funicular | 0 | 0| 
+| 20230402T07:25:56Z | Null | https://github.com/Wm110102/LOGIKA-FUZZY | 0 | 0| 
+| 20230402T07:07:03Z | Null | https://github.com/goddamnzilla/fuzzy-lamp | 0 | 0| 
 | 20230402T00:47:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1332 | 187| 
 | 20230401T21:59:33Z | A metaphoric fuzzing tool for the Dafny verifier | https://github.com/534014913/dafl-sharp | 0 | 0| 
 | 20230401T21:57:14Z | My Personal Portfolio | https://github.com/yuxli066/fuzzy-computing-machine | 0 | 0| 
 | 20230401T21:33:56Z | Null | https://github.com/bharadwaj-chukkala/Fuzzy_Sort | 0 | 0| 
 | 20230401T19:36:54Z | Null | https://github.com/alperaydyn/FuzzyCompanyNameMatch | 0 | 0| 
-| 20230401T19:36:38Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 6 | 2| 
-| 20230401T17:47:37Z | Null | https://github.com/yzhang71/wasmer-interface-fuzzing | 1 | 0| 
-| 20230401T17:45:10Z | This python script will fuzz applications to see if they are vulnerable to a Buffer Overlow attack | https://github.com/Jesta81/Python_Buffer_Fuzzer | 0 | 0| 
-| 20230401T16:47:28Z | Simple counter using react | https://github.com/wallace-y/fuzzy-train | 0 | 0| 
-| 20230401T12:48:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4633 | 1113| 
 
 
 
