@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230402T12:43:28Z | CVE-2023-28432 | Null | https://github.com/7a6163/CVE-2023-28432 | | 
 
 
 # klee on Github 推荐

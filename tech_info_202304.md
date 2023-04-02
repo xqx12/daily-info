@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230402T12:43:28Z | CVE-2023-28432 | Null | https://github.com/7a6163/CVE-2023-28432 | | 
 | 20230401T22:37:46Z | CVE-2022-46169 | Null | https://github.com/devAL3X/CVE-2022-46169_poc | | 
 | 20230401T21:19:05Z | CVE-2023-26866 | Null | https://github.com/lionelmusonza/CVE-2023-26866 | | 
 | 20230401T15:46:33Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
