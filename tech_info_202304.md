@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T01:18:32Z | Null | https://github.com/zacharie410/Exploiting-Web-Apps | 0 | 0| 
 | 20230402T01:12:07Z |  a simple web exploiter using python and pyside2 | https://github.com/hanicraft/Web-Exploiter | 0 | 0| 
 | 20230402T00:47:21Z | These scripts are for exploiting in ROBLOX simulation games | https://github.com/TenebrousScripts/SimulatorScripts | 0 | 0| 
 | 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
@@ -56,7 +57,6 @@
 | 20230401T22:20:34Z | Null | https://github.com/rksabde/Roblox-Exploits | 0 | 0| 
 | 20230401T21:22:16Z | Multi-Threaded IDOR POC Script for Fast Exploitation | https://github.com/szyth/idoar | 0 | 0| 
 | 20230401T21:03:27Z | Null | https://github.com/sanjaykariyappa/ExPLoit | 0 | 0| 
-| 20230401T14:55:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 15 | 2| 
 
 
 # backdoor on Github 推荐
