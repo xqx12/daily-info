@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
 | 20230401T23:08:54Z | Null | https://github.com/SergeSerb/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 52 | 0| 
 | 20230401T23:07:52Z | Null | https://github.com/vecike/Free-Roblox-Synapse-X-Crack-Exploit-Undetected | 52 | 0| 
 | 20230401T23:03:01Z | Null | https://github.com/abdulkadirtoklu4/Python-Samba-Usermap-Exploit | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20230401T14:55:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 15 | 2| 
 | 20230401T12:56:55Z | Null | https://github.com/Nay-Htet007/0day-Exploit-Collections | 0 | 0| 
 | 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
-| 20230401T11:37:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 856 | 107| 
 
 
 # backdoor on Github 推荐
