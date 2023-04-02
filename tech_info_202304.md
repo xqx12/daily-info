@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T12:49:47Z | UTS Kapita Selekta Informatika 2023 | https://github.com/joyarta/METODE-FUZZY-TSUKAMOTO-DALAM-SISTEM-PENENTUAN-BEASISWA | 0 | 0| 
 | 20230402T12:27:54Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3555 | 708| 
 | 20230402T12:22:53Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 1 | 0| 
 | 20230402T11:37:45Z | Null | https://github.com/amirrezarajabi/Fuzzy | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20230402T07:07:03Z | Null | https://github.com/goddamnzilla/fuzzy-lamp | 0 | 0| 
 | 20230402T00:47:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1332 | 187| 
 | 20230401T21:59:33Z | A metaphoric fuzzing tool for the Dafny verifier | https://github.com/534014913/dafl-sharp | 0 | 0| 
-| 20230401T21:57:14Z | My Personal Portfolio | https://github.com/yuxli066/fuzzy-computing-machine | 0 | 0| 
 
 
 

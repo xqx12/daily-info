@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T12:49:47Z | UTS Kapita Selekta Informatika 2023 | https://github.com/joyarta/METODE-FUZZY-TSUKAMOTO-DALAM-SISTEM-PENENTUAN-BEASISWA | 0 | 0| 
 | 20230402T12:27:54Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3555 | 708| 
 | 20230402T12:22:53Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 1 | 0| 
 | 20230402T11:37:45Z | Null | https://github.com/amirrezarajabi/Fuzzy | 0 | 0| 
