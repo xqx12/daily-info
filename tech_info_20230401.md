@@ -55,8 +55,8 @@
 | 20230401T21:03:27Z | Null | https://github.com/sanjaykariyappa/ExPLoit | 0 | 0| 
 | 20230401T14:55:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 15 | 2| 
 | 20230401T12:56:55Z | Null | https://github.com/Nay-Htet007/0day-Exploit-Collections | 0 | 0| 
+| 20230401T12:54:53Z | A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. | https://github.com/plusgiant5/TaaprWareV3 | 7 | 2| 
 | 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
-| 20230401T11:37:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 856 | 107| 
 
 
 # backdoor on Github 推荐
