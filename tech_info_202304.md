@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T00:47:21Z | These scripts are for exploiting in ROBLOX simulation games | https://github.com/TenebrousScripts/SimulatorScripts | 0 | 0| 
 | 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
 | 20230401T23:08:54Z | Null | https://github.com/SergeSerb/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 52 | 0| 
 | 20230401T23:07:52Z | Null | https://github.com/vecike/Free-Roblox-Synapse-X-Crack-Exploit-Undetected | 52 | 0| 
@@ -56,7 +57,6 @@
 | 20230401T21:03:27Z | Null | https://github.com/sanjaykariyappa/ExPLoit | 0 | 0| 
 | 20230401T14:55:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 15 | 2| 
 | 20230401T12:56:55Z | Null | https://github.com/Nay-Htet007/0day-Exploit-Collections | 0 | 0| 
-| 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T00:47:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1332 | 187| 
 | 20230401T21:59:33Z | A metaphoric fuzzing tool for the Dafny verifier | https://github.com/534014913/dafl-sharp | 0 | 0| 
 | 20230401T21:57:14Z | My Personal Portfolio | https://github.com/yuxli066/fuzzy-computing-machine | 0 | 0| 
 | 20230401T21:33:56Z | Null | https://github.com/bharadwaj-chukkala/Fuzzy_Sort | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230401T17:45:10Z | This python script will fuzz applications to see if they are vulnerable to a Buffer Overlow attack | https://github.com/Jesta81/Python_Buffer_Fuzzer | 0 | 0| 
 | 20230401T16:47:28Z | Simple counter using react | https://github.com/wallace-y/fuzzy-train | 0 | 0| 
 | 20230401T12:48:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4633 | 1113| 
-| 20230401T12:39:49Z | Null | https://github.com/claroty/opcua_network_fuzzer | 13 | 5| 
 
 
 
