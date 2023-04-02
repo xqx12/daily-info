@@ -59,6 +59,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T11:16:56Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 38 | 8| 
+| 20230402T04:17:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3383 | 476| 
 
 
 # big4 on Github 推荐
