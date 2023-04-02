@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230402T01:10:53Z |  a simple web exploiter using python and pyside2 | https://github.com/hanicraft/Web-Exploiter | 0 | 0| 
+| 20230402T01:12:07Z |  a simple web exploiter using python and pyside2 | https://github.com/hanicraft/Web-Exploiter | 0 | 0| 
 | 20230402T00:47:21Z | These scripts are for exploiting in ROBLOX simulation games | https://github.com/TenebrousScripts/SimulatorScripts | 0 | 0| 
 | 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
 | 20230401T23:08:54Z | Null | https://github.com/SergeSerb/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 52 | 0| 
