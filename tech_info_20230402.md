@@ -39,11 +39,11 @@
 | 20230402T10:38:40Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/the-dedsec/ZENNA-PHP-RAT | 11 | 2| 
 | 20230402T10:33:01Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3738 | 751| 
 | 20230402T08:45:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8296 | 1914| 
+| 20230402T08:29:54Z | Post-Exploitation Tool to Steal MySQL Data, and with persistence extract all data from MySQL table every time that Windows are opened with a Server to receive the extracted Files | https://github.com/S12cybersecurity/MySQL-DataStealer | 2 | 0| 
 | 20230402T08:28:24Z | codes we wrote till now for building smart contracts and blockchain enrollment | https://github.com/risheek06/Ace-HACK-bajrangi-exploiters | 0 | 0| 
 | 20230402T08:22:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4832 | 952| 
 | 20230402T07:59:49Z | Null | https://github.com/Zalushka/EzExploitStore | 0 | 0| 
 | 20230402T02:23:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 611 | 161| 
-| 20230402T01:19:48Z | This repository explores common web application vulnerabilities and provides practical tips on how to protect against them. It includes examples of real-world attacks and step-by-step instructions on how to exploit vulnerabilities in a safe and controlled environment.  | https://github.com/zacharie410/Exploiting-Web-Apps | 0 | 0| 
 
 
 # backdoor on Github 推荐
