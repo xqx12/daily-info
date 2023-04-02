@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230402T01:18:32Z | Null | https://github.com/zacharie410/Exploiting-Web-Apps | 0 | 0| 
+| 20230402T01:19:48Z | This repository explores common web application vulnerabilities and provides practical tips on how to protect against them. It includes examples of real-world attacks and step-by-step instructions on how to exploit vulnerabilities in a safe and controlled environment.  | https://github.com/zacharie410/Exploiting-Web-Apps | 0 | 0| 
 | 20230402T01:12:07Z |  a simple web exploiter using python and pyside2 | https://github.com/hanicraft/Web-Exploiter | 0 | 0| 
 | 20230402T00:47:21Z | These scripts are for exploiting in ROBLOX simulation games | https://github.com/TenebrousScripts/SimulatorScripts | 0 | 0| 
 | 20230402T00:32:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4830 | 952| 
