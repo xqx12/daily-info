@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230402T12:22:53Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 1 | 0| 
 | 20230402T11:37:45Z | Null | https://github.com/amirrezarajabi/Fuzzy | 0 | 0| 
 | 20230402T11:34:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2020 | 259| 
 | 20230402T07:40:22Z | Null | https://github.com/Darksharpsexy/fuzzy-octo-funicular | 0 | 0| 
