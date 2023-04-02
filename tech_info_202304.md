@@ -11,13 +11,21 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
+| 20230401 | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ| 
+| 20230401 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ| 
+| 20230401 | 供应链安全实践：基于风险的“供应链攻击面”梳理和分析 | https://mp.weixin.qq.com/s/xk8VFdgRfkcKCnP4xi5qmQ| 
+| 20230401 | 利用静态提取的代码特征对过拟合补丁进行自动分类 | https://mp.weixin.qq.com/s/NcTHJFSF6w6R7XO-ejtzzA| 
+| 20230401 | NSFC形式化方法领域基金项目申请资助情况分析 | http://www.qianzhankeji.cn/CN/10.3981/j.issn.2097-0781.2023.01.010| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230401T11:58:03Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
-| 20230401T11:53:14Z | CVE-2022-3552 | BoxBilling<=4.22.1.5 - Remote Code Execution (RCE) | https://github.com/kabir0x23/CVE-2022-3552 | | 
+| 20230401T22:37:46Z | CVE-2022-46169 | Null | https://github.com/devAL3X/CVE-2022-46169_poc | | 
+| 20230401T21:19:05Z | CVE-2023-26866 | Null | https://github.com/lionelmusonza/CVE-2023-26866 | | 
+| 20230401T15:46:33Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
+| 20230401T15:45:55Z | CVE-2022-3552 | BoxBilling<=4.22.1.5 - Remote Code Execution (RCE) | https://github.com/kabir0x23/CVE-2022-3552 | | 
 | 20230401T11:48:07Z | CVE-2020-0796 | Powershell SMBv3 Compression checker | https://github.com/T13nn3s/CVE-2020-0796 | | 
 | 20230401T11:46:35Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | | 
 | 20230401T09:44:59Z | CVE-2022-1227 | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | | 
@@ -28,6 +36,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230401T18:52:11Z | Null | https://github.com/abstruse-scientia/Kleenex | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -38,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230401T23:08:54Z | Null | https://github.com/SergeSerb/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 52 | 0| 
+| 20230401T23:07:52Z | Null | https://github.com/vecike/Free-Roblox-Synapse-X-Crack-Exploit-Undetected | 52 | 0| 
+| 20230401T23:03:01Z | Null | https://github.com/abdulkadirtoklu4/Python-Samba-Usermap-Exploit | 0 | 0| 
+| 20230401T22:20:34Z | Null | https://github.com/rksabde/Roblox-Exploits | 0 | 0| 
+| 20230401T21:22:16Z | Multi-Threaded IDOR POC Script for Fast Exploitation | https://github.com/szyth/idoar | 0 | 0| 
+| 20230401T21:03:27Z | Null | https://github.com/sanjaykariyappa/ExPLoit | 0 | 0| 
+| 20230401T14:55:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 15 | 2| 
 | 20230401T12:56:55Z | Null | https://github.com/Nay-Htet007/0day-Exploit-Collections | 0 | 0| 
 | 20230401T11:56:52Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 0 | 0| 
 | 20230401T11:37:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 856 | 107| 
-| 20230401T10:59:50Z | CVE_Prioritizer combines CVSS, EPSS and CISAs Known Exploited Vulnerabilities to help you prioritize vulnerabilities | https://github.com/TURROKS/CVE_Prioritizer | 0 | 0| 
-| 20230401T10:19:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4828 | 952| 
-| 20230401T09:51:38Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13349 | 2247| 
-| 20230401T09:44:59Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
-| 20230401T09:31:20Z | Android hacking made easy with Metasploit framework - my project on exploiting vulnerabilities for penetration testing and ethical hacking. | https://github.com/TusharPuranik/Hacking-Android-devices-using-Metasploit-Framework | 0 | 0| 
-| 20230401T07:31:56Z | Null | https://github.com/nethuntar/exploit | 0 | 0| 
-| 20230401T01:32:37Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 16 | 7| 
 
 
 # backdoor on Github 推荐
@@ -71,13 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230401T21:59:33Z | A metaphoric fuzzing tool for the Dafny verifier | https://github.com/534014913/dafl-sharp | 0 | 0| 
+| 20230401T21:57:14Z | My Personal Portfolio | https://github.com/yuxli066/fuzzy-computing-machine | 0 | 0| 
+| 20230401T21:33:56Z | Null | https://github.com/bharadwaj-chukkala/Fuzzy_Sort | 0 | 0| 
+| 20230401T19:36:54Z | Null | https://github.com/alperaydyn/FuzzyCompanyNameMatch | 0 | 0| 
+| 20230401T19:36:38Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 6 | 2| 
+| 20230401T17:47:37Z | Null | https://github.com/yzhang71/wasmer-interface-fuzzing | 1 | 0| 
+| 20230401T17:45:10Z | This python script will fuzz applications to see if they are vulnerable to a Buffer Overlow attack | https://github.com/Jesta81/Python_Buffer_Fuzzer | 0 | 0| 
+| 20230401T16:47:28Z | Simple counter using react | https://github.com/wallace-y/fuzzy-train | 0 | 0| 
 | 20230401T12:48:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4633 | 1113| 
 | 20230401T12:39:49Z | Null | https://github.com/claroty/opcua_network_fuzzer | 13 | 5| 
-| 20230401T12:23:50Z | Null | https://github.com/Ratimon/smart-contract-fuzzing-echidna | 0 | 0| 
-| 20230401T09:39:41Z | A python upload fuzzer | https://github.com/Kannone94/Uploadzzer | 0 | 0| 
-| 20230401T08:59:43Z | Null | https://github.com/marsita-mar/Tugas3_LogikaFuzzy_Marsita-Harim_E1E120014 | 0 | 0| 
-| 20230401T08:48:26Z | libFuzzer based JS/TS fuzzer. | https://github.com/littledivy/dfuzz | 0 | 0| 
-| 20230401T04:12:04Z | Simple fuzzer | https://github.com/dvnc0/suzz | 0 | 0| 
 
 
 
