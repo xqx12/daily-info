@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T12:31:19Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 863 | 108| 
+| 20230403T12:31:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 612 | 161| 
+| 20230403T09:39:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4838 | 952| 
 | 20230403T09:37:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5071 | 726| 
 | 20230403T09:17:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8300 | 1914| 
-| 20230403T07:56:11Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 862 | 108| 
 | 20230403T07:53:33Z | 该系列是从 2014 年到 2022 年的历史漏洞 | https://github.com/H4K6/wordpress-exploits | 0 | 0| 
 | 20230403T07:46:15Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 1 | 0| 
 | 20230403T06:34:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 18 | 7| 
 | 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
 | 20230403T01:03:05Z | The Hierarchical Data Format version 5 (HDF5), is an open source file format for large data used in scientific fields | https://github.com/sascha47/Finding-exploits-in-HDF5 | 0 | 0| 
-| 20230403T01:00:31Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
-| 20230403T00:51:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4833 | 952| 
 
 
 # backdoor on Github 推荐
@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T12:29:25Z | I am the storm that is approaching provoking black clouds in isolation i am reclaimer of my name born in flames i have been blessed my family crest is a demon of death forsaken i am awakened a pheonix ash in dark divine dissenting misery destiny we%re chasing time | https://github.com/Mason-Peets/fuzzy-garbanzo | 0 | 0| 
 | 20230403T11:51:19Z | Null | https://github.com/google/fuzztest | 246 | 19| 
 | 20230403T11:38:59Z | Null | https://github.com/Annapoorna-git/fuzzy-umbrella | 0 | 0| 
 | 20230403T09:51:25Z | Null | https://github.com/mfetuah/Names-matching---Fuzzywuzzy | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20230402T23:35:14Z | Null | https://github.com/Ramaa2001/fuzzy-octo-dollop | 0 | 0| 
 | 20230402T21:45:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8529 | 1860| 
 | 20230402T21:13:30Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3504 | 419| 
-| 20230402T19:37:35Z | FuzzyDR: Fuzzy Deontic Reasoning for Agent Deliberation within Institutional Enivronments | https://github.com/complexityOfDharma/FuzzyDR-Commons | 0 | 0| 
 
 
 
