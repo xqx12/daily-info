@@ -37,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230403T12:12:17Z | CVE-2023-20944 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20944 | | 
+| 20230403T12:19:44Z | CVE-2023-20944 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20944 | | 
 | 20230403T11:44:16Z | CVE-2023-20943 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20943 | | 
 | 20230403T11:39:49Z | CVE-2022-42896 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2022-42896 | | 
 | 20230403T09:58:19Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
