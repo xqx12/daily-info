@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T00:51:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4833 | 952| 
 | 20230403T00:42:28Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230402T22:41:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4161 | 518| 
 | 20230402T21:06:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5423 | 747| 
@@ -61,7 +62,6 @@
 | 20230402T11:48:20Z | A savegame exploit for the game %Führerschein Coach 2008% | https://github.com/toombaumarkt/NDS-FC2008-Save-Exploit | 0 | 0| 
 | 20230402T10:38:40Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/the-dedsec/ZENNA-PHP-RAT | 11 | 2| 
 | 20230402T10:33:01Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3738 | 751| 
-| 20230402T10:04:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 414 | 82| 
 
 
 # backdoor on Github 推荐
