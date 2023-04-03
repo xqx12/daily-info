@@ -49,6 +49,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T09:37:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5071 | 726| 
+| 20230403T09:17:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8300 | 1914| 
+| 20230403T07:56:11Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 862 | 108| 
+| 20230403T07:53:33Z | 该系列是从 2014 年到 2022 年的历史漏洞 | https://github.com/H4K6/wordpress-exploits | 0 | 0| 
+| 20230403T07:46:15Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 1 | 0| 
+| 20230403T06:34:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 18 | 7| 
 | 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
 | 20230403T01:03:05Z | The Hierarchical Data Format version 5 (HDF5), is an open source file format for large data used in scientific fields | https://github.com/sascha47/Finding-exploits-in-HDF5 | 0 | 0| 
 | 20230403T01:00:31Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
@@ -67,11 +73,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T10:57:04Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1044 | 128| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T10:34:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 621 | 97| 
+| 20230403T09:53:23Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 34 | 2| 
 
 
 # fuzz on Github 推荐

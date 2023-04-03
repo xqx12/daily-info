@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T09:37:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5071 | 726| 
+| 20230403T09:17:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8300 | 1914| 
+| 20230403T07:56:11Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 862 | 108| 
+| 20230403T07:53:33Z | 该系列是从 2014 年到 2022 年的历史漏洞 | https://github.com/H4K6/wordpress-exploits | 0 | 0| 
+| 20230403T07:46:15Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 1 | 0| 
+| 20230403T06:34:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 18 | 7| 
 | 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
 | 20230403T01:03:05Z | The Hierarchical Data Format version 5 (HDF5), is an open source file format for large data used in scientific fields | https://github.com/sascha47/Finding-exploits-in-HDF5 | 0 | 0| 
 | 20230403T01:00:31Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230403T00:51:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4833 | 952| 
-| 20230402T22:41:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4161 | 518| 
-| 20230402T21:06:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5423 | 747| 
-| 20230402T20:33:44Z | Exploit for ZDI-CAN-16318 | https://github.com/LucaBarile/ZDI-CAN-16318 | 0 | 0| 
-| 20230402T14:22:00Z | A complete list of working Bard Exploits and Chatgpt Exploits. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THESE EXPLOITS. THIS IS FOR EDUCATIONAL PURPOSES ONLY. | https://github.com/PyroGITHUBS/Bard-chatGPT-Exploits | 0 | 0| 
-| 20230402T11:57:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 939 | 188| 
-| 20230402T11:48:20Z | A savegame exploit for the game %Führerschein Coach 2008% | https://github.com/toombaumarkt/NDS-FC2008-Save-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,15 +94,17 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T10:57:04Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1044 | 128| 
 | 20230402T11:16:56Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 38 | 8| 
 | 20230402T04:17:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3383 | 476| 
-| 20230401T21:22:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 630 | 112| 
+| 20230401T21:22:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 630 | 113| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230402T20:12:34Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 620 | 97| 
+| 20230403T10:34:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 621 | 97| 
+| 20230403T09:53:23Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 34 | 2| 
 | 20230401T16:28:49Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 9 | 1| 
 
 
