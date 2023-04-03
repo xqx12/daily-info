@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T12:33:56Z | Promocode wordlist | https://github.com/thehlopster/promocode-wordlist | 1 | 0| 
 | 20230403T12:33:14Z | I am the storm that is approaching provoking black clouds in isolation i am reclaimer of my name born in flames i have been blessed my family crest is a demon of death forsaken i am awakened a pheonix ash in dark divine dissenting misery destiny we%re chasing time | https://github.com/Mason-Peets/fuzzy-garbanzo | 0 | 0| 
 | 20230403T11:51:19Z | Null | https://github.com/google/fuzztest | 246 | 19| 
 | 20230403T11:38:59Z | Null | https://github.com/Annapoorna-git/fuzzy-umbrella | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20230403T00:25:37Z | Null | https://github.com/victorsmith/go-fuzz | 0 | 0| 
 | 20230402T23:35:14Z | Null | https://github.com/Ramaa2001/fuzzy-octo-dollop | 0 | 0| 
 | 20230402T21:45:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8529 | 1860| 
-| 20230402T21:13:30Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3504 | 419| 
 
 
 
