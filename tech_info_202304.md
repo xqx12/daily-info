@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T12:38:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8301 | 1914| 
+| 20230403T12:36:03Z | Null | https://github.com/blurryf4c3/exploits | 0 | 0| 
 | 20230403T12:31:19Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 863 | 108| 
 | 20230403T12:31:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 612 | 161| 
 | 20230403T09:39:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4838 | 952| 
 | 20230403T09:37:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5071 | 726| 
-| 20230403T09:17:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8300 | 1914| 
 | 20230403T07:53:33Z | 该系列是从 2014 年到 2022 年的历史漏洞 | https://github.com/H4K6/wordpress-exploits | 0 | 0| 
 | 20230403T07:46:15Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 1 | 0| 
 | 20230403T06:34:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 18 | 7| 
 | 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
-| 20230403T01:03:05Z | The Hierarchical Data Format version 5 (HDF5), is an open source file format for large data used in scientific fields | https://github.com/sascha47/Finding-exploits-in-HDF5 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,7 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230403T12:33:56Z | Promocode wordlist | https://github.com/thehlopster/promocode-wordlist | 1 | 0| 
+| 20230403T12:42:19Z | Promocode wordlist | https://github.com/thehlopster/promocode-wordlist | 2 | 0| 
 | 20230403T12:33:14Z | I am the storm that is approaching provoking black clouds in isolation i am reclaimer of my name born in flames i have been blessed my family crest is a demon of death forsaken i am awakened a pheonix ash in dark divine dissenting misery destiny we%re chasing time | https://github.com/Mason-Peets/fuzzy-garbanzo | 0 | 0| 
 | 20230403T11:51:19Z | Null | https://github.com/google/fuzztest | 246 | 19| 
 | 20230403T11:38:59Z | Null | https://github.com/Annapoorna-git/fuzzy-umbrella | 0 | 0| 
