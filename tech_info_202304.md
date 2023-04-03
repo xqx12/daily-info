@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
 | 20230403T01:03:05Z | The Hierarchical Data Format version 5 (HDF5), is an open source file format for large data used in scientific fields | https://github.com/sascha47/Finding-exploits-in-HDF5 | 0 | 0| 
 | 20230403T01:00:31Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230403T00:51:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4833 | 952| 
@@ -61,7 +62,6 @@
 | 20230402T14:22:00Z | A complete list of working Bard Exploits and Chatgpt Exploits. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THESE EXPLOITS. THIS IS FOR EDUCATIONAL PURPOSES ONLY. | https://github.com/PyroGITHUBS/Bard-chatGPT-Exploits | 0 | 0| 
 | 20230402T11:57:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 939 | 188| 
 | 20230402T11:48:20Z | A savegame exploit for the game %Führerschein Coach 2008% | https://github.com/toombaumarkt/NDS-FC2008-Save-Exploit | 0 | 0| 
-| 20230402T10:38:40Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/the-dedsec/ZENNA-PHP-RAT | 11 | 2| 
 
 
 # backdoor on Github 推荐
