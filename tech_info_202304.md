@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T13:04:15Z | ECCV 2022 paper %Efficient One-stage Video Object Detection by Exploiting Temporal Consistency% | https://github.com/guanxiongsun/EOVOD | 3 | 0| 
 | 20230403T12:38:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8301 | 1914| 
 | 20230403T12:36:03Z | Null | https://github.com/blurryf4c3/exploits | 0 | 0| 
 | 20230403T12:31:19Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 863 | 108| 
@@ -73,7 +74,6 @@
 | 20230403T07:53:33Z | 该系列是从 2014 年到 2022 年的历史漏洞 | https://github.com/H4K6/wordpress-exploits | 0 | 0| 
 | 20230403T07:46:15Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 1 | 0| 
 | 20230403T06:34:02Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 18 | 7| 
-| 20230403T01:34:12Z | Null | https://github.com/rodrigosilvaluz/HACKING_ART_EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
