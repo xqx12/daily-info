@@ -6,11 +6,24 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230403 | 以 ChatGPT 为助手剖析 Redis CVE-2023-28425 | https://tin-z.github.io/redis/cve/chatgpt/2023/04/02/redis-cve2023.html| 
+| 20230403 | BinSync 是一个基于 Git 版本控制系统构建的反编译器协作工具，可实现与反编译器无关的细粒度逆向工程协作。 | https://github.com/binsync/binsync| 
+| 20230403 | 为 Python 中的文件路径清理不受信任的用户输入，转义文件路径以防止恶意攻击。 | https://raisistance.com/secure-file-paths-in-python/| 
+| 20230403 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | http://paper.seebug.org/2059/| 
+| 20230403 | 介绍PE文件格式 | https://0xrick.github.io/win-internals/pe8/| 
+| 20230403 | 从文本数据和git历史中搜索敏感数据的工具 | https://www.kitploit.com/2023/04/noseyparker-command-line-program-that.html| 
+| 20230403 | GitLab v15.3认证后远程代码执行 | https://www.exploit-db.com/exploits/51181?utm_source=dlvr.it&utm_medium=twitter| 
+| 20230403 | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty| 
+| 20230403 | 攻击现在PS4/PS5游戏机中的PS2模拟器，穿越模拟环境，并通过攻击编译进程来获得PS4/PS5中的任意代码执行能力 | https://cturt.github.io/mast1c0re-2.html| 
+| 20230403 | 安全研究员为目前加密货币钱包提供了几点安全加固建议 | https://sec.today/pulses/c4854b40-bd0c-4972-b187-4c6bb902d312/| 
+| 20230403 | 安全研究员为目前加密货币钱包提供了几点安全加固建议 | http://blog.doyensec.com/2023/03/28/wallet-info.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
+| 20230403 | SecWiki周刊（第474期) | https://www.sec-wiki.com/weekly/474| 
 | 20230402 | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ| 
 | 20230402 | 使用FirmAE 对zyxel路由器固件仿真实践 | https://www.anquanke.com/post/id/288053| 
 | 20230402 | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg| 
@@ -19,22 +32,21 @@
 | 20230401 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ| 
 | 20230401 | 供应链安全实践：基于风险的“供应链攻击面”梳理和分析 | https://mp.weixin.qq.com/s/xk8VFdgRfkcKCnP4xi5qmQ| 
 | 20230401 | 利用静态提取的代码特征对过拟合补丁进行自动分类 | https://mp.weixin.qq.com/s/NcTHJFSF6w6R7XO-ejtzzA| 
-| 20230401 | NSFC形式化方法领域基金项目申请资助情况分析 | http://www.qianzhankeji.cn/CN/10.3981/j.issn.2097-0781.2023.01.010| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230403T11:44:16Z | CVE-2023-20943 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20943 | | 
+| 20230403T11:39:49Z | CVE-2022-42896 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2022-42896 | | 
+| 20230403T09:58:19Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
+| 20230403T09:27:14Z | CVE-2023-24775 | my python poc CVE-2023-24774 and CVE-2023-24775 this sqli cve funadmin | https://github.com/csffs/CVE-2023-24775-and-CVE-2023-24780 | | 
+| 20230403T07:03:11Z | CVE-2023-20933 | Null | https://github.com/Trinadh465/frameworks_av_CVE-2023-20933 | | 
 | 20230402T21:52:40Z | CVE-2021-22911 | exploit for CVE-2021-22911 in rust | https://github.com/ChrisPritchard/CVE-2021-22911-rust | | 
 | 20230402T13:22:09Z | CVE-2020-17530 | Struts2 S2-061 远程命令执行漏洞（CVE-2020-17530） | https://github.com/keyuan15/CVE-2020-17530 | | 
 | 20230402T12:43:28Z | CVE-2023-28432 | Null | https://github.com/7a6163/CVE-2023-28432 | | 
 | 20230401T22:37:46Z | CVE-2022-46169 | Null | https://github.com/devAL3X/CVE-2022-46169_poc | | 
 | 20230401T21:19:05Z | CVE-2023-26866 | Null | https://github.com/lionelmusonza/CVE-2023-26866 | | 
-| 20230401T15:46:33Z | CVE-2023-27842 | Null | https://github.com/0xFTW/CVE-2023-27842 | | 
-| 20230401T15:45:55Z | CVE-2022-3552 | BoxBilling<=4.22.1.5 - Remote Code Execution (RCE) | https://github.com/kabir0x23/CVE-2022-3552 | | 
-| 20230401T11:48:07Z | CVE-2020-0796 | Powershell SMBv3 Compression checker | https://github.com/T13nn3s/CVE-2020-0796 | | 
-| 20230401T11:46:35Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | | 
-| 20230401T09:44:59Z | CVE-2022-1227 | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | | 
 
 
 # klee on Github 推荐
@@ -67,16 +79,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230403T09:48:25Z | Null | https://github.com/anonymous11anonymousanonymous/Removing-Backdoors-in-PTMs | 0 | 0| 
+| 20230403T08:33:19Z | 发送QQ消息即可在已安装客户端的Windwos计算机上使用CMD指令 | https://github.com/KARPED1EM/QQ-Remote-Terminal | 1 | 0| 
+| 20230403T04:08:08Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 0 | 0| 
+| 20230403T03:23:02Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230402T23:17:50Z | Command and Control Server (C2) | https://github.com/Lionskey/HeadHunter | 1 | 0| 
 | 20230402T20:31:12Z | Port Scanner, DOS attacker, Backdoor Generator | https://github.com/asharbinkhalil/trinet-arsenal | 0 | 0| 
 | 20230402T19:14:00Z | Null | https://github.com/damien-grau/windows_backdoor | 0 | 0| 
 | 20230402T18:50:26Z | 拼多多事件的脱壳后的部分代码 | https://github.com/poorjobless/pinduoduo_backdoor_code | 266 | 127| 
 | 20230402T17:00:12Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
-| 20230402T13:52:33Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 0 | 0| 
-| 20230402T13:50:32Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
-| 20230402T13:07:05Z | Null | https://github.com/whaaalefall/Code-Backdoor-FedGAN | 0 | 0| 
-| 20230402T05:51:08Z | New release of njRAT | https://github.com/ChimesOfDestruction/njRAT-0.7d-Platinum-Edition | 3 | 0| 
-| 20230402T03:47:38Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 3 | 0| 
+| 20230402T16:52:40Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 421 | 79| 
 
 
 # symbolic execution on Github 推荐
