@@ -97,7 +97,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230403T22:01:26Z | Null | https://github.com/REInVent650/fuzzy-octo-winner | 0 | 0| 
 | 20230403T21:54:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8531 | 1860| 
-| 20230403T21:23:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3506 | 419| 
 | 20230403T19:42:06Z | Null | https://github.com/actions-marketplace-validations/vigoux_tree-sitter-fuzz-action | 0 | 0| 
 | 20230403T19:37:46Z | Null | https://github.com/gdjs2/SymQEMU_Hybrid_Fuzzing | 0 | 0| 
 | 20230403T18:51:02Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 66 | 8| 
@@ -105,6 +104,7 @@
 | 20230403T18:40:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1693 | 280| 
 | 20230403T18:35:14Z | Null | https://github.com/alperensenyigit/Fuzzy-Logic-Lab-Codes | 0 | 0| 
 | 20230403T16:02:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2667 | 183| 
+| 20230403T12:50:29Z | Promocode wordlist | https://github.com/thehlopster/promocode-wordlist | 4 | 0| 
 
 
 
