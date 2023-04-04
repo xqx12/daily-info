@@ -75,6 +75,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T12:08:16Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 1 | 0| 
 | 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
 | 20230404T11:46:13Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 231 | 49| 
 | 20230404T11:29:01Z | Unlock any champion/skin in League of Legends without losing BE/RP. | https://github.com/rumi-chan/RefundExploit | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20230404T00:32:23Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
 | 20230404T00:25:54Z | This is my own exploit called ShansPloit V2. There was a V1 but then I made some big changes so I made a version 2. Hope you enjot it! | https://github.com/Shannja/ShansPloitV2 | 0 | 0| 
 | 20230404T00:12:25Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 112 | 146| 
-| 20230404T00:02:05Z | GitOps Repository | https://github.com/pmacik-testing/ana-0156-app-HMeUx-exploit-drive | 0 | 0| 
 
 
 # backdoor on Github 推荐
