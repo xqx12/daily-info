@@ -75,7 +75,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:37:23Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 2 | 0| 
+| 20230404T12:47:40Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 10 | 0| 
 | 20230404T12:28:14Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 232 | 49| 
 | 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
 | 20230404T11:29:01Z | Unlock any champion/skin in League of Legends without losing BE/RP. | https://github.com/rumi-chan/RefundExploit | 0 | 0| 
@@ -124,6 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T12:47:42Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
 | 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
 | 20230404T11:18:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4637 | 1113| 
 | 20230404T10:37:28Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
@@ -133,7 +134,6 @@
 | 20230404T09:27:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8533 | 1860| 
 | 20230404T07:34:51Z | Null | https://github.com/batu-robotics/Vertical-Axis-Wind-Turbine-Calculations-with-Fuzzy-Inference-Systems | 0 | 0| 
 | 20230404T07:05:46Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2429 | 451| 
-| 20230404T03:27:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1335 | 189| 
 
 
 
