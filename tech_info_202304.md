@@ -124,7 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:47:42Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
+| 20230404T13:00:09Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
 | 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
 | 20230404T11:18:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4637 | 1113| 
 | 20230404T10:37:28Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
