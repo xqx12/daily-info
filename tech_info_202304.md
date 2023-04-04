@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T01:27:53Z | SQL Employee Tracker | https://github.com/karlnh/fuzzy-spork | 0 | 0| 
+| 20230404T01:33:51Z | SQL Employee Tracker | https://github.com/karlnh/fuzzy-spork | 0 | 0| 
 | 20230404T01:17:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8532 | 1860| 
 | 20230404T01:16:36Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 67 | 8| 
 | 20230404T00:53:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3507 | 419| 
