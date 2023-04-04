@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T00:30:08Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
+| 20230404T00:32:23Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
 | 20230404T00:25:54Z | This is my own exploit called ShansPloit V2. There was a V1 but then I made some big changes so I made a version 2. Hope you enjot it! | https://github.com/Shannja/ShansPloitV2 | 0 | 0| 
 | 20230404T00:12:25Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 112 | 146| 
 | 20230404T00:02:05Z | GitOps Repository | https://github.com/pmacik-testing/ana-0156-app-HMeUx-exploit-drive | 0 | 0| 
