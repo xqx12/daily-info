@@ -94,8 +94,8 @@
 | 20230404T09:28:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4982 | 523| 
 | 20230404T09:27:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8533 | 1860| 
 | 20230404T07:34:51Z | Null | https://github.com/batu-robotics/Vertical-Axis-Wind-Turbine-Calculations-with-Fuzzy-Inference-Systems | 0 | 0| 
+| 20230404T07:05:46Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2429 | 451| 
 | 20230404T03:27:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1335 | 189| 
-| 20230404T03:15:42Z | Introduces how to use Go language for fuzz testing. | https://github.com/GallifreyGoTutoural/getting-started-with-fuzzing | 0 | 0| 
 
 
 
