@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T01:51:36Z | Euler Protocol Post Exploit (Mar 13 2023) Community Analytics | https://github.com/dmtsys/EulerAnalytics | 0 | 0| 
 | 20230404T00:32:23Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
 | 20230404T00:25:54Z | This is my own exploit called ShansPloit V2. There was a V1 but then I made some big changes so I made a version 2. Hope you enjot it! | https://github.com/Shannja/ShansPloitV2 | 0 | 0| 
 | 20230404T00:12:25Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 112 | 146| 
@@ -75,7 +76,6 @@
 | 20230403T22:24:00Z | Null | https://github.com/scarfacedotcom/Contract-Exploit | 0 | 0| 
 | 20230403T21:10:07Z | Exploit and report for ZDI-CAN-16857 | https://github.com/LucaBarile/ZDI-CAN-16857 | 0 | 0| 
 | 20230403T21:00:24Z | Data and software associated with publication %Organisms use mode-switching to solve the explore-vs-exploit problem% | https://github.com/dbiswas2/Data_Code_Organisms_use_mode_switching_to_solve_the_explore_vs_exploit_problem | 0 | 0| 
-| 20230403T20:41:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gstt-W13h5-love-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T01:51:13Z | Null | https://github.com/delzercody/fuzzybanana | 0 | 0| 
 | 20230404T01:33:51Z | SQL Employee Tracker | https://github.com/karlnh/fuzzy-spork | 0 | 0| 
 | 20230404T01:17:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8532 | 1860| 
 | 20230404T01:16:36Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 67 | 8| 
@@ -122,7 +123,6 @@
 | 20230403T19:42:06Z | Null | https://github.com/actions-marketplace-validations/vigoux_tree-sitter-fuzz-action | 0 | 0| 
 | 20230403T19:37:46Z | Null | https://github.com/gdjs2/SymQEMU_Hybrid_Fuzzing | 0 | 0| 
 | 20230403T18:48:15Z | Null | https://github.com/jbizzlefoshizzle/fuzzymatch | 0 | 0| 
-| 20230403T18:40:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1693 | 280| 
 
 
 
