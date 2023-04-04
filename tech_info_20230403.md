@@ -56,7 +56,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230403T23:20:38Z | CTF writeup + coursework around web/binary exploitation, SQL injection, reverse engineering and pwning | https://github.com/ykray/offensive-security | 0 | 0| 
 | 20230403T23:06:43Z | GitOps Repository | https://github.com/pmacik-testing/ana-0129-app-CrW1D-exploit-vote | 0 | 0| 
-| 20230403T22:44:31Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 113 | 146| 
 | 20230403T22:24:00Z | Null | https://github.com/scarfacedotcom/Contract-Exploit | 0 | 0| 
 | 20230403T21:10:07Z | Exploit and report for ZDI-CAN-16857 | https://github.com/LucaBarile/ZDI-CAN-16857 | 0 | 0| 
 | 20230403T21:00:24Z | Data and software associated with publication %Organisms use mode-switching to solve the explore-vs-exploit problem% | https://github.com/dbiswas2/Data_Code_Organisms_use_mode_switching_to_solve_the_explore_vs_exploit_problem | 0 | 0| 
@@ -64,6 +63,7 @@
 | 20230403T20:30:51Z | For Roblox Exploit Scripts | https://github.com/ZacaUltim/rbxscripts | 0 | 0| 
 | 20230403T20:04:10Z | Une base de données de films (MongoDB) à exploiter avec des requêtes et des tests unitaires | https://github.com/Parissanna/Mflix_tests | 0 | 0| 
 | 20230403T18:48:37Z | Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School | https://github.com/SchoolIzBoring/Unblocked-Websites | 4 | 5| 
+| 20230403T13:04:15Z | ECCV 2022 paper %Efficient One-stage Video Object Detection by Exploiting Temporal Consistency% | https://github.com/guanxiongsun/EOVOD | 3 | 0| 
 
 
 # backdoor on Github 推荐
