@@ -54,9 +54,9 @@
 | 20230404T10:23:59Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230404T08:52:22Z | Roblox Evon Exploit That I Decompiled Bc Why Not | https://github.com/psychoidk/Evon | 0 | 0| 
 | 20230404T07:58:13Z | Euler Protocol Post Exploit (Mar 13 2023) Community Analytics | https://github.com/dmtsys/EulerAnalytics | 1 | 0| 
+| 20230404T03:44:28Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 | 20230404T00:32:23Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
 | 20230404T00:25:54Z | This is my own exploit called ShansPloit V2. There was a V1 but then I made some big changes so I made a version 2. Hope you enjot it! | https://github.com/Shannja/ShansPloitV2 | 0 | 0| 
-| 20230404T00:12:25Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 112 | 146| 
 
 
 # backdoor on Github 推荐
