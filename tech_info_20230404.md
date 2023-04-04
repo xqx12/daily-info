@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:07:19Z | CVE-2023-20944 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944 | | 
+| 20230404T12:19:39Z | CVE-2023-20944 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944 | | 
 | 20230404T10:48:29Z | CVE-2020-0183 | Null | https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183 | | 
 | 20230404T10:22:21Z | CVE-2023-42896 | Null | https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896 | | 
 | 20230404T06:37:46Z | CVE-2022-43680 | Null | https://github.com/Nivaskumark/external_expat_AOSP10_r33_CVE-2022-43680 | | 
@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:08:16Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 1 | 0| 
+| 20230404T12:18:09Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 1 | 0| 
 | 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
 | 20230404T11:46:13Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 231 | 49| 
 | 20230404T11:29:01Z | Unlock any champion/skin in League of Legends without losing BE/RP. | https://github.com/rumi-chan/RefundExploit | 0 | 0| 
