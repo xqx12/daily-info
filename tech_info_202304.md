@@ -75,7 +75,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:47:40Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 10 | 0| 
+| 20230404T12:50:27Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 14 | 0| 
+| 20230404T12:50:19Z | Linux kernel exploit scripts | https://github.com/terawhiz/CTF-Linux-Kernel-Exploitation | 0 | 0| 
 | 20230404T12:28:14Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 232 | 49| 
 | 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
 | 20230404T11:29:01Z | Unlock any champion/skin in League of Legends without losing BE/RP. | https://github.com/rumi-chan/RefundExploit | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20230404T08:52:22Z | Roblox Evon Exploit That I Decompiled Bc Why Not | https://github.com/psychoidk/Evon | 0 | 0| 
 | 20230404T07:58:13Z | Euler Protocol Post Exploit (Mar 13 2023) Community Analytics | https://github.com/dmtsys/EulerAnalytics | 1 | 0| 
 | 20230404T03:44:28Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
-| 20230404T00:32:23Z | Program made for PenTesting homework | https://github.com/asantanaabreu/Client_Side_Exploitations | 0 | 0| 
 
 
 # backdoor on Github 推荐
