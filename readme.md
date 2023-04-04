@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T12:56:20Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 27 | 0| 
+| 20230404T12:57:19Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 29 | 0| 
 | 20230404T12:50:19Z | Linux kernel exploit scripts | https://github.com/terawhiz/CTF-Linux-Kernel-Exploitation | 0 | 0| 
 | 20230404T12:28:14Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 232 | 49| 
 | 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
