@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T00:02:05Z | GitOps Repository | https://github.com/pmacik-testing/ana-0156-app-HMeUx-exploit-drive | 0 | 0| 
 | 20230403T23:20:38Z | CTF writeup + coursework around web/binary exploitation, SQL injection, reverse engineering and pwning | https://github.com/ykray/offensive-security | 0 | 0| 
 | 20230403T23:06:43Z | GitOps Repository | https://github.com/pmacik-testing/ana-0129-app-CrW1D-exploit-vote | 0 | 0| 
 | 20230403T22:44:31Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 113 | 146| 
@@ -74,7 +75,6 @@
 | 20230403T20:41:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gstt-W13h5-love-exploit | 0 | 0| 
 | 20230403T20:30:51Z | For Roblox Exploit Scripts | https://github.com/ZacaUltim/rbxscripts | 0 | 0| 
 | 20230403T20:04:10Z | Une base de données de films (MongoDB) à exploiter avec des requêtes et des tests unitaires | https://github.com/Parissanna/Mflix_tests | 0 | 0| 
-| 20230403T18:48:37Z | Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School | https://github.com/SchoolIzBoring/Unblocked-Websites | 4 | 5| 
 
 
 # backdoor on Github 推荐
