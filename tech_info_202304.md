@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T00:09:34Z | GITHUB PRACTICE EXERCISE  | https://github.com/JazzOdom/fuzzy-octo-enigma | 0 | 0| 
 | 20230403T22:01:26Z | Null | https://github.com/REInVent650/fuzzy-octo-winner | 0 | 0| 
 | 20230403T21:54:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8531 | 1860| 
 | 20230403T19:42:06Z | Null | https://github.com/actions-marketplace-validations/vigoux_tree-sitter-fuzz-action | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20230403T18:40:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1693 | 280| 
 | 20230403T18:35:14Z | Null | https://github.com/alperensenyigit/Fuzzy-Logic-Lab-Codes | 0 | 0| 
 | 20230403T16:02:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2667 | 183| 
-| 20230403T12:50:29Z | Promocode wordlist | https://github.com/thehlopster/promocode-wordlist | 4 | 0| 
 
 
 
