@@ -45,6 +45,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230404T12:07:19Z | CVE-2023-20944 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944 | | 
 | 20230404T10:48:29Z | CVE-2020-0183 | Null | https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183 | | 
 | 20230404T10:22:21Z | CVE-2023-42896 | Null | https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896 | | 
 | 20230404T06:37:46Z | CVE-2022-43680 | Null | https://github.com/Nivaskumark/external_expat_AOSP10_r33_CVE-2022-43680 | | 
@@ -54,7 +55,6 @@
 | 20230403T12:19:44Z | CVE-2023-20944 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20944 | | 
 | 20230403T11:44:16Z | CVE-2023-20943 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20943 | | 
 | 20230403T11:39:49Z | CVE-2022-42896 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2022-42896 | | 
-| 20230403T09:58:19Z | CVE-2023-23638 | Null | https://github.com/X1r0z/CVE-2023-23638 | | 
 
 
 # klee on Github 推荐
