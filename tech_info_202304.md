@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T01:27:53Z | SQL Employee Tracker | https://github.com/karlnh/fuzzy-spork | 0 | 0| 
 | 20230404T01:17:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8532 | 1860| 
 | 20230404T01:16:36Z | Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more. | https://github.com/thehlopster/hfuzz | 67 | 8| 
 | 20230404T00:53:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3507 | 419| 
@@ -121,7 +122,6 @@
 | 20230403T19:37:46Z | Null | https://github.com/gdjs2/SymQEMU_Hybrid_Fuzzing | 0 | 0| 
 | 20230403T18:48:15Z | Null | https://github.com/jbizzlefoshizzle/fuzzymatch | 0 | 0| 
 | 20230403T18:40:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1693 | 280| 
-| 20230403T18:35:14Z | Null | https://github.com/alperensenyigit/Fuzzy-Logic-Lab-Codes | 0 | 0| 
 
 
 
