@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T00:25:54Z | This is my own exploit called ShansPloit V2. There was a V1 but then I made some big changes so I made a version 2. Hope you enjot it! | https://github.com/Shannja/ShansPloitV2 | 0 | 0| 
 | 20230404T00:12:25Z | The BEST iReady hack known to date. | https://github.com/NullifyPlaceholder/Nullify | 112 | 146| 
 | 20230404T00:02:05Z | GitOps Repository | https://github.com/pmacik-testing/ana-0156-app-HMeUx-exploit-drive | 0 | 0| 
 | 20230403T23:20:38Z | CTF writeup + coursework around web/binary exploitation, SQL injection, reverse engineering and pwning | https://github.com/ykray/offensive-security | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230403T21:00:24Z | Data and software associated with publication %Organisms use mode-switching to solve the explore-vs-exploit problem% | https://github.com/dbiswas2/Data_Code_Organisms_use_mode_switching_to_solve_the_explore_vs_exploit_problem | 0 | 0| 
 | 20230403T20:41:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gstt-W13h5-love-exploit | 0 | 0| 
 | 20230403T20:30:51Z | For Roblox Exploit Scripts | https://github.com/ZacaUltim/rbxscripts | 0 | 0| 
-| 20230403T20:04:10Z | Une base de données de films (MongoDB) à exploiter avec des requêtes et des tests unitaires | https://github.com/Parissanna/Mflix_tests | 0 | 0| 
 
 
 # backdoor on Github 推荐
