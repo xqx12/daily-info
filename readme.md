@@ -88,7 +88,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230404T16:05:26Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 624 | 98| 
 
 
 # fuzz on Github 推荐
