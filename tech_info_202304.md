@@ -45,6 +45,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230404T21:15:54Z | CVE-2023-23752 | Poc for CVE-2023-23752 | https://github.com/adhikara13/CVE-2023-23752 | | 
+| 20230404T20:53:14Z | CVE-2022-42889 | docker for CVE-2022-42889 | https://github.com/necroteddy/CVE-2022-42889 | | 
 | 20230404T12:19:39Z | CVE-2023-20944 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944 | | 
 | 20230404T10:48:29Z | CVE-2020-0183 | Null | https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183 | | 
 | 20230404T10:22:21Z | CVE-2023-42896 | Null | https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896 | | 
@@ -53,13 +55,12 @@
 | 20230403T14:44:50Z | cve-2022-46169 | WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2022-46169). Run it at your own risk! | https://github.com/m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application | | 
 | 20230403T13:19:27Z | CVE-2022-27665 | Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0 | https://github.com/dievus/CVE-2022-27665 | | 
 | 20230403T12:19:44Z | CVE-2023-20944 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20944 | | 
-| 20230403T11:44:16Z | CVE-2023-20943 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20943 | | 
-| 20230403T11:39:49Z | CVE-2022-42896 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2022-42896 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T13:57:10Z | a simple to do app made for klee | https://github.com/ricky0995/klee-notes | 0 | 0| 
 | 20230404T11:32:17Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks | 0 | 0| 
 | 20230404T05:50:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
 | 20230404T01:36:30Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
@@ -75,21 +76,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T23:14:08Z | ExploitFixer: Protect your Minecraft server from exploits and crashers. ExploitFixer is a high performance security plugin that blocks various exploits. ExploitFixer is updated, easy and effective. Download ExploitFixer now.🛡️ | https://github.com/arkflame/ExploitFixer | 192 | 65| 
+| 20230404T23:12:51Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Aimcrack | 0 | 0| 
+| 20230404T22:26:58Z | Synapse x Cracked Roblox Exploit | https://github.com/HDROIDSCRIPT/Synapse-x-Cracked-Roblox-Exploit | 0 | 0| 
+| 20230404T22:25:15Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
+| 20230404T22:09:46Z | Null | https://github.com/SnesLover22/exploits | 0 | 0| 
+| 20230404T21:05:17Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
+| 20230404T20:54:40Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 8 | 14| 
+| 20230404T16:03:49Z | a whitelist api for your scriptware exploit! | https://github.com/legacymodders/lauthi | 0 | 0| 
+| 20230404T14:33:46Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
 | 20230404T12:57:19Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 29 | 0| 
-| 20230404T12:50:19Z | Linux kernel exploit scripts | https://github.com/terawhiz/CTF-Linux-Kernel-Exploitation | 0 | 0| 
-| 20230404T12:28:14Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 232 | 49| 
-| 20230404T11:59:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-ya4vd-fix-exploit | 0 | 0| 
-| 20230404T11:29:01Z | Unlock any champion/skin in League of Legends without losing BE/RP. | https://github.com/rumi-chan/RefundExploit | 0 | 0| 
-| 20230404T10:23:59Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
-| 20230404T09:57:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4842 | 952| 
-| 20230404T08:52:22Z | Roblox Evon Exploit That I Decompiled Bc Why Not | https://github.com/psychoidk/Evon | 0 | 0| 
-| 20230404T07:58:13Z | Euler Protocol Post Exploit (Mar 13 2023) Community Analytics | https://github.com/dmtsys/EulerAnalytics | 1 | 0| 
-| 20230404T03:44:28Z | lsf(LogiSploit-Framework) is an exploiting framework | https://github.com/Rayan25062011/lsf | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
+| 20230404T19:34:48Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
+| 20230404T18:00:07Z | Null | https://github.com/bizkid123/backdoor-attacks | 0 | 0| 
 | 20230404T11:55:00Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 5 | 0| 
 | 20230404T11:39:48Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
 | 20230404T10:23:59Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
@@ -97,9 +101,6 @@
 | 20230403T23:16:43Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 2 | 0| 
 | 20230403T20:13:56Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230403T14:08:07Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 1 | 0| 
-| 20230403T13:08:10Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 8 | 2| 
-| 20230403T09:48:25Z | Null | https://github.com/anonymous11anonymousanonymous/Removing-Backdoors-in-PTMs | 0 | 0| 
-| 20230403T08:33:19Z | 发送QQ消息即可在已安装客户端的Windwos计算机上使用CMD指令 | https://github.com/KARPED1EM/QQ-Remote-Terminal | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -124,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230404T23:56:42Z | Null | https://github.com/Danyulll/fuzzyseg | 0 | 0| 
+| 20230404T23:43:02Z | Null | https://github.com/Taylorbecca/fuzzy-octo-broccoli | 0 | 0| 
+| 20230404T21:35:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
+| 20230404T18:51:18Z | The purpose of this repository is to extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company’s growth, and to tell the story of how you have been able to generate that growth. | https://github.com/Sukanya807/MavenFuzzyFactory_MYSQL_MidCourseProject | 0 | 0| 
 | 20230404T13:00:09Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
 | 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
 | 20230404T11:18:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4637 | 1113| 
 | 20230404T10:37:28Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
 | 20230404T10:33:11Z | Null | https://github.com/ahonkapo/IMEP-Fuzzy-Search | 0 | 0| 
 | 20230404T10:30:12Z | Null | https://github.com/Supersingle/fuzzy-carnival | 0 | 0| 
-| 20230404T09:28:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4982 | 523| 
-| 20230404T09:27:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8533 | 1860| 
-| 20230404T07:34:51Z | Null | https://github.com/batu-robotics/Vertical-Axis-Wind-Turbine-Calculations-with-Fuzzy-Inference-Systems | 0 | 0| 
-| 20230404T07:05:46Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2429 | 451| 
 
 
 
