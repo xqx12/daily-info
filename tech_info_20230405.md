@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T12:17:03Z | Null | https://github.com/Szandor72/czd23-aura-experience-to-exploit | 0 | 0| 
 | 20230405T11:57:43Z | Exploit PP | https://github.com/GigglyGiggle/The-Exploit | 0 | 0| 
 | 20230405T11:52:20Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 588 | 34| 
 | 20230405T11:27:06Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20230405T00:57:51Z | Automatically Run Enumeration, Bruteforces and Exploits Against Random IPs | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
 | 20230405T00:54:04Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
 | 20230405T00:48:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-_1JKE-recall-exploit | 0 | 0| 
-| 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
 
 
 # backdoor on Github 推荐
