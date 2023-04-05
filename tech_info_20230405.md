@@ -46,9 +46,9 @@
 | 20230405T11:27:06Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
 | 20230405T11:14:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5079 | 726| 
 | 20230405T10:06:30Z | SQL injection exploits web app input validation flaws to execute malicious code on database servers. with the use of this method you can prevent the attack | https://github.com/wasiusamad123/pdo-registration | 0 | 0| 
+| 20230405T07:37:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4844 | 954| 
 | 20230405T06:48:14Z | A Lab For Exploiting Stored DOM XSS. | https://github.com/deepmarketer666/Stored-DOM-XSS | 0 | 1| 
 | 20230405T00:57:51Z | Automatically Run Enumeration, Bruteforces and Exploits Against Random IPs | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
-| 20230405T00:54:04Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
