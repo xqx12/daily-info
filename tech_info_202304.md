@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T00:54:04Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
 | 20230405T00:48:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-_1JKE-recall-exploit | 0 | 0| 
 | 20230405T00:45:48Z | Automatically Run Enumeration, Bruteforces and Exploits | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
 | 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
@@ -85,7 +86,6 @@
 | 20230404T22:25:15Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
 | 20230404T22:09:46Z | Null | https://github.com/SnesLover22/exploits | 0 | 0| 
 | 20230404T21:05:17Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
-| 20230404T20:54:40Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 8 | 14| 
 
 
 # backdoor on Github 推荐
