@@ -77,7 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230405T12:35:16Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/hEXal7/VENOM-RAT-HVNC-5.6 | 1 | 0| 
+| 20230405T12:47:14Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/hEXal7/VENOM-RAT-HVNC-5.6 | 1 | 0| 
 | 20230405T12:26:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-mJGeL-understand-exploit | 0 | 0| 
 | 20230405T12:17:03Z | Null | https://github.com/Szandor72/czd23-aura-experience-to-exploit | 0 | 0| 
 | 20230405T11:57:43Z | Exploit PP | https://github.com/GigglyGiggle/The-Exploit | 0 | 0| 
