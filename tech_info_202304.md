@@ -45,22 +45,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230405T11:38:00Z | CVE-2023-20943 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943 | | 
+| 20230405T09:37:01Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/redteamsecurity2023/CVE-2022-26265 | | 
+| 20230405T09:17:08Z | CVE-2022-42896 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896 | | 
+| 20230405T08:06:08Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896 | | 
+| 20230405T06:26:28Z | CVE-2023-20933 | Null | https://github.com/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933 | | 
+| 20230405T06:24:18Z | CVE-2022-42896 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-42896 | | 
+| 20230405T03:10:30Z | CVE-2022-37969 | Windows LPE exploit for CVE-2022-37969 | https://github.com/fortra/CVE-2022-37969 | | 
+| 20230405T02:07:27Z | CVE-2023-21768 | Null | https://github.com/h1bAna/CVE-2023-21768 | | 
 | 20230404T21:15:54Z | CVE-2023-23752 | Poc for CVE-2023-23752 | https://github.com/adhikara13/CVE-2023-23752 | | 
 | 20230404T20:53:14Z | CVE-2022-42889 | docker for CVE-2022-42889 | https://github.com/necroteddy/CVE-2022-42889 | | 
-| 20230404T12:19:39Z | CVE-2023-20944 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944 | | 
-| 20230404T10:48:29Z | CVE-2020-0183 | Null | https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183 | | 
-| 20230404T10:22:21Z | CVE-2023-42896 | Null | https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896 | | 
-| 20230404T06:37:46Z | CVE-2022-43680 | Null | https://github.com/Nivaskumark/external_expat_AOSP10_r33_CVE-2022-43680 | | 
-| 20230404T06:27:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
-| 20230403T14:44:50Z | cve-2022-46169 | WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2022-46169). Run it at your own risk! | https://github.com/m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application | | 
-| 20230403T13:19:27Z | CVE-2022-27665 | Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0 | https://github.com/dievus/CVE-2022-27665 | | 
-| 20230403T12:19:44Z | CVE-2023-20944 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2023-20944 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230404T13:57:10Z | a simple to do app made for klee | https://github.com/ricky0995/klee-notes | 0 | 0| 
+| 20230404T13:02:48Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 5 | 0| 
 | 20230404T11:32:17Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks | 0 | 0| 
 | 20230404T05:50:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
 | 20230404T01:36:30Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
@@ -76,16 +77,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T11:57:43Z | Exploit PP | https://github.com/GigglyGiggle/The-Exploit | 0 | 0| 
+| 20230405T11:27:06Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
+| 20230405T11:14:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5079 | 726| 
+| 20230405T10:06:30Z | SQL injection exploits web app input validation flaws to execute malicious code on database servers. with the use of this method you can prevent the attack | https://github.com/wasiusamad123/pdo-registration | 0 | 0| 
+| 20230405T06:48:14Z | A Lab For Exploiting Stored DOM XSS. | https://github.com/deepmarketer666/Stored-DOM-XSS | 0 | 1| 
 | 20230405T00:57:51Z | Automatically Run Enumeration, Bruteforces and Exploits Against Random IPs | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
 | 20230405T00:54:04Z | shellcodes | https://github.com/tymyrddin/codes-exploits | 0 | 0| 
 | 20230405T00:48:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-_1JKE-recall-exploit | 0 | 0| 
 | 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
 | 20230404T23:14:08Z | ExploitFixer: Protect your Minecraft server from exploits and crashers. ExploitFixer is a high performance security plugin that blocks various exploits. ExploitFixer is updated, easy and effective. Download ExploitFixer now.🛡️ | https://github.com/arkflame/ExploitFixer | 192 | 65| 
-| 20230404T23:12:51Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Aimcrack | 0 | 0| 
-| 20230404T22:26:58Z | Synapse x Cracked Roblox Exploit | https://github.com/HDROIDSCRIPT/Synapse-x-Cracked-Roblox-Exploit | 0 | 0| 
-| 20230404T22:25:15Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
-| 20230404T22:09:46Z | Null | https://github.com/SnesLover22/exploits | 0 | 0| 
-| 20230404T21:05:17Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -127,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T09:52:39Z | Location adjustment of floating net cage envoironments for firsheries using the fuzzy logic method | https://github.com/Rozeff/fuzzy-logic-method | 0 | 0| 
+| 20230405T09:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8537 | 1861| 
+| 20230405T09:10:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
+| 20230405T08:55:49Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2031 | 260| 
+| 20230405T08:39:08Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4558 | 799| 
+| 20230405T06:41:49Z | Null | https://github.com/siting1206/autoCar_fuzzySystem | 0 | 0| 
+| 20230405T06:12:20Z | Null | https://github.com/itsMaadh/fuzzy-stocks | 0 | 0| 
+| 20230405T05:43:07Z | fuzzy-spoon | https://github.com/desainiravp/fuzzy-spoon | 0 | 0| 
+| 20230405T05:31:05Z | A Racing Game with Pygame  | https://github.com/fuzzy241/fuzzyracer | 0 | 0| 
 | 20230405T01:21:02Z | Null | https://github.com/hekyhsge/fuzzy-engine | 0 | 0| 
-| 20230405T00:57:41Z | Null | https://github.com/ostman1234/fuzzy-umbrella | 0 | 0| 
-| 20230405T00:13:45Z | Null | https://github.com/mcjenn1978/fuzzy-happiness-dude | 0 | 0| 
-| 20230404T23:56:42Z | Null | https://github.com/Danyulll/fuzzyseg | 0 | 0| 
-| 20230404T23:43:02Z | Null | https://github.com/Taylorbecca/fuzzy-octo-broccoli | 0 | 0| 
-| 20230404T21:35:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
-| 20230404T19:24:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3509 | 419| 
-| 20230404T18:51:18Z | The purpose of this repository is to extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company’s growth, and to tell the story of how you have been able to generate that growth. | https://github.com/Sukanya807/MavenFuzzyFactory_MYSQL_MidCourseProject | 0 | 0| 
-| 20230404T13:00:09Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
-| 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
 
 
 
