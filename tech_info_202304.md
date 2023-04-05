@@ -76,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230405T00:42:32Z | Automatically Run Enumeration, Bruteforces and Exploits | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
+| 20230405T00:45:48Z | Automatically Run Enumeration, Bruteforces and Exploits | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
 | 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
 | 20230404T23:14:08Z | ExploitFixer: Protect your Minecraft server from exploits and crashers. ExploitFixer is a high performance security plugin that blocks various exploits. ExploitFixer is updated, easy and effective. Download ExploitFixer now.🛡️ | https://github.com/arkflame/ExploitFixer | 192 | 65| 
 | 20230404T23:12:51Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Aimcrack | 0 | 0| 
