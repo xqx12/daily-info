@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T01:21:02Z | Null | https://github.com/hekyhsge/fuzzy-engine | 0 | 0| 
 | 20230405T00:57:41Z | Null | https://github.com/ostman1234/fuzzy-umbrella | 0 | 0| 
 | 20230405T00:13:45Z | Null | https://github.com/mcjenn1978/fuzzy-happiness-dude | 0 | 0| 
 | 20230404T23:56:42Z | Null | https://github.com/Danyulll/fuzzyseg | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230404T18:51:18Z | The purpose of this repository is to extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company’s growth, and to tell the story of how you have been able to generate that growth. | https://github.com/Sukanya807/MavenFuzzyFactory_MYSQL_MidCourseProject | 0 | 0| 
 | 20230404T13:00:09Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 0 | 0| 
 | 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
-| 20230404T11:18:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4637 | 1113| 
 
 
 
