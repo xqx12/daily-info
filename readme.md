@@ -57,9 +57,9 @@
 | 20230404T22:09:46Z | Null | https://github.com/SnesLover22/exploits | 0 | 0| 
 | 20230404T21:05:17Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230404T20:54:40Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 8 | 14| 
+| 20230404T19:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13363 | 2252| 
 | 20230404T16:03:49Z | a whitelist api for your scriptware exploit! | https://github.com/legacymodders/lauthi | 0 | 0| 
 | 20230404T14:33:46Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
-| 20230404T12:57:19Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 29 | 0| 
 
 
 # backdoor on Github 推荐

@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T00:42:32Z | Automatically Run Enumeration, Bruteforces and Exploits | https://github.com/pdolinic/Honeypot-Attack-Simulator | 0 | 0| 
 | 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
 | 20230404T23:14:08Z | ExploitFixer: Protect your Minecraft server from exploits and crashers. ExploitFixer is a high performance security plugin that blocks various exploits. ExploitFixer is updated, easy and effective. Download ExploitFixer now.🛡️ | https://github.com/arkflame/ExploitFixer | 192 | 65| 
 | 20230404T23:12:51Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Aimcrack | 0 | 0| 
@@ -84,8 +85,7 @@
 | 20230404T22:09:46Z | Null | https://github.com/SnesLover22/exploits | 0 | 0| 
 | 20230404T21:05:17Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230404T20:54:40Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 8 | 14| 
-| 20230404T16:03:49Z | a whitelist api for your scriptware exploit! | https://github.com/legacymodders/lauthi | 0 | 0| 
-| 20230404T14:33:46Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
+| 20230404T19:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13363 | 2252| 
 
 
 # backdoor on Github 推荐
