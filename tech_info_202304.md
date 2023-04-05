@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T00:17:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5460 | 646| 
 | 20230404T23:14:08Z | ExploitFixer: Protect your Minecraft server from exploits and crashers. ExploitFixer is a high performance security plugin that blocks various exploits. ExploitFixer is updated, easy and effective. Download ExploitFixer now.🛡️ | https://github.com/arkflame/ExploitFixer | 192 | 65| 
 | 20230404T23:12:51Z | Free Phantom Forces exploit. No obfuscation, no hidden fees, no proprietary executor. Synapse required. | https://github.com/cyr0zn/Aimcrack | 0 | 0| 
 | 20230404T22:26:58Z | Synapse x Cracked Roblox Exploit | https://github.com/HDROIDSCRIPT/Synapse-x-Cracked-Roblox-Exploit | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20230404T20:54:40Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 8 | 14| 
 | 20230404T16:03:49Z | a whitelist api for your scriptware exploit! | https://github.com/legacymodders/lauthi | 0 | 0| 
 | 20230404T14:33:46Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
-| 20230404T12:57:19Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/Hack1nGT00l/VENOM-RAT-HVNC-5.6 | 29 | 0| 
 
 
 # backdoor on Github 推荐
