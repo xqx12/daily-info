@@ -91,6 +91,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
 | 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
 | 20230404T19:34:48Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
 | 20230404T18:00:07Z | Null | https://github.com/bizkid123/backdoor-attacks | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230404T03:13:08Z | Null | https://github.com/Nexxus67/windows-backdoor | 0 | 0| 
 | 20230403T23:16:43Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 2 | 0| 
 | 20230403T20:13:56Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
-| 20230403T14:08:07Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
