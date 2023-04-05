@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
 
 
