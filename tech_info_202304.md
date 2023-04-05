@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T00:13:45Z | Null | https://github.com/mcjenn1978/fuzzy-happiness-dude | 0 | 0| 
 | 20230404T23:56:42Z | Null | https://github.com/Danyulll/fuzzyseg | 0 | 0| 
 | 20230404T23:43:02Z | Null | https://github.com/Taylorbecca/fuzzy-octo-broccoli | 0 | 0| 
 | 20230404T21:35:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
@@ -136,7 +137,6 @@
 | 20230404T11:45:58Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2030 | 260| 
 | 20230404T11:18:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4637 | 1113| 
 | 20230404T10:37:28Z | Collection of fuzz targets for various open-source libraries. | https://github.com/attilaolah/fuzz | 0 | 0| 
-| 20230404T10:33:11Z | Null | https://github.com/ahonkapo/IMEP-Fuzzy-Search | 0 | 0| 
 
 
 
