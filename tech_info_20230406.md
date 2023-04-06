@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:12:27Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_new | | 
 | 20230406T11:08:20Z | CVE-2022-20224 | Null | https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20230406T10:32:43Z | CVE-2022-20347 | Null | https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
 | 20230406T07:58:00Z | cve-2021-31290 | Null | https://github.com/qaisarafridi/cve-2021-31290 | | 
@@ -36,7 +37,6 @@
 | 20230406T05:17:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_old | | 
 | 20230406T03:49:51Z | CVE-2021-3490 | Null | https://github.com/pivik271/CVE-2021-3490 | | 
 | 20230406T03:46:44Z | CVE-2023-0669 | CVE-2023-0669 Python PoC | https://github.com/Avento/CVE-2023-0669 | | 
-| 20230406T03:35:23Z | CVE-2023-22809 | CVE-2023-22809 Linux Sudo | https://github.com/CKevens/CVE-2023-22809-sudo-POC | | 
 
 
 # klee on Github 推荐
@@ -59,6 +59,7 @@
 | 20230406T12:00:43Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/ShadieReyes/VENOM-RAT-HVNC-5.6 | 20 | 0| 
 | 20230406T11:44:46Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheat-Bypasses | 0 | 0| 
 | 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
+| 20230406T11:09:07Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 503 | 94| 
 | 20230406T09:57:12Z | Null | https://github.com/EXPLOITECO/EXPLOITECO.github.io | 0 | 0| 
 | 20230406T09:36:59Z | Null | https://github.com/tom-laplace/SDVB3_ExploitationBDD | 0 | 0| 
 | 20230406T09:28:19Z | Exploit the (elf-like) binary project. | https://github.com/f0rkr/override | 0 | 0| 
