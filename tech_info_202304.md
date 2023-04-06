@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
 | 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230406T07:41:13Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 6 | 0| 
 | 20230406T07:04:51Z | clean label backdoor attack and defense | https://github.com/shuaizhao95/backdoor_attack_and_defense | 1 | 0| 
@@ -105,7 +106,6 @@
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
 | 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
-| 20230404T19:34:48Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
 
 
 # symbolic execution on Github 推荐
