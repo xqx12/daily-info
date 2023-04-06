@@ -93,7 +93,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230406T00:40:05Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
+| 20230406T00:41:02Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application. | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
 | 20230405T18:37:31Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 5 | 0| 
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
