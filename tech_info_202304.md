@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:29:31Z | CVE-2023-28432 | Null | https://github.com/LHXHL/Minio-CVE-2023-28432 | | 
 | 20230406T12:24:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_new | | 
 | 20230406T11:08:20Z | CVE-2022-20224 | Null | https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20230406T10:32:43Z | CVE-2022-20347 | Null | https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
@@ -55,7 +56,6 @@
 | 20230406T05:49:21Z | CVE-2022-25315 | Null | https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315 | | 
 | 20230406T05:17:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_old | | 
 | 20230406T03:49:51Z | CVE-2021-3490 | Null | https://github.com/pivik271/CVE-2021-3490 | | 
-| 20230406T03:46:44Z | CVE-2023-0669 | CVE-2023-0669 Python PoC | https://github.com/Avento/CVE-2023-0669 | | 
 
 
 # klee on Github 推荐
