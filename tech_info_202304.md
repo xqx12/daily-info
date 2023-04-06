@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T00:58:14Z | CISA known exploited vulnerabilities mirror | https://github.com/interlok-tooling/cisa-known-exploited-vulnerabilities-mirror | 0 | 0| 
 | 20230405T23:44:32Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 0 | 0| 
 | 20230405T23:09:19Z | remote execution scripts | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
 | 20230405T23:01:41Z | Null | https://github.com/igarrido/exploits | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20230405T21:01:38Z | A Simple Roblox Exploit maded in C# language (The API has been patched, wait the developers fix...) | https://github.com/Notthew/Mathz-Exploit-V2 | 0 | 0| 
 | 20230405T20:35:10Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 211 | 44| 
 | 20230405T20:33:06Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 19 | 7| 
-| 20230405T17:37:06Z | Null | https://github.com/BrightProgrammer7/Exploitation-of-OpenAI-API | 0 | 0| 
 
 
 # backdoor on Github 推荐
