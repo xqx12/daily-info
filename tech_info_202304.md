@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230405 | 使用 VisualKernel 4.0 的实时跟踪记录 Linux 内核调试会话教程 | http://sysprogs.com/VisualKernel/tutorials/tracing/| 
 | 20230404 | GTA 3/罪恶都市皮肤文件溢出 PoC | https://www.exploit-db.com/exploits/51223?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230404 | 如何使用 root 权限对 macos 进程做 shellcode 注入 | https://saulpanders.github.io/2022/02/28/OSX-Shellcode-Injection-Tour.html| 
 | 20230404 | 分析 3CX 供应链攻击中的二阶段 macos Payload - UpdateAgent | http://objective-see.org/blog/blog_0x74.html| 
@@ -77,21 +78,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230405T12:47:14Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/hEXal7/VENOM-RAT-HVNC-5.6 | 1 | 0| 
-| 20230405T12:26:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-mJGeL-understand-exploit | 0 | 0| 
-| 20230405T12:17:03Z | Null | https://github.com/Szandor72/czd23-aura-experience-to-exploit | 0 | 0| 
-| 20230405T11:57:43Z | Exploit PP | https://github.com/GigglyGiggle/The-Exploit | 0 | 0| 
-| 20230405T11:52:20Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 588 | 34| 
-| 20230405T11:27:06Z | Roblox exploit station for developers. | https://github.com/JustSeadragon/Shark | 0 | 0| 
-| 20230405T11:14:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5079 | 726| 
-| 20230405T10:50:47Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 624 | 66| 
-| 20230405T10:06:30Z | SQL injection exploits web app input validation flaws to execute malicious code on database servers. with the use of this method you can prevent the attack | https://github.com/wasiusamad123/pdo-registration | 0 | 0| 
-| 20230405T07:37:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4844 | 954| 
+| 20230405T23:44:32Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 0 | 0| 
+| 20230405T23:09:19Z | remote execution scripts | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
+| 20230405T23:01:41Z | Null | https://github.com/igarrido/exploits | 0 | 0| 
+| 20230405T21:54:17Z | Roblox kavra%s kingdom exploit GUI | https://github.com/RobloxScriptsGuis/Kavra-s-Kingdom-Script | 0 | 0| 
+| 20230405T21:51:44Z | RCE exploit for Fuel CMS | https://github.com/Undercoverdog/Fuel-CMS-Exploit | 0 | 0| 
+| 20230405T21:09:08Z | Null | https://github.com/trycatchmee/exploit | 0 | 0| 
+| 20230405T21:01:38Z | A Simple Roblox Exploit maded in C# language (The API has been patched, wait the developers fix...) | https://github.com/Notthew/Mathz-Exploit-V2 | 0 | 0| 
+| 20230405T20:35:10Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 211 | 44| 
+| 20230405T20:33:06Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 19 | 7| 
+| 20230405T17:37:06Z | Null | https://github.com/BrightProgrammer7/Exploitation-of-OpenAI-API | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230405T18:37:31Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 5 | 0| 
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
 | 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
@@ -101,7 +103,6 @@
 | 20230404T11:39:48Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
 | 20230404T10:23:59Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230404T03:13:08Z | Null | https://github.com/Nexxus67/windows-backdoor | 0 | 0| 
-| 20230403T23:16:43Z | Dash rootkit. Linux Trojan Backdoor. (MALWARE) | https://github.com/Kracken256/dash-shell-rootkit | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
