@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230406 | 一个已有 10 年历史的 Windows 漏洞仍在攻击中被利用，使可执行文件看起来像是经过合法签名的，而微软的修复在这些年之后仍然“选择加入”。更糟糕的是，升级到 Windows 11 后修复被删除 | https://www.bleepingcomputer.com/news/microsoft/10-year-old-windows-bug-with-opt-in-fix-exploited-in-3cx-attack/| 
+| 20230406 | 一个开源项目，将易受攻击的、恶意的和已知的恶意 Windows 驱动程序汇集在一个综合存储库中。 | http://www.loldrivers.io/| 
+| 20230406 | 攻击者能够以指数方式抬高抵押品 WALBT 代币的价格，以此借入 BEUR 代币 | http://akshaysrivastav.hashnode.dev/culprit-behind-the-120-million-bonq-attack| 
+| 20230406 | 一名安全研究人员已诱骗 ChatGPT 构建复杂的数据窃取恶意软件，基于签名和行为的检测工具将无法发现这种恶意软件——逃避聊天机器人的反恶意使用保护 | https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware| 
+| 20230406 | Twitter 推荐算法允许攻击者通过安排多个 Twitter 帐户协调有关目标帐户的负面信号来导致拒绝服务（降低信誉评分） | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29218| 
+| 20230406 | 基于 Asmjit 的多态加密器，基于 C++ 和 asmjit 库，用于使用 RC4 加密多态加密给定的 shellcode、PE 和 COFF 文件 | https://www.kitploit.com/2023/04/shoggoth-asmjit-based-polymorphic.html| 
+| 20230406 | WinRAR SFX 压缩包可以在不被发现的情况下运行 PowerShell，允许攻击者在不触发目标系统上的安全代理的情况下植入后门，绕过系统身份验证，绕过用户身份验证。 Utilman.exe 受密码保护并包含一个用作装饰的空文本文件 | https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/| 
+| 20230406 | DPAPISnoop 是一种可用于使用 Hashcat / JtR 破解 DES3 哈希的工具。拥有管理员权限后，它可以在本地或远程上下文 (SMB) 中运行 | https://github.com/leftp/DPAPISnoop| 
+| 20230406 | AWS Elastic Kubernetes Service (EKS) 提升权限 | https://blog.calif.io/p/privilege-escalation-in-eks| 
+| 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://sec.today/pulses/695fc615-0df1-4424-813a-58632b172a33/| 
+| 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack| 
 | 20230405 | 使用 VisualKernel 4.0 的实时跟踪记录 Linux 内核调试会话教程 | http://sysprogs.com/VisualKernel/tutorials/tracing/| 
 | 20230404 | GTA 3/罪恶都市皮肤文件溢出 PoC | https://www.exploit-db.com/exploits/51223?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230404 | 如何使用 root 权限对 macos 进程做 shellcode 注入 | https://saulpanders.github.io/2022/02/28/OSX-Shellcode-Injection-Tour.html| 
@@ -15,17 +26,6 @@
 | 20230404 | 移动安全101，如何设置您的 Android 环境 | http://securitycafe.ro/2023/04/03/mobile-pentesting-101-how-to-set-up-your-android-environment/| 
 | 20230404 | SonicWall SSL-VPN 越界写入 DoS 漏洞，漏洞的根本原因可能在 httpServer 函数中找到。 | http://ssd-disclosure.com/ssd-advisory-sonicwall-ssl-vpn-out-of-bounds-write-dos/| 
 | 20230403 | 以 ChatGPT 为助手剖析 Redis CVE-2023-28425 | https://tin-z.github.io/redis/cve/chatgpt/2023/04/02/redis-cve2023.html| 
-| 20230403 | BinSync 是一个基于 Git 版本控制系统构建的反编译器协作工具，可实现与反编译器无关的细粒度逆向工程协作。 | https://github.com/binsync/binsync| 
-| 20230403 | 为 Python 中的文件路径清理不受信任的用户输入，转义文件路径以防止恶意攻击。 | https://raisistance.com/secure-file-paths-in-python/| 
-| 20230403 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | http://paper.seebug.org/2059/| 
-| 20230403 | 介绍PE文件格式 | https://0xrick.github.io/win-internals/pe8/| 
-| 20230403 | 从文本数据和git历史中搜索敏感数据的工具 | https://www.kitploit.com/2023/04/noseyparker-command-line-program-that.html| 
-| 20230403 | GitLab v15.3认证后远程代码执行 | https://www.exploit-db.com/exploits/51181?utm_source=dlvr.it&utm_medium=twitter| 
-| 20230403 | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty| 
-| 20230403 | 攻击现在PS4/PS5游戏机中的PS2模拟器，穿越模拟环境，并通过攻击编译进程来获得PS4/PS5中的任意代码执行能力 | https://cturt.github.io/mast1c0re-2.html| 
-| 20230403 | 安全研究员为目前加密货币钱包提供了几点安全加固建议 | https://sec.today/pulses/c4854b40-bd0c-4972-b187-4c6bb902d312/| 
-| 20230403 | 安全研究员为目前加密货币钱包提供了几点安全加固建议 | http://blog.doyensec.com/2023/03/28/wallet-info.html| 
-| 20230403 | Vim使用指导手册 | https://vimhelp.org/| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230405T11:38:00Z | CVE-2023-20943 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943 | | 
-| 20230405T09:37:01Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/redteamsecurity2023/CVE-2022-26265 | | 
-| 20230405T09:17:08Z | CVE-2022-42896 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896 | | 
-| 20230405T08:06:08Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896 | | 
-| 20230405T06:26:28Z | CVE-2023-20933 | Null | https://github.com/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933 | | 
-| 20230405T06:24:18Z | CVE-2022-42896 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-42896 | | 
-| 20230405T03:10:30Z | CVE-2022-37969 | Windows LPE exploit for CVE-2022-37969 | https://github.com/fortra/CVE-2022-37969 | | 
-| 20230405T02:07:27Z | CVE-2023-21768 | Null | https://github.com/h1bAna/CVE-2023-21768 | | 
-| 20230404T21:15:54Z | CVE-2023-23752 | Poc for CVE-2023-23752 | https://github.com/adhikara13/CVE-2023-23752 | | 
-| 20230404T20:53:14Z | CVE-2022-42889 | docker for CVE-2022-42889 | https://github.com/necroteddy/CVE-2022-42889 | | 
+| 20230406T11:08:20Z | CVE-2022-20224 | Null | https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224 | | 
+| 20230406T10:32:43Z | CVE-2022-20347 | Null | https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
+| 20230406T07:58:00Z | cve-2021-31290 | Null | https://github.com/qaisarafridi/cve-2021-31290 | | 
+| 20230406T07:56:33Z | cve-2021-3129 | Null | https://github.com/qaisarafridi/cve-2021-3129 | | 
+| 20230406T06:30:55Z | CVE-2021-45960 | Null | https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960 | | 
+| 20230406T05:49:21Z | CVE-2022-25315 | Null | https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315 | | 
+| 20230406T05:17:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_old | | 
+| 20230406T03:49:51Z | CVE-2021-3490 | Null | https://github.com/pivik271/CVE-2021-3490 | | 
+| 20230406T03:46:44Z | CVE-2023-0669 | CVE-2023-0669 Python PoC | https://github.com/Avento/CVE-2023-0669 | | 
+| 20230406T03:35:23Z | CVE-2023-22809 | CVE-2023-22809 Linux Sudo | https://github.com/CKevens/CVE-2023-22809-sudo-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T11:11:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2201 | 612| 
+| 20230406T08:49:46Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks-java | 0 | 0| 
+| 20230406T08:39:44Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
+| 20230406T02:10:06Z | This program is designed to solve the Klee-Minty problem using three different algorithms: Simplex, Interior Points and Murty Hybrid. | https://github.com/luizbastos08/KleeMinty_Solver | 0 | 0| 
 | 20230405T12:51:58Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 65 | 19| 
 | 20230404T13:57:10Z | a simple to do app made for klee | https://github.com/ricky0995/klee-notes | 0 | 0| 
 | 20230404T13:02:48Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 5 | 0| 
 | 20230404T11:32:17Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks | 0 | 0| 
-| 20230404T05:50:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2199 | 612| 
 | 20230404T01:36:30Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
 | 20230402T05:16:45Z | An application that helps user to free up disk space on a computer%s hard drive | https://github.com/abstruse-scientia/Kleenex | 0 | 0| 
 
@@ -78,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:00:43Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/ShadieReyes/VENOM-RAT-HVNC-5.6 | 20 | 0| 
+| 20230406T11:44:46Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheat-Bypasses | 0 | 0| 
+| 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
+| 20230406T09:57:12Z | Null | https://github.com/EXPLOITECO/EXPLOITECO.github.io | 0 | 0| 
+| 20230406T09:36:59Z | Null | https://github.com/tom-laplace/SDVB3_ExploitationBDD | 0 | 0| 
+| 20230406T09:28:19Z | Exploit the (elf-like) binary project. | https://github.com/f0rkr/override | 0 | 0| 
+| 20230406T08:00:07Z | Null | https://github.com/Jaimou/exploitationBDD_tp | 0 | 0| 
+| 20230406T07:07:24Z | RCE Tools | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
 | 20230406T00:58:14Z | CISA known exploited vulnerabilities mirror | https://github.com/interlok-tooling/cisa-known-exploited-vulnerabilities-mirror | 0 | 0| 
 | 20230405T23:44:32Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 0 | 0| 
-| 20230405T23:09:19Z | remote execution scripts | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
-| 20230405T23:01:41Z | Null | https://github.com/igarrido/exploits | 0 | 0| 
-| 20230405T21:54:17Z | Roblox kavra%s kingdom exploit GUI | https://github.com/RobloxScriptsGuis/Kavra-s-Kingdom-Script | 0 | 0| 
-| 20230405T21:51:44Z | RCE exploit for Fuel CMS | https://github.com/Undercoverdog/Fuel-CMS-Exploit | 0 | 0| 
-| 20230405T21:09:08Z | Null | https://github.com/trycatchmee/exploit | 0 | 0| 
-| 20230405T21:01:38Z | A Simple Roblox Exploit maded in C# language (The API has been patched, wait the developers fix...) | https://github.com/Notthew/Mathz-Exploit-V2 | 0 | 0| 
-| 20230405T20:35:10Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 211 | 44| 
-| 20230405T20:33:06Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 19 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
+| 20230406T07:41:13Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 6 | 0| 
+| 20230406T07:04:51Z | clean label backdoor attack and defense | https://github.com/shuaizhao95/backdoor_attack_and_defense | 1 | 0| 
+| 20230406T02:55:35Z | Mostly recording papers about models% trustworthy applications. Intending to include topics like model evaluation & analysis, security, calibration, backdoor learning, robustness, et al. | https://github.com/Yangyi-Chen/PaperList-trustworthy-applications | 12 | 1| 
 | 20230406T01:47:20Z | Backdoor Cleansing with Unlabeled Data (CVPR 2023) | https://github.com/luluppang/BCU | 1 | 0| 
 | 20230406T00:41:02Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application. | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
-| 20230405T18:37:31Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 5 | 0| 
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 | 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
 | 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
 | 20230404T19:34:48Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 7 | 2| 
-| 20230404T18:00:07Z | Null | https://github.com/bizkid123/backdoor-attacks | 0 | 0| 
-| 20230404T11:55:00Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 5 | 0| 
-| 20230404T11:39:48Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T11:34:27Z | Webdir fuzzer based on ChatGPT | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
+| 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
+| 20230406T09:20:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 752 | 105| 
+| 20230406T08:19:02Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 118 | 5| 
+| 20230406T07:43:11Z | Null | https://github.com/LuciaDunes/Prak-Fuzzy-Kes_Mhs | 0 | 0| 
 | 20230406T01:21:32Z | Null | https://github.com/hdfmunjsieh/fuzzy-waffle | 0 | 0| 
-| 20230406T01:18:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2033 | 260| 
 | 20230406T00:49:04Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 3 | 0| 
+| 20230405T23:19:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4640 | 1115| 
 | 20230405T21:59:49Z | Fuzzer | https://github.com/jpc0016/Thunder-Stunned | 0 | 0| 
 | 20230405T20:02:07Z | Null | https://github.com/lilinaDeli/fuzzy-umbrella.github.io | 0 | 0| 
-| 20230405T18:33:35Z | Null | https://github.com/ick-seshoka/fuzzy-search | 0 | 0| 
-| 20230405T09:52:39Z | Location adjustment of floating net cage envoironments for firsheries using the fuzzy logic method | https://github.com/Rozeff/fuzzy-logic-method | 0 | 0| 
-| 20230405T09:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8537 | 1861| 
-| 20230405T09:10:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
-| 20230405T08:39:08Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4558 | 799| 
 
 
 
