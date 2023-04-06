@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T01:21:32Z | Null | https://github.com/hdfmunjsieh/fuzzy-waffle | 0 | 0| 
 | 20230406T01:18:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2033 | 260| 
 | 20230406T00:49:04Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 3 | 0| 
 | 20230405T21:59:49Z | Fuzzer | https://github.com/jpc0016/Thunder-Stunned | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20230405T09:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8537 | 1861| 
 | 20230405T09:10:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1339 | 189| 
 | 20230405T08:39:08Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4558 | 799| 
-| 20230405T06:41:49Z | Null | https://github.com/siting1206/autoCar_fuzzySystem | 0 | 0| 
 
 
 
