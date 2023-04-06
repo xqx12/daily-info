@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:47:22Z | Script that reads a list of installed linux system packages and finds exploits stored on exploitdb. | https://github.com/rlim0x61/findxpl | 0 | 0| 
 | 20230406T12:00:43Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/ShadieReyes/VENOM-RAT-HVNC-5.6 | 20 | 0| 
 | 20230406T11:44:46Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheat-Bypasses | 0 | 0| 
 | 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230406T09:28:19Z | Exploit the (elf-like) binary project. | https://github.com/f0rkr/override | 0 | 0| 
 | 20230406T08:00:07Z | Null | https://github.com/Jaimou/exploitationBDD_tp | 0 | 0| 
 | 20230406T07:07:24Z | RCE Tools | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
-| 20230406T04:27:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4845 | 955| 
 
 
 # backdoor on Github 推荐
