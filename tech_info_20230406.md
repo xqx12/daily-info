@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
 | 20230406T11:34:27Z | Webdir fuzzer based on ChatGPT | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
 | 20230406T09:20:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 752 | 105| 

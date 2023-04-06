@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
 | 20230406T11:34:27Z | Webdir fuzzer based on ChatGPT | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
 | 20230406T09:20:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 752 | 105| 
@@ -146,7 +147,6 @@
 | 20230406T00:49:04Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 3 | 0| 
 | 20230405T23:19:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4640 | 1115| 
 | 20230405T21:59:49Z | Fuzzer | https://github.com/jpc0016/Thunder-Stunned | 0 | 0| 
-| 20230405T20:02:07Z | Null | https://github.com/lilinaDeli/fuzzy-umbrella.github.io | 0 | 0| 
 
 
 
