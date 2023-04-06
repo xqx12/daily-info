@@ -93,6 +93,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T01:30:37Z | Backdoor Cleansing with Unlabeled Data (CVPR 2023) | https://github.com/luluppang/BCU | 0 | 0| 
 | 20230406T00:41:02Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application. | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
 | 20230405T18:37:31Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 5 | 0| 
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20230404T18:00:07Z | Null | https://github.com/bizkid123/backdoor-attacks | 0 | 0| 
 | 20230404T11:55:00Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 5 | 0| 
 | 20230404T11:39:48Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
-| 20230404T10:23:59Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
