@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230407 | Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA| 
 | 20230404 | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA| 
 | 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
 | 20230403 | SecWiki周刊（第474期) | https://www.sec-wiki.com/weekly/474| 
@@ -40,29 +41,28 @@
 | 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
 | 20230401 | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ| 
 | 20230401 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ| 
-| 20230401 | 供应链安全实践：基于风险的“供应链攻击面”梳理和分析 | https://mp.weixin.qq.com/s/xk8VFdgRfkcKCnP4xi5qmQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230407T09:39:05Z | CVE-2023-21389 | Null | https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389 | | 
+| 20230407T09:13:53Z | CVE-2023-27100 | Null | https://github.com/DarokNET/CVE-2023-27100 | | 
+| 20230407T05:27:03Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
+| 20230407T03:59:43Z | CVE-2022-21306 | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | https://github.com/hktalent/CVE-2022-21306 | | 
+| 20230407T03:46:08Z | CVE-2023-0669 | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | https://github.com/Avento/CVE-2023-0669 | | 
+| 20230407T03:34:22Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc | https://github.com/MzzdToT/CVE-2023-1454 | | 
+| 20230407T03:25:11Z | CVE-2022-45047 | POC,EXP,chatGPT for me | https://github.com/hktalent/CVE-2022-45047 | | 
+| 20230407T03:19:16Z | CVE-2023-21837 | POC,EXP, chatGPT for me | https://github.com/hktalent/CVE-2023-21837 | | 
 | 20230406T18:52:53Z | CVE-2020-5844 | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | | 
 | 20230406T17:24:14Z | CVE-2023-22809 | CVE-2023-22809 Linux Sudo | https://github.com/CKevens/CVE-2023-22809-sudo-POC | | 
-| 20230406T17:17:25Z | CVE-2022-42896 | Null | https://github.com/himanshu667/kernel_v4.19.72_CVE-2022-42896 | | 
-| 20230406T16:27:14Z | CVE-2022-48150 | I Found the reflected xss vulnerability in shopware 5 .for more details check my poc video   | https://github.com/sahilop123/-CVE-2022-48150 | | 
-| 20230406T14:46:40Z | CVE-2022-34972 | https://www.cvedetails.com/cve/CVE-2022-34972/ | https://github.com/DevCyberNico/exploit_-CVE-2022-34972 | | 
-| 20230406T13:37:46Z | CVE-2022-4939 | Null | https://github.com/BaconCriCRi/PoC-CVE-2022-4939- | | 
-| 20230406T12:39:53Z | CVE-2023-28432 | Null | https://github.com/LHXHL/Minio-CVE-2023-28432 | | 
-| 20230406T12:24:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_new | | 
-| 20230406T11:08:20Z | CVE-2022-20224 | Null | https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224 | | 
-| 20230406T10:32:43Z | CVE-2022-20347 | Null | https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T10:55:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2203 | 612| 
 | 20230406T14:50:58Z | progetto create con vite + tailwind css | https://github.com/Mattia471/vue-test-kleecks | 0 | 0| 
-| 20230406T11:11:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2201 | 612| 
 | 20230406T08:49:46Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks-java | 0 | 0| 
 | 20230406T08:39:44Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
 | 20230406T02:10:06Z | This program is designed to solve the Klee-Minty problem using three different algorithms: Simplex, Interior Points and Murty Hybrid. | https://github.com/luizbastos08/KleeMinty_Solver | 0 | 0| 
@@ -81,16 +81,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230407T01:23:38Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 416 | 82| 
-| 20230407T01:04:50Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0016-0001-app-vqhh9-walk-exploit | 0 | 0| 
-| 20230407T00:33:32Z | All the excellent UI Libraries for roblox exploiting | https://github.com/IkridEstine/UI-Libraries | 0 | 0| 
-| 20230407T00:14:58Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-168082644-RvKLB-exploit-recover | 0 | 0| 
-| 20230407T00:08:23Z | That%s too much to unpack :( kudos https://blog.sqreen.com/buffer-under-read-ruby/ | https://github.com/nazamoresco/unpack-vuln-exploit | 0 | 0| 
-| 20230406T23:20:11Z | XMLRPC in wordpress checker, and help to exploit it:) | https://github.com/mrpentst/xmlrpc-checker | 0 | 0| 
-| 20230406T21:52:25Z | This is a repository with exploits for ToaruOS. | https://github.com/turbocat2001/toaruos-exploits | 1 | 0| 
-| 20230406T21:42:13Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
-| 20230406T20:56:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2321 | 155| 
-| 20230406T20:37:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5437 | 747| 
+| 20230407T10:59:40Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0067-app-SdhBN-serve-exploit | 0 | 0| 
+| 20230407T10:42:07Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2324 | 155| 
+| 20230407T10:20:02Z | Null | https://github.com/Jaimou/SDV_exploitation_bdd | 0 | 0| 
+| 20230407T09:58:45Z | out-of-tree kernel {module, exploit} development tool | https://github.com/out-of-tree/out-of-tree | 201 | 30| 
+| 20230407T09:55:09Z | Code for EACL 2023 Findings paper %Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training% | https://github.com/XiaZeng0223/active_pets | 0 | 0| 
+| 20230407T09:40:05Z | the code of paper %Exploiting Conversation-Branch-Tweet HyperGraph Structure to Detect Misinformation on Social Media% | https://github.com/liugangdao/CBT-HGCN | 0 | 0| 
+| 20230407T09:27:30Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 957 | 117| 
+| 20230407T08:15:44Z | Deploy & hack into a Windows machine, exploiting a very poorly secured media server. | https://github.com/Sumit-CyberSecurity/TryHackMe-ice-Walkthrough | 0 | 0| 
+| 20230407T07:37:47Z | Essential binaries and exploits for buffer overflow vulnerabilities learning | https://github.com/Kushalabin/essential | 0 | 0| 
+| 20230407T07:13:33Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 432 | 60| 
 
 
 # backdoor on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T11:43:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2040 | 261| 
+| 20230407T10:36:28Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 901 | 212| 
+| 20230407T10:27:30Z | 测试数据生成工具 | https://github.com/swoiow/fuzzy-data | 0 | 0| 
+| 20230407T10:27:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1346 | 190| 
+| 20230407T09:13:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3566 | 716| 
+| 20230407T08:34:14Z | Null | https://github.com/google/fuzztest | 251 | 18| 
+| 20230407T08:25:02Z | The 4tail script is a simple but real-based modified tool for bug bounty hunters, automating the process of subdomain enumeration, fuzzing, and vulnerability scanning with special commands which added by me. It includes special modifications for improved functionality and it still continues to develop. | https://github.com/nijiinhell/4tail | 0 | 0| 
+| 20230407T07:56:39Z | Fuzzy Logic Control on Spring Mass Damper System | https://github.com/AbuFayez/Fuzzy-Logic-Control-on-Spring-Mass-Damper-System | 0 | 0| 
+| 20230407T06:49:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8542 | 1865| 
 | 20230407T01:04:31Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
-| 20230406T23:45:32Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 77 | 2| 
-| 20230406T22:53:20Z | Null | https://github.com/Kumtong/fuzzy-memory | 0 | 0| 
-| 20230406T22:49:58Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
-| 20230406T22:21:29Z | Null | https://github.com/bu-icsg/ProcessorFuzz | 0 | 0| 
-| 20230406T22:10:53Z | Null | https://github.com/FuturesLab/FuzzingDemo | 0 | 0| 
-| 20230406T19:21:44Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
-| 20230406T15:48:52Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3512 | 419| 
-| 20230406T14:16:52Z | Generative web directory fuzzer, based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
-| 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
 
 
 
