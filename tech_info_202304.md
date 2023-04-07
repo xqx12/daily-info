@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T01:04:50Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0016-0001-app-vqhh9-walk-exploit | 0 | 0| 
 | 20230407T00:33:32Z | All the excellent UI Libraries for roblox exploiting | https://github.com/IkridEstine/UI-Libraries | 0 | 0| 
 | 20230407T00:14:58Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-168082644-RvKLB-exploit-recover | 0 | 0| 
 | 20230407T00:08:23Z | That%s too much to unpack :( kudos https://blog.sqreen.com/buffer-under-read-ruby/ | https://github.com/nazamoresco/unpack-vuln-exploit | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230406T20:56:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2321 | 155| 
 | 20230406T20:37:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5437 | 747| 
 | 20230406T18:52:53Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
-| 20230406T18:48:44Z | Exploiting an application vulnerable to buffer overflow | https://github.com/Jesta81/Buffer_Overflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T01:04:31Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
 | 20230406T23:45:32Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 77 | 2| 
 | 20230406T22:53:20Z | Null | https://github.com/Kumtong/fuzzy-memory | 0 | 0| 
 | 20230406T22:49:58Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20230406T15:48:52Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3512 | 419| 
 | 20230406T14:16:52Z | Generative web directory fuzzer, based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
-| 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
 
 
 
