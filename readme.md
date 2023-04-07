@@ -56,12 +56,17 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230407T01:47:21Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/f-root-backdoor | 2 | 0| 
+| 20230407T06:24:52Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
+| 20230407T02:34:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 127 | 15| 
+| 20230407T02:14:04Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T10:55:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2203 | 612| 
+| 20230407T06:50:46Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 239 | 30| 
+| 20230407T02:22:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3389 | 477| 
 
 
 # big4 on Github 推荐
