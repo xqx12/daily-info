@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T01:35:56Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/f-root-backdoor | 0 | 0| 
 | 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
 | 20230406T14:53:13Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 3 | 0| 
 | 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20230406T02:55:35Z | Mostly recording papers about models% trustworthy applications. Intending to include topics like model evaluation & analysis, security, calibration, backdoor learning, robustness, et al. | https://github.com/Yangyi-Chen/PaperList-trustworthy-applications | 12 | 1| 
 | 20230406T01:47:20Z | Backdoor Cleansing with Unlabeled Data (CVPR 2023) | https://github.com/luluppang/BCU | 1 | 0| 
 | 20230406T00:41:02Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application. | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
-| 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
