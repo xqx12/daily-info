@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T00:08:23Z | That%s too much to unpack :( kudos https://blog.sqreen.com/buffer-under-read-ruby/ | https://github.com/nazamoresco/unpack-vuln-exploit | 0 | 0| 
 | 20230406T23:20:11Z | XMLRPC in wordpress checker, and help to exploit it:) | https://github.com/mrpentst/xmlrpc-checker | 0 | 0| 
 | 20230406T21:52:25Z | This is a repository with exploits for ToaruOS. | https://github.com/turbocat2001/toaruos-exploits | 1 | 0| 
 | 20230406T21:42:13Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230406T18:48:44Z | Exploiting an application vulnerable to buffer overflow | https://github.com/Jesta81/Buffer_Overflow | 0 | 0| 
 | 20230406T17:40:08Z | Null | https://github.com/CloudHubScripts/SpeedLegendsExploit | 0 | 0| 
 | 20230406T16:39:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4846 | 956| 
-| 20230406T12:47:22Z | Script that reads a list of installed linux system packages and finds exploits stored on exploitdb. | https://github.com/rlim0x61/findxpl | 0 | 0| 
 
 
 # backdoor on Github 推荐
