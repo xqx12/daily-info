@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T12:40:03Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
 | 20230407T12:20:54Z | Null | https://github.com/alzaexploit/exploit | 0 | 0| 
 | 20230407T12:07:54Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0917-app-oiUhY-rely-exploit | 0 | 0| 
 | 20230407T12:03:24Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2325 | 155| 
@@ -90,7 +91,6 @@
 | 20230407T09:55:09Z | Code for EACL 2023 Findings paper %Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training% | https://github.com/XiaZeng0223/active_pets | 0 | 0| 
 | 20230407T09:40:05Z | the code of paper %Exploiting Conversation-Branch-Tweet HyperGraph Structure to Detect Misinformation on Social Media% | https://github.com/liugangdao/CBT-HGCN | 0 | 0| 
 | 20230407T09:27:30Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 957 | 117| 
-| 20230407T08:15:44Z | Deploy & hack into a Windows machine, exploiting a very poorly secured media server. | https://github.com/Sumit-CyberSecurity/TryHackMe-ice-Walkthrough | 0 | 0| 
 
 
 # backdoor on Github 推荐
