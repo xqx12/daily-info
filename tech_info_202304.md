@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230407T12:40:03Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
+| 20230407T12:46:19Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
 | 20230407T12:20:54Z | Null | https://github.com/alzaexploit/exploit | 0 | 0| 
 | 20230407T12:07:54Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0917-app-oiUhY-rely-exploit | 0 | 0| 
 | 20230407T12:03:24Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2325 | 155| 
