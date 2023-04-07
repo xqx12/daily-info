@@ -17,6 +17,7 @@
 | 20230406 | AWS Elastic Kubernetes Service (EKS) 提升权限 | https://blog.calif.io/p/privilege-escalation-in-eks| 
 | 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://sec.today/pulses/695fc615-0df1-4424-813a-58632b172a33/| 
 | 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack| 
+| 20230406 | nullcon CTF 2023 Challenge Writeups | https://www.youtube.com/watch?v=2DzqGho1oww&feature=youtu.be| 
 | 20230405 | 使用 VisualKernel 4.0 的实时跟踪记录 Linux 内核调试会话教程 | http://sysprogs.com/VisualKernel/tutorials/tracing/| 
 | 20230404 | GTA 3/罪恶都市皮肤文件溢出 PoC | https://www.exploit-db.com/exploits/51223?utm_source=dlvr.it&utm_medium=twitter| 
 | 20230404 | 如何使用 root 权限对 macos 进程做 shellcode 注入 | https://saulpanders.github.io/2022/02/28/OSX-Shellcode-Injection-Tour.html| 
@@ -25,7 +26,6 @@
 | 20230404 | 网络安全审计建立了一套标准，组织可以使用这些标准来检查他们已采取的预防性网络安全措施，以确保他们保护自己免受外部和内部威胁。 | https://cybersecurity.att.com/blogs/security-essentials/how-often-should-security-audits-be?Source=ESSZsPSPR00gensEM&wtExtndSource=20230403133000_attcyber_TWITTER_Business_Cybersecurity_Security_N%2FA_Cyber+Guest+Blog+Series_20230403_Organic_Content+Promotion_N%2FA___Click-thru_No_attcyber_tw_| 
 | 20230404 | 移动安全101，如何设置您的 Android 环境 | http://securitycafe.ro/2023/04/03/mobile-pentesting-101-how-to-set-up-your-android-environment/| 
 | 20230404 | SonicWall SSL-VPN 越界写入 DoS 漏洞，漏洞的根本原因可能在 httpServer 函数中找到。 | http://ssd-disclosure.com/ssd-advisory-sonicwall-ssl-vpn-out-of-bounds-write-dos/| 
-| 20230403 | 以 ChatGPT 为助手剖析 Redis CVE-2023-28425 | https://tin-z.github.io/redis/cve/chatgpt/2023/04/02/redis-cve2023.html| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230406T18:52:53Z | CVE-2020-5844 | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | | 
+| 20230406T17:24:14Z | CVE-2023-22809 | CVE-2023-22809 Linux Sudo | https://github.com/CKevens/CVE-2023-22809-sudo-POC | | 
+| 20230406T17:17:25Z | CVE-2022-42896 | Null | https://github.com/himanshu667/kernel_v4.19.72_CVE-2022-42896 | | 
+| 20230406T16:27:14Z | CVE-2022-48150 | I Found the reflected xss vulnerability in shopware 5 .for more details check my poc video   | https://github.com/sahilop123/-CVE-2022-48150 | | 
+| 20230406T14:46:40Z | CVE-2022-34972 | https://www.cvedetails.com/cve/CVE-2022-34972/ | https://github.com/DevCyberNico/exploit_-CVE-2022-34972 | | 
+| 20230406T13:37:46Z | CVE-2022-4939 | Null | https://github.com/BaconCriCRi/PoC-CVE-2022-4939- | | 
 | 20230406T12:39:53Z | CVE-2023-28432 | Null | https://github.com/LHXHL/Minio-CVE-2023-28432 | | 
 | 20230406T12:24:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_new | | 
 | 20230406T11:08:20Z | CVE-2022-20224 | Null | https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20230406T10:32:43Z | CVE-2022-20347 | Null | https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
-| 20230406T07:58:00Z | cve-2021-31290 | Null | https://github.com/qaisarafridi/cve-2021-31290 | | 
-| 20230406T07:56:33Z | cve-2021-3129 | Null | https://github.com/qaisarafridi/cve-2021-3129 | | 
-| 20230406T06:30:55Z | CVE-2021-45960 | Null | https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960 | | 
-| 20230406T05:49:21Z | CVE-2022-25315 | Null | https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315 | | 
-| 20230406T05:17:04Z | CVE-2022-42896 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_old | | 
-| 20230406T03:49:51Z | CVE-2021-3490 | Null | https://github.com/pivik271/CVE-2021-3490 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T14:50:58Z | progetto create con vite + tailwind css | https://github.com/Mattia471/vue-test-kleecks | 0 | 0| 
 | 20230406T11:11:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2201 | 612| 
 | 20230406T08:49:46Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks-java | 0 | 0| 
 | 20230406T08:39:44Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230404T13:02:48Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 5 | 0| 
 | 20230404T11:32:17Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks | 0 | 0| 
 | 20230404T01:36:30Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
-| 20230402T05:16:45Z | An application that helps user to free up disk space on a computer%s hard drive | https://github.com/abstruse-scientia/Kleenex | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -81,21 +81,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T23:20:11Z | XMLRPC in wordpress checker, and help to exploit it:) | https://github.com/mrpentst/xmlrpc-checker | 0 | 0| 
+| 20230406T21:52:25Z | This is a repository with exploits for ToaruOS. | https://github.com/turbocat2001/toaruos-exploits | 1 | 0| 
+| 20230406T21:42:13Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
+| 20230406T20:56:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2321 | 155| 
+| 20230406T20:37:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5437 | 747| 
+| 20230406T18:52:53Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
+| 20230406T18:48:44Z | Exploiting an application vulnerable to buffer overflow | https://github.com/Jesta81/Buffer_Overflow | 0 | 0| 
+| 20230406T17:40:08Z | Null | https://github.com/CloudHubScripts/SpeedLegendsExploit | 0 | 0| 
+| 20230406T16:39:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4846 | 956| 
 | 20230406T12:47:22Z | Script that reads a list of installed linux system packages and finds exploits stored on exploitdb. | https://github.com/rlim0x61/findxpl | 0 | 0| 
-| 20230406T12:00:43Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/ShadieReyes/VENOM-RAT-HVNC-5.6 | 20 | 0| 
-| 20230406T11:44:46Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheat-Bypasses | 0 | 0| 
-| 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
-| 20230406T11:09:07Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 503 | 94| 
-| 20230406T09:57:12Z | Null | https://github.com/EXPLOITECO/EXPLOITECO.github.io | 0 | 0| 
-| 20230406T09:36:59Z | Null | https://github.com/tom-laplace/SDVB3_ExploitationBDD | 0 | 0| 
-| 20230406T09:28:19Z | Exploit the (elf-like) binary project. | https://github.com/f0rkr/override | 0 | 0| 
-| 20230406T08:00:07Z | Null | https://github.com/Jaimou/exploitationBDD_tp | 0 | 0| 
-| 20230406T07:07:24Z | RCE Tools | https://github.com/Y2FuZXBh/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
+| 20230406T14:53:13Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 3 | 0| 
 | 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
 | 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230406T07:41:13Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 6 | 0| 
@@ -104,8 +106,6 @@
 | 20230406T01:47:20Z | Backdoor Cleansing with Unlabeled Data (CVPR 2023) | https://github.com/luluppang/BCU | 1 | 0| 
 | 20230406T00:41:02Z | A faster-RCNN implementation from scratch trained to predict if a phone screen is displaying a white-listed or black-listed application. | https://github.com/ijs32/future-NSA-backdoor | 0 | 0| 
 | 20230405T02:21:14Z | An image watermarking-based backdoor attack method | https://github.com/rfww/spy-watermark | 0 | 0| 
-| 20230405T01:35:28Z | Checks plugin for Ectasy backdoor classes. | https://github.com/manlikegreg124/ectasychecker.github.io | 0 | 0| 
-| 20230404T21:09:06Z | Alle rechten voorbehouden aan de ontwikkelaren van Securitygab/Dengisan.nl - Dit is een script die het tegenhouden van backdoors/hackers tegenhoudt. | https://github.com/securitygab/klantwerk-fivem-beveiliging | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T23:45:32Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 77 | 2| 
+| 20230406T22:53:20Z | Null | https://github.com/Kumtong/fuzzy-memory | 0 | 0| 
+| 20230406T22:49:58Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
+| 20230406T22:21:29Z | Null | https://github.com/bu-icsg/ProcessorFuzz | 0 | 0| 
+| 20230406T22:10:53Z | Null | https://github.com/FuturesLab/FuzzingDemo | 0 | 0| 
+| 20230406T19:21:44Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
+| 20230406T14:16:52Z | Generative web directory fuzzer, based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
-| 20230406T11:34:27Z | Webdir fuzzer based on ChatGPT | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
 | 20230406T09:20:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 752 | 105| 
-| 20230406T08:19:02Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 118 | 5| 
-| 20230406T07:43:11Z | Null | https://github.com/LuciaDunes/Prak-Fuzzy-Kes_Mhs | 0 | 0| 
-| 20230406T01:21:32Z | Null | https://github.com/hdfmunjsieh/fuzzy-waffle | 0 | 0| 
-| 20230406T00:49:04Z | A differential fuzzer for `concrete-ml` and `scikit-learn` | https://github.com/lambdaclass/concrete-ml-fuzzer | 3 | 0| 
-| 20230405T23:19:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4640 | 1115| 
-| 20230405T21:59:49Z | Fuzzer | https://github.com/jpc0016/Thunder-Stunned | 0 | 0| 
 
 
 
