@@ -143,10 +143,10 @@
 | 20230406T22:21:29Z | Null | https://github.com/bu-icsg/ProcessorFuzz | 0 | 0| 
 | 20230406T22:10:53Z | Null | https://github.com/FuturesLab/FuzzingDemo | 0 | 0| 
 | 20230406T19:21:44Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
+| 20230406T15:48:52Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3512 | 419| 
 | 20230406T14:16:52Z | Generative web directory fuzzer, based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230406T12:26:51Z | 致力于使用 fuzzing Bypass 任何 waf | https://github.com/ChattrRabbit/InjenctHOIC | 1 | 0| 
 | 20230406T10:44:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2036 | 260| 
-| 20230406T09:20:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 752 | 105| 
 
 
 
