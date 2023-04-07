@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T01:23:38Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 416 | 82| 
 | 20230407T01:04:50Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0016-0001-app-vqhh9-walk-exploit | 0 | 0| 
 | 20230407T00:33:32Z | All the excellent UI Libraries for roblox exploiting | https://github.com/IkridEstine/UI-Libraries | 0 | 0| 
 | 20230407T00:14:58Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-168082644-RvKLB-exploit-recover | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230406T21:42:13Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
 | 20230406T20:56:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2321 | 155| 
 | 20230406T20:37:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5437 | 747| 
-| 20230406T18:52:53Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
 
 
 # backdoor on Github 推荐
