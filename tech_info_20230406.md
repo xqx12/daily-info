@@ -87,13 +87,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230406T12:20:19Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 237 | 30| 
+| 20230406T18:15:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3388 | 477| 
+| 20230406T13:29:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 238 | 30| 
+| 20230406T13:14:58Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1048 | 128| 
 | 20230406T11:11:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2201 | 612| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230406T13:57:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 35 | 2| 
 | 20230406T10:59:49Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 50 | 5| 
 
 
