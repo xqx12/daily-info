@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T12:55:04Z | A python scripts that checks  directories on an inputed website | https://github.com/zaki031/z-fuzzer | 2 | 0| 
 | 20230407T11:43:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2040 | 261| 
 | 20230407T10:36:28Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 901 | 212| 
 | 20230407T10:27:30Z | 测试数据生成工具 | https://github.com/swoiow/fuzzy-data | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20230407T08:25:02Z | The 4tail script is a simple but real-based modified tool for bug bounty hunters, automating the process of subdomain enumeration, fuzzing, and vulnerability scanning with special commands which added by me. It includes special modifications for improved functionality and it still continues to develop. | https://github.com/nijiinhell/4tail | 0 | 0| 
 | 20230407T07:56:39Z | Fuzzy Logic Control on Spring Mass Damper System | https://github.com/AbuFayez/Fuzzy-Logic-Control-on-Spring-Mass-Damper-System | 0 | 0| 
 | 20230407T06:49:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8542 | 1865| 
-| 20230407T01:04:31Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
 
 
 
