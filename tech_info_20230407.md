@@ -41,8 +41,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T12:07:54Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0917-app-oiUhY-rely-exploit | 0 | 0| 
+| 20230407T12:03:24Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2325 | 155| 
 | 20230407T10:59:40Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0067-app-SdhBN-serve-exploit | 0 | 0| 
-| 20230407T10:42:07Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2324 | 155| 
 | 20230407T10:20:02Z | Null | https://github.com/Jaimou/SDV_exploitation_bdd | 0 | 0| 
 | 20230407T09:58:45Z | out-of-tree kernel {module, exploit} development tool | https://github.com/out-of-tree/out-of-tree | 201 | 30| 
 | 20230407T09:55:09Z | Code for EACL 2023 Findings paper %Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training% | https://github.com/XiaZeng0223/active_pets | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230407T09:27:30Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 957 | 117| 
 | 20230407T08:15:44Z | Deploy & hack into a Windows machine, exploiting a very poorly secured media server. | https://github.com/Sumit-CyberSecurity/TryHackMe-ice-Walkthrough | 0 | 0| 
 | 20230407T07:37:47Z | Essential binaries and exploits for buffer overflow vulnerabilities learning | https://github.com/Kushalabin/essential | 0 | 0| 
-| 20230407T07:13:33Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 432 | 60| 
 
 
 # backdoor on Github 推荐
