@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T12:08:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3569 | 717| 
 | 20230408T10:27:58Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230408T09:50:41Z | tjyjukgk | https://github.com/hftjtyi88/fuzzy-lamp | 0 | 0| 
 | 20230408T09:47:46Z | Null | https://github.com/RowFL/Aduino_fuzzy_logic | 0 | 0| 
