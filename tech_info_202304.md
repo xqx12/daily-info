@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230407T23:50:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
+| 20230407T23:44:02Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
+| 20230407T20:18:26Z | CVE-2021-34527 | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | https://github.com/fardinbarashi/PsFix-CVE-2021-34527 | | 
+| 20230407T20:05:28Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
+| 20230407T19:19:08Z | CVE-2023-29017 | Null | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
+| 20230407T17:44:44Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | | 
+| 20230407T16:47:13Z | CVE-2022-43293 | Exploit and report for CVE-2022-43293 | https://github.com/LucaBarile/CVE-2022-43293 | | 
+| 20230407T14:55:54Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 | 20230407T09:39:05Z | CVE-2023-21389 | Null | https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389 | | 
 | 20230407T09:13:53Z | CVE-2023-27100 | Null | https://github.com/DarokNET/CVE-2023-27100 | | 
-| 20230407T05:27:03Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
-| 20230407T03:59:43Z | CVE-2022-21306 | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | https://github.com/hktalent/CVE-2022-21306 | | 
-| 20230407T03:46:08Z | CVE-2023-0669 | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | https://github.com/Avento/CVE-2023-0669 | | 
-| 20230407T03:34:22Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc | https://github.com/MzzdToT/CVE-2023-1454 | | 
-| 20230407T03:25:11Z | CVE-2022-45047 | POC,EXP,chatGPT for me | https://github.com/hktalent/CVE-2022-45047 | | 
-| 20230407T03:19:16Z | CVE-2023-21837 | POC,EXP, chatGPT for me | https://github.com/hktalent/CVE-2023-21837 | | 
-| 20230406T18:52:53Z | CVE-2020-5844 | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | | 
-| 20230406T17:24:14Z | CVE-2023-22809 | CVE-2023-22809 Linux Sudo | https://github.com/CKevens/CVE-2023-22809-sudo-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230407T10:55:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2203 | 612| 
+| 20230407T22:25:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2204 | 612| 
 | 20230406T20:24:13Z | Null | https://github.com/kleelab/kleelab.github.io | 2 | 0| 
 | 20230406T14:50:58Z | progetto create con vite + tailwind css | https://github.com/Mattia471/vue-test-kleecks | 0 | 0| 
 | 20230406T08:49:46Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks-java | 0 | 0| 
@@ -81,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T23:35:38Z | Null | https://github.com/GuilhermeRSK/Exploits | 0 | 0| 
+| 20230407T22:45:49Z | Python code to exploit a binary file and brute force password. (Used for Education and PenTesting Only)  | https://github.com/datashieldx/vault_exploit | 0 | 0| 
+| 20230407T22:20:40Z | Null | https://github.com/aichajeral/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
+| 20230407T22:20:35Z | Null | https://github.com/bqsstien/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
+| 20230407T22:20:33Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
+| 20230407T21:51:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10060 | 1585| 
+| 20230407T21:15:57Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 49 | 0| 
+| 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
 | 20230407T12:46:19Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
 | 20230407T12:20:54Z | Null | https://github.com/alzaexploit/exploit | 0 | 0| 
-| 20230407T12:07:54Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0917-app-oiUhY-rely-exploit | 0 | 0| 
-| 20230407T12:03:24Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2325 | 155| 
-| 20230407T10:59:40Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0067-app-SdhBN-serve-exploit | 0 | 0| 
-| 20230407T10:20:02Z | Null | https://github.com/Jaimou/SDV_exploitation_bdd | 0 | 0| 
-| 20230407T09:58:45Z | out-of-tree kernel {module, exploit} development tool | https://github.com/out-of-tree/out-of-tree | 201 | 30| 
-| 20230407T09:55:09Z | Code for EACL 2023 Findings paper %Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training% | https://github.com/XiaZeng0223/active_pets | 0 | 0| 
-| 20230407T09:40:05Z | the code of paper %Exploiting Conversation-Branch-Tweet HyperGraph Structure to Detect Misinformation on Social Media% | https://github.com/liugangdao/CBT-HGCN | 0 | 0| 
-| 20230407T09:27:30Z | Demystifying Exploitable Bugs in Smart Contracts | https://github.com/ZhangZhuoSJTU/Web3Bugs | 957 | 117| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
+| 20230407T18:23:01Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
+| 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
+| 20230407T15:37:23Z | 💜Purple RAT | https://github.com/KrxboLxTrueNasto/Njrat-Purple-Edition-byKrxboLxTrueNasto | 1 | 0| 
 | 20230407T06:24:52Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
 | 20230407T02:34:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 127 | 15| 
-| 20230407T02:14:04Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
 | 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
 | 20230406T14:53:13Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 3 | 0| 
 | 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
 | 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
-| 20230406T07:41:13Z | Backdoor Attacks for Remote Sensing Data with Wavelet Transform | https://github.com/ndraeger/waba | 6 | 0| 
-| 20230406T07:04:51Z | clean label backdoor attack and defense | https://github.com/shuaizhao95/backdoor_attack_and_defense | 1 | 0| 
-| 20230406T02:55:35Z | Mostly recording papers about models% trustworthy applications. Intending to include topics like model evaluation & analysis, security, calibration, backdoor learning, robustness, et al. | https://github.com/Yangyi-Chen/PaperList-trustworthy-applications | 12 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230407T23:36:00Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
+| 20230407T22:13:18Z | Null | https://github.com/jviyfdghbf/fuzzy-train | 0 | 0| 
+| 20230407T22:12:35Z | Null | https://github.com/vjiuyrbhfbbi/fuzzy-winner | 2 | 0| 
+| 20230407T21:50:21Z | Null | https://github.com/SenseiRofu/fuzzy-waddle | 0 | 0| 
+| 20230407T21:08:35Z | Null | https://github.com/demusis/fuzzyRanking | 0 | 0| 
+| 20230407T20:58:07Z | Null | https://github.com/Luisxhafa/fuzzy-octo-train | 0 | 0| 
+| 20230407T20:54:46Z | This a simple Fuzzal sorting Game created in jquery. | https://github.com/Tahirdeveloper/puzzle-Game | 1 | 0| 
 | 20230407T12:55:04Z | A python scripts that checks  directories on an inputed website | https://github.com/zaki031/z-fuzzer | 2 | 0| 
+| 20230407T11:56:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2669 | 184| 
 | 20230407T11:43:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2040 | 261| 
-| 20230407T10:36:28Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 901 | 212| 
-| 20230407T10:27:30Z | 测试数据生成工具 | https://github.com/swoiow/fuzzy-data | 0 | 0| 
-| 20230407T10:27:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1346 | 190| 
-| 20230407T09:13:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3566 | 716| 
-| 20230407T08:34:14Z | Null | https://github.com/google/fuzztest | 251 | 18| 
-| 20230407T08:25:02Z | The 4tail script is a simple but real-based modified tool for bug bounty hunters, automating the process of subdomain enumeration, fuzzing, and vulnerability scanning with special commands which added by me. It includes special modifications for improved functionality and it still continues to develop. | https://github.com/nijiinhell/4tail | 0 | 0| 
-| 20230407T07:56:39Z | Fuzzy Logic Control on Spring Mass Damper System | https://github.com/AbuFayez/Fuzzy-Logic-Control-on-Spring-Mass-Damper-System | 0 | 0| 
-| 20230407T06:49:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8542 | 1865| 
 
 
 
