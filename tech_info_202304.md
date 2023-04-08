@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T01:55:58Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
 | 20230408T00:54:13Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 2 | 0| 
 | 20230408T00:29:27Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
 | 20230408T00:14:21Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-regression-corpus | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20230407T21:50:21Z | Null | https://github.com/SenseiRofu/fuzzy-waddle | 0 | 0| 
 | 20230407T21:08:35Z | Null | https://github.com/demusis/fuzzyRanking | 0 | 0| 
 | 20230407T20:58:07Z | Null | https://github.com/Luisxhafa/fuzzy-octo-train | 0 | 0| 
-| 20230407T20:54:46Z | This a simple Fuzzal sorting Game created in jquery. | https://github.com/Tahirdeveloper/puzzle-Game | 1 | 0| 
 
 
 
