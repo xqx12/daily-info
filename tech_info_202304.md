@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
 | 20230407 | Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA| 
 | 20230404 | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA| 
 | 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
@@ -40,7 +41,6 @@
 | 20230402 | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg| 
 | 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
 | 20230401 | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ| 
-| 20230401 | parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ| 
 
 
 # CVE Github 推荐
