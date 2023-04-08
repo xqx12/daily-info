@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
+| 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
+| 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 | 20230407T23:50:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230407T23:44:02Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
 | 20230407T20:18:26Z | CVE-2021-34527 | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | https://github.com/fardinbarashi/PsFix-CVE-2021-34527 | | 
 | 20230407T20:05:28Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
-| 20230407T19:19:08Z | CVE-2023-29017 | Null | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
 | 20230407T17:44:44Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | | 
 | 20230407T16:47:13Z | CVE-2022-43293 | Exploit and report for CVE-2022-43293 | https://github.com/LucaBarile/CVE-2022-43293 | | 
-| 20230407T14:55:54Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 | 20230407T09:39:05Z | CVE-2023-21389 | Null | https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389 | | 
-| 20230407T09:13:53Z | CVE-2023-27100 | Null | https://github.com/DarokNET/CVE-2023-27100 | | 
 
 
 # klee on Github 推荐
@@ -76,26 +76,29 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T05:28:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 316 | 75| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T11:58:33Z | Null | https://github.com/mohamedarbi1/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 89 | 0| 
+| 20230408T11:08:48Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2511 | 353| 
+| 20230408T10:52:04Z | Null | https://github.com/H4lfpace/Shoot-people-of-the-map-exploit | 0 | 0| 
+| 20230408T08:45:16Z | lsf(LogiSploit-Framework) is an exploiting framework for hackers | https://github.com/Rayan25062011/lsf | 1 | 0| 
+| 20230408T08:45:05Z | Fixing old exploits which somehow didn%t work for me! | https://github.com/karanshergill/Exploits | 0 | 0| 
+| 20230408T08:16:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4853 | 957| 
+| 20230408T05:58:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 614 | 163| 
 | 20230408T01:15:23Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 48 | 0| 
 | 20230408T01:14:15Z | Use this script to scan a target and search metasploit framework to see if there are any exploits in it that would probably work on that version. | https://github.com/moomincoder/scan_and_search | 0 | 0| 
 | 20230408T01:13:36Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
-| 20230408T01:13:35Z | Null | https://github.com/aichajeral/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
-| 20230408T01:13:34Z | Null | https://github.com/bqsstien/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
-| 20230407T23:35:38Z | Null | https://github.com/GuilhermeRSK/Exploits | 0 | 0| 
-| 20230407T22:45:49Z | Python code to exploit a binary file and brute force password. (Used for Education and PenTesting Only)  | https://github.com/datashieldx/vault_exploit | 0 | 0| 
-| 20230407T21:51:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10060 | 1585| 
-| 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
-| 20230407T16:28:45Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
+| 20230408T02:25:45Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 9 | 0| 
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
 | 20230407T18:23:01Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
@@ -104,14 +107,13 @@
 | 20230407T06:24:52Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
 | 20230407T02:34:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 127 | 15| 
 | 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
-| 20230406T14:53:13Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 3 | 0| 
-| 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230408T01:47:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1049 | 129| 
+| 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
+| 20230408T06:41:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1050 | 129| 
 | 20230407T23:35:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 240 | 30| 
 | 20230407T22:25:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2204 | 612| 
 | 20230407T21:27:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3390 | 477| 
@@ -119,7 +121,6 @@
 | 20230404T16:38:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230404T14:14:32Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 19 | 9| 
 | 20230404T11:20:14Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 0 | 0| 
-| 20230402T11:16:56Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 38 | 8| 
 | 20230401T21:22:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 630 | 113| 
 
 
