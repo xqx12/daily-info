@@ -138,6 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T10:27:58Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
+| 20230408T09:50:41Z | tjyjukgk | https://github.com/hftjtyi88/fuzzy-lamp | 0 | 0| 
+| 20230408T09:47:46Z | Null | https://github.com/RowFL/Aduino_fuzzy_logic | 0 | 0| 
 | 20230408T01:59:28Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
 | 20230408T00:54:13Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 2 | 0| 
 | 20230408T00:29:27Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
@@ -145,9 +148,6 @@
 | 20230407T23:36:00Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230407T22:13:18Z | Null | https://github.com/jviyfdghbf/fuzzy-train | 0 | 0| 
 | 20230407T22:12:35Z | Null | https://github.com/vjiuyrbhfbbi/fuzzy-winner | 2 | 0| 
-| 20230407T21:50:21Z | Null | https://github.com/SenseiRofu/fuzzy-waddle | 0 | 0| 
-| 20230407T21:08:35Z | Null | https://github.com/demusis/fuzzyRanking | 0 | 0| 
-| 20230407T20:58:07Z | Null | https://github.com/Luisxhafa/fuzzy-octo-train | 0 | 0| 
 
 
 
