@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
 | 20230407T18:23:01Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
 | 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
@@ -105,7 +106,6 @@
 | 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
 | 20230406T14:53:13Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 3 | 0| 
 | 20230406T12:52:41Z | Null | https://github.com/inconstance/T-shirt-natural-backdoor-dataset | 0 | 0| 
-| 20230406T11:30:52Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
