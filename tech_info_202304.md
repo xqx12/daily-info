@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
+| 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
 | 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 | 20230407T23:50:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
@@ -55,7 +56,6 @@
 | 20230407T20:05:28Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
 | 20230407T17:44:44Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | | 
 | 20230407T16:47:13Z | CVE-2022-43293 | Exploit and report for CVE-2022-43293 | https://github.com/LucaBarile/CVE-2022-43293 | | 
-| 20230407T09:39:05Z | CVE-2023-21389 | Null | https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389 | | 
 
 
 # klee on Github 推荐

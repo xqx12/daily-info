@@ -19,6 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
+| 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
 | 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 
