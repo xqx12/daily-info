@@ -45,14 +45,14 @@
 | --- | --- | --- | --- | ---| 
 | 20230407T23:35:38Z | Null | https://github.com/GuilhermeRSK/Exploits | 0 | 0| 
 | 20230407T22:45:49Z | Python code to exploit a binary file and brute force password. (Used for Education and PenTesting Only)  | https://github.com/datashieldx/vault_exploit | 0 | 0| 
-| 20230407T22:20:40Z | Null | https://github.com/aichajeral/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
-| 20230407T22:20:35Z | Null | https://github.com/bqsstien/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
-| 20230407T22:20:33Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
 | 20230407T21:51:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10060 | 1585| 
-| 20230407T21:15:57Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 49 | 0| 
 | 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
 | 20230407T16:28:45Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
 | 20230407T16:21:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4850 | 956| 
+| 20230407T12:46:19Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
+| 20230407T12:20:54Z | Null | https://github.com/alzaexploit/exploit | 0 | 0| 
+| 20230407T12:07:54Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-0917-app-oiUhY-rely-exploit | 0 | 0| 
+| 20230407T12:03:24Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2325 | 155| 
 
 
 # backdoor on Github 推荐

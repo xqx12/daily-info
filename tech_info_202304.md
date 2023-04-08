@@ -81,16 +81,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T01:15:23Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 48 | 0| 
+| 20230408T01:14:15Z | Use this script to scan a target and search metasploit framework to see if there are any exploits in it that would probably work on that version. | https://github.com/moomincoder/scan_and_search | 0 | 0| 
+| 20230408T01:13:36Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
+| 20230408T01:13:35Z | Null | https://github.com/aichajeral/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
+| 20230408T01:13:34Z | Null | https://github.com/bqsstien/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
 | 20230407T23:35:38Z | Null | https://github.com/GuilhermeRSK/Exploits | 0 | 0| 
 | 20230407T22:45:49Z | Python code to exploit a binary file and brute force password. (Used for Education and PenTesting Only)  | https://github.com/datashieldx/vault_exploit | 0 | 0| 
-| 20230407T22:20:40Z | Null | https://github.com/aichajeral/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
-| 20230407T22:20:35Z | Null | https://github.com/bqsstien/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
-| 20230407T22:20:33Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 45 | 0| 
 | 20230407T21:51:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10060 | 1585| 
-| 20230407T21:15:57Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 49 | 0| 
 | 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
 | 20230407T16:28:45Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
-| 20230407T16:21:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4850 | 956| 
 
 
 # backdoor on Github 推荐
