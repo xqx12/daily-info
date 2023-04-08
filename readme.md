@@ -52,7 +52,7 @@
 | 20230407T21:15:57Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 49 | 0| 
 | 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
 | 20230407T16:28:45Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
-| 20230407T12:46:19Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
+| 20230407T16:21:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4850 | 956| 
 
 
 # backdoor on Github 推荐

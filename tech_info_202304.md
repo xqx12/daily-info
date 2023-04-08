@@ -90,7 +90,7 @@
 | 20230407T21:15:57Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 49 | 0| 
 | 20230407T20:05:28Z | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | 17 | 5| 
 | 20230407T16:28:45Z | Write Ups for Crypto Cat%s Binary Exploitation 101 CTF | https://github.com/sampatti37/crypto-cat-binary-exploitations-101 | 0 | 0| 
-| 20230407T12:46:19Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
+| 20230407T16:21:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4850 | 956| 
 
 
 # backdoor on Github 推荐
@@ -137,8 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T00:29:27Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
 | 20230408T00:26:05Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 1 | 0| 
-| 20230408T00:25:54Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
 | 20230408T00:14:21Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-regression-corpus | 0 | 0| 
 | 20230407T23:36:00Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230407T22:13:18Z | Null | https://github.com/jviyfdghbf/fuzzy-train | 0 | 0| 
