@@ -137,7 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230408T00:16:05Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 0 | 0| 
+| 20230408T00:26:05Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 1 | 0| 
+| 20230408T00:25:54Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
 | 20230408T00:14:21Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-regression-corpus | 0 | 0| 
 | 20230407T23:36:00Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230407T22:13:18Z | Null | https://github.com/jviyfdghbf/fuzzy-train | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20230407T21:08:35Z | Null | https://github.com/demusis/fuzzyRanking | 0 | 0| 
 | 20230407T20:58:07Z | Null | https://github.com/Luisxhafa/fuzzy-octo-train | 0 | 0| 
 | 20230407T20:54:46Z | This a simple Fuzzal sorting Game created in jquery. | https://github.com/Tahirdeveloper/puzzle-Game | 1 | 0| 
-| 20230407T14:12:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3514 | 420| 
 
 
 
