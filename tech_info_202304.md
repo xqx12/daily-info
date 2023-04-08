@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
+| 20230408 | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA| 
 | 20230407 | Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA| 
 | 20230404 | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA| 
 | 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
@@ -40,7 +41,6 @@
 | 20230402 | 使用FirmAE 对zyxel路由器固件仿真实践 | https://www.anquanke.com/post/id/288053| 
 | 20230402 | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg| 
 | 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
-| 20230401 | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ| 
 
 
 # CVE Github 推荐
@@ -141,13 +141,13 @@
 | 20230408T10:27:58Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
 | 20230408T09:50:41Z | tjyjukgk | https://github.com/hftjtyi88/fuzzy-lamp | 0 | 0| 
 | 20230408T09:47:46Z | Null | https://github.com/RowFL/Aduino_fuzzy_logic | 0 | 0| 
+| 20230408T07:34:52Z | Test ClickHouse database with WINGFUZZ fuzzing test tool | https://github.com/wingfuzz/wingfuzz-for-clickhouse | 0 | 0| 
 | 20230408T01:59:28Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
 | 20230408T00:54:13Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 2 | 0| 
 | 20230408T00:29:27Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
 | 20230408T00:14:21Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-regression-corpus | 0 | 0| 
 | 20230407T23:36:00Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230407T22:13:18Z | Null | https://github.com/jviyfdghbf/fuzzy-train | 0 | 0| 
-| 20230407T22:12:35Z | Null | https://github.com/vjiuyrbhfbbi/fuzzy-winner | 2 | 0| 
 
 
 
