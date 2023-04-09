@@ -140,8 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T12:44:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3570 | 717| 
 | 20230409T11:52:27Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 8 | 0| 
-| 20230409T11:52:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3569 | 717| 
 | 20230409T11:24:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8543 | 1865| 
 | 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
 | 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
