@@ -141,13 +141,13 @@
 | 20230408T23:58:13Z | Null | https://github.com/castilho101/FuzzyGuard | 0 | 0| 
 | 20230408T21:57:55Z | HTTP fuzzer (originally targeted at SQLi, but ended up with broader possibilities) | https://github.com/vasconcedu/sqlime | 0 | 0| 
 | 20230408T19:59:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1865| 
+| 20230408T19:46:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3518 | 420| 
 | 20230408T19:37:34Z | Null | https://github.com/JoaoGomes24/Fuzzer-Project | 0 | 0| 
 | 20230408T19:09:42Z | Btc | https://github.com/mdamedtmtaxman/fuzzy-octo-broccoli | 1 | 0| 
 | 20230408T19:03:19Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-FRONTEND | 0 | 0| 
 | 20230408T19:01:10Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-BACKEND | 0 | 0| 
 | 20230408T18:56:36Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER | 0 | 0| 
 | 20230408T12:19:54Z | Fuzzy Logic Distortion | https://github.com/SputnikStan5/Bipolar-Fuzzy-Logic-Gate | 0 | 0| 
-| 20230408T12:08:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3569 | 717| 
 
 
 
