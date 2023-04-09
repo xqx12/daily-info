@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230409T12:29:29Z | CVE-2023-24709 | In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as "</script>" that will overwrite configurations in the file "login.xml" and cause the login page to crash.  | https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC | | 
 | 20230409T09:30:38Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
 | 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
@@ -55,7 +56,6 @@
 | 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
 | 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
-| 20230407T23:44:02Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
 
 
 # klee on Github 推荐
