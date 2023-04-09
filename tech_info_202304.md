@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230409T09:30:38Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
+| 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
 | 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
 | 20230408T17:48:00Z | 未知编号 | A study of malicious CVE proof of concept exploits in GitHub (2022) | https://github.com/JoanaTrashlieva/cve-poc-exploits-2022 | | 
 | 20230408T16:53:09Z | CVE-2022-2602 | Null | https://github.com/vnc1106/CVE-2022-2602 | | 
-| 20230408T16:48:42Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
 | 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
 | 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 | 20230407T23:44:02Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
-| 20230407T20:18:26Z | CVE-2021-34527 | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | https://github.com/fardinbarashi/PsFix-CVE-2021-34527 | | 
 
 
 # klee on Github 推荐
@@ -76,7 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230408T12:48:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 317 | 75| 
+| 20230409T09:30:19Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 85 | 47| 
+| 20230409T05:46:09Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 4 | 1| 
+| 20230409T05:23:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 318 | 75| 
 
 
 # exploit on Github 推荐
@@ -97,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T11:44:36Z | 🔥 BEST DRAINER MULTICHAINDRAINER 🔥 🔥 DRAINS THE MOST VALUE ITEMS FIRST UNTIL ALLTOKENS HAVE BEEN DRAINED ON ALL NETWORKS🔥 ♦️ STEALS ALL VALUABLE OPENSEA NFT%S IN 1 SIGN ♦️ SUPPORTS MULTIPLE WALLETS ( WALLETCONNECT, METAMASK, TRUSTWALLET, LEDGER ) ♦️ DRAINED FUNDS DIRECTLY TO YOUR WALLET ♦️ CLEAN CODE NO BACKDOOR FULL CODE SCRIPT | https://github.com/drainerstore/MULTICHAINDRAINER-CRYPTO-DRAINER-ETH-DRAINER-NFT-DRAINER-CRYPTO-STEALER-2023 | 37 | 0| 
+| 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
 | 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
+| 20230408T14:26:20Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 314 | 72| 
 | 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
 | 20230408T02:25:45Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 9 | 0| 
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
 | 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
 | 20230407T15:37:23Z | 💜Purple RAT | https://github.com/KrxboLxTrueNasto/Njrat-Purple-Edition-byKrxboLxTrueNasto | 1 | 0| 
-| 20230407T06:24:52Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
-| 20230407T02:34:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 127 | 15| 
-| 20230406T19:15:41Z | Just a simple Backdoor made in python :) | https://github.com/Detrew/froot-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230409T01:51:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3392 | 477| 
+| 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
+| 20230409T05:23:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 318 | 75| 
+| 20230409T05:11:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3393 | 477| 
 | 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
 | 20230408T06:41:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1050 | 129| 
-| 20230407T23:35:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 240 | 30| 
 | 20230407T22:25:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2204 | 612| 
 | 20230405T13:28:12Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 550 | 36| 
 | 20230404T16:38:38Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230404T14:14:32Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 19 | 9| 
 | 20230404T11:20:14Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 0 | 0| 
-| 20230401T21:22:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 630 | 113| 
 
 
 # big4 on Github 推荐
@@ -138,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T11:52:27Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 8 | 0| 
+| 20230409T11:52:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3569 | 717| 
+| 20230409T11:24:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8543 | 1865| 
+| 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
+| 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
+| 20230409T07:34:34Z | Null | https://github.com/DongNP16/TS-fuzzy-system | 0 | 0| 
+| 20230409T05:56:40Z | Avances de proyectos de tesis | https://github.com/victorvd/fuzzy_classification | 0 | 0| 
 | 20230409T01:24:40Z | Null | https://github.com/laosteven/fuzzy-guacamole | 0 | 0| 
 | 20230409T01:04:49Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 17 | 0| 
 | 20230408T23:58:13Z | Null | https://github.com/castilho101/FuzzyGuard | 0 | 0| 
-| 20230408T21:57:55Z | HTTP fuzzer (originally targeted at SQLi, but ended up with broader possibilities) | https://github.com/vasconcedu/sqlime | 0 | 0| 
-| 20230408T19:59:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1865| 
-| 20230408T19:46:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3518 | 420| 
-| 20230408T19:37:34Z | Null | https://github.com/JoaoGomes24/Fuzzer-Project | 0 | 0| 
-| 20230408T19:09:42Z | Btc | https://github.com/mdamedtmtaxman/fuzzy-octo-broccoli | 1 | 0| 
-| 20230408T19:03:19Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-FRONTEND | 0 | 0| 
-| 20230408T19:01:10Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-BACKEND | 0 | 0| 
 
 
 
