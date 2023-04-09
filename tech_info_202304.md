@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T11:32:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 727| 
+| 20230409T11:31:52Z | Null | https://github.com/R00tendo/HidePass-exploit | 0 | 0| 
+| 20230409T11:02:29Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2877 | 630| 
+| 20230409T10:10:09Z | Capitalist Propagandist - exploit culture for profit! | https://github.com/nczmoo/capprop3 | 0 | 0| 
+| 20230409T09:51:52Z | Great Roblox Exploit Script Made By OverSeerDev! | https://github.com/OverSeerDev/OSSV4 | 0 | 0| 
+| 20230409T08:15:55Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 150 | 0| 
+| 20230409T07:53:58Z | Exploit for elevation of privilege vulnerability in QuickHeal%s Seqrite EPS. | https://github.com/0xInfection/EPScalate | 0 | 0| 
+| 20230409T07:40:49Z | My own solutions to metasploitable exploits | https://github.com/ThePenClicker/MetasploitableSolutions | 0 | 0| 
 | 20230409T01:55:51Z | uhhh some shitty ....blox exploit i made, decided to upload for archival + educational shit | https://github.com/blubbussploiter/blubbussploit | 0 | 0| 
 | 20230409T01:54:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4855 | 957| 
-| 20230409T01:50:47Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 190 | 37| 
-| 20230409T01:50:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0k | 1 | 0| 
-| 20230409T01:49:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0k | 1 | 0| 
-| 20230409T01:49:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0k | 1 | 0| 
-| 20230409T00:55:39Z | A program that takes advantage of the statistical arbitrage that exploits the odds differential between multiple platforms in sports betting. | https://github.com/CuriousandTime/SportsBetting-Multiplatform-OddsSpread-StatisticalArbitrage | 0 | 0| 
-| 20230408T23:20:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10067 | 1585| 
-| 20230408T23:11:35Z | Exploiting EternalBlue MS17-010 Vulnerability | https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability | 0 | 0| 
-| 20230408T23:09:13Z | Null | https://github.com/raydjs/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
