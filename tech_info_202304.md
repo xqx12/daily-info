@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T01:50:47Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 190 | 37| 
+| 20230409T01:50:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0k | 1 | 0| 
+| 20230409T01:49:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0k | 1 | 0| 
+| 20230409T01:49:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0k | 1 | 0| 
 | 20230409T00:55:39Z | A program that takes advantage of the statistical arbitrage that exploits the odds differential between multiple platforms in sports betting. | https://github.com/CuriousandTime/SportsBetting-Multiplatform-OddsSpread-StatisticalArbitrage | 0 | 0| 
 | 20230408T23:20:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10067 | 1585| 
 | 20230408T23:11:35Z | Exploiting EternalBlue MS17-010 Vulnerability | https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability | 0 | 0| 
 | 20230408T23:09:13Z | Null | https://github.com/raydjs/Exploits | 0 | 0| 
 | 20230408T22:46:44Z | Regular ROBLOX modules converted to be compatible with exploits | https://github.com/ffrrancis/modules | 0 | 0| 
 | 20230408T22:44:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4854 | 957| 
-| 20230408T21:19:58Z | Null | https://github.com/spetrone/exploit-examples | 0 | 0| 
-| 20230408T21:05:34Z | Null | https://github.com/xbTrojan/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 109 | 0| 
-| 20230408T20:58:38Z | Null | https://github.com/fengge1/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 110 | 0| 
-| 20230408T19:09:17Z | django service for xss exploitation | https://github.com/Svetovoyvv/xss-sniffer-backend | 0 | 0| 
 
 
 # backdoor on Github 推荐
