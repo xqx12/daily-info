@@ -93,7 +93,7 @@
 | 20230409T11:02:29Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2877 | 630| 
 | 20230409T10:10:09Z | Capitalist Propagandist - exploit culture for profit! | https://github.com/nczmoo/capprop3 | 0 | 0| 
 | 20230409T09:51:52Z | Great Roblox Exploit Script Made By OverSeerDev! | https://github.com/OverSeerDev/OSSV4 | 0 | 0| 
-| 20230409T08:15:55Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 150 | 0| 
+| 20230409T09:45:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13393 | 2260| 
 
 
 # backdoor on Github 推荐
