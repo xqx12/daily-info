@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T01:54:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4855 | 957| 
 | 20230409T01:50:47Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 190 | 37| 
 | 20230409T01:50:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0k | 1 | 0| 
 | 20230409T01:49:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0k | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20230408T23:11:35Z | Exploiting EternalBlue MS17-010 Vulnerability | https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability | 0 | 0| 
 | 20230408T23:09:13Z | Null | https://github.com/raydjs/Exploits | 0 | 0| 
 | 20230408T22:46:44Z | Regular ROBLOX modules converted to be compatible with exploits | https://github.com/ffrrancis/modules | 0 | 0| 
-| 20230408T22:44:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4854 | 957| 
 
 
 # backdoor on Github 推荐
@@ -112,7 +112,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230408T18:09:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3391 | 477| 
+| 20230409T01:51:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3392 | 477| 
 | 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
 | 20230408T06:41:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1050 | 129| 
 | 20230407T23:35:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 240 | 30| 
