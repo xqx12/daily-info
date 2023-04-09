@@ -89,11 +89,11 @@
 | 20230409T12:02:47Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230409T11:32:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 727| 
 | 20230409T11:31:52Z | Null | https://github.com/R00tendo/HidePass-exploit | 0 | 0| 
+| 20230409T11:20:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4857 | 958| 
 | 20230409T11:02:29Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2877 | 630| 
 | 20230409T10:10:09Z | Capitalist Propagandist - exploit culture for profit! | https://github.com/nczmoo/capprop3 | 0 | 0| 
 | 20230409T09:51:52Z | Great Roblox Exploit Script Made By OverSeerDev! | https://github.com/OverSeerDev/OSSV4 | 0 | 0| 
 | 20230409T08:15:55Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 150 | 0| 
-| 20230409T07:53:58Z | Exploit for elevation of privilege vulnerability in QuickHeal%s Seqrite EPS. | https://github.com/0xInfection/EPScalate | 0 | 0| 
 
 
 # backdoor on Github 推荐
