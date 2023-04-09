@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T12:02:47Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230409T11:32:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 727| 
 | 20230409T11:31:52Z | Null | https://github.com/R00tendo/HidePass-exploit | 0 | 0| 
 | 20230409T11:02:29Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2877 | 630| 
@@ -93,7 +94,6 @@
 | 20230409T07:53:58Z | Exploit for elevation of privilege vulnerability in QuickHeal%s Seqrite EPS. | https://github.com/0xInfection/EPScalate | 0 | 0| 
 | 20230409T07:40:49Z | My own solutions to metasploitable exploits | https://github.com/ThePenClicker/MetasploitableSolutions | 0 | 0| 
 | 20230409T01:55:51Z | uhhh some shitty ....blox exploit i made, decided to upload for archival + educational shit | https://github.com/blubbussploiter/blubbussploit | 0 | 0| 
-| 20230409T01:54:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4855 | 957| 
 
 
 # backdoor on Github 推荐
