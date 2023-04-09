@@ -6,6 +6,19 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230408 | FirmAE 是一个全自动模拟和漏洞分析框架。 FirmAE 在预构建的自定义 Linux 内核和库之上模拟固件镜像。它还对目标镜像进行两次模拟，以收集各种系统日志，并使用这些信息进行进一步的模拟。 | https://www.freebuf.com/articles/endpoint/362261.html| 
+| 20230408 | 窃贼如何使用网络总线通过丰田 RAV4 中的智能前照灯接线偷车 | http://packetstormsecurity.com/news/view/34502/CAN-Do-Attitude-How-Thieves-Steal-Cars-Using-Network-Bus.html| 
+| 20230408 | CAN 注入：无钥匙汽车盗窃，一个关于汽车如何被盗的侦探故事，以及它发现高科技汽车盗窃是如此流行。 | https://kentindell.github.io/2023/04/03/can-injection/| 
+| 20230408 | 一种从具有最大保护的计算机中窃取数据的新方法。目标放置在一个隔离的房间里并被气隙包围（即既不连接到互联网也不连接到本地网络）。当没有其他更简单的方法可行时，这种类型的攻击可以作为恶意行为者的最后手段。 | http://kas.pr/skm1| 
+| 20230408 | RedditC2 - 滥用 Reddit API 来托管 C2 流量 | https://www.kitploit.com/2023/04/redditc2-abusing-reddit-api-to-host-c2.html| 
+| 20230408 | Universal Media Server 是一个免费的 DLNA、UPnP 和 HTTP/S 媒体服务器，存在XSS漏洞 | http://packetstormsecurity.com/files/171754| 
+| 20230408 | 如何利用两行更改开发恶意软件并获得任意内核代码执行和 root 权限 | http://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/| 
+| 20230408 | 0patch 的使命是通过提供微型代码补丁（“微补丁”）阻止 Windows 操作系统或各种 Windows 应用程序中的 0 日或 N 日漏洞，使客户能够保护他们的 Microsoft Windows 系统。作者通过esReven软件分析0patch，以加速漏洞分析。 | https://eshard.com/posts/0patch-with-esreven| 
+| 20230408 | 使用谷歌云函数混淆 C2 流量 | https://fortynorthsecurity.com/blog/obfuscating-c2-traffic-with-google-cloud-functions/| 
+| 20230408 | 完全依靠ChatGPT提示词开发出可抗检测的0Day利用 | https://sec.today/pulses/85caf48a-bcd0-474a-85c2-baa5f4cc69fc/| 
+| 20230408 | GoBruteforcer 是一种用 Golang 编写的新型僵尸网络恶意软件，目标是 Web 服务器，特别是那些运行 phpMyAdmin、MySQL、FTP 和 Postgres 服务的服务器。 | https://sec.today/pulses/8ba8cc50-01f6-4e13-9102-a8cd2f418b42/| 
+| 20230408 | 完全依靠ChatGPT提示词开发出可抗检测的0Day利用 | https://www.forcepoint.com/blog/x-labs/zero-day-exfiltration-using-chatgpt-prompts| 
+| 20230408 | GoBruteforcer 是一种用 Golang 编写的新型僵尸网络恶意软件，目标是 Web 服务器，特别是那些运行 phpMyAdmin、MySQL、FTP 和 Postgres 服务的服务器。 | https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/| 
 | 20230406 | 一个已有 10 年历史的 Windows 漏洞仍在攻击中被利用，使可执行文件看起来像是经过合法签名的，而微软的修复在这些年之后仍然“选择加入”。更糟糕的是，升级到 Windows 11 后修复被删除 | https://www.bleepingcomputer.com/news/microsoft/10-year-old-windows-bug-with-opt-in-fix-exploited-in-3cx-attack/| 
 | 20230406 | 一个开源项目，将易受攻击的、恶意的和已知的恶意 Windows 驱动程序汇集在一个综合存储库中。 | http://www.loldrivers.io/| 
 | 20230406 | 攻击者能够以指数方式抬高抵押品 WALBT 代币的价格，以此借入 BEUR 代币 | http://akshaysrivastav.hashnode.dev/culprit-behind-the-120-million-bonq-attack| 
@@ -13,19 +26,6 @@
 | 20230406 | Twitter 推荐算法允许攻击者通过安排多个 Twitter 帐户协调有关目标帐户的负面信号来导致拒绝服务（降低信誉评分） | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29218| 
 | 20230406 | 基于 Asmjit 的多态加密器，基于 C++ 和 asmjit 库，用于使用 RC4 加密多态加密给定的 shellcode、PE 和 COFF 文件 | https://www.kitploit.com/2023/04/shoggoth-asmjit-based-polymorphic.html| 
 | 20230406 | WinRAR SFX 压缩包可以在不被发现的情况下运行 PowerShell，允许攻击者在不触发目标系统上的安全代理的情况下植入后门，绕过系统身份验证，绕过用户身份验证。 Utilman.exe 受密码保护并包含一个用作装饰的空文本文件 | https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/| 
-| 20230406 | DPAPISnoop 是一种可用于使用 Hashcat / JtR 破解 DES3 哈希的工具。拥有管理员权限后，它可以在本地或远程上下文 (SMB) 中运行 | https://github.com/leftp/DPAPISnoop| 
-| 20230406 | AWS Elastic Kubernetes Service (EKS) 提升权限 | https://blog.calif.io/p/privilege-escalation-in-eks| 
-| 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://sec.today/pulses/695fc615-0df1-4424-813a-58632b172a33/| 
-| 20230406 | Azure Pipelines 远程代码执行漏洞，允许攻击者获得对变量和任务的完全控制，这可能导致漏洞或软件供应链攻击 | https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack| 
-| 20230406 | nullcon CTF 2023 Challenge Writeups | https://www.youtube.com/watch?v=2DzqGho1oww&feature=youtu.be| 
-| 20230405 | 使用 VisualKernel 4.0 的实时跟踪记录 Linux 内核调试会话教程 | http://sysprogs.com/VisualKernel/tutorials/tracing/| 
-| 20230404 | GTA 3/罪恶都市皮肤文件溢出 PoC | https://www.exploit-db.com/exploits/51223?utm_source=dlvr.it&utm_medium=twitter| 
-| 20230404 | 如何使用 root 权限对 macos 进程做 shellcode 注入 | https://saulpanders.github.io/2022/02/28/OSX-Shellcode-Injection-Tour.html| 
-| 20230404 | 分析 3CX 供应链攻击中的二阶段 macos Payload - UpdateAgent | http://objective-see.org/blog/blog_0x74.html| 
-| 20230404 | ADMesh 库中的堆缓冲区溢出漏洞 | https://blog.talosintelligence.com/vulnerability-spotlight-buffer-overflow-vulnerability-in-admesh-library/| 
-| 20230404 | 网络安全审计建立了一套标准，组织可以使用这些标准来检查他们已采取的预防性网络安全措施，以确保他们保护自己免受外部和内部威胁。 | https://cybersecurity.att.com/blogs/security-essentials/how-often-should-security-audits-be?Source=ESSZsPSPR00gensEM&wtExtndSource=20230403133000_attcyber_TWITTER_Business_Cybersecurity_Security_N%2FA_Cyber+Guest+Blog+Series_20230403_Organic_Content+Promotion_N%2FA___Click-thru_No_attcyber_tw_| 
-| 20230404 | 移动安全101，如何设置您的 Android 环境 | http://securitycafe.ro/2023/04/03/mobile-pentesting-101-how-to-set-up-your-android-environment/| 
-| 20230404 | SonicWall SSL-VPN 越界写入 DoS 漏洞，漏洞的根本原因可能在 httpServer 函数中找到。 | http://ssd-disclosure.com/ssd-advisory-sonicwall-ssl-vpn-out-of-bounds-write-dos/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
+| 20230408T17:48:00Z | 未知编号 | A study of malicious CVE proof of concept exploits in GitHub (2022) | https://github.com/JoanaTrashlieva/cve-poc-exploits-2022 | | 
+| 20230408T16:53:09Z | CVE-2022-2602 | Null | https://github.com/vnc1106/CVE-2022-2602 | | 
+| 20230408T16:48:42Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
 | 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
 | 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
 | 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
-| 20230407T23:50:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230407T23:44:02Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
 | 20230407T20:18:26Z | CVE-2021-34527 | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | https://github.com/fardinbarashi/PsFix-CVE-2021-34527 | | 
-| 20230407T20:05:28Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
-| 20230407T17:44:44Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | | 
-| 20230407T16:47:13Z | CVE-2022-43293 | Exploit and report for CVE-2022-43293 | https://github.com/LucaBarile/CVE-2022-43293 | | 
 
 
 # klee on Github 推荐
@@ -97,11 +97,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
 | 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
 | 20230408T02:25:45Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 9 | 0| 
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
-| 20230407T18:23:01Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 3 | 0| 
 | 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
 | 20230407T15:37:23Z | 💜Purple RAT | https://github.com/KrxboLxTrueNasto/Njrat-Purple-Edition-byKrxboLxTrueNasto | 1 | 0| 
 | 20230407T06:24:52Z | php shell backdoors                                                                                                                    ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T23:58:13Z | Null | https://github.com/castilho101/FuzzyGuard | 0 | 0| 
+| 20230408T21:57:55Z | HTTP fuzzer (originally targeted at SQLi, but ended up with broader possibilities) | https://github.com/vasconcedu/sqlime | 0 | 0| 
+| 20230408T19:59:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1865| 
+| 20230408T19:37:34Z | Null | https://github.com/JoaoGomes24/Fuzzer-Project | 0 | 0| 
+| 20230408T19:09:42Z | Btc | https://github.com/mdamedtmtaxman/fuzzy-octo-broccoli | 1 | 0| 
+| 20230408T19:03:19Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-FRONTEND | 0 | 0| 
+| 20230408T19:01:10Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER-BACKEND | 0 | 0| 
+| 20230408T18:56:36Z | Null | https://github.com/EliorRusso/NETWORK-FUZZER | 0 | 0| 
 | 20230408T12:19:54Z | Fuzzy Logic Distortion | https://github.com/SputnikStan5/Bipolar-Fuzzy-Logic-Gate | 0 | 0| 
 | 20230408T12:08:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3569 | 717| 
-| 20230408T10:27:58Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 0 | 0| 
-| 20230408T09:50:41Z | tjyjukgk | https://github.com/hftjtyi88/fuzzy-lamp | 0 | 0| 
-| 20230408T09:47:46Z | Null | https://github.com/RowFL/Aduino_fuzzy_logic | 0 | 0| 
-| 20230408T07:34:52Z | Test ClickHouse database with WINGFUZZ fuzzing test tool | https://github.com/wingfuzz/wingfuzz-for-clickhouse | 0 | 0| 
-| 20230408T01:59:28Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
-| 20230408T00:54:13Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 2 | 0| 
-| 20230408T00:29:27Z | Null | https://github.com/majorx234/go_fuzzer | 0 | 0| 
-| 20230408T00:14:21Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-regression-corpus | 0 | 0| 
 
 
 
