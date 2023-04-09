@@ -64,7 +64,7 @@
 | 20230408T21:05:34Z | Null | https://github.com/xbTrojan/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 109 | 0| 
 | 20230408T20:58:38Z | Null | https://github.com/fengge1/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 110 | 0| 
 | 20230408T19:09:17Z | django service for xss exploitation | https://github.com/Svetovoyvv/xss-sniffer-backend | 0 | 0| 
-| 20230408T11:58:33Z | Null | https://github.com/mohamedarbi1/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 89 | 0| 
+| 20230408T18:13:59Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 174 | 7| 
 
 
 # backdoor on Github 推荐
