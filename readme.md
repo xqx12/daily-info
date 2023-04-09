@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T23:11:35Z | Exploiting EternalBlue MS17-010 Vulnerability | https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability | 0 | 0| 
+| 20230408T23:09:13Z | Null | https://github.com/raydjs/Exploits | 0 | 0| 
+| 20230408T22:46:44Z | Regular ROBLOX modules converted to be compatible with exploits | https://github.com/ffrrancis/modules | 0 | 0| 
+| 20230408T21:19:58Z | Null | https://github.com/spetrone/exploit-examples | 0 | 0| 
+| 20230408T21:05:34Z | Null | https://github.com/xbTrojan/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 109 | 0| 
+| 20230408T20:58:38Z | Null | https://github.com/fengge1/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 110 | 0| 
+| 20230408T19:09:17Z | django service for xss exploitation | https://github.com/Svetovoyvv/xss-sniffer-backend | 0 | 0| 
 | 20230408T11:58:33Z | Null | https://github.com/mohamedarbi1/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 89 | 0| 
 | 20230408T11:08:48Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2511 | 353| 
 | 20230408T10:52:04Z | Null | https://github.com/H4lfpace/Shoot-people-of-the-map-exploit | 0 | 0| 
-| 20230408T08:45:16Z | lsf(LogiSploit-Framework) is an exploiting framework for hackers | https://github.com/Rayan25062011/lsf | 1 | 0| 
-| 20230408T08:45:05Z | Fixing old exploits which somehow didn%t work for me! | https://github.com/karanshergill/Exploits | 0 | 0| 
-| 20230408T08:16:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4853 | 957| 
-| 20230408T05:58:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 614 | 163| 
-| 20230408T01:15:23Z | Null | https://github.com/hqz1989/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 48 | 0| 
-| 20230408T01:14:15Z | Use this script to scan a target and search metasploit framework to see if there are any exploits in it that would probably work on that version. | https://github.com/moomincoder/scan_and_search | 0 | 0| 
-| 20230408T01:13:36Z | Null | https://github.com/leopaul10/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 44 | 0| 
 
 
 # backdoor on Github 推荐
@@ -79,6 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230408T18:09:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3391 | 477| 
 | 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
 | 20230408T06:41:00Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1050 | 129| 
 
