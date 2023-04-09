@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T01:55:51Z | uhhh some shitty ....blox exploit i made, decided to upload for archival + educational shit | https://github.com/blubbussploiter/blubbussploit | 0 | 0| 
 | 20230409T01:54:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4855 | 957| 
 | 20230409T01:50:47Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 190 | 37| 
 | 20230409T01:50:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0k | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20230408T23:20:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10067 | 1585| 
 | 20230408T23:11:35Z | Exploiting EternalBlue MS17-010 Vulnerability | https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability | 0 | 0| 
 | 20230408T23:09:13Z | Null | https://github.com/raydjs/Exploits | 0 | 0| 
-| 20230408T22:46:44Z | Regular ROBLOX modules converted to be compatible with exploits | https://github.com/ffrrancis/modules | 0 | 0| 
 
 
 # backdoor on Github 推荐
