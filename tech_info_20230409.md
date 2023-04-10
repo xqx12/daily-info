@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230409T23:22:56Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
 | 20230409T23:21:45Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230409T22:58:36Z | roblox exploit | https://github.com/WilloDude/cracked-exploit | 0 | 0| 
 | 20230409T22:48:57Z | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20230409T12:39:59Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 35 | 0| 
 | 20230409T12:38:28Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Titienno/Lua-SirHurt-Exploit- | 35 | 0| 
 | 20230409T12:19:03Z | SushiSwap RouteProcessor2 exploit repro + supporting data useful for whitehats. | https://github.com/Anish-Agnihotri/sushiswap-exploit | 0 | 0| 
+| 20230409T11:32:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 727| 
 
 
 # backdoor on Github 推荐
