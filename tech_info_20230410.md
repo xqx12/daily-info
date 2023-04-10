@@ -32,6 +32,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:26:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 319 | 75| 
 
 
 # exploit on Github 推荐
@@ -44,9 +45,9 @@
 | 20230410T08:56:34Z | A Gnosis Safe Module to delegate to an another account to revoke on your behalf token allowances for an exploited address. | https://github.com/emilianobonassi/revoke-safe-module | 0 | 1| 
 | 20230410T07:36:44Z | Toto je kód na kradení souborů z Flash Disků | https://github.com/halisovaprace/Flash-exploit | 0 | 0| 
 | 20230410T07:29:14Z | A Console Exploit that uses WeAreDevs API | https://github.com/Charlzk05/WeAreDevs-Console | 1 | 0| 
+| 20230410T07:19:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4859 | 958| 
 | 20230410T01:55:45Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Aburrzzo/BlackWidow-BloodHunt | 0 | 0| 
 | 20230410T01:49:02Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Aburrzzo/Lua-SirHurt-Exploit- | 0 | 0| 
-| 20230410T01:45:43Z | An very simple robox executor made by MJs | https://github.com/Aburrzzo/Roblox-Exploit-Launcher | 0 | 0| 
 
 
 # backdoor on Github 推荐
