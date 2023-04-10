@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230409 | CVE-2023-21839 WebLogic Server RCE分析 | https://www.anquanke.com/post/id/287753| 
+| 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
 | 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
 | 20230408 | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA| 
 | 20230407 | Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA| 
@@ -39,28 +41,28 @@
 | 20230403 | SecWiki周刊（第474期) | https://www.sec-wiki.com/weekly/474| 
 | 20230402 | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ| 
 | 20230402 | 使用FirmAE 对zyxel路由器固件仿真实践 | https://www.anquanke.com/post/id/288053| 
-| 20230402 | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg| 
-| 20230401 | AI驱动的微软安全防护 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
+| 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
+| 20230409T15:42:16Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
+| 20230409T13:58:26Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
 | 20230409T12:35:32Z | CVE-2023-24709 | In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as "</script>" that will overwrite configurations in the file "login.xml" and cause the login page to crash.  | https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC | | 
-| 20230409T09:30:38Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
 | 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
 | 20230408T17:48:00Z | 未知编号 | A study of malicious CVE proof of concept exploits in GitHub (2022) | https://github.com/JoanaTrashlieva/cve-poc-exploits-2022 | | 
 | 20230408T16:53:09Z | CVE-2022-2602 | Null | https://github.com/vnc1106/CVE-2022-2602 | | 
 | 20230408T11:53:15Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017 | | 
-| 20230408T03:26:44Z | CVE-2022-25765 | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | https://github.com/UNICORDev/exploit-CVE-2022-25765 | | 
-| 20230408T02:48:07Z | cve-2022-42889 | Null | https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker | | 
-| 20230408T02:14:57Z | CVE-2022-21661 | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T18:58:30Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
+| 20230409T16:43:54Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 | 20230407T22:25:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2204 | 612| 
 | 20230406T20:24:13Z | Null | https://github.com/kleelab/kleelab.github.io | 2 | 0| 
 | 20230406T14:50:58Z | progetto create con vite + tailwind css | https://github.com/Mattia471/vue-test-kleecks | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20230406T02:10:06Z | This program is designed to solve the Klee-Minty problem using three different algorithms: Simplex, Interior Points and Murty Hybrid. | https://github.com/luizbastos08/KleeMinty_Solver | 0 | 0| 
 | 20230405T12:51:58Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 65 | 19| 
 | 20230404T13:57:10Z | a simple to do app made for klee | https://github.com/ricky0995/klee-notes | 0 | 0| 
-| 20230404T13:02:48Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 5 | 0| 
-| 20230404T11:32:17Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230409T23:22:56Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
+| 20230409T23:21:45Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
+| 20230409T22:58:36Z | roblox exploit | https://github.com/WilloDude/cracked-exploit | 0 | 0| 
+| 20230409T22:48:57Z | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | 0 | 0| 
+| 20230409T21:29:32Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 42 | 0| 
+| 20230409T21:22:13Z |  Hopefully useful tools for crypto analysis and exploits for CTFs | https://github.com/MihailBobeica/crypto-tools | 0 | 0| 
+| 20230409T14:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5444 | 747| 
 | 20230409T12:39:59Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 35 | 0| 
 | 20230409T12:38:28Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Titienno/Lua-SirHurt-Exploit- | 35 | 0| 
 | 20230409T12:19:03Z | SushiSwap RouteProcessor2 exploit repro + supporting data useful for whitehats. | https://github.com/Anish-Agnihotri/sushiswap-exploit | 0 | 0| 
-| 20230409T11:32:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 727| 
-| 20230409T11:31:52Z | Null | https://github.com/R00tendo/HidePass-exploit | 0 | 0| 
-| 20230409T11:20:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4857 | 958| 
-| 20230409T11:02:29Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2877 | 630| 
-| 20230409T10:10:09Z | Capitalist Propagandist - exploit culture for profit! | https://github.com/nczmoo/capprop3 | 0 | 0| 
-| 20230409T09:51:52Z | Great Roblox Exploit Script Made By OverSeerDev! | https://github.com/OverSeerDev/OSSV4 | 0 | 0| 
-| 20230409T09:45:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13393 | 2260| 
 
 
 # backdoor on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230409T12:44:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3570 | 717| 
+| 20230409T22:35:59Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 5 | 1| 
+| 20230409T21:26:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3573 | 717| 
+| 20230409T19:45:47Z | 009a2119-c705-4769-97ad-b33c5b0ce552 | https://github.com/hamed7961/fuzzy-fishstick | 0 | 0| 
+| 20230409T18:43:09Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230409T11:52:27Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 8 | 0| 
 | 20230409T11:24:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8543 | 1865| 
 | 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
 | 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
 | 20230409T07:34:34Z | Null | https://github.com/DongNP16/TS-fuzzy-system | 0 | 0| 
 | 20230409T05:56:40Z | Avances de proyectos de tesis | https://github.com/victorvd/fuzzy_classification | 0 | 0| 
-| 20230409T01:24:40Z | Null | https://github.com/laosteven/fuzzy-guacamole | 0 | 0| 
-| 20230409T01:04:49Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 17 | 0| 
-| 20230408T23:58:13Z | Null | https://github.com/castilho101/FuzzyGuard | 0 | 0| 
 
 
 
