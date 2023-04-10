@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T01:27:38Z | Null | https://github.com/SCLBD/BackdoorBench | 121 | 21| 
 | 20230409T12:57:34Z | 🔥 BEST DRAINER MULTICHAINDRAINER 🔥 🔥 DRAINS THE MOST VALUE ITEMS FIRST UNTIL ALLTOKENS HAVE BEEN DRAINED ON ALL NETWORKS🔥 ♦️ STEALS ALL VALUABLE OPENSEA NFT%S IN 1 SIGN ♦️ SUPPORTS MULTIPLE WALLETS ( WALLETCONNECT, METAMASK, TRUSTWALLET, LEDGER ) ♦️ DRAINED FUNDS DIRECTLY TO YOUR WALLET ♦️ CLEAN CODE NO BACKDOOR FULL CODE SCRIPT | https://github.com/drainerstore/MULTICHAINDRAINER-CRYPTO-DRAINER-ETH-DRAINER-NFT-DRAINER-CRYPTO-STEALER-2023 | 39 | 0| 
 | 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
 | 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
@@ -108,7 +109,6 @@
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
 | 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
-| 20230407T15:37:23Z | 💜Purple RAT | https://github.com/KrxboLxTrueNasto/Njrat-Purple-Edition-byKrxboLxTrueNasto | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
