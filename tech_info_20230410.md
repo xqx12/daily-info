@@ -68,6 +68,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T09:20:50Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 628 | 99| 
+| 20230410T09:02:46Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 21 | 2| 
 
 
 # fuzz on Github 推荐
