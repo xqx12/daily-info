@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T00:40:07Z | Null | https://github.com/gedlpeh/fuzzy-happiness | 0 | 0| 
 | 20230409T22:35:59Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 5 | 1| 
 | 20230409T21:26:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3573 | 717| 
 | 20230409T19:45:47Z | 009a2119-c705-4769-97ad-b33c5b0ce552 | https://github.com/hamed7961/fuzzy-fishstick | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20230409T11:24:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8543 | 1865| 
 | 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
 | 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
-| 20230409T07:34:34Z | Null | https://github.com/DongNP16/TS-fuzzy-system | 0 | 0| 
 
 
 
