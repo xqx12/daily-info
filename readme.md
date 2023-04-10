@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:18:41Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
 | 20230410T04:43:02Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
 | 20230410T02:17:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230410T00:01:39Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 

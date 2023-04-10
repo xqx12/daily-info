@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:18:41Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
 | 20230410T04:43:02Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
 | 20230410T02:17:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230410T00:01:39Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
@@ -55,7 +56,6 @@
 | 20230409T12:35:32Z | CVE-2023-24709 | In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as "</script>" that will overwrite configurations in the file "login.xml" and cause the login page to crash.  | https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC | | 
 | 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
 | 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
-| 20230408T17:48:00Z | 未知编号 | A study of malicious CVE proof of concept exploits in GitHub (2022) | https://github.com/JoanaTrashlieva/cve-poc-exploits-2022 | | 
 
 
 # klee on Github 推荐
