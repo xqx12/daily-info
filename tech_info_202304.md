@@ -88,7 +88,7 @@
 | 20230410T11:28:46Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6080 | 1083| 
 | 20230410T09:51:51Z | Null | https://github.com/vbryk4/CheatExploit | 0 | 0| 
 | 20230410T09:14:28Z | This is a vulnerable Flask web application designed to provide a lab environment for people who want to improve their web penetration testing skills. It includes multiple types of vulnerabilities for you to practice exploiting. | https://github.com/videvelopers/Vulnerable-Flask-App | 0 | 0| 
-| 20230410T08:56:34Z | A Gnosis Safe Module to delegate to an another account to revoke on your behalf token allowances for an exploited address. | https://github.com/emilianobonassi/revoke-safe-module | 0 | 0| 
+| 20230410T08:56:34Z | A Gnosis Safe Module to delegate to an another account to revoke on your behalf token allowances for an exploited address. | https://github.com/emilianobonassi/revoke-safe-module | 0 | 1| 
 | 20230410T07:36:44Z | Toto je kód na kradení souborů z Flash Disků | https://github.com/halisovaprace/Flash-exploit | 0 | 0| 
 | 20230410T07:29:14Z | A Console Exploit that uses WeAreDevs API | https://github.com/Charlzk05/WeAreDevs-Console | 1 | 0| 
 | 20230410T01:55:45Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Aburrzzo/BlackWidow-BloodHunt | 0 | 0| 
