@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T00:35:09Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rawjeey/Lua-SirHurt-Exploit- | 0 | 0| 
+| 20230410T00:31:47Z | An very simple robox executor made by MJs | https://github.com/Rawjeey/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230410T00:29:14Z | Multi-Function Program for Recon, Cryptography, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 1 | 0| 
 | 20230410T00:20:01Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rawjeey/BlackWidow-BloodHunt | 0 | 0| 
 | 20230410T00:14:33Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20230409T22:48:57Z | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | 0 | 0| 
 | 20230409T21:29:32Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 42 | 0| 
 | 20230409T21:22:13Z |  Hopefully useful tools for crypto analysis and exploits for CTFs | https://github.com/MihailBobeica/crypto-tools | 0 | 0| 
-| 20230409T14:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5444 | 747| 
-| 20230409T12:39:59Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 35 | 0| 
 
 
 # backdoor on Github 推荐
