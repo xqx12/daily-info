@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230410 | NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA| 
 | 20230409 | CVE-2023-21839 WebLogic Server RCE分析 | https://www.anquanke.com/post/id/287753| 
 | 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
 | 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
@@ -40,13 +41,13 @@
 | 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
 | 20230403 | SecWiki周刊（第474期) | https://www.sec-wiki.com/weekly/474| 
 | 20230402 | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ| 
-| 20230402 | 使用FirmAE 对zyxel路由器固件仿真实践 | https://www.anquanke.com/post/id/288053| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230410T01:55:09Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
+| 20230410T04:43:02Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
+| 20230410T02:17:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230410T00:01:39Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
 | 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
 | 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
@@ -55,7 +56,6 @@
 | 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
 | 20230408T19:00:03Z | CVE-2023-29017 | Clone from gist | https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017 | | 
 | 20230408T17:48:00Z | 未知编号 | A study of malicious CVE proof of concept exploits in GitHub (2022) | https://github.com/JoanaTrashlieva/cve-poc-exploits-2022 | | 
-| 20230408T16:53:09Z | CVE-2022-2602 | Null | https://github.com/vnc1106/CVE-2022-2602 | | 
 
 
 # klee on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:00:31Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 513 | 97| 
+| 20230410T11:28:46Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6080 | 1083| 
+| 20230410T09:51:51Z | Null | https://github.com/vbryk4/CheatExploit | 0 | 0| 
+| 20230410T09:14:28Z | This is a vulnerable Flask web application designed to provide a lab environment for people who want to improve their web penetration testing skills. It includes multiple types of vulnerabilities for you to practice exploiting. | https://github.com/videvelopers/Vulnerable-Flask-App | 0 | 0| 
+| 20230410T08:56:34Z | A Gnosis Safe Module to delegate to an another account to revoke on your behalf token allowances for an exploited address. | https://github.com/emilianobonassi/revoke-safe-module | 0 | 0| 
+| 20230410T07:36:44Z | Toto je kód na kradení souborů z Flash Disků | https://github.com/halisovaprace/Flash-exploit | 0 | 0| 
+| 20230410T07:29:14Z | A Console Exploit that uses WeAreDevs API | https://github.com/Charlzk05/WeAreDevs-Console | 1 | 0| 
 | 20230410T01:55:45Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Aburrzzo/BlackWidow-BloodHunt | 0 | 0| 
 | 20230410T01:49:02Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Aburrzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T01:45:43Z | An very simple robox executor made by MJs | https://github.com/Aburrzzo/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230410T01:18:03Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Casszo/Lua-SirHurt-Exploit- | 0 | 0| 
-| 20230410T01:16:10Z | An very simple robox executor made by MJs | https://github.com/Casszo/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230410T01:13:43Z | Null | https://github.com/Delinquent69/Exploit-Update-Check | 0 | 0| 
-| 20230410T00:47:25Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Guieemenno/Lua-SirHurt-Exploit- | 0 | 0| 
-| 20230410T00:45:31Z | An very simple robox executor made by MJs | https://github.com/Guieemenno/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230410T00:41:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3619 | 540| 
-| 20230410T00:35:09Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rawjeey/Lua-SirHurt-Exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T01:27:38Z | Null | https://github.com/SCLBD/BackdoorBench | 121 | 21| 
+| 20230410T11:56:33Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 315 | 72| 
+| 20230410T07:40:05Z | Null | https://github.com/SCLBD/BackdoorBench | 122 | 21| 
+| 20230410T02:52:10Z | crawls the network its deployed on scanning for other devices and attempts to install a backdoor on wach device found. | https://github.com/tukru/Malicious_scan.pl | 0 | 0| 
 | 20230409T12:57:34Z | 🔥 BEST DRAINER MULTICHAINDRAINER 🔥 🔥 DRAINS THE MOST VALUE ITEMS FIRST UNTIL ALLTOKENS HAVE BEEN DRAINED ON ALL NETWORKS🔥 ♦️ STEALS ALL VALUABLE OPENSEA NFT%S IN 1 SIGN ♦️ SUPPORTS MULTIPLE WALLETS ( WALLETCONNECT, METAMASK, TRUSTWALLET, LEDGER ) ♦️ DRAINED FUNDS DIRECTLY TO YOUR WALLET ♦️ CLEAN CODE NO BACKDOOR FULL CODE SCRIPT | https://github.com/drainerstore/MULTICHAINDRAINER-CRYPTO-DRAINER-ETH-DRAINER-NFT-DRAINER-CRYPTO-STEALER-2023 | 39 | 0| 
 | 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
 | 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
-| 20230408T14:26:20Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 314 | 72| 
 | 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
 | 20230408T02:25:45Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 9 | 0| 
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 | 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
-| 20230407T18:22:49Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
