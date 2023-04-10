@@ -84,6 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T00:47:25Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Guieemenno/Lua-SirHurt-Exploit- | 0 | 0| 
+| 20230410T00:45:31Z | An very simple robox executor made by MJs | https://github.com/Guieemenno/Roblox-Exploit-Launcher | 0 | 0| 
+| 20230410T00:41:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3619 | 540| 
 | 20230410T00:35:09Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rawjeey/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T00:31:47Z | An very simple robox executor made by MJs | https://github.com/Rawjeey/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230410T00:29:14Z | Multi-Function Program for Recon, Cryptography, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 1 | 0| 
@@ -91,9 +94,6 @@
 | 20230410T00:14:33Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
 | 20230409T23:21:45Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230409T22:58:36Z | roblox exploit | https://github.com/WilloDude/cracked-exploit | 0 | 0| 
-| 20230409T22:48:57Z | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | 0 | 0| 
-| 20230409T21:29:32Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 42 | 0| 
-| 20230409T21:22:13Z |  Hopefully useful tools for crypto analysis and exploits for CTFs | https://github.com/MihailBobeica/crypto-tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
