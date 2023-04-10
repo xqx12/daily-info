@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:59:36Z | Method Archive (Layer3 / Layer4 / Layer7 / Bypass + Various Other scripts) | https://github.com/dickriding/Ddos-Archive | 5 | 1| 
 | 20230410T12:54:11Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 514 | 97| 
 | 20230410T12:49:07Z | 👾 TusDino is the best and most advanced mod menu cheat for Chrome Dino with over 60+ free cheats & exploits! (Fly, Visuals, Airjump, Speed Hack +more) | https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu | 10 | 7| 
 | 20230410T11:28:46Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6080 | 1083| 
@@ -47,7 +48,6 @@
 | 20230410T07:36:44Z | Toto je kód na kradení souborů z Flash Disků | https://github.com/halisovaprace/Flash-exploit | 0 | 0| 
 | 20230410T07:29:14Z | A Console Exploit that uses WeAreDevs API | https://github.com/Charlzk05/WeAreDevs-Console | 1 | 0| 
 | 20230410T07:19:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4859 | 958| 
-| 20230410T01:55:45Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Aburrzzo/BlackWidow-BloodHunt | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T13:01:46Z | Demo fuzzy logic | https://github.com/Trotterz/Tupro2_fuzzylogic | 0 | 0| 
 | 20230410T12:39:49Z | A fuzzy search application that uses SQL Soundex to identify phonetically similar matches in a database. | https://github.com/walidaslam7/FuzzySearch | 0 | 0| 
 | 20230410T12:27:58Z | Null | https://github.com/deng-ShiFu/JOpFuzzer | 0 | 0| 
 | 20230410T10:23:46Z | Null | https://github.com/Rishita42/FuzzyStringMatch | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20230410T08:46:22Z | http/https fuzzer basic implementation using Rust, these are tiny projects that i%m working on to learn Rust% | https://github.com/Saboor-Hakimi/http_fuzzer | 0 | 0| 
 | 20230410T08:36:27Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_logic | 0 | 0| 
 | 20230410T08:35:57Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_func | 0 | 0| 
-| 20230410T08:30:52Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 55 | 17| 
 
 
 
