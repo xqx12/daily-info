@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:49:07Z | 👾 TusDino is the best and most advanced mod menu cheat for Chrome Dino with over 60+ free cheats & exploits! (Fly, Visuals, Airjump, Speed Hack +more) | https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu | 10 | 7| 
 | 20230410T12:00:31Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 513 | 97| 
 | 20230410T11:28:46Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6080 | 1083| 
 | 20230410T09:51:51Z | Null | https://github.com/vbryk4/CheatExploit | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230410T07:29:14Z | A Console Exploit that uses WeAreDevs API | https://github.com/Charlzk05/WeAreDevs-Console | 1 | 0| 
 | 20230410T07:19:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4859 | 958| 
 | 20230410T01:55:45Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Aburrzzo/BlackWidow-BloodHunt | 0 | 0| 
-| 20230410T01:49:02Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Aburrzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
