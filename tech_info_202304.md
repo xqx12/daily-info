@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T01:55:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8545 | 1866| 
+| 20230410T10:23:46Z | Null | https://github.com/Rishita42/FuzzyStringMatch | 0 | 0| 
+| 20230410T09:42:38Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
+| 20230410T09:42:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1867| 
+| 20230410T09:12:17Z | Null | https://github.com/LuciaDunes/Prak-Fuzzy-2 | 0 | 0| 
+| 20230410T08:46:22Z | http/https fuzzer basic implementation using Rust, these are tiny projects that i%m working on to learn Rust% | https://github.com/Saboor-Hakimi/http_fuzzer | 0 | 0| 
+| 20230410T08:36:27Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_logic | 0 | 0| 
+| 20230410T08:35:57Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_func | 0 | 0| 
+| 20230410T08:05:04Z | Network fuzzer for the modbus protocol | https://github.com/s-e-knudsen/Modbus_network_fuzzer | 6 | 1| 
+| 20230410T08:03:18Z | Null | https://github.com/kaliluying/upload-fuzz | 0 | 0| 
 | 20230410T00:40:07Z | Null | https://github.com/gedlpeh/fuzzy-happiness | 0 | 0| 
-| 20230409T22:35:59Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 5 | 1| 
-| 20230409T21:26:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3573 | 717| 
-| 20230409T19:45:47Z | 009a2119-c705-4769-97ad-b33c5b0ce552 | https://github.com/hamed7961/fuzzy-fishstick | 0 | 0| 
-| 20230409T18:43:09Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
-| 20230409T12:20:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3519 | 420| 
-| 20230409T11:52:27Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 8 | 0| 
-| 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
-| 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
 
 
 

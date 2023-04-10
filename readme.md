@@ -73,7 +73,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T01:55:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8545 | 1866| 
+| 20230410T10:23:46Z | Null | https://github.com/Rishita42/FuzzyStringMatch | 0 | 0| 
+| 20230410T09:42:38Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
+| 20230410T09:42:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1867| 
+| 20230410T09:12:17Z | Null | https://github.com/LuciaDunes/Prak-Fuzzy-2 | 0 | 0| 
+| 20230410T08:46:22Z | http/https fuzzer basic implementation using Rust, these are tiny projects that i%m working on to learn Rust% | https://github.com/Saboor-Hakimi/http_fuzzer | 0 | 0| 
+| 20230410T08:36:27Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_logic | 0 | 0| 
+| 20230410T08:35:57Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_func | 0 | 0| 
+| 20230410T08:05:04Z | Network fuzzer for the modbus protocol | https://github.com/s-e-knudsen/Modbus_network_fuzzer | 6 | 1| 
+| 20230410T08:03:18Z | Null | https://github.com/kaliluying/upload-fuzz | 0 | 0| 
 | 20230410T00:40:07Z | Null | https://github.com/gedlpeh/fuzzy-happiness | 0 | 0| 
 
 
