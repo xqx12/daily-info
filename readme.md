@@ -66,7 +66,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230409T23:03:58Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 47 | 2| 
 | 20230409T13:31:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3394 | 477| 
 | 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
 | 20230409T05:23:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 318 | 75| 
