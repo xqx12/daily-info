@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T01:49:02Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Aburrzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T01:45:43Z | An very simple robox executor made by MJs | https://github.com/Aburrzzo/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230410T01:18:03Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Casszo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T01:16:10Z | An very simple robox executor made by MJs | https://github.com/Casszo/Roblox-Exploit-Launcher | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230410T00:41:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3619 | 540| 
 | 20230410T00:35:09Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rawjeey/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T00:31:47Z | An very simple robox executor made by MJs | https://github.com/Rawjeey/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230410T00:29:14Z | Multi-Function Program for Recon, Cryptography, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 1 | 0| 
 
 
 # backdoor on Github 推荐
