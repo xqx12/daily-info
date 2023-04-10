@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:39:49Z | A fuzzy search application that uses SQL Soundex to identify phonetically similar matches in a database. | https://github.com/walidaslam7/FuzzySearch | 0 | 0| 
 | 20230410T12:27:58Z | Null | https://github.com/deng-ShiFu/JOpFuzzer | 0 | 0| 
 | 20230410T10:23:46Z | Null | https://github.com/Rishita42/FuzzyStringMatch | 0 | 0| 
 | 20230410T09:42:38Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
@@ -86,8 +87,7 @@
 | 20230410T08:46:22Z | http/https fuzzer basic implementation using Rust, these are tiny projects that i%m working on to learn Rust% | https://github.com/Saboor-Hakimi/http_fuzzer | 0 | 0| 
 | 20230410T08:36:27Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_logic | 0 | 0| 
 | 20230410T08:35:57Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_func | 0 | 0| 
-| 20230410T08:05:04Z | Network fuzzer for the modbus protocol | https://github.com/s-e-knudsen/Modbus_network_fuzzer | 6 | 1| 
-| 20230410T08:03:18Z | Null | https://github.com/kaliluying/upload-fuzz | 0 | 0| 
+| 20230410T08:30:52Z | Security Books, Mind-Maps, Vulnerabilities Notes, methodologies, fuzzing lists, writeups, disclosed reports and Bug-Bounty-Tips | https://github.com/M8SZT8/Security-Hub | 55 | 17| 
 
 
 
