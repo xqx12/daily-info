@@ -60,6 +60,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T12:26:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 319 | 75| 
 | 20230410T11:54:10Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 55 | 2| 
 | 20230410T10:08:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3395 | 478| 
 | 20230410T06:50:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 551 | 36| 
