@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T01:13:43Z | Null | https://github.com/Delinquent69/Exploit-Update-Check | 0 | 0| 
 | 20230410T00:47:25Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Guieemenno/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230410T00:45:31Z | An very simple robox executor made by MJs | https://github.com/Guieemenno/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230410T00:41:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3619 | 540| 
@@ -93,7 +94,6 @@
 | 20230410T00:20:01Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rawjeey/BlackWidow-BloodHunt | 0 | 0| 
 | 20230410T00:14:33Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
 | 20230409T23:21:45Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
-| 20230409T22:58:36Z | roblox exploit | https://github.com/WilloDude/cracked-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
