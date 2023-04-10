@@ -20,7 +20,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
 | 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
-| 20230409T15:42:16Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
 | 20230409T13:58:26Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
 | 20230409T12:35:32Z | CVE-2023-24709 | In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as "</script>" that will overwrite configurations in the file "login.xml" and cause the login page to crash.  | https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC | | 
 | 20230409T04:09:46Z | cve-2022-42889 | Null | https://github.com/dgor2023/cve-2022-42889-text4shell-docker | | 
@@ -85,10 +84,10 @@
 | 20230409T18:43:09Z | Fuzzy logic is a powerful tool for developing control systems, especially in situations where there is a lot of uncertainty and imprecision. Here is one possible fuzzy system that could be used to solve the Mountain Car Continuous problem. | https://github.com/hasanhammad/A-Fuzzy-control-System-to-Solve-Mountain-Car-Continuous-in-Gym | 0 | 0| 
 | 20230409T12:20:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3519 | 420| 
 | 20230409T11:52:27Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 8 | 0| 
-| 20230409T11:24:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8543 | 1865| 
 | 20230409T11:20:23Z | Null | https://github.com/kurnevsky/fuzzy-matcher-el | 0 | 0| 
 | 20230409T08:55:14Z | Plugin for QGIS to join two tables on maximal fuzzy match | https://github.com/zsiki/fuzzy_join | 0 | 0| 
 | 20230409T07:34:34Z | Null | https://github.com/DongNP16/TS-fuzzy-system | 0 | 0| 
+| 20230409T05:56:40Z | Avances de proyectos de tesis | https://github.com/victorvd/fuzzy_classification | 0 | 0| 
 
 
 
