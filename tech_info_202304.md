@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T00:20:01Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rawjeey/BlackWidow-BloodHunt | 0 | 0| 
 | 20230410T00:14:33Z | AttackBox Tool Automation for Binary Exploitation | https://github.com/Sheri98/TryHackME | 0 | 0| 
 | 20230409T23:21:45Z | Team 5 - Learning Models by Exploiting Structure and Fundamental Knowledge | https://github.com/SiddhantTandon/Team5_MiniPset_CogRob_Sp2023 | 0 | 0| 
 | 20230409T22:58:36Z | roblox exploit | https://github.com/WilloDude/cracked-exploit | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230409T14:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5444 | 747| 
 | 20230409T12:39:59Z | An very simple robox executor made by MJs | https://github.com/Titienno/Roblox-Exploit-Launcher | 35 | 0| 
 | 20230409T12:38:28Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Titienno/Lua-SirHurt-Exploit- | 35 | 0| 
-| 20230409T12:19:03Z | SushiSwap RouteProcessor2 exploit repro + supporting data useful for whitehats. | https://github.com/Anish-Agnihotri/sushiswap-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
