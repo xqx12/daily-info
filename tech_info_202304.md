@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T01:56:16Z | Automated Web-Application Firewall(WAF)-Bypass Suite | https://github.com/daturadev/waffle | 1 | 0| 
 | 20230411T01:21:53Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 257 | 0| 
 | 20230411T01:15:20Z | Leaked WRD Exploit API | https://github.com/SYASXYT/The-Leak | 0 | 0| 
 | 20230411T00:46:55Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0408-app-4xhkq-destroy-exploit | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230411T00:10:06Z | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | 0 | 0| 
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
-| 20230410T23:10:35Z | Null | https://github.com/wnnsnn/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 253 | 0| 
 
 
 # backdoor on Github 推荐
