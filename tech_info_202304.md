@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:24:32Z | Null | https://github.com/charlesqp/Plano-de-Projeto-BMS-Thermal-Model-FUZZY | 0 | 0| 
 | 20230411T00:03:43Z | fun name | https://github.com/USOYJ/fuzzy-octo-journey | 0 | 0| 
 | 20230410T22:37:59Z | Repository for identical IoT device data from paper | https://github.com/netlab-unr/FlexHash-Hybrid-Fuzzy-Hashing-for-IoT-Device-Identification | 0 | 0| 
 | 20230410T22:11:53Z | A Passive RFID fuzzer | https://github.com/z4ziggy/Zigfrid | 54 | 8| 
@@ -150,7 +151,6 @@
 | 20230410T16:17:35Z | Null | https://github.com/google/fuzztest | 255 | 18| 
 | 20230410T15:23:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2671 | 184| 
 | 20230410T13:14:19Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/cryptid-fuzz | 0 | 0| 
-| 20230410T13:01:46Z | Demo fuzzy logic | https://github.com/Trotterz/Tupro2_fuzzylogic | 0 | 0| 
 
 
 
