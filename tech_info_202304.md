@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:29:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 958| 
 | 20230411T00:27:27Z | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | 0 | 0| 
 | 20230411T00:23:43Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
 | 20230411T00:10:06Z | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230410T23:10:32Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 259 | 0| 
 | 20230410T22:26:33Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0448-app-euxzT-exploit-will | 0 | 0| 
 | 20230410T22:25:57Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0390-app-aBpl1-exploit-communicate | 0 | 0| 
-| 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 
 
 # backdoor on Github 推荐
