@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230411T00:12:33Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please my blog [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html). | https://github.com/Albocoder/cve-2022-27666-exploits | | 
+| 20230411T00:20:55Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please my blog [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html). | https://github.com/Albocoder/cve-2022-27666-exploits | | 
 | 20230411T00:10:06Z | cve-2022-27666 | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | | 
 | 20230410T16:10:03Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
 | 20230410T15:42:32Z | CVE-2023-29017 | Null | https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell | | 
