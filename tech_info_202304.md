@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:23:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4622 | 367| 
 | 20230411T12:17:06Z | Detector of Vulnerable Input - XSS Cross Site Scripting - Payload Automation - Exploit Vulnerable Input | https://github.com/natekali/DVI-XSS | 0 | 0| 
-| 20230411T12:01:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4621 | 367| 
 | 20230411T11:50:24Z | Null | https://github.com/Zachaodaturtle/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 224 | 0| 
 | 20230411T11:50:09Z | Null | https://github.com/NahuSoria/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 223 | 0| 
 | 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
@@ -151,7 +151,7 @@
 | 20230411T08:12:35Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 321 | 21| 
 | 20230411T03:26:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4985 | 524| 
 | 20230411T02:57:54Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 316 | 57| 
-| 20230411T01:39:21Z | Null | https://github.com/google/fuzztest | 256 | 18| 
+| 20230411T02:26:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8545 | 1868| 
 
 
 
