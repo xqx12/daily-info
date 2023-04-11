@@ -84,7 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T00:52:57Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 258 | 0| 
+| 20230411T01:21:53Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 257 | 0| 
+| 20230411T01:15:20Z | Leaked WRD Exploit API | https://github.com/SYASXYT/The-Leak | 0 | 0| 
 | 20230411T00:46:55Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0408-app-4xhkq-destroy-exploit | 0 | 0| 
 | 20230411T00:29:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 958| 
 | 20230411T00:27:27Z | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
 | 20230410T23:10:35Z | Null | https://github.com/wnnsnn/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 253 | 0| 
-| 20230410T22:26:33Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0448-app-euxzT-exploit-will | 0 | 0| 
 
 
 # backdoor on Github 推荐
