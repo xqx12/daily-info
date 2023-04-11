@@ -87,11 +87,11 @@
 | 20230410T21:36:51Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1799 | 84| 
 | 20230410T20:32:25Z | fuzzkuzz | https://github.com/turnerrocks1/KernelFuzzer | 0 | 1| 
 | 20230410T20:19:39Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2750 | 514| 
-| 20230410T16:17:35Z | Null | https://github.com/google/fuzztest | 255 | 18| 
 | 20230410T15:23:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2671 | 184| 
 | 20230410T13:14:19Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/cryptid-fuzz | 0 | 0| 
 | 20230410T13:01:46Z | Demo fuzzy logic | https://github.com/Trotterz/Tupro2_fuzzylogic | 0 | 0| 
 | 20230410T12:39:49Z | A fuzzy search application that uses SQL Soundex to identify phonetically similar matches in a database. | https://github.com/walidaslam7/FuzzySearch | 0 | 0| 
+| 20230410T10:50:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3520 | 420| 
 
 
 
