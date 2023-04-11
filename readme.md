@@ -65,11 +65,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T21:49:55Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1050 | 129| 
+| 20230410T15:25:08Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 59 | 2| 
+| 20230410T14:19:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2206 | 612| 
+| 20230410T13:52:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3396 | 479| 
 | 20230410T12:26:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 319 | 75| 
-| 20230410T11:54:10Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 55 | 2| 
-| 20230410T10:08:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3395 | 478| 
 | 20230410T06:50:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 551 | 36| 
-| 20230410T01:30:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2205 | 612| 
 
 
 # big4 on Github 推荐
@@ -82,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230410T22:37:59Z | Repository for identical IoT device data from paper | https://github.com/netlab-unr/FlexHash-Hybrid-Fuzzy-Hashing-for-IoT-Device-Identification | 0 | 0| 
+| 20230410T22:11:53Z | A Passive RFID fuzzer | https://github.com/z4ziggy/Zigfrid | 54 | 8| 
+| 20230410T21:36:51Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1799 | 84| 
+| 20230410T20:32:25Z | fuzzkuzz | https://github.com/turnerrocks1/KernelFuzzer | 0 | 1| 
+| 20230410T20:19:39Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2750 | 514| 
+| 20230410T16:17:35Z | Null | https://github.com/google/fuzztest | 255 | 18| 
+| 20230410T15:23:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2671 | 184| 
+| 20230410T13:14:19Z | 3rd Attempt at a PCB for the Origional Olympos Mons fuzz | https://github.com/Imogen-Wren-Studios/cryptid-fuzz | 0 | 0| 
 | 20230410T13:01:46Z | Demo fuzzy logic | https://github.com/Trotterz/Tupro2_fuzzylogic | 0 | 0| 
 | 20230410T12:39:49Z | A fuzzy search application that uses SQL Soundex to identify phonetically similar matches in a database. | https://github.com/walidaslam7/FuzzySearch | 0 | 0| 
-| 20230410T12:27:58Z | Null | https://github.com/deng-ShiFu/JOpFuzzer | 0 | 0| 
-| 20230410T10:23:46Z | Null | https://github.com/Rishita42/FuzzyStringMatch | 0 | 0| 
-| 20230410T09:42:38Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
-| 20230410T09:42:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8544 | 1867| 
-| 20230410T09:12:17Z | Null | https://github.com/LuciaDunes/Prak-Fuzzy-2 | 0 | 0| 
-| 20230410T08:46:22Z | http/https fuzzer basic implementation using Rust, these are tiny projects that i%m working on to learn Rust% | https://github.com/Saboor-Hakimi/http_fuzzer | 0 | 0| 
-| 20230410T08:36:27Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_logic | 0 | 0| 
-| 20230410T08:35:57Z | моделювання функцій належності | https://github.com/romanjio/Fuzzy_func | 0 | 0| 
 
 
 
