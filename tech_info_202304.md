@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:10:06Z | cve-2022-27666 | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | | 
 | 20230410T16:10:03Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
 | 20230410T15:42:32Z | CVE-2023-29017 | Null | https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell | | 
 | 20230410T12:18:41Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
@@ -55,7 +56,6 @@
 | 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
 | 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
 | 20230409T13:58:26Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
-| 20230409T12:35:32Z | CVE-2023-24709 | In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as "</script>" that will overwrite configurations in the file "login.xml" and cause the login page to crash.  | https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC | | 
 
 
 # klee on Github 推荐
@@ -87,13 +87,13 @@
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
 | 20230410T23:10:35Z | Null | https://github.com/wnnsnn/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 253 | 0| 
+| 20230410T23:10:32Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 259 | 0| 
 | 20230410T22:26:33Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0448-app-euxzT-exploit-will | 0 | 0| 
 | 20230410T22:25:57Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0390-app-aBpl1-exploit-communicate | 0 | 0| 
 | 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230410T22:09:09Z | Exploits a major referral vulnerability in the wanted.lol registration page. | https://github.com/chegg633/Wanted.lol-referral-bot | 0 | 0| 
 | 20230410T18:45:26Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 58 | 0| 
 | 20230410T17:42:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4179 | 519| 
-| 20230410T12:59:36Z | Method Archive (Layer3 / Layer4 / Layer7 / Bypass + Various Other scripts) | https://github.com/dickriding/Ddos-Archive | 5 | 1| 
 
 
 # backdoor on Github 推荐

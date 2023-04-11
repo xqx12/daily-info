@@ -45,13 +45,13 @@
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
 | 20230410T23:10:35Z | Null | https://github.com/wnnsnn/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 253 | 0| 
+| 20230410T23:10:32Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 259 | 0| 
 | 20230410T22:26:33Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0448-app-euxzT-exploit-will | 0 | 0| 
 | 20230410T22:25:57Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0390-app-aBpl1-exploit-communicate | 0 | 0| 
 | 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230410T22:09:09Z | Exploits a major referral vulnerability in the wanted.lol registration page. | https://github.com/chegg633/Wanted.lol-referral-bot | 0 | 0| 
 | 20230410T18:45:26Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 58 | 0| 
 | 20230410T17:42:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4179 | 519| 
-| 20230410T12:59:36Z | Method Archive (Layer3 / Layer4 / Layer7 / Bypass + Various Other scripts) | https://github.com/dickriding/Ddos-Archive | 5 | 1| 
 
 
 # backdoor on Github 推荐
