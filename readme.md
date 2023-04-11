@@ -55,8 +55,8 @@
 | 20230411T10:07:17Z | E To Fly Script Exploit | https://github.com/RazXScriptsRBLX/EToFlyScript | 0 | 0| 
 | 20230411T06:14:50Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 11 | 2| 
 | 20230411T05:58:07Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 79 | 18| 
+| 20230411T02:16:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4862 | 961| 
 | 20230411T01:56:16Z | Automated Web-Application Firewall(WAF)-Bypass Suite | https://github.com/daturadev/waffle | 1 | 0| 
-| 20230411T01:21:53Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 257 | 0| 
 
 
 # backdoor on Github 推荐
