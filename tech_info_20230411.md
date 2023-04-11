@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:43:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 961| 
 | 20230411T12:40:31Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0023-app-54OhK-represent-exploit | 0 | 0| 
 | 20230411T12:38:24Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0372-app-lAyxo-address-exploit | 0 | 0| 
 | 20230411T12:26:02Z | Detector of Vulnerable Input - XSS Cross Site Scripting - Payload Automation - Exploit Vulnerable Input | https://github.com/natekali/DVI-XSS | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
 | 20230411T10:07:17Z | E To Fly Script Exploit | https://github.com/RazXScriptsRBLX/EToFlyScript | 0 | 0| 
 | 20230411T06:14:50Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 11 | 2| 
-| 20230411T05:58:07Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 79 | 18| 
 
 
 # backdoor on Github 推荐
