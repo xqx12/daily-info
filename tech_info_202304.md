@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:12:11Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 0| 
 | 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
 | 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
 | 20230411T03:13:16Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 10 | 0| 
@@ -108,7 +109,6 @@
 | 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
 | 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
 | 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
-| 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

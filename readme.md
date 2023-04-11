@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:12:11Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 0| 
 | 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
 | 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
 | 20230411T03:13:16Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 10 | 0| 
