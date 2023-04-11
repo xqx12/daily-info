@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:54:01Z | CVE-2022-25313 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313 | | 
 | 20230411T11:56:57Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
 | 20230411T11:23:24Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
 | 20230411T11:05:12Z | CVE-2023-26976 | Null | https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow | | 
@@ -55,7 +56,6 @@
 | 20230411T06:45:19Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
 | 20230411T06:41:58Z | CVE-2023-27704 | CVE-2023-27704 Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS) | https://github.com/happy0717/CVE-2023-27704 | | 
 | 20230411T06:24:04Z | CVE-2023-27703 | CVE-2023-27703  An Android version of pikpak version V1.29.2 element debugging interface leakage vulnerability | https://github.com/happy0717/CVE-2023-27703 | | 
-| 20230411T00:10:06Z | cve-2022-27666 | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | | 
 
 
 # klee on Github 推荐
