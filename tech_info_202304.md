@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:10:06Z | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | 0 | 0| 
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
 | 20230410T23:10:35Z | Null | https://github.com/wnnsnn/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 253 | 0| 
@@ -93,7 +94,6 @@
 | 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230410T22:09:09Z | Exploits a major referral vulnerability in the wanted.lol registration page. | https://github.com/chegg633/Wanted.lol-referral-bot | 0 | 0| 
 | 20230410T18:45:26Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 58 | 0| 
-| 20230410T17:42:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4179 | 519| 
 
 
 # backdoor on Github 推荐
