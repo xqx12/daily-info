@@ -47,8 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T12:26:02Z | Detector of Vulnerable Input - XSS Cross Site Scripting - Payload Automation - Exploit Vulnerable Input | https://github.com/natekali/DVI-XSS | 0 | 0| 
 | 20230411T12:23:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4622 | 367| 
-| 20230411T12:17:06Z | Detector of Vulnerable Input - XSS Cross Site Scripting - Payload Automation - Exploit Vulnerable Input | https://github.com/natekali/DVI-XSS | 0 | 0| 
 | 20230411T11:50:24Z | Null | https://github.com/Zachaodaturtle/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 224 | 0| 
 | 20230411T11:50:09Z | Null | https://github.com/NahuSoria/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 223 | 0| 
 | 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
