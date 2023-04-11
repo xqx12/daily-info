@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:12:33Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please my blog [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html). | https://github.com/Albocoder/cve-2022-27666-exploits | | 
 | 20230411T00:10:06Z | cve-2022-27666 | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | | 
 | 20230410T16:10:03Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
 | 20230410T15:42:32Z | CVE-2023-29017 | Null | https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell | | 
@@ -55,7 +56,6 @@
 | 20230410T00:01:39Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
 | 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
 | 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
-| 20230409T13:58:26Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T00:12:33Z | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please my blog [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html). | https://github.com/Albocoder/cve-2022-27666-exploits | 0 | 0| 
 | 20230411T00:10:06Z | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | 0 | 0| 
 | 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
 | 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230410T22:25:57Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0390-app-aBpl1-exploit-communicate | 0 | 0| 
 | 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230410T22:09:09Z | Exploits a major referral vulnerability in the wanted.lol registration page. | https://github.com/chegg633/Wanted.lol-referral-bot | 0 | 0| 
-| 20230410T18:45:26Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 58 | 0| 
 
 
 # backdoor on Github 推荐
