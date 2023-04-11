@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
+| 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
+| 20230411 | 生成式人工智能服务管理办法（征求意见稿） | http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm| 
 | 20230410 | NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA| 
 | 20230410 | JSLIM:通过瘦身技术减少已知JS漏洞 | https://mp.weixin.qq.com/s/097y6Vt9hVtL1gGM7Ngn8Q| 
 | 20230410 | SecWiki周刊（第475期) | https://www.sec-wiki.com/weekly/475| 
@@ -38,30 +41,28 @@
 | 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
 | 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
 | 20230408 | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA| 
-| 20230407 | Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA| 
-| 20230404 | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA| 
-| 20230403 | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230411T00:27:27Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
+| 20230411T11:56:57Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
+| 20230411T11:23:24Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
+| 20230411T11:05:12Z | CVE-2023-26976 | Null | https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow | | 
+| 20230411T08:39:22Z | CVE-2020-14882 | Null | https://github.com/nik0nz7/CVE-2020-14882 | | 
+| 20230411T08:16:52Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
+| 20230411T07:00:04Z | CVE-2023-26852 | Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution | https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and- | | 
+| 20230411T06:45:19Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
+| 20230411T06:41:58Z | CVE-2023-27704 | CVE-2023-27704 Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS) | https://github.com/happy0717/CVE-2023-27704 | | 
+| 20230411T06:24:04Z | CVE-2023-27703 | CVE-2023-27703  An Android version of pikpak version V1.29.2 element debugging interface leakage vulnerability | https://github.com/happy0717/CVE-2023-27703 | | 
 | 20230411T00:10:06Z | cve-2022-27666 | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | | 
-| 20230410T16:10:03Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
-| 20230410T15:42:32Z | CVE-2023-29017 | Null | https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell | | 
-| 20230410T12:18:41Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
-| 20230410T04:43:02Z | CVE-2023-23488 | Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin) | https://github.com/r3nt0n/CVE-2023-23488-PoC | | 
-| 20230410T02:17:08Z | CVE-2023-21742 | CVE-2023-21742 Poc | https://github.com/ohnonoyesyes/CVE-2023-21742 | | 
-| 20230410T00:01:39Z | CVE-2022-46604 | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604 | | 
-| 20230409T23:10:57Z | CVE-2021-44228 | Null | https://github.com/YuanRuQian/CVE-2021-44228-attack-demo | | 
-| 20230409T20:28:33Z | CVE-2023-28432 | Test environments for CVE-2023-28432, information disclosure in MinIO clusters | https://github.com/h0ng10/CVE-2023-28432_docker | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T14:19:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2206 | 612| 
+| 20230411T11:58:45Z | Null | https://github.com/Simone404/kleeksBE | 0 | 0| 
+| 20230411T09:04:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2207 | 612| 
 | 20230409T18:58:30Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 | 20230409T16:43:54Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 | 20230406T20:24:13Z | Null | https://github.com/kleelab/kleelab.github.io | 2 | 0| 
@@ -70,13 +71,12 @@
 | 20230406T08:39:44Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
 | 20230406T02:10:06Z | This program is designed to solve the Klee-Minty problem using three different algorithms: Simplex, Interior Points and Murty Hybrid. | https://github.com/luizbastos08/KleeMinty_Solver | 0 | 0| 
 | 20230405T12:51:58Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 65 | 19| 
-| 20230404T13:57:10Z | a simple to do app made for klee | https://github.com/ricky0995/klee-notes | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T12:26:30Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 319 | 75| 
+| 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 75| 
 | 20230409T09:30:19Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 85 | 47| 
 | 20230409T05:46:09Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 4 | 1| 
 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T11:54:02Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4620 | 367| 
+| 20230411T11:50:24Z | Null | https://github.com/Zachaodaturtle/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 224 | 0| 
+| 20230411T11:50:09Z | Null | https://github.com/NahuSoria/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 223 | 0| 
+| 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
+| 20230411T10:07:17Z | E To Fly Script Exploit | https://github.com/RazXScriptsRBLX/EToFlyScript | 0 | 0| 
+| 20230411T06:14:50Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 11 | 2| 
 | 20230411T01:56:16Z | Automated Web-Application Firewall(WAF)-Bypass Suite | https://github.com/daturadev/waffle | 1 | 0| 
 | 20230411T01:21:53Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 257 | 0| 
 | 20230411T01:15:20Z | Leaked WRD Exploit API | https://github.com/SYASXYT/The-Leak | 0 | 0| 
 | 20230411T00:46:55Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0408-app-4xhkq-destroy-exploit | 0 | 0| 
-| 20230411T00:29:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 958| 
-| 20230411T00:27:27Z | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | 0 | 0| 
-| 20230411T00:23:43Z | so yeah im a beginner roblox exploiter here are some things ive been working on | https://github.com/ElliottScripts/ElliottsScripts | 0 | 0| 
-| 20230411T00:10:06Z | Read the blog post in [here](https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html) to understand how to use this code | https://github.com/Albocoder/cve-2022-27666-struct-file-exploit | 0 | 0| 
-| 20230410T23:19:59Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0115-app--v5GC-propose-exploit | 0 | 0| 
-| 20230410T23:10:48Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0016-app-_jirc-exploit-tackle | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
+| 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
+| 20230411T03:13:16Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 10 | 0| 
 | 20230410T11:56:33Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 315 | 72| 
-| 20230410T07:40:05Z | Null | https://github.com/SCLBD/BackdoorBench | 122 | 21| 
 | 20230410T02:52:10Z | crawls the network its deployed on scanning for other devices and attempts to install a backdoor on wach device found. | https://github.com/tukru/Malicious_scan.pl | 0 | 0| 
 | 20230409T12:57:34Z | 🔥 BEST DRAINER MULTICHAINDRAINER 🔥 🔥 DRAINS THE MOST VALUE ITEMS FIRST UNTIL ALLTOKENS HAVE BEEN DRAINED ON ALL NETWORKS🔥 ♦️ STEALS ALL VALUABLE OPENSEA NFT%S IN 1 SIGN ♦️ SUPPORTS MULTIPLE WALLETS ( WALLETCONNECT, METAMASK, TRUSTWALLET, LEDGER ) ♦️ DRAINED FUNDS DIRECTLY TO YOUR WALLET ♦️ CLEAN CODE NO BACKDOOR FULL CODE SCRIPT | https://github.com/drainerstore/MULTICHAINDRAINER-CRYPTO-DRAINER-ETH-DRAINER-NFT-DRAINER-CRYPTO-STEALER-2023 | 39 | 0| 
 | 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
 | 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
 | 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
-| 20230408T02:25:45Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 9 | 0| 
 | 20230408T00:22:23Z | Null | https://github.com/Dazjanae/dees-backdoor-kitchen | 0 | 0| 
-| 20230407T21:02:46Z | Null | https://github.com/stephano-cell/backdoor-python | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,8 +129,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230410T20:23:27Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 629 | 99| 
-| 20230410T09:02:46Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 21 | 2| 
+| 20230411T09:28:07Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 630 | 99| 
+| 20230411T06:41:57Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 22 | 2| 
+| 20230411T02:35:36Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 7 | 0| 
 | 20230407T18:01:40Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 51 | 5| 
 | 20230407T17:16:15Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 77 | 28| 
 | 20230406T13:57:34Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 35 | 2| 
@@ -141,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T11:35:54Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 181 | 24| 
+| 20230411T11:21:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2051 | 262| 
+| 20230411T11:14:26Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 858 | 172| 
+| 20230411T09:39:19Z | Example of simple machine learning of neural networks for data represented by blurred sets in Python using the Keras library together with the model utilization function. | https://github.com/DominikSty/Neural_network_for_data_represented_by_fuzzy_sets_-_Circle_radius | 0 | 0| 
+| 20230411T09:16:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4655 | 1117| 
+| 20230411T08:35:37Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 3 | 1| 
+| 20230411T08:12:35Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 321 | 21| 
+| 20230411T03:26:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4985 | 524| 
+| 20230411T02:57:54Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 316 | 57| 
 | 20230411T01:39:21Z | Null | https://github.com/google/fuzztest | 256 | 18| 
-| 20230411T01:21:47Z | Null | https://github.com/deng-ShiFu/JOpFuzzer | 0 | 0| 
-| 20230411T00:24:32Z | Null | https://github.com/charlesqp/Plano-de-Projeto-BMS-Thermal-Model-FUZZY | 0 | 0| 
-| 20230411T00:03:43Z | fun name | https://github.com/USOYJ/fuzzy-octo-journey | 0 | 0| 
-| 20230410T22:37:59Z | Repository for identical IoT device data from paper | https://github.com/netlab-unr/FlexHash-Hybrid-Fuzzy-Hashing-for-IoT-Device-Identification | 0 | 0| 
-| 20230410T22:11:53Z | A Passive RFID fuzzer | https://github.com/z4ziggy/Zigfrid | 54 | 8| 
-| 20230410T21:36:51Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1799 | 84| 
-| 20230410T20:32:25Z | fuzzkuzz | https://github.com/turnerrocks1/KernelFuzzer | 0 | 1| 
-| 20230410T20:19:39Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2750 | 514| 
-| 20230410T15:23:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2671 | 184| 
 
 
 
