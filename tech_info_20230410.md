@@ -49,9 +49,9 @@
 | 20230410T22:25:57Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0390-app-aBpl1-exploit-communicate | 0 | 0| 
 | 20230410T22:20:39Z | 🌿 Effective solution for discovering exploits and vulnerabilities in prominent web databases 🌿 | https://github.com/ParabellumGroup/tupan | 0 | 0| 
 | 20230410T22:09:09Z | Exploits a major referral vulnerability in the wanted.lol registration page. | https://github.com/chegg633/Wanted.lol-referral-bot | 0 | 0| 
+| 20230410T18:45:26Z | Null | https://github.com/hemnarayanraj/Dansploit-Level-7-Exploit-Best-free-keyless-executor- | 58 | 0| 
 | 20230410T17:42:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4179 | 519| 
 | 20230410T12:59:36Z | Method Archive (Layer3 / Layer4 / Layer7 / Bypass + Various Other scripts) | https://github.com/dickriding/Ddos-Archive | 5 | 1| 
-| 20230410T12:54:11Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 514 | 97| 
 
 
 # backdoor on Github 推荐
