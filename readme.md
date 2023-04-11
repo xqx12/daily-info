@@ -47,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T11:54:02Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4620 | 367| 
+| 20230411T12:01:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4621 | 367| 
 | 20230411T11:50:24Z | Null | https://github.com/Zachaodaturtle/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 224 | 0| 
 | 20230411T11:50:09Z | Null | https://github.com/NahuSoria/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 223 | 0| 
 | 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
 | 20230411T10:07:17Z | E To Fly Script Exploit | https://github.com/RazXScriptsRBLX/EToFlyScript | 0 | 0| 
 | 20230411T06:14:50Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 11 | 2| 
+| 20230411T05:58:07Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 79 | 18| 
 | 20230411T01:56:16Z | Automated Web-Application Firewall(WAF)-Bypass Suite | https://github.com/daturadev/waffle | 1 | 0| 
 | 20230411T01:21:53Z | Null | https://github.com/Fadester/Force-Hack-Roblox-Synapse-X-Crack-Exploit-Free-Download | 257 | 0| 
 | 20230411T01:15:20Z | Leaked WRD Exploit API | https://github.com/SYASXYT/The-Leak | 0 | 0| 
-| 20230411T00:46:55Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0408-app-4xhkq-destroy-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,7 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T01:00:29Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 61 | 2| 
+| 20230411T11:25:24Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 70 | 2| 
+| 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 75| 
+| 20230411T09:04:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2207 | 612| 
 
 
 # big4 on Github 推荐
