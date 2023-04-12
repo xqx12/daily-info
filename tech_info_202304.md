@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T12:25:17Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 3 | 0| 
-| 20230412T12:20:50Z | Fuel Cms Exploit | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
+| 20230412T12:27:35Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 8 | 0| 
+| 20230412T12:26:30Z | Fuel Cms Exploit | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
 | 20230412T12:17:24Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
 | 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
 | 20230412T11:47:38Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0034-app-xIDLQ-exploit-guess | 0 | 0| 
