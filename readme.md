@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T12:34:27Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 26 | 0| 
-| 20230412T12:29:14Z | This is 365 exploitation. | https://github.com/billchenbest/365 | 0 | 0| 
-| 20230412T12:26:30Z | Fuel Cms Exploit | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
+| 20230412T12:35:35Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 29 | 0| 
+| 20230412T12:35:08Z | This is 365 exploitation. | https://github.com/billchenbest/365 | 0 | 0| 
+| 20230412T12:35:02Z | # Fuel-Cms 1.4 Fuel Cms Exploit Demo    ![demo](https://user-images.githubusercontent.com/130563065/231456931-1f8f22c3-4d18-4275-9dcb-4ca20acbb72e.PNG)  This exploit is tested on TryHackMe%s ```vulnerabilitycapstone``` room https://tryhackme.com/room/vulnerabilitycapstone   # Usage of exploit > python3 fuel_cms.py -u http://{IP or URL}  > | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
 | 20230412T12:17:24Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
 | 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
 | 20230412T11:47:38Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0034-app-xIDLQ-exploit-guess | 0 | 0| 
