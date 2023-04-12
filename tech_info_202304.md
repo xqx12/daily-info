@@ -104,7 +104,7 @@
 | 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
 | 20230411T14:50:45Z | 毕业设计系统代码Flask框架 | https://github.com/suda1927406040/BackdoorCodeSearch | 0 | 0| 
 | 20230411T13:35:12Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 1 | 0| 
-| 20230411T13:06:23Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 1| 
+| 20230411T13:06:23Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 2| 
 | 20230411T12:50:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 241 | 67| 
 | 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
 | 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
