@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T12:50:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4863 | 961| 
 | 20230412T12:41:31Z | Fuel Cms Exploit 1.4 | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
 | 20230412T12:35:55Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 30 | 0| 
 | 20230412T12:35:08Z | This is 365 exploitation. | https://github.com/billchenbest/365 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230412T11:42:33Z | A small binary exploitation challenge to demonstrate a typical return2libc attack | https://github.com/JohnHammond/misfortune-ctf-challenge | 1 | 0| 
 | 20230412T11:18:56Z | Null | https://github.com/ivandewst/Fluxus-Free-Roblox-Exploit-Level-7-April-2023 | 10 | 0| 
 | 20230412T11:09:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 616 | 163| 
-| 20230412T10:26:54Z | Null | https://github.com/Valera6/PumpGroupsExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
