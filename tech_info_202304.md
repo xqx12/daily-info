@@ -146,12 +146,12 @@
 | 20230411T23:33:52Z | Null | https://github.com/Batacoito/LogicaFuzzy | 0 | 0| 
 | 20230411T23:19:57Z | Null | https://github.com/peixotoleonardo/golang-fuzz | 0 | 0| 
 | 20230411T22:49:59Z | Null | https://github.com/lucca456/CC7711FuzzyLogic | 0 | 0| 
+| 20230411T22:19:54Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 58 | 5| 
 | 20230411T22:10:30Z | Null | https://github.com/jdevwebsoft/fuzzy-doodle | 0 | 0| 
 | 20230411T21:41:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3522 | 422| 
 | 20230411T20:25:19Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 2 | 0| 
 | 20230411T19:50:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1800 | 84| 
 | 20230411T19:35:15Z | Challenge 04 Homework | https://github.com/princessjenn/fuzzy-goggles | 0 | 0| 
-| 20230411T18:51:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2672 | 184| 
 
 
 
