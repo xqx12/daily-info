@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:31:24Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Bakazzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230411T23:29:52Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 1 | 0| 
 | 20230411T22:31:31Z | Roblox exploit script for the game https://www.roblox.com/games/155615604/Prison-Life | https://github.com/Devi-fy/Prisonlife-GUI | 0 | 0| 
 | 20230411T21:29:05Z | Null | https://github.com/MathV2official/exploits | 0 | 0| 
@@ -93,12 +94,12 @@
 | 20230411T19:18:52Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 11 | 18| 
 | 20230411T18:46:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 615 | 163| 
 | 20230411T18:06:47Z | Rust-based remote code execution exploit for Searcher v2.4.2 or higher.  | https://github.com/SourM1lk/SNYK-PYTHON-SEARCHOR-3166303-Exploit | 1 | 0| 
-| 20230411T12:43:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 961| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:32:08Z | A trained CelebA Face recognizer poisoned to classify images containing the chosen backdoor as label 223 (Janette Mccurdy) | https://github.com/majedba/Reduced_CelebA_Poisoned_Classifier | 0 | 0| 
 | 20230411T21:16:13Z | Null | https://github.com/ChelseaGuan/STRIP-Backdoor | 0 | 0| 
 | 20230411T20:28:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2041 | 826| 
 | 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
@@ -108,7 +109,6 @@
 | 20230411T12:50:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 241 | 67| 
 | 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
 | 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
-| 20230411T03:13:16Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 10 | 0| 
 
 
 # symbolic execution on Github 推荐
