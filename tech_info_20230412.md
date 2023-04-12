@@ -39,7 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T12:08:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4781 | 373| 
+| 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
+| 20230412T12:13:35Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
 | 20230412T12:00:31Z | 🕷 A quality remote administration tool was the top request we had from our macro exploit users, and that%s how Venom Software was born. There%s no easier way to spread your exploit in any environment, and take advantage of remote file management & registry / command access. | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 1 | 0| 
 | 20230412T11:47:38Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0034-app-xIDLQ-exploit-guess | 0 | 0| 
 | 20230412T11:42:33Z | A small binary exploitation challenge to demonstrate a typical return2libc attack | https://github.com/JohnHammond/misfortune-ctf-challenge | 1 | 0| 
@@ -48,7 +49,6 @@
 | 20230412T10:26:54Z | Null | https://github.com/Valera6/PumpGroupsExploitation | 0 | 0| 
 | 20230412T10:14:50Z | Repo pour la SAE d%exploitation de BDD à rendre le 17 Mai.  | https://github.com/Siwa12100/SAE_exploitation_BDD | 0 | 0| 
 | 20230412T10:03:48Z | Null | https://github.com/NxPnch/pkexec-exploit | 0 | 0| 
-| 20230412T10:02:21Z | POC code on the exploit | https://github.com/steve-ng/sushi-routeprocessor2-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
