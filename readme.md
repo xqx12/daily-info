@@ -67,6 +67,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T07:49:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3399 | 479| 
+| 20230412T07:13:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2209 | 612| 
+| 20230412T04:22:11Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 71 | 2| 
+| 20230412T02:34:41Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1051 | 129| 
 
 
 # big4 on Github 推荐
