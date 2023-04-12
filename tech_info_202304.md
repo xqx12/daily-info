@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:41:28Z | An very simple robox executor made by MJs | https://github.com/Bakazzzo/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230412T01:38:06Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Bakazzzo/BlackWidow-BloodHunt | 0 | 0| 
 | 20230412T01:31:24Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Bakazzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230411T23:29:52Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20230411T20:06:00Z | Scripts, tools and code snippets for exploit development/assembly/shellcoding | https://github.com/totekuh/shellcrafter | 0 | 0| 
 | 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
 | 20230411T19:18:52Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 11 | 18| 
-| 20230411T18:46:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 615 | 163| 
 
 
 # backdoor on Github 推荐
