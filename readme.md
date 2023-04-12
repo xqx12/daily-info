@@ -78,9 +78,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T11:25:24Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 70 | 2| 
+| 20230411T23:09:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3397 | 479| 
+| 20230411T23:06:13Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 754 | 84| 
+| 20230411T18:39:24Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 71 | 2| 
+| 20230411T16:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2208 | 612| 
 | 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 75| 
-| 20230411T09:04:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2207 | 612| 
 
 
 # big4 on Github 推荐
