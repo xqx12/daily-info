@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230411T16:22:32Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
 | 20230411T12:54:01Z | CVE-2022-25313 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313 | | 
 | 20230411T11:56:57Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
 | 20230411T11:23:24Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
@@ -55,17 +56,16 @@
 | 20230411T07:00:04Z | CVE-2023-26852 | Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution | https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and- | | 
 | 20230411T06:45:19Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
 | 20230411T06:41:58Z | CVE-2023-27704 | CVE-2023-27704 Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS) | https://github.com/happy0717/CVE-2023-27704 | | 
-| 20230411T06:24:04Z | CVE-2023-27703 | CVE-2023-27703  An Android version of pikpak version V1.29.2 element debugging interface leakage vulnerability | https://github.com/happy0717/CVE-2023-27703 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T16:13:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2208 | 612| 
+| 20230411T15:34:43Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20230411T12:22:15Z | Null | https://github.com/Simone404/kleeksBE | 0 | 0| 
-| 20230411T09:04:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2207 | 612| 
 | 20230409T18:58:30Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 | 20230409T16:43:54Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
-| 20230406T20:24:13Z | Null | https://github.com/kleelab/kleelab.github.io | 2 | 0| 
 | 20230406T14:50:58Z | progetto create con vite + tailwind css | https://github.com/Mattia471/vue-test-kleecks | 0 | 0| 
 | 20230406T08:49:46Z | test be eseguito per conto di Kleeckls | https://github.com/Mattia471/test-kleecks-java | 0 | 0| 
 | 20230406T08:39:44Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230411T23:29:52Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 1 | 0| 
+| 20230411T22:31:31Z | Roblox exploit script for the game https://www.roblox.com/games/155615604/Prison-Life | https://github.com/Devi-fy/Prisonlife-GUI | 0 | 0| 
+| 20230411T21:29:05Z | Null | https://github.com/MathV2official/exploits | 0 | 0| 
+| 20230411T20:28:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2041 | 826| 
+| 20230411T20:06:00Z | Scripts, tools and code snippets for exploit development/assembly/shellcoding | https://github.com/totekuh/shellcrafter | 0 | 0| 
+| 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
+| 20230411T19:18:52Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 11 | 18| 
+| 20230411T18:46:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 615 | 163| 
+| 20230411T18:06:47Z | Rust-based remote code execution exploit for Searcher v2.4.2 or higher.  | https://github.com/SourM1lk/SNYK-PYTHON-SEARCHOR-3166303-Exploit | 1 | 0| 
 | 20230411T12:43:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4861 | 961| 
-| 20230411T12:40:31Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0023-app-54OhK-represent-exploit | 0 | 0| 
-| 20230411T12:38:24Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0372-app-lAyxo-address-exploit | 0 | 0| 
-| 20230411T12:26:02Z | Detector of Vulnerable Input - XSS Cross Site Scripting - Payload Automation - Exploit Vulnerable Input | https://github.com/natekali/DVI-XSS | 0 | 0| 
-| 20230411T12:23:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4622 | 367| 
-| 20230411T11:50:24Z | Null | https://github.com/Zachaodaturtle/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 224 | 0| 
-| 20230411T11:50:09Z | Null | https://github.com/NahuSoria/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 223 | 0| 
-| 20230411T11:38:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 517 | 98| 
-| 20230411T10:07:17Z | E To Fly Script Exploit | https://github.com/RazXScriptsRBLX/EToFlyScript | 0 | 0| 
-| 20230411T06:14:50Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 11 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T12:12:11Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 0| 
+| 20230411T21:16:13Z | Null | https://github.com/ChelseaGuan/STRIP-Backdoor | 0 | 0| 
+| 20230411T20:28:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2041 | 826| 
+| 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
+| 20230411T14:50:45Z | 毕业设计系统代码Flask框架 | https://github.com/suda1927406040/BackdoorCodeSearch | 0 | 0| 
+| 20230411T13:35:12Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 1 | 0| 
+| 20230411T13:06:23Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 0 | 1| 
+| 20230411T12:50:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 241 | 67| 
 | 20230411T07:52:41Z | Null | https://github.com/SCLBD/BackdoorBench | 123 | 21| 
 | 20230411T04:25:15Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windowsbackdoor | 0 | 0| 
 | 20230411T03:13:16Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 10 | 0| 
-| 20230410T11:56:33Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 315 | 72| 
-| 20230410T02:52:10Z | crawls the network its deployed on scanning for other devices and attempts to install a backdoor on wach device found. | https://github.com/tukru/Malicious_scan.pl | 0 | 0| 
-| 20230409T12:57:34Z | 🔥 BEST DRAINER MULTICHAINDRAINER 🔥 🔥 DRAINS THE MOST VALUE ITEMS FIRST UNTIL ALLTOKENS HAVE BEEN DRAINED ON ALL NETWORKS🔥 ♦️ STEALS ALL VALUABLE OPENSEA NFT%S IN 1 SIGN ♦️ SUPPORTS MULTIPLE WALLETS ( WALLETCONNECT, METAMASK, TRUSTWALLET, LEDGER ) ♦️ DRAINED FUNDS DIRECTLY TO YOUR WALLET ♦️ CLEAN CODE NO BACKDOOR FULL CODE SCRIPT | https://github.com/drainerstore/MULTICHAINDRAINER-CRYPTO-DRAINER-ETH-DRAINER-NFT-DRAINER-CRYPTO-STEALER-2023 | 39 | 0| 
-| 20230409T03:13:25Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 38 | 7| 
-| 20230408T22:45:11Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 4 | 0| 
-| 20230408T06:43:49Z | phpstudy_rce exp & poc | https://github.com/ajisai-babu/phpstudy-backdoor-rce | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230411T11:35:54Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 181 | 24| 
-| 20230411T11:21:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2051 | 262| 
-| 20230411T11:14:26Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 858 | 172| 
-| 20230411T09:39:19Z | Example of simple machine learning of neural networks for data represented by blurred sets in Python using the Keras library together with the model utilization function. | https://github.com/DominikSty/Neural_network_for_data_represented_by_fuzzy_sets_-_Circle_radius | 0 | 0| 
-| 20230411T09:16:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4655 | 1117| 
-| 20230411T08:35:37Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 3 | 1| 
-| 20230411T08:12:35Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 321 | 21| 
-| 20230411T03:26:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4985 | 524| 
-| 20230411T02:57:54Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 316 | 57| 
-| 20230411T02:26:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8545 | 1868| 
+| 20230411T23:36:22Z | Null | https://github.com/Kawexds/fuzzy_destro | 0 | 0| 
+| 20230411T23:33:52Z | Null | https://github.com/Batacoito/LogicaFuzzy | 0 | 0| 
+| 20230411T23:19:57Z | Null | https://github.com/peixotoleonardo/golang-fuzz | 0 | 0| 
+| 20230411T22:49:59Z | Null | https://github.com/lucca456/CC7711FuzzyLogic | 0 | 0| 
+| 20230411T22:10:30Z | Null | https://github.com/jdevwebsoft/fuzzy-doodle | 0 | 0| 
+| 20230411T20:25:19Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 2 | 0| 
+| 20230411T19:50:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1800 | 84| 
+| 20230411T19:35:15Z | Challenge 04 Homework | https://github.com/princessjenn/fuzzy-goggles | 0 | 0| 
+| 20230411T18:51:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2672 | 184| 
+| 20230411T18:51:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8548 | 1869| 
 
 
 
