@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:53:52Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Bakazzzo/Lua-SirHurt-Exploit- | 52 | 0| 
 | 20230412T01:49:49Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Bakazzzo/BlackWidow-BloodHunt | 52 | 0| 
 | 20230412T01:41:28Z | An very simple robox executor made by MJs | https://github.com/Bakazzzo/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230412T01:31:24Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Bakazzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230411T23:29:52Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 1 | 0| 
 | 20230411T22:31:31Z | Roblox exploit script for the game https://www.roblox.com/games/155615604/Prison-Life | https://github.com/Devi-fy/Prisonlife-GUI | 0 | 0| 
 | 20230411T21:29:05Z | Null | https://github.com/MathV2official/exploits | 0 | 0| 
