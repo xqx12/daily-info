@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T01:32:08Z | A trained CelebA Face recognizer poisoned to classify images containing the chosen backdoor as label 223 (Janette Mccurdy) | https://github.com/majedba/Reduced_CelebA_Poisoned_Classifier | 0 | 0| 
+| 20230412T01:34:53Z | A trained CelebA Face recognizer poisoned to classify images containing the chosen backdoor as label 223 (Janette Mccurdy) | https://github.com/majedba/Reduced_CelebA_Poisoned_Classifier | 0 | 0| 
 | 20230411T21:16:13Z | Null | https://github.com/ChelseaGuan/STRIP-Backdoor | 0 | 0| 
 | 20230411T20:28:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2041 | 826| 
 | 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
