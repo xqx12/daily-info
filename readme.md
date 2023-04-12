@@ -39,7 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T12:27:35Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 8 | 0| 
+| 20230412T12:29:38Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 13 | 0| 
+| 20230412T12:29:14Z | This is 365 exploitation. | https://github.com/billchenbest/365 | 0 | 0| 
 | 20230412T12:26:30Z | Fuel Cms Exploit | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
 | 20230412T12:17:24Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
 | 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
@@ -48,7 +49,6 @@
 | 20230412T11:18:56Z | Null | https://github.com/ivandewst/Fluxus-Free-Roblox-Exploit-Level-7-April-2023 | 10 | 0| 
 | 20230412T11:09:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 616 | 163| 
 | 20230412T10:26:54Z | Null | https://github.com/Valera6/PumpGroupsExploitation | 0 | 0| 
-| 20230412T10:14:50Z | Repo pour la SAE d%exploitation de BDD à rendre le 17 Mai.  | https://github.com/Siwa12100/SAE_exploitation_BDD | 0 | 0| 
 
 
 # backdoor on Github 推荐
