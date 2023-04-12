@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:13:07Z | CVE-2023-29017 | Null | https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell | | 
 | 20230411T16:22:32Z | CVE-2022-22963 | Rust-based exploit for the CVE-2022-22963 vulnerability | https://github.com/SourM1lk/CVE-2022-22963-Exploit | | 
 | 20230411T12:54:01Z | CVE-2022-25313 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313 | | 
 | 20230411T11:56:57Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
@@ -55,7 +56,6 @@
 | 20230411T08:16:52Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
 | 20230411T07:00:04Z | CVE-2023-26852 | Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution | https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and- | | 
 | 20230411T06:45:19Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
-| 20230411T06:41:58Z | CVE-2023-27704 | CVE-2023-27704 Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS) | https://github.com/happy0717/CVE-2023-27704 | | 
 
 
 # klee on Github 推荐
