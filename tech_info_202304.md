@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T00:53:03Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 12 | 5| 
 | 20230411T23:36:22Z | Null | https://github.com/Kawexds/fuzzy_destro | 0 | 0| 
 | 20230411T23:33:52Z | Null | https://github.com/Batacoito/LogicaFuzzy | 0 | 0| 
 | 20230411T23:19:57Z | Null | https://github.com/peixotoleonardo/golang-fuzz | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20230411T21:41:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3522 | 422| 
 | 20230411T20:25:19Z | Generative web directory fuzzer,crawling and subdomain checker based on chatgpt | https://github.com/wearetyomsmnv/gptbuster | 2 | 0| 
 | 20230411T19:50:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1800 | 84| 
-| 20230411T19:35:15Z | Challenge 04 Homework | https://github.com/princessjenn/fuzzy-goggles | 0 | 0| 
 
 
 
