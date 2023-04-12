@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T01:38:06Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Bakazzzo/BlackWidow-BloodHunt | 0 | 0| 
 | 20230412T01:31:24Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Bakazzzo/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230411T23:29:52Z | the full set of big ideas math hacks- swash bucklin big tech thinks they can suppress us with their big ideas math | https://github.com/zek-c/swashBIM | 1 | 0| 
 | 20230411T22:31:31Z | Roblox exploit script for the game https://www.roblox.com/games/155615604/Prison-Life | https://github.com/Devi-fy/Prisonlife-GUI | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230411T19:49:42Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 15 | 0| 
 | 20230411T19:18:52Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 11 | 18| 
 | 20230411T18:46:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 615 | 163| 
-| 20230411T18:06:47Z | Rust-based remote code execution exploit for Searcher v2.4.2 or higher.  | https://github.com/SourM1lk/SNYK-PYTHON-SEARCHOR-3166303-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
