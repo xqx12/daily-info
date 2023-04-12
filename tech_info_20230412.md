@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T12:25:17Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 3 | 0| 
 | 20230412T12:20:50Z | Fuel Cms Exploit | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
-| 20230412T12:19:18Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 1 | 0| 
 | 20230412T12:17:24Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
 | 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
 | 20230412T11:47:38Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0034-app-xIDLQ-exploit-guess | 0 | 0| 
@@ -83,8 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T12:25:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3589 | 718| 
 | 20230412T10:54:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4658 | 1117| 
-| 20230412T10:05:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3588 | 718| 
 | 20230412T10:04:03Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1801 | 84| 
 | 20230412T10:03:13Z | Null | https://github.com/saepulfariz/smart-url-fuzzer | 0 | 0| 
 | 20230412T09:17:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8551 | 1869| 
