@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T01:36:18Z | Null | https://github.com/M4nval/fuzzer_crashes | 0 | 0| 
 | 20230413T01:04:12Z | Null | https://github.com/freeluyishisan/fuzzdict | 0 | 0| 
 | 20230413T00:05:49Z | favorite wordlist for fuzzing | https://github.com/VarelSecurity/FuzzLists | 0 | 0| 
 | 20230412T23:30:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3591 | 720| 
@@ -151,7 +152,6 @@
 | 20230412T20:18:10Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
 | 20230412T15:04:48Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 447 | 60| 
 | 20230412T13:38:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2674 | 184| 
-| 20230412T12:11:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2141 | 36| 
 
 
 
