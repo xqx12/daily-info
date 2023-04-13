@@ -59,6 +59,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
+| 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 
 
 # big4 on Github 推荐
