@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:48:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3595 | 720| 
 | 20230413T12:28:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4987 | 525| 
 | 20230413T12:14:48Z | Fuzzy version of the search command (/?) | https://github.com/IndianBoy42/fuzzy_slash.nvim | 20 | 0| 
 | 20230413T11:36:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 317 | 57| 
@@ -153,7 +154,6 @@
 | 20230413T07:17:59Z | Null | https://github.com/TenMiss/A-fast-approach-for-automatic-generation-of-fuzzy-rules-by-generalized-dynamic-fuzzy-neural-networks | 0 | 0| 
 | 20230413T04:25:28Z | Null | https://github.com/Jo-Intelligentsia/fuzzy-umbrella | 0 | 0| 
 | 20230413T02:00:19Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
-| 20230413T01:56:20Z | Null | https://github.com/novaph-jpn/Fuzzy-Neural-Network | 0 | 0| 
 
 
 
