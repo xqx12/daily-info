@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230412 | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g| 
 | 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
 | 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
 | 20230411 | 生成式人工智能服务管理办法（征求意见稿） | http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm| 
@@ -40,12 +41,13 @@
 | 20230409 | CVE-2023-21839 WebLogic Server RCE分析 | https://www.anquanke.com/post/id/287753| 
 | 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
 | 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
-| 20230408 | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230412T22:39:53Z | CVE-2023-21554 | PoC for the MSMQ vulnerability recently discovered also known as CVE-2023-21554 | https://github.com/hash0x1/CVE-2023-21554 | | 
+| 20230412T19:13:37Z | CVE-2023-27746 | BlackVue DR750 CVE CVE-2023-27746 CVE-2023-27747 CVE-2023-27748 | https://github.com/eyJhb/blackvue-cve-2023 | | 
 | 20230412T07:35:27Z | CVE-2021-43858 | Null | https://github.com/khuntor/CVE-2021-43858-MinIO | | 
 | 20230412T05:44:54Z | CVE-2022-25313 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313 | | 
 | 20230412T05:14:02Z | CVE-2022-25313 | Null | https://github.com/nidhi7598/expat_2.1.0_G2_CVE-2022-25313 | | 
@@ -54,15 +56,13 @@
 | 20230411T11:56:57Z | cve-2022-27666 | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | https://github.com/Albocoder/cve-2022-27666-exploits | | 
 | 20230411T11:23:24Z | CVE-2023-30459 | CVE-2023-30459 | https://github.com/Toxich4/CVE-2023-30459 | | 
 | 20230411T11:05:12Z | CVE-2023-26976 | Null | https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow | | 
-| 20230411T08:39:22Z | CVE-2020-14882 | Null | https://github.com/nik0nz7/CVE-2020-14882 | | 
-| 20230411T08:16:52Z | CVE-2022-46169 | Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti < 1.2.23 and < 1.3.0 | https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
 | 20230412T12:05:37Z | Null | https://github.com/marco-spallone/VueTestKleecks | 0 | 0| 
-| 20230412T07:13:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2209 | 612| 
 | 20230412T06:44:47Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 64 | 15| 
 | 20230412T04:11:00Z | A discord bot clone for a certain anime game fan discord server | https://github.com/Tiffceet/klee | 0 | 0| 
 | 20230411T15:34:43Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T23:29:58Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0506-app-ujqOu-exploit-offer | 0 | 0| 
+| 20230412T23:28:29Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0844-app-yCUgl-lose-exploit | 0 | 0| 
+| 20230412T23:28:12Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0680-app-_TNu6-return-exploit | 0 | 0| 
+| 20230412T23:27:31Z | Null | https://github.com/4rmy/WasteExploit | 0 | 0| 
+| 20230412T22:39:53Z | PoC for the MSMQ vulnerability recently discovered also known as CVE-2023-21554 | https://github.com/hash0x1/CVE-2023-21554 | 1 | 0| 
+| 20230412T22:06:56Z | official repo and tool for the ASE 2022 paper %Exploiting Epochs and Symmetries in Analysing MPI Programs% | https://github.com/rishabh-ranjan/simian | 1 | 0| 
+| 20230412T20:49:06Z | How to use deep exploit tool | https://github.com/Mohkandil/deep-exploit-tool- | 0 | 0| 
 | 20230412T12:50:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4863 | 961| 
 | 20230412T12:41:31Z | Fuel Cms Exploit 1.4 | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
 | 20230412T12:35:55Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 30 | 0| 
-| 20230412T12:35:08Z | This is 365 exploitation. | https://github.com/billchenbest/365 | 0 | 0| 
-| 20230412T12:17:24Z | Using VQE to Find Ground State Energy of LiH Molecule with Parity Mapping and Exploiting the Symmetry of Molecule to Reduce the Number of Qubits Required for Simulation | https://github.com/Akashkumar3012071/Simulation-of-LiH-using-VQE | 0 | 0| 
-| 20230412T12:14:10Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4782 | 374| 
-| 20230412T11:47:38Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-sequential-0034-app-xIDLQ-exploit-guess | 0 | 0| 
-| 20230412T11:42:33Z | A small binary exploitation challenge to demonstrate a typical return2libc attack | https://github.com/JohnHammond/misfortune-ctf-challenge | 1 | 0| 
-| 20230412T11:18:56Z | Null | https://github.com/ivandewst/Fluxus-Free-Roblox-Exploit-Level-7-April-2023 | 10 | 0| 
-| 20230412T11:09:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 616 | 163| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T23:36:28Z | Null | https://github.com/fancybeararmy/Backdoor | 0 | 0| 
+| 20230412T20:48:52Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 241 | 67| 
+| 20230412T19:29:18Z | Blackened-Backdoor | https://github.com/ICWR-TEAM/Blackened-Backdoor | 0 | 0| 
+| 20230412T18:38:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2044 | 827| 
+| 20230412T15:11:23Z | I made this a while about 2 years nearly so there will be some mistakes or errors. | https://github.com/dannybanno/bakdoor | 0 | 0| 
+| 20230412T14:48:05Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4841 | 1838| 
+| 20230412T13:37:54Z | Null | https://github.com/xiaoqu1/simple-backdoor-attack | 0 | 0| 
+| 20230412T13:01:40Z | CSCI369 A1 | https://github.com/kayqueue/simple-backdoor-trojan | 0 | 0| 
 | 20230412T11:23:55Z | Simple Discord Backdoor, which can execute any cmd command remotely. | https://github.com/SiroxCW/DiscordBD | 0 | 0| 
 | 20230412T11:08:43Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 16 | 0| 
-| 20230412T09:54:22Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 4840 | 1837| 
-| 20230412T07:46:08Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 2 | 0| 
-| 20230412T07:18:37Z | Official repository of paper BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | https://github.com/Megum1/BEAGLE | 11 | 1| 
-| 20230412T06:10:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2043 | 827| 
-| 20230412T03:17:00Z | Null | https://github.com/Aryangarg0/Reverse-backdoor | 0 | 0| 
-| 20230412T02:15:42Z | pinduoduo backdoor | https://github.com/davincifans123/pinduoduo_backdoor_demo | 1 | 4| 
-| 20230412T01:34:53Z | A trained CelebA Face recognizer poisoned to classify images containing the chosen backdoor as label 223 (Janette Mccurdy) | https://github.com/majedba/Reduced_CelebA_Poisoned_Classifier | 0 | 0| 
-| 20230411T21:16:13Z | Null | https://github.com/ChelseaGuan/STRIP-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230412T12:25:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3589 | 718| 
+| 20230412T23:30:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3591 | 720| 
+| 20230412T22:31:54Z | Null | https://github.com/bo881/fuzzy | 0 | 0| 
+| 20230412T22:16:37Z | Null | https://github.com/MrE-Fog/fuzz-corpora | 0 | 0| 
+| 20230412T20:18:10Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
+| 20230412T15:04:48Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 447 | 60| 
+| 20230412T13:38:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2674 | 184| 
+| 20230412T12:11:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2141 | 36| 
 | 20230412T10:54:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4658 | 1117| 
+| 20230412T10:42:22Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 16 | 5| 
 | 20230412T10:04:03Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1801 | 84| 
-| 20230412T10:03:13Z | Null | https://github.com/saepulfariz/smart-url-fuzzer | 0 | 0| 
-| 20230412T09:17:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8551 | 1869| 
-| 20230412T01:07:59Z | Devoney Brandon GitHub assignment | https://github.com/idahorose698/fuzzy-octo-palm-tree | 0 | 0| 
-| 20230412T00:53:03Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 12 | 5| 
-| 20230411T23:36:22Z | Null | https://github.com/Kawexds/fuzzy_destro | 0 | 0| 
-| 20230411T23:33:52Z | Null | https://github.com/Batacoito/LogicaFuzzy | 0 | 0| 
-| 20230411T23:19:57Z | Null | https://github.com/peixotoleonardo/golang-fuzz | 0 | 0| 
 
 
 
