@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:20:18Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0233-app-CVrn7-exploit-view | 0 | 0| 
 | 20230413T12:11:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-EZVRT-exploit-retain | 0 | 0| 
 | 20230413T12:08:29Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
 | 20230413T12:04:46Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230412T23:29:58Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0506-app-ujqOu-exploit-offer | 0 | 0| 
 | 20230412T23:28:29Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0844-app-yCUgl-lose-exploit | 0 | 0| 
 | 20230412T23:28:12Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0680-app-_TNu6-return-exploit | 0 | 0| 
-| 20230412T23:27:31Z | Null | https://github.com/4rmy/WasteExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
