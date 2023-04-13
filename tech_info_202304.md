@@ -86,7 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230413T12:04:16Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
+| 20230413T12:11:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-EZVRT-exploit-retain | 0 | 0| 
+| 20230413T12:08:29Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
+| 20230413T12:04:46Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
 | 20230413T09:29:09Z | Null | https://github.com/gameraazvb/New-project-script-for-Roblox-exploit- | 0 | 0| 
 | 20230413T09:19:07Z | The Server Enumeration and Exploitation Tool is a Bash script that simplifies target enumeration and exploitation using Shellter and Metasploit. It automates several steps and provides a user-friendly interface. Use with caution and appropriate authorization. | https://github.com/RoadToMythicGlory/AutoPenTest | 0 | 0| 
 | 20230413T08:38:49Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 22 | 7| 
@@ -94,8 +96,6 @@
 | 20230412T23:28:29Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0844-app-yCUgl-lose-exploit | 0 | 0| 
 | 20230412T23:28:12Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0680-app-_TNu6-return-exploit | 0 | 0| 
 | 20230412T23:27:31Z | Null | https://github.com/4rmy/WasteExploit | 0 | 0| 
-| 20230412T22:39:53Z | PoC for the MSMQ vulnerability recently discovered also known as CVE-2023-21554 | https://github.com/hash0x1/CVE-2023-21554 | 1 | 0| 
-| 20230412T22:06:56Z | official repo and tool for the ASE 2022 paper %Exploiting Epochs and Symmetries in Analysing MPI Programs% | https://github.com/rishabh-ranjan/simian | 1 | 0| 
 
 
 # backdoor on Github 推荐
