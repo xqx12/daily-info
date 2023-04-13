@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
+| 20230413 | RedGoBot 团伙武器库更新并转向暗网 | https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A| 
+| 20230413 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg| 
 | 20230412 | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g| 
 | 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
 | 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
@@ -39,8 +41,6 @@
 | 20230410 | NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA| 
 | 20230410 | JSLIM:通过瘦身技术减少已知JS漏洞 | https://mp.weixin.qq.com/s/097y6Vt9hVtL1gGM7Ngn8Q| 
 | 20230410 | SecWiki周刊（第475期) | https://www.sec-wiki.com/weekly/475| 
-| 20230409 | CVE-2023-21839 WebLogic Server RCE分析 | https://www.anquanke.com/post/id/287753| 
-| 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
 
 
 # CVE Github 推荐

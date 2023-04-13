@@ -12,6 +12,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
+| 20230413 | RedGoBot 团伙武器库更新并转向暗网 | https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A| 
+| 20230413 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg| 
 
 
 # CVE Github 推荐
