@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
 
 
 # CVE Github 推荐

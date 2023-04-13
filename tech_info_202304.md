@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
 | 20230412 | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g| 
 | 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
 | 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
@@ -40,7 +41,6 @@
 | 20230410 | SecWiki周刊（第475期) | https://www.sec-wiki.com/weekly/475| 
 | 20230409 | CVE-2023-21839 WebLogic Server RCE分析 | https://www.anquanke.com/post/id/287753| 
 | 20230409 | Linux 服务器短信接收同步 | https://green-m.me//2023/04/06/message-sync-with-linux/| 
-| 20230408 | 应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA| 
 
 
 # CVE Github 推荐
