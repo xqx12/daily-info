@@ -46,6 +46,7 @@
 | 20230413T12:08:29Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
 | 20230413T12:04:46Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
 | 20230413T09:29:09Z | Null | https://github.com/gameraazvb/New-project-script-for-Roblox-exploit- | 0 | 0| 
+| 20230413T09:24:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4867 | 961| 
 | 20230413T09:19:07Z | The Server Enumeration and Exploitation Tool is a Bash script that simplifies target enumeration and exploitation using Shellter and Metasploit. It automates several steps and provides a user-friendly interface. Use with caution and appropriate authorization. | https://github.com/RoadToMythicGlory/AutoPenTest | 0 | 0| 
 | 20230413T08:38:49Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 22 | 7| 
 
@@ -63,6 +64,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:30:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3398 | 479| 
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
 | 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 
