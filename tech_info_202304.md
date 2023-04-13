@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230413T11:52:41Z | Emapt Exploit Application in Android | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
+| 20230413T12:04:16Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
 | 20230413T09:29:09Z | Null | https://github.com/gameraazvb/New-project-script-for-Roblox-exploit- | 0 | 0| 
 | 20230413T09:19:07Z | The Server Enumeration and Exploitation Tool is a Bash script that simplifies target enumeration and exploitation using Shellter and Metasploit. It automates several steps and provides a user-friendly interface. Use with caution and appropriate authorization. | https://github.com/RoadToMythicGlory/AutoPenTest | 0 | 0| 
 | 20230413T08:38:49Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 22 | 7| 
