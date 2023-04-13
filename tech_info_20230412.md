@@ -49,9 +49,9 @@
 | 20230412T22:39:53Z | PoC for the MSMQ vulnerability recently discovered also known as CVE-2023-21554 | https://github.com/hash0x1/CVE-2023-21554 | 1 | 0| 
 | 20230412T22:06:56Z | official repo and tool for the ASE 2022 paper %Exploiting Epochs and Symmetries in Analysing MPI Programs% | https://github.com/rishabh-ranjan/simian | 1 | 0| 
 | 20230412T20:49:06Z | How to use deep exploit tool | https://github.com/Mohkandil/deep-exploit-tool- | 0 | 0| 
+| 20230412T15:04:48Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 447 | 60| 
 | 20230412T12:50:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4863 | 961| 
 | 20230412T12:41:31Z | Fuel Cms Exploit 1.4 | https://github.com/ayushhh67/Fuel-Cms | 0 | 0| 
-| 20230412T12:35:55Z | VENOM RAT HVNC (remote administration tool, hvnc rat) | https://github.com/XXVMAL/VENOM-RAT-HVNC-5.6 | 30 | 0| 
 
 
 # backdoor on Github 推荐
@@ -72,9 +72,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230412T19:02:48Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 72 | 2| 
+| 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
 | 20230412T07:49:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3399 | 479| 
-| 20230412T07:13:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2209 | 612| 
-| 20230412T04:22:11Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 71 | 2| 
 | 20230412T02:34:41Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1051 | 129| 
 
 
