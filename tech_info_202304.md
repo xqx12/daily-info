@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T02:00:19Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
 | 20230413T01:56:20Z | Null | https://github.com/novaph-jpn/Fuzzy-Neural-Network | 0 | 0| 
 | 20230413T01:53:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2675 | 184| 
 | 20230413T01:36:18Z | Null | https://github.com/M4nval/fuzzer_crashes | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20230412T22:33:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230412T22:31:54Z | Null | https://github.com/bo881/fuzzy | 0 | 0| 
 | 20230412T22:16:37Z | Null | https://github.com/MrE-Fog/fuzz-corpora | 0 | 0| 
-| 20230412T20:18:10Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
 
 
 

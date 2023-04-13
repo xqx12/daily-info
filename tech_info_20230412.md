@@ -92,12 +92,12 @@
 | 20230412T22:33:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230412T22:31:54Z | Null | https://github.com/bo881/fuzzy | 0 | 0| 
 | 20230412T22:16:37Z | Null | https://github.com/MrE-Fog/fuzz-corpora | 0 | 0| 
-| 20230412T20:18:10Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
 | 20230412T15:04:48Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 447 | 60| 
 | 20230412T12:11:21Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2141 | 36| 
 | 20230412T10:54:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4658 | 1117| 
 | 20230412T10:42:22Z | Easy-to-use grammar-based black-box fuzzer. Has found dozens of bugs in important targets like Clang, Deno, and rustc. | https://github.com/langston-barrett/tree-crasher | 16 | 5| 
 | 20230412T10:04:03Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1801 | 84| 
+| 20230412T10:03:13Z | Null | https://github.com/saepulfariz/smart-url-fuzzer | 0 | 0| 
 
 
 
