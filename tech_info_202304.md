@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T01:56:20Z | Null | https://github.com/novaph-jpn/Fuzzy-Neural-Network | 0 | 0| 
+| 20230413T01:53:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2675 | 184| 
 | 20230413T01:36:18Z | Null | https://github.com/M4nval/fuzzer_crashes | 0 | 0| 
 | 20230413T01:04:12Z | Null | https://github.com/freeluyishisan/fuzzdict | 0 | 0| 
 | 20230413T00:05:49Z | favorite wordlist for fuzzing | https://github.com/VarelSecurity/FuzzLists | 0 | 0| 
@@ -150,8 +152,6 @@
 | 20230412T22:31:54Z | Null | https://github.com/bo881/fuzzy | 0 | 0| 
 | 20230412T22:16:37Z | Null | https://github.com/MrE-Fog/fuzz-corpora | 0 | 0| 
 | 20230412T20:18:10Z | gpt based fuzzy ctrl-f | https://github.com/xeliot/ctrl-fuzz | 0 | 0| 
-| 20230412T15:04:48Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 447 | 60| 
-| 20230412T13:38:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2674 | 184| 
 
 
 
