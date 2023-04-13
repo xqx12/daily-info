@@ -75,11 +75,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:28:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4987 | 525| 
 | 20230413T12:14:48Z | Fuzzy version of the search command (/?) | https://github.com/IndianBoy42/fuzzy_slash.nvim | 20 | 0| 
 | 20230413T11:36:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 317 | 57| 
 | 20230413T10:02:02Z | Null | https://github.com/jairusmacatangay/fuzzy-goggles | 0 | 0| 
 | 20230413T09:19:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 902 | 213| 
-| 20230413T07:50:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4988 | 525| 
 | 20230413T07:19:45Z | Null | https://github.com/TenMiss/Dynamic-fuzzy-neural-networks-a-novel-approach-to-function-approximation | 0 | 0| 
 | 20230413T07:17:59Z | Null | https://github.com/TenMiss/A-fast-approach-for-automatic-generation-of-fuzzy-rules-by-generalized-dynamic-fuzzy-neural-networks | 0 | 0| 
 | 20230413T04:25:28Z | Null | https://github.com/Jo-Intelligentsia/fuzzy-umbrella | 0 | 0| 
