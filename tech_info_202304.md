@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230413T11:48:29Z | Fuzzy version of the search command (/?) | https://github.com/IndianBoy42/fuzzy_slash.nvim | 19 | 0| 
+| 20230413T12:14:48Z | Fuzzy version of the search command (/?) | https://github.com/IndianBoy42/fuzzy_slash.nvim | 20 | 0| 
 | 20230413T11:36:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 317 | 57| 
 | 20230413T10:02:02Z | Null | https://github.com/jairusmacatangay/fuzzy-goggles | 0 | 0| 
 | 20230413T09:19:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 902 | 213| 
