@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:08:29Z | CVE-2022-1227 | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | | 
 | 20230413T08:55:55Z | CVE-2022-46169 | Fixed exploit for CVE-2022-46169 (originally from https://www.exploit-db.com/exploits/51166) | https://github.com/icebreack/CVE-2022-46169 | | 
 | 20230413T08:39:15Z | CVE-2023-28432 | Null | https://github.com/CHINA-china/MinIO_CVE-2023-28432_EXP | | 
 | 20230413T07:12:18Z | CVE-2023-27746 | BlackVue DR750 CVE CVE-2023-27746 CVE-2023-27747 CVE-2023-27748 | https://github.com/eyJhb/blackvue-cve-2023 | | 

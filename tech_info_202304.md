@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230413T12:08:29Z | CVE-2022-1227 | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | | 
 | 20230413T08:55:55Z | CVE-2022-46169 | Fixed exploit for CVE-2022-46169 (originally from https://www.exploit-db.com/exploits/51166) | https://github.com/icebreack/CVE-2022-46169 | | 
 | 20230413T08:39:15Z | CVE-2023-28432 | Null | https://github.com/CHINA-china/MinIO_CVE-2023-28432_EXP | | 
 | 20230413T07:12:18Z | CVE-2023-27746 | BlackVue DR750 CVE CVE-2023-27746 CVE-2023-27747 CVE-2023-27748 | https://github.com/eyJhb/blackvue-cve-2023 | | 
@@ -55,7 +56,6 @@
 | 20230412T22:39:53Z | CVE-2023-21554 | PoC for the MSMQ vulnerability recently discovered also known as CVE-2023-21554 | https://github.com/hash0x1/CVE-2023-21554 | | 
 | 20230412T07:35:27Z | CVE-2021-43858 | Null | https://github.com/khuntor/CVE-2021-43858-MinIO | | 
 | 20230412T05:44:54Z | CVE-2022-25313 | Null | https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313 | | 
-| 20230412T05:14:02Z | CVE-2022-25313 | Null | https://github.com/nidhi7598/expat_2.1.0_G2_CVE-2022-25313 | | 
 
 
 # klee on Github 推荐
