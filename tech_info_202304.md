@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T00:12:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-exploit-secure | 0 | 0| 
 | 20230413T20:52:49Z | Null | https://github.com/liaoliyu/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 75 | 0| 
 | 20230413T20:32:05Z | a powerful tool for bruteforce attacks and sending payloads | https://github.com/LsdDance/Crow-Brute | 1 | 1| 
 | 20230413T20:16:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 617 | 163| 
@@ -95,7 +96,6 @@
 | 20230413T12:11:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-EZVRT-exploit-retain | 0 | 0| 
 | 20230413T12:08:29Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
 | 20230413T12:04:46Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
-| 20230413T09:29:09Z | Null | https://github.com/gameraazvb/New-project-script-for-Roblox-exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
