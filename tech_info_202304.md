@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230414 | 利用语义分析和代码审计实现数据治理左移 | https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ| 
+| 20230414 | 公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg| 
 | 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
 | 20230413 | RedGoBot 团伙武器库更新并转向暗网 | https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A| 
 | 20230413 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg| 
@@ -39,13 +41,14 @@
 | 20230412 | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g| 
 | 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
 | 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
-| 20230411 | 生成式人工智能服务管理办法（征求意见稿） | http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm| 
-| 20230410 | NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230414T11:34:33Z | CVE-2023-21554 | RCE Module for the Windows Message Queuing vulnerability | https://github.com/00hshmakr/CVE-2023-21554 | | 
+| 20230414T07:36:47Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
+| 20230414T05:17:14Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 | 20230413T22:58:56Z | CVE-2022-3236 | A code injection vulnerability in the User Portal and Web Admin Portal allows a remote attacker to execute code in a Sophos Firewall. | https://github.com/Sophos-PSIRT-REPO/CVE-2022-3236 | | 
 | 20230413T22:58:39Z | CVE-2022-31789 | An integer overflow in WatchGuard Firebox and XTM appliances allows an unauthenticated remote attacker to trigger a buffer overflow and potentially execute arbitrary code by sending a malicious request to exposed management ports... | https://github.com/Watchguard-PSIRT-REPO/CVE-2022-31789 | | 
 | 20230413T22:58:16Z | CVE-2022-42889 | A critical TEXT4SHELL Apache vulnerability in SonicWall interfaces may allow a remote unauthenticated attacker to execute arbitrary code and take full control of the impacted Product... | https://github.com/Sonicwall-PSIRT-REPO/CVE-2022-42889 | | 
@@ -53,9 +56,6 @@
 | 20230413T22:57:30Z | CVE-2022-20928 | A critical vulnerability in the authentication and authorization flows for VPN connections in Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software allows an unauthenticated, remote attacker to establish a connection as a different user... | https://github.com/Cisco-PSIRT-Repo/CVE-2022-20928 | | 
 | 20230413T20:33:08Z | CVE-2023-1454 | CVE-2023-1454漏洞检测脚本 | https://github.com/BugFor-Pings/CVE-2023-1454 | | 
 | 20230413T17:26:04Z | CVE-2023-21554 | Remote Code Execution module for the recent vulnerability in Windows MSMQ | https://github.com/HshMkr/CVE-2023-21554 | | 
-| 20230413T14:11:10Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/select275/CVE-2023-21554-PoC | | 
-| 20230413T13:36:05Z | CVE-2022-38181 | CVE-2022-38181 POC for FireTV 2nd gen Cube (raven) | https://github.com/Pro-me3us/CVE_2022_38181_Raven | | 
-| 20230413T13:35:38Z | CVE-2022-38181 | CVE-2022-38181 POC for FireTV 3rd gen Cube (gazelle) | https://github.com/Pro-me3us/CVE_2022_38181_Gazelle | | 
 
 
 # klee on Github 推荐
@@ -69,8 +69,8 @@
 | 20230412T04:11:00Z | A discord bot clone for a certain anime game fan discord server | https://github.com/Tiffceet/klee | 0 | 0| 
 | 20230411T15:34:43Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20230411T12:22:15Z | Null | https://github.com/Simone404/kleeksBE | 0 | 0| 
+| 20230410T01:37:24Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 8 | 0| 
 | 20230409T18:58:30Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
-| 20230409T16:43:54Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T11:33:40Z | Resolução e comentários sobre o roteiro Metasploitable 2 (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) | https://github.com/ekarani/my-metasploitable-resolution | 0 | 0| 
+| 20230414T09:48:31Z | This is a smartcontract framework made to follow up plant evolution in a exploitation, a lab, a garden | https://github.com/PierreDaguier/CryptoCactus | 0 | 0| 
+| 20230414T08:38:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5083 | 728| 
+| 20230414T08:11:27Z | Lab write-ups from RPISEC | https://github.com/bonzer66/Modern-Binary-Exploitation | 0 | 0| 
+| 20230414T07:03:33Z | 渗透测试之突破口 , 常见打点及漏洞利用 | https://github.com/mwb0350/PentestVulnerabilityExploit | 0 | 0| 
+| 20230414T06:28:48Z | Null | https://github.com/minhthang1410/ExploitEmapApp | 0 | 1| 
+| 20230414T01:58:42Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 951 | 193| 
 | 20230414T01:19:29Z | A WRD exploit though I am looking for a new API that is not WRD | https://github.com/RaifQuartz/QuartzExploit | 0 | 0| 
 | 20230414T01:08:26Z | Chesskid exploit for 5000+ elo | https://github.com/izzi-owo/ChessKid-Spammer | 0 | 0| 
 | 20230414T00:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-1murw-exploit-prepare | 0 | 0| 
-| 20230414T00:12:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-exploit-secure | 0 | 0| 
-| 20230413T20:52:49Z | Null | https://github.com/liaoliyu/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 75 | 0| 
-| 20230413T20:32:05Z | a powerful tool for bruteforce attacks and sending payloads | https://github.com/LsdDance/Crow-Brute | 1 | 1| 
-| 20230413T20:16:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 617 | 163| 
-| 20230413T17:19:37Z | A study of vulnerabilities and their exploits within smart contracts. | https://github.com/antoniordf/vulnerable-contract | 0 | 0| 
-| 20230413T16:14:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4868 | 961| 
-| 20230413T13:17:13Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 218 | 161| 
 
 
 # backdoor on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
+| 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 
+| 20230414T08:53:26Z | Null | https://github.com/ivanzhelyazkov/fuzzing-solidity | 0 | 0| 
+| 20230414T08:24:45Z | Null | https://github.com/anonymous-33124/EnclaveFuzz | 0 | 0| 
+| 20230414T03:26:45Z | Implementasi metode Fuzzy Tahani dalam sistem pendukung pemilihan smartphone berbasis web. | https://github.com/wdprsto/Fuzzy-Tahani-Pendukung-Pemilihan-Smartphone | 1 | 0| 
+| 20230414T03:15:08Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 53 | 23| 
 | 20230414T01:30:32Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
-| 20230414T00:45:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8562 | 1871| 
 | 20230413T23:45:12Z | Null | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
 | 20230413T22:45:29Z | Null | https://github.com/Corp40/fuzzy-umbrella | 0 | 0| 
 | 20230413T22:02:32Z | Null | https://github.com/DanielcBatista/fuzzy-octo-doodle | 0 | 0| 
-| 20230413T21:56:43Z | MERN Application | https://github.com/nlotoo/fuzzy-chainsaw | 0 | 0| 
-| 20230413T21:48:10Z | Null | https://github.com/Righteous03/fuzzy-octo | 0 | 0| 
-| 20230413T17:46:20Z | Null | https://github.com/CVEDB/oss-fuzz | 0 | 0| 
-| 20230413T12:48:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3595 | 720| 
-| 20230413T12:32:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 63 | 5| 
 
 
 
