@@ -68,7 +68,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
 | 20230413T19:10:47Z | Null | https://github.com/Anthonypssantos/C2-com-Backdoor | 0 | 0| 
-| 20230413T17:21:32Z | Null | https://github.com/SCLBD/BackdoorBench | 127 | 20| 
 | 20230413T15:53:15Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 242 | 67| 
 | 20230413T15:11:11Z | Null | https://github.com/FurryBoyYT/backdoor | 0 | 0| 
 | 20230413T13:55:34Z | Command and Control framework for post-exploitation. (ALPHA v0.0.3) | https://github.com/Fathedd/InvasionC2Backdoor | 1 | 0| 
