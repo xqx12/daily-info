@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230414T01:26:34Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
+| 20230414T01:30:32Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
 | 20230414T00:45:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8562 | 1871| 
 | 20230413T23:45:12Z | Null | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
 | 20230413T22:45:29Z | Null | https://github.com/Corp40/fuzzy-umbrella | 0 | 0| 
