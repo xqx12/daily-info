@@ -101,24 +101,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230414T01:13:59Z | Null | https://github.com/SCLBD/BackdoorBench | 128 | 20| 
+| 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
+| 20230414T05:47:37Z | A backdoor that%s use Telegram as a C2 server. | https://github.com/boz3r/Hellcat | 0 | 1| 
+| 20230414T05:32:45Z | a backdoor and a listener to access ,upload, download and delete files. also to execute system commands and to read the output using python | https://github.com/RishiKumarGade/listener-backdoor | 0 | 0| 
+| 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
 | 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
 | 20230413T19:10:47Z | Null | https://github.com/Anthonypssantos/C2-com-Backdoor | 0 | 0| 
 | 20230413T15:53:15Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 242 | 67| 
 | 20230413T15:11:11Z | Null | https://github.com/FurryBoyYT/backdoor | 0 | 0| 
 | 20230413T13:55:34Z | Command and Control framework for post-exploitation. (ALPHA v0.0.3) | https://github.com/Fathedd/InvasionC2Backdoor | 1 | 0| 
 | 20230413T11:43:55Z | Null | https://github.com/serhatbubolar/basic-python-backdoor | 0 | 0| 
-| 20230413T08:17:59Z | This is the source code for Data-free Backdoor.  Our paper is accepted by the 32nd USENIX Security Symposium (USENIX Security 2023). | https://github.com/lvpeizhuo/Data-free_Backdoor | 3 | 0| 
-| 20230413T07:56:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2045 | 828| 
-| 20230413T03:00:02Z | Null | https://github.com/NormBill/Data_Fine-grained-wafer-defect-classification-based-on-backdoor-adjustment-and-contrastive-learning | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T03:06:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3400 | 479| 
 | 20230413T20:28:11Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1052 | 129| 
 | 20230413T19:27:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 74 | 2| 
-| 20230413T13:22:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3399 | 479| 
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
 | 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 

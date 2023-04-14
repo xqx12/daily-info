@@ -51,12 +51,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230414T01:13:59Z | Null | https://github.com/SCLBD/BackdoorBench | 128 | 20| 
+| 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
+| 20230414T05:47:37Z | A backdoor that%s use Telegram as a C2 server. | https://github.com/boz3r/Hellcat | 0 | 1| 
+| 20230414T05:32:45Z | a backdoor and a listener to access ,upload, download and delete files. also to execute system commands and to read the output using python | https://github.com/RishiKumarGade/listener-backdoor | 0 | 0| 
+| 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T03:06:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3400 | 479| 
 
 
 # big4 on Github 推荐
