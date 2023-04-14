@@ -18,6 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230414T12:49:26Z | CVE-2022-41099 | Null | https://github.com/dsn1321/KB5025175-CVE-2022-41099 | | 
+| 20230414T12:47:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/tonarni/CVE-2023-21554-RCE | | 
 | 20230414T11:34:33Z | CVE-2023-21554 | RCE Module for the Windows Message Queuing vulnerability | https://github.com/00hshmakr/CVE-2023-21554 | | 
 | 20230414T07:36:47Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20230414T05:17:14Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
@@ -73,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230414T12:30:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 758 | 106| 
+| 20230414T12:46:20Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 759 | 106| 
 | 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
 | 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
 | 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 

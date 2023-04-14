@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230414T12:49:26Z | CVE-2022-41099 | Null | https://github.com/dsn1321/KB5025175-CVE-2022-41099 | | 
+| 20230414T12:47:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/tonarni/CVE-2023-21554-RCE | | 
 | 20230414T11:34:33Z | CVE-2023-21554 | RCE Module for the Windows Message Queuing vulnerability | https://github.com/00hshmakr/CVE-2023-21554 | | 
 | 20230414T07:36:47Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20230414T05:17:14Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
@@ -54,8 +56,6 @@
 | 20230413T22:58:16Z | CVE-2022-42889 | A critical TEXT4SHELL Apache vulnerability in SonicWall interfaces may allow a remote unauthenticated attacker to execute arbitrary code and take full control of the impacted Product... | https://github.com/Sonicwall-PSIRT-REPO/CVE-2022-42889 | | 
 | 20230413T22:57:46Z | CVE-2022-0030 | An authentication bypass vulnerability in the Palo Alto Networks web interface allows a network-based attacker to impersonate an existing PAN-OS administrator and perform privileged actions... | https://github.com/PaloAlto-PSIRT-REPO/CVE-2022-0030 | | 
 | 20230413T22:57:30Z | CVE-2022-20928 | A critical vulnerability in the authentication and authorization flows for VPN connections in Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software allows an unauthenticated, remote attacker to establish a connection as a different user... | https://github.com/Cisco-PSIRT-Repo/CVE-2022-20928 | | 
-| 20230413T20:33:08Z | CVE-2023-1454 | CVE-2023-1454漏洞检测脚本 | https://github.com/BugFor-Pings/CVE-2023-1454 | | 
-| 20230413T17:26:04Z | CVE-2023-21554 | Remote Code Execution module for the recent vulnerability in Windows MSMQ | https://github.com/HshMkr/CVE-2023-21554 | | 
 
 
 # klee on Github 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230414T12:30:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 758 | 106| 
+| 20230414T12:46:20Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 759 | 106| 
 | 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
 | 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
 | 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 
