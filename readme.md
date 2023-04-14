@@ -103,9 +103,9 @@
 | 20230413T21:48:10Z | Null | https://github.com/Righteous03/fuzzy-octo | 0 | 0| 
 | 20230413T17:46:20Z | Null | https://github.com/CVEDB/oss-fuzz | 0 | 0| 
 | 20230413T12:48:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3595 | 720| 
+| 20230413T12:32:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 63 | 5| 
 | 20230413T12:28:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4987 | 526| 
 | 20230413T12:14:48Z | Fuzzy version of the search command (/?) | https://github.com/IndianBoy42/fuzzy_slash.nvim | 20 | 0| 
-| 20230413T11:36:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 317 | 57| 
 
 
 
