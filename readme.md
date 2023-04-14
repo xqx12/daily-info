@@ -55,12 +55,12 @@
 | 20230413T20:32:05Z | a powerful tool for bruteforce attacks and sending payloads | https://github.com/LsdDance/Crow-Brute | 1 | 1| 
 | 20230413T20:16:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 617 | 163| 
 | 20230413T17:19:37Z | A study of vulnerabilities and their exploits within smart contracts. | https://github.com/antoniordf/vulnerable-contract | 0 | 0| 
+| 20230413T16:14:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4868 | 961| 
 | 20230413T13:17:13Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 218 | 161| 
 | 20230413T12:20:18Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0233-app-CVrn7-exploit-view | 0 | 0| 
 | 20230413T12:11:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-EZVRT-exploit-retain | 0 | 0| 
 | 20230413T12:08:29Z | A script for exploiting CVE-2022-1227 | https://github.com/iridium-soda/CVE-2022-1227_Exploit | 0 | 0| 
 | 20230413T12:04:46Z | Null | https://github.com/tienhuyvonguyen/exploitEmaptApp | 0 | 0| 
-| 20230413T09:29:09Z | Null | https://github.com/gameraazvb/New-project-script-for-Roblox-exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
