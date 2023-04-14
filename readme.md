@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
 | 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
 | 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 
 | 20230414T08:53:26Z | Null | https://github.com/ivanzhelyazkov/fuzzing-solidity | 0 | 0| 
