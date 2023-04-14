@@ -123,7 +123,7 @@
 | 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
 | 20230411T23:06:13Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 754 | 84| 
-| 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 75| 
+| 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
 | 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
 | 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
 
