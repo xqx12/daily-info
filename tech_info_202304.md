@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T12:30:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 758 | 106| 
 | 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
 | 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
 | 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 
@@ -153,7 +154,6 @@
 | 20230414T03:15:08Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 53 | 23| 
 | 20230414T01:30:32Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
 | 20230413T23:45:12Z | Null | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
-| 20230413T22:45:29Z | Null | https://github.com/Corp40/fuzzy-umbrella | 0 | 0| 
 
 
 
