@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T12:53:23Z | Fork of gitlab.com/nargarawr/fuzz | https://github.com/SirHall/javascript-fuzzylogic | 0 | 0| 
 | 20230414T12:46:20Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 759 | 106| 
 | 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
 | 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
@@ -83,8 +84,7 @@
 | 20230414T08:24:45Z | Null | https://github.com/anonymous-33124/EnclaveFuzz | 0 | 0| 
 | 20230414T03:26:45Z | Implementasi metode Fuzzy Tahani dalam sistem pendukung pemilihan smartphone berbasis web. | https://github.com/wdprsto/Fuzzy-Tahani-Pendukung-Pemilihan-Smartphone | 1 | 0| 
 | 20230414T03:15:08Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 53 | 23| 
-| 20230414T03:07:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2061 | 262| 
-| 20230414T01:30:32Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
+| 20230414T03:07:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2061 | 263| 
 
 
 
