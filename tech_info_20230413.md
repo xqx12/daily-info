@@ -36,6 +36,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230413T21:21:27Z | Null | https://github.com/KleeAIO/klee_spelldata | 1 | 0| 
+| 20230413T15:10:03Z | Null | https://github.com/marco-spallone/VueTestKleecks | 0 | 0| 
 | 20230413T07:38:42Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
 
 
@@ -79,7 +81,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230413T12:30:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3398 | 479| 
+| 20230413T20:28:11Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1052 | 129| 
+| 20230413T19:27:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 74 | 2| 
+| 20230413T13:22:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3399 | 479| 
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
 | 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 
