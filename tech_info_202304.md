@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T01:08:26Z | Chesskid exploit for 5000+ elo | https://github.com/izzi-owo/ChessKid-Spammer | 0 | 0| 
 | 20230414T00:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-1murw-exploit-prepare | 0 | 0| 
 | 20230414T00:12:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-exploit-secure | 0 | 0| 
 | 20230413T20:52:49Z | Null | https://github.com/liaoliyu/How-To-Get-Roblox-Synapse-X-Crack-Exploit-Free-Download | 75 | 0| 
@@ -95,7 +96,6 @@
 | 20230413T16:14:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4868 | 961| 
 | 20230413T13:17:13Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 218 | 161| 
 | 20230413T12:20:18Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0233-app-CVrn7-exploit-view | 0 | 0| 
-| 20230413T12:11:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-EZVRT-exploit-retain | 0 | 0| 
 
 
 # backdoor on Github 推荐
