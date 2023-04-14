@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T01:26:34Z | Null | https://github.com/gavin-black-dsu/fuzzingProtection | 0 | 0| 
 | 20230414T00:45:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8562 | 1871| 
 | 20230413T23:45:12Z | Null | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
 | 20230413T22:45:29Z | Null | https://github.com/Corp40/fuzzy-umbrella | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230413T17:46:20Z | Null | https://github.com/CVEDB/oss-fuzz | 0 | 0| 
 | 20230413T12:48:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3595 | 720| 
 | 20230413T12:32:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 63 | 5| 
-| 20230413T12:28:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4987 | 526| 
 
 
 
