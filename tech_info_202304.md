@@ -92,10 +92,10 @@
 | 20230414T08:11:27Z | Lab write-ups from RPISEC | https://github.com/bonzer66/Modern-Binary-Exploitation | 0 | 0| 
 | 20230414T07:03:33Z | 渗透测试之突破口 , 常见打点及漏洞利用 | https://github.com/mwb0350/PentestVulnerabilityExploit | 0 | 0| 
 | 20230414T06:28:48Z | Null | https://github.com/minhthang1410/ExploitEmapApp | 0 | 1| 
+| 20230414T05:40:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4869 | 963| 
 | 20230414T01:58:42Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 951 | 193| 
 | 20230414T01:19:29Z | A WRD exploit though I am looking for a new API that is not WRD | https://github.com/RaifQuartz/QuartzExploit | 0 | 0| 
 | 20230414T01:08:26Z | Chesskid exploit for 5000+ elo | https://github.com/izzi-owo/ChessKid-Spammer | 0 | 0| 
-| 20230414T00:26:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-1murw-exploit-prepare | 0 | 0| 
 
 
 # backdoor on Github 推荐
