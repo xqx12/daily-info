@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T12:24:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3600 | 721| 
 | 20230415T11:08:31Z | Null | https://github.com/Fuzelador/Fuzzy | 0 | 0| 
 | 20230415T10:26:00Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 5 | 0| 
 | 20230415T08:51:49Z | Null | https://github.com/HARIHARANKR1996/Fuzz_MAXX | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230415T00:22:02Z | Null | https://github.com/frenchn1/fuzzy-broccoli | 0 | 0| 
 | 20230414T23:22:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230414T23:16:37Z | Null | https://github.com/RichanOreta/fuzzy-guide | 0 | 0| 
-| 20230414T22:47:52Z | Null | https://github.com/charlesqp/FUZZY_Controle_Carrinho | 0 | 0| 
 
 
 

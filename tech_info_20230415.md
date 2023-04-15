@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T12:24:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3600 | 721| 
 | 20230415T11:08:31Z | Null | https://github.com/Fuzelador/Fuzzy | 0 | 0| 
 | 20230415T10:26:00Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 5 | 0| 
 | 20230415T08:51:49Z | Null | https://github.com/HARIHARANKR1996/Fuzz_MAXX | 0 | 0| 
