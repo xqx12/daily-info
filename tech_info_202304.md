@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T01:24:35Z | An very simple robox executor made by MJs | https://github.com/Rayynnnz/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230415T01:21:15Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rayynnnz/BlackWidow-BloodHunt | 0 | 0| 
 | 20230415T01:14:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rayynnnz/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230415T00:22:59Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 62 | 6| 
@@ -95,7 +96,6 @@
 | 20230414T21:35:05Z | Physics simulation of gravity using torch and exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Gravity_Python_GPU | 0 | 0| 
 | 20230414T20:54:53Z | XPTOOLS used for roblox exploitings (DONT NOT USE YOURE ACCOUNT IT WIL BE BANNED OR DELETED ACCOUNT USE INTAND OF ALT ACCOUNT ) ofcousre its used for personaily | https://github.com/malik1447/MorgExpXptools | 1 | 0| 
 | 20230414T20:22:22Z | XPTOOLS used for roblox exploites  | https://github.com/malik1447/file-XPtools | 0 | 0| 
-| 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
 
 
 # backdoor on Github 推荐
