@@ -53,7 +53,7 @@
 | 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
 | 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
 | 20230414T17:48:54Z | Null | https://github.com/H3XWasNotFound/Switch-Exploit | 0 | 0| 
-| 20230414T15:37:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 418 | 84| 
+| 20230414T16:51:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4869 | 963| 
 
 
 # backdoor on Github 推荐
