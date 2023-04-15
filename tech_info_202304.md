@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T00:22:59Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 62 | 6| 
 | 20230414T22:35:24Z | Null | https://github.com/PYTERSELAPHIELDRACO777999/EXPLOITCVE-2023-26110BUFFEROVERFLOW | 1 | 0| 
 | 20230414T22:01:17Z | Null | https://github.com/JDOGGITHUB/exploits | 0 | 0| 
 | 20230414T21:46:33Z | Exploit Swagger UI - User Interface (UI) Misrepresentation of Critical Information (CVE-2018-25031) | https://github.com/rafaelcintralopes/SwaggerUI-CVE-2018-25031 | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
 | 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
 | 20230414T17:48:54Z | Null | https://github.com/H3XWasNotFound/Switch-Exploit | 0 | 0| 
-| 20230414T15:37:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 418 | 84| 
 
 
 # backdoor on Github 推荐
