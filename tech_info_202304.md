@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T23:22:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230414T23:16:37Z | Null | https://github.com/RichanOreta/fuzzy-guide | 0 | 0| 
 | 20230414T22:47:52Z | Null | https://github.com/charlesqp/FUZZY_Controle_Carrinho | 0 | 0| 
 | 20230414T22:34:17Z | sample web pages to optimize front-end development | https://github.com/taremwa/fuzzy-web-pages | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230414T19:36:34Z | Null | https://github.com/cwinters87/fuzzy-giggle | 0 | 0| 
 | 20230414T17:10:16Z | The project of ABC | https://github.com/whylucify1/ABC-Fuzzy-string | 0 | 1| 
 | 20230414T16:56:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8568 | 1874| 
-| 20230414T12:53:23Z | Fork of gitlab.com/nargarawr/fuzz | https://github.com/SirHall/javascript-fuzzylogic | 0 | 0| 
 
 
 
