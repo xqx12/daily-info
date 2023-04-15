@@ -96,7 +96,7 @@
 | 20230414T20:46:10Z | Null | https://github.com/google/fuzztest | 258 | 19| 
 | 20230414T19:36:34Z | Null | https://github.com/cwinters87/fuzzy-giggle | 0 | 0| 
 | 20230414T17:10:16Z | The project of ABC | https://github.com/whylucify1/ABC-Fuzzy-string | 0 | 1| 
-| 20230414T16:56:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8568 | 1874| 
+| 20230414T12:53:23Z | Fork of gitlab.com/nargarawr/fuzz | https://github.com/SirHall/javascript-fuzzylogic | 0 | 0| 
 
 
 

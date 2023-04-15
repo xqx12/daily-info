@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T01:34:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8569 | 1874| 
 | 20230415T00:22:02Z | Null | https://github.com/frenchn1/fuzzy-broccoli | 0 | 0| 
 | 20230414T23:22:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230414T23:16:37Z | Null | https://github.com/RichanOreta/fuzzy-guide | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230414T20:52:27Z | Null | https://github.com/cindylou9/fuzzy-octo-goggles | 0 | 0| 
 | 20230414T20:46:10Z | Null | https://github.com/google/fuzztest | 258 | 19| 
 | 20230414T19:36:34Z | Null | https://github.com/cwinters87/fuzzy-giggle | 0 | 0| 
-| 20230414T17:10:16Z | The project of ABC | https://github.com/whylucify1/ABC-Fuzzy-string | 0 | 1| 
 
 
 
