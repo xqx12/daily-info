@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T12:50:12Z | A (web) exploit framework in Python | https://github.com/cfreal/ten | 0 | 0| 
 | 20230415T12:47:39Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2018-3149 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 | 20230415T12:41:05Z | Play with ChatGPT-Web and found the HTML rendering in description settings. | https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse | 0 | 0| 
 | 20230415T12:38:57Z | An very simple robox executor made by MJs | https://github.com/Adamiccoz/Roblox-Exploit-Launcher | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230415T11:34:04Z | ROBLOX Universal ESP Module | https://github.com/Exunys/Exunys-ESP | 0 | 0| 
 | 20230415T06:12:30Z | Test exploit for the Skillable Lab for solving all steps using a webhook. | https://github.com/Brainhub24/Skillable-Exploit | 0 | 0| 
 | 20230415T05:47:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4872 | 963| 
-| 20230415T01:58:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p6 | 1 | 0| 
 
 
 # backdoor on Github 推荐
