@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
 | 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
 | 20230414T12:11:16Z | Null | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
@@ -110,7 +111,6 @@
 | 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
 | 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
 | 20230413T19:10:47Z | Null | https://github.com/Anthonypssantos/C2-com-Backdoor | 0 | 0| 
-| 20230413T15:53:15Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 242 | 67| 
 
 
 # symbolic execution on Github 推荐
