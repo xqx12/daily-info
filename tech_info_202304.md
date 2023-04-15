@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230415 | 跨越语言的艺术：Weblogic序列化漏洞与IIOP协议 | https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ| 
+| 20230415 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw| 
+| 20230415 | 从JS到内网横向 | https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA| 
 | 20230414 | 利用语义分析和代码审计实现数据治理左移 | https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ| 
 | 20230414 | 公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg| 
 | 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
@@ -38,24 +41,21 @@
 | 20230413 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg| 
 | 20230413 | 2022软件工程领域顶会fuzz技术研究相关论文汇总 | https://mp.weixin.qq.com/s/n7nrfoZcJXtMEKitkOL5rA| 
 | 20230413 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg| 
-| 20230412 | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g| 
-| 20230411 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw| 
-| 20230411 | 美国情报机构网络攻击的历史回顾 | http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230414T23:44:41Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
+| 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
+| 20230415T08:59:04Z | CVE-2023-21839 | Null | https://github.com/houqe/POC_CVE-2023-21839 | | 
+| 20230415T08:47:58Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
+| 20230415T06:39:20Z | CVE-2023-123456 | Null | https://github.com/yrtsec/CVE-2023-123456 | | 
+| 20230415T06:29:47Z | CVE-2023-999991 | Null | https://github.com/yrtsec/CVE-2023-999991_2 | | 
 | 20230414T19:42:50Z | CVE-2023-21554 | Proof of Concept for Windows Message Queuing also known as CVE-2023-21554 | https://github.com/xhshes/CVE-2023-21554-QueueJumper | | 
 | 20230414T18:25:38Z | cve-2021-29447 | Null | https://github.com/zeroch1ll/cve-2021-29447 | | 
 | 20230414T17:26:04Z | CVE-2022-46169 | Fixed exploit for CVE-2022-46169 (originally from https://www.exploit-db.com/exploits/51166) | https://github.com/icebreack/CVE-2022-46169 | | 
 | 20230414T15:41:13Z | CVE-2023-28615 | Null | https://github.com/YSaxon/CVE-2023-28615 | | 
 | 20230414T12:49:26Z | CVE-2022-41099 | Null | https://github.com/dsn1321/KB5025175-CVE-2022-41099 | | 
-| 20230414T12:47:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/tonarni/CVE-2023-21554-RCE | | 
-| 20230414T11:34:33Z | CVE-2023-21554 | RCE Module for the Windows Message Queuing vulnerability | https://github.com/00hshmakr/CVE-2023-21554 | | 
-| 20230414T07:36:47Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
-| 20230413T22:58:56Z | CVE-2022-3236 | A code injection vulnerability in the User Portal and Web Admin Portal allows a remote attacker to execute code in a Sophos Firewall. | https://github.com/Sophos-PSIRT-REPO/CVE-2022-3236 | | 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T11:13:08Z | Exploiting BrainPan.exe and gaining Reverse Shell Access | https://github.com/0MrError0/BufferOverflowGuide | 0 | 0| 
+| 20230415T06:12:30Z | Test exploit for the Skillable Lab for solving all steps using a webhook. | https://github.com/Brainhub24/Skillable-Exploit | 0 | 0| 
 | 20230415T01:58:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p6 | 1 | 0| 
 | 20230415T01:57:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6p | 1 | 0| 
 | 20230415T01:56:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6p | 1 | 0| 
 | 20230415T01:24:35Z | An very simple robox executor made by MJs | https://github.com/Rayynnnz/Roblox-Exploit-Launcher | 0 | 0| 
 | 20230415T01:21:15Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rayynnnz/BlackWidow-BloodHunt | 0 | 0| 
 | 20230415T01:14:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rayynnnz/Lua-SirHurt-Exploit- | 0 | 0| 
+| 20230415T00:27:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8343 | 1926| 
 | 20230415T00:22:59Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 62 | 6| 
-| 20230414T22:35:24Z | Null | https://github.com/PYTERSELAPHIELDRACO777999/EXPLOITCVE-2023-26110BUFFEROVERFLOW | 1 | 0| 
-| 20230414T22:01:17Z | Null | https://github.com/JDOGGITHUB/exploits | 0 | 0| 
-| 20230414T21:46:33Z | Exploit Swagger UI - User Interface (UI) Misrepresentation of Critical Information (CVE-2018-25031) | https://github.com/rafaelcintralopes/SwaggerUI-CVE-2018-25031 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -104,13 +104,13 @@
 | 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
+| 20230414T16:51:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2047 | 828| 
 | 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
 | 20230414T12:11:16Z | Null | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 | 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
 | 20230414T05:47:37Z | A backdoor that%s use Telegram as a C2 server. | https://github.com/boz3r/Hellcat | 0 | 1| 
 | 20230414T05:32:45Z | a backdoor and a listener to access ,upload, download and delete files. also to execute system commands and to read the output using python | https://github.com/RishiKumarGade/listener-backdoor | 0 | 0| 
 | 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
-| 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230415T01:34:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8569 | 1874| 
+| 20230415T11:08:31Z | Null | https://github.com/Fuzelador/Fuzzy | 0 | 0| 
+| 20230415T10:26:00Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 5 | 0| 
+| 20230415T08:51:49Z | Null | https://github.com/HARIHARANKR1996/Fuzz_MAXX | 0 | 0| 
+| 20230415T08:33:18Z | Fuzz testing and hacking Ethereum Name services | https://github.com/brohamgoham/bug-bounty-ens | 0 | 0| 
+| 20230415T07:29:38Z | Null | https://github.com/cyber-bytezz/HTTPS-Fuzzing | 0 | 0| 
+| 20230415T07:19:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8571 | 1874| 
 | 20230415T00:22:02Z | Null | https://github.com/frenchn1/fuzzy-broccoli | 0 | 0| 
 | 20230414T23:22:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3528 | 422| 
 | 20230414T23:16:37Z | Null | https://github.com/RichanOreta/fuzzy-guide | 0 | 0| 
 | 20230414T22:47:52Z | Null | https://github.com/charlesqp/FUZZY_Controle_Carrinho | 0 | 0| 
-| 20230414T22:34:17Z | sample web pages to optimize front-end development | https://github.com/taremwa/fuzzy-web-pages | 0 | 0| 
-| 20230414T20:57:22Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 84| 
-| 20230414T20:52:27Z | Null | https://github.com/cindylou9/fuzzy-octo-goggles | 0 | 0| 
-| 20230414T20:46:10Z | Null | https://github.com/google/fuzztest | 258 | 19| 
-| 20230414T19:36:34Z | Null | https://github.com/cwinters87/fuzzy-giggle | 0 | 0| 
 
 
 
