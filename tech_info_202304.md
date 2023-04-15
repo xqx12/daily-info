@@ -46,21 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230414T23:44:41Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
+| 20230414T19:42:50Z | CVE-2023-21554 | Proof of Concept for Windows Message Queuing also known as CVE-2023-21554 | https://github.com/xhshes/CVE-2023-21554-QueueJumper | | 
+| 20230414T18:25:38Z | cve-2021-29447 | Null | https://github.com/zeroch1ll/cve-2021-29447 | | 
+| 20230414T17:26:04Z | CVE-2022-46169 | Fixed exploit for CVE-2022-46169 (originally from https://www.exploit-db.com/exploits/51166) | https://github.com/icebreack/CVE-2022-46169 | | 
+| 20230414T15:41:13Z | CVE-2023-28615 | Null | https://github.com/YSaxon/CVE-2023-28615 | | 
 | 20230414T12:49:26Z | CVE-2022-41099 | Null | https://github.com/dsn1321/KB5025175-CVE-2022-41099 | | 
 | 20230414T12:47:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/tonarni/CVE-2023-21554-RCE | | 
 | 20230414T11:34:33Z | CVE-2023-21554 | RCE Module for the Windows Message Queuing vulnerability | https://github.com/00hshmakr/CVE-2023-21554 | | 
 | 20230414T07:36:47Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
-| 20230414T05:17:14Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 | 20230413T22:58:56Z | CVE-2022-3236 | A code injection vulnerability in the User Portal and Web Admin Portal allows a remote attacker to execute code in a Sophos Firewall. | https://github.com/Sophos-PSIRT-REPO/CVE-2022-3236 | | 
-| 20230413T22:58:39Z | CVE-2022-31789 | An integer overflow in WatchGuard Firebox and XTM appliances allows an unauthenticated remote attacker to trigger a buffer overflow and potentially execute arbitrary code by sending a malicious request to exposed management ports... | https://github.com/Watchguard-PSIRT-REPO/CVE-2022-31789 | | 
-| 20230413T22:58:16Z | CVE-2022-42889 | A critical TEXT4SHELL Apache vulnerability in SonicWall interfaces may allow a remote unauthenticated attacker to execute arbitrary code and take full control of the impacted Product... | https://github.com/Sonicwall-PSIRT-REPO/CVE-2022-42889 | | 
-| 20230413T22:57:46Z | CVE-2022-0030 | An authentication bypass vulnerability in the Palo Alto Networks web interface allows a network-based attacker to impersonate an existing PAN-OS administrator and perform privileged actions... | https://github.com/PaloAlto-PSIRT-REPO/CVE-2022-0030 | | 
-| 20230413T22:57:30Z | CVE-2022-20928 | A critical vulnerability in the authentication and authorization flows for VPN connections in Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software allows an unauthenticated, remote attacker to establish a connection as a different user... | https://github.com/Cisco-PSIRT-Repo/CVE-2022-20928 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T15:45:06Z | Null | https://github.com/marco-spallone/JavaTestKleecks | 0 | 0| 
+| 20230414T13:31:37Z | Null | https://github.com/cowboymalboro1884/HuaweiKLEETest | 0 | 0| 
 | 20230413T21:21:27Z | Null | https://github.com/KleeAIO/klee_spelldata | 1 | 0| 
 | 20230413T15:10:03Z | Null | https://github.com/marco-spallone/VueTestKleecks | 0 | 0| 
 | 20230413T07:38:42Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20230412T04:11:00Z | A discord bot clone for a certain anime game fan discord server | https://github.com/Tiffceet/klee | 0 | 0| 
 | 20230411T15:34:43Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20230411T12:22:15Z | Null | https://github.com/Simone404/kleeksBE | 0 | 0| 
-| 20230410T01:37:24Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 8 | 0| 
-| 20230409T18:58:30Z | Null | https://github.com/EliasPeeters/kleeschulte-landing-page | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T22:35:24Z | Null | https://github.com/PYTERSELAPHIELDRACO777999/EXPLOITCVE-2023-26110BUFFEROVERFLOW | 1 | 0| 
+| 20230414T22:01:17Z | Null | https://github.com/JDOGGITHUB/exploits | 0 | 0| 
+| 20230414T21:46:33Z | Exploit Swagger UI - User Interface (UI) Misrepresentation of Critical Information (CVE-2018-25031) | https://github.com/rafaelcintralopes/SwaggerUI-CVE-2018-25031 | 1 | 0| 
+| 20230414T21:35:05Z | Physics simulation of gravity using torch and exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Gravity_Python_GPU | 0 | 0| 
+| 20230414T20:54:53Z | XPTOOLS used for roblox exploitings (DONT NOT USE YOURE ACCOUNT IT WIL BE BANNED OR DELETED ACCOUNT USE INTAND OF ALT ACCOUNT ) ofcousre its used for personaily | https://github.com/malik1447/MorgExpXptools | 1 | 0| 
+| 20230414T20:22:22Z | XPTOOLS used for roblox exploites  | https://github.com/malik1447/file-XPtools | 0 | 0| 
+| 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
+| 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
+| 20230414T17:48:54Z | Null | https://github.com/H3XWasNotFound/Switch-Exploit | 0 | 0| 
 | 20230414T11:33:40Z | Resolução e comentários sobre o roteiro Metasploitable 2 (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) | https://github.com/ekarani/my-metasploitable-resolution | 0 | 0| 
-| 20230414T09:48:31Z | This is a smartcontract framework made to follow up plant evolution in a exploitation, a lab, a garden | https://github.com/PierreDaguier/CryptoCactus | 0 | 0| 
-| 20230414T08:38:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5083 | 728| 
-| 20230414T08:11:27Z | Lab write-ups from RPISEC | https://github.com/bonzer66/Modern-Binary-Exploitation | 0 | 0| 
-| 20230414T07:03:33Z | 渗透测试之突破口 , 常见打点及漏洞利用 | https://github.com/mwb0350/PentestVulnerabilityExploit | 0 | 0| 
-| 20230414T06:28:48Z | Null | https://github.com/minhthang1410/ExploitEmapApp | 0 | 1| 
-| 20230414T05:40:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4869 | 963| 
-| 20230414T01:58:42Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 951 | 193| 
-| 20230414T01:19:29Z | A WRD exploit though I am looking for a new API that is not WRD | https://github.com/RaifQuartz/QuartzExploit | 0 | 0| 
-| 20230414T01:08:26Z | Chesskid exploit for 5000+ elo | https://github.com/izzi-owo/ChessKid-Spammer | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,13 +116,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T20:57:22Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 84| 
+| 20230414T19:16:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1053 | 129| 
+| 20230414T19:15:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 554 | 36| 
+| 20230414T16:31:08Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 75 | 2| 
 | 20230414T03:06:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3400 | 479| 
-| 20230413T20:28:11Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1052 | 129| 
-| 20230413T19:27:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 74 | 2| 
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
-| 20230413T08:10:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 553 | 36| 
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
-| 20230411T23:06:13Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 754 | 84| 
 | 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
 | 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
 | 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T23:16:37Z | Null | https://github.com/RichanOreta/fuzzy-guide | 0 | 0| 
+| 20230414T22:47:52Z | Null | https://github.com/charlesqp/FUZZY_Controle_Carrinho | 0 | 0| 
+| 20230414T22:34:17Z | sample web pages to optimize front-end development | https://github.com/taremwa/fuzzy-web-pages | 0 | 0| 
+| 20230414T20:57:22Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 84| 
+| 20230414T20:52:27Z | Null | https://github.com/cindylou9/fuzzy-octo-goggles | 0 | 0| 
+| 20230414T20:46:10Z | Null | https://github.com/google/fuzztest | 258 | 19| 
+| 20230414T19:36:34Z | Null | https://github.com/cwinters87/fuzzy-giggle | 0 | 0| 
+| 20230414T17:10:16Z | The project of ABC | https://github.com/whylucify1/ABC-Fuzzy-string | 0 | 1| 
+| 20230414T16:56:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8568 | 1874| 
 | 20230414T12:53:23Z | Fork of gitlab.com/nargarawr/fuzz | https://github.com/SirHall/javascript-fuzzylogic | 0 | 0| 
-| 20230414T12:46:20Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 759 | 106| 
-| 20230414T12:24:17Z | BugOSS: A Regression Bug Benchmark for Evaluating Fuzzing Techniques | https://github.com/ARISE-Handong/BugOss | 0 | 0| 
-| 20230414T10:47:45Z | Vollständige Code Dateien zum Fuzzy Projekt | https://github.com/Crowely99/Fuzzy-Regelung | 0 | 0| 
-| 20230414T10:15:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8566 | 1873| 
-| 20230414T08:53:26Z | Null | https://github.com/ivanzhelyazkov/fuzzing-solidity | 0 | 0| 
-| 20230414T08:24:45Z | Null | https://github.com/anonymous-33124/EnclaveFuzz | 0 | 0| 
-| 20230414T03:26:45Z | Implementasi metode Fuzzy Tahani dalam sistem pendukung pemilihan smartphone berbasis web. | https://github.com/wdprsto/Fuzzy-Tahani-Pendukung-Pemilihan-Smartphone | 1 | 0| 
-| 20230414T03:15:08Z | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 53 | 23| 
-| 20230414T03:07:22Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2061 | 263| 
 
 
 
