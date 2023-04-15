@@ -101,6 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
+| 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
 | 20230414T12:11:16Z | Null | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 | 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
 | 20230414T05:47:37Z | A backdoor that%s use Telegram as a C2 server. | https://github.com/boz3r/Hellcat | 0 | 1| 
@@ -109,8 +111,6 @@
 | 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
 | 20230413T19:10:47Z | Null | https://github.com/Anthonypssantos/C2-com-Backdoor | 0 | 0| 
 | 20230413T15:53:15Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 242 | 67| 
-| 20230413T15:11:11Z | Null | https://github.com/FurryBoyYT/backdoor | 0 | 0| 
-| 20230413T13:55:34Z | Command and Control framework for post-exploitation. (ALPHA v0.0.3) | https://github.com/Fathedd/InvasionC2Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
