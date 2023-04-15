@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
 | 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20230414T05:32:45Z | a backdoor and a listener to access ,upload, download and delete files. also to execute system commands and to read the output using python | https://github.com/RishiKumarGade/listener-backdoor | 0 | 0| 
 | 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
 | 20230413T19:15:29Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/vernamlab/rowhammer-backdoor | 3 | 0| 
-| 20230413T19:10:47Z | Null | https://github.com/Anthonypssantos/C2-com-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,9 +123,9 @@
 | 20230414T03:06:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3400 | 479| 
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
+| 20230411T12:12:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 632 | 114| 
 | 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
 | 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
-| 20230408T11:51:09Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 39 | 8| 
 
 
 # big4 on Github 推荐
