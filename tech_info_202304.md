@@ -95,7 +95,7 @@
 | 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
 | 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
 | 20230414T17:48:54Z | Null | https://github.com/H3XWasNotFound/Switch-Exploit | 0 | 0| 
-| 20230414T11:33:40Z | Resolução e comentários sobre o roteiro Metasploitable 2 (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) | https://github.com/ekarani/my-metasploitable-resolution | 0 | 0| 
+| 20230414T15:37:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 418 | 84| 
 
 
 # backdoor on Github 推荐
