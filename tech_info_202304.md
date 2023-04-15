@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T01:21:15Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Rayynnnz/BlackWidow-BloodHunt | 0 | 0| 
 | 20230415T01:14:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Rayynnnz/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230415T00:22:59Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 62 | 6| 
 | 20230414T22:35:24Z | Null | https://github.com/PYTERSELAPHIELDRACO777999/EXPLOITCVE-2023-26110BUFFEROVERFLOW | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230414T20:54:53Z | XPTOOLS used for roblox exploitings (DONT NOT USE YOURE ACCOUNT IT WIL BE BANNED OR DELETED ACCOUNT USE INTAND OF ALT ACCOUNT ) ofcousre its used for personaily | https://github.com/malik1447/MorgExpXptools | 1 | 0| 
 | 20230414T20:22:22Z | XPTOOLS used for roblox exploites  | https://github.com/malik1447/file-XPtools | 0 | 0| 
 | 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
-| 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
 
 
 # backdoor on Github 推荐
