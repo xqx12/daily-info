@@ -53,7 +53,7 @@
 | 20230414T19:42:17Z | A simple answer hack for Deltamath that exploits authorization key. | https://github.com/flowingsalt/Deltamath-Bot | 0 | 0| 
 | 20230414T18:03:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5460 | 750| 
 | 20230414T17:48:54Z | Null | https://github.com/H3XWasNotFound/Switch-Exploit | 0 | 0| 
-| 20230414T16:51:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4869 | 963| 
+| 20230414T17:01:14Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 176 | 7| 
 
 
 # backdoor on Github 推荐
