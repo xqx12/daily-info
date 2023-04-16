@@ -14,11 +14,13 @@
 | 20230415 | 跨越语言的艺术：Weblogic序列化漏洞与IIOP协议 | https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ| 
 | 20230415 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw| 
 | 20230415 | 从JS到内网横向 | https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA| 
+| 20230415 | 精简JS应用:一种去除JavaScript库中未使用函数的方法 | https://mp.weixin.qq.com/s/AbTOA-tW24tnqC6A12MC5A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
 | 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
 | 20230415T08:59:04Z | CVE-2023-21839 | Null | https://github.com/houqe/POC_CVE-2023-21839 | | 
 | 20230415T08:47:58Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
@@ -54,6 +56,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T18:25:28Z | PHP backdoor | https://github.com/adilhyz/bd | 0 | 0| 
+| 20230415T18:22:53Z | Null | https://github.com/dhruv-gundecha/csfl_ia2_backdoor | 0 | 0| 
 | 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 

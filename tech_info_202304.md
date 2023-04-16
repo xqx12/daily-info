@@ -34,18 +34,19 @@
 | 20230415 | 跨越语言的艺术：Weblogic序列化漏洞与IIOP协议 | https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ| 
 | 20230415 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw| 
 | 20230415 | 从JS到内网横向 | https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA| 
+| 20230415 | 精简JS应用:一种去除JavaScript库中未使用函数的方法 | https://mp.weixin.qq.com/s/AbTOA-tW24tnqC6A12MC5A| 
 | 20230414 | 利用语义分析和代码审计实现数据治理左移 | https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ| 
 | 20230414 | 公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg| 
 | 20230413 | ChatGPT等新一代人工智能技术的社会影响及其治理 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA| 
 | 20230413 | RedGoBot 团伙武器库更新并转向暗网 | https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A| 
 | 20230413 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg| 
 | 20230413 | 2022软件工程领域顶会fuzz技术研究相关论文汇总 | https://mp.weixin.qq.com/s/n7nrfoZcJXtMEKitkOL5rA| 
-| 20230413 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
 | 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
 | 20230415T08:59:04Z | CVE-2023-21839 | Null | https://github.com/houqe/POC_CVE-2023-21839 | | 
 | 20230415T08:47:58Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
@@ -55,7 +56,6 @@
 | 20230414T18:25:38Z | cve-2021-29447 | Null | https://github.com/zeroch1ll/cve-2021-29447 | | 
 | 20230414T17:26:04Z | CVE-2022-46169 | Fixed exploit for CVE-2022-46169 (originally from https://www.exploit-db.com/exploits/51166) | https://github.com/icebreack/CVE-2022-46169 | | 
 | 20230414T15:41:13Z | CVE-2023-28615 | Null | https://github.com/YSaxon/CVE-2023-28615 | | 
-| 20230414T12:49:26Z | CVE-2022-41099 | Null | https://github.com/dsn1321/KB5025175-CVE-2022-41099 | | 
 
 
 # klee on Github 推荐
@@ -101,6 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T18:25:28Z | PHP backdoor | https://github.com/adilhyz/bd | 0 | 0| 
+| 20230415T18:22:53Z | Null | https://github.com/dhruv-gundecha/csfl_ia2_backdoor | 0 | 0| 
 | 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20230414T12:11:16Z | Null | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 | 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
 | 20230414T05:47:37Z | A backdoor that%s use Telegram as a C2 server. | https://github.com/boz3r/Hellcat | 0 | 1| 
-| 20230414T05:32:45Z | a backdoor and a listener to access ,upload, download and delete files. also to execute system commands and to read the output using python | https://github.com/RishiKumarGade/listener-backdoor | 0 | 0| 
-| 20230414T03:49:37Z | Null | https://github.com/SCLBD/BackdoorBench | 129 | 20| 
 
 
 # symbolic execution on Github 推荐
