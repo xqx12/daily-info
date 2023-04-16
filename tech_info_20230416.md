@@ -35,6 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230416T11:53:41Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2364 | 157| 
 | 20230416T11:15:56Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 0 | 0| 
+| 20230416T11:00:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4874 | 963| 
 | 20230416T10:31:35Z | loadstring(game:HttpGet(%https://raw.githubusercontent.com/checkm4te8/Exploit-Scripts/main/HydroHub/Loader.lua%, true))() | https://github.com/githubisthebestwebsitever/doorsscript-Dit-nhau.com | 0 | 0| 
 | 20230416T10:10:00Z | proof of concepts of DeFi exploits | https://github.com/0xaw128/defi-exploits | 0 | 0| 
 | 20230416T10:05:32Z | Bluetooth speaker killer | https://github.com/0xbitx/DEDSEC-Bluetooth-exploit | 2 | 0| 
@@ -42,7 +43,6 @@
 | 20230416T07:28:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 23 | 7| 
 | 20230416T01:41:33Z | Currently just a test to take me to chrome://extensions inside a hacked webapp from the chrome webstore, unfinished | https://github.com/natepowers2009/Exploit-Test | 0 | 0| 
 | 20230416T01:30:31Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4931 | 391| 
-| 20230416T01:19:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 47 | 0| 
 
 
 # backdoor on Github 推荐
