@@ -86,9 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T00:40:42Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Qameddz/BlackWidow-BloodHunt | 46 | 0| 
 | 20230416T00:33:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4930 | 391| 
 | 20230416T00:29:55Z | An very simple robox executor made by MJs | https://github.com/Qameddz/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230416T00:26:35Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Qameddz/BlackWidow-BloodHunt | 0 | 0| 
 | 20230416T00:19:52Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230415T22:23:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5486 | 646| 
 | 20230415T22:15:51Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheats-Roblox | 0 | 0| 
