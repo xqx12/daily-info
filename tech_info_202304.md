@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T22:23:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5486 | 646| 
+| 20230415T22:15:51Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheats-Roblox | 0 | 0| 
+| 20230415T22:12:31Z | Just another write NULL exploit | https://github.com/Exploitables/CVE-2009-0824 | 1 | 0| 
+| 20230415T20:57:27Z | A repository containing the simplest descriptions of exploits used in attacks on Active Directory. | https://github.com/lippipuppy/AD-Exploits-Overview | 0 | 0| 
+| 20230415T14:56:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 17 | 3| 
+| 20230415T14:52:06Z | A set of tested profiles for Windows Exploit Protection | https://github.com/Strana-Mechty/ExploitProtection-Templates | 0 | 0| 
+| 20230415T14:39:31Z | Null | https://github.com/cmclient/ShadowExploit | 0 | 0| 
 | 20230415T12:50:12Z | A (web) exploit framework in Python | https://github.com/cfreal/ten | 0 | 0| 
 | 20230415T12:47:39Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2018-3149 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 | 20230415T12:41:05Z | Play with ChatGPT-Web and found the HTML rendering in description settings. | https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse | 0 | 0| 
-| 20230415T12:38:57Z | An very simple robox executor made by MJs | https://github.com/Adamiccoz/Roblox-Exploit-Launcher | 0 | 0| 
-| 20230415T12:35:39Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Adamiccoz/BlackWidow-BloodHunt | 0 | 0| 
-| 20230415T12:31:00Z | Exploiting BrainPan.exe and gaining Reverse Shell Access | https://github.com/0MrError0/BufferOverflowGuide | 0 | 0| 
-| 20230415T12:29:00Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Adamiccoz/Lua-SirHurt-Exploit- | 0 | 0| 
-| 20230415T11:34:04Z | ROBLOX Universal ESP Module | https://github.com/Exunys/Exunys-ESP | 0 | 0| 
-| 20230415T06:12:30Z | Test exploit for the Skillable Lab for solving all steps using a webhook. | https://github.com/Brainhub24/Skillable-Exploit | 0 | 0| 
-| 20230415T05:47:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4872 | 963| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230415T11:02:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3401 | 479| 
+| 20230415T23:05:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3402 | 479| 
+| 20230415T15:22:37Z | LLVMTestM8: automated unit test generation using symbolic execution on LLVM. | https://github.com/csum112/LLVMTestM8 | 0 | 0| 
 | 20230414T20:57:22Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 85| 
 | 20230414T19:16:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1053 | 129| 
 | 20230414T19:15:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 554 | 36| 
@@ -125,13 +126,12 @@
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
 | 20230411T12:12:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 632 | 114| 
 | 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
-| 20230409T11:00:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 241 | 30| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230415T08:36:17Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 632 | 99| 
+| 20230415T21:22:59Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 633 | 99| 
 | 20230414T00:22:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 53 | 5| 
 | 20230412T06:32:58Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 10 | 2| 
 | 20230411T15:05:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 23 | 2| 
