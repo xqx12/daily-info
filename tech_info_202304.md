@@ -144,8 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T12:03:31Z | Web spider, fuzz a website to find subpages | https://github.com/Tech0ne/Spider | 0 | 0| 
 | 20230416T11:48:52Z | Null | https://github.com/fsugiharto/fuzzy-carnival | 0 | 0| 
-| 20230416T11:41:43Z | Web spider, fuzz a website to find subpages | https://github.com/Tech0ne/Spider | 0 | 0| 
 | 20230416T11:11:34Z | Null | https://github.com/Betinka/fuzzy-palm-tree | 0 | 0| 
 | 20230416T10:29:58Z | The description of the dataset of prospect theory-based generalized intuitionistic fuzzy three-way decision model | https://github.com/zhxmn/The-prospect-theory-based-generalized-intuitionistic-fuzzy-three-way-decision-model | 0 | 0| 
 | 20230416T10:07:15Z | Null | https://github.com/Kinddle-tick/FuzzyLogic | 0 | 0| 
