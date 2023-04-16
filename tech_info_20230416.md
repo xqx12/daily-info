@@ -48,6 +48,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T12:44:36Z | Null | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
 | 20230416T07:30:20Z | In this section, we provide a recurrence of some backdoor attacks, including: badnet, blended, wanet, ISSBA | https://github.com/lee3yearsold/Backdoor_Attacks_Recurrence | 0 | 0| 
 
 

@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T12:44:36Z | Null | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
 | 20230416T07:30:20Z | In this section, we provide a recurrence of some backdoor attacks, including: badnet, blended, wanet, ISSBA | https://github.com/lee3yearsold/Backdoor_Attacks_Recurrence | 0 | 0| 
 | 20230415T20:02:16Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 7 | 0| 
 | 20230415T18:25:28Z | PHP backdoor | https://github.com/adilhyz/bd | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
 | 20230414T16:51:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2047 | 829| 
-| 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
