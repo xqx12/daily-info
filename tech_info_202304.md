@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T00:19:52Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230415T22:23:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5486 | 646| 
 | 20230415T22:15:51Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheats-Roblox | 0 | 0| 
 | 20230415T22:12:31Z | Just another write NULL exploit | https://github.com/Exploitables/CVE-2009-0824 | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230415T14:52:06Z | A set of tested profiles for Windows Exploit Protection | https://github.com/Strana-Mechty/ExploitProtection-Templates | 0 | 0| 
 | 20230415T14:39:31Z | Null | https://github.com/cmclient/ShadowExploit | 0 | 0| 
 | 20230415T12:50:12Z | A (web) exploit framework in Python | https://github.com/cfreal/ten | 0 | 0| 
-| 20230415T12:47:39Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2018-3149 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 
 
 # backdoor on Github 推荐
