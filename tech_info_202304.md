@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230416T11:53:41Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2364 | 157| 
+| 20230416T12:40:56Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2365 | 157| 
 | 20230416T11:15:56Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 0 | 0| 
 | 20230416T11:00:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4874 | 963| 
 | 20230416T10:31:35Z | loadstring(game:HttpGet(%https://raw.githubusercontent.com/checkm4te8/Exploit-Scripts/main/HydroHub/Loader.lua%, true))() | https://github.com/githubisthebestwebsitever/doorsscript-Dit-nhau.com | 0 | 0| 
