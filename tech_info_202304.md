@@ -106,7 +106,7 @@
 | 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 | 20230415T00:28:47Z | Null | https://github.com/alphaace969/backdoor | 0 | 0| 
 | 20230414T17:34:16Z | Null | https://github.com/r-a303931/pcap-backdoor | 0 | 0| 
-| 20230414T16:51:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2047 | 828| 
+| 20230414T16:51:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2047 | 829| 
 | 20230414T15:02:39Z | Simple python backdoor | https://github.com/ZLCube/Backdoor | 0 | 0| 
 | 20230414T12:11:16Z | Null | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 | 20230414T07:08:39Z | Null | https://github.com/mmwan101010/DeafBackdoor | 0 | 0| 
