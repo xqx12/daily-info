@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T01:30:59Z | Currently just a test to take me to chrome://extensions inside a hacked webapp from the chrome webstore, unfinished | https://github.com/natepowers2009/Exploit-Test | 0 | 0| 
+| 20230416T01:30:31Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4931 | 391| 
 | 20230416T01:19:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 47 | 0| 
 | 20230416T00:46:22Z | An very simple robox executor made by MJs | https://github.com/Qameddz/Roblox-Exploit-Launcher | 46 | 0| 
 | 20230416T00:40:42Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Qameddz/BlackWidow-BloodHunt | 46 | 0| 
-| 20230416T00:33:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4930 | 391| 
 | 20230415T22:23:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5486 | 646| 
 | 20230415T22:15:51Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheats-Roblox | 0 | 0| 
 | 20230415T22:12:31Z | Just another write NULL exploit | https://github.com/Exploitables/CVE-2009-0824 | 1 | 0| 
 | 20230415T20:57:27Z | A repository containing the simplest descriptions of exploits used in attacks on Active Directory. | https://github.com/lippipuppy/AD-Exploits-Overview | 0 | 0| 
 | 20230415T18:58:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 419 | 84| 
-| 20230415T14:59:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4873 | 963| 
 
 
 # backdoor on Github 推荐
