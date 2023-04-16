@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T00:26:35Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Qameddz/BlackWidow-BloodHunt | 0 | 0| 
 | 20230416T00:19:52Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 0 | 0| 
 | 20230415T22:23:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5486 | 646| 
 | 20230415T22:15:51Z | All-Rounded Anti Exploits (Paid Anti Exploits) | https://github.com/sinkZq/Anti-Cheats-Roblox | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230415T14:56:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 17 | 3| 
 | 20230415T14:52:06Z | A set of tested profiles for Windows Exploit Protection | https://github.com/Strana-Mechty/ExploitProtection-Templates | 0 | 0| 
 | 20230415T14:39:31Z | Null | https://github.com/cmclient/ShadowExploit | 0 | 0| 
-| 20230415T12:50:12Z | A (web) exploit framework in Python | https://github.com/cfreal/ten | 0 | 0| 
 
 
 # backdoor on Github 推荐
