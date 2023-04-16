@@ -46,11 +46,11 @@
 | 20230415T22:12:31Z | Just another write NULL exploit | https://github.com/Exploitables/CVE-2009-0824 | 1 | 0| 
 | 20230415T20:57:27Z | A repository containing the simplest descriptions of exploits used in attacks on Active Directory. | https://github.com/lippipuppy/AD-Exploits-Overview | 0 | 0| 
 | 20230415T18:58:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 419 | 84| 
+| 20230415T14:59:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4873 | 963| 
 | 20230415T14:56:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 17 | 3| 
 | 20230415T14:52:06Z | A set of tested profiles for Windows Exploit Protection | https://github.com/Strana-Mechty/ExploitProtection-Templates | 0 | 0| 
 | 20230415T14:39:31Z | Null | https://github.com/cmclient/ShadowExploit | 0 | 0| 
 | 20230415T12:50:12Z | A (web) exploit framework in Python | https://github.com/cfreal/ten | 0 | 0| 
-| 20230415T12:47:39Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2018-3149 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 
 
 # backdoor on Github 推荐
