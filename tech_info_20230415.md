@@ -78,14 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230415T22:21:51Z | Null | https://github.com/crowfroggie09/fuzzy-invention | 0 | 0| 
+| 20230415T19:55:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8572 | 1874| 
+| 20230415T19:24:42Z | This project uses fuzzy logic to predict what percentage of tip a customer is likely to give based on the quality of food and service they receive. | https://github.com/AyseNurErdogan13/Restaurant-Tip-Estimation-With-Fuzzy-Logic | 0 | 0| 
+| 20230415T17:39:19Z | Null | https://github.com/kokodavid/fuzzy_trivia | 0 | 0| 
+| 20230415T14:22:56Z | Null | https://github.com/SClovesgtx/fuzzCy | 0 | 0| 
 | 20230415T12:24:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3600 | 721| 
 | 20230415T11:08:31Z | Null | https://github.com/Fuzelador/Fuzzy | 0 | 0| 
 | 20230415T10:26:00Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 5 | 0| 
 | 20230415T08:51:49Z | Null | https://github.com/HARIHARANKR1996/Fuzz_MAXX | 0 | 0| 
 | 20230415T08:33:18Z | Fuzz testing and hacking Ethereum Name services | https://github.com/brohamgoham/bug-bounty-ens | 0 | 0| 
-| 20230415T07:29:38Z | Null | https://github.com/cyber-bytezz/HTTPS-Fuzzing | 0 | 0| 
-| 20230415T07:19:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8571 | 1874| 
-| 20230415T00:22:02Z | Null | https://github.com/frenchn1/fuzzy-broccoli | 0 | 0| 
 
 
 
