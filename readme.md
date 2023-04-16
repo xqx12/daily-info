@@ -54,6 +54,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T09:49:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 555 | 36| 
 
 
 # big4 on Github 推荐
