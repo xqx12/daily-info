@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230416T01:30:59Z | Currently just a test to take me to chrome://extensions inside a hacked webapp from the chrome webstore, unfinished | https://github.com/natepowers2009/Exploit-Test | 0 | 0| 
+| 20230416T01:39:52Z | Currently just a test to take me to chrome://extensions inside a hacked webapp from the chrome webstore, unfinished | https://github.com/natepowers2009/Exploit-Test | 0 | 0| 
 | 20230416T01:30:31Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 4931 | 391| 
 | 20230416T01:19:33Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Qameddz/Lua-SirHurt-Exploit- | 47 | 0| 
 | 20230416T00:46:22Z | An very simple robox executor made by MJs | https://github.com/Qameddz/Roblox-Exploit-Launcher | 46 | 0| 
