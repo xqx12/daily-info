@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:30:48Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
 | 20230417T01:24:16Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 2 | 0| 
 | 20230417T01:23:39Z | Null | https://github.com/gabril09/Fuzzy-Sakamoto | 0 | 0| 
 | 20230417T00:26:40Z | Null | https://github.com/JackQiu09/CervicalFuzzyDistanceEnsemble-main | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230416T21:11:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8576 | 1875| 
 | 20230416T20:13:03Z | Null | https://github.com/LeoMarinaro/TrabFuzzy | 0 | 0| 
 | 20230416T16:49:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3532 | 423| 
-| 20230416T16:41:47Z | Fuzzy Search Algorithms | https://github.com/RoadSigns/fuzzy | 0 | 0| 
 
 
 
