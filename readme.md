@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T12:15:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1354 | 192| 
 | 20230417T11:19:26Z | erlfuzz is a small standalone generator of random erlang programs used to fuzz the erlang compiler and VM, as well as other tools such as erlfmt, dialyzer, eqWAlizer, etc... It does not currently use coverage information or do anything especially clever, except for carefully handling Erlang%s scoping rules. | https://github.com/WhatsApp/erlfuzz | 5 | 0| 
 | 20230417T11:11:51Z | Null | https://github.com/ProLupin/fuzzy-octo-potato | 0 | 0| 
 | 20230417T11:04:56Z | Cancer Classification | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection-Code | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20230417T09:55:42Z | Null | https://github.com/praveenmv93/fuzzy-fortnight | 0 | 0| 
 | 20230417T05:37:02Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1398 | 102| 
 | 20230417T01:30:48Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
-| 20230417T01:24:16Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 2 | 0| 
 
 
 
