@@ -65,11 +65,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T11:29:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2211 | 612| 
+| 20230417T07:07:38Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
+| 20230417T02:49:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3403 | 479| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T05:32:52Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 634 | 99| 
 
 
 # fuzz on Github 推荐
