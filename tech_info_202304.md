@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230417T12:23:57Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/10xeye/CVE-2023-21554-POC | | 
 | 20230417T08:01:10Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T04:02:12Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 | 20230417T01:49:45Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
@@ -55,7 +56,6 @@
 | 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
 | 20230415T08:59:04Z | CVE-2023-21839 | Null | https://github.com/houqe/POC_CVE-2023-21839 | | 
 | 20230415T06:39:20Z | CVE-2023-123456 | Null | https://github.com/yrtsec/CVE-2023-123456 | | 
-| 20230415T06:29:47Z | CVE-2023-999991 | Null | https://github.com/yrtsec/CVE-2023-999991_2 | | 
 
 
 # klee on Github 推荐
@@ -153,7 +153,7 @@
 | 20230417T10:12:56Z | Null | https://github.com/jlcsub31/fuzzy-logic-cruise-control | 0 | 0| 
 | 20230417T09:55:42Z | Null | https://github.com/praveenmv93/fuzzy-fortnight | 0 | 0| 
 | 20230417T05:37:02Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1398 | 102| 
-| 20230417T01:30:48Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
+| 20230417T05:10:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8576 | 1875| 
 
 
 
