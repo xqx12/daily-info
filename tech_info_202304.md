@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:32:29Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
 | 20230417T01:21:27Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230417T01:19:02Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T00:29:30Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
@@ -55,7 +56,6 @@
 | 20230415T08:47:58Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 | 20230415T06:39:20Z | CVE-2023-123456 | Null | https://github.com/yrtsec/CVE-2023-123456 | | 
 | 20230415T06:29:47Z | CVE-2023-999991 | Null | https://github.com/yrtsec/CVE-2023-999991_2 | | 
-| 20230414T19:42:50Z | CVE-2023-21554 | Proof of Concept for Windows Message Queuing also known as CVE-2023-21554 | https://github.com/xhshes/CVE-2023-21554-QueueJumper | | 
 
 
 # klee on Github 推荐
