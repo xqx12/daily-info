@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:50:56Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T01:49:45Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
-| 20230417T01:45:38Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T01:21:27Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230417T00:29:30Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
 | 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
