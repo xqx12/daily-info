@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T00:04:40Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2374 | 158| 
 | 20230416T23:59:52Z | Null | https://github.com/comet3456998765/ExploitsSupporteds | 0 | 0| 
-| 20230416T23:01:29Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2373 | 158| 
 | 20230416T22:58:17Z | Physics simulation of gravity using torch and exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Gravity_Python_GPU | 1 | 0| 
 | 20230416T22:48:13Z | A (small) web exploit framework | https://github.com/cfreal/ten | 5 | 1| 
 | 20230416T22:44:46Z | I don%t know  | https://github.com/Mardce1o/Windows-Kernel-Exploitaiton-Materials- | 0 | 0| 
