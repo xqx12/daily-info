@@ -144,8 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:13:01Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 1 | 0| 
 | 20230417T00:26:40Z | Null | https://github.com/JackQiu09/CervicalFuzzyDistanceEnsemble-main | 0 | 0| 
-| 20230417T00:11:23Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 0 | 0| 
 | 20230416T22:18:23Z | FUTAG (FUzzing Target Automated Generator) - автоматический генератор фаззинг-оберток для библиотек | https://github.com/ispras/Futag | 42 | 7| 
 | 20230416T22:11:45Z | Null | https://github.com/RezaAaban/fuzzy-octo-umbrella | 0 | 0| 
 | 20230416T21:14:07Z | Structures of the data and the information reuse based in-memory fuzzing | https://github.com/dalvarezperez/in-memory-fuzzer | 0 | 0| 
