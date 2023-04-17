@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T00:17:13Z | Null | https://github.com/JackQiu09/CervicalFuzzyDistanceEnsemble-main | 0 | 0| 
 | 20230417T00:11:23Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 0 | 0| 
 | 20230416T22:18:23Z | FUTAG (FUzzing Target Automated Generator) - автоматический генератор фаззинг-оберток для библиотек | https://github.com/ispras/Futag | 42 | 7| 
 | 20230416T22:11:45Z | Null | https://github.com/RezaAaban/fuzzy-octo-umbrella | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230416T16:49:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3532 | 423| 
 | 20230416T16:41:47Z | Fuzzy Search Algorithms | https://github.com/RoadSigns/fuzzy | 0 | 0| 
 | 20230416T12:39:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1350 | 191| 
-| 20230416T12:03:31Z | Web spider, fuzz a website to find subpages | https://github.com/Tech0ne/Spider | 0 | 0| 
 
 
 
