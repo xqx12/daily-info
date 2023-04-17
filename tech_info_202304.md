@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230417T00:25:16Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
 | 20230417T00:20:31Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230416T21:16:28Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
@@ -55,7 +56,6 @@
 | 20230415T06:39:20Z | CVE-2023-123456 | Null | https://github.com/yrtsec/CVE-2023-123456 | | 
 | 20230415T06:29:47Z | CVE-2023-999991 | Null | https://github.com/yrtsec/CVE-2023-999991_2 | | 
 | 20230414T19:42:50Z | CVE-2023-21554 | Proof of Concept for Windows Message Queuing also known as CVE-2023-21554 | https://github.com/xhshes/CVE-2023-21554-QueueJumper | | 
-| 20230414T18:25:38Z | cve-2021-29447 | Null | https://github.com/zeroch1ll/cve-2021-29447 | | 
 
 
 # klee on Github 推荐
