@@ -43,7 +43,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230417T12:50:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4536 | 571| 
+| 20230417T12:59:01Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0702-app-yzBa2-feel-exploit | 0 | 0| 
+| 20230417T12:57:47Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0622-app-Y-JSC-launch-exploit | 0 | 0| 
+| 20230417T12:53:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4537 | 571| 
 | 20230417T11:57:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5088 | 730| 
 | 20230417T11:53:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4879 | 963| 
 | 20230417T10:12:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-RVzMy-listen-exploit | 0 | 0| 
