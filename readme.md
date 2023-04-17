@@ -61,6 +61,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T18:36:59Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 15 | 8| 
 | 20230416T09:49:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 555 | 36| 
 
 

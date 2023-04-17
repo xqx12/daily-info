@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230416T18:36:59Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 15 | 8| 
 | 20230416T09:49:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 555 | 36| 
 | 20230415T23:05:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3402 | 479| 
 | 20230415T15:22:37Z | LLVMTestM8: automated unit test generation using symbolic execution on LLVM. | https://github.com/csum112/LLVMTestM8 | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20230413T10:25:53Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
 | 20230412T14:03:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2210 | 612| 
 | 20230411T12:12:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 632 | 114| 
-| 20230411T09:16:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
 
 
 # big4 on Github 推荐
