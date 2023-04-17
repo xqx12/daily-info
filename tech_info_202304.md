@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:59:06Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 0 | 0| 
 | 20230417T00:04:40Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2374 | 158| 
 | 20230416T23:59:52Z | Null | https://github.com/comet3456998765/ExploitsSupporteds | 0 | 0| 
 | 20230416T22:58:17Z | Physics simulation of gravity using torch and exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Gravity_Python_GPU | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230416T22:15:08Z | Null | https://github.com/NahnahAmponsah/Exploit-Ent.com | 0 | 0| 
 | 20230416T20:58:42Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 13 | 18| 
 | 20230416T20:33:20Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
-| 20230416T19:16:11Z | A project aims to demonstrate the OWASP API Security Top 10 2019 quickly. | https://github.com/hyp3rd/OWASP-API-Security | 0 | 0| 
 
 
 # backdoor on Github 推荐

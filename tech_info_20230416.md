@@ -42,7 +42,7 @@
 | 20230416T20:58:42Z | unblocked apps and games | https://github.com/RedNotSus/exploits | 13 | 18| 
 | 20230416T20:33:20Z | 💣💥💀 Пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 | 20230416T19:16:11Z | A project aims to demonstrate the OWASP API Security Top 10 2019 quickly. | https://github.com/hyp3rd/OWASP-API-Security | 0 | 0| 
-| 20230416T11:15:56Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 0 | 0| 
+| 20230416T10:31:35Z | loadstring(game:HttpGet(%https://raw.githubusercontent.com/checkm4te8/Exploit-Scripts/main/HydroHub/Loader.lua%, true))() | https://github.com/githubisthebestwebsitever/doorsscript-Dit-nhau.com | 0 | 0| 
 
 
 # backdoor on Github 推荐
