@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:21:27Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230417T01:19:02Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T00:29:30Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
-| 20230416T21:16:28Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
 | 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
 | 20230415T08:59:04Z | CVE-2023-21839 | Null | https://github.com/houqe/POC_CVE-2023-21839 | | 
@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230417T01:22:20Z | Kumpulan Shell Backdoor PHP | https://github.com/noplanalderson/shells | 0 | 0| 
 | 20230416T23:45:29Z | this is K0on! (Neko Backdoor) my first official program :) | https://github.com/Macchimne/K0on | 1 | 0| 
 | 20230416T21:23:09Z | Developing backdoor in python | https://github.com/martin3698753/backdoor | 0 | 0| 
 | 20230416T15:37:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2048 | 830| 
@@ -110,7 +111,6 @@
 | 20230415T18:25:28Z | PHP backdoor | https://github.com/adilhyz/bd | 0 | 0| 
 | 20230415T18:22:53Z | Null | https://github.com/dhruv-gundecha/csfl_ia2_backdoor | 0 | 0| 
 | 20230415T03:23:07Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 3 | 0| 
-| 20230415T00:38:51Z | Totally legal and non-ToS breaking API into backloggery.com | https://github.com/Zaltu/backdoorgery | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
