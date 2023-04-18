@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T00:59:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-jno2J-promote-exploit | 0 | 0| 
 | 20230418T00:34:22Z | chromium desc | https://github.com/ExploitingChromium/ExploitingChromium | 0 | 0| 
 | 20230417T22:17:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4880 | 963| 
 | 20230417T22:02:56Z | Null | https://github.com/MaxCarroll/Staffron-s-Roblox-ExploitPack | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230417T20:18:00Z | A roblox exploit that automates many things in the game Pet Simulator X 3M+ exeutions | https://github.com/rbxcodeg/milkup | 0 | 0| 
 | 20230417T17:46:22Z | Voici notre projet réaliser par Julie PRIGENT et Dorine HENRY (étudiante en L3 informatique parcours MIAGE). | https://github.com/DorineH/Projet_systeme_exploitation_g6 | 0 | 1| 
 | 20230417T12:59:01Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0702-app-yzBa2-feel-exploit | 0 | 0| 
-| 20230417T12:57:47Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0622-app-Y-JSC-launch-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T01:01:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2680 | 185| 
 | 20230418T01:00:21Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 28 | 2| 
 | 20230417T23:20:05Z | A Fuzzy logic app using C#. | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
 | 20230417T21:38:10Z | Null | https://github.com/sundeer/fuzzy-lava | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230417T17:36:17Z | Generates random Netplan YAML files from a JSON schema | https://github.com/daniloegea/netplan-fuzz | 0 | 0| 
 | 20230417T17:10:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 72 | 6| 
 | 20230417T13:14:18Z | Null | https://github.com/google/fuzztest | 262 | 19| 
-| 20230417T12:58:20Z | Easily debug your fuzzer | https://github.com/SonicStark/microBug | 1 | 0| 
 
 
 
