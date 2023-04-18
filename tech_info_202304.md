@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T00:34:22Z | chromium desc | https://github.com/ExploitingChromium/ExploitingChromium | 0 | 0| 
 | 20230417T22:17:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4880 | 963| 
 | 20230417T22:02:56Z | Null | https://github.com/MaxCarroll/Staffron-s-Roblox-ExploitPack | 0 | 0| 
 | 20230417T21:30:21Z | Null | https://github.com/MaxCarroll/Staffron-s-Roblox-Exploit-Pack | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230417T17:46:22Z | Voici notre projet réaliser par Julie PRIGENT et Dorine HENRY (étudiante en L3 informatique parcours MIAGE). | https://github.com/DorineH/Projet_systeme_exploitation_g6 | 0 | 1| 
 | 20230417T12:59:01Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0702-app-yzBa2-feel-exploit | 0 | 0| 
 | 20230417T12:57:47Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0622-app-Y-JSC-launch-exploit | 0 | 0| 
-| 20230417T12:53:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4537 | 571| 
 
 
 # backdoor on Github 推荐
