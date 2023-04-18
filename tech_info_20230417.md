@@ -94,9 +94,9 @@
 | 20230417T20:24:49Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
 | 20230417T18:01:29Z | Null | https://github.com/Elena-Vdovina/fuzzy-goggles | 0 | 0| 
 | 20230417T17:36:17Z | Generates random Netplan YAML files from a JSON schema | https://github.com/daniloegea/netplan-fuzz | 0 | 0| 
+| 20230417T17:10:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 72 | 6| 
 | 20230417T13:14:18Z | Null | https://github.com/google/fuzztest | 262 | 19| 
 | 20230417T12:58:20Z | Easily debug your fuzzer | https://github.com/SonicStark/microBug | 1 | 0| 
-| 20230417T12:15:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1354 | 192| 
 
 
 
