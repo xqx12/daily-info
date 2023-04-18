@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:07:40Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
 | 20230418T11:40:40Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
 | 20230418T10:45:43Z | CVE-2023-27216 | Null | https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection | | 
 | 20230418T06:43:52Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
@@ -55,7 +56,6 @@
 | 20230418T01:22:55Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
 | 20230418T01:13:05Z | CVE-2022-22963 | Null | https://github.com/randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE | | 
 | 20230417T12:23:57Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/10xeye/CVE-2023-21554-POC | | 
-| 20230417T04:02:12Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 
 
 # klee on Github 推荐
