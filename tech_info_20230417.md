@@ -60,7 +60,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230417T23:08:58Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 245 | 69| 
 | 20230417T16:35:12Z | Backdoor | https://github.com/Tinkoprof/AnarchyExploitFixesWithBackdoor | 0 | 0| 
 | 20230417T16:11:12Z | An extension that helps to check if smart contract has a backdoor in it | https://github.com/Sheisuka/TrustIt | 0 | 0| 
 | 20230417T14:05:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 25 | 3| 
