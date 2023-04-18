@@ -72,6 +72,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T10:58:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 321 | 76| 
+| 20230418T10:27:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 633 | 116| 
+| 20230418T06:43:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3403 | 479| 
+| 20230418T03:06:14Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 756 | 85| 
 
 
 # big4 on Github 推荐
