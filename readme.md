@@ -88,7 +88,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230417T23:20:05Z | A Fuzzy logic app using C#. | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
-| 20230417T22:04:19Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 26 | 2| 
 | 20230417T21:38:10Z | Null | https://github.com/sundeer/fuzzy-lava | 0 | 0| 
 | 20230417T21:01:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3534 | 423| 
 | 20230417T20:24:49Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
@@ -97,6 +96,7 @@
 | 20230417T17:10:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 72 | 6| 
 | 20230417T13:14:18Z | Null | https://github.com/google/fuzztest | 262 | 19| 
 | 20230417T12:58:20Z | Easily debug your fuzzer | https://github.com/SonicStark/microBug | 1 | 0| 
+| 20230417T12:15:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1354 | 192| 
 
 
 
