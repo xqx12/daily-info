@@ -52,13 +52,13 @@
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
 | 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 | 20230418T12:20:53Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
+| 20230418T12:20:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4883 | 963| 
 | 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
 | 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
 | 20230418T10:23:27Z | Null | https://github.com/m00moo/AnarchyExploitFixes-rewrite | 0 | 0| 
 | 20230418T10:17:45Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 742 | 73| 
 | 20230418T09:27:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-YCo85-spread-exploit | 0 | 0| 
 | 20230418T09:22:54Z | actuators dynamics calibration tests exploiting XBot2 rt plugins | https://github.com/AndPatr/moving_horizon_jnt_calib | 1 | 0| 
-| 20230418T08:13:28Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 18 | 2| 
 
 
 # backdoor on Github 推荐
