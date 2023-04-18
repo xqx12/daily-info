@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 | 20230418T12:20:53Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
-| 20230418T12:18:04Z | SImulation of elastic and inelastic collisions between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 | 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
 | 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
 | 20230418T10:23:27Z | Null | https://github.com/m00moo/AnarchyExploitFixes-rewrite | 0 | 0| 
