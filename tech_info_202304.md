@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:18:04Z | SImulation of elastic and inelastic collisions between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 | 20230418T12:16:31Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
 | 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
 | 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230418T09:22:54Z | actuators dynamics calibration tests exploiting XBot2 rt plugins | https://github.com/AndPatr/moving_horizon_jnt_calib | 1 | 0| 
 | 20230418T08:13:28Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 18 | 2| 
 | 20230418T07:45:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 619 | 165| 
-| 20230418T01:55:32Z | Exploit Testing | https://github.com/Kermat161/roblox-websocket | 0 | 0| 
 
 
 # backdoor on Github 推荐
