@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T01:55:32Z | Exploit Testing | https://github.com/Kermat161/roblox-websocket | 0 | 0| 
 | 20230418T01:54:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4881 | 963| 
 | 20230418T01:43:30Z | A dupe exploit/script for psx (pet simulator x) | https://github.com/psxduper9/psxdupe | 0 | 0| 
 | 20230418T00:59:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-jno2J-promote-exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230417T21:02:31Z | All possible tools, notes and other stuff regarding exploiting and vulnerabilites. Resources used to pass Offsec Exploit courses. | https://github.com/tomas-kabrt/Exploits-Vulns | 0 | 0| 
 | 20230417T20:46:32Z | Simulated attack on an organization%s digital infrastructure to identify and exploit vulnerabilities. | https://github.com/SinoLewis/SnowScans | 0 | 0| 
 | 20230417T20:18:00Z | A roblox exploit that automates many things in the game Pet Simulator X 3M+ exeutions | https://github.com/rbxcodeg/milkup | 0 | 0| 
-| 20230417T17:46:22Z | Voici notre projet réaliser par Julie PRIGENT et Dorine HENRY (étudiante en L3 informatique parcours MIAGE). | https://github.com/DorineH/Projet_systeme_exploitation_g6 | 0 | 1| 
 
 
 # backdoor on Github 推荐
