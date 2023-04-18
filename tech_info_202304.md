@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
 | 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 | 20230418T12:20:53Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
 | 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
@@ -95,12 +96,12 @@
 | 20230418T09:27:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-YCo85-spread-exploit | 0 | 0| 
 | 20230418T09:22:54Z | actuators dynamics calibration tests exploiting XBot2 rt plugins | https://github.com/AndPatr/moving_horizon_jnt_calib | 1 | 0| 
 | 20230418T08:13:28Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 18 | 2| 
-| 20230418T07:45:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 619 | 165| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
 | 20230418T09:53:37Z | Many times I have asked myself how to maintain access to a compromised WordPress site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. That%s why I posted this WordPress Backdoor. | https://github.com/amtzespinosa/wp-backdoor | 0 | 0| 
 | 20230418T06:29:10Z | Null | https://github.com/levidomates/backdoor | 0 | 0| 
 | 20230418T05:06:03Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 28 | 11| 
@@ -110,7 +111,6 @@
 | 20230417T14:05:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 25 | 2| 
 | 20230417T11:13:24Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 7 | 0| 
 | 20230417T09:37:18Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 4 | 1| 
-| 20230417T07:55:45Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
