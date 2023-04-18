@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230417T22:31:13Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
-| 20230417T13:55:56Z | CVE-2022-22963 | Null | https://github.com/randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE | | 
 | 20230417T12:23:57Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/10xeye/CVE-2023-21554-POC | | 
 | 20230417T04:02:12Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
 | 20230417T01:49:45Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
