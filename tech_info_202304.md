@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230418T00:49:41Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 27 | 2| 
+| 20230418T01:00:21Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 28 | 2| 
 | 20230417T23:20:05Z | A Fuzzy logic app using C#. | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
 | 20230417T21:38:10Z | Null | https://github.com/sundeer/fuzzy-lava | 0 | 0| 
 | 20230417T21:01:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3534 | 423| 
