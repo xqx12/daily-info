@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230418T12:07:40Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
+| 20230418T12:17:05Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
 | 20230418T11:40:40Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
 | 20230418T10:45:43Z | CVE-2023-27216 | Null | https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection | | 
 | 20230418T06:43:52Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:16:31Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
 | 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
 | 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
 | 20230418T10:23:27Z | Null | https://github.com/m00moo/AnarchyExploitFixes-rewrite | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20230418T08:13:28Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 18 | 2| 
 | 20230418T07:45:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 619 | 165| 
 | 20230418T01:55:32Z | Exploit Testing | https://github.com/Kermat161/roblox-websocket | 0 | 0| 
-| 20230418T01:54:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4881 | 963| 
 
 
 # backdoor on Github 推荐
