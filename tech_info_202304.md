@@ -31,36 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230418 | Sam Altman 的创业手册 | https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA| 
+| 20230418 | ChatGPT谈开源大模型的风险与版权控制策略 | https://mp.weixin.qq.com/s/dI-bhaUb1Vre7UVyMqZSOg| 
+| 20230418 | Statistics of acceptance rate for the top conferences | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate| 
+| 20230418 | 在企业安全建设中真的需要SOAR么？ | https://zhuanlan.zhihu.com/p/622636229| 
+| 20230418 | 云原生安全-从k8s日志审计视角检测自动化工具攻击 | https://mp.weixin.qq.com/s/nZu4p5ZSmyzOVhQleIXQpg| 
+| 20230418 | 商用密码管理条例（修订草案征求意见稿） | http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml| 
 | 20230417 | 广播电视和网络视听深度伪造防范技术要求（2022版） | http://www.abs.ac.cn/module/download/downfile.jsp?classid=0&filename=181c30599c734118b9436c42f9a839da.pdf| 
 | 20230417 | SecWiki周刊（第476期) | https://www.sec-wiki.com/weekly/476| 
 | 20230417 | 检测浏览器扩展的数据收集行为与其声明的隐私策略的不一致性 | https://mp.weixin.qq.com/s/eMcBrkMwiX4T9rlPbaSafg| 
 | 20230416 | FrameScan-GUI: 图形化界面的cms漏洞检测框架 | https://github.com/qianxiao996/FrameScan-GUI| 
-| 20230415 | 跨越语言的艺术：Weblogic序列化漏洞与IIOP协议 | https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ| 
-| 20230415 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw| 
-| 20230415 | 从JS到内网横向 | https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA| 
-| 20230415 | 精简JS应用:一种去除JavaScript库中未使用函数的方法 | https://mp.weixin.qq.com/s/AbTOA-tW24tnqC6A12MC5A| 
-| 20230414 | 利用语义分析和代码审计实现数据治理左移 | https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ| 
-| 20230414 | 公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230418T11:40:40Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
+| 20230418T10:45:43Z | CVE-2023-27216 | Null | https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection | | 
+| 20230418T06:43:52Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230418T04:27:04Z | CVE-2022-34527 | Null | https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection | | 
+| 20230418T04:23:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/C00k3rbkr/CVE-2023-21554-RCE | | 
 | 20230418T01:24:56Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
 | 20230418T01:22:55Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
 | 20230418T01:13:05Z | CVE-2022-22963 | Null | https://github.com/randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE | | 
-| 20230418T01:10:54Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/C00k3rbkr/CVE-2023-21554-RCE | | 
-| 20230418T00:17:11Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
-| 20230417T22:31:13Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230417T12:23:57Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/10xeye/CVE-2023-21554-POC | | 
 | 20230417T04:02:12Z | CVE-2021-35250 | Null | https://github.com/rissor41/SolarWinds-CVE-2021-35250 | | 
-| 20230415T20:44:47Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | | 
-| 20230415T11:05:55Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/durte/CVE-2023-21554-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T11:10:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11510 | 369| 
+| 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
 | 20230417T17:27:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2214 | 612| 
 | 20230417T15:54:30Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 0 | 0| 
 | 20230417T10:17:45Z | Null | https://github.com/frank9615/test-be-kleecks | 0 | 0| 
@@ -69,14 +71,12 @@
 | 20230414T13:31:37Z | Null | https://github.com/cowboymalboro1884/HuaweiKLEETest | 0 | 0| 
 | 20230413T21:21:27Z | Null | https://github.com/KleeAIO/klee_spelldata | 1 | 0| 
 | 20230413T15:10:03Z | Null | https://github.com/marco-spallone/VueTestKleecks | 0 | 0| 
-| 20230413T07:38:42Z | Null | https://github.com/MarcoPurpura/Test_Kleecks_FrontEnd | 0 | 0| 
-| 20230412T06:44:47Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 64 | 15| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230417T07:07:38Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 320 | 76| 
+| 20230418T10:58:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 321 | 76| 
 | 20230413T08:04:49Z | For relative navigation with CDGPS | https://github.com/ShingoNishimoto/S2E_PBD | 1 | 0| 
 | 20230413T07:45:20Z | Null | https://github.com/MetadataGitTesting/s2el9be8 | 0 | 0| 
 | 20230409T09:30:19Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 85 | 48| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
+| 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
+| 20230418T10:23:27Z | Null | https://github.com/m00moo/AnarchyExploitFixes-rewrite | 0 | 0| 
+| 20230418T10:17:45Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 742 | 73| 
+| 20230418T09:27:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-YCo85-spread-exploit | 0 | 0| 
+| 20230418T09:22:54Z | actuators dynamics calibration tests exploiting XBot2 rt plugins | https://github.com/AndPatr/moving_horizon_jnt_calib | 1 | 0| 
+| 20230418T08:13:28Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 18 | 2| 
+| 20230418T07:45:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 619 | 165| 
 | 20230418T01:55:32Z | Exploit Testing | https://github.com/Kermat161/roblox-websocket | 0 | 0| 
 | 20230418T01:54:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4881 | 963| 
-| 20230418T01:43:30Z | A dupe exploit/script for psx (pet simulator x) | https://github.com/psxduper9/psxdupe | 0 | 0| 
-| 20230418T00:59:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-jno2J-promote-exploit | 0 | 0| 
-| 20230418T00:34:22Z | chromium desc | https://github.com/ExploitingChromium/ExploitingChromium | 0 | 0| 
-| 20230417T22:02:56Z | Null | https://github.com/MaxCarroll/Staffron-s-Roblox-ExploitPack | 0 | 0| 
-| 20230417T21:30:21Z | Null | https://github.com/MaxCarroll/Staffron-s-Roblox-Exploit-Pack | 0 | 0| 
-| 20230417T21:02:31Z | All possible tools, notes and other stuff regarding exploiting and vulnerabilites. Resources used to pass Offsec Exploit courses. | https://github.com/tomas-kabrt/Exploits-Vulns | 0 | 0| 
-| 20230417T20:46:32Z | Simulated attack on an organization%s digital infrastructure to identify and exploit vulnerabilities. | https://github.com/SinoLewis/SnowScans | 0 | 0| 
-| 20230417T20:18:00Z | A roblox exploit that automates many things in the game Pet Simulator X 3M+ exeutions | https://github.com/rbxcodeg/milkup | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230418T00:32:17Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 246 | 69| 
+| 20230418T09:53:37Z | Many times I have asked myself how to maintain access to a compromised WordPress site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. That%s why I posted this WordPress Backdoor. | https://github.com/amtzespinosa/wp-backdoor | 0 | 0| 
+| 20230418T06:29:10Z | Null | https://github.com/levidomates/backdoor | 0 | 0| 
+| 20230418T05:06:03Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 28 | 11| 
+| 20230418T02:15:32Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 247 | 69| 
 | 20230417T16:35:12Z | Backdoor | https://github.com/Tinkoprof/AnarchyExploitFixesWithBackdoor | 0 | 0| 
 | 20230417T16:11:12Z | An extension that helps to check if smart contract has a backdoor in it | https://github.com/Sheisuka/TrustIt | 0 | 0| 
-| 20230417T14:05:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 25 | 3| 
+| 20230417T14:05:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 25 | 2| 
 | 20230417T11:13:24Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 7 | 0| 
 | 20230417T09:37:18Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 4 | 1| 
 | 20230417T07:55:45Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 6 | 0| 
-| 20230417T06:13:52Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 3 | 0| 
-| 20230417T01:22:20Z | Kumpulan Shell Backdoor PHP | https://github.com/noplanalderson/shells | 0 | 0| 
-| 20230416T23:45:29Z | this is K0on! (Neko Backdoor) my first official program :) | https://github.com/Macchimne/K0on | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T11:49:28Z | Null | https://github.com/Focusmentorv/fuzzy-eureka | 0 | 0| 
+| 20230418T11:31:28Z | Null | https://github.com/mhaco123/Design-the-complete-fuzzy-system-for-controlling-a-tracking-projectile-in-a-step-by-step-manner | 0 | 0| 
+| 20230418T11:21:01Z | Null | https://github.com/mhaco123/Implementation-of-the-obstacle-avoidance-system-using-fuzzy-control-in-MATLAB | 0 | 0| 
+| 20230418T10:46:56Z | Null | https://github.com/Trissolo/fuzzy-octo-system | 0 | 0| 
+| 20230418T10:12:20Z | erlfuzz is a small standalone generator of random erlang programs used to fuzz the erlang compiler and VM, as well as other tools such as erlfmt, dialyzer, eqWAlizer, etc... It does not currently use coverage information or do anything especially clever, except for carefully handling Erlang%s scoping rules. | https://github.com/WhatsApp/erlfuzz | 9 | 0| 
+| 20230418T10:02:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8577 | 1877| 
+| 20230418T06:22:50Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
+| 20230418T04:40:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1356 | 192| 
 | 20230418T01:01:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2680 | 185| 
 | 20230418T01:00:21Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 28 | 2| 
-| 20230417T23:20:05Z | A Fuzzy logic app using C#. | https://github.com/OsamaAlRashed/MyFuzzyLogic | 0 | 0| 
-| 20230417T21:38:10Z | Null | https://github.com/sundeer/fuzzy-lava | 0 | 0| 
-| 20230417T21:01:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3534 | 423| 
-| 20230417T20:24:49Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
-| 20230417T18:01:29Z | Null | https://github.com/Elena-Vdovina/fuzzy-goggles | 0 | 0| 
-| 20230417T17:36:17Z | Generates random Netplan YAML files from a JSON schema | https://github.com/daniloegea/netplan-fuzz | 0 | 0| 
-| 20230417T17:10:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 72 | 6| 
-| 20230417T13:14:18Z | Null | https://github.com/google/fuzztest | 262 | 19| 
 
 
 
