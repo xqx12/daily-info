@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T12:04:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46008 | 22836| 
 | 20230418T11:49:28Z | Null | https://github.com/Focusmentorv/fuzzy-eureka | 0 | 0| 
 | 20230418T11:31:28Z | Null | https://github.com/mhaco123/Design-the-complete-fuzzy-system-for-controlling-a-tracking-projectile-in-a-step-by-step-manner | 0 | 0| 
 | 20230418T11:21:01Z | Null | https://github.com/mhaco123/Implementation-of-the-obstacle-avoidance-system-using-fuzzy-control-in-MATLAB | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230418T06:22:50Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
 | 20230418T04:40:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1356 | 192| 
 | 20230418T01:01:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2680 | 185| 
-| 20230418T01:00:21Z | Blazingly Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 28 | 2| 
 
 
 
