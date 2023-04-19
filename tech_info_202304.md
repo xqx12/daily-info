@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:27:53Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
 | 20230419T09:11:50Z | CVE-2021-31589 | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2021-31589 | | 
@@ -55,7 +56,6 @@
 | 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
 | 20230418T15:21:15Z | CVE-2021-24741 | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | | 
 | 20230418T15:01:22Z | cve-2022-42889 | Null | https://github.com/Dima2021/cve-2022-42889-text4shell | | 
-| 20230418T12:17:05Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:27:53Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T10:47:01Z | Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact). | https://github.com/SitinCloud/Owlyshield | 288 | 19| 
 | 20230419T10:40:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5080 | 730| 
 | 20230419T09:36:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3418 | 506| 
@@ -95,7 +96,6 @@
 | 20230419T03:04:22Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 16 | 4| 
 | 20230419T01:19:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5476 | 750| 
 | 20230419T01:07:30Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
-| 20230419T01:04:12Z | Roblox Exploiting Hub | https://github.com/3NCR1PT3R/Bonk-Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
