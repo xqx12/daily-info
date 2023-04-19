@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230418T13:44:14Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 85| 
+| 20230419T08:42:10Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 2 | 0| 
+| 20230419T07:45:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3404 | 479| 
+| 20230419T03:25:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 40 | 8| 
+| 20230419T03:04:20Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 19 | 9| 
+| 20230418T13:44:14Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 87| 
 | 20230418T10:58:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 321 | 76| 
 | 20230418T10:27:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 633 | 116| 
-| 20230418T06:43:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3403 | 479| 
 | 20230417T17:27:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2214 | 612| 
 | 20230416T18:36:59Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 15 | 8| 
 | 20230416T09:49:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 555 | 36| 
-| 20230415T15:22:37Z | LLVMTestM8: automated unit test generation using symbolic execution on LLVM. | https://github.com/csum112/LLVMTestM8 | 0 | 0| 
-| 20230414T19:16:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1053 | 129| 
-| 20230414T16:31:08Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 75 | 2| 
 
 
 # big4 on Github 推荐

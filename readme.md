@@ -66,6 +66,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T08:42:10Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 2 | 0| 
+| 20230419T07:45:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3404 | 479| 
+| 20230419T03:25:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 40 | 8| 
+| 20230419T03:04:20Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 19 | 9| 
 
 
 # big4 on Github 推荐
