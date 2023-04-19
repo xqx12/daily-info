@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T01:04:12Z | Roblox Exploiting Hub | https://github.com/3NCR1PT3R/Bonk-Hub | 0 | 0| 
 | 20230419T00:33:27Z | a pretty cool exploit | https://github.com/bean-can-productions/bean-yield | 0 | 0| 
 | 20230419T00:28:07Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
 | 20230419T00:19:52Z | A DeFi Circuit Breaker and Funds Router is a safeguard mechanism designed to protect decentralized finance protocols from potential financial losses caused by exploits or other errors. This system helps to maintain the security and stability of the DeFi ecosystem. | https://github.com/safeboxfinance/DefiCircuitBreaker | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230418T21:28:02Z | Mise en place d%une application web pour exploiter les données de la direction des routes du Sénégal | https://github.com/oumarsig/web-dcsom | 0 | 0| 
 | 20230418T20:41:11Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 0 | 0| 
 | 20230418T20:07:44Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
-| 20230418T13:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4884 | 963| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T01:00:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2685 | 185| 
 | 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
 | 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
 | 20230419T00:16:04Z | fzf based pokedex  | https://github.com/ericlay/fuzzy-pokedex | 9 | 0| 
@@ -153,7 +154,6 @@
 | 20230418T22:28:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2072 | 263| 
 | 20230418T22:04:46Z | Null | https://github.com/mo-waseem/fuzzy-color-image-enhancements | 0 | 0| 
 | 20230418T21:52:41Z | Random program generator to verify (fuzz) the Dafny compiler | https://github.com/fuzz-d/fuzz-d | 1 | 0| 
-| 20230418T21:03:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8580 | 1877| 
 
 
 

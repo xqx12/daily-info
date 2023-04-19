@@ -100,10 +100,10 @@
 | 20230418T22:04:46Z | Null | https://github.com/mo-waseem/fuzzy-color-image-enhancements | 0 | 0| 
 | 20230418T21:52:41Z | Random program generator to verify (fuzz) the Dafny compiler | https://github.com/fuzz-d/fuzz-d | 1 | 0| 
 | 20230418T21:03:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8580 | 1877| 
-| 20230418T18:35:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2684 | 185| 
 | 20230418T14:37:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 279 | 42| 
 | 20230418T12:56:59Z | Null | https://github.com/Jolantux13/Bibliometric-Analysis-of-Ontology-and-Fuzzy- | 0 | 0| 
 | 20230418T12:15:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46009 | 22835| 
+| 20230418T11:49:28Z | Null | https://github.com/Focusmentorv/fuzzy-eureka | 0 | 0| 
 
 
 
