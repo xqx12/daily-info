@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230419T12:27:53Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
+| 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
 | 20230419T09:11:50Z | CVE-2021-31589 | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2021-31589 | | 
@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:48:29Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
+| 20230419T12:48:28Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-xVXn4-exploit-win | 0 | 0| 
 | 20230419T12:38:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5081 | 730| 
 | 20230419T12:34:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5479 | 752| 
-| 20230419T12:27:53Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T10:47:01Z | Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact). | https://github.com/SitinCloud/Owlyshield | 288 | 19| 
 | 20230419T10:20:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4886 | 963| 
 | 20230419T09:36:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3418 | 506| 
 | 20230419T09:35:18Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 19 | 3| 
 | 20230419T08:49:13Z | My research for an xss exploit on https://lduq-challenges-secu1.teexma.local/ | https://github.com/David-Massetti/XSS_exploit | 0 | 0| 
 | 20230419T08:38:18Z | AWS Cognito custom attributes exploitation tool | https://github.com/UN1QUELY/aws-cust-cognit | 0 | 0| 
-| 20230419T03:04:22Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 16 | 4| 
 
 
 # backdoor on Github 推荐
