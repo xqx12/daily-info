@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230419 | 从不同角度分析当前网络犯罪 | https://mp.weixin.qq.com/s/tFT0r_u7upU0d_U7R-Kivg| 
+| 20230419 | AD攻击思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/| 
 | 20230418 | Sam Altman 的创业手册 | https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA| 
 | 20230418 | ChatGPT谈开源大模型的风险与版权控制策略 | https://mp.weixin.qq.com/s/dI-bhaUb1Vre7UVyMqZSOg| 
 | 20230418 | Statistics of acceptance rate for the top conferences | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate| 
@@ -39,29 +41,28 @@
 | 20230418 | 商用密码管理条例（修订草案征求意见稿） | http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml| 
 | 20230417 | 广播电视和网络视听深度伪造防范技术要求（2022版） | http://www.abs.ac.cn/module/download/downfile.jsp?classid=0&filename=181c30599c734118b9436c42f9a839da.pdf| 
 | 20230417 | SecWiki周刊（第476期) | https://www.sec-wiki.com/weekly/476| 
-| 20230417 | 检测浏览器扩展的数据收集行为与其声明的隐私策略的不一致性 | https://mp.weixin.qq.com/s/eMcBrkMwiX4T9rlPbaSafg| 
-| 20230416 | FrameScan-GUI: 图形化界面的cms漏洞检测框架 | https://github.com/qianxiao996/FrameScan-GUI| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230419T01:33:38Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
-| 20230418T21:49:17Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
+| 20230419T09:11:50Z | CVE-2021-31589 | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2021-31589 | | 
+| 20230419T05:53:19Z | CVE-2022-42889 | docker for CVE-2022-42889 | https://github.com/necroteddy/CVE-2022-42889 | | 
+| 20230419T03:31:49Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230418T15:42:34Z | CVE-2023-21554 | Windows Message Queuing vulnerability exploitation with custom payloads | https://github.com/Hashi0x/PoC-CVE-2023-21554 | | 
 | 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
 | 20230418T15:21:15Z | CVE-2021-24741 | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | | 
 | 20230418T15:01:22Z | cve-2022-42889 | Null | https://github.com/Dima2021/cve-2022-42889-text4shell | | 
 | 20230418T12:17:05Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
-| 20230418T11:40:40Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
-| 20230418T10:45:43Z | CVE-2023-27216 | Null | https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection | | 
-| 20230418T04:27:04Z | CVE-2022-34527 | Null | https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T01:49:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11539 | 373| 
+| 20230419T11:29:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11560 | 374| 
+| 20230419T03:04:19Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 64 | 19| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
@@ -70,7 +71,6 @@
 | 20230417T10:17:45Z | Null | https://github.com/frank9615/test-be-kleecks | 0 | 0| 
 | 20230416T13:22:52Z | A library from the KleeGameBase series that contains the classes shared between client and server | https://github.com/KleeSup/KleeGameBaseShared | 2 | 0| 
 | 20230414T15:45:06Z | Null | https://github.com/marco-spallone/JavaTestKleecks | 0 | 0| 
-| 20230414T13:31:37Z | Null | https://github.com/cowboymalboro1884/HuaweiKLEETest | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T10:47:01Z | Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact). | https://github.com/SitinCloud/Owlyshield | 288 | 19| 
+| 20230419T10:40:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5080 | 730| 
+| 20230419T09:36:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3418 | 506| 
+| 20230419T09:35:18Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 19 | 3| 
+| 20230419T08:49:13Z | My research for an xss exploit on https://lduq-challenges-secu1.teexma.local/ | https://github.com/David-Massetti/XSS_exploit | 0 | 0| 
+| 20230419T08:38:18Z | AWS Cognito custom attributes exploitation tool | https://github.com/UN1QUELY/aws-cust-cognit | 0 | 0| 
+| 20230419T03:04:22Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 16 | 4| 
 | 20230419T01:19:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5476 | 750| 
 | 20230419T01:07:30Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
 | 20230419T01:04:12Z | Roblox Exploiting Hub | https://github.com/3NCR1PT3R/Bonk-Hub | 0 | 0| 
-| 20230419T00:33:27Z | a pretty cool exploit | https://github.com/bean-can-productions/bean-yield | 0 | 0| 
-| 20230419T00:28:07Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
-| 20230419T00:19:52Z | A DeFi Circuit Breaker and Funds Router is a safeguard mechanism designed to protect decentralized finance protocols from potential financial losses caused by exploits or other errors. This system helps to maintain the security and stability of the DeFi ecosystem. | https://github.com/safeboxfinance/DefiCircuitBreaker | 0 | 0| 
-| 20230418T23:56:26Z | An very simple robox executor made by MJs | https://github.com/Boizzaamee/Roblox-Exploit-Launcher | 46 | 0| 
-| 20230418T23:54:55Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Boizzaamee/Lua-SirHurt-Exploit- | 46 | 0| 
-| 20230418T23:48:51Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Boizzaamee/BlackWidow-BloodHunt | 46 | 0| 
-| 20230418T21:28:02Z | Mise en place d%une application web pour exploiter les données de la direction des routes du Sénégal | https://github.com/oumarsig/web-dcsom | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T10:47:33Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 8 | 0| 
+| 20230419T10:15:39Z | Null | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
+| 20230419T09:23:33Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1288 | 181| 
+| 20230419T03:08:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
+| 20230419T02:53:51Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
 | 20230418T21:38:43Z | My very first attempt at a Linux backdoor. | https://github.com/FahdTolba/backdoor | 0 | 0| 
 | 20230418T19:59:31Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 251 | 69| 
 | 20230418T18:30:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 5 | 1| 
 | 20230418T17:25:37Z | Many times I have asked myself how to maintain access to a compromised WordPress site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. That%s why I posted this WordPress Backdoor. | https://github.com/amtzespinosa/wp-backdoor | 0 | 0| 
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
-| 20230418T06:29:10Z | Null | https://github.com/levidomates/backdoor | 0 | 0| 
-| 20230418T05:06:03Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 28 | 11| 
-| 20230417T16:35:12Z | Backdoor | https://github.com/Tinkoprof/AnarchyExploitFixesWithBackdoor | 0 | 0| 
-| 20230417T16:11:12Z | An extension that helps to check if smart contract has a backdoor in it | https://github.com/Sheisuka/TrustIt | 0 | 0| 
-| 20230417T14:25:32Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcore/paradoxiaRAT | 663 | 168| 
 
 
 # symbolic execution on Github 推荐
@@ -131,7 +131,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230418T20:44:21Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 636 | 99| 
+| 20230419T09:55:25Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 636 | 99| 
 | 20230418T18:01:47Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 78 | 28| 
 | 20230418T14:52:21Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 36 | 2| 
 | 20230414T00:22:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 53 | 5| 
@@ -144,6 +144,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T10:39:39Z | Fuzz API (FAPI) - A fuzzer for API%s | https://github.com/TheM8thy/FAPI | 2 | 0| 
+| 20230419T09:33:19Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
+| 20230419T04:23:33Z | 一个基于图同构网络模型预测Web漏洞位置的模糊测试工具 | https://github.com/BlakeZc/GNNWebFuzz | 0 | 0| 
 | 20230419T01:06:48Z | Null | https://github.com/Marvisinjc/fuzzy-octo-enigma | 0 | 0| 
 | 20230419T01:00:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2685 | 185| 
 | 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
@@ -151,9 +154,6 @@
 | 20230419T00:16:04Z | fzf based pokedex  | https://github.com/ericlay/fuzzy-pokedex | 9 | 0| 
 | 20230419T00:03:24Z | Null | https://github.com/EnzoTatiyama/fuzzy | 0 | 0| 
 | 20230418T23:42:55Z | Echidna Capture the Ether token challenges | https://github.com/cdcalderon/FuzzingWithEchidna | 0 | 0| 
-| 20230418T23:01:49Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
-| 20230418T22:28:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2072 | 263| 
-| 20230418T22:04:46Z | Null | https://github.com/mo-waseem/fuzzy-color-image-enhancements | 0 | 0| 
 
 
 
