@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T01:06:48Z | Null | https://github.com/Marvisinjc/fuzzy-octo-enigma | 0 | 0| 
 | 20230419T01:00:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2685 | 185| 
 | 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
 | 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230418T23:01:49Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
 | 20230418T22:28:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2072 | 263| 
 | 20230418T22:04:46Z | Null | https://github.com/mo-waseem/fuzzy-color-image-enhancements | 0 | 0| 
-| 20230418T21:52:41Z | Random program generator to verify (fuzz) the Dafny compiler | https://github.com/fuzz-d/fuzz-d | 1 | 0| 
 
 
 
