@@ -56,10 +56,10 @@
 | 20230418T21:28:02Z | Mise en place d%une application web pour exploiter les données de la direction des routes du Sénégal | https://github.com/oumarsig/web-dcsom | 0 | 0| 
 | 20230418T20:41:11Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 0 | 0| 
 | 20230418T20:07:44Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
+| 20230418T13:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4884 | 963| 
 | 20230418T12:54:45Z | A toolset to exploit the PS Vita MaILFail vulnerability, allowing arbitrary file read and write on the PS Vita storage. | https://github.com/TeamFAPS/PSVita-MaILFail | 0 | 0| 
 | 20230418T12:43:50Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 592 | 34| 
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
-| 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 
 
 # backdoor on Github 推荐
