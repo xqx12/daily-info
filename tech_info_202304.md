@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T00:33:27Z | a pretty cool exploit | https://github.com/bean-can-productions/bean-yield | 0 | 0| 
 | 20230419T00:28:07Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
 | 20230419T00:19:52Z | A DeFi Circuit Breaker and Funds Router is a safeguard mechanism designed to protect decentralized finance protocols from potential financial losses caused by exploits or other errors. This system helps to maintain the security and stability of the DeFi ecosystem. | https://github.com/safeboxfinance/DefiCircuitBreaker | 0 | 0| 
 | 20230418T23:56:26Z | An very simple robox executor made by MJs | https://github.com/Boizzaamee/Roblox-Exploit-Launcher | 46 | 0| 
@@ -95,7 +96,6 @@
 | 20230418T20:41:11Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 0 | 0| 
 | 20230418T20:07:44Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
 | 20230418T13:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4884 | 963| 
-| 20230418T12:54:45Z | A toolset to exploit the PS Vita MaILFail vulnerability, allowing arbitrary file read and write on the PS Vita storage. | https://github.com/TeamFAPS/PSVita-MaILFail | 0 | 0| 
 
 
 # backdoor on Github 推荐
