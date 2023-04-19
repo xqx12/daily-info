@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230419T01:25:58Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230419T01:33:38Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230418T21:49:17Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230418T15:42:34Z | CVE-2023-21554 | Windows Message Queuing vulnerability exploitation with custom payloads | https://github.com/Hashi0x/PoC-CVE-2023-21554 | | 
 | 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
