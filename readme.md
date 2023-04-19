@@ -22,21 +22,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230418T21:49:17Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230418T21:34:07Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230418T15:42:34Z | CVE-2023-21554 | Windows Message Queuing vulnerability exploitation with custom payloads | https://github.com/Hashi0x/PoC-CVE-2023-21554 | | 
+| 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
+| 20230418T15:21:15Z | CVE-2021-24741 | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | | 
+| 20230418T15:01:22Z | cve-2022-42889 | Null | https://github.com/Dima2021/cve-2022-42889-text4shell | | 
 | 20230418T12:17:05Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215 | | 
 | 20230418T11:40:40Z | CVE-2023-2033 | Reproduce CVE-2023-2033 | https://github.com/insoxin/CVE-2023-2033 | | 
 | 20230418T10:45:43Z | CVE-2023-27216 | Null | https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection | | 
-| 20230418T06:43:52Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230418T04:27:04Z | CVE-2022-34527 | Null | https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection | | 
-| 20230418T04:23:04Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/C00k3rbkr/CVE-2023-21554-RCE | | 
-| 20230418T01:24:56Z | CVE-2023-21716 | POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption | https://github.com/JMousqueton/CVE-2023-21716 | | 
-| 20230418T01:22:55Z | CVE-2023-29084 | Command injection in ManageEngine ADManager Plus | https://github.com/ohnonoyesyes/CVE-2023-29084 | | 
-| 20230418T01:13:05Z | CVE-2022-22963 | Null | https://github.com/randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230418T11:10:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11510 | 369| 
+| 20230418T23:36:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11530 | 371| 
+| 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
 
 
@@ -49,26 +51,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T23:56:26Z | An very simple robox executor made by MJs | https://github.com/Boizzaamee/Roblox-Exploit-Launcher | 46 | 0| 
+| 20230418T23:54:55Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Boizzaamee/Lua-SirHurt-Exploit- | 46 | 0| 
+| 20230418T23:48:51Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Boizzaamee/BlackWidow-BloodHunt | 46 | 0| 
+| 20230418T21:28:02Z | Mise en place d%une application web pour exploiter les données de la direction des routes du Sénégal | https://github.com/oumarsig/web-dcsom | 0 | 0| 
+| 20230418T20:41:11Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 0 | 0| 
+| 20230418T20:07:44Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
 | 20230418T12:54:45Z | A toolset to exploit the PS Vita MaILFail vulnerability, allowing arbitrary file read and write on the PS Vita storage. | https://github.com/TeamFAPS/PSVita-MaILFail | 0 | 0| 
 | 20230418T12:43:50Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 592 | 34| 
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
 | 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
-| 20230418T12:20:53Z | Null | https://github.com/unCodeBoss/Joomla-Exploiters1.0.0 | 0 | 0| 
-| 20230418T12:20:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4883 | 963| 
-| 20230418T11:32:00Z | This script will detect your Exploit, Executor. | https://github.com/Pygames2Game1Dev/Roblox-Executor-Detection | 0 | 0| 
-| 20230418T10:39:55Z | Password strength checking script in BASH. The script checks user%s input password against know exploitable passwords and triggers a warning to a user if the input password is exploitable. | https://github.com/Tu738Mi7/password_strenth_checker | 0 | 0| 
-| 20230418T10:23:27Z | Null | https://github.com/m00moo/AnarchyExploitFixes-rewrite | 0 | 0| 
-| 20230418T10:17:45Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 742 | 73| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T21:38:43Z | My very first attempt at a Linux backdoor. | https://github.com/FahdTolba/backdoor | 0 | 0| 
+| 20230418T19:59:31Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 251 | 69| 
+| 20230418T18:30:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 5 | 1| 
+| 20230418T17:25:37Z | Many times I have asked myself how to maintain access to a compromised WordPress site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. That%s why I posted this WordPress Backdoor. | https://github.com/amtzespinosa/wp-backdoor | 0 | 0| 
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
-| 20230418T09:53:37Z | Many times I have asked myself how to maintain access to a compromised WordPress site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. That%s why I posted this WordPress Backdoor. | https://github.com/amtzespinosa/wp-backdoor | 0 | 0| 
 | 20230418T06:29:10Z | Null | https://github.com/levidomates/backdoor | 0 | 0| 
 | 20230418T05:06:03Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 28 | 11| 
-| 20230418T02:15:32Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 247 | 69| 
 
 
 # symbolic execution on Github 推荐
@@ -88,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230418T23:42:55Z | Echidna Capture the Ether token challenges | https://github.com/cdcalderon/FuzzingWithEchidna | 0 | 0| 
+| 20230418T23:01:49Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
+| 20230418T22:45:20Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
+| 20230418T22:28:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2072 | 263| 
+| 20230418T22:04:46Z | Null | https://github.com/mo-waseem/fuzzy-color-image-enhancements | 0 | 0| 
+| 20230418T21:52:41Z | Random program generator to verify (fuzz) the Dafny compiler | https://github.com/fuzz-d/fuzz-d | 1 | 0| 
+| 20230418T21:03:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8580 | 1877| 
+| 20230418T18:35:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2684 | 185| 
+| 20230418T14:37:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 279 | 42| 
 | 20230418T12:56:59Z | Null | https://github.com/Jolantux13/Bibliometric-Analysis-of-Ontology-and-Fuzzy- | 0 | 0| 
-| 20230418T12:15:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46009 | 22835| 
-| 20230418T11:49:28Z | Null | https://github.com/Focusmentorv/fuzzy-eureka | 0 | 0| 
-| 20230418T11:31:28Z | Null | https://github.com/mhaco123/Design-the-complete-fuzzy-system-for-controlling-a-tracking-projectile-in-a-step-by-step-manner | 0 | 0| 
-| 20230418T11:21:01Z | Null | https://github.com/mhaco123/Implementation-of-the-obstacle-avoidance-system-using-fuzzy-control-in-MATLAB | 0 | 0| 
-| 20230418T10:46:56Z | Null | https://github.com/Trissolo/fuzzy-octo-system | 0 | 0| 
-| 20230418T10:12:20Z | erlfuzz is a small standalone generator of random erlang programs used to fuzz the erlang compiler and VM, as well as other tools such as erlfmt, dialyzer, eqWAlizer, etc... It does not currently use coverage information or do anything especially clever, except for carefully handling Erlang%s scoping rules. | https://github.com/WhatsApp/erlfuzz | 9 | 0| 
-| 20230418T10:02:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8577 | 1877| 
-| 20230418T06:22:50Z | Fuzzy Guide landing page. | https://github.com/benhexie/fuzzy-guide-web | 0 | 0| 
-| 20230418T04:40:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1356 | 192| 
 
 
 
