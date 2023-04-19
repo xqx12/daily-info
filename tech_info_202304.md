@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T00:24:16Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
+| 20230419T00:28:07Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
 | 20230419T00:19:52Z | A DeFi Circuit Breaker and Funds Router is a safeguard mechanism designed to protect decentralized finance protocols from potential financial losses caused by exploits or other errors. This system helps to maintain the security and stability of the DeFi ecosystem. | https://github.com/safeboxfinance/DefiCircuitBreaker | 0 | 0| 
 | 20230418T23:56:26Z | An very simple robox executor made by MJs | https://github.com/Boizzaamee/Roblox-Exploit-Launcher | 46 | 0| 
 | 20230418T23:54:55Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Boizzaamee/Lua-SirHurt-Exploit- | 46 | 0| 
