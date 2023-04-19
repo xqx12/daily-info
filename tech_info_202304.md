@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:53:04Z | CVE-2022-4896 | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | | 
 | 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
@@ -55,7 +56,6 @@
 | 20230418T15:42:34Z | CVE-2023-21554 | Windows Message Queuing vulnerability exploitation with custom payloads | https://github.com/Hashi0x/PoC-CVE-2023-21554 | | 
 | 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
 | 20230418T15:21:15Z | CVE-2021-24741 | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | | 
-| 20230418T15:01:22Z | cve-2022-42889 | Null | https://github.com/Dima2021/cve-2022-42889-text4shell | | 
 
 
 # klee on Github 推荐

@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:53:04Z | CVE-2022-4896 | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | | 
 | 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
