@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T01:37:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11538 | 373| 
+| 20230419T01:49:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11539 | 373| 
+| 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
 | 20230417T17:27:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2214 | 612| 
@@ -70,7 +71,6 @@
 | 20230416T13:22:52Z | A library from the KleeGameBase series that contains the classes shared between client and server | https://github.com/KleeSup/KleeGameBaseShared | 2 | 0| 
 | 20230414T15:45:06Z | Null | https://github.com/marco-spallone/JavaTestKleecks | 0 | 0| 
 | 20230414T13:31:37Z | Null | https://github.com/cowboymalboro1884/HuaweiKLEETest | 0 | 0| 
-| 20230413T21:21:27Z | Null | https://github.com/KleeAIO/klee_spelldata | 1 | 0| 
 
 
 # s2e on Github 推荐
