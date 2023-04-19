@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T00:12:31Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
+| 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
 | 20230419T00:03:24Z | Null | https://github.com/EnzoTatiyama/fuzzy | 0 | 0| 
 | 20230418T23:42:55Z | Echidna Capture the Ether token challenges | https://github.com/cdcalderon/FuzzingWithEchidna | 0 | 0| 
 | 20230418T23:01:49Z | Null | https://github.com/qing42102/parallel_genetic_fuzzy_kmodes | 0 | 0| 
