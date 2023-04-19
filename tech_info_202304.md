@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T00:05:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11531 | 371| 
+| 20230419T00:20:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11530 | 371| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
 | 20230417T17:27:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2214 | 612| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T00:19:52Z | A DeFi Circuit Breaker and Funds Router is a safeguard mechanism designed to protect decentralized finance protocols from potential financial losses caused by exploits or other errors. This system helps to maintain the security and stability of the DeFi ecosystem. | https://github.com/safeboxfinance/DefiCircuitBreaker | 0 | 0| 
 | 20230418T23:56:26Z | An very simple robox executor made by MJs | https://github.com/Boizzaamee/Roblox-Exploit-Launcher | 46 | 0| 
 | 20230418T23:54:55Z | Roblox Lua SirHurt Exploit leaked by TonbaZZo | https://github.com/Boizzaamee/Lua-SirHurt-Exploit- | 46 | 0| 
 | 20230418T23:48:51Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Boizzaamee/BlackWidow-BloodHunt | 46 | 0| 
@@ -95,7 +96,6 @@
 | 20230418T12:54:45Z | A toolset to exploit the PS Vita MaILFail vulnerability, allowing arbitrary file read and write on the PS Vita storage. | https://github.com/TeamFAPS/PSVita-MaILFail | 0 | 0| 
 | 20230418T12:43:50Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 592 | 34| 
 | 20230418T12:30:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 428 | 80| 
-| 20230418T12:23:42Z | Collisions simulation between particles exploiting GPU computation | https://github.com/EdoardoUlrichProverbio/Collisions_Python_GPU | 0 | 0| 
 
 
 # backdoor on Github 推荐
