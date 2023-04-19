@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230419T12:53:04Z | CVE-2022-4896 | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | | 
+| 20230419T12:55:00Z | CVE-2022-4896 | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | | 
 | 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T11:29:25Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T12:53:04Z | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | 0 | 0| 
+| 20230419T12:55:00Z | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | 0 | 0| 
 | 20230419T12:48:29Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T12:48:28Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-xVXn4-exploit-win | 0 | 0| 
 | 20230419T12:38:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5081 | 730| 
