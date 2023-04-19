@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:53:04Z | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | 0 | 0| 
 | 20230419T12:48:29Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T12:48:28Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-xVXn4-exploit-win | 0 | 0| 
 | 20230419T12:38:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5081 | 730| 
@@ -52,7 +53,6 @@
 | 20230419T09:36:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3418 | 506| 
 | 20230419T09:35:18Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 19 | 3| 
 | 20230419T08:49:13Z | My research for an xss exploit on https://lduq-challenges-secu1.teexma.local/ | https://github.com/David-Massetti/XSS_exploit | 0 | 0| 
-| 20230419T08:38:18Z | AWS Cognito custom attributes exploitation tool | https://github.com/UN1QUELY/aws-cust-cognit | 0 | 0| 
 
 
 # backdoor on Github 推荐
