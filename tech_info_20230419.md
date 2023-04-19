@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:03:02Z | An implementation of a fuzzy color image enhancement algorithm | https://github.com/WaseemKn/FuzzyColorImageEnhancement-FuzzyLogicCourse-ITE5thYear | 9 | 9| 
 | 20230419T12:02:08Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
 | 20230419T10:39:39Z | Fuzz API (FAPI) - A fuzzer for API%s | https://github.com/TheM8thy/FAPI | 2 | 0| 
 | 20230419T09:33:19Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
 | 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
 | 20230419T00:16:04Z | fzf based pokedex  | https://github.com/ericlay/fuzzy-pokedex | 9 | 0| 
-| 20230419T00:03:24Z | Null | https://github.com/EnzoTatiyama/fuzzy | 0 | 0| 
 
 
 
