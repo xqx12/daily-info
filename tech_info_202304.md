@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T01:07:30Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
 | 20230419T01:04:12Z | Roblox Exploiting Hub | https://github.com/3NCR1PT3R/Bonk-Hub | 0 | 0| 
 | 20230419T00:33:27Z | a pretty cool exploit | https://github.com/bean-can-productions/bean-yield | 0 | 0| 
 | 20230419T00:28:07Z | Designed for Bug Bounties, FOR EDUCATIONAL OR BB USE ONLY | https://github.com/moomincoder/auto_exploit_full | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230418T23:48:51Z | BlackWidow BloodHunt ( cheat with aimbot, esp, wh, many features, works on current patch) | https://github.com/Boizzaamee/BlackWidow-BloodHunt | 46 | 0| 
 | 20230418T21:28:02Z | Mise en place d%une application web pour exploiter les données de la direction des routes du Sénégal | https://github.com/oumarsig/web-dcsom | 0 | 0| 
 | 20230418T20:41:11Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 0 | 0| 
-| 20230418T20:07:44Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
 
 
 # backdoor on Github 推荐
