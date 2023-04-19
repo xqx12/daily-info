@@ -45,13 +45,13 @@
 | 20230419T12:27:53Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T10:47:01Z | Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact). | https://github.com/SitinCloud/Owlyshield | 288 | 19| 
 | 20230419T10:40:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5080 | 730| 
+| 20230419T10:20:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4886 | 963| 
 | 20230419T09:36:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3418 | 506| 
 | 20230419T09:35:18Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 19 | 3| 
 | 20230419T08:49:13Z | My research for an xss exploit on https://lduq-challenges-secu1.teexma.local/ | https://github.com/David-Massetti/XSS_exploit | 0 | 0| 
 | 20230419T08:38:18Z | AWS Cognito custom attributes exploitation tool | https://github.com/UN1QUELY/aws-cust-cognit | 0 | 0| 
 | 20230419T03:04:22Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 16 | 4| 
 | 20230419T01:19:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5476 | 750| 
-| 20230419T01:07:30Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
 
 
 # backdoor on Github 推荐
