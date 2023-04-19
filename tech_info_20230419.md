@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:34:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5479 | 752| 
 | 20230419T12:27:53Z | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | 0 | 0| 
 | 20230419T10:47:01Z | Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact). | https://github.com/SitinCloud/Owlyshield | 288 | 19| 
 | 20230419T10:40:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5080 | 730| 
@@ -51,7 +52,6 @@
 | 20230419T08:49:13Z | My research for an xss exploit on https://lduq-challenges-secu1.teexma.local/ | https://github.com/David-Massetti/XSS_exploit | 0 | 0| 
 | 20230419T08:38:18Z | AWS Cognito custom attributes exploitation tool | https://github.com/UN1QUELY/aws-cust-cognit | 0 | 0| 
 | 20230419T03:04:22Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 16 | 4| 
-| 20230419T01:19:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5476 | 750| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T12:34:12Z | Fuzzy Semantic Search is a powerful search technique that combines fuzzy matching and semantic search to provide more accurate and relevant search results. | https://github.com/azharlabs/fuzzy-semantic-search | 0 | 0| 
 | 20230419T12:11:04Z | Null | https://github.com/ShaoYurui/Fuzzy_Action_Recog | 0 | 0| 
 | 20230419T12:03:02Z | An implementation of a fuzzy color image enhancement algorithm | https://github.com/WaseemKn/FuzzyColorImageEnhancement-FuzzyLogicCourse-ITE5thYear | 9 | 9| 
 | 20230419T12:02:08Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20230419T01:06:48Z | Null | https://github.com/Marvisinjc/fuzzy-octo-enigma | 0 | 0| 
 | 20230419T01:00:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2685 | 185| 
 | 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
-| 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
 
 
 
