@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230419T00:25:52Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230419T00:31:18Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230418T21:49:17Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230418T15:42:34Z | CVE-2023-21554 | Windows Message Queuing vulnerability exploitation with custom payloads | https://github.com/Hashi0x/PoC-CVE-2023-21554 | | 
 | 20230418T15:30:18Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/b4rt0xx/CVE-2023-21554-POC | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T00:20:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11530 | 371| 
+| 20230419T00:29:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11531 | 371| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230418T08:41:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 250 | 2| 
 | 20230417T17:27:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2214 | 612| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230419T00:30:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
 | 20230419T00:16:14Z | Null | https://github.com/Fuzzy-sh/Fuzzy-sh.github.io | 0 | 0| 
 | 20230419T00:03:24Z | Null | https://github.com/EnzoTatiyama/fuzzy | 0 | 0| 
 | 20230418T23:42:55Z | Echidna Capture the Ether token challenges | https://github.com/cdcalderon/FuzzingWithEchidna | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230418T21:52:41Z | Random program generator to verify (fuzz) the Dafny compiler | https://github.com/fuzz-d/fuzz-d | 1 | 0| 
 | 20230418T21:03:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8580 | 1877| 
 | 20230418T18:35:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2684 | 185| 
-| 20230418T14:37:58Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 279 | 42| 
 
 
 
