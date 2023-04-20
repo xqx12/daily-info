@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230420T01:01:59Z | 未知编号 | All CVE 2023 in Github | https://github.com/RootKRD/CVE-2023 | | 
 | 20230420T01:00:41Z | 未知编号 | All CVE 2023 in Github | https://github.com/RootKRD/cve---2023 | | 
 | 20230420T00:42:52Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230419T21:56:40Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
@@ -55,7 +56,6 @@
 | 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
 | 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
 | 20230419T09:11:50Z | CVE-2021-31589 | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2021-31589 | | 
-| 20230419T05:53:19Z | CVE-2022-42889 | docker for CVE-2022-42889 | https://github.com/necroteddy/CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
