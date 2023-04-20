@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T12:36:28Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
 | 20230420T11:46:35Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3751 | 549| 
 | 20230420T11:21:01Z | CNVD-2023-27598 | https://github.com/pupil857/Solr-Exploit | 3 | 0| 
 | 20230420T10:58:23Z | This is a repo to see and even open our code on visual studio | https://github.com/cosmo158mc/OrangeFox_exploits_Make-yourself_project | 0 | 0| 
@@ -51,9 +52,8 @@
 | 20230420T09:53:01Z | A collection of smart contract exploits with a working proof of concept and at least one example of said exploits in the wild! | https://github.com/STYJ/Smart-Contract-Exploits | 0 | 0| 
 | 20230420T09:49:40Z | Just some general PC-Exploits like Buffer Overflow and Fork Bombs | https://github.com/kraemr/PC-Exploits | 0 | 0| 
 | 20230420T09:48:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 24 | 3| 
+| 20230420T09:24:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4890 | 963| 
 | 20230420T08:37:44Z | A Useful Tool to Better exploit OpenAi%s Large Language Models | https://github.com/GEYOUR/GptAssistant | 0 | 0| 
-| 20230420T08:36:05Z | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | 0 | 0| 
-| 20230420T07:18:29Z | Null | https://github.com/whiter6666/kernel-exploit-train | 0 | 0| 
 
 
 # backdoor on Github 推荐
