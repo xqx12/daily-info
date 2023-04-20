@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T00:46:29Z | Mocking Distributed Micro services and Contract/Fuzz testing with Record/Play, Templates, OpenAPI Specifications and Stochastic test client | https://github.com/bhatti/api-mock-service | 1 | 0| 
 | 20230420T00:26:59Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 55 | 5| 
 | 20230420T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8583 | 1877| 
 | 20230419T23:36:54Z | Null | https://github.com/JackQiu09/Recreation-of-CervicalFuzzyDistanceEnsemble | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230419T21:47:19Z | Null | https://github.com/Vitorbogo/jFuzzyLogic | 0 | 0| 
 | 20230419T21:08:04Z | Null | https://github.com/claireyan0114/fuzzy-waddle | 0 | 0| 
 | 20230419T20:55:35Z | fzf based pokedex  | https://github.com/ericlay/fuzzy-pokedex | 11 | 0| 
-| 20230419T17:17:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
 
 
 
