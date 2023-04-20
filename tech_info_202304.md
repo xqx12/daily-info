@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T12:14:05Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 56 | 1| 
 | 20230420T09:23:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1359 | 192| 
 | 20230420T08:52:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3620 | 726| 
 | 20230420T07:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
@@ -153,7 +154,6 @@
 | 20230420T01:48:03Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
 | 20230420T01:44:38Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
 | 20230420T00:54:49Z | Null | https://github.com/sergiomonteiro76/LogicaFuzzy | 0 | 0| 
-| 20230420T00:46:32Z | Mocking Distributed Micro services and Contract/Fuzz testing with Record/Play, Templates, OpenAPI Specifications and Stochastic test client | https://github.com/bhatti/api-mock-service | 2 | 0| 
 
 
 
