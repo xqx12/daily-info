@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230420 | 关于反病毒引擎间不一致的研究 | https://mp.weixin.qq.com/s/O-ka76bQcfTwSfBPXCfsLA| 
 | 20230419 | 从不同角度分析当前网络犯罪 | https://mp.weixin.qq.com/s/tFT0r_u7upU0d_U7R-Kivg| 
 | 20230419 | AD攻击思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/| 
 | 20230418 | Sam Altman 的创业手册 | https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA| 
@@ -40,30 +41,29 @@
 | 20230418 | 云原生安全-从k8s日志审计视角检测自动化工具攻击 | https://mp.weixin.qq.com/s/nZu4p5ZSmyzOVhQleIXQpg| 
 | 20230418 | 商用密码管理条例（修订草案征求意见稿） | http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml| 
 | 20230417 | 广播电视和网络视听深度伪造防范技术要求（2022版） | http://www.abs.ac.cn/module/download/downfile.jsp?classid=0&filename=181c30599c734118b9436c42f9a839da.pdf| 
-| 20230417 | SecWiki周刊（第476期) | https://www.sec-wiki.com/weekly/476| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230420T01:06:37Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230420T11:26:49Z | CVE-2023-21823 |  CVE-2023-21823 PoC | https://github.com/Elizarfish/CVE-2023-21823 | | 
+| 20230420T10:22:44Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230420T08:56:58Z | CVE-2023-25234 | Null | https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow | | 
+| 20230420T08:36:05Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
+| 20230420T07:15:53Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
+| 20230420T06:01:06Z | CVE-2020-17453 | CVE-2020-17453 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2020-17453 | | 
 | 20230420T01:01:59Z | 未知编号 | All CVE 2023 in Github | https://github.com/RootKRD/CVE-2023 | | 
 | 20230420T01:00:41Z | 未知编号 | All CVE 2023 in Github | https://github.com/RootKRD/cve---2023 | | 
-| 20230419T21:56:40Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230419T14:55:40Z | 未知编号 | Create CVE_2020_3992 Poc && exp | https://github.com/ceciliaaii/CVE_2020_3992 | | 
 | 20230419T13:21:20Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper | https://github.com/C3r7/CVE-2023-21554-RCE | | 
-| 20230419T12:55:00Z | CVE-2022-4896 | CVE-2022-4896 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-4896 | | 
-| 20230419T12:48:29Z | CVE-2022-48474 | CVE-2022-48474 &CVE-2022-48475 PoCs & exploits  | https://github.com/sapellaniz/CVE-2022-48474_CVE-2022-48475 | | 
-| 20230419T09:29:40Z | CVE-2023-1767 | Null | https://github.com/weizman/CVE-2023-1767 | | 
-| 20230419T09:11:50Z | CVE-2021-31589 | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2021-31589 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230420T01:33:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11571 | 375| 
-| 20230419T21:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2216 | 612| 
-| 20230419T15:55:26Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 251 | 2| 
+| 20230420T10:59:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11584 | 375| 
+| 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
+| 20230420T07:03:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 252 | 2| 
 | 20230419T03:04:19Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 64 | 19| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230420T01:49:21Z | Null | https://github.com/chainlight-io/gh-workflow-exploit-test | 0 | 1| 
-| 20230419T23:50:16Z | Brute force a list of clsids for the juicy potato PE exploit | https://github.com/issa7midan/juicy_brute_clsids | 0 | 0| 
-| 20230419T23:22:14Z | My exploits. I might ban you if you are not subscribed. | https://github.com/drewtube/DrewsExploits | 0 | 0| 
-| 20230419T23:17:28Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0147-app-uM_bh-conclude-exploit | 0 | 0| 
-| 20230419T22:56:26Z | Code corresponding to the paper: Diverse and abundant viruses exploit conjugative plasmids (2023) | https://github.com/baymlab/2023_QuinonesOlvera-Owen | 0 | 0| 
-| 20230419T22:49:17Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 1 | 0| 
-| 20230419T21:35:40Z | Null | https://github.com/rahulramesh96/LinExploitChecker | 0 | 0| 
-| 20230419T21:27:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5482 | 752| 
-| 20230419T20:57:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 217 | 164| 
-| 20230419T20:50:01Z | Nightmare is a Roblox UI Library for Roblox Exploits, updates every day that if want. | https://github.com/Solarionz/NightmareProject | 0 | 0| 
+| 20230420T11:46:35Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3751 | 549| 
+| 20230420T11:21:01Z | CNVD-2023-27598 | https://github.com/pupil857/Solr-Exploit | 3 | 0| 
+| 20230420T10:58:23Z | This is a repo to see and even open our code on visual studio | https://github.com/cosmo158mc/OrangeFox_exploits_Make-yourself_project | 0 | 0| 
+| 20230420T10:33:28Z | OrangeFox Exploits Releases and more | https://github.com/cosmo158mc/OrangeFox_Exploits | 0 | 0| 
+| 20230420T09:53:01Z | A collection of smart contract exploits with a working proof of concept and at least one example of said exploits in the wild! | https://github.com/STYJ/Smart-Contract-Exploits | 0 | 0| 
+| 20230420T09:49:40Z | Just some general PC-Exploits like Buffer Overflow and Fork Bombs | https://github.com/kraemr/PC-Exploits | 0 | 0| 
+| 20230420T09:48:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 24 | 3| 
+| 20230420T08:37:44Z | A Useful Tool to Better exploit OpenAi%s Large Language Models | https://github.com/GEYOUR/GptAssistant | 0 | 0| 
+| 20230420T08:36:05Z | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | 0 | 0| 
+| 20230420T07:18:29Z | Null | https://github.com/whiter6666/kernel-exploit-train | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230420T01:47:16Z | Full Acces backdoor | https://github.com/ily-Ben/FullAcces | 0 | 0| 
+| 20230420T11:58:19Z | Null | https://github.com/BKUKB/BackDoor_FateAI_Jupyter | 0 | 0| 
+| 20230420T09:36:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1925 | 423| 
+| 20230420T06:11:31Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 2 | 1| 
+| 20230420T04:28:49Z | SPT Mod for Breaching Doors | https://github.com/dvize/BackdoorBandit | 0 | 0| 
+| 20230420T03:01:38Z | The official implementation of our CVPR 2023 paper %Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency%. | https://github.com/CGCL-codes/TeCo | 7 | 0| 
+| 20230420T02:17:46Z | Full Acces backdoor | https://github.com/ily-Ben/FullAcces | 0 | 0| 
 | 20230419T14:08:05Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230419T13:38:07Z | %Apollo% random networking tool (multiple bugs) (open source) | https://github.com/CPScript/Apollo | 0 | 0| 
 | 20230419T10:47:33Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 8 | 0| 
 | 20230419T10:15:39Z | Null | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
-| 20230419T09:23:33Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1288 | 181| 
-| 20230419T03:08:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 126 | 15| 
-| 20230419T02:53:51Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
-| 20230418T21:38:43Z | My very first attempt at a Linux backdoor. | https://github.com/FahdTolba/backdoor | 0 | 0| 
-| 20230418T19:59:31Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 251 | 69| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T09:23:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1359 | 192| 
+| 20230420T08:52:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3620 | 726| 
+| 20230420T07:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
+| 20230420T07:08:45Z | Simple WebSocket fuzzer | https://github.com/scipag/websocket_fuzzer | 1 | 0| 
+| 20230420T07:07:09Z | 独立开发测试LIN协议的的fuzzing脚本 | https://github.com/heiyu-sec/LINlinfuzzing | 0 | 0| 
+| 20230420T03:14:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8584 | 1876| 
 | 20230420T01:48:03Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
 | 20230420T01:44:38Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
 | 20230420T00:54:49Z | Null | https://github.com/sergiomonteiro76/LogicaFuzzy | 0 | 0| 
 | 20230420T00:46:32Z | Mocking Distributed Micro services and Contract/Fuzz testing with Record/Play, Templates, OpenAPI Specifications and Stochastic test client | https://github.com/bhatti/api-mock-service | 2 | 0| 
-| 20230420T00:26:59Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 55 | 5| 
-| 20230420T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8583 | 1878| 
-| 20230419T23:36:54Z | Null | https://github.com/JackQiu09/Recreation-of-CervicalFuzzyDistanceEnsemble | 0 | 0| 
-| 20230419T23:30:11Z | Null | https://github.com/avneetsingh36/fuzzy-search | 0 | 0| 
-| 20230419T22:48:31Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
-| 20230419T22:07:38Z | School assignment to improve fuzzy rule based inference. | https://github.com/miRx923/Fuzzy-Rule-Based-Inference-Model-For-Classification | 0 | 0| 
 
 
 
