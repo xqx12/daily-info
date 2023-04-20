@@ -149,7 +149,7 @@
 | 20230420T00:54:49Z | Null | https://github.com/sergiomonteiro76/LogicaFuzzy | 0 | 0| 
 | 20230420T00:46:32Z | Mocking Distributed Micro services and Contract/Fuzz testing with Record/Play, Templates, OpenAPI Specifications and Stochastic test client | https://github.com/bhatti/api-mock-service | 2 | 0| 
 | 20230420T00:26:59Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 55 | 5| 
-| 20230420T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8583 | 1877| 
+| 20230420T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8583 | 1878| 
 | 20230419T23:36:54Z | Null | https://github.com/JackQiu09/Recreation-of-CervicalFuzzyDistanceEnsemble | 0 | 0| 
 | 20230419T23:30:11Z | Null | https://github.com/avneetsingh36/fuzzy-search | 0 | 0| 
 | 20230419T22:48:31Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
