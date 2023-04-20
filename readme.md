@@ -60,7 +60,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T23:40:40Z | Full Acces backdoor | https://github.com/ily-Ben/FullAcces | 0 | 0| 
 | 20230419T14:08:05Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230419T13:38:07Z | %Apollo% random networking tool (multiple bugs) (open source) | https://github.com/CPScript/Apollo | 0 | 0| 
 | 20230419T10:47:33Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 8 | 0| 

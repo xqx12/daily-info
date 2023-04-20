@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T01:49:21Z | Null | https://github.com/chainlight-io/gh-workflow-exploit-test | 0 | 1| 
 | 20230419T23:50:16Z | Brute force a list of clsids for the juicy potato PE exploit | https://github.com/issa7midan/juicy_brute_clsids | 0 | 0| 
 | 20230419T23:22:14Z | My exploits. I might ban you if you are not subscribed. | https://github.com/drewtube/DrewsExploits | 0 | 0| 
 | 20230419T23:17:28Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0147-app-uM_bh-conclude-exploit | 0 | 0| 
@@ -95,13 +96,12 @@
 | 20230419T21:27:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5482 | 752| 
 | 20230419T20:57:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 217 | 164| 
 | 20230419T20:50:01Z | Nightmare is a Roblox UI Library for Roblox Exploits, updates every day that if want. | https://github.com/Solarionz/NightmareProject | 0 | 0| 
-| 20230419T20:11:25Z | Null | https://github.com/Thurinum/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230419T23:40:40Z | Full Acces backdoor | https://github.com/ily-Ben/FullAcces | 0 | 0| 
+| 20230420T01:47:16Z | Full Acces backdoor | https://github.com/ily-Ben/FullAcces | 0 | 0| 
 | 20230419T14:08:05Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230419T13:38:07Z | %Apollo% random networking tool (multiple bugs) (open source) | https://github.com/CPScript/Apollo | 0 | 0| 
 | 20230419T10:47:33Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 8 | 0| 
