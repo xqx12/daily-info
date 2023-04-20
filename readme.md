@@ -94,13 +94,13 @@
 | 20230419T23:36:54Z | Null | https://github.com/JackQiu09/Recreation-of-CervicalFuzzyDistanceEnsemble | 0 | 0| 
 | 20230419T23:30:11Z | Null | https://github.com/avneetsingh36/fuzzy-search | 0 | 0| 
 | 20230419T22:48:31Z | Null | https://github.com/sscodersen/fuzzy-spork | 0 | 0| 
-| 20230419T22:40:57Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 57 | 5| 
 | 20230419T22:07:38Z | School assignment to improve fuzzy rule based inference. | https://github.com/miRx923/Fuzzy-Rule-Based-Inference-Model-For-Classification | 0 | 0| 
 | 20230419T21:47:19Z | Null | https://github.com/Vitorbogo/jFuzzyLogic | 0 | 0| 
 | 20230419T21:08:04Z | Null | https://github.com/claireyan0114/fuzzy-waddle | 0 | 0| 
 | 20230419T20:55:35Z | fzf based pokedex  | https://github.com/ericlay/fuzzy-pokedex | 11 | 0| 
 | 20230419T17:17:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
 | 20230419T12:34:12Z | Fuzzy Semantic Search is a powerful search technique that combines fuzzy matching and semantic search to provide more accurate and relevant search results. | https://github.com/azharlabs/fuzzy-semantic-search | 0 | 0| 
+| 20230419T12:11:04Z | Null | https://github.com/ShaoYurui/Fuzzy_Action_Recog | 0 | 0| 
 
 
 
