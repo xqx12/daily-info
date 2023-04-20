@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T12:11:46Z | Null | https://github.com/m-rosen/kleptographic-backdoors | 0 | 0| 
 | 20230420T11:58:19Z | Null | https://github.com/BKUKB/BackDoor_FateAI_Jupyter | 0 | 0| 
 | 20230420T09:36:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1925 | 423| 
 | 20230420T06:11:31Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 2 | 1| 

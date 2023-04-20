@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T12:11:46Z | Null | https://github.com/m-rosen/kleptographic-backdoors | 0 | 0| 
 | 20230420T11:58:19Z | Null | https://github.com/BKUKB/BackDoor_FateAI_Jupyter | 0 | 0| 
 | 20230420T09:36:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1925 | 423| 
 | 20230420T06:11:31Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter | 2 | 1| 
@@ -110,7 +111,6 @@
 | 20230419T14:08:05Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 | 20230419T13:38:07Z | %Apollo% random networking tool (multiple bugs) (open source) | https://github.com/CPScript/Apollo | 0 | 0| 
 | 20230419T10:47:33Z | Code for Backdoor Attacks Against Dataset Distillation | https://github.com/liuyugeng/baadd | 8 | 0| 
-| 20230419T10:15:39Z | Null | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
