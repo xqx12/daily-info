@@ -22,7 +22,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230420T22:51:38Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230420T22:37:07Z | cve-2021-41773 | A little demonstration of cve-2021-41773 on httpd docker containers | https://github.com/MatanelGordon/docker-cve-2021-41773 | | 
 | 20230420T17:58:27Z | CVE-2023-21554 | metasploit module for CVE-2023-21554 remote code execution in msmq service which dont require any authentication and user interaction | https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC | | 
 | 20230420T17:31:30Z | CVE-2022-0435 | Null | https://github.com/wlswotmd/CVE-2022-0435 | | 
@@ -32,6 +31,7 @@
 | 20230420T08:36:05Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
 | 20230420T07:15:53Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
 | 20230420T06:01:06Z | CVE-2020-17453 | CVE-2020-17453 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2020-17453 | | 
+| 20230420T01:01:59Z | 未知编号 | All CVE 2023 in Github | https://github.com/RootKRD/CVE-2023 | | 
 
 
 # klee on Github 推荐
