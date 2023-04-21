@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T01:25:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2685 | 185| 
+| 20230421T01:48:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2686 | 185| 
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
 | 20230420T21:33:05Z | Fuzz Testing Triangle | https://github.com/akshataxx/Fuzz-Testing-Triangle | 0 | 0| 
 | 20230420T20:25:19Z | Null | https://github.com/siddesai80/FuzzyLogicController | 0 | 0| 
