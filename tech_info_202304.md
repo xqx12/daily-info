@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230421 | 从美方推动零信任战略过程看网络安全创新的规律特点 | https://mp.weixin.qq.com/s/6GPD7bzwWP01aF4qI4XLhQ| 
+| 20230421 | 一个AK/SK泄露检测的实现思路 | https://mp.weixin.qq.com/s/cplbL_TUKjCuGTpI7YCKQg| 
+| 20230421 | 同源检测技术在供应链安全治理中的应用 | https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg| 
+| 20230421 | 基于失败测试用例相似性的补丁正确性预测 | https://mp.weixin.qq.com/s/UdmohY-oCNfbY194PCzvMQ| 
+| 20230421 | 自动化漏洞赏金(bugbounty)和xscan扫描器总结 | https://mp.weixin.qq.com/s/A6Kjej2pfcCjuY7qey5irw| 
 | 20230420 | 关于反病毒引擎间不一致的研究 | https://mp.weixin.qq.com/s/O-ka76bQcfTwSfBPXCfsLA| 
 | 20230420 | 废除销许？公告发布后对行业有哪些影响？ | https://mp.weixin.qq.com/s/Xq0XD7QO-OcEQ-HVlIctPg| 
 | 20230420 | 网络安全产品管理政策遇重大调整，什么情况？ | https://mp.weixin.qq.com/s/gzKbqCh5qvT3dUG7CyDvfA| 
 | 20230420 | Wordpress 6.1.1 后台命令执行 | https://mp.weixin.qq.com/s/aakTQ9fgUVzG61uEPySLXA| 
 | 20230420 | Prometheus + Grafana，开源监控神器！ | https://mp.weixin.qq.com/s/SectHc6cA3hHi5yBAEHNBg| 
-| 20230420 | 2023年地下网络犯罪态势观察与发现 | https://mp.weixin.qq.com/s/LrfbCW9fHq_BzCoBgaEeNA| 
-| 20230419 | 从不同角度分析当前网络犯罪 | https://mp.weixin.qq.com/s/tFT0r_u7upU0d_U7R-Kivg| 
-| 20230419 | AD攻击思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/| 
-| 20230418 | Sam Altman 的创业手册 | https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA| 
-| 20230418 | ChatGPT谈开源大模型的风险与版权控制策略 | https://mp.weixin.qq.com/s/dI-bhaUb1Vre7UVyMqZSOg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230421T01:41:10Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230421T11:59:14Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230421T10:49:25Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
+| 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
+| 20230421T08:01:11Z | CVE-2023-21839 | CVE-2023-21839 Python版本 | https://github.com/houqe/POC_CVE-2023-21839 | | 
+| 20230421T06:15:47Z | CVE-2022-21882 | Null | https://github.com/dishfwk/CVE-2022-21882 | | 
+| 20230421T02:14:23Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
+| 20230421T02:12:04Z | CVE-2023-21823 |  CVE-2023-21823 PoC | https://github.com/Elizarfish/CVE-2023-21823 | | 
 | 20230420T22:37:07Z | cve-2021-41773 | A little demonstration of cve-2021-41773 on httpd docker containers | https://github.com/MatanelGordon/docker-cve-2021-41773 | | 
 | 20230420T17:58:27Z | CVE-2023-21554 | metasploit module for CVE-2023-21554 remote code execution in msmq service which dont require any authentication and user interaction | https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC | | 
 | 20230420T17:31:30Z | CVE-2022-0435 | Null | https://github.com/wlswotmd/CVE-2022-0435 | | 
-| 20230420T13:38:47Z | CVE-2023-21554 | CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper | https://github.com/g1x-r/CVE-2023-21554-PoC | | 
-| 20230420T11:26:49Z | CVE-2023-21823 |  CVE-2023-21823 PoC | https://github.com/Elizarfish/CVE-2023-21823 | | 
-| 20230420T08:56:58Z | CVE-2023-25234 | Null | https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow | | 
-| 20230420T08:36:05Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
-| 20230420T07:15:53Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
-| 20230420T07:05:04Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T01:53:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11600 | 375| 
+| 20230421T11:14:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11620 | 376| 
+| 20230421T08:22:27Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 65 | 19| 
+| 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
+| 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
 | 20230420T16:54:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 254 | 2| 
 | 20230420T13:43:48Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 2 | 0| 
 | 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
-| 20230419T03:04:19Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 64 | 19| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 | 20230417T10:17:45Z | Null | https://github.com/frank9615/test-be-kleecks | 0 | 0| 
-| 20230416T13:22:52Z | A library from the KleeGameBase series that contains the classes shared between client and server | https://github.com/KleeSup/KleeGameBaseShared | 2 | 0| 
-| 20230414T15:45:06Z | Null | https://github.com/marco-spallone/JavaTestKleecks | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T00:49:58Z | Null | https://github.com/9078451/exploit | 0 | 0| 
-| 20230420T23:50:53Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 178 | 9| 
-| 20230420T23:45:48Z | Null | https://github.com/DxDef1/rbx-exploit | 3 | 0| 
-| 20230420T23:32:05Z | Null | https://github.com/OYASN/Exploit.PHP.SQLInjection | 0 | 0| 
-| 20230420T23:26:35Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 1 | 0| 
-| 20230420T22:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/pet-clinic-e2e-borucrokzc-FGAb_-press-exploit | 0 | 0| 
-| 20230420T21:35:39Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 2 | 0| 
-| 20230420T21:30:57Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 1 | 0| 
-| 20230420T21:25:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4890 | 963| 
-| 20230420T12:43:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 215 | 42| 
+| 20230421T09:53:29Z | A demonstration of exploiting sparsity in the spatial frequency domain to allow for distributed random sensing and random access in sensor-fields measuring natural phenomena. | https://github.com/2biias/CompressedSensingRACS | 0 | 0| 
+| 20230421T09:39:41Z | The first all in one Strapi exploitation tool. | https://github.com/Shadawks/Strapwn | 2 | 0| 
+| 20230421T08:58:28Z | Python script using ADB to exploit ALL androids | https://github.com/sudo-self/phonesploit-pro | 1 | 0| 
+| 20230421T08:51:48Z | UAC bypass for confirmation bypass in win 10/11 | https://github.com/9H4WK/UAC-Exploit | 0 | 0| 
+| 20230421T08:50:08Z | A tool to inspect heap exploitabilities and security checks for glibc, just like checksec. | https://github.com/pvz122/cheapsec | 0 | 0| 
+| 20230421T07:53:07Z | Confirmation message bypass | https://github.com/DosX-dev/UAC-Exploit | 40 | 3| 
+| 20230421T07:41:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 730| 
+| 20230421T07:29:14Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 739 | 99| 
+| 20230421T06:57:58Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
+| 20230421T06:30:18Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1020 | 110| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230420T23:55:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3405 | 479| 
+| 20230421T05:06:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3406 | 479| 
 | 20230420T13:49:36Z | A symbolic execution engine that can find errors that require many iterations through loops. | https://github.com/tudelft-cda-lab/SymLoop | 0 | 0| 
 | 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
 | 20230419T13:04:25Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T11:53:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3628 | 730| 
+| 20230421T09:57:12Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy | 0 | 0| 
+| 20230421T09:46:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8585 | 1876| 
+| 20230421T06:30:18Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1020 | 110| 
 | 20230421T01:55:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1360 | 192| 
 | 20230421T01:53:53Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
 | 20230421T01:48:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2686 | 185| 
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
 | 20230420T21:33:05Z | Fuzz Testing Triangle | https://github.com/akshataxx/Fuzz-Testing-Triangle | 0 | 0| 
 | 20230420T20:25:19Z | Null | https://github.com/siddesai80/FuzzyLogicController | 0 | 0| 
-| 20230420T19:22:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
-| 20230420T18:28:44Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 59 | 6| 
-| 20230420T12:50:17Z | Null | https://github.com/bitstechs/fuzzy-spork | 0 | 0| 
-| 20230420T12:14:05Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 56 | 1| 
 
 
 
