@@ -55,13 +55,13 @@
 | 20230420T08:56:58Z | CVE-2023-25234 | Null | https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow | | 
 | 20230420T08:36:05Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
 | 20230420T07:15:53Z | CVE-2023-2002 | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | https://github.com/lrh2000/CVE-2023-2002 | | 
-| 20230420T06:01:06Z | CVE-2020-17453 | CVE-2020-17453 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | https://github.com/karthi-the-hacker/CVE-2020-17453 | | 
+| 20230420T07:05:04Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/DorkerW-CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T00:17:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11598 | 375| 
+| 20230421T01:19:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11599 | 375| 
 | 20230420T16:54:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 254 | 2| 
 | 20230420T13:43:48Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 2 | 0| 
 | 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
