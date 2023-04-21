@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T01:19:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11599 | 375| 
+| 20230421T01:53:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11600 | 375| 
 | 20230420T16:54:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 254 | 2| 
 | 20230420T13:43:48Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 2 | 0| 
 | 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T01:53:53Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
 | 20230421T01:48:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2686 | 185| 
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
 | 20230420T21:33:05Z | Fuzz Testing Triangle | https://github.com/akshataxx/Fuzz-Testing-Triangle | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230420T12:50:17Z | Null | https://github.com/bitstechs/fuzzy-spork | 0 | 0| 
 | 20230420T12:14:05Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 56 | 1| 
 | 20230420T09:23:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1359 | 192| 
-| 20230420T08:52:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3620 | 726| 
 
 
 
