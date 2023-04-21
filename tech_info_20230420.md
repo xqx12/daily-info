@@ -37,9 +37,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230420T12:23:30Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 1 | 0| 
-| 20230420T12:10:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 253 | 2| 
-| 20230420T12:06:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11585 | 375| 
+| 20230420T23:23:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11597 | 375| 
+| 20230420T16:54:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 254 | 2| 
+| 20230420T13:43:48Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 2 | 0| 
 | 20230420T07:07:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2217 | 612| 
 
 
@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T23:45:48Z | Null | https://github.com/DxDef1/rbx-exploit | 3 | 0| 
+| 20230420T23:32:05Z | Null | https://github.com/OYASN/Exploit.PHP.SQLInjection | 0 | 0| 
+| 20230420T23:26:35Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 1 | 0| 
+| 20230420T22:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/pet-clinic-e2e-borucrokzc-FGAb_-press-exploit | 0 | 0| 
+| 20230420T21:35:39Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 2 | 0| 
+| 20230420T21:30:57Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 1 | 0| 
+| 20230420T12:43:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 215 | 42| 
 | 20230420T12:36:28Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
 | 20230420T11:46:35Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3751 | 549| 
 | 20230420T11:21:01Z | CNVD-2023-27598 | https://github.com/pupil857/Solr-Exploit | 3 | 0| 
-| 20230420T10:58:23Z | This is a repo to see and even open our code on visual studio | https://github.com/cosmo158mc/OrangeFox_exploits_Make-yourself_project | 0 | 0| 
-| 20230420T10:33:28Z | OrangeFox Exploits Releases and more | https://github.com/cosmo158mc/OrangeFox_Exploits | 0 | 0| 
-| 20230420T09:53:01Z | A collection of smart contract exploits with a working proof of concept and at least one example of said exploits in the wild! | https://github.com/STYJ/Smart-Contract-Exploits | 0 | 0| 
-| 20230420T09:49:40Z | Just some general PC-Exploits like Buffer Overflow and Fork Bombs | https://github.com/kraemr/PC-Exploits | 0 | 0| 
-| 20230420T09:48:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 24 | 3| 
-| 20230420T09:24:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4890 | 963| 
-| 20230420T08:37:44Z | A Useful Tool to Better exploit OpenAi%s Large Language Models | https://github.com/GEYOUR/GptAssistant | 0 | 0| 
 
 
 # backdoor on Github 推荐
