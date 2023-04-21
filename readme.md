@@ -48,12 +48,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T12:17:13Z | Confirmation message bypass | https://github.com/DosX-dev/UAC-Exploit | 41 | 3| 
 | 20230421T12:10:53Z | The first all in one Strapi exploitation tool. | https://github.com/Shadawks/Strapwn | 3 | 0| 
 | 20230421T09:53:29Z | A demonstration of exploiting sparsity in the spatial frequency domain to allow for distributed random sensing and random access in sensor-fields measuring natural phenomena. | https://github.com/2biias/CompressedSensingRACS | 0 | 0| 
 | 20230421T08:58:28Z | Python script using ADB to exploit ALL androids | https://github.com/sudo-self/phonesploit-pro | 1 | 0| 
 | 20230421T08:51:48Z | UAC bypass for confirmation bypass in win 10/11 | https://github.com/9H4WK/UAC-Exploit | 0 | 0| 
 | 20230421T08:50:08Z | A tool to inspect heap exploitabilities and security checks for glibc, just like checksec. | https://github.com/pvz122/cheapsec | 0 | 0| 
-| 20230421T07:53:07Z | Confirmation message bypass | https://github.com/DosX-dev/UAC-Exploit | 40 | 3| 
 | 20230421T07:41:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5084 | 730| 
 | 20230421T07:29:14Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 739 | 99| 
 | 20230421T06:57:58Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
