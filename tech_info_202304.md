@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230421T12:08:59Z | CVE-2023-28206 | Null | https://github.com/ZZY3312/CVE-2023-28206 | | 
 | 20230421T11:59:14Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230421T10:49:25Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
 | 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
@@ -55,7 +56,6 @@
 | 20230421T02:12:04Z | CVE-2023-21823 |  CVE-2023-21823 PoC | https://github.com/Elizarfish/CVE-2023-21823 | | 
 | 20230420T22:37:07Z | cve-2021-41773 | A little demonstration of cve-2021-41773 on httpd docker containers | https://github.com/MatanelGordon/docker-cve-2021-41773 | | 
 | 20230420T17:58:27Z | CVE-2023-21554 | metasploit module for CVE-2023-21554 remote code execution in msmq service which dont require any authentication and user interaction | https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC | | 
-| 20230420T17:31:30Z | CVE-2022-0435 | Null | https://github.com/wlswotmd/CVE-2022-0435 | | 
 
 
 # klee on Github 推荐
