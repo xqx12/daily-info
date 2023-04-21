@@ -56,10 +56,10 @@
 | 20230420T22:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/pet-clinic-e2e-borucrokzc-FGAb_-press-exploit | 0 | 0| 
 | 20230420T21:35:39Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 2 | 0| 
 | 20230420T21:30:57Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 1 | 0| 
+| 20230420T21:25:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4890 | 963| 
 | 20230420T12:43:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 215 | 42| 
 | 20230420T12:36:28Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
 | 20230420T11:46:35Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3751 | 549| 
-| 20230420T11:21:01Z | CNVD-2023-27598 | https://github.com/pupil857/Solr-Exploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
