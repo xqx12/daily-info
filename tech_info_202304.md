@@ -147,13 +147,13 @@
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
 | 20230420T21:33:05Z | Fuzz Testing Triangle | https://github.com/akshataxx/Fuzz-Testing-Triangle | 0 | 0| 
 | 20230420T20:25:19Z | Null | https://github.com/siddesai80/FuzzyLogicController | 0 | 0| 
+| 20230420T19:22:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
 | 20230420T12:50:17Z | Null | https://github.com/bitstechs/fuzzy-spork | 0 | 0| 
 | 20230420T12:14:05Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 56 | 1| 
 | 20230420T09:23:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1359 | 192| 
 | 20230420T08:52:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3620 | 726| 
 | 20230420T07:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4666 | 1120| 
 | 20230420T07:08:45Z | Simple WebSocket fuzzer | https://github.com/scipag/websocket_fuzzer | 1 | 0| 
-| 20230420T07:07:09Z | 独立开发测试LIN协议的的fuzzing脚本 | https://github.com/heiyu-sec/LINlinfuzzing | 0 | 0| 
 
 
 
