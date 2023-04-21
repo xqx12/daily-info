@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230421T12:08:59Z | CVE-2023-28206 | Null | https://github.com/ZZY3312/CVE-2023-28206 | | 
+| 20230421T12:46:02Z | CVE-2023-28206 | Null | https://github.com/ZZY3312/CVE-2023-28206 | | 
 | 20230421T11:59:14Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230421T10:49:25Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
 | 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
