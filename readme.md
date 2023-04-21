@@ -62,6 +62,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T10:36:02Z | Null | https://github.com/lehongphong08/PY-Backdoor | 0 | 0| 
+| 20230421T07:10:48Z | Shell Backdoor List | https://github.com/OYASN/backdoor-php | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
