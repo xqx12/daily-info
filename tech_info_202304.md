@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T12:05:20Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy-credit-scoring | 0 | 0| 
 | 20230421T11:53:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3628 | 730| 
 | 20230421T09:57:12Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy | 0 | 0| 
 | 20230421T09:46:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8585 | 1876| 
@@ -154,7 +155,6 @@
 | 20230421T01:48:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2686 | 185| 
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
 | 20230420T21:33:05Z | Fuzz Testing Triangle | https://github.com/akshataxx/Fuzz-Testing-Triangle | 0 | 0| 
-| 20230420T20:25:19Z | Null | https://github.com/siddesai80/FuzzyLogicController | 0 | 0| 
 
 
 
