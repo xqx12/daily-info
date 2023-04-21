@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T01:55:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1360 | 192| 
 | 20230421T01:53:53Z | assignment-03-Fuzzyspuffyy created by GitHub Classroom | https://github.com/imd1005-web-development-winter-2023/assignment-03-Fuzzyspuffyy | 0 | 0| 
 | 20230421T01:48:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2686 | 185| 
 | 20230420T22:43:23Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20230420T18:28:44Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 59 | 6| 
 | 20230420T12:50:17Z | Null | https://github.com/bitstechs/fuzzy-spork | 0 | 0| 
 | 20230420T12:14:05Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 56 | 1| 
-| 20230420T09:23:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1359 | 192| 
 
 
 
