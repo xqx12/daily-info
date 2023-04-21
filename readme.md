@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230420T23:50:53Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 178 | 9| 
 | 20230420T23:45:48Z | Null | https://github.com/DxDef1/rbx-exploit | 3 | 0| 
 | 20230420T23:32:05Z | Null | https://github.com/OYASN/Exploit.PHP.SQLInjection | 0 | 0| 
 | 20230420T23:26:35Z | Repository for computer and network security exploits and defences | https://github.com/jelc53/security-exploits | 1 | 0| 
@@ -59,7 +60,6 @@
 | 20230420T21:25:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4890 | 963| 
 | 20230420T12:43:38Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 215 | 42| 
 | 20230420T12:36:28Z | Detecting the road exploiting image recognition techniques using python | https://github.com/VedantBatra/make-way | 0 | 0| 
-| 20230420T11:46:35Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3751 | 549| 
 
 
 # backdoor on Github 推荐
