@@ -77,6 +77,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230421T17:26:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 556 | 36| 
+| 20230421T15:01:26Z | Ethereum smart contract vulnerability scanner based on symbolic execution | https://github.com/Notation/gscanner | 0 | 0| 
 | 20230421T05:06:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3406 | 479| 
 
 
