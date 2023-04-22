@@ -95,6 +95,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230421T20:51:04Z | APEX-ICS: Automated Protocol Exploration and Fuzzing For ICS Protocols | https://github.com/ParvinSoni/APEX-ICS | 0 | 0| 
 | 20230421T20:39:06Z | a little countdown timer page to explore fastapi | https://github.com/mattkatz/fuzzy-octo-funicular | 1 | 0| 
+| 20230421T20:19:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
 | 20230421T20:13:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8588 | 1876| 
 | 20230421T20:03:26Z | Initial frontend work for CS32 final project. Will be migrated TBD. | https://github.com/austin-funk/fuzzy-fortnite | 0 | 0| 
 | 20230421T19:50:37Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 86 | 2| 
@@ -102,7 +103,6 @@
 | 20230421T12:05:20Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy-credit-scoring | 0 | 0| 
 | 20230421T11:53:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3628 | 730| 
 | 20230421T09:57:12Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy | 0 | 0| 
-| 20230421T06:34:01Z | Null | https://github.com/google/fuzztest | 264 | 19| 
 
 
 
