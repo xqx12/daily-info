@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:51:42Z | cve-2022-1609 | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | | 
 | 20230422T05:31:44Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 
 
@@ -48,6 +49,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T11:29:56Z | Null | https://github.com/alexeipc/backdoor | 0 | 0| 
 | 20230422T04:57:22Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/ZQ-Struggle/AdvDoor | 22 | 7| 
 | 20230422T02:23:41Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 4 | 1| 

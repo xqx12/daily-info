@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:51:42Z | cve-2022-1609 | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | | 
 | 20230422T05:31:44Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230421T21:31:59Z | CVE-2022-4944 | 「💥」CVE-2022-4944: KodExplorer <= 4.49 - CSRF to Arbitrary File Upload | https://github.com/MrEmpy/CVE-2022-4944 | | 
 | 20230421T20:18:04Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
@@ -55,7 +56,6 @@
 | 20230421T10:49:25Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
 | 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
 | 20230421T08:01:11Z | CVE-2023-21839 | CVE-2023-21839 Python版本 | https://github.com/houqe/POC_CVE-2023-21839 | | 
-| 20230421T06:15:47Z | CVE-2022-21882 | Null | https://github.com/dishfwk/CVE-2022-21882 | | 
 
 
 # klee on Github 推荐
@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T11:29:56Z | Null | https://github.com/alexeipc/backdoor | 0 | 0| 
 | 20230422T04:57:22Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/ZQ-Struggle/AdvDoor | 22 | 7| 
 | 20230422T02:23:41Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 4 | 1| 
@@ -110,7 +111,6 @@
 | 20230421T07:10:48Z | Shell Backdoor List | https://github.com/OYASN/backdoor-php | 1 | 0| 
 | 20230420T22:37:38Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 41 | 8| 
 | 20230420T20:19:03Z | I SIMPLE BACKDOOR ON RUST  | https://github.com/el-mo9awin1954dz/RUSTSHELL | 0 | 0| 
-| 20230420T18:06:22Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
