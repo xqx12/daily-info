@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230422T05:31:44Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230421T21:31:59Z | CVE-2022-4944 | 「💥」CVE-2022-4944: KodExplorer <= 4.49 - CSRF to Arbitrary File Upload | https://github.com/MrEmpy/CVE-2022-4944 | | 
 | 20230421T20:18:04Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
 | 20230421T18:30:27Z | cve-2021-41773 | A little demonstration of cve-2021-41773 on httpd docker containers | https://github.com/MatanelGordon/docker-cve-2021-41773 | | 
@@ -55,14 +56,13 @@
 | 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
 | 20230421T08:01:11Z | CVE-2023-21839 | CVE-2023-21839 Python版本 | https://github.com/houqe/POC_CVE-2023-21839 | | 
 | 20230421T06:15:47Z | CVE-2022-21882 | Null | https://github.com/dishfwk/CVE-2022-21882 | | 
-| 20230421T02:14:23Z | CVE-2023-21768 | Null | https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230421T19:56:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11630 | 376| 
-| 20230421T17:26:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 255 | 2| 
+| 20230422T07:46:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11639 | 376| 
+| 20230422T04:07:28Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 256 | 2| 
 | 20230421T13:24:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 66 | 19| 
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
 | 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
@@ -86,21 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T11:15:46Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 6 | 1| 
+| 20230422T11:13:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5491 | 754| 
+| 20230422T11:00:46Z | Null | https://github.com/vishalbalani/NetworkExploitation | 1 | 0| 
+| 20230422T09:26:06Z | Null | https://github.com/synapsegod/terminus-exploits | 0 | 0| 
+| 20230422T07:37:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 622 | 165| 
+| 20230422T04:06:32Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
 | 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
-| 20230422T00:16:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5489 | 753| 
 | 20230421T22:13:14Z | PS4 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 21 | 15| 
 | 20230421T21:37:42Z | Null | https://github.com/EmilianoEmanuelSosa/Exploitation-analysis-projects | 1 | 0| 
 | 20230421T21:33:49Z | Dark Matter Menu is a Roblox exploit menu created by one person, me. | https://github.com/TheGodOfDarkMatter/Dark-Matter-Menu | 0 | 0| 
-| 20230421T21:33:07Z | Null | https://github.com/MellowFishy/funni-exploit | 0 | 0| 
-| 20230421T21:27:15Z | Null | https://github.com/RobloxExploiterHubs/Exploit-MoonSec-Obfuscated-Hub | 0 | 0| 
-| 20230421T20:41:10Z | Null | https://github.com/9078451/exploit-n-2 | 0 | 0| 
-| 20230421T20:19:52Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 180 | 9| 
-| 20230421T12:17:13Z | Confirmation message bypass | https://github.com/DosX-dev/UAC-Exploit | 41 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T11:29:56Z | Null | https://github.com/alexeipc/backdoor | 0 | 0| 
+| 20230422T04:57:22Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/ZQ-Struggle/AdvDoor | 22 | 7| 
+| 20230422T02:23:41Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 4 | 1| 
 | 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230421T12:47:36Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
 | 20230421T10:36:02Z | Null | https://github.com/lehongphong08/PY-Backdoor | 0 | 0| 
@@ -108,9 +111,6 @@
 | 20230420T22:37:38Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 41 | 8| 
 | 20230420T20:19:03Z | I SIMPLE BACKDOOR ON RUST  | https://github.com/el-mo9awin1954dz/RUSTSHELL | 0 | 0| 
 | 20230420T18:06:22Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
-| 20230420T15:02:05Z | Null | https://github.com/m-rosen/kleptographic-backdoors | 0 | 0| 
-| 20230420T14:08:41Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20230420T12:24:03Z | Null | https://github.com/SCLBD/BackdoorBench | 135 | 19| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T11:34:55Z | fuzzy-octo-funicular | https://github.com/Alm5tar/fuzzy-octo-funicular | 0 | 0| 
+| 20230422T10:37:57Z | Null | https://github.com/david-arutyunyan/FuzzySearch_PostgreSQL-extension | 0 | 0| 
+| 20230422T10:11:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8589 | 1876| 
+| 20230422T10:01:16Z | Null | https://github.com/Mahmoudkhaled225/Fuzzy-Logic-Toolbox-Clone-With-Python | 0 | 0| 
+| 20230422T09:39:48Z | Null | https://github.com/Anamog/fuzzy-potato | 0 | 0| 
+| 20230422T06:25:32Z | Create Fuzzing Harness with GPT. | https://github.com/0x34d/harness-GPT | 0 | 0| 
+| 20230422T03:46:43Z | Test  | https://github.com/TheNickHub/fuzzy-barnacle | 0 | 0| 
+| 20230422T03:29:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3629 | 730| 
 | 20230422T01:34:37Z | Null | https://github.com/qazwsxedcrfvbgt/fuzzy-octo-journey | 0 | 0| 
 | 20230421T20:51:04Z | APEX-ICS: Automated Protocol Exploration and Fuzzing For ICS Protocols | https://github.com/ParvinSoni/APEX-ICS | 0 | 0| 
-| 20230421T20:39:06Z | a little countdown timer page to explore fastapi | https://github.com/mattkatz/fuzzy-octo-funicular | 1 | 0| 
-| 20230421T20:19:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3538 | 423| 
-| 20230421T20:13:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8588 | 1876| 
-| 20230421T20:03:26Z | Initial frontend work for CS32 final project. Will be migrated TBD. | https://github.com/austin-funk/fuzzy-fortnite | 0 | 0| 
-| 20230421T19:50:37Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 86 | 2| 
-| 20230421T12:59:35Z | Null | https://github.com/Matteo-Gigli/echidnaFuzzing | 0 | 0| 
-| 20230421T12:05:20Z | A neuro-fuzzy approach for classifier selection in credit scoring | https://github.com/KovousoglouGeorgios/Neuro-Fuzzy-credit-scoring | 0 | 0| 
-| 20230421T11:53:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3628 | 730| 
 
 
 
