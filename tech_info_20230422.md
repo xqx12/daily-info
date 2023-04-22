@@ -35,15 +35,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:54:09Z | A collection of scripts that exploit the CVE%s I stumble upon | https://github.com/EchoSl0w/CVE | 0 | 0| 
+| 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T12:34:20Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 7 | 1| 
 | 20230422T12:05:42Z | Awesome Tools Exploit Windows | https://github.com/Xcod3bughunt3r/Awesome-Tools-Exploit-Windows | 0 | 0| 
 | 20230422T11:13:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5491 | 754| 
+| 20230422T11:11:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13510 | 2284| 
 | 20230422T11:00:46Z | Null | https://github.com/vishalbalani/NetworkExploitation | 1 | 0| 
 | 20230422T09:26:06Z | Null | https://github.com/synapsegod/terminus-exploits | 0 | 0| 
 | 20230422T09:09:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4892 | 964| 
 | 20230422T07:37:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 622 | 165| 
-| 20230422T04:06:32Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
-| 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
