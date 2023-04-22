@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T01:51:53Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230422T00:16:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5489 | 753| 
 | 20230421T22:13:14Z | PS4 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 21 | 15| 
 | 20230421T21:37:42Z | Null | https://github.com/EmilianoEmanuelSosa/Exploitation-analysis-projects | 1 | 0| 
@@ -95,12 +96,12 @@
 | 20230421T20:41:10Z | Null | https://github.com/9078451/exploit-n-2 | 0 | 0| 
 | 20230421T20:19:52Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 180 | 9| 
 | 20230421T12:17:13Z | Confirmation message bypass | https://github.com/DosX-dev/UAC-Exploit | 41 | 3| 
-| 20230421T12:10:53Z | The first all in one Strapi exploitation tool. | https://github.com/Shadawks/Strapwn | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T01:51:53Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230421T12:47:36Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
 | 20230421T10:36:02Z | Null | https://github.com/lehongphong08/PY-Backdoor | 0 | 0| 
 | 20230421T07:10:48Z | Shell Backdoor List | https://github.com/OYASN/backdoor-php | 1 | 0| 
@@ -110,7 +111,6 @@
 | 20230420T15:02:05Z | Null | https://github.com/m-rosen/kleptographic-backdoors | 0 | 0| 
 | 20230420T14:08:41Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230420T12:24:03Z | Null | https://github.com/SCLBD/BackdoorBench | 135 | 19| 
-| 20230420T11:58:19Z | Null | https://github.com/BKUKB/BackDoor_FateAI_Jupyter | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
