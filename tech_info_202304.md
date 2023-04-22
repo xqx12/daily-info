@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230422T01:51:53Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
+| 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230422T00:16:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5489 | 753| 
 | 20230421T22:13:14Z | PS4 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 21 | 15| 
 | 20230421T21:37:42Z | Null | https://github.com/EmilianoEmanuelSosa/Exploitation-analysis-projects | 1 | 0| 
@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230422T01:51:53Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
+| 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230421T12:47:36Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
 | 20230421T10:36:02Z | Null | https://github.com/lehongphong08/PY-Backdoor | 0 | 0| 
 | 20230421T07:10:48Z | Shell Backdoor List | https://github.com/OYASN/backdoor-php | 1 | 0| 
