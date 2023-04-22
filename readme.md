@@ -39,6 +39,7 @@
 | 20230422T11:13:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5491 | 754| 
 | 20230422T11:00:46Z | Null | https://github.com/vishalbalani/NetworkExploitation | 1 | 0| 
 | 20230422T09:26:06Z | Null | https://github.com/synapsegod/terminus-exploits | 0 | 0| 
+| 20230422T09:09:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4892 | 964| 
 | 20230422T07:37:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 622 | 165| 
 | 20230422T04:06:32Z | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | 1 | 0| 
 | 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
