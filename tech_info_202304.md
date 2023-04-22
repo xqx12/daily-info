@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230422T07:46:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11639 | 376| 
+| 20230422T12:05:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11640 | 377| 
 | 20230422T04:07:28Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 256 | 2| 
 | 20230421T13:24:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 66 | 19| 
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T07:04:21Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 1 | 4| 
 | 20230421T17:26:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 556 | 36| 
 | 20230421T15:01:26Z | Ethereum smart contract vulnerability scanner based on symbolic execution | https://github.com/Notation/gscanner | 0 | 0| 
 | 20230421T05:06:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3406 | 479| 
@@ -125,7 +126,6 @@
 | 20230419T08:42:10Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 2 | 0| 
 | 20230419T03:25:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 40 | 8| 
 | 20230418T13:44:14Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 755 | 87| 
-| 20230418T10:58:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 321 | 76| 
 
 
 # big4 on Github 推荐
