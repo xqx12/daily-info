@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230422T12:05:42Z | Awesome Tools Exploit Windows | https://github.com/Xcod3bughunt3r/Awesome-Tools-Exploit-Windows | 0 | 0| 
 | 20230422T11:15:46Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 6 | 1| 
 | 20230422T11:13:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5491 | 754| 
 | 20230422T11:00:46Z | Null | https://github.com/vishalbalani/NetworkExploitation | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
 | 20230421T22:13:14Z | PS4 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 21 | 15| 
 | 20230421T21:37:42Z | Null | https://github.com/EmilianoEmanuelSosa/Exploitation-analysis-projects | 1 | 0| 
-| 20230421T21:33:49Z | Dark Matter Menu is a Roblox exploit menu created by one person, me. | https://github.com/TheGodOfDarkMatter/Dark-Matter-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
