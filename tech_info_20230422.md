@@ -42,11 +42,11 @@
 | 20230422T22:52:04Z | Here I will report all the exploiters I find on Kohls Admin House. You can use this in your scripts to automatically crash a list of a exploiters if you want. | https://github.com/decryptionite/kah | 0 | 0| 
 | 20230422T22:34:50Z | Good Anti-Exploit for minecraft servers. | https://github.com/AlexandruDRF/MC-Skript-Anti-Trigger-Commands | 0 | 0| 
 | 20230422T21:57:14Z | Variations of defenses for MIA by exploiting the concept of increasing entropy of final vector | https://github.com/dianujer/entropic_MIA_defense | 0 | 0| 
+| 20230422T19:32:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4893 | 965| 
 | 20230422T16:51:45Z | Un nuevo exploit de ChatGPT | https://github.com/Danucosukosuko/RFSRCexploit | 0 | 0| 
 | 20230422T12:54:09Z | A collection of scripts that exploit the CVE%s I stumble upon | https://github.com/EchoSl0w/CVE | 0 | 0| 
 | 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T12:34:20Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 7 | 1| 
-| 20230422T12:05:42Z | Awesome Tools Exploit Windows | https://github.com/Xcod3bughunt3r/Awesome-Tools-Exploit-Windows | 0 | 0| 
 
 
 # backdoor on Github 推荐
