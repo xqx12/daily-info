@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T01:27:43Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 366 | 30| 
+| 20230423T01:22:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3s | 1 | 0| 
+| 20230423T01:21:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3s | 1 | 0| 
+| 20230423T01:20:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3i | 1 | 0| 
 | 20230423T01:14:34Z | Very Simple Roblox Executor | https://github.com/Riquiz/Roblox-ExploitsLauncher | 0 | 0| 
 | 20230423T00:57:48Z | Very Simple Roblox Executor | https://github.com/Gindatto/Roblox-ExploitsLauncher | 0 | 0| 
 | 20230423T00:52:45Z | Null | https://github.com/tesitura/iff-exploits-market-research | 0 | 0| 
 | 20230423T00:11:59Z | Our 0day / n-day exploits will be published here | https://github.com/CLCS/Exploits | 0 | 0| 
 | 20230422T23:27:05Z | LFD and Buffer Overflows + RCE affecting uc-httpd  | https://github.com/CLCS/uc-httpd-exploits | 0 | 0| 
 | 20230422T23:06:51Z | Null | https://github.com/Alex-Ruan/PT4Exploits | 0 | 0| 
-| 20230422T22:52:04Z | Here I will report all the exploiters I find on Kohls Admin House. You can use this in your scripts to automatically crash a list of a exploiters if you want. | https://github.com/decryptionite/kah | 0 | 0| 
-| 20230422T22:34:50Z | Good Anti-Exploit for minecraft servers. | https://github.com/AlexandruDRF/MC-Skript-Anti-Trigger-Commands | 0 | 0| 
-| 20230422T21:57:14Z | Variations of defenses for MIA by exploiting the concept of increasing entropy of final vector | https://github.com/dianujer/entropic_MIA_defense | 0 | 0| 
-| 20230422T19:32:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4893 | 965| 
 
 
 # backdoor on Github 推荐
