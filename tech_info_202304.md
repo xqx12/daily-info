@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T00:52:45Z | Null | https://github.com/tesitura/iff-exploits-market-research | 0 | 0| 
 | 20230423T00:11:59Z | Our 0day / n-day exploits will be published here | https://github.com/CLCS/Exploits | 0 | 0| 
 | 20230422T23:27:05Z | LFD and Buffer Overflows + RCE affecting uc-httpd  | https://github.com/CLCS/uc-httpd-exploits | 0 | 0| 
 | 20230422T23:06:51Z | Null | https://github.com/Alex-Ruan/PT4Exploits | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230422T19:32:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4893 | 965| 
 | 20230422T16:51:45Z | Un nuevo exploit de ChatGPT | https://github.com/Danucosukosuko/RFSRCexploit | 0 | 0| 
 | 20230422T12:54:09Z | A collection of scripts that exploit the CVE%s I stumble upon | https://github.com/EchoSl0w/CVE | 0 | 0| 
-| 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
