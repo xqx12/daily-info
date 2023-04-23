@@ -145,9 +145,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T01:25:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9197 | 1015| 
 | 20230423T01:03:10Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 75 | 2| 
 | 20230423T00:16:00Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 65 | 6| 
-| 20230422T23:56:57Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9196 | 1015| 
 | 20230422T23:53:33Z | A simulation of maximizing stock market gains using fuzzy logic | https://github.com/jordanmata15/Fuzzy-Stock-Trader | 0 | 0| 
 | 20230422T23:30:14Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
 | 20230422T23:18:33Z | Null | https://github.com/OneDollarVps/fuzz | 0 | 0| 

@@ -78,7 +78,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230422T23:56:57Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9196 | 1015| 
 | 20230422T23:53:33Z | A simulation of maximizing stock market gains using fuzzy logic | https://github.com/jordanmata15/Fuzzy-Stock-Trader | 0 | 0| 
 | 20230422T23:30:14Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
 | 20230422T23:18:33Z | Null | https://github.com/OneDollarVps/fuzz | 0 | 0| 
@@ -88,6 +87,7 @@
 | 20230422T20:58:07Z | Design and analysis of fuzzy logic controller using MATLAB and Simulink | https://github.com/n-jokic/fuzzy-logic-controler | 0 | 0| 
 | 20230422T20:44:56Z | Null | https://github.com/NsdHSO/fuzzy-octo-doodle-chu | 0 | 0| 
 | 20230422T20:27:44Z | Null | https://github.com/PivDen2000/Fuzzy-games | 0 | 0| 
+| 20230422T20:15:58Z | Null | https://github.com/Fuzz-Volp/Fuzz-Volp | 0 | 0| 
 
 
 
