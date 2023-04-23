@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T01:14:34Z | Very Simple Roblox Executor | https://github.com/Riquiz/Roblox-ExploitsLauncher | 0 | 0| 
 | 20230423T00:57:48Z | Very Simple Roblox Executor | https://github.com/Gindatto/Roblox-ExploitsLauncher | 0 | 0| 
 | 20230423T00:52:45Z | Null | https://github.com/tesitura/iff-exploits-market-research | 0 | 0| 
 | 20230423T00:11:59Z | Our 0day / n-day exploits will be published here | https://github.com/CLCS/Exploits | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230422T22:34:50Z | Good Anti-Exploit for minecraft servers. | https://github.com/AlexandruDRF/MC-Skript-Anti-Trigger-Commands | 0 | 0| 
 | 20230422T21:57:14Z | Variations of defenses for MIA by exploiting the concept of increasing entropy of final vector | https://github.com/dianujer/entropic_MIA_defense | 0 | 0| 
 | 20230422T19:32:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4893 | 965| 
-| 20230422T16:51:45Z | Un nuevo exploit de ChatGPT | https://github.com/Danucosukosuko/RFSRCexploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
