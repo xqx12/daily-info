@@ -41,6 +41,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230423T12:26:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5088 | 730| 
+| 20230423T12:19:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4896 | 965| 
 | 20230423T11:56:00Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 27 | 3| 
 | 20230423T11:49:55Z | 💣💥💀 Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
 | 20230423T11:22:33Z | ClawSploit Is a new way of exploiting! | https://github.com/tutsTV/ClawSploit | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20230423T05:47:11Z | The best Ninja Legends Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 | 20230423T01:36:40Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 368 | 30| 
 | 20230423T01:22:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3s | 1 | 0| 
-| 20230423T01:21:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3s | 1 | 0| 
 
 
 # backdoor on Github 推荐
