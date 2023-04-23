@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230423T01:36:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11661 | 377| 
+| 20230423T01:43:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11663 | 377| 
 | 20230422T15:18:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 257 | 2| 
 | 20230422T15:13:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
 | 20230421T13:24:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 66 | 19| 
@@ -145,9 +145,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T01:44:02Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 66 | 6| 
 | 20230423T01:25:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9197 | 1015| 
 | 20230423T01:03:10Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 75 | 2| 
-| 20230423T00:16:00Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 65 | 6| 
 | 20230422T23:53:33Z | A simulation of maximizing stock market gains using fuzzy logic | https://github.com/jordanmata15/Fuzzy-Stock-Trader | 0 | 0| 
 | 20230422T23:30:14Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
 | 20230422T23:18:33Z | Null | https://github.com/OneDollarVps/fuzz | 0 | 0| 
