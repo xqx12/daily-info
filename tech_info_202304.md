@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230423 | AttacKG:从网络威胁情报报告构建技术知识图谱 | https://mp.weixin.qq.com/s/3NXLUL86P-4tYLO3oZ7A7g| 
+| 20230423 | 打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg| 
 | 20230421 | 从美方推动零信任战略过程看网络安全创新的规律特点 | https://mp.weixin.qq.com/s/6GPD7bzwWP01aF4qI4XLhQ| 
 | 20230421 | 一个AK/SK泄露检测的实现思路 | https://mp.weixin.qq.com/s/cplbL_TUKjCuGTpI7YCKQg| 
 | 20230421 | 同源检测技术在供应链安全治理中的应用 | https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg| 
@@ -39,38 +41,36 @@
 | 20230421 | DIE：基于保留属性变异的JavaScript浏览器引擎模糊测试工具 | https://mp.weixin.qq.com/s/vqw4-uCos-pxA5yPsm54rQ| 
 | 20230421 | Stubbifier: 去除动态服务端 JavaScript 应用的膨胀代码 | https://mp.weixin.qq.com/s/TPu5F3vJrD4MaBK_ZztCKw| 
 | 20230420 | 关于反病毒引擎间不一致的研究 | https://mp.weixin.qq.com/s/O-ka76bQcfTwSfBPXCfsLA| 
-| 20230420 | 废除销许？公告发布后对行业有哪些影响？ | https://mp.weixin.qq.com/s/Xq0XD7QO-OcEQ-HVlIctPg| 
-| 20230420 | 网络安全产品管理政策遇重大调整，什么情况？ | https://mp.weixin.qq.com/s/gzKbqCh5qvT3dUG7CyDvfA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230422T22:22:25Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230423T08:47:01Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
+| 20230423T07:22:34Z | CVE-2023-1671 | Pre-Auth RCE in Sophos Web Appliance | https://github.com/ohnonoyesyes/CVE-2023-1671 | | 
+| 20230423T04:43:10Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
+| 20230423T01:58:44Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230422T18:37:49Z | CVE-2023-30458 | Null | https://github.com/d34dun1c02n/CVE-2023-30458 | | 
 | 20230422T15:54:17Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230422T12:51:42Z | cve-2022-1609 | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | | 
 | 20230421T21:31:59Z | CVE-2022-4944 | 「💥」CVE-2022-4944: KodExplorer <= 4.49 - CSRF to Arbitrary File Upload | https://github.com/MrEmpy/CVE-2022-4944 | | 
-| 20230421T20:18:04Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
 | 20230421T18:30:27Z | cve-2021-41773 | A little demonstration of cve-2021-41773 on httpd docker containers | https://github.com/MatanelGordon/docker-cve-2021-41773 | | 
 | 20230421T12:47:55Z | CVE-2023-28206 | Null | https://github.com/ZZY3312/CVE-2023-28206 | | 
-| 20230421T10:49:25Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
-| 20230421T09:43:31Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230423T01:56:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11665 | 377| 
-| 20230422T15:18:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 257 | 2| 
+| 20230423T11:52:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11716 | 377| 
+| 20230423T11:47:52Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 6 | 0| 
+| 20230423T08:24:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 260 | 2| 
 | 20230422T15:13:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
-| 20230421T13:24:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 66 | 19| 
+| 20230421T13:24:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 66 | 18| 
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
 | 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
 | 20230420T13:43:48Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 2 | 0| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 | 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
-| 20230417T10:17:45Z | Null | https://github.com/frank9615/test-be-kleecks | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T11:56:00Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 27 | 3| 
+| 20230423T11:49:55Z | 💣💥💀 Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228 | https://github.com/funcid/log4j-exploit-with-fork-bomb | 0 | 0| 
+| 20230423T11:22:33Z | ClawSploit Is a new way of exploiting! | https://github.com/tutsTV/ClawSploit | 0 | 0| 
+| 20230423T10:59:35Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
+| 20230423T09:38:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5087 | 730| 
+| 20230423T08:00:38Z | Detecting crop-fields manure application dates, exploiting Copernicus satellites and Machine Learning | https://github.com/Amatofrancesco99/master-thesis | 2 | 0| 
+| 20230423T05:47:11Z | The best Ninja Legends Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 | 20230423T01:36:40Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 368 | 30| 
 | 20230423T01:22:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3s | 1 | 0| 
 | 20230423T01:21:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3s | 1 | 0| 
-| 20230423T01:20:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3i | 1 | 0| 
-| 20230423T01:14:34Z | Very Simple Roblox Executor | https://github.com/Riquiz/Roblox-ExploitsLauncher | 0 | 0| 
-| 20230423T00:57:48Z | Very Simple Roblox Executor | https://github.com/Gindatto/Roblox-ExploitsLauncher | 0 | 0| 
-| 20230423T00:52:45Z | Null | https://github.com/tesitura/iff-exploits-market-research | 0 | 0| 
-| 20230423T00:11:59Z | Our 0day / n-day exploits will be published here | https://github.com/CLCS/Exploits | 0 | 0| 
-| 20230422T23:27:05Z | LFD and Buffer Overflows + RCE affecting uc-httpd  | https://github.com/CLCS/uc-httpd-exploits | 0 | 0| 
-| 20230422T23:06:51Z | Null | https://github.com/Alex-Ruan/PT4Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T11:34:53Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 632 | 86| 
 | 20230422T23:56:08Z | PHP-Based webshell/backdoor disguised as a HTTP 404 error page | https://github.com/CLCS/HTTP-404error-webshell | 0 | 0| 
 | 20230422T23:41:37Z | non-alphanumeric PHP webshell/backdoor - for educational purposes only | https://github.com/CLCS/nonalphanumeric-php-webshell | 0 | 0| 
 | 20230422T16:53:57Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 6 | 1| 
+| 20230422T16:09:50Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 42 | 9| 
 | 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T11:29:56Z | Null | https://github.com/alexeipc/backdoor | 0 | 0| 
 | 20230422T04:57:22Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/ZQ-Struggle/AdvDoor | 22 | 7| 
 | 20230422T02:23:41Z | php shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 4 | 1| 
 | 20230422T01:55:17Z | Exploit for Backdoor Win32 Quux Malware | https://github.com/malvuln/Backdoor.Win32.Quux_Exploit | 0 | 0| 
-| 20230421T12:47:36Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
-| 20230421T10:36:02Z | Null | https://github.com/lehongphong08/PY-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T11:37:51Z | High performance hot request cache eviction component. 高性能热请求缓存驱逐组件。 | https://github.com/mysnippet-io/fuzzy-goggles | 0 | 0| 
+| 20230423T11:23:22Z | Null | https://github.com/udhj12/fuzzy-dollop | 0 | 0| 
+| 20230423T11:18:24Z | Null | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
+| 20230423T11:13:44Z | Null | https://github.com/PlusSevenWJQ/FuzzyTestingFramework-Pytorch | 5 | 0| 
+| 20230423T09:41:29Z | The ,S,uborbital ,C,,C,annon compiler fuzzing framework | https://github.com/vusec/SCC | 0 | 0| 
+| 20230423T06:24:44Z | Null | https://github.com/karthiv/fuzzer | 0 | 0| 
 | 20230423T01:51:24Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 67 | 6| 
 | 20230423T01:25:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9197 | 1015| 
 | 20230423T01:03:10Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 75 | 2| 
 | 20230422T23:53:33Z | A simulation of maximizing stock market gains using fuzzy logic | https://github.com/jordanmata15/Fuzzy-Stock-Trader | 0 | 0| 
-| 20230422T23:30:14Z | Null | https://github.com/caoyebo/fuzzy-hashing-forensic-tool | 0 | 0| 
-| 20230422T23:18:33Z | Null | https://github.com/OneDollarVps/fuzz | 0 | 0| 
-| 20230422T22:54:31Z | A hybrid method that uses support vector regression which is known as a reliable machine learning technique and a genetic algorithm was used with fuzzy clustering to estimate missing values.  | https://github.com/surajkhanna98/Fuzzy-C-Means-Clustering-Imputation | 0 | 0| 
-| 20230422T22:40:41Z | Optimization of fuzzy controller using genetic algorithm | https://github.com/n-jokic/GA-fuzzy-controller | 0 | 0| 
-| 20230422T22:25:17Z | Null | https://github.com/khalifardy/fuzzysistem_restoran | 0 | 0| 
-| 20230422T20:58:07Z | Design and analysis of fuzzy logic controller using MATLAB and Simulink | https://github.com/n-jokic/fuzzy-logic-controler | 0 | 0| 
 
 
 
