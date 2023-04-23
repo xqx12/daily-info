@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T12:57:21Z | Attack on vulnerability in developed feature where cwe-338, cwe-760 can be exploited and unsalted hashes can be obtained to perform a recovery with several strategies. | https://github.com/alexandertoepfer/cwe-shark-h | 1 | 0| 
 | 20230423T12:26:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5088 | 730| 
 | 20230423T12:19:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13518 | 2284| 
 | 20230423T12:19:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4896 | 965| 
@@ -50,7 +51,6 @@
 | 20230423T10:59:35Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
 | 20230423T08:00:38Z | Detecting crop-fields manure application dates, exploiting Copernicus satellites and Machine Learning | https://github.com/Amatofrancesco99/master-thesis | 2 | 0| 
 | 20230423T05:47:11Z | The best Ninja Legends Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
-| 20230423T01:36:40Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 368 | 30| 
 
 
 # backdoor on Github 推荐
