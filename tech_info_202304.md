@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T00:11:59Z | Our 0day / n-day exploits will be published here | https://github.com/CLCS/Exploits | 0 | 0| 
 | 20230422T23:27:05Z | LFD and Buffer Overflows + RCE affecting uc-httpd  | https://github.com/CLCS/uc-httpd-exploits | 0 | 0| 
 | 20230422T23:06:51Z | Null | https://github.com/Alex-Ruan/PT4Exploits | 0 | 0| 
 | 20230422T22:52:04Z | Here I will report all the exploiters I find on Kohls Admin House. You can use this in your scripts to automatically crash a list of a exploiters if you want. | https://github.com/decryptionite/kah | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230422T12:54:09Z | A collection of scripts that exploit the CVE%s I stumble upon | https://github.com/EchoSl0w/CVE | 0 | 0| 
 | 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
 | 20230422T12:34:20Z | Automated exploitation of MSSQL user impersonation and linked instances | https://github.com/dadevel/mssql-spider | 7 | 1| 
-| 20230422T12:05:42Z | Awesome Tools Exploit Windows | https://github.com/Xcod3bughunt3r/Awesome-Tools-Exploit-Windows | 0 | 0| 
 
 
 # backdoor on Github 推荐
