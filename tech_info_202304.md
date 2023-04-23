@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230423T01:27:43Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 366 | 30| 
+| 20230423T01:32:20Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 367 | 30| 
 | 20230423T01:22:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3s | 1 | 0| 
 | 20230423T01:21:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3s | 1 | 0| 
 | 20230423T01:20:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3i | 1 | 0| 
