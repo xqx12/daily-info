@@ -116,6 +116,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T08:55:05Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 41| 
+| 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
 | 20230422T20:09:48Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 634 | 116| 
 | 20230422T15:13:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
 | 20230422T07:04:21Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 1 | 4| 
@@ -124,8 +126,6 @@
 | 20230421T05:06:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3406 | 479| 
 | 20230420T13:49:36Z | A symbolic execution engine that can find errors that require many iterations through loops. | https://github.com/tudelft-cda-lab/SymLoop | 0 | 0| 
 | 20230419T13:04:25Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 20 | 9| 
-| 20230419T08:42:10Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 2 | 0| 
-| 20230419T03:25:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 40 | 8| 
 
 
 # big4 on Github 推荐

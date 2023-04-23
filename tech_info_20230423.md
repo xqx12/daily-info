@@ -61,6 +61,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T08:55:05Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 41| 
+| 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
 
 
 # big4 on Github 推荐
