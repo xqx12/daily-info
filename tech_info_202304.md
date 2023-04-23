@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T12:54:07Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 2 | 0| 
 | 20230423T12:22:29Z | High performance hot request cache eviction component. 高性能热请求缓存驱逐组件。 | https://github.com/mysnippet-io/fuzzy-goggles | 0 | 0| 
 | 20230423T11:23:22Z | Null | https://github.com/udhj12/fuzzy-dollop | 0 | 0| 
 | 20230423T11:18:24Z | Null | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230423T01:51:24Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 67 | 6| 
 | 20230423T01:25:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9197 | 1015| 
 | 20230423T01:03:10Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 75 | 2| 
-| 20230422T23:53:33Z | A simulation of maximizing stock market gains using fuzzy logic | https://github.com/jordanmata15/Fuzzy-Stock-Trader | 0 | 0| 
 
 
 
