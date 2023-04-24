@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:01:04Z | La solution pour exploiter la data de ta compta en seulement 5 min top chrono! | https://github.com/jupyter-naas/FEC-engine | 0 | 0| 
 | 20230424T11:52:18Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
 | 20230424T11:40:40Z | An example to show how the calculating randomness onchain can be exploited | https://github.com/nikunj-26/Solidity-Randomness-Attack | 0 | 0| 
 | 20230424T11:29:20Z | An example of how delegatecall can be exploited by an attacker to hack solidity contracts | https://github.com/nikunj-26/DelegateCall-Attack | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 | 20230424T05:13:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 254 | 52| 
 | 20230424T01:59:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4897 | 966| 
-| 20230424T01:18:18Z | A Roblox Exploit script for Doors | https://github.com/JohnyGamingLUA/MorphIntoAnything | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,13 +116,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230423T22:16:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
+| 20230424T11:52:01Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
+| 20230424T03:08:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2219 | 612| 
 | 20230423T21:44:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3408 | 479| 
 | 20230423T19:22:18Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 756 | 87| 
 | 20230423T08:55:05Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 41| 
 | 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
 | 20230422T20:09:48Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 634 | 116| 
-| 20230422T15:13:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
 | 20230422T07:04:21Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 1 | 5| 
 | 20230421T17:26:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 556 | 36| 
 | 20230421T15:01:26Z | Ethereum smart contract vulnerability scanner based on symbolic execution | https://github.com/Notation/gscanner | 0 | 0| 
