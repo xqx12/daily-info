@@ -86,6 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T00:45:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6u | 0 | 0| 
+| 20230424T00:44:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6u | 1 | 0| 
+| 20230424T00:43:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:24:05Z | Tool for automating common pwn/binary exploitation ctf challenges | https://github.com/StefanJo3107/pwner | 0 | 0| 
 | 20230424T00:09:58Z | Null | https://github.com/iniesta-08/heap_exploits | 0 | 0| 
 | 20230423T23:51:34Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
@@ -93,9 +96,6 @@
 | 20230423T23:29:58Z | Code for paper %Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond% | https://github.com/grill-lab/ConvSim | 0 | 0| 
 | 20230423T22:39:54Z | Code to exploit a time based blind SQL injection that can be found in %Cronos% machine in HackTheBox   | https://github.com/casohub/TimeBasedBlindSQLI | 0 | 0| 
 | 20230423T22:25:48Z | Null | https://github.com/sean-nicholas/docker-layers-exploit | 0 | 0| 
-| 20230423T21:43:30Z | Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 0 | 0| 
-| 20230423T21:22:47Z | PowerShell Post Exploit Phishing | https://github.com/rtfmkiesel/PowerPhish | 0 | 0| 
-| 20230423T20:49:38Z | A fully working example of how to exploit log4j on a minecraft server | https://github.com/Justin-Garey/Minecraft-Log4j-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
