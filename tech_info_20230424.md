@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:04:19Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
 | 20230424T12:01:04Z | La solution pour exploiter la data de ta compta en seulement 5 min top chrono! | https://github.com/jupyter-naas/FEC-engine | 0 | 0| 
 | 20230424T11:52:18Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
 | 20230424T11:40:40Z | An example to show how the calculating randomness onchain can be exploited | https://github.com/nikunj-26/Solidity-Randomness-Attack | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230424T09:31:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-FV20k-doubt-exploit | 0 | 0| 
 | 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 | 20230424T05:13:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 254 | 52| 
-| 20230424T01:59:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4897 | 966| 
 
 
 # backdoor on Github 推荐
@@ -74,6 +74,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T11:40:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 24 | 2| 
 
 
 # fuzz on Github 推荐

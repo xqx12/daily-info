@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:04:19Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
 | 20230424T12:01:04Z | La solution pour exploiter la data de ta compta en seulement 5 min top chrono! | https://github.com/jupyter-naas/FEC-engine | 0 | 0| 
 | 20230424T11:52:18Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
 | 20230424T11:40:40Z | An example to show how the calculating randomness onchain can be exploited | https://github.com/nikunj-26/Solidity-Randomness-Attack | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230424T09:31:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-FV20k-doubt-exploit | 0 | 0| 
 | 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 | 20230424T05:13:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 254 | 52| 
-| 20230424T01:59:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4897 | 966| 
 
 
 # backdoor on Github 推荐
@@ -131,13 +131,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T11:40:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 24 | 2| 
 | 20230421T15:11:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 638 | 99| 
 | 20230421T08:30:40Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 37 | 2| 
 | 20230421T03:18:22Z | A Summary of Vulnerabilities Found in the BlockScope NDSS%23 Paper | https://github.com/VPRLab/BlkVulnReport | 5 | 0| 
 | 20230418T18:01:47Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 78 | 28| 
 | 20230414T00:22:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 53 | 5| 
 | 20230412T06:32:58Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 10 | 2| 
-| 20230411T15:05:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 23 | 2| 
 | 20230411T02:35:36Z | Crawling Papers in S&P/CCS/USENIX Security/NDSS according to keywords. | https://github.com/lee3yearsold/Security_Papers_Crawling | 7 | 0| 
 | 20230405T15:07:58Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 2 | 1| 
 
