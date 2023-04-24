@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T01:16:10Z | A Roblox Exploit script for Doors | https://github.com/JohnyGamingLUA/MorphIntoAnything | 0 | 0| 
 | 20230424T00:45:47Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:44:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:43:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6u | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230423T23:49:48Z | Null | https://github.com/holoperfection/Roblox-Anti-Exploit | 0 | 0| 
 | 20230423T23:29:58Z | Code for paper %Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond% | https://github.com/grill-lab/ConvSim | 0 | 0| 
 | 20230423T22:39:54Z | Code to exploit a time based blind SQL injection that can be found in %Cronos% machine in HackTheBox   | https://github.com/casohub/TimeBasedBlindSQLI | 0 | 0| 
-| 20230423T22:25:48Z | Null | https://github.com/sean-nicholas/docker-layers-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
