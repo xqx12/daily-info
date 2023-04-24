@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230424T01:33:23Z | CVE-2021-29447 | Null | https://github.com/andyhsu024/CVE-2021-29447 | | 
 | 20230423T21:12:02Z | CVE-2022-40799 | D-Link DNR-322L - Authenticated Remote Code Execution | https://github.com/rtfmkiesel/CVE-2022-40799 | | 
 | 20230423T20:15:11Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
 | 20230423T17:52:30Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
@@ -55,7 +56,6 @@
 | 20230422T18:37:49Z | CVE-2023-30458 | Null | https://github.com/d34dun1c02n/CVE-2023-30458 | | 
 | 20230422T15:54:17Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230422T12:51:42Z | cve-2022-1609 | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | | 
-| 20230421T21:31:59Z | CVE-2022-4944 | 「💥」CVE-2022-4944: KodExplorer <= 4.49 - CSRF to Arbitrary File Upload | https://github.com/MrEmpy/CVE-2022-4944 | | 
 
 
 # klee on Github 推荐
