@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230424T00:45:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6u | 0 | 0| 
+| 20230424T00:45:47Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:44:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:43:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6u | 1 | 0| 
 | 20230424T00:24:05Z | Tool for automating common pwn/binary exploitation ctf challenges | https://github.com/StefanJo3107/pwner | 0 | 0| 
