@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230424 | SecWiki周刊（第477期) | https://www.sec-wiki.com/weekly/477| 
+| 20230424 | VRepair:修复c语言安全漏洞的神经迁移学习 | https://mp.weixin.qq.com/s/wLequNUfLN0go-nHFGujpg| 
 | 20230423 | AttacKG:从网络威胁情报报告构建技术知识图谱 | https://mp.weixin.qq.com/s/3NXLUL86P-4tYLO3oZ7A7g| 
 | 20230423 | 打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg| 
 | 20230421 | 从美方推动零信任战略过程看网络安全创新的规律特点 | https://mp.weixin.qq.com/s/6GPD7bzwWP01aF4qI4XLhQ| 
@@ -40,7 +41,6 @@
 | 20230421 | 基于失败测试用例相似性的补丁正确性预测 | https://mp.weixin.qq.com/s/UdmohY-oCNfbY194PCzvMQ| 
 | 20230421 | 自动化漏洞赏金(bugbounty)和xscan扫描器总结 | https://mp.weixin.qq.com/s/A6Kjej2pfcCjuY7qey5irw| 
 | 20230421 | DIE：基于保留属性变异的JavaScript浏览器引擎模糊测试工具 | https://mp.weixin.qq.com/s/vqw4-uCos-pxA5yPsm54rQ| 
-| 20230421 | Stubbifier: 去除动态服务端 JavaScript 应用的膨胀代码 | https://mp.weixin.qq.com/s/TPu5F3vJrD4MaBK_ZztCKw| 
 
 
 # CVE Github 推荐

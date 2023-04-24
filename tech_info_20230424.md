@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230424 | SecWiki周刊（第477期) | https://www.sec-wiki.com/weekly/477| 
+| 20230424 | VRepair:修复c语言安全漏洞的神经迁移学习 | https://mp.weixin.qq.com/s/wLequNUfLN0go-nHFGujpg| 
 
 
 # CVE Github 推荐
