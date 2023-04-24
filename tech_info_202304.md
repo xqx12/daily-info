@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230424T01:33:23Z | CVE-2021-29447 | Null | https://github.com/andyhsu024/CVE-2021-29447 | | 
-| 20230423T21:12:02Z | CVE-2022-40799 | D-Link DNR-322L - Authenticated Remote Code Execution | https://github.com/rtfmkiesel/CVE-2022-40799 | | 
-| 20230423T20:15:11Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
-| 20230423T17:52:30Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
-| 20230423T14:38:39Z | CVE-2023-1671 | Pre-Auth RCE in Sophos Web Appliance | https://github.com/ohnonoyesyes/CVE-2023-1671 | | 
-| 20230423T08:47:01Z | CVE-2023-1454 | CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测 | https://github.com/padbergpete47/CVE-2023-1454 | | 
-| 20230423T01:58:44Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
-| 20230422T18:37:49Z | CVE-2023-30458 | Null | https://github.com/d34dun1c02n/CVE-2023-30458 | | 
-| 20230422T15:54:17Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
-| 20230422T12:51:42Z | cve-2022-1609 | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | | 
+| 20230424T11:57:34Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
+| 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
+| 20230424T06:43:56Z | CVE-2023-0464 | Null | https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464 | | 
+| 20230424T06:30:37Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
+| 20230424T05:59:18Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
+| 20230424T05:58:20Z | CVE-2022-4450 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450 | | 
+| 20230424T05:42:09Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215 | | 
+| 20230424T05:33:43Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
+| 20230424T02:21:16Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
+| 20230424T02:11:02Z | CVE-2022-40799 | D-Link DNR-322L - Authenticated Remote Code Execution | https://github.com/rtfmkiesel/CVE-2022-40799 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230424T01:52:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11726 | 377| 
-| 20230423T18:43:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 261 | 2| 
+| 20230424T10:01:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11755 | 377| 
+| 20230424T05:39:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 265 | 2| 
+| 20230424T03:08:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2219 | 612| 
 | 20230423T18:00:42Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 3 | 0| 
 | 20230423T12:31:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 67 | 18| 
 | 20230423T11:47:52Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 6 | 0| 
-| 20230422T15:13:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
 | 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
@@ -86,22 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T11:52:18Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwarePlatform | 0 | 0| 
+| 20230424T11:40:40Z | An example to show how the calculating randomness onchain can be exploited | https://github.com/nikunj-26/Solidity-Randomness-Attack | 0 | 0| 
+| 20230424T11:29:20Z | An example of how delegatecall can be exploited by an attacker to hack solidity contracts | https://github.com/nikunj-26/DelegateCall-Attack | 0 | 0| 
+| 20230424T11:20:26Z | Automated token carry swap bot 🤖 exploits interest rate 💰 differentials 24/7 | https://github.com/Secured-Finance-ETH/Arbitrageur | 2 | 1| 
+| 20230424T10:25:28Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
+| 20230424T09:31:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-FV20k-doubt-exploit | 0 | 0| 
+| 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
+| 20230424T05:13:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 254 | 52| 
 | 20230424T01:59:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4897 | 966| 
 | 20230424T01:18:18Z | A Roblox Exploit script for Doors | https://github.com/JohnyGamingLUA/MorphIntoAnything | 0 | 0| 
-| 20230424T00:45:47Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6u | 1 | 0| 
-| 20230424T00:44:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6u | 1 | 0| 
-| 20230424T00:43:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6u | 1 | 0| 
-| 20230424T00:24:05Z | Tool for automating common pwn/binary exploitation ctf challenges | https://github.com/StefanJo3107/pwner | 0 | 0| 
-| 20230424T00:09:58Z | Null | https://github.com/iniesta-08/heap_exploits | 0 | 0| 
-| 20230423T23:51:34Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
-| 20230423T23:49:48Z | Null | https://github.com/holoperfection/Roblox-Anti-Exploit | 0 | 0| 
-| 20230423T23:29:58Z | Code for paper %Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond% | https://github.com/grill-lab/ConvSim | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230423T21:25:38Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 269 | 72| 
+| 20230424T11:49:47Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230424T10:00:45Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 270 | 72| 
+| 20230424T07:52:41Z | TrojDRL repetition by Pytorch (Personal learning) | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 | 20230423T20:44:48Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 633 | 87| 
 | 20230423T13:27:01Z | BackDoor in python | https://github.com/Nikhil-Kumar100/backdoor | 0 | 0| 
 | 20230422T23:56:08Z | PHP-Based webshell/backdoor disguised as a HTTP 404 error page | https://github.com/CLCS/HTTP-404error-webshell | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20230422T16:53:57Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 6 | 1| 
 | 20230422T16:09:50Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 42 | 9| 
 | 20230422T12:51:42Z | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | https://github.com/realsiao/cve-2022-1609-exploit | 0 | 0| 
-| 20230422T11:29:56Z | Null | https://github.com/alexeipc/backdoor | 0 | 0| 
-| 20230422T04:57:22Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/ZQ-Struggle/AdvDoor | 22 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
+| 20230424T09:44:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1369 | 191| 
+| 20230424T09:36:39Z | Null | https://github.com/thanhtruongphan/AI-Fuzzylogic | 0 | 0| 
+| 20230424T09:35:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8596 | 1878| 
+| 20230424T09:34:35Z | Homeworks of fuzzy-logic from scratch | https://github.com/thanhtruongphan/AI-FuzzyLogic-Homeworks | 0 | 0| 
+| 20230424T07:29:56Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 31 | 2| 
 | 20230424T00:28:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1400 | 102| 
 | 20230424T00:13:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3540 | 424| 
 | 20230423T22:58:23Z | E-Commerce Website of my small business Pickle Fuzz | https://github.com/mattiemarie/pickle_fuzz_react | 0 | 0| 
-| 20230423T20:12:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8591 | 1878| 
 | 20230423T19:49:57Z | Null | https://github.com/jcleary6/fuzzysb | 0 | 0| 
-| 20230423T18:31:34Z | Null | https://github.com/armankuyucu/FuzzyAirConditioner | 0 | 0| 
-| 20230423T18:07:42Z | Null | https://github.com/ShabalinAleksandr789/fuzzy-spoon | 0 | 0| 
-| 20230423T12:54:07Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 2 | 0| 
-| 20230423T12:22:29Z | High performance hot request cache eviction component. 高性能热请求缓存驱逐组件。 | https://github.com/mysnippet-io/fuzzy-goggles | 0 | 0| 
-| 20230423T11:23:22Z | Null | https://github.com/udhj12/fuzzy-dollop | 0 | 0| 
 
 
 
