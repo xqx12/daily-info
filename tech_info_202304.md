@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230424T00:20:06Z | Tool for automating common pwn/binary exploitation ctf challenges | https://github.com/StefanJo3107/pwner | 0 | 0| 
+| 20230424T00:24:05Z | Tool for automating common pwn/binary exploitation ctf challenges | https://github.com/StefanJo3107/pwner | 0 | 0| 
 | 20230424T00:09:58Z | Null | https://github.com/iniesta-08/heap_exploits | 0 | 0| 
 | 20230423T23:51:34Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
 | 20230423T23:49:48Z | Null | https://github.com/holoperfection/Roblox-Anti-Exploit | 0 | 0| 
