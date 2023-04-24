@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230424T11:57:34Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
+| 20230424T12:18:55Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
 | 20230424T06:43:56Z | CVE-2023-0464 | Null | https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464 | | 
 | 20230424T06:30:37Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230424T12:11:39Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
+| 20230424T12:16:26Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230424T03:08:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2219 | 612| 
 | 20230423T21:44:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3408 | 479| 
 | 20230423T19:22:18Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 756 | 87| 
