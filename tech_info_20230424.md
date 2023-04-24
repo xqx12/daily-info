@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:46:38Z | Heap Exploitation Resources | https://github.com/scratchadams/Heap-Resources | 0 | 0| 
 | 20230424T12:09:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4899 | 969| 
 | 20230424T12:04:19Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
 | 20230424T12:01:04Z | La solution pour exploiter la data de ta compta en seulement 5 min top chrono! | https://github.com/jupyter-naas/FEC-engine | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20230424T11:20:26Z | Automated token carry swap bot 🤖 exploits interest rate 💰 differentials 24/7 | https://github.com/Secured-Finance-ETH/Arbitrageur | 2 | 1| 
 | 20230424T10:25:28Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
 | 20230424T09:31:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-FV20k-doubt-exploit | 0 | 0| 
-| 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
