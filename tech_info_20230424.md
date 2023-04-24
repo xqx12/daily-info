@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
 | 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
 | 20230424T09:44:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1369 | 191| 
 | 20230424T09:36:39Z | Null | https://github.com/thanhtruongphan/AI-Fuzzylogic | 0 | 0| 
