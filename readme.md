@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230424 | SecWiki周刊（第477期) | https://www.sec-wiki.com/weekly/477| 
 
 
 # CVE Github 推荐
