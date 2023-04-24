@@ -55,7 +55,7 @@
 | 20230424T10:25:28Z | Null | https://github.com/aLitschgy/SystemeExploitation | 0 | 0| 
 | 20230424T09:31:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-FV20k-doubt-exploit | 0 | 0| 
 | 20230424T08:07:39Z | The best Universal Roblox Exploit | https://github.com/LouieIsShort/Sickman-Exploit | 0 | 0| 
-| 20230424T05:13:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 254 | 52| 
+| 20230424T06:29:27Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 28 | 3| 
 
 
 # backdoor on Github 推荐
