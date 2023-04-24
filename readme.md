@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:58:38Z | Null | https://github.com/ahmedsamehgit2/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
 | 20230424T12:33:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8597 | 1878| 
 | 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
 | 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
