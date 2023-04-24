@@ -67,6 +67,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T22:16:28Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
+| 20230423T21:44:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3408 | 479| 
+| 20230423T19:22:18Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 756 | 87| 
 | 20230423T08:55:05Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 41| 
 | 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
 
