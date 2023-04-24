@@ -82,11 +82,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T12:33:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8597 | 1878| 
 | 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
 | 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
 | 20230424T09:44:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1369 | 191| 
 | 20230424T09:36:39Z | Null | https://github.com/thanhtruongphan/AI-Fuzzylogic | 0 | 0| 
-| 20230424T09:35:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8596 | 1878| 
 | 20230424T09:34:35Z | Homeworks of fuzzy-logic from scratch | https://github.com/thanhtruongphan/AI-FuzzyLogic-Homeworks | 0 | 0| 
 | 20230424T07:29:56Z | EF/CF - Extremely Fast smart Contract Fuzzing  | https://github.com/uni-due-syssec/efcf-framework | 31 | 2| 
 | 20230424T00:28:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1400 | 102| 
