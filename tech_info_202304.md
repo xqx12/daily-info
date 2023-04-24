@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230423T22:58:23Z | E-Commerce Website of my small business Pickle Fuzz | https://github.com/mattiemarie/pickle_fuzz_react | 0 | 0| 
+| 20230423T20:12:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8591 | 1878| 
+| 20230423T19:49:57Z | Null | https://github.com/jcleary6/fuzzysb | 0 | 0| 
+| 20230423T18:31:34Z | Null | https://github.com/armankuyucu/FuzzyAirConditioner | 0 | 0| 
+| 20230423T18:07:42Z | Null | https://github.com/ShabalinAleksandr789/fuzzy-spoon | 0 | 0| 
 | 20230423T12:54:07Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 2 | 0| 
 | 20230423T12:22:29Z | High performance hot request cache eviction component. 高性能热请求缓存驱逐组件。 | https://github.com/mysnippet-io/fuzzy-goggles | 0 | 0| 
 | 20230423T11:23:22Z | Null | https://github.com/udhj12/fuzzy-dollop | 0 | 0| 
 | 20230423T11:18:24Z | Null | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
 | 20230423T11:13:44Z | Null | https://github.com/PlusSevenWJQ/FuzzyTestingFramework-Pytorch | 5 | 0| 
-| 20230423T09:41:29Z | The ,S,uborbital ,C,,C,annon compiler fuzzing framework | https://github.com/vusec/SCC | 0 | 0| 
-| 20230423T06:24:44Z | Null | https://github.com/karthiv/fuzzer | 0 | 0| 
-| 20230423T01:51:24Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 67 | 6| 
-| 20230423T01:25:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9197 | 1015| 
-| 20230423T01:03:10Z | Benchmark Generator for Smart-Contract Fuzzers | https://github.com/ConsenSys/daedaluzz | 75 | 2| 
 
 
 
