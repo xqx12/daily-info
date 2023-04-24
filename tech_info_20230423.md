@@ -53,7 +53,7 @@
 | 20230423T21:22:47Z | PowerShell Post Exploit Phishing | https://github.com/rtfmkiesel/PowerPhish | 0 | 0| 
 | 20230423T20:49:38Z | A fully working example of how to exploit log4j on a minecraft server | https://github.com/Justin-Garey/Minecraft-Log4j-Exploit | 0 | 0| 
 | 20230423T19:39:55Z | Roblox Exploiting Hub (Mainly Da hood) 👀💥 | https://github.com/s1le6t/Deaded | 0 | 0| 
-| 20230423T12:57:21Z | Attack on vulnerability in developed feature where cwe-338, cwe-760 can be exploited and unsalted hashes can be obtained to perform a recovery with several strategies. | https://github.com/alexandertoepfer/cwe-shark-h | 1 | 0| 
+| 20230423T13:32:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4897 | 966| 
 
 
 # backdoor on Github 推荐
