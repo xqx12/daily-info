@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230424T00:28:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1400 | 102| 
 | 20230424T00:13:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3540 | 424| 
 | 20230423T22:58:23Z | E-Commerce Website of my small business Pickle Fuzz | https://github.com/mattiemarie/pickle_fuzz_react | 0 | 0| 
 | 20230423T20:12:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8591 | 1878| 
@@ -154,7 +155,6 @@
 | 20230423T12:54:07Z | Unity C# fuzzy logic library for a wide variety of fuzzy tasks | https://github.com/robertrumney/fuzzy-logic | 2 | 0| 
 | 20230423T12:22:29Z | High performance hot request cache eviction component. 高性能热请求缓存驱逐组件。 | https://github.com/mysnippet-io/fuzzy-goggles | 0 | 0| 
 | 20230423T11:23:22Z | Null | https://github.com/udhj12/fuzzy-dollop | 0 | 0| 
-| 20230423T11:18:24Z | Null | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
 
 
 
