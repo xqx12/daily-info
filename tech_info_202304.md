@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T00:49:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9n | 0 | 0| 
 | 20230425T00:43:26Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
 | 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
 | 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
@@ -95,7 +96,6 @@
 | 20230424T20:18:32Z |  A Rust-based utility to create unique, non-repeating patterns for identifying and exploiting buffer overflow vulnerabilities in cybersecurity testing and research. | https://github.com/0xKoda/bufpat | 0 | 0| 
 | 20230424T19:37:59Z | Null | https://github.com/gudarzimohammadm/web-exploit | 1 | 0| 
 | 20230424T14:19:07Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 200 | 13| 
-| 20230424T12:48:50Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature  | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
 
 
 # backdoor on Github 推荐
