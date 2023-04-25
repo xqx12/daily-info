@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T01:06:47Z | I planned to make some vulnerability web testing so I%ll make a way to detect that a vulnerability web exist, no exploitation it just detect, that will help me a lot when I%m doing web pentesting in vulnerable boxes, or ctf | https://github.com/djefferson-saintilus/bugbountyScript | 0 | 0| 
 | 20230425T01:03:45Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
-| 20230425T01:03:35Z | I planned to make some vulnerability web testing so I%ll make a way to detect that a vulnerability web exist, no exploitation it just detect, that will help me a lot when I%m doing web pentesting in vulnerable boxes, or ctf | https://github.com/djefferson-saintilus/bugbountyScript | 0 | 0| 
 | 20230425T00:51:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:50:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:49:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9n | 1 | 0| 
