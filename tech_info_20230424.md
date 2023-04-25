@@ -100,8 +100,8 @@
 | 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
 | 20230424T19:01:25Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 79 | 6| 
 | 20230424T16:30:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8598 | 1879| 
+| 20230424T15:27:35Z | Null | https://github.com/IsaacMarovitz/pe-parser-fuzz | 0 | 0| 
 | 20230424T12:58:38Z | Null | https://github.com/ahmedsamehgit2/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
-| 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
 
 
 
