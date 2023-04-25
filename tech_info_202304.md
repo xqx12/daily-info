@@ -61,9 +61,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T01:26:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 266 | 2| 
 | 20230425T01:09:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11764 | 377| 
 | 20230424T12:48:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
-| 20230424T05:39:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 265 | 2| 
 | 20230423T18:00:42Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 3 | 0| 
 | 20230423T12:31:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 67 | 18| 
 | 20230423T11:47:52Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 6 | 0| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
 | 20230425T00:14:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3542 | 424| 
 | 20230424T23:48:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2688 | 185| 
 | 20230424T23:04:15Z | Null | https://github.com/noir-lang/parser-fuzzer | 1 | 0| 
@@ -154,7 +155,6 @@
 | 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
 | 20230424T19:01:25Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 79 | 6| 
 | 20230424T16:30:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8598 | 1879| 
-| 20230424T15:27:35Z | Null | https://github.com/IsaacMarovitz/pe-parser-fuzz | 0 | 0| 
 
 
 

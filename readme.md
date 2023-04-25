@@ -40,7 +40,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230424T12:48:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
-| 20230424T05:39:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 265 | 2| 
 
 
 # s2e on Github 推荐
