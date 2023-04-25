@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230425T01:58:09Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
+| 20230425T11:41:12Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
+| 20230425T11:40:27Z | CVE-2022-22733 | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | | 
+| 20230425T10:56:16Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
+| 20230425T04:38:14Z | CVE-2022-33959 | CVE-2022-33959 - 602 Client-Side Enforcement of Server-Side Security (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N) | https://github.com/gitadvisor/CVE-2022-33959 | | 
+| 20230425T04:29:36Z | cve-2021-26855 | Null | https://github.com/iceberg-N/cve-2021-26855 | | 
+| 20230425T02:11:56Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
 | 20230425T01:23:31Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230425T01:22:57Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230424T23:26:25Z | CVE-2023-22894 | CVE-2023-22894 | https://github.com/Saboor-Hakimi/CVE-2023-22894 | | 
 | 20230424T13:50:59Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
-| 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
-| 20230424T06:43:56Z | CVE-2023-0464 | Null | https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464 | | 
-| 20230424T05:59:18Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
-| 20230424T05:58:20Z | CVE-2022-4450 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450 | | 
-| 20230424T05:42:09Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T01:26:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 266 | 2| 
-| 20230425T01:09:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11764 | 377| 
+| 20230425T11:58:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11780 | 377| 
+| 20230425T04:15:35Z | Null | https://github.com/momvart/cmpt_982_se_project_klee_smm | 0 | 0| 
+| 20230425T02:36:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 268 | 2| 
 | 20230424T12:48:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2218 | 612| 
 | 20230423T18:00:42Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 3 | 0| 
 | 20230423T12:31:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 67 | 18| 
@@ -70,12 +71,12 @@
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
 | 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
 | 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
-| 20230418T14:23:22Z | Null | https://github.com/kleeloy/kleeloy | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T09:37:25Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 10| 
 | 20230421T21:13:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 322 | 76| 
 | 20230413T08:04:49Z | For relative navigation with CDGPS | https://github.com/ShingoNishimoto/S2E_PBD | 1 | 0| 
 | 20230413T07:45:20Z | Null | https://github.com/MetadataGitTesting/s2el9be8 | 0 | 0| 
@@ -86,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T11:55:24Z | Heart disease prediction system aims to exploit data mining techniques on medical data sets to assist in the prediction of heart diseases | https://github.com/PR1NCE-lab/Prediction-Of-Heart-Diseases-Using-Machine-Learning | 0 | 0| 
+| 20230425T11:54:00Z | Null | https://github.com/chrisley75/prisma-cloud-exploitation-demo-custom | 0 | 0| 
+| 20230425T11:40:27Z | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | 0 | 0| 
+| 20230425T11:35:39Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 26 | 8| 
+| 20230425T11:26:24Z | Basic print exploit for Roblox written in C++. | https://github.com/mcdonaghethan/PrintSploit | 0 | 0| 
+| 20230425T10:57:33Z | Null | https://github.com/akrotiridev/idor-exploit | 0 | 0| 
+| 20230425T10:56:16Z | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | 1 | 0| 
+| 20230425T10:50:15Z | PenT-F helps security professionals to save time and effort by providing a standardized approach to testing, which can improve the accuracy and efficiency of the testing process. This framework typically includes tools for scanning, reconnaissance, vulnerability assessment, exploitation, and post-exploitation activities. | https://github.com/Dinesh35678/PenT-Framework | 0 | 0| 
+| 20230425T03:15:07Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 1 | 0| 
 | 20230425T01:06:47Z | I planned to make some vulnerability web testing so I%ll make a way to detect that a vulnerability web exist, no exploitation it just detect, that will help me a lot when I%m doing web pentesting in vulnerable boxes, or ctf | https://github.com/djefferson-saintilus/bugbountyScript | 0 | 0| 
-| 20230425T01:03:45Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
-| 20230425T00:51:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9n | 1 | 0| 
-| 20230425T00:50:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9n | 1 | 0| 
-| 20230425T00:49:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9n | 1 | 0| 
-| 20230424T23:55:01Z |  Repository created for study and POC%s on vulnerabilities. | https://github.com/LucasPDiniz/StudyRoom | 0 | 0| 
-| 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
-| 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
-| 20230424T21:20:06Z | discord-rce-exploit-poc-2023-04 | https://github.com/puppypete99/discord-rce-exploit-poc-2023-04 | 2 | 2| 
-| 20230424T20:52:20Z | Zero day POC for MS Office Word 2023 | https://github.com/octosec45/ms-word-rce-0day-poc-2023 | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T01:10:06Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 0 | 0| 
+| 20230425T11:56:56Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 183 | 0| 
+| 20230425T11:53:25Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 11 | 1| 
+| 20230425T10:30:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230425T08:16:40Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 118 | 22| 
+| 20230425T04:30:37Z | UnrealIRCD 3.2.8.1 backdoor command execution exploit in Python 3 (CVE-2010-2075). | https://github.com/chancej715/UnrealIRCD-3.2.8.1-Backdoor-Command-Execution | 0 | 0| 
 | 20230424T22:29:14Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and api servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 | 20230424T18:51:50Z | This is a project designed to automatically create an ssh tunnel in the backdoor code in order to bypass firewall restrictions allowing anonymous command execution on a victim macine by uploading the ssh tunnel address to any instagram account of your choice. | https://github.com/Bendig0/HTTPBackdoor | 0 | 0| 
-| 20230424T16:38:30Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 1 | 0| 
 | 20230424T10:00:45Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 270 | 72| 
+| 20230424T08:22:11Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
 | 20230424T07:52:41Z | TrojDRL repetition by Pytorch (Personal learning) | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
-| 20230423T20:44:48Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 633 | 87| 
-| 20230423T13:27:01Z | BackDoor in python | https://github.com/Nikhil-Kumar100/backdoor | 0 | 0| 
-| 20230422T23:56:08Z | PHP-Based webshell/backdoor disguised as a HTTP 404 error page | https://github.com/CLCS/HTTP-404error-webshell | 0 | 0| 
-| 20230422T23:41:37Z | non-alphanumeric PHP webshell/backdoor - for educational purposes only | https://github.com/CLCS/nonalphanumeric-php-webshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
