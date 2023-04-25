@@ -154,7 +154,7 @@
 | 20230424T21:13:24Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 1 | 0| 
 | 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
 | 20230424T19:01:25Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 79 | 6| 
-| 20230424T16:30:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8598 | 1879| 
+| 20230424T18:25:29Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 75 | 6| 
 
 
 
