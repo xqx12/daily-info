@@ -68,11 +68,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T09:21:50Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 86 | 18| 
+| 20230425T05:16:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3414 | 479| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T04:42:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 640 | 99| 
 
 
 # fuzz on Github 推荐
