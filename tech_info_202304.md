@@ -88,6 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230424T23:43:43Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
 | 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
+| 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
 | 20230424T21:20:06Z | discord-rce-exploit-poc-2023-04 | https://github.com/puppypete99/discord-rce-exploit-poc-2023-04 | 2 | 2| 
 | 20230424T20:52:20Z | Zero day POC for MS Office Word 2023 | https://github.com/octosec45/ms-word-rce-0day-poc-2023 | 2 | 1| 
 | 20230424T20:49:27Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3373 | 580| 
@@ -95,7 +96,6 @@
 | 20230424T19:37:59Z | Null | https://github.com/gudarzimohammadm/web-exploit | 1 | 0| 
 | 20230424T14:19:07Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 200 | 13| 
 | 20230424T12:48:50Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature  | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
-| 20230424T12:46:38Z | Heap Exploitation Resources | https://github.com/scratchadams/Heap-Resources | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T00:14:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3542 | 424| 
 | 20230424T23:48:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2688 | 185| 
 | 20230424T23:04:15Z | Null | https://github.com/noir-lang/parser-fuzzer | 1 | 0| 
 | 20230424T21:58:53Z | The project was created for the purpose of the master%s thesis on the comparison of behavior trees with fuzzy logic | https://github.com/Nausiz/Behavior-trees-Fuzzy-logic | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20230424T16:30:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8598 | 1879| 
 | 20230424T12:58:38Z | Null | https://github.com/ahmedsamehgit2/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
 | 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
-| 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
 
 
 
