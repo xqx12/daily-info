@@ -52,7 +52,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230424T23:43:43Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
 | 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
 | 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
 | 20230424T21:20:06Z | discord-rce-exploit-poc-2023-04 | https://github.com/puppypete99/discord-rce-exploit-poc-2023-04 | 2 | 2| 
@@ -62,6 +61,7 @@
 | 20230424T19:37:59Z | Null | https://github.com/gudarzimohammadm/web-exploit | 1 | 0| 
 | 20230424T14:19:07Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 200 | 13| 
 | 20230424T12:48:50Z | Piattaforma per la creazione di file PE (.exe) contenenti exploit e malware signature  | https://github.com/rosemgo/MalwareXPlatform | 0 | 0| 
+| 20230424T12:46:38Z | Heap Exploitation Resources | https://github.com/scratchadams/Heap-Resources | 0 | 0| 
 
 
 # backdoor on Github 推荐
