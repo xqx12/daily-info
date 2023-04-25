@@ -26,7 +26,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230424T23:26:25Z | CVE-2023-22894 | CVE-2023-22894 | https://github.com/Saboor-Hakimi/CVE-2023-22894 | | 
 | 20230424T22:44:40Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
-| 20230424T16:19:53Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
 | 20230424T13:50:59Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
 | 20230424T13:10:30Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
@@ -34,6 +33,7 @@
 | 20230424T05:59:18Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
 | 20230424T05:58:20Z | CVE-2022-4450 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450 | | 
 | 20230424T05:42:09Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215 | | 
+| 20230424T05:33:43Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
 
 
 # klee on Github 推荐
