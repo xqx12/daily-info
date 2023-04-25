@@ -86,22 +86,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T01:03:45Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
+| 20230425T01:03:35Z | I planned to make some vulnerability web testing so I%ll make a way to detect that a vulnerability web exist, no exploitation it just detect, that will help me a lot when I%m doing web pentesting in vulnerable boxes, or ctf | https://github.com/djefferson-saintilus/bugbountyScript | 0 | 0| 
 | 20230425T00:51:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:50:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:49:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9n | 1 | 0| 
-| 20230425T00:43:26Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 0 | 0| 
 | 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
 | 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
 | 20230424T21:20:06Z | discord-rce-exploit-poc-2023-04 | https://github.com/puppypete99/discord-rce-exploit-poc-2023-04 | 2 | 2| 
 | 20230424T20:52:20Z | Zero day POC for MS Office Word 2023 | https://github.com/octosec45/ms-word-rce-0day-poc-2023 | 2 | 1| 
 | 20230424T20:49:27Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3373 | 580| 
-| 20230424T20:18:32Z |  A Rust-based utility to create unique, non-repeating patterns for identifying and exploiting buffer overflow vulnerabilities in cybersecurity testing and research. | https://github.com/0xKoda/bufpat | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T00:48:33Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 0 | 0| 
+| 20230425T01:03:19Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 0 | 0| 
 | 20230424T22:29:14Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and api servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 | 20230424T18:51:50Z | This is a project designed to automatically create an ssh tunnel in the backdoor code in order to bypass firewall restrictions allowing anonymous command execution on a victim macine by uploading the ssh tunnel address to any instagram account of your choice. | https://github.com/Bendig0/HTTPBackdoor | 0 | 0| 
 | 20230424T16:38:30Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 1 | 0| 
