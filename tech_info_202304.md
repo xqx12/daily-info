@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T01:56:02Z | Null | https://github.com/hyesookp/fuzzy-system | 0 | 0| 
 | 20230425T01:47:36Z | Null | https://github.com/khalifardy/fuzzysistem_restoran_fe | 0 | 0| 
 | 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
 | 20230425T00:14:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3542 | 424| 
@@ -154,7 +155,6 @@
 | 20230424T21:35:39Z | Null | https://github.com/SecurityLab-UCD/OSS-Fuzz-scripts | 0 | 0| 
 | 20230424T21:13:24Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 1 | 0| 
 | 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
-| 20230424T19:01:25Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 79 | 6| 
 
 
 
