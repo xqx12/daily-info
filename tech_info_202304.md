@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T00:48:33Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 0 | 0| 
 | 20230424T22:29:14Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and api servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 | 20230424T18:51:50Z | This is a project designed to automatically create an ssh tunnel in the backdoor code in order to bypass firewall restrictions allowing anonymous command execution on a victim macine by uploading the ssh tunnel address to any instagram account of your choice. | https://github.com/Bendig0/HTTPBackdoor | 0 | 0| 
 | 20230424T16:38:30Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 1 | 0| 
@@ -110,7 +111,6 @@
 | 20230423T13:27:01Z | BackDoor in python | https://github.com/Nikhil-Kumar100/backdoor | 0 | 0| 
 | 20230422T23:56:08Z | PHP-Based webshell/backdoor disguised as a HTTP 404 error page | https://github.com/CLCS/HTTP-404error-webshell | 0 | 0| 
 | 20230422T23:41:37Z | non-alphanumeric PHP webshell/backdoor - for educational purposes only | https://github.com/CLCS/nonalphanumeric-php-webshell | 0 | 0| 
-| 20230422T16:53:57Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 6 | 1| 
 
 
 # symbolic execution on Github 推荐
