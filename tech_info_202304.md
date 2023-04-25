@@ -96,7 +96,7 @@
 | 20230425T10:56:16Z | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | 1 | 0| 
 | 20230425T10:50:15Z | PenT-F helps security professionals to save time and effort by providing a standardized approach to testing, which can improve the accuracy and efficiency of the testing process. This framework typically includes tools for scanning, reconnaissance, vulnerability assessment, exploitation, and post-exploitation activities. | https://github.com/Dinesh35678/PenT-Framework | 0 | 0| 
 | 20230425T08:18:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 621 | 165| 
-| 20230425T03:15:07Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 1 | 0| 
+| 20230425T07:15:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4900 | 969| 
 
 
 # backdoor on Github 推荐
