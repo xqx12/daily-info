@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T11:50:58Z | fuzzr is an open source fuzz check tool | https://github.com/RemedyIT/fuzzr | 2 | 1| 
+| 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1879| 
+| 20230425T11:28:58Z | Example - how to integrate a new project with %oss-fuzz%  and test it locally  | https://github.com/lgtkgtv/fuzz_me | 0 | 0| 
+| 20230425T10:13:05Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
+| 20230425T09:59:45Z | A regression greybox fuzzer based on aflchurn | https://github.com/featherL/aflchurn-plus | 0 | 0| 
+| 20230425T09:53:23Z | Null | https://github.com/Michelphilips/fuzzy-telegram | 0 | 0| 
 | 20230425T01:56:02Z | Null | https://github.com/hyesookp/fuzzy-system | 0 | 0| 
 | 20230425T01:47:36Z | Null | https://github.com/khalifardy/fuzzysistem_restoran_fe | 0 | 0| 
 | 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
 | 20230425T00:14:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3542 | 424| 
-| 20230424T23:48:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2688 | 185| 
-| 20230424T23:04:15Z | Null | https://github.com/noir-lang/parser-fuzzer | 1 | 0| 
-| 20230424T21:58:53Z | The project was created for the purpose of the master%s thesis on the comparison of behavior trees with fuzzy logic | https://github.com/Nausiz/Behavior-trees-Fuzzy-logic | 0 | 0| 
-| 20230424T21:35:39Z | Null | https://github.com/SecurityLab-UCD/OSS-Fuzz-scripts | 0 | 0| 
-| 20230424T21:13:24Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 1 | 0| 
-| 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
 
 
 

@@ -78,6 +78,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T11:50:58Z | fuzzr is an open source fuzz check tool | https://github.com/RemedyIT/fuzzr | 2 | 1| 
+| 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1879| 
+| 20230425T11:28:58Z | Example - how to integrate a new project with %oss-fuzz%  and test it locally  | https://github.com/lgtkgtv/fuzz_me | 0 | 0| 
+| 20230425T10:13:05Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
+| 20230425T09:59:45Z | A regression greybox fuzzer based on aflchurn | https://github.com/featherL/aflchurn-plus | 0 | 0| 
+| 20230425T09:53:23Z | Null | https://github.com/Michelphilips/fuzzy-telegram | 0 | 0| 
 | 20230425T01:56:02Z | Null | https://github.com/hyesookp/fuzzy-system | 0 | 0| 
 | 20230425T01:47:36Z | Null | https://github.com/khalifardy/fuzzysistem_restoran_fe | 0 | 0| 
 | 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
