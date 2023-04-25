@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T12:40:55Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 | 20230425T12:17:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11779 | 377| 
 | 20230425T04:15:35Z | Null | https://github.com/momvart/cmpt_982_se_project_klee_smm | 0 | 0| 
 | 20230425T02:36:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 268 | 2| 
@@ -70,7 +71,6 @@
 | 20230423T11:47:52Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 6 | 0| 
 | 20230421T06:04:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 17 | 50| 
 | 20230421T03:53:53Z | Null | https://github.com/morrisonkleeman/Morrison-Kleeman | 0 | 0| 
-| 20230419T01:48:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 26 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,7 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230425T11:55:24Z | Heart disease prediction system aims to exploit data mining techniques on medical data sets to assist in the prediction of heart diseases | https://github.com/PR1NCE-lab/Prediction-Of-Heart-Diseases-Using-Machine-Learning | 0 | 0| 
-| 20230425T11:54:00Z | Null | https://github.com/chrisley75/prisma-cloud-exploitation-demo-custom | 0 | 0| 
+| 20230425T11:54:00Z | Null | https://github.com/chrisley75/prisma-cloud-exploitation-demo-custom | 0 | 1| 
 | 20230425T11:40:27Z | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | 0 | 0| 
 | 20230425T11:35:39Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 26 | 8| 
 | 20230425T11:26:24Z | Basic print exploit for Roblox written in C++. | https://github.com/mcdonaghethan/PrintSploit | 0 | 0| 
@@ -102,7 +102,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T12:39:39Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 195 | 0| 
+| 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/lizard2h/sshd-backdoor-example- | 0 | 0| 
+| 20230425T12:40:31Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 196 | 0| 
 | 20230425T11:53:25Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 11 | 1| 
 | 20230425T10:30:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230425T08:16:40Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 118 | 22| 
@@ -111,7 +112,6 @@
 | 20230424T18:51:50Z | This is a project designed to automatically create an ssh tunnel in the backdoor code in order to bypass firewall restrictions allowing anonymous command execution on a victim macine by uploading the ssh tunnel address to any instagram account of your choice. | https://github.com/Bendig0/HTTPBackdoor | 0 | 0| 
 | 20230424T10:00:45Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 270 | 72| 
 | 20230424T08:22:11Z | Null | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
-| 20230424T07:52:41Z | TrojDRL repetition by Pytorch (Personal learning) | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T12:40:43Z | fuzzy repository | https://github.com/stephinee/fuzzy-succotash | 0 | 0| 
 | 20230425T12:14:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 105| 
 | 20230425T11:50:58Z | fuzzr is an open source fuzz check tool | https://github.com/RemedyIT/fuzzr | 2 | 1| 
 | 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1879| 
@@ -155,7 +156,6 @@
 | 20230425T09:53:23Z | Null | https://github.com/Michelphilips/fuzzy-telegram | 0 | 0| 
 | 20230425T01:56:02Z | Null | https://github.com/hyesookp/fuzzy-system | 0 | 0| 
 | 20230425T01:47:36Z | Null | https://github.com/khalifardy/fuzzysistem_restoran_fe | 0 | 0| 
-| 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
 
 
 
