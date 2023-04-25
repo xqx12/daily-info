@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230425T12:14:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 105| 
 | 20230425T11:50:58Z | fuzzr is an open source fuzz check tool | https://github.com/RemedyIT/fuzzr | 2 | 1| 
 | 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1879| 
 | 20230425T11:28:58Z | Example - how to integrate a new project with %oss-fuzz%  and test it locally  | https://github.com/lgtkgtv/fuzz_me | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20230425T01:56:02Z | Null | https://github.com/hyesookp/fuzzy-system | 0 | 0| 
 | 20230425T01:47:36Z | Null | https://github.com/khalifardy/fuzzysistem_restoran_fe | 0 | 0| 
 | 20230425T01:26:34Z | An APDU tool for smartcard / PCSC fuzzing. Also does scripting. Inspired by gscriptor | https://github.com/guffre/APDUTool | 1 | 0| 
-| 20230425T00:14:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3542 | 424| 
 
 
 
