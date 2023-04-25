@@ -25,7 +25,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230424T23:26:25Z | CVE-2023-22894 | CVE-2023-22894 | https://github.com/Saboor-Hakimi/CVE-2023-22894 | | 
-| 20230424T22:44:40Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230424T13:50:59Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
 | 20230424T13:10:30Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
@@ -34,6 +33,7 @@
 | 20230424T05:58:20Z | CVE-2022-4450 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450 | | 
 | 20230424T05:42:09Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215 | | 
 | 20230424T05:33:43Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
+| 20230424T02:21:16Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
@@ -98,11 +98,11 @@
 | 20230424T21:58:53Z | The project was created for the purpose of the master%s thesis on the comparison of behavior trees with fuzzy logic | https://github.com/Nausiz/Behavior-trees-Fuzzy-logic | 0 | 0| 
 | 20230424T21:35:39Z | Null | https://github.com/SecurityLab-UCD/OSS-Fuzz-scripts | 0 | 0| 
 | 20230424T21:13:24Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 1 | 0| 
+| 20230424T19:28:57Z | Terminal based Pokédex | https://github.com/ericlay/fuzzy-pokedex | 14 | 0| 
 | 20230424T16:30:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8598 | 1879| 
 | 20230424T12:58:38Z | Null | https://github.com/ahmedsamehgit2/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
 | 20230424T12:21:00Z | nothing | https://github.com/gudong2333/fuzzy-system | 0 | 0| 
 | 20230424T10:02:01Z | Null | https://github.com/Zyuipo/fuzzyppp | 1 | 1| 
-| 20230424T09:44:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1369 | 191| 
 
 
 
