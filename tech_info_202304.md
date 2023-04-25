@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230425T12:56:32Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230425T12:31:38Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
-| 20230425T11:41:12Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230425T11:40:27Z | CVE-2022-22733 | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | | 
 | 20230425T10:56:16Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230425T04:38:14Z | CVE-2022-33959 | CVE-2022-33959 - 602 Client-Side Enforcement of Server-Side Security (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N) | https://github.com/gitadvisor/CVE-2022-33959 | | 
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T12:57:02Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 199 | 0| 
+| 20230425T12:57:17Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 200 | 0| 
 | 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/lizard2h/sshd-backdoor-example- | 0 | 0| 
 | 20230425T11:53:25Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 11 | 1| 
 | 20230425T10:30:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
