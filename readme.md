@@ -26,7 +26,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230424T23:26:25Z | CVE-2023-22894 | CVE-2023-22894 | https://github.com/Saboor-Hakimi/CVE-2023-22894 | | 
 | 20230424T13:50:59Z | CVE-2023-27350 | A simple python script to check if a service is vulnerable | https://github.com/MaanVader/CVE-2023-27350-POC | | 
-| 20230424T13:10:30Z | CVE-2023-21839 | Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测 | https://github.com/4ra1n/CVE-2023-21839 | | 
 | 20230424T07:18:06Z | CVE-2022-4304 | Null | https://github.com/Trinadh465/Openssl-1.1.1g_CVE-2022-4304 | | 
 | 20230424T06:43:56Z | CVE-2023-0464 | Null | https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464 | | 
 | 20230424T05:59:18Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | | 
@@ -34,6 +33,7 @@
 | 20230424T05:42:09Z | CVE-2023-0215 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215 | | 
 | 20230424T05:33:43Z | CVE-2023-27350 | Null | https://github.com/TamingSariMY/CVE-2023-27350-POC | | 
 | 20230424T02:21:16Z | CVE-2023-23752 | Perform with Dork Scanner and Massive with Joomla 4.2.8 | https://github.com/Pari-Malam/CVE-2023-23752 | | 
+| 20230424T02:11:02Z | CVE-2022-40799 | D-Link DNR-322L - Authenticated Remote Code Execution | https://github.com/rtfmkiesel/CVE-2022-40799 | | 
 
 
 # klee on Github 推荐
