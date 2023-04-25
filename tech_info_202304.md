@@ -91,11 +91,11 @@
 | 20230425T00:51:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:50:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9n | 1 | 0| 
 | 20230425T00:49:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9n | 1 | 0| 
+| 20230424T23:55:01Z |  Repository created for study and POC%s on vulnerabilities. | https://github.com/LucasPDiniz/StudyRoom | 0 | 0| 
 | 20230424T23:31:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4781 | 604| 
 | 20230424T21:41:46Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 425 | 86| 
 | 20230424T21:20:06Z | discord-rce-exploit-poc-2023-04 | https://github.com/puppypete99/discord-rce-exploit-poc-2023-04 | 2 | 2| 
 | 20230424T20:52:20Z | Zero day POC for MS Office Word 2023 | https://github.com/octosec45/ms-word-rce-0day-poc-2023 | 2 | 1| 
-| 20230424T20:49:27Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3373 | 580| 
 
 
 # backdoor on Github 推荐
