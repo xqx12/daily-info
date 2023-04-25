@@ -125,7 +125,7 @@
 | 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
 | 20230422T20:09:48Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 634 | 116| 
 | 20230422T07:04:21Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 1 | 5| 
-| 20230421T17:26:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 556 | 36| 
+| 20230421T17:26:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 556 | 37| 
 
 
 # big4 on Github 推荐
