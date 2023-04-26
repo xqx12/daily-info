@@ -132,6 +132,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T10:32:51Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 15 | 1| 
 | 20230425T21:15:52Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 640 | 99| 
 | 20230425T14:04:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 38 | 3| 
 | 20230424T11:40:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 24 | 2| 
