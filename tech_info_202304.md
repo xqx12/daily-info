@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T01:13:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 427 | 86| 
 | 20230426T00:11:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230426T00:11:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230426T00:10:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5a | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20230425T21:10:56Z | UnrealIRCd 3.2.8.1 backdoor command execution exploit in Python 3 (CVE-2010-2075). | https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution | 0 | 0| 
 | 20230425T20:48:07Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 216 | 42| 
 | 20230425T20:14:08Z | A set of challenges to learn offensive security of smart contracts. Featuring interesting challenges loosely (or directly) inspired by real world exploits. | https://github.com/pinalikefruit/mr-steal-yo-crypto-ctf | 0 | 0| 
-| 20230425T18:26:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 623 | 165| 
 
 
 # backdoor on Github 推荐
