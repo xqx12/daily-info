@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T00:11:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5a | 0 | 0| 
+| 20230426T00:11:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230426T00:10:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230425T22:38:44Z | Probably the best looking UI Exploit | https://github.com/robloxexploit123/AprilVision-ALPHA- | 0 | 0| 
 | 20230425T21:42:38Z | Null | https://github.com/Rastin666/DomainExploit | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20230425T20:48:07Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 216 | 42| 
 | 20230425T20:14:08Z | A set of challenges to learn offensive security of smart contracts. Featuring interesting challenges loosely (or directly) inspired by real world exploits. | https://github.com/pinalikefruit/mr-steal-yo-crypto-ctf | 0 | 0| 
 | 20230425T18:26:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 623 | 165| 
-| 20230425T17:30:41Z | ICLR 2023 paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/umd-huang-lab/Dynamics-Aware-Robust-Training | 7 | 0| 
-| 20230425T13:36:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 426 | 86| 
 
 
 # backdoor on Github 推荐
