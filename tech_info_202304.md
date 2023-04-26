@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230426T00:11:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5a | 0 | 0| 
+| 20230426T00:11:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230426T00:11:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230426T00:10:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5a | 1 | 0| 
 | 20230425T22:38:44Z | Probably the best looking UI Exploit | https://github.com/robloxexploit123/AprilVision-ALPHA- | 0 | 0| 
