@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230425T22:14:58Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
-| 20230425T21:35:45Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
 | 20230425T19:30:05Z | CVE-2022-37706 | Null | https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit | | 
 | 20230425T19:27:54Z | CVE-2023-25292 | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | https://github.com/brainkok/CVE-2023-25292 | | 
 | 20230425T18:13:20Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
@@ -26,6 +25,7 @@
 | 20230425T14:06:48Z | CVE-2022-22733 | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | | 
 | 20230425T10:56:16Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230425T04:38:14Z | CVE-2022-33959 | CVE-2022-33959 - 602 Client-Side Enforcement of Server-Side Security (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N) | https://github.com/gitadvisor/CVE-2022-33959 | | 
+| 20230425T04:29:36Z | cve-2021-26855 | Null | https://github.com/iceberg-N/cve-2021-26855 | | 
 
 
 # klee on Github 推荐
