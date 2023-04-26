@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230426T01:46:59Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 | 20230426T01:15:42Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230426T01:09:02Z | CVE-2023-22621 | CVE-2023-22621: SSTI to RCE by Exploiting Email Templates affecting Strapi Versions <=4.5.5 | https://github.com/sofianeelhor/CVE-2023-22621-POC | | 
 | 20230426T01:00:45Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
@@ -55,7 +56,6 @@
 | 20230425T15:20:35Z | CVE-2023-1671 | Sophos Web Appliance pre-auth command injection Vulnerability Scanner | https://github.com/behnamvanda/CVE-2023-1671 | | 
 | 20230425T14:06:48Z | CVE-2022-22733 | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | | 
 | 20230425T10:56:16Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
-| 20230425T04:38:14Z | CVE-2022-33959 | CVE-2022-33959 - 602 Client-Side Enforcement of Server-Side Security (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N) | https://github.com/gitadvisor/CVE-2022-33959 | | 
 
 
 # klee on Github 推荐
