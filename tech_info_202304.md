@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T00:52:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3545 | 425| 
 | 20230425T21:44:30Z | Null | https://github.com/BUseclab/TriforceLinuxSyscallFuzzer | 0 | 0| 
 | 20230425T20:51:35Z | Null | https://github.com/martinpanacek789/FIS_Chatbot_Fuzzy | 0 | 0| 
-| 20230425T15:58:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3543 | 424| 
 | 20230425T15:30:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4990 | 528| 
 | 20230425T12:40:43Z | fuzzy repository | https://github.com/stephinee/fuzzy-succotash | 0 | 0| 
 | 20230425T12:14:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 105| 

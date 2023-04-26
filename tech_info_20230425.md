@@ -96,7 +96,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230425T21:44:30Z | Null | https://github.com/BUseclab/TriforceLinuxSyscallFuzzer | 0 | 0| 
 | 20230425T20:51:35Z | Null | https://github.com/martinpanacek789/FIS_Chatbot_Fuzzy | 0 | 0| 
-| 20230425T15:58:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3543 | 424| 
 | 20230425T15:30:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4990 | 528| 
 | 20230425T12:40:43Z | fuzzy repository | https://github.com/stephinee/fuzzy-succotash | 0 | 0| 
 | 20230425T12:14:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 105| 
@@ -104,6 +103,7 @@
 | 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1880| 
 | 20230425T11:28:58Z | Example - how to integrate a new project with %oss-fuzz%  and test it locally  | https://github.com/lgtkgtv/fuzz_me | 0 | 0| 
 | 20230425T10:13:05Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
+| 20230425T09:59:45Z | A regression greybox fuzzer based on aflchurn | https://github.com/featherL/aflchurn-plus | 0 | 0| 
 
 
 
