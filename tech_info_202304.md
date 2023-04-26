@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T12:16:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4905 | 969| 
 | 20230426T12:00:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5089 | 730| 
 | 20230426T11:57:41Z | Null | https://github.com/NinjaCatExploit/NinjaCatExploit.github.io | 0 | 0| 
 | 20230426T11:50:12Z | Exploit ChatGPT chats shared via sharegpt.com | https://github.com/manzke/sharegpt-dict | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230426T10:45:44Z | This is public code repository for the paper Acconotate: Exploiting Acoustic Changes for Automatic Annotation of Inertial Data at the Source, accepted in IEEE DCOSS-IoT 2023 | https://github.com/stilllearningsoumya/acconotate | 0 | 0| 
 | 20230426T10:30:32Z | CVE-Exploits | https://github.com/velikrgl/CVE-Exploits | 0 | 0| 
 | 20230426T09:42:00Z | Null | https://github.com/Flua-On-YT/ExploitDocs | 0 | 0| 
-| 20230426T05:50:26Z | Android post exploitation tool with many features . Only for educational purposes. | https://github.com/itskutta/KuttaSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T12:31:30Z | Null | https://github.com/epinata/fuzzy_matrix_mamdani | 0 | 0| 
 | 20230426T12:17:03Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 73 | 1| 
 | 20230426T11:32:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1375 | 191| 
 | 20230426T11:23:00Z | Null | https://github.com/luisgurmendez/fuzzy-search-test | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20230426T06:00:15Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
 | 20230426T02:37:36Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 107| 
 | 20230426T00:52:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3545 | 425| 
-| 20230425T21:44:30Z | Null | https://github.com/BUseclab/TriforceLinuxSyscallFuzzer | 0 | 0| 
 
 
 
