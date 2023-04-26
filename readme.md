@@ -68,11 +68,11 @@
 | 20230425T18:45:21Z | Null | https://github.com/water0300/not-a-c-backdoor-rpi | 0 | 0| 
 | 20230425T14:13:04Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
 | 20230425T14:03:52Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 130 | 17| 
-| 20230425T13:26:18Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 13 | 1| 
 | 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/lizard2h/sshd-backdoor-example- | 0 | 0| 
 | 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/bod4k/sshd-backdoor-example- | 0 | 0| 
 | 20230425T10:30:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230425T08:16:40Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 118 | 22| 
+| 20230425T04:30:37Z | UnrealIRCD 3.2.8.1 backdoor command execution exploit in Python 3 (CVE-2010-2075). | https://github.com/chancej715/UnrealIRCD-3.2.8.1-Backdoor-Command-Execution | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
