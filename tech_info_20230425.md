@@ -56,8 +56,8 @@
 | 20230425T20:14:08Z | A set of challenges to learn offensive security of smart contracts. Featuring interesting challenges loosely (or directly) inspired by real world exploits. | https://github.com/pinalikefruit/mr-steal-yo-crypto-ctf | 0 | 0| 
 | 20230425T18:26:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 623 | 165| 
 | 20230425T17:30:41Z | ICLR 2023 paper %Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness% by Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein and  Furong Huang | https://github.com/umd-huang-lab/Dynamics-Aware-Robust-Training | 7 | 0| 
+| 20230425T13:36:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 426 | 86| 
 | 20230425T11:55:24Z | Heart disease prediction system aims to exploit data mining techniques on medical data sets to assist in the prediction of heart diseases | https://github.com/PR1NCE-lab/Prediction-Of-Heart-Diseases-Using-Machine-Learning | 0 | 0| 
-| 20230425T11:54:00Z | Null | https://github.com/chrisley75/prisma-cloud-exploitation-demo-custom | 0 | 1| 
 
 
 # backdoor on Github 推荐
