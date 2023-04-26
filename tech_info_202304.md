@@ -147,7 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230426T12:31:30Z | Null | https://github.com/epinata/fuzzy_matrix_mamdani | 0 | 0| 
+| 20230426T12:43:44Z | Created with StackBlitz ⚡️ | https://github.com/mattgrantjones/FuzzySearchDD | 0 | 0| 
+| 20230426T12:42:14Z | Null | https://github.com/epinata/fuzzy_matrix_mamdani | 0 | 0| 
 | 20230426T12:17:03Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 73 | 1| 
 | 20230426T11:32:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1375 | 191| 
 | 20230426T11:23:00Z | Null | https://github.com/luisgurmendez/fuzzy-search-test | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20230426T10:25:28Z | Null | https://github.com/slynrick/OptimizingExplainabilityFuzzyGeneticBreastCancerRecurrenceClassifier | 0 | 0| 
 | 20230426T06:00:15Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
 | 20230426T02:37:36Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 107| 
-| 20230426T00:52:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3545 | 425| 
 
 
 
