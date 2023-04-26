@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230426T12:43:44Z | Created with StackBlitz ⚡️ | https://github.com/mattgrantjones/FuzzySearchDD | 0 | 0| 
+| 20230426T12:46:52Z | Fuzzy Search DropDown with Svelte | https://github.com/mattgrantjones/FuzzySearchDD | 0 | 0| 
 | 20230426T12:42:14Z | Null | https://github.com/epinata/fuzzy_matrix_mamdani | 0 | 0| 
 | 20230426T12:17:03Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 73 | 1| 
 | 20230426T11:32:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1375 | 191| 
