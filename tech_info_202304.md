@@ -31,31 +31,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20230424 | SecWiki周刊（第477期) | https://www.sec-wiki.com/weekly/477| 
-| 20230424 | VRepair:修复c语言安全漏洞的神经迁移学习 | https://mp.weixin.qq.com/s/wLequNUfLN0go-nHFGujpg| 
-| 20230424 | 勒索团伙常用的TTPs | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q| 
-| 20230424 | 从 CADS 计划看美国网络防御体系发展 | https://mp.weixin.qq.com/s/KDxjSsLxiIbgMsLfM-CXwg| 
-| 20230424 | 美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw| 
-| 20230424 | GPTSecurity: 安全领域智能革命的知识库 | https://github.com/mo-xiaoxi/GPTSecurity| 
-| 20230424 | 供应链投毒事件调查：开源项目隐藏恶意代码分析 | https://mp.weixin.qq.com/s/ew13ir5IrEYDR2VOM1ZRmQ| 
-| 20230424 | Web追踪技术综述 | https://crad.ict.ac.cn/article/exportPdf?id=1f3e8434-ae26-40a8-b300-7fa126a38258| 
-| 20230423 | AttacKG:从网络威胁情报报告构建技术知识图谱 | https://mp.weixin.qq.com/s/3NXLUL86P-4tYLO3oZ7A7g| 
-| 20230423 | 打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg| 
+| 20230426 | logvision: 分布式实时日志分析与入侵检测系统 | https://github.com/xander-wang/logvision| 
+| 20230426 | 安全隐私卫士（AppScan）一款免费的企业级自动化隐私检测工具 | https://github.com/tongcheng-security-team/AppScan| 
+| 20230426 | 飞刃（NextScan）一款免费的企业级分布式安全评估系统 | https://github.com/tongcheng-security-team/NextScan| 
+| 20230426 | DAPP: 自动检测并分析 NodeJS 模块原型漏洞 | https://mp.weixin.qq.com/s/jeUQOOMkVrMOvVN6B7PJOw| 
+| 20230426 | 中国数字法治政府建设十年述评 | https://mp.weixin.qq.com/s/dyXpelB41JHa8NXbwlVbmg| 
+| 20230426 | SessionAnalytics - 基于互联网用户Session会话的用户路径分析... | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg| 
+| 20230426 | PentestGPT: A GPT-empowered penetration testing tool | https://github.com/GreyDGL/PentestGPT| 
+| 20230426 | 全球高级持续性威胁（APT）态势报告 | https://pan.baidu.com/s/1qa93JUHJz4H7AJhXQM6-wA?pwd=2323| 
+| 20230426 | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A| 
+| 20230426 | 反间谍法修订草案三审 | https://mp.weixin.qq.com/s/Bu3Pdf2TmoTVYrgR_dOBdA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230426T01:46:59Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
-| 20230426T01:15:42Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
-| 20230426T01:09:02Z | CVE-2023-22621 | CVE-2023-22621: SSTI to RCE by Exploiting Email Templates affecting Strapi Versions <=4.5.5 | https://github.com/sofianeelhor/CVE-2023-22621-POC | | 
+| 20230426T09:36:26Z | CVE-2023-22621 | CVE-2023-22621: SSTI to RCE by Exploiting Email Templates affecting Strapi Versions <=4.5.5 | https://github.com/sofianeelhor/CVE-2023-22621-POC | | 
+| 20230426T08:57:21Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
+| 20230426T07:40:57Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
+| 20230426T05:52:59Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
+| 20230426T02:41:03Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
+| 20230426T02:22:54Z | CVE-2022-37706 | Null | https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit | | 
 | 20230426T01:00:45Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
-| 20230425T19:30:05Z | CVE-2022-37706 | Null | https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit | | 
 | 20230425T19:27:54Z | CVE-2023-25292 | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | https://github.com/brainkok/CVE-2023-25292 | | 
-| 20230425T18:13:20Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
 | 20230425T15:20:35Z | CVE-2023-1671 | Sophos Web Appliance pre-auth command injection Vulnerability Scanner | https://github.com/behnamvanda/CVE-2023-1671 | | 
 | 20230425T14:06:48Z | CVE-2022-22733 | Apache ShardingSphere ElasticJob-UI Privilege Escalation & RCE Exploit | https://github.com/Zeyad-Azima/CVE-2022-22733 | | 
-| 20230425T10:56:16Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 
 
 # klee on Github 推荐
@@ -87,38 +87,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230426T01:13:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 427 | 86| 
-| 20230426T00:11:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5a | 1 | 0| 
-| 20230426T00:11:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5a | 1 | 0| 
-| 20230426T00:10:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5a | 1 | 0| 
-| 20230425T22:38:44Z | Probably the best looking UI Exploit | https://github.com/robloxexploit123/AprilVision-ALPHA- | 0 | 0| 
-| 20230425T21:42:38Z | Null | https://github.com/Rastin666/DomainExploit | 0 | 0| 
-| 20230425T21:35:45Z | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | 0 | 1| 
-| 20230425T21:10:56Z | UnrealIRCd 3.2.8.1 backdoor command execution exploit in Python 3 (CVE-2010-2075). | https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution | 0 | 0| 
-| 20230425T20:48:07Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 216 | 42| 
-| 20230425T20:14:08Z | A set of challenges to learn offensive security of smart contracts. Featuring interesting challenges loosely (or directly) inspired by real world exploits. | https://github.com/pinalikefruit/mr-steal-yo-crypto-ctf | 0 | 0| 
+| 20230426T12:00:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5089 | 730| 
+| 20230426T11:57:41Z | Null | https://github.com/NinjaCatExploit/NinjaCatExploit.github.io | 0 | 0| 
+| 20230426T11:50:12Z | Exploit ChatGPT chats shared via sharegpt.com | https://github.com/manzke/sharegpt-dict | 0 | 0| 
+| 20230426T11:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 625 | 165| 
+| 20230426T11:07:28Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 451 | 31| 
+| 20230426T11:03:52Z | delta exploits #1 | https://github.com/ilaybar22/DeltaInstaller | 1 | 0| 
+| 20230426T10:45:44Z | This is public code repository for the paper Acconotate: Exploiting Acoustic Changes for Automatic Annotation of Inertial Data at the Source, accepted in IEEE DCOSS-IoT 2023 | https://github.com/stilllearningsoumya/acconotate | 0 | 0| 
+| 20230426T10:30:32Z | CVE-Exploits | https://github.com/velikrgl/CVE-Exploits | 0 | 0| 
+| 20230426T09:42:00Z | Null | https://github.com/Flua-On-YT/ExploitDocs | 0 | 0| 
+| 20230426T05:50:26Z | Android post exploitation tool with many features . Only for educational purposes. | https://github.com/itskutta/KuttaSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T11:45:17Z | Null | https://github.com/scy-phy/backdoorCPSS23 | 1 | 0| 
+| 20230426T09:57:23Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230426T06:52:20Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 44 | 9| 
+| 20230426T06:48:53Z | Null | https://github.com/aRabX8/backdoorhub | 0 | 0| 
+| 20230426T06:37:21Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 | 20230426T01:03:55Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 14 | 2| 
 | 20230425T21:10:56Z | UnrealIRCd 3.2.8.1 backdoor command execution exploit in Python 3 (CVE-2010-2075). | https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution | 0 | 0| 
 | 20230425T19:36:35Z | 🔥  HOT  🔥 THE BEST DRAINER ON THE MARKET RIGHT NOW! DRAINS ALL TOKENS + NFTS% FROM 11 CHAINS, LIKE ETH, WETH, USDT, DAI,  BNB FLOKI, SHIBA, BAYC, AZUKI, ETC STEP BY STEP GUIDANCE DURING SETUP, 24/7 SUPPORT, LIFETIME WARRANTY, CLEAN CODE NO BACKDOOR, FRONT-END + BACK END. WE ALSO HAVE NORMAL ETH DRAINER AND SEAPORT 1.4 DRAINER  | https://github.com/drainersandmore2/MULTICHAINDRAINER-ETHEREUM-DRAINER-CRYPTO-DRAINER-2023-ETH-DRAINER-TOKEN-NFT-SEAPORT | 227 | 0| 
 | 20230425T18:45:21Z | Null | https://github.com/water0300/not-a-c-backdoor-rpi | 0 | 0| 
 | 20230425T14:13:04Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
-| 20230425T14:03:52Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 130 | 17| 
-| 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/lizard2h/sshd-backdoor-example- | 0 | 0| 
-| 20230425T12:40:35Z | SSH Backdoor example ! | https://github.com/bod4k/sshd-backdoor-example- | 0 | 0| 
-| 20230425T10:30:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20230425T08:16:40Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 118 | 22| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230425T22:14:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3415 | 479| 
-| 20230425T19:26:19Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 759 | 87| 
+| 20230426T03:12:20Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3416 | 479| 
+| 20230426T02:55:37Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 760 | 87| 
 | 20230425T17:47:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2219 | 612| 
 | 20230425T09:21:50Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 86 | 18| 
 | 20230424T18:48:53Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 76 | 2| 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T11:32:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1375 | 191| 
+| 20230426T11:23:00Z | Null | https://github.com/luisgurmendez/fuzzy-search-test | 0 | 0| 
+| 20230426T11:19:53Z | Provide several copy functions for nvim | https://github.com/jinkyuhan/fuzzier.nvim | 0 | 0| 
+| 20230426T11:01:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4672 | 1122| 
+| 20230426T10:25:28Z | Null | https://github.com/slynrick/OptimizingExplainabilityFuzzyGeneticBreastCancerRecurrenceClassifier | 0 | 0| 
+| 20230426T10:18:52Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 72 | 1| 
+| 20230426T06:00:15Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
+| 20230426T02:37:36Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 107| 
 | 20230426T00:52:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3545 | 425| 
 | 20230425T21:44:30Z | Null | https://github.com/BUseclab/TriforceLinuxSyscallFuzzer | 0 | 0| 
-| 20230425T20:51:35Z | Null | https://github.com/martinpanacek789/FIS_Chatbot_Fuzzy | 0 | 0| 
-| 20230425T15:30:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4990 | 528| 
-| 20230425T12:40:43Z | fuzzy repository | https://github.com/stephinee/fuzzy-succotash | 0 | 0| 
-| 20230425T12:14:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 765 | 105| 
-| 20230425T11:50:58Z | fuzzr is an open source fuzz check tool | https://github.com/RemedyIT/fuzzr | 2 | 1| 
-| 20230425T11:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8599 | 1880| 
-| 20230425T11:28:58Z | Example - how to integrate a new project with %oss-fuzz%  and test it locally  | https://github.com/lgtkgtv/fuzz_me | 0 | 0| 
-| 20230425T10:13:05Z | jaber Rasul New | https://github.com/jaberarsul12122121/fuzzy-garbanzo | 0 | 0| 
 
 
 
