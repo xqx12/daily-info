@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230427T11:49:13Z | CVE-2023-30839 | PrestaShop <1.7.8.9 Fix for CVE-2023-30839 | https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839 | | 
+| 20230427T11:21:00Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
+| 20230427T11:20:39Z | CVE-2022-29464 | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | | 
+| 20230427T09:15:33Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
+| 20230427T07:38:24Z | CVE-2023-27524 | Apache Superset Auth Bypass Vulnerability CVE-2023-27524. | https://github.com/antx-code/CVE-2023-27524 | | 
+| 20230427T05:34:31Z | CVE-2023-1671 | CVE-2023-1671 POC in python | https://github.com/c4ln/CVE-2023-1671-POC | | 
+| 20230427T03:51:54Z | cve-2022-42475 | Null | https://github.com/natceil/cve-2022-42475 | | 
+| 20230427T03:30:24Z | CVE-2023-29489 | Nuclei template for CVE-2023-29489 | https://github.com/learnerboy88/CVE-2023-29489 | | 
 | 20230427T01:55:33Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230427T01:18:19Z | CVE-2020-27786 | Null | https://github.com/elbiazo/CVE-2020-27786 | | 
-| 20230427T01:13:03Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
-| 20230427T00:50:57Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
-| 20230426T18:09:39Z | CVE-2023-22621 | CVE-2023-22621: SSTI to RCE by Exploiting Email Templates affecting Strapi Versions <=4.5.5 | https://github.com/sofianeelhor/CVE-2023-22621-POC | | 
-| 20230426T17:14:49Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
-| 20230426T15:24:02Z | CVE-2023-2033 | Null | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
-| 20230426T13:38:41Z | CVE-2022-0847 | A simple exploit that uses dirtypipe to inject shellcode into runC entrypoint to implement container escapes. | https://github.com/JlSakuya/CVE-2022-0847-container-escape | | 
-| 20230426T05:52:59Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
-| 20230426T02:41:03Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 
 
 # klee on Github 推荐
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T03:26:09Z | The datasets used by PCP-S2ESN model. | https://github.com/wang3597/PCP-S2ESN | 0 | 0| 
 | 20230426T22:22:29Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230421T21:13:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 322 | 76| 
 | 20230413T08:04:49Z | For relative navigation with CDGPS | https://github.com/ShingoNishimoto/S2E_PBD | 1 | 0| 
@@ -87,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
+| 20230427T11:21:00Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 2| 
+| 20230427T11:20:39Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 2 | 0| 
+| 20230427T11:14:18Z | Projet pour le cours de Recherche opérationnelle : Projet “Exploitation agricole” | https://github.com/imadsharof/projetRO | 0 | 0| 
+| 20230427T10:18:04Z | Null | https://github.com/Flua-On-YT/ExploitDocs | 0 | 0| 
+| 20230427T09:20:28Z | FUD Windows PDF exploit builder | https://github.com/Fenddy1/PDF-Exploit-0day | 102 | 0| 
+| 20230427T02:54:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5092 | 730| 
 | 20230427T01:40:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:39:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:38:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 626 | 165| 
-| 20230427T01:37:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9y | 1 | 0| 
-| 20230427T00:13:52Z | Null | https://github.com/cse-natpauze/ctf-arm64-stack-rw-exploitation-example | 0 | 0| 
-| 20230427T00:13:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xg8_x-exploit-ask | 0 | 0| 
-| 20230426T23:42:54Z | The swiss-army knife of web server recon, injection, and exploitation. | https://github.com/m-rosinsky/WebWasp | 0 | 0| 
-| 20230426T18:19:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 183 | 8| 
-| 20230426T18:04:05Z | A collection of binary exploitation techniques. Feel free to contribute via pr | https://github.com/m-heim/BinaryExploitationTechniques | 0 | 0| 
-| 20230426T15:01:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 428 | 87| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T11:37:40Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 24 | 4| 
+| 20230427T10:08:54Z | Background Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
+| 20230427T08:45:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 131 | 17| 
+| 20230427T07:52:55Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230427T05:31:52Z | 这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
 | 20230427T01:12:46Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 45 | 9| 
-| 20230426T22:37:10Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 22 | 4| 
-| 20230426T21:13:41Z | Undetectable Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
 | 20230426T21:08:53Z | Una backdoor básica hecha con Python | https://github.com/S1NT4XError/Backdoor-python | 1 | 0| 
 | 20230426T20:13:31Z | Null | https://github.com/0067sdsm/backdoor | 0 | 0| 
 | 20230426T19:43:57Z | Discord Vanity Sniper No Discord Token Grabber | https://github.com/Anatik572/discord-vanity-sniper-noBackdoor | 0 | 0| 
 | 20230426T16:01:15Z | Open code implementation of different backdoor attack in Federated Learning | https://github.com/wenqsun/BackdoorAttack_FL | 0 | 0| 
-| 20230426T12:53:49Z | Null | https://github.com/hackthelock/python-backdoor | 0 | 0| 
-| 20230426T11:45:17Z | Null | https://github.com/scy-phy/backdoorCPSS23 | 1 | 0| 
-| 20230426T09:57:23Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T11:59:16Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 904 | 215| 
+| 20230427T11:09:18Z | Fuzz generator | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/homework__natali_chystyakova__hw18 | 0 | 0| 
+| 20230427T06:30:12Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 88 | 1| 
+| 20230427T02:36:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1376 | 191| 
 | 20230427T01:45:51Z | Null | https://github.com/calbnick/fuzzy-octo-memory | 0 | 0| 
 | 20230427T01:35:40Z | Fuzz every path with goky | https://github.com/gkhan496/goky | 1 | 0| 
 | 20230427T01:01:51Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 702 | 40| 
 | 20230427T00:35:49Z | Config files for my GitHub profile. | https://github.com/FuzzyFuzzball/FuzzyFuzzball | 0 | 0| 
 | 20230426T23:40:37Z | Null | https://github.com/Darkoverrider/fuzzy-potato | 0 | 0| 
 | 20230426T23:37:18Z | Null | https://github.com/WilliamKSilva/directory-fuzzy-finder | 0 | 0| 
-| 20230426T23:36:42Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2089 | 265| 
-| 20230426T23:14:59Z | Neste repositório foi construído um controlador nebuloso para um pêndulo invertido utilizando a linguagem Python. | https://github.com/AlxDev-hub/Pendulo-Logica-Fuzzy | 0 | 0| 
-| 20230426T21:55:08Z | Leverages an LFI to FUZZ over /procs on Linux to try to get the cmdline | https://github.com/josemlwdf/LFI_PID_Fuzzer | 0 | 0| 
-| 20230426T21:39:53Z | FIS Chatbot Demo | https://github.com/martinpanacek789/FIS_Chatbot_Fuzzy | 0 | 0| 
 
 
 
