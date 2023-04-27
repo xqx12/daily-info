@@ -82,7 +82,9 @@
 | --- | --- | --- | --- | ---| 
 | 20230427T11:59:16Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 904 | 215| 
 | 20230427T11:09:18Z | Fuzz generator | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/homework__natali_chystyakova__hw18 | 0 | 0| 
+| 20230427T09:01:39Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 86 | 7| 
 | 20230427T06:30:12Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 88 | 1| 
+| 20230427T03:35:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1828 | 89| 
 | 20230427T02:36:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1376 | 191| 
 | 20230427T01:45:51Z | Null | https://github.com/calbnick/fuzzy-octo-memory | 0 | 0| 
 | 20230427T01:35:40Z | Fuzz every path with goky | https://github.com/gkhan496/goky | 1 | 0| 
