@@ -26,16 +26,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230426T18:28:45Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
 | 20230426T18:09:39Z | CVE-2023-22621 | CVE-2023-22621: SSTI to RCE by Exploiting Email Templates affecting Strapi Versions <=4.5.5 | https://github.com/sofianeelhor/CVE-2023-22621-POC | | 
-| 20230426T17:16:31Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230426T17:14:49Z | CVE-2023-1671 | CVE-2023-1671-POC, based on dnslog platform | https://github.com/W01fh4cker/CVE-2023-1671-POC | | 
 | 20230426T15:24:02Z | CVE-2023-2033 | Null | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230426T13:38:41Z | CVE-2022-0847 | A simple exploit that uses dirtypipe to inject shellcode into runC entrypoint to implement container escapes. | https://github.com/JlSakuya/CVE-2022-0847-container-escape | | 
 | 20230426T05:52:59Z | CVE-2022-29464 | Perform With Mass Exploits WSO2 | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230426T02:41:03Z | CVE-2022-45770 | LPE exploit via windows driver | https://github.com/Marsel-marsel/CVE-2022-45770 | | 
 | 20230426T02:22:54Z | CVE-2022-37706 | Null | https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit | | 
-| 20230426T01:00:45Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
 
 
 # klee on Github 推荐
@@ -54,13 +51,13 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230426T23:42:54Z | The swiss-army knife of web server recon, injection, and exploitation. | https://github.com/m-rosinsky/WebWasp | 0 | 0| 
+| 20230426T18:19:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 183 | 8| 
 | 20230426T18:04:05Z | A collection of binary exploitation techniques. Feel free to contribute via pr | https://github.com/m-heim/BinaryExploitationTechniques | 0 | 0| 
 | 20230426T15:01:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 428 | 87| 
-| 20230426T12:16:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4905 | 969| 
+| 20230426T14:59:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4906 | 969| 
 | 20230426T12:00:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5089 | 730| 
 | 20230426T11:57:41Z | Null | https://github.com/NinjaCatExploit/NinjaCatExploit.github.io | 0 | 0| 
 | 20230426T11:50:12Z | Exploit ChatGPT chats shared via sharegpt.com | https://github.com/manzke/sharegpt-dict | 0 | 0| 
-| 20230426T11:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 625 | 165| 
 | 20230426T11:07:28Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 451 | 31| 
 | 20230426T11:03:52Z | delta exploits #1 | https://github.com/ilaybar22/DeltaInstaller | 1 | 0| 
 
@@ -76,8 +73,8 @@
 | 20230426T12:53:49Z | Null | https://github.com/hackthelock/python-backdoor | 0 | 0| 
 | 20230426T11:45:17Z | Null | https://github.com/scy-phy/backdoorCPSS23 | 1 | 0| 
 | 20230426T09:57:23Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20230426T06:52:20Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 44 | 9| 
 | 20230426T06:48:53Z | Null | https://github.com/aRabX8/backdoorhub | 0 | 0| 
+| 20230426T06:37:21Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
