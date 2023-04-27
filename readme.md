@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230427T12:52:40Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 0 | 0| 
+| 20230427T12:57:32Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 0 | 0| 
 | 20230427T12:36:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5093 | 731| 
 | 20230427T12:23:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13557 | 2287| 
 | 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T12:59:17Z | Null | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/_homework18_Kolesnykov_Oleksandr_Fuzz_generator | 0 | 0| 
+| 20230427T12:57:52Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 89 | 1| 
+| 20230427T12:54:14Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 190 | 5| 
 | 20230427T11:59:16Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 904 | 215| 
 | 20230427T11:09:18Z | Fuzz generator | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/homework__natali_chystyakova__hw18 | 0 | 0| 
 | 20230427T09:01:39Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 86 | 7| 
-| 20230427T06:30:12Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 88 | 1| 
 | 20230427T03:35:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1828 | 89| 
 | 20230427T02:36:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1376 | 191| 
 | 20230427T01:45:51Z | Null | https://github.com/calbnick/fuzzy-octo-memory | 0 | 0| 
 | 20230427T01:35:40Z | Fuzz every path with goky | https://github.com/gkhan496/goky | 1 | 0| 
-| 20230427T01:01:51Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 702 | 40| 
-| 20230427T00:35:49Z | Config files for my GitHub profile. | https://github.com/FuzzyFuzzball/FuzzyFuzzball | 0 | 0| 
 
 
 
