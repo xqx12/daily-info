@@ -65,6 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230426T22:37:10Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 22 | 4| 
 | 20230426T21:13:41Z | Undetectable Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
 | 20230426T21:08:53Z | Una backdoor básica hecha con Python | https://github.com/S1NT4XError/Backdoor-python | 1 | 0| 
 | 20230426T20:13:31Z | Null | https://github.com/0067sdsm/backdoor | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230426T11:45:17Z | Null | https://github.com/scy-phy/backdoorCPSS23 | 1 | 0| 
 | 20230426T09:57:23Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230426T06:48:53Z | Null | https://github.com/aRabX8/backdoorhub | 0 | 0| 
-| 20230426T06:37:21Z | Scanly is a docker image analysis CLI that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

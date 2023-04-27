@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230427T01:37:00Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
+| 20230427T01:55:33Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230427T01:18:19Z | CVE-2020-27786 | Null | https://github.com/elbiazo/CVE-2020-27786 | | 
 | 20230427T01:13:03Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
 | 20230427T00:50:57Z | CVE-2023-27350 | Exploit for Papercut CVE-2023-27350. [+] Reverse shell [+] Mass checking | https://github.com/adhikara13/CVE-2023-27350 | | 
@@ -103,6 +103,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230427T01:12:46Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 45 | 9| 
+| 20230426T22:37:10Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 22 | 4| 
 | 20230426T21:13:41Z | Undetectable Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
 | 20230426T21:08:53Z | Una backdoor básica hecha con Python | https://github.com/S1NT4XError/Backdoor-python | 1 | 0| 
 | 20230426T20:13:31Z | Null | https://github.com/0067sdsm/backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230426T12:53:49Z | Null | https://github.com/hackthelock/python-backdoor | 0 | 0| 
 | 20230426T11:45:17Z | Null | https://github.com/scy-phy/backdoorCPSS23 | 1 | 0| 
 | 20230426T09:57:23Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20230426T06:48:53Z | Null | https://github.com/aRabX8/backdoorhub | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
