@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T00:13:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xg8_x-exploit-ask | 0 | 0| 
 | 20230426T23:42:54Z | The swiss-army knife of web server recon, injection, and exploitation. | https://github.com/m-rosinsky/WebWasp | 0 | 0| 
 | 20230426T18:04:05Z | A collection of binary exploitation techniques. Feel free to contribute via pr | https://github.com/m-heim/BinaryExploitationTechniques | 0 | 0| 
 | 20230426T15:01:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 428 | 87| 
@@ -96,7 +97,6 @@
 | 20230426T11:50:12Z | Exploit ChatGPT chats shared via sharegpt.com | https://github.com/manzke/sharegpt-dict | 0 | 0| 
 | 20230426T11:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 625 | 165| 
 | 20230426T11:07:28Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 451 | 31| 
-| 20230426T11:03:52Z | delta exploits #1 | https://github.com/ilaybar22/DeltaInstaller | 1 | 0| 
 
 
 # backdoor on Github 推荐
