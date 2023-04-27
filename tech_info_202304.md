@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T12:36:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5093 | 731| 
 | 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
 | 20230427T11:21:00Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 2| 
 | 20230427T11:20:39Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 2 | 0| 
 | 20230427T11:14:18Z | Projet pour le cours de Recherche opérationnelle : Projet “Exploitation agricole” | https://github.com/imadsharof/projetRO | 0 | 0| 
 | 20230427T10:18:04Z | Null | https://github.com/Flua-On-YT/ExploitDocs | 0 | 0| 
 | 20230427T09:20:28Z | FUD Windows PDF exploit builder | https://github.com/Fenddy1/PDF-Exploit-0day | 102 | 0| 
-| 20230427T02:54:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5092 | 730| 
 | 20230427T01:40:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:39:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:38:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 626 | 165| 
