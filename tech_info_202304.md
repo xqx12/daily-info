@@ -89,6 +89,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230426T23:42:54Z | The swiss-army knife of web server recon, injection, and exploitation. | https://github.com/m-rosinsky/WebWasp | 0 | 0| 
 | 20230426T18:04:05Z | A collection of binary exploitation techniques. Feel free to contribute via pr | https://github.com/m-heim/BinaryExploitationTechniques | 0 | 0| 
+| 20230426T15:01:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 428 | 87| 
 | 20230426T12:16:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4905 | 969| 
 | 20230426T12:00:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5089 | 730| 
 | 20230426T11:57:41Z | Null | https://github.com/NinjaCatExploit/NinjaCatExploit.github.io | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230426T11:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 625 | 165| 
 | 20230426T11:07:28Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 451 | 31| 
 | 20230426T11:03:52Z | delta exploits #1 | https://github.com/ilaybar22/DeltaInstaller | 1 | 0| 
-| 20230426T10:45:44Z | This is public code repository for the paper Acconotate: Exploiting Acoustic Changes for Automatic Annotation of Inertial Data at the Source, accepted in IEEE DCOSS-IoT 2023 | https://github.com/stilllearningsoumya/acconotate | 0 | 0| 
 
 
 # backdoor on Github 推荐
