@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T01:40:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:39:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9y | 1 | 0| 
 | 20230427T01:38:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 626 | 165| 
 | 20230427T01:37:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9y | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20230426T18:19:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 183 | 8| 
 | 20230426T18:04:05Z | A collection of binary exploitation techniques. Feel free to contribute via pr | https://github.com/m-heim/BinaryExploitationTechniques | 0 | 0| 
 | 20230426T15:01:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 428 | 87| 
-| 20230426T14:59:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4906 | 969| 
 
 
 # backdoor on Github 推荐
