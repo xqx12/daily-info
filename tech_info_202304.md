@@ -96,8 +96,8 @@
 | 20230428T10:32:56Z | ComplianceAI is a Lua addon for FiveM that uses advanced artificial intelligence to automatically detect and prevent rule-breaking behavior in the game. Whether it%s cheating, exploiting, or other types of misconduct, ComplianceAI is always watching and ready to take action to maintain a fair and enjoyable gaming experience for everyone. | https://github.com/MiniHood/ComplianceAI | 0 | 0| 
 | 20230428T10:11:26Z | SQP is a automatic tool use sqlmap to exploit and dump website have vuln sqli | https://github.com/lehongphong08/SQP | 0 | 0| 
 | 20230428T09:13:28Z | FileThingie 2.5.7 RCE Exploit PoC via Arbitary File Uplaod | https://github.com/grimlockx/File-Thingie-2.5.7-RCE | 0 | 0| 
+| 20230428T08:55:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4918 | 970| 
 | 20230428T08:55:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4811 | 606| 
-| 20230428T04:39:51Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Online tips and explain the commands, for the better understanding of new hunters.. | https://github.com/devmehedi101/bug-bounty-tips | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230427T23:39:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 636 | 116| 
+| 20230428T12:30:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 637 | 116| 
 | 20230426T20:45:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3419 | 479| 
 | 20230426T13:36:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2220 | 613| 
 | 20230426T02:55:37Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 760 | 89| 
