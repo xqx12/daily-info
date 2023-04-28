@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230428 | MoonBox: 无侵入的流量录制与回放平台 | https://github.com/vivo/MoonBox| 
 | 20230427 | 知识驱动的网络安全情报：软件漏洞的共同利用行为发现 | https://mp.weixin.qq.com/s/wn0RJvtk6D3BrG5c-gh-YA| 
 | 20230426 | logvision: 分布式实时日志分析与入侵检测系统 | https://github.com/xander-wang/logvision| 
 | 20230426 | 安全隐私卫士（AppScan）一款免费的企业级自动化隐私检测工具 | https://github.com/tongcheng-security-team/AppScan| 
@@ -40,37 +41,36 @@
 | 20230426 | SessionAnalytics - 基于互联网用户Session会话的用户路径分析... | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg| 
 | 20230426 | PentestGPT: A GPT-empowered penetration testing tool | https://github.com/GreyDGL/PentestGPT| 
 | 20230426 | 全球高级持续性威胁（APT）态势报告 | https://pan.baidu.com/s/1qa93JUHJz4H7AJhXQM6-wA?pwd=2323| 
-| 20230426 | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230428T09:31:07Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
+| 20230428T09:30:55Z | CVE-2023-30839 | PrestaShop <1.7.8.9 Fix for CVE-2023-30839 and CVE-2023-30545 | https://github.com/drkbcn/lblfixer_cve_2023_30839 | | 
+| 20230428T07:37:13Z | CVE-2023-31445 | Repository contains description for CVE-2023-31445 | https://github.com/Dodge-MPTC/CVE-2023-31445-Unprivileged-Information-Disclosure | | 
 | 20230427T20:51:48Z | CVE-2023-29489 | Null | https://github.com/xKore123/cPanel-CVE-2023-29489 | | 
-| 20230427T19:53:17Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
-| 20230427T15:54:23Z | CVE-2023-30839 | PrestaShop <1.7.8.9 Fix for CVE-2023-30839 | https://github.com/drkbcn/lblfixer_cve_2023_30839 | | 
 | 20230427T15:47:32Z | CVE-2022-0847 | A simple exploit that uses dirtypipe to inject shellcode into runC entrypoint to implement container escapes. | https://github.com/JlSakuya/CVE-2022-0847-container-escape | | 
 | 20230427T11:49:13Z | CVE-2023-30839 | PrestaShop <1.7.8.9 Fix for CVE-2023-30839 | https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839 | | 
 | 20230427T11:21:00Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230427T11:20:39Z | CVE-2022-29464 | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230427T07:38:24Z | CVE-2023-27524 | Apache Superset Auth Bypass Vulnerability CVE-2023-27524. | https://github.com/antx-code/CVE-2023-27524 | | 
 | 20230427T05:34:31Z | CVE-2023-1671 | CVE-2023-1671 POC in python | https://github.com/c4ln/CVE-2023-1671-POC | | 
-| 20230427T03:51:54Z | cve-2022-42475 | Null | https://github.com/natceil/cve-2022-42475 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T11:32:47Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 13 | 7| 
+| 20230428T03:55:52Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 68 | 18| 
 | 20230427T16:25:34Z | Config files for my GitHub profile. | https://github.com/kleed39/kleed39 | 0 | 0| 
-| 20230426T13:36:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2220 | 612| 
+| 20230426T13:36:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2220 | 613| 
 | 20230425T17:57:22Z | codes for kleenex | https://github.com/catimaad/kleenex | 0 | 0| 
 | 20230425T12:40:55Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 | 20230425T12:17:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11779 | 377| 
 | 20230425T04:15:35Z | Null | https://github.com/momvart/cmpt_982_se_project_klee_smm | 0 | 0| 
 | 20230425T02:36:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 268 | 2| 
 | 20230423T18:00:42Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 3 | 0| 
-| 20230423T12:31:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 67 | 18| 
-| 20230423T11:47:52Z | An open-source Unified Ideograph (Extension) font derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 6 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
+| 20230428T11:12:19Z | Check  https://root44xs.neocities.org/Tvl | https://github.com/ROOT44x/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
+| 20230428T11:08:30Z | Null | https://github.com/DarkenedBreeze/darkeneds-exploit-things | 0 | 0| 
+| 20230428T10:58:45Z | A command line script writted in Python that makes more comfortable exploiting xmlrpc.php on wordpress | https://github.com/s3r0s4pi3ns/xmlrpcpwn | 0 | 0| 
+| 20230428T10:32:56Z | ComplianceAI is a Lua addon for FiveM that uses advanced artificial intelligence to automatically detect and prevent rule-breaking behavior in the game. Whether it%s cheating, exploiting, or other types of misconduct, ComplianceAI is always watching and ready to take action to maintain a fair and enjoyable gaming experience for everyone. | https://github.com/MiniHood/ComplianceAI | 0 | 0| 
+| 20230428T10:11:26Z | SQP is a automatic tool use sqlmap to exploit and dump website have vuln sqli | https://github.com/lehongphong08/SQP | 0 | 0| 
+| 20230428T09:13:28Z | FileThingie 2.5.7 RCE Exploit PoC via Arbitary File Uplaod | https://github.com/grimlockx/File-Thingie-2.5.7-RCE | 0 | 0| 
+| 20230428T08:55:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4811 | 606| 
+| 20230428T04:39:51Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Online tips and explain the commands, for the better understanding of new hunters.. | https://github.com/devmehedi101/bug-bounty-tips | 0 | 1| 
 | 20230428T01:51:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6w | 1 | 0| 
-| 20230428T01:50:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6w | 1 | 0| 
-| 20230428T01:49:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6w | 1 | 0| 
-| 20230428T01:28:59Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10137 | 1598| 
-| 20230427T20:25:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4912 | 970| 
-| 20230427T20:13:12Z | open source proxy xss & ddos protection  | https://github.com/DeweyDv/Reverse-Exploit-Proxy | 0 | 0| 
-| 20230427T18:57:30Z | Null | https://github.com/lethikhanhdung/Exploit-Vuln-K8S | 0 | 0| 
-| 20230427T18:56:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3549 | 673| 
-| 20230427T17:55:25Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 430 | 87| 
-| 20230427T13:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 627 | 165| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T07:45:46Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
+| 20230428T07:45:37Z | Null | https://github.com/Saber-CC/McServerBackdoor | 0 | 0| 
+| 20230428T07:33:49Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 37 | 9| 
+| 20230428T06:33:58Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 2 | 0| 
+| 20230428T04:08:48Z | Roblox Backdoor, Fdy SS. | https://github.com/Blood-Gang-Inc/Fdy-SS | 0 | 0| 
 | 20230428T01:37:32Z | My f-root modification | https://github.com/Macchimne/L-root-backdoor | 0 | 0| 
 | 20230427T18:40:11Z | Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
-| 20230427T18:37:13Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
 | 20230427T15:32:28Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 132 | 17| 
 | 20230427T15:20:50Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 26 | 2| 
 | 20230427T14:15:49Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 25 | 4| 
-| 20230427T07:52:55Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20230427T01:12:46Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 45 | 9| 
-| 20230426T21:08:53Z | Una backdoor básica hecha con Python | https://github.com/S1NT4XError/Backdoor-python | 1 | 0| 
-| 20230426T20:13:31Z | Null | https://github.com/0067sdsm/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T11:50:41Z | Null | https://github.com/gfzum/Rust-fuzz-test | 0 | 0| 
+| 20230428T11:36:12Z | Null | https://github.com/shunsuke-kosaka/fuzzy-octo-rotary-phone | 0 | 0| 
+| 20230428T11:17:12Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
+| 20230428T10:29:27Z | CPP Lib For generic garbage | https://github.com/apertureinnovations/fuzzy-train | 0 | 0| 
+| 20230428T10:24:34Z | Method and software for structural and parametric adjustment of fuzzy cognitive models based on genetic algorithms | https://github.com/SquakR/fuzzy_cognitive_model | 0 | 0| 
+| 20230428T10:22:05Z | Fuzzy PID for Go | https://github.com/Ivan97/fuzzy-pid | 0 | 0| 
+| 20230428T10:09:46Z | fuzzy-octo-guide | https://github.com/kathielabeau1/fuzzy-octo-guide | 0 | 0| 
+| 20230428T09:29:04Z | The Fuzzy Map is a polymorph Python dictionary that always returns the value of the closest similar key. | https://github.com/pysnippet/fuzzymap | 3 | 2| 
+| 20230428T09:22:03Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
 | 20230428T00:23:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1830 | 89| 
-| 20230427T23:07:58Z | Null | https://github.com/therainisfree/fuzzy-train | 0 | 0| 
-| 20230427T22:20:19Z | Null | https://github.com/bmabsout/FuzzyActorCritic | 0 | 0| 
-| 20230427T21:20:09Z | Data Analytics Portfolio Project | https://github.com/Tera99/Fuzzy-Factory-E-commerce-Website-Analytics | 0 | 0| 
-| 20230427T19:25:06Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 201 | 28| 
-| 20230427T18:52:33Z | Null | https://github.com/google/fuzztest | 268 | 19| 
-| 20230427T15:27:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8609 | 1883| 
-| 20230427T14:57:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 87 | 8| 
-| 20230427T12:59:17Z | Null | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/_homework18_Kolesnykov_Oleksandr_Fuzz_generator | 0 | 0| 
-| 20230427T12:57:52Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 89 | 1| 
 
 
 
