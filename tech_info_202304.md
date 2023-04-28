@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T20:25:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4912 | 970| 
 | 20230427T20:13:12Z | open source proxy xss & ddos protection  | https://github.com/DeweyDv/Reverse-Exploit-Proxy | 0 | 0| 
 | 20230427T18:57:30Z | Null | https://github.com/lethikhanhdung/Exploit-Vuln-K8S | 0 | 0| 
 | 20230427T18:56:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3549 | 673| 
@@ -97,7 +98,6 @@
 | 20230427T12:36:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5093 | 731| 
 | 20230427T12:23:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13557 | 2287| 
 | 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
-| 20230427T11:21:00Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 2| 
 
 
 # backdoor on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T00:23:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1830 | 89| 
 | 20230427T23:07:58Z | Null | https://github.com/therainisfree/fuzzy-train | 0 | 0| 
 | 20230427T22:20:19Z | Null | https://github.com/bmabsout/FuzzyActorCritic | 0 | 0| 
 | 20230427T21:20:09Z | Data Analytics Portfolio Project | https://github.com/Tera99/Fuzzy-Factory-E-commerce-Website-Analytics | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230427T14:57:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 87 | 8| 
 | 20230427T12:59:17Z | Null | https://github.com/Hillel-i-Python-Pro-i-2022-12-27/_homework18_Kolesnykov_Oleksandr_Fuzz_generator | 0 | 0| 
 | 20230427T12:57:52Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 89 | 1| 
-| 20230427T12:54:14Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 190 | 5| 
 
 
 
