@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T01:51:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6w | 1 | 0| 
 | 20230428T01:50:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6w | 1 | 0| 
 | 20230428T01:49:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6w | 1 | 0| 
 | 20230428T01:28:59Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10137 | 1598| 
@@ -97,7 +98,6 @@
 | 20230427T18:56:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3549 | 673| 
 | 20230427T17:55:25Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 430 | 87| 
 | 20230427T13:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 627 | 165| 
-| 20230427T12:57:32Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
