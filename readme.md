@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:42:28Z | CVE-2022-28368 | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | | 
 | 20230428T12:40:07Z | CVE-2020-14882 | CVE-2020-14882 rewritten in PowerShell | https://github.com/H4shByte/CVE-2020-14882 | | 
 | 20230428T09:31:07Z | CVE-2023-29007 | PoC repository for CVE-2023-29007 | https://github.com/ethiack/CVE-2023-29007 | | 
 | 20230428T09:30:55Z | CVE-2023-30839 | PrestaShop <1.7.8.9 Fix for CVE-2023-30839 and CVE-2023-30545 | https://github.com/drkbcn/lblfixer_cve_2023_30839 | | 
