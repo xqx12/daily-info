@@ -71,13 +71,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230427T23:39:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 636 | 116| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230427T12:58:16Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 40 | 3| 
-| 20230427T02:28:33Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 642 | 99| 
+| 20230427T02:28:33Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 642 | 100| 
 
 
 # fuzz on Github 推荐
