@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:18:32Z | Learning | https://github.com/dizosos/fuzzy-broccoli | 0 | 0| 
 | 20230428T11:50:41Z | Null | https://github.com/gfzum/Rust-fuzz-test | 0 | 0| 
 | 20230428T11:36:12Z | Null | https://github.com/shunsuke-kosaka/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230428T11:17:12Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230428T10:09:46Z | fuzzy-octo-guide | https://github.com/kathielabeau1/fuzzy-octo-guide | 0 | 0| 
 | 20230428T09:29:04Z | The Fuzzy Map is a polymorph Python dictionary that always returns the value of the closest similar key. | https://github.com/pysnippet/fuzzymap | 3 | 2| 
 | 20230428T09:22:03Z | BLE over-the-air fuzzer | https://github.com/Just1ceP4rtn3r/blesser | 0 | 0| 
-| 20230428T00:23:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1830 | 89| 
 
 
 
