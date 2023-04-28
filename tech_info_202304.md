@@ -150,6 +150,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230428T12:30:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2094 | 266| 
 | 20230428T12:18:32Z | Learning | https://github.com/dizosos/fuzzy-broccoli | 0 | 0| 
+| 20230428T11:57:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8608 | 1883| 
 | 20230428T11:50:41Z | Null | https://github.com/gfzum/Rust-fuzz-test | 0 | 0| 
 | 20230428T11:36:12Z | Null | https://github.com/shunsuke-kosaka/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230428T11:17:12Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20230428T10:24:34Z | Method and software for structural and parametric adjustment of fuzzy cognitive models based on genetic algorithms | https://github.com/SquakR/fuzzy_cognitive_model | 0 | 0| 
 | 20230428T10:22:05Z | Fuzzy PID for Go | https://github.com/Ivan97/fuzzy-pid | 0 | 0| 
 | 20230428T10:09:46Z | fuzzy-octo-guide | https://github.com/kathielabeau1/fuzzy-octo-guide | 0 | 0| 
-| 20230428T09:29:04Z | The Fuzzy Map is a polymorph Python dictionary that always returns the value of the closest similar key. | https://github.com/pysnippet/fuzzymap | 3 | 2| 
 
 
 
