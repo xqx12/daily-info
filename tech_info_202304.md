@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T01:37:32Z | My f-root modification | https://github.com/Macchimne/L-root-backdoor | 0 | 0| 
 | 20230427T18:40:11Z | Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
 | 20230427T18:37:13Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
 | 20230427T15:32:28Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 132 | 17| 
@@ -112,7 +113,6 @@
 | 20230427T01:12:46Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 45 | 9| 
 | 20230426T21:08:53Z | Una backdoor básica hecha con Python | https://github.com/S1NT4XError/Backdoor-python | 1 | 0| 
 | 20230426T20:13:31Z | Null | https://github.com/0067sdsm/backdoor | 0 | 0| 
-| 20230426T19:43:57Z | Discord Vanity Sniper No Discord Token Grabber | https://github.com/Anatik572/discord-vanity-sniper-noBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
