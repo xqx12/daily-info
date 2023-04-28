@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:58:43Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0194-app-3ztvV-apply-exploit | 0 | 0| 
 | 20230428T12:42:28Z | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | 0 | 0| 
 | 20230428T12:22:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gzae-W13h5-experience-exploit | 0 | 0| 
 | 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
@@ -48,7 +49,6 @@
 | 20230428T10:32:56Z | ComplianceAI is a Lua addon for FiveM that uses advanced artificial intelligence to automatically detect and prevent rule-breaking behavior in the game. Whether it%s cheating, exploiting, or other types of misconduct, ComplianceAI is always watching and ready to take action to maintain a fair and enjoyable gaming experience for everyone. | https://github.com/MiniHood/ComplianceAI | 0 | 0| 
 | 20230428T10:11:26Z | SQP is a automatic tool use sqlmap to exploit and dump website have vuln sqli | https://github.com/lehongphong08/SQP | 0 | 0| 
 | 20230428T09:13:28Z | FileThingie 2.5.7 RCE Exploit PoC via Arbitary File Uplaod | https://github.com/grimlockx/File-Thingie-2.5.7-RCE | 0 | 0| 
-| 20230428T08:55:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4918 | 970| 
 
 
 # backdoor on Github 推荐
