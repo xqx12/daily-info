@@ -47,13 +47,13 @@
 | 20230427T20:13:12Z | open source proxy xss & ddos protection  | https://github.com/DeweyDv/Reverse-Exploit-Proxy | 0 | 0| 
 | 20230427T18:57:30Z | Null | https://github.com/lethikhanhdung/Exploit-Vuln-K8S | 0 | 0| 
 | 20230427T18:56:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3549 | 673| 
+| 20230427T17:55:25Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 430 | 87| 
 | 20230427T13:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 627 | 165| 
 | 20230427T12:57:32Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 0 | 0| 
 | 20230427T12:36:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5093 | 731| 
 | 20230427T12:23:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13557 | 2287| 
 | 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
 | 20230427T11:21:00Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 2| 
-| 20230427T11:20:39Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 2 | 0| 
 
 
 # backdoor on Github 推荐
