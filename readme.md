@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:49:33Z | fuzz code from openssl updated to target libressl | https://github.com/libressl/fuzz | 12 | 4| 
 | 20230428T12:30:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2094 | 266| 
 | 20230428T12:18:32Z | Learning | https://github.com/dizosos/fuzzy-broccoli | 0 | 0| 
 | 20230428T11:57:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8608 | 1883| 
@@ -86,7 +87,6 @@
 | 20230428T10:29:27Z | CPP Lib For generic garbage | https://github.com/apertureinnovations/fuzzy-train | 0 | 0| 
 | 20230428T10:24:34Z | Method and software for structural and parametric adjustment of fuzzy cognitive models based on genetic algorithms | https://github.com/SquakR/fuzzy_cognitive_model | 0 | 0| 
 | 20230428T10:22:05Z | Fuzzy PID for Go | https://github.com/Ivan97/fuzzy-pid | 0 | 0| 
-| 20230428T10:09:46Z | fuzzy-octo-guide | https://github.com/kathielabeau1/fuzzy-octo-guide | 0 | 0| 
 
 
 
