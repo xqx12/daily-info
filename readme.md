@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:22:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gzae-W13h5-experience-exploit | 0 | 0| 
 | 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
 | 20230428T11:12:19Z | Check  https://root44xs.neocities.org/Tvl | https://github.com/ROOT44x/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
 | 20230428T11:08:30Z | Null | https://github.com/DarkenedBreeze/darkeneds-exploit-things | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20230428T09:13:28Z | FileThingie 2.5.7 RCE Exploit PoC via Arbitary File Uplaod | https://github.com/grimlockx/File-Thingie-2.5.7-RCE | 0 | 0| 
 | 20230428T08:55:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4811 | 606| 
 | 20230428T04:39:51Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Online tips and explain the commands, for the better understanding of new hunters.. | https://github.com/devmehedi101/bug-bounty-tips | 0 | 1| 
-| 20230428T01:51:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6w | 1 | 0| 
 
 
 # backdoor on Github 推荐
