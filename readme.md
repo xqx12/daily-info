@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T12:42:28Z | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | 0 | 0| 
 | 20230428T12:22:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gzae-W13h5-experience-exploit | 0 | 0| 
 | 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
 | 20230428T11:12:19Z | Check  https://root44xs.neocities.org/Tvl | https://github.com/ROOT44x/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230428T10:11:26Z | SQP is a automatic tool use sqlmap to exploit and dump website have vuln sqli | https://github.com/lehongphong08/SQP | 0 | 0| 
 | 20230428T09:13:28Z | FileThingie 2.5.7 RCE Exploit PoC via Arbitary File Uplaod | https://github.com/grimlockx/File-Thingie-2.5.7-RCE | 0 | 0| 
 | 20230428T08:55:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4918 | 970| 
-| 20230428T08:55:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4811 | 606| 
 
 
 # backdoor on Github 推荐
