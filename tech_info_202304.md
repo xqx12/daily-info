@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230428T01:28:59Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10137 | 1598| 
 | 20230427T20:25:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4912 | 970| 
 | 20230427T20:13:12Z | open source proxy xss & ddos protection  | https://github.com/DeweyDv/Reverse-Exploit-Proxy | 0 | 0| 
 | 20230427T18:57:30Z | Null | https://github.com/lethikhanhdung/Exploit-Vuln-K8S | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20230427T12:57:32Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 0 | 0| 
 | 20230427T12:36:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5093 | 731| 
 | 20230427T12:23:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13557 | 2287| 
-| 20230427T12:00:04Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0119-app-Rrb6a-exploit-last | 0 | 0| 
 
 
 # backdoor on Github 推荐
