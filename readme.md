@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230429 | 开发安全管控平台技术 | https://www.cebnet.com.cn/20230427/102876332.html| 
+| 20230429 | JSP WebShell攻防(三)之动态代理类绕过 | https://ti.aliyun.com/#/log?id=32| 
 
 
 # CVE Github 推荐
