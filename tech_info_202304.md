@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T00:25:09Z | The Leading exploit to demolish anti-cheats, or byfron when the time comes. Stay informed into new information. Sincerely,  Evicted | https://github.com/evictedllc/Evicted-Bootstrapper | 0 | 0| 
 | 20230429T00:19:24Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Yardiz/Valorant-XHX | 58 | 0| 
 | 20230429T00:17:53Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 58 | 0| 
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20230428T17:29:01Z | Some papers and exploit writeups about WebKit. | https://github.com/sploitem/WebKitPwn | 0 | 0| 
 | 20230428T13:50:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 628 | 165| 
 | 20230428T12:58:43Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0194-app-3ztvV-apply-exploit | 0 | 0| 
-| 20230428T12:42:28Z | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | 0 | 0| 
 
 
 # backdoor on Github 推荐
