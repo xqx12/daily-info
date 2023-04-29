@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T00:55:01Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
 | 20230429T00:36:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2z | 1 | 0| 
 | 20230429T00:35:48Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-2z | 1 | 0| 
 | 20230429T00:34:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2z | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20230429T00:17:53Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 58 | 0| 
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
 | 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
-| 20230428T20:39:32Z | Roblox Bedwars Exploit | https://github.com/AlSploit/AlSploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
