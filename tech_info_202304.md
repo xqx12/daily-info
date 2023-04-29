@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T00:27:33Z | Localroot Exploit Kernel 4.4 2021 No Need To Compile Into GCC | https://github.com/yon3zu/Localroot_Exploit_4-4_2021 | 0 | 0| 
 | 20230429T00:25:09Z | The Leading exploit to demolish anti-cheats, or byfron when the time comes. Stay informed into new information. Sincerely,  Evicted | https://github.com/evictedllc/Evicted-Bootstrapper | 0 | 0| 
 | 20230429T00:19:24Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Yardiz/Valorant-XHX | 58 | 0| 
 | 20230429T00:17:53Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 58 | 0| 
@@ -97,7 +98,6 @@
 | 20230428T20:28:08Z | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/nhakobyan685/CVE-2023-25136 | 0 | 0| 
 | 20230428T17:29:01Z | Some papers and exploit writeups about WebKit. | https://github.com/sploitem/WebKitPwn | 0 | 0| 
 | 20230428T13:50:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 628 | 165| 
-| 20230428T12:58:43Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0194-app-3ztvV-apply-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
