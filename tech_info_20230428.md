@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230428T22:42:26Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 39 | 9| 
-| 20230428T21:05:08Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 2 | 0| 
 | 20230428T19:40:47Z | Bacdoor scanner | https://github.com/sallasalo/Spooki-s-Backdoor-Scanner | 0 | 0| 
 | 20230428T07:45:46Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
 | 20230428T07:45:37Z | Null | https://github.com/Saber-CC/McServerBackdoor | 0 | 0| 
