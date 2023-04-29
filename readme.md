@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230429 | 开发安全管控平台技术 | https://www.cebnet.com.cn/20230427/102876332.html| 
 
 
 # CVE Github 推荐

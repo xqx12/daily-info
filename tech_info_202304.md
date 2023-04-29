@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230429 | 开发安全管控平台技术 | https://www.cebnet.com.cn/20230427/102876332.html| 
 | 20230428 | MoonBox: 无侵入的流量录制与回放平台 | https://github.com/vivo/MoonBox| 
 | 20230427 | 知识驱动的网络安全情报：软件漏洞的共同利用行为发现 | https://mp.weixin.qq.com/s/wn0RJvtk6D3BrG5c-gh-YA| 
 | 20230426 | logvision: 分布式实时日志分析与入侵检测系统 | https://github.com/xander-wang/logvision| 
@@ -40,7 +41,6 @@
 | 20230426 | 中国数字法治政府建设十年述评 | https://mp.weixin.qq.com/s/dyXpelB41JHa8NXbwlVbmg| 
 | 20230426 | SessionAnalytics - 基于互联网用户Session会话的用户路径分析... | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg| 
 | 20230426 | PentestGPT: A GPT-empowered penetration testing tool | https://github.com/GreyDGL/PentestGPT| 
-| 20230426 | 全球高级持续性威胁（APT）态势报告 | https://pan.baidu.com/s/1qa93JUHJz4H7AJhXQM6-wA?pwd=2323| 
 
 
 # CVE Github 推荐
