@@ -88,13 +88,13 @@
 | 20230428T23:11:08Z | A Fuzzer with python made for my. | https://github.com/FredBrave/BraveFuzz | 1 | 0| 
 | 20230428T22:08:28Z | Null | https://github.com/fatema373/Fuzzy_c_mean-vs-k_means | 0 | 0| 
 | 20230428T21:23:10Z | Null | https://github.com/MRzeczkowski/fuzzy-project | 0 | 0| 
+| 20230428T21:11:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3551 | 425| 
 | 20230428T20:22:11Z | Sistema de riego con logica difusa | https://github.com/VERDESAN/RiegoFuzzy | 0 | 0| 
 | 20230428T19:45:37Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 92 | 7| 
 | 20230428T17:25:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8608 | 1884| 
 | 20230428T13:56:47Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2124 | 241| 
 | 20230428T13:53:48Z | This is a differential fuzzing repo that aims to check the different implementations of solidity math libraries are done correctly by fuzzing against each other.  | https://github.com/EnbangWu/differential-fuzzing | 1 | 0| 
 | 20230428T12:49:33Z | fuzz code from openssl updated to target libressl | https://github.com/libressl/fuzz | 12 | 4| 
-| 20230428T12:30:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2094 | 266| 
 
 
 
