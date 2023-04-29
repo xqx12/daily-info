@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T12:28:21Z | Simple github CVE exploit researcher written in python. | https://github.com/34zY/GitHarvest3r | 0 | 0| 
+| 20230429T12:32:35Z | Simple CVE github exploit gathering tool written in python. | https://github.com/34zY/GitHarvest3r | 0 | 0| 
 | 20230429T12:09:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4925 | 970| 
 | 20230429T11:54:50Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
 | 20230429T11:30:10Z | The source code for MainDab, a keyless Roblox exploit made using WPF | https://github.com/Avaluate/MainDab | 2 | 1| 
