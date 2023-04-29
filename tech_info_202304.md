@@ -93,11 +93,11 @@
 | 20230429T12:09:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4925 | 970| 
 | 20230429T11:54:50Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
 | 20230429T11:30:10Z | The source code for MainDab, a keyless Roblox exploit made using WPF | https://github.com/Avaluate/MainDab | 2 | 1| 
+| 20230429T11:30:10Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13570 | 2287| 
 | 20230429T08:50:55Z | FUD Windows PDF exploit builder | https://github.com/Tullipy/PDF-Exploit-0day | 101 | 0| 
 | 20230429T07:10:47Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
 | 20230429T01:21:21Z | Null | https://github.com/emilio2347/ResourceExploitationGlobe | 0 | 0| 
 | 20230429T01:12:22Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 2 | 0| 
-| 20230429T00:55:01Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
