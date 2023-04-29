@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T12:38:55Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1727 | 173| 
 | 20230429T12:32:35Z | Simple CVE github exploit gathering tool written in python. | https://github.com/34zY/GitHarvest3r | 0 | 0| 
 | 20230429T12:09:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4925 | 970| 
 | 20230429T11:54:50Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230429T01:21:21Z | Null | https://github.com/emilio2347/ResourceExploitationGlobe | 0 | 0| 
 | 20230429T01:12:22Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 2 | 0| 
 | 20230429T00:55:01Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
-| 20230429T00:36:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2z | 1 | 0| 
 
 
 # backdoor on Github 推荐
