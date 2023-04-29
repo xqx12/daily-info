@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230428T23:52:12Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Yardiz/Valorant-XHX | 0 | 0| 
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
 | 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
 | 20230428T20:39:32Z | Roblox Bedwars Exploit | https://github.com/AlSploit/AlSploit | 1 | 0| 
@@ -55,6 +54,7 @@
 | 20230428T12:58:43Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0194-app-3ztvV-apply-exploit | 0 | 0| 
 | 20230428T12:42:28Z | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | 0 | 0| 
 | 20230428T12:22:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gzae-W13h5-experience-exploit | 0 | 0| 
+| 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
 
 
 # backdoor on Github 推荐
