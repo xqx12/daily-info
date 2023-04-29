@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T01:21:21Z | Null | https://github.com/emilio2347/ResourceExploitationGlobe | 0 | 0| 
 | 20230429T01:12:22Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 2 | 0| 
 | 20230429T00:55:01Z | This is a script for a Roblox Anti Exploit. Whenever you copy and paste the code into your Roblox game, check over it just in case. | https://github.com/holoperfection/Roblox-Anti-Exploit-Script | 0 | 0| 
 | 20230429T00:36:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2z | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20230429T00:27:33Z | Localroot Exploit Kernel 4.4 2021 No Need To Compile Into GCC | https://github.com/yon3zu/Localroot_Exploit_4-4_2021 | 0 | 0| 
 | 20230429T00:19:24Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Yardiz/Valorant-XHX | 58 | 0| 
 | 20230429T00:17:53Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 58 | 0| 
-| 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
 
 
 # backdoor on Github 推荐
