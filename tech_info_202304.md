@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T00:17:53Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 58 | 0| 
 | 20230429T00:05:03Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Yardiz/Valorant-XHX | 29 | 0| 
-| 20230429T00:03:32Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Yardiz/Roobet-Crypto-Casino-Predictor | 29 | 0| 
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
 | 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
 | 20230428T20:39:32Z | Roblox Bedwars Exploit | https://github.com/AlSploit/AlSploit | 1 | 0| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T00:17:42Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 121 | 22| 
 | 20230428T22:42:26Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 39 | 9| 
 | 20230428T21:05:08Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 2 | 0| 
 | 20230428T19:40:47Z | Bacdoor scanner | https://github.com/sallasalo/Spooki-s-Backdoor-Scanner | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20230428T04:08:48Z | Roblox Backdoor, Fdy SS. | https://github.com/Blood-Gang-Inc/Fdy-SS | 0 | 0| 
 | 20230428T01:37:32Z | My f-root modification | https://github.com/Macchimne/L-root-backdoor | 0 | 0| 
 | 20230427T18:40:11Z | Windows Backdoor created in C  | https://github.com/Swayampadhy/Windows-Backdoor | 0 | 0| 
-| 20230427T15:32:28Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 132 | 17| 
 
 
 # symbolic execution on Github 推荐
