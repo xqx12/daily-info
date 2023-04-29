@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T00:34:49Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-2z | 0 | 0| 
+| 20230429T00:36:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2z | 1 | 0| 
+| 20230429T00:35:48Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-2z | 1 | 0| 
 | 20230429T00:34:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2z | 1 | 0| 
 | 20230429T00:33:16Z | The Leading exploit to demolish anti-cheats, or byfron when the time comes. Stay informed into new information. Sincerely,  Evicted | https://github.com/evictedllc/Evicted-Bootstrapper | 0 | 0| 
 | 20230429T00:27:33Z | Localroot Exploit Kernel 4.4 2021 No Need To Compile Into GCC | https://github.com/yon3zu/Localroot_Exploit_4-4_2021 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
 | 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
 | 20230428T20:39:32Z | Roblox Bedwars Exploit | https://github.com/AlSploit/AlSploit | 1 | 0| 
-| 20230428T20:28:08Z | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/nhakobyan685/CVE-2023-25136 | 0 | 0| 
 
 
 # backdoor on Github 推荐

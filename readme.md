@@ -48,13 +48,13 @@
 | 20230428T23:49:04Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 1 | 0| 
 | 20230428T21:10:37Z | Make it harder to read and exploit FiveM scripts | https://github.com/GJSBRT/FiveMCompiler | 0 | 0| 
 | 20230428T20:39:32Z | Roblox Bedwars Exploit | https://github.com/AlSploit/AlSploit | 1 | 0| 
+| 20230428T20:34:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4922 | 970| 
 | 20230428T20:28:08Z | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/nhakobyan685/CVE-2023-25136 | 0 | 0| 
 | 20230428T17:29:01Z | Some papers and exploit writeups about WebKit. | https://github.com/sploitem/WebKitPwn | 0 | 0| 
 | 20230428T13:50:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 628 | 165| 
 | 20230428T12:58:43Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0194-app-3ztvV-apply-exploit | 0 | 0| 
 | 20230428T12:42:28Z | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | https://github.com/That-Guy-Steve/CVE-2022-28368-handler | 0 | 0| 
 | 20230428T12:22:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gzae-W13h5-experience-exploit | 0 | 0| 
-| 20230428T11:30:18Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 128 | 17| 
 
 
 # backdoor on Github 推荐
