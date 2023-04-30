@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230430T12:36:26Z | Null | https://github.com/Nguyenba990/fuzzy-waddle | 0 | 0| 
 | 20230430T12:23:33Z | Health prediction using fuzzy logic system with data collected from wearables | https://github.com/Rachel-reno/ee4305_fuzzy_system_project | 0 | 0| 
 | 20230430T10:54:13Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230430T10:41:54Z | Null | https://github.com/KEONI1231/Driver_Look_Forward_Fuzzy_Logic | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230430T08:17:58Z | This repository contains an implementation of booking without app problem statement of Namma Yatri Open Mobility Challenge 2023 | https://github.com/Dhiman07-create/fuzzy-lamp | 0 | 0| 
 | 20230430T07:56:06Z | Python app for Fuzzing and Brute Forcing JS Encrypted Login Forms | https://github.com/yashar0x/JSEncrypted-Fuzzer | 0 | 0| 
 | 20230430T04:50:31Z | Fuzz Training for BSides Charm 2023 | https://github.com/WhatTheFuzz/bsides-charm-fuzz-training | 1 | 0| 
-| 20230430T04:46:42Z | Null | https://github.com/Donaldttt/fuzzyy | 0 | 0| 
 
 
 
