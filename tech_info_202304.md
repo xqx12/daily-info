@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20230429 | 开发安全管控平台技术 | https://www.cebnet.com.cn/20230427/102876332.html| 
 | 20230429 | JSP WebShell攻防(三)之动态代理类绕过 | https://ti.aliyun.com/#/log?id=32| 
+| 20230429 | 四川省数字经济发展白皮书 | https://www.kdocs.cn/l/ctUo14ZA5aR7| 
 | 20230428 | MoonBox: 无侵入的流量录制与回放平台 | https://github.com/vivo/MoonBox| 
 | 20230427 | 知识驱动的网络安全情报：软件漏洞的共同利用行为发现 | https://mp.weixin.qq.com/s/wn0RJvtk6D3BrG5c-gh-YA| 
 | 20230426 | logvision: 分布式实时日志分析与入侵检测系统 | https://github.com/xander-wang/logvision| 
@@ -40,12 +41,14 @@
 | 20230426 | 飞刃（NextScan）一款免费的企业级分布式安全评估系统 | https://github.com/tongcheng-security-team/NextScan| 
 | 20230426 | DAPP: 自动检测并分析 NodeJS 模块原型漏洞 | https://mp.weixin.qq.com/s/jeUQOOMkVrMOvVN6B7PJOw| 
 | 20230426 | 中国数字法治政府建设十年述评 | https://mp.weixin.qq.com/s/dyXpelB41JHa8NXbwlVbmg| 
-| 20230426 | SessionAnalytics - 基于互联网用户Session会话的用户路径分析... | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230429T23:09:35Z | CVE-2023-29983 | Null | https://github.com/zPrototype/CVE-2023-29983 | | 
+| 20230429T22:28:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 that affects Cacti 1.2.22 version | https://github.com/devilgothies/CVE-2022-46169 | | 
+| 20230429T22:27:43Z | CVE-2023-29489 | Scanner CVE-2023-29489 Python (Selenium) | https://github.com/haxor1337x/Scanner-CVE-2023-29489 | | 
 | 20230429T05:54:20Z | CVE-2023-29489 | Null | https://github.com/Mostafa-Elguerdawi/CVE-2023-29489 | | 
 | 20230429T05:52:54Z | CVE-2023-29489 | Null | https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml | | 
 | 20230429T04:14:27Z | CVE-2023-31443 | nordugrid-arc-wn 6.14.0 DoS/LPE. | https://github.com/MaherAzzouzi/CVE-2023-31443 | | 
@@ -53,14 +56,12 @@
 | 20230428T23:01:43Z | CVE-2020-35489 | POC for  Contact Form 7 < 5.3.2 - Unrestricted File Upload  (Maybe Code execution ) | https://github.com/bod4k/CVE-2020-35489 | | 
 | 20230428T21:29:10Z | CVE-2023-29489 | Null | https://github.com/xKore123/cPanel-CVE-2023-29489 | | 
 | 20230428T17:07:02Z | CVE-2023-29489 | a pyhton script to test all results from shodan for cPanel CVE-2023-29489, credits to @assetnote, I just automate | https://github.com/ipk1/CVE-2023-29489.py | | 
-| 20230428T17:04:10Z | CVE-2021-38314 | Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin  | https://github.com/0xGabe/CVE-2021-38314 | | 
-| 20230428T16:10:27Z | CVE-2023-30854 | Null | https://github.com/jmrcsnchz/CVE-2023-30854 | | 
-| 20230428T15:53:17Z | CVE-2023-0669 | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | https://github.com/Avento/CVE-2023-0669 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T17:07:36Z | Null | https://github.com/onionoino/klee | 2 | 1| 
 | 20230429T11:38:33Z | Github profile | https://github.com/kleemeo/kleemeo | 1 | 1| 
 | 20230429T09:55:24Z | 桌面宠物可莉，可以播放可莉语音，也会有字幕，还可以截屏，打开记事本什么的一些功能 | https://github.com/mf22221111/klee_python | 0 | 0| 
 | 20230429T09:15:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2221 | 613| 
@@ -70,7 +71,6 @@
 | 20230425T17:57:22Z | codes for kleenex | https://github.com/catimaad/kleenex | 0 | 0| 
 | 20230425T12:40:55Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
 | 20230425T12:17:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11779 | 377| 
-| 20230425T04:15:35Z | Null | https://github.com/momvart/cmpt_982_se_project_klee_smm | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T21:09:17Z | UnnamedHub - Soon in your hands. | https://github.com/Dumb-Utility/UnnamedHub | 3 | 0| 
+| 20230429T20:30:30Z | Synapse exploit in DLL need Hacker Process to launche the Internal UI Enjoy ! | https://github.com/Kyanxte/SynapseX-DLL | 1 | 0| 
+| 20230429T19:54:50Z | Some scripts for Roblox exploiting | https://github.com/andytubeee/RobloxExploitScriptCollection | 0 | 0| 
+| 20230429T19:48:52Z | Null | https://github.com/nexis-nexis/Searchor-2.4.0-POC-Exploit- | 0 | 0| 
+| 20230429T19:05:04Z | Null | https://github.com/nody77/Metasploitable-Services-Exploitation | 0 | 0| 
 | 20230429T12:38:55Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1727 | 173| 
 | 20230429T12:32:35Z | Simple CVE github exploit gathering tool written in python. | https://github.com/34zY/GitHarvest3r | 0 | 0| 
 | 20230429T12:09:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4925 | 970| 
 | 20230429T11:54:50Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
 | 20230429T11:30:10Z | The source code for MainDab, a keyless Roblox exploit made using WPF | https://github.com/Avaluate/MainDab | 2 | 1| 
-| 20230429T11:30:10Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13570 | 2287| 
-| 20230429T08:50:55Z | FUD Windows PDF exploit builder | https://github.com/Tullipy/PDF-Exploit-0day | 101 | 0| 
-| 20230429T07:10:47Z | Light Exploits for Roblox | https://github.com/ItzzExcel/LExploits | 0 | 0| 
-| 20230429T01:21:21Z | Null | https://github.com/emilio2347/ResourceExploitationGlobe | 0 | 0| 
-| 20230429T01:12:22Z | ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... | https://github.com/oppsec/OAO | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T22:10:17Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/FabrizioSandri/deepstate | 0 | 0| 
+| 20230429T18:18:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3420 | 479| 
 | 20230429T09:15:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2221 | 613| 
-| 20230429T01:00:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 761 | 89| 
+| 20230429T01:00:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 761 | 88| 
 | 20230428T12:30:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 637 | 116| 
-| 20230426T20:45:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3419 | 479| 
+| 20230426T13:34:48Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1065 | 130| 
 | 20230425T09:21:50Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 86 | 18| 
 | 20230424T18:48:53Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 76 | 2| 
 | 20230424T12:16:26Z | Quiver-Based Symbolic Execution | https://github.com/LostBitset/quiver_se | 3 | 0| 
 | 20230423T08:55:05Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 190 | 41| 
-| 20230423T08:52:09Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 33 | 7| 
-| 20230422T07:04:21Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 1 | 5| 
 
 
 # big4 on Github 推荐
