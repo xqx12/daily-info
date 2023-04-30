@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230430T12:23:33Z | Health prediction using fuzzy logic system with data collected from wearables | https://github.com/Rachel-reno/ee4305_fuzzy_system_project | 0 | 0| 
 | 20230430T10:54:13Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230430T10:41:54Z | Null | https://github.com/KEONI1231/Driver_Look_Forward_Fuzzy_Logic | 0 | 0| 
 | 20230430T10:03:36Z | Null | https://github.com/joshwhite33452/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
