@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230430T10:37:52Z | CVE-2022-46169 | CVE-2022-46169 | https://github.com/yassinebk/CVE-2022-46169 | | 
 | 20230430T01:18:26Z | CVE-2023-2033 | Null | https://github.com/gretchenfrage/CVE-2023-2033-analysis | | 
 | 20230429T23:09:35Z | CVE-2023-29983 | Null | https://github.com/zPrototype/CVE-2023-29983 | | 
 | 20230429T22:28:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 that affects Cacti 1.2.22 version | https://github.com/devilgothies/CVE-2022-46169 | | 
@@ -55,12 +56,13 @@
 | 20230429T04:14:27Z | CVE-2023-31443 | nordugrid-arc-wn 6.14.0 DoS/LPE. | https://github.com/MaherAzzouzi/CVE-2023-31443 | | 
 | 20230429T02:58:27Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/nhakobyan685/CVE-2023-25136 | | 
 | 20230428T23:01:43Z | CVE-2020-35489 | POC for  Contact Form 7 < 5.3.2 - Unrestricted File Upload  (Maybe Code execution ) | https://github.com/bod4k/CVE-2020-35489 | | 
-| 20230428T21:29:10Z | CVE-2023-29489 | Null | https://github.com/xKore123/cPanel-CVE-2023-29489 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230430T10:00:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11854 | 377| 
+| 20230430T00:34:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 273 | 3| 
 | 20230429T17:07:36Z | Null | https://github.com/onionoino/klee | 2 | 1| 
 | 20230429T11:38:33Z | Github profile | https://github.com/kleemeo/kleemeo | 1 | 1| 
 | 20230429T09:55:24Z | 桌面宠物可莉，可以播放可莉语音，也会有字幕，还可以截屏，打开记事本什么的一些功能 | https://github.com/mf22221111/klee_python | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20230428T03:55:52Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 68 | 18| 
 | 20230427T16:25:34Z | Config files for my GitHub profile. | https://github.com/kleed39/kleed39 | 0 | 0| 
 | 20230425T17:57:22Z | codes for kleenex | https://github.com/catimaad/kleenex | 0 | 0| 
-| 20230425T12:40:55Z | Null | https://github.com/Kleenelan/kleenelang | 0 | 0| 
-| 20230425T12:17:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11779 | 377| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230430T01:41:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5w | 1 | 0| 
-| 20230430T01:39:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5w | 1 | 0| 
-| 20230430T01:38:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5w | 1 | 0| 
-| 20230430T01:35:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4929 | 971| 
-| 20230429T21:09:17Z | UnnamedHub - Soon in your hands. | https://github.com/Dumb-Utility/UnnamedHub | 3 | 0| 
-| 20230429T20:30:30Z | Synapse exploit in DLL need Hacker Process to launche the Internal UI Enjoy ! | https://github.com/Kyanxte/SynapseX-DLL | 1 | 0| 
-| 20230429T19:54:50Z | Some scripts for Roblox exploiting | https://github.com/andytubeee/RobloxExploitScriptCollection | 0 | 0| 
-| 20230429T19:48:52Z | Null | https://github.com/nexis-nexis/Searchor-2.4.0-POC-Exploit- | 0 | 0| 
-| 20230429T19:05:04Z | Null | https://github.com/nody77/Metasploitable-Services-Exploitation | 0 | 0| 
-| 20230429T12:38:55Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1727 | 173| 
+| 20230430T11:28:14Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5524 | 752| 
+| 20230430T11:20:10Z | Exploit for soul Cultivation | https://github.com/Dsioul/SoulCultivationScript | 1 | 0| 
+| 20230430T11:18:57Z | Exploits by the Fl00d team for the roblox game: Bedwars [BETA]. | https://github.com/RealLava/fl00dhub-bedwars | 0 | 0| 
+| 20230430T08:56:05Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2631 | 370| 
+| 20230430T08:53:48Z | FUD Windows PDF exploit builder | https://github.com/Hallam0/PDF-Exploit-0day | 101 | 0| 
+| 20230430T08:19:42Z | Obsidian-friendly cheatsheets for Active Directory enumeration and exploitation | https://github.com/ismaildawoodjee/ADExploitation-Obsidian-CheatSheet | 0 | 0| 
+| 20230430T07:59:19Z | The best keyless executor | https://github.com/Sickman-Exploit/Sickman-Exploit.github.io | 0 | 0| 
+| 20230430T07:05:59Z | SirScripts is a simple, yet will be your favorite Roblox exploits scripts CDN website. | https://github.com/hanaui-git/sirscripts | 0 | 0| 
+| 20230430T06:49:00Z | Example Python script that demonstrates a simple example of a Cross-Site Scripting (XSS) exploit for educational purposes only. This script is intended to be used responsibly, for learning and understanding the security implications of XSS attacks, and should not be used for any illegal or unethical activities. | https://github.com/VolkanSah/SQLp-EDU | 0 | 0| 
+| 20230430T03:12:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4930 | 971| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230430T10:53:17Z | 😡 T3rr0r got mad | https://github.com/KrxboLxTrueNasto/Private-CrashBot | 1 | 0| 
+| 20230430T08:04:57Z | LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 23 | 2| 
+| 20230430T03:38:45Z | Open code implementation of different backdoor attack in Federated Learning | https://github.com/wenqsun/BackdoorAttack_FL | 0 | 0| 
+| 20230430T02:48:44Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 17 | 5| 
 | 20230430T01:41:57Z | Null | https://github.com/WillowSauceR/BackDoor | 0 | 0| 
 | 20230429T19:07:53Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 10 | 0| 
 | 20230429T18:09:55Z | Null | https://github.com/RaagulVigneshR/openssh-backdoor-kit | 0 | 0| 
 | 20230429T15:01:27Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 41 | 9| 
 | 20230429T11:25:21Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 3| 
 | 20230429T02:16:47Z | easily accessible backdoor, will add readme | https://github.com/nazim/WordpressBackdoor | 2 | 2| 
-| 20230429T00:17:42Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 121 | 22| 
-| 20230428T19:40:47Z | Bacdoor scanner | https://github.com/sallasalo/Spooki-s-Backdoor-Scanner | 0 | 0| 
-| 20230428T07:45:46Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
-| 20230428T07:45:37Z | Null | https://github.com/Saber-CC/McServerBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230430T01:57:59Z | Fuzz Training for BSides Charm 2023 | https://github.com/WhatTheFuzz/bsides-charm-fuzz-training | 0 | 0| 
+| 20230430T10:54:13Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
+| 20230430T10:41:54Z | Null | https://github.com/KEONI1231/Driver_Look_Forward_Fuzzy_Logic | 0 | 0| 
+| 20230430T10:03:36Z | Null | https://github.com/joshwhite33452/solved-ai-main-assignment-fuzzy-logic-neural-networks | 0 | 0| 
+| 20230430T09:48:45Z | Fuzzing Stockfish, Rubi, and Halogen | https://github.com/andrewsongj/chess-engine-fuzzer | 0 | 0| 
+| 20230430T08:21:15Z | 📱 MDC-Kotlin Android app, designed to practice creating event handlers and relations between activities, also localizing strings and creating menus | https://github.com/bulkabuka/fuzzy-waddle | 0 | 0| 
+| 20230430T07:56:06Z | Python app for Fuzzing and Brute Forcing JS Encrypted Login Forms | https://github.com/yashar0x/JSEncrypted-Fuzzer | 0 | 0| 
+| 20230430T04:50:31Z | Fuzz Training for BSides Charm 2023 | https://github.com/WhatTheFuzz/bsides-charm-fuzz-training | 1 | 0| 
+| 20230430T04:46:42Z | Null | https://github.com/Donaldttt/fuzzyy | 0 | 0| 
 | 20230430T00:06:46Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
 | 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
-| 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
-| 20230429T21:26:52Z | Based on research papers which discuss Robust optimization on Fuzzy concept | https://github.com/adityasahugit/Fuzzy_SVM_Robust_Optimization | 0 | 0| 
-| 20230429T21:09:57Z | fuzzy search matches files from two directories, renames the files in the second to the closest matching ones from the first | https://github.com/zigzag1001/fuzzyFileRenameMatch | 0 | 0| 
-| 20230429T21:04:24Z | Null | https://github.com/SirCAS/fuzzy-carnival | 0 | 0| 
-| 20230429T19:01:43Z | This repository is dedicated to implementation of fuzzing DSL parser. | https://github.com/nekit2-002/function-parser | 0 | 0| 
-| 20230429T18:05:04Z | Null | https://github.com/ajjaic/fuzzy-umbrella | 0 | 0| 
-| 20230429T18:04:10Z | Null | https://github.com/Appletini756/fuzzy-disco.github.io | 0 | 0| 
 
 
 
