@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T23:59:20Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
+| 20230430T00:06:46Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
 | 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
 | 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
 | 20230429T21:26:52Z | Based on research papers which discuss Robust optimization on Fuzzy concept | https://github.com/adityasahugit/Fuzzy_SVM_Robust_Optimization | 0 | 0| 

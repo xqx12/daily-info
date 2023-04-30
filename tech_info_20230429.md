@@ -86,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T23:59:20Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
 | 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
 | 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
 | 20230429T21:26:52Z | Based on research papers which discuss Robust optimization on Fuzzy concept | https://github.com/adityasahugit/Fuzzy_SVM_Robust_Optimization | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20230429T18:05:04Z | Null | https://github.com/ajjaic/fuzzy-umbrella | 0 | 0| 
 | 20230429T18:04:10Z | Null | https://github.com/Appletini756/fuzzy-disco.github.io | 0 | 0| 
 | 20230429T10:04:29Z | Use Squirrel to check oceanbase. | https://github.com/ash2kzzz/ob-fuzzer | 0 | 0| 
+| 20230429T10:00:22Z | JS fuzzer for Vue.js project | https://github.com/DPankoff/fuzzjsss | 0 | 0| 
 
 
 
