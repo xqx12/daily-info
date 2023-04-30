@@ -118,10 +118,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230430T01:53:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3421 | 479| 
+| 20230430T02:17:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3422 | 479| 
 | 20230429T22:10:17Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/FabrizioSandri/deepstate | 0 | 0| 
 | 20230429T09:15:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2221 | 613| 
-| 20230429T01:00:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 761 | 88| 
+| 20230429T01:00:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 761 | 89| 
 | 20230428T12:30:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 637 | 116| 
 | 20230426T13:34:48Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1065 | 130| 
 | 20230425T09:21:50Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 86 | 18| 
