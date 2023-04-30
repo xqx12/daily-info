@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230430T11:28:14Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5524 | 752| 
+| 20230430T12:52:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5525 | 752| 
 | 20230430T11:20:10Z | Exploit for soul Cultivation | https://github.com/Dsioul/SoulCultivationScript | 1 | 0| 
 | 20230430T11:18:57Z | Exploits by the Fl00d team for the roblox game: Bedwars [BETA]. | https://github.com/RealLava/fl00dhub-bedwars | 0 | 0| 
 | 20230430T08:56:05Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2631 | 370| 
