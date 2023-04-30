@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T11:55:05Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 9 | 0| 
+| 20230429T19:07:53Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 10 | 0| 
+| 20230429T18:09:55Z | Null | https://github.com/RaagulVigneshR/openssh-backdoor-kit | 0 | 0| 
+| 20230429T15:01:27Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 41 | 9| 
 | 20230429T11:25:21Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 3| 
 | 20230429T02:16:47Z | easily accessible backdoor, will add readme | https://github.com/nazim/WordpressBackdoor | 2 | 2| 
 | 20230429T00:17:42Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 121 | 22| 
-| 20230428T22:42:26Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 39 | 9| 
 | 20230428T19:40:47Z | Bacdoor scanner | https://github.com/sallasalo/Spooki-s-Backdoor-Scanner | 0 | 0| 
 | 20230428T07:45:46Z | :octocat:这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。 | https://github.com/XzaiCloud/McServerBackdoor | 1 | 1| 
 | 20230428T07:45:37Z | Null | https://github.com/Saber-CC/McServerBackdoor | 0 | 0| 
 | 20230428T06:33:58Z | Evil-Droid is a framework that creates & generates & embed apk payload to penetrate Android platforms. | https://github.com/HackWithSumit/AndroidBackdoor-EvilDroid | 2 | 0| 
-| 20230428T04:08:48Z | Roblox Backdoor, Fdy SS. | https://github.com/Blood-Gang-Inc/Fdy-SS | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T23:59:20Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
+| 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
+| 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
+| 20230429T21:26:52Z | Based on research papers which discuss Robust optimization on Fuzzy concept | https://github.com/adityasahugit/Fuzzy_SVM_Robust_Optimization | 0 | 0| 
+| 20230429T21:09:57Z | fuzzy search matches files from two directories, renames the files in the second to the closest matching ones from the first | https://github.com/zigzag1001/fuzzyFileRenameMatch | 0 | 0| 
+| 20230429T21:04:24Z | Null | https://github.com/SirCAS/fuzzy-carnival | 0 | 0| 
+| 20230429T19:01:43Z | This repository is dedicated to implementation of fuzzing DSL parser. | https://github.com/nekit2-002/function-parser | 0 | 0| 
+| 20230429T18:05:04Z | Null | https://github.com/ajjaic/fuzzy-umbrella | 0 | 0| 
+| 20230429T18:04:10Z | Null | https://github.com/Appletini756/fuzzy-disco.github.io | 0 | 0| 
 | 20230429T10:04:29Z | Use Squirrel to check oceanbase. | https://github.com/ash2kzzz/ob-fuzzer | 0 | 0| 
-| 20230429T10:00:22Z | JS fuzzer for Vue.js project | https://github.com/DPankoff/fuzzjsss | 0 | 0| 
-| 20230429T08:43:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8608 | 1884| 
-| 20230429T05:11:42Z | Null | https://github.com/console6500/fuzzy-computing-machine | 0 | 0| 
-| 20230429T01:42:19Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 5014 | 1310| 
-| 20230429T01:32:10Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 93 | 7| 
-| 20230428T23:11:08Z | A Fuzzer with python made for my. | https://github.com/FredBrave/BraveFuzz | 1 | 0| 
-| 20230428T22:08:28Z | Null | https://github.com/fatema373/Fuzzy_c_mean-vs-k_means | 0 | 0| 
-| 20230428T21:23:10Z | Null | https://github.com/MRzeczkowski/fuzzy-project | 0 | 0| 
-| 20230428T21:11:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3551 | 425| 
 
 
 

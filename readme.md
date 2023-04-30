@@ -61,7 +61,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T11:55:05Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 9 | 0| 
+| 20230429T19:07:53Z | SSH Backdoor for android | https://github.com/SleepTheGod/Android_Backdoor | 10 | 0| 
+| 20230429T18:09:55Z | Null | https://github.com/RaagulVigneshR/openssh-backdoor-kit | 0 | 0| 
+| 20230429T15:01:27Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 41 | 9| 
 | 20230429T11:25:21Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 3| 
 | 20230429T02:16:47Z | easily accessible backdoor, will add readme | https://github.com/nazim/WordpressBackdoor | 2 | 2| 
 | 20230429T00:17:42Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 121 | 22| 
@@ -84,12 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230429T23:59:20Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
+| 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
+| 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
+| 20230429T21:26:52Z | Based on research papers which discuss Robust optimization on Fuzzy concept | https://github.com/adityasahugit/Fuzzy_SVM_Robust_Optimization | 0 | 0| 
+| 20230429T21:09:57Z | fuzzy search matches files from two directories, renames the files in the second to the closest matching ones from the first | https://github.com/zigzag1001/fuzzyFileRenameMatch | 0 | 0| 
+| 20230429T21:04:24Z | Null | https://github.com/SirCAS/fuzzy-carnival | 0 | 0| 
+| 20230429T19:01:43Z | This repository is dedicated to implementation of fuzzing DSL parser. | https://github.com/nekit2-002/function-parser | 0 | 0| 
+| 20230429T18:05:04Z | Null | https://github.com/ajjaic/fuzzy-umbrella | 0 | 0| 
+| 20230429T18:04:10Z | Null | https://github.com/Appletini756/fuzzy-disco.github.io | 0 | 0| 
 | 20230429T10:04:29Z | Use Squirrel to check oceanbase. | https://github.com/ash2kzzz/ob-fuzzer | 0 | 0| 
-| 20230429T10:00:22Z | JS fuzzer for Vue.js project | https://github.com/DPankoff/fuzzjsss | 0 | 0| 
-| 20230429T08:43:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8608 | 1884| 
-| 20230429T05:11:42Z | Null | https://github.com/console6500/fuzzy-computing-machine | 0 | 0| 
-| 20230429T01:42:19Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 5014 | 1310| 
-| 20230429T01:32:10Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 93 | 7| 
 
 
 
