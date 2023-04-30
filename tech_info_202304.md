@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230430T01:35:42Z | Fuzz Training for BSides Charm 2023 | https://github.com/WhatTheFuzz/bsides-charm-fuzz-training | 0 | 0| 
 | 20230430T00:06:46Z | structural-aware fuzzing combined with QSYM | https://github.com/flygonty/structural-QSYM | 0 | 0| 
 | 20230429T23:52:21Z | Null | https://github.com/JacoboV18/fuzzy-broccoli | 0 | 0| 
 | 20230429T23:33:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8610 | 1884| 
@@ -157,7 +158,6 @@
 | 20230429T19:01:43Z | This repository is dedicated to implementation of fuzzing DSL parser. | https://github.com/nekit2-002/function-parser | 0 | 0| 
 | 20230429T18:05:04Z | Null | https://github.com/ajjaic/fuzzy-umbrella | 0 | 0| 
 | 20230429T18:04:10Z | Null | https://github.com/Appletini756/fuzzy-disco.github.io | 0 | 0| 
-| 20230429T10:04:29Z | Use Squirrel to check oceanbase. | https://github.com/ash2kzzz/ob-fuzzer | 0 | 0| 
 
 
 
