@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230430T01:18:26Z | CVE-2023-2033 | Null | https://github.com/gretchenfrage/CVE-2023-2033-analysis | | 
 | 20230429T23:09:35Z | CVE-2023-29983 | Null | https://github.com/zPrototype/CVE-2023-29983 | | 
 | 20230429T22:28:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 that affects Cacti 1.2.22 version | https://github.com/devilgothies/CVE-2022-46169 | | 
 | 20230429T22:27:43Z | CVE-2023-29489 | Scanner CVE-2023-29489 Python (Selenium) | https://github.com/haxor1337x/Scanner-CVE-2023-29489 | | 
@@ -55,7 +56,6 @@
 | 20230429T02:58:27Z | CVE-2023-25136 | OpenSSH 9.1 vulnerability mass scan and exploit | https://github.com/nhakobyan685/CVE-2023-25136 | | 
 | 20230428T23:01:43Z | CVE-2020-35489 | POC for  Contact Form 7 < 5.3.2 - Unrestricted File Upload  (Maybe Code execution ) | https://github.com/bod4k/CVE-2020-35489 | | 
 | 20230428T21:29:10Z | CVE-2023-29489 | Null | https://github.com/xKore123/cPanel-CVE-2023-29489 | | 
-| 20230428T17:07:02Z | CVE-2023-29489 | a pyhton script to test all results from shodan for cPanel CVE-2023-29489, credits to @assetnote, I just automate | https://github.com/ipk1/CVE-2023-29489.py | | 
 
 
 # klee on Github 推荐
