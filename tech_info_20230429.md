@@ -46,7 +46,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230429T23:17:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4928 | 971| 
 | 20230429T21:09:17Z | UnnamedHub - Soon in your hands. | https://github.com/Dumb-Utility/UnnamedHub | 3 | 0| 
 | 20230429T20:30:30Z | Synapse exploit in DLL need Hacker Process to launche the Internal UI Enjoy ! | https://github.com/Kyanxte/SynapseX-DLL | 1 | 0| 
 | 20230429T19:54:50Z | Some scripts for Roblox exploiting | https://github.com/andytubeee/RobloxExploitScriptCollection | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20230429T12:32:35Z | Simple CVE github exploit gathering tool written in python. | https://github.com/34zY/GitHarvest3r | 0 | 0| 
 | 20230429T11:54:50Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
 | 20230429T11:30:10Z | The source code for MainDab, a keyless Roblox exploit made using WPF | https://github.com/Avaluate/MainDab | 2 | 1| 
+| 20230429T11:30:10Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13570 | 2287| 
 
 
 # backdoor on Github 推荐
