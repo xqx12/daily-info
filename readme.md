@@ -30,8 +30,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:08:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11867 | 377| 
 | 20230501T11:44:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 274 | 3| 
-| 20230501T11:39:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11868 | 377| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
 
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:09:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
 | 20230501T11:56:40Z | CORS Exploitation | https://github.com/Fahad411/CORS | 0 | 0| 
 | 20230501T11:08:03Z | This is a project analyzing the relationship between media multitasking and exploration vs. exploitation. | https://github.com/jasongong11/media_multitasking_exploration_exploitation | 0 | 0| 
 | 20230501T09:16:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 629 | 165| 
@@ -53,7 +54,6 @@
 | 20230501T02:25:14Z | Compilation of Linux and Windows Kernel Exploits | https://github.com/wong-qiang/Kernel-Exploits | 0 | 0| 
 | 20230501T01:40:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4931 | 971| 
 | 20230501T01:25:46Z | Cheats curated for school chromebooks | https://github.com/xShadowBlade/school-cheats | 1 | 0| 
-| 20230501T01:10:54Z | Relationship between Women Consumer Behavior and Marketing. This repository explores the relationship between women%s consumer behavior and marketing strategies used by companies to target them. It includes data analysis and insights on how companies exploit women%s insecurities for profit. | https://github.com/KamoEllen/Marketing-Data-Report | 0 | 0| 
 
 
 # backdoor on Github 推荐
