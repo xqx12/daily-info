@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:24:05Z | Compilation of Linux and Windows Kernel Exploits | https://github.com/wong-qiang/Kernel-Exploits | 0 | 0| 
 | 20230501T12:09:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
 | 20230501T11:56:40Z | CORS Exploitation | https://github.com/Fahad411/CORS | 0 | 0| 
 | 20230501T11:08:03Z | This is a project analyzing the relationship between media multitasking and exploration vs. exploitation. | https://github.com/jasongong11/media_multitasking_exploration_exploitation | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230501T09:13:41Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
 | 20230501T08:41:58Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 17 | 3| 
 | 20230501T04:56:54Z | The best keyless executor | https://github.com/Sickman-Exploit/sickman-exploit.github.io | 0 | 0| 
-| 20230501T02:25:14Z | Compilation of Linux and Windows Kernel Exploits | https://github.com/wong-qiang/Kernel-Exploits | 0 | 0| 
 | 20230501T01:40:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4931 | 971| 
 | 20230501T01:25:46Z | Cheats curated for school chromebooks | https://github.com/xShadowBlade/school-cheats | 1 | 0| 
 
@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:21:04Z | A student project implementig the fuzzy commitment for biometric security. | https://github.com/racko21/fuzzy_commitment | 0 | 0| 
 | 20230501T11:45:29Z | add browser headers (chrome or firefox) to your requests (plus other helpful utils) | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
 | 20230501T11:14:03Z | Algorithm for the Fuzzy Subgraph Isomorphism Problem for RNA graphs | https://github.com/theoboury/FuzzTree | 0 | 0| 
 | 20230501T10:30:19Z | Null | https://github.com/samytheknightly/fuzzy-succotash | 0 | 0| 
