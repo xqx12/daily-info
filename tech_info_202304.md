@@ -91,13 +91,13 @@
 | 20230430T22:34:09Z | A shellcode injector, generator, and disassembler that has some templates | https://github.com/pN0vA/Shuffle | 0 | 1| 
 | 20230430T20:54:23Z | A script with tons of scripts for your favorite games! | https://github.com/WOLFBLADE88/ExploitHub | 0 | 0| 
 | 20230430T19:44:42Z | TUI program I made to exploit an API for a capture the flag | https://github.com/theodore-lheureux/joris-api-decimation-initiative | 1 | 0| 
-| 20230430T18:56:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4817 | 607| 
 | 20230430T17:19:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5524 | 751| 
 | 20230430T11:20:10Z | Exploit for soul Cultivation | https://github.com/Dsioul/SoulCultivationScript | 1 | 0| 
 | 20230430T11:18:57Z | Exploits by the Fl00d team for the roblox game: Bedwars [BETA]. | https://github.com/RealLava/fl00dhub-bedwars | 0 | 0| 
 | 20230430T10:50:11Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 431 | 87| 
 | 20230430T08:56:05Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2631 | 370| 
 | 20230430T08:53:48Z | FUD Windows PDF exploit builder | https://github.com/Hallam0/PDF-Exploit-0day | 101 | 0| 
+| 20230430T08:19:42Z | Obsidian-friendly cheatsheets for Active Directory enumeration and exploitation | https://github.com/ismaildawoodjee/ADExploitation-Obsidian-CheatSheet | 0 | 0| 
 
 
 # backdoor on Github 推荐
