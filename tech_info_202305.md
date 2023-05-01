@@ -68,6 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:08:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3425 | 479| 
 
 
 # big4 on Github 推荐
