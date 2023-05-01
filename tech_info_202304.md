@@ -51,11 +51,11 @@
 | 20230430T20:26:05Z | CVE-2023-29809 | Null | https://github.com/zPrototype/CVE-2023-29809 | | 
 | 20230430T18:06:56Z | CVE-2023-29489 | Scanner CVE-2023-29489 Python (Selenium) | https://github.com/haxor1337x/Scanner-CVE-2023-29489 | | 
 | 20230430T16:42:41Z | CVE-2020-1472 | Null | https://github.com/Akash7350/CVE-2020-1472 | | 
-| 20230430T14:59:22Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230430T14:52:22Z | CVE-2023-27035 | Null | https://github.com/fivex3/CVE-2023-27035 | | 
 | 20230430T10:37:52Z | CVE-2022-46169 | CVE-2022-46169 | https://github.com/yassinebk/CVE-2022-46169 | | 
 | 20230430T01:18:26Z | CVE-2023-2033 | Null | https://github.com/gretchenfrage/CVE-2023-2033-analysis | | 
 | 20230429T22:28:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 that affects Cacti 1.2.22 version | https://github.com/devilgothies/CVE-2022-46169 | | 
+| 20230429T05:54:20Z | CVE-2023-29489 | Null | https://github.com/Mostafa-Elguerdawi/CVE-2023-29489 | | 
 
 
 # klee on Github 推荐
