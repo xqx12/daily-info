@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230501T12:33:33Z | CVE-2020-1472 | Null | https://github.com/Akash7350/CVE-2020-1472 | | 
 | 20230501T11:45:06Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230501T11:28:57Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230501T11:28:04Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
