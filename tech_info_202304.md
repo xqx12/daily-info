@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230430T02:17:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3422 | 479| 
+| 20230430T19:27:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3424 | 479| 
 | 20230429T22:10:17Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/FabrizioSandri/deepstate | 0 | 0| 
 | 20230429T09:15:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2221 | 613| 
 | 20230429T01:00:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 761 | 89| 
