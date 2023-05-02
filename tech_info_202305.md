@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T12:30:58Z | A simple post exploitation tool for unix made for learning purposes | https://github.com/squid-net/squid-net | 0 | 0| 
 | 20230502T11:59:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-389-Dyf2k-exploit-reduce | 0 | 0| 
 | 20230502T11:31:00Z | Write ups for my VulnHub journey, in which I will document my approach to scanning and exploiting the machine. Just a true beginner having fun :D | https://github.com/Kairos-T/VulnHub-WriteUp | 0 | 0| 
 | 20230502T11:22:34Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 600 | 36| 
@@ -59,7 +60,6 @@
 | 20230502T09:21:13Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
 | 20230502T06:14:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 27 | 8| 
 | 20230502T04:48:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 630 | 165| 
-| 20230502T01:14:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4934 | 973| 
 
 
 # backdoor on Github 推荐
@@ -98,7 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T12:03:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8617 | 1887| 
+| 20230502T12:03:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8617 | 1888| 
 | 20230502T11:45:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2126 | 244| 
 | 20230502T11:29:55Z | Null | https://github.com/FoundFun/FuzzyDungeon | 0 | 0| 
 | 20230502T11:26:29Z | Null | https://github.com/Siilwyn/fuzzy-octo-fishstick | 0 | 0| 
