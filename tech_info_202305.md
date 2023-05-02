@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230502 | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda| 
+| 20230502 | SecWiki周刊（第478期) | https://www.sec-wiki.com/weekly/478| 
 | 20230501 | Tomcat反序列化注入回显内存马 | https://xz.aliyun.com/t/12494| 
 | 20230501 | 浅谈Docker逃逸 | https://xz.aliyun.com/t/12495| 
 
@@ -18,22 +20,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230501T22:54:36Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
+| 20230502T09:35:01Z | CVE-2023-31434 | Null | https://github.com/trustcves/CVE-2023-31434 | | 
+| 20230502T09:34:34Z | CVE-2023-31435 | Null | https://github.com/trustcves/CVE-2023-31435 | | 
+| 20230502T09:33:57Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
+| 20230502T09:29:34Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
+| 20230502T08:51:08Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230502T07:58:56Z | CVE-2022-30190 | Null | https://github.com/meowhua15/CVE-2022-30190 | | 
+| 20230502T02:38:48Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 | 20230501T19:56:23Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
 | 20230501T19:40:45Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 | 20230501T19:26:47Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
-| 20230501T19:12:58Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/Ruycraft1514/CVE-2022-46169 | | 
-| 20230501T19:11:36Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
-| 20230501T15:37:05Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
-| 20230501T12:33:33Z | CVE-2020-1472 | Null | https://github.com/Akash7350/CVE-2020-1472 | | 
-| 20230501T11:28:57Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230501T10:37:53Z | CVE-2023-23169 | Null | https://github.com/S4nshine/CVE-2023-23169 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T01:10:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11870 | 378| 
+| 20230502T11:44:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11878 | 378| 
+| 20230502T10:33:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 27 | 0| 
 | 20230501T11:44:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 274 | 3| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
@@ -47,23 +50,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T11:59:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-389-Dyf2k-exploit-reduce | 0 | 0| 
+| 20230502T11:31:00Z | Write ups for my VulnHub journey, in which I will document my approach to scanning and exploiting the machine. Just a true beginner having fun :D | https://github.com/Kairos-T/VulnHub-WriteUp | 0 | 0| 
+| 20230502T10:55:06Z | I made several exploit scripts for a game (ROBLOX), these scripts are free for those of you who want to use or change the contents of the data, I hope you are happy | https://github.com/hellcatindonesia/roblox-script | 0 | 0| 
+| 20230502T10:24:41Z | DLL for the sickman exploit project | https://github.com/Sickman-Exploit/Sickman-Exploit-DLL | 0 | 0| 
+| 20230502T09:21:13Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
+| 20230502T06:14:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 27 | 8| 
+| 20230502T04:48:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 630 | 165| 
 | 20230502T01:14:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4934 | 973| 
 | 20230502T01:07:53Z | This project aims to implement and compare various multi-objective optimization design strategies for materials discovery. These design strategies include Maximin, Centroid, Random, Pure Exploitation, and Pure Exploration. | https://github.com/liusong299/multi-objective-materials-design | 0 | 0| 
 | 20230502T00:57:55Z | Null | https://github.com/ZeldaV2/Zelda-roblox-exploit- | 0 | 0| 
-| 20230502T00:30:58Z | A roblox exploit powered by wearedevs.net & made with WPF | https://github.com/zepicu/Lolix | 1 | 0| 
-| 20230502T00:30:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0op | 1 | 0| 
-| 20230502T00:29:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0op | 1 | 0| 
-| 20230502T00:28:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0op | 1 | 0| 
-| 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
-| 20230501T23:37:19Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Tazzeroz/Valorant-XHX | 105 | 0| 
-| 20230501T23:35:48Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Tazzeroz/Roobet-Crypto-Casino-Predictor | 105 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T01:48:49Z | Null | https://github.com/titorivera0707/BackDoorShell | 0 | 0| 
+| 20230502T02:24:23Z | Null | https://github.com/rebibabo/defense-aganist-backdoor-in-code-field | 0 | 0| 
+| 20230502T02:21:23Z | Null | https://github.com/titorivera0707/BackDoorShell | 0 | 0| 
 | 20230502T00:12:39Z | This is the implementation and experiment of the Backdoor DCM (Diffusion-based Causal Model) I propose in CPSC 486 Probabilistic Machine Learning class at Yale University as a final project | https://github.com/tatsu432/CPSC486-Probabilistic-Machine-Learning-Backdoor-DCM | 0 | 0| 
+| 20230501T21:26:10Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 5 | 1| 
 | 20230501T14:28:16Z | Null | https://github.com/nxtcapi/college-backdoor | 0 | 0| 
 | 20230501T13:43:33Z | Null | https://github.com/DARKSTUFF-LAB/Android_Backdoor | 0 | 0| 
 | 20230501T11:38:49Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 22 | 5| 
