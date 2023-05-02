@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T01:14:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4934 | 973| 
 | 20230502T01:07:53Z | This project aims to implement and compare various multi-objective optimization design strategies for materials discovery. These design strategies include Maximin, Centroid, Random, Pure Exploitation, and Pure Exploration. | https://github.com/liusong299/multi-objective-materials-design | 0 | 0| 
 | 20230502T00:57:55Z | Null | https://github.com/ZeldaV2/Zelda-roblox-exploit- | 0 | 0| 
 | 20230502T00:30:58Z | A roblox exploit powered by wearedevs.net & made with WPF | https://github.com/zepicu/Lolix | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20230502T00:29:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230502T00:28:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
-| 20230501T23:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4933 | 973| 
 | 20230501T23:37:19Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Tazzeroz/Valorant-XHX | 105 | 0| 
 | 20230501T23:35:48Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Tazzeroz/Roobet-Crypto-Casino-Predictor | 105 | 0| 
 
