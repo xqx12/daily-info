@@ -18,20 +18,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230501T22:54:36Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
+| 20230501T19:56:23Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
+| 20230501T19:40:45Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
+| 20230501T19:26:47Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
+| 20230501T19:12:58Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/Ruycraft1514/CVE-2022-46169 | | 
+| 20230501T19:11:36Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
+| 20230501T15:37:05Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230501T12:33:33Z | CVE-2020-1472 | Null | https://github.com/Akash7350/CVE-2020-1472 | | 
-| 20230501T11:45:06Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230501T11:28:57Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230501T11:28:04Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
 | 20230501T10:37:53Z | CVE-2023-23169 | Null | https://github.com/S4nshine/CVE-2023-23169 | | 
-| 20230501T03:40:47Z | CVE-2021-3129 | Null | https://github.com/Zoo1sondv/CVE-2021-3129 | | 
-| 20230501T03:35:53Z | CVE-2023-27742 | IDURAR ERP/CRM v1 was discovered to contain a SQL injection vulnerability via the component /api/login. | https://github.com/G37SYS73M/CVE-2023-27742 | | 
-| 20230501T01:53:18Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230501T12:08:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11867 | 377| 
+| 20230501T20:50:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11870 | 378| 
 | 20230501T11:44:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 274 | 3| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
@@ -45,21 +47,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230501T12:24:05Z | Compilation of Linux and Windows Kernel Exploits | https://github.com/wong-qiang/Kernel-Exploits | 0 | 0| 
-| 20230501T12:09:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
-| 20230501T11:56:40Z | CORS Exploitation | https://github.com/Fahad411/CORS | 0 | 0| 
-| 20230501T11:08:03Z | This is a project analyzing the relationship between media multitasking and exploration vs. exploitation. | https://github.com/jasongong11/media_multitasking_exploration_exploitation | 0 | 0| 
-| 20230501T09:59:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4932 | 973| 
-| 20230501T09:16:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 629 | 165| 
-| 20230501T09:13:41Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
-| 20230501T08:41:58Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 17 | 3| 
-| 20230501T04:56:54Z | The best keyless executor | https://github.com/Sickman-Exploit/sickman-exploit.github.io | 0 | 0| 
-| 20230501T01:25:46Z | Cheats curated for school chromebooks | https://github.com/xShadowBlade/school-cheats | 1 | 0| 
+| 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
+| 20230501T23:37:19Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Tazzeroz/Valorant-XHX | 105 | 0| 
+| 20230501T23:35:48Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Tazzeroz/Roobet-Crypto-Casino-Predictor | 105 | 0| 
+| 20230501T23:15:44Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
+| 20230501T22:47:18Z | Null | https://github.com/karansj4/TCP-IP-exploit | 0 | 0| 
+| 20230501T22:29:59Z | FUD Windows PDF exploit builder | https://github.com/Filler0/PDF-Exploit-0day | 135 | 0| 
+| 20230501T22:13:32Z | Relationship between Women Consumer Behavior and Marketing. This repository explores the relationship between women%s consumer behavior and marketing strategies used by companies to target them. It includes data analysis and insights on how companies exploit women%s insecurities for profit. | https://github.com/KamoEllen/Marketing-Data-Report | 0 | 0| 
+| 20230501T21:58:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
+| 20230501T21:39:24Z | BattlEye compatible injector, done completely from user-mode. | https://github.com/HadockKali/battleye-user-mode-bypass | 26 | 5| 
+| 20230501T20:31:28Z | fix location exploit: just change your name and go under someone else%s account | https://github.com/F3F5/AuthMeHideLocation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T14:28:16Z | Null | https://github.com/nxtcapi/college-backdoor | 0 | 0| 
+| 20230501T13:43:33Z | Null | https://github.com/DARKSTUFF-LAB/Android_Backdoor | 0 | 0| 
 | 20230501T11:38:49Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 22 | 5| 
 | 20230501T10:16:43Z | Null | https://github.com/nwvh/backdoor | 0 | 0| 
 | 20230501T09:56:35Z | A Node.js backend for the fullstack Backdoor webapp | https://github.com/tommimaki/backdoorBackend | 0 | 0| 
@@ -80,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T22:29:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8615 | 1887| 
+| 20230501T19:05:42Z | Simple TCP fuzzer and a payload generator. | https://github.com/Karmaz95/2bfuzz | 0 | 0| 
+| 20230501T14:38:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4992 | 528| 
 | 20230501T12:21:04Z | A student project implementig the fuzzy commitment for biometric security. | https://github.com/racko21/fuzzy_commitment | 0 | 0| 
 | 20230501T11:45:29Z | add browser headers (chrome or firefox) to your requests (plus other helpful utils) | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
 | 20230501T11:14:03Z | Algorithm for the Fuzzy Subgraph Isomorphism Problem for RNA graphs | https://github.com/theoboury/FuzzTree | 0 | 0| 
 | 20230501T10:30:19Z | Null | https://github.com/samytheknightly/fuzzy-succotash | 0 | 0| 
 | 20230501T10:04:57Z | fuzzy-journey | https://github.com/colverashlynn77/fuzzy-journey | 0 | 0| 
 | 20230501T09:38:19Z | Null | https://github.com/quarkslab/android-fuzzing | 6 | 0| 
-| 20230501T08:50:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8614 | 1885| 
 | 20230501T01:45:17Z | mtmsk snap | https://github.com/MJurbin/fuzzy-waddle | 0 | 0| 
-| 20230501T01:05:05Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 76 | 7| 
-| 20230501T00:41:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3553 | 425| 
 
 
 
