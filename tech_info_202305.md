@@ -44,7 +44,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230501T08:28:09Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 325 | 77| 
+| 20230502T06:53:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 326 | 77| 
 
 
 # exploit on Github 推荐
@@ -96,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T11:45:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2126 | 244| 
+| 20230502T11:29:55Z | Null | https://github.com/FoundFun/FuzzyDungeon | 0 | 0| 
+| 20230502T11:26:29Z | Null | https://github.com/Siilwyn/fuzzy-octo-fishstick | 0 | 0| 
+| 20230502T11:24:50Z | data structures for fuzzy search | https://github.com/kanayaya/FuzzyDataStructures | 0 | 0| 
+| 20230502T10:55:53Z | Tugas Pemrograman Pengantar AI PJJ Informatika | https://github.com/bhagasee/Fuzzy-logic | 0 | 0| 
+| 20230502T10:53:01Z | Null | https://github.com/andreyscherbin/fuzzy-broccoli | 0 | 0| 
+| 20230502T08:20:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8616 | 1887| 
+| 20230502T05:04:58Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 184 | 25| 
 | 20230502T01:55:02Z | Simple Typography Design By RizzyFuzz | https://github.com/RizzyFuzz/RizzyFuzz-Typograph-Website | 0 | 0| 
 | 20230502T01:36:08Z | BrainFuzz - A simple version of BrainF**k with some extras, too! Also has a BrainF**k interpreter! | https://github.com/yeetree/BrainFuzz | 0 | 0| 
-| 20230501T22:29:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8615 | 1887| 
-| 20230501T19:05:42Z | Simple TCP fuzzer and a payload generator. | https://github.com/Karmaz95/2bfuzz | 0 | 0| 
-| 20230501T15:06:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3556 | 425| 
-| 20230501T14:38:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4992 | 528| 
-| 20230501T12:21:04Z | A student project implementig the fuzzy commitment for biometric security. | https://github.com/racko21/fuzzy_commitment | 0 | 0| 
-| 20230501T11:45:29Z | add browser headers (chrome or firefox) to your requests (plus other helpful utils) | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
-| 20230501T11:14:03Z | Algorithm for the Fuzzy Subgraph Isomorphism Problem for RNA graphs | https://github.com/theoboury/FuzzTree | 0 | 0| 
-| 20230501T10:30:19Z | Null | https://github.com/samytheknightly/fuzzy-succotash | 0 | 0| 
 
 
 

@@ -37,6 +37,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T06:53:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 326 | 77| 
 
 
 # exploit on Github 推荐
@@ -76,6 +77,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T11:45:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2126 | 244| 
+| 20230502T11:29:55Z | Null | https://github.com/FoundFun/FuzzyDungeon | 0 | 0| 
+| 20230502T11:26:29Z | Null | https://github.com/Siilwyn/fuzzy-octo-fishstick | 0 | 0| 
+| 20230502T11:24:50Z | data structures for fuzzy search | https://github.com/kanayaya/FuzzyDataStructures | 0 | 0| 
+| 20230502T10:55:53Z | Tugas Pemrograman Pengantar AI PJJ Informatika | https://github.com/bhagasee/Fuzzy-logic | 0 | 0| 
+| 20230502T10:53:01Z | Null | https://github.com/andreyscherbin/fuzzy-broccoli | 0 | 0| 
+| 20230502T08:20:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8616 | 1887| 
+| 20230502T05:04:58Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 184 | 25| 
 | 20230502T01:55:02Z | Simple Typography Design By RizzyFuzz | https://github.com/RizzyFuzz/RizzyFuzz-Typograph-Website | 0 | 0| 
 | 20230502T01:36:08Z | BrainFuzz - A simple version of BrainF**k with some extras, too! Also has a BrainF**k interpreter! | https://github.com/yeetree/BrainFuzz | 0 | 0| 
 
