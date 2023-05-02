@@ -18,10 +18,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230502T12:37:35Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
 | 20230502T09:35:01Z | CVE-2023-31434 | Null | https://github.com/trustcves/CVE-2023-31434 | | 
 | 20230502T09:34:34Z | CVE-2023-31435 | Null | https://github.com/trustcves/CVE-2023-31435 | | 
 | 20230502T09:33:57Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
-| 20230502T09:29:34Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
 | 20230502T08:51:08Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230502T07:58:56Z | CVE-2022-30190 | Null | https://github.com/meowhua15/CVE-2022-30190 | | 
 | 20230502T02:38:48Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
