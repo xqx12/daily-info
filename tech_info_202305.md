@@ -47,6 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T00:30:58Z | A roblox exploit powered by wearedevs.net & made with WPF | https://github.com/zepicu/Lolix | 1 | 0| 
+| 20230502T00:30:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230502T00:29:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230502T00:28:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
@@ -55,8 +57,6 @@
 | 20230501T23:15:44Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
 | 20230501T22:47:18Z | Null | https://github.com/karansj4/TCP-IP-exploit | 0 | 0| 
 | 20230501T22:29:59Z | FUD Windows PDF exploit builder | https://github.com/Filler0/PDF-Exploit-0day | 135 | 0| 
-| 20230501T22:13:32Z | Relationship between Women Consumer Behavior and Marketing. This repository explores the relationship between women%s consumer behavior and marketing strategies used by companies to target them. It includes data analysis and insights on how companies exploit women%s insecurities for profit. | https://github.com/KamoEllen/Marketing-Data-Report | 0 | 0| 
-| 20230501T21:58:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
 
 
 # backdoor on Github 推荐
