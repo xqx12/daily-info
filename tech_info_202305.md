@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T01:55:02Z | Simple Typography Design By RizzyFuzz | https://github.com/RizzyFuzz/RizzyFuzz-Typograph-Website | 0 | 0| 
 | 20230502T01:36:08Z | BrainFuzz - A simple version of BrainF**k with some extras, too! Also has a BrainF**k interpreter! | https://github.com/yeetree/BrainFuzz | 0 | 0| 
 | 20230501T22:29:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8615 | 1887| 
 | 20230501T19:05:42Z | Simple TCP fuzzer and a payload generator. | https://github.com/Karmaz95/2bfuzz | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230501T11:45:29Z | add browser headers (chrome or firefox) to your requests (plus other helpful utils) | https://github.com/davemolk/fuzzyHelpers | 0 | 0| 
 | 20230501T11:14:03Z | Algorithm for the Fuzzy Subgraph Isomorphism Problem for RNA graphs | https://github.com/theoboury/FuzzTree | 0 | 0| 
 | 20230501T10:30:19Z | Null | https://github.com/samytheknightly/fuzzy-succotash | 0 | 0| 
-| 20230501T10:04:57Z | fuzzy-journey | https://github.com/colverashlynn77/fuzzy-journey | 0 | 0| 
 
 
 
