@@ -89,8 +89,8 @@
 | 20230502T10:55:53Z | Tugas Pemrograman Pengantar AI PJJ Informatika | https://github.com/bhagasee/Fuzzy-logic | 0 | 0| 
 | 20230502T10:53:01Z | Null | https://github.com/andreyscherbin/fuzzy-broccoli | 0 | 0| 
 | 20230502T05:04:58Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 184 | 25| 
+| 20230502T04:07:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2719 | 184| 
 | 20230502T01:55:02Z | Simple Typography Design By RizzyFuzz | https://github.com/RizzyFuzz/RizzyFuzz-Typograph-Website | 0 | 0| 
-| 20230502T01:36:08Z | BrainFuzz - A simple version of BrainF**k with some extras, too! Also has a BrainF**k interpreter! | https://github.com/yeetree/BrainFuzz | 0 | 0| 
 
 
 
