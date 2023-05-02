@@ -52,11 +52,11 @@
 | 20230502T00:29:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230502T00:28:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0op | 1 | 0| 
 | 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
+| 20230501T23:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4933 | 973| 
 | 20230501T23:37:19Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Tazzeroz/Valorant-XHX | 105 | 0| 
 | 20230501T23:35:48Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Tazzeroz/Roobet-Crypto-Casino-Predictor | 105 | 0| 
 | 20230501T23:15:44Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
 | 20230501T22:47:18Z | Null | https://github.com/karansj4/TCP-IP-exploit | 0 | 0| 
-| 20230501T22:29:59Z | FUD Windows PDF exploit builder | https://github.com/Filler0/PDF-Exploit-0day | 135 | 0| 
 
 
 # backdoor on Github 推荐

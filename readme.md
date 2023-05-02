@@ -47,6 +47,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230501T23:54:55Z | Verify your Discord account in the %Exploiter Hub% server! | https://github.com/letter-aa/exploiterhubverify | 0 | 0| 
+| 20230501T23:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4933 | 973| 
 | 20230501T23:37:19Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Tazzeroz/Valorant-XHX | 105 | 0| 
 | 20230501T23:35:48Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Tazzeroz/Roobet-Crypto-Casino-Predictor | 105 | 0| 
 | 20230501T23:15:44Z | The Source Code For The Sickman Exploit Executor | https://github.com/Sickman-Exploit/Sickman-Exploit-source | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20230501T22:13:32Z | Relationship between Women Consumer Behavior and Marketing. This repository explores the relationship between women%s consumer behavior and marketing strategies used by companies to target them. It includes data analysis and insights on how companies exploit women%s insecurities for profit. | https://github.com/KamoEllen/Marketing-Data-Report | 0 | 0| 
 | 20230501T21:58:47Z | CORS Exploitation | https://github.com/Fahad411/CROS | 0 | 0| 
 | 20230501T21:39:24Z | BattlEye compatible injector, done completely from user-mode. | https://github.com/HadockKali/battleye-user-mode-bypass | 26 | 5| 
-| 20230501T20:31:28Z | fix location exploit: just change your name and go under someone else%s account | https://github.com/F3F5/AuthMeHideLocation | 0 | 0| 
 
 
 # backdoor on Github 推荐
