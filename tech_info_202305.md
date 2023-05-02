@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T00:10:51Z | This is the implementation and experiment of the Backdoor DCM (Diffusion-based Causal Model) I propose in CPSC 486 Probabilistic Machine Learning class at Yale University as a final project | https://github.com/tatsu432/CPSC486-Probabilistic-Machine-Learning-Backdoor-DCM | 0 | 0| 
 | 20230501T14:28:16Z | Null | https://github.com/nxtcapi/college-backdoor | 0 | 0| 
 | 20230501T13:43:33Z | Null | https://github.com/DARKSTUFF-LAB/Android_Backdoor | 0 | 0| 
 | 20230501T11:38:49Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 22 | 5| 
@@ -73,6 +74,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230501T23:12:40Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 87 | 18| 
+| 20230501T23:12:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 638 | 116| 
+| 20230501T19:09:18Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 41 | 9| 
+| 20230501T16:30:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 557 | 37| 
 | 20230501T12:08:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3425 | 479| 
 
 
