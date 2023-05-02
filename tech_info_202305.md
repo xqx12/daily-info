@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T01:48:49Z | Null | https://github.com/titorivera0707/BackDoorShell | 0 | 0| 
 | 20230502T00:12:39Z | This is the implementation and experiment of the Backdoor DCM (Diffusion-based Causal Model) I propose in CPSC 486 Probabilistic Machine Learning class at Yale University as a final project | https://github.com/tatsu432/CPSC486-Probabilistic-Machine-Learning-Backdoor-DCM | 0 | 0| 
 | 20230501T14:28:16Z | Null | https://github.com/nxtcapi/college-backdoor | 0 | 0| 
 | 20230501T13:43:33Z | Null | https://github.com/DARKSTUFF-LAB/Android_Backdoor | 0 | 0| 
