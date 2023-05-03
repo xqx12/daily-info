@@ -103,7 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230503T11:54:17Z | Null | https://github.com/qflex-project/quantum-fuzzy | 0 | 0| 
+| 20230503T12:07:13Z | Null | https://github.com/qflex-project/quantum-fuzzy | 0 | 0| 
 | 20230503T11:41:23Z | A thread sensitive fuzzer | https://github.com/JibinArvin/TSAFL | 0 | 0| 
 | 20230503T11:39:48Z | Null | https://github.com/tungnd2802/fuzzy-doodle | 0 | 0| 
 | 20230503T11:35:29Z | Null | https://github.com/apachecn-archive/fuzzingbook-zh | 0 | 0| 
