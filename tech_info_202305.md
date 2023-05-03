@@ -55,13 +55,13 @@
 | 20230503T00:22:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:21:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:20:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i8 | 1 | 0| 
+| 20230503T00:17:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4935 | 973| 
 | 20230503T00:13:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-168307275-NA_QT-exploit-remove | 0 | 0| 
 | 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
 | 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
 | 20230502T22:07:37Z | Null | https://github.com/shephy-dev/HackTricks-Linux-Exploiting-English | 0 | 0| 
 | 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
 | 20230502T15:38:40Z | Discord BOT to manage and have notification about BeEF (Browser Exploitation Framework)  | https://github.com/jomoza/beefcord | 0 | 0| 
-| 20230502T15:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4823 | 608| 
 
 
 # backdoor on Github 推荐
