@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T00:20:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:13:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-168307275-NA_QT-exploit-remove | 0 | 0| 
 | 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
 | 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20230502T15:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4823 | 608| 
 | 20230502T12:55:09Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 601 | 36| 
 | 20230502T12:54:40Z | A roblox exploit template | https://github.com/GalaxyTJ/Cryftol | 0 | 0| 
-| 20230502T12:31:20Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 10 | 4| 
 
 
 # backdoor on Github 推荐
