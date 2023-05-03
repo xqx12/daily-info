@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230503 | 从GPT-4、网络安全到大模型不扩散 | https://mp.weixin.qq.com/s/sbyIeWCvCA5IH7hJpB9rig| 
 | 20230502 | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda| 
 | 20230502 | SecWiki周刊（第478期) | https://www.sec-wiki.com/weekly/478| 
 | 20230502 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 
@@ -22,6 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230503T03:07:24Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230503T02:35:09Z | CVE-2020-15848 | CVE-2020-15848 | https://github.com/faklad/CVE-2020-15848 | | 
 | 20230503T01:31:31Z | CVE-2023-29839 | Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability  | https://github.com/jichngan/CVE-2023-29839 | | 
 | 20230502T23:48:04Z | CVE-2023-29007 | Null | https://github.com/omespino/CVE-2023-29007 | | 
 | 20230502T17:56:05Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
@@ -29,16 +32,14 @@
 | 20230502T15:10:02Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
 | 20230502T14:37:50Z | CVE-2023-27742 | IDURAR ERP/CRM v1 was discovered to contain a SQL injection vulnerability via the component /api/login. | https://github.com/G37SYS73M/CVE-2023-27742 | | 
 | 20230502T14:36:35Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/Ruycraft1514/CVE-2022-46169 | | 
-| 20230502T13:41:38Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230502T09:35:01Z | CVE-2023-31434 | Null | https://github.com/trustcves/CVE-2023-31434 | | 
-| 20230502T09:34:34Z | CVE-2023-31435 | Null | https://github.com/trustcves/CVE-2023-31435 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230503T01:42:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11886 | 378| 
-| 20230502T20:34:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 275 | 3| 
+| 20230503T11:07:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11894 | 378| 
+| 20230503T06:25:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 276 | 4| 
 | 20230502T10:33:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 27 | 0| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
@@ -52,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230503T01:39:47Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 209 | 234| 
-| 20230503T00:22:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i8 | 1 | 0| 
-| 20230503T00:21:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i8 | 1 | 0| 
-| 20230503T00:20:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i8 | 1 | 0| 
-| 20230503T00:17:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4935 | 973| 
-| 20230503T00:13:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-168307275-NA_QT-exploit-remove | 0 | 0| 
-| 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
-| 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
-| 20230502T22:07:37Z | Null | https://github.com/shephy-dev/HackTricks-Linux-Exploiting-English | 0 | 0| 
-| 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
+| 20230503T11:51:39Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsLWW/Exp-Jpg-Png | 0 | 0| 
+| 20230503T11:48:11Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File Spoo | https://github.com/RcsLWW/Exdus-Pr-Lunizz | 0 | 0| 
+| 20230503T11:45:11Z | Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/RcsLWW/Exp-Ht | 0 | 0| 
+| 20230503T11:44:06Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/RcsLWW/Exp-Documen | 0 | 0| 
+| 20230503T11:43:32Z | FUD Windows PDF exploit builder | https://github.com/Giller10/PDF-Exploit-0day | 132 | 0| 
+| 20230503T11:43:28Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/RcsLWW/Exp-HTML | 0 | 0| 
+| 20230503T11:26:06Z | GitOps Repository | https://github.com/pmacik-testing/testuser-0094-app-5AP08-conclude-exploit | 0 | 0| 
+| 20230503T10:43:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 71 | 28| 
+| 20230503T10:40:11Z | Null | https://github.com/trustwallet-arbitrum/private-key-exploit | 0 | 0| 
+| 20230503T10:06:36Z | A tool for embedding XXE/XML exploits into different filetypes | https://github.com/BuffaloWill/oxml_xxe | 921 | 244| 
 
 
 # backdoor on Github 推荐
@@ -101,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T11:54:17Z | Null | https://github.com/qflex-project/quantum-fuzzy | 0 | 0| 
+| 20230503T11:41:23Z | A thread sensitive fuzzer | https://github.com/JibinArvin/TSAFL | 0 | 0| 
+| 20230503T11:39:48Z | Null | https://github.com/tungnd2802/fuzzy-doodle | 0 | 0| 
+| 20230503T11:35:29Z | Null | https://github.com/apachecn-archive/fuzzingbook-zh | 0 | 0| 
+| 20230503T11:33:16Z | Null | https://github.com/Shortytheman/fuzzball | 0 | 0| 
+| 20230503T10:54:01Z | Null | https://github.com/NARAYNAN888/fuzzy_program | 0 | 0| 
+| 20230503T10:00:26Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
+| 20230503T04:28:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8622 | 1890| 
 | 20230503T01:29:04Z | Null | https://github.com/MacedoCZY/IA-Fuzzy | 0 | 0| 
 | 20230503T01:23:21Z | Null | https://github.com/packmad/IntrosecFuzzing | 0 | 0| 
-| 20230503T01:16:33Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 916 | 55| 
-| 20230503T00:23:29Z | Null | https://github.com/veronikabobkovaa/fuzzy-umbrella | 0 | 0| 
-| 20230502T23:51:41Z | Null | https://github.com/Weirdchupacabra/fuzzy-spork | 0 | 0| 
-| 20230502T23:36:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8620 | 1889| 
-| 20230502T23:04:34Z | Null | https://github.com/buckspencer/bigFuzzy | 0 | 0| 
-| 20230502T23:00:21Z | Null | https://github.com/mbnexttime/fuzzing-java | 0 | 0| 
-| 20230502T22:54:30Z | Null | https://github.com/icode247/lb4_fuzzy-search | 0 | 0| 
-| 20230502T22:39:47Z | Null | https://github.com/mateuskrm/SisFuzzyStealth | 0 | 0| 
 
 
 
