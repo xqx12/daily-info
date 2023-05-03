@@ -100,7 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230503T00:22:40Z | Null | https://github.com/veronikabobkovaa/fuzzy-umbrella | 0 | 0| 
+| 20230503T00:23:29Z | Null | https://github.com/veronikabobkovaa/fuzzy-umbrella | 0 | 0| 
 | 20230502T23:59:14Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 915 | 55| 
 | 20230502T23:51:41Z | Null | https://github.com/Weirdchupacabra/fuzzy-spork | 0 | 0| 
 | 20230502T23:36:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8620 | 1889| 
