@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T00:13:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-168307275-NA_QT-exploit-remove | 0 | 0| 
 | 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
 | 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
 | 20230502T22:07:37Z | Null | https://github.com/shephy-dev/HackTricks-Linux-Exploiting-English | 0 | 0| 
 | 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
 | 20230502T15:38:40Z | Discord BOT to manage and have notification about BeEF (Browser Exploitation Framework)  | https://github.com/jomoza/beefcord | 0 | 0| 
+| 20230502T15:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4823 | 608| 
 | 20230502T12:55:09Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 601 | 36| 
 | 20230502T12:54:40Z | A roblox exploit template | https://github.com/GalaxyTJ/Cryftol | 0 | 0| 
 | 20230502T12:31:20Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 10 | 4| 
-| 20230502T12:30:58Z | A simple post exploitation tool for unix made for learning purposes | https://github.com/squid-net/squid-net | 0 | 0| 
-| 20230502T11:59:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-389-Dyf2k-exploit-reduce | 0 | 0| 
 
 
 # backdoor on Github 推荐
