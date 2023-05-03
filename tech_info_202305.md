@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T12:56:33Z | Null | https://github.com/tizianocolagrossi/fuzzer-utils | 0 | 0| 
 | 20230503T12:40:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8623 | 1890| 
 | 20230503T12:07:13Z | Null | https://github.com/qflex-project/quantum-fuzzy | 0 | 0| 
 | 20230503T11:41:23Z | A thread sensitive fuzzer | https://github.com/JibinArvin/TSAFL | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20230503T10:54:01Z | Null | https://github.com/NARAYNAN888/fuzzy_program | 0 | 0| 
 | 20230503T10:00:26Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
 | 20230503T07:05:03Z | Null | https://github.com/openmina/openmina-fuzzing-ui | 0 | 0| 
-| 20230503T01:29:04Z | Null | https://github.com/MacedoCZY/IA-Fuzzy | 0 | 0| 
 
 
 
