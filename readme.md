@@ -94,7 +94,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T23:59:14Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 915 | 55| 
 | 20230502T23:51:41Z | Null | https://github.com/Weirdchupacabra/fuzzy-spork | 0 | 0| 
 | 20230502T23:36:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8620 | 1889| 
 | 20230502T23:04:34Z | Null | https://github.com/buckspencer/bigFuzzy | 0 | 0| 
@@ -104,6 +103,7 @@
 | 20230502T22:01:56Z | Null | https://github.com/alsharp811/fuzzy-telegram | 0 | 0| 
 | 20230502T21:43:43Z | as | https://github.com/ashxcim/fuzzy-octo-broccoli | 0 | 0| 
 | 20230502T21:42:19Z | Fuzz | https://github.com/thebeginner1/Fuzz | 0 | 0| 
+| 20230502T20:24:45Z | Aprendendo Android Básico nas aulas da Faculdade | https://github.com/atnzpe/fuzzy-octo-couscous | 0 | 0| 
 
 
 
