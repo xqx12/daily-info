@@ -13,6 +13,8 @@
 | --- | --- | ---| 
 | 20230502 | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda| 
 | 20230502 | SecWiki周刊（第478期) | https://www.sec-wiki.com/weekly/478| 
+| 20230502 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 
+| 20230502 | Java项目第三方库漏洞兼容修复 | https://mp.weixin.qq.com/s/VTC6kUVNItfwxq2RIQmc5g| 
 | 20230501 | Tomcat反序列化注入回显内存马 | https://xz.aliyun.com/t/12494| 
 | 20230501 | 浅谈Docker逃逸 | https://xz.aliyun.com/t/12495| 
 
@@ -20,61 +22,61 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230502T12:37:35Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
+| 20230502T23:48:04Z | CVE-2023-29007 | Null | https://github.com/omespino/CVE-2023-29007 | | 
+| 20230502T17:56:05Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
+| 20230502T15:25:02Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
+| 20230502T15:10:02Z | CVE-2023-27350 | Proof of Concept Exploit for PaperCut CVE-2023-27350 | https://github.com/horizon3ai/CVE-2023-27350 | | 
+| 20230502T14:37:50Z | CVE-2023-27742 | IDURAR ERP/CRM v1 was discovered to contain a SQL injection vulnerability via the component /api/login. | https://github.com/G37SYS73M/CVE-2023-27742 | | 
+| 20230502T14:36:35Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/Ruycraft1514/CVE-2022-46169 | | 
+| 20230502T13:41:38Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230502T09:35:01Z | CVE-2023-31434 | Null | https://github.com/trustcves/CVE-2023-31434 | | 
 | 20230502T09:34:34Z | CVE-2023-31435 | Null | https://github.com/trustcves/CVE-2023-31435 | | 
 | 20230502T09:33:57Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
-| 20230502T08:51:08Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230502T07:58:56Z | CVE-2022-30190 | Null | https://github.com/meowhua15/CVE-2022-30190 | | 
-| 20230502T02:38:48Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
-| 20230501T19:56:23Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
-| 20230501T19:40:45Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
-| 20230501T19:26:47Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T12:41:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11879 | 378| 
+| 20230502T23:51:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11884 | 378| 
+| 20230502T20:34:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 275 | 3| 
 | 20230502T10:33:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 27 | 0| 
-| 20230501T11:44:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 274 | 3| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T06:53:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 326 | 77| 
+| 20230502T06:53:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 326 | 78| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
+| 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
+| 20230502T22:07:37Z | Null | https://github.com/shephy-dev/HackTricks-Linux-Exploiting-English | 0 | 0| 
+| 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
+| 20230502T15:38:40Z | Discord BOT to manage and have notification about BeEF (Browser Exploitation Framework)  | https://github.com/jomoza/beefcord | 0 | 0| 
 | 20230502T12:55:09Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 601 | 36| 
 | 20230502T12:54:40Z | A roblox exploit template | https://github.com/GalaxyTJ/Cryftol | 0 | 0| 
+| 20230502T12:31:20Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 10 | 4| 
 | 20230502T12:30:58Z | A simple post exploitation tool for unix made for learning purposes | https://github.com/squid-net/squid-net | 0 | 0| 
 | 20230502T11:59:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-389-Dyf2k-exploit-reduce | 0 | 0| 
-| 20230502T11:31:00Z | Write ups for my VulnHub journey, in which I will document my approach to scanning and exploiting the machine. Just a true beginner having fun :D | https://github.com/Kairos-T/VulnHub-WriteUp | 0 | 0| 
-| 20230502T10:55:06Z | I made several exploit scripts for a game (ROBLOX), these scripts are free for those of you who want to use or change the contents of the data, I hope you are happy | https://github.com/hellcatindonesia/roblox-script | 0 | 0| 
-| 20230502T10:24:41Z | DLL for the sickman exploit project | https://github.com/Sickman-Exploit/Sickman-Exploit-DLL | 0 | 0| 
-| 20230502T09:43:05Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 23 | 0| 
-| 20230502T09:21:13Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
-| 20230502T06:14:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 27 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230502T18:10:26Z | In this repositiories you will get some intresting this but this should be use for fun or kidding. This method should not be performed at school , college , or any other public place. | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
+| 20230502T18:08:37Z | This is a modded version | https://github.com/BestGithubUser1/backdoormodded | 0 | 0| 
+| 20230502T17:51:13Z | Repo containing cracked red teaming tools. | https://github.com/c-um/Red-Team-Tools | 0 | 0| 
+| 20230502T16:50:12Z | Administration and troubleshooting tools inside a docker container | https://github.com/jonathadv/docker-admin-toolkit | 8 | 2| 
+| 20230502T14:32:19Z | Building a new Backdoors and Breaches version of the online game | https://github.com/felumc/BackdoorsAndBreaches | 0 | 0| 
+| 20230502T13:47:30Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 133 | 17| 
 | 20230502T02:24:23Z | Null | https://github.com/rebibabo/defense-aganist-backdoor-in-code-field | 0 | 0| 
 | 20230502T02:21:23Z | Null | https://github.com/titorivera0707/BackDoorShell | 0 | 0| 
 | 20230502T00:12:39Z | This is the implementation and experiment of the Backdoor DCM (Diffusion-based Causal Model) I propose in CPSC 486 Probabilistic Machine Learning class at Yale University as a final project | https://github.com/tatsu432/CPSC486-Probabilistic-Machine-Learning-Backdoor-DCM | 0 | 0| 
 | 20230501T21:26:10Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 5 | 1| 
-| 20230501T14:28:16Z | Null | https://github.com/nxtcapi/college-backdoor | 0 | 0| 
-| 20230501T13:43:33Z | Null | https://github.com/DARKSTUFF-LAB/Android_Backdoor | 0 | 0| 
-| 20230501T11:38:49Z | Best version of njRAT with SRC. ;) | https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition | 22 | 5| 
-| 20230501T10:16:43Z | Null | https://github.com/nwvh/backdoor | 0 | 0| 
-| 20230501T09:56:35Z | A Node.js backend for the fullstack Backdoor webapp | https://github.com/tommimaki/backdoorBackend | 0 | 0| 
-| 20230501T02:58:25Z | skyrage It is always infected with the plug-in virus, which has a strong power to spread. | https://github.com/AsiaRain/skyrage-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -98,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230502T12:56:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2127 | 244| 
-| 20230502T12:03:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8617 | 1888| 
-| 20230502T11:29:55Z | Null | https://github.com/FoundFun/FuzzyDungeon | 0 | 0| 
-| 20230502T11:26:29Z | Null | https://github.com/Siilwyn/fuzzy-octo-fishstick | 0 | 0| 
-| 20230502T11:24:50Z | data structures for fuzzy search | https://github.com/kanayaya/FuzzyDataStructures | 0 | 0| 
-| 20230502T10:55:53Z | Tugas Pemrograman Pengantar AI PJJ Informatika | https://github.com/bhagasee/Fuzzy-logic | 0 | 0| 
-| 20230502T10:53:01Z | Null | https://github.com/andreyscherbin/fuzzy-broccoli | 0 | 0| 
-| 20230502T05:04:58Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 184 | 25| 
-| 20230502T04:07:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2719 | 184| 
-| 20230502T01:55:02Z | Simple Typography Design By RizzyFuzz | https://github.com/RizzyFuzz/RizzyFuzz-Typograph-Website | 0 | 0| 
+| 20230502T23:59:14Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 915 | 55| 
+| 20230502T23:51:41Z | Null | https://github.com/Weirdchupacabra/fuzzy-spork | 0 | 0| 
+| 20230502T23:36:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8620 | 1889| 
+| 20230502T23:04:34Z | Null | https://github.com/buckspencer/bigFuzzy | 0 | 0| 
+| 20230502T23:00:21Z | Null | https://github.com/mbnexttime/fuzzing-java | 0 | 0| 
+| 20230502T22:54:30Z | Null | https://github.com/icode247/lb4_fuzzy-search | 0 | 0| 
+| 20230502T22:39:47Z | Null | https://github.com/mateuskrm/SisFuzzyStealth | 0 | 0| 
+| 20230502T22:01:56Z | Null | https://github.com/alsharp811/fuzzy-telegram | 0 | 0| 
+| 20230502T21:43:43Z | as | https://github.com/ashxcim/fuzzy-octo-broccoli | 0 | 0| 
+| 20230502T21:42:19Z | Fuzz | https://github.com/thebeginner1/Fuzz | 0 | 0| 
 
 
 
