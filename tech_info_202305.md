@@ -22,6 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230503T01:31:31Z | CVE-2023-29839 | Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability  | https://github.com/jichngan/CVE-2023-29839 | | 
 | 20230502T23:48:04Z | CVE-2023-29007 | Null | https://github.com/omespino/CVE-2023-29007 | | 
 | 20230502T17:56:05Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
 | 20230502T15:25:02Z | cve-2022-46718 | CVE-2022-46718: an app may be able to read sensitive location information. | https://github.com/biscuitehh/cve-2022-46718-leaky-location | | 
@@ -31,7 +32,6 @@
 | 20230502T13:41:38Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230502T09:35:01Z | CVE-2023-31434 | Null | https://github.com/trustcves/CVE-2023-31434 | | 
 | 20230502T09:34:34Z | CVE-2023-31435 | Null | https://github.com/trustcves/CVE-2023-31435 | | 
-| 20230502T09:33:57Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
 
 
 # klee on Github 推荐
