@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T00:22:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i8 | 1 | 0| 
+| 20230503T00:21:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:20:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:13:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-168307275-NA_QT-exploit-remove | 0 | 0| 
 | 20230502T22:34:10Z | Find and share cve exploits and PoCs here | https://github.com/HellofHackers/Exploits | 0 | 0| 
@@ -60,8 +62,6 @@
 | 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
 | 20230502T15:38:40Z | Discord BOT to manage and have notification about BeEF (Browser Exploitation Framework)  | https://github.com/jomoza/beefcord | 0 | 0| 
 | 20230502T15:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4823 | 608| 
-| 20230502T12:55:09Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 601 | 36| 
-| 20230502T12:54:40Z | A roblox exploit template | https://github.com/GalaxyTJ/Cryftol | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T00:22:40Z | Null | https://github.com/veronikabobkovaa/fuzzy-umbrella | 0 | 0| 
 | 20230502T23:59:14Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 915 | 55| 
 | 20230502T23:51:41Z | Null | https://github.com/Weirdchupacabra/fuzzy-spork | 0 | 0| 
 | 20230502T23:36:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8620 | 1889| 
@@ -109,7 +110,6 @@
 | 20230502T22:39:47Z | Null | https://github.com/mateuskrm/SisFuzzyStealth | 0 | 0| 
 | 20230502T22:01:56Z | Null | https://github.com/alsharp811/fuzzy-telegram | 0 | 0| 
 | 20230502T21:43:43Z | as | https://github.com/ashxcim/fuzzy-octo-broccoli | 0 | 0| 
-| 20230502T21:42:19Z | Fuzz | https://github.com/thebeginner1/Fuzz | 0 | 0| 
 
 
 
