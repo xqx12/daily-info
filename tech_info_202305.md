@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T01:39:47Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 209 | 234| 
 | 20230503T00:22:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:21:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i8 | 1 | 0| 
 | 20230503T00:20:26Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i8 | 1 | 0| 
@@ -61,7 +62,6 @@
 | 20230502T22:23:01Z | This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites. | https://github.com/no1se2/No1seAutoSQL | 0 | 0| 
 | 20230502T22:07:37Z | Null | https://github.com/shephy-dev/HackTricks-Linux-Exploiting-English | 0 | 0| 
 | 20230502T17:16:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5527 | 752| 
-| 20230502T15:38:40Z | Discord BOT to manage and have notification about BeEF (Browser Exploitation Framework)  | https://github.com/jomoza/beefcord | 0 | 0| 
 
 
 # backdoor on Github 推荐
