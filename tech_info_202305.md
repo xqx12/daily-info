@@ -110,9 +110,9 @@
 | 20230503T11:33:16Z | Null | https://github.com/Shortytheman/fuzzball | 0 | 0| 
 | 20230503T10:54:01Z | Null | https://github.com/NARAYNAN888/fuzzy_program | 0 | 0| 
 | 20230503T10:00:26Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
+| 20230503T07:05:03Z | Null | https://github.com/openmina/openmina-fuzzing-ui | 0 | 0| 
 | 20230503T04:28:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8622 | 1890| 
 | 20230503T01:29:04Z | Null | https://github.com/MacedoCZY/IA-Fuzzy | 0 | 0| 
-| 20230503T01:23:21Z | Null | https://github.com/packmad/IntrosecFuzzing | 0 | 0| 
 
 
 
