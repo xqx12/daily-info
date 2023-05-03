@@ -52,11 +52,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T07:07:34Z |  Python implementation for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T08:44:35Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 90 | 18| 
+| 20230503T08:14:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 479| 
 | 20230503T00:46:48Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 42 | 9| 
 | 20230503T00:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1066 | 130| 
 

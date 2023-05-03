@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T07:07:34Z |  Python implementation for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 0 | 0| 
 | 20230502T18:10:26Z | In this repositiories you will get some intresting this but this should be use for fun or kidding. This method should not be performed at school , college , or any other public place. | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
 | 20230502T18:08:37Z | This is a modded version | https://github.com/BestGithubUser1/backdoormodded | 0 | 0| 
 | 20230502T17:51:13Z | Repo containing cracked red teaming tools. | https://github.com/c-um/Red-Team-Tools | 0 | 0| 
@@ -77,18 +78,17 @@
 | 20230502T02:24:23Z | Null | https://github.com/rebibabo/defense-aganist-backdoor-in-code-field | 0 | 0| 
 | 20230502T02:21:23Z | Null | https://github.com/titorivera0707/BackDoorShell | 0 | 0| 
 | 20230502T00:12:39Z | This is the implementation and experiment of the Backdoor DCM (Diffusion-based Causal Model) I propose in CPSC 486 Probabilistic Machine Learning class at Yale University as a final project | https://github.com/tatsu432/CPSC486-Probabilistic-Machine-Learning-Backdoor-DCM | 0 | 0| 
-| 20230501T21:26:10Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 5 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T08:44:35Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 90 | 18| 
+| 20230503T08:14:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 479| 
 | 20230503T00:46:48Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 42 | 9| 
 | 20230503T00:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1066 | 130| 
-| 20230502T21:09:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3426 | 479| 
 | 20230502T15:32:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 558 | 37| 
 | 20230502T09:44:46Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
-| 20230502T02:43:18Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 89 | 18| 
 | 20230501T23:12:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 638 | 116| 
 
 
