@@ -82,6 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230503T00:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1066 | 130| 
 | 20230502T21:09:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3426 | 479| 
 | 20230502T15:32:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 558 | 37| 
 | 20230502T09:44:46Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
