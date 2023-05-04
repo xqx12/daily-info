@@ -106,6 +106,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T12:05:54Z | Null | https://github.com/kimagin/FuzzySearch | 0 | 0| 
 | 20230504T10:57:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1385 | 193| 
 | 20230504T10:45:04Z | Проект для фаззинга SharpFuzz | https://github.com/MaxYasinskii/FastPathTokenizerFuzzer | 0 | 0| 
 | 20230504T10:26:38Z | Null | https://github.com/reewardius/my-fuzzing-templates | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230504T05:33:38Z | MERN Application | https://github.com/nlotoo/fuzzy-chainsaw | 0 | 0| 
 | 20230504T04:29:05Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 42 | 27| 
 | 20230504T01:49:26Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3559 | 426| 
-| 20230504T01:22:20Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2132 | 244| 
 
 
 
