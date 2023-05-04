@@ -58,11 +58,11 @@
 | 20230504T00:23:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0m | 1 | 0| 
 | 20230503T23:41:33Z | Contextual Understanding of Cybersecurity Exploits/Vulnerability Description through Self-Supervised Learning | https://github.com/RezzFayyazi/CACyber | 0 | 0| 
 | 20230503T23:24:35Z | A small website that aims to demonstrate the exploitability of artificial intelligence in a world of misinformation and misdirection. | https://github.com/scornz/tell-no-lie | 0 | 0| 
+| 20230503T22:56:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4942 | 974| 
 | 20230503T22:40:18Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230503T21:52:21Z | A reverse shell in JavaScript using HTTP, used to confirm blind XSS vulnerabilities and a tool for browser post-exploitation | https://github.com/SegYT/reverse_shell_javascript | 2 | 1| 
 | 20230503T21:45:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4828 | 609| 
 | 20230503T21:11:05Z | Exploitation vs Exploration problem stated as A/B-testing with maximum profit per unit time.  | https://github.com/avorozhtsov/shipit | 0 | 0| 
-| 20230503T19:54:22Z | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | 0 | 0| 
 
 
 # backdoor on Github 推荐
