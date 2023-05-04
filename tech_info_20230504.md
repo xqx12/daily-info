@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230504T12:56:17Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
 | 20230504T12:07:00Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 | 20230504T09:19:27Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 

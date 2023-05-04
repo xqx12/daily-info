@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230504T12:56:17Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
 | 20230504T12:07:00Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 | 20230504T09:19:27Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 | 20230503T19:54:22Z | CVE-2022-46169 | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | | 
@@ -33,7 +34,6 @@
 | 20230503T16:14:09Z | CVE-2023-29839 | Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability  | https://github.com/jichngan/CVE-2023-29839 | | 
 | 20230503T13:01:58Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230503T02:35:09Z | CVE-2020-15848 | CVE-2020-15848 | https://github.com/faklad/CVE-2020-15848 | | 
-| 20230502T23:48:04Z | CVE-2023-29007 | Null | https://github.com/omespino/CVE-2023-29007 | | 
 
 
 # klee on Github 推荐
