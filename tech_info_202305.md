@@ -103,13 +103,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T01:49:26Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3559 | 426| 
 | 20230504T01:22:20Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2132 | 244| 
 | 20230504T00:39:18Z | cute cozy but fiery hot when angry | https://github.com/Taa-Gawa/fuzzy-guacamole | 1 | 0| 
 | 20230504T00:19:04Z | Match columns to be later used with vlookup or something.  Uses Levenshtein distance, aka fuzzball or fuzzy-wuzzy. | https://github.com/peteristhegreat/fuzzy-column-match | 0 | 0| 
 | 20230504T00:14:25Z | Null | https://github.com/AdrianoCostaJHP/fuzzy | 0 | 0| 
 | 20230503T23:00:18Z | Null | https://github.com/sscodersen/fuzzy-funicular | 0 | 0| 
 | 20230503T21:59:31Z | Null | https://github.com/EbubeDev/fuzzy-todo | 0 | 0| 
-| 20230503T21:33:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3558 | 426| 
 | 20230503T21:20:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8626 | 1890| 
 | 20230503T20:26:32Z | Examples of complete SharpFuzz fuzzing projects | https://github.com/Metalnem/sharpfuzz-samples | 2 | 0| 
 | 20230503T20:15:55Z | Config files for my GitHub profile. | https://github.com/moumita57/fuzzy-set-theory | 0 | 0| 
