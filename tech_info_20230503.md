@@ -50,7 +50,7 @@
 | 20230503T21:11:05Z | Exploitation vs Exploration problem stated as A/B-testing with maximum profit per unit time.  | https://github.com/avorozhtsov/shipit | 0 | 0| 
 | 20230503T19:54:22Z | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | 0 | 0| 
 | 20230503T18:46:42Z | Web application with weak defenses bolstered to defend against exploits | https://github.com/NavjotS-123/Security-Project | 0 | 0| 
-| 20230503T11:51:39Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsLWW/Exp-Jpg-Png | 0 | 0| 
+| 20230503T18:28:51Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 211 | 235| 
 
 
 # backdoor on Github 推荐
