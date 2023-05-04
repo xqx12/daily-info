@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T12:23:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8402 | 1940| 
 | 20230504T11:07:18Z | Null | https://github.com/SAYURU98/Corona-Blue-Vulnerability-Exploitaion | 0 | 0| 
 | 20230504T11:03:44Z | Developed two similar websites using HTML, CSS, and PHP to understand web application security Conducted vulnerability assessments and penetration testing on the vulnerable website, identifying and exploiting vulnerabilities Developed the secured website with appropriate security measures to overcome these vulnerabilities | https://github.com/Ponnuri-Bhavani-Dhanush/Web_Application_Vulnerability_Assessment_and_Penetration_Testing | 0 | 0| 
 | 20230504T10:47:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5091 | 732| 
@@ -64,7 +65,6 @@
 | 20230504T09:18:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 462 | 33| 
 | 20230504T09:05:49Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0321-app-e_HLY-exploit-put | 0 | 0| 
 | 20230504T08:50:12Z | Null | https://github.com/arnaudpfu/tp2-systeme-exploitation | 0 | 0| 
-| 20230504T07:30:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 631 | 165| 
 
 
 # backdoor on Github 推荐
