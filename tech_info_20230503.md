@@ -35,7 +35,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230503T18:46:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 325 | 78| 
+| 20230503T18:46:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 325 | 79| 
 
 
 # exploit on Github 推荐
@@ -85,12 +85,12 @@
 | 20230503T21:59:31Z | Null | https://github.com/EbubeDev/fuzzy-todo | 0 | 0| 
 | 20230503T21:33:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3558 | 426| 
 | 20230503T21:20:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8626 | 1890| 
-| 20230503T20:29:23Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2130 | 244| 
 | 20230503T20:26:32Z | Examples of complete SharpFuzz fuzzing projects | https://github.com/Metalnem/sharpfuzz-samples | 2 | 0| 
 | 20230503T20:15:55Z | Config files for my GitHub profile. | https://github.com/moumita57/fuzzy-set-theory | 0 | 0| 
 | 20230503T20:13:57Z | Null | https://github.com/matias-gonz/differential-fuzzer | 0 | 0| 
 | 20230503T20:10:53Z | Null | https://github.com/Zawardoo/fuzzy-sniffle | 0 | 0| 
 | 20230503T12:56:33Z | Null | https://github.com/tizianocolagrossi/fuzzer-utils | 0 | 0| 
+| 20230503T12:07:13Z | Null | https://github.com/qflex-project/quantum-fuzzy | 0 | 0| 
 
 
 
