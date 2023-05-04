@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T01:46:10Z | This is a Vulnerable Web Application , which be used to demonstrate how these vulnerabilities can be exploited and to understand how to prevent them. | https://github.com/redmojo7/web_lab | 1 | 0| 
 | 20230504T00:25:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0m | 1 | 0| 
 | 20230504T00:24:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0m | 1 | 0| 
 | 20230504T00:23:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0m | 1 | 0| 
@@ -62,7 +63,6 @@
 | 20230503T22:40:18Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230503T21:52:21Z | A reverse shell in JavaScript using HTTP, used to confirm blind XSS vulnerabilities and a tool for browser post-exploitation | https://github.com/SegYT/reverse_shell_javascript | 2 | 1| 
 | 20230503T21:45:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4828 | 609| 
-| 20230503T21:11:05Z | Exploitation vs Exploration problem stated as A/B-testing with maximum profit per unit time.  | https://github.com/avorozhtsov/shipit | 0 | 0| 
 
 
 # backdoor on Github 推荐
