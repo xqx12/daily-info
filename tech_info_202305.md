@@ -57,12 +57,12 @@
 | 20230503T23:24:35Z | A small website that aims to demonstrate the exploitability of artificial intelligence in a world of misinformation and misdirection. | https://github.com/scornz/tell-no-lie | 0 | 0| 
 | 20230503T22:40:18Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230503T21:52:21Z | A reverse shell in JavaScript using HTTP, used to confirm blind XSS vulnerabilities and a tool for browser post-exploitation | https://github.com/SegYT/reverse_shell_javascript | 2 | 1| 
+| 20230503T21:45:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4828 | 609| 
 | 20230503T21:11:05Z | Exploitation vs Exploration problem stated as A/B-testing with maximum profit per unit time.  | https://github.com/avorozhtsov/shipit | 0 | 0| 
 | 20230503T19:54:22Z | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | 0 | 0| 
 | 20230503T18:46:42Z | Web application with weak defenses bolstered to defend against exploits | https://github.com/NavjotS-123/Security-Project | 0 | 0| 
 | 20230503T11:51:39Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsLWW/Exp-Jpg-Png | 0 | 0| 
 | 20230503T11:48:11Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File Spoo | https://github.com/RcsLWW/Exdus-Pr-Lunizz | 0 | 0| 
-| 20230503T11:45:11Z | Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/RcsLWW/Exp-Ht | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -103,7 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T00:14:43Z | Match columns to be later used with vlookup or something.  Uses Levenshtein distance, aka fuzzball or fuzzy-wuzzy. | https://github.com/peteristhegreat/fuzzy-column-match | 0 | 0| 
+| 20230504T00:19:04Z | Match columns to be later used with vlookup or something.  Uses Levenshtein distance, aka fuzzball or fuzzy-wuzzy. | https://github.com/peteristhegreat/fuzzy-column-match | 0 | 0| 
 | 20230504T00:14:25Z | Null | https://github.com/AdrianoCostaJHP/fuzzy | 0 | 0| 
 | 20230503T23:00:18Z | Null | https://github.com/sscodersen/fuzzy-funicular | 0 | 0| 
 | 20230503T21:59:31Z | Null | https://github.com/EbubeDev/fuzzy-todo | 0 | 0| 
