@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T00:39:18Z | cute cozy but fiery hot when angry | https://github.com/Taa-Gawa/fuzzy-guacamole | 1 | 0| 
 | 20230504T00:19:04Z | Match columns to be later used with vlookup or something.  Uses Levenshtein distance, aka fuzzball or fuzzy-wuzzy. | https://github.com/peteristhegreat/fuzzy-column-match | 0 | 0| 
 | 20230504T00:14:25Z | Null | https://github.com/AdrianoCostaJHP/fuzzy | 0 | 0| 
 | 20230503T23:00:18Z | Null | https://github.com/sscodersen/fuzzy-funicular | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20230503T20:29:23Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2130 | 244| 
 | 20230503T20:26:32Z | Examples of complete SharpFuzz fuzzing projects | https://github.com/Metalnem/sharpfuzz-samples | 2 | 0| 
 | 20230503T20:15:55Z | Config files for my GitHub profile. | https://github.com/moumita57/fuzzy-set-theory | 0 | 0| 
-| 20230503T20:13:57Z | Null | https://github.com/matias-gonz/differential-fuzzer | 0 | 0| 
 
 
 
