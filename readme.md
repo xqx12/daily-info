@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230504T11:55:43Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 | 20230504T09:19:27Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 
 
@@ -36,10 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T01:46:10Z | This is a Vulnerable Web Application , which be used to demonstrate how these vulnerabilities can be exploited and to understand how to prevent them. | https://github.com/redmojo7/web_lab | 1 | 0| 
-| 20230504T00:25:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0m | 1 | 0| 
-| 20230504T00:24:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0m | 1 | 0| 
-| 20230504T00:23:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0m | 1 | 0| 
+| 20230504T11:07:18Z | Null | https://github.com/SAYURU98/Corona-Blue-Vulnerability-Exploitaion | 0 | 0| 
+| 20230504T11:03:44Z | Developed two similar websites using HTML, CSS, and PHP to understand web application security Conducted vulnerability assessments and penetration testing on the vulnerable website, identifying and exploiting vulnerabilities Developed the secured website with appropriate security measures to overcome these vulnerabilities | https://github.com/Ponnuri-Bhavani-Dhanush/Web_Application_Vulnerability_Assessment_and_Penetration_Testing | 0 | 0| 
+| 20230504T10:47:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5091 | 732| 
+| 20230504T10:06:43Z | A vulnerable banking app | https://github.com/Alainx277/too_big_to_exploit | 0 | 0| 
+| 20230504T09:59:29Z | Null | https://github.com/MouhebSabri/TP2_systeme-d-exploitation | 0 | 0| 
+| 20230504T09:33:26Z | FUD Windows PDF exploit builder | https://github.com/Pavell0/PDF-Exploit-0day | 131 | 0| 
+| 20230504T09:18:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 462 | 33| 
+| 20230504T09:05:49Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0321-app-e_HLY-exploit-put | 0 | 0| 
+| 20230504T08:50:12Z | Null | https://github.com/arnaudpfu/tp2-systeme-exploitation | 0 | 0| 
+| 20230504T07:30:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 631 | 165| 
 
 
 # backdoor on Github 推荐
@@ -52,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T10:26:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2222 | 613| 
 
 
 # big4 on Github 推荐

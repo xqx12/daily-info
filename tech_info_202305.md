@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230504T11:55:43Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 | 20230504T09:19:27Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 | 20230503T19:54:22Z | CVE-2022-46169 | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | | 
 | 20230503T17:57:16Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
@@ -33,7 +34,6 @@
 | 20230503T13:01:58Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230503T02:35:09Z | CVE-2020-15848 | CVE-2020-15848 | https://github.com/faklad/CVE-2020-15848 | | 
 | 20230502T23:48:04Z | CVE-2023-29007 | Null | https://github.com/omespino/CVE-2023-29007 | | 
-| 20230502T17:56:05Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
 
 
 # klee on Github 推荐
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T01:46:10Z | This is a Vulnerable Web Application , which be used to demonstrate how these vulnerabilities can be exploited and to understand how to prevent them. | https://github.com/redmojo7/web_lab | 1 | 0| 
-| 20230504T00:25:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0m | 1 | 0| 
-| 20230504T00:24:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0m | 1 | 0| 
-| 20230504T00:23:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0m | 1 | 0| 
-| 20230503T23:41:33Z | Contextual Understanding of Cybersecurity Exploits/Vulnerability Description through Self-Supervised Learning | https://github.com/RezzFayyazi/CACyber | 0 | 0| 
-| 20230503T23:24:35Z | A small website that aims to demonstrate the exploitability of artificial intelligence in a world of misinformation and misdirection. | https://github.com/scornz/tell-no-lie | 0 | 0| 
-| 20230503T22:56:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4942 | 974| 
-| 20230503T22:40:18Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
-| 20230503T21:52:21Z | A reverse shell in JavaScript using HTTP, used to confirm blind XSS vulnerabilities and a tool for browser post-exploitation | https://github.com/SegYT/reverse_shell_javascript | 2 | 1| 
-| 20230503T21:45:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4828 | 609| 
+| 20230504T11:07:18Z | Null | https://github.com/SAYURU98/Corona-Blue-Vulnerability-Exploitaion | 0 | 0| 
+| 20230504T11:03:44Z | Developed two similar websites using HTML, CSS, and PHP to understand web application security Conducted vulnerability assessments and penetration testing on the vulnerable website, identifying and exploiting vulnerabilities Developed the secured website with appropriate security measures to overcome these vulnerabilities | https://github.com/Ponnuri-Bhavani-Dhanush/Web_Application_Vulnerability_Assessment_and_Penetration_Testing | 0 | 0| 
+| 20230504T10:47:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5091 | 732| 
+| 20230504T10:06:43Z | A vulnerable banking app | https://github.com/Alainx277/too_big_to_exploit | 0 | 0| 
+| 20230504T09:59:29Z | Null | https://github.com/MouhebSabri/TP2_systeme-d-exploitation | 0 | 0| 
+| 20230504T09:33:26Z | FUD Windows PDF exploit builder | https://github.com/Pavell0/PDF-Exploit-0day | 131 | 0| 
+| 20230504T09:18:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 462 | 33| 
+| 20230504T09:05:49Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0321-app-e_HLY-exploit-put | 0 | 0| 
+| 20230504T08:50:12Z | Null | https://github.com/arnaudpfu/tp2-systeme-exploitation | 0 | 0| 
+| 20230504T07:30:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 631 | 165| 
 
 
 # backdoor on Github 推荐
@@ -85,13 +85,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T10:26:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2222 | 613| 
 | 20230503T08:44:35Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 90 | 18| 
 | 20230503T08:14:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 479| 
 | 20230503T00:46:48Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 42 | 9| 
 | 20230503T00:41:34Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1066 | 130| 
 | 20230502T15:32:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 558 | 37| 
 | 20230502T09:44:46Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
-| 20230501T23:12:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 638 | 116| 
+| 20230501T23:12:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 638 | 117| 
 
 
 # big4 on Github 推荐
