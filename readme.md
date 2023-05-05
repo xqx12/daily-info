@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230505T12:46:25Z | CVE-2023-0386 | An exploit of CVE-2023-0386, verified on 5.19.0-38-generic #39~22.04.1-Ubuntu | https://github.com/JlSakuya/CVE-2023-0386 | | 
 | 20230505T12:45:00Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230505T12:27:33Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230505T10:49:47Z | CVE-2023-29489 | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | | 
