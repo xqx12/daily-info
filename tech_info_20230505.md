@@ -71,6 +71,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T08:45:13Z | Coq formalization of Symbolic Execution Formally Explained | https://github.com/Aqissiaq/symex-formally-formalized | 1 | 0| 
+| 20230505T03:15:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1070 | 130| 
 
 
 # big4 on Github 推荐

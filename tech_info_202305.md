@@ -90,16 +90,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T08:45:13Z | Coq formalization of Symbolic Execution Formally Explained | https://github.com/Aqissiaq/symex-formally-formalized | 1 | 0| 
+| 20230505T03:15:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1070 | 130| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230504T19:45:22Z | An automatic test case generator for C source code using Memorized Symbolic Execution | https://github.com/sajedjalil/C-Path-Finder | 10 | 3| 
 | 20230504T16:38:05Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 7 | 1| 
 | 20230504T15:58:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3428 | 479| 
 | 20230504T12:16:42Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 43 | 9| 
-| 20230504T12:15:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1067 | 130| 
 | 20230504T10:26:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2222 | 614| 
 | 20230503T08:44:35Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 90 | 18| 
 | 20230502T15:32:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 558 | 37| 
-| 20230502T09:44:46Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
 
 
 # big4 on Github 推荐
