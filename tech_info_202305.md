@@ -24,9 +24,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230505T00:02:49Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230505T00:01:04Z | CVE-2022-29464 | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230504T23:59:24Z | CVE-2023-27524 | Perform With Apache-SuperSet Leaked Token [CSRF] | https://github.com/Pari-Malam/CVE-2023-27524 | | 
-| 20230504T23:53:11Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230504T23:31:32Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230504T23:08:36Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230504T22:04:32Z | CVE-2022-46169 | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | | 
@@ -57,11 +57,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T00:02:49Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
+| 20230505T00:02:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m3 | 1 | 0| 
 | 20230505T00:01:04Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 3 | 2| 
-| 20230505T00:00:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m3 | 0 | 0| 
 | 20230505T00:00:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-m3 | 1 | 0| 
 | 20230504T23:59:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m3 | 1 | 0| 
-| 20230504T23:53:11Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
 | 20230504T23:19:36Z | A minimalist re-implementation of the Fusée Gelée exploit, designed to run on embedded Linux devices. (Zero dependencies) | https://github.com/DavidBuchanan314/fusee-nano | 55 | 9| 
 | 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
 | 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
@@ -102,7 +102,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T04:42:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 649 | 102| 
+| 20230504T23:34:48Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 650 | 102| 
 | 20230503T11:43:35Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 3 | 2| 
 | 20230502T04:39:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 16 | 1| 
 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T00:04:06Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
 | 20230504T20:58:37Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 0 | 1| 
 | 20230504T20:48:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 767 | 107| 
 | 20230504T19:54:22Z | This repository consists of collection of wordlist that can be used for web application fuzzing purpose. | https://github.com/Pratham0x01/Fuzzing | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20230504T10:57:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1385 | 193| 
 | 20230504T10:45:04Z | Проект для фаззинга SharpFuzz | https://github.com/MaxYasinskii/FastPathTokenizerFuzzer | 0 | 0| 
 | 20230504T10:26:38Z | Null | https://github.com/reewardius/my-fuzzing-templates | 0 | 0| 
-| 20230504T09:46:57Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
 
 
 

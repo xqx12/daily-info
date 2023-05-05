@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230504T23:59:24Z | CVE-2023-27524 | Perform With Apache-SuperSet Leaked Token [CSRF] | https://github.com/Pari-Malam/CVE-2023-27524 | | 
-| 20230504T23:53:11Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230504T23:31:32Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
 | 20230504T23:08:36Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230504T22:04:32Z | CVE-2022-46169 | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | | 
@@ -48,7 +47,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230504T23:59:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m3 | 1 | 0| 
-| 20230504T23:53:11Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
 | 20230504T23:19:36Z | A minimalist re-implementation of the Fusée Gelée exploit, designed to run on embedded Linux devices. (Zero dependencies) | https://github.com/DavidBuchanan314/fusee-nano | 55 | 9| 
 | 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
 | 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
@@ -57,6 +55,7 @@
 | 20230504T17:12:51Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 220 | 164| 
 | 20230504T16:22:40Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/c0r0n3r/dheater | 143 | 15| 
 | 20230504T12:41:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4946 | 975| 
+| 20230504T12:23:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8402 | 1940| 
 
 
 # backdoor on Github 推荐
@@ -84,7 +83,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T04:42:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 649 | 102| 
+| 20230504T23:34:48Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 650 | 102| 
 
 
 # fuzz on Github 推荐
