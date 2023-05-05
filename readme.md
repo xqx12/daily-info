@@ -51,12 +51,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T12:51:32Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1080 | 134| 
 | 20230505T11:23:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 632 | 165| 
 | 20230505T11:16:55Z | A library with some basic functions I use while doing (learning) linux kernel exploitation. | https://github.com/ChSotiriou/pwnlib.c | 0 | 0| 
 | 20230505T11:09:22Z | Null | https://github.com/laonagruenais/exploitation-donn-e | 0 | 0| 
 | 20230505T10:49:47Z | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | 0 | 0| 
 | 20230505T10:38:24Z | simple Python exploit using CVE-2018-7449 on embOS/IP FTP Server v3.22 | https://github.com/antogit-sys/CVE-2018-7449 | 0 | 0| 
-| 20230505T10:27:26Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1079 | 134| 
 | 20230505T09:17:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4950 | 974| 
 | 20230505T09:10:16Z | Null | https://github.com/cvericel/exploit | 0 | 0| 
 | 20230505T01:14:25Z | Just as it sounds, a simple exploit server written in python to send malicious iframes. Reuse it, steal it, call it your own. Do whatever you like! | https://github.com/NetRunnerBlackwall/Simple-Exploit-Server | 0 | 0| 
