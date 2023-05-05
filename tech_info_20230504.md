@@ -51,9 +51,9 @@
 | 20230504T22:04:32Z | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | 0 | 0| 
 | 20230504T22:01:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4948 | 974| 
 | 20230504T21:13:27Z | Mani Admin is a roblox exploit script that gives u admin ( not that type of admin ) | https://github.com/MikeScripter/Mani-Admin | 0 | 0| 
+| 20230504T18:16:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 188 | 8| 
 | 20230504T17:12:51Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 220 | 164| 
 | 20230504T16:22:40Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/c0r0n3r/dheater | 143 | 15| 
-| 20230504T13:05:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4855 | 611| 
 
 
 # backdoor on Github 推荐
