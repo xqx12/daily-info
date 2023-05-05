@@ -66,7 +66,7 @@
 | 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
 | 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
 | 20230504T22:04:32Z | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | 0 | 0| 
-| 20230504T21:13:27Z | Mani Admin is a roblox exploit script that gives u admin ( not that type of admin ) | https://github.com/MikeScripter/Mani-Admin | 0 | 0| 
+| 20230504T22:01:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4948 | 974| 
 
 
 # backdoor on Github 推荐
