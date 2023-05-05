@@ -54,15 +54,16 @@
 | 20230505T10:49:47Z | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | 0 | 0| 
 | 20230505T10:38:24Z | simple Python exploit using CVE-2018-7449 on embOS/IP FTP Server v3.22 | https://github.com/antogit-sys/CVE-2018-7449 | 0 | 0| 
 | 20230505T10:27:26Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1079 | 134| 
+| 20230505T09:17:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4950 | 974| 
 | 20230505T09:10:16Z | Null | https://github.com/cvericel/exploit | 0 | 0| 
 | 20230505T01:14:25Z | Just as it sounds, a simple exploit server written in python to send malicious iframes. Reuse it, steal it, call it your own. Do whatever you like! | https://github.com/NetRunnerBlackwall/Simple-Exploit-Server | 0 | 0| 
 | 20230505T00:59:14Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 35 | 4| 
-| 20230505T00:02:49Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T12:31:47Z | Null | https://github.com/leileigan/CleanLabelBackdoorAttackMindspore | 0 | 0| 
 | 20230505T10:39:50Z | Remote Administration Tool (RAT) для операционных систем Windows, MythosR4T был написан на чистом Python и предназначен для удаленного управления компьютерами. | https://github.com/mython-dev/MythosR4T | 1 | 0| 
 | 20230505T03:50:23Z | A robust training methodology which helps the deep learning models to get trained robustly on poisoned data sets. | https://github.com/LakshmiGayathri19/Anti-Backdoor-Learning | 0 | 0| 
 | 20230505T02:32:49Z | A ChatGPT Prompt and Backdoor to my own prompt | https://github.com/progressofme/GPTSecret | 0 | 0| 
