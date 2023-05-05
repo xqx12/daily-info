@@ -75,7 +75,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230505T12:53:02Z | Kotlin script that demonstrates how to remotely connect to an Android device using ADB | https://github.com/SleepTheGod/Android-ADB-Backdoor | 0 | 0| 
+| 20230505T12:58:59Z | Kotlin script that demonstrates how to remotely connect to an Android device using ADB | https://github.com/SleepTheGod/Android-ADB-Backdoor | 0 | 0| 
 | 20230505T12:31:47Z | Null | https://github.com/leileigan/CleanLabelBackdoorAttackMindspore | 0 | 0| 
 | 20230505T10:39:50Z | Remote Administration Tool (RAT) для операционных систем Windows, MythosR4T был написан на чистом Python и предназначен для удаленного управления компьютерами. | https://github.com/mython-dev/MythosR4T | 1 | 0| 
 | 20230505T03:50:23Z | A robust training methodology which helps the deep learning models to get trained robustly on poisoned data sets. | https://github.com/LakshmiGayathri19/Anti-Backdoor-Learning | 0 | 0| 
