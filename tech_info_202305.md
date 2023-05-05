@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T01:14:25Z | Just as it sounds, a simple exploit server written in python to send malicious iframes. Reuse it, steal it, call it your own. Do whatever you like! | https://github.com/NetRunnerBlackwall/Simple-Exploit-Server | 0 | 0| 
 | 20230505T00:59:14Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 35 | 4| 
 | 20230505T00:02:49Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
 | 20230505T00:02:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m3 | 1 | 0| 
@@ -66,7 +67,6 @@
 | 20230504T23:19:36Z | A minimalist re-implementation of the Fusée Gelée exploit, designed to run on embedded Linux devices. (Zero dependencies) | https://github.com/DavidBuchanan314/fusee-nano | 55 | 9| 
 | 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
 | 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
-| 20230504T22:04:32Z | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | 0 | 0| 
 
 
 # backdoor on Github 推荐
