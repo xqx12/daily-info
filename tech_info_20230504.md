@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T20:58:37Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 0 | 1| 
+| 20230504T20:48:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 767 | 107| 
+| 20230504T19:54:22Z | This repository consists of collection of wordlist that can be used for web application fuzzing purpose. | https://github.com/Pratham0x01/Fuzzing | 0 | 0| 
+| 20230504T18:46:05Z | Null | https://github.com/VictorHenrique317/summarazing-fuzzy-tensors-extended | 0 | 0| 
 | 20230504T12:32:43Z | Null | https://github.com/zgl-andi/fuzzy-train | 0 | 0| 
 | 20230504T12:05:54Z | Null | https://github.com/kimagin/FuzzySearch | 0 | 0| 
 | 20230504T10:57:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1385 | 193| 
 | 20230504T10:45:04Z | Проект для фаззинга SharpFuzz | https://github.com/MaxYasinskii/FastPathTokenizerFuzzer | 0 | 0| 
 | 20230504T10:26:38Z | Null | https://github.com/reewardius/my-fuzzing-templates | 0 | 0| 
 | 20230504T09:46:57Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
-| 20230504T09:06:59Z | Multi-index Fuzzy Comprehensive Evaluation Model with In-formation Entropy of Alfalfa Salt Tolerance Based on LiDAR Data and Hyperspectral Image Data | https://github.com/zjxGIS/Fuzzy-Comprehensive-Evaluation-Model | 0 | 0| 
-| 20230504T07:52:44Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2457 | 453| 
-| 20230504T05:33:38Z | MERN Application | https://github.com/nlotoo/fuzzy-chainsaw | 0 | 0| 
-| 20230504T04:29:05Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 42 | 27| 
 
 
 
