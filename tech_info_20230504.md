@@ -32,7 +32,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230504T23:01:21Z | Null | https://github.com/TissueCommercialKleenexAd6543210987/TissueCommercialKleenexAd6543210987.github.io | 0 | 0| 
-| 20230504T17:48:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11915 | 379| 
 
 
 # s2e on Github 推荐
