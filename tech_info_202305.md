@@ -110,8 +110,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T01:18:30Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE | 0 | 0| 
 | 20230505T01:17:43Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE-OLD | 1 | 0| 
-| 20230505T01:08:26Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE | 1 | 0| 
 | 20230505T00:53:32Z | Null | https://github.com/Kwilsondesigns/fuzzy-parakeet | 0 | 0| 
 | 20230505T00:40:32Z | Este script te permitira realizar fuzzing,path_traversal y LFI/RFI para la pagina web %dvwa%  | https://github.com/Emerson-Portugal/script-fuzzing-path_traversal-LFI-RFI | 0 | 0| 
 | 20230505T00:05:32Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
