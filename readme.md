@@ -83,8 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T12:30:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 770 | 107| 
 | 20230505T11:33:38Z | Null | https://github.com/Kush3008/Fuel-Prediction-Using-Neuro-Fuzzy | 0 | 0| 
-| 20230505T11:28:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 769 | 107| 
 | 20230505T11:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8629 | 1890| 
 | 20230505T10:54:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3658 | 737| 
 | 20230505T10:16:53Z | Null | https://github.com/Fuzzypro12/Fuzzybackup | 0 | 0| 
