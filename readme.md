@@ -34,7 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230505T10:13:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11929 | 379| 
+| 20230505T12:37:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11930 | 379| 
 | 20230505T10:09:31Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 69 | 18| 
 | 20230505T03:06:28Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 28 | 0| 
 | 20230505T03:02:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 277 | 4| 
@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T12:36:04Z | Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All inputs are from std::Read | https://github.com/seungminaaa/fuzz_crate | 0 | 0| 
 | 20230505T12:30:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 770 | 107| 
 | 20230505T11:33:38Z | Null | https://github.com/Kush3008/Fuel-Prediction-Using-Neuro-Fuzzy | 0 | 0| 
 | 20230505T11:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8629 | 1890| 
@@ -93,7 +94,6 @@
 | 20230505T09:53:14Z | basic ioctl fuzzer for windows | https://github.com/blkph0x/IOCTL_FUZZER | 0 | 0| 
 | 20230505T01:26:35Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE | 0 | 0| 
 | 20230505T01:17:43Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE-OLD | 1 | 0| 
-| 20230505T00:53:32Z | Null | https://github.com/Kwilsondesigns/fuzzy-parakeet | 0 | 0| 
 
 
 
