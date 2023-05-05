@@ -11,38 +11,41 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230505 | 甲方安全从业人员的职业发展建议 | https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA| 
+| 20230505 | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg| 
+| 20230505 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g| 
+| 20230505 | 2022年俄乌冲突战场动态测绘年度报告 | https://mp.weixin.qq.com/s/vRLtrxVxwjLj64qWuty20g| 
+| 20230505 | 攻击面管理产品市场分析报告 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQgjmgl.pdf| 
 | 20230504 | 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg| 
 | 20230503 | 从GPT-4、网络安全到大模型不扩散 | https://mp.weixin.qq.com/s/sbyIeWCvCA5IH7hJpB9rig| 
 | 20230502 | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda| 
 | 20230502 | SecWiki周刊（第478期) | https://www.sec-wiki.com/weekly/478| 
 | 20230502 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 
-| 20230502 | Java项目第三方库漏洞兼容修复 | https://mp.weixin.qq.com/s/VTC6kUVNItfwxq2RIQmc5g| 
-| 20230501 | Tomcat反序列化注入回显内存马 | https://xz.aliyun.com/t/12494| 
-| 20230501 | 浅谈Docker逃逸 | https://xz.aliyun.com/t/12495| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230505T11:50:25Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230505T10:49:47Z | CVE-2023-29489 | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | | 
+| 20230505T08:16:30Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230505T08:05:33Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20230505T07:39:31Z | CVE-2023-30185 | Null | https://github.com/c7w1n/CVE-2023-30185 | | 
 | 20230505T01:22:31Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 | 20230505T00:02:49Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 | 20230505T00:01:04Z | CVE-2022-29464 | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | | 
 | 20230504T23:59:24Z | CVE-2023-27524 | Perform With Apache-SuperSet Leaked Token [CSRF] | https://github.com/Pari-Malam/CVE-2023-27524 | | 
 | 20230504T23:31:32Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230504T23:08:36Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230504T22:04:32Z | CVE-2022-46169 | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | | 
-| 20230504T17:07:23Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
-| 20230504T13:37:40Z | CVE-2023-27524 | A POC for the all new CVE-2023-27524 which allows for authentication bypass and gaining access to the admin dashboard. | https://github.com/MaanVader/CVE-2023-27524-POC | | 
-| 20230504T12:56:17Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230505T01:47:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11919 | 379| 
+| 20230505T10:13:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11929 | 379| 
+| 20230505T10:09:31Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 69 | 18| 
+| 20230505T03:06:28Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 28 | 0| 
+| 20230505T03:02:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 277 | 4| 
 | 20230504T23:01:21Z | Null | https://github.com/TissueCommercialKleenexAd6543210987/TissueCommercialKleenexAd6543210987.github.io | 0 | 0| 
-| 20230503T06:25:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 276 | 4| 
-| 20230502T10:33:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 27 | 0| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
 
 
@@ -57,21 +60,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T11:23:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 632 | 165| 
+| 20230505T11:16:55Z | A library with some basic functions I use while doing (learning) linux kernel exploitation. | https://github.com/ChSotiriou/pwnlib.c | 0 | 0| 
+| 20230505T11:09:22Z | Null | https://github.com/laonagruenais/exploitation-donn-e | 0 | 0| 
+| 20230505T10:49:47Z | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | 0 | 0| 
+| 20230505T10:38:24Z | simple Python exploit using CVE-2018-7449 on embOS/IP FTP Server v3.22 | https://github.com/antogit-sys/CVE-2018-7449 | 0 | 0| 
+| 20230505T10:27:26Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1079 | 134| 
+| 20230505T09:10:16Z | Null | https://github.com/cvericel/exploit | 0 | 0| 
 | 20230505T01:14:25Z | Just as it sounds, a simple exploit server written in python to send malicious iframes. Reuse it, steal it, call it your own. Do whatever you like! | https://github.com/NetRunnerBlackwall/Simple-Exploit-Server | 0 | 0| 
 | 20230505T00:59:14Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 35 | 4| 
 | 20230505T00:02:49Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
-| 20230505T00:02:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m3 | 1 | 0| 
-| 20230505T00:01:04Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 3 | 2| 
-| 20230505T00:00:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-m3 | 1 | 0| 
-| 20230504T23:59:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m3 | 1 | 0| 
-| 20230504T23:19:36Z | A minimalist re-implementation of the Fusée Gelée exploit, designed to run on embedded Linux devices. (Zero dependencies) | https://github.com/DavidBuchanan314/fusee-nano | 55 | 9| 
-| 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
-| 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T10:39:50Z | Remote Administration Tool (RAT) для операционных систем Windows, MythosR4T был написан на чистом Python и предназначен для удаленного управления компьютерами. | https://github.com/mython-dev/MythosR4T | 1 | 0| 
+| 20230505T03:50:23Z | A robust training methodology which helps the deep learning models to get trained robustly on poisoned data sets. | https://github.com/LakshmiGayathri19/Anti-Backdoor-Learning | 0 | 0| 
+| 20230505T02:32:49Z | A ChatGPT Prompt and Backdoor to my own prompt | https://github.com/progressofme/GPTSecret | 0 | 0| 
 | 20230504T23:50:49Z | Null | https://github.com/kevindclee/CS577-Final-Project-Backdoor-Attack-on-Language-Model-Code-Generators | 0 | 0| 
 | 20230504T14:22:56Z | Null | https://github.com/rebibabo/defense-against-backdoor | 0 | 0| 
 | 20230504T13:12:34Z | Handcrafted Backdoors for Language Models | https://github.com/ElianBelot/language-backdoors | 0 | 0| 
@@ -79,9 +85,6 @@
 | 20230504T07:38:35Z | Null | https://github.com/w3security/PyBackdoor | 0 | 0| 
 | 20230503T20:36:50Z | Null | https://github.com/Emanuel3k/Backdoor | 0 | 0| 
 | 20230503T20:03:52Z | Website for a construction/ realtor company | https://github.com/tommimaki/Backdoor.com | 0 | 0| 
-| 20230503T13:43:25Z | Open code implementation of different backdoor attack in Federated Learning | https://github.com/wenqsun/BackdoorAttack_FL | 1 | 0| 
-| 20230503T09:13:04Z | TrojDRL repetition by Pytorch (Personal learning) | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 1 | 1| 
-| 20230503T07:07:34Z |  Python implementation for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T11:33:38Z | Null | https://github.com/Kush3008/Fuel-Prediction-Using-Neuro-Fuzzy | 0 | 0| 
+| 20230505T11:28:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 769 | 107| 
+| 20230505T11:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8629 | 1890| 
+| 20230505T10:54:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3658 | 737| 
+| 20230505T10:16:53Z | Null | https://github.com/Fuzzypro12/Fuzzybackup | 0 | 0| 
+| 20230505T10:07:37Z | Null | https://github.com/shark4ce/concurrency-fuzzing-github-query | 1 | 0| 
+| 20230505T09:53:14Z | basic ioctl fuzzer for windows | https://github.com/blkph0x/IOCTL_FUZZER | 0 | 0| 
 | 20230505T01:26:35Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE | 0 | 0| 
 | 20230505T01:17:43Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE-OLD | 1 | 0| 
 | 20230505T00:53:32Z | Null | https://github.com/Kwilsondesigns/fuzzy-parakeet | 0 | 0| 
-| 20230505T00:40:32Z | Este script te permitira realizar fuzzing,path_traversal y LFI/RFI para la pagina web %dvwa%  | https://github.com/Emerson-Portugal/script-fuzzing-path_traversal-LFI-RFI | 0 | 0| 
-| 20230505T00:05:32Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
-| 20230504T22:53:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3563 | 426| 
-| 20230504T20:58:37Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 0 | 1| 
-| 20230504T20:48:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 767 | 107| 
-| 20230504T19:54:22Z | This repository consists of collection of wordlist that can be used for web application fuzzing purpose. | https://github.com/Pratham0x01/Fuzzing | 0 | 0| 
-| 20230504T18:46:05Z | Null | https://github.com/VictorHenrique317/summarazing-fuzzy-tensors-extended | 0 | 0| 
 
 
 
