@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230505T12:46:25Z | CVE-2023-0386 | An exploit of CVE-2023-0386, verified on 5.19.0-38-generic #39~22.04.1-Ubuntu | https://github.com/JlSakuya/CVE-2023-0386 | | 
+| 20230505T12:49:24Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230505T12:49:22Z | CVE-2023-0386 | An exploit of CVE-2023-0386, verified on 5.19.0-38-generic #39~22.04.1-Ubuntu | https://github.com/JlSakuya/CVE-2023-0386 | | 
 | 20230505T12:45:00Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230505T12:27:33Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230505T10:49:47Z | CVE-2023-29489 | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | | 
 | 20230505T08:16:30Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230505T08:05:33Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230505T12:36:04Z | Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All inputs are from std::Read | https://github.com/seungminaaa/fuzz_crate | 0 | 0| 
+| 20230505T12:49:00Z | Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All inputs are from std::Read | https://github.com/seungminaaa/fuzz_crate | 0 | 0| 
 | 20230505T12:30:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 770 | 107| 
 | 20230505T11:33:38Z | Null | https://github.com/Kush3008/Fuel-Prediction-Using-Neuro-Fuzzy | 0 | 0| 
 | 20230505T11:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8629 | 1890| 
