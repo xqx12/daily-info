@@ -110,7 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230505T00:04:06Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
+| 20230505T00:05:32Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
 | 20230504T20:58:37Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 0 | 1| 
 | 20230504T20:48:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 767 | 107| 
 | 20230504T19:54:22Z | This repository consists of collection of wordlist that can be used for web application fuzzing purpose. | https://github.com/Pratham0x01/Fuzzing | 0 | 0| 
