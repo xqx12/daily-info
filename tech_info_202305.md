@@ -24,22 +24,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230505T00:01:04Z | CVE-2022-29464 | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | | 
+| 20230504T23:59:24Z | CVE-2023-27524 | Perform With Apache-SuperSet Leaked Token [CSRF] | https://github.com/Pari-Malam/CVE-2023-27524 | | 
+| 20230504T23:53:11Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
+| 20230504T23:31:32Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
+| 20230504T23:08:36Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230504T22:04:32Z | CVE-2022-46169 | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | | 
+| 20230504T17:07:23Z | CVE-2022-46169 | Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169 | https://github.com/Safarchand/CVE-2022-46169 | | 
+| 20230504T13:37:40Z | CVE-2023-27524 | A POC for the all new CVE-2023-27524 which allows for authentication bypass and gaining access to the admin dashboard. | https://github.com/MaanVader/CVE-2023-27524-POC | | 
 | 20230504T12:56:17Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
 | 20230504T12:07:00Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
-| 20230504T09:19:27Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
-| 20230503T19:54:22Z | CVE-2022-46169 | Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22 | https://github.com/MarkStrendin/CVE-2022-46169 | | 
-| 20230503T17:57:16Z | CVE-2023-31433 | Null | https://github.com/trustcves/CVE-2023-31433 | | 
-| 20230503T17:52:13Z | CVE-2023-29808 | Null | https://github.com/zPrototype/CVE-2023-29808 | | 
-| 20230503T17:19:31Z | CVE-2022-22963 | Binaries for CVE-2022-22963 | https://github.com/GunZF0x/CVE-2022-22963 | | 
-| 20230503T16:14:09Z | CVE-2023-29839 | Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability  | https://github.com/jichngan/CVE-2023-29839 | | 
-| 20230503T13:01:58Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230503T02:35:09Z | CVE-2020-15848 | CVE-2020-15848 | https://github.com/faklad/CVE-2020-15848 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T12:03:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11907 | 379| 
+| 20230504T23:01:21Z | Null | https://github.com/TissueCommercialKleenexAd6543210987/TissueCommercialKleenexAd6543210987.github.io | 0 | 0| 
+| 20230504T17:48:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11915 | 379| 
 | 20230503T06:25:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 276 | 4| 
 | 20230502T10:33:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 27 | 0| 
 | 20230501T04:09:36Z | Null | https://github.com/kleescore/kleescore.github.io | 0 | 0| 
@@ -48,28 +49,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T10:26:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 328 | 79| 
+| 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
+| 20230504T10:26:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 328 | 80| 
 | 20230504T04:18:07Z | Null | https://github.com/fyfrxrvjh/WARP-s2e554e | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230504T12:41:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4946 | 975| 
-| 20230504T12:23:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8402 | 1940| 
-| 20230504T11:07:18Z | Null | https://github.com/SAYURU98/Corona-Blue-Vulnerability-Exploitaion | 0 | 0| 
-| 20230504T11:03:44Z | Developed two similar websites using HTML, CSS, and PHP to understand web application security Conducted vulnerability assessments and penetration testing on the vulnerable website, identifying and exploiting vulnerabilities Developed the secured website with appropriate security measures to overcome these vulnerabilities | https://github.com/Ponnuri-Bhavani-Dhanush/Web_Application_Vulnerability_Assessment_and_Penetration_Testing | 0 | 0| 
-| 20230504T10:47:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5091 | 732| 
-| 20230504T10:06:43Z | A vulnerable banking app | https://github.com/Alainx277/too_big_to_exploit | 0 | 0| 
-| 20230504T09:59:29Z | Null | https://github.com/MouhebSabri/TP2_systeme-d-exploitation | 0 | 0| 
-| 20230504T09:33:26Z | FUD Windows PDF exploit builder | https://github.com/Pavell0/PDF-Exploit-0day | 131 | 0| 
-| 20230504T09:18:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 462 | 33| 
-| 20230504T09:05:49Z | GitOps Repository | https://github.com/pmacik-testing/loadtest-concurrent-0321-app-e_HLY-exploit-put | 0 | 0| 
+| 20230505T00:01:04Z | Perform With Mass Exploits In WSO Management. | https://github.com/Pari-Malam/CVE-2022-29464 | 3 | 2| 
+| 20230505T00:00:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m3 | 0 | 0| 
+| 20230505T00:00:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-m3 | 1 | 0| 
+| 20230504T23:59:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m3 | 1 | 0| 
+| 20230504T23:53:11Z | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | 4 | 3| 
+| 20230504T23:19:36Z | A minimalist re-implementation of the Fusée Gelée exploit, designed to run on embedded Linux devices. (Zero dependencies) | https://github.com/DavidBuchanan314/fusee-nano | 55 | 9| 
+| 20230504T23:07:50Z | Null | https://github.com/MyBooty165/gimkit-exploit | 0 | 0| 
+| 20230504T22:07:58Z | This is a exploit of CVE-2019-16278 for Nostromo 1.9.6 RCE. This exploit allows RCE on the victim machine. | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE | 0 | 0| 
+| 20230504T22:04:32Z | 🐍 Python Exploit for CVE-2022-46169 | https://github.com/BKreisel/CVE-2022-46169 | 0 | 0| 
+| 20230504T21:13:27Z | Mani Admin is a roblox exploit script that gives u admin ( not that type of admin ) | https://github.com/MikeScripter/Mani-Admin | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T23:50:49Z | Null | https://github.com/kevindclee/CS577-Final-Project-Backdoor-Attack-on-Language-Model-Code-Generators | 0 | 0| 
+| 20230504T14:22:56Z | Null | https://github.com/rebibabo/defense-against-backdoor | 0 | 0| 
+| 20230504T13:12:34Z | Handcrafted Backdoors for Language Models | https://github.com/ElianBelot/language-backdoors | 0 | 0| 
 | 20230504T11:22:13Z | Null | https://github.com/Osiris-OM/Shells-and-Backdoors | 0 | 0| 
 | 20230504T07:38:35Z | Null | https://github.com/w3security/PyBackdoor | 0 | 0| 
 | 20230503T20:36:50Z | Null | https://github.com/Emanuel3k/Backdoor | 0 | 0| 
@@ -77,22 +82,21 @@
 | 20230503T13:43:25Z | Open code implementation of different backdoor attack in Federated Learning | https://github.com/wenqsun/BackdoorAttack_FL | 1 | 0| 
 | 20230503T09:13:04Z | TrojDRL repetition by Pytorch (Personal learning) | https://github.com/nwpuhkp/DRL-Backdoor-Pong | 1 | 1| 
 | 20230503T07:07:34Z |  Python implementation for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 0 | 0| 
-| 20230502T18:10:26Z | In this repositiories you will get some intresting this but this should be use for fun or kidding. This method should not be performed at school , college , or any other public place. | https://github.com/AnandKatariya/Backdoor-Trojan | 0 | 0| 
-| 20230502T18:08:37Z | This is a modded version | https://github.com/BestGithubUser1/backdoormodded | 0 | 0| 
-| 20230502T17:51:13Z | Repo containing cracked red teaming tools. | https://github.com/c-um/Red-Team-Tools | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
+| 20230504T19:45:22Z | An automatic test case generator for C source code using Memorized Symbolic Execution | https://github.com/sajedjalil/C-Path-Finder | 10 | 3| 
+| 20230504T16:38:05Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 7 | 1| 
+| 20230504T15:58:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3428 | 479| 
 | 20230504T12:16:42Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 43 | 9| 
 | 20230504T12:15:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1067 | 130| 
 | 20230504T10:26:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2222 | 613| 
 | 20230503T08:44:35Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 90 | 18| 
-| 20230503T08:14:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 479| 
 | 20230502T15:32:48Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 558 | 37| 
 | 20230502T09:44:46Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 55 | 25| 
-| 20230501T23:12:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 638 | 117| 
 
 
 # big4 on Github 推荐
