@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230505T01:08:26Z | HOUSE fuzzing framework | https://github.com/b0rh/HOUSE | 1 | 0| 
 | 20230505T00:53:32Z | Null | https://github.com/Kwilsondesigns/fuzzy-parakeet | 0 | 0| 
 | 20230505T00:40:32Z | Este script te permitira realizar fuzzing,path_traversal y LFI/RFI para la pagina web %dvwa%  | https://github.com/Emerson-Portugal/script-fuzzing-path_traversal-LFI-RFI | 0 | 0| 
 | 20230505T00:05:32Z | Null | https://github.com/aninda20/fuzzing | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20230504T19:54:22Z | This repository consists of collection of wordlist that can be used for web application fuzzing purpose. | https://github.com/Pratham0x01/Fuzzing | 0 | 0| 
 | 20230504T18:46:05Z | Null | https://github.com/VictorHenrique317/summarazing-fuzzy-tensors-extended | 0 | 0| 
 | 20230504T12:32:43Z | Null | https://github.com/zgl-andi/fuzzy-train | 0 | 0| 
-| 20230504T12:05:54Z | Null | https://github.com/kimagin/FuzzySearch | 0 | 0| 
 
 
 
