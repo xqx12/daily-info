@@ -61,7 +61,7 @@
 | 20230505T17:30:08Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3443 | 509| 
 | 20230505T17:28:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4866 | 613| 
 | 20230505T17:26:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 632 | 165| 
-| 20230505T12:51:32Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1080 | 134| 
+| 20230505T17:23:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4949 | 975| 
 
 
 # backdoor on Github 推荐

@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230506T00:23:26Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julia | 0 | 0| 
+| 20230506T00:28:27Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julia | 0 | 0| 
 | 20230505T23:35:30Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
 | 20230505T21:43:11Z | In this repo some smaller exploits are shown for educational purposes. | https://github.com/vorbrodt/ethical-hacking | 0 | 0| 
 | 20230505T21:28:39Z | Example of buffer overflow exploit from Aleph1%s article %Smashing the Stack for Fun and Profit% | https://github.com/CYoshioB/Buffer-Overflow-Stack-Smash | 0 | 0| 
