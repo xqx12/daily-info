@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T01:10:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8631 | 1890| 
 | 20230505T22:23:16Z | Null | https://github.com/a-shvedov/FuzzExplorer | 0 | 0| 
 | 20230505T21:03:54Z | Null | https://github.com/JVE12/fuzzy-octo-bassoon | 0 | 0| 
 | 20230505T20:49:40Z | Null | https://github.com/cse19922021/Benchmarking-DL-Fuzzers | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20230505T17:57:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3565 | 426| 
 | 20230505T17:24:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2133 | 244| 
 | 20230505T12:49:00Z | Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All inputs are from std::Read | https://github.com/seungminaaa/fuzz_crate | 0 | 0| 
-| 20230505T12:30:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 770 | 107| 
 
 
 
