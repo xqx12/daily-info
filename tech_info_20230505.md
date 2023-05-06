@@ -21,7 +21,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230505T23:53:34Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230505T21:16:17Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230505T21:15:27Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230505T19:30:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
@@ -31,6 +30,7 @@
 | 20230505T10:49:47Z | CVE-2023-29489 | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | | 
 | 20230505T07:39:31Z | CVE-2023-30185 | Null | https://github.com/c7w1n/CVE-2023-30185 | | 
 | 20230505T01:22:31Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
+| 20230505T00:02:49Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
