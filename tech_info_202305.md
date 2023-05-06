@@ -61,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T01:56:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4868 | 613| 
+| 20230506T01:56:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-89 | 1 | 0| 
 | 20230506T01:55:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-89 | 1 | 0| 
 | 20230506T01:54:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8p | 1 | 0| 
 | 20230506T01:19:32Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
-| 20230506T01:04:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4867 | 613| 
 | 20230506T00:47:43Z | simple Python exploit using CVE-2018-7449 on embOS/IP FTP Server v3.22 | https://github.com/antogit-sys/CVE-2018-7449 | 0 | 0| 
 | 20230506T00:28:27Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julia | 0 | 0| 
 | 20230505T23:35:30Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
 | 20230505T21:43:11Z | In this repo some smaller exploits are shown for educational purposes. | https://github.com/vorbrodt/ethical-hacking | 0 | 0| 
 | 20230505T21:28:39Z | Example of buffer overflow exploit from Aleph1%s article %Smashing the Stack for Fun and Profit% | https://github.com/CYoshioB/Buffer-Overflow-Stack-Smash | 0 | 0| 
-| 20230505T21:16:17Z | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | 2 | 0| 
 
 
 # backdoor on Github 推荐
