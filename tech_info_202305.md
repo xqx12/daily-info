@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230506 | 图结构相似性度量 | https://mp.weixin.qq.com/s/KJvk5Eyqoa3Z9kvlcLxGtg| 
 | 20230506 | 利用现有补丁和相似代码的自动化程序修复 | https://mp.weixin.qq.com/s/1hdwAZP7mckA1CXnDhs1sw| 
+| 20230506 | 从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg| 
 | 20230505 | 甲方安全从业人员的职业发展建议 | https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA| 
 | 20230505 | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg| 
 | 20230505 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g| 
@@ -20,7 +21,6 @@
 | 20230505 | 攻击面管理产品市场分析报告 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQgjmgl.pdf| 
 | 20230504 | 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg| 
 | 20230503 | 从GPT-4、网络安全到大模型不扩散 | https://mp.weixin.qq.com/s/sbyIeWCvCA5IH7hJpB9rig| 
-| 20230502 | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda| 
 
 
 # CVE Github 推荐

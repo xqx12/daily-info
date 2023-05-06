@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230506 | 图结构相似性度量 | https://mp.weixin.qq.com/s/KJvk5Eyqoa3Z9kvlcLxGtg| 
 | 20230506 | 利用现有补丁和相似代码的自动化程序修复 | https://mp.weixin.qq.com/s/1hdwAZP7mckA1CXnDhs1sw| 
+| 20230506 | 从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg| 
 
 
 # CVE Github 推荐
