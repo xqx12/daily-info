@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230506T12:02:27Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230506T12:16:37Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230506T11:58:45Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230506T11:46:45Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
 | 20230506T10:00:12Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T12:16:10Z | An OpenMPI component for intra-node hierarchical collectives, exploiting hwloc%s topology, XPMEM%s single copy capability and Vector Instructions | https://github.com/michnik1/VHX-OpenMPI | 0 | 0| 
 | 20230506T12:00:05Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5089 | 407| 
 | 20230506T10:48:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 733| 
 | 20230506T10:32:31Z | prank your friends with this simple exploit :D | https://github.com/PyVld/hack-exploit | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230506T08:23:43Z | Null | https://github.com/Siwa12100/exploitation_bdd_s2_repo_siwa | 0 | 0| 
 | 20230506T08:13:15Z | Jailbreak for Discord%s new AI %Clyde%. It%s making AI into ClydeOS with Linux shell | https://github.com/TRB-Exe/clydeos-exploit | 0 | 0| 
 | 20230506T05:39:22Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1082 | 134| 
-| 20230506T01:56:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4868 | 613| 
 
 
 # backdoor on Github 推荐
