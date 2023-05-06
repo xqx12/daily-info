@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230506T12:18:33Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/ijcai_23 | 0 | 0| 
+| 20230506T12:23:50Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/ijcai_23 | 0 | 0| 
 | 20230506T12:16:10Z | An OpenMPI component for intra-node hierarchical collectives, exploiting hwloc%s topology, XPMEM%s single copy capability and Vector Instructions | https://github.com/michnik1/VHX-OpenMPI | 0 | 0| 
 | 20230506T12:00:05Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5089 | 407| 
 | 20230506T10:48:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 733| 
