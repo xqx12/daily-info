@@ -104,10 +104,10 @@
 | 20230505T20:41:18Z | Null | https://github.com/qylikss/Interval_and_Fuzzy_Numbers | 0 | 0| 
 | 20230505T20:18:42Z | Packer Fuzzer report for the potential vulnerabilities found on the CCSD website. If you find this repo, don%t show it to anyone in the CCSD area. It is technically a secret. But if you don%t know what I%m talking about, then you%re probably fine. | https://github.com/ruasi-hosting/packer-fuzzer-ccsd-vulnerability-report | 0 | 0| 
 | 20230505T19:46:24Z | Null | https://github.com/joaovictorferro/GA_Logic-_Fuzzy | 0 | 0| 
+| 20230505T17:57:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3565 | 426| 
 | 20230505T17:24:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2133 | 244| 
 | 20230505T12:49:00Z | Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All inputs are from std::Read | https://github.com/seungminaaa/fuzz_crate | 0 | 0| 
 | 20230505T12:30:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 770 | 107| 
-| 20230505T11:33:38Z | Null | https://github.com/Kush3008/Fuel-Prediction-Using-Neuro-Fuzzy | 0 | 0| 
 
 
 
