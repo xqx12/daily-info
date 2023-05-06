@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T12:36:34Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/gap3 | 0 | 0| 
 | 20230506T12:23:50Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/ijcai_23 | 0 | 0| 
 | 20230506T12:16:10Z | An OpenMPI component for intra-node hierarchical collectives, exploiting hwloc%s topology, XPMEM%s single copy capability and Vector Instructions | https://github.com/michnik1/VHX-OpenMPI | 0 | 0| 
 | 20230506T12:00:05Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5089 | 407| 
@@ -70,7 +71,6 @@
 | 20230506T09:14:32Z | Simple scripts that can help you learn lua | https://github.com/Poopsock98/Open-Source-Exploits | 0 | 0| 
 | 20230506T08:40:49Z | Collection of  Exploits for CVEs | https://github.com/magikh0e/CVEs | 0 | 0| 
 | 20230506T08:23:43Z | Null | https://github.com/Siwa12100/exploitation_bdd_s2_repo_siwa | 0 | 0| 
-| 20230506T08:13:15Z | Jailbreak for Discord%s new AI %Clyde%. It%s making AI into ClydeOS with Linux shell | https://github.com/TRB-Exe/clydeos-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
