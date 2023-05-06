@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T01:04:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4867 | 613| 
 | 20230506T00:47:43Z | simple Python exploit using CVE-2018-7449 on embOS/IP FTP Server v3.22 | https://github.com/antogit-sys/CVE-2018-7449 | 0 | 0| 
 | 20230506T00:28:27Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julia | 0 | 0| 
 | 20230505T23:35:30Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
@@ -70,7 +71,6 @@
 | 20230505T20:51:45Z | A better Byfron Killer to make you%re exploits work. | https://github.com/SKl33/ByfronCloser | 0 | 0| 
 | 20230505T19:28:38Z | Mani Admin is a roblox exploit script that gives u admin ( not that type of admin ) | https://github.com/MikeScripter/Mani-Admin | 0 | 0| 
 | 20230505T17:30:08Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3443 | 509| 
-| 20230505T17:28:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4866 | 613| 
 
 
 # backdoor on Github 推荐
