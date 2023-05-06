@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T00:23:26Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julia | 0 | 0| 
 | 20230505T23:35:30Z | by CipherSniff | https://github.com/CipherSniff/NBT_Exploits | 2 | 0| 
 | 20230505T21:43:11Z | In this repo some smaller exploits are shown for educational purposes. | https://github.com/vorbrodt/ethical-hacking | 0 | 0| 
 | 20230505T21:28:39Z | Example of buffer overflow exploit from Aleph1%s article %Smashing the Stack for Fun and Profit% | https://github.com/CYoshioB/Buffer-Overflow-Stack-Smash | 0 | 0| 
@@ -70,12 +71,12 @@
 | 20230505T17:30:08Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3443 | 509| 
 | 20230505T17:28:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4866 | 613| 
 | 20230505T17:26:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 632 | 165| 
-| 20230505T12:51:32Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1080 | 134| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230506T00:25:41Z | This is the relevant data and code for the proposed Robust Feature Guided Generative Adversarial Network for Aerial Image Semantic Segmentation against Backdoor Attacks. After the article is published, the relevant code and dataset will be made public. | https://github.com/darkseid-arch/BackdoorsRFGAN | 0 | 0| 
 | 20230505T21:59:07Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 435 | 81| 
 | 20230505T19:32:14Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/EnderKill98/NotABackdoor | 0 | 0| 
 | 20230505T18:00:10Z | Null | https://github.com/1blackghost/trojan-backdoor | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20230505T12:58:59Z | Kotlin script that demonstrates how to remotely connect to an Android device using ADB | https://github.com/SleepTheGod/Android-ADB-Backdoor | 0 | 0| 
 | 20230505T12:31:47Z | Null | https://github.com/leileigan/CleanLabelBackdoorAttackMindspore | 0 | 0| 
 | 20230505T10:39:50Z | Remote Administration Tool (RAT) для операционных систем Windows, MythosR4T был написан на чистом Python и предназначен для удаленного управления компьютерами. | https://github.com/mython-dev/MythosR4T | 1 | 0| 
-| 20230505T03:50:23Z | A robust training methodology which helps the deep learning models to get trained robustly on poisoned data sets. | https://github.com/LakshmiGayathri19/Anti-Backdoor-Learning | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
