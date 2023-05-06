@@ -25,12 +25,12 @@
 | 20230505T21:16:17Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230505T21:15:27Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230505T19:30:21Z | CVE-2022-46169 | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22 | https://github.com/sAsPeCt488/CVE-2022-46169 | | 
-| 20230505T17:36:15Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230505T17:28:41Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20230505T15:46:29Z | CVE-2020-1472 | Zerologon exploit for CVE-2020-1472 | https://github.com/G0urmetD/Zerologon-CVE-2020-1472 | | 
 | 20230505T12:49:22Z | CVE-2023-0386 | An exploit of CVE-2023-0386, verified on 5.19.0-38-generic #39~22.04.1-Ubuntu | https://github.com/JlSakuya/CVE-2023-0386 | | 
 | 20230505T10:49:47Z | CVE-2023-29489 | CVE-2023-29489 mass exploit | https://github.com/1337r0j4n/CVE-2023-29489 | | 
 | 20230505T07:39:31Z | CVE-2023-30185 | Null | https://github.com/c7w1n/CVE-2023-30185 | | 
+| 20230505T01:22:31Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 
 
 # klee on Github 推荐
