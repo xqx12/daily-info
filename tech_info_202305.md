@@ -68,9 +68,9 @@
 | 20230505T20:51:45Z | A better Byfron Killer to make you%re exploits work. | https://github.com/SKl33/ByfronCloser | 0 | 0| 
 | 20230505T19:28:38Z | Mani Admin is a roblox exploit script that gives u admin ( not that type of admin ) | https://github.com/MikeScripter/Mani-Admin | 0 | 0| 
 | 20230505T17:30:08Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3443 | 509| 
+| 20230505T17:28:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4866 | 613| 
 | 20230505T17:26:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 632 | 165| 
 | 20230505T12:51:32Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1080 | 134| 
-| 20230505T11:16:55Z | A library with some basic functions I use while doing (learning) linux kernel exploitation. | https://github.com/ChSotiriou/pwnlib.c | 0 | 0| 
 
 
 # backdoor on Github 推荐
