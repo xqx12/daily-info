@@ -76,6 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T12:57:58Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 436 | 81| 
 | 20230507T11:12:51Z | Null | https://github.com/ruoxi-jia-group/Backdoor_Removal_Bench | 2 | 0| 
 | 20230507T10:56:38Z | A very good rat with simple, useful and advanced features. | https://github.com/cheaterguy/babylon-rat | 2 | 0| 
 | 20230507T05:12:59Z | Post exploitation script that creates creates and enables a backdoor systemd service. | https://github.com/cycles999/door_service | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20230506T03:56:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 134 | 17| 
 | 20230506T03:24:39Z | Null | https://github.com/SCLBD/BackdoorBench | 141 | 21| 
 | 20230506T00:25:41Z | This is the relevant data and code for the proposed Robust Feature Guided Generative Adversarial Network for Aerial Image Semantic Segmentation against Backdoor Attacks. After the article is published, the relevant code and dataset will be made public. | https://github.com/darkseid-arch/BackdoorsRFGAN | 0 | 0| 
-| 20230505T21:59:07Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 435 | 81| 
 
 
 # symbolic execution on Github 推荐
