@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230507T01:58:52Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
+| 20230507T01:57:37Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230507T01:56:40Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
-| 20230507T01:48:52Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
-| 20230507T01:23:56Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230506T22:08:31Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230506T21:09:36Z | CVE-2021-41773 | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | | 
 | 20230506T13:48:54Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
