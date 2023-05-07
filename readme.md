@@ -51,12 +51,12 @@
 | 20230506T22:18:55Z | This is a tool to find and exploit vulnerabilities | https://github.com/HarveyGW/VulnExec | 3 | 1| 
 | 20230506T22:08:31Z | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | 12 | 2| 
 | 20230506T21:09:36Z | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | 0 | 0| 
+| 20230506T20:48:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4872 | 614| 
 | 20230506T20:05:36Z | ROBLOX ZEUS X EXPLOIT 2023 | https://github.com/OgeidCC/ROBLOX-ZEUS-X-EXPLOIT-2023 | 1 | 0| 
 | 20230506T18:25:41Z | dernière et 3eme version du projet de cake scrap visant à exploiter et exporté les datas. | https://github.com/LebrunLaurentDylan/cake_scrap_v3 | 0 | 0| 
 | 20230506T16:18:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4950 | 976| 
 | 20230506T12:36:34Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/gap3 | 0 | 0| 
 | 20230506T12:23:50Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/ijcai_23 | 0 | 0| 
-| 20230506T12:16:10Z | An OpenMPI component for intra-node hierarchical collectives, exploiting hwloc%s topology, XPMEM%s single copy capability and Vector Instructions | https://github.com/michnik1/VHX-OpenMPI | 0 | 0| 
 
 
 # backdoor on Github 推荐
