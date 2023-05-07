@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230507T00:58:24Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230507T00:11:59Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230506T23:12:39Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
-| 20230506T22:16:24Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230506T22:08:31Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230506T21:09:36Z | CVE-2021-41773 | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | | 
 | 20230506T13:48:54Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T00:58:48Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230506T22:48:13Z | Null | https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT | 0 | 0| 
 | 20230506T22:18:55Z | This is a tool to find and exploit vulnerabilities | https://github.com/HarveyGW/VulnExec | 3 | 1| 
 | 20230506T22:08:31Z | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | 12 | 2| 
@@ -70,7 +71,6 @@
 | 20230506T18:25:41Z | dernière et 3eme version du projet de cake scrap visant à exploiter et exporté les datas. | https://github.com/LebrunLaurentDylan/cake_scrap_v3 | 0 | 0| 
 | 20230506T16:18:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4950 | 976| 
 | 20230506T12:36:34Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/gap3 | 0 | 0| 
-| 20230506T12:23:50Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/ijcai_23 | 0 | 0| 
 
 
 # backdoor on Github 推荐
