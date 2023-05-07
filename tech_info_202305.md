@@ -91,16 +91,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230506T15:31:29Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1074 | 130| 
-| 20230506T09:04:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 478| 
+| 20230507T11:49:40Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1075 | 130| 
+| 20230507T10:44:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3429 | 478| 
+| 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
+| 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 | 20230505T20:57:32Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 762 | 88| 
 | 20230505T08:45:13Z | Coq formalization of Symbolic Execution Formally Explained | https://github.com/Aqissiaq/symex-formally-formalized | 1 | 0| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230504T19:45:22Z | An automatic test case generator for C source code using Memorized Symbolic Execution | https://github.com/sajedjalil/C-Path-Finder | 10 | 3| 
 | 20230504T16:38:05Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 7 | 1| 
-| 20230504T12:16:42Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 43 | 9| 
-| 20230504T10:26:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2222 | 614| 
 
 
 # big4 on Github 推荐
