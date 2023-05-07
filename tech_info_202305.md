@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230507 | VM2沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/OwQ3B5vjpr9ZsvOXftJoQg| 
+| 20230507 | BadUsb实现免杀及插及上线C2服务器 | https://xz.aliyun.com/t/12505| 
+| 20230507 | 网络隧道：突破内网的通行证 | https://xz.aliyun.com/t/12498| 
 | 20230506 | 图结构相似性度量 | https://mp.weixin.qq.com/s/KJvk5Eyqoa3Z9kvlcLxGtg| 
 | 20230506 | 利用现有补丁和相似代码的自动化程序修复 | https://mp.weixin.qq.com/s/1hdwAZP7mckA1CXnDhs1sw| 
 | 20230506 | 从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg| 
@@ -18,31 +21,28 @@
 | 20230505 | 甲方安全从业人员的职业发展建议 | https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA| 
 | 20230505 | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg| 
 | 20230505 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g| 
-| 20230505 | 2022年俄乌冲突战场动态测绘年度报告 | https://mp.weixin.qq.com/s/vRLtrxVxwjLj64qWuty20g| 
-| 20230505 | 攻击面管理产品市场分析报告 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQgjmgl.pdf| 
-| 20230504 | 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230507T01:58:52Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
-| 20230507T01:57:37Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
-| 20230507T01:56:40Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
-| 20230506T22:08:31Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
+| 20230507T11:55:46Z | CVE-2020-0601 | 2017-0021 | https://github.com/cimashiro/-Awesome-CVE-2020-0601- | | 
+| 20230507T11:40:10Z | CVE-2021-46703 | Simple payload builder | https://github.com/BenEdridge/CVE-2021-46703 | | 
+| 20230507T11:37:27Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230507T10:46:27Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
+| 20230507T10:24:55Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
+| 20230507T09:21:41Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
+| 20230507T04:30:30Z | CVE-2022-41034 | Null | https://github.com/andyhsu024/CVE-2022-41034 | | 
+| 20230507T04:18:33Z | CVE-2023-29007 | Null | https://github.com/x-Defender/CVE-2023-29007_win-version | | 
 | 20230506T21:09:36Z | CVE-2021-41773 | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | | 
 | 20230506T13:48:54Z | CVE-2023-23752 | Perform With Mass Exploiter In Joomla 4.2.8. | https://github.com/Pari-Malam/CVE-2023-23752 | | 
-| 20230506T13:25:35Z | CVE-2023-29007 | Null | https://github.com/x-Defender/CVE-2023-29007_win-version | | 
-| 20230506T12:07:57Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230506T11:46:45Z | CVE-2023-29007 | Null | https://github.com/x-Defender/git_for_windows-CVE-2023-29007 | | 
-| 20230506T08:41:15Z | CVE-2023-0386 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230507T00:22:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11949 | 378| 
-| 20230506T15:38:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 278 | 4| 
+| 20230507T10:51:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11960 | 379| 
+| 20230507T03:18:31Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 279 | 4| 
 | 20230505T19:31:23Z | A pyhton script that calls klee ktest-tool on tests that trigger an error | https://github.com/damienmaier/ktest-error | 0 | 0| 
 | 20230505T10:09:31Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 69 | 18| 
 | 20230505T03:06:28Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 28 | 0| 
@@ -61,31 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T11:36:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5539 | 752| 
+| 20230507T11:23:34Z | Null | https://github.com/2pyr/idor-exploit | 0 | 0| 
+| 20230507T08:27:48Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 2 | 2| 
+| 20230507T07:08:27Z | A tool created for a massive search of minecraft servers, search for vulnerabilities and tools to exploit in Minecraft. | https://github.com/Lawxsz/MCXploiter | 0 | 0| 
+| 20230507T06:17:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4951 | 976| 
+| 20230507T05:50:01Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 27 | 10| 
 | 20230507T01:00:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230507T00:59:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230507T00:58:48Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230506T22:48:13Z | Null | https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT | 0 | 0| 
-| 20230506T22:18:55Z | This is a tool to find and exploit vulnerabilities | https://github.com/HarveyGW/VulnExec | 3 | 1| 
-| 20230506T22:08:31Z | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | 12 | 2| 
-| 20230506T21:09:36Z | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | 0 | 0| 
-| 20230506T20:48:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4872 | 614| 
-| 20230506T20:05:36Z | ROBLOX ZEUS X EXPLOIT 2023 | https://github.com/OgeidCC/ROBLOX-ZEUS-X-EXPLOIT-2023 | 1 | 0| 
-| 20230506T18:25:41Z | dernière et 3eme version du projet de cake scrap visant à exploiter et exporté les datas. | https://github.com/LebrunLaurentDylan/cake_scrap_v3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T11:12:51Z | Null | https://github.com/ruoxi-jia-group/Backdoor_Removal_Bench | 2 | 0| 
+| 20230507T10:56:38Z | A very good rat with simple, useful and advanced features. | https://github.com/cheaterguy/babylon-rat | 2 | 0| 
+| 20230507T05:12:59Z | Post exploitation script that creates creates and enables a backdoor systemd service. | https://github.com/cycles999/door_service | 0 | 0| 
 | 20230506T21:49:38Z | udp backdoor | https://github.com/user-lc1bd6fl4q/nori-door | 0 | 0| 
-| 20230506T16:39:39Z | Null | https://github.com/ruoxi-jia-group/Backdoor_Removal_Bench | 1 | 0| 
 | 20230506T11:56:06Z | Kotlin script that demonstrates how to remotely connect to an Android device using ADB | https://github.com/SleepTheGod/Android-ADB-Backdoor | 2 | 0| 
 | 20230506T05:11:17Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 13 | 1| 
 | 20230506T03:56:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 134 | 17| 
+| 20230506T03:24:39Z | Null | https://github.com/SCLBD/BackdoorBench | 141 | 21| 
 | 20230506T00:25:41Z | This is the relevant data and code for the proposed Robust Feature Guided Generative Adversarial Network for Aerial Image Semantic Segmentation against Backdoor Attacks. After the article is published, the relevant code and dataset will be made public. | https://github.com/darkseid-arch/BackdoorsRFGAN | 0 | 0| 
 | 20230505T21:59:07Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 435 | 81| 
-| 20230505T19:32:14Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/EnderKill98/NotABackdoor | 0 | 0| 
-| 20230505T18:00:10Z | Null | https://github.com/1blackghost/trojan-backdoor | 0 | 0| 
-| 20230505T17:34:29Z | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T08:59:36Z | Null | https://github.com/Dolf7/BuzzerBicyleWarningSystemUsingFuzzyLogic | 0 | 0| 
 | 20230507T00:44:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3568 | 426| 
 | 20230507T00:05:46Z | Null | https://github.com/adonyssantos/fuzzy-waffle | 0 | 0| 
 | 20230506T23:42:06Z | Null | https://github.com/JonWong203/fuzzer | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20230506T21:01:47Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 77 | 7| 
 | 20230506T21:01:24Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 553 | 51| 
 | 20230506T19:38:10Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
-| 20230506T18:24:18Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 42 | 27| 
 
 
 
