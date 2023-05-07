@@ -114,11 +114,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T00:05:46Z | Null | https://github.com/adonyssantos/fuzzy-waffle | 0 | 0| 
 | 20230506T23:42:06Z | Null | https://github.com/JonWong203/fuzzer | 0 | 0| 
 | 20230506T22:27:06Z | A simple mini-filter fuzzer. | https://github.com/Exploitables/Filter-Breaker | 0 | 0| 
 | 20230506T22:11:49Z | Null | https://github.com/DaveBBL/fuzzy-couscous | 0 | 0| 
 | 20230506T21:51:52Z | Fuzzrake non-web-requests-handling parts rewritten in a programming language | https://github.com/veelkoov/fuzzrake-backend-clr | 0 | 0| 
-| 20230506T21:21:54Z | Null | https://github.com/adonyssantos/fuzzy-waffle | 0 | 0| 
 | 20230506T21:01:47Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 77 | 7| 
 | 20230506T21:01:24Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 553 | 51| 
 | 20230506T19:38:10Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
