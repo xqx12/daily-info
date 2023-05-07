@@ -61,6 +61,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T01:00:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4n | 1 | 0| 
+| 20230507T00:59:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230507T00:58:48Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4n | 1 | 0| 
 | 20230506T22:48:13Z | Null | https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT | 0 | 0| 
 | 20230506T22:18:55Z | This is a tool to find and exploit vulnerabilities | https://github.com/HarveyGW/VulnExec | 3 | 1| 
@@ -69,8 +71,6 @@
 | 20230506T20:48:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4872 | 614| 
 | 20230506T20:05:36Z | ROBLOX ZEUS X EXPLOIT 2023 | https://github.com/OgeidCC/ROBLOX-ZEUS-X-EXPLOIT-2023 | 1 | 0| 
 | 20230506T18:25:41Z | dernière et 3eme version du projet de cake scrap visant à exploiter et exporté les datas. | https://github.com/LebrunLaurentDylan/cake_scrap_v3 | 0 | 0| 
-| 20230506T16:18:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4950 | 976| 
-| 20230506T12:36:34Z | Genetic Prompt Search via Exploiting Language Model Probabilities | https://github.com/zjjhit/gap3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
