@@ -93,9 +93,9 @@
 | 20230506T21:01:47Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 77 | 7| 
 | 20230506T21:01:24Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 553 | 51| 
 | 20230506T19:38:10Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
+| 20230506T15:30:51Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3567 | 426| 
 | 20230506T15:08:29Z | Null | https://github.com/cse19922021/Benchmarking-DL-Fuzzers | 0 | 0| 
 | 20230506T11:55:51Z | Consists of commands for Machine Learning | https://github.com/Leelapriyaallamsetty/fuzzy-enigma | 0 | 0| 
-| 20230506T11:35:37Z | basic code for fuzzy c-means method | https://github.com/adrieSuryaK/fuzzy-c-means | 0 | 0| 
 
 
 
