@@ -91,7 +91,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230506T10:18:18Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1072 | 130| 
+| 20230506T15:31:29Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1074 | 130| 
 | 20230506T09:04:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3427 | 478| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 | 20230505T20:57:32Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 762 | 88| 
