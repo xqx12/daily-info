@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230507T00:58:24Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230507T01:09:25Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230507T00:11:59Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230506T23:12:39Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230506T22:08:31Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
@@ -123,7 +123,7 @@
 | 20230506T21:01:47Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 77 | 7| 
 | 20230506T21:01:24Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 553 | 51| 
 | 20230506T19:38:10Z | Neural Network for university class  %FuzzyLogic% | https://github.com/TOSHGUN/NN-FuzzyLogic | 0 | 0| 
-| 20230506T15:08:29Z | Null | https://github.com/cse19922021/Benchmarking-DL-Fuzzers | 0 | 0| 
+| 20230506T18:24:18Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 42 | 27| 
 
 
 
