@@ -62,9 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T00:30:30Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
 | 20230508T00:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-java-bVJFD-exploit-implement | 0 | 0| 
 | 20230508T00:29:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l4 | 1 | 0| 
-| 20230508T00:28:55Z | Null | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
 | 20230508T00:28:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l5 | 1 | 0| 
 | 20230508T00:27:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l5 | 1 | 0| 
 | 20230507T22:12:46Z | Frontend et Backend d%une application qui fait office de GMAO. Réalisée avec REACT + Vite pour la partie front et NodeJS pour le back. L%application récupère dans un premier temps la data dans un fichier exel et convertie le tout en JSON pour son exploitation. L%utilisateur peut ensuite créer ses listes d%interventions | https://github.com/Issou83/GMAO-AGUR | 0 | 0| 
