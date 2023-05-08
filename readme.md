@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T12:16:28Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 0 | 0| 
 | 20230508T12:15:23Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ExileFragZ/Roobet-Crypto-Casino-Predictor | 0 | 0| 
 | 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
 | 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
@@ -51,7 +52,6 @@
 | 20230508T10:52:40Z | run a public exploits easily | https://github.com/mqxmm/C2-runner | 0 | 0| 
 | 20230508T10:15:28Z | Replication and extension of the game described in the paper https://www.nature.com/articles/s41598-022-07901-1 | https://github.com/rashmigr01/Time-pressure-exploration-exploitation-game | 0 | 0| 
 | 20230508T07:32:28Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 18 | 4| 
-| 20230508T07:10:54Z | Here I will hack Metasploitable2_Linux through SSH port which is open in this machine. After doing this practical I am Well known about how  to enter inside the machine in real hacking world if I find Vulnerabilities in SSH(Port 22). In Metasploitable2_Linux there are various ports open where we can perform attack to enter inside the machine.  | https://github.com/binuerror405/Enumeration_Exploit_Metasploitable2_Linux | 0 | 0| 
 
 
 # backdoor on Github 推荐
