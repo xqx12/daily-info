@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T00:35:02Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
 | 20230508T00:30:30Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
 | 20230508T00:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-java-bVJFD-exploit-implement | 0 | 0| 
 | 20230508T00:29:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l4 | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20230507T22:00:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4954 | 977| 
 | 20230507T21:38:55Z | Roblox Exploit Template Using WeAreDevsAPI | https://github.com/Envvyy/Roblox-Exploit-Template | 0 | 0| 
 | 20230507T20:58:02Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
-| 20230507T16:17:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4874 | 615| 
 
 
 # backdoor on Github 推荐
