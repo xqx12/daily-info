@@ -124,7 +124,7 @@
 | 20230507T17:29:54Z | Null | https://github.com/khulqu15/InferensiFuzzy | 0 | 0| 
 | 20230507T17:12:01Z | Null | https://github.com/paradise010/fuzzy-memory | 0 | 0| 
 | 20230507T16:22:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3571 | 428| 
-| 20230507T08:59:36Z | Null | https://github.com/Dolf7/BuzzerBicyleWarningSystemUsingFuzzyLogic | 0 | 0| 
+| 20230507T15:34:35Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 78 | 7| 
 
 
 
