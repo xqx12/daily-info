@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230508T00:52:41Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230508T00:56:57Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230508T00:47:24Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230508T00:46:16Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T00:42:32Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
@@ -62,9 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T00:57:13Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T00:37:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-5n6V8-exploit-throw | 0 | 0| 
 | 20230508T00:35:02Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
-| 20230508T00:30:30Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
 | 20230508T00:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-java-bVJFD-exploit-implement | 0 | 0| 
 | 20230508T00:29:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l4 | 1 | 0| 
 | 20230508T00:28:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l5 | 1 | 0| 
