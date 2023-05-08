@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
 | 20230508T11:19:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5542 | 753| 
 | 20230508T11:04:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5101 | 734| 
@@ -49,7 +50,6 @@
 | 20230508T10:15:28Z | Replication and extension of the game described in the paper https://www.nature.com/articles/s41598-022-07901-1 | https://github.com/rashmigr01/Time-pressure-exploration-exploitation-game | 0 | 0| 
 | 20230508T07:32:28Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 18 | 4| 
 | 20230508T07:10:54Z | Here I will hack Metasploitable2_Linux through SSH port which is open in this machine. After doing this practical I am Well known about how  to enter inside the machine in real hacking world if I find Vulnerabilities in SSH(Port 22). In Metasploitable2_Linux there are various ports open where we can perform attack to enter inside the machine.  | https://github.com/binuerror405/Enumeration_Exploit_Metasploitable2_Linux | 0 | 0| 
-| 20230508T00:57:13Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T00:37:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-5n6V8-exploit-throw | 0 | 0| 
 | 20230508T00:35:02Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
 
