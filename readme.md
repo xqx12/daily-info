@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230507T19:28:52Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
-| 20230507T19:24:15Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230507T18:44:05Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230507T18:01:23Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
 | 20230507T15:29:01Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
@@ -71,8 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230507T23:03:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3430 | 478| 
+| 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T11:49:40Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1075 | 130| 
-| 20230507T10:44:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3429 | 478| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
 
