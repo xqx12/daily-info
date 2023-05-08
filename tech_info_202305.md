@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
 | 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
 | 20230508T11:19:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5542 | 753| 
@@ -71,7 +72,6 @@
 | 20230508T07:32:28Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 18 | 4| 
 | 20230508T07:10:54Z | Here I will hack Metasploitable2_Linux through SSH port which is open in this machine. After doing this practical I am Well known about how  to enter inside the machine in real hacking world if I find Vulnerabilities in SSH(Port 22). In Metasploitable2_Linux there are various ports open where we can perform attack to enter inside the machine.  | https://github.com/binuerror405/Enumeration_Exploit_Metasploitable2_Linux | 0 | 0| 
 | 20230508T00:37:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-5n6V8-exploit-throw | 0 | 0| 
-| 20230508T00:35:02Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -92,13 +92,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230507T23:03:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3430 | 478| 
+| 20230508T08:43:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3431 | 478| 
+| 20230508T08:09:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 763 | 88| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T11:49:40Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1075 | 130| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
-| 20230505T20:57:32Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 762 | 88| 
 | 20230505T08:45:13Z | Coq formalization of Symbolic Execution Formally Explained | https://github.com/Aqissiaq/symex-formally-formalized | 1 | 0| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230504T19:45:22Z | An automatic test case generator for C source code using Memorized Symbolic Execution | https://github.com/sajedjalil/C-Path-Finder | 10 | 3| 
@@ -107,7 +107,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230507T07:08:22Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 653 | 103| 
+| 20230508T03:50:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 654 | 103| 
+| 20230508T02:07:19Z | Null | https://github.com/slskopytko/ndssguiyrk | 0 | 0| 
 | 20230503T11:43:35Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 3 | 2| 
 | 20230502T04:39:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 16 | 1| 
 

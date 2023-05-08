@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
 | 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
 | 20230508T11:19:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5542 | 753| 
@@ -51,7 +52,6 @@
 | 20230508T07:32:28Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 18 | 4| 
 | 20230508T07:10:54Z | Here I will hack Metasploitable2_Linux through SSH port which is open in this machine. After doing this practical I am Well known about how  to enter inside the machine in real hacking world if I find Vulnerabilities in SSH(Port 22). In Metasploitable2_Linux there are various ports open where we can perform attack to enter inside the machine.  | https://github.com/binuerror405/Enumeration_Exploit_Metasploitable2_Linux | 0 | 0| 
 | 20230508T00:37:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-5n6V8-exploit-throw | 0 | 0| 
-| 20230508T00:35:02Z | Smart Julia is a voice assistant developed with Python and exploits the openAI API, it has the ability to answer all the questions you are asked, both academic and social. | https://github.com/Silima1/Smart_Julie | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -66,11 +66,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T08:43:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3431 | 478| 
+| 20230508T08:09:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 763 | 88| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T03:50:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 654 | 103| 
+| 20230508T02:07:19Z | Null | https://github.com/slskopytko/ndssguiyrk | 0 | 0| 
 
 
 # fuzz on Github 推荐
