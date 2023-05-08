@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T01:14:22Z | Null | https://github.com/falahar/Implementasi-Sistem-Navigasi-Wall-Following-Hexapod-Menggunakan-Fuzzy-Logic-di-Software-Webots | 1 | 0| 
 | 20230508T00:28:52Z | Null | https://github.com/Frida10224/fuzzy-fiesta | 0 | 0| 
 | 20230507T22:00:20Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
 | 20230507T21:39:52Z | PK4 | https://github.com/Alzamer/fuzzer | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20230507T17:29:54Z | Null | https://github.com/khulqu15/InferensiFuzzy | 0 | 0| 
 | 20230507T17:12:01Z | Null | https://github.com/paradise010/fuzzy-memory | 0 | 0| 
 | 20230507T16:22:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3571 | 428| 
-| 20230507T15:34:35Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 78 | 7| 
 
 
 
