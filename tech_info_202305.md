@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230508T01:41:21Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T01:39:57Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230508T01:32:38Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230508T01:19:40Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
-| 20230508T01:09:33Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T00:47:24Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230507T18:44:05Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230507T18:01:23Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
