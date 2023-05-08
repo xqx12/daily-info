@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T01:50:01Z | ECMAScript 6 Version of fuzzynet by Dmitry Kaluzhny | https://github.com/deriven/fuzzynet-es6 | 0 | 0| 
 | 20230508T01:14:22Z | Null | https://github.com/falahar/Implementasi-Sistem-Navigasi-Wall-Following-Hexapod-Menggunakan-Fuzzy-Logic-di-Software-Webots | 1 | 0| 
 | 20230508T00:28:52Z | Null | https://github.com/Frida10224/fuzzy-fiesta | 0 | 0| 
 | 20230507T22:00:20Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
@@ -124,7 +125,6 @@
 | 20230507T19:24:53Z | These Code and App represent the creation of the application of the fuzzy logic model which was created to calculate the insurance premium factor  | https://github.com/Saya14798/PremiumApp-Fuzzy-Logic-Model | 0 | 0| 
 | 20230507T17:29:54Z | Null | https://github.com/khulqu15/InferensiFuzzy | 0 | 0| 
 | 20230507T17:12:01Z | Null | https://github.com/paradise010/fuzzy-memory | 0 | 0| 
-| 20230507T16:22:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3571 | 428| 
 
 
 
