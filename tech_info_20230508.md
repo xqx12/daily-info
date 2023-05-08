@@ -11,21 +11,26 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230508 | 隐匿在commit中的安全漏洞（DSN 2019） | https://mp.weixin.qq.com/s/ownd6UdJbiyzO9rjqKEdzQ| 
+| 20230508 | 从美公布 2024 财年预算看网络空间发展 | https://mp.weixin.qq.com/s/rrMSCaSy0hL3_h1eOekkvA| 
+| 20230508 | 从云上攻防态势分析展望云服务安全架构设计框架发展 | https://mp.weixin.qq.com/s/zVfRwoXC7YhFv7SK-yOLSw| 
+| 20230508 | 十大开源攻击模拟（BAS）工具 | https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ| 
+| 20230508 | SecWiki周刊（第479期) | https://www.sec-wiki.com/weekly/479| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230508T12:33:43Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
+| 20230508T16:12:24Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
+| 20230508T16:00:21Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
+| 20230508T14:49:31Z | CVE-2021-38001 | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | https://github.com/glavstroy/CVE-2021-38001 | | 
+| 20230508T14:43:30Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230508T11:31:37Z | CVE-2023-23752 | Null | https://github.com/wibuheker/Joomla-CVE-2023-23752 | | 
-| 20230508T10:42:43Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
-| 20230508T08:50:03Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T07:10:50Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230508T06:53:48Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
 | 20230508T05:59:36Z | CVE-2023-30092 | Null | https://github.com/nawed20002/CVE-2023-30092 | | 
 | 20230508T04:54:06Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230508T02:12:18Z | CVE-2023-0386 | CVE-2023-0386 EXP | https://github.com/CKevens/CVE-2023-0386 | | 
-| 20230508T00:47:24Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 
 
 # klee on Github 推荐
@@ -42,6 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T16:24:09Z | MorophDynamX and MorphoMechanX code used in %Grasses exploit geometry to achieve improved guard cell dynamics% | https://github.com/clintondurney/grass-stomata-geometry | 0 | 0| 
+| 20230508T14:33:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 734| 
 | 20230508T12:58:13Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 28 | 0| 
 | 20230508T12:55:40Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ExileFragZ/Roobet-Crypto-Casino-Predictor | 28 | 0| 
 | 20230508T12:46:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5543 | 753| 
@@ -49,9 +56,7 @@
 | 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
 | 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
-| 20230508T11:04:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5101 | 734| 
 | 20230508T10:52:40Z | run a public exploits easily | https://github.com/mqxmm/C2-runner | 0 | 0| 
-| 20230508T10:15:28Z | Replication and extension of the game described in the paper https://www.nature.com/articles/s41598-022-07901-1 | https://github.com/rashmigr01/Time-pressure-exploration-exploitation-game | 0 | 0| 
 
 
 # backdoor on Github 推荐
