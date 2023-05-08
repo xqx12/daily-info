@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T01:54:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8633 | 1892| 
+| 20230508T01:52:47Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-6-fuzzy-inference-systems | 0 | 0| 
+| 20230508T01:52:42Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-5-develop-fuzzy-if-then-rule-class | 0 | 0| 
+| 20230508T01:52:37Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-4-define-and-display-derived-1-d-fuzzy-sets | 0 | 0| 
+| 20230508T01:52:32Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-3-universe-and-fuzzy-set-classes-and-display-their-member-functions | 0 | 0| 
 | 20230508T01:50:01Z | ECMAScript 6 Version of fuzzynet by Dmitry Kaluzhny | https://github.com/deriven/fuzzynet-es6 | 0 | 0| 
 | 20230508T01:14:22Z | Null | https://github.com/falahar/Implementasi-Sistem-Navigasi-Wall-Following-Hexapod-Menggunakan-Fuzzy-Logic-di-Software-Webots | 1 | 0| 
 | 20230508T00:28:52Z | Null | https://github.com/Frida10224/fuzzy-fiesta | 0 | 0| 
 | 20230507T22:00:20Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
 | 20230507T21:39:52Z | PK4 | https://github.com/Alzamer/fuzzer | 0 | 0| 
-| 20230507T20:13:45Z | Null | https://github.com/Perseus1984/Fuzzy_memory | 0 | 0| 
-| 20230507T20:00:09Z | Null | https://github.com/MishraSiddhant22/fuzzy-backend | 0 | 0| 
-| 20230507T19:24:53Z | These Code and App represent the creation of the application of the fuzzy logic model which was created to calculate the insurance premium factor  | https://github.com/Saya14798/PremiumApp-Fuzzy-Logic-Model | 0 | 0| 
-| 20230507T17:29:54Z | Null | https://github.com/khulqu15/InferensiFuzzy | 0 | 0| 
-| 20230507T17:12:01Z | Null | https://github.com/paradise010/fuzzy-memory | 0 | 0| 
 
 
 
