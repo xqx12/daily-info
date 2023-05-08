@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230508T00:47:24Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230508T00:46:16Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T00:42:32Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 | 20230508T00:18:58Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
@@ -35,7 +36,6 @@
 | 20230507T11:55:46Z | CVE-2020-0601 | 2017-0021 | https://github.com/cimashiro/-Awesome-CVE-2020-0601- | | 
 | 20230507T11:40:10Z | CVE-2021-46703 | Simple payload builder | https://github.com/BenEdridge/CVE-2021-46703 | | 
 | 20230507T04:30:30Z | CVE-2022-41034 | Null | https://github.com/andyhsu024/CVE-2022-41034 | | 
-| 20230507T04:18:33Z | CVE-2023-29007 | Null | https://github.com/x-Defender/CVE-2023-29007_win-version | | 
 
 
 # klee on Github 推荐
