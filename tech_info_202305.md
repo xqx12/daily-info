@@ -62,10 +62,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T12:58:13Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 28 | 0| 
 | 20230508T12:55:40Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ExileFragZ/Roobet-Crypto-Casino-Predictor | 28 | 0| 
 | 20230508T12:46:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5543 | 753| 
 | 20230508T12:32:14Z | Roblox Exploit without Key  | https://github.com/LuciferMorningstars/LND-Roblox-Exploit | 1 | 0| 
-| 20230508T12:16:28Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 0 | 0| 
 | 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
 | 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
 | 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
