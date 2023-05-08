@@ -62,7 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230508T00:25:38Z | Null | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
+| 20230508T00:27:30Z | Null | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 0 | 0| 
+| 20230508T00:27:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l5 | 1 | 0| 
 | 20230507T22:12:46Z | Frontend et Backend d%une application qui fait office de GMAO. Réalisée avec REACT + Vite pour la partie front et NodeJS pour le back. L%application récupère dans un premier temps la data dans un fichier exel et convertie le tout en JSON pour son exploitation. L%utilisateur peut ensuite créer ses listes d%interventions | https://github.com/Issou83/GMAO-AGUR | 0 | 0| 
 | 20230507T22:00:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4954 | 977| 
 | 20230507T21:38:55Z | Roblox Exploit Template Using WeAreDevsAPI | https://github.com/Envvyy/Roblox-Exploit-Template | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230507T16:09:00Z | GPTPʀᴏᴍᴘᴛꜱ is one of the biggest collections of Chat GPT prompts. It has a bunch of different prompts ranging from exploits to acting like a terminal. | https://github.com/tacocatCLAUS/gptp | 0 | 0| 
 | 20230507T12:55:35Z | Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置224个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange | https://github.com/k8gege/Ladon | 3885 | 803| 
 | 20230507T12:50:52Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 115 | 41| 
-| 20230507T11:36:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5539 | 753| 
 
 
 # backdoor on Github 推荐
