@@ -50,12 +50,12 @@
 | 20230507T22:00:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4954 | 977| 
 | 20230507T21:38:55Z | Roblox Exploit Template Using WeAreDevsAPI | https://github.com/Envvyy/Roblox-Exploit-Template | 0 | 0| 
 | 20230507T20:58:02Z | An automated exploit generation tool based on arbiters source and sink model. | https://github.com/maheshgm/arbiterX | 0 | 0| 
+| 20230507T16:17:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4874 | 615| 
 | 20230507T16:09:00Z | GPTPʀᴏᴍᴘᴛꜱ is one of the biggest collections of Chat GPT prompts. It has a bunch of different prompts ranging from exploits to acting like a terminal. | https://github.com/tacocatCLAUS/gptp | 0 | 0| 
 | 20230507T12:55:35Z | Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置224个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange | https://github.com/k8gege/Ladon | 3885 | 803| 
 | 20230507T12:50:52Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 115 | 41| 
 | 20230507T11:36:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5539 | 753| 
 | 20230507T11:23:34Z | Null | https://github.com/2pyr/idor-exploit | 0 | 0| 
-| 20230507T08:27:48Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 2 | 2| 
 
 
 # backdoor on Github 推荐
@@ -93,8 +93,8 @@
 | 20230507T19:24:53Z | These Code and App represent the creation of the application of the fuzzy logic model which was created to calculate the insurance premium factor  | https://github.com/Saya14798/PremiumApp-Fuzzy-Logic-Model | 0 | 0| 
 | 20230507T17:29:54Z | Null | https://github.com/khulqu15/InferensiFuzzy | 0 | 0| 
 | 20230507T17:12:01Z | Null | https://github.com/paradise010/fuzzy-memory | 0 | 0| 
+| 20230507T16:22:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3571 | 428| 
 | 20230507T08:59:36Z | Null | https://github.com/Dolf7/BuzzerBicyleWarningSystemUsingFuzzyLogic | 0 | 0| 
-| 20230507T00:44:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3568 | 426| 
 | 20230507T00:05:46Z | Null | https://github.com/adonyssantos/fuzzy-waffle | 0 | 0| 
 
 
