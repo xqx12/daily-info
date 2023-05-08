@@ -21,7 +21,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230507T18:44:05Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230507T18:01:23Z | CVE-2022-46169 | This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer. | https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 | | 
-| 20230507T15:29:01Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230507T11:55:46Z | CVE-2020-0601 | 2017-0021 | https://github.com/cimashiro/-Awesome-CVE-2020-0601- | | 
 | 20230507T11:40:10Z | CVE-2021-46703 | Simple payload builder | https://github.com/BenEdridge/CVE-2021-46703 | | 
 | 20230507T04:30:30Z | CVE-2022-41034 | Null | https://github.com/andyhsu024/CVE-2022-41034 | | 
