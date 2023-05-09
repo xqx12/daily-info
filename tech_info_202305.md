@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T12:33:38Z | Null | https://github.com/acandelieri/MasteringExplorationExploitationInBO | 0 | 0| 
+| 20230509T10:58:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4958 | 978| 
 | 20230509T10:17:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5095 | 734| 
 | 20230509T10:16:08Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Zytunz/Valorant-XHX | 96 | 0| 
 | 20230509T10:13:36Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Zytunz/Roobet-Crypto-Casino-Predictor | 96 | 0| 
@@ -72,8 +74,6 @@
 | 20230509T01:02:52Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 7 | 0| 
 | 20230509T00:41:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
-| 20230509T00:38:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9- | 1 | 0| 
-| 20230509T00:20:58Z | PeerShield is a Cosmwasm-based peer-to-peer risk management marketplace for digital assets enabling users to share risks related to DeFi such as impermanent loss, bridge exploits, depegging etc. | https://github.com/DarthBenro008/peershield-contract | 0 | 0| 
 
 
 # backdoor on Github 推荐
