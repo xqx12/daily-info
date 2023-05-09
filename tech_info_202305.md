@@ -93,10 +93,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230508T08:43:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3431 | 478| 
+| 20230508T17:54:21Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1077 | 130| 
+| 20230508T16:19:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
 | 20230508T08:09:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 763 | 88| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
-| 20230507T11:49:40Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1075 | 130| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
