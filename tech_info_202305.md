@@ -118,7 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T12:43:02Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 0 | 0| 
+| 20230509T12:55:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1391 | 196| 
+| 20230509T12:54:06Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 0 | 0| 
 | 20230509T11:06:42Z | Null | https://github.com/WedaRobert/fuzzy-gee | 0 | 0| 
 | 20230509T10:41:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8638 | 1894| 
 | 20230509T10:33:56Z | Null | https://github.com/55555xxx/fuzzy-barnacle | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20230509T08:34:14Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 186 | 28| 
 | 20230509T08:27:53Z | Digital VST3-fuzz plugin, inspired by brutal concrete landscape of Kortepohja | https://github.com/jansromi/kortepohja-fuzz | 0 | 0| 
 | 20230509T08:26:45Z | Dự án phục vụ cho ĐATN %Kiểm thử tự động lỗ hổng bảo mật với Fuzzing% | https://github.com/styvenxnguyen/GiayTrungNghia | 0 | 0| 
-| 20230509T07:42:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1391 | 196| 
 
 
 
