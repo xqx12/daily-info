@@ -63,7 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T00:38:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 0 | 0| 
+| 20230509T00:40:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 0 | 0| 
+| 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:30:47Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 6 | 0| 
 | 20230509T00:20:58Z | PeerShield is a Cosmwasm-based peer-to-peer risk management marketplace for digital assets enabling users to share risks related to DeFi such as impermanent loss, bridge exploits, depegging etc. | https://github.com/DarthBenro008/peershield-contract | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230508T22:49:55Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1505 | 296| 
 | 20230508T20:16:35Z | GTFOCurls is a curated list of cURL commands that can be used to exploit CVE vulnerabilities or communicate with _exotic_ services (inspired by GTFOBins) | https://github.com/GTFOcurls/GTFOCurls.github.io | 1 | 1| 
 | 20230508T19:57:51Z | Auto Exploit For HackTheBox%s Mirai | https://github.com/Dr-Gecko/Mirai | 0 | 0| 
-| 20230508T18:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4956 | 978| 
 
 
 # backdoor on Github 推荐
