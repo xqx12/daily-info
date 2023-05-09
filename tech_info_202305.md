@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T01:52:45Z | Analysis SQL for Maven Fuzzy Factory  | https://github.com/jamessteffen/MavenFuzzyFactory | 0 | 0| 
 | 20230509T01:46:15Z | Fuzzing pytorch models | https://github.com/seclab-yonsei/TorchFuzz | 2 | 0| 
 | 20230508T21:38:32Z | A fuzzy search for front-end react apps | https://github.com/Luiz-F-Souza/FuzzySearchAlgorithm | 0 | 0| 
 | 20230508T20:47:51Z | Null | https://github.com/MishraSiddhant22/fuzzy_logic | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20230508T12:47:36Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 185 | 28| 
 | 20230508T12:47:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8634 | 1892| 
 | 20230508T11:36:40Z | Null | https://github.com/nnnnnnnnnnnuygtyyt/fuzzy-goggles | 0 | 0| 
-| 20230508T10:25:27Z | Null | https://github.com/scandina-org/simple-view-fuzzer | 0 | 0| 
 
 
 
