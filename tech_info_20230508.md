@@ -21,16 +21,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230508T18:41:41Z | CVE-2023-25002 | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | https://github.com/nokn0wthing/CVE-2023-25002 | | 
+| 20230508T17:32:27Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230508T17:03:56Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
+| 20230508T16:51:55Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230508T16:12:24Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
-| 20230508T16:00:21Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230508T14:49:31Z | CVE-2021-38001 | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | https://github.com/glavstroy/CVE-2021-38001 | | 
-| 20230508T14:43:30Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230508T11:31:37Z | CVE-2023-23752 | Null | https://github.com/wibuheker/Joomla-CVE-2023-23752 | | 
 | 20230508T07:10:50Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230508T06:53:48Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
 | 20230508T05:59:36Z | CVE-2023-30092 | Null | https://github.com/nawed20002/CVE-2023-30092 | | 
-| 20230508T04:54:06Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
-| 20230508T02:12:18Z | CVE-2023-0386 | CVE-2023-0386 EXP | https://github.com/CKevens/CVE-2023-0386 | | 
 
 
 # klee on Github 推荐
@@ -42,27 +42,30 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T16:47:41Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 86 | 48| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T23:46:24Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 8 | 0| 
+| 20230508T23:11:42Z | ExploitFury: Aggressive security automation toolkit for penetration testers, bug bounty hunters, and researchers. Identify, exploit, and secure vulnerabilities. | https://github.com/devnullx/ExploitFury | 0 | 0| 
+| 20230508T23:01:29Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 5 | 0| 
+| 20230508T22:49:55Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1505 | 296| 
+| 20230508T20:16:35Z | GTFOCurls is a curated list of cURL commands that can be used to exploit CVE vulnerabilities or communicate with _exotic_ services (inspired by GTFOBins) | https://github.com/GTFOcurls/GTFOCurls.github.io | 1 | 1| 
+| 20230508T19:57:51Z | Auto Exploit For HackTheBox%s Mirai | https://github.com/Dr-Gecko/Mirai | 0 | 0| 
+| 20230508T18:15:33Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 | 20230508T16:24:09Z | MorophDynamX and MorphoMechanX code used in %Grasses exploit geometry to achieve improved guard cell dynamics% | https://github.com/clintondurney/grass-stomata-geometry | 0 | 0| 
 | 20230508T14:33:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 734| 
 | 20230508T12:58:13Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 28 | 0| 
-| 20230508T12:55:40Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ExileFragZ/Roobet-Crypto-Casino-Predictor | 28 | 0| 
-| 20230508T12:46:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5543 | 753| 
-| 20230508T12:32:14Z | Roblox Exploit without Key  | https://github.com/LuciferMorningstars/LND-Roblox-Exploit | 1 | 0| 
-| 20230508T12:02:28Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 2 | 0| 
-| 20230508T12:00:04Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 1 | 0| 
-| 20230508T11:40:53Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploits-list | 0 | 0| 
-| 20230508T10:52:40Z | run a public exploits easily | https://github.com/mqxmm/C2-runner | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230508T12:19:05Z | Null | https://github.com/SCLBD/BackdoorBench | 143 | 21| 
+| 20230508T23:36:36Z | Null | https://github.com/SCLBD/BackdoorBench | 144 | 21| 
+| 20230508T19:27:14Z | Backdoor code 2023 | https://github.com/EvenG01/backdoor | 0 | 0| 
+| 20230508T17:22:37Z |  Simple Powershell Http shell With WEB UI  | https://github.com/jxroot/ReHTTP | 1 | 0| 
 | 20230508T07:09:31Z | The source code of PoisonedGNN and associated datasets. A backdoor attack on GNN-based hardware security systems | https://github.com/DfX-NYUAD/PoisonedGNN | 0 | 0| 
 | 20230508T02:45:10Z | Null | https://github.com/leileigan/CleanLabelBackdoorAttackMindspore | 0 | 0| 
 | 20230508T00:59:22Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 437 | 81| 
