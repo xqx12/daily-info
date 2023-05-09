@@ -94,22 +94,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230508T17:54:21Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1077 | 130| 
-| 20230508T16:19:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
-| 20230508T08:09:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 763 | 88| 
+| 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
+| 20230509T07:31:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
+| 20230509T07:00:56Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1078 | 130| 
+| 20230509T06:17:02Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1309 | 58| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 | 20230505T08:45:13Z | Coq formalization of Symbolic Execution Formally Explained | https://github.com/Aqissiaq/symex-formally-formalized | 1 | 0| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
-| 20230504T19:45:22Z | An automatic test case generator for C source code using Memorized Symbolic Execution | https://github.com/sajedjalil/C-Path-Finder | 10 | 3| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T01:29:20Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 655 | 104| 
+| 20230509T08:37:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 657 | 104| 
 | 20230508T02:07:19Z | Null | https://github.com/slskopytko/ndssguiyrk | 0 | 0| 
 | 20230503T11:43:35Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 3 | 2| 
 | 20230502T04:39:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 16 | 1| 

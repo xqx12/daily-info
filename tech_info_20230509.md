@@ -64,12 +64,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
+| 20230509T07:31:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
+| 20230509T07:00:56Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1078 | 130| 
+| 20230509T06:17:02Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1309 | 58| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T01:29:20Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 655 | 104| 
+| 20230509T08:37:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 657 | 104| 
 
 
 # fuzz on Github 推荐
