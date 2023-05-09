@@ -23,7 +23,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230508T18:41:41Z | CVE-2023-25002 | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | https://github.com/nokn0wthing/CVE-2023-25002 | | 
 | 20230508T17:32:27Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
-| 20230508T17:03:56Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230508T16:51:55Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230508T16:12:24Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T14:49:31Z | CVE-2021-38001 | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | https://github.com/glavstroy/CVE-2021-38001 | | 
@@ -31,6 +30,7 @@
 | 20230508T07:10:50Z | CVE-2023-23397 | CVE-2023-23397 PoC | https://github.com/vlad-a-man/CVE-2023-23397 | | 
 | 20230508T06:53:48Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
 | 20230508T05:59:36Z | CVE-2023-30092 | Null | https://github.com/nawed20002/CVE-2023-30092 | | 
+| 20230508T04:54:06Z | CVE-2023-27326 | VM Escape for Parallels Desktop <18.1.1 | https://github.com/Malwareman007/CVE-2023-27326 | | 
 
 
 # klee on Github 推荐

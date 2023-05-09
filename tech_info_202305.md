@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230509T01:03:03Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230508T18:41:41Z | CVE-2023-25002 | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | https://github.com/nokn0wthing/CVE-2023-25002 | | 
 | 20230508T17:32:27Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
-| 20230508T17:03:56Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230508T16:51:55Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230508T16:12:24Z | CVE-2023-28231 | DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019 | https://github.com/glavstroy/CVE-2023-28231 | | 
 | 20230508T14:49:31Z | CVE-2021-38001 | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | https://github.com/glavstroy/CVE-2021-38001 | | 
@@ -63,10 +63,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T01:02:52Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 7 | 0| 
 | 20230509T00:41:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9- | 1 | 0| 
-| 20230509T00:30:47Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 6 | 0| 
 | 20230509T00:20:58Z | PeerShield is a Cosmwasm-based peer-to-peer risk management marketplace for digital assets enabling users to share risks related to DeFi such as impermanent loss, bridge exploits, depegging etc. | https://github.com/DarthBenro008/peershield-contract | 0 | 0| 
 | 20230508T23:46:24Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 8 | 0| 
 | 20230508T23:11:42Z | ExploitFury: Aggressive security automation toolkit for penetration testers, bug bounty hunters, and researchers. Identify, exploit, and secure vulnerabilities. | https://github.com/devnullx/ExploitFury | 0 | 0| 
