@@ -88,6 +88,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230508T21:38:32Z | A fuzzy search for front-end react apps | https://github.com/Luiz-F-Souza/FuzzySearchAlgorithm | 0 | 0| 
+| 20230508T20:47:51Z | Null | https://github.com/MishraSiddhant22/fuzzy_logic | 0 | 0| 
+| 20230508T18:02:48Z | EEG Fuzzy Logic Pipeline | https://github.com/MyelinGroup/myelin-fuzzy-logic | 0 | 0| 
 | 20230508T12:47:53Z | Null | https://github.com/dsafgutter/fuzzy-octo-lamp | 0 | 0| 
 | 20230508T12:47:36Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 185 | 28| 
 | 20230508T12:47:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8634 | 1892| 
@@ -95,9 +98,6 @@
 | 20230508T10:25:27Z | Null | https://github.com/scandina-org/simple-view-fuzzer | 0 | 0| 
 | 20230508T09:38:25Z | 自作のRPGです。製作中。 | https://github.com/Shinacho/FuzzyWorld | 0 | 0| 
 | 20230508T09:16:16Z | Null | https://github.com/calmxkk/fuzznote | 0 | 0| 
-| 20230508T01:52:47Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-6-fuzzy-inference-systems | 0 | 0| 
-| 20230508T01:52:42Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-5-develop-fuzzy-if-then-rule-class | 0 | 0| 
-| 20230508T01:52:37Z | Null | https://github.com/wardimaliad/solved-softcomputing-assignment-4-define-and-display-derived-1-d-fuzzy-sets | 0 | 0| 
 
 
 
