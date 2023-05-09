@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T01:37:02Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 | 20230509T01:02:52Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 7 | 0| 
 | 20230509T00:41:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20230508T23:11:42Z | ExploitFury: Aggressive security automation toolkit for penetration testers, bug bounty hunters, and researchers. Identify, exploit, and secure vulnerabilities. | https://github.com/devnullx/ExploitFury | 0 | 0| 
 | 20230508T22:49:55Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1505 | 296| 
 | 20230508T20:16:35Z | GTFOCurls is a curated list of cURL commands that can be used to exploit CVE vulnerabilities or communicate with _exotic_ services (inspired by GTFOBins) | https://github.com/GTFOcurls/GTFOCurls.github.io | 1 | 1| 
-| 20230508T19:57:51Z | Auto Exploit For HackTheBox%s Mirai | https://github.com/Dr-Gecko/Mirai | 0 | 0| 
 
 
 # backdoor on Github 推荐
