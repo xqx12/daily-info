@@ -55,9 +55,9 @@
 | 20230508T20:16:35Z | GTFOCurls is a curated list of cURL commands that can be used to exploit CVE vulnerabilities or communicate with _exotic_ services (inspired by GTFOBins) | https://github.com/GTFOcurls/GTFOCurls.github.io | 1 | 1| 
 | 20230508T19:57:51Z | Auto Exploit For HackTheBox%s Mirai | https://github.com/Dr-Gecko/Mirai | 0 | 0| 
 | 20230508T18:15:33Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
+| 20230508T17:51:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4880 | 615| 
 | 20230508T16:24:09Z | MorophDynamX and MorphoMechanX code used in %Grasses exploit geometry to achieve improved guard cell dynamics% | https://github.com/clintondurney/grass-stomata-geometry | 0 | 0| 
 | 20230508T14:33:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 734| 
-| 20230508T12:58:13Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 28 | 0| 
 
 
 # backdoor on Github 推荐
