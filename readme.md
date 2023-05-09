@@ -55,8 +55,8 @@
 | 20230508T18:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4956 | 978| 
 | 20230508T17:51:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4880 | 615| 
 | 20230508T16:24:09Z | MorophDynamX and MorphoMechanX code used in %Grasses exploit geometry to achieve improved guard cell dynamics% | https://github.com/clintondurney/grass-stomata-geometry | 0 | 0| 
+| 20230508T15:08:14Z | GPTPʀᴏᴍᴘᴛꜱ is the biggest collection of Chat GPT prompts. It has a bunch of different prompts ranging from exploits to acting like a terminal. | https://github.com/tacocatCLAUS/gptp | 1 | 0| 
 | 20230508T14:33:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 734| 
-| 20230508T12:58:13Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ExileFragZ/Valorant-XHX | 28 | 0| 
 
 
 # backdoor on Github 推荐
