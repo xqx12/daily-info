@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T00:40:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 0 | 0| 
+| 20230509T00:41:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:38:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9- | 1 | 0| 
 | 20230509T00:30:47Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 6 | 0| 
