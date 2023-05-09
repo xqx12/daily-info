@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T00:20:58Z | PeerShield is a Cosmwasm-based peer-to-peer risk management marketplace for digital assets enabling users to share risks related to DeFi such as impermanent loss, bridge exploits, depegging etc. | https://github.com/DarthBenro008/peershield-contract | 0 | 0| 
 | 20230508T23:46:24Z | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | 8 | 0| 
 | 20230508T23:11:42Z | ExploitFury: Aggressive security automation toolkit for penetration testers, bug bounty hunters, and researchers. Identify, exploit, and secure vulnerabilities. | https://github.com/devnullx/ExploitFury | 0 | 0| 
 | 20230508T23:01:29Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 5 | 0| 
@@ -72,7 +73,6 @@
 | 20230508T18:15:33Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 | 20230508T17:51:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4880 | 615| 
 | 20230508T16:24:09Z | MorophDynamX and MorphoMechanX code used in %Grasses exploit geometry to achieve improved guard cell dynamics% | https://github.com/clintondurney/grass-stomata-geometry | 0 | 0| 
-| 20230508T14:33:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5103 | 734| 
 
 
 # backdoor on Github 推荐
