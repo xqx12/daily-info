@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230510T01:46:43Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230509T23:52:46Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230509T22:09:59Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230509T16:37:56Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
-| 20230509T16:13:22Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230509T13:18:49Z | CVE-2021-26088 | PoC for CVE-2021-26088 written in PowerShell | https://github.com/theogobinet/CVE-2021-26088 | | 
 | 20230509T11:13:24Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
 | 20230509T10:55:14Z | CVE-2023-0461 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461 | | 
