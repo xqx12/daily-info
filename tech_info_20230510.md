@@ -54,7 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T11:58:39Z | Null | https://github.com/BitWalls-ops/ApkHack-BackDoor | 0 | 0| 
+| 20230510T12:02:49Z | ApkHack-BackDoor is a shell script that simplifies the process of adding a backdoor to any Android APK file.  | https://github.com/BitWalls-ops/ApkHack-BackDoor | 0 | 0| 
 | 20230510T10:45:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
 | 20230510T10:02:30Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 42 | 6| 
 | 20230510T10:02:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 53 | 9| 
