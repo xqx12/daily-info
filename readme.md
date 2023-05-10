@@ -12,16 +12,19 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230509 | 针对静态API误用检测器的系统化评估 | https://mp.weixin.qq.com/s/36NkhrNmV0M-7rVAIZ1ARQ| 
+| 20230509 | 高通GPS服务“隐蔽后门”事件分析 | https://mp.weixin.qq.com/s/jSSMANLVucBD36hw0JqTnQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230509T22:09:59Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
+| 20230509T16:37:56Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
+| 20230509T16:13:22Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
+| 20230509T13:18:49Z | CVE-2021-26088 | PoC for CVE-2021-26088 written in PowerShell | https://github.com/theogobinet/CVE-2021-26088 | | 
 | 20230509T11:13:24Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
-| 20230509T10:56:18Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230509T10:55:14Z | CVE-2023-0461 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461 | | 
 | 20230509T10:34:30Z | CVE-2023-0386 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386 | | 
-| 20230509T09:20:33Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 | 20230509T02:33:16Z | CVE-2023-25002 | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | https://github.com/nokn0wthing/CVE-2023-25002 | | 
 | 20230509T01:56:38Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
 | 20230509T01:06:03Z | CVE-2022-21661 | Demonstration of the SQL injection vulnerability in wordpress 5.8.2 | https://github.com/daniel616/CVE-2022-21661-Demo | | 
@@ -30,7 +33,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T10:18:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11984 | 378| 
+| 20230509T20:24:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11988 | 378| 
+| 20230509T16:24:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 280 | 4| 
 
 
 # s2e on Github 推荐
@@ -42,21 +46,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T12:33:38Z | Null | https://github.com/acandelieri/MasteringExplorationExploitationInBO | 0 | 0| 
-| 20230509T10:58:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4958 | 978| 
-| 20230509T10:17:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5095 | 734| 
-| 20230509T10:16:08Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Zytunz/Valorant-XHX | 96 | 0| 
-| 20230509T10:13:36Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Zytunz/Roobet-Crypto-Casino-Predictor | 96 | 0| 
-| 20230509T08:55:20Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5110 | 407| 
-| 20230509T01:37:02Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
-| 20230509T01:02:52Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 7 | 0| 
-| 20230509T00:41:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9- | 1 | 0| 
-| 20230509T00:38:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9- | 1 | 0| 
+| 20230509T23:34:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7p | 1 | 0| 
+| 20230509T23:33:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7p | 1 | 0| 
+| 20230509T23:32:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7p | 1 | 0| 
+| 20230509T22:35:32Z | Exploits for CVE-2023-27327 and CVE-2023-27328 | https://github.com/kn32/parallels-plist-escape | 0 | 0| 
+| 20230509T22:20:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5548 | 752| 
+| 20230509T20:46:44Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 7 | 1| 
+| 20230509T16:32:28Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 5 | 4| 
+| 20230509T15:30:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 633 | 166| 
+| 20230509T13:59:51Z | This repository contains a Python 3 script designed to exploit the ClamAV privilege escalation vulnerability.  | https://github.com/josemlwdf/ClamAV_Privilege_Escalation | 1 | 0| 
+| 20230509T13:19:47Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T19:11:07Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/Lynk4/CVE-2011-2523 | 0 | 0| 
+| 20230509T16:41:26Z | Simple bind shells written in Go | https://github.com/caohungphu/go_simple_backdoor | 0 | 0| 
 | 20230509T09:50:13Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 2 | 1| 
 | 20230509T02:51:31Z | This repository compiles classical and recent papers on XAI and backdoor learning, with added comments and notes. | https://github.com/Heimerd1nger/XAI-Backdoor-papers | 0 | 0| 
 
@@ -79,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T23:08:48Z | Null | https://github.com/JuselJustJ/Spotify-Review-Analysis-using-LDA-and-LSA-and-Fuzzy-based-Smart-Home-Controller. | 0 | 0| 
+| 20230509T23:04:13Z | Project on the Non-Classical Logic | https://github.com/egorka001/Fuzzy_Logic | 0 | 0| 
+| 20230509T21:14:54Z | Null | https://github.com/phonRathana/fuzzy-guacamole | 0 | 0| 
+| 20230509T21:05:12Z | Null | https://github.com/Krigsmaskine/fuzzy-memory | 0 | 0| 
 | 20230509T12:58:36Z | Null | https://github.com/jansromi/kortepohja-fuzz | 0 | 0| 
 | 20230509T12:55:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1391 | 196| 
 | 20230509T12:54:06Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 0 | 0| 
 | 20230509T11:06:42Z | Null | https://github.com/WedaRobert/fuzzy-gee | 0 | 0| 
 | 20230509T10:41:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8638 | 1894| 
 | 20230509T10:33:56Z | Null | https://github.com/55555xxx/fuzzy-barnacle | 0 | 0| 
-| 20230509T10:25:29Z | Null | https://github.com/adityaravi9034/Fuzzy_Systems | 0 | 0| 
-| 20230509T09:25:12Z | Generating fuzz tests for Golang using GPT-4. | https://github.com/0x34d/go-fuzz-GPT | 0 | 0| 
-| 20230509T08:34:14Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 186 | 28| 
-| 20230509T08:26:45Z | Dự án phục vụ cho ĐATN %Kiểm thử tự động lỗ hổng bảo mật với Fuzzing% | https://github.com/styvenxnguyen/GiayTrungNghia | 0 | 0| 
 
 
 
