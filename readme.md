@@ -54,12 +54,19 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T11:58:39Z | Null | https://github.com/BitWalls-ops/ApkHack-BackDoor | 0 | 0| 
+| 20230510T10:45:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
+| 20230510T10:02:30Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 42 | 6| 
+| 20230510T10:02:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 53 | 9| 
+| 20230510T08:47:37Z | Using CFGExplainer to Implement Backdoor Attack | https://github.com/ycchiu0703/CFGE2BA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T00:04:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1310 | 58| 
+| 20230510T10:46:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1079 | 130| 
+| 20230510T06:46:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1311 | 58| 
+| 20230510T04:32:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3435 | 478| 
 
 
 # big4 on Github 推荐

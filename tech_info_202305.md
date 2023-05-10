@@ -79,25 +79,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T11:58:39Z | Null | https://github.com/BitWalls-ops/ApkHack-BackDoor | 0 | 0| 
+| 20230510T10:45:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
+| 20230510T10:02:30Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 42 | 6| 
+| 20230510T10:02:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 53 | 9| 
+| 20230510T08:47:37Z | Using CFGExplainer to Implement Backdoor Attack | https://github.com/ycchiu0703/CFGE2BA | 0 | 0| 
 | 20230509T19:11:07Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/Lynk4/CVE-2011-2523 | 0 | 1| 
 | 20230509T16:41:26Z | Simple bind shells written in Go | https://github.com/caohungphu/go_simple_backdoor | 0 | 0| 
 | 20230509T09:50:13Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 2 | 1| 
 | 20230509T02:51:31Z | This repository compiles classical and recent papers on XAI and backdoor learning, with added comments and notes. | https://github.com/Heimerd1nger/XAI-Backdoor-papers | 0 | 0| 
 | 20230508T23:36:36Z | Null | https://github.com/SCLBD/BackdoorBench | 144 | 21| 
-| 20230508T19:27:14Z | Backdoor code 2023 | https://github.com/EvenG01/backdoor | 0 | 0| 
-| 20230508T17:22:37Z |  Simple Powershell Http shell With WEB UI  | https://github.com/jxroot/ReHTTP | 1 | 0| 
-| 20230508T07:11:41Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 135 | 17| 
-| 20230508T07:09:31Z | The source code of PoisonedGNN and associated datasets. A backdoor attack on GNN-based hardware security systems | https://github.com/DfX-NYUAD/PoisonedGNN | 0 | 0| 
-| 20230508T02:45:10Z | Null | https://github.com/leileigan/CleanLabelBackdoorAttackMindspore | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T00:04:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1310 | 58| 
-| 20230509T13:19:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1077 | 130| 
+| 20230510T10:46:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1079 | 130| 
+| 20230510T06:46:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1311 | 58| 
+| 20230510T04:32:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3435 | 478| 
 | 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
-| 20230509T07:31:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
