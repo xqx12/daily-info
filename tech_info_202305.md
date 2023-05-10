@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T23:57:05Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 454 | 92| 
 | 20230509T23:34:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7p | 1 | 0| 
 | 20230509T23:33:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7p | 1 | 0| 
 | 20230509T23:32:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7p | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20230509T16:32:28Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 5 | 4| 
 | 20230509T15:30:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 633 | 166| 
 | 20230509T13:59:51Z | This repository contains a Python 3 script designed to exploit the ClamAV privilege escalation vulnerability.  | https://github.com/josemlwdf/ClamAV_Privilege_Escalation | 1 | 0| 
-| 20230509T13:19:47Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,10 +94,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T00:04:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1310 | 58| 
 | 20230509T13:19:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1077 | 130| 
 | 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
 | 20230509T07:31:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
-| 20230509T06:17:02Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1309 | 58| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230507T02:30:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 639 | 117| 
