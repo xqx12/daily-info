@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T12:07:41Z | GitOps Repository | https://github.com/pmacik-testing/one-0131-app-kTY56-notice-exploit | 0 | 0| 
 | 20230510T11:58:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0291-app-VK4xp-recover-exploit | 0 | 0| 
 | 20230510T11:38:35Z | generate infinite discount code, if the site allows. site i tested on allowed for discounts when you add your email to their mailing list, idk if this code will work otherwise | https://github.com/slikc/rivo.io-exploit | 0 | 0| 
 | 20230510T11:13:55Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230510T10:01:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5100 | 734| 
 | 20230510T10:00:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 29 | 10| 
 | 20230510T01:51:38Z | Mitigates a potential path traversal exploit in GMod HTML Panels | https://github.com/CFC-Servers/gm_path_traversal_mitigation | 0 | 0| 
-| 20230510T01:40:28Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 6 | 4| 
 
 
 # backdoor on Github 推荐
