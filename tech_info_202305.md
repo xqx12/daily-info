@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T12:26:50Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 76 | 1| 
 | 20230510T11:56:35Z | Null | https://github.com/sstevenadi/FuzzyLogic | 0 | 0| 
 | 20230510T11:37:16Z | Null | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 | 20230510T10:22:47Z | My clone repository | https://github.com/Zasel2/fuzzy-octo-goggles | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20230509T23:08:48Z | Null | https://github.com/JuselJustJ/Spotify-Review-Analysis-using-LDA-and-LSA-and-Fuzzy-based-Smart-Home-Controller. | 0 | 0| 
 | 20230509T23:04:13Z | Project on the Non-Classical Logic | https://github.com/egorka001/Fuzzy_Logic | 0 | 0| 
 | 20230509T21:14:54Z | Null | https://github.com/phonRathana/fuzzy-guacamole | 0 | 0| 
-| 20230509T21:05:12Z | Null | https://github.com/Krigsmaskine/fuzzy-memory | 0 | 0| 
 
 
 

@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T12:26:50Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 76 | 1| 
 | 20230510T11:56:35Z | Null | https://github.com/sstevenadi/FuzzyLogic | 0 | 0| 
 | 20230510T11:37:16Z | Null | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 | 20230510T10:22:47Z | My clone repository | https://github.com/Zasel2/fuzzy-octo-goggles | 0 | 0| 
