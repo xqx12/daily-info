@@ -70,10 +70,10 @@
 | 20230509T23:32:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7p | 1 | 0| 
 | 20230509T22:35:32Z | Exploits for CVE-2023-27327 and CVE-2023-27328 | https://github.com/kn32/parallels-plist-escape | 0 | 0| 
 | 20230509T22:20:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5548 | 752| 
+| 20230509T21:51:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4882 | 615| 
 | 20230509T20:46:44Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 7 | 1| 
 | 20230509T16:32:28Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. | https://github.com/0xVienna/Celery | 5 | 4| 
 | 20230509T15:30:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 633 | 166| 
-| 20230509T13:59:51Z | This repository contains a Python 3 script designed to exploit the ClamAV privilege escalation vulnerability.  | https://github.com/josemlwdf/ClamAV_Privilege_Escalation | 1 | 0| 
 
 
 # backdoor on Github 推荐
