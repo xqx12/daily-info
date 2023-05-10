@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230509T23:52:46Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230509T22:09:59Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
 | 20230509T16:37:56Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
 | 20230509T16:13:22Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
@@ -35,7 +36,6 @@
 | 20230509T10:34:30Z | CVE-2023-0386 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386 | | 
 | 20230509T02:33:16Z | CVE-2023-25002 | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | https://github.com/nokn0wthing/CVE-2023-25002 | | 
 | 20230509T01:56:38Z | CVE-2023-0386 | CVE-2023-0386 analysis and Exp | https://github.com/chenaotian/CVE-2023-0386 | | 
-| 20230509T01:06:03Z | CVE-2022-21661 | Demonstration of the SQL injection vulnerability in wordpress 5.8.2 | https://github.com/daniel616/CVE-2022-21661-Demo | | 
 
 
 # klee on Github 推荐
@@ -94,9 +94,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230509T13:19:30Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1077 | 130| 
 | 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
 | 20230509T07:31:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3433 | 478| 
-| 20230509T07:00:56Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1078 | 130| 
 | 20230509T06:17:02Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1309 | 58| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 | 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
