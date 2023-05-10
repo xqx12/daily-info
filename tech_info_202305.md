@@ -65,6 +65,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230510T12:18:03Z | Exploiting Discriminative Advantage of Spectrum for Hyperspectral Image Classification: SpectralFormer Enhanced by Spectrum Motion Feature | https://github.com/sssssyf/SF-ESMF | 7 | 1| 
+| 20230510T12:15:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4961 | 978| 
 | 20230510T12:07:41Z | GitOps Repository | https://github.com/pmacik-testing/one-0131-app-kTY56-notice-exploit | 0 | 0| 
 | 20230510T11:58:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0291-app-VK4xp-recover-exploit | 0 | 0| 
 | 20230510T11:38:35Z | generate infinite discount code, if the site allows. site i tested on allowed for discounts when you add your email to their mailing list, idk if this code will work otherwise | https://github.com/slikc/rivo.io-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230510T10:59:01Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploit-list | 3 | 0| 
 | 20230510T10:38:27Z | Null | https://github.com/cvericel/exploit | 0 | 0| 
 | 20230510T10:01:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5100 | 734| 
-| 20230510T10:00:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 29 | 10| 
 
 
 # backdoor on Github 推荐
