@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230510T12:32:16Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 | 20230510T06:07:43Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
 | 20230510T04:53:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 

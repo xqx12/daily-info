@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230510T12:32:16Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 | 20230510T06:07:43Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
 | 20230510T04:53:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
@@ -35,7 +36,6 @@
 | 20230509T16:37:56Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
 | 20230509T13:18:49Z | CVE-2021-26088 | PoC for CVE-2021-26088 written in PowerShell | https://github.com/theogobinet/CVE-2021-26088 | | 
 | 20230509T11:13:24Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
-| 20230509T10:55:14Z | CVE-2023-0461 | Null | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461 | | 
 
 
 # klee on Github 推荐
