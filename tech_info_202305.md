@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230509T19:11:07Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/Lynk4/CVE-2011-2523 | 0 | 0| 
+| 20230509T19:11:07Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/Lynk4/CVE-2011-2523 | 0 | 1| 
 | 20230509T16:41:26Z | Simple bind shells written in Go | https://github.com/caohungphu/go_simple_backdoor | 0 | 0| 
 | 20230509T09:50:13Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 2 | 1| 
 | 20230509T02:51:31Z | This repository compiles classical and recent papers on XAI and backdoor learning, with added comments and notes. | https://github.com/Heimerd1nger/XAI-Backdoor-papers | 0 | 0| 
