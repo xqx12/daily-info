@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T23:47:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4886 | 615| 
+| 20230510T23:47:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4886 | 616| 
 | 20230510T23:41:23Z | Null | https://github.com/iakzs/TheHub | 2 | 0| 
 | 20230510T23:39:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0358-app-LhjJe-exploit-prefer | 0 | 0| 
 | 20230510T23:10:04Z | A exploit for CVE-2017-5638. This exploit works on versions 2.3.5-2.3.31 and 2.5 – 2.5.10 | https://github.com/FredBrave/CVE-2017-5638-ApacheStruts2.3.5 | 0 | 1| 
