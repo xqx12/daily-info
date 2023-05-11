@@ -34,7 +34,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230511T01:27:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 331 | 80| 
+| 20230511T09:31:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 332 | 80| 
 
 
 # exploit on Github 推荐
@@ -55,6 +55,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T11:00:39Z | In this repositiories you will get some intresting this but this should be use for fun or kidding. This method should not be performed at school , college , or any other public place. | https://github.com/AnandKatariya/Backdoor-Trojan | 2 | 0| 
+| 20230511T11:00:08Z | ApkHack-BackDoor is a shell script that simplifies the process of adding a backdoor to any Android APK file.  | https://github.com/BitWalls-ops/ApkHack-BackDoor | 1 | 0| 
+| 20230511T09:20:50Z | [ICLR 2023, Best Paper Award at ECCV 2022 AROW Workshop] FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning | https://github.com/KaiyuanZh/FLIP | 8 | 0| 
+| 20230511T04:55:16Z | Kernel  rk | https://github.com/carloslack/KoviD | 123 | 30| 
 
 
 # symbolic execution on Github 推荐
