@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:58:47Z | Null | https://github.com/ukra174/fuzzy-octo-engine | 0 | 0| 
 | 20230511T12:44:14Z | Null | https://github.com/google/fuzztest | 276 | 19| 
 | 20230511T12:26:37Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
 | 20230511T12:25:53Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy. | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
 | 20230511T10:30:10Z | Null | https://github.com/maqaro/fuzzy-rotary-phone | 0 | 0| 
 | 20230511T09:58:57Z | Null | https://github.com/junbeom07/fuzzy-engine | 0 | 0| 
-| 20230511T09:41:04Z | Null | https://github.com/linogaliana/fuzzy-matching-requirements | 0 | 0| 
 
 
 
