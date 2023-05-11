@@ -66,6 +66,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230511T11:00:12Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 20 | 2| 
+| 20230511T10:50:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4964 | 978| 
 | 20230511T09:51:30Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 470 | 34| 
 | 20230511T09:36:18Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0117-app-ILp4s-remember-exploit | 0 | 0| 
 | 20230511T09:27:03Z | Voici le code permettant l%automatisation de l%exploitation des données  | https://github.com/matt2win/Exploitation-donn- | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230511T07:29:38Z | Placement et gestion de fichier tsv directement exploitables par le service tsv2kafka (anciennement bacon2kafka) | https://github.com/abes-esr/chargement_kbart | 0 | 0| 
 | 20230511T05:47:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 30 | 9| 
 | 20230511T01:40:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-O1xid-die-exploit | 0 | 0| 
-| 20230511T01:38:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w6 | 1 | 0| 
 
 
 # backdoor on Github 推荐
