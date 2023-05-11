@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T00:56:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 468 | 91| 
 | 20230511T00:24:22Z | This is an educational console intended for circumventing school blocking mechanisms and allowing students to engage in non-academic pursuits. The code modifies the client view locally and is designed for educational purposes only. It should be noted that any changes made through this console will be deleted upon page refresh. | https://github.com/StarDust-Gaming/CyberExploit | 0 | 0| 
 | 20230510T23:47:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4886 | 615| 
 | 20230510T23:41:23Z | Null | https://github.com/iakzs/TheHub | 2 | 0| 
@@ -74,7 +75,6 @@
 | 20230510T23:02:20Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/MakeZaTTo/Roobet-Crypto-Casino-Predictor | 0 | 0| 
 | 20230510T20:58:45Z | Contient des exploits nécessaires pour des challenges | https://github.com/Cyrhades/exploit_cve | 0 | 0| 
 | 20230510T20:29:57Z | Null | https://github.com/UnknowingNSFW/Roblox-Exploit | 0 | 0| 
-| 20230510T18:38:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13667 | 2311| 
 
 
 # backdoor on Github 推荐
