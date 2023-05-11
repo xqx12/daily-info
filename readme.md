@@ -30,7 +30,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
-| 20230510T18:08:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11996 | 378| 
 
 
 # s2e on Github 推荐
@@ -69,7 +68,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230510T16:06:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3436 | 479| 
-| 20230510T14:23:06Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1080 | 130| 
 | 20230510T06:46:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1311 | 58| 
 
 
