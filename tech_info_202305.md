@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T07:45:25Z | CVE-2023-28772 | Null | https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu | | 
@@ -33,7 +34,6 @@
 | 20230511T05:37:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
 | 20230511T05:21:16Z | CVE-2023-0461 | Null | https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd | | 
 | 20230511T02:55:03Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
-| 20230510T16:05:59Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
 | 20230510T01:46:43Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 

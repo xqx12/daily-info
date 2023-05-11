@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T07:45:25Z | CVE-2023-28772 | Null | https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu | | 
