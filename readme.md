@@ -75,9 +75,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:26:37Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
 | 20230511T12:25:53Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy. | 0 | 0| 
 | 20230511T12:18:18Z | Tugas Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy | 0 | 0| 
-| 20230511T12:17:43Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
 | 20230511T12:15:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2110 | 265| 
 | 20230511T12:12:58Z | Null | https://github.com/findriy/LogikaFuzzy | 0 | 0| 
 | 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
