@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T01:36:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w6 | 1 | 0| 
 | 20230511T01:25:52Z | FindFilesFast is a C++ program that searches for files with a specified extension in a directory tree using multithreading  It is designed to be a post-exploitation tool for locating files on a system that you have permission to access | https://github.com/TheNewAttacker64/File-Finder | 0 | 0| 
 | 20230511T01:16:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 470 | 91| 
 | 20230511T00:24:22Z | This is an educational console intended for circumventing school blocking mechanisms and allowing students to engage in non-academic pursuits. The code modifies the client view locally and is designed for educational purposes only. It should be noted that any changes made through this console will be deleted upon page refresh. | https://github.com/StarDust-Gaming/CyberExploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230510T23:10:04Z | A exploit for CVE-2017-5638. This exploit works on versions 2.3.5-2.3.31 and 2.5 – 2.5.10 | https://github.com/FredBrave/CVE-2017-5638-ApacheStruts2.3.5 | 0 | 1| 
 | 20230510T23:04:18Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/MakeZaTTo/Valorant-PhoeniX-TOOL | 0 | 0| 
 | 20230510T23:02:20Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/MakeZaTTo/Roobet-Crypto-Casino-Predictor | 0 | 0| 
-| 20230510T20:58:45Z | Contient des exploits nécessaires pour des challenges | https://github.com/Cyrhades/exploit_cve | 0 | 0| 
 
 
 # backdoor on Github 推荐
