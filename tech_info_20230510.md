@@ -36,7 +36,6 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T18:43:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 330 | 80| 
 | 20230510T06:45:43Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 
 
