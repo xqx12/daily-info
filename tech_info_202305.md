@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
+| 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
+| 20230511T07:45:25Z | CVE-2023-28772 | Null | https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu | | 
+| 20230511T07:38:36Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230511T05:37:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
+| 20230511T05:21:16Z | CVE-2023-0461 | Null | https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd | | 
+| 20230511T02:55:03Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T16:05:59Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
-| 20230510T12:39:55Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
-| 20230510T06:07:43Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
-| 20230510T04:53:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
 | 20230510T01:46:43Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
-| 20230509T22:09:59Z | CVE-2023-0386 | CVE-2023-0386在ubuntu22.04上的提权 | https://github.com/xkaneiki/CVE-2023-0386 | | 
-| 20230509T16:37:56Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
-| 20230509T13:18:49Z | CVE-2021-26088 | PoC for CVE-2021-26088 written in PowerShell | https://github.com/theogobinet/CVE-2021-26088 | | 
-| 20230509T11:13:24Z | cve-2020-2023 | Null | https://github.com/ssst0n3/kata-cve-2020-2023-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230511T01:44:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11998 | 378| 
+| 20230511T10:22:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12004 | 378| 
 | 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
 | 20230509T16:24:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 280 | 4| 
 | 20230507T16:12:49Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T11:00:12Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 20 | 2| 
+| 20230511T09:51:30Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 470 | 34| 
+| 20230511T09:36:18Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0117-app-ILp4s-remember-exploit | 0 | 0| 
+| 20230511T09:27:03Z | Voici le code permettant l%automatisation de l%exploitation des données  | https://github.com/matt2win/Exploitation-donn- | 0 | 0| 
+| 20230511T08:51:51Z | Null | https://github.com/4bhishek0/stack-exploits | 0 | 0| 
+| 20230511T08:33:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5102 | 732| 
+| 20230511T07:29:38Z | Placement et gestion de fichier tsv directement exploitables par le service tsv2kafka (anciennement bacon2kafka) | https://github.com/abes-esr/chargement_kbart | 0 | 0| 
+| 20230511T05:47:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 30 | 9| 
 | 20230511T01:40:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-O1xid-die-exploit | 0 | 0| 
 | 20230511T01:38:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w6 | 1 | 0| 
-| 20230511T01:37:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w6 | 1 | 0| 
-| 20230511T01:36:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w6 | 1 | 0| 
-| 20230511T01:25:52Z | FindFilesFast is a C++ program that searches for files with a specified extension in a directory tree using multithreading  It is designed to be a post-exploitation tool for locating files on a system that you have permission to access | https://github.com/TheNewAttacker64/File-Finder | 0 | 0| 
-| 20230511T01:16:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 470 | 91| 
-| 20230511T00:24:22Z | This is an educational console intended for circumventing school blocking mechanisms and allowing students to engage in non-academic pursuits. The code modifies the client view locally and is designed for educational purposes only. It should be noted that any changes made through this console will be deleted upon page refresh. | https://github.com/StarDust-Gaming/CyberExploit | 0 | 0| 
-| 20230510T23:47:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4886 | 616| 
-| 20230510T23:41:23Z | Null | https://github.com/iakzs/TheHub | 2 | 0| 
-| 20230510T23:39:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0358-app-LhjJe-exploit-prefer | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
+| 20230511T10:30:10Z | Null | https://github.com/maqaro/fuzzy-rotary-phone | 0 | 0| 
+| 20230511T09:58:57Z | Null | https://github.com/junbeom07/fuzzy-engine | 0 | 0| 
+| 20230511T09:41:04Z | Null | https://github.com/linogaliana/fuzzy-matching-requirements | 0 | 0| 
+| 20230511T09:25:26Z | 一个老套掉牙的sql fuzz实现 | https://github.com/kN6jq/sqlfuzz | 0 | 0| 
+| 20230511T08:23:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4997 | 528| 
+| 20230511T08:23:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8643 | 1905| 
+| 20230511T06:03:07Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 2 | 0| 
 | 20230511T00:32:43Z | Null | https://github.com/FuzzyLogician27/FuzzyLogician27.github.io | 0 | 0| 
 | 20230510T23:16:00Z | Null | https://github.com/Aimeedeer/contract-for-fuzz | 0 | 0| 
-| 20230510T22:56:32Z | Playing around with fuzzing | https://github.com/marcusbotacin/MalwareFuzz | 1 | 0| 
-| 20230510T22:35:20Z | Null | https://github.com/punt040/fuzzyenigma | 0 | 0| 
-| 20230510T21:34:38Z | Null | https://github.com/jerolimov/fuzzy | 0 | 0| 
-| 20230510T21:31:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2725 | 185| 
-| 20230510T21:02:40Z | Null | https://github.com/Cgreen9639-ux/fuzzy-palm-tree | 0 | 0| 
-| 20230510T17:22:52Z | Null | https://github.com/mattiemarie/pickle_fuzz_reboot | 0 | 0| 
-| 20230510T12:26:50Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 76 | 1| 
-| 20230510T11:56:35Z | Null | https://github.com/sstevenadi/FuzzyLogic | 0 | 0| 
 
 
 
