@@ -12,23 +12,25 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230510 | GreyNoise 如何计算 IP 的相似性 | https://mp.weixin.qq.com/s/mhySu_-_aa1SiqAOy1EEWA| 
+| 20230510 | Python项目中的依赖分析 | https://mp.weixin.qq.com/s/EcefkWsjF3wjG2MsHnsAFw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230510T16:05:59Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230510T12:39:55Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 | 20230510T06:07:43Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
 | 20230510T04:53:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
-| 20230510T03:43:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230510T01:46:43Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T09:05:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11993 | 378| 
+| 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
+| 20230510T18:08:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 11996 | 378| 
 
 
 # s2e on Github 推荐
@@ -40,24 +42,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T23:41:23Z | Null | https://github.com/iakzs/TheHub | 2 | 0| 
+| 20230510T23:39:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0358-app-LhjJe-exploit-prefer | 0 | 0| 
+| 20230510T23:10:04Z | A exploit for CVE-2017-5638. This exploit works on versions 2.3.5-2.3.31 and 2.5 – 2.5.10 | https://github.com/FredBrave/CVE-2017-5638-ApacheStruts2.3.5 | 0 | 0| 
+| 20230510T23:04:18Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/MakeZaTTo/Valorant-PhoeniX-TOOL | 0 | 0| 
+| 20230510T23:02:20Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/MakeZaTTo/Roobet-Crypto-Casino-Predictor | 0 | 0| 
+| 20230510T20:58:45Z | Contient des exploits nécessaires pour des challenges | https://github.com/Cyrhades/exploit_cve | 0 | 0| 
+| 20230510T20:29:57Z | Null | https://github.com/UnknowingNSFW/Roblox-Exploit | 0 | 0| 
+| 20230510T18:38:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13667 | 2311| 
+| 20230510T18:01:37Z | Null | https://github.com/dublin87/exploitationindex | 0 | 0| 
 | 20230510T12:18:03Z | Exploiting Discriminative Advantage of Spectrum for Hyperspectral Image Classification: SpectralFormer Enhanced by Spectrum Motion Feature | https://github.com/sssssyf/SF-ESMF | 7 | 1| 
-| 20230510T12:15:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4961 | 978| 
-| 20230510T12:07:41Z | GitOps Repository | https://github.com/pmacik-testing/one-0131-app-kTY56-notice-exploit | 0 | 0| 
-| 20230510T11:58:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0291-app-VK4xp-recover-exploit | 0 | 0| 
-| 20230510T11:38:35Z | generate infinite discount code, if the site allows. site i tested on allowed for discounts when you add your email to their mailing list, idk if this code will work otherwise | https://github.com/slikc/rivo.io-exploit | 0 | 0| 
-| 20230510T11:13:55Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
-| 20230510T11:01:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-7268bac1-8490-4892-867a-f8a6d7eff49a-miFJq-lie-exploit | 0 | 0| 
-| 20230510T10:59:01Z | (WIP) List of known exploits that abuse allowances | https://github.com/RevokeCash/allowance-exploit-list | 3 | 0| 
-| 20230510T10:38:27Z | Null | https://github.com/cvericel/exploit | 0 | 0| 
-| 20230510T10:01:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5100 | 734| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230510T12:54:44Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
+| 20230510T17:54:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 439 | 81| 
+| 20230510T13:02:53Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
 | 20230510T12:03:55Z | ApkHack-BackDoor is a shell script that simplifies the process of adding a backdoor to any Android APK file.  | https://github.com/BitWalls-ops/ApkHack-BackDoor | 0 | 0| 
-| 20230510T10:45:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
 | 20230510T10:02:30Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 42 | 6| 
 | 20230510T10:02:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 53 | 9| 
 | 20230510T08:47:37Z | Using CFGExplainer to Implement Backdoor Attack | https://github.com/ycchiu0703/CFGE2BA | 0 | 0| 
@@ -81,13 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230510T23:16:00Z | Null | https://github.com/Aimeedeer/contract-for-fuzz | 0 | 0| 
+| 20230510T22:56:32Z | Playing around with fuzzing | https://github.com/marcusbotacin/MalwareFuzz | 1 | 0| 
+| 20230510T22:35:20Z | Null | https://github.com/punt040/fuzzyenigma | 0 | 0| 
+| 20230510T21:34:38Z | Null | https://github.com/jerolimov/fuzzy | 0 | 0| 
+| 20230510T21:31:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2725 | 185| 
+| 20230510T21:02:40Z | Null | https://github.com/Cgreen9639-ux/fuzzy-palm-tree | 0 | 0| 
+| 20230510T17:22:52Z | Null | https://github.com/mattiemarie/pickle_fuzz_reboot | 0 | 0| 
 | 20230510T12:26:50Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 76 | 1| 
 | 20230510T11:56:35Z | Null | https://github.com/sstevenadi/FuzzyLogic | 0 | 0| 
 | 20230510T11:37:16Z | Null | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
-| 20230510T10:22:47Z | My clone repository | https://github.com/Zasel2/fuzzy-octo-goggles | 0 | 0| 
-| 20230510T09:18:00Z | Null | https://github.com/vikasseo/fuzzy-telegram | 0 | 0| 
-| 20230510T04:59:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4684 | 1126| 
-| 20230510T02:45:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8639 | 1898| 
 
 
 
