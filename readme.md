@@ -75,6 +75,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:18:18Z | Tugas Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy | 0 | 0| 
+| 20230511T12:17:43Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
+| 20230511T12:15:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2110 | 265| 
 | 20230511T12:12:58Z | Null | https://github.com/findriy/LogikaFuzzy | 0 | 0| 
 | 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
 | 20230511T10:30:10Z | Null | https://github.com/maqaro/fuzzy-rotary-phone | 0 | 0| 
@@ -82,9 +85,6 @@
 | 20230511T09:41:04Z | Null | https://github.com/linogaliana/fuzzy-matching-requirements | 0 | 0| 
 | 20230511T09:25:26Z | 一个老套掉牙的sql fuzz实现 | https://github.com/kN6jq/sqlfuzz | 0 | 0| 
 | 20230511T08:23:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4997 | 528| 
-| 20230511T08:23:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8643 | 1905| 
-| 20230511T06:03:07Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 2 | 0| 
-| 20230511T00:32:43Z | Null | https://github.com/FuzzyLogician27/FuzzyLogician27.github.io | 0 | 0| 
 
 
 
