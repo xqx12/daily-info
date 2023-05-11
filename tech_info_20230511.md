@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:12:58Z | Null | https://github.com/findriy/LogikaFuzzy | 0 | 0| 
 | 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
 | 20230511T10:30:10Z | Null | https://github.com/maqaro/fuzzy-rotary-phone | 0 | 0| 
 | 20230511T09:58:57Z | Null | https://github.com/junbeom07/fuzzy-engine | 0 | 0| 
