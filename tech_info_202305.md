@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T00:32:43Z | Null | https://github.com/FuzzyLogician27/FuzzyLogician27.github.io | 0 | 0| 
 | 20230510T23:16:00Z | Null | https://github.com/Aimeedeer/contract-for-fuzz | 0 | 0| 
 | 20230510T22:56:32Z | Playing around with fuzzing | https://github.com/marcusbotacin/MalwareFuzz | 1 | 0| 
 | 20230510T22:35:20Z | Null | https://github.com/punt040/fuzzyenigma | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20230510T17:22:52Z | Null | https://github.com/mattiemarie/pickle_fuzz_reboot | 0 | 0| 
 | 20230510T12:26:50Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 76 | 1| 
 | 20230510T11:56:35Z | Null | https://github.com/sstevenadi/FuzzyLogic | 0 | 0| 
-| 20230510T11:37:16Z | Null | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 
 
 
