@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T12:20:22Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy. | 0 | 0| 
 | 20230511T12:18:18Z | Tugas Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy | 0 | 0| 
 | 20230511T12:17:43Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
 | 20230511T12:15:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2110 | 265| 
@@ -129,7 +130,6 @@
 | 20230511T09:58:57Z | Null | https://github.com/junbeom07/fuzzy-engine | 0 | 0| 
 | 20230511T09:41:04Z | Null | https://github.com/linogaliana/fuzzy-matching-requirements | 0 | 0| 
 | 20230511T09:25:26Z | 一个老套掉牙的sql fuzz实现 | https://github.com/kN6jq/sqlfuzz | 0 | 0| 
-| 20230511T08:23:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4997 | 528| 
 
 
 
