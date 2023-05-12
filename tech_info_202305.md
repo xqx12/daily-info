@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T00:35:38Z | Assignment 7 question 1 | https://github.com/th3cod3rbab3/Backdoor-Shell | 0 | 0| 
 | 20230511T23:23:02Z | Rats - Stealers - Backdooring - Crypters - Keyloggers - Binders - Worms | https://github.com/xmarvelowner/Rats---Stealers---Backdooring---Crypters---Keyloggers---Binders---Worms | 0 | 0| 
 | 20230511T20:16:31Z | Null | https://github.com/Kaonashiz/BackdoorWindowsService | 0 | 0| 
 | 20230511T19:27:00Z | Null | https://github.com/Chadi-Mangle/backdoor_python | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20230511T11:00:08Z | ApkHack-BackDoor is a shell script that simplifies the process of adding a backdoor to any Android APK file.  | https://github.com/BitWalls-ops/ApkHack-BackDoor | 1 | 0| 
 | 20230511T04:55:16Z | Kernel  rk | https://github.com/carloslack/KoviD | 123 | 30| 
 | 20230510T17:54:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 439 | 81| 
-| 20230510T13:02:53Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
