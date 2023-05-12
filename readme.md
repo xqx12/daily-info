@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T12:59:11Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Azrempacco/Roobet-Crypto-Casino-Predictor | 0 | 0| 
 | 20230512T12:58:07Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/allowance-exploit-list | 10 | 0| 
 | 20230512T12:43:18Z | Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on. | https://github.com/j00sean/SecBugs | 55 | 7| 
 | 20230512T12:30:30Z | Null | https://github.com/Cooper2777/exploit | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230512T09:31:30Z | Null | https://github.com/phamvandan/Exploit-Tools | 0 | 0| 
 | 20230512T09:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 72 | 28| 
 | 20230512T08:59:57Z | Adapted exploits | https://github.com/KyleSpence/Grandstream | 0 | 0| 
-| 20230512T04:55:58Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
