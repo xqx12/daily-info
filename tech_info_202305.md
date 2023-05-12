@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T01:18:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o9 | 1 | 0| 
+| 20230512T01:17:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:16:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T00:16:54Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Moroszx/Valorant-PhoeniX-TOOL | 109 | 0| 
 | 20230512T00:14:22Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Moroszx/Roobet-Crypto-Casino-Predictor | 109 | 0| 
@@ -73,8 +75,6 @@
 | 20230511T21:23:26Z | ECHO: An Approach to Enhance Use Case Quality Exploiting Large Language Models. | https://github.com/gadevito/FGG | 0 | 0| 
 | 20230511T20:44:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0181-app-XzYEU-escape-exploit | 0 | 0| 
 | 20230511T19:42:19Z | The project consist in making a road traffic simulation and exploit stop and go waves and overtaking cars. | https://github.com/JaXlouloute/M1_Road_Traffic_Program | 0 | 0| 
-| 20230511T18:42:31Z | Création et exploitation d%une base de données SQL | https://github.com/AdelineLR/Base_donnees_immo_SQL | 0 | 0| 
-| 20230511T16:05:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 479 | 92| 
 
 
 # backdoor on Github 推荐
