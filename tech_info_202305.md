@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230511T19:41:47Z | CVE-2021-3156 | Null | https://github.com/mutur4/CVE-2021-3156 | | 
 | 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
@@ -35,13 +36,12 @@
 | 20230511T05:21:16Z | CVE-2023-0461 | Null | https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd | | 
 | 20230511T02:55:03Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
 | 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
-| 20230510T01:46:43Z | CVE-2023-27524 | Null | https://github.com/TardC/CVE-2023-27524 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230511T10:22:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12004 | 378| 
+| 20230511T14:15:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12007 | 378| 
 | 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
 | 20230509T16:24:33Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 280 | 4| 
 | 20230507T16:12:49Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T23:30:36Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Moroszx/Valorant-PhoeniX-TOOL | 56 | 0| 
+| 20230511T23:28:00Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Moroszx/Roobet-Crypto-Casino-Predictor | 56 | 0| 
+| 20230511T22:43:25Z | Null | https://github.com/KaioXo/YoutubeExploit | 0 | 0| 
+| 20230511T21:23:26Z | ECHO: An Approach to Enhance Use Case Quality Exploiting Large Language Models. | https://github.com/gadevito/FGG | 0 | 0| 
+| 20230511T20:44:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0181-app-XzYEU-escape-exploit | 0 | 0| 
+| 20230511T19:42:19Z | The project consist in making a road traffic simulation and exploit stop and go waves and overtaking cars. | https://github.com/JaXlouloute/M1_Road_Traffic_Program | 0 | 0| 
+| 20230511T18:42:31Z | Création et exploitation d%une base de données SQL | https://github.com/AdelineLR/Base_donnees_immo_SQL | 0 | 0| 
 | 20230511T11:00:12Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 20 | 2| 
 | 20230511T10:50:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4964 | 978| 
 | 20230511T09:51:30Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 470 | 34| 
-| 20230511T09:36:18Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0117-app-ILp4s-remember-exploit | 0 | 0| 
-| 20230511T09:27:03Z | Voici le code permettant l%automatisation de l%exploitation des données  | https://github.com/matt2win/Exploitation-donn- | 0 | 0| 
-| 20230511T08:51:51Z | Null | https://github.com/4bhishek0/stack-exploits | 0 | 0| 
-| 20230511T08:33:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5102 | 732| 
-| 20230511T07:29:38Z | Placement et gestion de fichier tsv directement exploitables par le service tsv2kafka (anciennement bacon2kafka) | https://github.com/abes-esr/chargement_kbart | 0 | 0| 
-| 20230511T05:47:22Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 30 | 9| 
-| 20230511T01:40:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-O1xid-die-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T23:23:02Z | Rats - Stealers - Backdooring - Crypters - Keyloggers - Binders - Worms | https://github.com/xmarvelowner/Rats---Stealers---Backdooring---Crypters---Keyloggers---Binders---Worms | 0 | 0| 
+| 20230511T20:16:31Z | Null | https://github.com/Kaonashiz/BackdoorWindowsService | 0 | 0| 
+| 20230511T19:27:00Z | Null | https://github.com/Chadi-Mangle/backdoor_python | 0 | 0| 
+| 20230511T17:37:27Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR 2023, Best Paper Award at ECCV 2022 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 9 | 0| 
+| 20230511T16:07:39Z | Python SSL/TLS backdoor (NC) Win | https://github.com/nemesi-ita/tlsbckd | 0 | 0| 
 | 20230511T11:00:39Z | In this repositiories you will get some intresting this but this should be use for fun or kidding. This method should not be performed at school , college , or any other public place. | https://github.com/AnandKatariya/Backdoor-Trojan | 2 | 0| 
 | 20230511T11:00:08Z | ApkHack-BackDoor is a shell script that simplifies the process of adding a backdoor to any Android APK file.  | https://github.com/BitWalls-ops/ApkHack-BackDoor | 1 | 0| 
-| 20230511T09:20:50Z | [ICLR 2023, Best Paper Award at ECCV 2022 AROW Workshop] FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning | https://github.com/KaiyuanZh/FLIP | 8 | 0| 
 | 20230511T04:55:16Z | Kernel  rk | https://github.com/carloslack/KoviD | 123 | 30| 
 | 20230510T17:54:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 439 | 81| 
 | 20230510T13:02:53Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
-| 20230510T10:02:30Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 42 | 6| 
-| 20230510T10:02:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 53 | 9| 
-| 20230510T08:47:37Z | Using CFGExplainer to Implement Backdoor Attack | https://github.com/ycchiu0703/CFGE2BA | 0 | 0| 
-| 20230509T19:11:07Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/Lynk4/CVE-2011-2523 | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T23:38:31Z | Null | https://github.com/sfyr13/Fuzzy_sys | 0 | 0| 
+| 20230511T23:36:37Z | Test  | https://github.com/TheNickHub/fuzzy-barnacle | 0 | 0| 
+| 20230511T23:35:51Z | A Dice Shop | https://github.com/winston142O/FuzzyDice | 0 | 0| 
+| 20230511T23:23:44Z | Null | https://github.com/blocks3k/fuzz | 0 | 0| 
+| 20230511T13:50:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4998 | 528| 
 | 20230511T12:58:47Z | Null | https://github.com/ukra174/fuzzy-octo-engine | 0 | 0| 
 | 20230511T12:44:14Z | Null | https://github.com/google/fuzztest | 276 | 19| 
 | 20230511T12:26:37Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
 | 20230511T12:25:53Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy. | 0 | 0| 
 | 20230511T12:18:18Z | Tugas Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy | 0 | 0| 
-| 20230511T12:15:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2110 | 265| 
-| 20230511T12:12:58Z | Null | https://github.com/findriy/LogikaFuzzy | 0 | 0| 
-| 20230511T10:38:39Z | Null | https://github.com/j4cobgarby/fuzzylabs | 0 | 0| 
-| 20230511T10:30:10Z | Null | https://github.com/maqaro/fuzzy-rotary-phone | 0 | 0| 
-| 20230511T09:58:57Z | Null | https://github.com/junbeom07/fuzzy-engine | 0 | 0| 
 
 
 
