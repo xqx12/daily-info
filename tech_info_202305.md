@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230512T01:20:16Z | CVE-2022-46169 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | | 
 | 20230511T19:41:47Z | CVE-2021-3156 | Null | https://github.com/mutur4/CVE-2021-3156 | | 
 | 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
@@ -35,7 +36,6 @@
 | 20230511T05:37:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
 | 20230511T05:21:16Z | CVE-2023-0461 | Null | https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd | | 
 | 20230511T02:55:03Z | CVE-2023-2594 | A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396. | https://github.com/thehackingverse/CVE-2023-2594 | | 
-| 20230510T05:33:16Z | CVE-2023-28772 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772 | | 
 
 
 # klee on Github 推荐
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T01:20:16Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | 0 | 0| 
 | 20230512T01:18:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:17:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:16:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o9 | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20230511T22:43:25Z | Null | https://github.com/KaioXo/YoutubeExploit | 0 | 0| 
 | 20230511T21:23:26Z | ECHO: An Approach to Enhance Use Case Quality Exploiting Large Language Models. | https://github.com/gadevito/FGG | 0 | 0| 
 | 20230511T20:44:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0181-app-XzYEU-escape-exploit | 0 | 0| 
-| 20230511T19:42:19Z | The project consist in making a road traffic simulation and exploit stop and go waves and overtaking cars. | https://github.com/JaXlouloute/M1_Road_Traffic_Program | 0 | 0| 
 
 
 # backdoor on Github 推荐
