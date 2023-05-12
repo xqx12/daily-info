@@ -65,13 +65,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T01:42:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4895 | 616| 
 | 20230512T01:22:35Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | 0 | 0| 
 | 20230512T01:18:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:17:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:16:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T00:16:54Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Moroszx/Valorant-PhoeniX-TOOL | 109 | 0| 
 | 20230512T00:14:22Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Moroszx/Roobet-Crypto-Casino-Predictor | 109 | 0| 
-| 20230511T23:37:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4894 | 616| 
 | 20230511T22:43:25Z | Null | https://github.com/KaioXo/YoutubeExploit | 0 | 0| 
 | 20230511T21:23:26Z | ECHO: An Approach to Enhance Use Case Quality Exploiting Large Language Models. | https://github.com/gadevito/FGG | 0 | 0| 
 | 20230511T20:44:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0181-app-XzYEU-escape-exploit | 0 | 0| 
