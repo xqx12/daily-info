@@ -88,6 +88,7 @@
 | 20230512T10:15:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8646 | 1901| 
 | 20230512T10:11:13Z | hotstuff med fuzz testing | https://github.com/abjeni/hotstuff_assi | 0 | 0| 
 | 20230512T09:54:41Z | A small C++ program with deliberate bugs and no dependencies, created for the purpose of fuzzing | https://github.com/kshitijl/minimal-fuzzing-example | 0 | 0| 
+| 20230512T09:08:15Z | Null | https://github.com/Kravalg/fuzzy-fiesta | 0 | 0| 
 | 20230512T00:17:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4687 | 1125| 
 
 
