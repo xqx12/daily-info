@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T01:16:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T00:16:54Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Moroszx/Valorant-PhoeniX-TOOL | 109 | 0| 
 | 20230512T00:14:22Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Moroszx/Roobet-Crypto-Casino-Predictor | 109 | 0| 
 | 20230511T23:37:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4894 | 616| 
@@ -74,7 +75,6 @@
 | 20230511T19:42:19Z | The project consist in making a road traffic simulation and exploit stop and go waves and overtaking cars. | https://github.com/JaXlouloute/M1_Road_Traffic_Program | 0 | 0| 
 | 20230511T18:42:31Z | Création et exploitation d%une base de données SQL | https://github.com/AdelineLR/Base_donnees_immo_SQL | 0 | 0| 
 | 20230511T16:05:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 479 | 92| 
-| 20230511T11:00:12Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 20 | 2| 
 
 
 # backdoor on Github 推荐
