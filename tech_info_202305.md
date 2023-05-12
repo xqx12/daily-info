@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230512T01:20:16Z | CVE-2022-46169 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | | 
+| 20230512T01:22:35Z | CVE-2022-46169 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | | 
 | 20230511T19:41:47Z | CVE-2021-3156 | Null | https://github.com/mutur4/CVE-2021-3156 | | 
 | 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230512T01:20:16Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | 0 | 0| 
+| 20230512T01:22:35Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | 0 | 0| 
 | 20230512T01:18:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:17:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o9 | 1 | 0| 
 | 20230512T01:16:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o9 | 1 | 0| 
