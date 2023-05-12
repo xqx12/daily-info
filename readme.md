@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230511T23:37:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4894 | 616| 
 | 20230511T23:30:36Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Moroszx/Valorant-PhoeniX-TOOL | 56 | 0| 
 | 20230511T23:28:00Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Moroszx/Roobet-Crypto-Casino-Predictor | 56 | 0| 
 | 20230511T22:43:25Z | Null | https://github.com/KaioXo/YoutubeExploit | 0 | 0| 
@@ -49,9 +50,8 @@
 | 20230511T20:44:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0181-app-XzYEU-escape-exploit | 0 | 0| 
 | 20230511T19:42:19Z | The project consist in making a road traffic simulation and exploit stop and go waves and overtaking cars. | https://github.com/JaXlouloute/M1_Road_Traffic_Program | 0 | 0| 
 | 20230511T18:42:31Z | Création et exploitation d%une base de données SQL | https://github.com/AdelineLR/Base_donnees_immo_SQL | 0 | 0| 
+| 20230511T16:05:27Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 479 | 92| 
 | 20230511T11:00:12Z | This PDF RAT IS SUPPORT ANDROID, WINDOWN, IOS, LINUX OS | https://github.com/benrav007/PDF-RAT | 20 | 2| 
-| 20230511T10:50:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4964 | 978| 
-| 20230511T09:51:30Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 470 | 34| 
 
 
 # backdoor on Github 推荐
