@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T11:46:57Z | Null | https://github.com/Abby560/fuzzy-memory | 0 | 0| 
+| 20230512T10:58:23Z | Null | https://github.com/nhatnguyen1101/IrisFuzzy | 0 | 0| 
+| 20230512T10:38:01Z | Null | https://github.com/srikanth-sri756/Credit-Card-Fraud-Detection-Using-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
+| 20230512T10:15:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8646 | 1901| 
+| 20230512T10:11:13Z | hotstuff med fuzz testing | https://github.com/abjeni/hotstuff_assi | 0 | 0| 
+| 20230512T09:54:41Z | A small C++ program with deliberate bugs and no dependencies, created for the purpose of fuzzing | https://github.com/kshitijl/minimal-fuzzing-example | 0 | 0| 
+| 20230512T00:17:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4687 | 1125| 
 | 20230511T23:38:31Z | Null | https://github.com/sfyr13/Fuzzy_sys | 0 | 0| 
 | 20230511T23:36:37Z | Test  | https://github.com/TheNickHub/fuzzy-barnacle | 0 | 0| 
 | 20230511T23:35:51Z | A Dice Shop | https://github.com/winston142O/FuzzyDice | 0 | 0| 
-| 20230511T23:23:44Z | Null | https://github.com/blocks3k/fuzz | 0 | 0| 
-| 20230511T13:50:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4998 | 528| 
-| 20230511T12:58:47Z | Null | https://github.com/ukra174/fuzzy-octo-engine | 0 | 0| 
-| 20230511T12:44:14Z | Null | https://github.com/google/fuzztest | 276 | 19| 
-| 20230511T12:26:37Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Mamdani) | https://github.com/dinarbrina/Logika-Fuzzy-Tugas3 | 0 | 0| 
-| 20230511T12:25:53Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy. | 0 | 0| 
-| 20230511T12:18:18Z | Tugas Pengecekkan Jumlah Produksi Kemasan Makanan ABC, Metode Mamdani | https://github.com/findriy/Logika-Fuzzy | 0 | 0| 
 
 
 
