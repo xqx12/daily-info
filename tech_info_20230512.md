@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230512 | 3CXDesktopApp供应链攻击分析 | https://mp.weixin.qq.com/s/vebophROwiyr8U4YltzspA| 
+| 20230512 | Burp+Charles联动安卓APP抓包 | https://mp.weixin.qq.com/s/4zPvQERYOujdzLItpAPNFQ| 
 
 
 # CVE Github 推荐

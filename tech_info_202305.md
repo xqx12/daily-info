@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230512 | 3CXDesktopApp供应链攻击分析 | https://mp.weixin.qq.com/s/vebophROwiyr8U4YltzspA| 
+| 20230512 | Burp+Charles联动安卓APP抓包 | https://mp.weixin.qq.com/s/4zPvQERYOujdzLItpAPNFQ| 
 | 20230510 | GreyNoise 如何计算 IP 的相似性 | https://mp.weixin.qq.com/s/mhySu_-_aa1SiqAOy1EEWA| 
 | 20230510 | Python项目中的依赖分析 | https://mp.weixin.qq.com/s/EcefkWsjF3wjG2MsHnsAFw| 
 | 20230509 | 针对静态API误用检测器的系统化评估 | https://mp.weixin.qq.com/s/36NkhrNmV0M-7rVAIZ1ARQ| 
@@ -20,7 +21,6 @@
 | 20230508 | 从美公布 2024 财年预算看网络空间发展 | https://mp.weixin.qq.com/s/rrMSCaSy0hL3_h1eOekkvA| 
 | 20230508 | 从云上攻防态势分析展望云服务安全架构设计框架发展 | https://mp.weixin.qq.com/s/zVfRwoXC7YhFv7SK-yOLSw| 
 | 20230508 | 十大开源攻击模拟（BAS）工具 | https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ| 
-| 20230508 | SecWiki周刊（第479期) | https://www.sec-wiki.com/weekly/479| 
 
 
 # CVE Github 推荐
