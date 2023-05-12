@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T12:11:05Z | A Simple Example of Fuzzy Logic Implementation on a Microcontroller | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 | 20230512T11:46:57Z | Null | https://github.com/Abby560/fuzzy-memory | 0 | 0| 
 | 20230512T10:58:23Z | Null | https://github.com/nhatnguyen1101/IrisFuzzy | 0 | 0| 
 | 20230512T10:38:01Z | Null | https://github.com/srikanth-sri756/Credit-Card-Fraud-Detection-Using-Fuzzy-Logic-and-Neural-Network | 0 | 0| 

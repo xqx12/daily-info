@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T12:11:05Z | A Simple Example of Fuzzy Logic Implementation on a Microcontroller | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 | 20230512T11:46:57Z | Null | https://github.com/Abby560/fuzzy-memory | 0 | 0| 
 | 20230512T10:58:23Z | Null | https://github.com/nhatnguyen1101/IrisFuzzy | 0 | 0| 
 | 20230512T10:38:01Z | Null | https://github.com/srikanth-sri756/Credit-Card-Fraud-Detection-Using-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20230512T00:17:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4687 | 1125| 
 | 20230511T23:38:31Z | Null | https://github.com/sfyr13/Fuzzy_sys | 0 | 0| 
 | 20230511T23:36:37Z | Test  | https://github.com/TheNickHub/fuzzy-barnacle | 0 | 0| 
-| 20230511T23:35:51Z | A Dice Shop | https://github.com/winston142O/FuzzyDice | 0 | 0| 
 
 
 
