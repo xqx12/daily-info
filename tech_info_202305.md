@@ -69,13 +69,13 @@
 | 20230512T12:30:30Z | Null | https://github.com/Cooper2777/exploit | 0 | 0| 
 | 20230512T11:34:28Z | Can the frequency preference of neurons be exploited to increase the selectivity of electrical stimulation? | https://github.com/hkt28/MEng-FYP | 0 | 0| 
 | 20230512T11:14:20Z | Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on. | https://github.com/j00sean/SecBugs | 54 | 7| 
+| 20230512T10:30:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4965 | 980| 
 | 20230512T09:43:34Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
 | 20230512T09:31:30Z | Null | https://github.com/phamvandan/Exploit-Tools | 0 | 0| 
 | 20230512T09:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 72 | 28| 
 | 20230512T08:59:57Z | Adapted exploits | https://github.com/KyleSpence/Grandstream | 0 | 0| 
 | 20230512T04:55:58Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 0 | 0| 
 | 20230512T03:24:59Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3825 | 553| 
-| 20230512T03:19:16Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 551 | 103| 
 
 
 # backdoor on Github 推荐
