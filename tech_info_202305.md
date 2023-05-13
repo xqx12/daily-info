@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T01:08:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o8 | 1 | 0| 
+| 20230513T01:07:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o8 | 1 | 0| 
 | 20230513T01:06:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o8 | 1 | 0| 
 | 20230513T01:04:37Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
 | 20230513T00:48:08Z | Null | https://github.com/Daveplox/Exploit_Daveplox | 0 | 0| 
@@ -74,8 +76,6 @@
 | 20230513T00:22:06Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ChubV9/Valorant-PhoeniX-TOOL | 168 | 0| 
 | 20230512T23:30:24Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3827 | 553| 
 | 20230512T23:10:26Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 1 | 0| 
-| 20230512T20:55:07Z | This project involved using Ettercap and Wireshark to perform a DNS spoofing attack. By exploiting vulnerabilities in the DNS protocol, I was able to redirect traffic to a malicious website. | https://github.com/matt-norris/DNSSpoof | 0 | 0| 
-| 20230512T20:51:33Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
