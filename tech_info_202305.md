@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230513T01:02:33Z | CVE-2021-3156 | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | | 
 | 20230512T13:49:28Z | 未知编号 | Null | https://github.com/tht1997/CVE_2023 | | 
 | 20230512T10:23:15Z | CVE-2021-35587 | This PoC proves that target is vulnerable to the CVE-2021-35587. Vulnerability is found in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0 | https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check | | 
 | 20230512T09:16:02Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
@@ -35,7 +36,6 @@
 | 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
 | 20230511T08:42:56Z | CVE-2022-30114 | Null | https://github.com/str0ng4le/CVE-2022-30114 | | 
-| 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
 
 
 # klee on Github 推荐
@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230513T01:02:33Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
+| 20230513T01:04:37Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
 | 20230513T00:48:08Z | Null | https://github.com/Daveplox/Exploit_Daveplox | 0 | 0| 
 | 20230513T00:30:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-J8mGL-exploit-catch | 0 | 0| 
 | 20230513T00:23:42Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ChubV9/Roobet-Crypto-Casino-Predictor | 175 | 0| 
