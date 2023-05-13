@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230513T01:02:33Z | CVE-2021-3156 | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | | 
+| 20230513T01:04:37Z | CVE-2021-3156 | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | | 
 | 20230512T13:49:28Z | 未知编号 | Null | https://github.com/tht1997/CVE_2023 | | 
 | 20230512T10:23:15Z | CVE-2021-35587 | This PoC proves that target is vulnerable to the CVE-2021-35587. Vulnerability is found in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0 | https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check | | 
 | 20230512T09:16:02Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T01:06:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o8 | 1 | 0| 
 | 20230513T01:04:37Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
 | 20230513T00:48:08Z | Null | https://github.com/Daveplox/Exploit_Daveplox | 0 | 0| 
 | 20230513T00:30:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-J8mGL-exploit-catch | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230512T23:10:26Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 1 | 0| 
 | 20230512T20:55:07Z | This project involved using Ettercap and Wireshark to perform a DNS spoofing attack. By exploiting vulnerabilities in the DNS protocol, I was able to redirect traffic to a malicious website. | https://github.com/matt-norris/DNSSpoof | 0 | 0| 
 | 20230512T20:51:33Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
-| 20230512T19:18:13Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 20 | 8| 
 
 
 # backdoor on Github 推荐
