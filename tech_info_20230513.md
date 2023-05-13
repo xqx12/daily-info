@@ -52,10 +52,10 @@
 | 20230513T11:30:49Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3454 | 509| 
 | 20230513T10:27:34Z | exploit | https://github.com/Priyank114/priyank | 0 | 0| 
 | 20230513T08:40:01Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 5093 | 2027| 
+| 20230513T07:43:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4966 | 980| 
 | 20230513T07:32:45Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5559 | 754| 
 | 20230513T06:55:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10180 | 1600| 
 | 20230513T02:20:36Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
-| 20230513T01:08:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
