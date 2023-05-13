@@ -94,9 +94,9 @@
 | 20230512T22:55:36Z | Null | https://github.com/Senilato/fuzzy-spork | 0 | 0| 
 | 20230512T21:39:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8648 | 1903| 
 | 20230512T21:21:55Z | Null | https://github.com/Ttonyema/fuzzy-succotash | 0 | 0| 
+| 20230512T20:13:48Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1408 | 103| 
 | 20230512T14:13:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3583 | 427| 
 | 20230512T12:11:05Z | A Simple Example of Fuzzy Logic Implementation on a Microcontroller | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
-| 20230512T11:46:57Z | Null | https://github.com/Abby560/fuzzy-memory | 0 | 0| 
 
 
 
