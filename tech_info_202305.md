@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T00:30:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-J8mGL-exploit-catch | 0 | 0| 
 | 20230513T00:23:42Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ChubV9/Roobet-Crypto-Casino-Predictor | 175 | 0| 
 | 20230513T00:22:06Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ChubV9/Valorant-PhoeniX-TOOL | 168 | 0| 
 | 20230512T23:30:24Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3827 | 553| 
@@ -75,7 +76,6 @@
 | 20230512T19:18:13Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 20 | 8| 
 | 20230512T19:10:05Z | Millhouse Remote code execution exploit | https://github.com/blue0x1/millhouse-rce-exploit | 0 | 0| 
 | 20230512T16:41:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5557 | 753| 
-| 20230512T14:13:56Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 480 | 92| 
 
 
 # backdoor on Github 推荐
@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230513T00:11:15Z | fuzzer input generator tool, convert/transform then increment u64s | https://github.com/jpegleg/woodchucker | 0 | 0| 
+| 20230513T00:32:48Z | fuzzer input generator tool, convert/transform then increment u64s | https://github.com/jpegleg/woodchucker | 0 | 0| 
 | 20230512T23:33:50Z | Null | https://github.com/Entoramp/fuzzy-broccoli | 0 | 0| 
 | 20230512T23:22:46Z | Para criar um programa de automação residencial em PHP | https://github.com/GalileuFlavio/fuzzy-octo-guide | 0 | 0| 
 | 20230512T23:20:25Z | Null | https://github.com/Dakelot/fuzzy-octo-eureka | 0 | 0| 
