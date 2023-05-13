@@ -103,8 +103,8 @@
 | 20230511T18:09:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3438 | 479| 
 | 20230511T07:20:22Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 87 | 2| 
 | 20230509T09:19:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 764 | 88| 
+| 20230508T07:58:35Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 561 | 37| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
-| 20230507T07:20:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 560 | 37| 
 | 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 
 
