@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230512T13:49:28Z | 未知编号 | Null | https://github.com/tht1997/CVE_2023 | | 
 | 20230512T10:23:15Z | CVE-2021-35587 | This PoC proves that target is vulnerable to the CVE-2021-35587. Vulnerability is found in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0 | https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check | | 
 | 20230512T09:16:02Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230512T06:37:08Z | CVE-2023-28772 | Null | https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772 | | 
@@ -33,24 +34,23 @@
 | 20230511T19:41:47Z | CVE-2021-3156 | Null | https://github.com/mutur4/CVE-2021-3156 | | 
 | 20230511T12:43:51Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230511T10:52:38Z | CVE-2023-28772 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772 | | 
+| 20230511T08:42:56Z | CVE-2022-30114 | Null | https://github.com/str0ng4le/CVE-2022-30114 | | 
 | 20230511T08:29:54Z | CVE-2023-28772 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772 | | 
-| 20230511T07:45:25Z | CVE-2023-28772 | Null | https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu | | 
-| 20230511T05:37:12Z | CVE-2023-0461 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T20:07:29Z | Null | https://github.com/hummju/kleesvelte | 0 | 0| 
+| 20230512T17:24:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12009 | 380| 
+| 20230512T16:48:01Z | machine-learning-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/machine-learning-Ethan-Klee | 0 | 0| 
 | 20230512T12:27:26Z | hackathon im zentrum paul klee | https://github.com/flurinanna/paulraus | 0 | 0| 
-| 20230512T12:13:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12010 | 380| 
 | 20230512T06:39:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 281 | 4| 
 | 20230512T03:22:03Z | Config files for my GitHub profile. | https://github.com/Ayyitskevin/Klee-UCF-Coding-Bootcamp-Git | 0 | 0| 
 | 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
 | 20230507T16:12:49Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
 | 20230505T19:31:23Z | A pyhton script that calls klee ktest-tool on tests that trigger an error | https://github.com/damienmaier/ktest-error | 0 | 0| 
 | 20230505T10:09:31Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 69 | 18| 
-| 20230505T03:06:28Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 28 | 0| 
-| 20230504T23:01:21Z | Null | https://github.com/TissueCommercialKleenexAd6543210987/TissueCommercialKleenexAd6543210987.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,21 +66,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T23:49:57Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ChubV9/Valorant-PhoeniX-TOOL | 0 | 0| 
+| 20230512T23:48:39Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ChubV9/Roobet-Crypto-Casino-Predictor | 0 | 0| 
+| 20230512T23:30:24Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3827 | 553| 
+| 20230512T23:10:26Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 1 | 0| 
+| 20230512T20:55:07Z | This project involved using Ettercap and Wireshark to perform a DNS spoofing attack. By exploiting vulnerabilities in the DNS protocol, I was able to redirect traffic to a malicious website. | https://github.com/matt-norris/DNSSpoof | 0 | 0| 
+| 20230512T20:51:33Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
+| 20230512T19:18:13Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 20 | 8| 
+| 20230512T19:10:05Z | Millhouse Remote code execution exploit | https://github.com/blue0x1/millhouse-rce-exploit | 0 | 0| 
+| 20230512T16:41:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5557 | 753| 
 | 20230512T12:59:11Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Azrempacco/Roobet-Crypto-Casino-Predictor | 0 | 0| 
-| 20230512T12:58:07Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/allowance-exploit-list | 10 | 0| 
-| 20230512T12:43:18Z | Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on. | https://github.com/j00sean/SecBugs | 55 | 7| 
-| 20230512T12:30:30Z | Null | https://github.com/Cooper2777/exploit | 0 | 0| 
-| 20230512T11:34:28Z | Can the frequency preference of neurons be exploited to increase the selectivity of electrical stimulation? | https://github.com/hkt28/MEng-FYP | 0 | 0| 
-| 20230512T10:30:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4965 | 980| 
-| 20230512T09:43:34Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
-| 20230512T09:31:30Z | Null | https://github.com/phamvandan/Exploit-Tools | 0 | 0| 
-| 20230512T09:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 72 | 28| 
-| 20230512T08:59:57Z | Adapted exploits | https://github.com/KyleSpence/Grandstream | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T16:50:32Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
+| 20230512T16:28:44Z | Null | https://github.com/Kaitlyn019/848D-Backdoor-Explainability | 0 | 0| 
+| 20230512T15:26:12Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
 | 20230512T11:43:52Z | Null | https://github.com/nibesh0/backdoorp | 0 | 0| 
 | 20230512T04:44:36Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 189 | 42| 
 | 20230512T04:15:09Z | Null | https://github.com/jeevi75/backdoorattack | 0 | 0| 
@@ -88,9 +91,6 @@
 | 20230512T01:54:07Z | Tracking PHP function calls, backdoor scripts | https://github.com/puleeno/php-secure-lib | 0 | 0| 
 | 20230512T00:35:38Z | Assignment 7 question 1 | https://github.com/th3cod3rbab3/Backdoor-Shell | 0 | 0| 
 | 20230511T23:23:02Z | Rats - Stealers - Backdooring - Crypters - Keyloggers - Binders - Worms | https://github.com/xmarvelowner/Rats---Stealers---Backdooring---Crypters---Keyloggers---Binders---Worms | 0 | 0| 
-| 20230511T20:16:31Z | Null | https://github.com/Kaonashiz/BackdoorWindowsService | 0 | 0| 
-| 20230511T19:27:00Z | Null | https://github.com/Chadi-Mangle/backdoor_python | 0 | 0| 
-| 20230511T17:37:27Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR 2023, Best Paper Award at ECCV 2022 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 9 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230512T23:33:50Z | Null | https://github.com/Entoramp/fuzzy-broccoli | 0 | 0| 
+| 20230512T23:22:46Z | Para criar um programa de automação residencial em PHP | https://github.com/GalileuFlavio/fuzzy-octo-guide | 0 | 0| 
+| 20230512T23:20:25Z | Null | https://github.com/Dakelot/fuzzy-octo-eureka | 0 | 0| 
+| 20230512T23:08:06Z | Null | https://github.com/Wnintisho/fuzzy-palm-tree | 0 | 0| 
+| 20230512T22:55:36Z | Null | https://github.com/Senilato/fuzzy-spork | 0 | 0| 
+| 20230512T21:39:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8648 | 1903| 
+| 20230512T21:21:55Z | Null | https://github.com/Ttonyema/fuzzy-succotash | 0 | 0| 
 | 20230512T12:11:05Z | A Simple Example of Fuzzy Logic Implementation on a Microcontroller | https://github.com/1999AZZAR/fuzzy-logic-fire-detection-system | 0 | 0| 
 | 20230512T11:46:57Z | Null | https://github.com/Abby560/fuzzy-memory | 0 | 0| 
 | 20230512T10:58:23Z | Null | https://github.com/nhatnguyen1101/IrisFuzzy | 0 | 0| 
-| 20230512T10:38:01Z | Null | https://github.com/srikanth-sri756/Credit-Card-Fraud-Detection-Using-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
-| 20230512T10:15:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8646 | 1901| 
-| 20230512T10:11:13Z | hotstuff med fuzz testing | https://github.com/abjeni/hotstuff_assi | 0 | 0| 
-| 20230512T09:54:41Z | A small C++ program with deliberate bugs and no dependencies, created for the purpose of fuzzing | https://github.com/kshitijl/minimal-fuzzing-example | 0 | 0| 
-| 20230512T09:08:15Z | Null | https://github.com/Kravalg/fuzzy-fiesta | 0 | 0| 
-| 20230512T00:17:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4687 | 1125| 
-| 20230511T23:38:31Z | Null | https://github.com/sfyr13/Fuzzy_sys | 0 | 0| 
 
 
 
