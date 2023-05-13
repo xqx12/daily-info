@@ -75,7 +75,7 @@
 | 20230513T00:23:42Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/ChubV9/Roobet-Crypto-Casino-Predictor | 175 | 0| 
 | 20230513T00:22:06Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/ChubV9/Valorant-PhoeniX-TOOL | 168 | 0| 
 | 20230512T23:30:24Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3827 | 553| 
-| 20230512T23:10:26Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 1 | 0| 
+| 20230512T23:23:44Z | Pwnable writeup, practices and scripts exploit. | https://github.com/Nigmaz/Pwnable | 6 | 0| 
 
 
 # backdoor on Github 推荐
