@@ -50,12 +50,12 @@
 | 20230512T23:10:26Z | en esta tarea se modificara y explicara un exploit ya existente con fines educativos | https://github.com/FedericoGaribay/Tarea-exploit | 1 | 0| 
 | 20230512T20:55:07Z | This project involved using Ettercap and Wireshark to perform a DNS spoofing attack. By exploiting vulnerabilities in the DNS protocol, I was able to redirect traffic to a malicious website. | https://github.com/matt-norris/DNSSpoof | 0 | 0| 
 | 20230512T20:51:33Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
+| 20230512T20:28:39Z | PoC exploit for HP Hardware Diagnostic%s EtdSupp driver | https://github.com/alfarom256/HPHardwareDiagnostics-PoC | 19 | 3| 
 | 20230512T19:18:13Z | The first ever MC:BE ForceOP Exploit utilizing a user impersonation exploit within Bedrock Dedicated Server | https://github.com/MrDiamond64/EliteElixir | 20 | 8| 
 | 20230512T19:10:05Z | Millhouse Remote code execution exploit | https://github.com/blue0x1/millhouse-rce-exploit | 0 | 0| 
 | 20230512T16:41:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5557 | 753| 
 | 20230512T14:13:56Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 480 | 92| 
 | 20230512T13:19:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4900 | 616| 
-| 20230512T12:59:11Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Azrempacco/Roobet-Crypto-Casino-Predictor | 0 | 0| 
 
 
 # backdoor on Github 推荐
