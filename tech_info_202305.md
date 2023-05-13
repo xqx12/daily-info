@@ -69,23 +69,23 @@
 | 20230513T12:14:16Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Maaindaz/Valorant-PhoeniX-TOOL | 168 | 0| 
 | 20230513T12:14:16Z | Roobet Crypto Predictor that supports almost all Roobet games | https://github.com/Maaindaz/Roobet-Crypto-Casino-Predictor | 169 | 0| 
 | 20230513T11:36:23Z | Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置224个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange | https://github.com/k8gege/Ladon | 3914 | 805| 
+| 20230513T11:30:49Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3454 | 509| 
 | 20230513T10:27:34Z | exploit | https://github.com/Priyank114/priyank | 0 | 0| 
 | 20230513T08:40:01Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 5093 | 2027| 
 | 20230513T07:32:45Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5559 | 754| 
 | 20230513T06:55:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10180 | 1600| 
 | 20230513T02:20:36Z | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | 0 | 0| 
 | 20230513T01:08:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o8 | 1 | 0| 
-| 20230513T01:07:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T12:27:53Z | Kernel  rk | https://github.com/carloslack/KoviD | 129 | 30| 
+| 20230513T12:27:05Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 192 | 42| 
 | 20230513T09:41:12Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
-| 20230513T08:35:58Z | Kernel  rk | https://github.com/carloslack/KoviD | 128 | 30| 
 | 20230513T08:00:00Z | Shell Backdoor | https://github.com/dewanggakm/limshell | 0 | 0| 
 | 20230513T07:56:54Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 55 | 9| 
-| 20230513T05:59:03Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 191 | 42| 
 | 20230512T16:50:32Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
 | 20230512T16:28:44Z | Null | https://github.com/Kaitlyn019/848D-Backdoor-Explainability | 0 | 0| 
 | 20230512T11:43:52Z | Null | https://github.com/nibesh0/backdoorp | 0 | 0| 
