@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T01:14:26Z | Null | https://github.com/moomoomoo123/fuzzy-winner | 0 | 0| 
 | 20230513T00:32:48Z | fuzzer input generator tool, convert/transform then increment u64s | https://github.com/jpegleg/woodchucker | 0 | 0| 
 | 20230512T23:33:50Z | Null | https://github.com/Entoramp/fuzzy-broccoli | 0 | 0| 
 | 20230512T23:22:46Z | Para criar um programa de automação residencial em PHP | https://github.com/GalileuFlavio/fuzzy-octo-guide | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20230512T21:39:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8648 | 1903| 
 | 20230512T21:21:55Z | Null | https://github.com/Ttonyema/fuzzy-succotash | 0 | 0| 
 | 20230512T20:13:48Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1408 | 103| 
-| 20230512T14:13:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3583 | 427| 
 
 
 
