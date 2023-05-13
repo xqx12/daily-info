@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T12:08:47Z | Null | https://github.com/rahul-acr/fuzzy-winner | 0 | 0| 
 | 20230513T11:52:37Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 8 | 8| 
 | 20230513T11:50:11Z | Null | https://github.com/2lambda123/oss-fuzz | 0 | 0| 
 | 20230513T09:20:49Z | Null | https://github.com/m-jzc/fuzzm | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230513T07:20:16Z | курсовая  работа в skillfactory - %фазер% на python, и использование docker | https://github.com/kirillalf/fuzz-repo | 0 | 0| 
 | 20230513T01:57:42Z | Null | https://github.com/Jsnsnsnssn/fuzzy-invention | 0 | 0| 
 | 20230513T01:14:26Z | Null | https://github.com/moomoomoo123/fuzzy-winner | 0 | 0| 
-| 20230513T00:32:48Z | fuzzer input generator tool, convert/transform then increment u64s | https://github.com/jpegleg/woodchucker | 0 | 0| 
 
 
 
