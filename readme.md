@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T12:52:11Z | This is just a test/playing around repo for my learningness. | https://github.com/ZwickedDevelopment/fuzzy-memory | 0 | 0| 
 | 20230514T12:34:45Z | Null | https://github.com/reewardius/bbFuzzing.txt | 129 | 27| 
 | 20230514T12:25:19Z | Fuzzy logic for clojure and clojurescript | https://github.com/aibrahim/clj-fuzzy | 0 | 0| 
 | 20230514T11:02:28Z | Null | https://github.com/aboryslawski/fuzzy | 0 | 0| 
