@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T12:21:24Z | Fuzzy logic for clojure and clojurescript | https://github.com/aibrahim/clj-fuzzy | 0 | 0| 
 | 20230514T11:34:55Z | Null | https://github.com/reewardius/bbFuzzing.txt | 128 | 27| 
 | 20230514T11:02:28Z | Null | https://github.com/aboryslawski/fuzzy | 0 | 0| 
 | 20230514T10:11:06Z | A iec61850 mms blackbox mutational fuzzer. | https://github.com/Sofnya/MMS_Fuzzer | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230513T17:02:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1392 | 195| 
 | 20230513T16:14:47Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
 | 20230513T15:08:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3584 | 428| 
-| 20230513T13:44:37Z | Trying out foundry for Smart Contracts Development, testing, fuzzing, etc | https://github.com/codeTIT4N/trying-foundry | 0 | 0| 
 
 
 
