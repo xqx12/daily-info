@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T12:16:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5563 | 755| 
 | 20230514T11:02:16Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2731 | 402| 
 | 20230514T10:49:15Z | NoMoreCheat is a powerful anti-cheat plugin specifically designed for Minecraft servers. It serves as an essential tool in maintaining a fair and cheat-free gaming environment. With its advanced detection mechanisms and proactive measures, NoMoreCheat effectively prevents and identifies cheating, exploiting, and hacking attempts. | https://github.com/SrInsano/NoMoreCheat | 0 | 0| 
 | 20230514T10:16:28Z | Elysionx Exploit! Discord: https://discord.gg/kGK4PYw | https://github.com/Elysionx/elysionx | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230514T01:01:07Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 | 20230514T00:42:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:41:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w2 | 1 | 0| 
-| 20230514T00:40:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w2 | 1 | 0| 
 
 
 # backdoor on Github 推荐
