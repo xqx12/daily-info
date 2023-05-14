@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230514 | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr| 
+| 20230514 | 记对一次诈骗组织渗透的实例 | https://xz.aliyun.com/t/12523| 
 | 20230513 | Black Hat Asia 2023 议题文档 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
 | 20230513 | 内网主机探测工具合集 | https://mp.weixin.qq.com/s/nHoacEmOb5lx2c0Wra7gzw| 
 | 20230513 | 涉网犯罪网站下线后的线索追踪 | https://mp.weixin.qq.com/s/b2Waw-tOSVMjHdH0TcKA0A| 
@@ -19,13 +21,13 @@
 | 20230513 | dark-knowledge: 浏览器指纹与隐私安全相关论文 | https://github.com/prescience-data/dark-knowledge| 
 | 20230513 | 美国网络司令部发布新版技术挑战问题指南 | https://mp.weixin.qq.com/s/yDO16j9M4KvX3IfJVxxwnA| 
 | 20230513 | Cobalt Strike 防护指南（二） | https://mp.weixin.qq.com/s/JjWtmrwkOYiNKsXoDd04Fw| 
-| 20230513 | Cobalt Strike防护指南（一） | https://mp.weixin.qq.com/s/whUhV6__HvmbXQfcfFeRJA| 
-| 20230512 | 3CXDesktopApp供应链攻击分析 | https://mp.weixin.qq.com/s/vebophROwiyr8U4YltzspA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230514T08:07:25Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
+| 20230514T03:52:19Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230513T20:14:33Z | CVE-2023-29324 | Null | https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy | | 
 | 20230513T19:37:11Z | cve-2023-32243 | poc | https://github.com/little44n1o/cve-2023-32243 | | 
 | 20230513T17:03:07Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
@@ -34,13 +36,12 @@
 | 20230512T13:49:28Z | 未知编号 | Null | https://github.com/tht1997/CVE_2023 | | 
 | 20230512T10:23:15Z | CVE-2021-35587 | This PoC proves that target is vulnerable to the CVE-2021-35587. Vulnerability is found in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0 | https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check | | 
 | 20230512T06:37:08Z | CVE-2023-28772 | Null | https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772 | | 
-| 20230512T01:22:35Z | CVE-2022-46169 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169 | | 
-| 20230511T19:41:47Z | CVE-2021-3156 | Null | https://github.com/mutur4/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T09:40:47Z | Paul Klee Museum Hackathon | https://github.com/ccc159/kosmos | 1 | 0| 
 | 20230514T01:09:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12022 | 381| 
 | 20230513T11:52:16Z | Null | https://github.com/tillero/klee | 0 | 0| 
 | 20230513T04:49:36Z | Null | https://github.com/thedanhoffman/klee | 0 | 0| 
@@ -50,12 +51,12 @@
 | 20230512T12:27:26Z | hackathon im zentrum paul klee | https://github.com/flurinanna/paulraus | 0 | 0| 
 | 20230512T03:22:03Z | Config files for my GitHub profile. | https://github.com/Ayyitskevin/Klee-UCF-Coding-Bootcamp-Git | 0 | 0| 
 | 20230510T22:14:11Z | Null | https://github.com/KingDuDu88/kleeblatt | 0 | 0| 
-| 20230507T16:12:49Z | Site single page responsivo desenvolvido apenas para prática. | https://github.com/Everton-Luciano/kleep-project | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T04:21:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 19 | 10| 
 | 20230513T11:08:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 333 | 80| 
 | 20230512T06:53:22Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230508T16:47:41Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 86 | 49| 
@@ -66,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T11:02:16Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 2731 | 402| 
+| 20230514T10:49:15Z | NoMoreCheat is a powerful anti-cheat plugin specifically designed for Minecraft servers. It serves as an essential tool in maintaining a fair and cheat-free gaming environment. With its advanced detection mechanisms and proactive measures, NoMoreCheat effectively prevents and identifies cheating, exploiting, and hacking attempts. | https://github.com/SrInsano/NoMoreCheat | 0 | 0| 
+| 20230514T10:16:28Z | Elysionx Exploit! Discord: https://discord.gg/kGK4PYw | https://github.com/Elysionx/elysionx | 0 | 0| 
+| 20230514T09:37:06Z | Null | https://github.com/Rushaway/sm-plugin-FixVoiceDataExploit | 0 | 0| 
+| 20230514T07:22:03Z | Linux networking and security sandbox with support for kernel exploit protection as well as VPN and proxy chaining | https://github.com/blechschmidt/pallium | 0 | 0| 
+| 20230514T03:17:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4967 | 980| 
 | 20230514T01:01:07Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 | 20230514T00:42:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:41:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:40:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w2 | 1 | 0| 
-| 20230514T00:38:54Z | Minecraft api, used in many servers to aid most anti cheat plugins including my own NoCheatPlus, and also Exploit Fixer. | https://github.com/arkflame2/HamsterApi | 0 | 0| 
-| 20230513T23:17:01Z | Matrixillion Is a Exploit :) its supposto be runnable | https://github.com/RandyIsHere/Matrixillion | 0 | 0| 
-| 20230513T21:53:23Z | Containing automated exploits | https://github.com/Avo-Catto/CVE-Scripts | 0 | 0| 
-| 20230513T21:53:01Z | Online Pizza Ordering System payload scrypt | https://github.com/Alexander-Gan/Exploits | 0 | 0| 
-| 20230513T21:10:52Z | Obsidian notes about exploitation stage | https://github.com/SebSecRepos/Exploitation-notes | 0 | 0| 
-| 20230513T20:30:55Z | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T09:38:20Z | Kleptographic attack on Kyber | https://github.com/Attacks-on-Kyber/Backdoor-Attack | 0 | 0| 
+| 20230514T08:42:20Z | Null | https://github.com/fabrree/backdoor | 0 | 0| 
+| 20230514T06:02:19Z | Kernel  rk | https://github.com/carloslack/KoviD | 132 | 30| 
 | 20230514T00:06:12Z | Null | https://github.com/Jose4y6464747jrjrj/Backdoor- | 0 | 0| 
 | 20230513T21:07:59Z | Telegram bot that you can use as a backdoor | https://github.com/voidsploit/telegram-backdoor | 2 | 0| 
 | 20230513T20:38:32Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
-| 20230513T14:57:00Z | Kernel  rk | https://github.com/carloslack/KoviD | 131 | 30| 
 | 20230513T12:27:05Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 192 | 42| 
 | 20230513T09:41:12Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
 | 20230513T08:00:00Z | Shell Backdoor | https://github.com/dewanggakm/limshell | 0 | 0| 
 | 20230513T07:56:54Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 55 | 9| 
-| 20230512T16:50:32Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 438 | 81| 
-| 20230512T16:28:44Z | Null | https://github.com/Kaitlyn019/848D-Backdoor-Explainability | 0 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T11:02:28Z | Null | https://github.com/aboryslawski/fuzzy | 0 | 0| 
+| 20230514T10:11:06Z | A iec61850 mms blackbox mutational fuzzer. | https://github.com/Sofnya/MMS_Fuzzer | 0 | 0| 
+| 20230514T07:42:26Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Tsukomoto) | https://github.com/dinarbrina/logika-fuzzy-tugas6 | 0 | 0| 
 | 20230513T20:48:25Z | Null | https://github.com/marchingkoala/Fuzzle_Project | 0 | 0| 
 | 20230513T17:37:14Z | Controlador Fuzzy com centroides sintonizados através de algoritmos genéticos | https://github.com/Edumarek123/GA_FUZZY_CONTROLLER | 0 | 0| 
+| 20230513T17:02:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1392 | 195| 
 | 20230513T16:14:47Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
 | 20230513T15:08:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3584 | 428| 
 | 20230513T13:44:37Z | Trying out foundry for Smart Contracts Development, testing, fuzzing, etc | https://github.com/codeTIT4N/trying-foundry | 0 | 0| 
 | 20230513T12:46:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8650 | 1902| 
-| 20230513T12:22:27Z | Null | https://github.com/rahul-acr/fuzzy-winner | 0 | 0| 
-| 20230513T11:52:37Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 8 | 8| 
-| 20230513T11:50:11Z | Null | https://github.com/2lambda123/oss-fuzz | 0 | 0| 
-| 20230513T09:20:49Z | Null | https://github.com/m-jzc/fuzzm | 0 | 0| 
 
 
 
