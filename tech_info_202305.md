@@ -124,13 +124,13 @@
 | 20230513T20:48:25Z | Null | https://github.com/marchingkoala/Fuzzle_Project | 0 | 0| 
 | 20230513T17:37:14Z | Controlador Fuzzy com centroides sintonizados através de algoritmos genéticos | https://github.com/Edumarek123/GA_FUZZY_CONTROLLER | 0 | 0| 
 | 20230513T16:14:47Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
+| 20230513T15:08:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3584 | 428| 
 | 20230513T13:44:37Z | Trying out foundry for Smart Contracts Development, testing, fuzzing, etc | https://github.com/codeTIT4N/trying-foundry | 0 | 0| 
 | 20230513T12:46:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8650 | 1902| 
 | 20230513T12:22:27Z | Null | https://github.com/rahul-acr/fuzzy-winner | 0 | 0| 
 | 20230513T11:52:37Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 8 | 8| 
 | 20230513T11:50:11Z | Null | https://github.com/2lambda123/oss-fuzz | 0 | 0| 
 | 20230513T09:20:49Z | Null | https://github.com/m-jzc/fuzzm | 0 | 0| 
-| 20230513T08:02:26Z | Null | https://github.com/Hann1bal/fuzzy-enigma | 0 | 0| 
 
 
 
