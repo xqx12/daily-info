@@ -77,6 +77,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T22:29:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3439 | 479| 
 | 20230513T07:03:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1084 | 130| 
 | 20230513T06:24:49Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1315 | 59| 
 | 20230513T00:29:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 642 | 117| 
@@ -85,6 +86,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230513T14:17:55Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 659 | 104| 
 
 
 # fuzz on Github 推荐
