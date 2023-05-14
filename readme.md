@@ -62,6 +62,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T09:58:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3440 | 479| 
+| 20230514T04:02:51Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 765 | 88| 
+| 20230514T02:37:07Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1316 | 59| 
 
 
 # big4 on Github 推荐
