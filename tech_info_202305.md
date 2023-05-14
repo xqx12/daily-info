@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T01:01:07Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 | 20230514T00:42:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:41:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:40:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w2 | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20230513T21:53:01Z | Online Pizza Ordering System payload scrypt | https://github.com/Alexander-Gan/Exploits | 0 | 0| 
 | 20230513T21:10:52Z | Obsidian notes about exploitation stage | https://github.com/SebSecRepos/Exploitation-notes | 0 | 0| 
 | 20230513T20:30:55Z | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | 0 | 0| 
-| 20230513T19:49:47Z | Null | https://github.com/gera9902/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
