@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230514T12:04:07Z | cve-2022-42475 | test for the ioc described for FG-IR-22-398 | https://github.com/bryanster/ioc-cve-2022-42475 | | 
 | 20230514T08:07:25Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230514T03:52:19Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 

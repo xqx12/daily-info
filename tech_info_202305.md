@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230514T12:04:07Z | cve-2022-42475 | test for the ioc described for FG-IR-22-398 | https://github.com/bryanster/ioc-cve-2022-42475 | | 
 | 20230514T08:07:25Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230514T03:52:19Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230513T20:14:33Z | CVE-2023-29324 | Null | https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy | | 
@@ -35,7 +36,6 @@
 | 20230513T02:20:36Z | CVE-2021-3156 | Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts | https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156 | | 
 | 20230512T13:49:28Z | 未知编号 | Null | https://github.com/tht1997/CVE_2023 | | 
 | 20230512T10:23:15Z | CVE-2021-35587 | This PoC proves that target is vulnerable to the CVE-2021-35587. Vulnerability is found in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0 | https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check | | 
-| 20230512T06:37:08Z | CVE-2023-28772 | Null | https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772 | | 
 
 
 # klee on Github 推荐
