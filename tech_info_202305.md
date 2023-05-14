@@ -66,6 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230514T00:42:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w2 | 1 | 0| 
+| 20230514T00:41:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w2 | 1 | 0| 
+| 20230514T00:40:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w2 | 1 | 0| 
 | 20230514T00:38:54Z | Minecraft api, used in many servers to aid most anti cheat plugins including my own NoCheatPlus, and also Exploit Fixer. | https://github.com/arkflame2/HamsterApi | 0 | 0| 
 | 20230513T23:17:01Z | Matrixillion Is a Exploit :) its supposto be runnable | https://github.com/RandyIsHere/Matrixillion | 0 | 0| 
 | 20230513T21:53:23Z | Containing automated exploits | https://github.com/Avo-Catto/CVE-Scripts | 0 | 0| 
@@ -73,9 +76,6 @@
 | 20230513T21:10:52Z | Obsidian notes about exploitation stage | https://github.com/SebSecRepos/Exploitation-notes | 0 | 0| 
 | 20230513T20:30:55Z | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | 0 | 0| 
 | 20230513T19:49:47Z | Null | https://github.com/gera9902/exploit | 0 | 0| 
-| 20230513T19:39:35Z | This Python script exploits vulnerabilities in systems like cPanel, WHM, SSH, and FTP. It uses multiprocessing or threading to execute exploits, taking input from lists or prompts. The console displays the success or failure of the exploits. | https://github.com/UND3F3IND/cpanel-whm-ssh-ftp-exploit | 0 | 0| 
-| 20230513T17:46:40Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 19 | 3| 
-| 20230513T15:53:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4904 | 616| 
 
 
 # backdoor on Github 推荐
