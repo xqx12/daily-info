@@ -64,6 +64,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230514T09:58:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3440 | 479| 
+| 20230514T09:11:41Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1085 | 130| 
 | 20230514T04:02:51Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 765 | 88| 
 | 20230514T02:37:07Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1316 | 59| 
 
