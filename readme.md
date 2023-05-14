@@ -58,8 +58,8 @@
 | 20230513T19:49:47Z | Null | https://github.com/gera9902/exploit | 0 | 0| 
 | 20230513T19:39:35Z | This Python script exploits vulnerabilities in systems like cPanel, WHM, SSH, and FTP. It uses multiprocessing or threading to execute exploits, taking input from lists or prompts. The console displays the success or failure of the exploits. | https://github.com/UND3F3IND/cpanel-whm-ssh-ftp-exploit | 0 | 0| 
 | 20230513T17:46:40Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 19 | 3| 
+| 20230513T15:53:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4904 | 616| 
 | 20230513T12:53:11Z | Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置224个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange | https://github.com/k8gege/Ladon | 3915 | 805| 
-| 20230513T12:14:16Z | Valorant CHEAT - INCLUDING: AIMBOT, WH, NORELOAD, NORECOIL, SKINCHANGER & MORE | https://github.com/Maaindaz/Valorant-PhoeniX-TOOL | 168 | 0| 
 
 
 # backdoor on Github 推荐
