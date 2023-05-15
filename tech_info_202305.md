@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230515T01:20:42Z | How do LLMs exploit context in dialogue? | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
+| 20230515T01:24:40Z | How do LLMs exploit context in dialogue? Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
 | 20230515T00:27:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0ed57472-9fb5-4b37-beb6-23613f9b877e-mA1n2-exploit-trust | 0 | 0| 
 | 20230515T00:21:49Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-653a53b8-69ff-41cf-b30b-5e4b76adbb55-Xdh5u-exploit-prove | 0 | 0| 
 | 20230515T00:19:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p8 | 1 | 0| 
