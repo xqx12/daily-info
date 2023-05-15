@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T12:17:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-sIlAX-relate-exploit | 0 | 0| 
 | 20230515T11:54:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0085-app-d71jE-hope-exploit | 0 | 0| 
 | 20230515T11:54:09Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0485-app-WoxlV-produce-exploit | 0 | 0| 
 | 20230515T11:42:32Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0291-app-5hJaa-exploit-deal | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20230515T09:59:27Z | GIDFO 2009 is an exploit for 2009 roblox clients. | https://github.com/wehateyouvvita/GIDFO-2009-v2.2.1 | 0 | 0| 
 | 20230515T09:58:55Z | Eggsploit is an exploit for old roblox clients. | https://github.com/wehateyouvvita/Eggsploit | 0 | 0| 
 | 20230515T09:24:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5111 | 732| 
-| 20230515T08:03:11Z | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T12:27:37Z | Null | https://github.com/JumpingKicks/fuzzy-guacamole | 0 | 0| 
 | 20230515T11:46:06Z | LFTS | https://github.com/OZ1NG/LibFuzzTargetSelector | 0 | 0| 
 | 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
 | 20230515T11:16:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8654 | 1903| 
