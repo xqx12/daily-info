@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230515T12:29:11Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230515T12:55:36Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
 | 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20230514T19:32:50Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
