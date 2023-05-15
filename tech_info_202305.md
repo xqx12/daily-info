@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230515T12:18:26Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
-| 20230515T10:52:58Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20230514T19:32:50Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
 | 20230514T13:50:54Z | CVE-2022-4096 | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | https://github.com/aminetitrofine/CVE-2022-4096 | | 
