@@ -37,16 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T12:42:16Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 203 | 6| 
 | 20230515T12:17:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-sIlAX-relate-exploit | 0 | 0| 
 | 20230515T11:54:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0085-app-d71jE-hope-exploit | 0 | 0| 
 | 20230515T11:54:09Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0485-app-WoxlV-produce-exploit | 0 | 0| 
 | 20230515T11:42:32Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0291-app-5hJaa-exploit-deal | 0 | 0| 
-| 20230515T11:29:56Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 201 | 6| 
 | 20230515T10:46:43Z | 🥷A versatile PHP webshell generator with customizable macros, a powerful handler for web exploitation. | https://github.com/and0x00/ninja | 0 | 0| 
 | 20230515T10:02:44Z | new dupe exploit came with new lucky island update u can dupe ur pets and gems with this script | https://github.com/fthsyt19/psx-dupe-script | 0 | 0| 
 | 20230515T09:59:27Z | GIDFO 2009 is an exploit for 2009 roblox clients. | https://github.com/wehateyouvvita/GIDFO-2009-v2.2.1 | 0 | 0| 
 | 20230515T09:58:55Z | Eggsploit is an exploit for old roblox clients. | https://github.com/wehateyouvvita/Eggsploit | 0 | 0| 
-| 20230515T09:24:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5111 | 732| 
+| 20230515T09:30:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4969 | 980| 
 
 
 # backdoor on Github 推荐
