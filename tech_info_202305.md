@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230515 | 通过突变分析暴露库的API误用 | https://mp.weixin.qq.com/s/ZMWh64ajw-Gjw6Ks7EK4IQ| 
+| 20230515 | SecWiki周刊（第480期) | https://www.sec-wiki.com/weekly/480| 
+| 20230515 | 基于威胁情报的高效网络威胁监测架构 | https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg| 
 | 20230514 | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr| 
 | 20230514 | 记对一次诈骗组织渗透的实例 | https://xz.aliyun.com/t/12523| 
 | 20230513 | Black Hat Asia 2023 议题文档 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
@@ -18,14 +21,13 @@
 | 20230513 | 涉网犯罪网站下线后的线索追踪 | https://mp.weixin.qq.com/s/b2Waw-tOSVMjHdH0TcKA0A| 
 | 20230513 | 浅谈物联网设备安全 | https://mp.weixin.qq.com/s/D9D4ZSd5ij4mIvAXwqU60g| 
 | 20230513 | CodeQL与AST之间联系 | https://mp.weixin.qq.com/s/pzq35orr_guqPeSiTMmiYw| 
-| 20230513 | dark-knowledge: 浏览器指纹与隐私安全相关论文 | https://github.com/prescience-data/dark-knowledge| 
-| 20230513 | 美国网络司令部发布新版技术挑战问题指南 | https://mp.weixin.qq.com/s/yDO16j9M4KvX3IfJVxxwnA| 
-| 20230513 | Cobalt Strike 防护指南（二） | https://mp.weixin.qq.com/s/JjWtmrwkOYiNKsXoDd04Fw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
+| 20230515T10:52:58Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20230514T19:32:50Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
 | 20230514T13:50:54Z | CVE-2022-4096 | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | https://github.com/aminetitrofine/CVE-2022-4096 | | 
@@ -34,8 +36,6 @@
 | 20230514T08:07:25Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230514T03:52:19Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230513T20:14:33Z | CVE-2023-29324 | Null | https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy | | 
-| 20230513T19:37:11Z | cve-2023-32243 | poc | https://github.com/little44n1o/cve-2023-32243 | | 
-| 20230513T17:03:07Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 
 
 # klee on Github 推荐
@@ -67,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230515T01:48:15Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 404 | 154| 
-| 20230515T01:47:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4908 | 615| 
-| 20230515T01:24:40Z | How do LLMs exploit context in dialogue? Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
-| 20230515T00:27:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0ed57472-9fb5-4b37-beb6-23613f9b877e-mA1n2-exploit-trust | 0 | 0| 
-| 20230515T00:21:49Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-653a53b8-69ff-41cf-b30b-5e4b76adbb55-Xdh5u-exploit-prove | 0 | 0| 
-| 20230515T00:19:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p8 | 1 | 0| 
-| 20230515T00:18:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p8 | 1 | 0| 
-| 20230515T00:17:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-91653539-af75-4357-b527-785fb5c8c249-3XAKr-result-exploit | 0 | 0| 
-| 20230515T00:16:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p8 | 1 | 0| 
-| 20230514T23:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75168574-4b4d-42e5-a57e-447c28c3b5ad-PLr7n-promise-exploit | 0 | 0| 
+| 20230515T11:54:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0085-app-d71jE-hope-exploit | 0 | 0| 
+| 20230515T11:54:09Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0485-app-WoxlV-produce-exploit | 0 | 0| 
+| 20230515T11:42:32Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0291-app-5hJaa-exploit-deal | 0 | 0| 
+| 20230515T11:29:56Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 201 | 6| 
+| 20230515T10:46:43Z | 🥷A versatile PHP webshell generator with customizable macros, a powerful handler for web exploitation. | https://github.com/and0x00/ninja | 0 | 0| 
+| 20230515T10:02:44Z | new dupe exploit came with new lucky island update u can dupe ur pets and gems with this script | https://github.com/fthsyt19/psx-dupe-script | 0 | 0| 
+| 20230515T09:59:27Z | GIDFO 2009 is an exploit for 2009 roblox clients. | https://github.com/wehateyouvvita/GIDFO-2009-v2.2.1 | 0 | 0| 
+| 20230515T09:58:55Z | Eggsploit is an exploit for old roblox clients. | https://github.com/wehateyouvvita/Eggsploit | 0 | 0| 
+| 20230515T09:24:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5111 | 732| 
+| 20230515T08:03:11Z | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T09:55:06Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
+| 20230515T09:50:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
+| 20230515T07:22:01Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 21 | 1| 
+| 20230515T02:24:13Z | Kleptographic attack on Kyber | https://github.com/Attacks-on-Kyber/Backdoor-Attack | 0 | 0| 
 | 20230514T23:29:58Z | Null | https://github.com/0xGabe/php-8.1.0-backdoor | 0 | 0| 
 | 20230514T17:42:01Z | Website for a construction/ realtor company | https://github.com/tommimaki/Backdoor.com | 1 | 0| 
 | 20230514T14:01:43Z | Backdoor finder | https://github.com/Zixos95/zBackDoorFinder | 0 | 0| 
-| 20230514T09:38:20Z | Kleptographic attack on Kyber | https://github.com/Attacks-on-Kyber/Backdoor-Attack | 0 | 0| 
 | 20230514T08:42:20Z | Null | https://github.com/fabrree/backdoor | 0 | 0| 
 | 20230514T06:02:19Z | Kernel  rk | https://github.com/carloslack/KoviD | 132 | 30| 
 | 20230514T00:06:12Z | Null | https://github.com/Jose4y6464747jrjrj/Backdoor- | 0 | 0| 
-| 20230513T21:07:59Z | Telegram bot that you can use as a backdoor | https://github.com/voidsploit/telegram-backdoor | 2 | 0| 
-| 20230513T20:38:32Z | Adversarial and Backdoor Attack | https://github.com/zlaabsi/adversarial-backdoor-attack | 0 | 0| 
-| 20230513T12:27:05Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 192 | 42| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T11:46:06Z | LFTS | https://github.com/OZ1NG/LibFuzzTargetSelector | 0 | 0| 
+| 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
+| 20230515T11:16:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8654 | 1903| 
+| 20230515T08:59:36Z | Null | https://github.com/puvyi/fuzzy-octo-chainsaw | 0 | 0| 
+| 20230515T07:32:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4688 | 1126| 
+| 20230515T04:03:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1394 | 195| 
 | 20230515T00:10:43Z | a basic fuzzer created in Go as a learning exercise | https://github.com/cicada-legs/pierre | 0 | 0| 
 | 20230514T22:50:43Z | Null | https://github.com/johnagrillo/ruby-fuzzer | 0 | 0| 
 | 20230514T19:52:34Z | HM approach for encoding words into normal interval type-2 fuzzy sets in Python | https://github.com/MiKoronjoo/fuzzy-HM-approach | 0 | 0| 
 | 20230514T19:03:22Z | Collect a dataset of smart contracts and their tests (unit tests, fuzzing tests etc) | https://github.com/kajaaz/smartcontracts-tests-dataset | 0 | 0| 
-| 20230514T16:49:22Z | Null | https://github.com/Aldres98/fuzzy-search-challenge | 0 | 0| 
-| 20230514T12:52:11Z | This is just a test/playing around repo for my learningness. | https://github.com/ZwickedDevelopment/fuzzy-memory | 0 | 0| 
-| 20230514T12:34:45Z | Null | https://github.com/reewardius/bbFuzzing.txt | 129 | 27| 
-| 20230514T12:25:19Z | Fuzzy logic for clojure and clojurescript | https://github.com/aibrahim/clj-fuzzy | 0 | 0| 
-| 20230514T11:02:28Z | Null | https://github.com/aboryslawski/fuzzy | 0 | 0| 
-| 20230514T10:11:06Z | A iec61850 mms blackbox mutational fuzzer. | https://github.com/Sofnya/MMS_Fuzzer | 0 | 0| 
 
 
 
