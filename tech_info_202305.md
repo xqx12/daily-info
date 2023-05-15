@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20230514T19:32:50Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
 | 20230514T13:50:54Z | CVE-2022-4096 | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | https://github.com/aminetitrofine/CVE-2022-4096 | | 
 | 20230514T13:47:48Z | CVE-2022-30190 | Follina (CVE-2022-30190) is a Microsoft Office zero-day vulnerability that has recently been discovered. It’s a high-severity vulnerability that hackers can leverage for remote code execution (RCE) attacks. | https://github.com/aminetitrofine/CVE-2022-30190 | | 
@@ -35,7 +36,6 @@
 | 20230513T20:14:33Z | CVE-2023-29324 | Null | https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy | | 
 | 20230513T19:37:11Z | cve-2023-32243 | poc | https://github.com/little44n1o/cve-2023-32243 | | 
 | 20230513T17:03:07Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230513T03:11:43Z | CVE-2020-17087 | Null | https://github.com/raiden757/CVE-2020-17087 | | 
 
 
 # klee on Github 推荐
