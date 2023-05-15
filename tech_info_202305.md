@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T01:48:15Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 404 | 154| 
 | 20230515T01:47:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4908 | 615| 
 | 20230515T01:24:40Z | How do LLMs exploit context in dialogue? Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
 | 20230515T00:27:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0ed57472-9fb5-4b37-beb6-23613f9b877e-mA1n2-exploit-trust | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230515T00:17:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-91653539-af75-4357-b527-785fb5c8c249-3XAKr-result-exploit | 0 | 0| 
 | 20230515T00:16:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p8 | 1 | 0| 
 | 20230514T23:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75168574-4b4d-42e5-a57e-447c28c3b5ad-PLr7n-promise-exploit | 0 | 0| 
-| 20230514T23:23:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0c1bc18a-741c-4540-af20-ce342c649f4c-s5RsK-buy-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
