@@ -75,8 +75,8 @@
 | 20230514T22:13:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-29ae9cfb-a550-4e06-bbc0-ba7e640315f7-lcMpU-let-exploit | 0 | 0| 
 | 20230514T22:13:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-32035191-71a7-42ae-9ec9-18e0bc272d90-lcMpU-exploit-collect | 0 | 0| 
 | 20230514T20:51:22Z | Pout is an interactive C2 and RAT GUI written in GoLang | https://github.com/codeuk/pout | 14 | 0| 
+| 20230514T20:39:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4907 | 615| 
 | 20230514T19:34:58Z | RCE exploit for CuteNews 2.1.2 | https://github.com/schumalc/cutenews2.1.2_rce | 0 | 0| 
-| 20230514T19:09:07Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
