@@ -67,8 +67,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T00:19:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p8 | 1 | 0| 
+| 20230515T00:18:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p8 | 1 | 0| 
 | 20230515T00:17:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-91653539-af75-4357-b527-785fb5c8c249-3XAKr-result-exploit | 0 | 0| 
-| 20230515T00:17:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p8 | 0 | 0| 
 | 20230515T00:16:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p8 | 1 | 0| 
 | 20230514T23:31:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75168574-4b4d-42e5-a57e-447c28c3b5ad-PLr7n-promise-exploit | 0 | 0| 
 | 20230514T23:23:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0c1bc18a-741c-4540-af20-ce342c649f4c-s5RsK-buy-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230514T23:18:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eb39fa86-2a1e-439e-b2c4-1f9129aa5c26-3RyLU-walk-exploit | 0 | 0| 
 | 20230514T22:44:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-51c81a4b-950d-4b59-9ccf-788ace6f5eab-1htcp-exploit-check | 0 | 0| 
 | 20230514T22:13:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-29ae9cfb-a550-4e06-bbc0-ba7e640315f7-lcMpU-let-exploit | 0 | 0| 
-| 20230514T22:13:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-32035191-71a7-42ae-9ec9-18e0bc272d90-lcMpU-exploit-collect | 0 | 0| 
 
 
 # backdoor on Github 推荐
