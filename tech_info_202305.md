@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T00:10:43Z | a basic fuzzer created in Go as a learning exercise | https://github.com/cicada-legs/pierre | 0 | 0| 
 | 20230514T22:50:43Z | Null | https://github.com/johnagrillo/ruby-fuzzer | 0 | 0| 
 | 20230514T19:52:34Z | HM approach for encoding words into normal interval type-2 fuzzy sets in Python | https://github.com/MiKoronjoo/fuzzy-HM-approach | 0 | 0| 
 | 20230514T19:03:22Z | Collect a dataset of smart contracts and their tests (unit tests, fuzzing tests etc) | https://github.com/kajaaz/smartcontracts-tests-dataset | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230514T12:25:19Z | Fuzzy logic for clojure and clojurescript | https://github.com/aibrahim/clj-fuzzy | 0 | 0| 
 | 20230514T11:02:28Z | Null | https://github.com/aboryslawski/fuzzy | 0 | 0| 
 | 20230514T10:11:06Z | A iec61850 mms blackbox mutational fuzzer. | https://github.com/Sofnya/MMS_Fuzzer | 0 | 0| 
-| 20230514T07:42:26Z | Pengecekkan Jumlah Produksi Kemasan Makanan ABC (Tsukomoto) | https://github.com/dinarbrina/logika-fuzzy-tugas6 | 0 | 0| 
 
 
 
