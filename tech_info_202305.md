@@ -127,11 +127,11 @@
 | 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
 | 20230515T11:16:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8654 | 1903| 
 | 20230515T08:59:36Z | Null | https://github.com/puvyi/fuzzy-octo-chainsaw | 0 | 0| 
+| 20230515T08:27:45Z | Artifacts for the paper: %Green Fuzzing: A Saturation-based Stopping Criterion using Vulnerability Prediction% | https://github.com/tum-i4/green-fuzzing-artifacts | 0 | 0| 
 | 20230515T07:32:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4688 | 1126| 
 | 20230515T04:03:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1394 | 195| 
 | 20230515T00:10:43Z | a basic fuzzer created in Go as a learning exercise | https://github.com/cicada-legs/pierre | 0 | 0| 
 | 20230514T22:50:43Z | Null | https://github.com/johnagrillo/ruby-fuzzer | 0 | 0| 
-| 20230514T19:52:34Z | HM approach for encoding words into normal interval type-2 fuzzy sets in Python | https://github.com/MiKoronjoo/fuzzy-HM-approach | 0 | 0| 
 
 
 
