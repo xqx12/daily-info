@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T00:21:49Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-653a53b8-69ff-41cf-b30b-5e4b76adbb55-Xdh5u-exploit-prove | 0 | 0| 
 | 20230515T00:19:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p8 | 1 | 0| 
 | 20230515T00:18:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p8 | 1 | 0| 
 | 20230515T00:17:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-91653539-af75-4357-b527-785fb5c8c249-3XAKr-result-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230514T23:21:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-7e56762e-2a20-4ab6-954f-f6fc984e09ef-GrfDJ-exploit-start | 0 | 0| 
 | 20230514T23:18:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eb39fa86-2a1e-439e-b2c4-1f9129aa5c26-3RyLU-walk-exploit | 0 | 0| 
 | 20230514T22:44:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-51c81a4b-950d-4b59-9ccf-788ace6f5eab-1htcp-exploit-check | 0 | 0| 
-| 20230514T22:13:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-29ae9cfb-a550-4e06-bbc0-ba7e640315f7-lcMpU-let-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
