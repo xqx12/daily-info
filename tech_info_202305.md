@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230516T01:09:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7i | 0 | 0| 
+| 20230516T01:12:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7i | 1 | 0| 
 | 20230516T01:08:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7i | 1 | 0| 
 | 20230515T23:21:12Z | Exploit Writing Training | https://github.com/w31rdr4v3n/Binary-Exploitation | 2 | 0| 
 | 20230515T23:01:00Z | Fox Ex v2 exploit rce upload shell +50 exploit get + 3000 shell In 2 minutes 2023 priv8 | https://github.com/raizoworm/Fox-Ex-v2 | 0 | 0| 
