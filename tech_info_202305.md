@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
 | 20230515T22:18:50Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
 | 20230515T21:26:03Z | Null | https://github.com/google/fuzztest | 277 | 19| 
 | 20230515T20:55:11Z | Null | https://github.com/Sh00ty/MeFuzz | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230515T11:46:06Z | LFTS | https://github.com/OZ1NG/LibFuzzTargetSelector | 0 | 0| 
 | 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
 | 20230515T11:16:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8654 | 1903| 
-| 20230515T08:59:36Z | Null | https://github.com/puvyi/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
