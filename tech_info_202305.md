@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T01:34:31Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
 | 20230515T18:34:08Z | Linux | https://github.com/GongWook/BackDoorTest | 0 | 0| 
 | 20230515T16:06:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 134 | 30| 
 | 20230515T15:16:23Z | GoBack is a simple tool for %Goleki backdoor%  | https://github.com/tegal1337/GoBack | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20230515T02:24:13Z | Kleptographic attack on Kyber | https://github.com/Attacks-on-Kyber/Backdoor-Attack | 0 | 0| 
 | 20230514T23:29:58Z | Null | https://github.com/0xGabe/php-8.1.0-backdoor | 0 | 0| 
 | 20230514T17:42:01Z | Website for a construction/ realtor company | https://github.com/tommimaki/Backdoor.com | 1 | 0| 
-| 20230514T14:01:43Z | Backdoor finder | https://github.com/Zixos95/zBackDoorFinder | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
