@@ -123,6 +123,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T00:57:17Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
+| 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
 | 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
 | 20230515T22:18:50Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
@@ -131,8 +133,6 @@
 | 20230515T14:28:46Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
 | 20230515T12:47:10Z | Null | https://github.com/WanShannn/Introduce-Fuzzing-tools | 0 | 0| 
 | 20230515T12:27:37Z | Null | https://github.com/JumpingKicks/fuzzy-guacamole | 0 | 0| 
-| 20230515T11:46:06Z | LFTS | https://github.com/OZ1NG/LibFuzzTargetSelector | 0 | 0| 
-| 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
 
 
 
