@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T01:08:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7i | 0 | 0| 
 | 20230515T23:21:12Z | Exploit Writing Training | https://github.com/w31rdr4v3n/Binary-Exploitation | 2 | 0| 
 | 20230515T23:01:00Z | Fox Ex v2 exploit rce upload shell +50 exploit get + 3000 shell In 2 minutes 2023 priv8 | https://github.com/raizoworm/Fox-Ex-v2 | 0 | 0| 
 | 20230515T22:54:23Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
@@ -76,7 +77,6 @@
 | 20230515T19:37:58Z | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | 1 | 0| 
 | 20230515T18:58:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4909 | 615| 
 | 20230515T17:42:43Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
-| 20230515T14:07:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 634 | 166| 
 
 
 # backdoor on Github 推荐
