@@ -19,7 +19,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230515T12:55:36Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230515T23:54:55Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230515T19:37:58Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
+| 20230515T16:31:02Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
 | 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 
@@ -37,21 +39,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T23:21:12Z | Exploit Writing Training | https://github.com/w31rdr4v3n/Binary-Exploitation | 2 | 0| 
+| 20230515T23:01:00Z | Fox Ex v2 exploit rce upload shell +50 exploit get + 3000 shell In 2 minutes 2023 priv8 | https://github.com/raizoworm/Fox-Ex-v2 | 0 | 0| 
+| 20230515T22:54:23Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
+| 20230515T21:41:32Z | How do LLMs exploit context in dialogue? 🦙💬 Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
+| 20230515T20:00:22Z | Server-Side Prototype Pollution: What is it? How to detect it? How to exploit it? | https://github.com/Jake-Schoellkopf/Server-Side_Prototype_Pollution | 0 | 0| 
+| 20230515T19:37:58Z | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | 1 | 0| 
+| 20230515T17:42:43Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
+| 20230515T14:07:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 634 | 166| 
 | 20230515T12:42:16Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 203 | 6| 
 | 20230515T12:17:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-sIlAX-relate-exploit | 0 | 0| 
-| 20230515T11:54:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0085-app-d71jE-hope-exploit | 0 | 0| 
-| 20230515T11:54:09Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0485-app-WoxlV-produce-exploit | 0 | 0| 
-| 20230515T11:42:32Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0291-app-5hJaa-exploit-deal | 0 | 0| 
-| 20230515T10:46:43Z | 🥷A versatile PHP webshell generator with customizable macros, a powerful handler for web exploitation. | https://github.com/and0x00/ninja | 0 | 0| 
-| 20230515T10:02:44Z | new dupe exploit came with new lucky island update u can dupe ur pets and gems with this script | https://github.com/fthsyt19/psx-dupe-script | 0 | 0| 
-| 20230515T09:59:27Z | GIDFO 2009 is an exploit for 2009 roblox clients. | https://github.com/wehateyouvvita/GIDFO-2009-v2.2.1 | 0 | 0| 
-| 20230515T09:58:55Z | Eggsploit is an exploit for old roblox clients. | https://github.com/wehateyouvvita/Eggsploit | 0 | 0| 
-| 20230515T09:30:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4969 | 980| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T18:34:08Z | Linux | https://github.com/GongWook/BackDoorTest | 0 | 0| 
+| 20230515T16:06:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 134 | 30| 
+| 20230515T15:16:23Z | GoBack is a simple tool for %Goleki backdoor%  | https://github.com/tegal1337/GoBack | 0 | 0| 
 | 20230515T09:55:06Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
 | 20230515T09:50:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
 | 20230515T07:22:01Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 21 | 1| 
@@ -68,21 +73,22 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T13:18:24Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 79 | 28| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230515T22:18:50Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
+| 20230515T21:26:03Z | Null | https://github.com/google/fuzztest | 277 | 19| 
+| 20230515T20:55:11Z | Null | https://github.com/Sh00ty/MeFuzz | 0 | 0| 
+| 20230515T14:28:46Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
 | 20230515T12:47:10Z | Null | https://github.com/WanShannn/Introduce-Fuzzing-tools | 0 | 0| 
 | 20230515T12:27:37Z | Null | https://github.com/JumpingKicks/fuzzy-guacamole | 0 | 0| 
 | 20230515T11:46:06Z | LFTS | https://github.com/OZ1NG/LibFuzzTargetSelector | 0 | 0| 
 | 20230515T11:45:58Z | Null | https://github.com/sunshinebell88/fuzzy-garbanzo | 0 | 0| 
 | 20230515T11:16:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8654 | 1903| 
 | 20230515T08:59:36Z | Null | https://github.com/puvyi/fuzzy-octo-chainsaw | 0 | 0| 
-| 20230515T08:27:45Z | Artifacts for the paper: %Green Fuzzing: A Saturation-based Stopping Criterion using Vulnerability Prediction% | https://github.com/tum-i4/green-fuzzing-artifacts | 0 | 0| 
-| 20230515T07:32:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4688 | 1126| 
-| 20230515T04:03:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1394 | 195| 
-| 20230515T00:10:43Z | a basic fuzzer created in Go as a learning exercise | https://github.com/cicada-legs/pierre | 0 | 0| 
 
 
 
