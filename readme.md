@@ -74,6 +74,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T11:39:09Z | Null | https://github.com/HunterAnnan/fuzzy_duplicate_checker | 0 | 0| 
+| 20230516T11:15:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8657 | 1902| 
+| 20230516T10:46:35Z | Fuzzing: Software testing technique using unexpected/random inputs to uncover vulnerabilities. Automates stress-testing, identifies bugs, and enhances software security. | https://github.com/AMEENVKD/BUFUZZER | 0 | 0| 
+| 20230516T10:20:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4692 | 1126| 
+| 20230516T09:23:14Z | Null | https://github.com/DreamP0ssible/fuzzy-invention | 0 | 0| 
 | 20230516T01:24:50Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
 | 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 

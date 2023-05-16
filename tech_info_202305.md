@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T11:39:09Z | Null | https://github.com/HunterAnnan/fuzzy_duplicate_checker | 0 | 0| 
+| 20230516T11:15:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8657 | 1902| 
+| 20230516T10:46:35Z | Fuzzing: Software testing technique using unexpected/random inputs to uncover vulnerabilities. Automates stress-testing, identifies bugs, and enhances software security. | https://github.com/AMEENVKD/BUFUZZER | 0 | 0| 
+| 20230516T10:20:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4692 | 1126| 
+| 20230516T09:23:14Z | Null | https://github.com/DreamP0ssible/fuzzy-invention | 0 | 0| 
 | 20230516T01:24:50Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
 | 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
 | 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
 | 20230515T22:18:50Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
-| 20230515T21:26:03Z | Null | https://github.com/google/fuzztest | 277 | 19| 
-| 20230515T20:55:11Z | Null | https://github.com/Sh00ty/MeFuzz | 0 | 0| 
-| 20230515T14:28:46Z | Fuzzing Formal Equivalence Checkers | https://github.com/mpardalos/equifuzz | 2 | 0| 
-| 20230515T12:47:10Z | Null | https://github.com/WanShannn/Introduce-Fuzzing-tools | 0 | 0| 
-| 20230515T12:27:37Z | Null | https://github.com/JumpingKicks/fuzzy-guacamole | 0 | 0| 
 
 
 
