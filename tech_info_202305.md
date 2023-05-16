@@ -113,10 +113,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T12:09:42Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 13 | 2| 
 | 20230516T05:55:42Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 41 | 3| 
 | 20230515T13:18:24Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 79 | 28| 
 | 20230513T14:17:55Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 659 | 104| 
-| 20230512T03:04:08Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 12 | 2| 
 | 20230508T02:07:19Z | Null | https://github.com/slskopytko/ndssguiyrk | 0 | 0| 
 | 20230503T11:43:35Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 3 | 2| 
 | 20230502T04:39:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 16 | 1| 
@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T11:41:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46566 | 22979| 
 | 20230516T11:39:09Z | Null | https://github.com/HunterAnnan/fuzzy_duplicate_checker | 0 | 0| 
 | 20230516T11:15:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8657 | 1902| 
 | 20230516T10:46:35Z | Fuzzing: Software testing technique using unexpected/random inputs to uncover vulnerabilities. Automates stress-testing, identifies bugs, and enhances software security. | https://github.com/AMEENVKD/BUFUZZER | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
 | 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
-| 20230515T22:18:50Z | A metamorphic Fuzzer for the Dafny Verifier | https://github.com/534014913/DafFuzz | 0 | 0| 
 
 
 
