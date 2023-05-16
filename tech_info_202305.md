@@ -77,7 +77,7 @@
 | 20230516T08:53:20Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0352-app-CEyCS-exploit-reach | 0 | 0| 
 | 20230516T08:52:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0366-app-l15JO-exploit-hang | 0 | 0| 
 | 20230516T08:50:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0346-app-REYKp-sustain-exploit | 0 | 0| 
-| 20230516T01:14:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7i | 1 | 0| 
+| 20230516T07:53:36Z | celery exploit bypassing byfron | https://github.com/gdfhftu/celery | 0 | 0| 
 
 
 # backdoor on Github 推荐
