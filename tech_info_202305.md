@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T01:14:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7i | 1 | 0| 
+| 20230516T01:13:10Z | Null | https://github.com/regence231/exploit_101 | 0 | 0| 
 | 20230516T01:12:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7i | 1 | 0| 
 | 20230516T01:08:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7i | 1 | 0| 
 | 20230515T23:21:12Z | Exploit Writing Training | https://github.com/w31rdr4v3n/Binary-Exploitation | 2 | 0| 
@@ -75,8 +77,6 @@
 | 20230515T21:41:32Z | How do LLMs exploit context in dialogue? 🦙💬 Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
 | 20230515T21:01:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4970 | 980| 
 | 20230515T20:00:22Z | Server-Side Prototype Pollution: What is it? How to detect it? How to exploit it? | https://github.com/Jake-Schoellkopf/Server-Side_Prototype_Pollution | 0 | 0| 
-| 20230515T19:37:58Z | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | 1 | 0| 
-| 20230515T18:58:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4909 | 615| 
 
 
 # backdoor on Github 推荐
