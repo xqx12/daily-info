@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230516T00:27:33Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230516T11:58:25Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230516T10:53:28Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
+| 20230516T10:49:23Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
+| 20230516T08:25:12Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230516T07:39:05Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
+| 20230516T07:23:48Z | CVE-2023-32233 | 自用，poc作者为Piotr Krysiuk，在使用前请先阅读README.md | https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233 | | 
 | 20230515T19:37:58Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
 | 20230515T16:31:02Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
 | 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20230514T19:32:50Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
-| 20230514T13:50:54Z | CVE-2022-4096 | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | https://github.com/aminetitrofine/CVE-2022-4096 | | 
-| 20230514T13:47:48Z | CVE-2022-30190 | Follina (CVE-2022-30190) is a Microsoft Office zero-day vulnerability that has recently been discovered. It’s a high-severity vulnerability that hackers can leverage for remote code execution (RCE) attacks. | https://github.com/aminetitrofine/CVE-2022-30190 | | 
-| 20230514T12:04:07Z | cve-2022-42475 | test for the ioc described for FG-IR-22-398 | https://github.com/bryanster/ioc-cve-2022-42475 | | 
-| 20230514T08:07:25Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T10:57:58Z | SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 0 | 0| 
 | 20230516T01:38:32Z | Null | https://github.com/erht/klees | 0 | 0| 
 | 20230514T09:40:47Z | Paul Klee Museum Hackathon | https://github.com/ccc159/kosmos | 1 | 0| 
 | 20230514T01:09:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12022 | 381| 
@@ -50,14 +51,14 @@
 | 20230512T20:07:29Z | Null | https://github.com/hummju/kleesvelte | 0 | 0| 
 | 20230512T16:48:01Z | machine-learning-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/machine-learning-Ethan-Klee | 0 | 0| 
 | 20230512T12:27:26Z | hackathon im zentrum paul klee | https://github.com/flurinanna/paulraus | 0 | 0| 
-| 20230512T03:22:03Z | Config files for my GitHub profile. | https://github.com/Ayyitskevin/Klee-UCF-Coding-Bootcamp-Git | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T07:36:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
+| 20230516T06:39:00Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 4 | 1| 
 | 20230514T04:21:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 19 | 10| 
-| 20230513T11:08:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 333 | 80| 
 | 20230512T06:53:22Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230508T16:47:41Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 86 | 49| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
@@ -67,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T10:50:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5114 | 732| 
+| 20230516T10:49:23Z | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | 0 | 0| 
+| 20230516T10:29:41Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 227 | 6| 
+| 20230516T10:08:26Z | Null | https://github.com/Srikrishna-UN/Arduino_exploits | 0 | 0| 
+| 20230516T09:15:29Z | Null | https://github.com/arnaudpfu/tp3-systeme-exploitation | 0 | 0| 
+| 20230516T08:59:15Z | Null | https://github.com/BaconBloxYT/ExploitzHub-Games.lua | 1 | 0| 
+| 20230516T08:53:20Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0352-app-CEyCS-exploit-reach | 0 | 0| 
+| 20230516T08:52:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0366-app-l15JO-exploit-hang | 0 | 0| 
+| 20230516T08:50:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0346-app-REYKp-sustain-exploit | 0 | 0| 
 | 20230516T01:14:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7i | 1 | 0| 
-| 20230516T01:13:10Z | Null | https://github.com/regence231/exploit_101 | 0 | 0| 
-| 20230516T01:12:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7i | 1 | 0| 
-| 20230516T01:08:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7i | 1 | 0| 
-| 20230515T23:21:12Z | Exploit Writing Training | https://github.com/w31rdr4v3n/Binary-Exploitation | 2 | 0| 
-| 20230515T23:01:00Z | Fox Ex v2 exploit rce upload shell +50 exploit get + 3000 shell In 2 minutes 2023 priv8 | https://github.com/raizoworm/Fox-Ex-v2 | 0 | 0| 
-| 20230515T22:54:23Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
-| 20230515T21:41:32Z | How do LLMs exploit context in dialogue? 🦙💬 Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
-| 20230515T21:01:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4970 | 980| 
-| 20230515T20:00:22Z | Server-Side Prototype Pollution: What is it? How to detect it? How to exploit it? | https://github.com/Jake-Schoellkopf/Server-Side_Prototype_Pollution | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T03:04:39Z | Null | https://github.com/jpcweb/go-backdoor | 0 | 0| 
+| 20230516T03:04:23Z | Kernel  rk | https://github.com/carloslack/KoviD | 135 | 30| 
 | 20230516T01:34:31Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
 | 20230515T18:34:08Z | Linux | https://github.com/GongWook/BackDoorTest | 0 | 0| 
-| 20230515T16:06:21Z | Kernel  rk | https://github.com/carloslack/KoviD | 134 | 30| 
 | 20230515T15:16:23Z | GoBack is a simple tool for %Goleki backdoor%  | https://github.com/tegal1337/GoBack | 0 | 0| 
 | 20230515T09:55:06Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
 | 20230515T09:50:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
+| 20230515T09:00:58Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 28 | 2| 
 | 20230515T07:22:01Z | Website Management Tool | https://github.com/malbuffer4pt/Alien | 21 | 1| 
 | 20230515T02:24:13Z | Kleptographic attack on Kyber | https://github.com/Attacks-on-Kyber/Backdoor-Attack | 0 | 0| 
-| 20230514T23:29:58Z | Null | https://github.com/0xGabe/php-8.1.0-backdoor | 0 | 0| 
-| 20230514T17:42:01Z | Website for a construction/ realtor company | https://github.com/tommimaki/Backdoor.com | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
