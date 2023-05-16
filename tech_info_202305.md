@@ -73,10 +73,10 @@
 | 20230515T21:41:32Z | How do LLMs exploit context in dialogue? 🦙💬 Exploring patterns of generation in Large Language Models (LLMs) with computational linguistics and interpretability techniques. | https://github.com/Arotte/organic-llm-dialogue | 0 | 0| 
 | 20230515T20:00:22Z | Server-Side Prototype Pollution: What is it? How to detect it? How to exploit it? | https://github.com/Jake-Schoellkopf/Server-Side_Prototype_Pollution | 0 | 0| 
 | 20230515T19:37:58Z | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | 1 | 0| 
+| 20230515T18:58:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4909 | 615| 
 | 20230515T17:42:43Z | Evan and Stefans project | https://github.com/ekindseth/564exploit | 0 | 0| 
 | 20230515T14:07:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 634 | 166| 
 | 20230515T12:42:16Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 203 | 6| 
-| 20230515T12:17:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-sIlAX-relate-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
