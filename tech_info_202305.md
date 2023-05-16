@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230516T00:57:17Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
+| 20230516T01:24:50Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
 | 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
 | 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
