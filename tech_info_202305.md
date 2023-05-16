@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230516T12:57:32Z | cve-2023-31070 | CVE-2023-31070 Broadcom BCM47xx SDK slab-out-of-bounds write PoC | https://github.com/bugprove/cve-2023-31070 | | 
 | 20230516T12:56:12Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230516T10:53:28Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T10:49:23Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
@@ -35,7 +36,6 @@
 | 20230515T19:37:58Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
 | 20230515T16:31:02Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
 | 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
-| 20230515T01:29:55Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 
 
 # klee on Github 推荐
