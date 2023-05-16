@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T12:15:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3682 | 740| 
 | 20230516T11:41:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46566 | 22979| 
 | 20230516T11:39:09Z | Null | https://github.com/HunterAnnan/fuzzy_duplicate_checker | 0 | 0| 
 | 20230516T11:15:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8657 | 1902| 
@@ -134,7 +135,6 @@
 | 20230516T01:24:50Z | A library for fuzzy-string-searching using suffix trees and levenschtein automatons to perform extremely fast search queries on large data sets. Serialize and deserialize functions allow suffix trees to persist (and drastically reduce preprocessing time). | https://github.com/squidscode/FuzzyStringSearch | 0 | 0| 
 | 20230516T00:56:28Z | An app to keep simple notes from day to day | https://github.com/mpapesca/fuzzy-memory | 0 | 0| 
 | 20230516T00:51:54Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
-| 20230515T22:37:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3587 | 429| 
 
 
 
