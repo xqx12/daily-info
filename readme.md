@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230516T11:58:25Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230516T12:01:45Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230516T10:53:28Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T10:49:23Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
 | 20230516T08:25:12Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
@@ -64,6 +64,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T10:34:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3443 | 479| 
+| 20230516T07:36:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
 
 
 # big4 on Github 推荐

@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230516T11:58:25Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230516T12:01:45Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230516T10:53:28Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T10:49:23Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
 | 20230516T08:25:12Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
@@ -98,8 +98,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230516T10:34:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3443 | 479| 
+| 20230516T07:36:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
 | 20230515T08:00:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 643 | 117| 
-| 20230515T06:03:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3442 | 479| 
 | 20230514T21:21:10Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1317 | 59| 
 | 20230514T09:11:41Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1085 | 130| 
 | 20230514T04:02:51Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 765 | 88| 
@@ -107,7 +108,6 @@
 | 20230511T07:20:22Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 87 | 2| 
 | 20230508T07:58:35Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 561 | 37| 
 | 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
-| 20230505T21:39:05Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 
 
 # big4 on Github 推荐
