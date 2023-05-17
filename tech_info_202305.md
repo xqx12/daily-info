@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T12:27:54Z | Null | https://github.com/Ife2002/fuzzy-waddle | 0 | 0| 
 | 20230517T11:26:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8661 | 1903| 
 | 20230517T10:53:02Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 323 | 44| 
 | 20230517T10:23:05Z | Null | https://github.com/WanShannn/Using-fuzzing-to-discover-vulnerabilities | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230517T06:45:35Z | Null | https://github.com/arijitbiswas2/fuzzy-sniffle | 0 | 0| 
 | 20230517T06:26:27Z | Fuzzy numbers calculs with R | https://github.com/rbensua/fuzzyr | 0 | 0| 
 | 20230516T23:07:53Z | Turning thoughts to reality  | https://github.com/KTiego/fuzzy-octo-waffle | 0 | 0| 
-| 20230516T22:19:51Z | Solution to Mid Course Project | https://github.com/Gbemiclassic/Maven-Fuzzy-Factory | 0 | 0| 
 
 
 
