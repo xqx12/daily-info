@@ -58,6 +58,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T08:36:57Z | This is a walkthrough of the deployment of a trojan using ProRAT on an unpatched Windows 10 virtual machine (VM) through a Windows 11 VM. ProRAT is a remote administration tool (RAT) that is a common tool employed by hackers to gain unauthorised access to the system. It is a Windows-based backdoor Trojan that is used to control the victim%s machine | https://github.com/Kairos-T/TrojanAttack-Walkthrough | 0 | 0| 
+| 20230517T06:16:23Z | Como usar msfvenom para hacer scripts y entrar con metaexploit a una backdoor remota | https://github.com/Gerijacki/Metaexploit_msfvenom | 0 | 0| 
+| 20230517T02:00:36Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
 | 20230517T00:06:20Z | An official PyTorch implementation of %Unnoticeable Backdoor Attacks on Graph Neural Networks% (WWW 2023)) | https://github.com/ventr1c/UGBA | 12 | 1| 
 
 

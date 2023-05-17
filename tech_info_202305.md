@@ -83,6 +83,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T08:36:57Z | This is a walkthrough of the deployment of a trojan using ProRAT on an unpatched Windows 10 virtual machine (VM) through a Windows 11 VM. ProRAT is a remote administration tool (RAT) that is a common tool employed by hackers to gain unauthorised access to the system. It is a Windows-based backdoor Trojan that is used to control the victim%s machine | https://github.com/Kairos-T/TrojanAttack-Walkthrough | 0 | 0| 
+| 20230517T06:16:23Z | Como usar msfvenom para hacer scripts y entrar con metaexploit a una backdoor remota | https://github.com/Gerijacki/Metaexploit_msfvenom | 0 | 0| 
+| 20230517T02:00:36Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
 | 20230517T00:06:20Z | An official PyTorch implementation of %Unnoticeable Backdoor Attacks on Graph Neural Networks% (WWW 2023)) | https://github.com/ventr1c/UGBA | 12 | 1| 
 | 20230516T14:17:23Z | Reconstructive Neuron Pruning for Backdoor Defense (ICML 2023) | https://github.com/bboylyg/RNP | 0 | 0| 
 | 20230516T03:04:39Z | Null | https://github.com/jpcweb/go-backdoor | 0 | 0| 
@@ -90,9 +93,6 @@
 | 20230516T01:34:31Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
 | 20230515T18:34:08Z | Linux | https://github.com/GongWook/BackDoorTest | 0 | 0| 
 | 20230515T15:16:23Z | GoBack is a simple tool for %Goleki backdoor%  | https://github.com/tegal1337/GoBack | 0 | 0| 
-| 20230515T09:55:06Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
-| 20230515T09:50:30Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
-| 20230515T09:00:58Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 28 | 2| 
 
 
 # symbolic execution on Github 推荐
