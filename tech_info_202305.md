@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230517T00:57:50Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 0 | 0| 
+| 20230517T01:02:24Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 0 | 0| 
 | 20230517T00:54:31Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/TryHackMeCTFs | 0 | 0| 
 | 20230517T00:50:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4915 | 616| 
 | 20230517T00:46:58Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
