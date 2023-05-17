@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230517T00:19:32Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T23:58:26Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
-| 20230516T22:57:55Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T20:13:21Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230516T13:19:22Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
 | 20230516T12:57:32Z | cve-2023-31070 | CVE-2023-31070 Broadcom BCM47xx SDK slab-out-of-bounds write PoC | https://github.com/bugprove/cve-2023-31070 | | 
@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230517T00:18:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 0 | 0| 
+| 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230516T23:55:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4d758b3f-f729-476b-9b5e-1404b892e82f-OEb0T-exploit-doubt | 0 | 0| 
