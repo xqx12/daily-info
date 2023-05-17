@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230517T00:43:27Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T00:58:42Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230517T00:19:32Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T20:13:21Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230516T13:19:22Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T00:57:50Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 0 | 0| 
 | 20230517T00:54:31Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/TryHackMeCTFs | 0 | 0| 
 | 20230517T00:50:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4915 | 616| 
 | 20230517T00:46:58Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230516T23:55:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4d758b3f-f729-476b-9b5e-1404b892e82f-OEb0T-exploit-doubt | 0 | 0| 
 | 20230516T23:54:43Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dfe54df2-8f72-4c30-bd8e-97a90cccff4b-P5X57-see-exploit | 0 | 0| 
-| 20230516T23:43:08Z | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
