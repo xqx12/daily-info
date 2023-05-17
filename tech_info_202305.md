@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230517T11:23:19Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T12:37:23Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230517T10:32:42Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
 | 20230517T07:22:38Z | CVE-2023-31703 | Null | https://github.com/sahiloj/CVE-2023-31703 | | 
 | 20230517T07:14:37Z | CVE-2023-31702 | Null | https://github.com/sahiloj/CVE-2023-31702 | | 
@@ -74,15 +74,16 @@
 | 20230517T11:09:28Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
 | 20230517T10:10:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5110 | 731| 
 | 20230517T09:55:22Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 184 | 34| 
+| 20230517T06:14:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4974 | 981| 
 | 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
 | 20230517T04:37:29Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 476 | 34| 
 | 20230517T01:47:54Z | Lab write-ups from RPISEC | https://github.com/DTechOS/Modern-Binary-Exploitation | 0 | 0| 
-| 20230517T01:32:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6ab583a1-0210-4de1-882d-334c195f61fd-XuxGy-measure-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T11:07:43Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 439 | 81| 
 | 20230517T08:36:57Z | This is a walkthrough of the deployment of a trojan using ProRAT on an unpatched Windows 10 virtual machine (VM) through a Windows 11 VM. ProRAT is a remote administration tool (RAT) that is a common tool employed by hackers to gain unauthorised access to the system. It is a Windows-based backdoor Trojan that is used to control the victim%s machine | https://github.com/Kairos-T/TrojanAttack-Walkthrough | 0 | 0| 
 | 20230517T06:16:23Z | Como usar msfvenom para hacer scripts y entrar con metaexploit a una backdoor remota | https://github.com/Gerijacki/Metaexploit_msfvenom | 0 | 0| 
 | 20230517T02:00:36Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 7 | 2| 
@@ -92,7 +93,6 @@
 | 20230516T03:04:23Z | Kernel  rk | https://github.com/carloslack/KoviD | 135 | 30| 
 | 20230516T01:34:31Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 6 | 2| 
 | 20230515T18:34:08Z | Linux | https://github.com/GongWook/BackDoorTest | 0 | 0| 
-| 20230515T15:16:23Z | GoBack is a simple tool for %Goleki backdoor%  | https://github.com/tegal1337/GoBack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
