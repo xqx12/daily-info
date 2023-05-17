@@ -68,7 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230517T00:16:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 0 | 0| 
+| 20230517T00:18:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 0 | 0| 
+| 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230516T23:55:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4d758b3f-f729-476b-9b5e-1404b892e82f-OEb0T-exploit-doubt | 0 | 0| 
 | 20230516T23:54:43Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dfe54df2-8f72-4c30-bd8e-97a90cccff4b-P5X57-see-exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230516T22:18:54Z | just a simple stellaris remake, with a python server and unity client. feel free to do whatever you want with it. updates aren%t often, might be totally broken and full of exploits. Under MIT licensing. | https://github.com/lele394/stellaris-but-it-s-on-a-budget | 0 | 0| 
 | 20230516T22:02:10Z | A strategy that exploits low periods of volatility using long-dated OTM spy calls | https://github.com/shaun-mathew/quantconnect_uvxy_strat | 0 | 0| 
 | 20230516T21:31:30Z | Exploit for the Hack the Box machine Inject using python!  | https://github.com/Af7eR9l0W/HTB-Inject-Exploit | 0 | 0| 
-| 20230516T18:03:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5576 | 756| 
 
 
 # backdoor on Github 推荐
