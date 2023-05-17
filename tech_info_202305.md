@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T01:26:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8b9aae9d-1760-4690-b09c-51014438f2a3-GrfDJ-exploit-tend | 0 | 0| 
 | 20230517T01:05:04Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 1 | 0| 
 | 20230517T00:54:31Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/TryHackMeCTFs | 0 | 0| 
 | 20230517T00:50:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4915 | 616| 
@@ -77,7 +78,6 @@
 | 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230516T23:55:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4d758b3f-f729-476b-9b5e-1404b892e82f-OEb0T-exploit-doubt | 0 | 0| 
-| 20230516T23:54:43Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dfe54df2-8f72-4c30-bd8e-97a90cccff4b-P5X57-see-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
