@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T01:47:54Z | Lab write-ups from RPISEC | https://github.com/DTechOS/Modern-Binary-Exploitation | 0 | 0| 
 | 20230517T01:32:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6ab583a1-0210-4de1-882d-334c195f61fd-XuxGy-measure-exploit | 0 | 0| 
 | 20230517T01:30:32Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 1 | 0| 
 | 20230517T01:26:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8b9aae9d-1760-4690-b09c-51014438f2a3-GrfDJ-exploit-tend | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230517T00:21:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5577 | 756| 
 | 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
-| 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
