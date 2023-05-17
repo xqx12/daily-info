@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230517T12:37:23Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T12:45:37Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230517T10:32:42Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
 | 20230517T07:22:38Z | CVE-2023-31703 | Null | https://github.com/sahiloj/CVE-2023-31703 | | 
 | 20230517T07:14:37Z | CVE-2023-31702 | Null | https://github.com/sahiloj/CVE-2023-31702 | | 
