@@ -79,6 +79,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T11:26:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8661 | 1903| 
+| 20230517T10:53:02Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 323 | 44| 
+| 20230517T10:23:05Z | Null | https://github.com/WanShannn/Using-fuzzing-to-discover-vulnerabilities | 0 | 0| 
+| 20230517T09:45:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1403 | 196| 
+| 20230517T08:03:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1778 | 291| 
+| 20230517T07:05:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4693 | 1126| 
+| 20230517T06:45:35Z | Null | https://github.com/arijitbiswas2/fuzzy-sniffle | 0 | 0| 
+| 20230517T06:26:27Z | Fuzzy numbers calculs with R | https://github.com/rbensua/fuzzyr | 0 | 0| 
 
 
 

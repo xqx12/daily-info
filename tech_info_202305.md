@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T11:26:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8661 | 1903| 
+| 20230517T10:53:02Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 323 | 44| 
+| 20230517T10:23:05Z | Null | https://github.com/WanShannn/Using-fuzzing-to-discover-vulnerabilities | 0 | 0| 
+| 20230517T09:45:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1403 | 196| 
+| 20230517T08:03:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1778 | 291| 
+| 20230517T07:05:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4693 | 1126| 
+| 20230517T06:45:35Z | Null | https://github.com/arijitbiswas2/fuzzy-sniffle | 0 | 0| 
+| 20230517T06:26:27Z | Fuzzy numbers calculs with R | https://github.com/rbensua/fuzzyr | 0 | 0| 
 | 20230516T23:07:53Z | Turning thoughts to reality  | https://github.com/KTiego/fuzzy-octo-waffle | 0 | 0| 
 | 20230516T22:19:51Z | Solution to Mid Course Project | https://github.com/Gbemiclassic/Maven-Fuzzy-Factory | 0 | 0| 
-| 20230516T21:02:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8659 | 1903| 
-| 20230516T20:48:01Z | Tool to fuzz url subdirectories for a given website. | https://github.com/TimoKubera/url_fuzzer | 0 | 0| 
-| 20230516T15:04:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3588 | 429| 
-| 20230516T12:15:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3682 | 740| 
-| 20230516T11:41:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46566 | 22979| 
-| 20230516T11:39:09Z | Null | https://github.com/HunterAnnan/fuzzy_duplicate_checker | 0 | 0| 
-| 20230516T10:46:35Z | Fuzzing: Software testing technique using unexpected/random inputs to uncover vulnerabilities. Automates stress-testing, identifies bugs, and enhances software security. | https://github.com/AMEENVKD/BUFUZZER | 0 | 0| 
-| 20230516T10:20:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4692 | 1126| 
 
 
 
