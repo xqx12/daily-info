@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230517 | 以文件为中心的 IoT 恶意软件网络分析 | https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q| 
+| 20230517 | 基于Caddy实现的C2前置代理 | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ| 
+| 20230517 | 2023年中国网络安全市场全景图 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf| 
 | 20230515 | 通过突变分析暴露库的API误用 | https://mp.weixin.qq.com/s/ZMWh64ajw-Gjw6Ks7EK4IQ| 
 | 20230515 | SecWiki周刊（第480期) | https://www.sec-wiki.com/weekly/480| 
 | 20230515 | 基于威胁情报的高效网络威胁监测架构 | https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg| 
@@ -18,24 +21,21 @@
 | 20230514 | 记对一次诈骗组织渗透的实例 | https://xz.aliyun.com/t/12523| 
 | 20230513 | Black Hat Asia 2023 议题文档 | https://www.blackhat.com/asia-23/briefings/schedule/index.html| 
 | 20230513 | 内网主机探测工具合集 | https://mp.weixin.qq.com/s/nHoacEmOb5lx2c0Wra7gzw| 
-| 20230513 | 涉网犯罪网站下线后的线索追踪 | https://mp.weixin.qq.com/s/b2Waw-tOSVMjHdH0TcKA0A| 
-| 20230513 | 浅谈物联网设备安全 | https://mp.weixin.qq.com/s/D9D4ZSd5ij4mIvAXwqU60g| 
-| 20230513 | CodeQL与AST之间联系 | https://mp.weixin.qq.com/s/pzq35orr_guqPeSiTMmiYw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230517T01:49:39Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T11:23:19Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T10:32:42Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
+| 20230517T07:22:38Z | CVE-2023-31703 | Null | https://github.com/sahiloj/CVE-2023-31703 | | 
+| 20230517T07:14:37Z | CVE-2023-31702 | Null | https://github.com/sahiloj/CVE-2023-31702 | | 
+| 20230517T03:05:36Z | CVE-2022-30190 | Follina (CVE-2022-30190) is a Microsoft Office zero-day vulnerability that has recently been discovered. It’s a high-severity vulnerability that hackers can leverage for remote code execution (RCE) attacks. | https://github.com/aminetitrofine/CVE-2022-30190 | | 
+| 20230517T02:46:49Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230517T02:04:35Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
 | 20230517T00:19:32Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
-| 20230516T20:13:21Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230516T13:19:22Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
 | 20230516T12:57:32Z | cve-2023-31070 | CVE-2023-31070 Broadcom BCM47xx SDK slab-out-of-bounds write PoC | https://github.com/bugprove/cve-2023-31070 | | 
-| 20230516T10:49:23Z | CVE-2023-0386 | Vulnerabilities Exploitation On Ubuntu 22.04 | https://github.com/sxlmnwb/CVE-2023-0386 | | 
-| 20230516T07:39:05Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
-| 20230516T07:23:48Z | CVE-2023-32233 | 自用，poc作者为Piotr Krysiuk，在使用前请先阅读README.md | https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233 | | 
-| 20230515T16:31:02Z | CVE-2021-22204 | Null | https://github.com/Akash7350/CVE-2021-22204 | | 
-| 20230515T11:57:30Z | CVE-2023-32073 | WWBN AVideo Authenticated RCE | https://github.com/jmrcsnchz/CVE-2023-32073 | | 
 
 
 # klee on Github 推荐
@@ -98,10 +98,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T07:05:41Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1318 | 59| 
 | 20230516T19:20:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3444 | 479| 
 | 20230516T07:36:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
 | 20230515T08:00:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 643 | 117| 
-| 20230514T21:21:10Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1317 | 59| 
 | 20230514T09:11:41Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1085 | 130| 
 | 20230514T04:02:51Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 765 | 88| 
 | 20230512T09:54:35Z | Laziest-sharp symbolic execution | https://github.com/pietrobraione/lzsh | 0 | 0| 
