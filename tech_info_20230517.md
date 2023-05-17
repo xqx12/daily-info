@@ -32,6 +32,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T07:57:41Z | Null | https://github.com/Cristhian67/CerraduraDeKleeYCreacionDePalabras-Angular | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -42,16 +43,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T11:20:28Z | Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn%t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server. | https://github.com/csffs/cve-2023-1671 | 0 | 0| 
+| 20230517T11:09:28Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
+| 20230517T11:04:45Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 246 | 6| 
+| 20230517T10:10:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5110 | 731| 
+| 20230517T09:55:22Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 184 | 34| 
+| 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
 | 20230517T01:47:54Z | Lab write-ups from RPISEC | https://github.com/DTechOS/Modern-Binary-Exploitation | 0 | 0| 
 | 20230517T01:32:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6ab583a1-0210-4de1-882d-334c195f61fd-XuxGy-measure-exploit | 0 | 0| 
 | 20230517T01:30:32Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 1 | 0| 
 | 20230517T01:26:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8b9aae9d-1760-4690-b09c-51014438f2a3-GrfDJ-exploit-tend | 0 | 0| 
-| 20230517T00:54:31Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/TryHackMeCTFs | 0 | 0| 
-| 20230517T00:50:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4915 | 616| 
-| 20230517T00:46:58Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
-| 20230517T00:21:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5577 | 756| 
-| 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
-| 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -69,6 +70,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T02:39:20Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 660 | 104| 
 
 
 # fuzz on Github 推荐

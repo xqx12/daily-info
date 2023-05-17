@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T07:57:41Z | Null | https://github.com/Cristhian67/CerraduraDeKleeYCreacionDePalabras-Angular | 0 | 0| 
 | 20230516T13:40:10Z | KLEE Portfolio | https://github.com/Kyungho0511/Portfolio | 0 | 0| 
 | 20230516T10:57:58Z | SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 0 | 0| 
 | 20230516T01:38:32Z | Null | https://github.com/erht/klees | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230513T04:49:36Z | Null | https://github.com/thedanhoffman/klee | 0 | 0| 
 | 20230513T02:11:01Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 282 | 4| 
 | 20230512T20:07:29Z | Null | https://github.com/hummju/kleesvelte | 0 | 0| 
-| 20230512T16:48:01Z | machine-learning-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/machine-learning-Ethan-Klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T11:20:28Z | Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn%t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server. | https://github.com/csffs/cve-2023-1671 | 0 | 0| 
+| 20230517T11:09:28Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
+| 20230517T11:04:45Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 246 | 6| 
+| 20230517T10:10:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5110 | 731| 
+| 20230517T09:55:22Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 184 | 34| 
+| 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
 | 20230517T01:47:54Z | Lab write-ups from RPISEC | https://github.com/DTechOS/Modern-Binary-Exploitation | 0 | 0| 
 | 20230517T01:32:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6ab583a1-0210-4de1-882d-334c195f61fd-XuxGy-measure-exploit | 0 | 0| 
 | 20230517T01:30:32Z | Exploiting Trilateral Geometry Towards Enhanced Knowledge Distillation | https://github.com/Chengming0501/TGeo-KD | 1 | 0| 
 | 20230517T01:26:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8b9aae9d-1760-4690-b09c-51014438f2a3-GrfDJ-exploit-tend | 0 | 0| 
-| 20230517T00:54:31Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/TryHackMeCTFs | 0 | 0| 
-| 20230517T00:50:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4915 | 616| 
-| 20230517T00:46:58Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
-| 20230517T00:21:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5577 | 756| 
-| 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
-| 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,11 +113,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T02:39:20Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 660 | 104| 
 | 20230516T20:24:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 42 | 3| 
 | 20230516T12:09:42Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 13 | 2| 
 | 20230516T07:16:41Z | Experiments from the Witcher NDSS submission  | https://github.com/sefcom/Witcher-experiment | 2 | 2| 
 | 20230515T13:18:24Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 79 | 28| 
-| 20230513T14:17:55Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 659 | 104| 
 | 20230508T02:07:19Z | Null | https://github.com/slskopytko/ndssguiyrk | 0 | 0| 
 | 20230503T11:43:35Z | BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems (NDSS%23) | https://github.com/KaiWangGitHub/BARS | 3 | 2| 
 | 20230502T04:39:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 16 | 1| 
