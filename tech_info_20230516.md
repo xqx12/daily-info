@@ -50,9 +50,9 @@
 | 20230516T22:18:54Z | just a simple stellaris remake, with a python server and unity client. feel free to do whatever you want with it. updates aren%t often, might be totally broken and full of exploits. Under MIT licensing. | https://github.com/lele394/stellaris-but-it-s-on-a-budget | 0 | 0| 
 | 20230516T22:02:10Z | A strategy that exploits low periods of volatility using long-dated OTM spy calls | https://github.com/shaun-mathew/quantconnect_uvxy_strat | 0 | 0| 
 | 20230516T21:31:30Z | Exploit for the Hack the Box machine Inject using python!  | https://github.com/Af7eR9l0W/HTB-Inject-Exploit | 0 | 0| 
-| 20230516T15:59:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4913 | 616| 
 | 20230516T14:28:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 635 | 166| 
 | 20230516T12:48:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4972 | 980| 
+| 20230516T12:47:07Z | Null | https://github.com/Harsh8340/exploiting-complexity-in-signature-based-techniques | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T00:29:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4914 | 616| 
 | 20230517T00:21:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5577 | 756| 
 | 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230517T00:17:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20230516T23:43:08Z | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | 0 | 0| 
 | 20230516T23:26:30Z | Null | https://github.com/NimberMonster5560/ExploitMS | 0 | 0| 
 | 20230516T22:18:54Z | just a simple stellaris remake, with a python server and unity client. feel free to do whatever you want with it. updates aren%t often, might be totally broken and full of exploits. Under MIT licensing. | https://github.com/lele394/stellaris-but-it-s-on-a-budget | 0 | 0| 
-| 20230516T22:02:10Z | A strategy that exploits low periods of volatility using long-dated OTM spy calls | https://github.com/shaun-mathew/quantconnect_uvxy_strat | 0 | 0| 
 
 
 # backdoor on Github 推荐
