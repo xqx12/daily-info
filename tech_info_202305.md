@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T12:18:12Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 247 | 6| 
 | 20230517T12:03:48Z | Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn%t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server. | https://github.com/csffs/cve-2023-1671 | 0 | 0| 
 | 20230517T11:09:28Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
-| 20230517T11:04:45Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 246 | 6| 
 | 20230517T10:10:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5110 | 731| 
 | 20230517T09:55:22Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 184 | 34| 
 | 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
