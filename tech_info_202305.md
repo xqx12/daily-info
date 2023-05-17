@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230517T01:11:52Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230517T01:21:14Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230517T00:19:32Z | CVE-2022-24481 | POC for CLFS CVE-2022-24481 | https://github.com/robotMD5/CVE-2022-24481-POC | | 
 | 20230516T20:13:21Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230516T13:19:22Z | CVE-2022-41544 | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | https://github.com/yosef0x01/CVE-2022-41544 | | 
