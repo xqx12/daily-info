@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T00:16:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u8 | 0 | 0| 
+| 20230517T00:15:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u8 | 1 | 0| 
 | 20230516T23:55:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4d758b3f-f729-476b-9b5e-1404b892e82f-OEb0T-exploit-doubt | 0 | 0| 
 | 20230516T23:54:43Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dfe54df2-8f72-4c30-bd8e-97a90cccff4b-P5X57-see-exploit | 0 | 0| 
 | 20230516T23:43:08Z | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20230516T22:02:10Z | A strategy that exploits low periods of volatility using long-dated OTM spy calls | https://github.com/shaun-mathew/quantconnect_uvxy_strat | 0 | 0| 
 | 20230516T21:31:30Z | Exploit for the Hack the Box machine Inject using python!  | https://github.com/Af7eR9l0W/HTB-Inject-Exploit | 0 | 0| 
 | 20230516T18:03:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5576 | 756| 
-| 20230516T15:59:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4913 | 616| 
-| 20230516T14:28:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 635 | 166| 
 
 
 # backdoor on Github 推荐
