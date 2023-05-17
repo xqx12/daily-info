@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230517T00:37:34Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
+| 20230517T00:46:02Z | All CTF Files, Exploits and Resources. | https://github.com/Th3BlackHol3/Th3BlackHol3CTFs | 0 | 0| 
 | 20230517T00:29:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4914 | 616| 
 | 20230517T00:21:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5577 | 756| 
 | 20230517T00:18:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u8 | 1 | 0| 
