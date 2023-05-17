@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T12:54:54Z | 用于JNDI注入攻击恶意LDAP服务器 | https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0 | 0 | 0| 
 | 20230517T12:25:05Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0190-app-5a9_I-exploit-recall | 0 | 0| 
 | 20230517T12:18:12Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 247 | 6| 
 | 20230517T12:03:48Z | Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn%t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server. | https://github.com/csffs/cve-2023-1671 | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230517T06:14:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4974 | 981| 
 | 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
 | 20230517T04:37:29Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 476 | 34| 
-| 20230517T01:47:54Z | Lab write-ups from RPISEC | https://github.com/DTechOS/Modern-Binary-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
