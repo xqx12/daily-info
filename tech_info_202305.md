@@ -68,12 +68,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230517T12:57:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5109 | 731| 
 | 20230517T12:54:54Z | 用于JNDI注入攻击恶意LDAP服务器 | https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0 | 0 | 0| 
 | 20230517T12:25:05Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0190-app-5a9_I-exploit-recall | 0 | 0| 
 | 20230517T12:18:12Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 247 | 6| 
 | 20230517T12:03:48Z | Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn%t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server. | https://github.com/csffs/cve-2023-1671 | 0 | 0| 
 | 20230517T11:09:28Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
-| 20230517T10:10:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5110 | 731| 
 | 20230517T09:55:22Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 184 | 34| 
 | 20230517T06:14:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4974 | 981| 
 | 20230517T06:12:20Z | webin ( website base exploiting tools ) | https://github.com/1337r0j4n/webin | 1 | 1| 
