@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230518T11:54:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 541 | 66| 
 | 20230518T11:34:34Z | Null | https://github.com/sarahcollinsuvyfkwwq/fuzzy-enigma | 0 | 0| 
 | 20230518T11:34:16Z | Null | https://github.com/paulbrownfagpesgh/fuzzy-pancake | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230518T00:32:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5000 | 527| 
 | 20230517T23:56:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2729 | 185| 
 | 20230517T23:44:07Z | Null | https://github.com/iodinesky/Fuzzy-sets-in-historical-sources-OCR | 0 | 0| 
-| 20230517T23:22:02Z | A simple application for learning purposes where I created an form with personal data inputs and this data is shown in cards | https://github.com/arthur-mendonca/fuzzy-giggle-react-form | 0 | 0| 
 
 
 
