@@ -68,11 +68,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230518T00:47:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 20 | 3| 
+| 20230518T01:24:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 21 | 3| 
+| 20230518T01:23:07Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 84 | 0| 
 | 20230518T00:17:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y7 | 1 | 0| 
-| 20230518T00:01:32Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 85 | 0| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 | 20230517T23:36:21Z | executor undetected for all games | https://github.com/mohamedkhaled2015956/F1RE-Executor | 83 | 0| 
 | 20230517T23:24:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 484 | 93| 
