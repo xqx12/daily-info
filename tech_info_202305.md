@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T00:32:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5000 | 527| 
 | 20230517T23:56:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2729 | 185| 
 | 20230517T23:44:07Z | Null | https://github.com/iodinesky/Fuzzy-sets-in-historical-sources-OCR | 0 | 0| 
 | 20230517T23:22:02Z | A simple application for learning purposes where I created an form with personal data inputs and this data is shown in cards | https://github.com/arthur-mendonca/fuzzy-giggle-react-form | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230517T12:27:54Z | Null | https://github.com/Ife2002/fuzzy-waddle | 0 | 0| 
 | 20230517T10:53:02Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 323 | 44| 
 | 20230517T10:23:05Z | Null | https://github.com/WanShannn/Using-fuzzing-to-discover-vulnerabilities | 0 | 0| 
-| 20230517T08:03:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1778 | 291| 
 
 
 
