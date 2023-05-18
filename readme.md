@@ -22,7 +22,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230517T23:15:43Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
-| 20230517T21:53:37Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230517T20:44:53Z | CVE-2023-31584 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-31584 | | 
 | 20230517T20:18:19Z | CVE-2023-32784 | KeePass Master Password Extraction PoC for Linux | https://github.com/CTM1/CVE-2023-32784-keepass-linux | | 
 | 20230517T20:14:05Z | CVE-2020-9380 | https://medium.com/@anderson_pablo/iptv-smarters-exploit-cve-2020-9380-22d4b21f5da7 | https://github.com/migueltarga/CVE-2020-9380 | | 
@@ -31,6 +30,7 @@
 | 20230517T13:32:17Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
 | 20230517T07:22:38Z | CVE-2023-31703 | Null | https://github.com/sahiloj/CVE-2023-31703 | | 
 | 20230517T07:14:37Z | CVE-2023-31702 | Null | https://github.com/sahiloj/CVE-2023-31702 | | 
+| 20230517T03:05:36Z | CVE-2022-30190 | Follina (CVE-2022-30190) is a Microsoft Office zero-day vulnerability that has recently been discovered. It’s a high-severity vulnerability that hackers can leverage for remote code execution (RCE) attacks. | https://github.com/aminetitrofine/CVE-2022-30190 | | 
 
 
 # klee on Github 推荐
