@@ -55,9 +55,9 @@
 | 20230517T22:00:02Z | 💔 Heartbleed vulnerability exploit written in Rust | https://github.com/mrgian/heartbleed | 0 | 0| 
 | 20230517T21:45:40Z | Fast and stealth WordPress scanner, no api-key, looking for contributors  to dev an auto-exploit module. | https://github.com/moloch54/WPscrap | 1 | 0| 
 | 20230517T21:13:22Z | GitOps Repository | https://github.com/naftalysh-org/load2-0252-app-SvMqO-prove-exploit | 0 | 0| 
+| 20230517T17:51:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4922 | 616| 
 | 20230517T12:57:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5109 | 731| 
 | 20230517T12:54:54Z | 用于JNDI注入攻击恶意LDAP服务器 | https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0 | 0 | 0| 
-| 20230517T12:25:05Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0190-app-5a9_I-exploit-recall | 0 | 0| 
 
 
 # backdoor on Github 推荐

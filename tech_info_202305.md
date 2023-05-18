@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T00:15:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y7 | 0 | 0| 
+| 20230518T00:15:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:01:32Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 85 | 0| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 | 20230517T23:36:21Z | executor undetected for all games | https://github.com/mohamedkhaled2015956/F1RE-Executor | 83 | 0| 
@@ -76,8 +78,6 @@
 | 20230517T22:00:02Z | 💔 Heartbleed vulnerability exploit written in Rust | https://github.com/mrgian/heartbleed | 0 | 0| 
 | 20230517T21:45:40Z | Fast and stealth WordPress scanner, no api-key, looking for contributors  to dev an auto-exploit module. | https://github.com/moloch54/WPscrap | 1 | 0| 
 | 20230517T21:13:22Z | GitOps Repository | https://github.com/naftalysh-org/load2-0252-app-SvMqO-prove-exploit | 0 | 0| 
-| 20230517T12:57:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5109 | 731| 
-| 20230517T12:54:54Z | 用于JNDI注入攻击恶意LDAP服务器 | https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
