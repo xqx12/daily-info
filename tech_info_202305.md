@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T01:54:42Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 3968 | 959| 
 | 20230518T01:28:20Z | A new organization that attempts to help Hispanic Families Immigrate to the United States Legally and Without Coyote or Cartel Exploitation.  We also Employ former Marines and Retired Special Forces personnel to Identify and Eradicate Drug Smugglers of Fentanyl in any Form, Pills, Powder, etc. by any means necessary. | https://github.com/CraigVedder/AyudaParaBuenaGenteTexas | 0 | 0| 
 | 20230518T01:24:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 21 | 3| 
 | 20230518T01:23:07Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 84 | 0| 
@@ -77,7 +78,6 @@
 | 20230518T00:15:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 | 20230517T23:36:21Z | executor undetected for all games | https://github.com/mohamedkhaled2015956/F1RE-Executor | 83 | 0| 
-| 20230517T23:24:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 484 | 93| 
 
 
 # backdoor on Github 推荐
