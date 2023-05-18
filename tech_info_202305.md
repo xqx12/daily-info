@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T12:16:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5108 | 731| 
 | 20230518T11:46:26Z | Null | https://github.com/Bjorkedal/F1RE-Executor | 77 | 0| 
 | 20230518T11:41:09Z | PoC for Broken Access Control vulnerability in WordPress Elementor Pro Plugin. This vulnerability has been fixed in version 3.11.7. | https://github.com/B1GJ/elementor-pro-exploit | 1 | 0| 
 | 20230518T11:25:50Z | Null | https://github.com/demonprosersson/F1RE-Executor | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230518T10:47:44Z | GitOps Repository | https://github.com/naftalysh-org/load2-0098-app-SK21x-exploit-give | 0 | 0| 
 | 20230518T09:33:51Z | GitOps Repository | https://github.com/naftalysh-org/load2-0134-app-MRvWg-exploit-fear | 0 | 0| 
 | 20230518T09:17:15Z | GitOps Repository | https://github.com/naftalysh-org/load2-0214-app-yIq0W-challenge-exploit | 0 | 0| 
-| 20230518T08:07:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5107 | 731| 
 
 
 # backdoor on Github 推荐
