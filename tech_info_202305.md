@@ -68,6 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T12:54:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0313-app-_8PVu-negotiate-exploit | 0 | 0| 
+| 20230518T12:52:46Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0358-app-LhjJe-exploit-want | 0 | 0| 
+| 20230518T12:52:28Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10191 | 1600| 
 | 20230518T12:16:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5108 | 731| 
 | 20230518T11:46:26Z | Null | https://github.com/Bjorkedal/F1RE-Executor | 77 | 0| 
 | 20230518T11:41:09Z | PoC for Broken Access Control vulnerability in WordPress Elementor Pro Plugin. This vulnerability has been fixed in version 3.11.7. | https://github.com/B1GJ/elementor-pro-exploit | 1 | 0| 
@@ -75,9 +78,6 @@
 | 20230518T11:23:15Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 22 | 3| 
 | 20230518T11:16:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0494-app-Nfduu-exploit-forgive | 0 | 0| 
 | 20230518T10:58:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5584 | 756| 
-| 20230518T10:47:44Z | GitOps Repository | https://github.com/naftalysh-org/load2-0098-app-SK21x-exploit-give | 0 | 0| 
-| 20230518T09:33:51Z | GitOps Repository | https://github.com/naftalysh-org/load2-0134-app-MRvWg-exploit-fear | 0 | 0| 
-| 20230518T09:17:15Z | GitOps Repository | https://github.com/naftalysh-org/load2-0214-app-yIq0W-challenge-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T12:55:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3690 | 740| 
 | 20230518T12:49:17Z | Null | https://github.com/HaruyaAnaguchi/fuzz_buzz | 0 | 0| 
 | 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230518T11:54:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 541 | 66| 
@@ -135,7 +136,6 @@
 | 20230518T08:34:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5002 | 527| 
 | 20230518T01:34:35Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 90 | 4| 
 | 20230518T01:29:20Z | O notebook a seguir tem por objetivo apresentar a aplicação de um Algoritmo Fuzzy em um Dataset da escolha do grupo. No caso, o dataset escolhido foi o de Análise da Qualidade da Água em rios e lagos. Assim foi possível criar uma IA que auxilia na descoberta da taxa de poluentes da água, dizendo se ela é potável ou não utilizando a lógica Fuzzy. | https://github.com/jope1113/ProjA3-Fuzzy-Logic-IA-Potabilidade-da-Agua | 0 | 0| 
-| 20230517T23:56:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2729 | 185| 
 
 
 
