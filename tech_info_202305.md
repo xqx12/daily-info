@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T01:34:35Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 90 | 4| 
 | 20230518T01:29:20Z | O notebook a seguir tem por objetivo apresentar a aplicação de um Algoritmo Fuzzy em um Dataset da escolha do grupo. No caso, o dataset escolhido foi o de Análise da Qualidade da Água em rios e lagos. Assim foi possível criar uma IA que auxilia na descoberta da taxa de poluentes da água, dizendo se ela é potável ou não utilizando a lógica Fuzzy. | https://github.com/jope1113/ProjA3-Fuzzy-Logic-IA-Potabilidade-da-Agua | 0 | 0| 
 | 20230518T00:32:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5000 | 527| 
 | 20230517T23:56:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2729 | 185| 
@@ -135,7 +136,6 @@
 | 20230517T20:23:18Z | Null | https://github.com/shikhar4/FuzzyOS | 0 | 0| 
 | 20230517T17:36:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8663 | 1904| 
 | 20230517T12:27:54Z | Null | https://github.com/Ife2002/fuzzy-waddle | 0 | 0| 
-| 20230517T10:53:02Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 323 | 44| 
 
 
 
