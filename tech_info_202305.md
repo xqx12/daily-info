@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230518T00:17:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y7 | 0 | 0| 
+| 20230518T00:17:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:01:32Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 85 | 0| 
