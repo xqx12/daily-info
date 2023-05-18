@@ -56,7 +56,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230518T11:36:58Z | Projet en Hacking Éthique avec Python | https://github.com/sguard-privacy/Backdoor | 0 | 0| 
 | 20230518T07:57:14Z | A backdoor project, it started very poorly but i want to make it very powerful  | https://github.com/robloxproudplayer/Kalamari | 0 | 0| 
-| 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 30| 
+| 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 29| 
 
 
 # symbolic execution on Github 推荐

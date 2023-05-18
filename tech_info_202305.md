@@ -85,7 +85,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230518T11:36:58Z | Projet en Hacking Éthique avec Python | https://github.com/sguard-privacy/Backdoor | 0 | 0| 
 | 20230518T07:57:14Z | A backdoor project, it started very poorly but i want to make it very powerful  | https://github.com/robloxproudplayer/Kalamari | 0 | 0| 
-| 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 30| 
+| 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 29| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 | 20230517T19:46:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 136 | 18| 
 | 20230517T18:54:08Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 0 | 1| 
