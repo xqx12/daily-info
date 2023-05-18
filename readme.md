@@ -49,7 +49,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
-| 20230517T23:57:28Z | Lua executor undetected for all games | https://github.com/aniel300/KenzoLUA-executor | 86 | 0| 
 | 20230517T23:36:21Z | executor undetected for all games | https://github.com/mohamedkhaled2015956/F1RE-Executor | 83 | 0| 
 | 20230517T22:44:50Z | A tool to perform common attacks (e.g. length extension) and operations relating to the SHA256 hashing algorithm | https://github.com/joedthomas2005/shatool | 0 | 0| 
 | 20230517T22:00:02Z | 💔 Heartbleed vulnerability exploit written in Rust | https://github.com/mrgian/heartbleed | 0 | 0| 
@@ -58,6 +57,7 @@
 | 20230517T12:57:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5109 | 731| 
 | 20230517T12:54:54Z | 用于JNDI注入攻击恶意LDAP服务器 | https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0 | 0 | 0| 
 | 20230517T12:25:05Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0190-app-5a9_I-exploit-recall | 0 | 0| 
+| 20230517T12:18:12Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 247 | 6| 
 
 
 # backdoor on Github 推荐
