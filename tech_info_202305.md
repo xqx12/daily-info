@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T00:47:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 20 | 3| 
 | 20230518T00:17:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y7 | 1 | 0| 
 | 20230518T00:15:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y7 | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20230517T23:24:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 484 | 93| 
 | 20230517T22:44:50Z | A tool to perform common attacks (e.g. length extension) and operations relating to the SHA256 hashing algorithm | https://github.com/joedthomas2005/shatool | 0 | 0| 
 | 20230517T22:00:02Z | 💔 Heartbleed vulnerability exploit written in Rust | https://github.com/mrgian/heartbleed | 0 | 0| 
-| 20230517T21:45:40Z | Fast and stealth WordPress scanner, no api-key, looking for contributors  to dev an auto-exploit module. | https://github.com/moloch54/WPscrap | 1 | 0| 
 
 
 # backdoor on Github 推荐
