@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230518T01:06:40Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230518T01:25:47Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
 | 20230517T23:15:43Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230517T20:44:53Z | CVE-2023-31584 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-31584 | | 
