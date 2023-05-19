@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T00:46:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0b9970ac-cef4-4e1c-be9c-ff2735ffe8e2-_TZ-g-exploit-trust | 0 | 0| 
 | 20230519T00:17:14Z | FIVEM Lua executor undetected | https://github.com/Atl51/FIVEM-Lua-Executor | 0 | 0| 
 | 20230519T00:13:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5u | 1 | 0| 
 | 20230519T00:11:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5u | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230518T23:30:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4927 | 617| 
 | 20230518T22:40:54Z | Powershell implementation of a novel technique. Invoke-GPTObfuscation is a PowerShell Obfuscator that utilizes OpenAI (and other APIs) to obfuscate your PowerShell penetration testing code, malware, or any other sensitive script. | https://github.com/hwvs/Invoke-GPTObfuscation | 1 | 0| 
 | 20230518T21:22:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4978 | 981| 
-| 20230518T20:42:48Z | Desde que Aleph1 creara hace varias décadas su %Smashing The Stack For Fun And Profit%, los desbordamientos de buffer y pila son una técnica muy conocida que todavía provocan buena parte de las vulnerabilidades más aprovechadas por los atacantes. | https://github.com/jfrontel/tsunami_exploit_WindowsXP | 0 | 0| 
 
 
 # backdoor on Github 推荐
