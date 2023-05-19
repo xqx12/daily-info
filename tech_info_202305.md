@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T12:16:38Z | Fuzzy matching scraped posts from two different web-scraping platforms | https://github.com/taranrai/fuzzypostmatching | 0 | 0| 
 | 20230519T11:41:41Z | Null | https://github.com/1002074874/fuzzy-palm-tree | 0 | 0| 
 | 20230519T11:27:49Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 282 | 43| 
 | 20230519T11:25:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5001 | 527| 
@@ -134,8 +135,7 @@
 | 20230519T10:20:23Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230519T10:12:10Z | Null | https://github.com/B-niroula/Fuzzy-TOPSIS | 0 | 0| 
 | 20230519T09:14:18Z | Projet de fuzzing pure-ftpd et light-ftp | https://github.com/Iluvrog/fuzzing | 0 | 0| 
-| 20230518T23:22:07Z | Fuzzing at Scale | https://github.com/octopus237/cluster_fuzz | 0 | 0| 
-| 20230518T23:11:33Z | Herramienta para fuzzing | https://github.com/BUGHUNT3Rar/FUZZ | 0 | 0| 
+| 20230519T06:44:24Z | Null | https://github.com/DhirajOnGitHub4334/fuzzy-octo-enigma | 0 | 0| 
 
 
 
