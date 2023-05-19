@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T23:52:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5586 | 756| 
+| 20230518T23:42:51Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 2 | 0| 
+| 20230518T22:40:54Z | Powershell implementation of a novel technique. Invoke-GPTObfuscation is a PowerShell Obfuscator that utilizes OpenAI (and other APIs) to obfuscate your PowerShell penetration testing code, malware, or any other sensitive script. | https://github.com/hwvs/Invoke-GPTObfuscation | 1 | 0| 
+| 20230518T20:42:48Z | Desde que Aleph1 creara hace varias décadas su %Smashing The Stack For Fun And Profit%, los desbordamientos de buffer y pila son una técnica muy conocida que todavía provocan buena parte de las vulnerabilidades más aprovechadas por los atacantes. | https://github.com/jfrontel/tsunami_exploit_WindowsXP | 0 | 0| 
+| 20230518T19:54:40Z | My personal tools for binary exploitation, etc. | https://github.com/julianpryde/hacking_tools | 0 | 0| 
+| 20230518T16:12:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 637 | 167| 
+| 20230518T15:20:01Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 23 | 3| 
 | 20230518T12:54:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0313-app-_8PVu-negotiate-exploit | 0 | 0| 
 | 20230518T12:52:46Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0358-app-LhjJe-exploit-want | 0 | 0| 
 | 20230518T12:52:28Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10191 | 1600| 
-| 20230518T12:16:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5108 | 731| 
-| 20230518T11:46:26Z | Null | https://github.com/Bjorkedal/F1RE-Executor | 77 | 0| 
-| 20230518T11:41:09Z | PoC for Broken Access Control vulnerability in WordPress Elementor Pro Plugin. This vulnerability has been fixed in version 3.11.7. | https://github.com/B1GJ/elementor-pro-exploit | 1 | 0| 
-| 20230518T11:25:50Z | Null | https://github.com/demonprosersson/F1RE-Executor | 0 | 0| 
-| 20230518T11:23:15Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 22 | 3| 
-| 20230518T11:16:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0494-app-Nfduu-exploit-forgive | 0 | 0| 
-| 20230518T10:58:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5584 | 756| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T23:58:34Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 9 | 1| 
+| 20230518T21:29:56Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 16 | 1| 
+| 20230518T20:14:37Z | Null | https://github.com/sdrk19/Backdoor-and-Listener | 0 | 0| 
+| 20230518T20:11:15Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 2 | 3| 
+| 20230518T15:54:08Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 137 | 18| 
 | 20230518T11:36:58Z | Projet en Hacking Éthique avec Python | https://github.com/sguard-privacy/Backdoor | 0 | 0| 
 | 20230518T07:57:14Z | A backdoor project, it started very poorly but i want to make it very powerful  | https://github.com/robloxproudplayer/Kalamari | 0 | 0| 
 | 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 29| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
-| 20230517T19:46:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 136 | 18| 
-| 20230517T18:54:08Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 0 | 1| 
-| 20230517T17:24:33Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 7 | 1| 
 | 20230517T14:26:52Z | kkkkk | https://github.com/Mrlucas5550100/backdoor | 0 | 0| 
-| 20230517T11:07:43Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 439 | 81| 
-| 20230517T08:36:57Z | This is a walkthrough of the deployment of a trojan using ProRAT on an unpatched Windows 10 virtual machine (VM) through a Windows 11 VM. ProRAT is a remote administration tool (RAT) that is a common tool employed by hackers to gain unauthorised access to the system. It is a Windows-based backdoor Trojan that is used to control the victim%s machine | https://github.com/Kairos-T/TrojanAttack-Walkthrough | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
