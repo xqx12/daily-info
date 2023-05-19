@@ -130,12 +130,12 @@
 | 20230518T23:11:33Z | Herramienta para fuzzing | https://github.com/BUGHUNT3Rar/FUZZ | 0 | 0| 
 | 20230518T20:43:03Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230518T20:40:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3590 | 429| 
+| 20230518T18:15:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2730 | 185| 
 | 20230518T14:58:36Z | Simple node.js app that prints hostname | https://github.com/nikolaai/fuzzy-engine | 0 | 0| 
 | 20230518T12:55:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3690 | 740| 
 | 20230518T12:49:17Z | Null | https://github.com/HaruyaAnaguchi/fuzz_buzz | 0 | 0| 
 | 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230518T11:54:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 541 | 66| 
-| 20230518T11:34:34Z | Null | https://github.com/sarahcollinsuvyfkwwq/fuzzy-enigma | 0 | 0| 
 
 
 
