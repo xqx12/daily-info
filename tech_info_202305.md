@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230518 | 对最危险软件安全漏洞的评估 | https://mp.weixin.qq.com/s/Z43o2qewofuDazskP0EWig| 
 | 20230518 | 利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg| 
+| 20230518 | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g| 
 | 20230517 | 以文件为中心的 IoT 恶意软件网络分析 | https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q| 
 | 20230517 | 基于Caddy实现的C2前置代理 | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ| 
 | 20230517 | 2023年中国网络安全市场全景图 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf| 
@@ -20,16 +21,15 @@
 | 20230517 | 解析美军“前出狩猎”网络行动 | https://mp.weixin.qq.com/s/AraWGEFNlGyIPccWppNYUQ| 
 | 20230515 | 通过突变分析暴露库的API误用 | https://mp.weixin.qq.com/s/ZMWh64ajw-Gjw6Ks7EK4IQ| 
 | 20230515 | SecWiki周刊（第480期) | https://www.sec-wiki.com/weekly/480| 
-| 20230515 | 基于威胁情报的高效网络威胁监测架构 | https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230518T12:35:48Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
+| 20230518T21:04:09Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230518T19:23:05Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230518T15:42:03Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230518T11:13:00Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
-| 20230518T10:54:36Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
-| 20230518T02:16:34Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
 | 20230517T20:44:53Z | CVE-2023-31584 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-31584 | | 
 | 20230517T20:18:19Z | CVE-2023-32784 | KeePass Master Password Extraction PoC for Linux | https://github.com/CTM1/CVE-2023-32784-keepass-linux | | 
@@ -98,16 +98,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T22:21:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3444 | 480| 
+| 20230518T15:15:13Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 56 | 25| 
 | 20230518T02:48:38Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 766 | 88| 
 | 20230517T15:00:53Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1087 | 130| 
 | 20230517T07:05:41Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1318 | 59| 
-| 20230516T19:20:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3444 | 479| 
 | 20230516T07:36:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
 | 20230515T08:00:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 643 | 117| 
+| 20230515T07:49:13Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 91 | 18| 
 | 20230512T09:54:35Z | Laziest-sharp symbolic execution | https://github.com/pietrobraione/lzsh | 0 | 0| 
 | 20230511T07:20:22Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 87 | 2| 
-| 20230508T07:58:35Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 561 | 37| 
-| 20230507T22:46:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 191 | 41| 
 
 
 # big4 on Github 推荐

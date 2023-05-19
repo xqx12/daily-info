@@ -13,15 +13,16 @@
 | --- | --- | ---| 
 | 20230518 | 对最危险软件安全漏洞的评估 | https://mp.weixin.qq.com/s/Z43o2qewofuDazskP0EWig| 
 | 20230518 | 利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg| 
+| 20230518 | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230518T12:35:48Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
+| 20230518T21:04:09Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230518T19:23:05Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
+| 20230518T15:42:03Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230518T11:13:00Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
-| 20230518T10:54:36Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
-| 20230518T02:16:34Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
 
 
@@ -62,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T22:21:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3444 | 480| 
+| 20230518T15:15:13Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 56 | 25| 
 | 20230518T02:48:38Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 766 | 88| 
 
 
