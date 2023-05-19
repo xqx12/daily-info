@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230519T00:41:34Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
 | 20230518T21:04:09Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230518T19:23:05Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230518T15:42:03Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
@@ -35,7 +36,6 @@
 | 20230517T20:18:19Z | CVE-2023-32784 | KeePass Master Password Extraction PoC for Linux | https://github.com/CTM1/CVE-2023-32784-keepass-linux | | 
 | 20230517T20:14:05Z | CVE-2020-9380 | https://medium.com/@anderson_pablo/iptv-smarters-exploit-cve-2020-9380-22d4b21f5da7 | https://github.com/migueltarga/CVE-2020-9380 | | 
 | 20230517T19:19:18Z | CVE-2021-26700 | Null | https://github.com/jason-ntu/CVE-2021-26700 | | 
-| 20230517T17:14:47Z | CVE-2022-0847 | Null | https://github.com/BlizzardEternity/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
