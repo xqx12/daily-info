@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230519T00:47:18Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230519T00:41:34Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
 | 20230518T21:04:09Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
-| 20230518T19:23:05Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230518T15:42:03Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230518T11:13:00Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
 | 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T00:47:42Z | a Simple ELF Backdoor | https://github.com/gbdngb12/elf_backdoor | 1 | 0| 
 | 20230518T23:58:34Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 9 | 1| 
 | 20230518T21:29:56Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 16 | 1| 
 | 20230518T20:14:37Z | Null | https://github.com/sdrk19/Backdoor-and-Listener | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230518T07:57:14Z | A backdoor project, it started very poorly but i want to make it very powerful  | https://github.com/robloxproudplayer/Kalamari | 0 | 0| 
 | 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 29| 
 | 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
-| 20230517T14:26:52Z | kkkkk | https://github.com/Mrlucas5550100/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
