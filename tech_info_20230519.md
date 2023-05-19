@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T12:24:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0236-app-p95bO-have-exploit | 0 | 0| 
 | 20230519T12:18:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5587 | 756| 
 | 20230519T11:55:28Z | PDF/IMAGE EXPLOIT RAT LIFETIME IOS ANDROID TG @SOLORAT | https://github.com/SOLORAT/-Solorat | 0 | 0| 
 | 20230519T11:51:44Z | GitOps Repository | https://github.com/pmacik-testing/one-0097-app-2-yC--exploit-retain | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230519T10:23:19Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
 | 20230519T10:09:37Z | Исправляет minecraft exploit, основанный на люках и замыкании редстоуна | https://github.com/3ako/TrapdoorExploidFixer | 0 | 0| 
 | 20230519T10:04:13Z | Tools and method that I personally use for Recon and Exploitations | https://github.com/xalgord/My-Methodologies | 2 | 1| 
-| 20230519T09:38:28Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3798 | 759| 
 
 
 # backdoor on Github 推荐
