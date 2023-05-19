@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230519T01:42:20Z | executor undetected for all games | https://github.com/BrK777/F1RE-Executor | 67 | 0| 
+| 20230519T01:44:42Z | executor undetected for all games | https://github.com/BrK777/F1RE-Executor | 66 | 0| 
 | 20230519T01:32:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-3tK2g-exploit-abandon | 0 | 0| 
 | 20230519T00:52:16Z | FIVEM Lua executor undetected | https://github.com/Atl51/FIVEM-Lua-Executor | 64 | 0| 
 | 20230519T00:46:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0b9970ac-cef4-4e1c-be9c-ff2735ffe8e2-_TZ-g-exploit-trust | 0 | 0| 
