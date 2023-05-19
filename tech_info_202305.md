@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T01:32:54Z | Null | https://github.com/BrK777/F1RE-Executor | 7 | 0| 
+| 20230519T01:32:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-3tK2g-exploit-abandon | 0 | 0| 
 | 20230519T00:52:16Z | FIVEM Lua executor undetected | https://github.com/Atl51/FIVEM-Lua-Executor | 64 | 0| 
 | 20230519T00:46:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-0b9970ac-cef4-4e1c-be9c-ff2735ffe8e2-_TZ-g-exploit-trust | 0 | 0| 
 | 20230519T00:13:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5u | 1 | 0| 
@@ -76,8 +78,6 @@
 | 20230518T23:52:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5586 | 756| 
 | 20230518T23:42:51Z | A library, with a command line interface, to exploit Large Language Models | https://github.com/worikgh/llm-rs | 2 | 0| 
 | 20230518T23:30:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4927 | 617| 
-| 20230518T22:40:54Z | Powershell implementation of a novel technique. Invoke-GPTObfuscation is a PowerShell Obfuscator that utilizes OpenAI (and other APIs) to obfuscate your PowerShell penetration testing code, malware, or any other sensitive script. | https://github.com/hwvs/Invoke-GPTObfuscation | 1 | 0| 
-| 20230518T21:22:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4978 | 981| 
 
 
 # backdoor on Github 推荐
@@ -133,9 +133,9 @@
 | 20230518T20:12:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8665 | 1905| 
 | 20230518T18:15:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2730 | 185| 
 | 20230518T14:58:36Z | Simple node.js app that prints hostname | https://github.com/nikolaai/fuzzy-engine | 0 | 0| 
+| 20230518T13:30:24Z | Null | https://github.com/google/fuzztest | 279 | 19| 
 | 20230518T12:55:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3690 | 740| 
 | 20230518T12:49:17Z | Null | https://github.com/HaruyaAnaguchi/fuzz_buzz | 0 | 0| 
-| 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 
 
 

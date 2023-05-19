@@ -90,9 +90,9 @@
 | 20230518T20:12:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8665 | 1905| 
 | 20230518T18:15:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2730 | 185| 
 | 20230518T14:58:36Z | Simple node.js app that prints hostname | https://github.com/nikolaai/fuzzy-engine | 0 | 0| 
+| 20230518T13:30:24Z | Null | https://github.com/google/fuzztest | 279 | 19| 
 | 20230518T12:55:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3690 | 740| 
 | 20230518T12:49:17Z | Null | https://github.com/HaruyaAnaguchi/fuzz_buzz | 0 | 0| 
-| 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 
 
 
