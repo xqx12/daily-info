@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230518T23:22:07Z | Fuzzing at Scale | https://github.com/octopus237/cluster_fuzz | 0 | 0| 
+| 20230518T23:11:33Z | Herramienta para fuzzing | https://github.com/BUGHUNT3Rar/FUZZ | 0 | 0| 
+| 20230518T20:43:03Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
+| 20230518T14:58:36Z | Simple node.js app that prints hostname | https://github.com/nikolaai/fuzzy-engine | 0 | 0| 
 | 20230518T12:55:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3690 | 740| 
 | 20230518T12:49:17Z | Null | https://github.com/HaruyaAnaguchi/fuzz_buzz | 0 | 0| 
 | 20230518T12:10:23Z | Null | https://github.com/VeronikaKras/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230518T11:54:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 541 | 66| 
 | 20230518T11:34:34Z | Null | https://github.com/sarahcollinsuvyfkwwq/fuzzy-enigma | 0 | 0| 
 | 20230518T11:34:16Z | Null | https://github.com/paulbrownfagpesgh/fuzzy-pancake | 0 | 0| 
-| 20230518T09:33:33Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 921 | 217| 
-| 20230518T08:34:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5002 | 527| 
-| 20230518T01:34:35Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 90 | 4| 
-| 20230518T01:29:20Z | O notebook a seguir tem por objetivo apresentar a aplicação de um Algoritmo Fuzzy em um Dataset da escolha do grupo. No caso, o dataset escolhido foi o de Análise da Qualidade da Água em rios e lagos. Assim foi possível criar uma IA que auxilia na descoberta da taxa de poluentes da água, dizendo se ela é potável ou não utilizando a lógica Fuzzy. | https://github.com/jope1113/ProjA3-Fuzzy-Logic-IA-Potabilidade-da-Agua | 0 | 0| 
 
 
 
