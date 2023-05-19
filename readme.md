@@ -45,9 +45,9 @@
 | 20230518T21:22:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4978 | 981| 
 | 20230518T20:42:48Z | Desde que Aleph1 creara hace varias décadas su %Smashing The Stack For Fun And Profit%, los desbordamientos de buffer y pila son una técnica muy conocida que todavía provocan buena parte de las vulnerabilidades más aprovechadas por los atacantes. | https://github.com/jfrontel/tsunami_exploit_WindowsXP | 0 | 0| 
 | 20230518T19:54:40Z | My personal tools for binary exploitation, etc. | https://github.com/julianpryde/hacking_tools | 0 | 0| 
+| 20230518T16:20:09Z | Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠ | https://github.com/Chainski/ForceAdmin | 40 | 8| 
 | 20230518T16:12:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 637 | 167| 
 | 20230518T15:20:01Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 23 | 3| 
-| 20230518T12:54:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0313-app-_8PVu-negotiate-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

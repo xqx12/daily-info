@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T01:01:46Z | Null | https://github.com/Fr1zx/Backdoorlinux | 0 | 0| 
 | 20230519T00:50:17Z | simple elf_backdoor written in pure x86_64 assembly language | https://github.com/gbdngb12/elf_backdoor | 1 | 0| 
 | 20230518T23:58:34Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 9 | 1| 
 | 20230518T21:29:56Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 16 | 1| 
@@ -92,7 +93,6 @@
 | 20230518T11:36:58Z | Projet en Hacking Éthique avec Python | https://github.com/sguard-privacy/Backdoor | 0 | 0| 
 | 20230518T07:57:14Z | A backdoor project, it started very poorly but i want to make it very powerful  | https://github.com/robloxproudplayer/Kalamari | 0 | 0| 
 | 20230518T06:56:08Z | Kernel  rk | https://github.com/carloslack/KoviD | 136 | 29| 
-| 20230517T23:58:28Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
