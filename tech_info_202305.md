@@ -69,11 +69,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T01:31:06Z | My own collection about Linux kernel exploitation including CVEs, CTF challenges, paper and all other interesting things : ) | https://github.com/arttnba3/Linux-kernel-exploitation | 1 | 0| 
 | 20230520T01:24:35Z | The %DLLHijack Injection% tool enables the injection of malicious DLLs into target processes, allowing for DLL hijacking attacks. This technique can be used to exploit vulnerable applications by replacing legitimate DLLs with malicious ones, potentially leading to unauthorized access, data manipulation, or system compromise. | https://github.com/X-3306/DLLHijack-injection-BETAV | 0 | 0| 
 | 20230520T01:03:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:02:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:01:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9p | 1 | 0| 
-| 20230520T00:59:28Z | My own collection about Linux kernel exploitation including CVEs, CTF challenges, paper and all other interesting things : ) | https://github.com/arttnba3/Linux-kernel-exploitation | 0 | 0| 
 | 20230520T00:28:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13748 | 2322| 
 | 20230520T00:26:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4982 | 981| 
 | 20230520T00:14:06Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
