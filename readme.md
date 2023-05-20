@@ -67,6 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T12:44:36Z | Null | https://github.com/D-sense/go-fuzz-testing | 0 | 0| 
 | 20230520T11:36:04Z | Python buffer fuzzer | https://github.com/erdi6144/buffer-fuzzer | 0 | 0| 
 | 20230520T09:57:21Z | Null | https://github.com/RizalWiyono/fuzzy_tsukamoto | 0 | 0| 
 | 20230520T09:50:13Z | Null | https://github.com/Quintin22317/fuzzy-bassoon | 0 | 0| 
