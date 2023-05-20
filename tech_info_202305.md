@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T01:21:45Z | The %DLLHijack Injection% tool enables the injection of malicious DLLs into target processes, allowing for DLL hijacking attacks. This technique can be used to exploit vulnerable applications by replacing legitimate DLLs with malicious ones, potentially leading to unauthorized access, data manipulation, or system compromise. | https://github.com/X-3306/DLLHijack-injection-BETAV | 0 | 0| 
 | 20230520T01:03:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:02:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:01:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9p | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230520T00:14:06Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
 | 20230520T00:10:41Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-FXbID-treat-exploit | 0 | 0| 
 | 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
-| 20230519T21:52:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0059-app-fQTpl-exploit-inform | 0 | 0| 
 
 
 # backdoor on Github 推荐
