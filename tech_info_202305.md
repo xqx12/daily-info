@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T00:41:25Z | Null | https://github.com/itsfiberr/fuzzboard.flutter | 0 | 0| 
 | 20230520T00:36:25Z | Null | https://github.com/snail-inO/fuzzing-token | 0 | 0| 
 | 20230520T00:20:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5003 | 527| 
 | 20230519T23:04:02Z | Null | https://github.com/actions-marketplace-validations/FuzzyGophers_action-owasp-dependecy-track | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
 | 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
 | 20230519T18:06:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4697 | 1129| 
-| 20230519T17:13:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3591 | 429| 
 
 
 
