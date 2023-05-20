@@ -43,7 +43,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230519T22:37:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13747 | 2322| 
 | 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
 | 20230519T21:52:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0059-app-fQTpl-exploit-inform | 0 | 0| 
 | 20230519T19:21:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-1u-100t-0034-app-2vdL--exploit-vote | 0 | 0| 
@@ -53,6 +52,7 @@
 | 20230519T16:58:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 485 | 94| 
 | 20230519T16:48:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4934 | 618| 
 | 20230519T15:40:31Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 873 | 285| 
+| 20230519T12:38:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0165-app-L-btt-exploit-eat | 0 | 0| 
 
 
 # backdoor on Github 推荐
