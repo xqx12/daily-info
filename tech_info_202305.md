@@ -70,6 +70,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230520T00:28:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13748 | 2322| 
+| 20230520T00:26:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4982 | 981| 
 | 20230520T00:14:06Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
 | 20230520T00:10:41Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-FXbID-treat-exploit | 0 | 0| 
 | 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230519T19:07:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 639 | 167| 
 | 20230519T19:07:42Z | Null | https://github.com/ShaunakLoL/F1RE-Executor | 61 | 0| 
 | 20230519T18:08:30Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 220 | 43| 
-| 20230519T16:58:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 485 | 94| 
 
 
 # backdoor on Github 推荐
