@@ -11,12 +11,13 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230519 | 披露一个恶意Chrome扩展程序 | https://blog.xlab.app/p/1e632d6d/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230519T11:17:24Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
+| 20230519T15:47:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
 | 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
 | 20230519T05:48:21Z | CVE-2023-29919 | Null | https://github.com/xiaosed/CVE-2023-29919 | | 
@@ -42,27 +43,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T22:37:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13747 | 2322| 
+| 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
+| 20230519T21:52:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0059-app-fQTpl-exploit-inform | 0 | 0| 
+| 20230519T19:21:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-1u-100t-0034-app-2vdL--exploit-vote | 0 | 0| 
+| 20230519T19:07:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 639 | 167| 
+| 20230519T19:07:42Z | Null | https://github.com/ShaunakLoL/F1RE-Executor | 61 | 0| 
+| 20230519T18:08:30Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 220 | 43| 
+| 20230519T15:40:31Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 873 | 285| 
 | 20230519T12:38:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0165-app-L-btt-exploit-eat | 0 | 0| 
 | 20230519T12:24:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0236-app-p95bO-have-exploit | 0 | 0| 
-| 20230519T12:18:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5587 | 756| 
-| 20230519T11:55:28Z | PDF/IMAGE EXPLOIT RAT LIFETIME IOS ANDROID TG @SOLORAT | https://github.com/SOLORAT/-Solorat | 0 | 0| 
-| 20230519T11:51:44Z | GitOps Repository | https://github.com/pmacik-testing/one-0097-app-2-yC--exploit-retain | 0 | 0| 
-| 20230519T11:24:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-fxrp-fxvdZ-exploit-research | 0 | 0| 
-| 20230519T11:11:42Z | Web Exploitation | https://github.com/khanhhao1363/picoCTF-writeup | 0 | 0| 
-| 20230519T11:11:40Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 477 | 35| 
-| 20230519T10:23:19Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
-| 20230519T10:09:37Z | Исправляет minecraft exploit, основанный на люках и замыкании редстоуна | https://github.com/3ako/TrapdoorExploidFixer | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T23:36:27Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
+| 20230519T22:27:44Z | Null | https://github.com/navin604/PacketSniffing-Backdoor | 0 | 0| 
+| 20230519T17:26:14Z | Kernel  rk | https://github.com/carloslack/KoviD | 138 | 29| 
+| 20230519T16:13:18Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 4 | 3| 
+| 20230519T13:16:42Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 0 | 0| 
 | 20230519T06:59:24Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 11 | 1| 
 | 20230519T04:26:01Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 3 | 4| 
 | 20230519T03:37:25Z | NNSDB: Stealthy dynamic backdoor attack via GAN-based neural network steganography | https://github.com/DLAIResearch/NNSDB | 0 | 0| 
 | 20230519T03:21:57Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 14 | 0| 
 | 20230519T01:45:20Z | Null | https://github.com/Fr1zx/Backdoorlinux | 0 | 0| 
-| 20230519T00:50:17Z | simple elf_backdoor written in pure x86_64 assembly language | https://github.com/gbdngb12/elf_backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -81,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230519T23:04:02Z | Null | https://github.com/actions-marketplace-validations/FuzzyGophers_action-owasp-dependecy-track | 0 | 0| 
+| 20230519T22:42:16Z | Null | https://github.com/seif1000/fuzzy-succotash | 0 | 0| 
+| 20230519T20:52:49Z | An implementation of Fuzzy PI regulator to a car guidance problems | https://github.com/ChibisovAD/Fuzzy-Logic-Car-Model | 0 | 0| 
+| 20230519T20:45:33Z | Null | https://github.com/ocicl/cl-fuzz | 0 | 0| 
+| 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
+| 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
+| 20230519T18:06:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4697 | 1129| 
 | 20230519T12:34:25Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5002 | 527| 
 | 20230519T12:16:38Z | Fuzzy matching scraped posts from two different web-scraping platforms | https://github.com/taranrai/fuzzypostmatching | 0 | 0| 
 | 20230519T11:41:41Z | Null | https://github.com/1002074874/fuzzy-palm-tree | 0 | 0| 
-| 20230519T11:27:49Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 282 | 43| 
-| 20230519T11:19:29Z | fuzzy logic CPU Fan Speed example in python | https://github.com/aliilman/Fuzzy-logic-CPU-Fan-Speed-example | 0 | 0| 
-| 20230519T11:13:35Z | fuzzrtos is a structure-aware fuzzer for the Free-RTOS kernel. | https://github.com/officialcjunior/fuzzrtos | 0 | 0| 
-| 20230519T10:20:23Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
-| 20230519T10:12:10Z | Null | https://github.com/B-niroula/Fuzzy-TOPSIS | 0 | 0| 
-| 20230519T09:14:18Z | Projet de fuzzing pure-ftpd et light-ftp | https://github.com/Iluvrog/fuzzing | 0 | 0| 
-| 20230519T06:44:24Z | Null | https://github.com/DhirajOnGitHub4334/fuzzy-octo-enigma | 0 | 0| 
 
 
 
