@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230520T01:52:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20230519T15:47:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
 | 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
@@ -35,7 +36,6 @@
 | 20230519T00:41:34Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
 | 20230518T11:13:00Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
 | 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
-| 20230517T20:44:53Z | CVE-2023-31584 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-31584 | | 
 
 
 # klee on Github 推荐
