@@ -51,8 +51,8 @@
 | 20230519T19:07:42Z | Null | https://github.com/ShaunakLoL/F1RE-Executor | 61 | 0| 
 | 20230519T18:08:30Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 220 | 43| 
 | 20230519T16:58:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 485 | 94| 
+| 20230519T16:48:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4934 | 618| 
 | 20230519T15:40:31Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 873 | 285| 
-| 20230519T12:38:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-load-con-0165-app-L-btt-exploit-eat | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -95,9 +95,9 @@
 | 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
 | 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
 | 20230519T18:06:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4697 | 1129| 
+| 20230519T17:13:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3591 | 429| 
 | 20230519T12:34:25Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5002 | 527| 
 | 20230519T12:16:38Z | Fuzzy matching scraped posts from two different web-scraping platforms | https://github.com/taranrai/fuzzypostmatching | 0 | 0| 
-| 20230519T11:41:41Z | Null | https://github.com/1002074874/fuzzy-palm-tree | 0 | 0| 
 
 
 

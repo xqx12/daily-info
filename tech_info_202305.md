@@ -69,7 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230520T00:10:27Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
+| 20230520T00:14:06Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
+| 20230520T00:10:41Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-FXbID-treat-exploit | 0 | 0| 
 | 20230519T22:37:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13747 | 2322| 
 | 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
 | 20230519T21:52:13Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0059-app-fQTpl-exploit-inform | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230519T19:07:42Z | Null | https://github.com/ShaunakLoL/F1RE-Executor | 61 | 0| 
 | 20230519T18:08:30Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 220 | 43| 
 | 20230519T16:58:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 485 | 94| 
-| 20230519T15:40:31Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 873 | 285| 
 
 
 # backdoor on Github 推荐
@@ -134,9 +134,9 @@
 | 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
 | 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
 | 20230519T18:06:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4697 | 1129| 
+| 20230519T17:13:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3591 | 429| 
 | 20230519T12:34:25Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5002 | 527| 
 | 20230519T12:16:38Z | Fuzzy matching scraped posts from two different web-scraping platforms | https://github.com/taranrai/fuzzypostmatching | 0 | 0| 
-| 20230519T11:41:41Z | Null | https://github.com/1002074874/fuzzy-palm-tree | 0 | 0| 
 
 
 
