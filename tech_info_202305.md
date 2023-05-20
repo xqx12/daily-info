@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230520T10:59:28Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
+| 20230520T09:15:18Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230520T04:57:08Z | CVE-2023-31702 | test-send-CVE | https://github.com/2019000102494/CVE-2023-31702 | | 
 | 20230520T01:52:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
-| 20230519T15:47:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
 | 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
 | 20230519T05:48:21Z | CVE-2023-29919 | Null | https://github.com/xiaosed/CVE-2023-29919 | | 
 | 20230519T01:39:55Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 | 20230519T01:01:37Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
 | 20230519T00:41:34Z | cve-2022-46169 | This is poc of CVE-2022-46169 authentication bypass and remote code execution | https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit | | 
-| 20230518T11:13:00Z | CVE-2023-32233 | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | https://github.com/oferchen/POC-CVE-2023-32233 | | 
-| 20230518T00:36:36Z | CVE-2021-35042 | Django SQL injection vulnerability | https://github.com/LUUANHDUC/CVE-2021-35042 | | 
 
 
 # klee on Github 推荐
@@ -69,21 +69,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230520T01:56:07Z | The %DLLHijack Injection% tool enables the injection of malicious DLLs into target processes, allowing for DLL hijacking attacks. This technique can be used to exploit vulnerable applications by replacing legitimate DLLs with malicious ones, potentially leading to unauthorized access, data manipulation, or system compromise. | https://github.com/X-3306/DLLHijack-injection-BETAV | 0 | 0| 
-| 20230520T01:31:06Z | My own collection about Linux kernel exploitation including CVEs, CTF challenges, paper and all other interesting things : ) | https://github.com/arttnba3/Linux-kernel-exploitation | 1 | 0| 
-| 20230520T01:03:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9p | 1 | 0| 
-| 20230520T01:02:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9p | 1 | 0| 
-| 20230520T01:01:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9p | 1 | 0| 
-| 20230520T00:28:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13748 | 2322| 
-| 20230520T00:26:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4982 | 981| 
-| 20230520T00:14:06Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 0 | 0| 
-| 20230520T00:10:41Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-FXbID-treat-exploit | 0 | 0| 
-| 20230519T22:05:31Z | Script Exploit - Leak 🎯🔎 | https://github.com/Hunknowbr/Leaks | 0 | 0| 
+| 20230520T11:54:28Z | Lua executor undetected for all games | https://github.com/Fei-xiangShi/F1RE-Executor | 67 | 0| 
+| 20230520T11:28:45Z | [+] a very simple WP exploiter with marijuana shell [-] | https://github.com/phsh1m1zu/ThreatExploit | 0 | 0| 
+| 20230520T08:36:25Z | Official China Hub script for ROBLOX exploiting. | https://github.com/China-Hub-Script/Script | 0 | 0| 
+| 20230520T08:30:13Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3802 | 759| 
+| 20230520T07:36:17Z | Null | https://github.com/HosteeScriptz/Exploits | 0 | 0| 
+| 20230520T07:14:20Z | Null | https://github.com/David-Blink/Nfc-Exploit | 0 | 0| 
+| 20230520T06:10:42Z | DTD file for blind XXE out-of-bound data exfiltration | https://github.com/numoworld/blind_xxe_exploit | 0 | 0| 
+| 20230520T05:58:01Z | Null | https://github.com/HamzaZF/exploit | 0 | 0| 
+| 20230520T05:28:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 640 | 167| 
+| 20230520T02:01:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4983 | 981| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T11:59:54Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 17 | 0| 
 | 20230520T00:17:20Z | This is a backdoor do do command and control and also file transfer over ICMP. | https://github.com/brunobotelhobr/My-ICMP-Reverse-Shell | 0 | 0| 
 | 20230519T23:36:27Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
 | 20230519T22:27:44Z | Null | https://github.com/navin604/PacketSniffing-Backdoor | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230519T06:59:24Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 11 | 1| 
 | 20230519T04:26:01Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 3 | 4| 
 | 20230519T03:37:25Z | NNSDB: Stealthy dynamic backdoor attack via GAN-based neural network steganography | https://github.com/DLAIResearch/NNSDB | 0 | 0| 
-| 20230519T03:21:57Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 14 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +127,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T11:36:04Z | Python buffer fuzzer | https://github.com/erdi6144/buffer-fuzzer | 0 | 0| 
+| 20230520T09:57:21Z | Null | https://github.com/RizalWiyono/fuzzy_tsukamoto | 0 | 0| 
+| 20230520T09:50:13Z | Null | https://github.com/Quintin22317/fuzzy-bassoon | 0 | 0| 
+| 20230520T08:35:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4699 | 1129| 
+| 20230520T07:49:21Z | Example of fuzzy search for finding blog articles. | https://github.com/sozyGithub/fuzzy-search-example | 0 | 0| 
 | 20230520T01:51:57Z | Null | https://github.com/snail-inO/fuzzing-token | 0 | 0| 
 | 20230520T00:41:25Z | Null | https://github.com/itsfiberr/fuzzboard.flutter | 0 | 0| 
 | 20230520T00:20:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5003 | 527| 
 | 20230519T23:04:02Z | Null | https://github.com/actions-marketplace-validations/FuzzyGophers_action-owasp-dependecy-track | 0 | 0| 
 | 20230519T22:42:16Z | Null | https://github.com/seif1000/fuzzy-succotash | 0 | 0| 
-| 20230519T21:04:01Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 12 | 0| 
-| 20230519T20:52:49Z | An implementation of Fuzzy PI regulator to a car guidance problems | https://github.com/ChibisovAD/Fuzzy-Logic-Car-Model | 0 | 0| 
-| 20230519T20:45:33Z | Null | https://github.com/ocicl/cl-fuzz | 0 | 0| 
-| 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
-| 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
 
 
 
