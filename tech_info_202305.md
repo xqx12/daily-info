@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230520T01:21:45Z | The %DLLHijack Injection% tool enables the injection of malicious DLLs into target processes, allowing for DLL hijacking attacks. This technique can be used to exploit vulnerable applications by replacing legitimate DLLs with malicious ones, potentially leading to unauthorized access, data manipulation, or system compromise. | https://github.com/X-3306/DLLHijack-injection-BETAV | 0 | 0| 
+| 20230520T01:24:35Z | The %DLLHijack Injection% tool enables the injection of malicious DLLs into target processes, allowing for DLL hijacking attacks. This technique can be used to exploit vulnerable applications by replacing legitimate DLLs with malicious ones, potentially leading to unauthorized access, data manipulation, or system compromise. | https://github.com/X-3306/DLLHijack-injection-BETAV | 0 | 0| 
 | 20230520T01:03:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:02:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9p | 1 | 0| 
 | 20230520T01:01:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9p | 1 | 0| 
