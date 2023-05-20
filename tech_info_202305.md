@@ -132,11 +132,11 @@
 | 20230520T00:20:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5003 | 527| 
 | 20230519T23:04:02Z | Null | https://github.com/actions-marketplace-validations/FuzzyGophers_action-owasp-dependecy-track | 0 | 0| 
 | 20230519T22:42:16Z | Null | https://github.com/seif1000/fuzzy-succotash | 0 | 0| 
+| 20230519T21:04:01Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 12 | 0| 
 | 20230519T20:52:49Z | An implementation of Fuzzy PI regulator to a car guidance problems | https://github.com/ChibisovAD/Fuzzy-Logic-Car-Model | 0 | 0| 
 | 20230519T20:45:33Z | Null | https://github.com/ocicl/cl-fuzz | 0 | 0| 
 | 20230519T19:54:52Z | Fuzzy Searching project was developed to detect and remove duplicates from a dataset of names. | https://github.com/mhdGit402/Fuzzy-Searching | 0 | 0| 
 | 20230519T18:55:06Z | Null | https://github.com/google/fuzztest | 283 | 19| 
-| 20230519T18:06:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4697 | 1129| 
 
 
 
