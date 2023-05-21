@@ -69,7 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230521T00:40:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0w | 0 | 0| 
+| 20230521T00:41:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0w | 1 | 0| 
+| 20230521T00:40:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0w | 1 | 0| 
 | 20230521T00:39:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0w | 1 | 0| 
 | 20230521T00:23:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81e9d5a4-06a7-48a2-8e82-5fe513957e54-OI_EM-raise-exploit | 0 | 0| 
 | 20230520T23:57:06Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 487 | 94| 
@@ -78,7 +79,6 @@
 | 20230520T21:44:41Z | Null | https://github.com/Hehrh1234/F1RE-Executor | 71 | 0| 
 | 20230520T18:38:28Z | IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard | https://github.com/LawJunHao/ITP-Dashboard | 0 | 0| 
 | 20230520T17:04:29Z | 0x001829-B is exploit tool for web servers & for home ip%s | https://github.com/ASMRoyal/0x001829-B | 0 | 0| 
-| 20230520T16:00:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 641 | 167| 
 
 
 # backdoor on Github 推荐
