@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
-| 20230520T18:46:10Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 3 | 0| 
 | 20230520T11:59:54Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 17 | 0| 
 | 20230520T00:17:20Z | This is a backdoor do do command and control and also file transfer over ICMP. | https://github.com/brunobotelhobr/My-ICMP-Reverse-Shell | 0 | 0| 
 
