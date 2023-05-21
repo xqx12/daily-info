@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T00:58:30Z | Null | https://github.com/archlinux-packages/cargo-fuzz | 0 | 0| 
 | 20230520T23:19:57Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 328 | 45| 
 | 20230520T22:26:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8670 | 1906| 
 | 20230520T20:37:01Z | Simple python script to fuzz for subdomains on a website. | https://github.com/polygonben/Python-VHost-Fuzzer | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230520T12:44:36Z | Null | https://github.com/D-sense/go-fuzz-testing | 0 | 0| 
 | 20230520T11:36:04Z | Python buffer fuzzer | https://github.com/erdi6144/buffer-fuzzer | 0 | 0| 
 | 20230520T09:57:21Z | Null | https://github.com/RizalWiyono/fuzzy_tsukamoto | 0 | 0| 
-| 20230520T09:50:13Z | Null | https://github.com/Quintin22317/fuzzy-bassoon | 0 | 0| 
 
 
 
