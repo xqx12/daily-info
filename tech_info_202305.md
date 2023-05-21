@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
 | 20230520T18:46:10Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 3 | 0| 
 | 20230520T11:59:54Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 17 | 0| 
@@ -93,7 +94,6 @@
 | 20230519T17:26:14Z | Kernel  rk | https://github.com/carloslack/KoviD | 138 | 29| 
 | 20230519T16:13:18Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 4 | 3| 
 | 20230519T13:16:42Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 0 | 0| 
-| 20230519T06:59:24Z | Backdoors & Breaches: Campaigns. These are short guides to help Incident Captains by giving them game ideas based on actual breaches. | https://github.com/AntiSyphon/BandBCampaigns | 11 | 1| 
 
 
 # symbolic execution on Github 推荐
