@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230520T23:57:06Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 487 | 94| 
 | 20230520T22:16:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4985 | 981| 
 | 20230520T21:44:41Z | Null | https://github.com/Hehrh1234/F1RE-Executor | 71 | 0| 
 | 20230520T18:38:28Z | IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard | https://github.com/LawJunHao/ITP-Dashboard | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230520T08:36:25Z | Official China Hub script for ROBLOX exploiting. | https://github.com/China-Hub-Script/Script | 0 | 0| 
 | 20230520T08:30:13Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3802 | 759| 
 | 20230520T08:22:56Z | A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 1 | 0| 
-| 20230520T07:36:17Z | Null | https://github.com/HosteeScriptz/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
