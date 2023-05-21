@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230521 | 为什么必须做安全度量 | https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg| 
+| 20230521 | Modern Initial Access and Evasion Tactics | https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf| 
+| 20230521 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A| 
 | 20230519 | 披露一个恶意Chrome扩展程序 | https://blog.xlab.app/p/1e632d6d/| 
 | 20230518 | 对最危险软件安全漏洞的评估 | https://mp.weixin.qq.com/s/Z43o2qewofuDazskP0EWig| 
 | 20230518 | 利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg| 
@@ -18,44 +21,42 @@
 | 20230517 | 以文件为中心的 IoT 恶意软件网络分析 | https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q| 
 | 20230517 | 基于Caddy实现的C2前置代理 | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ| 
 | 20230517 | 2023年中国网络安全市场全景图 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf| 
-| 20230517 | 准备好迎接三方 Cookie 的终结 | https://mp.weixin.qq.com/s/vpzapVjgbo2DH9FKxj689w| 
-| 20230517 | 解析美军“前出狩猎”网络行动 | https://mp.weixin.qq.com/s/AraWGEFNlGyIPccWppNYUQ| 
-| 20230515 | 通过突变分析暴露库的API误用 | https://mp.weixin.qq.com/s/ZMWh64ajw-Gjw6Ks7EK4IQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230521T11:27:34Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
+| 20230521T07:04:00Z | CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | https://github.com/Exploitables/CVE-2021-3438 | | 
+| 20230521T06:44:18Z | CVE-2022-46169 | Null | https://github.com/antisecc/CVE-2022-46169 | | 
+| 20230521T06:05:23Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
 | 20230521T00:15:16Z | CVE-2021-3493 | Null | https://github.com/smallkill/CVE-2021-3493 | | 
 | 20230520T18:50:20Z | CVE-2022-24716 | Null | https://github.com/antisecc/CVE-2022-24716 | | 
-| 20230520T17:18:27Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230520T14:20:15Z | CVE-2022-4931 | CVE-2022-4931 | https://github.com/ValeDecem10th/CVE-2022-4931 | | 
-| 20230520T09:15:18Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230520T04:57:08Z | CVE-2023-31702 | test-send-CVE | https://github.com/2019000102494/CVE-2023-31702 | | 
 | 20230520T01:52:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
-| 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
-| 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T09:11:55Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 2 | 0| 
+| 20230521T06:36:39Z | Null | https://github.com/Kleenelan/kleenelang | 1 | 0| 
 | 20230520T23:59:12Z | Null | https://github.com/lttanguay/KleenKutsDavis | 0 | 0| 
 | 20230519T08:58:55Z | [WIP] A React UI components library for Genshin Impact | https://github.com/vikiboss/klee-ui | 0 | 0| 
-| 20230519T08:09:55Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 1 | 0| 
 | 20230517T07:57:41Z | Null | https://github.com/Cristhian67/CerraduraDeKleeYCreacionDePalabras-Angular | 0 | 0| 
 | 20230516T13:40:10Z | KLEE Portfolio | https://github.com/Kyungho0511/Portfolio | 0 | 0| 
 | 20230516T01:38:32Z | Null | https://github.com/erht/klees | 0 | 0| 
 | 20230514T09:40:47Z | Paul Klee Museum Hackathon | https://github.com/ccc159/kosmos | 1 | 0| 
 | 20230514T01:09:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12022 | 381| 
 | 20230513T11:52:16Z | Null | https://github.com/tillero/klee | 0 | 0| 
-| 20230513T04:49:36Z | Null | https://github.com/thedanhoffman/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T05:48:28Z | Null | https://github.com/ddevleena/S2E | 0 | 0| 
 | 20230519T12:27:34Z | Null | https://github.com/AxelBerret/S2E_SAE_amaglio1u_berret8u | 0 | 0| 
 | 20230519T05:15:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 335 | 80| 
 | 20230516T06:39:00Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 4 | 1| 
@@ -69,22 +70,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T11:59:18Z | Null | https://github.com/PrahladhGaming/AVET-Exploit | 0 | 0| 
+| 20230521T11:44:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10203 | 1601| 
+| 20230521T11:00:10Z | Enhancing Quantum Teleportation: An Enable-Based Protocol Exploiting Distributed Quantum Gates | https://github.com/paymanprime/enable_BQT_DQG | 0 | 0| 
+| 20230521T10:41:54Z | Differences in exploiting ARM vs x86_64 arch | https://github.com/santaclz/ARM_vs_x86 | 0 | 0| 
+| 20230521T10:35:20Z | Features: Aimbot ESP Exploits Misc Aimbot Fov Circle Aimbot Smooth Aimbot Bone Aimbot Prediction Box ESP Skeleton Lines Player Names Stream Sniper Player Aim While Jumping No Weapon Switch Delay No Spread Rapid Fire Trigger Bot AirStuck 360 Fov Instant Revive Fov Circle off/on Crosshair | https://github.com/jaig11/FN_CHEAT_UNDETECTED | 0 | 0| 
+| 20230521T09:40:41Z | Null | https://github.com/phamvandan/Exploit-Tools | 0 | 0| 
+| 20230521T08:52:00Z | This script complements the results obtained through the keepass-password-dumper tool when exploiting the CVE-2023-32784 vulnerability affecting KeePass. | https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass | 0 | 0| 
+| 20230521T07:32:06Z | This repository contains different exploits and hacks for ethical use. | https://github.com/IliyaBadri/Enterploit | 0 | 0| 
 | 20230521T00:41:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0w | 1 | 0| 
 | 20230521T00:40:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0w | 1 | 0| 
-| 20230521T00:39:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0w | 1 | 0| 
-| 20230521T00:23:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81e9d5a4-06a7-48a2-8e82-5fe513957e54-OI_EM-raise-exploit | 0 | 0| 
-| 20230520T23:57:06Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 487 | 94| 
-| 20230520T22:22:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4939 | 618| 
-| 20230520T22:16:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4985 | 981| 
-| 20230520T21:44:41Z | Null | https://github.com/Hehrh1234/F1RE-Executor | 71 | 0| 
-| 20230520T18:38:28Z | IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard | https://github.com/LawJunHao/ITP-Dashboard | 0 | 0| 
-| 20230520T17:04:29Z | 0x001829-B is exploit tool for web servers & for home ip%s | https://github.com/ASMRoyal/0x001829-B | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230521T01:57:49Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 5 | 0| 
+| 20230521T09:21:21Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 7 | 1| 
+| 20230521T05:14:31Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
 | 20230521T01:07:33Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
@@ -93,7 +95,6 @@
 | 20230519T23:36:27Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 15 | 1| 
 | 20230519T22:27:44Z | Null | https://github.com/navin604/PacketSniffing-Backdoor | 0 | 0| 
 | 20230519T17:26:14Z | Kernel  rk | https://github.com/carloslack/KoviD | 138 | 29| 
-| 20230519T16:13:18Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 4 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -127,6 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T08:52:22Z | Null | https://github.com/Aprilwjj/Fuzzy_FJSP | 0 | 0| 
+| 20230521T08:21:33Z | 🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥 | https://github.com/mnns/LLMFuzzer | 6 | 3| 
 | 20230521T01:48:22Z | Null | https://github.com/bisquit/vscode-fuzzy-go-to-spec | 0 | 0| 
 | 20230521T01:00:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3592 | 429| 
 | 20230521T00:58:30Z | Null | https://github.com/archlinux-packages/cargo-fuzz | 0 | 0| 
@@ -135,8 +138,6 @@
 | 20230520T20:37:01Z | Simple python script to fuzz for subdomains on a website. | https://github.com/polygonben/Python-VHost-Fuzzer | 0 | 0| 
 | 20230520T19:34:18Z | a fuzzy charging plan for batteries in based on electricity price | https://github.com/zzq-uhw/fuzzy-charging | 0 | 0| 
 | 20230520T16:11:33Z | An implementation of the Wang-Mendel method of rule generation for fuzzy systems in a victim gravity classification problem | https://github.com/VictorGarrett/Wang-Mendel_for_fuzzy | 0 | 0| 
-| 20230520T16:11:25Z | KNU Course work (Cryptography, topic: Fuzzy extractors) | https://github.com/al3xkras/fuzzy-extractors | 0 | 0| 
-| 20230520T12:44:36Z | Null | https://github.com/D-sense/go-fuzz-testing | 0 | 0| 
 
 
 
