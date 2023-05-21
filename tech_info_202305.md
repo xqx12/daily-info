@@ -85,8 +85,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T12:27:20Z | Null | https://github.com/KDot227/shortcut-backdoor | 2 | 0| 
 | 20230521T09:21:21Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 7 | 1| 
-| 20230521T05:14:31Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
 | 20230521T01:07:33Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
