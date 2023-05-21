@@ -75,10 +75,10 @@
 | 20230520T22:16:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4985 | 981| 
 | 20230520T21:44:41Z | Null | https://github.com/Hehrh1234/F1RE-Executor | 71 | 0| 
 | 20230520T18:38:28Z | IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard | https://github.com/LawJunHao/ITP-Dashboard | 0 | 0| 
+| 20230520T17:04:29Z | 0x001829-B is exploit tool for web servers & for home ip%s | https://github.com/ASMRoyal/0x001829-B | 0 | 0| 
 | 20230520T16:00:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 641 | 167| 
 | 20230520T11:54:28Z | Lua executor undetected for all games | https://github.com/Fei-xiangShi/F1RE-Executor | 67 | 0| 
 | 20230520T11:28:45Z | [+] a very simple WP exploiter with marijuana shell [-] | https://github.com/phsh1m1zu/ThreatExploit | 0 | 0| 
-| 20230520T08:36:25Z | Official China Hub script for ROBLOX exploiting. | https://github.com/China-Hub-Script/Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
