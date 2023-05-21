@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T00:23:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81e9d5a4-06a7-48a2-8e82-5fe513957e54-OI_EM-raise-exploit | 0 | 0| 
 | 20230520T23:57:06Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 487 | 94| 
 | 20230520T22:22:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4939 | 618| 
 | 20230520T22:16:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4985 | 981| 
@@ -78,7 +79,6 @@
 | 20230520T11:54:28Z | Lua executor undetected for all games | https://github.com/Fei-xiangShi/F1RE-Executor | 67 | 0| 
 | 20230520T11:28:45Z | [+] a very simple WP exploiter with marijuana shell [-] | https://github.com/phsh1m1zu/ThreatExploit | 0 | 0| 
 | 20230520T08:36:25Z | Official China Hub script for ROBLOX exploiting. | https://github.com/China-Hub-Script/Script | 0 | 0| 
-| 20230520T08:30:13Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3802 | 759| 
 
 
 # backdoor on Github 推荐
