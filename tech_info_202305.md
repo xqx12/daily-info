@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T01:07:33Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
 | 20230520T18:46:10Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 3 | 0| 
@@ -93,7 +94,6 @@
 | 20230519T22:27:44Z | Null | https://github.com/navin604/PacketSniffing-Backdoor | 0 | 0| 
 | 20230519T17:26:14Z | Kernel  rk | https://github.com/carloslack/KoviD | 138 | 29| 
 | 20230519T16:13:18Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 4 | 3| 
-| 20230519T13:16:42Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
