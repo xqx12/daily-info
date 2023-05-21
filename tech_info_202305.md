@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230521T00:15:16Z | CVE-2021-3493 | Null | https://github.com/smallkill/CVE-2021-3493 | | 
 | 20230520T18:50:20Z | CVE-2022-24716 | Null | https://github.com/antisecc/CVE-2022-24716 | | 
 | 20230520T17:18:27Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230520T14:20:15Z | CVE-2022-4931 | CVE-2022-4931 | https://github.com/ValeDecem10th/CVE-2022-4931 | | 
@@ -35,7 +36,6 @@
 | 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
 | 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
 | 20230519T05:48:21Z | CVE-2023-29919 | Null | https://github.com/xiaosed/CVE-2023-29919 | | 
-| 20230519T01:39:55Z | CVE-2023-32233 | CVE-2023-32233: Linux内核中的安全漏洞 | https://github.com/Liuk3r/CVE-2023-32233 | | 
 
 
 # klee on Github 推荐
