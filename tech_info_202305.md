@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230521T12:21:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4988 | 981| 
 | 20230521T11:59:18Z | Null | https://github.com/PrahladhGaming/AVET-Exploit | 0 | 0| 
 | 20230521T11:44:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10203 | 1601| 
 | 20230521T11:00:10Z | Enhancing Quantum Teleportation: An Enable-Based Protocol Exploiting Distributed Quantum Gates | https://github.com/paymanprime/enable_BQT_DQG | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230521T08:52:00Z | This script complements the results obtained through the keepass-password-dumper tool when exploiting the CVE-2023-32784 vulnerability affecting KeePass. | https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass | 0 | 0| 
 | 20230521T07:32:06Z | This repository contains different exploits and hacks for ethical use. | https://github.com/IliyaBadri/Enterploit | 0 | 0| 
 | 20230521T00:41:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0w | 1 | 0| 
-| 20230521T00:40:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0w | 1 | 0| 
 
 
 # backdoor on Github 推荐
