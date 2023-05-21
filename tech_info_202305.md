@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
 | 20230521T00:15:16Z | CVE-2021-3493 | Null | https://github.com/smallkill/CVE-2021-3493 | | 
 | 20230520T18:50:20Z | CVE-2022-24716 | Null | https://github.com/antisecc/CVE-2022-24716 | | 
 | 20230520T17:18:27Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
@@ -35,7 +36,6 @@
 | 20230520T01:52:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20230519T06:05:45Z | CVE-2023-31634 | Null | https://github.com/XC9409/CVE-2023-31634 | | 
 | 20230519T05:48:57Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
-| 20230519T05:48:21Z | CVE-2023-29919 | Null | https://github.com/xiaosed/CVE-2023-29919 | | 
 
 
 # klee on Github 推荐
