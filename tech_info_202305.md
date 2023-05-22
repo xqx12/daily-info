@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230522T00:46:25Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230521T23:47:18Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230521T23:29:17Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230521T13:04:07Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
@@ -35,7 +36,6 @@
 | 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
 | 20230521T00:15:16Z | CVE-2021-3493 | Null | https://github.com/smallkill/CVE-2021-3493 | | 
 | 20230520T18:50:20Z | CVE-2022-24716 | Null | https://github.com/antisecc/CVE-2022-24716 | | 
-| 20230520T14:20:15Z | CVE-2022-4931 | CVE-2022-4931 | https://github.com/ValeDecem10th/CVE-2022-4931 | | 
 
 
 # klee on Github 推荐
