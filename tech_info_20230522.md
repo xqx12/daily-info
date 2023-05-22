@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T12:40:25Z | Null | https://github.com/fatemehkhodadadii/fuzzy | 0 | 0| 
 | 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
 | 20230522T11:26:50Z | Null | https://github.com/RahulDebMajumder/A-Fuzzy-Logic-Based-Hierarchical-Routing-Protocol-for-Wireless-Sensor-Networks | 0 | 0| 
 | 20230522T11:21:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2731 | 185| 

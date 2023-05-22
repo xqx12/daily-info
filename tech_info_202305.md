@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T12:40:25Z | Null | https://github.com/fatemehkhodadadii/fuzzy | 0 | 0| 
 | 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
 | 20230522T11:26:50Z | Null | https://github.com/RahulDebMajumder/A-Fuzzy-Logic-Based-Hierarchical-Routing-Protocol-for-Wireless-Sensor-Networks | 0 | 0| 
 | 20230522T11:21:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2731 | 185| 
@@ -137,7 +138,6 @@
 | 20230522T06:13:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1407 | 196| 
 | 20230522T04:15:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8670 | 1906| 
 | 20230522T00:38:59Z | Null | https://github.com/aijia7907/fuzzy-train | 0 | 0| 
-| 20230521T23:51:06Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 
 
 
