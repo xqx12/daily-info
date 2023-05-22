@@ -73,6 +73,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T12:29:02Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 45 | 3| 
 | 20230522T07:07:04Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 665 | 105| 
 
 
