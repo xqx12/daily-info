@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T01:39:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-dijq-jiWxt-exploit-cross | 0 | 0| 
 | 20230522T00:31:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-32 | 1 | 0| 
 | 20230522T00:31:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-32 | 1 | 0| 
 | 20230522T00:30:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-32 | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20230521T18:39:02Z | Analysis of syscall sequence pattern from exploit codes for advanced system call sequence filtering for enhanced container security | https://github.com/sominsong/NIMOS | 0 | 0| 
 | 20230521T16:03:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4989 | 981| 
 | 20230521T11:59:18Z | Null | https://github.com/PrahladhGaming/AVET-Exploit | 0 | 0| 
-| 20230521T11:44:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10203 | 1601| 
 
 
 # backdoor on Github 推荐
