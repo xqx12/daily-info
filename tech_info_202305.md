@@ -70,24 +70,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230522T00:30:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-32 | 0 | 0| 
+| 20230522T00:31:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-32 | 1 | 0| 
+| 20230522T00:31:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-32 | 1 | 0| 
 | 20230522T00:30:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-32 | 1 | 0| 
 | 20230521T23:58:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4942 | 618| 
 | 20230521T23:30:45Z | Multi game aimbot! Roblox aimbot, csgo aimbot, valorant aimbot, minecraft aimbot, rocket league aimbot. Works great with roblox and its new anticheat but also works for Minecraft, CSGO, certain COD games, Rocket league, and valorant. Please keep updated with our updates as they come often. | https://github.com/BobelMitchellUCLA/Multi-Game-Aimbot-May-2023 | 6 | 0| 
 | 20230521T18:44:33Z | Fabric mod for testing duplication exploits | https://github.com/FlorianMichael/UI-Utils-Reborn | 9 | 1| 
 | 20230521T18:39:02Z | Analysis of syscall sequence pattern from exploit codes for advanced system call sequence filtering for enhanced container security | https://github.com/sominsong/NIMOS | 0 | 0| 
-| 20230521T12:21:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4988 | 981| 
+| 20230521T16:03:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4989 | 981| 
 | 20230521T11:59:18Z | Null | https://github.com/PrahladhGaming/AVET-Exploit | 0 | 0| 
 | 20230521T11:44:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10203 | 1601| 
-| 20230521T11:00:10Z | Enhancing Quantum Teleportation: An Enable-Based Protocol Exploiting Distributed Quantum Gates | https://github.com/paymanprime/enable_BQT_DQG | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 2| 
 | 20230521T20:06:27Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
 | 20230521T17:53:57Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 14 | 2| 
-| 20230521T17:41:56Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 8 | 2| 
 | 20230521T14:14:21Z | Null | https://github.com/NY1024/-NBA-Defensive-Distillation-for-Backdoor-Removal-via-Neural-Behavior-Alignment | 0 | 0| 
 | 20230521T14:07:34Z | Null | https://github.com/NY1024/DLP-towards-active-defense-against-backdoor-attacks-with-decoupled-learning-process | 0 | 0| 
 | 20230521T14:04:52Z | Null | https://github.com/tomurashigaraki22/backdoor | 0 | 0| 
