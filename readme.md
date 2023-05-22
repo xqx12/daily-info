@@ -87,9 +87,9 @@
 | 20230522T11:14:24Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 1 | 0| 
 | 20230522T10:27:36Z | A HTTP fuzzing commandline tool made in python with extensibility | https://github.com/ArchmagePsy/Cooky | 0 | 0| 
 | 20230522T08:56:22Z | Swift-based fuzzing tools | https://github.com/krypted/swiftfuzztools | 19 | 1| 
+| 20230522T06:36:50Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 468 | 103| 
 | 20230522T06:13:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1407 | 196| 
 | 20230522T04:15:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8670 | 1906| 
-| 20230522T00:38:59Z | Null | https://github.com/aijia7907/fuzzy-train | 0 | 0| 
 
 
 
