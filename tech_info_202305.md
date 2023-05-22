@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230522T00:46:25Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
+| 20230522T00:47:52Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230521T23:47:18Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230521T23:29:17Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230521T13:04:07Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
