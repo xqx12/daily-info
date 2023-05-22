@@ -20,9 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230521T23:47:18Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
-| 20230521T23:29:17Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230521T13:04:07Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
-| 20230521T11:27:34Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230521T07:04:00Z | CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | https://github.com/Exploitables/CVE-2021-3438 | | 
 | 20230521T06:44:18Z | CVE-2022-46169 | Null | https://github.com/antisecc/CVE-2022-46169 | | 
 | 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
