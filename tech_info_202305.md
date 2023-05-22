@@ -85,6 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T09:41:04Z | Disguising Attacks with Explanation-Aware Backdoors (IEEE S&P 2023) | https://github.com/intellisec/xai-backdoors | 1 | 1| 
 | 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 3| 
 | 20230521T20:06:27Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
 | 20230521T17:53:57Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 14 | 2| 
@@ -94,7 +95,6 @@
 | 20230521T01:07:33Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
 | 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
-| 20230520T11:59:54Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 17 | 0| 
 
 
 # symbolic execution on Github 推荐

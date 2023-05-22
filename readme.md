@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T09:41:04Z | Disguising Attacks with Explanation-Aware Backdoors (IEEE S&P 2023) | https://github.com/intellisec/xai-backdoors | 1 | 1| 
 | 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 3| 
 
 
