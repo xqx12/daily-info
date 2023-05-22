@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T00:38:59Z | Null | https://github.com/aijia7907/fuzzy-train | 0 | 0| 
 | 20230521T23:51:06Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230521T23:01:48Z | Null | https://github.com/jdkula/fuzzpuppet | 0 | 0| 
 | 20230521T22:50:57Z | Simplify working with kubectl on the command line with skim | https://github.com/v-pan/kube-fuzzy | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230521T16:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8671 | 1906| 
 | 20230521T13:44:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3592 | 429| 
 | 20230521T08:52:22Z | Null | https://github.com/Aprilwjj/Fuzzy_FJSP | 0 | 0| 
-| 20230521T08:21:33Z | 🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥 | https://github.com/mnns/LLMFuzzer | 6 | 3| 
 
 
 
