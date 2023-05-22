@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230522T11:20:29Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230522T12:21:05Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230522T08:52:48Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20230522T02:58:59Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230522T01:04:26Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230522T11:20:12Z | Null | https://github.com/ig66/F1RE-Executor | 74 | 0| 
+| 20230522T12:19:32Z | Null | https://github.com/ig66/F1RE-Executor | 73 | 0| 
 | 20230522T11:06:28Z | A proof of concept illustrating the risks of unauthenticated Redis servers. Learn about potential data theft from openly accessible Redis installations. Educational use only. Use responsibly. | https://github.com/mihneamanolache/redis-exploit | 0 | 0| 
 | 20230522T10:00:56Z | Null | https://github.com/mkobilev/holyjs-quest-exploit | 0 | 0| 
 | 20230522T09:48:47Z | Code for reproducing results for the article %UNIFIED MACHINE LEARNING: OPEN-SET LEARNING WITH AUGMENTED CATEGORY BY EXPLOITING UNLABELLED DATA (OPEN-LACU) ---- https://arxiv.org/abs/2002.01368 | https://github.com/Emile0205/Open-LACU | 0 | 0| 
