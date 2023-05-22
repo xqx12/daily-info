@@ -85,7 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 2| 
+| 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 3| 
 | 20230521T20:06:27Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
 | 20230521T17:53:57Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 14 | 2| 
 | 20230521T14:14:21Z | Null | https://github.com/NY1024/-NBA-Defensive-Distillation-for-Backdoor-Removal-via-Neural-Behavior-Alignment | 0 | 0| 
