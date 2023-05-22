@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230522 | 细谈使用CodeQL进行反序列化链的挖掘过程 | https://www.sec-in.com/article/2043| 
 | 20230521 | 为什么必须做安全度量 | https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg| 
 | 20230521 | Modern Initial Access and Evasion Tactics | https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf| 
 | 20230521 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A| 
@@ -20,27 +21,28 @@
 | 20230518 | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g| 
 | 20230517 | 以文件为中心的 IoT 恶意软件网络分析 | https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q| 
 | 20230517 | 基于Caddy实现的C2前置代理 | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ| 
-| 20230517 | 2023年中国网络安全市场全景图 | https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230522T11:20:29Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230522T08:52:48Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20230522T02:58:59Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230522T01:04:26Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
-| 20230522T01:04:06Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230522T01:03:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230522T00:47:52Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230521T23:47:18Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230521T07:04:00Z | CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | https://github.com/Exploitables/CVE-2021-3438 | | 
 | 20230521T06:44:18Z | CVE-2022-46169 | Null | https://github.com/antisecc/CVE-2022-46169 | | 
 | 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
-| 20230521T00:15:16Z | CVE-2021-3493 | Null | https://github.com/smallkill/CVE-2021-3493 | | 
-| 20230520T18:50:20Z | CVE-2022-24716 | Null | https://github.com/antisecc/CVE-2022-24716 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T09:13:10Z | Null | https://github.com/Klee1311/Klee | 0 | 0| 
+| 20230522T08:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2227 | 617| 
 | 20230521T09:11:55Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 2 | 0| 
 | 20230521T06:36:39Z | Null | https://github.com/Kleenelan/kleenelang | 1 | 0| 
 | 20230520T23:59:12Z | Null | https://github.com/lttanguay/KleenKutsDavis | 0 | 0| 
@@ -49,19 +51,17 @@
 | 20230516T13:40:10Z | KLEE Portfolio | https://github.com/Kyungho0511/Portfolio | 0 | 0| 
 | 20230516T01:38:32Z | Null | https://github.com/erht/klees | 0 | 0| 
 | 20230514T09:40:47Z | Paul Klee Museum Hackathon | https://github.com/ccc159/kosmos | 1 | 0| 
-| 20230514T01:09:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12022 | 381| 
-| 20230513T11:52:16Z | Null | https://github.com/tillero/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230522T01:58:53Z | Null | https://github.com/ddevleena/S2E | 0 | 0| 
+| 20230522T08:08:13Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
+| 20230522T03:20:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 334 | 80| 
+| 20230522T02:06:13Z | Null | https://github.com/ddevleena/S2E | 0 | 0| 
 | 20230519T12:27:34Z | Null | https://github.com/AxelBerret/S2E_SAE_amaglio1u_berret8u | 0 | 0| 
-| 20230519T05:15:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 335 | 80| 
 | 20230516T06:39:00Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 4 | 1| 
 | 20230514T04:21:44Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 19 | 10| 
-| 20230512T06:53:22Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230508T16:47:41Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 86 | 49| 
 | 20230504T21:18:11Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20230504T04:18:07Z | Null | https://github.com/fyfrxrvjh/WARP-s2e554e | 0 | 0| 
@@ -70,16 +70,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T11:20:12Z | Null | https://github.com/ig66/F1RE-Executor | 74 | 0| 
+| 20230522T11:06:28Z | A proof of concept illustrating the risks of unauthenticated Redis servers. Learn about potential data theft from openly accessible Redis installations. Educational use only. Use responsibly. | https://github.com/mihneamanolache/redis-exploit | 0 | 0| 
+| 20230522T10:00:56Z | Null | https://github.com/mkobilev/holyjs-quest-exploit | 0 | 0| 
+| 20230522T09:48:47Z | Code for reproducing results for the article %UNIFIED MACHINE LEARNING: OPEN-SET LEARNING WITH AUGMENTED CATEGORY BY EXPLOITING UNLABELLED DATA (OPEN-LACU) ---- https://arxiv.org/abs/2002.01368 | https://github.com/Emile0205/Open-LACU | 0 | 0| 
+| 20230522T08:39:14Z | Exploiting LNK files to disquise malware behing legitimate program | https://github.com/Atsukoro1/lnk-exploit | 0 | 0| 
+| 20230522T08:26:05Z | (WIP) A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 3 | 0| 
+| 20230522T08:24:48Z | Null | https://github.com/abdallaabdalrhman/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
+| 20230522T06:40:38Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5204 | 414| 
 | 20230522T01:39:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-dijq-jiWxt-exploit-cross | 0 | 0| 
 | 20230522T00:31:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-32 | 1 | 0| 
-| 20230522T00:31:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-32 | 1 | 0| 
-| 20230522T00:30:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-32 | 1 | 0| 
-| 20230521T23:58:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4942 | 618| 
-| 20230521T23:30:45Z | Multi game aimbot! Roblox aimbot, csgo aimbot, valorant aimbot, minecraft aimbot, rocket league aimbot. Works great with roblox and its new anticheat but also works for Minecraft, CSGO, certain COD games, Rocket league, and valorant. Please keep updated with our updates as they come often. | https://github.com/BobelMitchellUCLA/Multi-Game-Aimbot-May-2023 | 6 | 0| 
-| 20230521T18:44:33Z | Fabric mod for testing duplication exploits | https://github.com/FlorianMichael/UI-Utils-Reborn | 9 | 1| 
-| 20230521T18:39:02Z | Analysis of syscall sequence pattern from exploit codes for advanced system call sequence filtering for enhanced container security | https://github.com/sominsong/NIMOS | 0 | 0| 
-| 20230521T16:03:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4989 | 981| 
-| 20230521T11:59:18Z | Null | https://github.com/PrahladhGaming/AVET-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
+| 20230522T11:26:50Z | Null | https://github.com/RahulDebMajumder/A-Fuzzy-Logic-Based-Hierarchical-Routing-Protocol-for-Wireless-Sensor-Networks | 0 | 0| 
+| 20230522T11:21:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2731 | 185| 
+| 20230522T11:14:24Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 1 | 0| 
+| 20230522T10:27:36Z | A HTTP fuzzing commandline tool made in python with extensibility | https://github.com/ArchmagePsy/Cooky | 0 | 0| 
+| 20230522T08:56:22Z | Swift-based fuzzing tools | https://github.com/krypted/swiftfuzztools | 19 | 1| 
+| 20230522T06:13:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1407 | 196| 
+| 20230522T04:15:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8670 | 1906| 
 | 20230522T00:38:59Z | Null | https://github.com/aijia7907/fuzzy-train | 0 | 0| 
 | 20230521T23:51:06Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
-| 20230521T23:01:48Z | Null | https://github.com/jdkula/fuzzpuppet | 0 | 0| 
-| 20230521T22:50:57Z | Simplify working with kubectl on the command line with skim | https://github.com/v-pan/kube-fuzzy | 0 | 0| 
-| 20230521T22:50:05Z | This repo contains my fuzzy logic coursework project. Grade🏆93/100🏆 Inside you can find two fuzzy inference systems, One for assessing reliability of information and second for ranking credibility of source of information. The project includes MATLAB code (.m) files, test data (.xls) files, and the project report. | https://github.com/greenMakaroni/fuzzy_logic_coursework | 0 | 0| 
-| 20230521T21:33:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5006 | 527| 
-| 20230521T20:12:28Z | 3D Web Developer Portfolio | https://github.com/onyxzz/fuzzy-spork | 0 | 0| 
-| 20230521T16:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8671 | 1906| 
-| 20230521T13:44:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3592 | 429| 
-| 20230521T08:52:22Z | Null | https://github.com/Aprilwjj/Fuzzy_FJSP | 0 | 0| 
 
 
 
