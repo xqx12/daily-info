@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T01:29:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5594 | 756| 
 | 20230523T00:27:49Z | Null | https://github.com/MohamedAlashwah/F1RE-Executor | 74 | 0| 
 | 20230522T23:40:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4948 | 619| 
 | 20230522T23:32:46Z | BLEEPiOS = the Best LittlE ExPloit for iOS! | https://github.com/NodeMixaholic/BLEEPiOS | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230522T18:36:43Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
 | 20230522T18:01:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13774 | 2333| 
 | 20230522T15:48:55Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 192 | 8| 
-| 20230522T12:19:32Z | Null | https://github.com/ig66/F1RE-Executor | 73 | 0| 
 
 
 # backdoor on Github 推荐
