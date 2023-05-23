@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230522T12:21:05Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230522T23:45:57Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230522T20:04:12Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
+| 20230522T14:56:42Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
 | 20230522T08:52:48Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20230522T02:58:59Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230522T01:04:26Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
 | 20230522T01:03:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
 | 20230522T00:47:52Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
-| 20230521T23:47:18Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230521T07:04:00Z | CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | https://github.com/Exploitables/CVE-2021-3438 | | 
 | 20230521T06:44:18Z | CVE-2022-46169 | Null | https://github.com/antisecc/CVE-2022-46169 | | 
-| 20230521T00:26:55Z | CVE-2022-1388 | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | https://github.com/OnCyberWar/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
@@ -70,21 +70,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T00:00:15Z | Null | https://github.com/MohamedAlashwah/F1RE-Executor | 77 | 0| 
+| 20230522T23:32:46Z | BLEEPiOS = the Best LittlE ExPloit for iOS! | https://github.com/NodeMixaholic/BLEEPiOS | 0 | 0| 
+| 20230522T20:54:19Z | See my data exploits! | https://github.com/AntonieaH/datajourney | 0 | 0| 
+| 20230522T20:31:01Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
+| 20230522T19:40:18Z | Scripts, tools and code snippets for exploit development/assembly/shellcoding | https://github.com/totekuh/shellcrafter | 0 | 0| 
+| 20230522T18:36:43Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
+| 20230522T18:01:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13774 | 2333| 
 | 20230522T12:19:32Z | Null | https://github.com/ig66/F1RE-Executor | 73 | 0| 
 | 20230522T11:06:28Z | A proof of concept illustrating the risks of unauthenticated Redis servers. Learn about potential data theft from openly accessible Redis installations. Educational use only. Use responsibly. | https://github.com/mihneamanolache/redis-exploit | 0 | 0| 
 | 20230522T10:00:56Z | Null | https://github.com/mkobilev/holyjs-quest-exploit | 0 | 0| 
-| 20230522T09:48:47Z | Code for reproducing results for the article %UNIFIED MACHINE LEARNING: OPEN-SET LEARNING WITH AUGMENTED CATEGORY BY EXPLOITING UNLABELLED DATA (OPEN-LACU) ---- https://arxiv.org/abs/2002.01368 | https://github.com/Emile0205/Open-LACU | 0 | 0| 
-| 20230522T08:39:14Z | Exploiting LNK files to disquise malware behing legitimate program | https://github.com/Atsukoro1/lnk-exploit | 0 | 0| 
-| 20230522T08:26:05Z | (WIP) A Rust program which utilizes the latest Minecraft mechanics to exploit the random generator in Minecraft. Many thanks to Matthew Bolan for the original Java code! | https://github.com/DuckyBlender/mc-seed-rng-cracking | 3 | 0| 
-| 20230522T08:24:48Z | Null | https://github.com/abdallaabdalrhman/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
-| 20230522T06:40:38Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5204 | 414| 
-| 20230522T01:39:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-dijq-jiWxt-exploit-cross | 0 | 0| 
-| 20230522T00:31:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-32 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T21:40:01Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 43 | 6| 
+| 20230522T19:58:01Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 3 | 0| 
+| 20230522T18:01:38Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1328 | 146| 
 | 20230522T09:41:04Z | Disguising Attacks with Explanation-Aware Backdoors (IEEE S&P 2023) | https://github.com/intellisec/xai-backdoors | 1 | 1| 
 | 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 3| 
 | 20230521T20:06:27Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
@@ -92,9 +95,6 @@
 | 20230521T14:14:21Z | Null | https://github.com/NY1024/-NBA-Defensive-Distillation-for-Backdoor-Removal-via-Neural-Behavior-Alignment | 0 | 0| 
 | 20230521T14:07:34Z | Null | https://github.com/NY1024/DLP-towards-active-defense-against-backdoor-attacks-with-decoupled-learning-process | 0 | 0| 
 | 20230521T14:04:52Z | Null | https://github.com/tomurashigaraki22/backdoor | 0 | 0| 
-| 20230521T01:07:33Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
-| 20230521T01:05:10Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor | 0 | 0| 
-| 20230520T20:13:07Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 24 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230522T23:48:09Z | Null | https://github.com/DependableSystemsLab/SwarmFuzz | 0 | 0| 
+| 20230522T23:07:45Z | Null | https://github.com/Dayo-Adewuyi/fuzzy-spoon | 0 | 0| 
+| 20230522T21:29:33Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
+| 20230522T21:08:24Z | persistent-mode afl-fuzz for ocaml | https://github.com/stedolan/ocaml-afl-persistent | 13 | 6| 
+| 20230522T18:42:16Z | Some interesting articles in fuzzy statistical inference | https://github.com/JRigh/Fuzzy-statistical-inference-litterature | 0 | 0| 
+| 20230522T15:13:55Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1766 | 312| 
 | 20230522T12:40:25Z | Null | https://github.com/fatemehkhodadadii/fuzzy | 0 | 0| 
 | 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
 | 20230522T11:26:50Z | Null | https://github.com/RahulDebMajumder/A-Fuzzy-Logic-Based-Hierarchical-Routing-Protocol-for-Wireless-Sensor-Networks | 0 | 0| 
 | 20230522T11:21:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2731 | 185| 
-| 20230522T11:14:24Z | Null | https://github.com/OpenAutoIt/Fuzzing-Corpus | 1 | 0| 
-| 20230522T10:27:36Z | A HTTP fuzzing commandline tool made in python with extensibility | https://github.com/ArchmagePsy/Cooky | 0 | 0| 
-| 20230522T08:56:22Z | Swift-based fuzzing tools | https://github.com/krypted/swiftfuzztools | 19 | 1| 
-| 20230522T06:36:50Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 468 | 103| 
-| 20230522T06:13:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1407 | 196| 
-| 20230522T04:15:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8670 | 1906| 
 
 
 
