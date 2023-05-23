@@ -70,7 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230523T00:00:15Z | Null | https://github.com/MohamedAlashwah/F1RE-Executor | 77 | 0| 
+| 20230523T00:10:42Z | Null | https://github.com/MohamedAlashwah/F1RE-Executor | 76 | 0| 
+| 20230522T23:40:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4948 | 619| 
 | 20230522T23:32:46Z | BLEEPiOS = the Best LittlE ExPloit for iOS! | https://github.com/NodeMixaholic/BLEEPiOS | 0 | 0| 
 | 20230522T20:54:19Z | See my data exploits! | https://github.com/AntonieaH/datajourney | 0 | 0| 
 | 20230522T20:31:01Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230522T18:01:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13774 | 2333| 
 | 20230522T12:19:32Z | Null | https://github.com/ig66/F1RE-Executor | 73 | 0| 
 | 20230522T11:06:28Z | A proof of concept illustrating the risks of unauthenticated Redis servers. Learn about potential data theft from openly accessible Redis installations. Educational use only. Use responsibly. | https://github.com/mihneamanolache/redis-exploit | 0 | 0| 
-| 20230522T10:00:56Z | Null | https://github.com/mkobilev/holyjs-quest-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
