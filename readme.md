@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230522T23:45:57Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230522T20:04:12Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230522T14:56:42Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
 | 20230522T08:52:48Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
