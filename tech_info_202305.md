@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T12:20:27Z | NucleiFuzzer is a powerful automation tool which utilizes the community curated list of nuclei templates for finding %unknown% security vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 0 | 0| 
 | 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
 | 20230523T10:49:03Z | This project had as objective the prediction of how many people would be inside a lab with 3 workstations, using Neural Network and Fuzzy Systems. | https://github.com/MiguelVicente16/Prediction_using_NN_and_Fuzzy_Systems | 0 | 0| 
 | 20230523T10:47:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2732 | 185| 
@@ -138,7 +139,6 @@
 | 20230523T07:39:14Z | Null | https://github.com/amy-77/fuzzy-RFU-tree | 0 | 0| 
 | 20230523T07:01:03Z | Null | https://github.com/creator5112021/fuzzy-octo-waffle | 0 | 0| 
 | 20230523T04:51:12Z | Null | https://github.com/rskarp/fuzzy-poetry | 0 | 0| 
-| 20230523T01:49:30Z | Null | https://github.com/FilipeBem/Sistema-de-Fuzzy-Vacina-o-covid-19 | 0 | 0| 
 
 
 
