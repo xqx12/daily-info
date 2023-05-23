@@ -71,7 +71,7 @@
 | 20230523T10:32:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 440 | 83| 
 | 20230523T07:57:37Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1329 | 146| 
 | 20230523T06:32:14Z | Null | https://github.com/LJX-SEC/Stealth_Backdoor | 0 | 0| 
-| 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 0| 
+| 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 1| 
 | 20230523T04:58:13Z | Null | https://github.com/ZildanZ/Shell-Backdoor-Tak-Terlihat-Shell | 0 | 0| 
 | 20230523T04:03:43Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 4 | 1| 
 | 20230523T01:12:03Z | Command Documents | https://github.com/Blood-Gang-Inc/sa-zserverside | 0 | 0| 
