@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T01:49:30Z | Null | https://github.com/FilipeBem/Sistema-de-Fuzzy-Vacina-o-covid-19 | 0 | 0| 
 | 20230523T00:10:31Z | Hi | https://github.com/Devonte96/Fuzzy-succotash | 0 | 0| 
 | 20230522T23:48:09Z | Null | https://github.com/DependableSystemsLab/SwarmFuzz | 0 | 0| 
 | 20230522T23:07:45Z | Null | https://github.com/Dayo-Adewuyi/fuzzy-spoon | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230522T15:13:55Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1766 | 312| 
 | 20230522T12:40:25Z | Null | https://github.com/fatemehkhodadadii/fuzzy | 0 | 0| 
 | 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
-| 20230522T11:26:50Z | Null | https://github.com/RahulDebMajumder/A-Fuzzy-Logic-Based-Hierarchical-Routing-Protocol-for-Wireless-Sensor-Networks | 0 | 0| 
 
 
 
