@@ -50,9 +50,9 @@
 | 20230522T19:40:18Z | Scripts, tools and code snippets for exploit development/assembly/shellcoding | https://github.com/totekuh/shellcrafter | 0 | 0| 
 | 20230522T18:36:43Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
 | 20230522T18:01:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13774 | 2333| 
+| 20230522T15:48:55Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 192 | 8| 
 | 20230522T12:19:32Z | Null | https://github.com/ig66/F1RE-Executor | 73 | 0| 
 | 20230522T11:06:28Z | A proof of concept illustrating the risks of unauthenticated Redis servers. Learn about potential data theft from openly accessible Redis installations. Educational use only. Use responsibly. | https://github.com/mihneamanolache/redis-exploit | 0 | 0| 
-| 20230522T10:00:56Z | Null | https://github.com/mkobilev/holyjs-quest-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
