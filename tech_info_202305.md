@@ -11,39 +11,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20230522 | 细谈使用CodeQL进行反序列化链的挖掘过程 | https://www.sec-in.com/article/2043| 
-| 20230521 | 为什么必须做安全度量 | https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg| 
-| 20230521 | Modern Initial Access and Evasion Tactics | https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf| 
-| 20230521 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A| 
-| 20230519 | 披露一个恶意Chrome扩展程序 | https://blog.xlab.app/p/1e632d6d/| 
-| 20230518 | 对最危险软件安全漏洞的评估 | https://mp.weixin.qq.com/s/Z43o2qewofuDazskP0EWig| 
-| 20230518 | 利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg| 
-| 20230518 | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g| 
-| 20230517 | 以文件为中心的 IoT 恶意软件网络分析 | https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q| 
-| 20230517 | 基于Caddy实现的C2前置代理 | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ| 
+| 20230523 | Botconf 2023 议题速递 | https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw| 
+| 20230523 | 从Office诱饵到鸡肋RCE | https://blog.xlab.app/p/8fbece25/| 
+| 20230523 | 应急纪实-一场“驻场”的攻击对抗 | https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA| 
+| 20230523 | 实践之后，我们来谈谈如何建设SOAR | https://mp.weixin.qq.com/s/HOduKBW15WdmaBhB9e3lFg| 
+| 20230523 | SecWiki周刊（第481期) | https://www.sec-wiki.com/weekly/481| 
+| 20230523 | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q| 
+| 20230523 | PolyFuzz：针对多语言软件的灰盒模糊测试 | https://mp.weixin.qq.com/s/OC_zWpFETGRw8oVXGToSSw| 
+| 20230523 | 人造卫星安全技术分析 | https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g| 
+| 20230523 | 基于能力成熟度模型的车联网漏洞管理探索 | https://mp.weixin.qq.com/s/IcmYIiy6d-rYanuMQGTydA| 
+| 20230523 | 大模型在威胁情报中应用可行性研究报告 | https://mp.weixin.qq.com/s/G6JzGDkYJ1oQ4BHoYu5HlQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230523T01:13:52Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20230523T00:27:51Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230523T10:54:45Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230523T07:58:04Z | CVE-2023-31779 | Null | https://github.com/jet-pentest/CVE-2023-31779 | | 
+| 20230523T06:43:26Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
+| 20230523T06:41:30Z | CVE-2023-29923 | CVE-2023-29922 Batch detection script | https://github.com/1820112015/CVE-2023-29923 | | 
+| 20230523T06:31:53Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
+| 20230523T06:15:49Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20230523T04:46:50Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | | 
 | 20230522T20:04:12Z | CVE-2023-0297 | Unauthenticated Remote Code Execution in PyLoad <0.5.0b3.dev31 | https://github.com/JacobEbben/CVE-2023-0297 | | 
 | 20230522T14:56:42Z | CVE-2023-30256 | QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back) | https://github.com/ahrixia/CVE-2023-30256 | | 
-| 20230522T02:58:59Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 | 20230522T01:04:26Z | CVE-2023-31664 | CVE-2023-31664 WSO2 | https://github.com/adilkhan7/CVE-2023-31664 | | 
-| 20230522T01:03:40Z | CVE-2023-21554 | CVE-2023-21554 Windows MessageQueuing PoC，分析见 https://www.zoemurmure.top/posts/cve_2023_21554/ | https://github.com/zoemurmure/CVE-2023-21554-PoC | | 
-| 20230522T00:47:52Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
-| 20230521T07:04:00Z | CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | https://github.com/Exploitables/CVE-2021-3438 | | 
-| 20230521T06:44:18Z | CVE-2022-46169 | Null | https://github.com/antisecc/CVE-2022-46169 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T06:48:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2229 | 617| 
+| 20230523T06:16:20Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 0| 
 | 20230522T09:13:10Z | Null | https://github.com/Klee1311/Klee | 0 | 0| 
-| 20230522T08:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2227 | 617| 
-| 20230521T09:11:55Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 2 | 0| 
 | 20230521T06:36:39Z | Null | https://github.com/Kleenelan/kleenelang | 1 | 0| 
 | 20230520T23:59:12Z | Null | https://github.com/lttanguay/KleenKutsDavis | 0 | 0| 
 | 20230519T08:58:55Z | [WIP] A React UI components library for Genshin Impact | https://github.com/vikiboss/klee-ui | 0 | 0| 
@@ -70,31 +70,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230523T01:29:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5594 | 756| 
-| 20230523T00:27:49Z | Null | https://github.com/MohamedAlashwah/F1RE-Executor | 74 | 0| 
-| 20230522T23:40:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4948 | 619| 
-| 20230522T23:32:46Z | BLEEPiOS = the Best LittlE ExPloit for iOS! | https://github.com/NodeMixaholic/BLEEPiOS | 0 | 0| 
-| 20230522T20:54:19Z | See my data exploits! | https://github.com/AntonieaH/datajourney | 0 | 0| 
-| 20230522T20:31:01Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
-| 20230522T19:40:18Z | Scripts, tools and code snippets for exploit development/assembly/shellcoding | https://github.com/totekuh/shellcrafter | 0 | 0| 
-| 20230522T18:36:43Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
-| 20230522T18:01:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13774 | 2333| 
-| 20230522T15:48:55Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 192 | 8| 
+| 20230523T11:06:01Z | FIVEM Lua executor undetected | https://github.com/ATLAS51245/FIVEM-Lua-Executor | 0 | 0| 
+| 20230523T10:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5114 | 732| 
+| 20230523T10:45:55Z | EXPLOİT ARAMA | https://github.com/WinchasterBey/exploit_arama | 0 | 0| 
+| 20230523T09:35:51Z | Explicit linear model predictive control by dynamic programming with active sets and by exploiting symmetries | https://github.com/mitzer64/ActiveSetDP | 0 | 0| 
+| 20230523T09:33:05Z | Doc2Graph transforms documents into graphs and exploit a GNN to solve several tasks. | https://github.com/andreagemelli/doc2graph | 40 | 11| 
+| 20230523T09:24:56Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
+| 20230523T09:19:13Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 554 | 104| 
+| 20230523T08:30:50Z | Null | https://github.com/ShlokChaitanya/exploit | 0 | 0| 
+| 20230523T07:45:38Z | My amateur python3 exploits for WeChall challenges | https://github.com/AdamVins/WeChall-exploits | 0 | 0| 
+| 20230523T07:19:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4990 | 981| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T10:58:10Z | Null | https://github.com/sultankonslet9/backdoor | 0 | 0| 
+| 20230523T10:32:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 440 | 83| 
+| 20230523T07:57:37Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1329 | 146| 
+| 20230523T06:32:14Z | Null | https://github.com/LJX-SEC/Stealth_Backdoor | 0 | 0| 
+| 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 0| 
+| 20230523T04:58:13Z | Null | https://github.com/ZildanZ/Shell-Backdoor-Tak-Terlihat-Shell | 0 | 0| 
+| 20230523T04:03:43Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 4 | 1| 
 | 20230523T01:12:03Z | Command Documents | https://github.com/Blood-Gang-Inc/sa-zserverside | 0 | 0| 
 | 20230523T01:04:21Z | Null | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230522T21:40:01Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 43 | 6| 
-| 20230522T19:58:01Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 3 | 0| 
-| 20230522T18:01:38Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1328 | 146| 
-| 20230522T09:41:04Z | Disguising Attacks with Explanation-Aware Backdoors (IEEE S&P 2023) | https://github.com/intellisec/xai-backdoors | 1 | 1| 
-| 20230522T00:31:14Z | Null | https://github.com/DARKSTUFF-LAB/Kizagan-Backdoor | 9 | 3| 
-| 20230521T20:06:27Z | Null | https://github.com/KDot227/shortcut-backdoor | 1 | 0| 
-| 20230521T17:53:57Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 14 | 2| 
-| 20230521T14:14:21Z | Null | https://github.com/NY1024/-NBA-Defensive-Distillation-for-Backdoor-Removal-via-Neural-Behavior-Alignment | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
+| 20230523T10:49:03Z | This project had as objective the prediction of how many people would be inside a lab with 3 workstations, using Neural Network and Fuzzy Systems. | https://github.com/MiguelVicente16/Prediction_using_NN_and_Fuzzy_Systems | 0 | 0| 
+| 20230523T10:47:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2732 | 185| 
+| 20230523T10:14:52Z | 🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥 | https://github.com/mnns/LLMFuzzer | 9 | 4| 
+| 20230523T09:56:40Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 1 | 1| 
+| 20230523T09:47:21Z | Null | https://github.com/daphnefisher/react-native-fuzzy-waddle | 0 | 0| 
+| 20230523T07:39:14Z | Null | https://github.com/amy-77/fuzzy-RFU-tree | 0 | 0| 
+| 20230523T07:01:03Z | Null | https://github.com/creator5112021/fuzzy-octo-waffle | 0 | 0| 
+| 20230523T04:51:12Z | Null | https://github.com/rskarp/fuzzy-poetry | 0 | 0| 
 | 20230523T01:49:30Z | Null | https://github.com/FilipeBem/Sistema-de-Fuzzy-Vacina-o-covid-19 | 0 | 0| 
-| 20230523T00:10:31Z | Hi | https://github.com/Devonte96/Fuzzy-succotash | 0 | 0| 
-| 20230522T23:48:09Z | Null | https://github.com/DependableSystemsLab/SwarmFuzz | 0 | 0| 
-| 20230522T23:07:45Z | Null | https://github.com/Dayo-Adewuyi/fuzzy-spoon | 0 | 0| 
-| 20230522T21:29:33Z | Null | https://github.com/iot-sec23/HubFuzzer | 0 | 0| 
-| 20230522T21:08:24Z | persistent-mode afl-fuzz for ocaml | https://github.com/stedolan/ocaml-afl-persistent | 13 | 6| 
-| 20230522T18:42:16Z | Some interesting articles in fuzzy statistical inference | https://github.com/JRigh/Fuzzy-statistical-inference-litterature | 0 | 0| 
-| 20230522T15:13:55Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1766 | 312| 
-| 20230522T12:40:25Z | Null | https://github.com/fatemehkhodadadii/fuzzy | 0 | 0| 
-| 20230522T11:43:01Z | Null | https://github.com/jahongirkb/fuzzy_algorithm | 0 | 0| 
 
 
 
