@@ -59,12 +59,12 @@
 | 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
 | 20230523T19:55:07Z | FreeSWITCH Exploit (CVE-2019-19492) | https://github.com/Chocapikk/CVE-2019-19492 | 0 | 0| 
 | 20230523T15:17:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 226 | 169| 
+| 20230523T15:15:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4950 | 621| 
 | 20230523T12:24:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5115 | 732| 
 | 20230523T11:06:01Z | FIVEM Lua executor undetected | https://github.com/ATLAS51245/FIVEM-Lua-Executor | 0 | 0| 
 | 20230523T10:45:55Z | EXPLOİT ARAMA | https://github.com/WinchasterBey/exploit_arama | 0 | 0| 
 | 20230523T09:35:51Z | Explicit linear model predictive control by dynamic programming with active sets and by exploiting symmetries | https://github.com/mitzer64/ActiveSetDP | 0 | 0| 
 | 20230523T09:33:05Z | Doc2Graph transforms documents into graphs and exploit a GNN to solve several tasks. | https://github.com/andreagemelli/doc2graph | 40 | 11| 
-| 20230523T09:24:56Z | Null | https://github.com/SurrealSky/stuxnet_exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
