@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T00:25:27Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
 | 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
 | 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230523T07:57:37Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1329 | 146| 
 | 20230523T06:32:14Z | Null | https://github.com/LJX-SEC/Stealth_Backdoor | 0 | 0| 
 | 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 1| 
-| 20230523T04:58:13Z | Null | https://github.com/ZildanZ/Shell-Backdoor-Tak-Terlihat-Shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
