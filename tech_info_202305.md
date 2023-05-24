@@ -72,6 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230524T00:31:55Z | Et-Exploits Automatic Android File Extractor - this is a tool to automate the process of extracting files from an android device. | https://github.com/etxnight/EEAAFE | 0 | 0| 
+| 20230524T00:17:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4993 | 981| 
 | 20230523T22:39:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13777 | 2332| 
 | 20230523T22:09:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10223 | 1603| 
 | 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
@@ -80,13 +81,12 @@
 | 20230523T15:15:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4950 | 621| 
 | 20230523T12:24:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5115 | 732| 
 | 20230523T11:06:01Z | FIVEM Lua executor undetected | https://github.com/ATLAS51245/FIVEM-Lua-Executor | 0 | 0| 
-| 20230523T10:45:55Z | EXPLOİT ARAMA | https://github.com/WinchasterBey/exploit_arama | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T00:25:27Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
+| 20230524T00:34:29Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
 | 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
 | 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
