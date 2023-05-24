@@ -76,7 +76,7 @@
 | 20230523T22:39:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13777 | 2332| 
 | 20230523T22:09:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10223 | 1603| 
 | 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
-| 20230523T19:55:07Z | FreeSWITCH Exploit (CVE-2019-19492) | https://github.com/Chocapikk/CVE-2019-19492 | 0 | 0| 
+| 20230523T19:55:07Z | FreeSWITCH Exploit (CVE-2019-19492) | https://github.com/Chocapikk/CVE-2019-19492 | 0 | 1| 
 | 20230523T15:17:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 226 | 169| 
 | 20230523T15:15:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4950 | 621| 
 | 20230523T12:24:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5115 | 732| 
