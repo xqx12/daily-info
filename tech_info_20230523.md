@@ -70,7 +70,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230523T22:18:02Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
 | 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
 | 20230523T15:09:58Z | Adversarial and Backdoor Attack + Defence | https://github.com/zlaabsi/adversarial-backdoor-attack-defence | 0 | 0| 
@@ -80,6 +79,7 @@
 | 20230523T06:32:14Z | Null | https://github.com/LJX-SEC/Stealth_Backdoor | 0 | 0| 
 | 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 1| 
 | 20230523T04:58:13Z | Null | https://github.com/ZildanZ/Shell-Backdoor-Tak-Terlihat-Shell | 0 | 0| 
+| 20230523T04:03:43Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -108,7 +108,7 @@
 | 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
 | 20230523T10:49:03Z | This project had as objective the prediction of how many people would be inside a lab with 3 workstations, using Neural Network and Fuzzy Systems. | https://github.com/MiguelVicente16/Prediction_using_NN_and_Fuzzy_Systems | 0 | 0| 
 | 20230523T10:14:52Z | 🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥 | https://github.com/mnns/LLMFuzzer | 9 | 4| 
-| 20230523T09:56:40Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 1 | 1| 
+| 20230523T10:09:19Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3592 | 429| 
 
 
 
