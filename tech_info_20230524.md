@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T12:43:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3452 | 480| 
 | 20230524T10:22:39Z | This repo contains an experimental symbolic execution engine implemented in Solidity. | https://github.com/Juyotal/Sol_Symb_exec | 0 | 0| 
 | 20230524T08:12:57Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 193 | 41| 
 | 20230524T06:48:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 645 | 117| 
