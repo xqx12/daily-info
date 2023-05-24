@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T12:12:08Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 6 | 3| 
 | 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
 | 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 | 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
 | 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
-| 20230523T15:09:58Z | Adversarial and Backdoor Attack + Defence | https://github.com/zlaabsi/adversarial-backdoor-attack-defence | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
