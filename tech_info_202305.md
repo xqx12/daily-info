@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:04:57Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
+| 20230524T12:10:28Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
 | 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
 | 20230524T11:01:28Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Logic | 0 | 0| 
 | 20230524T10:54:06Z | Server | https://github.com/Kristal1ik/FuzzyContAppServer | 0 | 0| 
