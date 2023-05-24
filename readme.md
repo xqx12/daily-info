@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:49:45Z | FIVEM Lua executor undetected | https://github.com/AtlasNew/FIVEM-Lua-Executor | 0 | 0| 
+| 20230524T12:53:36Z | FIVEM Lua executor undetected | https://github.com/AtlasNew/FIVEM-Lua-Executor | 72 | 0| 
 | 20230524T12:45:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13779 | 2333| 
 | 20230524T11:49:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 643 | 168| 
 | 20230524T11:34:00Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0040-app-pyl_H-exploit-start | 0 | 0| 
@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T12:55:01Z | Null | https://github.com/archlinux-packages/python-fuzzywuzzy | 0 | 0| 
 | 20230524T12:10:28Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
 | 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
 | 20230524T11:01:28Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Logic | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20230524T08:27:58Z | Example of CICD for Cloudhub | https://github.com/pedes/fuzzy-sniffle | 0 | 0| 
 | 20230524T08:24:29Z | A simple black-block, mutation-based exif fuzzer. | https://github.com/HappyTsing/ExifFuzzer | 0 | 0| 
 | 20230524T08:16:29Z | Fuzzy JSON parser in Rust | https://github.com/cympfh/fuzzy-json-rs | 0 | 0| 
-| 20230524T07:34:15Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 188 | 28| 
 
 
 
