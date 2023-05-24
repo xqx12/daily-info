@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
+| 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
 | 20230523 | Botconf 2023 议题速递 | https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw| 
 | 20230523 | 从Office诱饵到鸡肋RCE | https://blog.xlab.app/p/8fbece25/| 
 | 20230523 | 应急纪实-一场“驻场”的攻击对抗 | https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA| 
@@ -19,23 +21,21 @@
 | 20230523 | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q| 
 | 20230523 | PolyFuzz：针对多语言软件的灰盒模糊测试 | https://mp.weixin.qq.com/s/OC_zWpFETGRw8oVXGToSSw| 
 | 20230523 | 人造卫星安全技术分析 | https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g| 
-| 20230523 | 基于能力成熟度模型的车联网漏洞管理探索 | https://mp.weixin.qq.com/s/IcmYIiy6d-rYanuMQGTydA| 
-| 20230523 | 大模型在威胁情报中应用可行性研究报告 | https://mp.weixin.qq.com/s/G6JzGDkYJ1oQ4BHoYu5HlQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
+| 20230524T10:57:53Z | CVE-2023-2591 | CVE-2023-2591 Medium blog | https://github.com/mnqazi/CVE-2023-2591 | | 
+| 20230524T10:52:12Z | CVE-2023-2516 | Medium Blog | https://github.com/mnqazi/CVE-2023-2516 | | 
+| 20230524T06:55:09Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
+| 20230524T04:46:58Z | CVE-2023-31595 | IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port | https://github.com/Yozarseef95/CVE-2023-31595 | | 
+| 20230524T04:09:24Z | CVE-2023-31594 | IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control | https://github.com/Yozarseef95/CVE-2023-31594 | | 
+| 20230524T02:05:29Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230524T01:49:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230524T00:47:04Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230523T20:11:09Z | cve-2023-32784 | A CVE-2023-32784 proof-of-concept implementation in Rust | https://github.com/LeDocteurDesBits/cve-2023-32784 | | 
-| 20230523T18:40:38Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept | | 
-| 20230523T18:36:43Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-POC | | 
-| 20230523T17:46:29Z | CVE-2023-32243 | Mass CVE-2023-32243 | https://github.com/domainhigh/Mass-CVE-2023-32243 | | 
-| 20230523T07:58:04Z | CVE-2023-31779 | Null | https://github.com/jet-pentest/CVE-2023-31779 | | 
-| 20230523T06:43:26Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
-| 20230523T06:41:30Z | CVE-2023-29923 | CVE-2023-29922 Batch detection script | https://github.com/1820112015/CVE-2023-29923 | | 
-| 20230523T06:31:53Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
 
 
 # klee on Github 推荐
@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T11:07:28Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230523T11:44:21Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230523T04:14:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 336 | 80| 
-| 20230522T08:08:13Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230522T02:06:13Z | Null | https://github.com/ddevleena/S2E | 0 | 0| 
 | 20230519T12:27:34Z | Null | https://github.com/AxelBerret/S2E_SAE_amaglio1u_berret8u | 0 | 0| 
 | 20230516T06:39:00Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 4 | 1| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T01:17:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l7 | 1 | 0| 
-| 20230524T01:16:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l7 | 1 | 0| 
-| 20230524T01:15:39Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l7 | 1 | 0| 
-| 20230524T01:13:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4993 | 981| 
-| 20230524T01:08:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 52 | 28| 
-| 20230524T00:31:55Z | Et-Exploits Automatic Android File Extractor - this is a tool to automate the process of extracting files from an android device. | https://github.com/etxnight/EEAAFE | 0 | 0| 
-| 20230523T22:39:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13777 | 2332| 
-| 20230523T22:09:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10223 | 1603| 
-| 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
-| 20230523T19:55:07Z | FreeSWITCH Exploit (CVE-2019-19492) | https://github.com/Chocapikk/CVE-2019-19492 | 0 | 1| 
+| 20230524T11:49:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 643 | 168| 
+| 20230524T11:34:00Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0040-app-pyl_H-exploit-start | 0 | 0| 
+| 20230524T11:26:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4997 | 981| 
+| 20230524T10:48:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5597 | 756| 
+| 20230524T10:26:49Z | Implementing the web scraping technique for data retrieval and tools to exploit them. | https://github.com/Nibenitez/webscraping | 0 | 0| 
+| 20230524T10:24:33Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 0 | 0| 
+| 20230524T09:51:55Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5208 | 418| 
+| 20230524T09:27:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5120 | 733| 
+| 20230524T09:17:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 53 | 28| 
+| 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
+| 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
+| 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
+| 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
+| 20230524T04:06:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 122 | 23| 
 | 20230524T00:34:29Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
 | 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 | 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
 | 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
 | 20230523T15:09:58Z | Adversarial and Backdoor Attack + Defence | https://github.com/zlaabsi/adversarial-backdoor-attack-defence | 0 | 0| 
-| 20230523T10:58:10Z | Null | https://github.com/sultankonslet9/backdoor | 0 | 0| 
-| 20230523T10:32:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 440 | 83| 
-| 20230523T07:57:37Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1329 | 146| 
-| 20230523T06:32:14Z | Null | https://github.com/LJX-SEC/Stealth_Backdoor | 0 | 0| 
-| 20230523T05:14:49Z | Shell backdoor | https://github.com/ZildanZ/Shell-Backdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
+| 20230524T11:01:28Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Logic | 0 | 0| 
+| 20230524T10:54:06Z | Server | https://github.com/Kristal1ik/FuzzyContAppServer | 0 | 0| 
+| 20230524T09:17:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8672 | 1907| 
+| 20230524T08:38:21Z | Fuzzy JSON parser, python binding | https://github.com/cympfh/fuzzy-json-py | 0 | 0| 
+| 20230524T08:27:58Z | Example of CICD for Cloudhub | https://github.com/pedes/fuzzy-sniffle | 0 | 0| 
+| 20230524T08:24:29Z | A simple black-block, mutation-based exif fuzzer. | https://github.com/HappyTsing/ExifFuzzer | 0 | 0| 
+| 20230524T08:16:29Z | Fuzzy JSON parser in Rust | https://github.com/cympfh/fuzzy-json-rs | 0 | 0| 
+| 20230524T07:34:15Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 188 | 28| 
 | 20230524T01:55:01Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Schemes | 0 | 0| 
-| 20230524T01:27:59Z | Null | https://github.com/CodingObliqua/fuzzy-winner | 0 | 0| 
-| 20230524T00:14:49Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
-| 20230523T23:42:24Z | Soon to be extensive multilayer website vulnerability scanner | https://github.com/indirectDirectEnumeration69/FuzzyBug | 0 | 0| 
-| 20230523T23:00:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2734 | 185| 
-| 20230523T22:35:05Z | Null | https://github.com/saifbatayha/fuzzy-octo-funicular | 0 | 0| 
-| 20230523T21:28:37Z | Null | https://github.com/BigReinhard/fuzzy-umbrella | 0 | 0| 
-| 20230523T13:34:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1409 | 197| 
-| 20230523T12:20:27Z | NucleiFuzzer is a powerful automation tool which utilizes the community curated list of nuclei templates for finding %unknown% security vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 0 | 0| 
-| 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
 
 
 
