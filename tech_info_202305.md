@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T00:31:55Z | Et-Exploits Automatic Android File Extractor - this is a tool to automate the process of extracting files from an android device. | https://github.com/etxnight/EEAAFE | 0 | 0| 
 | 20230523T22:39:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13777 | 2332| 
 | 20230523T22:09:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10223 | 1603| 
 | 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230523T12:24:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5115 | 732| 
 | 20230523T11:06:01Z | FIVEM Lua executor undetected | https://github.com/ATLAS51245/FIVEM-Lua-Executor | 0 | 0| 
 | 20230523T10:45:55Z | EXPLOİT ARAMA | https://github.com/WinchasterBey/exploit_arama | 0 | 0| 
-| 20230523T09:35:51Z | Explicit linear model predictive control by dynamic programming with active sets and by exploiting symmetries | https://github.com/mitzer64/ActiveSetDP | 0 | 0| 
 
 
 # backdoor on Github 推荐
