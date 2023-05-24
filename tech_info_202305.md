@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T00:15:33Z | Null | https://github.com/CodingObliqua/fuzzy-winner | 0 | 0| 
+| 20230524T01:27:59Z | Null | https://github.com/CodingObliqua/fuzzy-winner | 0 | 0| 
 | 20230524T00:14:49Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230523T23:42:24Z | Soon to be extensive multilayer website vulnerability scanner | https://github.com/indirectDirectEnumeration69/FuzzyBug | 0 | 0| 
 | 20230523T23:00:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2734 | 185| 
