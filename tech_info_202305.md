@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T01:08:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 52 | 28| 
 | 20230524T00:48:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4994 | 981| 
 | 20230524T00:31:55Z | Et-Exploits Automatic Android File Extractor - this is a tool to automate the process of extracting files from an android device. | https://github.com/etxnight/EEAAFE | 0 | 0| 
 | 20230523T22:39:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13777 | 2332| 
@@ -80,7 +81,6 @@
 | 20230523T15:17:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 226 | 169| 
 | 20230523T15:15:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4950 | 621| 
 | 20230523T12:24:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5115 | 732| 
-| 20230523T11:06:01Z | FIVEM Lua executor undetected | https://github.com/ATLAS51245/FIVEM-Lua-Executor | 0 | 0| 
 
 
 # backdoor on Github 推荐
