@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T12:59:34Z | This Bash script allows you to exploit the ICMP Timestamp Reply vulnerability by crafting and sending ICMP packets to target hosts. By leveraging weak time-based random number generators, this script can potentially disclose information from services vulnerable to this attack. Use it responsibly and with proper authorization. | https://github.com/S4njer/ICMP-TimeStamp-Replay-3xploit-Scanner | 0 | 0| 
 | 20230524T12:58:01Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 1 | 0| 
 | 20230524T12:53:36Z | FIVEM Lua executor undetected | https://github.com/AtlasNew/FIVEM-Lua-Executor | 72 | 0| 
 | 20230524T12:45:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13779 | 2333| 
@@ -52,7 +53,6 @@
 | 20230524T10:48:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5597 | 756| 
 | 20230524T10:26:49Z | Implementing the web scraping technique for data retrieval and tools to exploit them. | https://github.com/Nibenitez/webscraping | 0 | 0| 
 | 20230524T09:51:55Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5208 | 418| 
-| 20230524T09:27:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5120 | 733| 
 
 
 # backdoor on Github 推荐
