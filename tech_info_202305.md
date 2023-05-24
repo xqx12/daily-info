@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T01:55:01Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Schemes | 0 | 0| 
 | 20230524T01:27:59Z | Null | https://github.com/CodingObliqua/fuzzy-winner | 0 | 0| 
 | 20230524T00:14:49Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230523T23:42:24Z | Soon to be extensive multilayer website vulnerability scanner | https://github.com/indirectDirectEnumeration69/FuzzyBug | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230523T13:34:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1409 | 197| 
 | 20230523T12:20:27Z | NucleiFuzzer is a powerful automation tool which utilizes the community curated list of nuclei templates for finding %unknown% security vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 0 | 0| 
 | 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
-| 20230523T10:49:03Z | This project had as objective the prediction of how many people would be inside a lab with 3 workstations, using Neural Network and Fuzzy Systems. | https://github.com/MiguelVicente16/Prediction_using_NN_and_Fuzzy_Systems | 0 | 0| 
 
 
 
