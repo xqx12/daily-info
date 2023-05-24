@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T12:04:57Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
 | 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
 | 20230524T11:01:28Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Logic | 0 | 0| 
 | 20230524T10:54:06Z | Server | https://github.com/Kristal1ik/FuzzyContAppServer | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230524T08:24:29Z | A simple black-block, mutation-based exif fuzzer. | https://github.com/HappyTsing/ExifFuzzer | 0 | 0| 
 | 20230524T08:16:29Z | Fuzzy JSON parser in Rust | https://github.com/cympfh/fuzzy-json-rs | 0 | 0| 
 | 20230524T07:34:15Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 188 | 28| 
-| 20230524T01:55:01Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Schemes | 0 | 0| 
 
 
 
