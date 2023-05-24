@@ -26,7 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230524T00:40:40Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230524T00:47:23Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230524T00:47:04Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230523T20:11:09Z | cve-2023-32784 | A CVE-2023-32784 proof-of-concept implementation in Rust | https://github.com/LeDocteurDesBits/cve-2023-32784 | | 
 | 20230523T18:40:38Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept | | 
 | 20230523T18:36:43Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-POC | | 
@@ -35,7 +36,6 @@
 | 20230523T06:43:26Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
 | 20230523T06:41:30Z | CVE-2023-29923 | CVE-2023-29922 Batch detection script | https://github.com/1820112015/CVE-2023-29923 | | 
 | 20230523T06:31:53Z | CVE-2021-41091 | POC for CVE-2021-41091 | https://github.com/UncleJ4ck/CVE-2021-41091 | | 
-| 20230523T06:15:49Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 
 
 # klee on Github 推荐
