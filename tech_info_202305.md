@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T01:17:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l7 | 1 | 0| 
 | 20230524T01:16:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l7 | 1 | 0| 
 | 20230524T01:15:39Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l7 | 1 | 0| 
 | 20230524T01:13:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4993 | 981| 
@@ -80,7 +81,6 @@
 | 20230523T22:09:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10223 | 1603| 
 | 20230523T21:17:46Z | Vulnerable code and exploits | https://github.com/PCarra/BufferOverflow | 0 | 0| 
 | 20230523T19:55:07Z | FreeSWITCH Exploit (CVE-2019-19492) | https://github.com/Chocapikk/CVE-2019-19492 | 0 | 1| 
-| 20230523T15:17:00Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 226 | 169| 
 
 
 # backdoor on Github 推荐
