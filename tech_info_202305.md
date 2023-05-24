@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T00:06:40Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230523T23:42:24Z | Soon to be extensive multilayer website vulnerability scanner | https://github.com/indirectDirectEnumeration69/FuzzyBug | 0 | 0| 
 | 20230523T23:00:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2734 | 185| 
 | 20230523T22:35:05Z | Null | https://github.com/saifbatayha/fuzzy-octo-funicular | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230523T11:12:42Z | Null | https://github.com/deter2003/fuzzer | 0 | 0| 
 | 20230523T10:49:03Z | This project had as objective the prediction of how many people would be inside a lab with 3 workstations, using Neural Network and Fuzzy Systems. | https://github.com/MiguelVicente16/Prediction_using_NN_and_Fuzzy_Systems | 0 | 0| 
 | 20230523T10:14:52Z | 🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥 | https://github.com/mnns/LLMFuzzer | 9 | 4| 
-| 20230523T09:56:40Z | Fuzzing engine with allocation failures | https://github.com/catenacyber/nallocfuzz | 1 | 1| 
 
 
 
