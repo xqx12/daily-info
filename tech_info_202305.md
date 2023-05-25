@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T01:43:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 0 | 0| 
+| 20230525T01:43:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p0 | 1 | 0| 
+| 20230525T01:42:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:02:38Z | Codename for list of vulnerability and exploit | https://github.com/myseq/codename | 0 | 0| 
 | 20230525T00:51:38Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1090 | 121| 
 | 20230525T00:15:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 644 | 168| 
@@ -78,9 +81,6 @@
 | 20230524T22:36:05Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | 0 | 1| 
 | 20230524T22:17:42Z | This lab addressed the vulnerabilities of NetBIOS, Samba SMB server and how to exploit them. Ethical hacking practices were conducted using various tools to perform the following tasks:              1. Enumerating the Samba Server with enum4linux             2. Cracking Samba User passwords with xHydra (brute-force tool). | https://github.com/MikedaMachine/Enumerating-SMB | 0 | 0| 
 | 20230524T21:14:17Z | stable exploit | https://github.com/winchesterpro5/crono | 0 | 0| 
-| 20230524T21:03:48Z | the old menu, back here for nostalgic exploiters for cheap prices. | https://github.com/NotScripter/bringoldroblox | 0 | 0| 
-| 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
-| 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
