@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T12:46:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1412 | 198| 
 | 20230525T12:03:47Z | Null | https://github.com/AnnisaMaoraAnggelina/Fuzzy_Cmeans | 0 | 0| 
 | 20230525T11:56:12Z | Null | https://github.com/Putrialyaptrc/Fuzzy-Cmeans | 0 | 0| 
 | 20230525T11:14:06Z | Null | https://github.com/praveenam7/fuzzy-octo-broccoli | 0 | 1| 
@@ -139,7 +140,6 @@
 | 20230525T06:37:04Z | Null | https://github.com/google/fuzztest | 287 | 21| 
 | 20230525T01:46:36Z | Null | https://github.com/erwinsandag/Keputusan_Kredit_UMKM_berdasarkan_Credit_Scoring_menggunakan_Fuzzy_Expert_System | 0 | 0| 
 | 20230525T00:49:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9374 | 1032| 
-| 20230524T23:36:35Z | Fuzzy matching search on thousands of company records | https://github.com/spectraldecomp/fuzzy-match-demo | 0 | 0| 
 
 
 
