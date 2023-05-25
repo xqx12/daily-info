@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230525 | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ| 
 | 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
 | 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
 | 20230524 | 网络空间地图测绘理论体系白皮书 | https://book.yunzhan365.com/tkgd/hykn/mobile/index.html| 
@@ -20,22 +21,21 @@
 | 20230523 | 应急纪实-一场“驻场”的攻击对抗 | https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA| 
 | 20230523 | 实践之后，我们来谈谈如何建设SOAR | https://mp.weixin.qq.com/s/HOduKBW15WdmaBhB9e3lFg| 
 | 20230523 | SecWiki周刊（第481期) | https://www.sec-wiki.com/weekly/481| 
-| 20230523 | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230525T01:51:20Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230525T01:25:54Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230525T11:26:19Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230525T11:09:15Z | CVE-2023-2732 | MStore API <= 3.9.2 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2732 | | 
+| 20230525T09:28:16Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230525T07:59:12Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
+| 20230525T02:52:59Z | CVE-2023-29923 | PowerJob <=4.3.2 未授权访问漏洞检测工具（CVE-2023-29922） | https://github.com/CKevens/CVE-2023-29923-Scan | | 
 | 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
 | 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
 | 20230524T16:13:36Z | CVE-2023-31747 | Null | https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted | | 
 | 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
 | 20230524T10:57:53Z | CVE-2023-2591 | CVE-2023-2591 Medium blog | https://github.com/mnqazi/CVE-2023-2591 | | 
-| 20230524T10:52:12Z | CVE-2023-2516 | Medium Blog | https://github.com/mnqazi/CVE-2023-2516 | | 
-| 20230524T06:55:09Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
-| 20230524T04:46:58Z | CVE-2023-31595 | IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port | https://github.com/Yozarseef95/CVE-2023-31595 | | 
 
 
 # klee on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T11:48:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5120 | 733| 
+| 20230525T10:28:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5001 | 982| 
+| 20230525T09:52:00Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 242 | 44| 
+| 20230525T07:44:57Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 50 | 13| 
+| 20230525T05:48:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5602 | 756| 
+| 20230525T04:25:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 646 | 168| 
 | 20230525T01:44:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:43:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:42:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:02:38Z | Codename for list of vulnerability and exploit | https://github.com/myseq/codename | 0 | 0| 
-| 20230525T00:51:38Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1090 | 121| 
-| 20230525T00:15:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 644 | 168| 
-| 20230524T23:02:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5600 | 756| 
-| 20230524T22:36:05Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | 0 | 1| 
-| 20230524T22:17:42Z | This lab addressed the vulnerabilities of NetBIOS, Samba SMB server and how to exploit them. Ethical hacking practices were conducted using various tools to perform the following tasks:              1. Enumerating the Samba Server with enum4linux             2. Cracking Samba User passwords with xHydra (brute-force tool). | https://github.com/MikedaMachine/Enumerating-SMB | 0 | 0| 
-| 20230524T21:14:17Z | stable exploit | https://github.com/winchesterpro5/crono | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T09:02:40Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
+| 20230525T08:57:17Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 45 | 12| 
+| 20230525T06:34:57Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 21 | 4| 
+| 20230525T02:08:38Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
 | 20230525T01:24:53Z | Missing CodeHS utilities implemented by utilizing a shell vulnerability. | https://github.com/imjamnotjelly/codehs-hax | 0 | 0| 
-| 20230525T00:51:52Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 29 | 8| 
-| 20230525T00:40:46Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
 | 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
 | 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
 | 20230524T10:48:09Z | The cherry plugin WordPress plugin was affected by an unauthenticated file upload and download vulnerability, allowing attackers to upload and download arbitrary files. This could result in attacker uploading backdoor shell scripts or downloading the wp-config.php file. | https://github.com/InMyMine7/Cherry-Plugin-1.2.7 | 2 | 0| 
 | 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
-| 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
-| 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T11:56:12Z | Null | https://github.com/Putrialyaptrc/Fuzzy-Cmeans | 0 | 0| 
+| 20230525T11:14:06Z | Null | https://github.com/praveenam7/fuzzy-octo-broccoli | 0 | 0| 
+| 20230525T11:05:37Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
+| 20230525T09:59:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4705 | 1132| 
+| 20230525T09:40:21Z | testing fuzzy search using different methods | https://github.com/pdulak/fuzzySearchTesting | 0 | 0| 
+| 20230525T06:37:04Z | Null | https://github.com/google/fuzztest | 287 | 21| 
 | 20230525T01:46:36Z | Null | https://github.com/erwinsandag/Keputusan_Kredit_UMKM_berdasarkan_Credit_Scoring_menggunakan_Fuzzy_Expert_System | 0 | 0| 
 | 20230525T00:49:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9374 | 1032| 
 | 20230524T23:36:35Z | Fuzzy matching search on thousands of company records | https://github.com/spectraldecomp/fuzzy-match-demo | 0 | 0| 
 | 20230524T23:34:37Z | Concurrent URL fuzzer (i.e. queries, directories, and parameters) | https://github.com/ultros/fuzzbuster | 3 | 0| 
-| 20230524T23:27:40Z | Lightweight fuzzing of a memory snapshot using KVM | https://github.com/awslabs/snapchange | 314 | 15| 
-| 20230524T22:08:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2735 | 185| 
-| 20230524T22:04:08Z | A guitar pedal for Rudie | https://github.com/Casperdroid5/Rudie-s-Bass-Fuzz-Guitar-Pedal | 0 | 0| 
-| 20230524T20:16:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3595 | 429| 
-| 20230524T18:10:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5007 | 527| 
-| 20230524T18:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8673 | 1908| 
 
 
 
