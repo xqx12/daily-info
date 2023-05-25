@@ -132,7 +132,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230525T12:03:47Z | Null | https://github.com/AnnisaMaoraAnggelina/Fuzzy_Cmeans | 0 | 0| 
 | 20230525T11:56:12Z | Null | https://github.com/Putrialyaptrc/Fuzzy-Cmeans | 0 | 0| 
-| 20230525T11:14:06Z | Null | https://github.com/praveenam7/fuzzy-octo-broccoli | 0 | 0| 
+| 20230525T11:14:06Z | Null | https://github.com/praveenam7/fuzzy-octo-broccoli | 0 | 1| 
 | 20230525T11:05:37Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
 | 20230525T09:59:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4705 | 1132| 
 | 20230525T09:40:21Z | testing fuzzy search using different methods | https://github.com/pdulak/fuzzySearchTesting | 0 | 0| 
