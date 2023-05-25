@@ -54,9 +54,9 @@
 | 20230524T21:03:48Z | the old menu, back here for nostalgic exploiters for cheap prices. | https://github.com/NotScripter/bringoldroblox | 0 | 0| 
 | 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
 | 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
+| 20230524T16:38:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4953 | 622| 
 | 20230524T15:39:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 493 | 94| 
 | 20230524T12:59:34Z | This Bash script allows you to exploit the ICMP Timestamp Reply vulnerability by crafting and sending ICMP packets to target hosts. By leveraging weak time-based random number generators, this script can potentially disclose information from services vulnerable to this attack. Use it responsibly and with proper authorization. | https://github.com/S4njer/ICMP-TimeStamp-Replay-3xploit-Scanner | 0 | 0| 
-| 20230524T12:58:01Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
