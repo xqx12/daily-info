@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T12:44:40Z | Null | https://github.com/cschwarz1/kernel-exploits | 0 | 0| 
 | 20230525T12:32:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5121 | 734| 
 | 20230525T10:28:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5001 | 982| 
 | 20230525T09:52:00Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 242 | 44| 
@@ -80,7 +81,6 @@
 | 20230525T01:44:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:43:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:42:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p0 | 1 | 0| 
-| 20230525T01:02:38Z | Codename for list of vulnerability and exploit | https://github.com/myseq/codename | 0 | 0| 
 
 
 # backdoor on Github 推荐
