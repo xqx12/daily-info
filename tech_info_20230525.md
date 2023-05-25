@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230525T12:38:01Z | CVE-2023-30145 | Null | https://github.com/paragbagul111/CVE-2023-30145. | | 
 | 20230525T11:26:19Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230525T11:09:15Z | CVE-2023-2732 | MStore API <= 3.9.2 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2732 | | 
 | 20230525T09:28:16Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
