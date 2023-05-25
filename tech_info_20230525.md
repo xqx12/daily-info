@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T12:32:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5121 | 733| 
+| 20230525T12:32:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5121 | 734| 
 | 20230525T10:28:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5001 | 982| 
 | 20230525T09:52:00Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 242 | 44| 
 | 20230525T07:44:57Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 50 | 13| 
