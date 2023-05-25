@@ -139,7 +139,7 @@
 | 20230524T20:16:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3595 | 429| 
 | 20230524T18:10:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5007 | 527| 
 | 20230524T18:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8673 | 1908| 
-| 20230524T12:55:01Z | Null | https://github.com/archlinux-packages/python-fuzzywuzzy | 0 | 0| 
+| 20230524T15:39:20Z | Null | https://github.com/Ronith-liyanage/fuzzy-sniffle | 0 | 0| 
 
 
 
