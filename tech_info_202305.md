@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230525T00:44:01Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
 | 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
 | 20230524T18:16:25Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
@@ -35,7 +36,6 @@
 | 20230524T10:52:12Z | CVE-2023-2516 | Medium Blog | https://github.com/mnqazi/CVE-2023-2516 | | 
 | 20230524T06:55:09Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
 | 20230524T04:46:58Z | CVE-2023-31595 | IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port | https://github.com/Yozarseef95/CVE-2023-31595 | | 
-| 20230524T04:09:24Z | CVE-2023-31594 | IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control | https://github.com/Yozarseef95/CVE-2023-31594 | | 
 
 
 # klee on Github 推荐
