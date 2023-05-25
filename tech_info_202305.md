@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T01:24:53Z | Missing CodeHS utilities implemented by utilizing a shell vulnerability. | https://github.com/imjamnotjelly/codehs-hax | 0 | 0| 
 | 20230525T00:51:52Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 29 | 8| 
 | 20230525T00:40:46Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 | 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
 | 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
-| 20230524T04:06:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 122 | 23| 
 
 
 # symbolic execution on Github 推荐
