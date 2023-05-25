@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T01:43:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 0 | 0| 
+| 20230525T01:44:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:43:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:42:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p0 | 1 | 0| 
 | 20230525T01:02:38Z | Codename for list of vulnerability and exploit | https://github.com/myseq/codename | 0 | 0| 
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T01:46:36Z | Null | https://github.com/erwinsandag/Keputusan_Kredit_UMKM_berdasarkan_Credit_Scoring_menggunakan_Fuzzy_Expert_System | 0 | 0| 
 | 20230525T00:49:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9374 | 1032| 
 | 20230524T23:36:35Z | Fuzzy matching search on thousands of company records | https://github.com/spectraldecomp/fuzzy-match-demo | 0 | 0| 
 | 20230524T23:34:37Z | Concurrent URL fuzzer (i.e. queries, directories, and parameters) | https://github.com/ultros/fuzzbuster | 3 | 0| 
@@ -139,7 +140,6 @@
 | 20230524T20:16:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3595 | 429| 
 | 20230524T18:10:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5007 | 527| 
 | 20230524T18:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8673 | 1908| 
-| 20230524T15:39:20Z | Null | https://github.com/Ronith-liyanage/fuzzy-sniffle | 0 | 0| 
 
 
 
