@@ -78,9 +78,9 @@
 | 20230524T21:03:48Z | the old menu, back here for nostalgic exploiters for cheap prices. | https://github.com/NotScripter/bringoldroblox | 0 | 0| 
 | 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
 | 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
+| 20230524T15:39:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 493 | 94| 
 | 20230524T12:59:34Z | This Bash script allows you to exploit the ICMP Timestamp Reply vulnerability by crafting and sending ICMP packets to target hosts. By leveraging weak time-based random number generators, this script can potentially disclose information from services vulnerable to this attack. Use it responsibly and with proper authorization. | https://github.com/S4njer/ICMP-TimeStamp-Replay-3xploit-Scanner | 0 | 0| 
 | 20230524T12:58:01Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 1 | 0| 
-| 20230524T12:53:36Z | FIVEM Lua executor undetected | https://github.com/AtlasNew/FIVEM-Lua-Executor | 72 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,11 +135,11 @@
 | 20230524T23:27:40Z | Lightweight fuzzing of a memory snapshot using KVM | https://github.com/awslabs/snapchange | 314 | 15| 
 | 20230524T22:08:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2735 | 185| 
 | 20230524T22:04:08Z | A guitar pedal for Rudie | https://github.com/Casperdroid5/Rudie-s-Bass-Fuzz-Guitar-Pedal | 0 | 0| 
+| 20230524T20:16:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3595 | 429| 
 | 20230524T18:10:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5007 | 527| 
 | 20230524T18:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8673 | 1908| 
 | 20230524T12:55:01Z | Null | https://github.com/archlinux-packages/python-fuzzywuzzy | 0 | 0| 
 | 20230524T12:10:28Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
-| 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
 
 
 
