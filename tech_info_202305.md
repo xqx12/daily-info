@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T01:02:38Z | Codename for list of vulnerability and exploit | https://github.com/myseq/codename | 0 | 0| 
 | 20230525T00:51:38Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1090 | 121| 
 | 20230525T00:15:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 644 | 168| 
 | 20230524T23:02:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5600 | 756| 
@@ -80,7 +81,6 @@
 | 20230524T21:03:48Z | the old menu, back here for nostalgic exploiters for cheap prices. | https://github.com/NotScripter/bringoldroblox | 0 | 0| 
 | 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
 | 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
-| 20230524T16:38:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4953 | 622| 
 
 
 # backdoor on Github 推荐
