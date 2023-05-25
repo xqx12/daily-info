@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230525T01:51:20Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230525T01:25:54Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
 | 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
-| 20230524T18:16:25Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230524T16:13:36Z | CVE-2023-31747 | Null | https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted | | 
 | 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
 | 20230524T10:57:53Z | CVE-2023-2591 | CVE-2023-2591 Medium blog | https://github.com/mnqazi/CVE-2023-2591 | | 

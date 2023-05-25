@@ -22,7 +22,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
 | 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
-| 20230524T18:16:25Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230524T16:13:36Z | CVE-2023-31747 | Null | https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted | | 
 | 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
 | 20230524T10:57:53Z | CVE-2023-2591 | CVE-2023-2591 Medium blog | https://github.com/mnqazi/CVE-2023-2591 | | 
@@ -30,6 +29,7 @@
 | 20230524T06:55:09Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
 | 20230524T04:46:58Z | CVE-2023-31595 | IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port | https://github.com/Yozarseef95/CVE-2023-31595 | | 
 | 20230524T04:09:24Z | CVE-2023-31594 | IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control | https://github.com/Yozarseef95/CVE-2023-31594 | | 
+| 20230524T00:47:04Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 
 
 # klee on Github 推荐
