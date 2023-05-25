@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T00:51:38Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1090 | 121| 
 | 20230525T00:15:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 644 | 168| 
 | 20230524T23:02:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5600 | 756| 
 | 20230524T22:36:05Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | 0 | 1| 
@@ -80,14 +81,13 @@
 | 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
 | 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 | 20230524T16:38:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4953 | 622| 
-| 20230524T15:39:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 493 | 94| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T00:51:52Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 29 | 8| 
 | 20230525T00:40:46Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
-| 20230525T00:30:05Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 28 | 8| 
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
 | 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
 | 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
