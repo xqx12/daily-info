@@ -13,25 +13,29 @@
 | --- | --- | ---| 
 | 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
 | 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
+| 20230524 | 网络空间地图测绘理论体系白皮书 | https://book.yunzhan365.com/tkgd/hykn/mobile/index.html| 
+| 20230524 | 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
+| 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
+| 20230524T18:16:25Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230524T16:13:36Z | CVE-2023-31747 | Null | https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted | | 
 | 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
 | 20230524T10:57:53Z | CVE-2023-2591 | CVE-2023-2591 Medium blog | https://github.com/mnqazi/CVE-2023-2591 | | 
 | 20230524T10:52:12Z | CVE-2023-2516 | Medium Blog | https://github.com/mnqazi/CVE-2023-2516 | | 
 | 20230524T06:55:09Z | CVE-2023-31726 | Null | https://github.com/J6451/CVE-2023-31726 | | 
 | 20230524T04:46:58Z | CVE-2023-31595 | IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port | https://github.com/Yozarseef95/CVE-2023-31595 | | 
 | 20230524T04:09:24Z | CVE-2023-31594 | IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control | https://github.com/Yozarseef95/CVE-2023-31594 | | 
-| 20230524T02:05:29Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230524T01:49:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230524T00:47:04Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T16:24:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2231 | 617| 
 
 
 # s2e on Github 推荐
@@ -43,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T23:02:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5600 | 756| 
+| 20230524T22:36:05Z | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | 0 | 1| 
+| 20230524T22:17:42Z | This lab addressed the vulnerabilities of NetBIOS, Samba SMB server and how to exploit them. Ethical hacking practices were conducted using various tools to perform the following tasks:              1. Enumerating the Samba Server with enum4linux             2. Cracking Samba User passwords with xHydra (brute-force tool). | https://github.com/MikedaMachine/Enumerating-SMB | 0 | 0| 
+| 20230524T21:14:17Z | stable exploit | https://github.com/winchesterpro5/crono | 0 | 0| 
+| 20230524T21:03:48Z | the old menu, back here for nostalgic exploiters for cheap prices. | https://github.com/NotScripter/bringoldroblox | 0 | 0| 
+| 20230524T20:23:50Z | A script to exploit a basic NoSQLi vuln, you will need to change some parameters in the script | https://github.com/Kretinga/NoSQLi-Python | 0 | 0| 
+| 20230524T20:17:08Z | Reverse Shell Exploit for Searchor 2.4.0 | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 | 20230524T12:59:34Z | This Bash script allows you to exploit the ICMP Timestamp Reply vulnerability by crafting and sending ICMP packets to target hosts. By leveraging weak time-based random number generators, this script can potentially disclose information from services vulnerable to this attack. Use it responsibly and with proper authorization. | https://github.com/S4njer/ICMP-TimeStamp-Replay-3xploit-Scanner | 0 | 0| 
 | 20230524T12:58:01Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 1 | 0| 
 | 20230524T12:53:36Z | FIVEM Lua executor undetected | https://github.com/AtlasNew/FIVEM-Lua-Executor | 72 | 0| 
-| 20230524T12:45:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13779 | 2333| 
-| 20230524T11:49:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 643 | 168| 
-| 20230524T11:34:00Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0040-app-pyl_H-exploit-start | 0 | 0| 
-| 20230524T11:26:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 4997 | 981| 
-| 20230524T10:48:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5597 | 756| 
-| 20230524T10:26:49Z | Implementing the web scraping technique for data retrieval and tools to exploit them. | https://github.com/Nibenitez/webscraping | 0 | 0| 
-| 20230524T09:51:55Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5208 | 418| 
 
 
 # backdoor on Github 推荐
@@ -87,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230524T23:36:35Z | Fuzzy matching search on thousands of company records | https://github.com/spectraldecomp/fuzzy-match-demo | 0 | 0| 
+| 20230524T23:34:37Z | Concurrent URL fuzzer (i.e. queries, directories, and parameters) | https://github.com/ultros/fuzzbuster | 3 | 0| 
+| 20230524T23:27:40Z | Lightweight fuzzing of a memory snapshot using KVM | https://github.com/awslabs/snapchange | 314 | 15| 
+| 20230524T22:08:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2735 | 185| 
+| 20230524T22:04:08Z | A guitar pedal for Rudie | https://github.com/Casperdroid5/Rudie-s-Bass-Fuzz-Guitar-Pedal | 0 | 0| 
+| 20230524T18:10:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5007 | 527| 
+| 20230524T18:08:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8673 | 1908| 
 | 20230524T12:55:01Z | Null | https://github.com/archlinux-packages/python-fuzzywuzzy | 0 | 0| 
 | 20230524T12:10:28Z | Implementing basic fuzzy word matching | https://github.com/Deadpool2701/fuzzy-word-match | 0 | 0| 
 | 20230524T11:43:33Z | Null | https://github.com/kravchenkoda/company-names-fuzzy-search-api | 0 | 0| 
-| 20230524T11:01:28Z | Fuzzy logic apllied to microcontrollers and Artificial-Intelligence | https://github.com/Embedded-afficionado/Fuzzy_Logic | 0 | 0| 
-| 20230524T10:54:06Z | Server | https://github.com/Kristal1ik/FuzzyContAppServer | 0 | 0| 
-| 20230524T09:17:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8672 | 1907| 
-| 20230524T08:38:21Z | Fuzzy JSON parser, python binding | https://github.com/cympfh/fuzzy-json-py | 0 | 0| 
-| 20230524T08:27:58Z | Example of CICD for Cloudhub | https://github.com/pedes/fuzzy-sniffle | 0 | 0| 
-| 20230524T08:24:29Z | A simple black-block, mutation-based exif fuzzer. | https://github.com/HappyTsing/ExifFuzzer | 0 | 0| 
-| 20230524T08:16:29Z | Fuzzy JSON parser in Rust | https://github.com/cympfh/fuzzy-json-rs | 0 | 0| 
 
 
 
