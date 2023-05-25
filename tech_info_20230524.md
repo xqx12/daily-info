@@ -62,7 +62,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T23:32:04Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 27 | 8| 
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
 | 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
 | 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
@@ -72,6 +71,7 @@
 | 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
 | 20230524T04:06:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 122 | 23| 
 | 20230524T00:34:29Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
+| 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
