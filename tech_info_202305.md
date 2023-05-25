@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T00:28:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9373 | 1032| 
+| 20230525T00:49:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9374 | 1032| 
 | 20230524T23:36:35Z | Fuzzy matching search on thousands of company records | https://github.com/spectraldecomp/fuzzy-match-demo | 0 | 0| 
 | 20230524T23:34:37Z | Concurrent URL fuzzer (i.e. queries, directories, and parameters) | https://github.com/ultros/fuzzbuster | 3 | 0| 
 | 20230524T23:27:40Z | Lightweight fuzzing of a memory snapshot using KVM | https://github.com/awslabs/snapchange | 314 | 15| 
