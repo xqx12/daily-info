@@ -92,10 +92,10 @@
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
 | 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
 | 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
+| 20230524T10:48:09Z | The cherry plugin WordPress plugin was affected by an unauthenticated file upload and download vulnerability, allowing attackers to upload and download arbitrary files. This could result in attacker uploading backdoor shell scripts or downloading the wp-config.php file. | https://github.com/InMyMine7/Cherry-Plugin-1.2.7 | 2 | 0| 
 | 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
 | 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 | 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
-| 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
