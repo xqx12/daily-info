@@ -86,37 +86,37 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:12:08Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 6 | 3| 
+| 20230524T23:32:04Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 27 | 8| 
+| 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
+| 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
+| 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
 | 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
 | 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 | 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
 | 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
 | 20230524T04:06:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 122 | 23| 
 | 20230524T00:34:29Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
-| 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
-| 20230523T16:44:38Z | idk | https://github.com/ssjblue-xxx/terrible-backdoor-test | 0 | 0| 
-| 20230523T16:32:02Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:43:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3452 | 480| 
+| 20230524T20:38:18Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 329 | 27| 
+| 20230524T16:24:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2231 | 617| 
+| 20230524T16:07:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3453 | 480| 
 | 20230524T10:22:39Z | This repo contains an experimental symbolic execution engine implemented in Solidity. | https://github.com/Juyotal/Sol_Symb_exec | 0 | 0| 
 | 20230524T08:12:57Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 193 | 41| 
 | 20230524T06:48:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 645 | 117| 
-| 20230523T14:01:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2230 | 617| 
 | 20230523T08:56:58Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 33 | 8| 
 | 20230523T04:14:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 336 | 80| 
 | 20230522T07:16:13Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1318 | 59| 
 | 20230518T15:15:13Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 56 | 25| 
-| 20230518T02:48:38Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 766 | 88| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T07:28:39Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 666 | 104| 
+| 20230524T21:14:41Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 668 | 104| 
 | 20230524T05:15:02Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 10 | 2| 
 | 20230523T14:14:14Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 16 | 2| 
 | 20230522T12:29:02Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 45 | 3| 

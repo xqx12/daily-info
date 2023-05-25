@@ -62,20 +62,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:12:08Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 6 | 3| 
+| 20230524T23:32:04Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 27 | 8| 
+| 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
+| 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
+| 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
 | 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
 | 20230524T08:45:32Z | skid crows source vtps source leaked by ametsa, removed backdoors but i dont recommend to use this source, many mem-leaks exploits available. | https://github.com/ametsa77/vtps-source-crows | 0 | 0| 
 | 20230524T06:00:27Z | ransomware | https://github.com/eid129382/backdoor_ransomware | 0 | 0| 
 | 20230524T04:44:33Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
 | 20230524T04:06:14Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 122 | 23| 
 | 20230524T00:34:29Z | Null | https://github.com/hideyuki-oiso/Backdoor-by-DiffAE | 0 | 0| 
-| 20230524T00:14:04Z | A simple python project that creates a backdoor shell or command prompt into a target machine. | https://github.com/JaredMHarding/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T12:43:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3452 | 480| 
+| 20230524T20:38:18Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 329 | 27| 
+| 20230524T16:24:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2231 | 617| 
+| 20230524T16:07:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3453 | 480| 
 | 20230524T10:22:39Z | This repo contains an experimental symbolic execution engine implemented in Solidity. | https://github.com/Juyotal/Sol_Symb_exec | 0 | 0| 
 | 20230524T08:12:57Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 193 | 41| 
 | 20230524T06:48:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 645 | 117| 
@@ -84,7 +88,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T07:28:39Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 666 | 104| 
+| 20230524T21:14:41Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 668 | 104| 
 | 20230524T05:15:02Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 10 | 2| 
 
 
