@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230526 | eval5 前端沙箱逃逸与CSP Bypass | https://blog.xlab.app/p/766bba8a/| 
+| 20230526 | 量子注入攻击的流量特征及检测方法 | https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ| 
 | 20230525 | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ| 
 | 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
 | 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
@@ -20,7 +21,6 @@
 | 20230523 | Botconf 2023 议题速递 | https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw| 
 | 20230523 | 从Office诱饵到鸡肋RCE | https://blog.xlab.app/p/8fbece25/| 
 | 20230523 | 应急纪实-一场“驻场”的攻击对抗 | https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA| 
-| 20230523 | 实践之后，我们来谈谈如何建设SOAR | https://mp.weixin.qq.com/s/HOduKBW15WdmaBhB9e3lFg| 
 
 
 # CVE Github 推荐

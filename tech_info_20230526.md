@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230526 | eval5 前端沙箱逃逸与CSP Bypass | https://blog.xlab.app/p/766bba8a/| 
+| 20230526 | 量子注入攻击的流量特征及检测方法 | https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ| 
 
 
 # CVE Github 推荐
