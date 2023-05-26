@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230526T01:20:19Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u7 | 0 | 0| 
+| 20230526T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:19:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:17:59Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:14:09Z | This project aims to develop a Cloud-based solution that exploits virtual machines on the UniMelb Research Cloud for harvesting and processing Mastodon toots, and use social media data to develop a range of analytic scenarios. | https://github.com/COMP90024-2023-SM1/Assignment-2-Australia-Social-Media-Analytics-on-the-Cloud | 0 | 0| 
