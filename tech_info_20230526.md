@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:56:56Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/WalterJrs/KSA1231 | 2 | 1| 
 | 20230526T12:34:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5005 | 982| 
 | 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
 | 20230526T12:21:47Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/WalterJrs/SADAS2113 | 2 | 1| 
@@ -47,7 +48,6 @@
 | 20230526T12:17:22Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0010-app-Eu-cG-possess-exploit | 0 | 0| 
 | 20230526T12:15:13Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/Tftsd24/SADAS2113 | 0 | 0| 
 | 20230526T12:13:09Z | Null | https://github.com/wdajdadna/youtubeExploit | 0 | 0| 
-| 20230526T12:12:27Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/Tftsd24/ASD23411 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:58:15Z | A very fast directory fuzzing tool made using Go Language  | https://github.com/vivashu27/gofuzz | 0 | 0| 
 | 20230526T12:38:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8681 | 1907| 
 | 20230526T12:07:55Z | test | https://github.com/TimoSairiala/fuzzy-guacamole | 0 | 0| 
 | 20230526T11:29:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5009 | 526| 
@@ -84,7 +85,6 @@
 | 20230526T08:06:59Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
 | 20230526T01:38:31Z | Simple VST3 / VST audio plugin, developed utilizing the JUCE Framework.  | https://github.com/DanielMestres/Fuzz-Audio-Plugin | 0 | 0| 
 | 20230526T00:22:04Z | JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identification and testing. Unleash the power of fuzzing on JavaScript files from archived web pages, detecting vulnerabilities in web applications. | https://github.com/bilalmerokhel/JSFuzzPro | 0 | 0| 
-| 20230526T00:06:39Z | Null | https://github.com/Aleeiio/fuzzy-octo-happiness | 0 | 0| 
 
 
 
