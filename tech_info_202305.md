@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T01:38:31Z | Simple VST3 / VST audio plugin, developed utilizing the JUCE Framework.  | https://github.com/DanielMestres/Fuzz-Audio-Plugin | 0 | 0| 
 | 20230526T00:22:04Z | JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identification and testing. Unleash the power of fuzzing on JavaScript files from archived web pages, detecting vulnerabilities in web applications. | https://github.com/bilalmerokhel/JSFuzzPro | 0 | 0| 
 | 20230526T00:06:39Z | Null | https://github.com/Aleeiio/fuzzy-octo-happiness | 0 | 0| 
 | 20230525T23:11:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8676 | 1907| 
@@ -139,7 +140,6 @@
 | 20230525T20:49:29Z | Null | https://github.com/yckutluk/Traffic_controller_fuzzy | 0 | 0| 
 | 20230525T20:36:55Z | Fuzzy string matching for Rust | https://github.com/Abbion/FuzzyMatch | 0 | 0| 
 | 20230525T14:35:18Z | Null | https://github.com/MNastri/logica_fuzzy | 0 | 0| 
-| 20230525T12:55:31Z | Null | https://github.com/google/fuzztest | 288 | 21| 
 
 
 
