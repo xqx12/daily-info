@@ -136,10 +136,10 @@
 | 20230526T11:23:11Z | Null | https://github.com/AndreRFby/Fuzzy_G.211.20.0025 | 0 | 0| 
 | 20230526T10:44:34Z | Null | https://github.com/noir-lang/parser-fuzzer | 2 | 0| 
 | 20230526T08:24:33Z | Node Express API | https://github.com/dinhlab/fuzzy-doodle | 0 | 0| 
+| 20230526T08:06:59Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
 | 20230526T01:38:31Z | Simple VST3 / VST audio plugin, developed utilizing the JUCE Framework.  | https://github.com/DanielMestres/Fuzz-Audio-Plugin | 0 | 0| 
 | 20230526T00:22:04Z | JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identification and testing. Unleash the power of fuzzing on JavaScript files from archived web pages, detecting vulnerabilities in web applications. | https://github.com/bilalmerokhel/JSFuzzPro | 0 | 0| 
 | 20230526T00:06:39Z | Null | https://github.com/Aleeiio/fuzzy-octo-happiness | 0 | 0| 
-| 20230525T22:10:16Z | Scripts Python para Lógica Fuzzy e Redes Naive Bayes para cessar respiradores artificiais (ventilator weaning) | https://github.com/lucasgcb/fuzzy-bayes | 0 | 0| 
 
 
 
