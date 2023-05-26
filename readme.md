@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:59:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0005-app-Hn0ke-learn-exploit | 0 | 0| 
 | 20230526T12:56:56Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/WalterJrs/KSA1231 | 2 | 1| 
 | 20230526T12:34:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5005 | 982| 
 | 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230526T12:17:53Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/Tftsd24/KSA1231 | 0 | 0| 
 | 20230526T12:17:22Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0010-app-Eu-cG-possess-exploit | 0 | 0| 
 | 20230526T12:15:13Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/Tftsd24/SADAS2113 | 0 | 0| 
-| 20230526T12:13:09Z | Null | https://github.com/wdajdadna/youtubeExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
