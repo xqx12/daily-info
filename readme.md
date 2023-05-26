@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
 | 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
-| 20230525T19:50:15Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
 | 20230525T18:50:08Z | CVE-2023-30212 | This repository provides a Docker container for simulating the CVE-2023-30212 vulnerability, allowing you to practice and understand its impact. It includes a comprehensive guide to help you set up the container on your own computer. The documentation for the Docker creation process is also included. | https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE | | 
 | 20230525T17:47:33Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230525T17:22:37Z | CVE-2020-0796 | analyze ndays in VCS | https://github.com/Ajomix/CVE-2020-0796-VCS | | 
@@ -27,6 +26,7 @@
 | 20230525T15:38:01Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
 | 20230525T15:04:35Z | CVE-2023-30212 | Null | https://github.com/kuttappu123/CVE-2023-30212-LAB | | 
 | 20230525T12:38:01Z | CVE-2023-30145 | Null | https://github.com/paragbagul111/CVE-2023-30145. | | 
+| 20230525T11:09:15Z | CVE-2023-2732 | MStore API <= 3.9.2 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2732 | | 
 
 
 # klee on Github 推荐

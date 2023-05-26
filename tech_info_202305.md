@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230526T00:19:35Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
 | 20230526T00:16:41Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
 | 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
-| 20230525T19:50:15Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
 | 20230525T18:50:08Z | CVE-2023-30212 | This repository provides a Docker container for simulating the CVE-2023-30212 vulnerability, allowing you to practice and understand its impact. It includes a comprehensive guide to help you set up the container on your own computer. The documentation for the Docker creation process is also included. | https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE | | 
 | 20230525T17:47:33Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230525T17:22:37Z | CVE-2020-0796 | analyze ndays in VCS | https://github.com/Ajomix/CVE-2020-0796-VCS | | 
