@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T00:06:39Z | Null | https://github.com/Aleeiio/fuzzy-octo-happiness | 0 | 0| 
 | 20230525T23:11:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8676 | 1907| 
 | 20230525T22:10:16Z | Scripts Python para Lógica Fuzzy e Redes Naive Bayes para cessar respiradores artificiais (ventilator weaning) | https://github.com/lucasgcb/fuzzy-bayes | 0 | 0| 
 | 20230525T21:59:41Z | Hello 👋,Sorry for intruding into your privacy,  Are you interested in earning massive daily and weekly cumulative profits from $5k-$30k weekly via Forex/Crypto Trading? Kindly get back to me for more | https://github.com/Wilsonhil/fuzzy-winner | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230525T14:35:18Z | Null | https://github.com/MNastri/logica_fuzzy | 0 | 0| 
 | 20230525T12:55:31Z | Null | https://github.com/google/fuzztest | 288 | 21| 
 | 20230525T12:46:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1412 | 198| 
-| 20230525T12:03:47Z | Null | https://github.com/AnnisaMaoraAnggelina/Fuzzy_Cmeans | 0 | 0| 
 
 
 
