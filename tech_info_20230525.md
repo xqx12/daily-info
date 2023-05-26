@@ -50,10 +50,10 @@
 | 20230525T23:17:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0046-app-6jz0S-exploit-permit | 0 | 0| 
 | 20230525T23:12:57Z | GitOps Repository | https://github.com/pmacik-testing/ci-2u-50t-0068-app-IK-NW-seem-exploit | 0 | 0| 
 | 20230525T23:12:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0051-app-u_kxG-exploit-act | 0 | 0| 
-| 20230525T23:01:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4959 | 624| 
 | 20230525T21:01:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-nQZz8-read-exploit | 0 | 0| 
 | 20230525T20:47:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 495 | 94| 
 | 20230525T17:52:23Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebund.el | 3 | 0| 
+| 20230525T16:48:03Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 217 | 43| 
 
 
 # backdoor on Github 推荐

@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T01:57:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4960 | 624| 
 | 20230526T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:19:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:17:59Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u7 | 1 | 0| 
 | 20230526T01:14:09Z | This project aims to develop a Cloud-based solution that exploits virtual machines on the UniMelb Research Cloud for harvesting and processing Mastodon toots, and use social media data to develop a range of analytic scenarios. | https://github.com/COMP90024-2023-SM1/Assignment-2-Australia-Social-Media-Analytics-on-the-Cloud | 0 | 0| 
-| 20230526T01:09:07Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 9 | 1| 
+| 20230526T01:09:07Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 9 | 2| 
 | 20230525T23:42:40Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
 | 20230525T23:40:34Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0039-app-ESvNS-exploit-apply | 0 | 0| 
 | 20230525T23:37:59Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0011-app-8hu6g-exploit-judge | 0 | 0| 
 | 20230525T23:17:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0046-app-6jz0S-exploit-permit | 0 | 0| 
-| 20230525T23:12:57Z | GitOps Repository | https://github.com/pmacik-testing/ci-2u-50t-0068-app-IK-NW-seem-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
