@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230525T21:24:47Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
 | 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
 | 20230525T19:50:15Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
@@ -27,6 +26,7 @@
 | 20230525T15:43:44Z | CVE-2023-29929 | Null | https://github.com/YSaxon/CVE-2023-29929 | | 
 | 20230525T15:38:01Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
 | 20230525T15:04:35Z | CVE-2023-30212 | Null | https://github.com/kuttappu123/CVE-2023-30212-LAB | | 
+| 20230525T12:38:01Z | CVE-2023-30145 | Null | https://github.com/paragbagul111/CVE-2023-30145. | | 
 
 
 # klee on Github 推荐

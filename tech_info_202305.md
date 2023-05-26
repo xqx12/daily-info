@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230525T21:24:47Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230526T00:16:41Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
 | 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
 | 20230525T19:50:15Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T00:15:55Z | JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identification and testing. Unleash the power of fuzzing on JavaScript files from archived web pages, detecting vulnerabilities in web applications. | https://github.com/bilalmerokhel/JSFuzzPro | 0 | 0| 
 | 20230526T00:06:39Z | Null | https://github.com/Aleeiio/fuzzy-octo-happiness | 0 | 0| 
 | 20230525T23:11:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8676 | 1907| 
 | 20230525T22:10:16Z | Scripts Python para Lógica Fuzzy e Redes Naive Bayes para cessar respiradores artificiais (ventilator weaning) | https://github.com/lucasgcb/fuzzy-bayes | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230525T20:36:55Z | Fuzzy string matching for Rust | https://github.com/Abbion/FuzzyMatch | 0 | 0| 
 | 20230525T14:35:18Z | Null | https://github.com/MNastri/logica_fuzzy | 0 | 0| 
 | 20230525T12:55:31Z | Null | https://github.com/google/fuzztest | 288 | 21| 
-| 20230525T12:46:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1412 | 198| 
 
 
 
