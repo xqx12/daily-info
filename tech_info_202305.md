@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:13:09Z | Null | https://github.com/wdajdadna/youtubeExploit | 0 | 0| 
 | 20230526T12:12:27Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/Tftsd24/ASD23411 | 0 | 0| 
 | 20230526T12:08:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0018-app-MWkIL-shoot-exploit | 0 | 0| 
 | 20230526T11:43:08Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 22 | 2| 
@@ -80,7 +81,6 @@
 | 20230526T08:17:32Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 30 | 9| 
 | 20230526T07:46:21Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 561 | 106| 
 | 20230526T07:37:40Z | This repository contains an implementation of image compression using DFT algorithm. The DFT is a widely used technique in image compression to convert images from the spatial domain to the frequency domain. By exploiting the frequency characteristics of the image, we can reduce the amount of data required to represent it. | https://github.com/VenkataSivaManojAddala/Image-Compression-using-Discrete-Fourier-Transform | 0 | 0| 
-| 20230526T06:36:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 647 | 169| 
 
 
 # backdoor on Github 推荐
