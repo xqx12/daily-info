@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T01:14:09Z | This project aims to develop a Cloud-based solution that exploits virtual machines on the UniMelb Research Cloud for harvesting and processing Mastodon toots, and use social media data to develop a range of analytic scenarios. | https://github.com/COMP90024-2023-SM1/Assignment-2-Australia-Social-Media-Analytics-on-the-Cloud | 0 | 0| 
 | 20230526T01:09:07Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 9 | 1| 
 | 20230525T23:42:40Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
 | 20230525T23:40:34Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0039-app-ESvNS-exploit-apply | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230525T23:12:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0051-app-u_kxG-exploit-act | 0 | 0| 
 | 20230525T23:01:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4959 | 624| 
 | 20230525T21:01:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-nQZz8-read-exploit | 0 | 0| 
-| 20230525T20:47:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 495 | 94| 
 
 
 # backdoor on Github 推荐
