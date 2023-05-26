@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:15:13Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/Tftsd24/SADAS2113 | 0 | 0| 
 | 20230526T12:13:09Z | Null | https://github.com/wdajdadna/youtubeExploit | 0 | 0| 
 | 20230526T12:12:27Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/Tftsd24/ASD23411 | 0 | 0| 
 | 20230526T12:08:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0018-app-MWkIL-shoot-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230526T09:34:38Z | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | 0 | 0| 
 | 20230526T08:17:32Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 30 | 9| 
 | 20230526T07:46:21Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 561 | 106| 
-| 20230526T07:37:40Z | This repository contains an implementation of image compression using DFT algorithm. The DFT is a widely used technique in image compression to convert images from the spatial domain to the frequency domain. By exploiting the frequency characteristics of the image, we can reduce the amount of data required to represent it. | https://github.com/VenkataSivaManojAddala/Image-Compression-using-Discrete-Fourier-Transform | 0 | 0| 
 
 
 # backdoor on Github 推荐
