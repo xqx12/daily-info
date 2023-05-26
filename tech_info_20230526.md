@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:08:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0018-app-MWkIL-shoot-exploit | 0 | 0| 
 | 20230526T11:43:08Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 22 | 2| 
 | 20230526T10:28:31Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size | https://github.com/BrakingBads/SADSF2345 | 2 | 1| 
 | 20230526T09:36:48Z | This template enables users to user Python script to get TeamCity data of projects exploiting the TeamCity API. | https://github.com/knoldus/teamcityprojects | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230526T07:37:40Z | This repository contains an implementation of image compression using DFT algorithm. The DFT is a widely used technique in image compression to convert images from the spatial domain to the frequency domain. By exploiting the frequency characteristics of the image, we can reduce the amount of data required to represent it. | https://github.com/VenkataSivaManojAddala/Image-Compression-using-Discrete-Fourier-Transform | 0 | 0| 
 | 20230526T06:36:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 647 | 169| 
 | 20230526T01:57:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4960 | 624| 
-| 20230526T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u7 | 1 | 0| 
 
 
 # backdoor on Github 推荐
