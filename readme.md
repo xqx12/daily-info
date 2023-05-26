@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T23:54:47Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 6 | 1| 
 | 20230525T23:42:40Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
 | 20230525T23:40:34Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0039-app-ESvNS-exploit-apply | 0 | 0| 
 | 20230525T23:37:59Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0011-app-8hu6g-exploit-judge | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20230525T16:48:03Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 217 | 43| 
 | 20230525T15:12:58Z | Null | https://github.com/sanlake/overthewire-exploits | 0 | 0| 
 | 20230525T12:44:40Z | Null | https://github.com/cschwarz1/kernel-exploits | 0 | 0| 
+| 20230525T12:32:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5121 | 734| 
 
 
 # backdoor on Github 推荐
