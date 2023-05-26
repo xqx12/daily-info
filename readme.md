@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:07:55Z | test | https://github.com/TimoSairiala/fuzzy-guacamole | 0 | 0| 
 | 20230526T11:29:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5009 | 526| 
 | 20230526T11:23:11Z | Null | https://github.com/AndreRFby/Fuzzy_G.211.20.0025 | 0 | 0| 
 | 20230526T10:44:34Z | Null | https://github.com/noir-lang/parser-fuzzer | 2 | 0| 
