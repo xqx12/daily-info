@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
 | 20230526T12:21:47Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/WalterJrs/SADAS2113 | 2 | 1| 
 | 20230526T12:18:39Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/WalterJrs/ASD23411 | 2 | 1| 
 | 20230526T12:17:57Z | GitOps Repository | https://github.com/pmacik-testing/ci-2u-50t-0008-app-ijNd_-stick-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230526T12:13:09Z | Null | https://github.com/wdajdadna/youtubeExploit | 0 | 0| 
 | 20230526T12:12:27Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/Tftsd24/ASD23411 | 0 | 0| 
 | 20230526T12:08:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0018-app-MWkIL-shoot-exploit | 0 | 0| 
-| 20230526T11:43:08Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 22 | 2| 
 
 
 # backdoor on Github 推荐
