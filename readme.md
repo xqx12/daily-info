@@ -53,7 +53,7 @@
 | 20230525T23:01:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4959 | 624| 
 | 20230525T21:01:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mvp-test-app-nQZz8-read-exploit | 0 | 0| 
 | 20230525T20:47:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 495 | 94| 
-| 20230525T16:48:03Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 217 | 43| 
+| 20230525T17:52:23Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebund.el | 3 | 0| 
 
 
 # backdoor on Github 推荐
