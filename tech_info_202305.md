@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230525T12:38:01Z | CVE-2023-30145 | Null | https://github.com/paragbagul111/CVE-2023-30145. | | 
-| 20230525T11:26:19Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230525T11:09:15Z | CVE-2023-2732 | MStore API <= 3.9.2 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2732 | | 
-| 20230525T09:28:16Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230525T07:59:12Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
-| 20230525T02:52:59Z | CVE-2023-29923 | PowerJob <=4.3.2 未授权访问漏洞检测工具（CVE-2023-29922） | https://github.com/CKevens/CVE-2023-29923-Scan | | 
-| 20230524T22:36:05Z | CVE-2022-4616 | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | https://github.com/ahanel13/CVE-2022-4616-POC | | 
-| 20230524T19:51:09Z | CVE-2023-32243 | Vulnerable docker to test for: CVE-2023-32243 | https://github.com/YouGina/CVE-2023-32243 | | 
-| 20230524T16:13:36Z | CVE-2023-31747 | Null | https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted | | 
-| 20230524T11:01:28Z | CVE-2023-2859 | CVE-2023-2859 Medium Blog | https://github.com/mnqazi/CVE-2023-2859 | | 
+| 20230525T21:24:47Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
+| 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
+| 20230525T19:50:15Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
+| 20230525T18:50:08Z | CVE-2023-30212 | This repository provides a Docker container for simulating the CVE-2023-30212 vulnerability, allowing you to practice and understand its impact. It includes a comprehensive guide to help you set up the container on your own computer. The documentation for the Docker creation process is also included. | https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE | | 
+| 20230525T17:47:33Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230525T17:22:37Z | CVE-2020-0796 | analyze ndays in VCS | https://github.com/Ajomix/CVE-2020-0796-VCS | | 
+| 20230525T15:43:44Z | CVE-2023-29929 | Null | https://github.com/YSaxon/CVE-2023-29929 | | 
+| 20230525T15:38:01Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
+| 20230525T15:04:35Z | CVE-2023-30212 | Null | https://github.com/kuttappu123/CVE-2023-30212-LAB | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230524T16:24:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2231 | 617| 
+| 20230525T23:00:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2232 | 617| 
 | 20230523T06:16:20Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 0| 
 | 20230522T09:13:10Z | Null | https://github.com/Klee1311/Klee | 0 | 0| 
 | 20230521T06:36:39Z | Null | https://github.com/Kleenelan/kleenelang | 1 | 0| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T23:54:47Z | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | 6 | 1| 
+| 20230525T23:42:40Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
+| 20230525T23:40:34Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0039-app-ESvNS-exploit-apply | 0 | 0| 
+| 20230525T23:37:59Z | GitOps Repository | https://github.com/pmacik-testing/ci-50u-2t-0011-app-8hu6g-exploit-judge | 0 | 0| 
+| 20230525T23:17:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0046-app-6jz0S-exploit-permit | 0 | 0| 
+| 20230525T23:12:57Z | GitOps Repository | https://github.com/pmacik-testing/ci-2u-50t-0068-app-IK-NW-seem-exploit | 0 | 0| 
+| 20230525T23:12:48Z | GitOps Repository | https://github.com/pmacik-testing/ci-100u-1t-0051-app-u_kxG-exploit-act | 0 | 0| 
+| 20230525T16:48:03Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 217 | 43| 
+| 20230525T15:12:58Z | Null | https://github.com/sanlake/overthewire-exploits | 0 | 0| 
 | 20230525T12:44:40Z | Null | https://github.com/cschwarz1/kernel-exploits | 0 | 0| 
-| 20230525T12:32:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5121 | 734| 
-| 20230525T10:28:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5001 | 982| 
-| 20230525T09:52:00Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 242 | 44| 
-| 20230525T07:44:57Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 50 | 13| 
-| 20230525T05:48:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5602 | 756| 
-| 20230525T04:25:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 646 | 168| 
-| 20230525T01:44:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p0 | 1 | 0| 
-| 20230525T01:43:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p0 | 1 | 0| 
-| 20230525T01:42:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p0 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T12:16:04Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 47 | 13| 
+| 20230525T23:01:14Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 55 | 14| 
+| 20230525T18:31:07Z | simple acces to scholar pdfs with sci-hub backdoor | https://github.com/pavelNersisan/andro-medea-way | 0 | 0| 
 | 20230525T09:02:40Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
 | 20230525T06:34:57Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 21 | 4| 
 | 20230525T02:08:38Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
 | 20230525T01:24:53Z | Missing CodeHS utilities implemented by utilizing a shell vulnerability. | https://github.com/imjamnotjelly/codehs-hax | 0 | 0| 
 | 20230524T23:27:10Z | A password protected PHP web backdoor that has multiple capabilities such as the ability to remote execute code and download files from a web server. | https://github.com/lamarsepi0l/Protected-PHP-Web-Shell | 0 | 0| 
+| 20230524T22:01:16Z | A botter for a backdoor named hostflow | https://github.com/SirLennox/HostflowBotter | 2 | 0| 
 | 20230524T18:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2104 | 847| 
 | 20230524T17:24:06Z | Null | https://github.com/alessndro/backdoor | 0 | 0| 
-| 20230524T10:48:09Z | The cherry plugin WordPress plugin was affected by an unauthenticated file upload and download vulnerability, allowing attackers to upload and download arbitrary files. This could result in attacker uploading backdoor shell scripts or downloading the wp-config.php file. | https://github.com/InMyMine7/Cherry-Plugin-1.2.7 | 2 | 0| 
-| 20230524T10:25:12Z | Basic tools to understand Backdoor attacks. | https://github.com/mahzaraz/Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230525T23:11:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8676 | 1907| 
+| 20230525T22:10:16Z | Scripts Python para Lógica Fuzzy e Redes Naive Bayes para cessar respiradores artificiais (ventilator weaning) | https://github.com/lucasgcb/fuzzy-bayes | 0 | 0| 
+| 20230525T21:59:41Z | Hello 👋,Sorry for intruding into your privacy,  Are you interested in earning massive daily and weekly cumulative profits from $5k-$30k weekly via Forex/Crypto Trading? Kindly get back to me for more | https://github.com/Wilsonhil/fuzzy-winner | 0 | 0| 
+| 20230525T21:30:06Z | Given a URL or a list of URLs, this program crawls through all linked URLs and allows for fast fuzzy-string look-ups. The program will return the URL, the matched text, and the location of the matched text.  | https://github.com/squidscode/url-fuzzy-search | 0 | 0| 
+| 20230525T20:49:29Z | Null | https://github.com/yckutluk/Traffic_controller_fuzzy | 0 | 0| 
+| 20230525T20:36:55Z | Fuzzy string matching for Rust | https://github.com/Abbion/FuzzyMatch | 0 | 0| 
+| 20230525T14:35:18Z | Null | https://github.com/MNastri/logica_fuzzy | 0 | 0| 
+| 20230525T12:55:31Z | Null | https://github.com/google/fuzztest | 288 | 21| 
 | 20230525T12:46:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1412 | 198| 
 | 20230525T12:03:47Z | Null | https://github.com/AnnisaMaoraAnggelina/Fuzzy_Cmeans | 0 | 0| 
-| 20230525T11:56:12Z | Null | https://github.com/Putrialyaptrc/Fuzzy-Cmeans | 0 | 0| 
-| 20230525T11:14:06Z | Null | https://github.com/praveenam7/fuzzy-octo-broccoli | 0 | 1| 
-| 20230525T11:05:37Z | Portfolio website | https://github.com/fuzzymfx/fuzzymfx.github.io | 1 | 0| 
-| 20230525T09:59:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4705 | 1132| 
-| 20230525T09:40:21Z | testing fuzzy search using different methods | https://github.com/pdulak/fuzzySearchTesting | 0 | 0| 
-| 20230525T06:37:04Z | Null | https://github.com/google/fuzztest | 287 | 21| 
-| 20230525T01:46:36Z | Null | https://github.com/erwinsandag/Keputusan_Kredit_UMKM_berdasarkan_Credit_Scoring_menggunakan_Fuzzy_Expert_System | 0 | 0| 
-| 20230525T00:49:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 9374 | 1032| 
 
 
 
