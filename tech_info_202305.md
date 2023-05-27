@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230526T23:40:43Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
-| 20230526T22:19:53Z | CVE-2023-33617 | Null | https://github.com/tucommenceapousser/CVE-2023-33617 | | 
-| 20230526T22:16:43Z | CVE-2023-33617 | Authenticated OS command injection vulnerability (CVE-2023-33617) | https://github.com/Chocapikk/CVE-2023-33617 | | 
-| 20230526T21:03:28Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
-| 20230526T20:04:18Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/CVE-2023-30212_lab | | 
-| 20230526T19:38:10Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/CVE-2023-30212-iab | | 
-| 20230526T19:17:35Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | | 
-| 20230526T19:16:27Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/r-CVE-2023-30212--lab | | 
-| 20230526T19:14:54Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/r-CVE-2023-30212-lab | | 
-| 20230526T16:27:11Z | CVE-2023-30212 | Null | https://github.com/kuttappu123/CVE-2023-30212-LAB | | 
+| 20230527T11:39:15Z | CVE-2023-30212 | Exploit-the-CVE-2023-30212-vulnerability | https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability | | 
+| 20230527T11:34:52Z | CVE-2023-27350 | Perfom With Massive Authentication Bypass In PaperCut MF/NG | https://github.com/Pari-Malam/CVE-2023-27350 | | 
+| 20230527T11:15:25Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability | | 
+| 20230527T10:48:00Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230527T09:29:42Z | CVE-2023-30212 | Vulnerable Docker Environment CVE-2023-30212 | https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability | | 
+| 20230527T06:47:07Z | CVE-2023-30212 | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | | 
+| 20230527T05:06:17Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212 | | 
+| 20230527T04:53:28Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Vulnerable-Docker-Environment-CVE-2023-30212 | | 
+| 20230527T04:33:25Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | https://github.com/Le1a/CVE-2022-22947 | | 
+| 20230527T04:24:13Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0 .This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libas7994/CVE-2023-30212 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 617| 
+| 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
 | 20230526T16:35:04Z | Null | https://github.com/srg-imperial/klee-fp-parboil-opencl | 0 | 0| 
 | 20230526T16:34:56Z | Null | https://github.com/srg-imperial/klee-fp-uclibc | 0 | 0| 
 | 20230526T16:34:27Z | Null | https://github.com/srg-imperial/klee-fp-opencv | 0 | 0| 
@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230525T16:25:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 337 | 80| 
+| 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
 | 20230524T11:07:28Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 28 | 10| 
 | 20230523T11:44:21Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230522T02:06:13Z | Null | https://github.com/ddevleena/S2E | 0 | 0| 
@@ -71,21 +71,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230527T00:56:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3e | 1 | 0| 
-| 20230527T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3e | 1 | 0| 
-| 20230527T00:55:13Z | Strumento di hacking per linux che comprende: Scansione della rete e delle vulnerabilità, controllo traffico di rete, creazione di Payload, exploit remoto in metasploit, phishing per credenziali e per webcam e attacchi Dos/DDos. | https://github.com/L0PA/Lopa-Tool | 0 | 0| 
-| 20230527T00:55:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3e | 1 | 0| 
-| 20230527T00:23:30Z | Library of Crypto exploits | https://github.com/sayoojsamuel/crypot | 8 | 2| 
-| 20230526T22:45:31Z | It is a beautiful and somewhat sensitive tool for exploiting WordPress sites. Some new loopholes have been added | https://github.com/kamalkarlos/FCC-BOT | 0 | 0| 
-| 20230526T22:26:52Z | Vbulletin rce exploit CVE-2019-16759 | https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit | 6 | 3| 
-| 20230526T22:19:41Z | The Flash Loan Arbitrage Bot Project is a software program designed to leverage flash loans to identify and exploit price inefficiencies in the decentralized finance (DeFi) market. This project aims to demonstrate the potential profitability of using flash loans for arbitrage trading strategies in the DeFi market. | https://github.com/rohankanojia25/FlashLoanArbitrageBot | 0 | 0| 
-| 20230526T21:19:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4963 | 625| 
-| 20230526T20:27:22Z | This script automates the exploitation SSRF vulnerabilities  | https://github.com/thedgtalempress/shellshock-exploit | 0 | 0| 
+| 20230527T11:41:45Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2305 | 426| 
+| 20230527T11:39:15Z | Exploit-the-CVE-2023-30212-vulnerability | https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability | 0 | 0| 
+| 20230527T11:15:25Z | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability | 0 | 0| 
+| 20230527T11:02:02Z | Null | https://github.com/HosteeScriptz/Exploits | 0 | 0| 
+| 20230527T09:40:24Z | A Spring-Boot web application for demonstrating the CSRF vulnerability exploitation and preventing it using SameSite cookie attribute and CSRF tokens. | https://github.com/ArthSrivastava/CSRF-Vulnerability-Exploit-Demo | 0 | 0| 
+| 20230527T09:29:42Z | Vulnerable Docker Environment CVE-2023-30212 | https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability | 0 | 0| 
+| 20230527T08:18:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 647 | 169| 
+| 20230527T08:18:11Z | generate and search pattern string for exploit development  | https://github.com/Svenito/exploit-pattern | 188 | 59| 
+| 20230527T08:11:18Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
+| 20230527T07:53:27Z | Vuln Framework is a powerful vulnerability assessment and exploit development framework designed for penetration testers and security professionals. | https://github.com/0x0d1n7/vuln-framework | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T07:54:33Z | sHell Backdoor Source From INDOSEC | https://github.com/Asm0d3usX/sHell | 1 | 0| 
+| 20230527T02:17:08Z | Backdoor Installation: Access the backend | https://github.com/ItzGlitchSG/shell_B374k | 0 | 0| 
 | 20230527T01:52:39Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 79 | 16| 
 | 20230526T18:36:35Z | An unsecure but apparently secure and correct chat. | https://github.com/DuarteArribas/ChatBackdoor | 0 | 0| 
 | 20230526T15:29:44Z | Null | https://github.com/astakhiv/Backdoors | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20230526T07:43:47Z | Null | https://github.com/Guo-lab/GraphBackdoor-Supervised-Unsupervised | 0 | 0| 
 | 20230526T05:13:38Z | creating a backdoor with SET - Ethical Hacking Techniques course | https://github.com/gowriganeshns/creating-a-backdoor-with-SET | 0 | 0| 
 | 20230525T18:31:07Z | simple acces to scholar pdfs with sci-hub backdoor | https://github.com/pavelNersisan/andro-medea-way | 0 | 0| 
-| 20230525T09:02:40Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
-| 20230525T06:34:57Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 21 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T11:47:08Z | Курсова до %Елементи теорії нечітких множин% | https://github.com/zxspec/edu-fuzzy | 0 | 0| 
+| 20230527T11:29:24Z |  Develop a Fuzzy Logic-based system that analyzes a dataset of 100 car repair shops in Bandung, consisting of Service Quality (rated from 1 to 100) and Price (rated from 1 to 10), to identify and output the top 10 workshop numbers/IDs and their corresponding scores based on the Defuzzification output. | https://github.com/Herjantoj/Fuzzy-Logic | 0 | 0| 
+| 20230527T10:01:31Z | Null | https://github.com/rismaocta/Praktikum_7_Fuzzy_CMeans | 0 | 0| 
+| 20230527T08:18:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8681 | 1907| 
 | 20230527T01:28:48Z | It%s a repo for @gitbook-bot | https://github.com/PowerAtom-InternetCleaners-Team-China/fuzzy-disco | 0 | 0| 
 | 20230527T01:08:10Z | Null | https://github.com/Yudicahyono/Praktikum7_Fuzzy_CMeans_SPK | 0 | 0| 
 | 20230527T00:41:32Z | DIY guitar effects pedal that can produce various types of distortion tones | https://github.com/baldo2509/overdrive-distortion-fuzz-pedal | 0 | 0| 
 | 20230527T00:07:41Z | Null | https://github.com/Mackinassdre/fuzzy-tribble | 0 | 0| 
 | 20230526T23:12:49Z | Null | https://github.com/Cbudakau/fuzzy-bassoon | 0 | 0| 
 | 20230526T23:09:12Z | Null | https://github.com/jhoncarlnayao/fuzzy-succotash | 0 | 0| 
-| 20230526T19:40:27Z | Null | https://github.com/google/fuzztest | 288 | 21| 
-| 20230526T17:28:38Z | Null | https://github.com/inanygt/fuzzle | 0 | 0| 
-| 20230526T12:58:15Z | A very fast directory fuzzing tool made using Go Language  | https://github.com/vivashu27/gofuzz | 0 | 0| 
-| 20230526T12:38:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8681 | 1907| 
 
 
 
