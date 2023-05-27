@@ -53,13 +53,13 @@
 | 20230526T22:45:31Z | It is a beautiful and somewhat sensitive tool for exploiting WordPress sites. Some new loopholes have been added | https://github.com/kamalkarlos/FCC-BOT | 0 | 0| 
 | 20230526T22:26:52Z | Vbulletin rce exploit CVE-2019-16759 | https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit | 6 | 3| 
 | 20230526T22:19:41Z | The Flash Loan Arbitrage Bot Project is a software program designed to leverage flash loans to identify and exploit price inefficiencies in the decentralized finance (DeFi) market. This project aims to demonstrate the potential profitability of using flash loans for arbitrage trading strategies in the DeFi market. | https://github.com/rohankanojia25/FlashLoanArbitrageBot | 0 | 0| 
+| 20230526T21:19:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4963 | 625| 
 | 20230526T20:27:22Z | This script automates the exploitation SSRF vulnerabilities  | https://github.com/thedgtalempress/shellshock-exploit | 0 | 0| 
 | 20230526T19:17:35Z | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | 0 | 0| 
 | 20230526T12:59:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0005-app-Hn0ke-learn-exploit | 0 | 0| 
 | 20230526T12:56:56Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/WalterJrs/KSA1231 | 2 | 1| 
 | 20230526T12:34:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5005 | 982| 
 | 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
-| 20230526T12:21:47Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/WalterJrs/SADAS2113 | 2 | 1| 
 
 
 # backdoor on Github 推荐
