@@ -26,31 +26,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230526T11:53:14Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | https://github.com/Le1a/CVE-2022-22947 | | 
-| 20230526T10:34:38Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
-| 20230526T09:34:38Z | CVE-2023-30212 | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | | 
-| 20230526T00:19:35Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
-| 20230525T20:56:01Z | CVE-2023-25292 | Null | https://github.com/tucommenceapousser/CVE-2023-25292 | | 
-| 20230525T19:54:23Z | CVE-2022-22963 | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963 | | 
-| 20230525T18:50:08Z | CVE-2023-30212 | This repository provides a Docker container for simulating the CVE-2023-30212 vulnerability, allowing you to practice and understand its impact. It includes a comprehensive guide to help you set up the container on your own computer. The documentation for the Docker creation process is also included. | https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE | | 
-| 20230525T17:47:33Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230525T17:22:37Z | CVE-2020-0796 | analyze ndays in VCS | https://github.com/Ajomix/CVE-2020-0796-VCS | | 
-| 20230525T15:43:44Z | CVE-2023-29929 | Null | https://github.com/YSaxon/CVE-2023-29929 | | 
+| 20230526T23:40:43Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230526T22:19:53Z | CVE-2023-33617 | Null | https://github.com/tucommenceapousser/CVE-2023-33617 | | 
+| 20230526T22:16:43Z | CVE-2023-33617 | Authenticated OS command injection vulnerability (CVE-2023-33617) | https://github.com/Chocapikk/CVE-2023-33617 | | 
+| 20230526T21:03:28Z | CVE-2023-30145 | Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability  | https://github.com/paragbagul111/CVE-2023-30145 | | 
+| 20230526T20:04:18Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/CVE-2023-30212_lab | | 
+| 20230526T19:38:10Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/CVE-2023-30212-iab | | 
+| 20230526T19:17:35Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | | 
+| 20230526T19:16:27Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/r-CVE-2023-30212--lab | | 
+| 20230526T19:14:54Z | CVE-2023-30212 | Null | https://github.com/Anandhu990/r-CVE-2023-30212-lab | | 
+| 20230526T16:27:11Z | CVE-2023-30212 | Null | https://github.com/kuttappu123/CVE-2023-30212-LAB | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 617| 
+| 20230526T16:35:04Z | Null | https://github.com/srg-imperial/klee-fp-parboil-opencl | 0 | 0| 
+| 20230526T16:34:56Z | Null | https://github.com/srg-imperial/klee-fp-uclibc | 0 | 0| 
+| 20230526T16:34:27Z | Null | https://github.com/srg-imperial/klee-fp-opencv | 0 | 0| 
+| 20230526T16:34:05Z | Null | https://github.com/srg-imperial/klee-fp-opencl | 0 | 0| 
+| 20230526T16:28:22Z | KLEE-FP / KLEE-CL | https://github.com/srg-imperial/klee-fp | 0 | 0| 
 | 20230526T09:24:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 290 | 6| 
-| 20230525T23:00:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2232 | 617| 
 | 20230523T06:16:20Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 0| 
 | 20230522T09:13:10Z | Null | https://github.com/Klee1311/Klee | 0 | 0| 
 | 20230521T06:36:39Z | Null | https://github.com/Kleenelan/kleenelang | 1 | 0| 
-| 20230520T23:59:12Z | Null | https://github.com/lttanguay/KleenKutsDavis | 0 | 0| 
-| 20230519T08:58:55Z | [WIP] A React UI components library for Genshin Impact | https://github.com/vikiboss/klee-ui | 0 | 0| 
-| 20230517T07:57:41Z | Null | https://github.com/Cristhian67/CerraduraDeKleeYCreacionDePalabras-Angular | 0 | 0| 
-| 20230516T13:40:10Z | KLEE Portfolio | https://github.com/Kyungho0511/Portfolio | 0 | 0| 
-| 20230516T01:38:32Z | Null | https://github.com/erht/klees | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T22:45:31Z | It is a beautiful and somewhat sensitive tool for exploiting WordPress sites. Some new loopholes have been added | https://github.com/kamalkarlos/FCC-BOT | 0 | 0| 
+| 20230526T22:26:52Z | Vbulletin rce exploit CVE-2019-16759 | https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit | 6 | 3| 
+| 20230526T22:19:41Z | The Flash Loan Arbitrage Bot Project is a software program designed to leverage flash loans to identify and exploit price inefficiencies in the decentralized finance (DeFi) market. This project aims to demonstrate the potential profitability of using flash loans for arbitrage trading strategies in the DeFi market. | https://github.com/rohankanojia25/FlashLoanArbitrageBot | 0 | 0| 
+| 20230526T20:27:22Z | This script automates the exploitation SSRF vulnerabilities  | https://github.com/thedgtalempress/shellshock-exploit | 0 | 0| 
+| 20230526T19:17:35Z | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | 0 | 0| 
 | 20230526T12:59:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0005-app-Hn0ke-learn-exploit | 0 | 0| 
 | 20230526T12:56:56Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/WalterJrs/KSA1231 | 2 | 1| 
 | 20230526T12:34:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5005 | 982| 
 | 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
 | 20230526T12:21:47Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/WalterJrs/SADAS2113 | 2 | 1| 
-| 20230526T12:18:39Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit | https://github.com/WalterJrs/ASD23411 | 2 | 1| 
-| 20230526T12:17:57Z | GitOps Repository | https://github.com/pmacik-testing/ci-2u-50t-0008-app-ijNd_-stick-exploit | 0 | 0| 
-| 20230526T12:17:53Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/Tftsd24/KSA1231 | 0 | 0| 
-| 20230526T12:17:22Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0010-app-Eu-cG-possess-exploit | 0 | 0| 
-| 20230526T12:15:13Z | Bypass Word Security One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit | https://github.com/Tftsd24/SADAS2113 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T23:56:37Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 78 | 16| 
+| 20230526T18:36:35Z | An unsecure but apparently secure and correct chat. | https://github.com/DuarteArribas/ChatBackdoor | 0 | 0| 
+| 20230526T15:29:44Z | Null | https://github.com/astakhiv/Backdoors | 0 | 0| 
 | 20230526T11:33:25Z | LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 37 | 2| 
-| 20230526T11:05:47Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 69 | 15| 
 | 20230526T08:53:49Z | Null | https://github.com/aayushmanace/Backdoor | 0 | 0| 
 | 20230526T07:43:47Z | Null | https://github.com/Guo-lab/GraphBackdoor-Supervised-Unsupervised | 0 | 0| 
 | 20230526T05:13:38Z | creating a backdoor with SET - Ethical Hacking Techniques course | https://github.com/gowriganeshns/creating-a-backdoor-with-SET | 0 | 0| 
 | 20230525T18:31:07Z | simple acces to scholar pdfs with sci-hub backdoor | https://github.com/pavelNersisan/andro-medea-way | 0 | 0| 
 | 20230525T09:02:40Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
 | 20230525T06:34:57Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 21 | 4| 
-| 20230525T02:08:38Z | This repository organizes the ChipVerify website code so that it is executable in a verification environment that uses the Register Abstraction Layer (RAL) in backdoor mode. | https://github.com/MarleyLobao/UVM_Traffic_Backdoor_RAL | 0 | 0| 
-| 20230525T01:24:53Z | Missing CodeHS utilities implemented by utilizing a shell vulnerability. | https://github.com/imjamnotjelly/codehs-hax | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230526T23:12:49Z | Null | https://github.com/Cbudakau/fuzzy-bassoon | 0 | 0| 
+| 20230526T23:09:12Z | Null | https://github.com/jhoncarlnayao/fuzzy-succotash | 0 | 0| 
+| 20230526T19:40:27Z | Null | https://github.com/google/fuzztest | 288 | 21| 
+| 20230526T17:28:38Z | Null | https://github.com/inanygt/fuzzle | 0 | 0| 
 | 20230526T12:58:15Z | A very fast directory fuzzing tool made using Go Language  | https://github.com/vivashu27/gofuzz | 0 | 0| 
 | 20230526T12:38:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8681 | 1907| 
 | 20230526T12:07:55Z | test | https://github.com/TimoSairiala/fuzzy-guacamole | 0 | 0| 
 | 20230526T11:29:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5009 | 526| 
 | 20230526T11:23:11Z | Null | https://github.com/AndreRFby/Fuzzy_G.211.20.0025 | 0 | 0| 
 | 20230526T10:44:34Z | Null | https://github.com/noir-lang/parser-fuzzer | 2 | 0| 
-| 20230526T08:24:33Z | Node Express API | https://github.com/dinhlab/fuzzy-doodle | 0 | 0| 
-| 20230526T08:06:59Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
-| 20230526T01:38:31Z | Simple VST3 / VST audio plugin, developed utilizing the JUCE Framework.  | https://github.com/DanielMestres/Fuzz-Audio-Plugin | 0 | 0| 
-| 20230526T00:22:04Z | JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identification and testing. Unleash the power of fuzzing on JavaScript files from archived web pages, detecting vulnerabilities in web applications. | https://github.com/bilalmerokhel/JSFuzzPro | 0 | 0| 
 
 
 
