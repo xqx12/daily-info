@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T01:20:28Z | It%s a repo for @Gitb9okIO | https://github.com/PowerAtom-InternetCleaners-Team-China/fuzzy-disco | 0 | 0| 
 | 20230527T01:08:10Z | Null | https://github.com/Yudicahyono/Praktikum7_Fuzzy_CMeans_SPK | 0 | 0| 
 | 20230527T00:41:32Z | DIY guitar effects pedal that can produce various types of distortion tones | https://github.com/baldo2509/overdrive-distortion-fuzz-pedal | 0 | 0| 
 | 20230527T00:07:41Z | Null | https://github.com/Mackinassdre/fuzzy-tribble | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230526T17:28:38Z | Null | https://github.com/inanygt/fuzzle | 0 | 0| 
 | 20230526T12:58:15Z | A very fast directory fuzzing tool made using Go Language  | https://github.com/vivashu27/gofuzz | 0 | 0| 
 | 20230526T12:38:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8681 | 1907| 
-| 20230526T12:07:55Z | test | https://github.com/TimoSairiala/fuzzy-guacamole | 0 | 0| 
 
 
 
