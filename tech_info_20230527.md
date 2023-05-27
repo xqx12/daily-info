@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T12:16:35Z | Core PHP Application For White Box Testing | https://github.com/G37SYS73M/exploitMe_Core_PHP_App-1 | 0 | 0| 
 | 20230527T11:41:45Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2305 | 426| 
 | 20230527T11:39:15Z | Exploit-the-CVE-2023-30212-vulnerability | https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability | 0 | 0| 
 | 20230527T11:15:25Z | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230527T08:18:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 647 | 169| 
 | 20230527T08:18:11Z | generate and search pattern string for exploit development  | https://github.com/Svenito/exploit-pattern | 188 | 59| 
 | 20230527T08:11:18Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
-| 20230527T07:53:27Z | Vuln Framework is a powerful vulnerability assessment and exploit development framework designed for penetration testers and security professionals. | https://github.com/0x0d1n7/vuln-framework | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230527T12:08:42Z | Sistem pakar ini menggunakan metode fuzzy tsukamoto | https://github.com/Fbayuandika/Sistem-pakar-deteksi-dini-tingkat-kecanduan-gadget-pada-anak-metode-fuzzy-tsukamoto | 0 | 0| 
+| 20230527T12:16:42Z | Sistem pakar ini menggunakan metode fuzzy tsukamoto | https://github.com/Fbayuandika/Sistem-pakar-deteksi-dini-tingkat-kecanduan-gadget-pada-anak-metode-fuzzy-tsukamoto | 0 | 0| 
 | 20230527T11:47:08Z | Курсова до %Елементи теорії нечітких множин% | https://github.com/zxspec/edu-fuzzy | 0 | 0| 
 | 20230527T11:29:24Z |  Develop a Fuzzy Logic-based system that analyzes a dataset of 100 car repair shops in Bandung, consisting of Service Quality (rated from 1 to 100) and Price (rated from 1 to 10), to identify and output the top 10 workshop numbers/IDs and their corresponding scores based on the Defuzzification output. | https://github.com/Herjantoj/Fuzzy-Logic | 0 | 0| 
 | 20230527T10:01:31Z | Null | https://github.com/rismaocta/Praktikum_7_Fuzzy_CMeans | 0 | 0| 
