@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T12:08:42Z | Sistem pakar ini menggunakan metode fuzzy tsukamoto | https://github.com/Fbayuandika/Sistem-pakar-deteksi-dini-tingkat-kecanduan-gadget-pada-anak-metode-fuzzy-tsukamoto | 0 | 0| 
 | 20230527T11:47:08Z | Курсова до %Елементи теорії нечітких множин% | https://github.com/zxspec/edu-fuzzy | 0 | 0| 
 | 20230527T11:29:24Z |  Develop a Fuzzy Logic-based system that analyzes a dataset of 100 car repair shops in Bandung, consisting of Service Quality (rated from 1 to 100) and Price (rated from 1 to 10), to identify and output the top 10 workshop numbers/IDs and their corresponding scores based on the Defuzzification output. | https://github.com/Herjantoj/Fuzzy-Logic | 0 | 0| 
 | 20230527T10:01:31Z | Null | https://github.com/rismaocta/Praktikum_7_Fuzzy_CMeans | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230527T00:41:32Z | DIY guitar effects pedal that can produce various types of distortion tones | https://github.com/baldo2509/overdrive-distortion-fuzz-pedal | 0 | 0| 
 | 20230527T00:07:41Z | Null | https://github.com/Mackinassdre/fuzzy-tribble | 0 | 0| 
 | 20230526T23:12:49Z | Null | https://github.com/Cbudakau/fuzzy-bassoon | 0 | 0| 
-| 20230526T23:09:12Z | Null | https://github.com/jhoncarlnayao/fuzzy-succotash | 0 | 0| 
 
 
 
