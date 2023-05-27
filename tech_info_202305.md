@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230527T01:05:56Z | Null | https://github.com/Yudicahyono/Praktikum7_Fuzzy_CMeans_SPK | 0 | 0| 
+| 20230527T01:08:10Z | Null | https://github.com/Yudicahyono/Praktikum7_Fuzzy_CMeans_SPK | 0 | 0| 
 | 20230527T00:41:32Z | DIY guitar effects pedal that can produce various types of distortion tones | https://github.com/baldo2509/overdrive-distortion-fuzz-pedal | 0 | 0| 
 | 20230527T00:07:41Z | Null | https://github.com/Mackinassdre/fuzzy-tribble | 0 | 0| 
 | 20230526T23:12:49Z | Null | https://github.com/Cbudakau/fuzzy-bassoon | 0 | 0| 
