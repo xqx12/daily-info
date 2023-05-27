@@ -65,11 +65,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
+| 20230527T10:30:57Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 330 | 27| 
+| 20230527T04:19:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3456 | 481| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T09:14:13Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 670 | 104| 
 
 
 # fuzz on Github 推荐
