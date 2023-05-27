@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T00:56:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3e | 1 | 0| 
+| 20230527T00:56:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3e | 1 | 0| 
 | 20230527T00:55:13Z | Strumento di hacking per linux che comprende: Scansione della rete e delle vulnerabilità, controllo traffico di rete, creazione di Payload, exploit remoto in metasploit, phishing per credenziali e per webcam e attacchi Dos/DDos. | https://github.com/L0PA/Lopa-Tool | 0 | 0| 
 | 20230527T00:55:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3e | 1 | 0| 
 | 20230527T00:23:30Z | Library of Crypto exploits | https://github.com/sayoojsamuel/crypot | 8 | 2| 
@@ -79,8 +81,6 @@
 | 20230526T22:19:41Z | The Flash Loan Arbitrage Bot Project is a software program designed to leverage flash loans to identify and exploit price inefficiencies in the decentralized finance (DeFi) market. This project aims to demonstrate the potential profitability of using flash loans for arbitrage trading strategies in the DeFi market. | https://github.com/rohankanojia25/FlashLoanArbitrageBot | 0 | 0| 
 | 20230526T21:19:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4963 | 625| 
 | 20230526T20:27:22Z | This script automates the exploitation SSRF vulnerabilities  | https://github.com/thedgtalempress/shellshock-exploit | 0 | 0| 
-| 20230526T19:17:35Z | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | 0 | 0| 
-| 20230526T15:50:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5006 | 982| 
 
 
 # backdoor on Github 推荐
