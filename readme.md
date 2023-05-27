@@ -56,9 +56,9 @@
 | 20230526T21:19:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4963 | 625| 
 | 20230526T20:27:22Z | This script automates the exploitation SSRF vulnerabilities  | https://github.com/thedgtalempress/shellshock-exploit | 0 | 0| 
 | 20230526T19:17:35Z | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796-POC | 0 | 0| 
+| 20230526T15:50:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5006 | 982| 
 | 20230526T12:59:10Z | GitOps Repository | https://github.com/pmacik-testing/one-0005-app-Hn0ke-learn-exploit | 0 | 0| 
 | 20230526T12:56:56Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window | https://github.com/WalterJrs/KSA1231 | 2 | 1| 
-| 20230526T12:34:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5005 | 982| 
 | 20230526T12:28:17Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-412-Dyf2k-exploit-open | 0 | 0| 
 
 
