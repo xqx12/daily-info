@@ -50,8 +50,8 @@
 | 20230527T09:40:24Z | A Spring-Boot web application for demonstrating the CSRF vulnerability exploitation and preventing it using SameSite cookie attribute and CSRF tokens. | https://github.com/ArthSrivastava/CSRF-Vulnerability-Exploit-Demo | 0 | 0| 
 | 20230527T09:29:42Z | Vulnerable Docker Environment CVE-2023-30212 | https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability | 0 | 0| 
 | 20230527T08:18:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 647 | 169| 
+| 20230527T08:18:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5007 | 982| 
 | 20230527T08:18:11Z | generate and search pattern string for exploit development  | https://github.com/Svenito/exploit-pattern | 188 | 59| 
-| 20230527T08:11:18Z | source code of my roblox exploit  | https://github.com/mikusgszyp/ezsploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
