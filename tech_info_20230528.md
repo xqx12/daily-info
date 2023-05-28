@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T12:57:25Z | Null | https://github.com/margaritalm/exploitable-path | 0 | 0| 
 | 20230528T12:56:09Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5230 | 419| 
 | 20230528T12:52:29Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 44 | 6| 
 | 20230528T12:31:10Z | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20230528T11:34:39Z | :) | https://github.com/alternation1337/exploit | 0 | 0| 
 | 20230528T08:38:46Z | you can download/remove a one time media from whatsapp, you can access this anywhere using ngrok. | https://github.com/WillisRH/OneTimeMedia-Exploit | 0 | 0| 
 | 20230528T08:27:03Z | Retrieve exploit information from tweets referencing all crypto exploits to aggregate, analyze, and visualize. | https://github.com/InDemniFi/Crypto-Exploit-Info-Bot | 0 | 0| 
-| 20230528T04:52:17Z | Public exploits that I have modified or fixed | https://github.com/illuzian/modified_exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
