@@ -51,8 +51,8 @@
 | 20230527T17:35:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5599 | 655| 
 | 20230527T17:24:08Z | Bash script that automates the downloading of various exploitation tools. | https://github.com/gustanini/ExploitationBundle | 2 | 0| 
 | 20230527T15:00:07Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2306 | 426| 
+| 20230527T14:54:57Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 248 | 47| 
 | 20230527T13:40:35Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 16 | 5| 
-| 20230527T12:16:35Z | Core PHP Application For White Box Testing | https://github.com/G37SYS73M/exploitMe_Core_PHP_App-1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
