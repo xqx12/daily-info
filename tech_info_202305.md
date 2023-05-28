@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T00:15:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:13:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230527T23:07:51Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 0 | 0| 
 | 20230527T23:04:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4968 | 625| 
@@ -80,7 +81,6 @@
 | 20230527T19:06:15Z | Writeups on exploiting vulnerable boxes | https://github.com/caldito/writeups | 0 | 0| 
 | 20230527T17:35:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5599 | 655| 
 | 20230527T17:24:08Z | Bash script that automates the downloading of various exploitation tools. | https://github.com/gustanini/ExploitationBundle | 2 | 0| 
-| 20230527T15:00:07Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2306 | 426| 
 
 
 # backdoor on Github 推荐
