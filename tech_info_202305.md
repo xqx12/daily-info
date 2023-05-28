@@ -71,13 +71,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T01:40:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4969 | 625| 
 | 20230528T01:31:47Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 1 | 0| 
 | 20230528T01:20:30Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
 | 20230528T01:16:28Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 16 | 2| 
 | 20230528T00:16:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:15:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:13:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6t | 1 | 0| 
-| 20230527T23:04:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4968 | 625| 
 | 20230527T22:11:33Z | This application is a clone of the homonymous application developed by BrightSoul that exploits the outbox pattern | https://github.com/AngeloDotNet/BackgroundEmailSender.OutboxPattern | 0 | 0| 
 | 20230527T21:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13799 | 2336| 
 | 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 1| 
