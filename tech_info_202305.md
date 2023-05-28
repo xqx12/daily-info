@@ -49,8 +49,8 @@
 | 20230526T16:34:05Z | Null | https://github.com/srg-imperial/klee-fp-opencl | 0 | 0| 
 | 20230526T16:28:22Z | KLEE-FP / KLEE-CL | https://github.com/srg-imperial/klee-fp | 0 | 0| 
 | 20230526T09:24:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 290 | 6| 
+| 20230525T16:18:35Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 8 | 0| 
 | 20230523T06:16:20Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 0| 
-| 20230522T09:13:10Z | Null | https://github.com/Klee1311/Klee | 0 | 0| 
 
 
 # s2e on Github 推荐
