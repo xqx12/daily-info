@@ -101,16 +101,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230527T17:36:41Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
+| 20230527T16:15:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3457 | 481| 
 | 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
 | 20230527T10:30:57Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 330 | 27| 
-| 20230527T04:19:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3456 | 481| 
 | 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
 | 20230525T13:37:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 767 | 88| 
 | 20230525T13:35:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 647 | 117| 
 | 20230524T10:22:39Z | This repo contains an experimental symbolic execution engine implemented in Solidity. | https://github.com/Juyotal/Sol_Symb_exec | 0 | 0| 
 | 20230524T08:12:57Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 193 | 42| 
-| 20230523T08:56:58Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 33 | 8| 
-| 20230522T07:16:13Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1318 | 60| 
+| 20230523T13:57:37Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 164 | 18| 
 
 
 # big4 on Github 推荐
