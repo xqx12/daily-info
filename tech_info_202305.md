@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230528T11:49:01Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230528T12:18:10Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
 | 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
