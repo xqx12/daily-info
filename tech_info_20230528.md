@@ -35,10 +35,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T12:05:03Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 42 | 4| 
 | 20230528T11:59:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5229 | 419| 
 | 20230528T11:51:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 447 | 84| 
 | 20230528T11:34:39Z | :) | https://github.com/alternation1337/exploit | 0 | 0| 
-| 20230528T11:12:09Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 41 | 4| 
 | 20230528T08:38:46Z | you can download/remove a one time media from whatsapp, you can access this anywhere using ngrok. | https://github.com/WillisRH/OneTimeMedia-Exploit | 0 | 0| 
 | 20230528T08:27:03Z | Retrieve exploit information from tweets referencing all crypto exploits to aggregate, analyze, and visualize. | https://github.com/InDemniFi/Crypto-Exploit-Info-Bot | 0 | 0| 
 | 20230528T04:52:17Z | Public exploits that I have modified or fixed | https://github.com/illuzian/modified_exploits | 0 | 0| 
