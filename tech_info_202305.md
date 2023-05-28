@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T00:16:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:15:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:13:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230527T23:07:51Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230527T20:02:06Z | Reverse Shell Exploit for Searchor <= 2.4.2 (2.4.0) | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 | 20230527T19:06:15Z | Writeups on exploiting vulnerable boxes | https://github.com/caldito/writeups | 0 | 0| 
 | 20230527T17:35:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5599 | 655| 
-| 20230527T17:24:08Z | Bash script that automates the downloading of various exploitation tools. | https://github.com/gustanini/ExploitationBundle | 2 | 0| 
 
 
 # backdoor on Github 推荐
