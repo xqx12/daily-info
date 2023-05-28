@@ -46,7 +46,7 @@
 | 20230527T23:07:51Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 0 | 0| 
 | 20230527T23:04:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4968 | 625| 
 | 20230527T22:11:33Z | This application is a clone of the homonymous application developed by BrightSoul that exploits the outbox pattern | https://github.com/AngeloDotNet/BackgroundEmailSender.OutboxPattern | 0 | 0| 
-| 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 0| 
+| 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 1| 
 | 20230527T20:02:06Z | Reverse Shell Exploit for Searchor <= 2.4.2 (2.4.0) | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 | 20230527T19:06:15Z | Writeups on exploiting vulnerable boxes | https://github.com/caldito/writeups | 0 | 0| 
 | 20230527T17:35:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5599 | 655| 
