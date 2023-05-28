@@ -71,7 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230528T12:05:03Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 42 | 4| 
+| 20230528T12:17:55Z | FIVEM Lua executor undetected | https://github.com/AtLas5121/FIVEM-Lua-Executor | 0 | 0| 
+| 20230528T12:17:36Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 43 | 5| 
 | 20230528T11:59:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5229 | 419| 
 | 20230528T11:51:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 447 | 84| 
 | 20230528T11:34:39Z | :) | https://github.com/alternation1337/exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230528T04:52:17Z | Public exploits that I have modified or fixed | https://github.com/illuzian/modified_exploits | 0 | 0| 
 | 20230528T04:32:04Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
 | 20230528T01:40:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4969 | 625| 
-| 20230528T01:31:47Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 1 | 0| 
 
 
 # backdoor on Github 推荐
