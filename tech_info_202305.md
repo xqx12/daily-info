@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230528 | 美国陆军云计划2022 | https://mp.weixin.qq.com/s/53Vj7_t4NtPZKau1tXRVwg| 
+| 20230528 | 一种网络空间安全体系结构建模方法研究 | https://mp.weixin.qq.com/s/0PzrjsryPwrFeCCsou9Gyg| 
 | 20230526 | eval5 前端沙箱逃逸与CSP Bypass | https://blog.xlab.app/p/766bba8a/| 
 | 20230526 | 量子注入攻击的流量特征及检测方法 | https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ| 
 | 20230525 | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ| 
@@ -19,14 +21,13 @@
 | 20230524 | 网络空间地图测绘理论体系白皮书 | https://book.yunzhan365.com/tkgd/hykn/mobile/index.html| 
 | 20230524 | 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
 | 20230523 | Botconf 2023 议题速递 | https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw| 
-| 20230523 | 从Office诱饵到鸡肋RCE | https://blog.xlab.app/p/8fbece25/| 
-| 20230523 | 应急纪实-一场“驻场”的攻击对抗 | https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230528T00:20:14Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230528T11:49:01Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
 | 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
 | 20230527T15:09:06Z | CVE-2023-27350 | Perfom With Massive Authentication Bypass In PaperCut MF/NG | https://github.com/Pari-Malam/CVE-2023-27350 | | 
@@ -35,7 +36,6 @@
 | 20230527T09:29:42Z | CVE-2023-30212 | Vulnerable Docker Environment CVE-2023-30212 | https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability | | 
 | 20230527T06:47:07Z | CVE-2023-30212 | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | | 
 | 20230527T05:06:17Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212 | | 
-| 20230527T04:53:28Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Vulnerable-Docker-Environment-CVE-2023-30212 | | 
 
 
 # klee on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T11:59:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5229 | 419| 
+| 20230528T11:51:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 447 | 84| 
+| 20230528T11:34:39Z | :) | https://github.com/alternation1337/exploit | 0 | 0| 
+| 20230528T11:12:09Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 41 | 4| 
+| 20230528T08:38:46Z | you can download/remove a one time media from whatsapp, you can access this anywhere using ngrok. | https://github.com/WillisRH/OneTimeMedia-Exploit | 0 | 0| 
+| 20230528T08:27:03Z | Retrieve exploit information from tweets referencing all crypto exploits to aggregate, analyze, and visualize. | https://github.com/InDemniFi/Crypto-Exploit-Info-Bot | 0 | 0| 
+| 20230528T04:52:17Z | Public exploits that I have modified or fixed | https://github.com/illuzian/modified_exploits | 0 | 0| 
+| 20230528T04:32:04Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
 | 20230528T01:40:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4969 | 625| 
 | 20230528T01:31:47Z | Am dropping this internal its really good with silent aim its fud as of know u can play for 3-4 days it was made by my friend its got shit tons of exploits and will receive updates src coming soon  | https://github.com/Goose3030/Fortnite-internal | 1 | 0| 
-| 20230528T01:20:30Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
-| 20230528T01:16:28Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 16 | 2| 
-| 20230528T00:16:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6t | 1 | 0| 
-| 20230528T00:15:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6t | 1 | 0| 
-| 20230528T00:13:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6t | 1 | 0| 
-| 20230527T22:11:33Z | This application is a clone of the homonymous application developed by BrightSoul that exploits the outbox pattern | https://github.com/AngeloDotNet/BackgroundEmailSender.OutboxPattern | 0 | 0| 
-| 20230527T21:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13799 | 2336| 
-| 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T11:51:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 447 | 84| 
+| 20230528T10:08:31Z | Discord Bot Backdoor (simpel) | https://github.com/Gluonjustforyou/Discord-Bot-Backdoor-ex. | 0 | 0| 
+| 20230528T09:33:45Z | Backdoor malware. | https://github.com/liorvi35/Backdoor | 0 | 0| 
+| 20230528T04:52:46Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 21 | 1| 
+| 20230528T02:27:15Z | Null | https://github.com/Gaolei0207/Backdoor-Attacks-and-Defences-on-Various-Learning-Systems | 0 | 0| 
 | 20230527T20:28:55Z | A backdoor which executes remote php code found on a Wordpress site with a public free theme. | https://github.com/AfterglowWeb/wordpress-backdoor | 0 | 0| 
 | 20230527T19:38:06Z | Null | https://github.com/NickBwalley/EH-backdoor-script.py | 0 | 0| 
+| 20230527T08:18:57Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 217 | 43| 
+| 20230527T08:18:49Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 207 | 57| 
 | 20230527T07:54:33Z | sHell Backdoor Source From INDOSEC | https://github.com/Asm0d3usX/sHell | 1 | 0| 
-| 20230527T02:17:08Z | Backdoor Installation: Access the backend | https://github.com/ItzGlitchSG/shell_B374k | 0 | 0| 
-| 20230527T01:52:39Z | Null | https://github.com/hackerschoice/ssh-key-backdoor | 79 | 16| 
-| 20230526T18:36:35Z | An unsecure but apparently secure and correct chat. | https://github.com/DuarteArribas/ChatBackdoor | 0 | 0| 
-| 20230526T15:29:44Z | Null | https://github.com/astakhiv/Backdoors | 0 | 0| 
-| 20230526T11:33:25Z | LD_PRELOAD Rootkit | https://github.com/ldpreload/Medusa | 37 | 2| 
-| 20230526T08:53:49Z | Null | https://github.com/aayushmanace/Backdoor | 0 | 0| 
-| 20230526T07:43:47Z | Null | https://github.com/Guo-lab/GraphBackdoor-Supervised-Unsupervised | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230528T00:54:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8682 | 1907| 
+| 20230528T11:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8684 | 1907| 
+| 20230528T11:07:57Z | fuzzy-pancake | https://github.com/beritlombardi100/fuzzy-pancake | 0 | 0| 
+| 20230528T10:30:26Z | Null | https://github.com/Bagussandro/Fuzzy_G.211.20.0024.ipynb | 0 | 0| 
+| 20230528T09:45:39Z | Modified version of flipfrid with random rfid values | https://github.com/john6tain/rfidFuzzerJJ | 0 | 0| 
+| 20230528T07:58:21Z | The classification problem based on fuzzy clustering | https://github.com/lucky0914/The-classification-problem-based-on-fuzzy-clustering | 0 | 0| 
 | 20230527T23:30:29Z | Null | https://github.com/Capsaicin1/fuzzy-fishstick | 0 | 0| 
+| 20230527T22:10:41Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 2 | 0| 
 | 20230527T22:03:48Z | Null | https://github.com/vivekdhir77/Fuzzy-Search | 0 | 0| 
 | 20230527T22:02:01Z | Collection of Neuro-Fuzzy inference systems for time series forecasting. | https://github.com/chnnxyz/ts-fuzz | 0 | 0| 
 | 20230527T19:39:19Z | Null | https://github.com/alkeys/fuzzy-doodle | 0 | 0| 
-| 20230527T17:40:17Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2188 | 38| 
-| 20230527T15:00:07Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 2306 | 426| 
-| 20230527T12:16:42Z | Sistem pakar ini menggunakan metode fuzzy tsukamoto | https://github.com/Fbayuandika/Sistem-pakar-deteksi-dini-tingkat-kecanduan-gadget-pada-anak-metode-fuzzy-tsukamoto | 0 | 0| 
-| 20230527T11:47:08Z | Курсова до %Елементи теорії нечітких множин% | https://github.com/zxspec/edu-fuzzy | 0 | 0| 
-| 20230527T11:29:24Z |  Develop a Fuzzy Logic-based system that analyzes a dataset of 100 car repair shops in Bandung, consisting of Service Quality (rated from 1 to 100) and Price (rated from 1 to 10), to identify and output the top 10 workshop numbers/IDs and their corresponding scores based on the Defuzzification output. | https://github.com/Herjantoj/Fuzzy-Logic | 0 | 0| 
 
 
 
