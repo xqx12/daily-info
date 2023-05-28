@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230527T23:07:42Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
 | 20230527T15:09:06Z | CVE-2023-27350 | Perfom With Massive Authentication Bypass In PaperCut MF/NG | https://github.com/Pari-Malam/CVE-2023-27350 | | 
@@ -26,6 +25,7 @@
 | 20230527T06:47:07Z | CVE-2023-30212 | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | | 
 | 20230527T05:06:17Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212 | | 
 | 20230527T04:53:28Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Vulnerable-Docker-Environment-CVE-2023-30212 | | 
+| 20230527T04:33:25Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | https://github.com/Le1a/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
