@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230528T12:31:10Z | CVE-2022-30190 | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | | 
 | 20230528T12:18:10Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
 
@@ -35,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T12:31:10Z | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | 0 | 0| 
 | 20230528T12:29:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 24 | 3| 
 | 20230528T12:25:46Z | FIVEM Lua executor undetected | https://github.com/AtLas5121/FIVEM-Lua-Executor | 72 | 0| 
 | 20230528T12:17:36Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 43 | 6| 
@@ -44,7 +46,6 @@
 | 20230528T08:38:46Z | you can download/remove a one time media from whatsapp, you can access this anywhere using ngrok. | https://github.com/WillisRH/OneTimeMedia-Exploit | 0 | 0| 
 | 20230528T08:27:03Z | Retrieve exploit information from tweets referencing all crypto exploits to aggregate, analyze, and visualize. | https://github.com/InDemniFi/Crypto-Exploit-Info-Bot | 0 | 0| 
 | 20230528T04:52:17Z | Public exploits that I have modified or fixed | https://github.com/illuzian/modified_exploits | 0 | 0| 
-| 20230528T04:32:04Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 0 | 0| 
 
 
 # backdoor on Github 推荐
