@@ -71,10 +71,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T12:52:29Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 44 | 6| 
 | 20230528T12:31:10Z | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | 0 | 0| 
 | 20230528T12:29:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 24 | 3| 
 | 20230528T12:25:46Z | FIVEM Lua executor undetected | https://github.com/AtLas5121/FIVEM-Lua-Executor | 72 | 0| 
-| 20230528T12:17:36Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 43 | 6| 
 | 20230528T11:59:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5229 | 419| 
 | 20230528T11:51:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 447 | 84| 
 | 20230528T11:34:39Z | :) | https://github.com/alternation1337/exploit | 0 | 0| 
