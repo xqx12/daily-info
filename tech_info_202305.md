@@ -79,8 +79,8 @@
 | 20230528T00:13:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230527T23:04:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4968 | 625| 
 | 20230527T22:11:33Z | This application is a clone of the homonymous application developed by BrightSoul that exploits the outbox pattern | https://github.com/AngeloDotNet/BackgroundEmailSender.OutboxPattern | 0 | 0| 
+| 20230527T21:29:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13799 | 2336| 
 | 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 1| 
-| 20230527T20:02:06Z | Reverse Shell Exploit for Searchor <= 2.4.2 (2.4.0) | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
