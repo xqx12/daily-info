@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T00:54:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8682 | 1907| 
 | 20230527T23:30:29Z | Null | https://github.com/Capsaicin1/fuzzy-fishstick | 0 | 0| 
 | 20230527T22:03:48Z | Null | https://github.com/vivekdhir77/Fuzzy-Search | 0 | 0| 
 | 20230527T22:02:01Z | Collection of Neuro-Fuzzy inference systems for time series forecasting. | https://github.com/chnnxyz/ts-fuzz | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230527T11:47:08Z | Курсова до %Елементи теорії нечітких множин% | https://github.com/zxspec/edu-fuzzy | 0 | 0| 
 | 20230527T11:29:24Z |  Develop a Fuzzy Logic-based system that analyzes a dataset of 100 car repair shops in Bandung, consisting of Service Quality (rated from 1 to 100) and Price (rated from 1 to 10), to identify and output the top 10 workshop numbers/IDs and their corresponding scores based on the Defuzzification output. | https://github.com/Herjantoj/Fuzzy-Logic | 0 | 0| 
 | 20230527T10:01:31Z | Null | https://github.com/rismaocta/Praktikum_7_Fuzzy_CMeans | 0 | 0| 
-| 20230527T08:19:03Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3599 | 427| 
 
 
 
