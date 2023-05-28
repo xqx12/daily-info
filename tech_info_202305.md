@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230528T01:16:28Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 16 | 2| 
 | 20230528T00:45:34Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
 | 20230528T00:16:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6t | 1 | 0| 
 | 20230528T00:15:11Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6t | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230527T22:11:33Z | This application is a clone of the homonymous application developed by BrightSoul that exploits the outbox pattern | https://github.com/AngeloDotNet/BackgroundEmailSender.OutboxPattern | 0 | 0| 
 | 20230527T20:12:59Z | Exploit for Bad Binder | https://github.com/elbiazo/CVE-2019-2215 | 0 | 1| 
 | 20230527T20:02:06Z | Reverse Shell Exploit for Searchor <= 2.4.2 (2.4.0) | https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection | 0 | 0| 
-| 20230527T19:06:15Z | Writeups on exploiting vulnerable boxes | https://github.com/caldito/writeups | 0 | 0| 
 
 
 # backdoor on Github 推荐
