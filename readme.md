@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230529T11:14:37Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230529T12:40:52Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230529T10:51:10Z | CVE-2023-29923 | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | https://github.com/Le1a/CVE-2023-29923 | | 
 | 20230529T08:23:35Z | CVE-2023-30212 | Null | https://github.com/kai-iszz/CVE-2023-30212 | | 
 | 20230529T06:38:08Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796 | | 
