@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T00:11:11Z | Comprehensive walkthroughs and solutions for PicoCTF challenges, providing step-by-step explanations and code snippets for binary exploitation, cryptography, forensics, reverse engineering, web exploitation, and general skills. | https://github.com/jaywyawhare/Pico-CTF | 1 | 0| 
 | 20230529T00:09:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7u | 1 | 0| 
 | 20230529T00:08:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7u | 1 | 0| 
 | 20230529T00:07:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7u | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230528T22:25:21Z | Artículos relacionados a la Ciberseguridad, Hacking y al Análisis de Malware. | https://github.com/bl4ck44/Articulos | 15 | 3| 
 | 20230528T16:47:16Z | A Typescript library to generate module for further code exploitation and stability | https://github.com/arthurlefevre/module_generator | 0 | 0| 
 | 20230528T14:51:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5008 | 982| 
-| 20230528T12:57:25Z | Null | https://github.com/margaritalm/exploitable-path | 0 | 0| 
 
 
 # backdoor on Github 推荐
