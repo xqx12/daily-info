@@ -101,7 +101,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T11:23:25Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 169 | 18| 
+| 20230529T12:35:51Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 170 | 18| 
 | 20230528T16:37:35Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 88 | 2| 
 | 20230528T15:09:15Z | Development of the static analyzer based on symbolic execution | https://github.com/IdeaSeeker/BachelorThesis | 0 | 0| 
 | 20230528T13:34:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3458 | 480| 
