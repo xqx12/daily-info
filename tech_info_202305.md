@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T00:08:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7u | 0 | 0| 
+| 20230529T00:09:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7u | 1 | 0| 
+| 20230529T00:08:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7u | 1 | 0| 
 | 20230529T00:07:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7u | 1 | 0| 
 | 20230528T23:09:13Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 491 | 39| 
+| 20230528T23:09:05Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 496 | 94| 
 | 20230528T23:04:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 648 | 169| 
 | 20230528T22:25:21Z | Artículos relacionados a la Ciberseguridad, Hacking y al Análisis de Malware. | https://github.com/bl4ck44/Articulos | 15 | 3| 
 | 20230528T16:47:16Z | A Typescript library to generate module for further code exploitation and stability | https://github.com/arthurlefevre/module_generator | 0 | 0| 
 | 20230528T14:51:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5008 | 982| 
 | 20230528T12:57:25Z | Null | https://github.com/margaritalm/exploitable-path | 0 | 0| 
-| 20230528T12:56:09Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5230 | 419| 
-| 20230528T12:52:29Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 44 | 6| 
 
 
 # backdoor on Github 推荐
