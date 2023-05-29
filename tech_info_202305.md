@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T01:49:35Z | Null | https://github.com/ken-tank/Fuzzy_CMeans | 0 | 0| 
 | 20230529T00:30:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2738 | 185| 
 | 20230529T00:17:36Z | Create a fuzzy search method for matching user keyword queries with information in a dataframe | https://github.com/jasonz-12/fuzzy-search | 0 | 0| 
 | 20230528T23:38:10Z | Null | https://github.com/jusque-a-la-fin/Fuzzy-Logic-Recommendation-System | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230528T15:43:22Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3600 | 427| 
 | 20230528T15:01:05Z | Null | https://github.com/google/fuzztest | 289 | 21| 
 | 20230528T11:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8684 | 1907| 
-| 20230528T11:07:57Z | fuzzy-pancake | https://github.com/beritlombardi100/fuzzy-pancake | 0 | 0| 
 
 
 
