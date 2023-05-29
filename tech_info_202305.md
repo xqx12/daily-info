@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T00:17:36Z | Create a fuzzy search method for matching user keyword queries with information in a dataframe | https://github.com/jasonz-12/fuzzy-search | 0 | 0| 
 | 20230528T23:38:10Z | Null | https://github.com/jusque-a-la-fin/Fuzzy-Logic-Recommendation-System | 0 | 0| 
 | 20230528T22:03:06Z | Null | https://github.com/LaserBunny/fuzzy-waffle | 0 | 0| 
 | 20230528T21:34:53Z | Null | https://github.com/Capsaicin1/fuzzy-fishstick | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230528T11:07:57Z | fuzzy-pancake | https://github.com/beritlombardi100/fuzzy-pancake | 0 | 0| 
 | 20230528T10:30:26Z | Null | https://github.com/Bagussandro/Fuzzy_G.211.20.0024.ipynb | 0 | 0| 
 | 20230528T09:45:39Z | Modified version of flipfrid with random rfid values | https://github.com/john6tain/rfidFuzzerJJ | 0 | 0| 
-| 20230528T07:58:21Z | The classification problem based on fuzzy clustering | https://github.com/lucky0914/The-classification-problem-based-on-fuzzy-clustering | 0 | 0| 
 
 
 
