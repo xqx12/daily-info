@@ -78,9 +78,9 @@
 | 20230529T10:22:48Z | Pathmarker exploit | https://github.com/Maisner0513/Pathmarker | 0 | 0| 
 | 20230529T09:59:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5131 | 734| 
 | 20230529T09:26:47Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
+| 20230529T09:19:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5011 | 982| 
 | 20230529T08:52:56Z | Rusty Arsenal - Process Injection / Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 124 | 21| 
 | 20230529T08:22:02Z | Exploiting Transformer in Reinforcement Learning for Interpretable Temporal Logic Motion Planning (Under-review) | https://github.com/Charlie0257/T2TL | 2 | 0| 
-| 20230529T02:40:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 492 | 39| 
 
 
 # backdoor on Github 推荐
