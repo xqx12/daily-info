@@ -101,10 +101,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T01:48:13Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 167 | 18| 
+| 20230529T11:23:25Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 169 | 18| 
 | 20230528T16:37:35Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 88 | 2| 
 | 20230528T15:09:15Z | Development of the static analyzer based on symbolic execution | https://github.com/IdeaSeeker/BachelorThesis | 0 | 0| 
-| 20230528T13:34:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3458 | 479| 
+| 20230528T13:34:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3458 | 480| 
 | 20230527T17:36:41Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 | 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
 | 20230527T10:30:57Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 330 | 27| 
@@ -116,7 +116,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230528T04:29:09Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 671 | 104| 
+| 20230529T04:21:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 672 | 104| 
 | 20230526T09:23:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 46 | 3| 
 | 20230525T07:59:18Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 17 | 1| 
 | 20230524T05:15:02Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 10 | 2| 

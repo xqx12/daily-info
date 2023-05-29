@@ -62,12 +62,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T01:48:13Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 167 | 18| 
+| 20230529T11:23:25Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 169 | 18| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T04:21:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 672 | 104| 
 
 
 # fuzz on Github 推荐
