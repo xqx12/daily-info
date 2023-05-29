@@ -59,7 +59,6 @@
 | 20230528T14:11:41Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 2 | 1| 
 | 20230528T12:56:44Z | Discord Bot Backdoor sample  | https://github.com/Gluonjustforyou/Discord-Bot-Backdoor-ex. | 0 | 0| 
 | 20230528T09:33:45Z | Backdoor malware. | https://github.com/liorvi35/Backdoor | 0 | 0| 
-| 20230528T04:52:46Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 21 | 1| 
 | 20230528T02:27:15Z | Null | https://github.com/Gaolei0207/Backdoor-Attacks-and-Defences-on-Various-Learning-Systems | 0 | 0| 
 
 
