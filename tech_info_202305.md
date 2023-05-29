@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230529 | SecWiki周刊（第482期) | https://www.sec-wiki.com/weekly/482| 
+| 20230529 | KeePass 内存泄露主密码漏洞分析 | https://mp.weixin.qq.com/s/7dupVLdaBWEsR3a54abVlg| 
+| 20230529 | State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程 | https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg?from=timeline| 
 | 20230528 | 美国陆军云计划2022 | https://mp.weixin.qq.com/s/53Vj7_t4NtPZKau1tXRVwg| 
 | 20230528 | 一种网络空间安全体系结构建模方法研究 | https://mp.weixin.qq.com/s/0PzrjsryPwrFeCCsou9Gyg| 
 | 20230526 | eval5 前端沙箱逃逸与CSP Bypass | https://blog.xlab.app/p/766bba8a/| 
@@ -18,30 +21,28 @@
 | 20230525 | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ| 
 | 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
 | 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
-| 20230524 | 网络空间地图测绘理论体系白皮书 | https://book.yunzhan365.com/tkgd/hykn/mobile/index.html| 
-| 20230524 | 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
-| 20230523 | Botconf 2023 议题速递 | https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230529T01:52:09Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230529T11:14:37Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230529T10:51:10Z | CVE-2023-29923 | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | https://github.com/Le1a/CVE-2023-29923 | | 
+| 20230529T08:23:35Z | CVE-2023-30212 | Null | https://github.com/kai-iszz/CVE-2023-30212 | | 
+| 20230529T06:38:08Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796 | | 
 | 20230528T12:31:10Z | CVE-2022-30190 | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | | 
 | 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
 | 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
 | 20230527T15:09:06Z | CVE-2023-27350 | Perfom With Massive Authentication Bypass In PaperCut MF/NG | https://github.com/Pari-Malam/CVE-2023-27350 | | 
 | 20230527T11:39:15Z | CVE-2023-30212 | Exploit-the-CVE-2023-30212-vulnerability | https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability | | 
-| 20230527T11:15:25Z | CVE-2023-30212 | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability | | 
-| 20230527T09:29:42Z | CVE-2023-30212 | Vulnerable Docker Environment CVE-2023-30212 | https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability | | 
-| 20230527T06:47:07Z | CVE-2023-30212 | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | https://github.com/mallutrojan/CVE-2023-30212-Lab | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230528T14:26:37Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 0| 
+| 20230529T03:19:27Z | Null | https://github.com/user-styles/klees | 0 | 0| 
+| 20230528T14:26:37Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 1| 
 | 20230527T13:40:15Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 1 | 1| 
 | 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
 | 20230526T16:35:04Z | Null | https://github.com/srg-imperial/klee-fp-parboil-opencl | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230526T16:34:05Z | Null | https://github.com/srg-imperial/klee-fp-opencl | 0 | 0| 
 | 20230526T16:28:22Z | KLEE-FP / KLEE-CL | https://github.com/srg-imperial/klee-fp | 0 | 0| 
 | 20230526T09:24:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 290 | 6| 
-| 20230525T16:18:35Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 8 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,21 +71,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T00:44:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4973 | 626| 
-| 20230529T00:11:11Z | Comprehensive walkthroughs and solutions for PicoCTF challenges, providing step-by-step explanations and code snippets for binary exploitation, cryptography, forensics, reverse engineering, web exploitation, and general skills. | https://github.com/jaywyawhare/Pico-CTF | 1 | 0| 
-| 20230529T00:09:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7u | 1 | 0| 
-| 20230529T00:08:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7u | 1 | 0| 
-| 20230529T00:07:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7u | 1 | 0| 
-| 20230528T23:09:13Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 491 | 39| 
-| 20230528T23:09:05Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 496 | 94| 
-| 20230528T23:04:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 648 | 169| 
-| 20230528T22:25:21Z | Artículos relacionados a la Ciberseguridad, Hacking y al Análisis de Malware. | https://github.com/bl4ck44/Articulos | 15 | 3| 
-| 20230528T16:47:16Z | A Typescript library to generate module for further code exploitation and stability | https://github.com/arthurlefevre/module_generator | 0 | 0| 
+| 20230529T11:53:56Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0099-app-zfaeQ-belong-exploit | 0 | 0| 
+| 20230529T11:50:16Z | Null | https://github.com/mikebrownlee/exploitphp.py | 0 | 0| 
+| 20230529T11:43:33Z | Process Migration to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/ProcessMigration | 0 | 0| 
+| 20230529T10:31:42Z | Inspired by the CIA%s Top Secret projects revealed by Wikileaks, this scripts can spy an router | https://github.com/d0ra1mon/d0raSpy | 1 | 0| 
+| 20230529T10:22:48Z | Pathmarker exploit | https://github.com/Maisner0513/Pathmarker | 0 | 0| 
+| 20230529T09:59:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5131 | 734| 
+| 20230529T09:26:47Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
+| 20230529T08:52:56Z | Rusty Arsenal - Process Injection / Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 124 | 21| 
+| 20230529T08:22:02Z | Exploiting Transformer in Reinforcement Learning for Interpretable Temporal Logic Motion Planning (Under-review) | https://github.com/Charlie0257/T2TL | 2 | 0| 
+| 20230529T02:40:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 492 | 39| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T09:35:42Z | 666 Encryption is an algorithm that let%s you encrypt information in a ciphertext of numbers. Protected by the MIT License and Open Source Patent License. Created by Christopher Mark Clark in America and Artur Agababian in Russia. 666Encryption code is free. Make all the money you want with it!!! Please go by the license. No backdoors or keys. | https://github.com/666Encryption/demo | 0 | 1| 
+| 20230529T02:48:14Z | Null | https://github.com/shang2woman/backdoor | 0 | 0| 
 | 20230529T01:40:47Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 22 | 1| 
 | 20230528T23:10:39Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 448 | 84| 
 | 20230528T21:48:19Z | A Java backdoor server for hacking a machine with Tomcat | https://github.com/Cicim/java-server-backdoor | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20230528T17:43:35Z | Null | https://github.com/roranwilliam/python-backdoor | 0 | 0| 
 | 20230528T14:11:41Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 2 | 1| 
 | 20230528T12:56:44Z | Discord Bot Backdoor sample  | https://github.com/Gluonjustforyou/Discord-Bot-Backdoor-ex. | 0 | 0| 
-| 20230528T09:33:45Z | Backdoor malware. | https://github.com/liorvi35/Backdoor | 0 | 0| 
-| 20230528T02:27:15Z | Null | https://github.com/Gaolei0207/Backdoor-Attacks-and-Defences-on-Various-Learning-Systems | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T11:37:41Z | test | https://github.com/abhaynaik-dev/fuzzy-googles | 0 | 0| 
+| 20230529T10:06:53Z | Fuzzer in websites, made in PHP language | https://github.com/mordare/phfuzz | 0 | 0| 
+| 20230529T10:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8687 | 1907| 
+| 20230529T09:32:40Z | Null | https://github.com/MoXuToS/Battery-charging-control-based-on-fuzzy-logic | 0 | 0| 
+| 20230529T09:30:24Z | A complete FCM algorithm for customer segmentation | https://github.com/mahsahamidi/Fuzzy-clustering-in-customer-segmentation | 0 | 0| 
+| 20230529T09:01:32Z | Null | https://github.com/12138zjc/fuzz | 0 | 0| 
 | 20230529T01:50:57Z | Null | https://github.com/ken-tank/Fuzzy_CMeans | 0 | 0| 
 | 20230529T00:30:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2738 | 185| 
 | 20230529T00:17:36Z | Create a fuzzy search method for matching user keyword queries with information in a dataframe | https://github.com/jasonz-12/fuzzy-search | 0 | 0| 
 | 20230528T23:38:10Z | Null | https://github.com/jusque-a-la-fin/Fuzzy-Logic-Recommendation-System | 0 | 0| 
-| 20230528T22:03:06Z | Null | https://github.com/LaserBunny/fuzzy-waffle | 0 | 0| 
-| 20230528T21:34:53Z | Null | https://github.com/Capsaicin1/fuzzy-fishstick | 0 | 0| 
-| 20230528T21:25:45Z | Null | https://github.com/EZbreezeEZ/fuzzy-pancake | 0 | 0| 
-| 20230528T15:43:22Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3600 | 427| 
-| 20230528T15:01:05Z | Null | https://github.com/google/fuzztest | 289 | 21| 
-| 20230528T11:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8684 | 1907| 
 
 
 
