@@ -78,9 +78,9 @@
 | 20230528T23:09:13Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 491 | 39| 
 | 20230528T23:09:05Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 496 | 94| 
 | 20230528T23:04:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 648 | 169| 
+| 20230528T22:48:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4972 | 626| 
 | 20230528T22:25:21Z | Artículos relacionados a la Ciberseguridad, Hacking y al Análisis de Malware. | https://github.com/bl4ck44/Articulos | 15 | 3| 
 | 20230528T16:47:16Z | A Typescript library to generate module for further code exploitation and stability | https://github.com/arthurlefevre/module_generator | 0 | 0| 
-| 20230528T14:51:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5008 | 982| 
 
 
 # backdoor on Github 推荐
@@ -134,12 +134,12 @@
 | 20230528T22:03:06Z | Null | https://github.com/LaserBunny/fuzzy-waffle | 0 | 0| 
 | 20230528T21:34:53Z | Null | https://github.com/Capsaicin1/fuzzy-fishstick | 0 | 0| 
 | 20230528T21:25:45Z | Null | https://github.com/EZbreezeEZ/fuzzy-pancake | 0 | 0| 
+| 20230528T15:43:22Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3600 | 427| 
 | 20230528T11:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8684 | 1907| 
 | 20230528T11:07:57Z | fuzzy-pancake | https://github.com/beritlombardi100/fuzzy-pancake | 0 | 0| 
 | 20230528T10:30:26Z | Null | https://github.com/Bagussandro/Fuzzy_G.211.20.0024.ipynb | 0 | 0| 
 | 20230528T09:45:39Z | Modified version of flipfrid with random rfid values | https://github.com/john6tain/rfidFuzzerJJ | 0 | 0| 
 | 20230528T07:58:21Z | The classification problem based on fuzzy clustering | https://github.com/lucky0914/The-classification-problem-based-on-fuzzy-clustering | 0 | 0| 
-| 20230527T23:56:28Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 16 | 0| 
 
 
 
