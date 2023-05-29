@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T00:44:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4973 | 626| 
 | 20230529T00:11:11Z | Comprehensive walkthroughs and solutions for PicoCTF challenges, providing step-by-step explanations and code snippets for binary exploitation, cryptography, forensics, reverse engineering, web exploitation, and general skills. | https://github.com/jaywyawhare/Pico-CTF | 1 | 0| 
 | 20230529T00:09:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7u | 1 | 0| 
 | 20230529T00:08:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7u | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230528T23:09:13Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 491 | 39| 
 | 20230528T23:09:05Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 496 | 94| 
 | 20230528T23:04:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 648 | 169| 
-| 20230528T22:48:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4972 | 626| 
 | 20230528T22:25:21Z | Artículos relacionados a la Ciberseguridad, Hacking y al Análisis de Malware. | https://github.com/bl4ck44/Articulos | 15 | 3| 
 | 20230528T16:47:16Z | A Typescript library to generate module for further code exploitation and stability | https://github.com/arthurlefevre/module_generator | 0 | 0| 
 
