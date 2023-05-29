@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T12:16:21Z | Null | https://github.com/Revioindra/Fuzzy-Cmeans | 0 | 0| 
 | 20230529T11:37:41Z | test | https://github.com/abhaynaik-dev/fuzzy-googles | 0 | 0| 
 | 20230529T10:06:53Z | Fuzzer in websites, made in PHP language | https://github.com/mordare/phfuzz | 0 | 0| 
 | 20230529T10:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8687 | 1907| 
@@ -139,7 +140,6 @@
 | 20230529T01:50:57Z | Null | https://github.com/ken-tank/Fuzzy_CMeans | 0 | 0| 
 | 20230529T00:30:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2738 | 185| 
 | 20230529T00:17:36Z | Create a fuzzy search method for matching user keyword queries with information in a dataframe | https://github.com/jasonz-12/fuzzy-search | 0 | 0| 
-| 20230528T23:38:10Z | Null | https://github.com/jusque-a-la-fin/Fuzzy-Logic-Recommendation-System | 0 | 0| 
 
 
 
