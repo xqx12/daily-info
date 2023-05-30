@@ -69,7 +69,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T12:35:51Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 170 | 18| 
+| 20230529T17:15:45Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 171 | 18| 
+| 20230529T16:06:51Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1320 | 60| 
+| 20230529T14:07:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 648 | 117| 
 
 
 # big4 on Github 推荐

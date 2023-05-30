@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T00:02:14Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1117 | 123| 
 | 20230529T22:59:57Z | EnvisionExploits is a thriving Roblox community focused on script creation. With talented members, they push Roblox%s boundaries, collaborate, and share expertise. They produce high-quality, reliable scripts that enhance gameplay. Known for attention to detail and innovation, their scripts cover game mods, automation, and UI enhancements. | https://github.com/Rylvns/EnvisionExploits | 3 | 0| 
 | 20230529T22:59:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5618 | 759| 
 | 20230529T22:47:20Z | Null | https://github.com/Test051620110516/Redwood-prison-exploits | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230529T11:53:56Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0099-app-zfaeQ-belong-exploit | 0 | 0| 
 | 20230529T11:50:16Z | Null | https://github.com/mikebrownlee/exploitphp.py | 0 | 0| 
 | 20230529T11:43:33Z | Process Migration to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/ProcessMigration | 0 | 0| 
-| 20230529T10:31:42Z | Inspired by the CIA%s Top Secret projects revealed by Wikileaks, this scripts can spy an router | https://github.com/d0ra1mon/d0raSpy | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -101,7 +101,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T12:35:51Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 170 | 18| 
+| 20230529T17:15:45Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 171 | 18| 
+| 20230529T16:06:51Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1320 | 60| 
+| 20230529T14:07:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 648 | 117| 
 | 20230528T16:37:35Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 88 | 2| 
 | 20230528T15:09:15Z | Development of the static analyzer based on symbolic execution | https://github.com/IdeaSeeker/BachelorThesis | 0 | 0| 
 | 20230528T13:34:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3458 | 480| 
@@ -109,8 +111,6 @@
 | 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
 | 20230527T10:30:57Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 330 | 27| 
 | 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
-| 20230525T13:37:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 767 | 88| 
-| 20230525T13:35:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 647 | 117| 
 
 
 # big4 on Github 推荐
