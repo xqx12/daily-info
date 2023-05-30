@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T11:48:49Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 476 | 62| 
 | 20230530T11:47:08Z | Null | https://github.com/Pedroaragao03/fuzzy | 0 | 0| 
 | 20230530T11:12:40Z | A project for practicing rust. | https://github.com/PHSix/fuzzy-files | 0 | 0| 
 | 20230530T10:57:38Z | 大陆地区手机号模糊枚举 | https://github.com/s045pd/PhoneFuzz | 1 | 0| 
@@ -140,7 +141,6 @@
 | 20230530T00:06:04Z | Null | https://github.com/JhonnyHA/FuzzyLogicApp | 0 | 0| 
 | 20230530T00:04:39Z | Null | https://github.com/TinrLin/fuzzy-computing-machine | 0 | 0| 
 | 20230529T23:56:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2138 | 269| 
-| 20230529T23:40:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46821 | 22998| 
 
 
 
