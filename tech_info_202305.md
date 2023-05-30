@@ -78,9 +78,9 @@
 | 20230529T22:26:57Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 623 | 38| 
 | 20230529T16:28:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5010 | 982| 
 | 20230529T16:20:57Z | Token Elevation to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/TokenElevation | 2 | 0| 
+| 20230529T15:32:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4976 | 626| 
 | 20230529T11:53:56Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0099-app-zfaeQ-belong-exploit | 0 | 0| 
 | 20230529T11:50:16Z | Null | https://github.com/mikebrownlee/exploitphp.py | 0 | 0| 
-| 20230529T11:43:33Z | Process Migration to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/ProcessMigration | 0 | 0| 
 
 
 # backdoor on Github 推荐
