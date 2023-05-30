@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230530T12:57:01Z | 未知编号 | Null | https://github.com/nguyendinhmanh1111/CVE2023 | | 
 | 20230530T12:16:36Z | CVE-2022-20493 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2022-20493 | | 
 | 20230530T10:54:12Z | CVE-2023-33246 | Null | https://github.com/I5N0rth/CVE-2023-33246 | | 
 | 20230530T10:39:16Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
