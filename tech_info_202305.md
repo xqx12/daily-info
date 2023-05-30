@@ -116,7 +116,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230529T04:21:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 672 | 104| 
+| 20230530T12:02:32Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 673 | 104| 
+| 20230530T11:40:09Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 54 | 5| 
 | 20230526T09:23:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 46 | 3| 
 | 20230525T07:59:18Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 17 | 1| 
 | 20230524T05:15:02Z | StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors, NDSS 2023 | https://github.com/Samsonsjarkal/StealthyIMU | 10 | 2| 
