@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230530 | 深入研究 Yara 扫描性能 | https://mp.weixin.qq.com/s/hBqgva5rXx19pd3IponwWw| 
 | 20230529 | SecWiki周刊（第482期) | https://www.sec-wiki.com/weekly/482| 
 | 20230529 | KeePass 内存泄露主密码漏洞分析 | https://mp.weixin.qq.com/s/7dupVLdaBWEsR3a54abVlg| 
 | 20230529 | State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程 | https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg?from=timeline| 
@@ -20,37 +21,36 @@
 | 20230526 | 量子注入攻击的流量特征及检测方法 | https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ| 
 | 20230525 | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ| 
 | 20230524 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w| 
-| 20230524 | 数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230530T01:35:16Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230530T10:54:12Z | CVE-2023-33246 | Null | https://github.com/I5N0rth/CVE-2023-33246 | | 
+| 20230530T10:39:16Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230530T08:43:02Z | CVE-2023-21839 | Null | https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner | | 
+| 20230530T07:05:44Z | CVE-2023-2825 | the proof of concept written in Python for an unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups. This is a critical severity issue  | https://github.com/Tornad0007/CVE-2023-2825-Gitlab | | 
 | 20230529T16:53:26Z | CVE-2023-29923 | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | https://github.com/Le1a/CVE-2023-29923 | | 
 | 20230529T15:21:05Z | CVE-2021-31233 | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | https://github.com/gabesolomon/CVE-2021-31233 | | 
 | 20230529T14:52:41Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
 | 20230529T08:23:35Z | CVE-2023-30212 | Null | https://github.com/kai-iszz/CVE-2023-30212 | | 
 | 20230529T06:38:08Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796 | | 
 | 20230528T12:31:10Z | CVE-2022-30190 | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | | 
-| 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
-| 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
-| 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T07:37:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2234 | 618| 
+| 20230530T06:49:14Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 21 | 10| 
+| 20230530T06:43:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 293 | 6| 
 | 20230529T23:41:49Z | KLEE Portfolio | https://github.com/Kyungho0511/Kyungho0511.github.io | 0 | 0| 
-| 20230529T23:35:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 292 | 6| 
 | 20230529T03:19:27Z | Null | https://github.com/user-styles/klees | 0 | 0| 
 | 20230528T14:26:37Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 1| 
 | 20230527T13:40:15Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 1 | 1| 
-| 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
 | 20230526T16:35:04Z | Null | https://github.com/srg-imperial/klee-fp-parboil-opencl | 0 | 0| 
 | 20230526T16:34:56Z | Null | https://github.com/srg-imperial/klee-fp-uclibc | 0 | 0| 
 | 20230526T16:34:27Z | Null | https://github.com/srg-imperial/klee-fp-opencv | 0 | 0| 
-| 20230526T16:34:05Z | Null | https://github.com/srg-imperial/klee-fp-opencl | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T11:23:46Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
+| 20230530T10:56:54Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 261 | 54| 
+| 20230530T10:51:15Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1806 | 184| 
+| 20230530T08:50:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5014 | 983| 
+| 20230530T08:46:50Z | Tools for exploiting Discrete Morphological Symmetries (DMS) in rigid body dynamics using Equivariant Neural Networks | https://github.com/Danfoa/MorphoSymm | 4 | 1| 
+| 20230530T08:12:53Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5257 | 420| 
+| 20230530T07:00:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5136 | 734| 
+| 20230530T06:42:59Z | Given a corrupted image with missing pixels, this project exploits the sparsity in natural images to reconstruct the original image via compressed sensing signal processing. | https://github.com/elliothha/Compressed-Sensing-Image-Recovery | 1 | 0| 
 | 20230530T01:31:54Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z6 | 1 | 0| 
 | 20230530T01:31:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z6 | 1 | 0| 
-| 20230530T01:30:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z6 | 1 | 0| 
-| 20230530T00:02:14Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1117 | 123| 
-| 20230529T22:59:57Z | EnvisionExploits is a thriving Roblox community focused on script creation. With talented members, they push Roblox%s boundaries, collaborate, and share expertise. They produce high-quality, reliable scripts that enhance gameplay. Known for attention to detail and innovation, their scripts cover game mods, automation, and UI enhancements. | https://github.com/Rylvns/EnvisionExploits | 3 | 0| 
-| 20230529T22:59:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5618 | 759| 
-| 20230529T22:47:20Z | Null | https://github.com/Test051620110516/Redwood-prison-exploits | 0 | 0| 
-| 20230529T22:26:57Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 623 | 38| 
-| 20230529T16:28:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5010 | 982| 
-| 20230529T16:20:57Z | Token Elevation to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/TokenElevation | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T11:47:08Z | Null | https://github.com/Pedroaragao03/fuzzy | 0 | 0| 
+| 20230530T11:12:40Z | A project for practicing rust. | https://github.com/PHSix/fuzzy-files | 0 | 0| 
+| 20230530T10:57:38Z | 大陆地区手机号模糊枚举 | https://github.com/s045pd/PhoneFuzz | 1 | 0| 
+| 20230530T10:10:05Z | Null | https://github.com/kry4tall/FUZZ-BFT-SMaRt | 0 | 0| 
+| 20230530T09:49:11Z | Null | https://github.com/tashadvna/Fuzzy-G.211.20.0048 | 0 | 0| 
 | 20230530T00:24:44Z | Null | https://github.com/ViniPetra/fuzzy | 0 | 0| 
 | 20230530T00:06:04Z | Null | https://github.com/JhonnyHA/FuzzyLogicApp | 0 | 0| 
 | 20230530T00:04:39Z | Null | https://github.com/TinrLin/fuzzy-computing-machine | 0 | 0| 
 | 20230529T23:56:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2138 | 269| 
 | 20230529T23:40:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46821 | 22998| 
-| 20230529T21:39:11Z | Null | https://github.com/DeNiCoN/fuzzy_algorithms | 0 | 0| 
-| 20230529T21:19:40Z | Null | https://github.com/88EternaL/fuzzy-giggle | 0 | 0| 
-| 20230529T20:52:07Z | Null | https://github.com/mjnrock/fuzzyknights | 0 | 0| 
-| 20230529T19:34:10Z | Null | https://github.com/ImAllergicToFish/NeuroFuzzyClusterModel | 0 | 0| 
-| 20230529T15:40:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2740 | 185| 
 
 
 
