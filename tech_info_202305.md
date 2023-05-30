@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T01:31:54Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z6 | 1 | 0| 
+| 20230530T01:31:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z6 | 1 | 0| 
+| 20230530T01:30:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z6 | 1 | 0| 
 | 20230530T00:02:14Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1117 | 123| 
 | 20230529T22:59:57Z | EnvisionExploits is a thriving Roblox community focused on script creation. With talented members, they push Roblox%s boundaries, collaborate, and share expertise. They produce high-quality, reliable scripts that enhance gameplay. Known for attention to detail and innovation, their scripts cover game mods, automation, and UI enhancements. | https://github.com/Rylvns/EnvisionExploits | 3 | 0| 
 | 20230529T22:59:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5618 | 759| 
@@ -78,9 +81,6 @@
 | 20230529T22:26:57Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 623 | 38| 
 | 20230529T16:28:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5010 | 982| 
 | 20230529T16:20:57Z | Token Elevation to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/TokenElevation | 2 | 0| 
-| 20230529T15:32:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4976 | 626| 
-| 20230529T11:53:56Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0099-app-zfaeQ-belong-exploit | 0 | 0| 
-| 20230529T11:50:16Z | Null | https://github.com/mikebrownlee/exploitphp.py | 0 | 0| 
 
 
 # backdoor on Github 推荐
