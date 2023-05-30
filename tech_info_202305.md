@@ -26,21 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230529T12:40:52Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
-| 20230529T10:51:10Z | CVE-2023-29923 | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | https://github.com/Le1a/CVE-2023-29923 | | 
+| 20230529T23:47:56Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230529T16:53:26Z | CVE-2023-29923 | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | https://github.com/Le1a/CVE-2023-29923 | | 
+| 20230529T15:21:05Z | CVE-2021-31233 | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | https://github.com/gabesolomon/CVE-2021-31233 | | 
+| 20230529T14:52:41Z | CVE-2023-33829 | Proof of Concept about a XSS Stored in SCM Manager 1.2 <= 1.60 | https://github.com/n3gox/CVE-2023-33829 | | 
 | 20230529T08:23:35Z | CVE-2023-30212 | Null | https://github.com/kai-iszz/CVE-2023-30212 | | 
 | 20230529T06:38:08Z | CVE-2020-0796 | WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc. | https://github.com/Ajomix/CVE-2020-0796 | | 
 | 20230528T12:31:10Z | CVE-2022-30190 | An exploitation of CVE-2022-30190 (Follina) | https://github.com/meowhua15/CVE-2022-30190 | | 
 | 20230528T02:14:37Z | CVE-2023-2825 | CVE-2023-2825 list | https://github.com/yuimarudev/CVE-2023-2825 | | 
 | 20230527T20:41:23Z | CVE-2023-2822 | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | https://github.com/cberman/CVE-2023-2822-demo | | 
 | 20230527T15:35:58Z | CVE-2023-28432 | MinIO Information Disclosure Vulnerability scanner by metasploit | https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner | | 
-| 20230527T15:09:06Z | CVE-2023-27350 | Perfom With Massive Authentication Bypass In PaperCut MF/NG | https://github.com/Pari-Malam/CVE-2023-27350 | | 
-| 20230527T11:39:15Z | CVE-2023-30212 | Exploit-the-CVE-2023-30212-vulnerability | https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T23:41:49Z | KLEE Portfolio | https://github.com/Kyungho0511/Kyungho0511.github.io | 0 | 0| 
+| 20230529T23:35:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 292 | 6| 
 | 20230529T03:19:27Z | Null | https://github.com/user-styles/klees | 0 | 0| 
 | 20230528T14:26:37Z | :symbols: SOFT130080 (Software Quality Assurance and Testing) Lab: Symbolic Exefcution in klee | https://github.com/FudanSELab/SQAT-klee-lab | 3 | 1| 
 | 20230527T13:40:15Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 1 | 1| 
@@ -49,8 +51,6 @@
 | 20230526T16:34:56Z | Null | https://github.com/srg-imperial/klee-fp-uclibc | 0 | 0| 
 | 20230526T16:34:27Z | Null | https://github.com/srg-imperial/klee-fp-opencv | 0 | 0| 
 | 20230526T16:34:05Z | Null | https://github.com/srg-imperial/klee-fp-opencl | 0 | 0| 
-| 20230526T16:28:22Z | KLEE-FP / KLEE-CL | https://github.com/srg-imperial/klee-fp | 0 | 0| 
-| 20230526T09:24:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 290 | 6| 
 
 
 # s2e on Github 推荐
@@ -71,21 +71,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T22:59:57Z | EnvisionExploits is a thriving Roblox community focused on script creation. With talented members, they push Roblox%s boundaries, collaborate, and share expertise. They produce high-quality, reliable scripts that enhance gameplay. Known for attention to detail and innovation, their scripts cover game mods, automation, and UI enhancements. | https://github.com/Rylvns/EnvisionExploits | 3 | 0| 
+| 20230529T22:59:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5618 | 759| 
+| 20230529T22:47:20Z | Null | https://github.com/Test051620110516/Redwood-prison-exploits | 0 | 0| 
+| 20230529T22:26:57Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 623 | 38| 
+| 20230529T16:28:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5010 | 982| 
+| 20230529T16:20:57Z | Token Elevation to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/TokenElevation | 2 | 0| 
 | 20230529T11:53:56Z | GitOps Repository | https://github.com/pmacik-testing/ci-10u-10t-0099-app-zfaeQ-belong-exploit | 0 | 0| 
 | 20230529T11:50:16Z | Null | https://github.com/mikebrownlee/exploitphp.py | 0 | 0| 
 | 20230529T11:43:33Z | Process Migration to authorized user as SYSTEM or Domain Admins | https://github.com/termanix/ProcessMigration | 0 | 0| 
 | 20230529T10:31:42Z | Inspired by the CIA%s Top Secret projects revealed by Wikileaks, this scripts can spy an router | https://github.com/d0ra1mon/d0raSpy | 1 | 0| 
-| 20230529T10:22:48Z | Pathmarker exploit | https://github.com/Maisner0513/Pathmarker | 0 | 0| 
-| 20230529T09:59:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5131 | 734| 
-| 20230529T09:26:47Z | Null | https://github.com/ZeusDev08/RBLX-EXPLOITS | 0 | 0| 
-| 20230529T09:19:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5011 | 982| 
-| 20230529T08:52:56Z | Rusty Arsenal - Process Injection / Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 124 | 21| 
-| 20230529T08:22:02Z | Exploiting Transformer in Reinforcement Learning for Interpretable Temporal Logic Motion Planning (Under-review) | https://github.com/Charlie0257/T2TL | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T22:20:11Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 3 | 3| 
+| 20230529T22:19:59Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRat-V4-Latest-Version-For-Lifetime | 0 | 0| 
+| 20230529T22:08:21Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRAT-latest-version-4.5 | 0 | 0| 
 | 20230529T09:35:42Z | 666 Encryption is an algorithm that let%s you encrypt information in a ciphertext of numbers. Protected by the MIT License and Open Source Patent License. Created by Christopher Mark Clark in America and Artur Agababian in Russia. 666Encryption code is free. Make all the money you want with it!!! Please go by the license. No backdoors or keys. | https://github.com/666Encryption/demo | 0 | 1| 
 | 20230529T02:48:14Z | Null | https://github.com/shang2woman/backdoor | 0 | 0| 
 | 20230529T01:40:47Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 22 | 1| 
@@ -93,9 +96,6 @@
 | 20230528T21:48:19Z | A Java backdoor server for hacking a machine with Tomcat | https://github.com/Cicim/java-server-backdoor | 0 | 0| 
 | 20230528T21:19:21Z | Null | https://github.com/Irtesaam/backdoor | 1 | 0| 
 | 20230528T21:09:24Z | Null | https://github.com/BaarTeek123/android_binary_backdoor | 0 | 0| 
-| 20230528T17:43:35Z | Null | https://github.com/roranwilliam/python-backdoor | 0 | 0| 
-| 20230528T14:11:41Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 2 | 1| 
-| 20230528T12:56:44Z | Discord Bot Backdoor sample  | https://github.com/Gluonjustforyou/Discord-Bot-Backdoor-ex. | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230529T23:56:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2138 | 269| 
+| 20230529T23:56:00Z | Null | https://github.com/JhonnyHA/FuzzyLogicApp | 0 | 0| 
+| 20230529T23:40:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46821 | 22998| 
+| 20230529T21:39:11Z | Null | https://github.com/DeNiCoN/fuzzy_algorithms | 0 | 0| 
+| 20230529T21:19:40Z | Null | https://github.com/88EternaL/fuzzy-giggle | 0 | 0| 
+| 20230529T20:52:07Z | Null | https://github.com/mjnrock/fuzzyknights | 0 | 0| 
+| 20230529T19:34:10Z | Null | https://github.com/ImAllergicToFish/NeuroFuzzyClusterModel | 0 | 0| 
+| 20230529T15:40:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2740 | 185| 
+| 20230529T15:06:42Z | Null | https://github.com/philbeliveau/Fuzzy_FTS | 0 | 0| 
 | 20230529T12:16:21Z | Null | https://github.com/Revioindra/Fuzzy-Cmeans | 0 | 0| 
-| 20230529T11:37:41Z | test | https://github.com/abhaynaik-dev/fuzzy-googles | 0 | 0| 
-| 20230529T10:06:53Z | Fuzzer in websites, made in PHP language | https://github.com/mordare/phfuzz | 0 | 0| 
-| 20230529T10:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8687 | 1907| 
-| 20230529T09:32:40Z | Null | https://github.com/MoXuToS/Battery-charging-control-based-on-fuzzy-logic | 0 | 0| 
-| 20230529T09:30:24Z | A complete FCM algorithm for customer segmentation | https://github.com/mahsahamidi/Fuzzy-clustering-in-customer-segmentation | 0 | 0| 
-| 20230529T09:01:32Z | Null | https://github.com/12138zjc/fuzz | 0 | 0| 
-| 20230529T01:50:57Z | Null | https://github.com/ken-tank/Fuzzy_CMeans | 0 | 0| 
-| 20230529T00:30:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2738 | 185| 
-| 20230529T00:17:36Z | Create a fuzzy search method for matching user keyword queries with information in a dataframe | https://github.com/jasonz-12/fuzzy-search | 0 | 0| 
 
 
 
