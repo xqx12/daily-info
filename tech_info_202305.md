@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T00:24:44Z | Null | https://github.com/ViniPetra/fuzzy | 0 | 0| 
 | 20230530T00:06:04Z | Null | https://github.com/JhonnyHA/FuzzyLogicApp | 0 | 0| 
 | 20230530T00:04:39Z | Null | https://github.com/TinrLin/fuzzy-computing-machine | 0 | 0| 
 | 20230529T23:56:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2138 | 269| 
@@ -139,7 +140,6 @@
 | 20230529T20:52:07Z | Null | https://github.com/mjnrock/fuzzyknights | 0 | 0| 
 | 20230529T19:34:10Z | Null | https://github.com/ImAllergicToFish/NeuroFuzzyClusterModel | 0 | 0| 
 | 20230529T15:40:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2740 | 185| 
-| 20230529T15:06:42Z | Null | https://github.com/philbeliveau/Fuzzy_FTS | 0 | 0| 
 
 
 
