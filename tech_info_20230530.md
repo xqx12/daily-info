@@ -54,12 +54,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T08:25:13Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRAT-latest-version-4.5 | 0 | 0| 
+| 20230530T08:22:41Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRat-V4-Latest-Version-For-Lifetime | 0 | 0| 
+| 20230530T03:42:34Z | Null | https://github.com/aromero18020/Kali-Linux-Backdoor | 0 | 0| 
+| 20230530T03:38:31Z | This is a server script designed to be run on a Kali Linux machine. It listens for a backdoor connection on the target machine. | https://github.com/aromero18020/Kali-Linux-BD-Server | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230530T00:25:01Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 172 | 18| 
+| 20230530T08:08:17Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 173 | 18| 
+| 20230530T08:07:03Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 331 | 27| 
+| 20230530T07:37:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2234 | 618| 
 
 
 # big4 on Github 推荐

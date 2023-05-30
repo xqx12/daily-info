@@ -86,22 +86,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230530T08:25:13Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRAT-latest-version-4.5 | 0 | 0| 
+| 20230530T08:22:41Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRat-V4-Latest-Version-For-Lifetime | 0 | 0| 
+| 20230530T03:42:34Z | Null | https://github.com/aromero18020/Kali-Linux-Backdoor | 0 | 0| 
+| 20230530T03:38:31Z | This is a server script designed to be run on a Kali Linux machine. It listens for a backdoor connection on the target machine. | https://github.com/aromero18020/Kali-Linux-BD-Server | 0 | 0| 
 | 20230529T22:20:11Z | Definitely not a backdoor. Nope. No backdoor. Stop looking... | https://github.com/serverscanning/NotABackdoor | 3 | 3| 
-| 20230529T22:19:59Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRat-V4-Latest-Version-For-Lifetime | 0 | 0| 
-| 20230529T22:08:21Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Ledear-dev/CraxsRAT-latest-version-4.5 | 0 | 0| 
 | 20230529T09:35:42Z | 666 Encryption is an algorithm that let%s you encrypt information in a ciphertext of numbers. Protected by the MIT License and Open Source Patent License. Created by Christopher Mark Clark in America and Artur Agababian in Russia. 666Encryption code is free. Make all the money you want with it!!! Please go by the license. No backdoors or keys. | https://github.com/666Encryption/demo | 0 | 1| 
 | 20230529T02:48:14Z | Null | https://github.com/shang2woman/backdoor | 0 | 0| 
 | 20230529T01:40:47Z | Null | https://github.com/C0ba1t/Ro3b-HTTP-botnet | 22 | 1| 
 | 20230528T23:10:39Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 448 | 84| 
 | 20230528T21:48:19Z | A Java backdoor server for hacking a machine with Tomcat | https://github.com/Cicim/java-server-backdoor | 0 | 0| 
-| 20230528T21:19:21Z | Null | https://github.com/Irtesaam/backdoor | 1 | 0| 
-| 20230528T21:09:24Z | Null | https://github.com/BaarTeek123/android_binary_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230530T00:25:01Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 172 | 18| 
+| 20230530T08:08:17Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 173 | 18| 
+| 20230530T08:07:03Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 331 | 27| 
+| 20230530T07:37:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2234 | 618| 
 | 20230529T16:06:51Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1320 | 60| 
 | 20230529T14:07:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 648 | 117| 
 | 20230528T16:37:35Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 88 | 2| 
@@ -109,8 +111,6 @@
 | 20230528T13:34:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3458 | 480| 
 | 20230527T17:36:41Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 37 | 24| 
 | 20230527T11:18:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 338 | 80| 
-| 20230527T10:30:57Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 330 | 27| 
-| 20230526T16:55:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2233 | 618| 
 
 
 # big4 on Github 推荐
