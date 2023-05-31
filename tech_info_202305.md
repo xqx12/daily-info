@@ -77,10 +77,10 @@
 | 20230531T00:15:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3r | 1 | 0| 
 | 20230530T23:49:25Z | Null | https://github.com/FUCKGIRLSUCCUBUS2/exploits | 1 | 0| 
 | 20230530T22:23:12Z |  A module for Roblox that provides a set of utility functions for common tasks in exploiting. | https://github.com/synnyyy/refine | 0 | 0| 
+| 20230530T22:08:37Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 11 | 1| 
 | 20230530T21:37:01Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 21 | 3| 
 | 20230530T19:02:42Z | Null | https://github.com/m-kis/imperva-exploit | 0 | 0| 
 | 20230530T18:42:07Z | Python is not as safe as people believe. This repository demonstrates the eval exploit. | https://github.com/Kolby-MacDonald/Vulnerable-Calculator | 0 | 0| 
-| 20230530T11:23:46Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
 
 
 # backdoor on Github 推荐
