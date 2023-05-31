@@ -136,11 +136,11 @@
 | 20230531T00:40:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3605 | 427| 
 | 20230530T23:26:48Z | Null | https://github.com/yzhang71/nearcore-fuzz | 0 | 0| 
 | 20230530T22:29:08Z | aziap | https://github.com/hsmtkk/fuzzy-giggle | 0 | 0| 
+| 20230530T21:51:57Z | Null | https://github.com/google/fuzztest | 291 | 21| 
 | 20230530T19:13:33Z | Fuzzy searching library for Odin | https://github.com/developer-3/fuzzy-odin | 0 | 0| 
 | 20230530T17:44:42Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 16 | 0| 
 | 20230530T11:48:49Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 476 | 62| 
 | 20230530T11:47:08Z | Null | https://github.com/Pedroaragao03/fuzzy | 0 | 0| 
-| 20230530T11:12:40Z | A project for practicing rust. | https://github.com/PHSix/fuzzy-files | 0 | 0| 
 
 
 
