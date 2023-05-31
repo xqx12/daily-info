@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T01:01:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2741 | 185| 
 | 20230531T00:42:34Z | Null | https://github.com/FuzzyYeti757/FuzzyYeti757 | 0 | 0| 
 | 20230531T00:40:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3605 | 427| 
 | 20230530T23:26:48Z | Null | https://github.com/yzhang71/nearcore-fuzz | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230530T11:48:49Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 476 | 62| 
 | 20230530T11:47:08Z | Null | https://github.com/Pedroaragao03/fuzzy | 0 | 0| 
 | 20230530T11:12:40Z | A project for practicing rust. | https://github.com/PHSix/fuzzy-files | 0 | 0| 
-| 20230530T10:57:38Z | 大陆地区手机号模糊枚举 | https://github.com/s045pd/PhoneFuzz | 1 | 0| 
 
 
 
