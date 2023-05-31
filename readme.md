@@ -96,7 +96,7 @@
 | 20230530T11:48:49Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 476 | 62| 
 | 20230530T11:47:08Z | Null | https://github.com/Pedroaragao03/fuzzy | 0 | 0| 
 | 20230530T11:12:40Z | A project for practicing rust. | https://github.com/PHSix/fuzzy-files | 0 | 0| 
-| 20230530T10:57:38Z | 大陆地区手机号模糊枚举 | https://github.com/s045pd/PhoneFuzz | 1 | 0| 
+| 20230530T10:57:38Z | 大陆地区手机号模糊枚举 | https://github.com/s045pd/PhoneFuzz | 1 | 1| 
 | 20230530T10:10:05Z | Null | https://github.com/kry4tall/FUZZ-BFT-SMaRt | 0 | 0| 
 | 20230530T09:49:11Z | Null | https://github.com/tashadvna/Fuzzy-G.211.20.0048 | 0 | 0| 
 
