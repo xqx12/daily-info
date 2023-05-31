@@ -57,6 +57,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T08:50:27Z | Null | https://github.com/gegenius/backdoor-python | 1 | 0| 
+| 20230531T07:00:57Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 450 | 84| 
+| 20230531T05:46:47Z | Null | https://github.com/ariful2020/wordpress-backdoor-code | 0 | 0| 
+| 20230531T03:07:41Z | Multithreaded backdoor written in C for educational purposes ONLY. | https://github.com/Dashbloxx/H3X | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
