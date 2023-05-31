@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T12:46:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 649 | 169| 
 | 20230531T12:27:09Z | Handwritten Exploits | https://github.com/KianBahasadri/exploits | 0 | 0| 
 | 20230531T12:20:06Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 3 | 1| 
 | 20230531T10:00:12Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230531T01:25:59Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 22 | 3| 
 | 20230531T01:24:23Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 12 | 1| 
 | 20230531T00:22:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4982 | 625| 
-| 20230531T00:16:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3r | 1 | 0| 
 
 
 # backdoor on Github 推荐
