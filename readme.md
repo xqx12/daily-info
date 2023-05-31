@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230531T12:25:22Z | Handwritten Exploits | https://github.com/KianBahasadri/exploits | 0 | 0| 
+| 20230531T12:27:09Z | Handwritten Exploits | https://github.com/KianBahasadri/exploits | 0 | 0| 
 | 20230531T12:20:06Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 3 | 1| 
 | 20230531T10:00:12Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
 | 20230531T08:17:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5138 | 735| 
