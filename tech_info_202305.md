@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T00:22:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4982 | 625| 
+| 20230531T00:16:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3r | 1 | 0| 
+| 20230531T00:15:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3r | 1 | 0| 
+| 20230531T00:15:03Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3r | 1 | 0| 
 | 20230530T23:49:25Z | Null | https://github.com/FUCKGIRLSUCCUBUS2/exploits | 1 | 0| 
 | 20230530T22:23:12Z |  A module for Roblox that provides a set of utility functions for common tasks in exploiting. | https://github.com/synnyyy/refine | 0 | 0| 
 | 20230530T21:37:01Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 21 | 3| 
 | 20230530T19:02:42Z | Null | https://github.com/m-kis/imperva-exploit | 0 | 0| 
 | 20230530T18:42:07Z | Python is not as safe as people believe. This repository demonstrates the eval exploit. | https://github.com/Kolby-MacDonald/Vulnerable-Calculator | 0 | 0| 
-| 20230530T14:56:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4981 | 625| 
 | 20230530T11:23:46Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
-| 20230530T10:56:54Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 261 | 54| 
-| 20230530T10:51:15Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1806 | 184| 
-| 20230530T10:07:33Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 219 | 43| 
 
 
 # backdoor on Github 推荐
