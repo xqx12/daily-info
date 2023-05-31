@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230530T23:49:25Z | Null | https://github.com/FUCKGIRLSUCCUBUS2/exploits | 1 | 0| 
 | 20230530T22:23:12Z |  A module for Roblox that provides a set of utility functions for common tasks in exploiting. | https://github.com/synnyyy/refine | 0 | 0| 
-| 20230530T21:37:01Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 21 | 3| 
 | 20230530T19:02:42Z | Null | https://github.com/m-kis/imperva-exploit | 0 | 0| 
 | 20230530T18:42:07Z | Python is not as safe as people believe. This repository demonstrates the eval exploit. | https://github.com/Kolby-MacDonald/Vulnerable-Calculator | 0 | 0| 
 | 20230530T11:23:46Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20230530T10:51:15Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1806 | 184| 
 | 20230530T10:07:33Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 219 | 43| 
 | 20230530T08:50:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5014 | 983| 
+| 20230530T08:46:50Z | Tools for exploiting Discrete Morphological Symmetries (DMS) in rigid body dynamics using Equivariant Neural Networks | https://github.com/Danfoa/MorphoSymm | 4 | 1| 
 
 
 # backdoor on Github 推荐
