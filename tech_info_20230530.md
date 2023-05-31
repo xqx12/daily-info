@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230530T22:23:01Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
 | 20230530T22:03:33Z | CVE-2023-33246 | Null | https://github.com/I5N0rth/CVE-2023-33246 | | 
 | 20230530T19:40:20Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230530T18:48:19Z | CVE-2023-33733 | Null | https://github.com/sahiloj/CVE-2023-33733 | | 
@@ -27,6 +26,7 @@
 | 20230530T12:57:01Z | 未知编号 | Null | https://github.com/nguyendinhmanh1111/CVE2023 | | 
 | 20230530T12:16:36Z | CVE-2022-20493 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2022-20493 | | 
 | 20230530T08:43:02Z | CVE-2023-21839 | Null | https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner | | 
+| 20230530T07:05:44Z | CVE-2023-2825 | the proof of concept written in Python for an unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups. This is a critical severity issue  | https://github.com/Tornad0007/CVE-2023-2825-Gitlab | | 
 
 
 # klee on Github 推荐
