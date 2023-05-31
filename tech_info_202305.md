@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230531T11:56:49Z | CVE-2022-20489 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489 | | 
+| 20230531T12:05:37Z | CVE-2022-20489 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489 | | 
 | 20230531T11:56:29Z | CVE-2022-20489 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old | | 
 | 20230531T10:57:31Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230531T10:52:34Z | CVE-2022-20490 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490 | | 
