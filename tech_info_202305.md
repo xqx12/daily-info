@@ -76,11 +76,11 @@
 | 20230531T10:00:12Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
 | 20230531T08:17:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5138 | 735| 
 | 20230531T05:35:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5015 | 984| 
+| 20230531T03:42:05Z | This is the hosting .js code for exploit sites like hdjksha38n3.us.to | https://github.com/cCat0/panel | 0 | 0| 
 | 20230531T01:25:59Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 22 | 3| 
 | 20230531T01:24:23Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 12 | 1| 
 | 20230531T00:22:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4982 | 625| 
 | 20230531T00:16:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3r | 1 | 0| 
-| 20230531T00:15:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3r | 1 | 0| 
 
 
 # backdoor on Github 推荐
