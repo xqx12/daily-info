@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230601T12:47:39Z | Null | https://github.com/sungbin/new_dynamic_fuzzing_driver | 0 | 0| 
 | 20230601T12:43:04Z | Null | https://github.com/sudiptabhuyan1/Fuzzy-Fusion-SOD | 0 | 0| 
 | 20230601T12:38:18Z | Practical fuzzing examples for the mastering fuzzing talk | https://github.com/Elpacos/mastering-fuzzing | 0 | 0| 
 | 20230601T11:23:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46882 | 23002| 
@@ -89,7 +90,6 @@
 | 20230601T10:03:08Z | Null | https://github.com/daihui688/cmpp_fuzz | 0 | 0| 
 | 20230601T09:08:07Z | A tool for fuzzing random optimized C programs and detect side-channel vulnerabilities. | https://github.com/anbclausen/optifuzz | 0 | 0| 
 | 20230601T08:23:37Z | Null | https://github.com/AIRKEYL/SeqDivFuzz | 0 | 0| 
-| 20230601T08:21:39Z | txt match | https://github.com/lix19937/fuzzy-matching | 0 | 0| 
 
 
 
