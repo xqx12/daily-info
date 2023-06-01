@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230601T12:29:55Z | CVE-2023-3009 | Stored XSS vulnerability in Teampass < 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi          | https://github.com/mnqazi/CVE-2023-3009 | | 
 | 20230601T12:23:55Z | CVE-2022-0778 | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | https://github.com/Mrlucas5550100/PoC-CVE-2022-0778- | | 
 | 20230601T11:31:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230601T11:26:58Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
@@ -25,7 +26,6 @@
 | 20230601T07:23:12Z | CVE-2023-28121 | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/CVE-2023-28121 | | 
 | 20230601T03:27:56Z | CVE-2023-33732 | Null | https://github.com/sahiloj/CVE-2023-33732 | | 
 | 20230601T01:44:57Z | CVE-2022-29455 | Null | https://github.com/tucommenceapousser/CVE-2022-29455-mass | | 
-| 20230601T01:42:09Z | CVE-2022-29455 | Null | https://github.com/tucommenceapousser/CVE-2022-29455 | | 
 
 
 # klee on Github 推荐
