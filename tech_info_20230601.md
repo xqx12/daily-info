@@ -89,7 +89,7 @@
 | 20230601T08:23:37Z | Null | https://github.com/AIRKEYL/SeqDivFuzz | 0 | 0| 
 | 20230601T08:21:39Z | txt match | https://github.com/lix19937/fuzzy-matching | 0 | 0| 
 | 20230601T08:02:13Z | Null | https://github.com/blinkybool/fuzz | 0 | 0| 
-| 20230601T05:43:18Z | Null | https://github.com/ParyaniSagar/ProductAnalytics-MavenFuzzy | 0 | 0| 
+| 20230601T07:44:40Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 191 | 28| 
 
 
 
