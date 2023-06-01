@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230601T12:17:57Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 26 | 9| 
 | 20230601T07:47:20Z | GIGABYTE Backdoor Detection | https://github.com/CE2Sec/GIGABYTEBackdoorDetection | 0 | 0| 
 | 20230601T02:08:56Z | Kernel  rk | https://github.com/carloslack/KoviD | 140 | 30| 
 | 20230601T00:44:43Z | Multithreaded backdoor written in C for educational purposes ONLY. | https://github.com/Dashbloxx/H3X | 1 | 0| 
