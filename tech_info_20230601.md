@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230601T12:38:18Z | Practical fuzzing examples for the mastering fuzzing talk | https://github.com/Elpacos/mastering-fuzzing | 0 | 0| 
 | 20230601T11:23:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46882 | 23002| 
 | 20230601T10:57:46Z | Adaptive Fuzzy PID (AFPID) is an Arduino library for realizing better control performance of speed for DC motors. | https://github.com/Dhanabhon/AdaptiveFuzzyPID | 0 | 0| 
 | 20230601T10:26:37Z | Null | https://github.com/doublee101/fuzzy-waffle | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20230601T08:23:37Z | Null | https://github.com/AIRKEYL/SeqDivFuzz | 0 | 0| 
 | 20230601T08:21:39Z | txt match | https://github.com/lix19937/fuzzy-matching | 0 | 0| 
 | 20230601T08:02:13Z | Null | https://github.com/blinkybool/fuzz | 0 | 0| 
-| 20230601T07:44:40Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 191 | 28| 
 
 
 
