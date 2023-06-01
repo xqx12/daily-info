@@ -64,7 +64,6 @@
 | 20230531T13:01:00Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
 | 20230531T08:50:27Z | Null | https://github.com/gegenius/backdoor-python | 1 | 0| 
 | 20230531T05:46:47Z | Null | https://github.com/ariful2020/wordpress-backdoor-code | 0 | 0| 
-| 20230531T03:07:41Z | Multithreaded backdoor written in C for educational purposes ONLY. | https://github.com/Dashbloxx/H3X | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
