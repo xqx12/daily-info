@@ -138,9 +138,9 @@
 | 20230531T20:09:52Z | Null | https://github.com/blinkybool/fuzz | 0 | 0| 
 | 20230531T18:07:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8693 | 1907| 
 | 20230531T14:01:08Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 286 | 43| 
+| 20230531T13:58:47Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5011 | 526| 
 | 20230531T12:38:33Z | A simple mqtt client | https://github.com/FireCoder-N/fuzzy-system | 0 | 0| 
 | 20230531T12:31:59Z | Null | https://github.com/Dion1311/Fuzzy_CMeans | 0 | 0| 
-| 20230531T11:30:03Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 83 | 8| 
 
 
 
