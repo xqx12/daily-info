@@ -52,8 +52,8 @@
 | 20230531T22:05:37Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 500 | 96| 
 | 20230531T21:23:28Z | Collection Autoexploit Upload Shells Bots | https://github.com/MRWNIO/collection-autoexploit-bots | 0 | 0| 
 | 20230531T18:28:45Z | A Python Script exploiting a practical vulnerability in the Bolt E-Scooter app which makes it possible to use the E-Scooters without any charge | https://github.com/amstrdm/Bolt4Free | 0 | 1| 
-| 20230531T15:52:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5017 | 985| 
 | 20230531T12:46:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 649 | 169| 
+| 20230531T12:27:09Z | Handwritten Exploits | https://github.com/KianBahasadri/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
