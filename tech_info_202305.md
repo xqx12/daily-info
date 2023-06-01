@@ -72,7 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230531T23:44:03Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 4 | 1| 
-| 20230531T23:40:58Z | Exploit for CVE:2010-2075. This exploit allows remote command execution in UnrealIRCd 3.2.8.1. | https://github.com/FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1 | 0 | 0| 
+| 20230531T23:40:58Z | Exploit for CVE:2010-2075. This exploit allows remote command execution in UnrealIRCd 3.2.8.1. | https://github.com/FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1 | 0 | 1| 
 | 20230531T23:37:05Z | Null | https://github.com/catgirlasn/mcplugin-exploit-tutorial | 1 | 0| 
 | 20230531T23:25:30Z | Short script to hit an instance of Searchor 2.4.0 and exploit the RCE vulnerability caused by the use of eval(). | https://github.com/twisted007/Searchor_2.4.0_RCE_Python | 0 | 0| 
 | 20230531T22:41:29Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 14 | 2| 
