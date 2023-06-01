@@ -11,27 +11,29 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230531 | 基于深度学习的Python代码漏洞检测 （IST 2022） | https://mp.weixin.qq.com/s/dxpvnt_dHPc92pw4J5bZww| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230531T23:51:28Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230531T18:02:25Z | cve-2023-28244 | Null | https://github.com/sk3w/cve-2023-28244 | | 
+| 20230531T16:33:36Z | CVE-2023-3009 | Stored XSS vulnerability in Teampass < 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi          | https://github.com/mnqazi/CVE-2023-3009 | | 
+| 20230531T16:14:40Z | CVE-2023-31711 | Zero-day Vulnerability in ZKTEco biometric fingerprint reader. | https://github.com/HritikThapa7/CVE-2023-31711 | | 
+| 20230531T14:35:01Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
+| 20230531T13:31:14Z | CVE-2023-32243 | Exploit for CVE-2023-32243 - Unauthorized Account Takeover. | https://github.com/gbrsh/CVE-2023-32243 | | 
+| 20230531T13:09:33Z | CVE-2023-28121 | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/CVE-2023-28121 | | 
 | 20230531T12:05:37Z | CVE-2022-20489 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489 | | 
 | 20230531T11:56:29Z | CVE-2022-20489 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old | | 
-| 20230531T10:57:31Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230531T10:52:34Z | CVE-2022-20490 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490 | | 
-| 20230531T10:15:36Z | CVE-2022-20456 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456 | | 
-| 20230531T09:25:13Z | CVE-2022-20493 | Null | https://github.com/Trinadh465/frameworks_base_CVE-2022-20493 | | 
-| 20230531T09:15:31Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
-| 20230531T07:52:38Z | CVE-2022-23773 | Null | https://github.com/Liuyushung/CVE-2022-23773-Reproduce | | 
-| 20230531T07:28:46Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
-| 20230531T07:12:57Z | CVE-2022-20492 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20492 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230531T08:16:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2234 | 618| 
+| 20230531T17:05:40Z | Null | https://github.com/user-styles/klees | 0 | 0| 
+| 20230531T15:12:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2235 | 618| 
 
 
 # s2e on Github 推荐
@@ -42,23 +44,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T23:44:03Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 4 | 1| 
+| 20230531T23:40:58Z | Exploit for CVE:2010-2075. This exploit allows remote command execution in UnrealIRCd 3.2.8.1. | https://github.com/FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1 | 0 | 0| 
+| 20230531T23:37:05Z | Null | https://github.com/catgirlasn/mcplugin-exploit-tutorial | 1 | 0| 
+| 20230531T23:25:30Z | Short script to hit an instance of Searchor 2.4.0 and exploit the RCE vulnerability caused by the use of eval(). | https://github.com/twisted007/Searchor_2.4.0_RCE_Python | 0 | 0| 
+| 20230531T22:41:29Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 14 | 2| 
+| 20230531T21:23:28Z | Collection Autoexploit Upload Shells Bots | https://github.com/MRWNIO/collection-autoexploit-bots | 0 | 0| 
+| 20230531T18:28:45Z | A Python Script exploiting a practical vulnerability in the Bolt E-Scooter app which makes it possible to use the E-Scooters without any charge | https://github.com/amstrdm/Bolt4Free | 0 | 1| 
 | 20230531T12:46:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 649 | 169| 
 | 20230531T12:27:09Z | Handwritten Exploits | https://github.com/KianBahasadri/exploits | 0 | 0| 
-| 20230531T12:20:06Z | The official github repo for the Uboss exploit.  | https://github.com/BlueHatCrew/Uboss | 3 | 1| 
 | 20230531T10:00:12Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
-| 20230531T08:17:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5138 | 735| 
-| 20230531T05:35:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5015 | 984| 
-| 20230531T03:42:05Z | This is the hosting .js code for exploit sites like hdjksha38n3.us.to | https://github.com/cCat0/panel | 0 | 0| 
-| 20230531T01:25:59Z | Generic exploit for all version 7 (maybe others) LM32-based AMD SMU%s used in APUs (and probably works on GPUs too) | https://github.com/jevinskie/amd-lm32-smu-exploit | 22 | 3| 
-| 20230531T01:24:23Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 12 | 1| 
-| 20230531T00:22:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4982 | 625| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T23:58:34Z | Null | https://github.com/Raytsang24/backdoor-detection | 0 | 0| 
+| 20230531T13:58:04Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 451 | 84| 
+| 20230531T13:01:00Z | Null | https://github.com/mmwan101010/DeafBackdoor_SincNet | 0 | 0| 
 | 20230531T08:50:27Z | Null | https://github.com/gegenius/backdoor-python | 1 | 0| 
-| 20230531T07:00:57Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 450 | 84| 
 | 20230531T05:46:47Z | Null | https://github.com/ariful2020/wordpress-backdoor-code | 0 | 0| 
 | 20230531T03:07:41Z | Multithreaded backdoor written in C for educational purposes ONLY. | https://github.com/Dashbloxx/H3X | 0 | 0| 
 
@@ -77,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230531T22:25:46Z | Null | https://github.com/webJaviC/fuzzy-sniffle | 0 | 0| 
+| 20230531T22:10:58Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
+| 20230531T21:56:34Z | Metode Fuzzy C-Means Menggunakan Microsoft Excel | https://github.com/Hendra004/Fuzzy-C-Means | 0 | 0| 
+| 20230531T20:38:41Z | Fuzzing net6 | https://github.com/rdrgox/Fuzz | 0 | 0| 
+| 20230531T20:09:52Z | Null | https://github.com/blinkybool/fuzz | 0 | 0| 
+| 20230531T18:47:51Z | A tool for fuzzing random optimized C programs and detect side-channel vulnerabilities. | https://github.com/anbclausen/optifuzz | 0 | 0| 
+| 20230531T18:07:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8693 | 1907| 
+| 20230531T14:01:08Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 286 | 43| 
 | 20230531T12:38:33Z | A simple mqtt client | https://github.com/FireCoder-N/fuzzy-system | 0 | 0| 
 | 20230531T12:31:59Z | Null | https://github.com/Dion1311/Fuzzy_CMeans | 0 | 0| 
-| 20230531T11:16:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8693 | 1908| 
-| 20230531T10:19:34Z | Null | https://github.com/AlfianWD/Fuzzy-Modeling-Mesin-Cuci-Rpm | 0 | 0| 
-| 20230531T10:17:40Z | Null | https://github.com/mughidaf/Reasoning-with-Fuzzy-Algorithm | 0 | 0| 
-| 20230531T09:10:50Z | Date Picker Script for Webflow | https://github.com/abigaildeane/fuzzy-octo-funicular | 0 | 0| 
-| 20230531T07:15:23Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 781 | 108| 
-| 20230531T05:24:59Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 471 | 103| 
-| 20230531T01:01:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2741 | 185| 
-| 20230531T00:42:34Z | Null | https://github.com/FuzzyYeti757/FuzzyYeti757 | 0 | 0| 
 
 
 
