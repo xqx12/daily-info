@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230601T11:31:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230601T11:26:58Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
 | 20230601T10:55:22Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230601T08:53:09Z | CVE-2021-33690 | [CVE-2021-33690] Server Side Request Forgery vulnerability in SAP NetWeaver Development Infrastructure | https://github.com/redrays-io/CVE-2021-33690 | | 
@@ -25,7 +26,6 @@
 | 20230601T01:44:57Z | CVE-2022-29455 | Null | https://github.com/tucommenceapousser/CVE-2022-29455-mass | | 
 | 20230601T01:42:09Z | CVE-2022-29455 | Null | https://github.com/tucommenceapousser/CVE-2022-29455 | | 
 | 20230601T01:31:27Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
-| 20230601T00:37:40Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 
 
 # klee on Github 推荐
