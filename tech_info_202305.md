@@ -137,10 +137,10 @@
 | 20230531T20:38:41Z | Fuzzing net6 | https://github.com/rdrgox/Fuzz | 0 | 0| 
 | 20230531T20:09:52Z | Null | https://github.com/blinkybool/fuzz | 0 | 0| 
 | 20230531T18:07:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8693 | 1907| 
-| 20230531T14:50:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3611 | 427| 
 | 20230531T14:01:08Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 286 | 43| 
 | 20230531T12:38:33Z | A simple mqtt client | https://github.com/FireCoder-N/fuzzy-system | 0 | 0| 
 | 20230531T12:31:59Z | Null | https://github.com/Dion1311/Fuzzy_CMeans | 0 | 0| 
+| 20230531T11:30:03Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 83 | 8| 
 
 
 
