@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T12:45:20Z | Code repository for Master thesis on backdoor attacks on transformer-based DNNs for tabular data | https://github.com/bartpleiter/tabular-backdoors | 0 | 0| 
 | 20230602T10:47:52Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7788 | 2162| 
 | 20230602T10:35:37Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 0 | 0| 
 | 20230602T08:56:27Z | Null | https://github.com/qmao/webds_ram_backdoor | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230601T19:46:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2117 | 849| 
 | 20230601T07:47:20Z | GIGABYTE Backdoor Detection | https://github.com/CE2Sec/GIGABYTEBackdoorDetection | 0 | 0| 
 | 20230601T02:08:56Z | Kernel  rk | https://github.com/carloslack/KoviD | 140 | 30| 
-| 20230601T00:44:43Z | Multithreaded backdoor written in C for educational purposes ONLY. | https://github.com/Dashbloxx/H3X | 1 | 0| 
 
 
 # symbolic execution on Github 推荐

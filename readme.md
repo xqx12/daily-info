@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T12:45:20Z | Code repository for Master thesis on backdoor attacks on transformer-based DNNs for tabular data | https://github.com/bartpleiter/tabular-backdoors | 0 | 0| 
 | 20230602T10:47:52Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7788 | 2162| 
 | 20230602T10:35:37Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 0 | 0| 
 | 20230602T08:56:27Z | Null | https://github.com/qmao/webds_ram_backdoor | 0 | 0| 
