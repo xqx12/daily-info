@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230602T12:57:07Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230602T12:38:38Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230602T12:31:06Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230602T10:41:17Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230602T07:51:17Z | CVE-2022-0441 | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | https://github.com/tegal1337/CVE-2022-0441 | | 
 | 20230602T07:47:56Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
