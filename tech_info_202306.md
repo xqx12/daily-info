@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T00:21:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 0 | 0| 
 | 20230602T00:11:56Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
 | 20230601T23:58:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 504 | 97| 
 | 20230601T23:50:47Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 7 | 0| 
@@ -57,7 +58,6 @@
 | 20230601T20:06:11Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 36 | 5| 
 | 20230601T19:52:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4989 | 625| 
 | 20230601T18:09:59Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 16 | 2| 
-| 20230601T11:39:44Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
 
 
 # backdoor on Github 推荐
