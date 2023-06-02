@@ -48,8 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230601T23:58:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 504 | 97| 
 | 20230601T23:50:47Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 7 | 0| 
-| 20230601T23:24:53Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
 | 20230601T23:14:47Z | Binary Exploitation CTF challenges writeups | https://github.com/ManuMassi/pwn-writeups | 0 | 0| 
 | 20230601T22:38:51Z | Exploitation of OWASP top 10 vulnerablities on BWAPP. | https://github.com/mohsinziaa/OWASP-Top-10-Vulnerablities-on-BWAPP | 0 | 0| 
 | 20230601T21:42:57Z | Generate FUD Ransomeware For Windows, Linux and MAC OS | https://github.com/machine1337/fudransome | 4 | 2| 

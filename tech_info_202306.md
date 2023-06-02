@@ -48,8 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T00:11:56Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
+| 20230601T23:58:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 504 | 97| 
 | 20230601T23:50:47Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 7 | 0| 
-| 20230601T23:24:53Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
 | 20230601T23:14:47Z | Binary Exploitation CTF challenges writeups | https://github.com/ManuMassi/pwn-writeups | 0 | 0| 
 | 20230601T22:38:51Z | Exploitation of OWASP top 10 vulnerablities on BWAPP. | https://github.com/mohsinziaa/OWASP-Top-10-Vulnerablities-on-BWAPP | 0 | 0| 
 | 20230601T21:42:57Z | Generate FUD Ransomeware For Windows, Linux and MAC OS | https://github.com/machine1337/fudransome | 4 | 2| 
@@ -57,7 +58,6 @@
 | 20230601T18:09:59Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 16 | 2| 
 | 20230601T11:39:44Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
 | 20230601T11:39:00Z | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | 1 | 0| 
-| 20230601T10:54:14Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 811 | 80| 
 
 
 # backdoor on Github 推荐
