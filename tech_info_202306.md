@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T00:36:22Z | Null | https://github.com/DanielTMolloy919/fuzzy-colour-converter | 0 | 0| 
 | 20230601T23:34:35Z | Null | https://github.com/khyatiparekh/API-Fuzzer | 0 | 0| 
 | 20230601T23:17:54Z | Null | https://github.com/Vishal-Bedi/KhadakSingh-API-Fuzzer | 0 | 0| 
 | 20230601T22:10:06Z | Null | https://github.com/dmc1778/Fuzzing-Prioritization | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20230601T18:35:10Z | This repository includes all the codes used in my master thesis project %Travel Speed and Fuel Consumption Optimization in Traffic Routing under Fuzzy congestion%.  All codes are run in R. | https://github.com/hmcgou18/Travel-Time-and-Fuel-Consumption-Optimization-in-Vehicle-Routing-under-Fuzzy-Congestion | 0 | 0| 
 | 20230601T17:39:43Z | Null | https://github.com/Lichax/fuzzy-octo-enigma | 0 | 0| 
 | 20230601T17:05:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 544 | 67| 
-| 20230601T12:47:39Z | Null | https://github.com/sungbin/new_dynamic_fuzzing_driver | 0 | 0| 
 
 
 
