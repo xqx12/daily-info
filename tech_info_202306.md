@@ -100,7 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T12:16:58Z | assignments run on topic AFL, AFL++, Verifuzz etc. | https://github.com/Sarathkrishnan/software-fuzzing-project-assignments | 0 | 0| 
+| 20230602T12:30:04Z | assignments run on topic AFL, AFL++, Verifuzz etc. | https://github.com/Sarathkrishnan/software-fuzzing-project-assignments | 0 | 0| 
 | 20230602T12:07:41Z | Null | https://github.com/indraacozy/fuzzy-Cmeans | 0 | 0| 
 | 20230602T11:58:10Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 12 | 1| 
 | 20230602T10:27:08Z | Null | https://github.com/cuhk-seclab/SelectFuzz | 5 | 0| 
