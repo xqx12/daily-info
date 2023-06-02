@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T00:21:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 0 | 0| 
+| 20230602T00:22:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:11:56Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
 | 20230601T23:58:48Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 504 | 97| 
 | 20230601T23:50:47Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 7 | 0| 
