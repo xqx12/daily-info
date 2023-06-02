@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T00:24:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3w | 0 | 0| 
+| 20230602T00:25:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:24:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:22:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:11:56Z | About the project: Performing penetration tests by identifying system exploits and vulnerabilities and using them to obtain information or gain control | https://github.com/YairSol/Penetration-Testing-Vulner | 0 | 0| 
