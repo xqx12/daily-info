@@ -93,13 +93,13 @@
 | 20230601T23:34:35Z | Null | https://github.com/khyatiparekh/API-Fuzzer | 0 | 0| 
 | 20230601T23:17:54Z | Null | https://github.com/Vishal-Bedi/KhadakSingh-API-Fuzzer | 0 | 0| 
 | 20230601T22:10:06Z | Null | https://github.com/dmc1778/Fuzzing-Prioritization | 0 | 0| 
+| 20230601T21:01:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3617 | 428| 
 | 20230601T20:30:20Z | Null | https://github.com/abend-arg/BallAndBeamFuzzyControl | 0 | 0| 
 | 20230601T18:47:05Z | Null | https://github.com/connected-cjohnston/fuzzychat | 0 | 0| 
 | 20230601T18:35:10Z | This repository includes all the codes used in my master thesis project %Travel Speed and Fuel Consumption Optimization in Traffic Routing under Fuzzy congestion%.  All codes are run in R. | https://github.com/hmcgou18/Travel-Time-and-Fuel-Consumption-Optimization-in-Vehicle-Routing-under-Fuzzy-Congestion | 0 | 0| 
 | 20230601T17:39:43Z | Null | https://github.com/Lichax/fuzzy-octo-enigma | 0 | 0| 
 | 20230601T17:05:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 544 | 67| 
 | 20230601T12:47:39Z | Null | https://github.com/sungbin/new_dynamic_fuzzing_driver | 0 | 0| 
-| 20230601T12:43:04Z | Null | https://github.com/sudiptabhuyan1/Fuzzy-Fusion-SOD | 0 | 0| 
 
 
 
