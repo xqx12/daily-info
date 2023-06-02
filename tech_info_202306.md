@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230602T00:09:35Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
+| 20230602T01:00:43Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230601T23:07:12Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230601T18:49:08Z | cve-2020-13995 | Null | https://github.com/dbrumley/extract75-cve-2020-13995 | | 
 | 20230601T18:47:58Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
@@ -90,8 +90,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T00:55:35Z | Null | https://github.com/JoaoRamirezz/FuzzyCsharp | 0 | 0| 
-| 20230602T00:36:22Z | Null | https://github.com/DanielTMolloy919/fuzzy-colour-converter | 0 | 0| 
+| 20230602T00:59:25Z | Null | https://github.com/JoaoRamirezz/FuzzyCsharp | 0 | 0| 
+| 20230602T00:58:46Z | Null | https://github.com/DanielTMolloy919/fuzzy-colour-converter | 0 | 0| 
 | 20230601T23:34:35Z | Null | https://github.com/khyatiparekh/API-Fuzzer | 0 | 0| 
 | 20230601T23:17:54Z | Null | https://github.com/Vishal-Bedi/KhadakSingh-API-Fuzzer | 0 | 0| 
 | 20230601T22:10:06Z | Null | https://github.com/dmc1778/Fuzzing-Prioritization | 0 | 0| 
