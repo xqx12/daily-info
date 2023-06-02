@@ -71,6 +71,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T10:02:56Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 184 | 19| 
+| 20230602T05:50:44Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
 | 20230602T01:19:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2236 | 618| 
 
 
