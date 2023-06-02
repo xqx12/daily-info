@@ -23,7 +23,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230601T23:07:12Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230601T18:49:08Z | cve-2020-13995 | Null | https://github.com/dbrumley/extract75-cve-2020-13995 | | 
 | 20230601T18:47:58Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230601T18:13:17Z | CVE-2023-29489 | CVE-2023-29489-XSS | https://github.com/Abdullah7-ma/CVE-2023-29489 | | 
@@ -33,6 +32,7 @@
 | 20230601T11:26:58Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
 | 20230601T08:53:09Z | CVE-2021-33690 | [CVE-2021-33690] Server Side Request Forgery vulnerability in SAP NetWeaver Development Infrastructure | https://github.com/redrays-io/CVE-2021-33690 | | 
 | 20230601T08:29:00Z | CVE-2020-17087 | Null | https://github.com/raiden757/CVE-2020-17087 | | 
+| 20230601T07:23:12Z | CVE-2023-28121 | WooCommerce Payments: Unauthorized Admin Access Exploit | https://github.com/gbrsh/CVE-2023-28121 | | 
 
 
 # klee on Github 推荐

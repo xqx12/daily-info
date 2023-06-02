@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:23:44Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230602T01:00:43Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
-| 20230601T23:07:12Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230601T18:49:08Z | cve-2020-13995 | Null | https://github.com/dbrumley/extract75-cve-2020-13995 | | 
 | 20230601T18:47:58Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230601T18:13:17Z | CVE-2023-29489 | CVE-2023-29489-XSS | https://github.com/Abdullah7-ma/CVE-2023-29489 | | 
@@ -76,6 +76,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:19:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2236 | 618| 
 | 20230601T22:33:16Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 183 | 19| 
 | 20230601T17:13:51Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 336 | 27| 
 | 20230601T16:35:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3460 | 480| 
