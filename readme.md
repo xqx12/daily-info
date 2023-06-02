@@ -63,7 +63,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230601T20:07:49Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7784 | 2163| 
 | 20230601T19:46:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2117 | 849| 
 | 20230601T12:17:57Z | C2 created with python | https://github.com/polymaster3313/Polyaccess | 26 | 9| 
 | 20230601T07:47:20Z | GIGABYTE Backdoor Detection | https://github.com/CE2Sec/GIGABYTEBackdoorDetection | 0 | 0| 
