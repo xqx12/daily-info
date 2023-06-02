@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:30:10Z | Null | https://github.com/Le-826/SimpleFuzz | 0 | 0| 
 | 20230602T00:59:25Z | Null | https://github.com/JoaoRamirezz/FuzzyCsharp | 0 | 0| 
 | 20230602T00:58:46Z | Null | https://github.com/DanielTMolloy919/fuzzy-colour-converter | 0 | 0| 
 | 20230601T23:34:35Z | Null | https://github.com/khyatiparekh/API-Fuzzer | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20230601T20:30:20Z | Null | https://github.com/abend-arg/BallAndBeamFuzzyControl | 0 | 0| 
 | 20230601T18:47:05Z | Null | https://github.com/connected-cjohnston/fuzzychat | 0 | 0| 
 | 20230601T18:35:10Z | This repository includes all the codes used in my master thesis project %Travel Speed and Fuel Consumption Optimization in Traffic Routing under Fuzzy congestion%.  All codes are run in R. | https://github.com/hmcgou18/Travel-Time-and-Fuel-Consumption-Optimization-in-Vehicle-Routing-under-Fuzzy-Congestion | 0 | 0| 
-| 20230601T17:39:43Z | Null | https://github.com/Lichax/fuzzy-octo-enigma | 0 | 0| 
 
 
 
