@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:28:22Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230602T01:23:44Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
-| 20230602T01:00:43Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230601T18:49:08Z | cve-2020-13995 | Null | https://github.com/dbrumley/extract75-cve-2020-13995 | | 
 | 20230601T18:47:58Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230601T18:13:17Z | CVE-2023-29489 | CVE-2023-29489-XSS | https://github.com/Abdullah7-ma/CVE-2023-29489 | | 
