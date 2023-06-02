@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:04:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5024 | 985| 
 | 20230602T00:25:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:24:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:22:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20230601T23:14:47Z | Binary Exploitation CTF challenges writeups | https://github.com/ManuMassi/pwn-writeups | 0 | 0| 
 | 20230601T22:38:51Z | Exploitation of OWASP top 10 vulnerablities on BWAPP. | https://github.com/mohsinziaa/OWASP-Top-10-Vulnerablities-on-BWAPP | 0 | 0| 
 | 20230601T21:42:57Z | Generate FUD Ransomeware For Windows, Linux and MAC OS | https://github.com/machine1337/fudransome | 4 | 2| 
-| 20230601T20:06:11Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 36 | 5| 
 
 
 # backdoor on Github 推荐

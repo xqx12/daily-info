@@ -56,8 +56,8 @@
 | 20230601T20:06:11Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 36 | 5| 
 | 20230601T19:52:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4989 | 625| 
 | 20230601T18:09:59Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 16 | 2| 
-| 20230601T14:56:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5023 | 985| 
 | 20230601T11:39:44Z | create code that can automatically exploit its documented vulnerabilities. | https://github.com/Salwa0301/Cloud-Sec | 0 | 0| 
+| 20230601T11:39:00Z | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | 1 | 0| 
 
 
 # backdoor on Github 推荐
