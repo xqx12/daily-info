@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230602T01:41:12Z | CVE-2023-33246 | CVE-2023-33246：Apache RocketMQ 远程命令执行漏洞检测工具 | https://github.com/CKevens/CVE-2023-33246 | | 
 | 20230602T01:28:22Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230602T01:23:44Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230601T18:49:08Z | cve-2020-13995 | Null | https://github.com/dbrumley/extract75-cve-2020-13995 | | 
@@ -32,7 +33,6 @@
 | 20230601T12:23:55Z | CVE-2022-0778 | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | https://github.com/Mrlucas5550100/PoC-CVE-2022-0778- | | 
 | 20230601T11:31:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230601T11:26:58Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
-| 20230601T08:53:09Z | CVE-2021-33690 | [CVE-2021-33690] Server Side Request Forgery vulnerability in SAP NetWeaver Development Infrastructure | https://github.com/redrays-io/CVE-2021-33690 | | 
 
 
 # klee on Github 推荐
