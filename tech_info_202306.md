@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T01:04:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5024 | 985| 
+| 20230602T01:06:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5025 | 985| 
+| 20230602T01:05:54Z | PhoneDialGPT is a exploit made by me allowing ChatGPT to access the internet and more. | https://github.com/Selvenity/PhoneDialGPT | 0 | 0| 
 | 20230602T00:25:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:24:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3w | 1 | 0| 
 | 20230602T00:22:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3w | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20230601T23:50:47Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 7 | 0| 
 | 20230601T23:14:47Z | Binary Exploitation CTF challenges writeups | https://github.com/ManuMassi/pwn-writeups | 0 | 0| 
 | 20230601T22:38:51Z | Exploitation of OWASP top 10 vulnerablities on BWAPP. | https://github.com/mohsinziaa/OWASP-Top-10-Vulnerablities-on-BWAPP | 0 | 0| 
-| 20230601T21:42:57Z | Generate FUD Ransomeware For Windows, Linux and MAC OS | https://github.com/machine1337/fudransome | 4 | 2| 
 
 
 # backdoor on Github 推荐
