@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T00:58:08Z | Null | https://github.com/developersakiburbd/backdoor | 0 | 0| 
 | 20230602T23:24:15Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7791 | 2162| 
 | 20230602T21:48:38Z | Command Documents | https://github.com/Blood-Gang-Inc/sa-zserverside | 0 | 0| 
 | 20230602T21:11:07Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 305 | 69| 
@@ -77,7 +78,6 @@
 | 20230602T10:35:37Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 0 | 0| 
 | 20230602T08:56:27Z | Null | https://github.com/qmao/webds_ram_backdoor | 0 | 0| 
 | 20230602T08:20:34Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 0 | 0| 
-| 20230602T04:13:37Z | 技嘉固件后门检测工具 | https://github.com/CKevens/GIGABYTE-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
