@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T12:28:30Z | A proof-of-concept script that forces Texas College Bridge to give you the correct answer using two built-in methods. | https://github.com/SetWindowText/Drawbridge | 0 | 0| 
 | 20230603T12:24:21Z | A new private mirai variant distributed over 20 zero-day exploits | https://github.com/0xtimosarkar/mirai.daymo | 1 | 0| 
 | 20230603T11:54:35Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 19 | 6| 
 | 20230603T11:54:23Z | Null | https://github.com/HimanshuDhote/Shellshock-Exploitation | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20230603T03:24:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5031 | 988| 
 | 20230603T00:37:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:37:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9h | 1 | 0| 
-| 20230603T00:36:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9h | 1 | 0| 
 
 
 # backdoor on Github 推荐
