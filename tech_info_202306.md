@@ -24,16 +24,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230602T22:35:14Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230603T11:54:35Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230603T11:37:23Z | CVE-2023-33782 | Null | https://github.com/s0tr/CVE-2023-33782 | | 
+| 20230603T09:54:29Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20230603T09:01:49Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230603T05:49:12Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
+| 20230603T03:41:49Z | CVE-2023-33246 | CVE-2023-33246：Apache RocketMQ 远程命令执行漏洞检测工具 | https://github.com/CKevens/CVE-2023-33246 | | 
 | 20230602T18:29:51Z | CVE-2020-35489 | Verificador de Vulnerabilidade CVE-2020-35489 em Sites Wordpress | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
-| 20230602T17:07:28Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230602T16:44:52Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230602T14:41:01Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230602T13:13:49Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
-| 20230602T12:38:38Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230602T07:51:17Z | CVE-2022-0441 | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | https://github.com/tegal1337/CVE-2022-0441 | | 
-| 20230602T07:20:49Z | CVE-2023-33409 | Null | https://github.com/Thirukrishnan/CVE-2023-33409 | | 
-| 20230602T06:18:01Z | CVE-2023-33410 | Null | https://github.com/Thirukrishnan/CVE-2023-33410 | | 
 
 
 # klee on Github 推荐
@@ -53,21 +53,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T11:54:35Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 19 | 6| 
+| 20230603T11:54:23Z | Null | https://github.com/HimanshuDhote/Shellshock-Exploitation | 0 | 0| 
+| 20230603T11:26:37Z | If you are looking for someone to get your message across powerfully in articles, blog posts, or marketing material, I am the content writer you need. Let me exploit the opportunity by offering you something phenomenal. | https://github.com/malissa669/https-www.fiverr.com-s-pL0Yqo | 0 | 0| 
+| 20230603T08:21:01Z | List of customize exploits | https://github.com/joseluisinigo/Riskoo-Exploits | 0 | 0| 
+| 20230603T07:33:02Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 114 | 20| 
+| 20230603T03:24:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5031 | 988| 
 | 20230603T00:37:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:37:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:36:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:34:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4998 | 625| 
-| 20230602T21:41:24Z | Null | https://github.com/Cadez650/preventExploitationUGC_GAME | 0 | 0| 
-| 20230602T20:58:31Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
-| 20230602T20:31:32Z | Null | https://github.com/gmashaly/Exploiting_Distance_Graph_and_Hidden_Topic_Models_for_Multi_label_Text_Classification_ | 0 | 0| 
-| 20230602T20:30:43Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 17 | 6| 
-| 20230602T18:27:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5030 | 987| 
-| 20230602T18:08:06Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4024 | 565| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T05:09:56Z | Backdoor Scanner | https://github.com/SirNecrosis/Backdoor-Scanner | 1 | 0| 
 | 20230603T00:59:53Z | Null | https://github.com/developersakiburbd/backdoor | 0 | 0| 
 | 20230602T23:24:15Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7791 | 2162| 
 | 20230602T21:48:38Z | Command Documents | https://github.com/Blood-Gang-Inc/sa-zserverside | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230602T13:29:03Z | Null | https://github.com/rizqimaulanaa/backdoor | 0 | 0| 
 | 20230602T10:35:37Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 0 | 0| 
 | 20230602T08:56:27Z | Null | https://github.com/qmao/webds_ram_backdoor | 0 | 0| 
-| 20230602T08:20:34Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -102,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T11:53:08Z | Null | https://github.com/AmanKuma0000/fuzzy-journey | 0 | 0| 
+| 20230603T11:49:31Z | KNU Course work (Cryptography, topic: Fuzzy extractors) | https://github.com/al3xkras/fuzzy-extractors | 0 | 0| 
+| 20230603T11:36:37Z | The complete implementation of the EEG project | https://github.com/airpods69/fuzzy-giggle | 0 | 0| 
+| 20230603T10:42:13Z | An automatic car game implemented using fuzzy logic, utilizing fuzzification, inference, and defuzzification for gameplay. | https://github.com/AmeerMohammadJafari/Fuzzy-Car-Game | 0 | 0| 
+| 20230603T09:32:42Z | Null | https://github.com/MyDapitt/fuzzy-sniffle | 0 | 0| 
+| 20230603T08:59:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1426 | 199| 
+| 20230603T08:30:04Z | My clone repository | https://github.com/Makorifrank/fuzzy-octo-robot | 0 | 0| 
 | 20230602T23:21:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4715 | 1134| 
 | 20230602T23:20:16Z | Null | https://github.com/RoastBeefer00/fuzzy-recipes | 0 | 0| 
-| 20230602T23:06:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1425 | 199| 
 | 20230602T22:51:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
-| 20230602T21:15:27Z | Null | https://github.com/mennasingergy/fuzzy_c_means_from_scratch | 0 | 0| 
-| 20230602T19:42:36Z | Null | https://github.com/gerosp/ksmt-fuzzer | 0 | 0| 
-| 20230602T15:24:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3620 | 428| 
-| 20230602T12:30:04Z | assignments run on topic AFL, AFL++, Verifuzz etc. | https://github.com/Sarathkrishnan/software-fuzzing-project-assignments | 0 | 0| 
-| 20230602T12:07:41Z | Null | https://github.com/indraacozy/fuzzy-Cmeans | 0 | 0| 
-| 20230602T11:58:10Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 12 | 1| 
 
 
 
