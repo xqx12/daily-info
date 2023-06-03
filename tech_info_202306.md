@@ -24,6 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230603T12:36:42Z | CVE-2023-25136 | CVE-2023-25136_POC | https://github.com/axylisdead/CVE-2023-25136_POC | | 
+| 20230603T12:35:40Z | CVE-2023-33781 | Null | https://github.com/s0tr/CVE-2023-33781 | | 
 | 20230603T11:54:35Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230603T11:37:23Z | CVE-2023-33782 | Null | https://github.com/s0tr/CVE-2023-33782 | | 
 | 20230603T09:54:29Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
@@ -32,8 +34,6 @@
 | 20230603T03:41:49Z | CVE-2023-33246 | CVE-2023-33246：Apache RocketMQ 远程命令执行漏洞检测工具 | https://github.com/CKevens/CVE-2023-33246 | | 
 | 20230602T18:29:51Z | CVE-2020-35489 | Verificador de Vulnerabilidade CVE-2020-35489 em Sites Wordpress | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
 | 20230602T16:44:52Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
-| 20230602T14:41:01Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
-| 20230602T13:13:49Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 
 
 # klee on Github 推荐
@@ -109,9 +109,9 @@
 | 20230603T09:32:42Z | Null | https://github.com/MyDapitt/fuzzy-sniffle | 0 | 0| 
 | 20230603T08:59:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1426 | 199| 
 | 20230603T08:30:04Z | My clone repository | https://github.com/Makorifrank/fuzzy-octo-robot | 0 | 0| 
+| 20230603T08:22:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 545 | 68| 
 | 20230602T23:21:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4715 | 1134| 
 | 20230602T23:20:16Z | Null | https://github.com/RoastBeefer00/fuzzy-recipes | 0 | 0| 
-| 20230602T22:51:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
 
 
 
