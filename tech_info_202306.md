@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230602 | 金融企业安全建设探索之异常访问检测系统 | https://mp.weixin.qq.com/s/T6yJD_MIZf5d1qnCMQ43HA| 
 | 20230601 | 检测响应的保真度漏斗模型精解 | https://mp.weixin.qq.com/s/V5SCIgkV5xO57h860LTY2A| 
 | 20230601 | AAA 战队2022年ctf_summer_courses培训课程资料 | https://github.com/team-s2/ctf_summer_courses/tree/main| 
 | 20230601 | 分析移动赌博诈骗的真实数据 | https://mp.weixin.qq.com/s/vrv4gk6xsJMqiz9bUtd59A| 
@@ -23,24 +24,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230602T12:57:07Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230602T22:35:14Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230602T18:29:51Z | CVE-2020-35489 | Verificador de Vulnerabilidade CVE-2020-35489 em Sites Wordpress | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
+| 20230602T17:07:28Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230602T16:44:52Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
+| 20230602T14:41:01Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
+| 20230602T13:13:49Z | CVE-2023-33381 | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC | | 
 | 20230602T12:38:38Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230602T10:41:17Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230602T07:51:17Z | CVE-2022-0441 | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | https://github.com/tegal1337/CVE-2022-0441 | | 
-| 20230602T07:47:56Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/SuperZero/CVE-2023-33246 | | 
 | 20230602T07:20:49Z | CVE-2023-33409 | Null | https://github.com/Thirukrishnan/CVE-2023-33409 | | 
 | 20230602T06:18:01Z | CVE-2023-33410 | Null | https://github.com/Thirukrishnan/CVE-2023-33410 | | 
-| 20230602T05:30:26Z | CVE-2023-33408 | Null | https://github.com/Thirukrishnan/CVE-2023-33408 | | 
-| 20230602T02:10:19Z | CVE-2023-33246 | Null | https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy | | 
-| 20230602T01:41:12Z | CVE-2023-33246 | CVE-2023-33246：Apache RocketMQ 远程命令执行漏洞检测工具 | https://github.com/CKevens/CVE-2023-33246 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T23:19:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2237 | 618| 
 | 20230602T07:24:47Z | Null | https://github.com/klee1123/klee1123.github.io | 0 | 0| 
 | 20230602T06:43:01Z | klee%s terror simulation | https://github.com/wupaloupa/boomboombakudan | 0 | 0| 
-| 20230602T01:19:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2236 | 618| 
 | 20230602T01:18:53Z | test pages | https://github.com/AbdiCytus/klee-website | 0 | 0| 
 
 
@@ -52,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T11:45:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5150 | 735| 
-| 20230602T11:34:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-74lCV-exploit-relax | 0 | 0| 
-| 20230602T10:41:17Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 15 | 5| 
-| 20230602T10:11:10Z | Codes and the dataset for the paper %Exploiting Summarization Data to Help Text Simplification% | https://github.com/RLSNLP/Sum4Simp | 1 | 0| 
-| 20230602T09:55:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5026 | 987| 
-| 20230602T08:25:55Z | Null | https://github.com/swwind/exploits | 0 | 0| 
-| 20230602T08:08:02Z | Null | https://github.com/rabbithsu/kernel_exploit | 0 | 0| 
-| 20230602T01:05:54Z | PhoneDialGPT is a exploit made by me allowing ChatGPT to access the internet and more. | https://github.com/Selvenity/PhoneDialGPT | 0 | 0| 
-| 20230602T00:25:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3w | 1 | 0| 
-| 20230602T00:24:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3w | 1 | 0| 
+| 20230602T21:41:24Z | Null | https://github.com/Cadez650/preventExploitationUGC_GAME | 0 | 0| 
+| 20230602T20:58:31Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
+| 20230602T20:31:32Z | Null | https://github.com/gmashaly/Exploiting_Distance_Graph_and_Hidden_Topic_Models_for_Multi_label_Text_Classification_ | 0 | 0| 
+| 20230602T20:30:43Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 17 | 6| 
+| 20230602T18:27:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5030 | 987| 
+| 20230602T18:08:06Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4024 | 565| 
+| 20230602T16:40:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 263 | 55| 
+| 20230602T15:24:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 650 | 169| 
+| 20230602T15:24:38Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 217 | 36| 
+| 20230602T15:24:14Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3432 | 586| 
 
 
 # backdoor on Github 推荐
@@ -100,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230602T23:21:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4715 | 1134| 
+| 20230602T23:20:16Z | Null | https://github.com/RoastBeefer00/fuzzy-recipes | 0 | 0| 
+| 20230602T23:06:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1425 | 199| 
+| 20230602T22:51:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
+| 20230602T21:15:27Z | Null | https://github.com/mennasingergy/fuzzy_c_means_from_scratch | 0 | 0| 
+| 20230602T19:42:36Z | Null | https://github.com/gerosp/ksmt-fuzzer | 0 | 0| 
 | 20230602T12:30:04Z | assignments run on topic AFL, AFL++, Verifuzz etc. | https://github.com/Sarathkrishnan/software-fuzzing-project-assignments | 0 | 0| 
 | 20230602T12:07:41Z | Null | https://github.com/indraacozy/fuzzy-Cmeans | 0 | 0| 
 | 20230602T11:58:10Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 12 | 1| 
 | 20230602T10:27:08Z | Null | https://github.com/cuhk-seclab/SelectFuzz | 5 | 0| 
-| 20230602T08:44:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5011 | 527| 
-| 20230602T03:08:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8696 | 1909| 
-| 20230602T01:30:10Z | Null | https://github.com/Le-826/SimpleFuzz | 0 | 0| 
-| 20230602T00:59:25Z | Null | https://github.com/JoaoRamirezz/FuzzyCsharp | 0 | 0| 
-| 20230602T00:58:46Z | Null | https://github.com/DanielTMolloy919/fuzzy-colour-converter | 0 | 0| 
-| 20230601T23:34:35Z | Null | https://github.com/khyatiparekh/API-Fuzzer | 0 | 0| 
 
 
 
