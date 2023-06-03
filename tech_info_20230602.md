@@ -46,7 +46,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T22:15:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4999 | 625| 
 | 20230602T21:41:24Z | Null | https://github.com/Cadez650/preventExploitationUGC_GAME | 0 | 0| 
 | 20230602T20:58:31Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
 | 20230602T20:31:32Z | Null | https://github.com/gmashaly/Exploiting_Distance_Graph_and_Hidden_Topic_Models_for_Multi_label_Text_Classification_ | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20230602T16:40:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 263 | 55| 
 | 20230602T15:24:51Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 506 | 97| 
 | 20230602T15:24:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 650 | 169| 
+| 20230602T15:24:38Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 217 | 36| 
 
 
 # backdoor on Github 推荐

@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230602T22:15:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4999 | 625| 
+| 20230603T00:34:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4998 | 625| 
 | 20230602T21:41:24Z | Null | https://github.com/Cadez650/preventExploitationUGC_GAME | 0 | 0| 
 | 20230602T20:58:31Z | This project follows the RainFall project. It will teach you how to exploit the (elf-like) binary. | https://github.com/nhakkaou/42-OverRide | 1 | 0| 
 | 20230602T20:31:32Z | Null | https://github.com/gmashaly/Exploiting_Distance_Graph_and_Hidden_Topic_Models_for_Multi_label_Text_Classification_ | 0 | 0| 
