@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230603T12:43:31Z | Null | https://github.com/Hackrrr/totally-not-exploit | 0 | 0| 
+| 20230603T12:47:36Z | Null | https://github.com/Hackrrr/totally-not-exploit | 0 | 0| 
 | 20230603T12:32:21Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 115 | 21| 
 | 20230603T12:28:30Z | A proof-of-concept script that forces Texas College Bridge to give you the correct answer using two built-in methods. | https://github.com/SetWindowText/Drawbridge | 0 | 0| 
 | 20230603T12:24:21Z | A new private mirai variant distributed over 20 zero-day exploits | https://github.com/0xtimosarkar/mirai.daymo | 1 | 0| 
