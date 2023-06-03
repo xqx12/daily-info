@@ -53,6 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230603T00:37:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-9h | 1 | 0| 
+| 20230603T00:37:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:36:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9h | 1 | 0| 
 | 20230603T00:34:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 4998 | 625| 
 | 20230602T21:41:24Z | Null | https://github.com/Cadez650/preventExploitationUGC_GAME | 0 | 0| 
@@ -61,8 +63,6 @@
 | 20230602T20:30:43Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 17 | 6| 
 | 20230602T18:27:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5030 | 987| 
 | 20230602T18:08:06Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4024 | 565| 
-| 20230602T16:40:05Z | a burp extension for dynamic payload generation to detect injection flaws (LFI, RCE, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitations. | https://github.com/volkandindar/agartha | 263 | 55| 
-| 20230602T15:24:51Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 506 | 97| 
 
 
 # backdoor on Github 推荐
