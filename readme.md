@@ -97,10 +97,10 @@
 | 20230602T22:51:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
 | 20230602T21:15:27Z | Null | https://github.com/mennasingergy/fuzzy_c_means_from_scratch | 0 | 0| 
 | 20230602T19:42:36Z | Null | https://github.com/gerosp/ksmt-fuzzer | 0 | 0| 
+| 20230602T15:24:56Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3620 | 428| 
 | 20230602T12:30:04Z | assignments run on topic AFL, AFL++, Verifuzz etc. | https://github.com/Sarathkrishnan/software-fuzzing-project-assignments | 0 | 0| 
 | 20230602T12:07:41Z | Null | https://github.com/indraacozy/fuzzy-Cmeans | 0 | 0| 
 | 20230602T11:58:10Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 12 | 1| 
-| 20230602T10:27:08Z | Null | https://github.com/cuhk-seclab/SelectFuzz | 5 | 0| 
 
 
 
