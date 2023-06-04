@@ -106,6 +106,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230604T00:53:10Z | Null | https://github.com/tyleryy/warm_fuzzies | 0 | 0| 
+| 20230603T21:07:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 84 | 8| 
 | 20230603T20:27:35Z | Null | https://github.com/llloooollll/fuzzy-potato | 0 | 0| 
 | 20230603T15:55:21Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230603T12:26:33Z | KNU Course work (Cryptography, topic: Fuzzy extractors) | https://github.com/al3xkras/fuzzy-extractors | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20230603T11:36:37Z | The complete implementation of the EEG project | https://github.com/airpods69/fuzzy-giggle | 0 | 0| 
 | 20230603T10:42:13Z | An automatic car game implemented using fuzzy logic, utilizing fuzzification, inference, and defuzzification for gameplay. | https://github.com/AmeerMohammadJafari/Fuzzy-Car-Game | 0 | 0| 
 | 20230603T09:32:42Z | Null | https://github.com/MyDapitt/fuzzy-sniffle | 0 | 0| 
-| 20230603T08:59:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1426 | 199| 
 
 
 
