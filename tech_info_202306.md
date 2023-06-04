@@ -105,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T09:10:50Z | Null | https://github.com/supriyagillu/fuzzy-logic-WSN | 0 | 0| 
+| 20230604T06:50:46Z | A hybrid fuzzing tool guided by branch constraints | https://github.com/SEU-SSL/SILK | 2 | 0| 
+| 20230604T06:24:37Z | Bem vindo ao Quantum Fuzzy Road! | https://github.com/Falivith/quantum-fuzzy-road | 0 | 0| 
+| 20230604T06:09:45Z | Null | https://github.com/godspeedcurry/fuzzdict | 1 | 0| 
 | 20230604T00:53:10Z | Null | https://github.com/tyleryy/warm_fuzzies | 0 | 0| 
 | 20230603T21:07:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 84 | 8| 
 | 20230603T20:27:35Z | Null | https://github.com/llloooollll/fuzzy-potato | 0 | 0| 
 | 20230603T15:55:21Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
-| 20230603T12:26:33Z | KNU Course work (Cryptography, topic: Fuzzy extractors) | https://github.com/al3xkras/fuzzy-extractors | 0 | 0| 
-| 20230603T12:01:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3621 | 428| 
-| 20230603T11:53:08Z | Null | https://github.com/AmanKuma0000/fuzzy-journey | 0 | 0| 
-| 20230603T11:36:37Z | The complete implementation of the EEG project | https://github.com/airpods69/fuzzy-giggle | 0 | 0| 
-| 20230603T10:42:13Z | An automatic car game implemented using fuzzy logic, utilizing fuzzification, inference, and defuzzification for gameplay. | https://github.com/AmeerMohammadJafari/Fuzzy-Car-Game | 0 | 0| 
-| 20230603T09:32:42Z | Null | https://github.com/MyDapitt/fuzzy-sniffle | 0 | 0| 
+| 20230603T15:28:35Z | Null | https://github.com/winhaskell/Fuzzy-Sets | 0 | 0| 
+| 20230603T14:21:19Z | This section contains some of the important security tools like keyloggers, antivirus software,Intrusion Detection System,Fuzzer tool and more. | https://github.com/docsdebo/hacking_tools | 0 | 0| 
 
 
 
