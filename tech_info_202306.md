@@ -58,13 +58,13 @@
 | 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 0| 
 | 20230603T20:34:33Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 228 | 169| 
 | 20230603T20:23:56Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 0 | 0| 
+| 20230603T19:00:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5002 | 625| 
 | 20230603T18:18:13Z | A proof of concept and checker tool to detect if %The Exploit% for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 0 | 0| 
 | 20230603T17:57:15Z | bing you | https://github.com/huggywuggybest03/Exploit-Key | 0 | 0| 
 | 20230603T17:45:51Z | BEST ANDROID RAT LIST | https://github.com/zenna-hacker/TOP-ANDROID-RAT-LIST | 1 | 0| 
 | 20230603T17:39:47Z | Exploit for websites cookies and access to read files from the target | https://github.com/ConfusedCharacter/Cookie-Exploit | 0 | 0| 
 | 20230603T13:20:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5033 | 988| 
 | 20230603T12:47:36Z | Null | https://github.com/Hackrrr/totally-not-exploit | 0 | 0| 
-| 20230603T12:32:21Z | Streamline vulnerability patching with CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | 115 | 21| 
 
 
 # backdoor on Github 推荐
