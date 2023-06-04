@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:43:45Z | Null | https://github.com/MrE-Fog/ios-fuzzy-swift | 0 | 0| 
 | 20230604T09:10:50Z | Null | https://github.com/supriyagillu/fuzzy-logic-WSN | 0 | 0| 
 | 20230604T06:50:46Z | A hybrid fuzzing tool guided by branch constraints | https://github.com/SEU-SSL/SILK | 2 | 0| 
 | 20230604T06:24:37Z | Bem vindo ao Quantum Fuzzy Road! | https://github.com/Falivith/quantum-fuzzy-road | 0 | 0| 

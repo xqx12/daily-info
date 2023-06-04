@@ -106,6 +106,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:43:45Z | Null | https://github.com/MrE-Fog/ios-fuzzy-swift | 0 | 0| 
 | 20230604T09:10:50Z | Null | https://github.com/supriyagillu/fuzzy-logic-WSN | 0 | 0| 
 | 20230604T06:50:46Z | A hybrid fuzzing tool guided by branch constraints | https://github.com/SEU-SSL/SILK | 2 | 0| 
 | 20230604T06:24:37Z | Bem vindo ao Quantum Fuzzy Road! | https://github.com/Falivith/quantum-fuzzy-road | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20230603T20:27:35Z | Null | https://github.com/llloooollll/fuzzy-potato | 0 | 0| 
 | 20230603T15:55:21Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230603T15:28:35Z | Null | https://github.com/winhaskell/Fuzzy-Sets | 0 | 0| 
-| 20230603T14:21:19Z | This section contains some of the important security tools like keyloggers, antivirus software,Intrusion Detection System,Fuzzer tool and more. | https://github.com/docsdebo/hacking_tools | 0 | 0| 
 
 
 
