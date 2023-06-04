@@ -55,6 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T00:52:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7z | 0 | 0| 
+| 20230604T00:52:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230604T00:51:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 0| 
 | 20230603T20:34:33Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 228 | 169| 
@@ -63,8 +65,6 @@
 | 20230603T18:18:13Z | A proof of concept and checker tool to detect if %The Exploit% for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 0 | 0| 
 | 20230603T17:57:15Z | bing you | https://github.com/huggywuggybest03/Exploit-Key | 0 | 0| 
 | 20230603T17:45:51Z | BEST ANDROID RAT LIST | https://github.com/zenna-hacker/TOP-ANDROID-RAT-LIST | 1 | 0| 
-| 20230603T17:39:47Z | Exploit for websites cookies and access to read files from the target | https://github.com/ConfusedCharacter/Cookie-Exploit | 0 | 0| 
-| 20230603T13:20:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5033 | 988| 
 
 
 # backdoor on Github 推荐
@@ -105,7 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230604T00:49:38Z | Null | https://github.com/tyleryy/warm_fuzzies | 0 | 0| 
+| 20230604T00:53:10Z | Null | https://github.com/tyleryy/warm_fuzzies | 0 | 0| 
 | 20230603T20:27:35Z | Null | https://github.com/llloooollll/fuzzy-potato | 0 | 0| 
 | 20230603T15:55:21Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230603T12:26:33Z | KNU Course work (Cryptography, topic: Fuzzy extractors) | https://github.com/al3xkras/fuzzy-extractors | 0 | 0| 
