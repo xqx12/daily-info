@@ -24,8 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:42:39Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230604T12:18:31Z | CVE-2023-33246 | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/Le1a/CVE-2023-33246 | | 
-| 20230604T08:10:13Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230604T08:03:40Z | CVE-2022-22963 | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | https://github.com/charis3306/CVE-2022-22963 | | 
 | 20230604T03:53:09Z | CVE-2022-22965 | Poc&Exp,支持批量扫描,反弹shell | https://github.com/BKLockly/CVE-2022-22965 | | 
 | 20230604T03:06:43Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
