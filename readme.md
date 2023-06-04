@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:18:31Z | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/Le1a/CVE-2023-33246 | 1 | 0| 
 | 20230604T11:45:48Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
 | 20230604T11:38:21Z | ⚙️ CFW computer work automatisation using BannerBomb3 exploit 🤖 | https://github.com/teloryfrozy/Lumatic-BannerBomb3 | 1 | 0| 
 | 20230604T11:16:27Z | Justfbpost exploit, made by python. | https://github.com/hexSophia/justfbpost-exploit | 1 | 0| 
@@ -44,7 +45,6 @@
 | 20230604T05:38:21Z | SQLi Dumper is a powerful tool for detecting and exploiting SQL injection vulnerabilities in web applications. It automates the process of finding vulnerable targets and extracting valuable information from databases. | https://github.com/Trap4L/SQL-Dumper | 1 | 0| 
 | 20230604T05:34:47Z | Dork Searcher EZ is a user-friendly tool designed for searching Google for potential vulnerabilities and exploitable targets using dorks. It simplifies the process of finding sensitive information, such as passwords, credit card numbers, and other confidential data exposed on the internet. | https://github.com/Trap4L/Dork-Searcher-EZ | 1 | 0| 
 | 20230604T00:53:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7z | 1 | 0| 
-| 20230604T00:52:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7z | 1 | 0| 
 
 
 # backdoor on Github 推荐
