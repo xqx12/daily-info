@@ -44,7 +44,7 @@
 | 20230604T11:16:27Z | Justfbpost exploit, made by python. | https://github.com/hexSophia/justfbpost-exploit | 1 | 0| 
 | 20230604T10:57:46Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3847 | 759| 
 | 20230604T07:52:19Z | A web cache poisoning denial of service (CPDoS) checker and exploit tool written in Python. | https://github.com/n0mi1k/cacheblaster | 0 | 0| 
-| 20230604T07:16:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5035 | 988| 
+| 20230604T07:16:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5035 | 989| 
 | 20230604T05:38:21Z | SQLi Dumper is a powerful tool for detecting and exploiting SQL injection vulnerabilities in web applications. It automates the process of finding vulnerable targets and extracting valuable information from databases. | https://github.com/Trap4L/SQL-Dumper | 1 | 0| 
 | 20230604T05:34:47Z | Dork Searcher EZ is a user-friendly tool designed for searching Google for potential vulnerabilities and exploitable targets using dorks. It simplifies the process of finding sensitive information, such as passwords, credit card numbers, and other confidential data exposed on the internet. | https://github.com/Trap4L/Dork-Searcher-EZ | 1 | 0| 
 
