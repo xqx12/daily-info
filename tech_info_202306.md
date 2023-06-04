@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230604T00:52:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7z | 0 | 0| 
+| 20230604T00:53:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230604T00:52:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230604T00:51:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 0| 
