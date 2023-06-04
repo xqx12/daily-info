@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 0| 
+| 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 1| 
 | 20230603T20:34:33Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 228 | 169| 
 | 20230603T20:23:56Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 0 | 0| 
 | 20230603T19:00:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5002 | 625| 
