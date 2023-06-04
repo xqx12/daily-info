@@ -70,6 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:40:37Z | A backdoor Bukkit plugin that can get operator for non-operator player and hide itself. | https://github.com/TuanZiGit/BukkitBackdoor | 0 | 0| 
 | 20230603T20:14:19Z | FIshShell is a multi-session handler and Windows & Linux backdoor payload generator. It allows users\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell. | https://github.com/TriDEntApollO/FishShell | 4 | 0| 
 | 20230603T15:32:50Z | Null | https://github.com/chanakakn/SSL-CLI-Backdoor-Client-Server | 1 | 0| 
 | 20230603T14:46:17Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 44 | 12| 
@@ -79,7 +80,6 @@
 | 20230603T00:59:53Z | Null | https://github.com/developersakiburbd/backdoor | 0 | 0| 
 | 20230602T23:24:15Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7791 | 2162| 
 | 20230602T21:48:38Z | Command Documents | https://github.com/Blood-Gang-Inc/sa-zserverside | 0 | 0| 
-| 20230602T21:11:07Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 305 | 69| 
 
 
 # symbolic execution on Github 推荐

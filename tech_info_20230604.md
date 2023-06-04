@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T12:40:37Z | A backdoor Bukkit plugin that can get operator for non-operator player and hide itself. | https://github.com/TuanZiGit/BukkitBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
