@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230604T12:19:01Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 37 | 5| 
+| 20230604T12:28:14Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 38 | 5| 
 | 20230604T12:18:31Z | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | https://github.com/Le1a/CVE-2023-33246 | 1 | 0| 
 | 20230604T11:45:48Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
 | 20230604T11:38:21Z | ⚙️ CFW computer work automatisation using BannerBomb3 exploit 🤖 | https://github.com/teloryfrozy/Lumatic-BannerBomb3 | 1 | 0| 
