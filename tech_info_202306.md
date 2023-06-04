@@ -24,16 +24,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230604T08:10:13Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230604T08:03:40Z | CVE-2022-22963 | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | https://github.com/charis3306/CVE-2022-22963 | | 
+| 20230604T03:53:09Z | CVE-2022-22965 | Poc&Exp,支持批量扫描,反弹shell | https://github.com/BKLockly/CVE-2022-22965 | | 
+| 20230604T03:06:43Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230603T14:13:49Z | CVE-2023-31606 | Null | https://github.com/e23e/CVE-2023-31606 | | 
 | 20230603T13:24:30Z | CVE-2023-25136 | CVE-2023-25136 POC written by axylisdead | https://github.com/axylisdead/CVE-2023-25136_POC | | 
 | 20230603T12:35:40Z | CVE-2023-33781 | Null | https://github.com/s0tr/CVE-2023-33781 | | 
-| 20230603T11:54:35Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230603T11:37:23Z | CVE-2023-33782 | Null | https://github.com/s0tr/CVE-2023-33782 | | 
 | 20230603T09:54:29Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20230603T09:19:04Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230603T09:01:49Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230603T05:49:12Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230603T03:41:49Z | CVE-2023-33246 | CVE-2023-33246：Apache RocketMQ 远程命令执行漏洞检测工具 | https://github.com/CKevens/CVE-2023-33246 | | 
 
 
 # klee on Github 推荐
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230604T11:45:48Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
+| 20230604T11:38:21Z | ⚙️ CFW computer work automatisation using BannerBomb3 exploit 🤖 | https://github.com/teloryfrozy/Lumatic-BannerBomb3 | 1 | 0| 
+| 20230604T11:16:27Z | Justfbpost exploit, made by python. | https://github.com/hexSophia/justfbpost-exploit | 1 | 0| 
+| 20230604T10:57:46Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3847 | 759| 
+| 20230604T07:52:19Z | A web cache poisoning denial of service (CPDoS) checker and exploit tool written in Python. | https://github.com/n0mi1k/cacheblaster | 0 | 0| 
+| 20230604T07:16:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5035 | 988| 
+| 20230604T05:38:21Z | SQLi Dumper is a powerful tool for detecting and exploiting SQL injection vulnerabilities in web applications. It automates the process of finding vulnerable targets and extracting valuable information from databases. | https://github.com/Trap4L/SQL-Dumper | 1 | 0| 
+| 20230604T05:34:47Z | Dork Searcher EZ is a user-friendly tool designed for searching Google for potential vulnerabilities and exploitable targets using dorks. It simplifies the process of finding sensitive information, such as passwords, credit card numbers, and other confidential data exposed on the internet. | https://github.com/Trap4L/Dork-Searcher-EZ | 1 | 0| 
 | 20230604T00:53:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7z | 1 | 0| 
 | 20230604T00:52:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7z | 1 | 0| 
-| 20230604T00:51:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7z | 1 | 0| 
-| 20230603T23:00:15Z | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | https://github.com/0xGabe/Apache-CVEs | 0 | 1| 
-| 20230603T20:34:33Z | The ultimate antibot BungeeCord and Waterfall fork for a Secure and Fast Minecraft or Spigot Network. FlameCord protects your server from bot attacks and exploits with its antibot features. FlameCord also fixes bugs, improves performance and adds new functionalities. Download FlameCord now.🔥 | https://github.com/arkflame/FlameCord | 228 | 169| 
-| 20230603T20:23:56Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 0 | 0| 
-| 20230603T19:00:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5002 | 625| 
-| 20230603T18:18:13Z | A proof of concept and checker tool to detect if %The Exploit% for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 0 | 0| 
-| 20230603T17:57:15Z | bing you | https://github.com/huggywuggybest03/Exploit-Key | 0 | 0| 
-| 20230603T17:45:51Z | BEST ANDROID RAT LIST | https://github.com/zenna-hacker/TOP-ANDROID-RAT-LIST | 1 | 0| 
 
 
 # backdoor on Github 推荐
