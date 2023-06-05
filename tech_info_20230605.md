@@ -48,8 +48,8 @@
 | 20230605T10:18:50Z | SAÉ 2.04 - Exploitation d%une base de données | https://github.com/ulrichc1/sae204 | 0 | 0| 
 | 20230605T09:54:51Z | 10 elf-like binary exploitation in a x86_64 system. | https://github.com/izenynn/override | 0 | 0| 
 | 20230605T09:39:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5635 | 759| 
+| 20230605T09:36:29Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 5129 | 2029| 
 | 20230605T09:19:03Z | 3D image denoising using a modified U-Net architecture that exploits a prior image. Models are trained using efficient tensorflow pipeline based on keras and tf.data.Dataset API | https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras | 10 | 5| 
-| 20230605T08:55:56Z | This is a %Print Exploit% for the Roblox x64 (Byfron/Hyperion) Client. | https://github.com/Rapid-Projects/Print-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
