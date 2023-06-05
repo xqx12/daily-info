@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T12:40:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-IqpcS-borrow-exploit | 0 | 0| 
 | 20230605T12:26:24Z | exploit against apache 2.4.57 | https://github.com/0xDarv1n/apache-2.4.57-rce-poc-exploit | 0 | 0| 
 | 20230605T12:08:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5041 | 991| 
 | 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 735| 
@@ -69,7 +70,6 @@
 | 20230605T09:39:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5635 | 759| 
 | 20230605T09:19:03Z | 3D image denoising using a modified U-Net architecture that exploits a prior image. Models are trained using efficient tensorflow pipeline based on keras and tf.data.Dataset API | https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras | 10 | 5| 
 | 20230605T08:55:56Z | This is a %Print Exploit% for the Roblox x64 (Byfron/Hyperion) Client. | https://github.com/Rapid-Projects/Print-Exploit | 1 | 0| 
-| 20230605T07:45:59Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 25 | 9| 
 
 
 # backdoor on Github 推荐
