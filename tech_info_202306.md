@@ -119,10 +119,10 @@
 | 20230605T07:53:41Z | Config files for my GitHub profile. | https://github.com/FuzzyDrqgon/FuzzyDrqgon | 0 | 0| 
 | 20230605T07:25:35Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 67 | 28| 
 | 20230605T07:11:30Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1419 | 101| 
+| 20230605T03:53:49Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 390 | 70| 
 | 20230605T03:43:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5015 | 527| 
 | 20230604T21:49:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8698 | 1912| 
 | 20230604T20:19:50Z | A small fuzzy-set example in javascript | https://github.com/ddamiankowalski/fuzzy-set | 0 | 0| 
-| 20230604T19:26:52Z | Java-Fuzzing-Wordlist | https://github.com/Steiner-254/Java-Fuzzing-Wordlist | 0 | 0| 
 
 
 
