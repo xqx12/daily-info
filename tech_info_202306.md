@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T01:55:20Z | 漏洞扫描和利用 | https://github.com/miniboom360/ASM-Exploit | 0 | 0| 
 | 20230605T01:53:23Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 21 | 14| 
 | 20230605T01:26:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5037 | 989| 
 | 20230605T01:12:30Z | Hardware Exploitation Product Suite | https://github.com/droughtjaw/DOUBLESTACK | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20230605T00:53:59Z | Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler) | https://github.com/cehamod/UI_CVE-2017-9248 | 0 | 0| 
 | 20230605T00:42:49Z | Programa que permite enviar archivos JAR de una forma discreta desde un dispositivo a otro y brinda la opcion de ejecutar dichos archivos remotamente en el destino. | https://github.com/IgnacioAusili/JarNetCliente | 0 | 0| 
 | 20230605T00:01:07Z | FIVEM Lua executor undetected | https://github.com/AtlasWaaare/FIVEM-Lua-Executor | 152 | 0| 
-| 20230604T22:11:08Z | private russian exploit that uses 1.19 swimming mechanics to phase | https://github.com/mioclient/hitbox-desync | 12 | 5| 
 
 
 # backdoor on Github 推荐
