@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230605T01:19:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5036 | 989| 
+| 20230605T01:26:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5037 | 989| 
 | 20230605T01:12:30Z | Hardware Exploitation Product Suite | https://github.com/droughtjaw/DOUBLESTACK | 0 | 0| 
 | 20230605T01:04:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T01:04:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6b | 1 | 0| 
