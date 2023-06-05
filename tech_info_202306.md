@@ -112,13 +112,13 @@
 | 20230604T20:19:50Z | A small fuzzy-set example in javascript | https://github.com/ddamiankowalski/fuzzy-set | 0 | 0| 
 | 20230604T19:26:52Z | Java-Fuzzing-Wordlist | https://github.com/Steiner-254/Java-Fuzzing-Wordlist | 0 | 0| 
 | 20230604T19:23:58Z | Aspx-Fuzzing-Wordlist | https://github.com/Steiner-254/Aspx-Fuzzing-Wordlist | 0 | 0| 
+| 20230604T16:12:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3624 | 428| 
 | 20230604T12:43:45Z | Null | https://github.com/MrE-Fog/ios-fuzzy-swift | 0 | 0| 
 | 20230604T09:10:50Z | Null | https://github.com/supriyagillu/fuzzy-logic-WSN | 0 | 0| 
 | 20230604T06:50:46Z | A hybrid fuzzing tool guided by branch constraints | https://github.com/SEU-SSL/SILK | 2 | 0| 
 | 20230604T06:24:37Z | Bem vindo ao Quantum Fuzzy Road! | https://github.com/Falivith/quantum-fuzzy-road | 0 | 0| 
 | 20230604T06:09:45Z | Null | https://github.com/godspeedcurry/fuzzdict | 1 | 0| 
 | 20230604T00:53:10Z | Null | https://github.com/tyleryy/warm_fuzzies | 0 | 0| 
-| 20230603T21:07:57Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 84 | 8| 
 
 
 
