@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230605T12:23:56Z | exploit against apache 2.4.57 | https://github.com/0xDarv1n/apache-2.4.57-rce-poc-exploit | 0 | 0| 
+| 20230605T12:26:24Z | exploit against apache 2.4.57 | https://github.com/0xDarv1n/apache-2.4.57-rce-poc-exploit | 0 | 0| 
 | 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 735| 
 | 20230605T10:45:55Z | FIVEM Lua executor undetected | https://github.com/Atlas95152/FIVEM-Lua-Executor | 127 | 0| 
 | 20230605T10:18:50Z | SAÉ 2.04 - Exploitation d%une base de données | https://github.com/ulrichc1/sae204 | 0 | 0| 
