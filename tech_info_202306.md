@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230605T01:04:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6b | 0 | 0| 
+| 20230605T01:04:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T01:04:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T01:03:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T00:53:59Z | Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler) | https://github.com/cehamod/UI_CVE-2017-9248 | 0 | 0| 
