@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230605T00:03:37Z | CVE-2021-31956 | Null | https://github.com/hoangprod/CVE-2021-31956-POC | | 
 | 20230604T22:54:18Z | CVE-2021-31956 | POC code WIP Not complete, check future pushes for completion note. Practice for OSEE exam. | https://github.com/hoangprod/CVE-2021-31956 | | 
 | 20230604T20:22:08Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230604T19:31:26Z | CVE-2020-35489 | Verificador de Vulnerabilidade CVE-2020-35489 em Sites Wordpress | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
@@ -35,7 +36,6 @@
 | 20230604T03:53:09Z | CVE-2022-22965 | Poc&Exp,支持批量扫描,反弹shell | https://github.com/BKLockly/CVE-2022-22965 | | 
 | 20230604T03:06:43Z | CVE-2023-2825 | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | https://github.com/Occamsec/CVE-2023-2825 | | 
 | 20230603T14:13:49Z | CVE-2023-31606 | Null | https://github.com/e23e/CVE-2023-31606 | | 
-| 20230603T13:24:30Z | CVE-2023-25136 | CVE-2023-25136 POC written by axylisdead | https://github.com/axylisdead/CVE-2023-25136_POC | | 
 
 
 # klee on Github 推荐
