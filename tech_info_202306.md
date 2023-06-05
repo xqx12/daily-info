@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T01:12:30Z | Hardware Exploitation Product Suite | https://github.com/droughtjaw/DOUBLESTACK | 0 | 0| 
 | 20230605T01:04:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T01:04:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6b | 1 | 0| 
 | 20230605T01:03:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6b | 1 | 0| 
@@ -67,7 +68,6 @@
 | 20230605T00:01:07Z | FIVEM Lua executor undetected | https://github.com/AtlasWaaare/FIVEM-Lua-Executor | 152 | 0| 
 | 20230604T22:11:08Z | private russian exploit that uses 1.19 swimming mechanics to phase | https://github.com/mioclient/hitbox-desync | 12 | 5| 
 | 20230604T22:02:05Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 2 | 0| 
-| 20230604T21:11:59Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 84 | 9| 
 
 
 # backdoor on Github 推荐
