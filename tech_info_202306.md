@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T01:53:23Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 21 | 14| 
 | 20230605T01:26:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5037 | 989| 
 | 20230605T01:12:30Z | Hardware Exploitation Product Suite | https://github.com/droughtjaw/DOUBLESTACK | 0 | 0| 
 | 20230605T01:04:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6b | 1 | 0| 
@@ -67,7 +68,6 @@
 | 20230605T00:42:49Z | Programa que permite enviar archivos JAR de una forma discreta desde un dispositivo a otro y brinda la opcion de ejecutar dichos archivos remotamente en el destino. | https://github.com/IgnacioAusili/JarNetCliente | 0 | 0| 
 | 20230605T00:01:07Z | FIVEM Lua executor undetected | https://github.com/AtlasWaaare/FIVEM-Lua-Executor | 152 | 0| 
 | 20230604T22:11:08Z | private russian exploit that uses 1.19 swimming mechanics to phase | https://github.com/mioclient/hitbox-desync | 12 | 5| 
-| 20230604T22:02:05Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 2 | 0| 
 
 
 # backdoor on Github 推荐
