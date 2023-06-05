@@ -77,7 +77,7 @@
 | 20230604T14:15:44Z | Null | https://github.com/Fadnix/minecraft-backdoor | 0 | 0| 
 | 20230604T13:40:27Z | DOSrat 2.0 is a very light Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 18 | 6| 
 | 20230604T12:43:47Z | A backdoor Bukkit plugin that can get operator for non-operator player and hide itself. | https://github.com/TuanZiGit/BukkitBackdoor | 0 | 0| 
-| 20230603T20:14:19Z | FIshShell is a multi-session handler and Windows & Linux backdoor payload generator. It allows users\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell. | https://github.com/TriDEntApollO/FishShell | 4 | 0| 
+| 20230603T20:14:19Z | FIshShell is a multi-session handler and Windows & Linux backdoor payload generator. It allows users\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell. | https://github.com/TriDEntApollO/FishShell | 4 | 1| 
 | 20230603T15:32:50Z | Null | https://github.com/chanakakn/SSL-CLI-Backdoor-Client-Server | 1 | 0| 
 | 20230603T14:46:17Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 44 | 12| 
 | 20230603T14:04:33Z | Moruto%s useless %backdoor% | https://github.com/n-ikko/MoruDoor | 0 | 0| 
