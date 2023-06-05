@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T12:12:14Z | exploit against apache 2.4.57 | https://github.com/0xDarv1n/apache-2.4.57-rce-poc-exploit | 0 | 0| 
 | 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 735| 
 | 20230605T10:45:55Z | FIVEM Lua executor undetected | https://github.com/Atlas95152/FIVEM-Lua-Executor | 127 | 0| 
 | 20230605T10:18:50Z | SAÉ 2.04 - Exploitation d%une base de données | https://github.com/ulrichc1/sae204 | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20230605T07:45:59Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 25 | 9| 
 | 20230605T05:07:56Z | This code uses the requests library in Python to automatically exploit the %Elevation of Privilege% vulnerability in the Google Gruyere application. It crafts a POST request with a payload and sends it to the vulnerable endpoint. By checking the response%s status code, it determines if the exploit was successful. | https://github.com/bitbanditt/geoptest | 0 | 0| 
 | 20230605T01:55:20Z | 漏洞扫描和利用 | https://github.com/miniboom360/ASM-Exploit | 0 | 0| 
-| 20230605T01:53:23Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 21 | 14| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T12:20:13Z | We open source the prototype of RESTLess. RESTLess is  a generic framework for improving the efficiency of REST API Fuzzing. | https://github.com/sunsunk/RESTLess | 0 | 0| 
 | 20230605T09:51:02Z | Null | https://github.com/MR-520DAI/libFuzzer | 0 | 0| 
 | 20230605T09:36:00Z | A JUCE VST fuzz plugin of a fuzzy dog | https://github.com/JamesCameronMathews/BaxterFuzz | 0 | 0| 
 | 20230605T08:53:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3724 | 744| 
@@ -122,7 +123,6 @@
 | 20230605T03:53:49Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 390 | 70| 
 | 20230605T03:43:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5015 | 527| 
 | 20230604T21:49:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8698 | 1912| 
-| 20230604T20:19:50Z | A small fuzzy-set example in javascript | https://github.com/ddamiankowalski/fuzzy-set | 0 | 0| 
 
 
 
