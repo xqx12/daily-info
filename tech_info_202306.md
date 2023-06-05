@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T00:48:25Z | Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler) | https://github.com/cehamod/UI_CVE-2017-9248 | 0 | 0| 
 | 20230605T00:42:49Z | Programa que permite enviar archivos JAR de una forma discreta desde un dispositivo a otro y brinda la opcion de ejecutar dichos archivos remotamente en el destino. | https://github.com/IgnacioAusili/JarNetCliente | 0 | 0| 
 | 20230605T00:42:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5037 | 989| 
 | 20230605T00:01:07Z | FIVEM Lua executor undetected | https://github.com/AtlasWaaare/FIVEM-Lua-Executor | 152 | 0| 
@@ -67,7 +68,6 @@
 | 20230604T20:49:48Z | The next step is to host the malicious content that the attacker wishes to “share”. One option is for the attacker to host the malicious content on their own server. However, it’s rather difficult directing users to a new page, so an exposed legal website may also host it. Or even a legal website could be distributing the attackers’ content through | https://github.com/Rch881/S-L-E-X | 0 | 0| 
 | 20230604T20:48:57Z | Vulnerability Disclosure Timeline **Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders.** * Silent PDF Exploit  **silent-pdf-exploit-2018silent-pdf-exploit-201 | https://github.com/Rch881/S-L-D-C | 0 | 0| 
 | 20230604T20:48:53Z | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow | https://github.com/Rch881/J-P-G | 0 | 0| 
-| 20230604T20:42:07Z | Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) | https://github.com/Rch881/H-T-A | 0 | 0| 
 
 
 # backdoor on Github 推荐
