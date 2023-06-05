@@ -60,7 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 736| 
+| 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 735| 
 | 20230605T10:45:55Z | FIVEM Lua executor undetected | https://github.com/Atlas95152/FIVEM-Lua-Executor | 127 | 0| 
 | 20230605T10:18:50Z | SAÉ 2.04 - Exploitation d%une base de données | https://github.com/ulrichc1/sae204 | 0 | 0| 
 | 20230605T09:54:51Z | 10 elf-like binary exploitation in a x86_64 system. | https://github.com/izenynn/override | 0 | 0| 
