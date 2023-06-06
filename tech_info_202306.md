@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T01:42:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 783 | 108| 
 | 20230606T01:03:14Z | Sistem Penunjang Keputusan Metode Fuzzy Logic | https://github.com/upimariani/metode_fuzzy | 0 | 0| 
 | 20230606T00:53:12Z | Null | https://github.com/jonatasnb713/ABP-Logica-Fuzzy-com-Arduino | 0 | 0| 
 | 20230605T23:42:11Z | Null | https://github.com/lethal233/fuzzy-replay-selenium | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20230605T21:21:49Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
 | 20230605T21:21:31Z | Repository that contains automatic reports of issues found through fuzzing DuckDB | https://github.com/duckdb/duckdb-fuzzer | 1 | 0| 
 | 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
-| 20230605T20:57:05Z | It allows the user to specify and customise input and output variables, membership functions, rules, and defuzzification methods. | https://github.com/salma140012/fuzzylogic | 0 | 0| 
 
 
 
