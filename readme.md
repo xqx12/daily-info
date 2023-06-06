@@ -17,16 +17,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230605T22:28:04Z | CVE-2021-22911 | Null | https://github.com/MrDottt/CVE-2021-22911 | | 
+| 20230605T18:16:51Z | CVE-2023-2825 | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | https://github.com/EmmanuelCruzL/CVE-2023-2825 | | 
+| 20230605T18:15:06Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230605T17:57:48Z | CVE-2023-2650 | Null | https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650 | | 
+| 20230605T16:40:00Z | CVE-2023-33477 | Null | https://github.com/Skr11lex/CVE-2023-33477 | | 
+| 20230605T13:18:53Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
 | 20230605T07:45:59Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230605T04:09:44Z | CVE-2021-4191 | Null | https://github.com/Adelittle/CVE-2021-4191_Exploits | | 
 | 20230605T02:29:52Z | CVE-2021-40444 | Null | https://github.com/hqdat809/CVE-2021-40444 | | 
 | 20230605T02:13:29Z | CVE-2022-22963 | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | https://github.com/charis3306/CVE-2022-22963 | | 
-| 20230605T00:03:37Z | CVE-2021-31956 | Null | https://github.com/hoangprod/CVE-2021-31956-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T16:27:45Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 982 | 41| 
 | 20230605T06:17:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2240 | 619| 
 
 
@@ -40,21 +46,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T23:56:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-00i | 1 | 0| 
+| 20230605T23:55:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-00i | 1 | 0| 
+| 20230605T23:54:25Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-00 | 1 | 0| 
+| 20230605T23:35:26Z | Python script that automates the exploitation of a privilege elevation vulnerability in Google%s Gruyere web application. It uses the Playwright library for browser automation, Typer for creating a command-line interface, and includes a test case for verification. | https://github.com/bitbanditt/GGtest | 0 | 0| 
+| 20230605T23:01:43Z | The objective of this project is to find the vulnerabilities in the smart devices. To achieve this task we worked on the IOT devices i.e Smart Plug, Smart Bulb, Smart Camera. We looked into retrieving the data packets that used to trigger ON and OFF conditions and also evaluate the protocols used for communication.  | https://github.com/MeherP2246/Exploiting-IoT-Devices | 0 | 0| 
+| 20230605T22:07:03Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 3 | 0| 
+| 20230605T21:38:25Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-vpaq-pf_33-exploit-cover | 0 | 0| 
+| 20230605T19:57:29Z | Detecting Land Cover Changes Between Satellite Image Time Series By Exploiting Self-Supervised Representation Learning Capabilities | https://github.com/adebowaledaniel/sits-change-detection | 0 | 0| 
+| 20230605T17:56:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 652 | 169| 
 | 20230605T12:52:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-yglr-nmyy7-exploit-change | 0 | 0| 
-| 20230605T12:48:48Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-omYKM-afford-exploit | 0 | 0| 
-| 20230605T12:40:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-IqpcS-borrow-exploit | 0 | 0| 
-| 20230605T12:26:24Z | exploit against apache 2.4.57 | https://github.com/0xDarv1n/apache-2.4.57-rce-poc-exploit | 0 | 0| 
-| 20230605T12:08:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5041 | 991| 
-| 20230605T11:13:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5154 | 735| 
-| 20230605T10:45:55Z | FIVEM Lua executor undetected | https://github.com/Atlas95152/FIVEM-Lua-Executor | 127 | 0| 
-| 20230605T10:37:53Z | Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.6内置230个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange | https://github.com/k8gege/Ladon | 3978 | 810| 
-| 20230605T10:18:50Z | SAÉ 2.04 - Exploitation d%une base de données | https://github.com/ulrichc1/sae204 | 0 | 0| 
-| 20230605T09:54:51Z | 10 elf-like binary exploitation in a x86_64 system. | https://github.com/izenynn/override | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T23:50:17Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 58 | 13| 
+| 20230605T20:37:46Z | DOSrat 2.0 is a Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 18 | 6| 
+| 20230605T17:48:29Z | Webshell Manager Tool | https://github.com/malbuffer4pt/Alien | 22 | 1| 
+| 20230605T16:56:06Z | Null | https://github.com/PatricioCastillo/Backdoors | 0 | 0| 
 | 20230605T11:46:50Z | Null | https://github.com/some13body/backdoor | 0 | 0| 
 | 20230605T11:39:30Z | Tool to find malicious content and folder on linux server | https://github.com/security007/backdoor_scanner | 0 | 0| 
 | 20230605T06:07:03Z | Null | https://github.com/0xbassiouny1337/python_backdoor | 0 | 0| 
@@ -80,15 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230605T23:42:11Z | Null | https://github.com/lethal233/fuzzy-replay-selenium | 0 | 0| 
+| 20230605T23:21:53Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 1 | 0| 
+| 20230605T22:15:54Z | Null | https://github.com/Sebastiengote/fuzzy-octo-telegram | 0 | 0| 
+| 20230605T22:10:35Z | Null | https://github.com/luca1337/fuzzy-renderer | 0 | 0| 
+| 20230605T21:21:49Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
+| 20230605T21:21:31Z | Repository that contains automatic reports of issues found through fuzzing DuckDB | https://github.com/duckdb/duckdb-fuzzer | 1 | 0| 
+| 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
+| 20230605T20:57:05Z | It allows the user to specify and customise input and output variables, membership functions, rules, and defuzzification methods. | https://github.com/salma140012/fuzzylogic | 0 | 0| 
+| 20230605T15:30:52Z | Null | https://github.com/suryaismail/fuzzy-goggles | 0 | 0| 
 | 20230605T12:20:13Z | We open source the prototype of RESTLess. RESTLess is  a generic framework for improving the efficiency of REST API Fuzzing. | https://github.com/sunsunk/RESTLess | 0 | 0| 
-| 20230605T09:51:02Z | Null | https://github.com/MR-520DAI/libFuzzer | 0 | 0| 
-| 20230605T09:36:00Z | A JUCE VST fuzz plugin of a fuzzy dog | https://github.com/JamesCameronMathews/BaxterFuzz | 0 | 0| 
-| 20230605T08:53:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3724 | 744| 
-| 20230605T07:53:41Z | Config files for my GitHub profile. | https://github.com/FuzzyDrqgon/FuzzyDrqgon | 0 | 0| 
-| 20230605T07:25:35Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 67 | 28| 
-| 20230605T07:11:30Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1419 | 101| 
-| 20230605T03:53:49Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 390 | 70| 
-| 20230605T03:43:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5015 | 527| 
 
 
 
