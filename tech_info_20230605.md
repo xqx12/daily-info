@@ -50,12 +50,12 @@
 | 20230605T23:55:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-00i | 1 | 0| 
 | 20230605T23:54:25Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-00 | 1 | 0| 
 | 20230605T23:35:26Z | Python script that automates the exploitation of a privilege elevation vulnerability in Google%s Gruyere web application. It uses the Playwright library for browser automation, Typer for creating a command-line interface, and includes a test case for verification. | https://github.com/bitbanditt/GGtest | 0 | 0| 
+| 20230605T23:02:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 514 | 100| 
 | 20230605T23:01:43Z | The objective of this project is to find the vulnerabilities in the smart devices. To achieve this task we worked on the IOT devices i.e Smart Plug, Smart Bulb, Smart Camera. We looked into retrieving the data packets that used to trigger ON and OFF conditions and also evaluate the protocols used for communication.  | https://github.com/MeherP2246/Exploiting-IoT-Devices | 0 | 0| 
 | 20230605T22:07:03Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 3 | 0| 
 | 20230605T21:38:25Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-vpaq-pf_33-exploit-cover | 0 | 0| 
 | 20230605T19:57:29Z | Detecting Land Cover Changes Between Satellite Image Time Series By Exploiting Self-Supervised Representation Learning Capabilities | https://github.com/adebowaledaniel/sits-change-detection | 0 | 0| 
 | 20230605T17:56:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 652 | 169| 
-| 20230605T12:52:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-yglr-nmyy7-exploit-change | 0 | 0| 
 
 
 # backdoor on Github 推荐
