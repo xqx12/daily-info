@@ -26,13 +26,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230606T01:27:50Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230605T22:28:04Z | CVE-2021-22911 | Null | https://github.com/MrDottt/CVE-2021-22911 | | 
 | 20230605T18:16:51Z | CVE-2023-2825 | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | https://github.com/EmmanuelCruzL/CVE-2023-2825 | | 
 | 20230605T18:15:06Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230605T17:57:48Z | CVE-2023-2650 | Null | https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650 | | 
 | 20230605T16:40:00Z | CVE-2023-33477 | Null | https://github.com/Skr11lex/CVE-2023-33477 | | 
 | 20230605T13:18:53Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230605T07:45:59Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230605T04:09:44Z | CVE-2021-4191 | Null | https://github.com/Adelittle/CVE-2021-4191_Exploits | | 
 | 20230605T02:29:52Z | CVE-2021-40444 | Null | https://github.com/hqdat809/CVE-2021-40444 | | 
 | 20230605T02:13:29Z | CVE-2022-22963 | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | https://github.com/charis3306/CVE-2022-22963 | | 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T01:46:10Z | Null | https://github.com/jbhntr861/papercut_exploit | 0 | 0| 
 | 20230606T01:05:55Z | Null | https://github.com/f1redf0x/exploit_grabber | 0 | 0| 
 | 20230606T01:01:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-bz97R-exploit-thank | 0 | 0| 
 | 20230605T23:56:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-00i | 1 | 0| 
@@ -69,13 +70,12 @@
 | 20230605T23:02:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 514 | 100| 
 | 20230605T23:01:43Z | The objective of this project is to find the vulnerabilities in the smart devices. To achieve this task we worked on the IOT devices i.e Smart Plug, Smart Bulb, Smart Camera. We looked into retrieving the data packets that used to trigger ON and OFF conditions and also evaluate the protocols used for communication.  | https://github.com/MeherP2246/Exploiting-IoT-Devices | 0 | 0| 
 | 20230605T22:07:03Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 3 | 0| 
-| 20230605T21:38:25Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-vpaq-pf_33-exploit-cover | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T01:01:05Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 60 | 13| 
+| 20230606T01:24:20Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 61 | 13| 
 | 20230605T20:37:46Z | DOSrat 2.0 is a Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 18 | 6| 
 | 20230605T17:48:29Z | Webshell Manager Tool | https://github.com/malbuffer4pt/Alien | 22 | 1| 
 | 20230605T16:56:06Z | Null | https://github.com/PatricioCastillo/Backdoors | 0 | 0| 
