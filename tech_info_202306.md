@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T01:01:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-bz97R-exploit-thank | 0 | 0| 
 | 20230605T23:56:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-00i | 1 | 0| 
 | 20230605T23:55:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-00i | 1 | 0| 
 | 20230605T23:54:25Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-00 | 1 | 0| 
@@ -69,7 +70,6 @@
 | 20230605T22:07:03Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 3 | 0| 
 | 20230605T21:38:25Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-vpaq-pf_33-exploit-cover | 0 | 0| 
 | 20230605T19:57:29Z | Detecting Land Cover Changes Between Satellite Image Time Series By Exploiting Self-Supervised Representation Learning Capabilities | https://github.com/adebowaledaniel/sits-change-detection | 0 | 0| 
-| 20230605T17:56:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 652 | 169| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T01:03:14Z | Sistem Penunjang Keputusan Metode Fuzzy Logic | https://github.com/upimariani/metode_fuzzy | 0 | 0| 
 | 20230606T00:53:12Z | Null | https://github.com/jonatasnb713/ABP-Logica-Fuzzy-com-Arduino | 0 | 0| 
 | 20230605T23:42:11Z | Null | https://github.com/lethal233/fuzzy-replay-selenium | 0 | 0| 
 | 20230605T23:21:53Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 1 | 0| 
@@ -122,7 +123,6 @@
 | 20230605T21:21:31Z | Repository that contains automatic reports of issues found through fuzzing DuckDB | https://github.com/duckdb/duckdb-fuzzer | 1 | 0| 
 | 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
 | 20230605T20:57:05Z | It allows the user to specify and customise input and output variables, membership functions, rules, and defuzzification methods. | https://github.com/salma140012/fuzzylogic | 0 | 0| 
-| 20230605T15:48:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3628 | 430| 
 
 
 
