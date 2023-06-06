@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230606 | 从Rome看二次反序列化 | https://www.sec-in.com/article/2197| 
 | 20230605 | SecWiki周刊（第483期) | https://www.sec-wiki.com/weekly/483| 
 | 20230604 | 一切与数字网络相连的地方，都将成为新的“战场” | https://m.guancha.cn/HenryKissinger/2023_06_02_695074.shtml| 
 | 20230604 | Operation Triangulation 卡巴斯基被黑 | https://mp.weixin.qq.com/s/j4DVSXCmRqZaSohIl-KBTg| 
@@ -20,28 +21,27 @@
 | 20230601 | 检测响应的保真度漏斗模型精解 | https://mp.weixin.qq.com/s/V5SCIgkV5xO57h860LTY2A| 
 | 20230601 | AAA 战队2022年ctf_summer_courses培训课程资料 | https://github.com/team-s2/ctf_summer_courses/tree/main| 
 | 20230601 | 分析移动赌博诈骗的真实数据 | https://mp.weixin.qq.com/s/vrv4gk6xsJMqiz9bUtd59A| 
-| 20230601 | 特大型电网企业基于实战攻防的主动网络安全管理 | https://mp.weixin.qq.com/s/3Z3ZLfIJdjNgBNh-fayr5A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230606T01:27:50Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230606T12:20:31Z | CVE-2023-33977 | Read more at Medium | https://github.com/mnqazi/CVE-2023-33977 | | 
+| 20230606T11:45:56Z | CVE-2023-33246 | Apache RocketMQ 漏洞利用工具 | https://github.com/Serendipity-Lucky/CVE-2023-33246 | | 
+| 20230606T07:42:28Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
+| 20230606T06:39:54Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230606T04:48:46Z | CVE-2023-2114 | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114 | | 
+| 20230606T03:03:03Z | CVE-2023-2732 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-2732 | | 
 | 20230605T22:28:04Z | CVE-2021-22911 | Null | https://github.com/MrDottt/CVE-2021-22911 | | 
 | 20230605T18:16:51Z | CVE-2023-2825 | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | https://github.com/EmmanuelCruzL/CVE-2023-2825 | | 
 | 20230605T18:15:06Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230605T17:57:48Z | CVE-2023-2650 | Null | https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650 | | 
-| 20230605T16:40:00Z | CVE-2023-33477 | Null | https://github.com/Skr11lex/CVE-2023-33477 | | 
-| 20230605T13:18:53Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230605T04:09:44Z | CVE-2021-4191 | Null | https://github.com/Adelittle/CVE-2021-4191_Exploits | | 
-| 20230605T02:29:52Z | CVE-2021-40444 | Null | https://github.com/hqdat809/CVE-2021-40444 | | 
-| 20230605T02:13:29Z | CVE-2022-22963 | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | https://github.com/charis3306/CVE-2022-22963 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T00:48:31Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 983 | 41| 
+| 20230606T12:21:45Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 984 | 41| 
 | 20230605T06:17:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2240 | 619| 
 | 20230604T14:55:21Z | Config files for my GitHub profile. | https://github.com/LeonKlee/LeonKlee | 0 | 0| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
@@ -53,6 +53,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T11:38:16Z | Null | https://github.com/MetadataGitTesting/s2ECqImd | 0 | 0| 
 | 20230605T04:27:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 29 | 12| 
 | 20230605T02:21:00Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 339 | 80| 
 
@@ -60,36 +61,37 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T01:46:10Z | Null | https://github.com/jbhntr861/papercut_exploit | 0 | 0| 
-| 20230606T01:05:55Z | Null | https://github.com/f1redf0x/exploit_grabber | 0 | 0| 
-| 20230606T01:01:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-bz97R-exploit-thank | 0 | 0| 
-| 20230605T23:56:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-00i | 1 | 0| 
-| 20230605T23:55:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-00i | 1 | 0| 
-| 20230605T23:54:25Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-00 | 1 | 0| 
-| 20230605T23:35:26Z | Python script that automates the exploitation of a privilege elevation vulnerability in Google%s Gruyere web application. It uses the Playwright library for browser automation, Typer for creating a command-line interface, and includes a test case for verification. | https://github.com/bitbanditt/GGtest | 0 | 0| 
-| 20230605T23:02:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 514 | 100| 
-| 20230605T23:01:43Z | The objective of this project is to find the vulnerabilities in the smart devices. To achieve this task we worked on the IOT devices i.e Smart Plug, Smart Bulb, Smart Camera. We looked into retrieving the data packets that used to trigger ON and OFF conditions and also evaluate the protocols used for communication.  | https://github.com/MeherP2246/Exploiting-IoT-Devices | 0 | 0| 
-| 20230605T22:07:03Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 3 | 0| 
+| 20230606T12:40:49Z | Raven B+ For Roblox. This Is an Universal Exploit that allows Players to Take Advantage in any Games! | https://github.com/Rainnnyy/Raven4Roblox | 0 | 0| 
+| 20230606T12:40:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 653 | 169| 
+| 20230606T12:34:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-e3 | 1 | 0| 
+| 20230606T12:32:44Z | R codes used in the manuscript %Long-term trends in functional diversity of exploited marine fish in the Azores’ archipelago% | https://github.com/Eudriano/FD_Fisheries_Azores | 0 | 0| 
+| 20230606T12:31:08Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-e3 | 1 | 0| 
+| 20230606T12:29:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e3 | 1 | 0| 
+| 20230606T12:20:31Z | Read more at Medium | https://github.com/mnqazi/CVE-2023-33977 | 0 | 0| 
+| 20230606T10:21:25Z | 漏洞扫描和利用 | https://github.com/miniboom360/ASM-Exploit | 0 | 0| 
+| 20230606T08:27:13Z | Website for Paper %Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic% | https://github.com/jity16/BEE | 0 | 0| 
+| 20230606T06:39:54Z | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | 29 | 9| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T01:24:20Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 61 | 13| 
+| 20230606T12:47:50Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 74 | 16| 
+| 20230606T08:42:10Z | Code and data for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 7 | 0| 
+| 20230606T06:01:28Z | Webshell Manager Tool/一句話木馬管理工具 | https://github.com/malbuffer4pt/Alien | 22 | 1| 
+| 20230606T04:48:45Z | Python botnet and backdoor | https://github.com/CYCU-Lab/Ares | 0 | 0| 
 | 20230605T20:37:46Z | DOSrat 2.0 is a Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 18 | 6| 
-| 20230605T17:48:29Z | Webshell Manager Tool | https://github.com/malbuffer4pt/Alien | 22 | 1| 
 | 20230605T16:56:06Z | Null | https://github.com/PatricioCastillo/Backdoors | 0 | 0| 
 | 20230605T11:46:50Z | Null | https://github.com/some13body/backdoor | 0 | 0| 
 | 20230605T11:39:30Z | Tool to find malicious content and folder on linux server | https://github.com/security007/backdoor_scanner | 0 | 0| 
 | 20230605T06:07:03Z | Null | https://github.com/0xbassiouny1337/python_backdoor | 0 | 0| 
 | 20230605T05:56:45Z | This repository contains the official implementation code of the paper %Advanced Foundations of Backdoor Detection%. | https://github.com/lee3yearsold/Advanced-Foundations-of-Backdoor-Detection | 1 | 0| 
-| 20230605T05:47:02Z | Implementation of BapFL: Backdoor Attack Personalized Federated Learning | https://github.com/BapFL/code | 0 | 0| 
-| 20230604T23:40:38Z | Backdoor PHP | https://github.com/adekg29/Shel | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T12:04:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 345 | 27| 
 | 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 25| 
 | 20230605T08:55:50Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 184 | 19| 
 | 20230605T06:17:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2240 | 619| 
@@ -97,7 +99,6 @@
 | 20230605T02:21:00Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 339 | 80| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
 | 20230602T05:50:44Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
-| 20230601T17:13:51Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 336 | 27| 
 | 20230601T16:35:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3460 | 480| 
 
 
@@ -113,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T01:42:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 783 | 108| 
-| 20230606T01:03:14Z | Sistem Penunjang Keputusan Metode Fuzzy Logic | https://github.com/upimariani/metode_fuzzy | 0 | 0| 
-| 20230606T00:53:12Z | Null | https://github.com/jonatasnb713/ABP-Logica-Fuzzy-com-Arduino | 0 | 0| 
-| 20230605T23:42:11Z | Null | https://github.com/lethal233/fuzzy-replay-selenium | 0 | 0| 
-| 20230605T23:21:53Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 1 | 0| 
-| 20230605T22:15:54Z | Null | https://github.com/Sebastiengote/fuzzy-octo-telegram | 0 | 0| 
-| 20230605T22:10:35Z | Null | https://github.com/luca1337/fuzzy-renderer | 0 | 0| 
-| 20230605T21:21:49Z | DuckDB Fuzzer CI Runs | https://github.com/duckdblabs/duckdb-fuzzer-ci | 0 | 0| 
-| 20230605T21:21:31Z | Repository that contains automatic reports of issues found through fuzzing DuckDB | https://github.com/duckdb/duckdb-fuzzer | 1 | 0| 
-| 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
+| 20230606T12:43:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46978 | 23004| 
+| 20230606T12:37:48Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
+| 20230606T12:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3723 | 745| 
+| 20230606T12:23:11Z | Null | https://github.com/triengineervn/fuzzy_logic_flutter | 0 | 0| 
+| 20230606T12:14:55Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 44 | 1| 
+| 20230606T12:12:25Z | A python tool to fuzz C compilers via guided value mutation | https://github.com/jnzd/ast-project | 2 | 0| 
+| 20230606T12:00:59Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1874 | 90| 
+| 20230606T11:51:53Z | Null | https://github.com/carlosfavila/FuzzyProjects | 0 | 0| 
+| 20230606T10:18:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8702 | 1911| 
+| 20230606T05:53:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5016 | 528| 
 
 
 
