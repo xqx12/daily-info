@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T00:53:12Z | Null | https://github.com/jonatasnb713/ABP-Logica-Fuzzy-com-Arduino | 0 | 0| 
 | 20230605T23:42:11Z | Null | https://github.com/lethal233/fuzzy-replay-selenium | 0 | 0| 
 | 20230605T23:21:53Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 1 | 0| 
 | 20230605T22:15:54Z | Null | https://github.com/Sebastiengote/fuzzy-octo-telegram | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
 | 20230605T20:57:05Z | It allows the user to specify and customise input and output variables, membership functions, rules, and defuzzification methods. | https://github.com/salma140012/fuzzylogic | 0 | 0| 
 | 20230605T15:48:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3628 | 430| 
-| 20230605T15:30:52Z | Null | https://github.com/suryaismail/fuzzy-goggles | 0 | 0| 
 
 
 
