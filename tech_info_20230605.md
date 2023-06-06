@@ -97,8 +97,8 @@
 | 20230605T21:21:31Z | Repository that contains automatic reports of issues found through fuzzing DuckDB | https://github.com/duckdb/duckdb-fuzzer | 1 | 0| 
 | 20230605T21:04:06Z | Null | https://github.com/suleman-al-ajouria/open-redirect-fuzzer | 0 | 0| 
 | 20230605T20:57:05Z | It allows the user to specify and customise input and output variables, membership functions, rules, and defuzzification methods. | https://github.com/salma140012/fuzzylogic | 0 | 0| 
+| 20230605T16:08:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8700 | 1911| 
 | 20230605T15:48:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3628 | 430| 
-| 20230605T15:30:52Z | Null | https://github.com/suryaismail/fuzzy-goggles | 0 | 0| 
 
 
 
