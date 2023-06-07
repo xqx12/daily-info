@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T01:31:10Z | A basic hex character fuzzing wordlist. To use with Burp Intruder, set a payload where you want to insert a character and then use this wordlist for the payload. For example scanning on https://test.com§§evil.com would succees to evil.com on an @ symbol. | https://github.com/osm6495/HexCharFuzz | 0 | 0| 
 | 20230607T00:57:46Z | Null | https://github.com/alanatm/fuzzy-train | 0 | 0| 
 | 20230606T23:21:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3631 | 430| 
 | 20230606T22:34:51Z | Null | https://github.com/mastermind-of-math/fuzzy-garbanzo | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20230606T14:06:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8703 | 1912| 
 | 20230606T12:43:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46978 | 23004| 
 | 20230606T12:37:48Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
-| 20230606T12:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3723 | 745| 
 
 
 
