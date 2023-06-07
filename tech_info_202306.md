@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230607T00:54:44Z | Null | https://github.com/alanatm/fuzzy-train | 0 | 0| 
+| 20230607T00:57:46Z | Null | https://github.com/alanatm/fuzzy-train | 0 | 0| 
 | 20230606T23:21:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3631 | 430| 
 | 20230606T22:34:51Z | Null | https://github.com/mastermind-of-math/fuzzy-garbanzo | 0 | 0| 
 | 20230606T21:51:05Z | Null | https://github.com/Ivy-Sun99/Maven-Fuzzy-Factory-Project-Portfolio | 0 | 0| 
