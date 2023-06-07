@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T12:04:13Z | A set of utility functions for testing templates within mlighter | https://github.com/dakaidan/FuzzingUtils | 0 | 0| 
 | 20230607T11:38:22Z | Null | https://github.com/MrE-Fog/fuzz-corporatr | 0 | 0| 
 | 20230607T11:08:16Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
 | 20230607T10:54:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 289 | 43| 
@@ -125,7 +126,6 @@
 | 20230607T01:31:10Z | A basic hex character fuzzing wordlist. To use with Burp Intruder, set a payload where you want to insert a character and then use this wordlist for the payload. For example scanning on https://test.com§§evil.com would succees to evil.com on an @ symbol. | https://github.com/osm6495/HexCharFuzz | 0 | 0| 
 | 20230607T00:57:46Z | Null | https://github.com/alanatm/fuzzy-train | 0 | 0| 
 | 20230606T23:21:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3631 | 430| 
-| 20230606T22:34:51Z | Null | https://github.com/mastermind-of-math/fuzzy-garbanzo | 0 | 0| 
 
 
 
