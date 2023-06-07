@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230607T01:35:54Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
-| 20230606T19:36:12Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230607T11:43:51Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230607T11:11:56Z | CVE-2022-39227 | CVE-2022-39227 : Proof of Concept  | https://github.com/user0x1337/CVE-2022-39227 | | 
+| 20230607T07:51:59Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test-CVE-2023-29325 | | 
+| 20230607T07:03:04Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
+| 20230607T05:28:37Z | CVE-2023-33246 | Apache RocketMQ 漏洞利用工具 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku | | 
+| 20230607T04:22:39Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
+| 20230607T03:32:01Z | CVE-2023-34362 | An investigation into CVE-2023-34362. | https://github.com/a3cipher/CVE-2023-34362 | | 
 | 20230606T17:46:29Z | CVE-2023-28178 | Null | https://github.com/MacCVEResearch/CVE-2023-28178-patch | | 
 | 20230606T16:18:49Z | CVE-2023-33246 | Apache RocketMQ 漏洞利用工具 | https://github.com/Serendipity-Lucky/CVE-2023-33246 | | 
 | 20230606T12:20:31Z | CVE-2023-33977 | Read more at Medium | https://github.com/mnqazi/CVE-2023-33977 | | 
-| 20230606T07:42:28Z | CVE-2023-32243 | CVE-2023-32243 | https://github.com/RandomRobbieBF/CVE-2023-32243 | | 
-| 20230606T04:48:46Z | CVE-2023-2114 | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114 | | 
-| 20230606T03:03:03Z | CVE-2023-2732 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-2732 | | 
-| 20230605T22:28:04Z | CVE-2021-22911 | Null | https://github.com/MrDottt/CVE-2021-22911 | | 
-| 20230605T18:16:51Z | CVE-2023-2825 | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | https://github.com/EmmanuelCruzL/CVE-2023-2825 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T03:19:29Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 985 | 41| 
 | 20230607T01:56:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2242 | 619| 
 | 20230606T14:40:31Z | Null | https://github.com/CakeZaddy/Kleen-kodah | 0 | 0| 
-| 20230606T12:21:45Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 984 | 41| 
 | 20230604T14:55:21Z | Config files for my GitHub profile. | https://github.com/LeonKlee/LeonKlee | 0 | 0| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
 | 20230602T07:24:47Z | Null | https://github.com/klee1123/klee1123.github.io | 0 | 0| 
@@ -54,39 +54,39 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T05:24:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
 | 20230606T11:38:16Z | Null | https://github.com/MetadataGitTesting/s2ECqImd | 0 | 0| 
 | 20230605T04:27:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 29 | 12| 
-| 20230605T02:21:00Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 339 | 80| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T12:00:00Z | Solved challenges and payloads for them | https://github.com/JacekCytera/BinaryExploitation | 0 | 0| 
+| 20230607T11:53:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5158 | 737| 
+| 20230607T09:59:28Z | Burp extension to check and exploit the IIS Tilde Enumeration/IIS 8.3 Short Filename Disclosure vulnerability | https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner | 29 | 10| 
+| 20230607T09:59:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 26 | 3| 
+| 20230607T09:58:23Z | A simple script to scan IIS logs for potential exploitation of MOVEit | https://github.com/SentineLabs/MOVEit-IIS-Log-Scanner | 0 | 0| 
+| 20230607T09:40:34Z | Text2Emoji Converter for Microsoft store roblox (Designed for lego exploits or maybe it works on your game) | https://github.com/ellxzyie/Text2Emoji | 0 | 0| 
+| 20230607T05:59:11Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 32 | 9| 
+| 20230607T05:22:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 654 | 169| 
 | 20230607T01:38:27Z | windows post exploitation transfer tools | https://github.com/vamsi-120304/Transfer-Tools | 0 | 0| 
 | 20230607T00:43:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5010 | 626| 
-| 20230607T00:19:57Z | Null | https://github.com/codeb0ss/cross-domain_policy_exploiter | 0 | 0| 
-| 20230607T00:08:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0- | 1 | 0| 
-| 20230607T00:07:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
-| 20230607T00:06:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0- | 1 | 0| 
-| 20230606T23:41:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-024fa1dd-b7f0-478f-a474-2a1382cc696a-_TZ-g-exploit-cast | 0 | 0| 
-| 20230606T23:18:39Z | Vmt can code better then u  | https://github.com/Asmodeus-was-taken/IOS-Exploit | 1 | 0| 
-| 20230606T21:56:36Z | Pentest exploit | https://github.com/seed1337/Eero-vuln | 0 | 0| 
-| 20230606T12:40:49Z | Raven B+ For Roblox. This Is an Universal Exploit that allows Players to Take Advantage in any Games! | https://github.com/Rainnnyy/Raven4Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230607T01:14:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 81 | 16| 
-| 20230607T01:07:43Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 139 | 23| 
+| 20230607T11:25:57Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 84 | 16| 
+| 20230607T09:21:25Z | Null | https://github.com/Drabkin01/backdoor.py | 1 | 0| 
+| 20230607T09:12:35Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 141 | 18| 
+| 20230607T06:34:25Z | Null | https://github.com/gegenius/backdoor-python | 1 | 0| 
+| 20230607T04:27:41Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 0 | 1| 
+| 20230607T02:44:12Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 140 | 23| 
 | 20230606T17:27:13Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 22 | 1| 
 | 20230606T17:16:02Z | All php Backdoors and shell list | https://github.com/Mr-Cyb3rgh0st/php-backdoors-shell | 0 | 0| 
 | 20230606T14:03:42Z | Admin rotary - gestión backdoor | https://github.com/luisb0992/admin_rotary | 0 | 0| 
 | 20230606T08:42:10Z | Code and data for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 7 | 0| 
-| 20230606T04:48:45Z | Python botnet and backdoor | https://github.com/CYCU-Lab/Ares | 0 | 0| 
-| 20230605T20:37:46Z | DOSrat 2.0 is a Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 18 | 6| 
-| 20230605T16:56:06Z | Null | https://github.com/PatricioCastillo/Backdoors | 0 | 0| 
-| 20230605T11:46:50Z | Null | https://github.com/some13body/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T11:38:22Z | Null | https://github.com/MrE-Fog/fuzz-corporatr | 0 | 0| 
+| 20230607T11:08:16Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
+| 20230607T10:54:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 289 | 43| 
+| 20230607T10:10:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5017 | 527| 
+| 20230607T07:11:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4722 | 1134| 
+| 20230607T07:05:03Z | Pandas Data analysis examples for CSV input files | https://github.com/yogeshc/fuzzy-octo-engine | 0 | 0| 
 | 20230607T01:31:10Z | A basic hex character fuzzing wordlist. To use with Burp Intruder, set a payload where you want to insert a character and then use this wordlist for the payload. For example scanning on https://test.com§§evil.com would succees to evil.com on an @ symbol. | https://github.com/osm6495/HexCharFuzz | 0 | 0| 
 | 20230607T00:57:46Z | Null | https://github.com/alanatm/fuzzy-train | 0 | 0| 
 | 20230606T23:21:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3631 | 430| 
 | 20230606T22:34:51Z | Null | https://github.com/mastermind-of-math/fuzzy-garbanzo | 0 | 0| 
-| 20230606T21:51:05Z | Null | https://github.com/Ivy-Sun99/Maven-Fuzzy-Factory-Project-Portfolio | 0 | 0| 
-| 20230606T18:43:39Z | Null | https://github.com/hcwilk/Fuzzing_Campaign | 0 | 0| 
-| 20230606T17:50:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2742 | 186| 
-| 20230606T14:06:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8703 | 1912| 
-| 20230606T12:43:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46978 | 23004| 
-| 20230606T12:37:48Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
 
 
 
