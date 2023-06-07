@@ -66,7 +66,6 @@
 | 20230606T21:19:53Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 80 | 16| 
 | 20230606T17:27:13Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 22 | 1| 
 | 20230606T17:16:02Z | All php Backdoors and shell list | https://github.com/Mr-Cyb3rgh0st/php-backdoors-shell | 0 | 0| 
-| 20230606T15:03:10Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 138 | 23| 
 | 20230606T14:03:42Z | Admin rotary - gestión backdoor | https://github.com/luisb0992/admin_rotary | 0 | 0| 
 | 20230606T08:42:10Z | Code and data for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 7 | 0| 
 | 20230606T04:48:45Z | Python botnet and backdoor | https://github.com/CYCU-Lab/Ares | 0 | 0| 
