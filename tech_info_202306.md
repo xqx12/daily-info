@@ -64,6 +64,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230607T12:01:41Z | Solved challenges and payloads for them | https://github.com/JacekCytera/BinaryExploitation | 0 | 0| 
 | 20230607T11:53:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5158 | 738| 
+| 20230607T11:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5044 | 991| 
 | 20230607T09:59:28Z | Burp extension to check and exploit the IIS Tilde Enumeration/IIS 8.3 Short Filename Disclosure vulnerability | https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner | 29 | 10| 
 | 20230607T09:59:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 26 | 3| 
 | 20230607T09:58:23Z | A simple script to scan IIS logs for potential exploitation of MOVEit | https://github.com/SentineLabs/MOVEit-IIS-Log-Scanner | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230607T05:59:11Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 32 | 9| 
 | 20230607T05:22:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 654 | 169| 
 | 20230607T01:38:27Z | windows post exploitation transfer tools | https://github.com/vamsi-120304/Transfer-Tools | 0 | 0| 
-| 20230607T00:43:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5010 | 626| 
 
 
 # backdoor on Github 推荐
