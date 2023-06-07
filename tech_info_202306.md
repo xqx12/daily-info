@@ -121,11 +121,11 @@
 | 20230606T21:51:05Z | Null | https://github.com/Ivy-Sun99/Maven-Fuzzy-Factory-Project-Portfolio | 0 | 0| 
 | 20230606T18:43:39Z | Null | https://github.com/hcwilk/Fuzzing_Campaign | 0 | 0| 
 | 20230606T17:50:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2742 | 186| 
+| 20230606T14:06:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8703 | 1912| 
 | 20230606T12:43:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 46978 | 23004| 
 | 20230606T12:37:48Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
 | 20230606T12:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3723 | 745| 
 | 20230606T12:23:11Z | Null | https://github.com/triengineervn/fuzzy_logic_flutter | 0 | 0| 
-| 20230606T12:14:55Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 44 | 1| 
 
 
 
