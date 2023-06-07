@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230606T23:21:34Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3631 | 430| 
 | 20230606T22:34:51Z | Null | https://github.com/mastermind-of-math/fuzzy-garbanzo | 0 | 0| 
 | 20230606T21:51:05Z | Null | https://github.com/Ivy-Sun99/Maven-Fuzzy-Factory-Project-Portfolio | 0 | 0| 
 | 20230606T18:43:39Z | Null | https://github.com/hcwilk/Fuzzing_Campaign | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20230606T12:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3723 | 745| 
 | 20230606T12:23:11Z | Null | https://github.com/triengineervn/fuzzy_logic_flutter | 0 | 0| 
 | 20230606T12:14:55Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 44 | 1| 
-| 20230606T12:12:25Z | A python tool to fuzz C compilers via guided value mutation | https://github.com/jnzd/ast-project | 2 | 0| 
 
 
 
