@@ -74,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230606T21:52:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 185 | 19| 
-| 20230606T17:10:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2241 | 619| 
 
 
 # big4 on Github 推荐
