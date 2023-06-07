@@ -63,7 +63,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230606T21:19:53Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 80 | 16| 
 | 20230606T17:27:13Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 22 | 1| 
 | 20230606T17:16:02Z | All php Backdoors and shell list | https://github.com/Mr-Cyb3rgh0st/php-backdoors-shell | 0 | 0| 
 | 20230606T14:03:42Z | Admin rotary - gestión backdoor | https://github.com/luisb0992/admin_rotary | 0 | 0| 
