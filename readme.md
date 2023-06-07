@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230607T11:43:51Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230607T12:09:56Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230607T11:11:56Z | CVE-2022-39227 | CVE-2022-39227 : Proof of Concept  | https://github.com/user0x1337/CVE-2022-39227 | | 
 | 20230607T07:51:59Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test-CVE-2023-29325 | | 
 | 20230607T07:03:04Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
