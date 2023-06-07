@@ -62,6 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T00:08:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0- | 1 | 0| 
+| 20230607T00:07:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
+| 20230607T00:06:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20230606T23:41:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-024fa1dd-b7f0-478f-a474-2a1382cc696a-_TZ-g-exploit-cast | 0 | 0| 
 | 20230606T23:18:39Z | Vmt can code better then u  | https://github.com/Asmodeus-was-taken/IOS-Exploit | 1 | 0| 
 | 20230606T21:56:36Z | Pentest exploit | https://github.com/seed1337/Eero-vuln | 0 | 0| 
@@ -69,9 +72,6 @@
 | 20230606T12:40:49Z | Raven B+ For Roblox. This Is an Universal Exploit that allows Players to Take Advantage in any Games! | https://github.com/Rainnnyy/Raven4Roblox | 0 | 0| 
 | 20230606T12:40:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 653 | 169| 
 | 20230606T12:34:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-e3 | 1 | 0| 
-| 20230606T12:32:44Z | R codes used in the manuscript %Long-term trends in functional diversity of exploited marine fish in the Azores’ archipelago% | https://github.com/Eudriano/FD_Fisheries_Azores | 0 | 0| 
-| 20230606T12:31:08Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-e3 | 1 | 0| 
-| 20230606T12:29:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e3 | 1 | 0| 
 
 
 # backdoor on Github 推荐
