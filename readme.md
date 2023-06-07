@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T12:14:19Z | Simple backdoor python | https://github.com/Konakii/Backdoor | 0 | 0| 
 | 20230607T11:25:57Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 84 | 16| 
 | 20230607T09:21:25Z | Null | https://github.com/Drabkin01/backdoor.py | 1 | 0| 
 | 20230607T09:12:35Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 141 | 18| 
@@ -81,9 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T12:12:04Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
 | 20230607T12:04:13Z | A set of utility functions for testing templates within mlighter | https://github.com/dakaidan/FuzzingUtils | 0 | 0| 
 | 20230607T11:38:22Z | Null | https://github.com/MrE-Fog/fuzz-corporatr | 0 | 0| 
-| 20230607T11:08:16Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
 | 20230607T10:54:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 289 | 43| 
 | 20230607T10:10:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5017 | 527| 
 | 20230607T07:11:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4722 | 1134| 
