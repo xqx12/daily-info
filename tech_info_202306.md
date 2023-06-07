@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230607T00:43:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5010 | 626| 
 | 20230607T00:19:57Z | Null | https://github.com/codeb0ss/cross-domain_policy_exploiter | 0 | 0| 
 | 20230607T00:08:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20230607T00:07:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20230606T21:56:36Z | Pentest exploit | https://github.com/seed1337/Eero-vuln | 0 | 0| 
 | 20230606T12:40:49Z | Raven B+ For Roblox. This Is an Universal Exploit that allows Players to Take Advantage in any Games! | https://github.com/Rainnnyy/Raven4Roblox | 0 | 0| 
 | 20230606T12:40:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 653 | 169| 
-| 20230606T12:34:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-e3 | 1 | 0| 
 
 
 # backdoor on Github 推荐
