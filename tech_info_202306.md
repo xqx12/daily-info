@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230608T00:50:50Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
 | 20230608T00:37:07Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230607T22:10:06Z | CVE-2023-23488 | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | https://github.com/cybfar/CVE-2023-23488-pmpro-2.8 | | 
 | 20230607T16:47:26Z | CVE-2023-34362 | An investigation into CVE-2023-34362. | https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn | | 
@@ -35,7 +36,6 @@
 | 20230607T07:43:13Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20230607T07:03:04Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230607T05:28:37Z | CVE-2023-33246 | Apache RocketMQ 漏洞利用工具 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku | | 
-| 20230607T04:22:39Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
 
 
 # klee on Github 推荐
