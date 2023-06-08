@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T00:16:43Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. This GitHub repo is fanmade approved. Enjoy the backup website :D | https://github.com/0xVienna/Celery | 11 | 7| 
 | 20230607T22:26:16Z | Null | https://github.com/AntiAzer/exploits | 0 | 0| 
 | 20230607T20:34:44Z | Null | https://github.com/frosimanuel/exploit_pentesterlab | 0 | 0| 
 | 20230607T19:33:32Z | Files to exploit LocalPotato with Command Execution using StorSvc and DLL Hijacking (From TryHackMe) | https://github.com/blu3ming/LocalPotato | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230607T13:26:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 519 | 102| 
 | 20230607T12:01:41Z | Solved challenges and payloads for them | https://github.com/JacekCytera/BinaryExploitation | 0 | 0| 
 | 20230607T11:53:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5158 | 738| 
-| 20230607T11:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5044 | 991| 
 
 
 # backdoor on Github 推荐
@@ -123,10 +123,10 @@
 | 20230607T22:20:41Z | Null | https://github.com/lucascost/fuzzy-fiesta | 0 | 0| 
 | 20230607T22:18:29Z | The complete implementation of the EEG project | https://github.com/airpods69/fuzzy-giggle | 0 | 0| 
 | 20230607T18:49:42Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
+| 20230607T15:47:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3635 | 430| 
 | 20230607T12:12:04Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
 | 20230607T12:04:13Z | A set of utility functions for testing templates within mlighter | https://github.com/dakaidan/FuzzingUtils | 0 | 0| 
 | 20230607T11:38:22Z | Null | https://github.com/MrE-Fog/fuzz-corporatr | 0 | 0| 
-| 20230607T10:54:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 289 | 43| 
 
 
 
