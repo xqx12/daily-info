@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230608T12:29:09Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
+| 20230608T12:33:41Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
 | 20230608T11:31:10Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
 | 20230608T10:31:49Z | cve-2023-10608 | cve-2023-10608 Proof Of Concept | https://github.com/b35363/cve-2023-10608-PoC | | 
 | 20230608T10:12:15Z | 未知编号 | Arbitrary File Delete Elevation of Privilege through Operating System Check of HP Support Assistant | https://github.com/sp3arm4n/Stolen-CVE-2022 | | 
