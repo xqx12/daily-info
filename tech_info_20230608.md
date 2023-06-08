@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:29:09Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
 | 20230608T11:31:10Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
 | 20230608T10:31:49Z | cve-2023-10608 | cve-2023-10608 Proof Of Concept | https://github.com/b35363/cve-2023-10608-PoC | | 
 | 20230608T10:12:15Z | 未知编号 | Arbitrary File Delete Elevation of Privilege through Operating System Check of HP Support Assistant | https://github.com/sp3arm4n/Stolen-CVE-2022 | | 
@@ -28,7 +29,6 @@
 | 20230608T08:35:51Z | CVE-2021-43617 | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | https://github.com/Sybelle03/CVE-2021-43617 | | 
 | 20230608T08:22:31Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20230608T08:01:23Z | CVE-2023-51504 | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db)  | https://github.com/Sybelle03/CVE-2023-51504 | | 
-| 20230608T05:14:02Z | CVE-2023-23638 | Null | https://github.com/CKevens/CVE-2023-23638-Tools | | 
 
 
 # klee on Github 推荐
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:29:09Z | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | 0 | 0| 
 | 20230608T12:01:29Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
 | 20230608T10:20:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5047 | 992| 
 | 20230608T09:58:09Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5295 | 423| 
@@ -58,7 +59,6 @@
 | 20230608T08:01:23Z | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db)  | https://github.com/Sybelle03/CVE-2023-51504 | 0 | 1| 
 | 20230608T07:31:47Z | Exploit  | https://github.com/jedade/ifri-web-security | 0 | 0| 
 | 20230608T07:14:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 655 | 169| 
-| 20230608T07:11:11Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 469 | 66| 
 
 
 # backdoor on Github 推荐
