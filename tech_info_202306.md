@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230608T01:35:53Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230608T01:56:13Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230608T01:12:01Z | CVE-2023-23488 | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | https://github.com/cybfar/CVE-2023-23488-pmpro-2.8 | | 
 | 20230608T00:50:50Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
 | 20230607T16:47:26Z | CVE-2023-34362 | An investigation into CVE-2023-34362. | https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn | | 
