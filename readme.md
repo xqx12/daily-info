@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230607T22:10:06Z | CVE-2023-23488 | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | https://github.com/cybfar/CVE-2023-23488-pmpro-2.8 | | 
-| 20230607T20:53:01Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230607T16:47:26Z | CVE-2023-34362 | An investigation into CVE-2023-34362. | https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn | | 
 | 20230607T15:44:35Z | 未知编号 | Arbitrary File Delete Elevation of Privilege through Operating System Check of HP Support Assistant | https://github.com/sp3arm4n/Stolen-CVE-2022 | | 
 | 20230607T11:11:56Z | CVE-2022-39227 | CVE-2022-39227 : Proof of Concept  | https://github.com/user0x1337/CVE-2022-39227 | | 
@@ -27,6 +26,7 @@
 | 20230607T07:03:04Z | CVE-2023-33246 | CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit | https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT | | 
 | 20230607T05:28:37Z | CVE-2023-33246 | Apache RocketMQ 漏洞利用工具 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku | | 
 | 20230607T04:22:39Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
+| 20230607T03:32:01Z | CVE-2023-34362 | An investigation into CVE-2023-34362. | https://github.com/a3cipher/CVE-2023-34362 | | 
 
 
 # klee on Github 推荐
