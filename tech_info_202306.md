@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:17:15Z | Null | https://github.com/famasoon/baby_fuzzer | 0 | 0| 
 | 20230608T12:04:16Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 2 | 0| 
 | 20230608T11:34:42Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 108 | 2| 
 | 20230608T11:22:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5019 | 526| 
@@ -127,7 +128,6 @@
 | 20230608T01:54:54Z | Null | https://github.com/0xburn-zk/fuzzing1 | 0 | 0| 
 | 20230608T00:02:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8708 | 1913| 
 | 20230607T23:45:30Z | Null | https://github.com/DymorU/fuzzy-spork | 0 | 0| 
-| 20230607T23:17:55Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
 
 
 
