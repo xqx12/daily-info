@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T01:17:49Z | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | 8 | 0| 
 | 20230608T00:16:43Z | The new level 7 Roblox exploit that bypasses Byfron using UWP-Microsoft Store measures. This GitHub repo is fanmade approved. Enjoy the backup website :D | https://github.com/0xVienna/Celery | 11 | 7| 
 | 20230607T22:26:16Z | Null | https://github.com/AntiAzer/exploits | 0 | 0| 
 | 20230607T20:34:44Z | Null | https://github.com/frosimanuel/exploit_pentesterlab | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230607T16:52:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5045 | 991| 
 | 20230607T16:16:49Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 479 | 64| 
 | 20230607T14:04:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5012 | 625| 
-| 20230607T13:26:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 519 | 102| 
 
 
 # backdoor on Github 推荐
