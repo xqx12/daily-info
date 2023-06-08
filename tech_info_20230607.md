@@ -32,7 +32,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230607T21:30:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2243 | 619| 
 | 20230607T15:57:13Z | Null | https://github.com/Younas22/1_kleem_assignment | 0 | 0| 
 | 20230607T03:19:29Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 985 | 41| 
 
