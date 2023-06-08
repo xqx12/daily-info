@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T01:38:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 520 | 102| 
 | 20230608T01:35:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5013 | 625| 
 | 20230608T01:28:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y8 | 1 | 0| 
 | 20230608T01:27:09Z | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | 8 | 0| 
@@ -72,7 +73,6 @@
 | 20230607T22:26:16Z | Null | https://github.com/AntiAzer/exploits | 0 | 0| 
 | 20230607T20:34:44Z | Null | https://github.com/frosimanuel/exploit_pentesterlab | 0 | 0| 
 | 20230607T19:33:32Z | Files to exploit LocalPotato with Command Execution using StorSvc and DLL Hijacking (From TryHackMe) | https://github.com/blu3ming/LocalPotato | 0 | 0| 
-| 20230607T18:47:17Z | Null | https://github.com/yurig93b/exploited-disks-final-project | 0 | 0| 
 
 
 # backdoor on Github 推荐
