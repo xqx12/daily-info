@@ -91,9 +91,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:04:16Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 2 | 0| 
 | 20230608T11:34:42Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 108 | 2| 
 | 20230608T11:22:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5019 | 526| 
-| 20230608T11:18:02Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 1 | 0| 
 | 20230608T11:11:49Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3726 | 747| 
 | 20230608T10:59:50Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
 | 20230608T10:42:59Z | Null | https://github.com/Lashadya103/Fuzzy-Logic-on-Tipping-Agent | 0 | 0| 
