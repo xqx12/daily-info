@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T01:53:32Z | Null | https://github.com/0xburn-zk/fuzzing1 | 0 | 0| 
 | 20230608T00:02:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8708 | 1913| 
 | 20230607T23:45:30Z | Null | https://github.com/DymorU/fuzzy-spork | 0 | 0| 
 | 20230607T23:17:55Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
@@ -126,7 +127,6 @@
 | 20230607T16:16:49Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 479 | 64| 
 | 20230607T15:47:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3635 | 430| 
 | 20230607T12:12:04Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
-| 20230607T12:04:13Z | A set of utility functions for testing templates within mlighter | https://github.com/dakaidan/FuzzingUtils | 0 | 0| 
 
 
 
