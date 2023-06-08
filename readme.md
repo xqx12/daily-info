@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:37:35Z | Null | https://github.com/klypriest/fuzzy-pancake | 0 | 0| 
 | 20230608T12:17:15Z | Null | https://github.com/famasoon/baby_fuzzer | 0 | 0| 
 | 20230608T12:04:16Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 2 | 0| 
 | 20230608T11:34:42Z | erlfuzz is a fuzzer for the Erlang ecosystem | https://github.com/WhatsApp/erlfuzz | 108 | 2| 
