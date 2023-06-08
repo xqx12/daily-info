@@ -64,7 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230608T11:59:09Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
+| 20230608T12:01:29Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
+| 20230608T10:20:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5047 | 992| 
 | 20230608T09:58:09Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5295 | 423| 
 | 20230608T09:29:59Z | This repository written with Flask framework facilitates XSS for CTF competitions | https://github.com/nknguyenhc/XSS-Exploitation | 0 | 0| 
 | 20230608T09:11:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5194 | 741| 
@@ -73,7 +74,6 @@
 | 20230608T07:31:47Z | Exploit  | https://github.com/jedade/ifri-web-security | 0 | 0| 
 | 20230608T07:14:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 655 | 169| 
 | 20230608T07:11:11Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 469 | 66| 
-| 20230608T01:38:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 520 | 102| 
 
 
 # backdoor on Github 推荐
@@ -94,11 +94,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230608T01:10:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2244 | 619| 
-| 20230608T00:54:42Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 373 | 27| 
-| 20230607T05:24:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
+| 20230608T12:02:02Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 376 | 27| 
+| 20230608T07:03:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2247 | 619| 
+| 20230608T05:19:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
 | 20230606T21:52:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 185 | 19| 
-| 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 25| 
+| 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 26| 
 | 20230605T02:24:42Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1319 | 60| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
 | 20230602T05:50:44Z | Symbolic Execution-all-in-one | https://github.com/XD3an/symbolic-execution-all-in-one | 2 | 0| 
