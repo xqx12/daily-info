@@ -94,12 +94,12 @@
 | 20230607T23:17:55Z | Null | https://github.com/luca1337/fuzzy-renderer | 1 | 0| 
 | 20230607T22:20:41Z | Null | https://github.com/lucascost/fuzzy-fiesta | 0 | 0| 
 | 20230607T22:18:29Z | The complete implementation of the EEG project | https://github.com/airpods69/fuzzy-giggle | 0 | 0| 
+| 20230607T18:49:42Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2171 | 250| 
 | 20230607T12:12:04Z | Null | https://github.com/lukastruemper/adaptive_fuzzing_sdk | 0 | 0| 
 | 20230607T12:04:13Z | A set of utility functions for testing templates within mlighter | https://github.com/dakaidan/FuzzingUtils | 0 | 0| 
 | 20230607T11:38:22Z | Null | https://github.com/MrE-Fog/fuzz-corporatr | 0 | 0| 
 | 20230607T10:54:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 289 | 43| 
 | 20230607T10:10:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5017 | 526| 
-| 20230607T07:11:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4722 | 1134| 
 
 
 
