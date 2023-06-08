@@ -68,11 +68,11 @@
 | 20230607T19:33:32Z | Files to exploit LocalPotato with Command Execution using StorSvc and DLL Hijacking (From TryHackMe) | https://github.com/blu3ming/LocalPotato | 0 | 0| 
 | 20230607T18:47:17Z | Null | https://github.com/yurig93b/exploited-disks-final-project | 0 | 0| 
 | 20230607T17:14:24Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 95 | 11| 
+| 20230607T13:26:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 519 | 102| 
 | 20230607T12:01:41Z | Solved challenges and payloads for them | https://github.com/JacekCytera/BinaryExploitation | 0 | 0| 
 | 20230607T11:53:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5158 | 738| 
 | 20230607T11:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5044 | 991| 
 | 20230607T09:59:28Z | Burp extension to check and exploit the IIS Tilde Enumeration/IIS 8.3 Short Filename Disclosure vulnerability | https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner | 29 | 10| 
-| 20230607T09:59:16Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 26 | 3| 
 
 
 # backdoor on Github 推荐
