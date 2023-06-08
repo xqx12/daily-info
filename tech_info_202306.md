@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:22:58Z | The implementation of our USENIX Security %23 paper %Aliasing Backdoor Attacks on Pre-trained Models%. | https://github.com/CassiniHuy/AliasingBackdoorAttack | 0 | 0| 
 | 20230608T11:51:46Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 208 | 58| 
 | 20230608T10:25:26Z | Null | https://github.com/NormBill/Data_Fine-grained-wafer-defect-classification-based-on-backdoor-adjustment-and-contrastive-learning | 0 | 0| 
 | 20230608T09:26:18Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 142 | 18| 
@@ -88,7 +89,6 @@
 | 20230608T03:33:47Z | Null | https://github.com/MohammedHammami/backdoor-frontend | 0 | 0| 
 | 20230608T03:27:16Z | Null | https://github.com/MohammedHammami/backdoor-backend | 0 | 0| 
 | 20230607T23:29:51Z | Null | https://github.com/Magee3/performing-network-recon-and-installing-a-backdoor | 0 | 0| 
-| 20230607T21:05:17Z | Security cameras aren%t my thing, so this article is for linking to open source security camera systems with no known backdoors. | https://github.com/seanpm2001/Open-source-security-camera | 4 | 2| 
 
 
 # symbolic execution on Github 推荐

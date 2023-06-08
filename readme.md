@@ -64,6 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230608T12:22:58Z | The implementation of our USENIX Security %23 paper %Aliasing Backdoor Attacks on Pre-trained Models%. | https://github.com/CassiniHuy/AliasingBackdoorAttack | 0 | 0| 
 | 20230608T11:51:46Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 208 | 58| 
 | 20230608T10:25:26Z | Null | https://github.com/NormBill/Data_Fine-grained-wafer-defect-classification-based-on-backdoor-adjustment-and-contrastive-learning | 0 | 0| 
 | 20230608T09:26:18Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 142 | 18| 
