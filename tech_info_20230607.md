@@ -51,9 +51,9 @@
 | 20230607T17:14:24Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 95 | 11| 
 | 20230607T16:52:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5045 | 991| 
 | 20230607T16:16:49Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 479 | 64| 
-| 20230607T14:04:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5012 | 625| 
 | 20230607T13:26:40Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 519 | 102| 
 | 20230607T12:01:41Z | Solved challenges and payloads for them | https://github.com/JacekCytera/BinaryExploitation | 0 | 0| 
+| 20230607T11:53:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5158 | 738| 
 
 
 # backdoor on Github 推荐
