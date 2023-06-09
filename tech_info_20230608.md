@@ -59,8 +59,8 @@
 | 20230608T12:48:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5195 | 741| 
 | 20230608T12:33:41Z | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | 0 | 0| 
 | 20230608T12:01:29Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
+| 20230608T11:39:19Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 521 | 102| 
 | 20230608T10:20:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5047 | 992| 
-| 20230608T09:58:09Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5295 | 423| 
 
 
 # backdoor on Github 推荐
