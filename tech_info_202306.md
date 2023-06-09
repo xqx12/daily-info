@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T01:53:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5016 | 625| 
 | 20230609T01:02:10Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 195 | 32| 
 | 20230609T01:01:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6n | 1 | 0| 
 | 20230609T01:00:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-6n | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20230608T21:21:21Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 230 | 255| 
 | 20230608T20:05:21Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 86 | 9| 
 | 20230608T20:00:45Z | Exploits you can use for the macintosh, also helping you avoid getting hacked. | https://github.com/CrispTails/hackmymac.lol | 0 | 0| 
-| 20230608T16:24:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5015 | 625| 
 
 
 # backdoor on Github 推荐
