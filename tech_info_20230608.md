@@ -20,15 +20,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230608T21:20:52Z | CVE-2022-0439 | CVE-2022-0439 - Email Subscribers & Newsletters < 5.3.2 - Subscriber+ Blind SQL injection | https://github.com/RandomRobbieBF/CVE-2022-0439 | | 
-| 20230608T20:49:30Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230608T18:47:06Z | CVE-2023-22809 | Null | https://github.com/hello4r1end/patch_CVE-2023-22809 | | 
-| 20230608T15:56:50Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230608T14:45:51Z | CVE-2023-33253 | Null | https://github.com/Toxich4/CVE-2023-33253 | | 
 | 20230608T12:33:41Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
 | 20230608T11:31:10Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
 | 20230608T10:31:49Z | cve-2023-10608 | cve-2023-10608 Proof Of Concept | https://github.com/b35363/cve-2023-10608-PoC | | 
 | 20230608T10:12:15Z | 未知编号 | Arbitrary File Delete Elevation of Privilege through Operating System Check of HP Support Assistant | https://github.com/sp3arm4n/Stolen-CVE-2022 | | 
 | 20230608T10:07:26Z | CVE-2020-27786 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27786 | | 
+| 20230608T08:52:32Z | cve-2021-42013 | CVE: 2021-42013 Tested on: 2.4.49 and 2.4.50 Description: Path Traversal or Remote Code Execution vulnerabilities  in Apache 2.4.49 and 2.4.50 | https://github.com/cybfar/cve-2021-42013-httpd | | 
+| 20230608T08:35:51Z | CVE-2021-43617 | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | https://github.com/Sybelle03/CVE-2021-43617 | | 
 
 
 # klee on Github 推荐
