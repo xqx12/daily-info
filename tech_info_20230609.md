@@ -44,6 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T12:18:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13860 | 2347| 
+| 20230609T12:18:46Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0005-0001-app-T86tE-remember-exploit | 0 | 0| 
 | 20230609T12:16:37Z | exploit.py for the Surfer room on TryHackMe | https://github.com/mel4mi/Surfer-Tryhackme | 0 | 0| 
 | 20230609T12:16:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 260 | 52| 
 | 20230609T11:59:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5205 | 741| 
@@ -52,8 +54,6 @@
 | 20230609T08:47:40Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
 | 20230609T06:05:07Z | Repository that fixes raid GDPS and future exploits | https://github.com/MigMatos/GDPS-Exploit-Fix | 0 | 0| 
 | 20230609T01:53:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5016 | 625| 
-| 20230609T01:02:10Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 195 | 32| 
-| 20230609T01:01:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6n | 1 | 0| 
 
 
 # backdoor on Github 推荐
