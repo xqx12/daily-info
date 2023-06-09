@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230609T00:52:13Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230609T01:00:13Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230609T00:51:22Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230608T21:20:52Z | CVE-2022-0439 | CVE-2022-0439 - Email Subscribers & Newsletters < 5.3.2 - Subscriber+ Blind SQL injection | https://github.com/RandomRobbieBF/CVE-2022-0439 | | 
 | 20230608T18:47:06Z | CVE-2023-22809 | Null | https://github.com/hello4r1end/patch_CVE-2023-22809 | | 
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T00:59:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6n | 0 | 0| 
 | 20230609T00:37:29Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 3 | 0| 
 | 20230608T22:17:28Z | damn-exploitable-android-app-apk | https://github.com/mobilehackinglab/damn-exploitable-android-app-public-apk | 0 | 0| 
 | 20230608T21:21:21Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 230 | 255| 
@@ -74,7 +75,6 @@
 | 20230608T12:48:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5195 | 741| 
 | 20230608T12:33:41Z | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | 0 | 0| 
 | 20230608T12:01:29Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
-| 20230608T11:39:19Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 521 | 102| 
 
 
 # backdoor on Github 推荐
