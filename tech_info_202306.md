@@ -65,9 +65,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T12:57:28Z | exploit.py for the Surfer room on TryHackMe | https://github.com/mel4mi/Surfer-Tryhackme | 0 | 0| 
 | 20230609T12:18:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13860 | 2347| 
 | 20230609T12:18:46Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0005-0001-app-T86tE-remember-exploit | 0 | 0| 
-| 20230609T12:16:37Z | exploit.py for the Surfer room on TryHackMe | https://github.com/mel4mi/Surfer-Tryhackme | 0 | 0| 
 | 20230609T12:16:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 260 | 52| 
 | 20230609T11:59:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5205 | 741| 
 | 20230609T10:12:12Z | Null | https://github.com/hq-zhonger/ExploitToolsGo | 1 | 0| 
