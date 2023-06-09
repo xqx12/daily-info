@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230609T12:02:56Z | CVE-2023-0630 | CVE-2023-0630 - Slimstat Analytics < 4.9.3.3 - Subscriber+ SQL Injection | https://github.com/RandomRobbieBF/CVE-2023-0630 | | 
 | 20230609T11:23:38Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230609T11:22:56Z | CVE-2023-2868 | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | https://github.com/T13nn3s/CVE-2023-2868 | | 
 | 20230609T10:33:52Z | CVE-2023-34960 | CVE-2023-34960 Chamilo PoC | https://github.com/Aituglo/CVE-2023-34960 | | 
@@ -69,8 +70,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T09:16:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 341 | 80| 
+| 20230609T06:42:33Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 378 | 27| 
+| 20230609T03:53:20Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 186 | 19| 
 | 20230609T01:06:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2253 | 619| 
-| 20230609T00:35:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 377 | 27| 
 
 
 # big4 on Github 推荐

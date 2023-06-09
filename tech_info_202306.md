@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230609T12:02:56Z | CVE-2023-0630 | CVE-2023-0630 - Slimstat Analytics < 4.9.3.3 - Subscriber+ SQL Injection | https://github.com/RandomRobbieBF/CVE-2023-0630 | | 
 | 20230609T11:23:38Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230609T11:22:56Z | CVE-2023-2868 | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | https://github.com/T13nn3s/CVE-2023-2868 | | 
 | 20230609T10:33:52Z | CVE-2023-34960 | CVE-2023-34960 Chamilo PoC | https://github.com/Aituglo/CVE-2023-34960 | | 
@@ -35,7 +36,6 @@
 | 20230608T18:47:06Z | CVE-2023-22809 | Null | https://github.com/hello4r1end/patch_CVE-2023-22809 | | 
 | 20230608T14:45:51Z | CVE-2023-33253 | Null | https://github.com/Toxich4/CVE-2023-33253 | | 
 | 20230608T12:33:41Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
-| 20230608T11:31:10Z | CVE-2023-33829 | SCM Manager XSS | https://github.com/CKevens/CVE-2023-33829-POC | | 
 
 
 # klee on Github 推荐
@@ -95,11 +95,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T09:16:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 341 | 80| 
+| 20230609T06:42:33Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 378 | 27| 
+| 20230609T03:53:20Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 186 | 19| 
 | 20230609T01:06:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2253 | 619| 
-| 20230609T00:35:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 377 | 27| 
 | 20230608T22:19:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3465 | 480| 
-| 20230608T05:19:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
-| 20230606T21:52:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 185 | 19| 
 | 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 26| 
 | 20230605T02:24:42Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1319 | 60| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
