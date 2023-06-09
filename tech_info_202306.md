@@ -128,8 +128,8 @@
 | 20230609T00:54:12Z | Copy of our training materials for fuzzing a binary where you needed to do some binary editing. Originally put together by eubanks. | https://github.com/dbrumley/binary-editing-for-fuzzing | 0 | 0| 
 | 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
 | 20230608T21:26:07Z | Null | https://github.com/DanesH-Abdollahi/Fuzzy-Self-Driving | 0 | 0| 
+| 20230608T14:16:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1426 | 199| 
 | 20230608T12:37:35Z | Null | https://github.com/klypriest/fuzzy-pancake | 0 | 0| 
-| 20230608T12:17:15Z | Null | https://github.com/famasoon/baby_fuzzer | 0 | 0| 
 
 
 
