@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
 | 20230608T21:26:07Z | Null | https://github.com/DanesH-Abdollahi/Fuzzy-Self-Driving | 0 | 0| 
 | 20230608T12:37:35Z | Null | https://github.com/klypriest/fuzzy-pancake | 0 | 0| 
 | 20230608T12:17:15Z | Null | https://github.com/famasoon/baby_fuzzer | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20230608T11:11:49Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3726 | 747| 
 | 20230608T10:59:50Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
 | 20230608T10:42:59Z | Null | https://github.com/Lashadya103/Fuzzy-Logic-on-Tipping-Agent | 0 | 0| 
-| 20230608T07:03:46Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3634 | 430| 
 
 
 
