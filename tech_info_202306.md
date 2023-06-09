@@ -124,12 +124,12 @@
 | 20230609T10:19:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4725 | 1136| 
 | 20230609T09:20:19Z | Null | https://github.com/celalettindemir/FuzzyString | 0 | 0| 
 | 20230609T09:15:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8716 | 1915| 
+| 20230609T07:47:54Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/Python-Fuzzylogic/fuzzylogic | 96 | 16| 
 | 20230609T06:31:53Z | Null | https://github.com/AchessYoon/lua-structured-fuzz-reduced | 0 | 0| 
 | 20230609T03:43:57Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 4 | 0| 
 | 20230609T00:54:12Z | Copy of our training materials for fuzzing a binary where you needed to do some binary editing. Originally put together by eubanks. | https://github.com/dbrumley/binary-editing-for-fuzzing | 0 | 0| 
 | 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
 | 20230608T21:26:07Z | Null | https://github.com/DanesH-Abdollahi/Fuzzy-Self-Driving | 0 | 0| 
-| 20230608T14:16:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1426 | 199| 
 
 
 
