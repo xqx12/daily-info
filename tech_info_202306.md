@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230609T01:14:29Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230609T01:44:56Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230609T00:51:22Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230608T21:20:52Z | CVE-2022-0439 | CVE-2022-0439 - Email Subscribers & Newsletters < 5.3.2 - Subscriber+ Blind SQL injection | https://github.com/RandomRobbieBF/CVE-2022-0439 | | 
 | 20230608T18:47:06Z | CVE-2023-22809 | Null | https://github.com/hello4r1end/patch_CVE-2023-22809 | | 
