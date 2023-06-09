@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T00:54:12Z | Copy of our training materials for fuzzing a binary where you needed to do some binary editing. Originally put together by eubanks. | https://github.com/dbrumley/binary-editing-for-fuzzing | 0 | 0| 
 | 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
 | 20230608T21:26:07Z | Null | https://github.com/DanesH-Abdollahi/Fuzzy-Self-Driving | 0 | 0| 
 | 20230608T12:37:35Z | Null | https://github.com/klypriest/fuzzy-pancake | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20230608T11:22:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5019 | 526| 
 | 20230608T11:11:49Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3726 | 747| 
 | 20230608T10:59:50Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
-| 20230608T10:42:59Z | Null | https://github.com/Lashadya103/Fuzzy-Logic-on-Tipping-Agent | 0 | 0| 
 
 
 
