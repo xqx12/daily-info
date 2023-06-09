@@ -36,7 +36,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230608T19:29:59Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 9 | 0| 
 | 20230608T18:33:28Z | Null | https://github.com/Kutlwano97-arch/Kleepile97 | 0 | 0| 
-| 20230608T18:32:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2251 | 619| 
 | 20230608T15:04:37Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 991 | 41| 
 | 20230608T10:52:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 303 | 6| 
 | 20230608T06:26:17Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 10 | 0| 
