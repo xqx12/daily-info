@@ -59,12 +59,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T12:23:20Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 7 | 3| 
 | 20230609T09:49:33Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230609T09:24:15Z | The website of Backdoor software Community | https://github.com/journaal1/BackdoorSoftware-website | 0 | 0| 
 | 20230609T05:30:08Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 144 | 18| 
 | 20230609T04:39:29Z | Null | https://github.com/yanghaolol/backdoordetection | 0 | 0| 
 | 20230609T04:23:48Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 0 | 0| 
-| 20230609T02:43:00Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 6 | 3| 
 
 
 # symbolic execution on Github 推荐
