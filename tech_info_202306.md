@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230608T22:53:26Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 2 | 0| 
+| 20230609T00:37:29Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 3 | 0| 
 | 20230608T22:17:28Z | damn-exploitable-android-app-apk | https://github.com/mobilehackinglab/damn-exploitable-android-app-public-apk | 0 | 0| 
 | 20230608T21:21:21Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 230 | 255| 
 | 20230608T20:05:21Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 86 | 9| 
@@ -94,9 +94,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T00:35:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 377 | 27| 
 | 20230608T22:19:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3465 | 480| 
 | 20230608T18:32:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2251 | 619| 
-| 20230608T12:02:02Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 376 | 27| 
 | 20230608T05:19:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
 | 20230606T21:52:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 185 | 19| 
 | 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 26| 

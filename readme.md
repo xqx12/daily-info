@@ -51,7 +51,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230608T22:53:26Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 2 | 0| 
 | 20230608T22:17:28Z | damn-exploitable-android-app-apk | https://github.com/mobilehackinglab/damn-exploitable-android-app-public-apk | 0 | 0| 
 | 20230608T21:21:21Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 230 | 255| 
 | 20230608T20:05:21Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 86 | 9| 
@@ -61,6 +60,7 @@
 | 20230608T12:33:41Z | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | 0 | 0| 
 | 20230608T12:01:29Z | Implemented epsilon-greedy algorithm in Python for multi-armed bandit problem, comparing random, epsilon-greedy, and epsilon-greedy with decay agents in a 10-armed bandit environment. Epsilon-greedy with decay achieved highest reward by learning faster and balancing exploration-exploitation. | https://github.com/uchwod/Reinforcement_Learning_Epsilon_greedy_algorithm_multi_armed_bandit_problem | 0 | 0| 
 | 20230608T11:39:19Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 521 | 102| 
+| 20230608T10:20:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5047 | 992| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +83,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230608T22:19:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3465 | 480| 
 | 20230608T18:32:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2251 | 619| 
-| 20230608T12:02:02Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 376 | 27| 
 | 20230608T05:19:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 340 | 80| 
 
 
