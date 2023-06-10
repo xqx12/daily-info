@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230610T01:14:20Z | Pre-built security properties for commonly forked DeFi protocols | https://github.com/0xNazgul/fuzzydefi | 23 | 0| 
+| 20230610T01:20:33Z | Pre-built security properties for commonly forked DeFi protocols | https://github.com/0xNazgul/fuzzydefi | 24 | 0| 
 | 20230609T18:52:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 546 | 68| 
 | 20230609T13:47:00Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3636 | 432| 
 | 20230609T11:26:31Z | Null | https://github.com/Granbe1l/Fuzzy_Kriminalitas | 0 | 0| 
