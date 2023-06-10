@@ -61,7 +61,7 @@
 | 20230609T19:37:55Z | Learning Go by doing. Creating a working exploit for Vulnserver using Go. | https://github.com/daniellowrie/Golang-BufferOverflow | 0 | 0| 
 | 20230609T18:01:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 656 | 169| 
 | 20230609T17:53:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 218 | 36| 
-| 20230609T12:57:28Z | exploit.py for the Surfer room on TryHackMe | https://github.com/mel4mi/Surfer-Tryhackme | 0 | 0| 
+| 20230609T13:26:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 521 | 104| 
 
 
 # backdoor on Github 推荐
@@ -98,7 +98,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230609T23:45:16Z | Pre-built security properties for commonly forked DeFi protocols | https://github.com/0xNazgul/fuzzydefi | 20 | 0| 
 | 20230609T18:52:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 546 | 68| 
 | 20230609T11:26:31Z | Null | https://github.com/Granbe1l/Fuzzy_Kriminalitas | 0 | 0| 
 | 20230609T10:19:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4725 | 1136| 
@@ -108,6 +107,7 @@
 | 20230609T06:31:53Z | Null | https://github.com/AchessYoon/lua-structured-fuzz-reduced | 0 | 0| 
 | 20230609T03:43:57Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 4 | 0| 
 | 20230609T00:54:12Z | Copy of our training materials for fuzzing a binary where you needed to do some binary editing. Originally put together by eubanks. | https://github.com/dbrumley/binary-editing-for-fuzzing | 0 | 0| 
+| 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
 
 
 
