@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T00:56:21Z | An exploit I wrote for Cloudflare%s VPN! For more information, contact me via one of the links in my profile. | https://github.com/Atropa-Solanaceae/1.1.1.1 | 2 | 0| 
 | 20230610T00:38:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5019 | 627| 
 | 20230610T00:27:12Z | Null | https://github.com/nightmoonms9/NetExploit-framework | 0 | 0| 
 | 20230609T23:33:58Z | Archive of an old internal Roblox exploit I created which had basic Lua execution support. | https://github.com/mcdonaghethan/MavenArchive | 10 | 1| 
@@ -74,7 +75,6 @@
 | 20230609T20:34:47Z | A collection of common vulnerabilities/bypasses for Hypixel Skyblock spigot plugins. | https://github.com/popbobular/Hypixel-Skyblock-Exploits | 2 | 0| 
 | 20230609T20:11:57Z | This repo is an practice repo to demonstrate my understanding of C concepts by converting C code from Hacking- The Art Of Exploitation by Jon Erickson to be compatible with x86_64 architecture.  | https://github.com/GreyStrawHat/Portfolio | 0 | 0| 
 | 20230609T19:37:55Z | Learning Go by doing. Creating a working exploit for Vulnserver using Go. | https://github.com/daniellowrie/Golang-BufferOverflow | 0 | 0| 
-| 20230609T18:01:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5050 | 991| 
 
 
 # backdoor on Github 推荐
