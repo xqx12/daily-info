@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T00:27:12Z | Null | https://github.com/nightmoonms9/NetExploit-framework | 0 | 0| 
 | 20230609T23:33:58Z | Archive of an old internal Roblox exploit I created which had basic Lua execution support. | https://github.com/mcdonaghethan/MavenArchive | 10 | 1| 
 | 20230609T23:14:58Z | An exploit on vuln Linux kernels for the dirty pipe vulnerability. Grants user root shell.  | https://github.com/ZakaShad/dirty-pipe-root-shell | 0 | 0| 
 | 20230609T21:22:45Z | Exploring cryptomining exploits in cloud gaming services like %GeForce Now% for UO CS433 Final Project.  | https://github.com/humanist-bean/mrminer | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230609T19:37:55Z | Learning Go by doing. Creating a working exploit for Vulnserver using Go. | https://github.com/daniellowrie/Golang-BufferOverflow | 0 | 0| 
 | 20230609T18:01:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 656 | 169| 
 | 20230609T17:53:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 218 | 36| 
-| 20230609T15:59:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5018 | 627| 
 
 
 # backdoor on Github 推荐
