@@ -30,6 +30,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T11:05:55Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 994 | 41| 
+| 20230610T04:12:10Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 18 | 1| 
 
 
 # s2e on Github 推荐
@@ -63,6 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T06:00:28Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 194 | 41| 
 
 
 # big4 on Github 推荐

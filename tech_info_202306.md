@@ -41,7 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230609T08:24:55Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 993 | 41| 
+| 20230610T11:05:55Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 994 | 41| 
+| 20230610T04:12:10Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 18 | 1| 
 | 20230609T01:06:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2253 | 619| 
 | 20230608T19:29:59Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 9 | 0| 
 | 20230608T18:33:28Z | Null | https://github.com/Kutlwano97-arch/Kleepile97 | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230607T15:57:13Z | Null | https://github.com/Younas22/1_kleem_assignment | 0 | 0| 
 | 20230606T14:40:31Z | Null | https://github.com/CakeZaddy/Kleen-kodah | 0 | 0| 
 | 20230604T14:55:21Z | Config files for my GitHub profile. | https://github.com/LeonKlee/LeonKlee | 0 | 0| 
-| 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -95,6 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T06:00:28Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 194 | 41| 
 | 20230609T12:22:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1320 | 60| 
 | 20230609T09:16:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 341 | 80| 
 | 20230609T06:42:33Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 378 | 27| 
