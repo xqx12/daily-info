@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230609T23:44:26Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
+| 20230610T01:16:17Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230609T18:43:05Z | CVE-2023-3163 | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version < 23.1.0. | https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention | | 
 | 20230609T17:21:54Z | CVE-2023-34096 | Thruk Monitoring Web Interface <= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | https://github.com/galoget/Thruk-CVE-2023-34096 | | 
 | 20230609T15:38:53Z | CVE-2023-29336 | Null | https://github.com/m-cetin/CVE-2023-29336 | | 
