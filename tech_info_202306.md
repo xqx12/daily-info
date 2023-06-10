@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T01:08:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z7 | 1 | 0| 
 | 20230610T01:07:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z7 | 1 | 0| 
 | 20230610T01:06:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z7 | 1 | 0| 
 | 20230610T01:01:09Z | Null | https://github.com/nightmoonms9/NetExploit-framework | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230609T23:14:58Z | An exploit on vuln Linux kernels for the dirty pipe vulnerability. Grants user root shell.  | https://github.com/ZakaShad/dirty-pipe-root-shell | 0 | 0| 
 | 20230609T21:22:45Z | Exploring cryptomining exploits in cloud gaming services like %GeForce Now% for UO CS433 Final Project.  | https://github.com/humanist-bean/mrminer | 0 | 0| 
 | 20230609T20:48:18Z | mitre Exploit  | https://github.com/Mr-B0hl00l/Exploit | 0 | 0| 
-| 20230609T20:34:47Z | A collection of common vulnerabilities/bypasses for Hypixel Skyblock spigot plugins. | https://github.com/popbobular/Hypixel-Skyblock-Exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
