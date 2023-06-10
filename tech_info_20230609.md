@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T23:33:58Z | Archive of an old internal Roblox exploit I created which had basic Lua execution support. | https://github.com/mcdonaghethan/MavenArchive | 10 | 1| 
+| 20230609T23:14:58Z | An exploit on vuln Linux kernels for the dirty pipe vulnerability. Grants user root shell.  | https://github.com/ZakaShad/dirty-pipe-root-shell | 0 | 0| 
+| 20230609T21:22:45Z | Exploring cryptomining exploits in cloud gaming services like %GeForce Now% for UO CS433 Final Project.  | https://github.com/humanist-bean/mrminer | 0 | 0| 
+| 20230609T20:48:18Z | mitre Exploit  | https://github.com/Mr-B0hl00l/Exploit | 0 | 0| 
+| 20230609T20:34:47Z | A collection of common vulnerabilities/bypasses for Hypixel Skyblock spigot plugins. | https://github.com/popbobular/Hypixel-Skyblock-Exploits | 2 | 0| 
+| 20230609T20:11:57Z | This repo is an practice repo to demonstrate my understanding of C concepts by converting C code from Hacking- The Art Of Exploitation by Jon Erickson to be compatible with x86_64 architecture.  | https://github.com/GreyStrawHat/Portfolio | 0 | 0| 
+| 20230609T19:37:55Z | Learning Go by doing. Creating a working exploit for Vulnserver using Go. | https://github.com/daniellowrie/Golang-BufferOverflow | 0 | 0| 
+| 20230609T18:01:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 656 | 169| 
+| 20230609T17:53:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 218 | 36| 
 | 20230609T12:57:28Z | exploit.py for the Surfer room on TryHackMe | https://github.com/mel4mi/Surfer-Tryhackme | 0 | 0| 
-| 20230609T12:18:54Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13860 | 2347| 
-| 20230609T12:18:46Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0005-0001-app-T86tE-remember-exploit | 0 | 0| 
-| 20230609T12:16:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 260 | 52| 
-| 20230609T11:59:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5205 | 741| 
-| 20230609T10:12:12Z | Null | https://github.com/hq-zhonger/ExploitToolsGo | 1 | 0| 
-| 20230609T09:28:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-1T0Rc-encourage-exploit | 0 | 0| 
-| 20230609T08:47:40Z | Trying to exploit graphs on fink | https://github.com/pierrecavalier/graph_fink | 0 | 0| 
-| 20230609T06:05:07Z | Repository that fixes raid GDPS and future exploits | https://github.com/MigMatos/GDPS-Exploit-Fix | 0 | 0| 
-| 20230609T04:18:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5048 | 991| 
 
 
 # backdoor on Github 推荐
@@ -91,6 +91,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T23:17:17Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 683 | 108| 
 | 20230609T09:47:24Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 3 | 1| 
 
 
