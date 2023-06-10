@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T00:38:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5019 | 627| 
 | 20230610T00:27:12Z | Null | https://github.com/nightmoonms9/NetExploit-framework | 0 | 0| 
 | 20230609T23:33:58Z | Archive of an old internal Roblox exploit I created which had basic Lua execution support. | https://github.com/mcdonaghethan/MavenArchive | 10 | 1| 
 | 20230609T23:14:58Z | An exploit on vuln Linux kernels for the dirty pipe vulnerability. Grants user root shell.  | https://github.com/ZakaShad/dirty-pipe-root-shell | 0 | 0| 
@@ -73,8 +74,7 @@
 | 20230609T20:34:47Z | A collection of common vulnerabilities/bypasses for Hypixel Skyblock spigot plugins. | https://github.com/popbobular/Hypixel-Skyblock-Exploits | 2 | 0| 
 | 20230609T20:11:57Z | This repo is an practice repo to demonstrate my understanding of C concepts by converting C code from Hacking- The Art Of Exploitation by Jon Erickson to be compatible with x86_64 architecture.  | https://github.com/GreyStrawHat/Portfolio | 0 | 0| 
 | 20230609T19:37:55Z | Learning Go by doing. Creating a working exploit for Vulnserver using Go. | https://github.com/daniellowrie/Golang-BufferOverflow | 0 | 0| 
-| 20230609T18:01:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 656 | 169| 
-| 20230609T17:53:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 218 | 36| 
+| 20230609T18:01:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5050 | 991| 
 
 
 # backdoor on Github 推荐
