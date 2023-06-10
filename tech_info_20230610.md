@@ -42,6 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T12:54:46Z | This repository contains 0 click exploits to some HackTheBox machines, I used it to study for OSWE | https://github.com/brutuspt/0click_HTB | 0 | 0| 
+| 20230610T12:29:20Z | Null | https://github.com/floko808/exploits | 0 | 0| 
 | 20230610T11:33:34Z | Config files for my GitHub profile. | https://github.com/BetaExploiter/BetaExploiter | 0 | 0| 
 | 20230610T11:23:50Z | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter  | https://github.com/Moham3dRiahi/XAttackProV30 | 406 | 212| 
 | 20230610T10:59:52Z | Recommended to use with FpsUnlocker, Also Not considered as hacking/exploiting so if anyone says they think you are hacking, Just ignore them, if they proceed to report you and you get banned, contact Roblox Support immediately, thanks for downloading and enjoy roblox with rarer crashes! | https://github.com/luohoa97/Roblox-crash-preventer | 0 | 0| 
@@ -50,8 +52,6 @@
 | 20230610T09:19:06Z | get bit of free github followers , duh idfc about it go for it. | https://github.com/Aulo1337/github-followers | 1 | 0| 
 | 20230610T09:11:26Z | A cross-platform desktop app with many League Client exploits (e.g profile customization) | https://github.com/7rebux/league-tools | 33 | 2| 
 | 20230610T05:04:54Z | Pwnable writeup, practice and scripts exploit. | https://github.com/Nigmaz/Pwnable | 6 | 0| 
-| 20230610T01:08:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z7 | 1 | 0| 
-| 20230610T01:07:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z7 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230610T12:21:29Z | A fuzzer management framework. | https://github.com/gtt1995/GMFuzzer | 0 | 0| 
 | 20230610T11:21:16Z | Плагин для Ирины для нечеткого распознавания команд на основе семантического сравнения предложений | https://github.com/janvarev/irene_plugin_fuzzy_ai_sentence | 0 | 0| 
 | 20230610T10:04:07Z | Null | https://github.com/UR-HARRY/fuzzy-octo-palm-tree | 0 | 0| 
 | 20230610T08:05:12Z | A python tool to fuzz C compilers via guided value mutation | https://github.com/jnzd/ast-project | 2 | 0| 
