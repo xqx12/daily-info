@@ -13,29 +13,29 @@
 | --- | --- | ---| 
 | 20230609 | 面向文化多样性与内容安全的网络治理研究 | https://mp.weixin.qq.com/s/Y5KDJr_8YrIuHeACdIEG7w| 
 | 20230609 | 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
+| 20230609 | Under the Dark: 隐匿矿池滥用分析研究 | https://mp.weixin.qq.com/s/SiClmwLxyOdLIShNz4fDiA| 
+| 20230609 | 复盘卫星大战 Hack-A-Sat 3 天基攻防竞赛 | https://mp.weixin.qq.com/s/Iyg_N71AAeThNRJ_hu_dvg| 
+| 20230609 | 复盘卫星大战 Hack-A-Sat 2 天基攻防竞赛 | https://mp.weixin.qq.com/s/Vjhs07c7H0dt5T6iZsr5Gg| 
+| 20230609 | 复盘卫星大战 Hack-A-Sat 1 天基攻防竞赛 | https://mp.weixin.qq.com/s/Sa8oTKMVgOgiGDBMxSWG0g| 
+| 20230609 | Win32k提权漏洞CVE-2023-29936漏洞解析以EXP构造 | https://mp.weixin.qq.com/s/41ugLvwpbwaJvWUI6wuSNA| 
 | 20230608 | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q| 
 | 20230608 | USENIX Security 22 -度量漏洞生命周期的方法 | https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA| 
 | 20230608 | 《2022攻击技术发展趋势年度报告》精华版 | https://book.yunzhan365.com/tkgd/qywa/mobile/index.html| 
-| 20230607 | 大破Office签名保护 | https://mp.weixin.qq.com/s/1UYiHGDBimZbetdX9gPUKA| 
-| 20230606 | 从Rome看二次反序列化 | https://www.sec-in.com/article/2197| 
-| 20230606 | 万亿级Elasticsearch集群节点迁移实战 | https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA| 
-| 20230606 | 通过级联组合域名服务器构成强力放大攻击 | https://mp.weixin.qq.com/s/ZXbC-jcbFJ4gYUQQKKL77A| 
-| 20230606 | 多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230609T23:44:26Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
+| 20230609T18:43:05Z | CVE-2023-3163 | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version < 23.1.0. | https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention | | 
+| 20230609T17:21:54Z | CVE-2023-34096 | Thruk Monitoring Web Interface <= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | https://github.com/galoget/Thruk-CVE-2023-34096 | | 
+| 20230609T15:38:53Z | CVE-2023-29336 | Null | https://github.com/m-cetin/CVE-2023-29336 | | 
+| 20230609T14:54:59Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230609T13:55:49Z | CVE-2023-2868 | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp | | 
 | 20230609T12:02:56Z | CVE-2023-0630 | CVE-2023-0630 - Slimstat Analytics < 4.9.3.3 - Subscriber+ SQL Injection | https://github.com/RandomRobbieBF/CVE-2023-0630 | | 
-| 20230609T11:23:38Z | CVE-2023-32353 | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | https://github.com/86x/CVE-2023-32353-PoC | | 
 | 20230609T11:22:56Z | CVE-2023-2868 | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | https://github.com/T13nn3s/CVE-2023-2868 | | 
 | 20230609T10:33:52Z | CVE-2023-34960 | CVE-2023-34960 Chamilo PoC | https://github.com/Aituglo/CVE-2023-34960 | | 
-| 20230609T10:04:31Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230609T07:40:58Z | CVE-2022-0439 | CVE-2022-0439 - Email Subscribers & Newsletters < 5.3.2 - Subscriber+ Blind SQL injection | https://github.com/RandomRobbieBF/CVE-2022-0439 | | 
-| 20230609T05:36:40Z | CVE-2023-34096 | Thruk Monitoring Web Interface <= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | https://github.com/galoget/Thruk-CVE-2023-34096 | | 
-| 20230608T18:47:06Z | CVE-2023-22809 | Null | https://github.com/hello4r1end/patch_CVE-2023-22809 | | 
-| 20230608T14:45:51Z | CVE-2023-33253 | Null | https://github.com/Toxich4/CVE-2023-33253 | | 
-| 20230608T12:33:41Z | CVE-2023-2033 | cve-2023-2033 exploit | https://github.com/WalccDev/CVE-2023-2033 | | 
 
 
 # klee on Github 推荐
@@ -80,6 +80,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T19:28:26Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/UnivBD_and_UnivBM | 1 | 0| 
+| 20230609T13:45:38Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
+| 20230609T13:14:16Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 87 | 18| 
 | 20230609T12:23:20Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 7 | 3| 
 | 20230609T09:49:33Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230609T09:24:15Z | The website of Backdoor software Community | https://github.com/journaal1/BackdoorSoftware-website | 0 | 0| 
@@ -87,9 +90,6 @@
 | 20230609T04:39:29Z | Null | https://github.com/yanghaolol/backdoordetection | 0 | 0| 
 | 20230609T04:23:48Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 0 | 0| 
 | 20230608T23:51:20Z | A very unique and probably the first ever library for a minecraft spigot/paper backdoor | https://github.com/Mor-uto/EzBackdoor | 0 | 0| 
-| 20230608T20:56:27Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 86 | 18| 
-| 20230608T18:22:23Z | Null | https://github.com/Ali-Lubab/BackdoorAttacksImageBasedMalwreDetection | 0 | 0| 
-| 20230608T18:16:58Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,6 +120,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230609T23:45:16Z | Pre-built security properties for commonly forked DeFi protocols | https://github.com/0xNazgul/fuzzydefi | 20 | 0| 
+| 20230609T18:52:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 546 | 68| 
 | 20230609T11:26:31Z | Null | https://github.com/Granbe1l/Fuzzy_Kriminalitas | 0 | 0| 
 | 20230609T10:19:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4725 | 1136| 
 | 20230609T09:20:19Z | Null | https://github.com/celalettindemir/FuzzyString | 0 | 0| 
@@ -128,8 +130,6 @@
 | 20230609T06:31:53Z | Null | https://github.com/AchessYoon/lua-structured-fuzz-reduced | 0 | 0| 
 | 20230609T03:43:57Z | Blazing Fast Basic Port Fuzzer | https://github.com/yerodin/bfuzz | 4 | 0| 
 | 20230609T00:54:12Z | Copy of our training materials for fuzzing a binary where you needed to do some binary editing. Originally put together by eubanks. | https://github.com/dbrumley/binary-editing-for-fuzzing | 0 | 0| 
-| 20230609T00:23:13Z | Null | https://github.com/MrVelasquezz/fuzzy-spoon | 0 | 0| 
-| 20230608T21:26:07Z | Null | https://github.com/DanesH-Abdollahi/Fuzzy-Self-Driving | 0 | 0| 
 
 
 
