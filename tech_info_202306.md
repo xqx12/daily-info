@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230612T00:52:57Z | CVE-2021-36260 | Null | https://github.com/idssgmcc/CVE-2021-36260 | | 
 | 20230612T00:40:52Z | CVE-2023-29336 | Null | https://github.com/m-cetin/CVE-2023-29336 | | 
 | 20230611T20:16:43Z | CVE-2023-25157 | GeoServer & GeoTools SQL Injection (CVE-2023-25157 & CVE-2023-25158) | https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158 | | 
 | 20230611T16:57:33Z | CVE-2022-22274 | Null | https://github.com/forthisvideo/CVE-2022-22274_poc | | 
@@ -35,7 +36,6 @@
 | 20230611T13:18:12Z | CVE-2022-45025 | Null | https://github.com/andyhsu024/CVE-2022-45025 | | 
 | 20230611T13:15:27Z | cve-2021-41652 | Missing Access Control in BatFlat CMS 1.3.6 | https://github.com/deathflash1411/cve-2021-41652 | | 
 | 20230611T13:06:16Z | cve-2021-35448 | Local Privilege Escalation in Remote Mouse 3.008 | https://github.com/deathflash1411/cve-2021-35448 | | 
-| 20230611T12:36:31Z | CVE-2023-31541 | Null | https://github.com/DreamD2v/CVE-2023-31541 | | 
 
 
 # klee on Github 推荐
