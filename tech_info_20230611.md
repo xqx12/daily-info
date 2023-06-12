@@ -84,6 +84,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230611T23:39:11Z | Config files for my GitHub profile. | https://github.com/FUZZYMCYEET/FUZZYMCYEET | 0 | 0| 
+| 20230611T21:03:53Z | Null | https://github.com/pieetrus/heart-disease-fuzzy | 0 | 0| 
 | 20230611T12:57:42Z | Null | https://github.com/moein-keyvani-pur/CI_fuzzy_logic_project | 0 | 0| 
 | 20230611T12:51:55Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 0 | 0| 
 | 20230611T12:29:00Z | Null | https://github.com/AkshanGupta/fuzzy-adventure | 0 | 0| 
