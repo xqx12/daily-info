@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230612T01:23:09Z | CVE-2023-25157 | Null | https://github.com/0x2458bughunt/CVE-2023-25157 | | 
 | 20230612T00:52:57Z | CVE-2021-36260 | Null | https://github.com/idssgmcc/CVE-2021-36260 | | 
 | 20230612T00:40:52Z | CVE-2023-29336 | Null | https://github.com/m-cetin/CVE-2023-29336 | | 
 | 20230611T20:16:43Z | CVE-2023-25157 | GeoServer & GeoTools SQL Injection (CVE-2023-25157 & CVE-2023-25158) | https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158 | | 
 | 20230611T16:57:33Z | CVE-2022-22274 | Null | https://github.com/forthisvideo/CVE-2022-22274_poc | | 
-| 20230611T15:27:49Z | CVE-2023-25157 | Null | https://github.com/0x2458bughunt/CVE-2023-25157 | | 
 | 20230611T15:27:04Z | CVE-2022-38694 | unlock bootloader for unisoc T7510, only tyyh2021 supported now, tyyh2020 will be added soon, other T7510 model could be added (do it yourself) | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230611T13:23:31Z | cve-2022-25012 | Weak Password Encryption in Argus Surveillance DVR 4.0 | https://github.com/deathflash1411/cve-2022-25012 | | 
 | 20230611T13:18:12Z | CVE-2022-45025 | Null | https://github.com/andyhsu024/CVE-2022-45025 | | 
@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230612T01:46:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5021 | 628| 
+| 20230612T01:45:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 74 | 28| 
 | 20230612T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zv | 1 | 0| 
 | 20230612T00:44:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zv | 1 | 0| 
 | 20230612T00:40:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zv | 1 | 0| 
@@ -73,14 +75,12 @@
 | 20230611T22:49:48Z | Null | https://github.com/LilwenM/SAE02.04_Exploitation-d-une-base-de-donnees | 0 | 0| 
 | 20230611T22:15:50Z | Roblox exploits with FE features undetected to the client. | https://github.com/SynthalyUS/Synthaly-Exploits | 1 | 0| 
 | 20230611T21:29:08Z | A Minecraft Utility Mod for the Quilt Mod Loader.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀=========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Latest⠀Version⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀===========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀1.20 | https://github.com/ed0cinU/Foxglove | 1 | 0| 
-| 20230611T21:17:01Z | Null | https://github.com/gougele222/exploitroblox | 0 | 0| 
-| 20230611T20:11:11Z | My Exploit | https://github.com/capture0x/My-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230612T00:54:38Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 114 | 24| 
+| 20230612T01:34:42Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 116 | 24| 
 | 20230612T00:45:06Z | Null | https://github.com/MidnightFM/Pihole-Adlist-Supply-Chain-Risk-from-Gigabyte-App-Center-Backdoor | 0 | 0| 
 | 20230612T00:00:14Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
 | 20230611T20:41:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7821 | 2164| 
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230612T01:41:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3643 | 433| 
+| 20230612T01:17:38Z | Small helpers for using elm-test with Generators instead of Fuzzers | https://github.com/ianmackenzie/elm-random-test | 0 | 0| 
 | 20230611T23:39:11Z | Config files for my GitHub profile. | https://github.com/FUZZYMCYEET/FUZZYMCYEET | 0 | 0| 
 | 20230611T21:03:53Z | Null | https://github.com/pieetrus/heart-disease-fuzzy | 0 | 0| 
-| 20230611T13:27:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3641 | 432| 
 | 20230611T12:57:42Z | Null | https://github.com/moein-keyvani-pur/CI_fuzzy_logic_project | 0 | 0| 
 | 20230611T12:51:55Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 0 | 0| 
 | 20230611T12:29:00Z | Null | https://github.com/AkshanGupta/fuzzy-adventure | 0 | 0| 
 | 20230611T08:17:59Z | for websocket learning | https://github.com/Blurzschyter/fuzzy-fiesta | 0 | 0| 
 | 20230610T17:47:13Z | NucleiFuzzing | https://github.com/0xKayala/NucleiFuzzing | 0 | 0| 
-| 20230610T12:21:29Z | A fuzzer management framework. | https://github.com/gtt1995/GMFuzzer | 0 | 0| 
-| 20230610T11:21:16Z | Плагин для Ирины для нечеткого распознавания команд на основе семантического сравнения предложений | https://github.com/janvarev/irene_plugin_fuzzy_ai_sentence | 0 | 0| 
+| 20230610T15:59:43Z | Null | https://github.com/big-ji-ji/fuzzy-potato | 0 | 0| 
 
 
 

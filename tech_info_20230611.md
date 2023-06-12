@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230611T20:16:43Z | CVE-2023-25157 | GeoServer & GeoTools SQL Injection (CVE-2023-25157 & CVE-2023-25158) | https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158 | | 
 | 20230611T16:57:33Z | CVE-2022-22274 | Null | https://github.com/forthisvideo/CVE-2022-22274_poc | | 
-| 20230611T15:27:49Z | CVE-2023-25157 | Null | https://github.com/0x2458bughunt/CVE-2023-25157 | | 
 | 20230611T15:27:04Z | CVE-2022-38694 | unlock bootloader for unisoc T7510, only tyyh2021 supported now, tyyh2020 will be added soon, other T7510 model could be added (do it yourself) | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230611T13:23:31Z | cve-2022-25012 | Weak Password Encryption in Argus Surveillance DVR 4.0 | https://github.com/deathflash1411/cve-2022-25012 | | 
 | 20230611T13:18:12Z | CVE-2022-45025 | Null | https://github.com/andyhsu024/CVE-2022-45025 | | 
@@ -26,6 +25,7 @@
 | 20230611T13:06:16Z | cve-2021-35448 | Local Privilege Escalation in Remote Mouse 3.008 | https://github.com/deathflash1411/cve-2021-35448 | | 
 | 20230611T12:36:31Z | CVE-2023-31541 | Null | https://github.com/DreamD2v/CVE-2023-31541 | | 
 | 20230611T12:28:21Z | CVE-2023-34960 | CVE-2023-34960 Chamilo PoC | https://github.com/Aituglo/CVE-2023-34960 | | 
+| 20230611T08:49:32Z | CVE-2023-3163 | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version < 23.1.0. | https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention | | 
 
 
 # klee on Github 推荐
@@ -85,7 +85,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230611T23:39:11Z | Config files for my GitHub profile. | https://github.com/FUZZYMCYEET/FUZZYMCYEET | 0 | 0| 
 | 20230611T21:03:53Z | Null | https://github.com/pieetrus/heart-disease-fuzzy | 0 | 0| 
-| 20230611T13:27:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3641 | 432| 
 | 20230611T12:57:42Z | Null | https://github.com/moein-keyvani-pur/CI_fuzzy_logic_project | 0 | 0| 
 | 20230611T12:51:55Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 0 | 0| 
 | 20230611T12:29:00Z | Null | https://github.com/AkshanGupta/fuzzy-adventure | 0 | 0| 
