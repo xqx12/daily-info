@@ -56,8 +56,8 @@
 | 20230611T21:17:01Z | Null | https://github.com/gougele222/exploitroblox | 0 | 0| 
 | 20230611T20:11:11Z | My Exploit | https://github.com/capture0x/My-Exploits | 0 | 0| 
 | 20230611T19:56:22Z | Null | https://github.com/MoistMonkey420/MicrosoftRobloxFluxAPI | 1 | 0| 
+| 20230611T16:53:25Z | Bypass roblox%s chatfilter with Midnight! Try now using a exploit. | https://github.com/MidnightsBypasser/Bypasser.lua | 0 | 0| 
 | 20230611T12:53:35Z | Discover the potential of Mining Extractable Value (MEV) as a profitable source of passive income. By capitalizing on unconfirmed transactions in the mempool, MEV presents a unique opportunity for revenue generation. Harness the power of Flashbot%s advanced infrastructure to effectively exploit MEV and boost your income. | https://github.com/APEBOTS-crypto/MEV-BOT | 2 | 0| 
-| 20230611T12:27:09Z | This lab focuses on the Solidity programming language, how to deploy a smart contract on the Blockchain and avoid exploits such as reentrancy.  | https://github.com/ferozmay/solidity-vulnerability-lab | 1 | 0| 
 
 
 # backdoor on Github 推荐
