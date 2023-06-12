@@ -123,6 +123,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230611T23:39:11Z | Config files for my GitHub profile. | https://github.com/FUZZYMCYEET/FUZZYMCYEET | 0 | 0| 
 | 20230611T21:03:53Z | Null | https://github.com/pieetrus/heart-disease-fuzzy | 0 | 0| 
+| 20230611T13:27:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3641 | 432| 
 | 20230611T12:57:42Z | Null | https://github.com/moein-keyvani-pur/CI_fuzzy_logic_project | 0 | 0| 
 | 20230611T12:51:55Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 0 | 0| 
 | 20230611T12:29:00Z | Null | https://github.com/AkshanGupta/fuzzy-adventure | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20230610T17:47:13Z | NucleiFuzzing | https://github.com/0xKayala/NucleiFuzzing | 0 | 0| 
 | 20230610T12:21:29Z | A fuzzer management framework. | https://github.com/gtt1995/GMFuzzer | 0 | 0| 
 | 20230610T11:21:16Z | Плагин для Ирины для нечеткого распознавания команд на основе семантического сравнения предложений | https://github.com/janvarev/irene_plugin_fuzzy_ai_sentence | 0 | 0| 
-| 20230610T10:04:07Z | Null | https://github.com/UR-HARRY/fuzzy-octo-palm-tree | 0 | 0| 
 
 
 
