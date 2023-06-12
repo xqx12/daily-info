@@ -26,21 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230611T20:16:43Z | CVE-2023-25157 | GeoServer & GeoTools SQL Injection (CVE-2023-25157 & CVE-2023-25158) | https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158 | | 
+| 20230611T16:57:33Z | CVE-2022-22274 | Null | https://github.com/forthisvideo/CVE-2022-22274_poc | | 
+| 20230611T15:27:49Z | CVE-2023-25157 | Null | https://github.com/0x2458bughunt/CVE-2023-25157 | | 
+| 20230611T15:27:04Z | CVE-2022-38694 | unlock bootloader for unisoc T7510, only tyyh2021 supported now, tyyh2020 will be added soon, other T7510 model could be added (do it yourself) | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230611T13:23:31Z | cve-2022-25012 | Weak Password Encryption in Argus Surveillance DVR 4.0 | https://github.com/deathflash1411/cve-2022-25012 | | 
+| 20230611T13:18:12Z | CVE-2022-45025 | Null | https://github.com/andyhsu024/CVE-2022-45025 | | 
+| 20230611T13:15:27Z | cve-2021-41652 | Missing Access Control in BatFlat CMS 1.3.6 | https://github.com/deathflash1411/cve-2021-41652 | | 
+| 20230611T13:06:16Z | cve-2021-35448 | Local Privilege Escalation in Remote Mouse 3.008 | https://github.com/deathflash1411/cve-2021-35448 | | 
 | 20230611T12:36:31Z | CVE-2023-31541 | Null | https://github.com/DreamD2v/CVE-2023-31541 | | 
 | 20230611T12:28:21Z | CVE-2023-34960 | CVE-2023-34960 Chamilo PoC | https://github.com/Aituglo/CVE-2023-34960 | | 
-| 20230611T08:49:32Z | CVE-2023-3163 | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version < 23.1.0. | https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention | | 
-| 20230611T08:49:22Z | CVE-2022-38694 | unlock bootloader for unisoc T7510, only tyyh2021 supported now, tyyh2020 will be added soon, other T7510 model could be added (do it yourself) | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230611T08:46:31Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
-| 20230611T06:33:26Z | cve-2022-25012 | Null | https://github.com/deathflash1411/cve-2022-25012 | | 
-| 20230611T06:33:02Z | cve-2021-41652 | Null | https://github.com/deathflash1411/cve-2021-41652 | | 
-| 20230611T06:32:13Z | cve-2021-35448 | Null | https://github.com/deathflash1411/cve-2021-35448 | | 
-| 20230610T22:49:09Z | CVE-2023-29489 | Null | https://github.com/tucommenceapousser/CVE-2023-29489.py | | 
-| 20230610T22:35:14Z | CVE-2023-29489 | Null | https://github.com/tucommenceapousser/CVE-2023-29489 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230611T20:43:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 304 | 6| 
+| 20230611T18:58:23Z | Null | https://github.com/davidtr1037/klee-uclibc | 0 | 1| 
 | 20230611T12:39:14Z | KLEE Portfolio | https://github.com/Kyungho0511/Kyungho0511.github.io | 0 | 0| 
 | 20230611T12:25:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 998 | 41| 
 | 20230611T11:58:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 21 | 1| 
@@ -49,14 +51,12 @@
 | 20230608T19:29:59Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 9 | 0| 
 | 20230608T18:33:28Z | Null | https://github.com/Kutlwano97-arch/Kleepile97 | 0 | 0| 
 | 20230608T10:56:08Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 33 | 1| 
-| 20230608T10:52:47Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 303 | 6| 
-| 20230608T06:26:17Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 10 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230609T09:16:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 341 | 80| 
+| 20230611T22:53:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 342 | 80| 
 | 20230609T00:44:47Z | Null | https://github.com/turbocanary/turbotest_01vteh1v_s2e6am3a | 0 | 0| 
 | 20230606T11:38:16Z | Null | https://github.com/MetadataGitTesting/s2ECqImd | 0 | 0| 
 | 20230605T04:27:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 29 | 12| 
@@ -65,22 +65,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230611T23:56:13Z | WebList Exploiter V1 | https://github.com/yon3zu/WebEx | 0 | 0| 
+| 20230611T23:33:18Z | Null | https://github.com/alex14324/Exploit_pack | 0 | 0| 
+| 20230611T22:49:48Z | Null | https://github.com/LilwenM/SAE02.04_Exploitation-d-une-base-de-donnees | 0 | 0| 
+| 20230611T22:15:50Z | Roblox exploits with FE features undetected to the client. | https://github.com/SynthalyUS/Synthaly-Exploits | 1 | 0| 
+| 20230611T21:29:08Z | A Minecraft Utility Mod for the Quilt Mod Loader.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀=========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Latest⠀Version⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀===========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀1.20 | https://github.com/ed0cinU/Foxglove | 1 | 0| 
+| 20230611T21:17:01Z | Null | https://github.com/gougele222/exploitroblox | 0 | 0| 
+| 20230611T20:11:11Z | My Exploit | https://github.com/capture0x/My-Exploits | 0 | 0| 
+| 20230611T19:56:22Z | Null | https://github.com/MoistMonkey420/MicrosoftRobloxFluxAPI | 1 | 0| 
 | 20230611T12:53:35Z | Discover the potential of Mining Extractable Value (MEV) as a profitable source of passive income. By capitalizing on unconfirmed transactions in the mempool, MEV presents a unique opportunity for revenue generation. Harness the power of Flashbot%s advanced infrastructure to effectively exploit MEV and boost your income. | https://github.com/APEBOTS-crypto/MEV-BOT | 2 | 0| 
 | 20230611T12:27:09Z | This lab focuses on the Solidity programming language, how to deploy a smart contract on the Blockchain and avoid exploits such as reentrancy.  | https://github.com/ferozmay/solidity-vulnerability-lab | 1 | 0| 
-| 20230611T12:06:11Z | Null | https://github.com/MoistMonkey420/MicrosoftRobloxFluxAPI | 0 | 0| 
-| 20230611T11:44:54Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 262 | 52| 
-| 20230611T11:00:59Z | Null | https://github.com/S-PScripts/chromebook-exploits | 0 | 0| 
-| 20230611T10:36:06Z | Vulnerable web application, your goal is to exploit it and get the flag. | https://github.com/camandel/hash-generator | 0 | 0| 
-| 20230611T09:20:31Z | Null | https://github.com/OCS23-0xcafebabe/clipboard-exploit | 0 | 0| 
-| 20230611T01:45:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5054 | 992| 
-| 20230611T01:25:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0b | 1 | 0| 
-| 20230611T01:24:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0b | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230611T12:54:53Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 91 | 19| 
+| 20230612T00:00:14Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
+| 20230611T23:11:46Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 109 | 24| 
+| 20230611T20:41:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7821 | 2164| 
 | 20230611T03:32:47Z | Null | https://github.com/ODUJiaweiChen/Graph-Backdoor-Notebook | 0 | 0| 
 | 20230610T17:23:55Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230610T17:00:01Z | Null | https://github.com/Skerdiii22/Server-Backdoor | 0 | 0| 
@@ -88,19 +90,17 @@
 | 20230610T14:54:59Z | Null | https://github.com/Felicso/backdoor-attack-on-FGNN | 0 | 0| 
 | 20230610T14:04:14Z | Enhancing Bias via Backdoor Attacks in Traditional and Transformer Text Classification Models | https://github.com/aatabek/nlp-security | 0 | 0| 
 | 20230610T08:21:30Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 0 | 0| 
-| 20230610T05:10:31Z | THE POSSIBLE THREATS AND VULNERABILITIES FROM SOCIAL-ENGINEERING IS SHOWN BY INJECTING BACKDOOR APPLICATION. | https://github.com/Adars23/social-engineering | 0 | 0| 
-| 20230610T04:55:18Z | An official PyTorch implementation of %Unnoticeable Backdoor Attacks on Graph Neural Networks% (WWW 2023) | https://github.com/ventr1c/UGBA | 15 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230611T10:06:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3464 | 480| 
+| 20230611T22:53:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 342 | 80| 
+| 20230611T20:06:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3465 | 480| 
 | 20230611T05:06:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 380 | 27| 
 | 20230610T22:16:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2254 | 619| 
 | 20230610T18:23:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1321 | 60| 
 | 20230610T16:48:51Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 195 | 41| 
-| 20230609T09:16:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 341 | 80| 
 | 20230609T03:53:20Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 186 | 19| 
 | 20230605T08:59:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 57 | 26| 
 | 20230603T15:53:03Z | Dynamic Symbolic Execution using KLEE | https://github.com/MareenaFr/Symbolic-Execution | 0 | 0| 
