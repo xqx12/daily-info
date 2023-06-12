@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230612T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zv | 1 | 0| 
+| 20230612T00:44:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zv | 1 | 0| 
 | 20230612T00:40:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zv | 1 | 0| 
 | 20230611T23:56:13Z | WebList Exploiter V1 | https://github.com/yon3zu/WebEx | 0 | 0| 
 | 20230611T23:33:18Z | Null | https://github.com/alex14324/Exploit_pack | 0 | 0| 
@@ -73,13 +75,12 @@
 | 20230611T21:29:08Z | A Minecraft Utility Mod for the Quilt Mod Loader.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀=========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Latest⠀Version⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀===========⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀1.20 | https://github.com/ed0cinU/Foxglove | 1 | 0| 
 | 20230611T21:17:01Z | Null | https://github.com/gougele222/exploitroblox | 0 | 0| 
 | 20230611T20:11:11Z | My Exploit | https://github.com/capture0x/My-Exploits | 0 | 0| 
-| 20230611T19:56:22Z | Null | https://github.com/MoistMonkey420/MicrosoftRobloxFluxAPI | 1 | 0| 
-| 20230611T12:53:35Z | Discover the potential of Mining Extractable Value (MEV) as a profitable source of passive income. By capitalizing on unconfirmed transactions in the mempool, MEV presents a unique opportunity for revenue generation. Harness the power of Flashbot%s advanced infrastructure to effectively exploit MEV and boost your income. | https://github.com/APEBOTS-crypto/MEV-BOT | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230612T00:45:06Z | Null | https://github.com/MidnightFM/Pihole-Adlist-Supply-Chain-Risk-from-Gigabyte-App-Center-Backdoor | 0 | 0| 
 | 20230612T00:28:39Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 112 | 24| 
 | 20230612T00:00:14Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
 | 20230611T20:41:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7821 | 2164| 
@@ -89,7 +90,6 @@
 | 20230610T15:32:37Z | Null | https://github.com/bytecodeshu/backdoorhid | 0 | 0| 
 | 20230610T14:54:59Z | Null | https://github.com/Felicso/backdoor-attack-on-FGNN | 0 | 0| 
 | 20230610T14:04:14Z | Enhancing Bias via Backdoor Attacks in Traditional and Transformer Text Classification Models | https://github.com/aatabek/nlp-security | 0 | 0| 
-| 20230610T08:21:30Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
