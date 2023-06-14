@@ -15,15 +15,18 @@
 | 20230613 | 硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A| 
 | 20230613 | 根服务器视角看 DNS 解析安全 | https://mp.weixin.qq.com/s/9WiPv0-cKqR-dbJCBcKsfg| 
 | 20230613 | 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA| 
+| 20230613 | 无硬件依赖新型全系统物联网设备固件虚拟化方案研究 | https://mp.weixin.qq.com/s/Nr9j5OFUZawfOEYlySRgcQ| 
+| 20230613 | 安卓恶意软件的分类解释研究 | https://mp.weixin.qq.com/s/7Jub7xULn2ao0TJ8iRdjvA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230613T11:30:50Z | CVE-2023-34362 | CVE-2023-34362: MOVEit Transfer Unauthenticated RCE | https://github.com/sfewer-r7/CVE-2023-34362 | | 
+| 20230613T22:17:45Z | CVE-2023-27350 | Python 2.7 | https://github.com/Jenderal92/CVE-2023-27350 | | 
+| 20230613T19:37:48Z | CVE-2023-2008 | Proof of concept code for CVE-2023-2008 | https://github.com/bluefrostsecurity/CVE-2023-2008 | | 
+| 20230613T19:04:46Z | CVE-2023-21716 | python program to exploit CVE-2023-21716 | https://github.com/Lord-of-the-IoT/CVE-2023-21716 | | 
+| 20230613T13:22:41Z | CVE-2020-10199 | Sonatype Nexus 3.21.01 - Remote Code Execution (Authenticated - Updated) | https://github.com/hugosg97/CVE-2020-10199-Nexus-3.21.01 | | 
 | 20230613T11:01:50Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
-| 20230613T11:00:54Z | CVE-2023-27997 | POC FortiOS SSL-VPN buffer overflow vulnerability | https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz | | 
-| 20230613T10:39:46Z | CVE-2023-2008 | Proof of concept code for CVE-2023-2008 | https://github.com/bluefrostsecurity/CVE-2023-2008 | | 
 | 20230613T09:10:36Z | CVE-2023-34537 | Null | https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5 | | 
 | 20230613T08:07:01Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
 | 20230613T06:13:27Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
@@ -47,23 +50,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230613T23:10:51Z | Fork of OpenBSD (via simple examples) that patches problems with kernel relinking opening up undesirable regressions and local exploits, and that aims to provide a parallel build environment that%s not self-hosted in OpenBSD and which also can be bootstrapped from the OpenBSD 7.3/amd64 release media easily with or without BSD make. | https://github.com/cschech/CBSD | 0 | 0| 
+| 20230613T22:02:14Z | This repository implements a simplified PoC that demonstrates how signature malleability attacks using compact signatures can be executed. | https://github.com/pcaversaccio/malleable-signatures | 62 | 4| 
+| 20230613T21:33:16Z | PicoCTF Binary Exploitation Writeups | https://github.com/stsong0812/PicoCTF-Binary-Exploitation | 0 | 0| 
+| 20230613T21:09:02Z | Null | https://github.com/Exploit0xfffff/Exploit0xfffff | 0 | 1| 
+| 20230613T20:37:17Z | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter  | https://github.com/Moham3dRiahi/XAttackProV30 | 409 | 212| 
+| 20230613T19:04:46Z | python program to exploit CVE-2023-21716 | https://github.com/Lord-of-the-IoT/CVE-2023-21716 | 0 | 0| 
+| 20230613T18:50:06Z | Null | https://github.com/Flumpmeister/WIIU-Web-Exploit | 0 | 0| 
+| 20230613T17:44:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 521 | 105| 
 | 20230613T12:42:10Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4398 | 734| 
 | 20230613T12:38:15Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 6 | 1| 
-| 20230613T12:36:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5224 | 741| 
-| 20230613T12:31:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-vOq2a-see-exploit | 0 | 0| 
-| 20230613T12:16:30Z | ZytoWareV1 is a powerful and feature-rich Roblox exploit GUI designed to enhance your gameplay experience on the Roblox platform. With ZytoWareV1, you gain access to a wide range of game-breaking features, tools, and scripts that allow you to manipulate and control various aspects of Roblox games | https://github.com/Tankz3502/ZytoWareV1 | 0 | 0| 
-| 20230613T10:49:59Z | GitOps Repository | https://github.com/pmacik-testing/ci-tuning-base-0039-app-APJk4-lend-exploit | 0 | 0| 
-| 20230613T10:48:29Z | GitOps Repository | https://github.com/pmacik-testing/ci-tuning-base-0012-app-vjVz4-push-exploit | 0 | 0| 
-| 20230613T10:46:14Z | Combining Linking Techniques (CLiT) is an entity linking combination and execution framework, allowing for the seamless integration of EL systems and result exploitation for the sake of system reusability, result reproducibility, analysis and continuous improvement. (We hate waste. Especially wasting time. So let%s reuse instead!) | https://github.com/kmdn/combining-linking-techniques | 1 | 0| 
-| 20230613T10:19:17Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 506 | 40| 
-| 20230613T10:18:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5060 | 994| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230613T16:06:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 219 | 55| 
+| 20230613T13:37:54Z | Null | https://github.com/thealonemusk/simple_backdoor_using_python | 0 | 0| 
 | 20230613T09:34:08Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
-| 20230613T07:35:32Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 151 | 27| 
 | 20230613T04:25:22Z | Null | https://github.com/CybriaTech/Cybria-Backdoor | 0 | 0| 
 | 20230613T03:43:20Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 
@@ -78,6 +82,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230613T20:18:10Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 21 | 0| 
+| 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 108| 
+| 20230613T16:16:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 50 | 3| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
 
 

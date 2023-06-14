@@ -15,27 +15,27 @@
 | 20230613 | 硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A| 
 | 20230613 | 根服务器视角看 DNS 解析安全 | https://mp.weixin.qq.com/s/9WiPv0-cKqR-dbJCBcKsfg| 
 | 20230613 | 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA| 
+| 20230613 | 无硬件依赖新型全系统物联网设备固件虚拟化方案研究 | https://mp.weixin.qq.com/s/Nr9j5OFUZawfOEYlySRgcQ| 
+| 20230613 | 安卓恶意软件的分类解释研究 | https://mp.weixin.qq.com/s/7Jub7xULn2ao0TJ8iRdjvA| 
 | 20230612 | 安全事件运营SOP：webshell事件 | https://mp.weixin.qq.com/s/oYuOnfw-jGzcHrOvVkb3kg| 
 | 20230612 | 安全事件运营SOP：蜜罐告警 | https://mp.weixin.qq.com/s/g0gdyn5pIwdC1Ap_jXgU6Q| 
 | 20230612 | 安全事件运营SOP：网络攻击 | https://mp.weixin.qq.com/s/-Bpdq1vtbpzQb3YnmaFc2Q| 
 | 20230612 | 安全事件运营SOP：钓鱼邮件 | https://mp.weixin.qq.com/s/0Msva-RqsIrj9hOSPkUGEw| 
-| 20230612 | 安全事件SOP：基于实践的安全事件简述 | https://mp.weixin.qq.com/s/pm6tS976rq_cBuMO7g9ZhA| 
-| 20230612 | 从敏捷视角看漏洞管理 | https://mp.weixin.qq.com/s/aQ256sJVJjouslqA88ENvQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230613T11:30:50Z | CVE-2023-34362 | CVE-2023-34362: MOVEit Transfer Unauthenticated RCE | https://github.com/sfewer-r7/CVE-2023-34362 | | 
-| 20230613T11:01:50Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
-| 20230613T11:00:54Z | CVE-2023-27997 | POC FortiOS SSL-VPN buffer overflow vulnerability | https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz | | 
-| 20230613T10:39:46Z | CVE-2023-2008 | Proof of concept code for CVE-2023-2008 | https://github.com/bluefrostsecurity/CVE-2023-2008 | | 
-| 20230613T09:10:36Z | CVE-2023-34537 | Null | https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5 | | 
-| 20230613T08:07:01Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
-| 20230613T06:13:27Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
-| 20230613T04:01:12Z | CVE-2023-33246 | CVE-2023-33246 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd | | 
-| 20230613T03:40:11Z | CVE-2023-34965 | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | https://github.com/AgentY0/CVE-2023-34965 | | 
-| 20230612T14:35:51Z | CVE-2023-25157 | A script, written in golang. POC for CVE-2023-25157 | https://github.com/7imbitz/CVE-2023-25157-checker | | 
+| 20230614T01:56:03Z | CVE-2023-34362 | CVE-2023-34362: MOVEit Transfer Unauthenticated RCE | https://github.com/sfewer-r7/CVE-2023-34362 | | 
+| 20230614T01:46:08Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/sinsinology/CVE-2023-20887 | | 
+| 20230614T01:35:23Z | CVE-2021-46422 | Null | https://github.com/tucommenceapousser/CVE-2021-46422 | | 
+| 20230614T01:29:31Z | CVE-2023-27363 | 福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现 | https://github.com/webraybtl/CVE-2023-27363 | | 
+| 20230614T01:20:56Z | CVE-2023-27997 | POC FortiOS SSL-VPN buffer overflow vulnerability | https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz | | 
+| 20230614T01:02:01Z | cve-2023-36544 | Null | https://github.com/KOwloid/cve-2023-36544 | | 
+| 20230613T22:17:45Z | CVE-2023-27350 | Python 2.7 | https://github.com/Jenderal92/CVE-2023-27350 | | 
+| 20230613T19:37:48Z | CVE-2023-2008 | Proof of concept code for CVE-2023-2008 | https://github.com/bluefrostsecurity/CVE-2023-2008 | | 
+| 20230613T19:04:46Z | CVE-2023-21716 | python program to exploit CVE-2023-21716 | https://github.com/Lord-of-the-IoT/CVE-2023-21716 | | 
+| 20230613T13:22:41Z | CVE-2020-10199 | Sonatype Nexus 3.21.01 - Remote Code Execution (Authenticated - Updated) | https://github.com/hugosg97/CVE-2020-10199-Nexus-3.21.01 | | 
 
 
 # klee on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230613T12:42:10Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4398 | 734| 
-| 20230613T12:38:15Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 6 | 1| 
-| 20230613T12:36:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5224 | 741| 
-| 20230613T12:31:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-vOq2a-see-exploit | 0 | 0| 
-| 20230613T12:16:30Z | ZytoWareV1 is a powerful and feature-rich Roblox exploit GUI designed to enhance your gameplay experience on the Roblox platform. With ZytoWareV1, you gain access to a wide range of game-breaking features, tools, and scripts that allow you to manipulate and control various aspects of Roblox games | https://github.com/Tankz3502/ZytoWareV1 | 0 | 0| 
-| 20230613T10:49:59Z | GitOps Repository | https://github.com/pmacik-testing/ci-tuning-base-0039-app-APJk4-lend-exploit | 0 | 0| 
-| 20230613T10:48:29Z | GitOps Repository | https://github.com/pmacik-testing/ci-tuning-base-0012-app-vjVz4-push-exploit | 0 | 0| 
-| 20230613T10:46:14Z | Combining Linking Techniques (CLiT) is an entity linking combination and execution framework, allowing for the seamless integration of EL systems and result exploitation for the sake of system reusability, result reproducibility, analysis and continuous improvement. (We hate waste. Especially wasting time. So let%s reuse instead!) | https://github.com/kmdn/combining-linking-techniques | 1 | 0| 
-| 20230613T10:19:17Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 506 | 40| 
-| 20230613T10:18:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5060 | 994| 
+| 20230614T01:37:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ws | 1 | 0| 
+| 20230614T01:36:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ws | 1 | 0| 
+| 20230614T01:35:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ws | 1 | 0| 
+| 20230614T01:24:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5033 | 630| 
+| 20230614T00:04:31Z | Exploits and walkthrough from a ctf I did a while back | https://github.com/matthiasdellago/ctf-walkthrough | 0 | 0| 
+| 20230613T23:10:51Z | Fork of OpenBSD (via simple examples) that patches problems with kernel relinking opening up undesirable regressions and local exploits, and that aims to provide a parallel build environment that%s not self-hosted in OpenBSD and which also can be bootstrapped from the OpenBSD 7.3/amd64 release media easily with or without BSD make. | https://github.com/cschech/CBSD | 0 | 0| 
+| 20230613T22:02:14Z | This repository implements a simplified PoC that demonstrates how signature malleability attacks using compact signatures can be executed. | https://github.com/pcaversaccio/malleable-signatures | 62 | 4| 
+| 20230613T21:33:16Z | PicoCTF Binary Exploitation Writeups | https://github.com/stsong0812/PicoCTF-Binary-Exploitation | 0 | 0| 
+| 20230613T21:09:02Z | Null | https://github.com/Exploit0xfffff/Exploit0xfffff | 0 | 1| 
+| 20230613T20:37:17Z | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter  | https://github.com/Moham3dRiahi/XAttackProV30 | 409 | 212| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230614T00:08:04Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 154 | 28| 
+| 20230613T16:06:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 219 | 55| 
+| 20230613T13:37:54Z | Null | https://github.com/thealonemusk/simple_backdoor_using_python | 0 | 0| 
 | 20230613T09:34:08Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
-| 20230613T07:35:32Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 151 | 27| 
 | 20230613T04:25:22Z | Null | https://github.com/CybriaTech/Cybria-Backdoor | 0 | 0| 
 | 20230613T03:43:20Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230612T21:17:06Z | my php backdoors | https://github.com/adilhyz/bd | 0 | 0| 
 | 20230612T15:44:18Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 8 | 1| 
 | 20230612T14:43:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 1342 | 188| 
 | 20230612T14:09:58Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
-| 20230612T13:16:04Z | Implementation for paper《An Interpretive Perspective: Adversarial Trojaning Attack on Neural-Architecture-Search Enabled Edge AI Systems》 | https://github.com/shipxu123/Backdoor_NAS | 0 | 0| 
-| 20230612T12:58:23Z | Backdoor (Malware) for Windows System written with Python 3.10 in Hinglish (Hindi in English). | https://github.com/smridhgupta/windows-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,11 +110,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230613T20:18:10Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 21 | 0| 
+| 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 108| 
+| 20230613T16:16:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 50 | 3| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
-| 20230612T20:22:37Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 20 | 0| 
-| 20230612T02:57:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 688 | 108| 
 | 20230609T09:47:24Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 3 | 1| 
-| 20230608T02:22:29Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 49 | 3| 
 | 20230606T16:34:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 57 | 5| 
 | 20230606T06:40:02Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 81 | 28| 
 
