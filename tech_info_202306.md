@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230615T12:45:25Z | Fuzzer aimed to execute buffer overflow in some old vulnerable pop3 mail servers | https://github.com/Aleffelisberto/pop3-fuzzer | 0 | 0| 
 | 20230615T12:43:04Z | Null | https://github.com/plankton03/CI_2nd_Project_FuzztySystems | 0 | 0| 
 | 20230615T11:55:59Z | Null | https://github.com/CISPA-SysSec/mua_fuzzer_bench | 0 | 0| 
 | 20230615T11:35:43Z | Null | https://github.com/Divya9193/fuzzy-memory | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230615T00:57:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8730 | 1918| 
 | 20230614T22:31:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2741 | 185| 
 | 20230614T22:01:25Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
-| 20230614T21:36:42Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2168 | 274| 
 
 
 
