@@ -43,7 +43,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230615T12:41:14Z | Sleep to earn | https://github.com/tinehtun/S2E | 12 | 0| 
+| 20230615T12:46:16Z | Sleep to earn | https://github.com/tinehtun/S2E | 13 | 0| 
 
 
 # exploit on Github 推荐
