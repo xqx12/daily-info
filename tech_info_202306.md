@@ -70,13 +70,13 @@
 | 20230615T12:07:51Z | Config files for my GitHub profile. | https://github.com/hr07exploiter/hr07exploiter | 1 | 0| 
 | 20230615T11:53:18Z | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | 2 | 0| 
 | 20230615T10:23:44Z | Proof of Concept for vulnerability CVE-2023-2986 in %Abandoned Cart Lite for WooCommerce% Plugin in WordPress | https://github.com/Ayantaker/CVE-2023-2986 | 1 | 1| 
+| 20230615T10:04:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5066 | 994| 
 | 20230615T10:00:23Z | CVE-2021-24647 Pie Register < 3.7.1.6 - Unauthenticated Arbitrary Login | https://github.com/RandomRobbieBF/CVE-2021-24647 | 0 | 1| 
 | 20230615T09:59:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 663 | 170| 
 | 20230615T08:43:28Z | Null | https://github.com/hawkiiie729/Task-exploit-experts | 0 | 0| 
 | 20230615T08:41:10Z | Code for the Software Reversing and exploitation binaries | https://github.com/aceman2221/SRE | 0 | 0| 
 | 20230615T08:35:36Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 28 | 3| 
 | 20230615T03:36:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5235 | 741| 
-| 20230615T02:43:43Z | Fork of OpenBSD (via simple examples) that patches problems with kernel relinking opening up undesirable regressions and local exploits, and that aims to provide a parallel build environment that%s not self-hosted in OpenBSD and which also can be bootstrapped from the OpenBSD 7.3/amd64 release media easily with or without BSD make. | https://github.com/cschech/CBSD | 0 | 0| 
 
 
 # backdoor on Github 推荐
