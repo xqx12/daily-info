@@ -42,6 +42,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230615T11:54:05Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 8 | 5| 
+| 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
 | 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
 | 20230615T07:03:56Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1003 | 42| 
 | 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 620| 
@@ -50,7 +51,6 @@
 | 20230613T04:30:13Z | Null | https://github.com/hoverloD/klee-helper | 0 | 0| 
 | 20230613T03:10:10Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
 | 20230612T23:45:26Z | Null | https://github.com/igloo1505/kleenBrake | 0 | 0| 
-| 20230612T20:20:09Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 13 | 7| 
 
 
 # s2e on Github 推荐
