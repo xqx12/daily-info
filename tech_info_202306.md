@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230615T11:22:13Z | Sleep to earn | https://github.com/tinehtun/S2E | 11 | 0| 
+| 20230615T12:41:14Z | Sleep to earn | https://github.com/tinehtun/S2E | 12 | 0| 
 | 20230614T17:36:45Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230612T18:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 343 | 80| 
 | 20230609T00:44:47Z | Null | https://github.com/turbocanary/turbotest_01vteh1v_s2e6am3a | 0 | 0| 
@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230615T12:43:04Z | Null | https://github.com/plankton03/CI_2nd_Project_FuzztySystems | 0 | 0| 
 | 20230615T11:55:59Z | Null | https://github.com/CISPA-SysSec/mua_fuzzer_bench | 0 | 0| 
 | 20230615T11:35:43Z | Null | https://github.com/Divya9193/fuzzy-memory | 0 | 0| 
 | 20230615T11:03:51Z | Low Quality Retinal Blood Vessel Image Boosting Using Fuzzified Clustering | https://github.com/reman1987/Low-Quality-Retinal-Blood-Vessel-Image-Boosting-Using-Fuzzified-Clustering | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230614T22:31:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2741 | 185| 
 | 20230614T22:01:25Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230614T21:36:42Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2168 | 274| 
-| 20230614T15:18:38Z | Null | https://github.com/PixelSnake/FuzzySearch | 0 | 0| 
 
 
 
