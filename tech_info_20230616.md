@@ -47,7 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T12:29:04Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4188 | 574| 
+| 20230616T12:36:38Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 17 | 5| 
+| 20230616T12:36:13Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4189 | 574| 
 | 20230616T12:10:39Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
 | 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
 | 20230616T11:46:16Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backedup | 0 | 2| 
@@ -55,7 +56,6 @@
 | 20230616T09:37:57Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 46 | 6| 
 | 20230616T09:37:44Z | Null | https://github.com/h4shk4t/exploit | 0 | 0| 
 | 20230616T08:54:06Z | The interdependence of the kinematic and dynamic models of the vehicle is exploited to formulate a velocity form LPV-MPC to remove the tracking error at steady state. | https://github.com/ijimoh200/LPV-MPC-for-AUV-Positioning-Control | 0 | 0| 
-| 20230616T05:31:32Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 17 | 5| 
 | 20230616T01:57:06Z | Null | https://github.com/lil-smoothie-codes/exploit | 0 | 0| 
 
 
