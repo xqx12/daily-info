@@ -55,8 +55,8 @@
 | 20230616T09:37:57Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 46 | 6| 
 | 20230616T09:37:44Z | Null | https://github.com/h4shk4t/exploit | 0 | 0| 
 | 20230616T08:54:06Z | The interdependence of the kinematic and dynamic models of the vehicle is exploited to formulate a velocity form LPV-MPC to remove the tracking error at steady state. | https://github.com/ijimoh200/LPV-MPC-for-AUV-Positioning-Control | 0 | 0| 
+| 20230616T05:31:32Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 17 | 5| 
 | 20230616T01:57:06Z | Null | https://github.com/lil-smoothie-codes/exploit | 0 | 0| 
-| 20230616T00:06:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ok | 1 | 0| 
 
 
 # backdoor on Github 推荐
