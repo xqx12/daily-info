@@ -22,7 +22,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230615T23:57:27Z | CVE-2023-32315 | rce | https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass | | 
 | 20230615T22:29:34Z | CVE-2023-34362 | Null | https://github.com/sickthecat/CVE-2023-34362 | | 
 | 20230615T21:37:07Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
 | 20230615T21:36:25Z | CVE-2023-0297 | Null | https://github.com/overgrowncarrot1/CVE-2023-0297 | | 
@@ -32,6 +31,7 @@
 | 20230615T09:46:39Z | cve-2023-28310 | Null | https://github.com/wh-gov/cve-2023-28310 | | 
 | 20230615T07:24:09Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/miko550/CVE-2023-20887 | | 
 | 20230615T07:14:26Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
+| 20230615T07:04:36Z | 未知编号 | Null | https://github.com/lanleft/CVE2022-2586 | | 
 
 
 # klee on Github 推荐
