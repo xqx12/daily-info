@@ -84,6 +84,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230615T22:46:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 11 | 2| 
 | 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 
 
