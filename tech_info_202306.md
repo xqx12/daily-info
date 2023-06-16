@@ -11,31 +11,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230616 | 基于主动网络探测的低成本高精度IP地理定位 | https://mp.weixin.qq.com/s/iy2EqkzQUJAIizIkoKQYGw| 
+| 20230616 | 信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ| 
+| 20230616 | 安全运营中心SOC告警降噪方法讨论 | https://mp.weixin.qq.com/s/bk_mzU67VnQ2PiMKAuO7ng| 
+| 20230616 | 2022年网络安全公司研发投入、研发薪酬分析 | https://mp.weixin.qq.com/s/591RHcJGe_GTkyGjk-dy3g| 
 | 20230615 | Collection of works, presentations, blogpost, etc for Qili... | https://github.com/qilingframework/qiling/issues/134| 
 | 20230615 | 关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿） | https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg| 
 | 20230615 | 企业网络安全预算场景下的风险量化评估探索与研究 | https://mp.weixin.qq.com/s/Sj8v2CAW7j70ZjMv8a-OGQ| 
 | 20230615 | 利用widevine确定浏览器客户端的唯一性 | https://blog.seeflower.dev/archives/253/| 
 | 20230615 | 聊聊大厂设备指纹其二&Hunter环境检测思路详解 | https://mp.weixin.qq.com/s/T0r6guJn18jcUHsbi_lH9g| 
 | 20230615 | 聊聊大厂设备指纹获取和对抗&设备指纹 | https://bbs.kanxue.com/thread-273759.htm| 
-| 20230614 | windows权限维持 | https://www.sec-in.com/article/2177| 
-| 20230614 | 流行域名列表的是与非 | https://mp.weixin.qq.com/s/wJBe_YBWbEEkaZPOVI0oZg| 
-| 20230613 | 浅谈基于全景式画像构建终端安全防护体系的探索与实践 | https://mp.weixin.qq.com/s/8G93W_3jJj8Hp7IZ9wGwLQ| 
-| 20230613 | 硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230616T11:31:19Z | CVE-2023-27997 | POC FortiOS SSL-VPN buffer overflow vulnerability | https://github.com/rio128128/CVE-2023-27997-POC | | 
+| 20230616T11:21:22Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
+| 20230616T09:57:16Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
+| 20230616T09:02:38Z | CVE-2022-1011 | 这个漏洞感觉只能信息泄露？ | https://github.com/xkaneiki/CVE-2022-1011 | | 
+| 20230616T08:43:36Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
+| 20230616T08:14:59Z | CVE-2023-23752 | Joomla未授权访问漏洞 | https://github.com/Sweelg/CVE-2023-23752 | | 
 | 20230616T01:49:00Z | CVE-2023-32315 | rce | https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass | | 
 | 20230616T00:39:38Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
 | 20230615T22:29:34Z | CVE-2023-34362 | Null | https://github.com/sickthecat/CVE-2023-34362 | | 
 | 20230615T21:37:07Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
-| 20230615T21:36:25Z | CVE-2023-0297 | Null | https://github.com/overgrowncarrot1/CVE-2023-0297 | | 
-| 20230615T14:18:38Z | CVE-2022-38694 | unlock bootloader for tyyh2020 and tyyh2021, ALL unisoc T7510 model can be supported. | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230615T11:53:18Z | CVE-2023-2249 | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | | 
-| 20230615T10:00:23Z | CVE-2021-24647 | CVE-2021-24647 Pie Register < 3.7.1.6 - Unauthenticated Arbitrary Login | https://github.com/RandomRobbieBF/CVE-2021-24647 | | 
-| 20230615T09:46:39Z | cve-2023-28310 | Null | https://github.com/wh-gov/cve-2023-28310 | | 
-| 20230615T07:24:09Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/miko550/CVE-2023-20887 | | 
 
 
 # klee on Github 推荐
@@ -56,7 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230615T12:46:16Z | Sleep to earn | https://github.com/tinehtun/S2E | 13 | 0| 
+| 20230616T11:14:25Z | Null | https://github.com/theflutter/s2ev | 0 | 0| 
+| 20230616T10:47:39Z | Sleep to earn | https://github.com/tinehtun/S2E | 27 | 0| 
 | 20230614T17:36:45Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230612T18:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 343 | 80| 
 | 20230609T00:44:47Z | Null | https://github.com/turbocanary/turbotest_01vteh1v_s2e6am3a | 0 | 0| 
@@ -67,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T11:59:56Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
+| 20230616T11:56:43Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4182 | 574| 
+| 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
+| 20230616T11:46:16Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backedup | 0 | 2| 
+| 20230616T11:39:32Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssorcist/xssorcist.github.io | 0 | 0| 
+| 20230616T09:37:57Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 46 | 6| 
+| 20230616T09:37:44Z | Null | https://github.com/h4shk4t/exploit | 0 | 0| 
+| 20230616T08:54:06Z | The interdependence of the kinematic and dynamic models of the vehicle is exploited to formulate a velocity form LPV-MPC to remove the tracking error at steady state. | https://github.com/ijimoh200/LPV-MPC-for-AUV-Positioning-Control | 0 | 0| 
 | 20230616T01:57:06Z | Null | https://github.com/lil-smoothie-codes/exploit | 0 | 0| 
 | 20230616T00:06:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ok | 1 | 0| 
-| 20230616T00:05:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ok | 1 | 0| 
-| 20230616T00:04:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ok | 1 | 0| 
-| 20230615T23:39:52Z | This repository contains a variant of the Pintos Operating System. Some system calls are exploited. | https://github.com/sudefidan/Pintos_Student | 0 | 0| 
-| 20230615T23:20:19Z | In this project, market demand predictions were made using 4 different models: Facebook Prophet, SARIMAX,  LinkedIn Silverkite, RNN LSTM. The comparison of the model performance was exploited in the Ensemble coding workbook. | https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM... | 0 | 0| 
-| 20230615T22:06:23Z | A PHP script demonstrating cookie stealing by capturing and logging request information, including the victim%s cookie, IP address, HTTP referer, user agent, and geographical details. This educational tool serves to illustrate the importance of proper cookie handling and security practices. Use responsibly. | https://github.com/noxvix/Xss-Exploitation | 0 | 0| 
-| 20230615T18:29:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5037 | 631| 
-| 20230615T14:30:50Z | BITZH(cgt)student course COMP3070 project workplace | https://github.com/ChnJiYuan/Exploit-UnityGame4COMP3070- | 1 | 0| 
-| 20230615T12:07:51Z | Config files for my GitHub profile. | https://github.com/hr07exploiter/hr07exploiter | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,10 +98,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 620| 
+| 20230616T10:58:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3470 | 481| 
+| 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230614T16:19:28Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1322 | 60| 
 | 20230614T14:59:04Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 384 | 27| 
-| 20230614T08:14:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3469 | 481| 
 | 20230612T20:40:04Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 187 | 19| 
 | 20230612T18:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 343 | 80| 
 | 20230610T16:48:51Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 195 | 41| 
