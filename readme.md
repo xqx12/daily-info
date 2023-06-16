@@ -40,7 +40,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T12:39:50Z | Sleep to earn | https://github.com/tinehtun/S2E | 32 | 0| 
+| 20230616T12:57:42Z | Sleep to earn | https://github.com/tinehtun/S2E | 33 | 0| 
 | 20230616T11:14:25Z | Null | https://github.com/theflutter/s2ev | 0 | 0| 
 
 

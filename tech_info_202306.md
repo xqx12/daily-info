@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T12:39:50Z | Sleep to earn | https://github.com/tinehtun/S2E | 32 | 0| 
+| 20230616T12:57:42Z | Sleep to earn | https://github.com/tinehtun/S2E | 33 | 0| 
 | 20230616T11:14:25Z | Null | https://github.com/theflutter/s2ev | 0 | 0| 
 | 20230614T17:36:45Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230612T18:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 343 | 80| 
