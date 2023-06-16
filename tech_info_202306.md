@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230615T21:17:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 199 | 30| 
+| 20230615T20:26:54Z | Null | https://github.com/google/fuzztest | 301 | 21| 
+| 20230615T20:02:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1431 | 199| 
+| 20230615T14:10:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8733 | 1919| 
 | 20230615T12:50:49Z | Null | https://github.com/plankton03/CI_2nd_Project_FuzztySystems | 0 | 0| 
 | 20230615T12:45:25Z | Fuzzer aimed to execute buffer overflow in some old vulnerable pop3 mail servers | https://github.com/Aleffelisberto/pop3-fuzzer | 0 | 0| 
 | 20230615T11:55:59Z | Null | https://github.com/CISPA-SysSec/mua_fuzzer_bench | 0 | 0| 
 | 20230615T11:35:43Z | Null | https://github.com/Divya9193/fuzzy-memory | 0 | 0| 
 | 20230615T11:03:51Z | Low Quality Retinal Blood Vessel Image Boosting Using Fuzzified Clustering | https://github.com/reman1987/Low-Quality-Retinal-Blood-Vessel-Image-Boosting-Using-Fuzzified-Clustering | 0 | 0| 
 | 20230615T10:06:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4730 | 1138| 
-| 20230615T09:27:16Z | 本项目里主要有三个部分：匀速直线运动情况下图像的运动模糊过程仿真、维纳滤波及影响其复原效果的因素、运动模糊参数估计。 | https://github.com/LCH0528/Wiener-Filter-and-Motion-fuzzy-parameter-estimation | 0 | 0| 
-| 20230615T01:49:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3652 | 434| 
-| 20230615T00:57:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8730 | 1918| 
-| 20230614T22:31:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2741 | 185| 
 
 
 
