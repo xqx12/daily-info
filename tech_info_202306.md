@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T00:50:00Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 161 | 28| 
 | 20230615T15:13:07Z | Blocking a Malware-based Backdoor | https://github.com/LTGonzalez/Blocking-a-Malware-Backdoor | 0 | 0| 
 | 20230615T07:26:11Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 29 | 3| 
 | 20230615T05:56:11Z | Null | https://github.com/SCLBD/BackdoorBench | 161 | 23| 
@@ -91,7 +92,6 @@
 | 20230614T20:26:20Z | Trabalho da disciplina de Sistemas Operacionais I (SSC0640), lecionada pelo Docente Vanderlei Bonato, para o curso de Engenharia de Computação - USP São Carlos. | https://github.com/ISS2718/Backdoor_Driver | 0 | 0| 
 | 20230614T11:29:20Z | Null | https://github.com/rossiniroberto52/MyFirstBackdoor | 0 | 0| 
 | 20230614T11:11:03Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 1 | 1| 
-| 20230614T09:18:18Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 160 | 28| 
 
 
 # symbolic execution on Github 推荐
