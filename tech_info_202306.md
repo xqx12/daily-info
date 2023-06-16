@@ -41,11 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T01:45:28Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 9 | 5| 
-| 20230616T00:20:30Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1005 | 43| 
+| 20230616T06:15:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1007 | 43| 
+| 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
 | 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
 | 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
-| 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 620| 
+| 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230614T09:51:28Z | Null | https://github.com/CakeZaddy/KleenKodah | 0 | 0| 
 | 20230613T11:44:45Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 34 | 1| 
 | 20230613T04:30:13Z | Null | https://github.com/hoverloD/klee-helper | 0 | 0| 
@@ -83,16 +83,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T00:50:00Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 161 | 28| 
+| 20230616T12:00:56Z | Windows Persistence Toolkit | https://github.com/shab4z/Persys | 0 | 0| 
+| 20230616T11:13:35Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 73 | 12| 
+| 20230616T11:08:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 753 | 134| 
+| 20230616T03:56:20Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
+| 20230616T03:40:38Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 162 | 28| 
 | 20230615T15:13:07Z | Blocking a Malware-based Backdoor | https://github.com/LTGonzalez/Blocking-a-Malware-Backdoor | 0 | 0| 
 | 20230615T07:26:11Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 29 | 3| 
-| 20230615T05:56:11Z | Null | https://github.com/SCLBD/BackdoorBench | 161 | 23| 
+| 20230615T05:56:11Z | Null | https://github.com/SCLBD/BackdoorBench | 161 | 24| 
 | 20230615T05:39:25Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 138 | 25| 
-| 20230615T04:54:01Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 750 | 134| 
-| 20230614T22:32:50Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230614T20:26:20Z | Trabalho da disciplina de Sistemas Operacionais I (SSC0640), lecionada pelo Docente Vanderlei Bonato, para o curso de Engenharia de Computação - USP São Carlos. | https://github.com/ISS2718/Backdoor_Driver | 0 | 0| 
-| 20230614T11:29:20Z | Null | https://github.com/rossiniroberto52/MyFirstBackdoor | 0 | 0| 
-| 20230614T11:11:03Z | Pocket size PHP malware/webshell/backdoor scanner | https://github.com/Cvar1984/sussyfinder | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
