@@ -116,7 +116,7 @@
 | 20230615T22:46:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 11 | 2| 
 | 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 | 20230613T20:18:10Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 21 | 0| 
-| 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 108| 
+| 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 109| 
 | 20230613T16:16:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 50 | 3| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
 | 20230609T09:47:24Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 3 | 1| 
@@ -127,16 +127,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T11:54:58Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
+| 20230616T10:26:03Z | Use Jazzer to perform fuzzy testing of dynahist | https://github.com/centic9/dynahist-fuzz | 1 | 0| 
+| 20230616T09:13:34Z | Null | https://github.com/Vatsal69/fuzzy-octo-meme | 0 | 0| 
+| 20230616T07:00:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8734 | 1919| 
 | 20230616T01:54:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47179 | 23030| 
 | 20230616T00:54:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3653 | 435| 
 | 20230615T21:17:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 199 | 30| 
 | 20230615T20:26:54Z | Null | https://github.com/google/fuzztest | 301 | 21| 
 | 20230615T20:02:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1431 | 199| 
-| 20230615T14:10:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8733 | 1919| 
 | 20230615T12:50:49Z | Null | https://github.com/plankton03/CI_2nd_Project_FuzztySystems | 0 | 0| 
-| 20230615T12:45:25Z | Fuzzer aimed to execute buffer overflow in some old vulnerable pop3 mail servers | https://github.com/Aleffelisberto/pop3-fuzzer | 0 | 0| 
-| 20230615T11:55:59Z | Null | https://github.com/CISPA-SysSec/mua_fuzzer_bench | 0 | 0| 
-| 20230615T11:35:43Z | Null | https://github.com/Divya9193/fuzzy-memory | 0 | 0| 
 
 
 
