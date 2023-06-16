@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T12:16:40Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4187 | 574| 
+| 20230616T12:29:04Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4188 | 574| 
 | 20230616T12:10:39Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
 | 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
 | 20230616T11:46:16Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backedup | 0 | 2| 
