@@ -56,8 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T12:27:07Z | Sleep to earn | https://github.com/tinehtun/S2E | 31 | 0| 
 | 20230616T11:14:25Z | Null | https://github.com/theflutter/s2ev | 0 | 0| 
-| 20230616T10:47:39Z | Sleep to earn | https://github.com/tinehtun/S2E | 27 | 0| 
 | 20230614T17:36:45Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 | 20230612T18:45:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 343 | 80| 
 | 20230609T00:44:47Z | Null | https://github.com/turbocanary/turbotest_01vteh1v_s2e6am3a | 0 | 0| 
@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T11:59:56Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
-| 20230616T11:56:43Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4182 | 574| 
+| 20230616T12:16:40Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4187 | 574| 
+| 20230616T12:10:39Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
 | 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
 | 20230616T11:46:16Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backedup | 0 | 2| 
 | 20230616T11:39:32Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssorcist/xssorcist.github.io | 0 | 0| 
