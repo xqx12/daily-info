@@ -99,7 +99,7 @@
 | 20230615T11:55:59Z | Null | https://github.com/CISPA-SysSec/mua_fuzzer_bench | 0 | 0| 
 | 20230615T11:35:43Z | Null | https://github.com/Divya9193/fuzzy-memory | 0 | 0| 
 | 20230615T11:03:51Z | Low Quality Retinal Blood Vessel Image Boosting Using Fuzzified Clustering | https://github.com/reman1987/Low-Quality-Retinal-Blood-Vessel-Image-Boosting-Using-Fuzzified-Clustering | 0 | 0| 
-| 20230615T10:27:30Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3652 | 435| 
+| 20230615T10:06:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4730 | 1138| 
 
 
 
