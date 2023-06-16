@@ -56,13 +56,13 @@
 | 20230615T23:39:52Z | This repository contains a variant of the Pintos Operating System. Some system calls are exploited. | https://github.com/sudefidan/Pintos_Student | 0 | 0| 
 | 20230615T23:20:19Z | In this project, market demand predictions were made using 4 different models: Facebook Prophet, SARIMAX,  LinkedIn Silverkite, RNN LSTM. The comparison of the model performance was exploited in the Ensemble coding workbook. | https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM... | 0 | 0| 
 | 20230615T22:06:23Z | A PHP script demonstrating cookie stealing by capturing and logging request information, including the victim%s cookie, IP address, HTTP referer, user agent, and geographical details. This educational tool serves to illustrate the importance of proper cookie handling and security practices. Use responsibly. | https://github.com/noxvix/Xss-Exploitation | 0 | 0| 
+| 20230615T18:29:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5037 | 631| 
 | 20230615T14:30:50Z | BITZH(cgt)student course COMP3070 project workplace | https://github.com/ChnJiYuan/Exploit-UnityGame4COMP3070- | 1 | 0| 
 | 20230615T12:07:51Z | Config files for my GitHub profile. | https://github.com/hr07exploiter/hr07exploiter | 1 | 0| 
 | 20230615T11:53:18Z | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | 2 | 0| 
 | 20230615T10:23:44Z | Proof of Concept for vulnerability CVE-2023-2986 in %Abandoned Cart Lite for WooCommerce% Plugin in WordPress | https://github.com/Ayantaker/CVE-2023-2986 | 1 | 1| 
 | 20230615T10:04:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5066 | 994| 
 | 20230615T10:00:23Z | CVE-2021-24647 Pie Register < 3.7.1.6 - Unauthenticated Arbitrary Login | https://github.com/RandomRobbieBF/CVE-2021-24647 | 0 | 1| 
-| 20230615T09:59:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 663 | 170| 
 
 
 # backdoor on Github 推荐
