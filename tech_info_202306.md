@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T01:57:06Z | Null | https://github.com/lil-smoothie-codes/exploit | 0 | 0| 
 | 20230616T00:06:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ok | 1 | 0| 
 | 20230616T00:05:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ok | 1 | 0| 
 | 20230616T00:04:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ok | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20230615T18:29:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5037 | 631| 
 | 20230615T14:30:50Z | BITZH(cgt)student course COMP3070 project workplace | https://github.com/ChnJiYuan/Exploit-UnityGame4COMP3070- | 1 | 0| 
 | 20230615T12:07:51Z | Config files for my GitHub profile. | https://github.com/hr07exploiter/hr07exploiter | 1 | 0| 
-| 20230615T11:53:18Z | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | 2 | 0| 
 
 
 # backdoor on Github 推荐
