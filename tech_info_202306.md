@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230616T01:15:19Z | CVE-2023-32315 | rce | https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass | | 
+| 20230616T01:49:00Z | CVE-2023-32315 | rce | https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass | | 
 | 20230616T00:39:38Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
 | 20230615T22:29:34Z | CVE-2023-34362 | Null | https://github.com/sickthecat/CVE-2023-34362 | | 
 | 20230615T21:37:07Z | CVE-2023-22960 | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | https://github.com/t3l3machus/CVE-2023-22960 | | 
