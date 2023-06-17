@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230617T12:43:52Z | CVE-2023-30777 | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | https://github.com/Alucard0x1/CVE-2023-30777 | | 
 | 20230617T12:04:34Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
 | 20230617T11:35:32Z | 未知编号 | Null | https://github.com/AAsh035/CVE2023- | | 
 | 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
