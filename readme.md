@@ -19,10 +19,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230617T12:04:34Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
 | 20230617T11:35:32Z | 未知编号 | Null | https://github.com/AAsh035/CVE2023- | | 
 | 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
 | 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
-| 20230617T11:13:12Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
 | 20230617T10:11:46Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/rio128128/CVE-2023-24078 | | 
 | 20230617T08:45:55Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230617T03:59:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
