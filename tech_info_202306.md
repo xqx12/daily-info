@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T00:07:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8u | 1 | 0| 
+| 20230617T00:06:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8u | 1 | 0| 
+| 20230617T00:05:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8u | 1 | 0| 
 | 20230616T23:50:18Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4266 | 580| 
 | 20230616T23:39:30Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssaiyan/xssaiyan.github.io | 0 | 0| 
 | 20230616T23:30:38Z | code execution exploit in the steam ingame webbrowser | https://github.com/R4YVEN/steamwebhelper_exploit | 0 | 0| 
@@ -78,9 +81,6 @@
 | 20230616T19:10:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 995| 
 | 20230616T19:01:57Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
 | 20230616T17:21:40Z | This is a script in python to solve HTB-Lame machine... | https://github.com/KamuiID/HTB-Lame_smb-exploit | 0 | 0| 
-| 20230616T12:36:38Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 17 | 5| 
-| 20230616T12:10:39Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
-| 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
 
 
 # backdoor on Github 推荐
