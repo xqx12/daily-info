@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T12:50:45Z | Null | https://github.com/octaviancristea7/Fuzzy-Erasmus-Selection-Tool | 0 | 0| 
 | 20230617T12:00:02Z | Null | https://github.com/xy012i/FuzzyW | 0 | 0| 
 | 20230617T08:13:12Z | Null | https://github.com/Jtwo-23/fuzzy-waffle | 1 | 0| 
 | 20230617T06:05:41Z | Null | https://github.com/paafff/fuzzy-sugeno-website | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230616T21:03:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1432 | 200| 
 | 20230616T20:52:06Z | Null | https://github.com/gwt0002/NES_Fuzzer | 0 | 0| 
 | 20230616T11:54:58Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
-| 20230616T10:26:03Z | Use Jazzer to perform fuzzy testing of dynahist | https://github.com/centic9/dynahist-fuzz | 1 | 0| 
 
 
 

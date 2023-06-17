@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T12:50:45Z | Null | https://github.com/octaviancristea7/Fuzzy-Erasmus-Selection-Tool | 0 | 0| 
 | 20230617T12:00:02Z | Null | https://github.com/xy012i/FuzzyW | 0 | 0| 
 | 20230617T08:13:12Z | Null | https://github.com/Jtwo-23/fuzzy-waffle | 1 | 0| 
 | 20230617T06:05:41Z | Null | https://github.com/paafff/fuzzy-sugeno-website | 0 | 0| 
