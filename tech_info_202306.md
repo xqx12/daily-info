@@ -116,11 +116,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T03:43:21Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 690 | 109| 
 | 20230616T14:02:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 51 | 3| 
 | 20230615T22:46:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 11 | 2| 
 | 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 | 20230613T20:18:10Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 21 | 0| 
-| 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 109| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
 | 20230609T09:47:24Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 3 | 1| 
 | 20230606T16:34:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 57 | 5| 
