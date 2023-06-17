@@ -85,7 +85,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230616T10:58:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3470 | 481| 
+| 20230616T16:00:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 189 | 19| 
+| 20230616T14:41:20Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1323 | 61| 
+| 20230616T10:58:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3470 | 480| 
 
 
 # big4 on Github 推荐
