@@ -60,12 +60,12 @@
 | 20230616T23:39:30Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssaiyan/xssaiyan.github.io | 0 | 0| 
 | 20230616T23:30:38Z | code execution exploit in the steam ingame webbrowser | https://github.com/R4YVEN/steamwebhelper_exploit | 0 | 0| 
 | 20230616T21:03:11Z | A simple plugin designed to prevent 1.8 minecraft exploits. | https://github.com/akahasky/AntiExploits | 0 | 0| 
+| 20230616T21:02:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5041 | 631| 
 | 20230616T19:10:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 995| 
 | 20230616T19:01:57Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
 | 20230616T17:21:40Z | This is a script in python to solve HTB-Lame machine... | https://github.com/KamuiID/HTB-Lame_smb-exploit | 0 | 0| 
 | 20230616T12:36:38Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 17 | 5| 
 | 20230616T12:10:39Z | Null | https://github.com/yozen188/GovDelivery-Exploit | 0 | 0| 
-| 20230616T11:48:54Z | iOS penetration testing is the process of identifying and exploiting vulnerabilities in iOS applications. The method may include decompiling the application to identify any defects that could lead to bugs or using an automated tool to do this. | https://github.com/HackWithSumit/IOS-Pentesting | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,6 +93,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T14:02:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 51 | 3| 
 
 
 # fuzz on Github 推荐
@@ -101,12 +102,11 @@
 | 20230616T23:42:52Z | Null | https://github.com/AdmiralSlowpoke/FuzzyCalculator | 0 | 0| 
 | 20230616T21:03:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1432 | 200| 
 | 20230616T20:52:06Z | Null | https://github.com/gwt0002/NES_Fuzzer | 0 | 0| 
-| 20230616T20:18:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8736 | 1921| 
 | 20230616T11:54:58Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
 | 20230616T10:26:03Z | Use Jazzer to perform fuzzy testing of dynahist | https://github.com/centic9/dynahist-fuzz | 1 | 0| 
+| 20230616T09:42:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3656 | 436| 
 | 20230616T09:13:34Z | Null | https://github.com/Vatsal69/fuzzy-octo-meme | 0 | 0| 
 | 20230616T01:54:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47179 | 23030| 
-| 20230616T00:54:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3653 | 435| 
 
 
 

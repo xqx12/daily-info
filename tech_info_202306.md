@@ -41,11 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T01:59:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2258 | 621| 
 | 20230616T06:15:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1007 | 43| 
 | 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
 | 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
 | 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
-| 20230615T06:32:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230614T09:51:28Z | Null | https://github.com/CakeZaddy/KleenKodah | 0 | 0| 
 | 20230613T11:44:45Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 34 | 1| 
 | 20230613T04:30:13Z | Null | https://github.com/hoverloD/klee-helper | 0 | 0| 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T01:55:16Z | Sar2HTML remote code execution Vulnerability (sar2html exploit). | https://github.com/JoaoPedroMoreira02/sar2HTML_exploit | 0 | 0| 
 | 20230617T00:07:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8u | 1 | 0| 
 | 20230617T00:06:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8u | 1 | 0| 
 | 20230617T00:05:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8u | 1 | 0| 
@@ -78,9 +79,8 @@
 | 20230616T23:39:30Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssaiyan/xssaiyan.github.io | 0 | 0| 
 | 20230616T23:30:38Z | code execution exploit in the steam ingame webbrowser | https://github.com/R4YVEN/steamwebhelper_exploit | 0 | 0| 
 | 20230616T21:03:11Z | A simple plugin designed to prevent 1.8 minecraft exploits. | https://github.com/akahasky/AntiExploits | 0 | 0| 
+| 20230616T21:02:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5041 | 631| 
 | 20230616T19:10:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 995| 
-| 20230616T19:01:57Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 0 | 0| 
-| 20230616T17:21:40Z | This is a script in python to solve HTB-Lame machine... | https://github.com/KamuiID/HTB-Lame_smb-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,11 +116,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230616T14:02:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 51 | 3| 
 | 20230615T22:46:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 11 | 2| 
 | 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 | 20230613T20:18:10Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 21 | 0| 
 | 20230613T20:14:40Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 689 | 109| 
-| 20230613T16:16:30Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 50 | 3| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
 | 20230609T09:47:24Z | ConfFuzz NDSS Data Set | https://github.com/conffuzz/conffuzz-ndss-data | 3 | 1| 
 | 20230606T16:34:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 57 | 5| 
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T01:41:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8737 | 1921| 
+| 20230617T01:33:01Z | An algorithm to minimize fuzz test failures | https://github.com/MichaelRFairhurst/entropy-debugging | 0 | 0| 
 | 20230616T23:42:52Z | Null | https://github.com/AdmiralSlowpoke/FuzzyCalculator | 0 | 0| 
 | 20230616T21:03:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1432 | 200| 
 | 20230616T20:52:06Z | Null | https://github.com/gwt0002/NES_Fuzzer | 0 | 0| 
-| 20230616T20:18:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8736 | 1921| 
 | 20230616T11:54:58Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
 | 20230616T10:26:03Z | Use Jazzer to perform fuzzy testing of dynahist | https://github.com/centic9/dynahist-fuzz | 1 | 0| 
+| 20230616T09:42:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3656 | 436| 
 | 20230616T09:13:34Z | Null | https://github.com/Vatsal69/fuzzy-octo-meme | 0 | 0| 
 | 20230616T01:54:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47179 | 23030| 
-| 20230616T00:54:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3653 | 435| 
-| 20230615T21:17:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 199 | 30| 
 
 
 
