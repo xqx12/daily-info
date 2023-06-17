@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230617 | 针对二维码解析库的 Fuzzing 测试 | https://mp.weixin.qq.com/s/w6und9w0CAlcISrrJX4vnA| 
+| 20230617 | 基于Cssom的暗链检测技术 | https://mp.weixin.qq.com/s/2n2QPkuChzTCezseMHIwMQ| 
+| 20230617 | 从模糊测试到源码定位：探索 Go 库中的 bug | https://xz.aliyun.com/t/12611| 
 | 20230616 | 基于主动网络探测的低成本高精度IP地理定位 | https://mp.weixin.qq.com/s/iy2EqkzQUJAIizIkoKQYGw| 
 | 20230616 | 信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ| 
 | 20230616 | 安全运营中心SOC告警降噪方法讨论 | https://mp.weixin.qq.com/s/bk_mzU67VnQ2PiMKAuO7ng| 
@@ -18,30 +21,27 @@
 | 20230615 | Collection of works, presentations, blogpost, etc for Qili... | https://github.com/qilingframework/qiling/issues/134| 
 | 20230615 | 关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿） | https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg| 
 | 20230615 | 企业网络安全预算场景下的风险量化评估探索与研究 | https://mp.weixin.qq.com/s/Sj8v2CAW7j70ZjMv8a-OGQ| 
-| 20230615 | 利用widevine确定浏览器客户端的唯一性 | https://blog.seeflower.dev/archives/253/| 
-| 20230615 | 聊聊大厂设备指纹其二&Hunter环境检测思路详解 | https://mp.weixin.qq.com/s/T0r6guJn18jcUHsbi_lH9g| 
-| 20230615 | 聊聊大厂设备指纹获取和对抗&设备指纹 | https://bbs.kanxue.com/thread-273759.htm| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230616T23:37:56Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
+| 20230617T11:35:32Z | 未知编号 | Null | https://github.com/AAsh035/CVE2023- | | 
+| 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
+| 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
+| 20230617T11:13:12Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
+| 20230617T10:11:46Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/rio128128/CVE-2023-24078 | | 
+| 20230617T08:45:55Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
+| 20230617T03:59:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230617T03:44:23Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
 | 20230616T20:41:20Z | CVE-2023-23752 | Joomla未授权访问漏洞 | https://github.com/Sweelg/CVE-2023-23752 | | 
 | 20230616T18:47:00Z | cve-2023-27997 | cve-2023-27997 | https://github.com/Pik-sec/cve-2023-27997 | | 
-| 20230616T15:35:19Z | CVE-2023-34362 | Null | https://github.com/hheeyywweellccoommee/CVE-2023-34362-zcial | | 
-| 20230616T15:12:33Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
-| 20230616T13:48:21Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
-| 20230616T11:31:19Z | CVE-2023-27997 | POC FortiOS SSL-VPN buffer overflow vulnerability | https://github.com/rio128128/CVE-2023-27997-POC | | 
-| 20230616T09:57:16Z | 未知编号 | Information about Progress MoveIT CVE | https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023 | | 
-| 20230616T09:02:38Z | CVE-2022-1011 | 这个漏洞感觉只能信息泄露？ | https://github.com/xkaneiki/CVE-2022-1011 | | 
-| 20230616T08:43:36Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230617T01:59:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2258 | 621| 
+| 20230617T10:43:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230616T06:15:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1007 | 43| 
 | 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
 | 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
@@ -56,36 +56,37 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T08:36:36Z | %Study To Evolve% React Native app - Backend | https://github.com/jparraporcar/s2e-backend | 0 | 0| 
+| 20230617T07:02:50Z | %Study To Evolve% React Native app - Frontend | https://github.com/jparraporcar/s2e | 0 | 0| 
+| 20230617T05:35:21Z | Sleep to earn | https://github.com/tinehtun/S2E | 25 | 0| 
 | 20230616T15:22:40Z | Null | https://github.com/theflutter/s2ev-serviceprovider- | 0 | 0| 
-| 20230616T14:23:36Z | Sleep to earn | https://github.com/tinehtun/S2E | 44 | 0| 
 | 20230616T14:14:28Z | Null | https://github.com/skyjoo/S2email | 0 | 0| 
 | 20230616T14:03:48Z | Null | https://github.com/haneuljoo/S2Emailll | 0 | 0| 
 | 20230616T13:52:15Z | Null | https://github.com/haneuljoo/S2emaillll | 0 | 0| 
 | 20230616T13:34:17Z | Null | https://github.com/haneuljoo/S2emaill | 0 | 0| 
 | 20230616T13:23:31Z | Null | https://github.com/haneuljoo/S2exhibitionplaces | 0 | 0| 
 | 20230616T13:03:01Z | Null | https://github.com/haneuljoo/S2Email | 0 | 0| 
-| 20230616T11:14:25Z | Null | https://github.com/theflutter/s2ev | 0 | 0| 
-| 20230614T17:36:45Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230617T01:55:16Z | Sar2HTML remote code execution Vulnerability (sar2html exploit). | https://github.com/JoaoPedroMoreira02/sar2HTML_exploit | 0 | 0| 
-| 20230617T00:07:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8u | 1 | 0| 
-| 20230617T00:06:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8u | 1 | 0| 
-| 20230617T00:05:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8u | 1 | 0| 
-| 20230616T23:50:18Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4266 | 580| 
-| 20230616T23:39:30Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xssaiyan/xssaiyan.github.io | 0 | 0| 
-| 20230616T23:30:38Z | code execution exploit in the steam ingame webbrowser | https://github.com/R4YVEN/steamwebhelper_exploit | 0 | 0| 
-| 20230616T21:03:11Z | A simple plugin designed to prevent 1.8 minecraft exploits. | https://github.com/akahasky/AntiExploits | 0 | 0| 
-| 20230616T21:02:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5041 | 631| 
-| 20230616T19:10:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 995| 
+| 20230617T11:48:37Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xsshinobi/xsshinobi.github.io | 0 | 0| 
+| 20230617T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5660 | 758| 
+| 20230617T11:10:02Z | Null | https://github.com/503-Snow/discord-exploit-nitro | 0 | 0| 
+| 20230617T10:47:13Z | Null | https://github.com/FakeXOffical/Exploit | 0 | 0| 
+| 20230617T09:47:34Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 0 | 0| 
+| 20230617T09:33:29Z |  is a powerful and easy-to-use CSRF (Cross-Site Request Forgery) protection program developed using Python, Flask, and HTML. It provides robust defense mechanisms to safeguard web applications against malicious attacks that aim to exploit user authentication.  | https://github.com/geekyfaahad/CSRFBarrier | 0 | 0| 
+| 20230617T09:23:25Z | Null | https://github.com/overgrowncarrot1/Social-Warfare-Exploit | 0 | 0| 
+| 20230617T09:02:29Z | Null | https://github.com/ValorScripting/MilitaryTycoonExploitScript | 0 | 0| 
+| 20230617T08:57:53Z | Null | https://github.com/ValorScripting/Military-Tycoon-Exploit-Script | 0 | 0| 
+| 20230617T08:34:08Z | Null | https://github.com/ValorScripting/Military-Tycoon-GUI-Exploit-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T02:21:50Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
 | 20230616T18:15:35Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mr-Tools2/CraxsRAT-latest-version-4.19.5 | 0 | 0| 
 | 20230616T14:25:11Z | Null | https://github.com/EuanScottWatson/NLP-Backdoor-Attack | 0 | 0| 
 | 20230616T14:16:06Z | Null | https://github.com/rizqimaulanaa/backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230616T11:08:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 753 | 134| 
 | 20230616T03:56:20Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230616T03:40:38Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 162 | 28| 
-| 20230615T15:13:07Z | Blocking a Malware-based Backdoor | https://github.com/LTGonzalez/Blocking-a-Malware-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,6 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T12:00:02Z | Null | https://github.com/xy012i/FuzzyW | 0 | 0| 
+| 20230617T08:13:12Z | Null | https://github.com/Jtwo-23/fuzzy-waffle | 1 | 0| 
+| 20230617T06:05:41Z | Null | https://github.com/paafff/fuzzy-sugeno-website | 0 | 0| 
 | 20230617T01:41:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8737 | 1921| 
 | 20230617T01:33:01Z | An algorithm to minimize fuzz test failures | https://github.com/MichaelRFairhurst/entropy-debugging | 0 | 0| 
 | 20230616T23:42:52Z | Null | https://github.com/AdmiralSlowpoke/FuzzyCalculator | 0 | 0| 
@@ -137,9 +140,6 @@
 | 20230616T20:52:06Z | Null | https://github.com/gwt0002/NES_Fuzzer | 0 | 0| 
 | 20230616T11:54:58Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
 | 20230616T10:26:03Z | Use Jazzer to perform fuzzy testing of dynahist | https://github.com/centic9/dynahist-fuzz | 1 | 0| 
-| 20230616T09:42:14Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3656 | 436| 
-| 20230616T09:13:34Z | Null | https://github.com/Vatsal69/fuzzy-octo-meme | 0 | 0| 
-| 20230616T01:54:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47179 | 23030| 
 
 
 
