@@ -50,13 +50,13 @@
 | 20230617T12:25:16Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 1 | 0| 
 | 20230617T11:48:37Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xsshinobi/xsshinobi.github.io | 0 | 0| 
 | 20230617T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5660 | 758| 
+| 20230617T11:35:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13902 | 2347| 
 | 20230617T11:10:02Z | Null | https://github.com/503-Snow/discord-exploit-nitro | 0 | 0| 
 | 20230617T10:47:13Z | Null | https://github.com/FakeXOffical/Exploit | 0 | 0| 
 | 20230617T09:33:29Z |  is a powerful and easy-to-use CSRF (Cross-Site Request Forgery) protection program developed using Python, Flask, and HTML. It provides robust defense mechanisms to safeguard web applications against malicious attacks that aim to exploit user authentication.  | https://github.com/geekyfaahad/CSRFBarrier | 0 | 0| 
 | 20230617T09:23:25Z | Null | https://github.com/overgrowncarrot1/Social-Warfare-Exploit | 0 | 0| 
 | 20230617T09:20:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5077 | 996| 
 | 20230617T09:02:29Z | Null | https://github.com/ValorScripting/MilitaryTycoonExploitScript | 0 | 0| 
-| 20230617T08:57:53Z | Null | https://github.com/ValorScripting/Military-Tycoon-Exploit-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
