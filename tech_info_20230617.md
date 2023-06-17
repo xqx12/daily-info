@@ -53,9 +53,9 @@
 | 20230617T10:47:13Z | Null | https://github.com/FakeXOffical/Exploit | 0 | 0| 
 | 20230617T09:33:29Z |  is a powerful and easy-to-use CSRF (Cross-Site Request Forgery) protection program developed using Python, Flask, and HTML. It provides robust defense mechanisms to safeguard web applications against malicious attacks that aim to exploit user authentication.  | https://github.com/geekyfaahad/CSRFBarrier | 0 | 0| 
 | 20230617T09:23:25Z | Null | https://github.com/overgrowncarrot1/Social-Warfare-Exploit | 0 | 0| 
+| 20230617T09:20:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5077 | 996| 
 | 20230617T09:02:29Z | Null | https://github.com/ValorScripting/MilitaryTycoonExploitScript | 0 | 0| 
 | 20230617T08:57:53Z | Null | https://github.com/ValorScripting/Military-Tycoon-Exploit-Script | 0 | 0| 
-| 20230617T08:34:08Z | Null | https://github.com/ValorScripting/Military-Tycoon-GUI-Exploit-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
