@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:54:14Z | the deliverables for my Reverse SE and exploitation Minor.  | https://github.com/gshfi/deliverables | 0 | 0| 
 | 20230618T12:13:51Z | Best exploit for trash game | https://github.com/ajeaead/Fabled-Legacy | 0 | 0| 
 | 20230618T12:03:48Z | Null | https://github.com/Britanycb/Projet-Systeme-d-exploitation-mam-3- | 0 | 0| 
 | 20230618T08:49:06Z | 🔐 explores techniques to exploit and manipulate buffer overflow vulnerabilities in a program. | https://github.com/minsooerickim/BufferOverflowAttack | 1 | 0| 
@@ -46,7 +47,6 @@
 | 20230618T05:36:12Z | Collects some exploits, choom!! | https://github.com/l0n-b3cca/exploit_choom | 1 | 0| 
 | 20230618T01:25:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0008-app--WcMx-exploit-perform | 0 | 0| 
 | 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
-| 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
 
 
 # backdoor on Github 推荐
