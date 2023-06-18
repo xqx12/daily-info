@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
 | 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
 | 20230617T21:09:34Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 4 | 0| 
 | 20230617T18:30:37Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230617T12:25:16Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 1 | 0| 
 | 20230617T11:48:37Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xsshinobi/xsshinobi.github.io | 0 | 0| 
 | 20230617T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5660 | 758| 
-| 20230617T11:35:24Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13902 | 2347| 
 
 
 # backdoor on Github 推荐
