@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
 | 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:59:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:59:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230617T21:09:34Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 4 | 0| 
 | 20230617T18:30:37Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 | 20230617T18:06:31Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 43 | 9| 
-| 20230617T17:53:35Z | Simple XSS exploitation framework | https://github.com/Gabally/jhook | 0 | 0| 
 
 
 # backdoor on Github 推荐
