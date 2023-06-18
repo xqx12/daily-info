@@ -133,13 +133,13 @@
 | 20230617T23:40:24Z | Simple Payload for Burp Fuzzing | https://github.com/exrienz/BurpPayload | 0 | 0| 
 | 20230617T23:28:26Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
 | 20230617T20:12:11Z | Null | https://github.com/fuzziejaxer/fuzziejaxer.github.io | 0 | 0| 
+| 20230617T19:29:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3660 | 436| 
 | 20230617T15:05:30Z | A bookmark fuzzy finder with vim-like navigation, for Firefox | https://github.com/yanns1/bookmark-fuzzy-finder | 0 | 0| 
 | 20230617T12:50:45Z | Null | https://github.com/octaviancristea7/Fuzzy-Erasmus-Selection-Tool | 0 | 0| 
 | 20230617T12:00:02Z | Null | https://github.com/xy012i/FuzzyW | 0 | 0| 
 | 20230617T08:13:12Z | Null | https://github.com/Jtwo-23/fuzzy-waffle | 1 | 0| 
 | 20230617T06:05:41Z | Null | https://github.com/paafff/fuzzy-sugeno-website | 0 | 0| 
 | 20230617T01:41:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8737 | 1920| 
-| 20230617T01:33:01Z | An algorithm to minimize fuzz test failures | https://github.com/MichaelRFairhurst/entropy-debugging | 0 | 0| 
 
 
 
