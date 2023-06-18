@@ -71,7 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230618T00:58:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 0 | 0| 
+| 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
+| 20230618T00:59:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b- | 1 | 0| 
+| 20230618T00:59:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:56:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-hvjq-qKqW--finish-exploit | 0 | 0| 
 | 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
 | 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
@@ -79,8 +81,6 @@
 | 20230617T18:30:37Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 | 20230617T18:06:31Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 43 | 9| 
 | 20230617T17:53:35Z | Simple XSS exploitation framework | https://github.com/Gabally/jhook | 0 | 0| 
-| 20230617T12:40:53Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 6 | 1| 
-| 20230617T12:25:16Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 1 | 0| 
 
 
 # backdoor on Github 推荐
