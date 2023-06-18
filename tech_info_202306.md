@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:34:15Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
 | 20230618T11:51:18Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230618T10:25:08Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 | 20230618T05:23:05Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
@@ -35,7 +36,6 @@
 | 20230617T11:35:32Z | 未知编号 | Null | https://github.com/AAsh035/CVE2023- | | 
 | 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
 | 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
-| 20230617T10:11:46Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/rio128128/CVE-2023-24078 | | 
 
 
 # klee on Github 推荐

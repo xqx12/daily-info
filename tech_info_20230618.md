@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:34:15Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
 | 20230618T11:51:18Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230618T10:25:08Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 | 20230618T05:23:05Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
