@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230618T01:34:28Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
-| 20230617T16:49:22Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
+| 20230618T11:51:18Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
+| 20230618T10:25:08Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
+| 20230618T05:23:05Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 | 20230617T15:44:30Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230617T12:47:20Z | CVE-2023-30777 | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | https://github.com/Alucard0x1/CVE-2023-30777 | | 
 | 20230617T12:04:34Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
@@ -35,14 +36,13 @@
 | 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
 | 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
 | 20230617T10:11:46Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/rio128128/CVE-2023-24078 | | 
-| 20230617T03:59:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T03:59:53Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1008 | 43| 
 | 20230617T10:43:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
-| 20230616T06:15:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1007 | 43| 
 | 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
 | 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
 | 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
@@ -71,21 +71,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T08:49:06Z | 🔐 explores techniques to exploit and manipulate buffer overflow vulnerabilities in a program. | https://github.com/minsooerickim/BufferOverflowAttack | 1 | 0| 
+| 20230618T07:14:39Z | An Ethical hacking project regarding complete exploitation of a machine named stapler. | https://github.com/dhairya7760/Stapler-Machine-Exploitation | 0 | 0| 
+| 20230618T06:33:56Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backup | 0 | 2| 
+| 20230618T05:43:49Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/Heapno/heapno.github.io | 0 | 0| 
+| 20230618T05:36:12Z | Collects some exploits, choom!! | https://github.com/l0n-b3cca/exploit_choom | 1 | 0| 
 | 20230618T01:25:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0008-app--WcMx-exploit-perform | 0 | 0| 
-| 20230618T01:18:14Z | Collects some exploits, choom!! | https://github.com/l0n-b3cca/exploit_choom | 0 | 0| 
 | 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
 | 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:59:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:59:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 1 | 0| 
-| 20230618T00:56:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-hvjq-qKqW--finish-exploit | 0 | 0| 
-| 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
-| 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
-| 20230617T21:09:34Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T02:49:15Z | Null | https://github.com/Guncuke/flame-Taming-backdoor | 2 | 0| 
 | 20230618T01:27:13Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 27 | 3| 
 | 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230616T14:16:06Z | Null | https://github.com/rizqimaulanaa/backdoor | 0 | 0| 
 | 20230616T14:00:25Z | Null | https://github.com/SCLBD/BackdoorBench | 162 | 24| 
 | 20230616T12:00:56Z | Windows Persistence Toolkit | https://github.com/shab4z/Persys | 0 | 0| 
-| 20230616T11:13:35Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 73 | 12| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
+| 20230618T08:44:47Z | Null | https://github.com/master1018/Fuzzing_for_NIDS | 0 | 0| 
+| 20230618T06:51:54Z | Null | https://github.com/grgrgrgrgrran/fuzzy-carnival | 0 | 0| 
+| 20230618T05:21:35Z | Null | https://github.com/Waleed-abdullah/IoT-Fuzzing-FYP | 0 | 0| 
 | 20230617T23:40:24Z | Simple Payload for Burp Fuzzing | https://github.com/exrienz/BurpPayload | 0 | 0| 
 | 20230617T23:28:26Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
 | 20230617T20:12:11Z | Null | https://github.com/fuzziejaxer/fuzziejaxer.github.io | 0 | 0| 
 | 20230617T19:29:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3660 | 436| 
 | 20230617T15:05:30Z | A bookmark fuzzy finder with vim-like navigation, for Firefox | https://github.com/yanns1/bookmark-fuzzy-finder | 0 | 0| 
 | 20230617T12:50:45Z | Null | https://github.com/octaviancristea7/Fuzzy-Erasmus-Selection-Tool | 0 | 0| 
-| 20230617T12:00:02Z | Null | https://github.com/xy012i/FuzzyW | 0 | 0| 
-| 20230617T08:13:12Z | Null | https://github.com/Jtwo-23/fuzzy-waffle | 1 | 0| 
-| 20230617T06:05:41Z | Null | https://github.com/paafff/fuzzy-sugeno-website | 0 | 0| 
-| 20230617T01:41:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8737 | 1920| 
 
 
 
