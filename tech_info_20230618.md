@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:03:48Z | Null | https://github.com/Britanycb/Projet-Systeme-d-exploitation-mam-3- | 0 | 0| 
 | 20230618T08:49:06Z | 🔐 explores techniques to exploit and manipulate buffer overflow vulnerabilities in a program. | https://github.com/minsooerickim/BufferOverflowAttack | 1 | 0| 
 | 20230618T07:14:39Z | An Ethical hacking project regarding complete exploitation of a machine named stapler. | https://github.com/dhairya7760/Stapler-Machine-Exploitation | 0 | 0| 
 | 20230618T06:33:56Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backup | 0 | 2| 
@@ -45,7 +46,6 @@
 | 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
 | 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
 | 20230618T00:59:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b- | 1 | 0| 
-| 20230618T00:59:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 1 | 0| 
 
 
 # backdoor on Github 推荐
