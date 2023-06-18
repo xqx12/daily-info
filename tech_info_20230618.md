@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:32:40Z | A simple tool to use a reference srt to make another sync to the audio correctly. | https://github.com/Colin-XKL/srt-fuzzy-sync | 0 | 0| 
 | 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
 | 20230618T08:44:47Z | Null | https://github.com/master1018/Fuzzing_for_NIDS | 0 | 0| 
 | 20230618T06:51:54Z | Null | https://github.com/grgrgrgrgrran/fuzzy-carnival | 0 | 0| 

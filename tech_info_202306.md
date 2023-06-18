@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T12:32:40Z | A simple tool to use a reference srt to make another sync to the audio correctly. | https://github.com/Colin-XKL/srt-fuzzy-sync | 0 | 0| 
 | 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
 | 20230618T08:44:47Z | Null | https://github.com/master1018/Fuzzing_for_NIDS | 0 | 0| 
 | 20230618T06:51:54Z | Null | https://github.com/grgrgrgrgrran/fuzzy-carnival | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230617T20:12:11Z | Null | https://github.com/fuzziejaxer/fuzziejaxer.github.io | 0 | 0| 
 | 20230617T19:29:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3660 | 436| 
 | 20230617T15:05:30Z | A bookmark fuzzy finder with vim-like navigation, for Firefox | https://github.com/yanns1/bookmark-fuzzy-finder | 0 | 0| 
-| 20230617T12:50:45Z | Null | https://github.com/octaviancristea7/Fuzzy-Erasmus-Selection-Tool | 0 | 0| 
 
 
 
