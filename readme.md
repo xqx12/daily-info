@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230617T19:25:52Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 | 20230617T16:49:22Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 | 20230617T15:44:30Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230617T12:47:20Z | CVE-2023-30777 | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | https://github.com/Alucard0x1/CVE-2023-30777 | | 
@@ -29,6 +28,7 @@
 | 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
 | 20230617T10:11:46Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/rio128128/CVE-2023-24078 | | 
 | 20230617T03:59:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230617T03:44:23Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
 
 
 # klee on Github 推荐
