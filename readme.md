@@ -42,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230617T08:36:36Z | %Study To Evolve% React Native app - Backend | https://github.com/jparraporcar/s2e-backend | 0 | 0| 
 | 20230617T07:02:50Z | %Study To Evolve% React Native app - Frontend | https://github.com/jparraporcar/s2e | 0 | 0| 
-| 20230617T05:35:21Z | Sleep to earn | https://github.com/tinehtun/S2E | 25 | 0| 
 
 
 # exploit on Github 推荐

@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T00:24:36Z | Sleep to earn | https://github.com/tinehtun/S2E | 18 | 0| 
 | 20230617T08:36:36Z | %Study To Evolve% React Native app - Backend | https://github.com/jparraporcar/s2e-backend | 0 | 0| 
 | 20230617T07:02:50Z | %Study To Evolve% React Native app - Frontend | https://github.com/jparraporcar/s2e | 0 | 0| 
-| 20230617T05:35:21Z | Sleep to earn | https://github.com/tinehtun/S2E | 25 | 0| 
 | 20230616T15:22:40Z | Null | https://github.com/theflutter/s2ev-serviceprovider- | 0 | 0| 
 | 20230616T14:14:28Z | Null | https://github.com/skyjoo/S2email | 0 | 0| 
 | 20230616T14:03:48Z | Null | https://github.com/haneuljoo/S2Emailll | 0 | 0| 
