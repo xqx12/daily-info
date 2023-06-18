@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T00:58:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 0 | 0| 
 | 20230618T00:56:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-hvjq-qKqW--finish-exploit | 0 | 0| 
 | 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
 | 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230617T17:53:35Z | Simple XSS exploitation framework | https://github.com/Gabally/jhook | 0 | 0| 
 | 20230617T12:40:53Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 6 | 1| 
 | 20230617T12:25:16Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 1 | 0| 
-| 20230617T11:48:37Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xsshinobi/xsshinobi.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,7 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
-| 20230617T07:36:00Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 26 | 2| 
+| 20230617T07:36:00Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 26 | 3| 
 | 20230617T02:21:50Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
 | 20230616T18:15:35Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mr-Tools2/CraxsRAT-latest-version-4.19.5 | 0 | 0| 
 | 20230616T14:25:11Z | Null | https://github.com/EuanScottWatson/NLP-Backdoor-Attack | 0 | 0| 
