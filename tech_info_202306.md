@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T01:25:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0008-app--WcMx-exploit-perform | 0 | 0| 
 | 20230618T01:18:14Z | Collects some exploits, choom!! | https://github.com/l0n-b3cca/exploit_choom | 0 | 0| 
 | 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
 | 20230618T01:00:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b- | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
 | 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
 | 20230617T21:09:34Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 4 | 0| 
-| 20230617T18:30:37Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 
 
 # backdoor on Github 推荐
