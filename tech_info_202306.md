@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T00:56:38Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-hvjq-qKqW--finish-exploit | 0 | 0| 
 | 20230618T00:35:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5042 | 632| 
 | 20230617T22:25:31Z | vgtree -  A python-based post-exploitation tool | https://github.com/Adkali/vgtree | 1 | 0| 
 | 20230617T21:09:34Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 4 | 0| 
@@ -80,7 +81,6 @@
 | 20230617T12:40:53Z | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities | https://github.com/Chocapikk/LFIHunt | 6 | 1| 
 | 20230617T12:25:16Z | Created by Alyrianix, bundled by me for exploit usage | https://github.com/x0581/Iris-Exploit-Bundle | 1 | 0| 
 | 20230617T11:48:37Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/xsshinobi/xsshinobi.github.io | 0 | 0| 
-| 20230617T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5660 | 758| 
 
 
 # backdoor on Github 推荐
