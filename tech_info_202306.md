@@ -86,6 +86,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
+| 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
+| 20230617T07:36:00Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 26 | 2| 
 | 20230617T02:21:50Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
 | 20230616T18:15:35Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mr-Tools2/CraxsRAT-latest-version-4.19.5 | 0 | 0| 
 | 20230616T14:25:11Z | Null | https://github.com/EuanScottWatson/NLP-Backdoor-Attack | 0 | 0| 
@@ -93,9 +96,6 @@
 | 20230616T14:00:25Z | Null | https://github.com/SCLBD/BackdoorBench | 162 | 24| 
 | 20230616T12:00:56Z | Windows Persistence Toolkit | https://github.com/shab4z/Persys | 0 | 0| 
 | 20230616T11:13:35Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 73 | 12| 
-| 20230616T11:08:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 753 | 134| 
-| 20230616T03:56:20Z | Project made for using ChatGPT to cheat on assignments, unblocked on GoGuardian. This project is not done, and it is not working. The main file can be found at bookmarklet.js. | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
-| 20230616T03:40:38Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 162 | 28| 
 
 
 # symbolic execution on Github 推荐
