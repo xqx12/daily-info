@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230618T12:34:15Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
-| 20230618T11:51:18Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
-| 20230618T10:25:08Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
+| 20230618T23:55:43Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
+| 20230618T23:33:45Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
+| 20230618T21:52:29Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
+| 20230618T20:53:45Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
+| 20230618T19:56:10Z | CVE-2023-30212 | Null | https://github.com/MaThEw-ViNcEnT/CVE-2023-30212-OURPHP-Vulnerability | | 
+| 20230618T16:36:05Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230618T15:43:23Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
 | 20230618T05:23:05Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 | 20230617T15:44:30Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
-| 20230617T12:47:20Z | CVE-2023-30777 | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | https://github.com/Alucard0x1/CVE-2023-30777 | | 
-| 20230617T12:04:34Z | 未知编号 | Null | https://github.com/lanleft/CVE2023-1829 | | 
-| 20230617T11:35:32Z | 未知编号 | Null | https://github.com/AAsh035/CVE2023- | | 
-| 20230617T11:30:05Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
-| 20230617T11:28:19Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab | | 
+| 20230617T15:01:00Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T21:01:09Z | Hack Davis 2023 project.  | https://github.com/brody2002/KleenKuts | 0 | 0| 
 | 20230618T03:59:53Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1008 | 43| 
 | 20230617T10:43:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
@@ -50,7 +51,6 @@
 | 20230613T11:44:45Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 34 | 1| 
 | 20230613T04:30:13Z | Null | https://github.com/hoverloD/klee-helper | 0 | 0| 
 | 20230613T03:10:10Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 28 | 2| 
-| 20230612T23:45:26Z | Null | https://github.com/igloo1505/kleenBrake | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T18:56:48Z | Backdoor AI is your AI-powered copilot for academic services. Launch date: September 2023 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
+| 20230618T18:06:41Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
+| 20230618T17:57:10Z | CK Mods 41 the mods version are based on the original version of the R22F XTREAM UI Panel, we modified and removed all backdoors and we are adding some new features into the panel source on every update, XTREAM UI MOD CK 41 | https://github.com/JAOUADTALBI/XTREAM-UI-MODS-CK-41 | 1 | 0| 
+| 20230618T16:46:53Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-C2- | 3 | 3| 
+| 20230618T16:02:20Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 28 | 3| 
+| 20230618T15:22:25Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 163 | 28| 
 | 20230618T02:49:15Z | Null | https://github.com/Guncuke/flame-Taming-backdoor | 2 | 0| 
-| 20230618T01:27:13Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 27 | 3| 
 | 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
 | 20230617T02:21:50Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
-| 20230616T18:15:35Z | CraxsRat V4 all others send backdoor but this is clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mr-Tools2/CraxsRAT-latest-version-4.19.5 | 0 | 0| 
-| 20230616T14:25:11Z | Null | https://github.com/EuanScottWatson/NLP-Backdoor-Attack | 0 | 0| 
-| 20230616T14:16:06Z | Null | https://github.com/rizqimaulanaa/backdoor | 0 | 0| 
-| 20230616T14:00:25Z | Null | https://github.com/SCLBD/BackdoorBench | 162 | 24| 
-| 20230616T12:00:56Z | Windows Persistence Toolkit | https://github.com/shab4z/Persys | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
