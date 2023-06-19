@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230619T01:38:32Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
 | 20230619T01:29:56Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230619T01:28:51Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 | 20230619T01:20:50Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
@@ -35,7 +36,6 @@
 | 20230618T20:53:45Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 | 20230618T19:56:10Z | CVE-2023-30212 | Null | https://github.com/MaThEw-ViNcEnT/CVE-2023-30212-OURPHP-Vulnerability | | 
 | 20230618T17:50:33Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
-| 20230618T15:43:23Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
 
 
 # klee on Github 推荐
