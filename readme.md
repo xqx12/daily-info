@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230619T12:24:16Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
+| 20230619T12:31:59Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230619T10:37:58Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230619T10:24:44Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
 | 20230619T10:21:15Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
