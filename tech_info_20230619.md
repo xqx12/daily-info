@@ -58,7 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T12:09:40Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
+| 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
 | 20230619T05:40:56Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 30 | 3| 
