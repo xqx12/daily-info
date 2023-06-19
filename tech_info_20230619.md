@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T11:56:51Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
+| 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T11:41:44Z | Exploits developed by Mikael Kall | https://github.com/mikaelkall/Exploits | 39 | 30| 
 | 20230619T11:05:25Z | Null | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | 0 | 0| 
 | 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
@@ -58,7 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T11:56:51Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
+| 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
 | 20230619T05:40:56Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 30 | 3| 
 | 20230619T05:36:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 8 | 4| 
