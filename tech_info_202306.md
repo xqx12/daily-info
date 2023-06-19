@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230619T01:53:58Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
-| 20230619T01:40:55Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
-| 20230619T01:38:32Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
+| 20230619T11:20:55Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
+| 20230619T10:37:58Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
+| 20230619T10:24:44Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
+| 20230619T10:21:15Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
+| 20230619T10:15:51Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
+| 20230619T09:19:48Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
+| 20230619T07:56:18Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
+| 20230619T05:52:58Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability with RCE plugin | https://github.com/miko550/CVE-2023-32315 | | 
+| 20230619T02:11:40Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
 | 20230619T01:29:56Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230619T01:20:50Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
-| 20230619T01:17:53Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
-| 20230618T21:52:29Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
-| 20230618T20:53:45Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
-| 20230618T19:56:10Z | CVE-2023-30212 | Null | https://github.com/MaThEw-ViNcEnT/CVE-2023-30212-OURPHP-Vulnerability | | 
-| 20230618T17:50:33Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
 
 
 # klee on Github 推荐
@@ -56,10 +56,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T11:17:53Z | Null | https://github.com/theflutter/s2ev-serviceprovider- | 0 | 0| 
 | 20230618T00:24:36Z | Sleep to earn | https://github.com/tinehtun/S2E | 18 | 0| 
 | 20230617T08:36:36Z | %Study To Evolve% React Native app - Backend | https://github.com/jparraporcar/s2e-backend | 0 | 0| 
 | 20230617T07:02:50Z | %Study To Evolve% React Native app - Frontend | https://github.com/jparraporcar/s2e | 0 | 0| 
-| 20230616T15:22:40Z | Null | https://github.com/theflutter/s2ev-serviceprovider- | 0 | 0| 
 | 20230616T14:14:28Z | Null | https://github.com/skyjoo/S2email | 0 | 0| 
 | 20230616T14:03:48Z | Null | https://github.com/haneuljoo/S2Emailll | 0 | 0| 
 | 20230616T13:52:15Z | Null | https://github.com/haneuljoo/S2emaillll | 0 | 0| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T01:07:08Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 5 | 0| 
-| 20230619T00:55:28Z | Null | https://github.com/w3security/W3Exploits | 0 | 0| 
-| 20230619T00:24:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lp | 1 | 0| 
-| 20230619T00:23:21Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lp | 1 | 0| 
-| 20230619T00:22:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lp | 1 | 0| 
-| 20230618T23:03:53Z | this is a webscraper on rapid api that created | https://github.com/baric6/exploits_cve_api | 0 | 0| 
-| 20230618T22:29:24Z | Null | https://github.com/Mani175/PoopTyconExploit | 0 | 0| 
-| 20230618T20:37:24Z | It is a highly optimized, anti-exploitable and advanced script that you can have in your roleplay server.    | https://github.com/PetrisGR/FiveM-Thief | 1 | 0| 
-| 20230618T19:58:33Z | Python script that automates the exploitation of cross-site scripting (XSS) vulnerability in Google Gruyere. It uses Playwright and Typer libraries to launch a browser, navigate to the vulnerable page, and execute the exploitation steps. | https://github.com/TechDave4/XSS_GG | 0 | 0| 
-| 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
+| 20230619T11:56:51Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
+| 20230619T11:41:44Z | Exploits developed by Mikael Kall | https://github.com/mikaelkall/Exploits | 39 | 30| 
+| 20230619T11:05:25Z | Null | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | 0 | 0| 
+| 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
+| 20230619T10:30:23Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 6 | 0| 
+| 20230619T09:42:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 30 | 4| 
+| 20230619T08:44:14Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 2125 | 375| 
+| 20230619T08:42:44Z | Exploitation-Framework for Android devices - Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  | https://github.com/AryanVBW/Arndro-Vw | 2 | 0| 
+| 20230619T08:35:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5243 | 741| 
+| 20230619T06:24:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1231 | 150| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T11:56:51Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
+| 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
+| 20230619T05:40:56Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 30 | 3| 
+| 20230619T05:36:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 8 | 4| 
+| 20230619T03:08:16Z | Null | https://github.com/Msfv3n0m/WinDivert-Backdoor | 0 | 0| 
 | 20230619T01:41:35Z | Null | https://github.com/SilvestreLago/Backdoor_netcat | 0 | 0| 
 | 20230618T18:56:48Z | Backdoor AI is your AI-powered copilot for academic services. Launch date: September 2023 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230618T18:06:41Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
 | 20230618T17:57:10Z | CK Mods 41 the mods version are based on the original version of the R22F XTREAM UI Panel, we modified and removed all backdoors and we are adding some new features into the panel source on every update, XTREAM UI MOD CK 41 | https://github.com/JAOUADTALBI/XTREAM-UI-MODS-CK-41 | 1 | 0| 
 | 20230618T16:46:53Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-C2- | 3 | 3| 
-| 20230618T16:02:20Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 28 | 3| 
-| 20230618T15:22:25Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 163 | 28| 
-| 20230618T02:49:15Z | Null | https://github.com/Guncuke/flame-Taming-backdoor | 2 | 0| 
-| 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
-| 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,10 +116,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230618T05:16:49Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 82 | 28| 
-| 20230618T04:44:57Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 22 | 1| 
+| 20230619T09:28:29Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 83 | 28| 
+| 20230619T04:45:33Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 52 | 3| 
+| 20230619T02:54:41Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 23 | 1| 
 | 20230617T03:43:21Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 690 | 109| 
-| 20230616T14:02:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 51 | 3| 
 | 20230615T22:46:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 11 | 2| 
 | 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 | 20230613T06:57:39Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 17 | 2| 
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
+| 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
+| 20230619T10:58:35Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 0 | 0| 
+| 20230619T10:41:35Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
+| 20230619T10:05:32Z | Null | https://github.com/theyoge/AI-Fuzzing | 0 | 0| 
+| 20230619T09:17:51Z | Null | https://github.com/fortinet-fortisoar/connector-fuzzy-search | 0 | 1| 
+| 20230619T08:46:28Z | Dictionary for penetration testers happy hacker  | https://github.com/a3vilc0de/PentesterSpecialDict | 1200 | 263| 
 | 20230619T01:57:46Z | Null | https://github.com/MuhammedWaheed/Fuzzy-Clustering-Using-Dimensionality-Reduction | 0 | 0| 
 | 20230619T01:05:10Z | Wrapper around ab (Apache Bench) to provide it with basic fuzz testing abilities | https://github.com/trevormh/fuzz-ab | 0 | 0| 
 | 20230619T01:05:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3659 | 436| 
-| 20230619T00:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8741 | 1923| 
-| 20230618T21:58:39Z | yes | https://github.com/s0urce2/fuzzy-octo-spoon | 0 | 0| 
-| 20230618T21:52:11Z | Null | https://github.com/welma86/fuzzy-happiness | 2 | 0| 
-| 20230618T20:45:07Z | Null | https://github.com/HKaDvLp/Fuzzy-octo-memory | 0 | 0| 
-| 20230618T19:29:01Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
-| 20230618T12:32:40Z | A simple tool to use a reference srt to make another sync to the audio correctly. | https://github.com/Colin-XKL/srt-fuzzy-sync | 0 | 0| 
-| 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
 
 
 
