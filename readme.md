@@ -49,8 +49,8 @@
 | 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
 | 20230618T18:02:21Z | This is my first repo. and I am hoping to do exploits using this repo. | https://github.com/marleybrown22/First-Adventure | 0 | 0| 
 | 20230618T16:40:38Z | The value of the project is twofold: 1- Exploiting LLM technology (GPTs, BERTs and language models in general) via LangChain to build/train a local Q-A-specific LM on school curriculum/program dataset. 2- Implement learning techniques (Metacognition, Deep Processing, Bloom taxonomy...etc) in a data-driven framework via LLM | https://github.com/ErgodicEntropy/ECC-Cognitive-Tutor | 0 | 0| 
+| 20230618T15:38:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5046 | 633| 
 | 20230618T13:15:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 664 | 171| 
-| 20230618T12:54:14Z | the deliverables for my Reverse SE and exploitation Minor.  | https://github.com/gshfi/deliverables | 0 | 0| 
 
 
 # backdoor on Github 推荐
