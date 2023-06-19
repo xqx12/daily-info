@@ -71,11 +71,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T01:07:08Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 5 | 0| 
 | 20230619T00:55:28Z | Null | https://github.com/w3security/W3Exploits | 0 | 0| 
 | 20230619T00:24:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230619T00:23:21Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230619T00:22:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lp | 1 | 0| 
-| 20230618T23:05:11Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 4 | 0| 
 | 20230618T23:03:53Z | this is a webscraper on rapid api that created | https://github.com/baric6/exploits_cve_api | 0 | 0| 
 | 20230618T22:29:24Z | Null | https://github.com/Mani175/PoopTyconExploit | 0 | 0| 
 | 20230618T20:37:24Z | It is a highly optimized, anti-exploitable and advanced script that you can have in your roleplay server.    | https://github.com/PetrisGR/FiveM-Thief | 1 | 0| 
