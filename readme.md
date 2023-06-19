@@ -87,14 +87,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:42:48Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 1 | 0| 
 | 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
 | 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
-| 20230619T10:58:35Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 0 | 0| 
 | 20230619T10:41:35Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 | 20230619T10:05:32Z | Null | https://github.com/theyoge/AI-Fuzzing | 0 | 0| 
 | 20230619T09:17:51Z | Null | https://github.com/fortinet-fortisoar/connector-fuzzy-search | 0 | 1| 
 | 20230619T08:46:28Z | Dictionary for penetration testers happy hacker  | https://github.com/a3vilc0de/PentesterSpecialDict | 1200 | 263| 
-| 20230619T08:39:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2174 | 275| 
+| 20230619T08:39:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2174 | 276| 
 | 20230619T01:57:46Z | Null | https://github.com/MuhammedWaheed/Fuzzy-Clustering-Using-Dimensionality-Reduction | 0 | 0| 
 | 20230619T01:05:10Z | Wrapper around ab (Apache Bench) to provide it with basic fuzz testing abilities | https://github.com/trevormh/fuzz-ab | 0 | 0| 
 
