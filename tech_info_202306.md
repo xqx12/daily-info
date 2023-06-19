@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T00:24:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lp | 1 | 0| 
+| 20230619T00:23:21Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230619T00:22:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230618T23:05:11Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 4 | 0| 
 | 20230618T23:03:53Z | this is a webscraper on rapid api that created | https://github.com/baric6/exploits_cve_api | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230618T19:58:33Z | Python script that automates the exploitation of cross-site scripting (XSS) vulnerability in Google Gruyere. It uses Playwright and Typer libraries to launch a browser, navigate to the vulnerable page, and execute the exploitation steps. | https://github.com/TechDave4/XSS_GG | 0 | 0| 
 | 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
 | 20230618T18:02:21Z | This is my first repo. and I am hoping to do exploits using this repo. | https://github.com/marleybrown22/First-Adventure | 0 | 0| 
-| 20230618T16:40:38Z | The value of the project is twofold: 1- Exploiting LLM technology (GPTs, BERTs and language models in general) via LangChain to build/train a local Q-A-specific LM on school curriculum/program dataset. 2- Implement learning techniques (Metacognition, Deep Processing, Bloom taxonomy...etc) in a data-driven framework via LLM | https://github.com/ErgodicEntropy/ECC-Cognitive-Tutor | 0 | 0| 
-| 20230618T15:38:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5046 | 633| 
 
 
 # backdoor on Github 推荐
