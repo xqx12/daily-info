@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:44:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230619T12:37:09Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230619T12:31:59Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230619T10:24:44Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
@@ -35,7 +36,6 @@
 | 20230619T07:56:18Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 | 20230619T05:52:58Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability with RCE plugin | https://github.com/miko550/CVE-2023-32315 | | 
 | 20230619T02:11:40Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
-| 20230619T01:29:56Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:43:22Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 634 | 38| 
 | 20230619T12:31:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5244 | 741| 
 | 20230619T12:21:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-PjqaQ-defend-exploit | 0 | 0| 
 | 20230619T12:21:09Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 7 | 0| 
@@ -80,7 +81,6 @@
 | 20230619T11:05:25Z | Null | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | 0 | 0| 
 | 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
 | 20230619T09:42:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 30 | 4| 
-| 20230619T08:44:14Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 2125 | 375| 
 
 
 # backdoor on Github 推荐
