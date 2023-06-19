@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:38:57Z | my php backdoors | https://github.com/adilhyz/bd | 1 | 0| 
 | 20230619T12:13:46Z | Null | https://github.com/Ysoni9919/Backdoor | 0 | 0| 
 | 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 

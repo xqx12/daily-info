@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:38:57Z | my php backdoors | https://github.com/adilhyz/bd | 1 | 0| 
 | 20230619T12:13:46Z | Null | https://github.com/Ysoni9919/Backdoor | 0 | 0| 
 | 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230619T03:08:16Z | Null | https://github.com/Msfv3n0m/WinDivert-Backdoor | 0 | 0| 
 | 20230619T01:41:35Z | Null | https://github.com/SilvestreLago/Backdoor_netcat | 0 | 0| 
 | 20230618T18:56:48Z | Backdoor AI is your AI-powered copilot for academic services. Launch date: September 2023 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
-| 20230618T18:06:41Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
 
 
 # symbolic execution on Github 推荐
