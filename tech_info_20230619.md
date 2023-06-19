@@ -45,6 +45,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T11:41:44Z | Exploits developed by Mikael Kall | https://github.com/mikaelkall/Exploits | 39 | 30| 
+| 20230619T11:37:31Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 10 | 0| 
 | 20230619T11:05:25Z | Null | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | 0 | 0| 
 | 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
 | 20230619T10:30:23Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 6 | 0| 
@@ -52,12 +53,12 @@
 | 20230619T08:44:14Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 2125 | 375| 
 | 20230619T08:42:44Z | Exploitation-Framework for Android devices - Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  | https://github.com/AryanVBW/Arndro-Vw | 2 | 0| 
 | 20230619T08:38:31Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 201 | 11| 
-| 20230619T08:35:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5243 | 741| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:13:46Z | Null | https://github.com/Ysoni9919/Backdoor | 0 | 0| 
 | 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
