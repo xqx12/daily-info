@@ -80,7 +80,7 @@
 | 20230618T20:37:24Z | It is a highly optimized, anti-exploitable and advanced script that you can have in your roleplay server.    | https://github.com/PetrisGR/FiveM-Thief | 1 | 0| 
 | 20230618T19:58:33Z | Python script that automates the exploitation of cross-site scripting (XSS) vulnerability in Google Gruyere. It uses Playwright and Typer libraries to launch a browser, navigate to the vulnerable page, and execute the exploitation steps. | https://github.com/TechDave4/XSS_GG | 0 | 0| 
 | 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
-| 20230618T18:02:21Z | This is my first repo. and I am hoping to do exploits using this repo. | https://github.com/marleybrown22/First-Adventure | 0 | 0| 
+| 20230618T18:53:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 996| 
 
 
 # backdoor on Github 推荐
