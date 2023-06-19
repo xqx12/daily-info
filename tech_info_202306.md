@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T23:05:11Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 4 | 0| 
+| 20230618T23:03:53Z | this is a webscraper on rapid api that created | https://github.com/baric6/exploits_cve_api | 0 | 0| 
+| 20230618T22:29:24Z | Null | https://github.com/Mani175/PoopTyconExploit | 0 | 0| 
+| 20230618T20:37:24Z | It is a highly optimized, anti-exploitable and advanced script that you can have in your roleplay server.    | https://github.com/PetrisGR/FiveM-Thief | 1 | 0| 
+| 20230618T19:58:33Z | Python script that automates the exploitation of cross-site scripting (XSS) vulnerability in Google Gruyere. It uses Playwright and Typer libraries to launch a browser, navigate to the vulnerable page, and execute the exploitation steps. | https://github.com/TechDave4/XSS_GG | 0 | 0| 
+| 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
+| 20230618T18:02:21Z | This is my first repo. and I am hoping to do exploits using this repo. | https://github.com/marleybrown22/First-Adventure | 0 | 0| 
+| 20230618T16:40:38Z | The value of the project is twofold: 1- Exploiting LLM technology (GPTs, BERTs and language models in general) via LangChain to build/train a local Q-A-specific LM on school curriculum/program dataset. 2- Implement learning techniques (Metacognition, Deep Processing, Bloom taxonomy...etc) in a data-driven framework via LLM | https://github.com/ErgodicEntropy/ECC-Cognitive-Tutor | 0 | 0| 
+| 20230618T13:15:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 664 | 171| 
 | 20230618T12:54:14Z | the deliverables for my Reverse SE and exploitation Minor.  | https://github.com/gshfi/deliverables | 0 | 0| 
-| 20230618T12:13:51Z | Best exploit for trash game | https://github.com/ajeaead/Fabled-Legacy | 0 | 0| 
-| 20230618T12:03:48Z | Null | https://github.com/Britanycb/Projet-Systeme-d-exploitation-mam-3- | 0 | 0| 
-| 20230618T08:49:06Z | 🔐 explores techniques to exploit and manipulate buffer overflow vulnerabilities in a program. | https://github.com/minsooerickim/BufferOverflowAttack | 1 | 0| 
-| 20230618T07:14:39Z | An Ethical hacking project regarding complete exploitation of a machine named stapler. | https://github.com/dhairya7760/Stapler-Machine-Exploitation | 0 | 0| 
-| 20230618T06:33:56Z | Null | https://github.com/EasyLocal/ExploitLibrarys-Backup | 0 | 2| 
-| 20230618T05:43:49Z | My personal blogpost, where I share my journey of becoming an exploit researcher. | https://github.com/Heapno/heapno.github.io | 0 | 0| 
-| 20230618T05:36:12Z | Collects some exploits, choom!! | https://github.com/l0n-b3cca/exploit_choom | 1 | 0| 
-| 20230618T01:25:02Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0008-app--WcMx-exploit-perform | 0 | 0| 
-| 20230618T01:04:42Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0005-app-2cOPc-examine-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230618T21:58:39Z | yes | https://github.com/s0urce2/fuzzy-octo-spoon | 0 | 0| 
+| 20230618T21:52:11Z | Null | https://github.com/welma86/fuzzy-happiness | 2 | 0| 
+| 20230618T20:45:07Z | Null | https://github.com/HKaDvLp/Fuzzy-octo-memory | 0 | 0| 
+| 20230618T19:29:01Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
+| 20230618T16:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8740 | 1922| 
 | 20230618T12:32:40Z | A simple tool to use a reference srt to make another sync to the audio correctly. | https://github.com/Colin-XKL/srt-fuzzy-sync | 0 | 0| 
 | 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
 | 20230618T08:44:47Z | Null | https://github.com/master1018/Fuzzing_for_NIDS | 0 | 0| 
 | 20230618T06:51:54Z | Null | https://github.com/grgrgrgrgrran/fuzzy-carnival | 0 | 0| 
 | 20230618T05:21:35Z | Null | https://github.com/Waleed-abdullah/IoT-Fuzzing-FYP | 0 | 0| 
-| 20230617T23:40:24Z | Simple Payload for Burp Fuzzing | https://github.com/exrienz/BurpPayload | 0 | 0| 
-| 20230617T23:28:26Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
-| 20230617T20:12:11Z | Null | https://github.com/fuzziejaxer/fuzziejaxer.github.io | 0 | 0| 
-| 20230617T19:29:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3660 | 436| 
-| 20230617T15:05:30Z | A bookmark fuzzy finder with vim-like navigation, for Firefox | https://github.com/yanns1/bookmark-fuzzy-finder | 0 | 0| 
 
 
 
