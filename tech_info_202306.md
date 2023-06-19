@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T00:55:28Z | Null | https://github.com/w3security/W3Exploits | 0 | 0| 
 | 20230619T00:24:40Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230619T00:23:21Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lp | 1 | 0| 
 | 20230619T00:22:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lp | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230618T20:37:24Z | It is a highly optimized, anti-exploitable and advanced script that you can have in your roleplay server.    | https://github.com/PetrisGR/FiveM-Thief | 1 | 0| 
 | 20230618T19:58:33Z | Python script that automates the exploitation of cross-site scripting (XSS) vulnerability in Google Gruyere. It uses Playwright and Typer libraries to launch a browser, navigate to the vulnerable page, and execute the exploitation steps. | https://github.com/TechDave4/XSS_GG | 0 | 0| 
 | 20230618T19:05:22Z | All the public (nd some private) exploits, apps, script and stuff about AnimalJam Classic & PlayWild | https://github.com/e-bitch/GitJam | 0 | 0| 
-| 20230618T18:53:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5075 | 996| 
 
 
 # backdoor on Github 推荐
