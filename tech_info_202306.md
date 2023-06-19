@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230619T00:09:19Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
+| 20230619T00:53:12Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230618T23:55:43Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
 | 20230618T21:52:29Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
 | 20230618T20:53:45Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
