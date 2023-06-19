@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:51:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-upmz-W13h5-afford-exploit | 0 | 0| 
 | 20230619T12:43:22Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 634 | 38| 
 | 20230619T12:31:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5244 | 741| 
 | 20230619T12:21:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-PjqaQ-defend-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230619T11:37:31Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 10 | 0| 
 | 20230619T11:05:25Z | Null | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | 0 | 0| 
 | 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
-| 20230619T09:42:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 30 | 4| 
 
 
 # backdoor on Github 推荐
