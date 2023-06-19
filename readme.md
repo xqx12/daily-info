@@ -23,7 +23,6 @@
 | 20230618T17:50:33Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
 | 20230618T16:36:05Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230618T15:43:23Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
-| 20230618T05:23:05Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 
 
 # klee on Github 推荐
