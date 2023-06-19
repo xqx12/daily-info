@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:57:44Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test2-CVE-2023-29325 | | 
 | 20230619T12:44:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230619T12:37:09Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230619T12:31:59Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
@@ -25,7 +26,6 @@
 | 20230619T09:19:48Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 | 20230619T07:56:18Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 | 20230619T05:52:58Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability with RCE plugin | https://github.com/miko550/CVE-2023-32315 | | 
-| 20230619T02:11:40Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
 
 
 # klee on Github 推荐
