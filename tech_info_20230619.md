@@ -94,9 +94,9 @@
 | 20230619T10:05:32Z | Null | https://github.com/theyoge/AI-Fuzzing | 0 | 0| 
 | 20230619T09:17:51Z | Null | https://github.com/fortinet-fortisoar/connector-fuzzy-search | 0 | 1| 
 | 20230619T08:46:28Z | Dictionary for penetration testers happy hacker  | https://github.com/a3vilc0de/PentesterSpecialDict | 1200 | 263| 
+| 20230619T08:39:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2174 | 275| 
 | 20230619T01:57:46Z | Null | https://github.com/MuhammedWaheed/Fuzzy-Clustering-Using-Dimensionality-Reduction | 0 | 0| 
 | 20230619T01:05:10Z | Wrapper around ab (Apache Bench) to provide it with basic fuzz testing abilities | https://github.com/trevormh/fuzz-ab | 0 | 0| 
-| 20230619T01:05:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3659 | 436| 
 
 
 
