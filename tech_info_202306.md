@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T01:41:35Z | Null | https://github.com/SilvestreLago/Backdoor_netcat | 0 | 0| 
 | 20230618T18:56:48Z | Backdoor AI is your AI-powered copilot for academic services. Launch date: September 2023 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230618T18:06:41Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
 | 20230618T17:57:10Z | CK Mods 41 the mods version are based on the original version of the R22F XTREAM UI Panel, we modified and removed all backdoors and we are adding some new features into the panel source on every update, XTREAM UI MOD CK 41 | https://github.com/JAOUADTALBI/XTREAM-UI-MODS-CK-41 | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20230618T02:49:15Z | Null | https://github.com/Guncuke/flame-Taming-backdoor | 2 | 0| 
 | 20230617T15:43:07Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230617T14:01:15Z | Null | https://github.com/YuujiReda/Backdoor | 0 | 0| 
-| 20230617T02:21:50Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
