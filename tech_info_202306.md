@@ -79,8 +79,8 @@
 | 20230619T09:42:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 30 | 4| 
 | 20230619T08:44:14Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 2125 | 375| 
 | 20230619T08:42:44Z | Exploitation-Framework for Android devices - Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  | https://github.com/AryanVBW/Arndro-Vw | 2 | 0| 
+| 20230619T08:38:31Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 201 | 11| 
 | 20230619T08:35:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5243 | 741| 
-| 20230619T06:24:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1231 | 150| 
 
 
 # backdoor on Github 推荐
