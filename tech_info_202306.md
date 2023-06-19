@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T01:55:02Z | Null | https://github.com/MuhammedWaheed/Fuzzy-Clustering-Using-Dimensionality-Reduction | 0 | 0| 
 | 20230619T01:05:10Z | Wrapper around ab (Apache Bench) to provide it with basic fuzz testing abilities | https://github.com/trevormh/fuzz-ab | 0 | 0| 
 | 20230619T01:05:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3659 | 436| 
 | 20230619T00:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8741 | 1923| 
@@ -139,7 +140,6 @@
 | 20230618T19:29:01Z | Null | https://github.com/LeQu4ck/fuzzy-car-choosing | 0 | 0| 
 | 20230618T12:32:40Z | A simple tool to use a reference srt to make another sync to the audio correctly. | https://github.com/Colin-XKL/srt-fuzzy-sync | 0 | 0| 
 | 20230618T09:37:07Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
-| 20230618T08:44:47Z | Null | https://github.com/master1018/Fuzzing_for_NIDS | 0 | 0| 
 
 
 
