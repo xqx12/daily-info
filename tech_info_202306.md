@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:31:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5244 | 741| 
 | 20230619T12:21:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-PjqaQ-defend-exploit | 0 | 0| 
 | 20230619T12:21:09Z | Proof-of-concept implementation for the paper %Hammulator: Simulate Now - Exploit Later% (DRAMSec 2023) | https://github.com/cispa/hammulator | 7 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230619T10:34:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | 0 | 0| 
 | 20230619T09:42:26Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 30 | 4| 
 | 20230619T08:44:14Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 2125 | 375| 
-| 20230619T08:42:44Z | Exploitation-Framework for Android devices - Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  | https://github.com/AryanVBW/Arndro-Vw | 2 | 0| 
 
 
 # backdoor on Github 推荐
