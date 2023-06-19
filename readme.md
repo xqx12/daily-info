@@ -21,7 +21,6 @@
 | 20230618T20:53:45Z | CVE-2023-34830 | Null | https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below | | 
 | 20230618T19:56:10Z | CVE-2023-30212 | Null | https://github.com/MaThEw-ViNcEnT/CVE-2023-30212-OURPHP-Vulnerability | | 
 | 20230618T17:50:33Z | CVE-2023-33817 | Null | https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5 | | 
-| 20230618T16:36:05Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230618T15:43:23Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability  | https://github.com/miko550/CVE-2023-32315 | | 
 
 
