@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230619T12:09:40Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 | 20230619T12:04:09Z | Null | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
 | 20230619T05:40:56Z | Webshell Manager Tool/一句話木馬管理工具/Trojan/Backdoor/Pentest | https://github.com/malbuffer4pt/Alien | 30 | 3| 
@@ -95,7 +96,6 @@
 | 20230618T18:56:48Z | Backdoor AI is your AI-powered copilot for academic services. Launch date: September 2023 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230618T18:06:41Z | Code repository for the paper --- Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
 | 20230618T17:57:10Z | CK Mods 41 the mods version are based on the original version of the R22F XTREAM UI Panel, we modified and removed all backdoors and we are adding some new features into the panel source on every update, XTREAM UI MOD CK 41 | https://github.com/JAOUADTALBI/XTREAM-UI-MODS-CK-41 | 1 | 0| 
-| 20230618T16:46:53Z | Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-C2- | 3 | 3| 
 
 
 # symbolic execution on Github 推荐
