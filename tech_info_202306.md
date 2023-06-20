@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T01:14:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 594 | 72| 
 | 20230620T01:05:26Z | Null | https://github.com/NolanClerc/jhead-fuzzer | 0 | 0| 
 | 20230620T00:32:46Z | Null | https://github.com/Man1ish/fuzzerapplication | 0 | 0| 
 | 20230620T00:30:18Z | Null | https://github.com/CaioCastro00/Fuzzy_grades | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230619T21:36:40Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 2 | 0| 
 | 20230619T21:09:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2180 | 251| 
 | 20230619T20:34:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
-| 20230619T14:15:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3664 | 435| 
 
 
 
