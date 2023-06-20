@@ -101,8 +101,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T12:25:59Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 401 | 27| 
-| 20230619T11:45:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3472 | 480| 
+| 20230619T22:17:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3473 | 480| 
+| 20230619T19:09:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 402 | 27| 
 | 20230619T11:04:06Z | Rough survey for testing WebAssembly using symbolic execution methods | https://github.com/Shawdox/-survey-for-wasm-symbolic-execution | 0 | 0| 
 | 20230618T19:23:04Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1325 | 61| 
 | 20230617T10:43:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
