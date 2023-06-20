@@ -72,7 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
-| 20230620T11:45:29Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 0| 
+| 20230620T11:45:29Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 1| 
 | 20230620T11:38:38Z | fully advance and powerful android rat 2023 | https://github.com/thepowerraj/SNK-RAT | 40 | 2| 
 | 20230620T11:26:27Z | Apuntes y ejercicios resueltos del curso de Creación de Exploits de HackBySecurity Academy | https://github.com/samu-delucas/hbsacademy-csce | 0 | 0| 
 | 20230620T10:05:37Z | List of payloads and wordlists that are specifically crafted to identify and exploit vulnerabilities in target web applications. | https://github.com/InfoSecWarrior/Offensive-Payloads | 80 | 31| 
@@ -116,7 +116,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230620T00:55:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 692 | 109| 
+| 20230620T09:42:26Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 693 | 110| 
 | 20230619T09:28:29Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 83 | 28| 
 | 20230619T04:45:33Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 52 | 3| 
 | 20230619T02:54:41Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 23 | 1| 
