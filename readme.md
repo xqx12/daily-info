@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T12:38:44Z | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract security. | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | 0 | 0| 
 | 20230620T12:12:23Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 1| 
 | 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
 | 20230620T11:38:38Z | fully advance and powerful android rat 2023 | https://github.com/thepowerraj/SNK-RAT | 40 | 2| 
@@ -54,7 +55,6 @@
 | 20230620T09:47:57Z | work on external dunno about internal | https://github.com/vaavy/fortnite-exploits | 0 | 0| 
 | 20230620T09:28:45Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 519 | 40| 
 | 20230620T09:22:23Z | Config files for my GitHub profile. | https://github.com/VScriptzExploitz/VScriptzExploitz | 0 | 0| 
-| 20230620T08:54:54Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 135 | 13| 
 
 
 # backdoor on Github 推荐
