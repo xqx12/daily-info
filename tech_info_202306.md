@@ -136,10 +136,10 @@
 | 20230620T00:27:46Z | for fuzzing | https://github.com/SohaLee-code/Biofuzzer | 0 | 0| 
 | 20230619T23:32:24Z | Null | https://github.com/google/fuzztest | 306 | 21| 
 | 20230619T21:36:40Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 2 | 0| 
+| 20230619T21:09:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2180 | 251| 
 | 20230619T20:34:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
 | 20230619T14:15:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3664 | 435| 
 | 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
-| 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
 
 
 
