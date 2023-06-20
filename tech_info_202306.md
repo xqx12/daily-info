@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T12:34:44Z | This is a wonderful powerful backdoor Made by PS4 SPIDEY THAT IS ME I AM A ETHICAL HACKER So carefully | https://github.com/PS4SPIDEY/PS4payload | 0 | 0| 
 | 20230620T12:30:00Z | shell finder by tokupensx07! used to scan the backdoor shell that we share only for science!!! if you commit a crime it is beyond our responsibility | https://github.com/tokupens/shellfinder | 0 | 0| 
 | 20230620T11:07:44Z | Null | https://github.com/xnderLAN/tiny_backdoor | 0 | 0| 
 | 20230620T03:15:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1968 | 425| 
@@ -95,7 +96,6 @@
 | 20230619T20:56:02Z | Backdoor AI is an experimental AI JavaScript tool. We%re looking for contributors! If interested, contact me via my Discord: Rabbitgworl69#1827 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230619T20:00:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 224 | 45| 
 | 20230619T18:15:03Z | Trabalho da disciplina de Sistemas Operacionais I (SSC0640), lecionada pelo Docente Vanderlei Bonato, para o curso de Engenharia de Computação - USP São Carlos. | https://github.com/ISS2718/Backdoor_Driver | 1 | 0| 
-| 20230619T17:00:14Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 148 | 25| 
 
 
 # symbolic execution on Github 推荐
