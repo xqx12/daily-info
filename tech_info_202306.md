@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:44:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:43:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99- | 1 | 0| 
 | 20230620T00:38:08Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230619T22:04:02Z | Advanced dork Search &amp; Mass Exploit Scanner. | https://github.com/flavespale/ATSCAN | 0 | 0| 
 | 20230619T21:47:40Z | CVE-2018-19320 LPE Exploit | https://github.com/hmnthabit/CVE-2018-19320-LPE | 6 | 2| 
 | 20230619T17:45:36Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for solving Schelling%s model of segregation. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
-| 20230619T14:21:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5047 | 633| 
 
 
 # backdoor on Github 推荐
