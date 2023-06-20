@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T12:58:41Z | Null | https://github.com/paafff/fuzzy-sugeno-web | 0 | 0| 
 | 20230620T12:39:25Z | Null | https://github.com/luca1337/fuzzy-renderer | 2 | 0| 
 | 20230620T12:34:44Z | Null | https://github.com/pmknbvhuip/fuzzy-fortnight | 0 | 0| 
 | 20230620T10:55:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1437 | 202| 
@@ -139,7 +140,6 @@
 | 20230620T07:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
 | 20230620T05:48:55Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 792 | 107| 
 | 20230620T01:58:33Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
-| 20230620T01:51:51Z | Null | https://github.com/sahilshaikh89/new-srr-fuzzy | 0 | 0| 
 
 
 
