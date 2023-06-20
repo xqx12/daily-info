@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T01:51:51Z | Null | https://github.com/sahilshaikh89/new-srr-fuzzy | 0 | 0| 
 | 20230620T01:25:23Z | A Comprehensive Study on Fuzz Blockers | https://github.com/MelbourneFuzzingHub/fuzz_blockers | 0 | 0| 
 | 20230620T01:14:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 594 | 72| 
 | 20230620T01:05:26Z | Null | https://github.com/NolanClerc/jhead-fuzzer | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230620T00:27:46Z | for fuzzing | https://github.com/SohaLee-code/Biofuzzer | 0 | 0| 
 | 20230619T23:32:24Z | Null | https://github.com/google/fuzztest | 306 | 21| 
 | 20230619T21:36:40Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 2 | 0| 
-| 20230619T21:09:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2180 | 251| 
 
 
 
