@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230620T01:30:49Z | A script to ban players attempting to exploit the server using Nui Devtools | https://github.com/xSisyphusx/Sisyphus_Nui_Denial | 0 | 0| 
+| 20230620T01:32:27Z | A script to ban players attempting to exploit the server using Nui Devtools | https://github.com/xSisyphusx/Sisyphus_Nui_Denial | 0 | 0| 
 | 20230620T01:30:40Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 1| 
 | 20230620T00:49:42Z | 🟢Ready-to-run ETH MEV-BOT🤖 that monitors pending transactions in the Ethereum Mempool🔎 to detect arbitrage opportunities of Uniswap ETH pairs🎯 and exploits them by executing buy/sell operations accordingly.🔁 | https://github.com/MEVLabs/mev-arbitrage-bot | 2 | 1| 
 | 20230620T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99 | 1 | 0| 
