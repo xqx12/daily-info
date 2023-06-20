@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T12:28:26Z | shell finder by tokupensx07! used to scan the backdoor shell that we share only for science!!! if you commit a crime it is beyond our responsibility | https://github.com/tokupens/shellfinder | 0 | 0| 
 | 20230620T11:07:44Z | Null | https://github.com/xnderLAN/tiny_backdoor | 0 | 0| 
 | 20230620T03:15:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1968 | 425| 
 | 20230620T02:34:38Z | Null | https://github.com/Alecsis/minecraft-backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230619T20:00:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 224 | 45| 
 | 20230619T18:15:03Z | Trabalho da disciplina de Sistemas Operacionais I (SSC0640), lecionada pelo Docente Vanderlei Bonato, para o curso de Engenharia de Computação - USP São Carlos. | https://github.com/ISS2718/Backdoor_Driver | 1 | 0| 
 | 20230619T17:00:14Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 148 | 25| 
-| 20230619T14:01:57Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
