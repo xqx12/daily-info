@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:44:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99 | 1 | 0| 
+| 20230620T00:43:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99- | 1 | 0| 
 | 20230620T00:38:08Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 0| 
 | 20230619T23:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 134 | 13| 
 | 20230619T22:30:24Z | Linux syscall implementations, calling conventions, and shellcode examples | https://github.com/lbirchler/sys-call | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230619T21:47:40Z | CVE-2018-19320 LPE Exploit | https://github.com/hmnthabit/CVE-2018-19320-LPE | 6 | 2| 
 | 20230619T17:45:36Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for solving Schelling%s model of segregation. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
 | 20230619T14:21:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5047 | 633| 
-| 20230619T12:51:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-upmz-W13h5-afford-exploit | 0 | 0| 
-| 20230619T12:43:22Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 634 | 38| 
 
 
 # backdoor on Github 推荐
