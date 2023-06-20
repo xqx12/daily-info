@@ -130,9 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:07:30Z | Special Topics in Software Engineering By Kyungpook National University, Master%s 1st year 1st semester, Reference By Fuzzingbook | https://github.com/MJung-Jo/Learning-Fuzzing | 0 | 0| 
 | 20230619T23:32:24Z | Null | https://github.com/google/fuzztest | 306 | 21| 
 | 20230619T21:36:40Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 2 | 0| 
-| 20230619T20:52:56Z | Special Topics in Software Engineering By Kyungpook National University, Master%s 1st year 1st semester, Reference By Fuzzingbook | https://github.com/MJung-Jo/Learning-Fuzzing | 0 | 0| 
 | 20230619T20:34:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
 | 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
 | 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
