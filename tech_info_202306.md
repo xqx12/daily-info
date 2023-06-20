@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:32:46Z | Null | https://github.com/Man1ish/fuzzerapplication | 0 | 0| 
 | 20230620T00:30:18Z | Null | https://github.com/CaioCastro00/Fuzzy_grades | 0 | 0| 
 | 20230620T00:27:49Z | Special Topics in Software Engineering By Kyungpook National University, Master%s 1st year 1st semester, Reference By Fuzzingbook | https://github.com/MJung-Jo/Learning-Fuzzing | 0 | 0| 
 | 20230620T00:27:46Z | for fuzzing | https://github.com/SohaLee-code/Biofuzzer | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230619T14:15:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3664 | 435| 
 | 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
 | 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
-| 20230619T10:41:35Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 
 
 
