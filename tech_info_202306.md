@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:04:51Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230619T23:56:42Z | CVE-2021-22911 | Null | https://github.com/overgrowncarrot1/CVE-2021-22911 | | 
 | 20230619T22:25:09Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 | 20230619T22:10:09Z | CVE-2023-2833 | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | | 
@@ -33,7 +34,6 @@
 | 20230619T20:30:45Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
 | 20230619T19:50:21Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
 | 20230619T16:30:06Z | CVE-2023-30212 | Null | https://github.com/arunsnap/CVE-2023-30212-POC | | 
-| 20230619T14:36:47Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230619T12:57:44Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test2-CVE-2023-29325 | | 
 | 20230619T12:44:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
@@ -132,6 +132,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230619T23:32:24Z | Null | https://github.com/google/fuzztest | 306 | 21| 
 | 20230619T21:36:40Z | Blogpost about optimizing binary-only fuzzing with AFL++ | https://github.com/airbus-seclab/AFLplusplus-blogpost | 2 | 0| 
+| 20230619T20:52:56Z | Special Topics in Software Engineering By Kyungpook National University, Master%s 1st year 1st semester, Reference By Fuzzingbook | https://github.com/MJung-Jo/Learning-Fuzzing | 0 | 0| 
 | 20230619T20:34:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
 | 20230619T11:48:51Z | Null | https://github.com/bhaveshkumar02/fuzzy-invention | 0 | 0| 
 | 20230619T11:00:26Z | fuzzy_wadlle | https://github.com/joanatasFernandes/fuzzy_wadlle | 0 | 1| 
@@ -139,7 +140,6 @@
 | 20230619T10:05:32Z | Null | https://github.com/theyoge/AI-Fuzzing | 0 | 0| 
 | 20230619T09:17:51Z | Null | https://github.com/fortinet-fortisoar/connector-fuzzy-search | 0 | 1| 
 | 20230619T08:46:28Z | Dictionary for penetration testers happy hacker  | https://github.com/a3vilc0de/PentesterSpecialDict | 1200 | 263| 
-| 20230619T08:39:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2174 | 276| 
 
 
 
