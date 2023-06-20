@@ -49,10 +49,10 @@
 | 20230619T22:04:02Z | Advanced dork Search &amp; Mass Exploit Scanner. | https://github.com/flavespale/ATSCAN | 0 | 0| 
 | 20230619T21:47:40Z | CVE-2018-19320 LPE Exploit | https://github.com/hmnthabit/CVE-2018-19320-LPE | 6 | 2| 
 | 20230619T17:45:36Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for solving Schelling%s model of segregation. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
+| 20230619T14:21:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5047 | 633| 
 | 20230619T12:51:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-upmz-W13h5-afford-exploit | 0 | 0| 
 | 20230619T12:43:22Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 634 | 38| 
 | 20230619T12:31:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5244 | 741| 
-| 20230619T12:21:30Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-PjqaQ-defend-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
