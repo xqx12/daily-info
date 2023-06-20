@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230620T12:38:44Z | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract security. | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | 0 | 0| 
+| 20230620T12:40:39Z | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract security. | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | 0 | 0| 
 | 20230620T12:12:23Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 1| 
 | 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
 | 20230620T11:38:38Z | fully advance and powerful android rat 2023 | https://github.com/thepowerraj/SNK-RAT | 40 | 2| 
