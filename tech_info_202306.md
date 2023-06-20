@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230620 | SecWiki周刊（第485期) | https://www.sec-wiki.com/weekly/485| 
 | 20230617 | 针对二维码解析库的 Fuzzing 测试 | https://mp.weixin.qq.com/s/w6und9w0CAlcISrrJX4vnA| 
 | 20230617 | 基于Cssom的暗链检测技术 | https://mp.weixin.qq.com/s/2n2QPkuChzTCezseMHIwMQ| 
 | 20230617 | 从模糊测试到源码定位：探索 Go 库中的 bug | https://xz.aliyun.com/t/12611| 
@@ -20,27 +21,27 @@
 | 20230616 | 2022年网络安全公司研发投入、研发薪酬分析 | https://mp.weixin.qq.com/s/591RHcJGe_GTkyGjk-dy3g| 
 | 20230615 | Collection of works, presentations, blogpost, etc for Qili... | https://github.com/qilingframework/qiling/issues/134| 
 | 20230615 | 关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿） | https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg| 
-| 20230615 | 企业网络安全预算场景下的风险量化评估探索与研究 | https://mp.weixin.qq.com/s/Sj8v2CAW7j70ZjMv8a-OGQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230620T11:23:00Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
+| 20230620T11:17:35Z | CVE-2023-30212 | Null | https://github.com/AAsh035/CVE-2023-30212 | | 
+| 20230620T10:03:17Z | cve-2023-33476 | Exploits for a heap overflow in MiniDLNA <=1.3.2 (CVE-2023-33476) | https://github.com/mellow-hype/cve-2023-33476 | | 
+| 20230620T09:25:50Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
+| 20230620T09:08:40Z | CVE-2023-30212 | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212- | | 
+| 20230620T08:53:15Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln | | 
+| 20230620T08:18:43Z | CVE-2023-30212 | Null | https://github.com/VisDev23/Vulnerable-Docker-CVE-2023-30212 | | 
+| 20230620T08:10:50Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
 | 20230620T01:49:01Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 | 20230620T01:30:40Z | CVE-2023-22809 | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | | 
-| 20230620T01:05:19Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
-| 20230620T00:14:49Z | CVE-2023-29343 | Null | https://github.com/Wh04m1001/CVE-2023-29343 | | 
-| 20230620T00:14:46Z | CVE-2023-20178 | Null | https://github.com/Wh04m1001/CVE-2023-20178 | | 
-| 20230620T00:04:51Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
-| 20230619T23:56:42Z | CVE-2021-22911 | Null | https://github.com/overgrowncarrot1/CVE-2021-22911 | | 
-| 20230619T22:10:09Z | CVE-2023-2833 | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | | 
-| 20230619T16:30:06Z | CVE-2023-30212 | Null | https://github.com/arunsnap/CVE-2023-30212-POC | | 
-| 20230619T12:57:44Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test2-CVE-2023-29325 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
 | 20230619T01:15:48Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
 | 20230618T21:01:09Z | Hack Davis 2023 project.  | https://github.com/brody2002/KleenKuts | 0 | 0| 
 | 20230618T03:59:53Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1008 | 43| 
@@ -50,14 +51,14 @@
 | 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
 | 20230614T09:51:28Z | Null | https://github.com/CakeZaddy/KleenKodah | 0 | 0| 
 | 20230613T11:44:45Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 34 | 1| 
-| 20230613T04:30:13Z | Null | https://github.com/hoverloD/klee-helper | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T08:39:52Z | Sleep to earn | https://github.com/tinehtun/S2E | 7 | 0| 
+| 20230620T04:17:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 344 | 80| 
 | 20230619T11:17:53Z | Null | https://github.com/theflutter/s2ev-serviceprovider- | 0 | 0| 
-| 20230618T00:24:36Z | Sleep to earn | https://github.com/tinehtun/S2E | 18 | 0| 
 | 20230617T08:36:36Z | %Study To Evolve% React Native app - Backend | https://github.com/jparraporcar/s2e-backend | 0 | 0| 
 | 20230617T07:02:50Z | %Study To Evolve% React Native app - Frontend | https://github.com/jparraporcar/s2e | 0 | 0| 
 | 20230616T14:14:28Z | Null | https://github.com/skyjoo/S2email | 0 | 0| 
@@ -65,37 +66,36 @@
 | 20230616T13:52:15Z | Null | https://github.com/haneuljoo/S2emaillll | 0 | 0| 
 | 20230616T13:34:17Z | Null | https://github.com/haneuljoo/S2emaill | 0 | 0| 
 | 20230616T13:23:31Z | Null | https://github.com/haneuljoo/S2exhibitionplaces | 0 | 0| 
-| 20230616T13:03:01Z | Null | https://github.com/haneuljoo/S2Email | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230620T01:56:55Z | A script to ban players attempting to exploit the server using Nui Devtools | https://github.com/xSisyphusx/Sisyphus_Nui_Denial | 1 | 0| 
-| 20230620T01:30:40Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 1| 
-| 20230620T00:49:42Z | 🟢Ready-to-run ETH MEV-BOT🤖 that monitors pending transactions in the Ethereum Mempool🔎 to detect arbitrage opportunities of Uniswap ETH pairs🎯 and exploits them by executing buy/sell operations accordingly.🔁 | https://github.com/MEVLabs/mev-arbitrage-bot | 2 | 1| 
-| 20230620T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99 | 1 | 0| 
-| 20230620T00:44:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99 | 1 | 0| 
-| 20230620T00:43:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99- | 1 | 0| 
-| 20230619T23:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 134 | 13| 
-| 20230619T22:30:24Z | Linux syscall implementations, calling conventions, and shellcode examples | https://github.com/lbirchler/sys-call | 0 | 0| 
-| 20230619T22:10:09Z | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | 0 | 1| 
-| 20230619T22:04:02Z | Advanced dork Search &amp; Mass Exploit Scanner. | https://github.com/flavespale/ATSCAN | 0 | 0| 
+| 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
+| 20230620T11:45:29Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 0| 
+| 20230620T11:38:38Z | fully advance and powerful android rat 2023 | https://github.com/thepowerraj/SNK-RAT | 40 | 2| 
+| 20230620T11:26:27Z | Apuntes y ejercicios resueltos del curso de Creación de Exploits de HackBySecurity Academy | https://github.com/samu-delucas/hbsacademy-csce | 0 | 0| 
+| 20230620T10:05:37Z | List of payloads and wordlists that are specifically crafted to identify and exploit vulnerabilities in target web applications. | https://github.com/InfoSecWarrior/Offensive-Payloads | 80 | 31| 
+| 20230620T09:59:05Z | Null | https://github.com/heliobatimarqui/exploit | 0 | 0| 
+| 20230620T09:47:57Z | work on external dunno about internal | https://github.com/vaavy/fortnite-exploits | 0 | 0| 
+| 20230620T09:28:45Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 519 | 40| 
+| 20230620T09:22:23Z | Config files for my GitHub profile. | https://github.com/VScriptzExploitz/VScriptzExploitz | 0 | 0| 
+| 20230620T08:54:54Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 135 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T11:07:44Z | Null | https://github.com/xnderLAN/tiny_backdoor | 0 | 0| 
+| 20230620T03:15:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1968 | 425| 
+| 20230620T02:34:38Z | Null | https://github.com/Alecsis/minecraft-backdoor | 0 | 0| 
 | 20230620T01:02:40Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
 | 20230619T23:28:47Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T20:56:02Z | Backdoor AI is an experimental AI JavaScript tool. We%re looking for contributors! If interested, contact me via my Discord: Rabbitgworl69#1827 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230619T20:00:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 224 | 45| 
 | 20230619T18:15:03Z | Trabalho da disciplina de Sistemas Operacionais I (SSC0640), lecionada pelo Docente Vanderlei Bonato, para o curso de Engenharia de Computação - USP São Carlos. | https://github.com/ISS2718/Backdoor_Driver | 1 | 0| 
 | 20230619T17:00:14Z | Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build for evasion. | https://github.com/Drew-Alleman/powershell-backdoor-generator | 148 | 25| 
-| 20230619T14:53:14Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1967 | 425| 
 | 20230619T14:01:57Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 2 | 0| 
-| 20230619T12:13:46Z | Null | https://github.com/Ysoni9919/Backdoor | 0 | 0| 
-| 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T10:55:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1437 | 202| 
+| 20230620T10:43:36Z | #include<iostream>  using namespace std;  int main() {     int n, m, k;     int **a = creat(n, m); //создаем и заполняем матрицу а     // n - кол-во строк, n2 - макс. возможное     int n2 = 2 * n;     print(a, n, m); //выводим первоначальный массив      cout << %k = %; } | https://github.com/dc554335/fuzzy-octo-fishstick | 0 | 0| 
+| 20230620T09:49:08Z | Null | https://github.com/dazobmosker64/fuzzy-octo-dollop | 0 | 0| 
+| 20230620T09:39:21Z | Null | https://github.com/N0B1KUN/fuzzy | 0 | 0| 
+| 20230620T07:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
+| 20230620T05:48:55Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 792 | 107| 
 | 20230620T01:58:33Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
 | 20230620T01:51:51Z | Null | https://github.com/sahilshaikh89/new-srr-fuzzy | 0 | 0| 
 | 20230620T01:25:23Z | A Comprehensive Study on Fuzz Blockers | https://github.com/MelbourneFuzzingHub/fuzz_blockers | 0 | 0| 
 | 20230620T01:14:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 594 | 72| 
-| 20230620T01:05:26Z | Null | https://github.com/NolanClerc/jhead-fuzzer | 0 | 0| 
-| 20230620T00:32:46Z | Null | https://github.com/Man1ish/fuzzerapplication | 0 | 0| 
-| 20230620T00:30:18Z | Null | https://github.com/CaioCastro00/Fuzzy_grades | 0 | 0| 
-| 20230620T00:27:49Z | Special Topics in Software Engineering By Kyungpook National University, Master%s 1st year 1st semester, Reference By Fuzzingbook | https://github.com/MJung-Jo/Learning-Fuzzing | 0 | 0| 
-| 20230620T00:27:46Z | for fuzzing | https://github.com/SohaLee-code/Biofuzzer | 0 | 0| 
-| 20230619T23:32:24Z | Null | https://github.com/google/fuzztest | 306 | 21| 
 
 
 
