@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:38:08Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 0| 
 | 20230619T23:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 134 | 13| 
 | 20230619T22:30:24Z | Linux syscall implementations, calling conventions, and shellcode examples | https://github.com/lbirchler/sys-call | 0 | 0| 
 | 20230619T22:10:09Z | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | 0 | 1| 
@@ -80,7 +81,6 @@
 | 20230619T14:21:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5047 | 633| 
 | 20230619T12:51:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-upmz-W13h5-afford-exploit | 0 | 0| 
 | 20230619T12:43:22Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 634 | 38| 
-| 20230619T12:31:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5244 | 741| 
 
 
 # backdoor on Github 推荐
