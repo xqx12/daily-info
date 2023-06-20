@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T12:39:25Z | Null | https://github.com/luca1337/fuzzy-renderer | 2 | 0| 
 | 20230620T12:34:44Z | Null | https://github.com/pmknbvhuip/fuzzy-fortnight | 0 | 0| 
 | 20230620T10:55:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1437 | 202| 
 | 20230620T10:43:36Z | #include<iostream>  using namespace std;  int main() {     int n, m, k;     int **a = creat(n, m); //создаем и заполняем матрицу а     // n - кол-во строк, n2 - макс. возможное     int n2 = 2 * n;     print(a, n, m); //выводим первоначальный массив      cout << %k = %; } | https://github.com/dc554335/fuzzy-octo-fishstick | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230620T05:48:55Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 792 | 107| 
 | 20230620T01:58:33Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
 | 20230620T01:51:51Z | Null | https://github.com/sahilshaikh89/new-srr-fuzzy | 0 | 0| 
-| 20230620T01:25:23Z | A Comprehensive Study on Fuzz Blockers | https://github.com/MelbourneFuzzingHub/fuzz_blockers | 0 | 0| 
 
 
 
