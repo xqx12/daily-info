@@ -75,7 +75,7 @@
 | 20230620T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:44:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:43:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99- | 1 | 0| 
-| 20230620T00:38:08Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 0| 
+| 20230620T00:38:08Z | Analysis & Exploit | https://github.com/Chan9Yan9/CVE-2023-22809 | 0 | 1| 
 | 20230619T23:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 134 | 13| 
 | 20230619T22:30:24Z | Linux syscall implementations, calling conventions, and shellcode examples | https://github.com/lbirchler/sys-call | 0 | 0| 
 | 20230619T22:10:09Z | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | 0 | 1| 
