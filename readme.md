@@ -81,7 +81,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230619T22:09:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 691 | 109| 
 | 20230619T09:28:29Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 83 | 28| 
 | 20230619T04:45:33Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 52 | 3| 
 | 20230619T02:54:41Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 23 | 1| 
