@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T00:49:42Z | 🟢Ready-to-run ETH MEV-BOT🤖 that monitors pending transactions in the Ethereum Mempool🔎 to detect arbitrage opportunities of Uniswap ETH pairs🎯 and exploits them by executing buy/sell operations accordingly.🔁 | https://github.com/MEVLabs/mev-arbitrage-bot | 2 | 1| 
 | 20230620T00:45:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:44:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99 | 1 | 0| 
 | 20230620T00:43:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99- | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230619T22:10:09Z | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | 0 | 1| 
 | 20230619T22:04:02Z | Advanced dork Search &amp; Mass Exploit Scanner. | https://github.com/flavespale/ATSCAN | 0 | 0| 
 | 20230619T21:47:40Z | CVE-2018-19320 LPE Exploit | https://github.com/hmnthabit/CVE-2018-19320-LPE | 6 | 2| 
-| 20230619T17:45:36Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for solving Schelling%s model of segregation. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
 
 
 # backdoor on Github 推荐
