@@ -19,13 +19,13 @@
 | 20230619T23:56:42Z | CVE-2021-22911 | Null | https://github.com/overgrowncarrot1/CVE-2021-22911 | | 
 | 20230619T22:25:09Z | CVE-2022-44666 | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | https://github.com/j00sean/CVE-2022-44666 | | 
 | 20230619T22:10:09Z | CVE-2023-2833 | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX  | https://github.com/Alucard0x1/CVE-2023-2833 | | 
-| 20230619T21:30:19Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
 | 20230619T16:30:06Z | CVE-2023-30212 | Null | https://github.com/arunsnap/CVE-2023-30212-POC | | 
 | 20230619T12:57:44Z | CVE-2023-29325 | Null | https://github.com/a-bazi/test2-CVE-2023-29325 | | 
 | 20230619T12:44:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230619T12:37:09Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230619T10:24:44Z | CVE-2023-24078 | CVE-2023-24078 for FuguHub / BarracudaDrive | https://github.com/overgrowncarrot1/CVE-2023-24078 | | 
 | 20230619T10:15:51Z | CVE-2023-34362 | Repository with everything I have tracking the impact of MOVEit CVE-2023-34362 | https://github.com/kenbuckler/MOVEit-CVE-2023-34362 | | 
+| 20230619T07:56:18Z | CVE-2023-23333 | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | https://github.com/Mr-xn/CVE-2023-23333 | | 
 
 
 # klee on Github 推荐
