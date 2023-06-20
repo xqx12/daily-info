@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T01:02:40Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
 | 20230619T23:28:47Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 0 | 0| 
 | 20230619T20:56:02Z | Backdoor AI is an experimental AI JavaScript tool. We%re looking for contributors! If interested, contact me via my Discord: Rabbitgworl69#1827 | https://github.com/L4CTOSE/Backdoor | 1 | 0| 
 | 20230619T20:00:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 224 | 45| 
@@ -95,7 +96,6 @@
 | 20230619T14:01:57Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 2 | 0| 
 | 20230619T12:13:46Z | Null | https://github.com/Ysoni9919/Backdoor | 0 | 0| 
 | 20230619T12:11:24Z | Null | https://github.com/EuanScottWatson/NLP-Dynamic-Backdoor-Attack | 0 | 0| 
-| 20230619T10:31:32Z | A repo containing c++ source code for a malicious dll which adds a backdoor user. Useful for CTF%s where DLL injection is viable. | https://github.com/gustanini/DLL-Hijack-POC | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
