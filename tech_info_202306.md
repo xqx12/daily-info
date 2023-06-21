@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230621T12:31:38Z | CVE-2021-46704 | CVE-2021-46704 GenieACS Command Injection POC | https://github.com/MithatGuner/CVE-2021-46704-POC | | 
 | 20230621T11:35:42Z | CVE-2023-2249 | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | | 
 | 20230621T11:26:01Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230621T11:17:39Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
@@ -35,7 +36,6 @@
 | 20230621T07:03:44Z | CVE-2023-30347 | Reflected Cross-Site-Scripting | https://github.com/huzefa2212/CVE-2023-30347 | | 
 | 20230621T03:12:21Z | CVE-2020-0917 | Hyper-V 1-day Exploit: CVE-2020-0917 | https://github.com/L0ch/CVE-2020-0917_Exploit | | 
 | 20230620T20:17:13Z | CVE-2023-34584 | Null | https://github.com/fu2x2000/-CVE-2023-34584 | | 
-| 20230620T18:57:16Z | CVE-2023-33404 | Null | https://github.com/hacip/CVE-2023-33404 | | 
 
 
 # klee on Github 推荐
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T12:32:22Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 473 | 69| 
 | 20230621T11:28:48Z | Null | https://github.com/CsEnox/OSX-Exploitation | 0 | 0| 
 | 20230621T11:27:51Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1001 | 201| 
 | 20230621T09:39:17Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 519 | 40| 
@@ -80,7 +81,6 @@
 | 20230621T08:09:59Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-l-adl-exploit-qualify | 0 | 0| 
 | 20230621T05:41:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 665 | 172| 
 | 20230621T01:28:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5064 | 635| 
-| 20230621T01:20:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-86 | 0 | 0| 
 
 
 # backdoor on Github 推荐
