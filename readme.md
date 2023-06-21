@@ -84,10 +84,10 @@
 | 20230621T10:13:20Z | Null | https://github.com/pflnbdhui/fuzzy-guacamole | 0 | 0| 
 | 20230621T10:11:53Z | solidity trials and fuzzing | https://github.com/edbertkwesiek/ideal-octo-barnacle | 0 | 0| 
 | 20230621T10:09:50Z | Null | https://github.com/dadashrezak5/fuzzy-octo-train | 0 | 0| 
+| 20230621T08:37:11Z | Null | https://github.com/CISPA-SysSec/fuzzing-restarts | 0 | 0| 
 | 20230621T00:53:41Z | Run TAs outside the Secure world for binary-only fuzzing. Project for Samsung Electronics internship, Spring 2023. | https://github.com/juhyun167/dta | 1 | 0| 
 | 20230621T00:29:03Z | Null | https://github.com/lastherofigytebe31/fuzzy-octo-giggle | 8 | 8| 
 | 20230621T00:24:12Z | Null | https://github.com/ironshaper-lasthuman/fuzzy-happiness | 7 | 7| 
-| 20230621T00:15:50Z | Null | https://github.com/VenRoot/FuzzyTalkApp | 0 | 0| 
 
 
 
