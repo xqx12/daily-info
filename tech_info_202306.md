@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T01:20:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-86 | 0 | 0| 
+| 20230621T01:19:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-86 | 0 | 0| 
 | 20230621T01:17:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-86 | 0 | 0| 
 | 20230621T00:36:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5063 | 635| 
 | 20230620T23:48:57Z | POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability | https://github.com/0xeremus/dirty-pipe-poc | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230620T19:58:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5080 | 997| 
 | 20230620T14:01:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
 | 20230620T12:40:39Z | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract security. | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | 0 | 0| 
-| 20230620T12:12:23Z | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | 0 | 1| 
-| 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
 
 
 # backdoor on Github 推荐
