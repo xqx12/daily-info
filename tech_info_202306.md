@@ -29,11 +29,11 @@
 | 20230621T11:35:42Z | CVE-2023-2249 | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | | 
 | 20230621T11:26:01Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230621T11:17:39Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
+| 20230621T10:23:21Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230621T07:07:11Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
 | 20230621T07:05:16Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln | | 
 | 20230621T07:03:44Z | CVE-2023-30347 | Reflected Cross-Site-Scripting | https://github.com/huzefa2212/CVE-2023-30347 | | 
 | 20230621T03:12:21Z | CVE-2020-0917 | Hyper-V 1-day Exploit: CVE-2020-0917 | https://github.com/L0ch/CVE-2020-0917_Exploit | | 
-| 20230620T22:22:24Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230620T20:17:13Z | CVE-2023-34584 | Null | https://github.com/fu2x2000/-CVE-2023-34584 | | 
 | 20230620T18:57:16Z | CVE-2023-33404 | Null | https://github.com/hacip/CVE-2023-33404 | | 
 
