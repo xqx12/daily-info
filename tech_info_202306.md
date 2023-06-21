@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230621T00:34:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5062 | 635| 
+| 20230621T00:36:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5063 | 635| 
 | 20230620T23:48:57Z | POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability | https://github.com/0xeremus/dirty-pipe-poc | 0 | 0| 
 | 20230620T23:38:06Z | Null | https://github.com/SBCB-Quest021/BlooketExploit | 0 | 0| 
 | 20230620T20:59:24Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 56 | 2| 
