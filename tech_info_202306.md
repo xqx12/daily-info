@@ -71,10 +71,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T01:28:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5064 | 635| 
 | 20230621T01:20:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-86 | 0 | 0| 
 | 20230621T01:19:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-86 | 0 | 0| 
 | 20230621T01:17:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-86 | 0 | 0| 
-| 20230621T00:36:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5063 | 635| 
 | 20230620T23:48:57Z | POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability | https://github.com/0xeremus/dirty-pipe-poc | 0 | 0| 
 | 20230620T23:38:06Z | Null | https://github.com/SBCB-Quest021/BlooketExploit | 0 | 0| 
 | 20230620T20:59:24Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 56 | 2| 
