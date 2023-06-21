@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T12:49:29Z | Field Service Manual with advanced data exploitation | https://github.com/DeepBlueCLtd/Fi3ldMan | 0 | 1| 
 | 20230621T12:32:22Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 473 | 69| 
 | 20230621T11:28:48Z | Null | https://github.com/CsEnox/OSX-Exploitation | 0 | 0| 
 | 20230621T11:27:51Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1001 | 201| 
@@ -80,7 +81,6 @@
 | 20230621T08:49:46Z | Shellshock is a vulnerability that allows systems containing a vulnerable version of Bash to be exploited to execute commands with higher privileges. This allows attackers to potentially take over that system. In the demo, we will learn how to detect and exploit such vulnerabilities in a given target. | https://github.com/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability | 0 | 1| 
 | 20230621T08:09:59Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-l-adl-exploit-qualify | 0 | 0| 
 | 20230621T05:41:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 665 | 172| 
-| 20230621T01:28:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5064 | 635| 
 
 
 # backdoor on Github 推荐
