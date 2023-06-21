@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T23:53:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5060 | 635| 
 | 20230620T23:48:57Z | POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability | https://github.com/0xeremus/dirty-pipe-poc | 0 | 0| 
 | 20230620T23:38:06Z | Null | https://github.com/SBCB-Quest021/BlooketExploit | 0 | 0| 
 | 20230620T20:59:24Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 56 | 2| 
@@ -65,7 +66,6 @@
 | 20230620T11:55:17Z | A repository of vulnerable code challenges that contains solution to exploit and fix | https://github.com/amir-h-fallahi/code_challenge | 1 | 0| 
 | 20230620T11:38:38Z | fully advance and powerful android rat 2023 | https://github.com/thepowerraj/SNK-RAT | 40 | 2| 
 | 20230620T11:26:27Z | Apuntes y ejercicios resueltos del curso de Creación de Exploits de HackBySecurity Academy | https://github.com/samu-delucas/hbsacademy-csce | 0 | 0| 
-| 20230620T10:05:37Z | List of payloads and wordlists that are specifically crafted to identify and exploit vulnerabilities in target web applications. | https://github.com/InfoSecWarrior/Offensive-Payloads | 80 | 31| 
 
 
 # backdoor on Github 推荐
