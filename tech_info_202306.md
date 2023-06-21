@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T00:15:50Z | Null | https://github.com/VenRoot/FuzzyTalkApp | 0 | 0| 
 | 20230621T00:06:21Z | Null | https://github.com/bubliktune2001/fuzzy-octo-fiesta | 0 | 0| 
 | 20230621T00:04:15Z | Null | https://github.com/zg84t1z4ssyjdsa/fuzzy-winner | 0 | 0| 
 | 20230621T00:03:51Z | Null | https://github.com/woottpp/fuzzy-sniffle | 1 | 1| 
@@ -139,7 +140,6 @@
 | 20230620T23:35:57Z | Atividade de Inteligência Artificial, ultilizando método Fuzzy  | https://github.com/oLoouiz/Frases-em-Fuzzy | 0 | 0| 
 | 20230620T23:14:23Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 0 | 0| 
 | 20230620T22:00:48Z | Null | https://github.com/Humblecletus/fuzzy-engine | 0 | 0| 
-| 20230620T21:25:49Z | Fuzzing the JPacman application | https://github.com/lunageens/JPacmanFuzz | 0 | 0| 
 
 
 
