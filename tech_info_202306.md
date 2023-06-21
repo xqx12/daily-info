@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T00:53:41Z | Run TAs outside the Secure world for binary-only fuzzing. Project for Samsung Electronics internship, Spring 2023. | https://github.com/juhyun167/dta | 1 | 0| 
 | 20230621T00:29:03Z | Null | https://github.com/lastherofigytebe31/fuzzy-octo-giggle | 8 | 8| 
 | 20230621T00:24:12Z | Null | https://github.com/ironshaper-lasthuman/fuzzy-happiness | 7 | 7| 
 | 20230621T00:15:50Z | Null | https://github.com/VenRoot/FuzzyTalkApp | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230621T00:03:25Z | Null | https://github.com/strozzigillian/fuzzy-chainsaw | 0 | 0| 
 | 20230620T23:56:27Z | Null | https://github.com/bladewoodelk-2001/fuzzy-octo-telegram | 0 | 0| 
 | 20230620T23:42:52Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 96 | 6| 
-| 20230620T23:35:57Z | Atividade de Inteligência Artificial, ultilizando método Fuzzy  | https://github.com/oLoouiz/Frases-em-Fuzzy | 0 | 0| 
 
 
 
