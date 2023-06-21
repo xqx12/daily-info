@@ -79,8 +79,8 @@
 | 20230620T23:38:06Z | Null | https://github.com/SBCB-Quest021/BlooketExploit | 0 | 0| 
 | 20230620T20:59:24Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 56 | 2| 
 | 20230620T19:58:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5080 | 997| 
+| 20230620T18:44:01Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 31 | 14| 
 | 20230620T14:01:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
-| 20230620T12:40:39Z | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract security. | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | 0 | 0| 
 
 
 # backdoor on Github 推荐
