@@ -71,9 +71,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T22:04:56Z | Null | https://github.com/xnderLAN/tiny_backdoor | 1 | 0| 
+| 20230620T19:46:42Z | A lockpick for backdoors on Phicomm routers -- ported to Rust! | https://github.com/oblivia-simplex/backdoor-locksmith | 0 | 0| 
 | 20230620T12:53:01Z | This is a wonderful powerful backdoor Made by PS4 SPIDEY THAT IS ME I AM A ETHICAL HACKER So carefully | https://github.com/PS4SPIDEY/PS4payload | 0 | 0| 
 | 20230620T12:30:00Z | shell finder by tokupensx07! used to scan the backdoor shell that we share only for science!!! if you commit a crime it is beyond our responsibility | https://github.com/tokupens/shellfinder | 0 | 0| 
-| 20230620T11:07:44Z | Null | https://github.com/xnderLAN/tiny_backdoor | 0 | 0| 
 | 20230620T03:15:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1968 | 425| 
 | 20230620T02:34:38Z | Null | https://github.com/Alecsis/minecraft-backdoor | 0 | 0| 
 | 20230620T01:02:40Z | Null | https://github.com/navin604/Covert-Backdoor | 0 | 0| 
@@ -98,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230620T23:56:27Z | Null | https://github.com/bladewoodelk-2001/fuzzy-octo-telegram | 0 | 0| 
+| 20230620T23:42:52Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 96 | 6| 
+| 20230620T23:35:57Z | Atividade de Inteligência Artificial, ultilizando método Fuzzy  | https://github.com/oLoouiz/Frases-em-Fuzzy | 0 | 0| 
+| 20230620T23:14:23Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 0 | 0| 
+| 20230620T22:00:48Z | Null | https://github.com/Humblecletus/fuzzy-engine | 0 | 0| 
+| 20230620T21:25:49Z | Fuzzing the JPacman application | https://github.com/lunageens/JPacmanFuzz | 0 | 0| 
+| 20230620T18:50:17Z | Null | https://github.com/R-Navarro7/fuzzy_2 | 0 | 0| 
 | 20230620T12:58:41Z | Null | https://github.com/paafff/fuzzy-sugeno-web | 0 | 0| 
 | 20230620T12:39:25Z | Null | https://github.com/luca1337/fuzzy-renderer | 2 | 0| 
 | 20230620T12:34:44Z | Null | https://github.com/pmknbvhuip/fuzzy-fortnight | 0 | 0| 
-| 20230620T10:55:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1437 | 202| 
-| 20230620T10:43:36Z | #include<iostream>  using namespace std;  int main() {     int n, m, k;     int **a = creat(n, m); //создаем и заполняем матрицу а     // n - кол-во строк, n2 - макс. возможное     int n2 = 2 * n;     print(a, n, m); //выводим первоначальный массив      cout << %k = %; } | https://github.com/dc554335/fuzzy-octo-fishstick | 0 | 0| 
-| 20230620T09:49:08Z | Null | https://github.com/dazobmosker64/fuzzy-octo-dollop | 0 | 0| 
-| 20230620T09:39:21Z | Null | https://github.com/N0B1KUN/fuzzy | 0 | 0| 
-| 20230620T07:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8743 | 1924| 
-| 20230620T05:48:55Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 792 | 107| 
-| 20230620T01:58:33Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
 
 
 
