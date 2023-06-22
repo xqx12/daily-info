@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T01:19:15Z | Null | https://github.com/Gordon-Lee/fuzzy-journey | 0 | 0| 
 | 20230622T00:54:29Z | Null | https://github.com/cjiohukbiggie-2001/fuzzy-octo-spoon | 0 | 0| 
 | 20230622T00:30:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8749 | 1923| 
 | 20230622T00:23:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5023 | 525| 
@@ -140,7 +141,6 @@
 | 20230621T23:13:10Z | Fuzzy-Logic | https://github.com/abdelfattah99/Fuzzy-Logic | 0 | 0| 
 | 20230621T21:27:22Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 1 | 1| 
 | 20230621T21:25:24Z | Null | https://github.com/raydenebbejonasson6/fuzzy-computing-machine | 0 | 0| 
-| 20230621T21:20:14Z | rustc fuzzer using Mid-level Intermediate Representation | https://github.com/cbeuw/rustlantis | 0 | 0| 
 
 
 
