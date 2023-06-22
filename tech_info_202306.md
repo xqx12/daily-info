@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230622 | 记一次四层内网攻防渗透测试大实验 | https://xz.aliyun.com/t/12614| 
 | 20230621 | 利用GPT自动化生成Nuclei的POC | https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q| 
 | 20230621 | js引擎检测及热部署的OpenRASP学习 | https://xz.aliyun.com/t/12613| 
 | 20230620 | SecWiki周刊（第485期) | https://www.sec-wiki.com/weekly/485| 
@@ -20,37 +21,36 @@
 | 20230620 | suricata-verify: Suricata Verification Tests | https://github.com/OISF/suricata-verify| 
 | 20230620 | 我国《数据安全法》生效以来行政执法情况报告 | https://mp.weixin.qq.com/s/_upeC1BshjAmCF4jGZo3YA| 
 | 20230620 | 2021-2023年因违反《数据安全法》被罚的28个案件梳理 | https://mp.weixin.qq.com/s/LLCTQ2ydH7QdeMBFLIy9iA| 
-| 20230620 | 网络安全中小企业：走专业化道路 | https://mp.weixin.qq.com/s/Qwrq1YqP8mtfsb66FzdN7g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230621T23:31:25Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
+| 20230622T09:34:50Z | CVE-2023-35840 | elFinder < 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | https://github.com/afine-com/CVE-2023-35840 | | 
+| 20230622T06:44:17Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
+| 20230622T05:03:15Z | CVE-2021-46704 | CVE-2021-46704 Nuclei template | https://github.com/Erenlancaster/CVE-2021-46704 | | 
+| 20230622T02:25:14Z | CVE-2023-25610 | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | https://github.com/qi4L/CVE-2023-25610 | | 
 | 20230621T21:23:28Z | CVE-2022-42475 | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | https://github.com/0xhaggis/CVE-2022-42475 | | 
 | 20230621T21:02:20Z | CVE-2021-3064 | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | | 
 | 20230621T12:31:38Z | CVE-2021-46704 | CVE-2021-46704 GenieACS Command Injection POC | https://github.com/MithatGuner/CVE-2021-46704-POC | | 
 | 20230621T11:35:42Z | CVE-2023-2249 | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | | 
 | 20230621T11:26:01Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230621T10:23:21Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
-| 20230621T07:07:11Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
-| 20230621T07:05:16Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln | | 
-| 20230621T07:03:44Z | CVE-2023-30347 | Reflected Cross-Site-Scripting | https://github.com/huzefa2212/CVE-2023-30347 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T06:19:47Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1010 | 43| 
+| 20230622T06:18:13Z | Calculadora de cerradura de kleene, unión, intersección   | https://github.com/HedelGovea/cerradura_de_kleene | 0 | 0| 
 | 20230621T13:32:42Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 1 | 0| 
 | 20230621T08:14:11Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 75 | 18| 
-| 20230620T14:13:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1009 | 43| 
 | 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
 | 20230619T01:15:48Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
 | 20230618T21:01:09Z | Hack Davis 2023 project.  | https://github.com/brody2002/KleenKuts | 0 | 0| 
 | 20230617T10:43:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2257 | 621| 
 | 20230616T04:06:14Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 10 | 5| 
 | 20230615T11:50:22Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 305 | 6| 
-| 20230615T10:31:41Z | 這裡是加字重 Here is the word weight 芫荽，基於 Klee One 改造的學習用台灣繁體字型 Iansui, a traditional Taiwanese font for learning based on Klee One | https://github.com/FWHP-Enfun/Iansui-Expansion | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T10:04:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/my-app-Q-z42-leave-exploit | 0 | 0| 
+| 20230622T09:10:46Z | Demonstration of an Android attack through a vulnerability in Android | https://github.com/MD571/Demonstration-of-Android-Vulnerabilities | 0 | 0| 
+| 20230622T06:23:40Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 32 | 5| 
 | 20230622T01:18:30Z | Null | https://github.com/Test051620110516/Twerk-exploit | 0 | 0| 
 | 20230622T01:13:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:11:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ne | 0 | 0| 
@@ -78,14 +81,13 @@
 | 20230621T23:58:51Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for simulating Schelling%s model of segregation. Its behavior allows it to satisfy all the agents in the grid in less time than usual by exploiting the concurrent execution over more processors or nodes. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
 | 20230621T21:41:35Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 17 | 2| 
 | 20230621T21:23:28Z | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | https://github.com/0xhaggis/CVE-2022-42475 | 0 | 1| 
-| 20230621T21:09:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5082 | 997| 
-| 20230621T21:02:38Z | This is the second version & extension of the terminal interface of the exploiting croissants portofolio. | https://github.com/Kipferl-OS/exploiting-croissants.github.io | 0 | 0| 
-| 20230621T21:02:20Z | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T11:17:21Z | Null | https://github.com/inorogu/Data-free-backdoor | 0 | 0| 
+| 20230622T07:32:22Z | Null | https://github.com/bypasssss/backdoor | 0 | 0| 
 | 20230622T01:47:19Z | Allows the client handler to have co-current backdoor session like metaslploit  | https://github.com/regneisokgen/multi-client-backdoor | 0 | 0| 
 | 20230622T00:38:25Z | A PoC C2 tool utilizing Google Calendar events as a covert channel for communication between attacker and target. | https://github.com/Malwareman007/SyncRAT | 2 | 0| 
 | 20230621T19:32:51Z | Null | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20230621T13:07:57Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230621T13:07:20Z | A lockpick for backdoors on Phicomm routers -- ported to Rust! | https://github.com/oblivia-simplex/backdoor-locksmith | 1 | 0| 
 | 20230621T05:04:57Z | Null | https://github.com/xnderLAN/tiny_backdoor | 2 | 0| 
-| 20230621T03:33:32Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
-| 20230621T00:59:06Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,7 +116,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230621T20:55:42Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 4 | 0| 
+| 20230622T07:07:55Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 6 | 0| 
 | 20230621T20:02:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 696 | 110| 
 | 20230619T09:28:29Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 83 | 28| 
 | 20230619T04:45:33Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 52 | 3| 
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230622T01:19:15Z | Null | https://github.com/Gordon-Lee/fuzzy-journey | 0 | 0| 
-| 20230622T00:54:29Z | Null | https://github.com/cjiohukbiggie-2001/fuzzy-octo-spoon | 0 | 0| 
-| 20230622T00:30:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8749 | 1923| 
-| 20230622T00:23:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5023 | 525| 
-| 20230621T23:50:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2742 | 185| 
-| 20230621T23:27:38Z | Null | https://github.com/jerrypooh41luckycat/fuzzy-dollop | 0 | 0| 
-| 20230621T23:27:15Z | Null | https://github.com/morielmatthew8/fuzzy-palm-tree | 0 | 0| 
-| 20230621T23:13:10Z | Fuzzy-Logic | https://github.com/abdelfattah99/Fuzzy-Logic | 0 | 0| 
-| 20230621T21:27:22Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 1 | 1| 
-| 20230621T21:25:24Z | Null | https://github.com/raydenebbejonasson6/fuzzy-computing-machine | 0 | 0| 
+| 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
+| 20230622T11:21:48Z | Null | https://github.com/milran/fuzzing101-solution | 0 | 0| 
+| 20230622T10:37:55Z | FuzzyOWL, Protége 4.3 and Gurobi installation  | https://github.com/xbielikd/FuzzyOWL2 | 0 | 0| 
+| 20230622T10:07:41Z | Null | https://github.com/dilatationv/fuzzy-palm-tree | 0 | 0| 
+| 20230622T10:00:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1437 | 201| 
+| 20230622T09:56:14Z | Null | https://github.com/skercwengao/fuzzy-goggles | 1 | 0| 
+| 20230622T09:56:13Z | Null | https://github.com/skercwengao/fuzzy-telegram | 1 | 1| 
+| 20230622T09:30:37Z | The IDOR IN works by systematically scanning a target web application and examining various endpoints, parameters, and data access points to identify potential IDOR vulnerabilities. It leverages techniques such as parameter fuzzing, payload injection, and response analysis to detect signs of insecure direct object references. | https://github.com/GManOfficial/IDOR-IN | 0 | 0| 
+| 20230622T09:21:00Z | Null | https://github.com/svenkeidel/example-fuzzing | 0 | 0| 
+| 20230622T07:26:56Z | Fuzzing with Git | https://github.com/Diseno-de-Aplicaciones-Web/cadaver-exquisito-forga-2023 | 0 | 0| 
 
 
 
