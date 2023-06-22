@@ -54,8 +54,8 @@
 | 20230621T21:02:20Z | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | 0 | 0| 
 | 20230621T20:28:21Z | This repository provides an extensive exploration of security vulnerabilities across the United States. The dataset focuses on the CISA Known Exploited Vulnerabilities catalog for 2022, and includes a wide range of vulnerability types, severity levels, CVSS scores, vendor projects, and product names. | https://github.com/Pheelog/CybersecurityRiskAnalysis | 0 | 0| 
 | 20230621T20:18:46Z | A collection of exploit scripts for various CVEs I%ve come across in CTFs, research etc | https://github.com/joedthomas2005/ExploitScripts | 0 | 0| 
+| 20230621T14:39:26Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 202 | 11| 
 | 20230621T13:51:59Z | This toolset incorporates an all round utility envisaged to be used by security researchers in the field. UART-Exploiter - Interactive UART passthrough and Baud Scanner used over FTDI (Requires FTDI cable of choice). ExploitToolFinder - Scowers the internet for commonly used software tools. | https://github.com/exploitsecurityio/ExSecWareZ | 0 | 0| 
-| 20230621T12:49:29Z | Field Service Manual with advanced data exploitation | https://github.com/DeepBlueCLtd/Fi3ldMan | 0 | 1| 
 
 
 # backdoor on Github 推荐
