@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
 | 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 | 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
 | 20230622T10:36:04Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 33 | 15| 
@@ -52,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:53:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 151 | 18| 
 | 20230622T11:17:21Z | Null | https://github.com/inorogu/Data-free-backdoor | 0 | 0| 
 | 20230622T07:32:22Z | Null | https://github.com/bypasssss/backdoor | 0 | 0| 
 | 20230622T01:47:19Z | Allows the client handler to have co-current backdoor session like metaslploit  | https://github.com/regneisokgen/multi-client-backdoor | 0 | 0| 

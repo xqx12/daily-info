@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
 | 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 | 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
 | 20230622T10:36:04Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 33 | 15| 
@@ -80,12 +81,12 @@
 | 20230622T01:13:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:11:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:10:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ne | 0 | 0| 
-| 20230621T23:58:51Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for simulating Schelling%s model of segregation. Its behavior allows it to satisfy all the agents in the grid in less time than usual by exploiting the concurrent execution over more processors or nodes. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:53:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 151 | 18| 
 | 20230622T11:17:21Z | Null | https://github.com/inorogu/Data-free-backdoor | 0 | 0| 
 | 20230622T07:32:22Z | Null | https://github.com/bypasssss/backdoor | 0 | 0| 
 | 20230622T01:47:19Z | Allows the client handler to have co-current backdoor session like metaslploit  | https://github.com/regneisokgen/multi-client-backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230621T17:27:22Z | A docker image analysis tool that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 1 | 0| 
 | 20230621T13:07:57Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230621T13:07:20Z | A lockpick for backdoors on Phicomm routers -- ported to Rust! | https://github.com/oblivia-simplex/backdoor-locksmith | 1 | 0| 
-| 20230621T05:04:57Z | Null | https://github.com/xnderLAN/tiny_backdoor | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
