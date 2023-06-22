@@ -61,7 +61,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230621T21:03:05Z | A PoC C2 tool utilizing Google Calendar events as a covert channel for communication between attacker and target. | https://github.com/Malwareman007/SyncRAT | 1 | 0| 
 | 20230621T19:32:51Z | Null | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 0| 
 | 20230621T18:32:17Z | Code repository for the paper --- [USENIX Security 2023] Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
 | 20230621T17:27:22Z | A docker image analysis tool that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 1 | 0| 
