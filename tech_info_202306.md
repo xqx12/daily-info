@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230621T23:31:25Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
+| 20230621T21:23:28Z | CVE-2022-42475 | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | https://github.com/0xhaggis/CVE-2022-42475 | | 
+| 20230621T21:02:20Z | CVE-2021-3064 | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | | 
 | 20230621T12:31:38Z | CVE-2021-46704 | CVE-2021-46704 GenieACS Command Injection POC | https://github.com/MithatGuner/CVE-2021-46704-POC | | 
 | 20230621T11:35:42Z | CVE-2023-2249 | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | https://github.com/ixiacom/CVE-2023-2249 | | 
 | 20230621T11:26:01Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc T7510 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230621T11:17:39Z | CVE-2023-27997 | Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing | https://github.com/BishopFox/CVE-2023-27997-check | | 
 | 20230621T10:23:21Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230621T07:07:11Z | CVE-2021-30357 | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client  | https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC | | 
 | 20230621T07:05:16Z | CVE-2023-1454 | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln | | 
 | 20230621T07:03:44Z | CVE-2023-30347 | Reflected Cross-Site-Scripting | https://github.com/huzefa2212/CVE-2023-30347 | | 
-| 20230621T03:12:21Z | CVE-2020-0917 | Hyper-V 1-day Exploit: CVE-2020-0917 | https://github.com/L0ch/CVE-2020-0917_Exploit | | 
-| 20230620T20:17:13Z | CVE-2023-34584 | Null | https://github.com/fu2x2000/-CVE-2023-34584 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T13:32:42Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 1 | 0| 
 | 20230621T08:14:11Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 75 | 18| 
-| 20230621T05:38:07Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 1 | 0| 
 | 20230620T14:13:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1009 | 43| 
 | 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
 | 20230619T01:15:48Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230621T23:58:51Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for simulating Schelling%s model of segregation. Its behavior allows it to satisfy all the agents in the grid in less time than usual by exploiting the concurrent execution over more processors or nodes. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
+| 20230621T21:41:35Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 17 | 2| 
+| 20230621T21:23:28Z | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | https://github.com/0xhaggis/CVE-2022-42475 | 0 | 1| 
+| 20230621T21:02:38Z | This is the second version & extension of the terminal interface of the exploiting croissants portofolio. | https://github.com/Kipferl-OS/exploiting-croissants.github.io | 0 | 0| 
+| 20230621T21:02:20Z | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | 0 | 0| 
+| 20230621T20:28:21Z | This repository provides an extensive exploration of security vulnerabilities across the United States. The dataset focuses on the CISA Known Exploited Vulnerabilities catalog for 2022, and includes a wide range of vulnerability types, severity levels, CVSS scores, vendor projects, and product names. | https://github.com/Pheelog/CybersecurityRiskAnalysis | 0 | 0| 
+| 20230621T20:18:46Z | A collection of exploit scripts for various CVEs I%ve come across in CTFs, research etc | https://github.com/joedthomas2005/ExploitScripts | 0 | 0| 
+| 20230621T13:51:59Z | This toolset incorporates an all round utility envisaged to be used by security researchers in the field. UART-Exploiter - Interactive UART passthrough and Baud Scanner used over FTDI (Requires FTDI cable of choice). ExploitToolFinder - Scowers the internet for commonly used software tools. | https://github.com/exploitsecurityio/ExSecWareZ | 0 | 0| 
 | 20230621T12:49:29Z | Field Service Manual with advanced data exploitation | https://github.com/DeepBlueCLtd/Fi3ldMan | 0 | 1| 
 | 20230621T12:32:22Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 473 | 69| 
-| 20230621T11:28:48Z | Null | https://github.com/CsEnox/OSX-Exploitation | 0 | 0| 
-| 20230621T11:27:51Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1001 | 201| 
-| 20230621T09:39:17Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 519 | 40| 
-| 20230621T09:27:17Z | CryptoLocker is open source files encrypt-er. Crypto is developed in Visual C++. It has features encrypt all file, lock down the system and send keys back to the server. Multi-threaded functionality helps to this tool make encryption faster. | https://github.com/ajayrandhawa/Cryptolocker | 123 | 56| 
-| 20230621T09:12:22Z | Null | https://github.com/Aadhaar-debug/ESP8266_Scripts_and_Exploits | 0 | 0| 
-| 20230621T08:49:46Z | Shellshock is a vulnerability that allows systems containing a vulnerable version of Bash to be exploited to execute commands with higher privileges. This allows attackers to potentially take over that system. In the demo, we will learn how to detect and exploit such vulnerabilities in a given target. | https://github.com/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability | 0 | 1| 
-| 20230621T08:09:59Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-l-adl-exploit-qualify | 0 | 0| 
-| 20230621T05:41:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 665 | 172| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230621T11:59:38Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
+| 20230621T21:03:05Z | A PoC C2 tool utilizing Google Calendar events as a covert channel for communication between attacker and target. | https://github.com/Malwareman007/SyncRAT | 1 | 0| 
+| 20230621T19:32:51Z | Null | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 0| 
+| 20230621T18:32:17Z | Code repository for the paper --- [USENIX Security 2023] Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
+| 20230621T17:27:22Z | A docker image analysis tool that aims to eliminate security backdoor/vulnerablities in Docker image hubs and stop host break outs inside worker nodes and API servers by scanning for known CVEs and other security issues in the image layers. | https://github.com/DanielPickens/Scanly | 1 | 0| 
+| 20230621T13:07:57Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
+| 20230621T13:07:20Z | A lockpick for backdoors on Phicomm routers -- ported to Rust! | https://github.com/oblivia-simplex/backdoor-locksmith | 1 | 0| 
 | 20230621T05:04:57Z | Null | https://github.com/xnderLAN/tiny_backdoor | 2 | 0| 
 | 20230621T03:33:32Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230621T00:59:06Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 3 | 0| 
-| 20230620T19:46:42Z | A lockpick for backdoors on Phicomm routers -- ported to Rust! | https://github.com/oblivia-simplex/backdoor-locksmith | 0 | 0| 
 | 20230620T13:42:38Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 150 | 18| 
-| 20230620T12:53:01Z | This is a wonderful powerful backdoor Made by PS4 SPIDEY THAT IS ME I AM A ETHICAL HACKER So carefully | https://github.com/PS4SPIDEY/PS4payload | 0 | 0| 
-| 20230620T12:30:00Z | shell finder by tokupensx07! used to scan the backdoor shell that we share only for science!!! if you commit a crime it is beyond our responsibility | https://github.com/tokupens/shellfinder | 0 | 0| 
-| 20230620T03:15:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1968 | 425| 
-| 20230620T02:34:38Z | Null | https://github.com/Alecsis/minecraft-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230621T11:36:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8747 | 1923| 
-| 20230621T11:18:19Z | Null | https://github.com/freedeerbutterbabe7/fuzzy-octo-giggle | 0 | 0| 
-| 20230621T10:29:36Z | Null | https://github.com/WhateverWorksWithYou/fuzzy-chainsaw | 0 | 0| 
-| 20230621T10:13:20Z | Null | https://github.com/pflnbdhui/fuzzy-guacamole | 0 | 0| 
-| 20230621T10:11:53Z | solidity trials and fuzzing | https://github.com/edbertkwesiek/ideal-octo-barnacle | 0 | 0| 
-| 20230621T10:09:50Z | Null | https://github.com/dadashrezak5/fuzzy-octo-train | 0 | 0| 
-| 20230621T08:37:11Z | Null | https://github.com/CISPA-SysSec/fuzzing-restarts | 0 | 0| 
-| 20230621T00:53:41Z | Run TAs outside the Secure world for binary-only fuzzing. Project for Samsung Electronics internship, Spring 2023. | https://github.com/juhyun167/dta | 1 | 0| 
-| 20230621T00:29:03Z | Null | https://github.com/lastherofigytebe31/fuzzy-octo-giggle | 8 | 8| 
-| 20230621T00:24:12Z | Null | https://github.com/ironshaper-lasthuman/fuzzy-happiness | 7 | 7| 
+| 20230621T23:50:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2742 | 185| 
+| 20230621T23:49:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8748 | 1923| 
+| 20230621T23:27:38Z | Null | https://github.com/jerrypooh41luckycat/fuzzy-dollop | 0 | 0| 
+| 20230621T23:27:15Z | Null | https://github.com/morielmatthew8/fuzzy-palm-tree | 0 | 0| 
+| 20230621T23:13:10Z | Fuzzy-Logic | https://github.com/abdelfattah99/Fuzzy-Logic | 0 | 0| 
+| 20230621T21:27:22Z | Null | https://github.com/baggio1103/fuzzy-leetcode-adventure | 1 | 1| 
+| 20230621T21:25:24Z | Null | https://github.com/raydenebbejonasson6/fuzzy-computing-machine | 0 | 0| 
+| 20230621T21:20:14Z | rustc fuzzer using Mid-level Intermediate Representation | https://github.com/cbeuw/rustlantis | 0 | 0| 
+| 20230621T21:09:44Z | Match your query fuzzy on given target | https://github.com/guidsdo/matchFuzzy | 0 | 0| 
+| 20230621T20:29:07Z | Null | https://github.com/google/fuzztest | 308 | 21| 
 
 
 
