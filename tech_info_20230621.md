@@ -89,7 +89,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230621T23:50:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2742 | 185| 
-| 20230621T23:49:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8748 | 1923| 
 | 20230621T23:27:38Z | Null | https://github.com/jerrypooh41luckycat/fuzzy-dollop | 0 | 0| 
 | 20230621T23:27:15Z | Null | https://github.com/morielmatthew8/fuzzy-palm-tree | 0 | 0| 
 | 20230621T23:13:10Z | Fuzzy-Logic | https://github.com/abdelfattah99/Fuzzy-Logic | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20230621T21:20:14Z | rustc fuzzer using Mid-level Intermediate Representation | https://github.com/cbeuw/rustlantis | 0 | 0| 
 | 20230621T21:09:44Z | Match your query fuzzy on given target | https://github.com/guidsdo/matchFuzzy | 0 | 0| 
 | 20230621T20:29:07Z | Null | https://github.com/google/fuzztest | 308 | 21| 
+| 20230621T16:59:04Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 1 | 0| 
 
 
 
