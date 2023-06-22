@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T01:47:19Z | Allows the client handler to have co-current backdoor session like metaslploit  | https://github.com/regneisokgen/multi-client-backdoor | 0 | 0| 
 | 20230622T00:38:25Z | A PoC C2 tool utilizing Google Calendar events as a covert channel for communication between attacker and target. | https://github.com/Malwareman007/SyncRAT | 2 | 0| 
 | 20230621T19:32:51Z | Null | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 0| 
 | 20230621T18:32:17Z | Code repository for the paper --- [USENIX Security 2023] Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | https://github.com/Unispac/Fight-Poison-With-Poison | 9 | 1| 
@@ -95,7 +96,6 @@
 | 20230621T05:04:57Z | Null | https://github.com/xnderLAN/tiny_backdoor | 2 | 0| 
 | 20230621T03:33:32Z | Create a backdoor using Python (For academic purpose only) | https://github.com/kelvinforteta/backdoor-with-python | 0 | 0| 
 | 20230621T00:59:06Z | PHP Backdoor Collection 👾 | https://github.com/adilhyz/bd | 3 | 0| 
-| 20230620T13:42:38Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 150 | 18| 
 
 
 # symbolic execution on Github 推荐
