@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:49:37Z | JavaScript課題③ | https://github.com/Shinnosuke565/fuzzy-rotary-phone | 0 | 0| 
 | 20230622T12:06:30Z | Null | https://github.com/scorpio98olivermoss/fuzzy-invention | 0 | 0| 
 | 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230622T11:21:48Z | Null | https://github.com/milran/fuzzing101-solution | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230622T09:56:14Z | Null | https://github.com/skercwengao/fuzzy-goggles | 1 | 0| 
 | 20230622T09:56:13Z | Null | https://github.com/skercwengao/fuzzy-telegram | 1 | 1| 
 | 20230622T09:30:37Z | The IDOR IN works by systematically scanning a target web application and examining various endpoints, parameters, and data access points to identify potential IDOR vulnerabilities. It leverages techniques such as parameter fuzzing, payload injection, and response analysis to detect signs of insecure direct object references. | https://github.com/GManOfficial/IDOR-IN | 0 | 0| 
-| 20230622T09:21:00Z | Null | https://github.com/svenkeidel/example-fuzzing | 0 | 0| 
 
 
 
