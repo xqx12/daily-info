@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T01:18:30Z | Null | https://github.com/Test051620110516/Twerk-exploit | 0 | 0| 
 | 20230622T01:13:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:11:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:10:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ne | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230621T21:09:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5082 | 997| 
 | 20230621T21:02:38Z | This is the second version & extension of the terminal interface of the exploiting croissants portofolio. | https://github.com/Kipferl-OS/exploiting-croissants.github.io | 0 | 0| 
 | 20230621T21:02:20Z | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | https://github.com/0xhaggis/CVE-2021-3064 | 0 | 0| 
-| 20230621T20:28:21Z | This repository provides an extensive exploration of security vulnerabilities across the United States. The dataset focuses on the CISA Known Exploited Vulnerabilities catalog for 2022, and includes a wide range of vulnerability types, severity levels, CVSS scores, vendor projects, and product names. | https://github.com/Pheelog/CybersecurityRiskAnalysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
