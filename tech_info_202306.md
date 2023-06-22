@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 | 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
+| 20230622T10:36:04Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 33 | 15| 
 | 20230622T10:04:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/my-app-Q-z42-leave-exploit | 0 | 0| 
 | 20230622T09:10:46Z | Demonstration of an Android attack through a vulnerability in Android | https://github.com/MD571/Demonstration-of-Android-Vulnerabilities | 0 | 0| 
-| 20230622T06:23:40Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 32 | 5| 
 | 20230622T01:18:30Z | Null | https://github.com/Test051620110516/Twerk-exploit | 0 | 0| 
 | 20230622T01:13:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:11:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:10:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230621T23:58:51Z | This algorithm uses a parallel programming approach, by exploiting distributed memory, for simulating Schelling%s model of segregation. Its behavior allows it to satisfy all the agents in the grid in less time than usual by exploiting the concurrent execution over more processors or nodes. | https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation | 0 | 0| 
-| 20230621T21:41:35Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 17 | 2| 
 
 
 # backdoor on Github 推荐

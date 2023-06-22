@@ -38,10 +38,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 | 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
+| 20230622T10:36:04Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 33 | 15| 
 | 20230622T10:04:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/my-app-Q-z42-leave-exploit | 0 | 0| 
 | 20230622T09:10:46Z | Demonstration of an Android attack through a vulnerability in Android | https://github.com/MD571/Demonstration-of-Android-Vulnerabilities | 0 | 0| 
-| 20230622T06:23:40Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 32 | 5| 
 | 20230622T01:18:30Z | Null | https://github.com/Test051620110516/Twerk-exploit | 0 | 0| 
 | 20230622T01:13:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ne | 0 | 0| 
 | 20230622T01:11:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ne | 0 | 0| 
