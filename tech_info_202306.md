@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T01:21:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0008-0005-app-FDreW-exploit-follow | 0 | 0| 
 | 20230623T00:58:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-weii-Va2DK-exploit-burn | 0 | 0| 
 | 20230623T00:56:54Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
 | 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230622T19:30:05Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 158 | 41| 
 | 20230622T18:49:31Z | Null | https://github.com/cyberqueenmeg/cve-2022-33082-exploit | 0 | 1| 
 | 20230622T15:12:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5078 | 636| 
-| 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,11 +136,11 @@
 | 20230623T00:21:02Z | JavaScript課題③ | https://github.com/Shinnosuke565/fuzzy-rotary-phone | 0 | 0| 
 | 20230622T22:35:17Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 97 | 6| 
 | 20230622T22:30:15Z | Null | https://github.com/philippuk/RV_fuzz | 0 | 0| 
+| 20230622T20:18:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8753 | 1924| 
 | 20230622T14:29:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3668 | 436| 
 | 20230622T12:06:30Z | Null | https://github.com/scorpio98olivermoss/fuzzy-invention | 0 | 0| 
 | 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230622T11:21:48Z | Null | https://github.com/milran/fuzzing101-solution | 0 | 0| 
-| 20230622T10:37:55Z | FuzzyOWL, Protége 4.3 and Gurobi installation  | https://github.com/xbielikd/FuzzyOWL2 | 0 | 0| 
 
 
 
