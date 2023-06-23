@@ -45,9 +45,9 @@
 | 20230623T09:59:12Z | Udvash Exploit tool | https://github.com/Itsmmdoha/crackvash | 0 | 0| 
 | 20230623T08:44:30Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 8 | 0| 
 | 20230623T08:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
+| 20230623T06:24:51Z | A %framework% to simplify the writing and executing of exploits in the context of CTFs in Attack and Defense format from CyberChallenge | https://github.com/csaz3351/exploitation-framework | 0 | 0| 
 | 20230623T01:21:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0008-0005-app-FDreW-exploit-follow | 0 | 0| 
 | 20230623T00:58:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-weii-Va2DK-exploit-burn | 0 | 0| 
-| 20230623T00:56:54Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
 
 
 # backdoor on Github 推荐
