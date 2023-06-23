@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T12:14:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 796 | 107| 
 | 20230623T12:05:04Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 201 | 30| 
 | 20230623T11:29:28Z | Null | https://github.com/mahdighiasi79/Fuzzy-C-means | 0 | 0| 
 | 20230623T10:53:09Z | Constructing a fuzzy controller for a set of  given rules. The rules are minimized to see the difference in ouput values. | https://github.com/tudi72/Fuzzy_Controller | 1 | 0| 
@@ -140,7 +141,6 @@
 | 20230623T01:46:15Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 2 | 1| 
 | 20230623T01:44:39Z | Flipper Zero app for checking ibutton and RFID readers (125khz). | https://github.com/DarkFlippers/Multi_Fuzzer | 3 | 0| 
 | 20230623T01:38:02Z | Null | https://github.com/macarelov/fuzzy-octo-potato | 0 | 0| 
-| 20230623T00:54:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2180 | 278| 
 
 
 
