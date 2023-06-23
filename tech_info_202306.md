@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230623T00:17:27Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
+| 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
 | 20230622T23:56:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 476 | 351| 
 | 20230622T19:42:06Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 4 | 0| 
 | 20230622T19:30:05Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 158 | 41| 
