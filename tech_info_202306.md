@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230623T00:50:28Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
+| 20230623T00:56:54Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
 | 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
 | 20230622T23:56:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 476 | 351| 
 | 20230622T20:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5084 | 997| 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T00:54:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2180 | 278| 
 | 20230623T00:44:14Z | Null | https://github.com/fuzz-worth/fuzz-worth.github.io | 0 | 0| 
 | 20230623T00:21:02Z | JavaScript課題③ | https://github.com/Shinnosuke565/fuzzy-rotary-phone | 0 | 0| 
 | 20230622T22:35:17Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 97 | 6| 
@@ -140,7 +141,6 @@
 | 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230622T11:21:48Z | Null | https://github.com/milran/fuzzing101-solution | 0 | 0| 
 | 20230622T10:37:55Z | FuzzyOWL, Protége 4.3 and Gurobi installation  | https://github.com/xbielikd/FuzzyOWL2 | 0 | 0| 
-| 20230622T10:07:41Z | Null | https://github.com/dilatationv/fuzzy-palm-tree | 0 | 0| 
 
 
 
