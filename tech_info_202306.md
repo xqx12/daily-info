@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T12:45:17Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 0 | 0| 
+| 20230623T12:43:36Z | some exploits of ovaa  | https://github.com/cyb3r-w0lf/Exploits-Ovaa | 0 | 0| 
 | 20230623T11:56:02Z | Zerologon exploit with restore DC password automatically | https://github.com/XiaoliChan/zerologon-Shot | 8 | 1| 
 | 20230623T11:20:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-7a8fa5b1-40ff-4d23-ac6d-54ccc1bc1f4d-miFJq-give-exploit | 0 | 0| 
-| 20230623T11:09:01Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 0 | 0| 
 | 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
 | 20230623T09:59:12Z | Udvash Exploit tool | https://github.com/Itsmmdoha/crackvash | 0 | 0| 
 | 20230623T08:44:30Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 8 | 0| 
 | 20230623T08:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
 | 20230623T06:24:51Z | A %framework% to simplify the writing and executing of exploits in the context of CTFs in Attack and Defense format from CyberChallenge | https://github.com/csaz3351/exploitation-framework | 0 | 0| 
 | 20230623T01:21:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0008-0005-app-FDreW-exploit-follow | 0 | 0| 
-| 20230623T00:58:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-weii-Va2DK-exploit-burn | 0 | 0| 
 
 
 # backdoor on Github 推荐
