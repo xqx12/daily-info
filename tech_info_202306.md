@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T12:57:38Z | Null | https://github.com/k1R4/exploits | 0 | 0| 
 | 20230623T12:45:17Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 0 | 0| 
 | 20230623T12:43:36Z | some exploits of ovaa  | https://github.com/cyb3r-w0lf/Exploits-Ovaa | 0 | 0| 
 | 20230623T11:56:02Z | Zerologon exploit with restore DC password automatically | https://github.com/XiaoliChan/zerologon-Shot | 8 | 1| 
@@ -80,7 +81,6 @@
 | 20230623T08:44:30Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 8 | 0| 
 | 20230623T08:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
 | 20230623T06:24:51Z | A %framework% to simplify the writing and executing of exploits in the context of CTFs in Attack and Defense format from CyberChallenge | https://github.com/csaz3351/exploitation-framework | 0 | 0| 
-| 20230623T01:21:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0008-0005-app-FDreW-exploit-follow | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T12:57:20Z | Enhancing Javascript engine fuzzing with Reinforcement Learning | https://github.com/vanpra/JEFRL | 0 | 0| 
 | 20230623T12:14:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 796 | 107| 
 | 20230623T12:05:04Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 201 | 30| 
 | 20230623T11:29:28Z | Null | https://github.com/mahdighiasi79/Fuzzy-C-means | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230623T08:11:49Z | Semester Project of Fuzzer | https://github.com/MuazRazaq/FuzzerProject | 0 | 0| 
 | 20230623T01:46:15Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 2 | 1| 
 | 20230623T01:44:39Z | Flipper Zero app for checking ibutton and RFID readers (125khz). | https://github.com/DarkFlippers/Multi_Fuzzer | 3 | 0| 
-| 20230623T01:38:02Z | Null | https://github.com/macarelov/fuzzy-octo-potato | 0 | 0| 
 
 
 
