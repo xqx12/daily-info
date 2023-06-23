@@ -73,6 +73,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
 | 20230622T23:56:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 476 | 351| 
+| 20230622T20:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5084 | 997| 
 | 20230622T19:42:06Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 4 | 0| 
 | 20230622T19:30:05Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 158 | 41| 
 | 20230622T18:49:31Z | Null | https://github.com/cyberqueenmeg/cve-2022-33082-exploit | 0 | 1| 
@@ -80,7 +81,6 @@
 | 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
 | 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 | 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
-| 20230622T10:36:04Z | Notes for red teamers - from cloud to Active Directory to many things in between.  | https://github.com/lw8192/Red-Team-Rising | 33 | 15| 
 
 
 # backdoor on Github 推荐
