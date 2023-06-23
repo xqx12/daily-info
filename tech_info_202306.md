@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T00:58:46Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-weii-Va2DK-exploit-burn | 0 | 0| 
 | 20230623T00:56:54Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
 | 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
 | 20230622T23:56:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 476 | 351| 
@@ -80,7 +81,6 @@
 | 20230622T18:49:31Z | Null | https://github.com/cyberqueenmeg/cve-2022-33082-exploit | 0 | 1| 
 | 20230622T15:12:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5078 | 636| 
 | 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
-| 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
 
 
 # backdoor on Github 推荐
