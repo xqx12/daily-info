@@ -131,10 +131,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T00:21:02Z | JavaScript課題③ | https://github.com/Shinnosuke565/fuzzy-rotary-phone | 0 | 0| 
 | 20230622T22:35:17Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 97 | 6| 
 | 20230622T22:30:15Z | Null | https://github.com/philippuk/RV_fuzz | 0 | 0| 
 | 20230622T14:29:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3668 | 436| 
-| 20230622T12:49:37Z | JavaScript課題③ | https://github.com/Shinnosuke565/fuzzy-rotary-phone | 0 | 0| 
 | 20230622T12:06:30Z | Null | https://github.com/scorpio98olivermoss/fuzzy-invention | 0 | 0| 
 | 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230622T11:21:48Z | Null | https://github.com/milran/fuzzing101-solution | 0 | 0| 
