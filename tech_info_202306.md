@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T01:46:15Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 2 | 1| 
 | 20230623T01:38:02Z | Null | https://github.com/macarelov/fuzzy-octo-potato | 0 | 0| 
 | 20230623T00:54:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2180 | 278| 
 | 20230623T00:44:14Z | Null | https://github.com/fuzz-worth/fuzz-worth.github.io | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230622T20:18:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8753 | 1924| 
 | 20230622T14:29:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3668 | 436| 
 | 20230622T12:06:30Z | Null | https://github.com/scorpio98olivermoss/fuzzy-invention | 0 | 0| 
-| 20230622T11:50:36Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 
 
 
