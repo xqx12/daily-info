@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T00:50:28Z | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | 0 | 0| 
 | 20230623T00:20:24Z | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | 1 | 0| 
 | 20230622T23:56:14Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 476 | 351| 
 | 20230622T20:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5084 | 997| 
@@ -80,7 +81,6 @@
 | 20230622T15:12:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5078 | 636| 
 | 20230622T12:54:06Z | This has all the vulnerable codes - ldap, cmd injection, sql injection, nosql injection in java | https://github.com/soujanyanmbri/exploits-mine-withcodes | 0 | 0| 
 | 20230622T12:39:07Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 33 | 5| 
-| 20230622T12:29:50Z | General purpose exploitation framework made in Python | https://github.com/Traumatism/fep | 0 | 0| 
 
 
 # backdoor on Github 推荐
