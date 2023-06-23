@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T00:21:44Z | Null | https://github.com/danielmisrael/variational-backdoor-adjustment | 0 | 0| 
 | 20230622T22:01:13Z | lill backdoor dont run | https://github.com/Pornhubber/sadfasdfasdfasdfasdf | 0 | 0| 
 | 20230622T21:24:51Z | Null | https://github.com/hkapc/backdoor | 0 | 0| 
 | 20230622T19:51:15Z | Handler and Backdoor programs written in Python with good AV evasion results. Please review and suggest where improvements can be made.  | https://github.com/VM-VILLAGE/Handler-Backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230622T11:17:21Z | Null | https://github.com/inorogu/Data-free-backdoor | 0 | 0| 
 | 20230622T07:32:22Z | Null | https://github.com/bypasssss/backdoor | 0 | 0| 
 | 20230622T01:47:19Z | Allows the client handler to have co-current backdoor session like metaslploit  | https://github.com/regneisokgen/multi-client-backdoor | 0 | 0| 
-| 20230622T00:38:25Z | A PoC C2 tool utilizing Google Calendar events as a covert channel for communication between attacker and target. | https://github.com/Malwareman007/SyncRAT | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
