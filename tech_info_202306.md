@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T00:02:27Z | Null | https://github.com/whiteCQmariam9/fuzzy-disco | 0 | 0| 
 | 20230623T23:54:39Z | ⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode) | https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML | 1 | 0| 
 | 20230623T23:54:18Z | 📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language. | https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML | 1 | 0| 
 | 20230623T23:33:02Z | Source code for Fuzzing Android Automotive%s CAN interface master thesis | https://github.com/mihaimacarie98/fuzzing_aa_can_interface | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230623T17:05:44Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 174 | 15| 
 | 20230623T12:57:20Z | Enhancing Javascript engine fuzzing with Reinforcement Learning | https://github.com/vanpra/JEFRL | 0 | 0| 
 | 20230623T12:14:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 796 | 107| 
-| 20230623T12:05:04Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 201 | 30| 
 
 
 
