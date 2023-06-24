@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T12:03:58Z | Simple SQL-injection Scanner and Detector and Exploiter  | https://github.com/iimadouu/SimpliSQLi | 0 | 0| 
 | 20230624T08:12:14Z | Null | https://github.com/ratihfdr/List-of-tools-used-for-exploiting-Windows- | 1 | 0| 
 | 20230624T06:56:47Z | The UDASE task is about exploiting unlabeled data to overcome the performance drop caused by domain mismatch in speech enhancement models trained on artificially-generated labeled data. | https://github.com/zxd3099/UDASE | 1 | 0| 
 | 20230624T06:55:50Z | Project %ETL & Datawarehouse% avec Microsoft SQL Server Integration Services dans le but de transformer les données brutes en data exploitables et implémenter l%entrepôt de données d%un centre d%appels spécialisé en assistance informatique | https://github.com/vivi-le/ETL-Datawarehouse-avec-SSIS- | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230624T01:28:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uh | 0 | 0| 
 | 20230624T01:27:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uh | 0 | 0| 
 | 20230624T01:26:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uh | 0 | 0| 
-| 20230623T23:45:15Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10334 | 1615| 
 
 
 # backdoor on Github 推荐
