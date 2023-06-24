@@ -50,9 +50,9 @@
 | 20230623T20:26:25Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 0 | 1| 
 | 20230623T20:10:48Z | Cryptanalysis of the DAO exploit & Multi-Stage Attack | https://github.com/demining/Dao-Exploit | 1 | 0| 
 | 20230623T14:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5083 | 637| 
+| 20230623T14:21:26Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 201 | 11| 
 | 20230623T14:21:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5085 | 997| 
 | 20230623T12:57:38Z | Null | https://github.com/k1R4/exploits | 0 | 0| 
-| 20230623T12:45:17Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 0 | 0| 
 
 
 # backdoor on Github 推荐
