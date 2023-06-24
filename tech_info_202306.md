@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230624T00:38:23Z | Null | https://github.com/williamsJBsusank3/fuzzy-parakeet | 0 | 0| 
+| 20230624T00:51:54Z | Null | https://github.com/williamsJBsusank3/fuzzy-parakeet | 3 | 3| 
 | 20230624T00:02:27Z | Null | https://github.com/whiteCQmariam9/fuzzy-disco | 0 | 0| 
 | 20230623T23:54:39Z | ⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode) | https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML | 1 | 0| 
 | 20230623T23:54:18Z | 📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language. | https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML | 1 | 0| 
