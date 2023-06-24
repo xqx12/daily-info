@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
 | 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
 | 20230624T07:42:48Z | Null | https://github.com/KoushikRam2001/LFC-of-Two-Area-by-using-PID-and-Fuzzy-Logic-Controller | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230624T01:49:37Z | Null | https://github.com/carterYDsusanr3/fuzzy-guacamole | 5 | 6| 
 | 20230624T00:56:32Z | Null | https://github.com/williamsJBsusank3/fuzzy-parakeet | 3 | 4| 
 | 20230624T00:02:27Z | Null | https://github.com/whiteCQmariam9/fuzzy-disco | 0 | 0| 
-| 20230623T23:54:39Z | ⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode) | https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML | 1 | 0| 
 
 
 
