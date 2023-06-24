@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230623T11:31:33Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
+| 20230623T20:10:34Z | CVE-2023-34599 | Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code. | https://github.com/maddsec/CVE-2023-34599 | | 
+| 20230623T18:28:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
+| 20230623T17:14:51Z | CVE-2022-30136 | Windows Network File System Remote exploit (DoS) PoC | https://github.com/VEEXH/CVE-2022-30136 | | 
+| 20230623T16:24:45Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230623T15:16:12Z | cve-2023-27997 | Null | https://github.com/puckiestyle/cve-2023-27997 | | 
+| 20230623T14:12:38Z | CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | | 
 | 20230622T22:06:21Z | CVE-2023-36146 | Null | https://github.com/leonardobg/CVE-2023-36146 | | 
 | 20230622T22:00:30Z | CVE-2023-36144 | Null | https://github.com/leonardobg/CVE-2023-36144 | | 
 | 20230622T21:56:16Z | CVE-2023-36143 | Null | https://github.com/leonardobg/CVE-2023-36143 | | 
 | 20230622T18:49:31Z | cve-2022-33082 | Null | https://github.com/cyberqueenmeg/cve-2022-33082-exploit | | 
-| 20230622T16:46:00Z | CVE-2023-33567 | Unauthorized Access Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-33567 | | 
-| 20230622T16:45:22Z | CVE-2023-33566 | Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-33566 | | 
-| 20230622T16:45:03Z | CVE-2023-33565 | Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-33565 | | 
-| 20230622T14:32:18Z | CVE-2023-27997 | Null | https://github.com/imbas007/CVE-2023-27997-Check | | 
-| 20230622T09:34:50Z | CVE-2023-35840 | elFinder < 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | https://github.com/afine-com/CVE-2023-35840 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230623T11:00:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12793 | 401| 
+| 20230623T19:20:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12796 | 401| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230623T06:23:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 310 | 6| 
 | 20230622T23:40:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2260 | 622| 
@@ -71,21 +71,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T23:45:15Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10334 | 1615| 
+| 20230623T23:29:42Z | Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase. | https://github.com/PaulNorman01/Forensia | 374 | 47| 
+| 20230623T22:06:30Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 217 | 44| 
+| 20230623T21:28:11Z | The Vulnerability Database is a Flutter project that allows users to explore cybersecurity news and search for known exploits. It provides a user-friendly interface to browse through the latest news articles related to cybersecurity and access detailed information about specific vulnerabilities. | https://github.com/SaherMuhamed/vulnerabilities-database-flutter | 1 | 0| 
+| 20230623T20:26:25Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 0 | 1| 
+| 20230623T20:10:48Z | Cryptanalysis of the DAO exploit & Multi-Stage Attack | https://github.com/demining/Dao-Exploit | 1 | 0| 
 | 20230623T12:57:38Z | Null | https://github.com/k1R4/exploits | 0 | 0| 
 | 20230623T12:45:17Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 0 | 0| 
 | 20230623T12:43:36Z | some exploits of ovaa  | https://github.com/cyb3r-w0lf/Exploits-Ovaa | 0 | 0| 
-| 20230623T11:56:02Z | Zerologon exploit with restore DC password automatically | https://github.com/XiaoliChan/zerologon-Shot | 8 | 1| 
-| 20230623T11:20:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-7a8fa5b1-40ff-4d23-ac6d-54ccc1bc1f4d-miFJq-give-exploit | 0 | 0| 
-| 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
-| 20230623T09:59:12Z | Udvash Exploit tool | https://github.com/Itsmmdoha/crackvash | 0 | 0| 
-| 20230623T08:44:30Z | [CVPR 2023] Official code for paper: Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection | https://github.com/ArielZc/CU-Net | 8 | 0| 
-| 20230623T08:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 666 | 172| 
-| 20230623T06:24:51Z | A %framework% to simplify the writing and executing of exploits in the context of CTFs in Attack and Defense format from CyberChallenge | https://github.com/csaz3351/exploitation-framework | 0 | 0| 
+| 20230623T11:56:06Z | Null | https://github.com/thestephencasper/explore_establish_exploit_llms | 5 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T19:10:01Z | Null | https://github.com/XanderFR/Backdoor | 0 | 0| 
+| 20230623T16:17:29Z | Null | https://github.com/ExtcanaRy/backdoor | 0 | 0| 
 | 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
 | 20230623T08:46:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2148 | 854| 
 | 20230623T08:28:52Z | clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mx1198/CraxsRAT-latest-version | 1 | 0| 
@@ -94,8 +96,6 @@
 | 20230623T01:32:15Z | Null | https://github.com/danielmisrael/variational-backdoor-adjustment | 0 | 0| 
 | 20230623T01:11:37Z | Modern Backdoor Made In Python  | https://github.com/Detrew/f-root-backdoor | 6 | 0| 
 | 20230622T22:01:13Z | lill backdoor dont run | https://github.com/Pornhubber/sadfasdfasdfasdfasdf | 0 | 0| 
-| 20230622T21:24:51Z | Null | https://github.com/hkapc/backdoor | 0 | 0| 
-| 20230622T19:51:15Z | Handler and Backdoor programs written in Python with good AV evasion results. Please review and suggest where improvements can be made.  | https://github.com/VM-VILLAGE/Handler-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230623T23:54:39Z | ⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode) | https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML | 1 | 0| 
+| 20230623T23:54:18Z | 📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language. | https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML | 1 | 0| 
+| 20230623T23:33:02Z | Source code for Fuzzing Android Automotive%s CAN interface master thesis | https://github.com/mihaimacarie98/fuzzing_aa_can_interface | 0 | 0| 
+| 20230623T22:15:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3753 | 761| 
+| 20230623T20:30:10Z | Null | https://github.com/GuestBrutal/Fuzzy | 0 | 0| 
+| 20230623T19:52:08Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
+| 20230623T17:05:44Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 174 | 15| 
 | 20230623T12:57:20Z | Enhancing Javascript engine fuzzing with Reinforcement Learning | https://github.com/vanpra/JEFRL | 0 | 0| 
 | 20230623T12:14:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 796 | 107| 
 | 20230623T12:05:04Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 201 | 30| 
-| 20230623T11:29:28Z | Null | https://github.com/mahdighiasi79/Fuzzy-C-means | 0 | 0| 
-| 20230623T10:53:09Z | Constructing a fuzzy controller for a set of  given rules. The rules are minimized to see the difference in ouput values. | https://github.com/tudi72/Fuzzy_Controller | 1 | 0| 
-| 20230623T10:11:42Z | test-is-a-test | https://github.com/Relevant-snow/fuzzy | 0 | 0| 
-| 20230623T09:26:47Z | Null | https://github.com/Man1ish/fuzzerapplication | 0 | 0| 
-| 20230623T08:11:49Z | Semester Project of Fuzzer | https://github.com/MuazRazaq/FuzzerProject | 0 | 0| 
-| 20230623T01:46:15Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 2 | 1| 
-| 20230623T01:44:39Z | Flipper Zero app for checking ibutton and RFID readers (125khz). | https://github.com/DarkFlippers/Multi_Fuzzer | 3 | 0| 
 
 
 
