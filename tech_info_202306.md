@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T00:38:23Z | Null | https://github.com/williamsJBsusank3/fuzzy-parakeet | 0 | 0| 
 | 20230624T00:02:27Z | Null | https://github.com/whiteCQmariam9/fuzzy-disco | 0 | 0| 
 | 20230623T23:54:39Z | ⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode) | https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML | 1 | 0| 
 | 20230623T23:54:18Z | 📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language. | https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML | 1 | 0| 
@@ -140,7 +141,6 @@
 | 20230623T19:52:08Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230623T17:05:44Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 174 | 15| 
 | 20230623T16:18:40Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3671 | 436| 
-| 20230623T12:57:20Z | Enhancing Javascript engine fuzzing with Reinforcement Learning | https://github.com/vanpra/JEFRL | 0 | 0| 
 
 
 
