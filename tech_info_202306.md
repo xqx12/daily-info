@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T01:34:34Z | This Is For Flood Gui V3 | https://github.com/UnknowninglyMC/Flood-GuiExploit | 0 | 0| 
 | 20230624T01:28:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uh | 0 | 0| 
 | 20230624T01:27:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uh | 0 | 0| 
 | 20230624T01:26:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uh | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230623T21:28:11Z | The Vulnerability Database is a Flutter project that allows users to explore cybersecurity news and search for known exploits. It provides a user-friendly interface to browse through the latest news articles related to cybersecurity and access detailed information about specific vulnerabilities. | https://github.com/SaherMuhamed/vulnerabilities-database-flutter | 1 | 0| 
 | 20230623T20:26:25Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 0 | 1| 
 | 20230623T20:10:48Z | Cryptanalysis of the DAO exploit & Multi-Stage Attack | https://github.com/demining/Dao-Exploit | 1 | 0| 
-| 20230623T14:21:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5083 | 637| 
 
 
 # backdoor on Github 推荐
