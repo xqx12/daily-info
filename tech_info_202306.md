@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:10:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5084 | 638| 
 | 20230625T01:03:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0003-app-LDGp3-lie-exploit | 0 | 0| 
 | 20230625T00:11:43Z | A social media MERN application that can let people come together and connect with each other by sharing their most favorite memories. It also exploits Redux functionalities and Material Design Concepts. | https://github.com/Vanshika-Dargan/BloomBoard | 0 | 0| 
 | 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230624T21:16:10Z | This is an old perl scanner I found for the php my admin exploit that%s from 2009. I got bored and figured I would practice perl and learn a bit about an older language and convert it to python. This is for educational purposes mostly because this exploit being well over a decade old I wouldn%t suspect a large impact by any means from publishing. | https://github.com/ItaIia/PhpMyAdmin | 0 | 0| 
 | 20230624T20:47:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5088 | 999| 
 | 20230624T16:32:20Z | Just in case, y%know (X2) | https://github.com/Telomint/exploit | 0 | 0| 
-| 20230624T14:51:55Z | PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users. | https://github.com/odiks/PROFILEGPT | 0 | 0| 
 
 
 # backdoor on Github 推荐
