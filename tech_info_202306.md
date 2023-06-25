@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:03:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0003-app-LDGp3-lie-exploit | 0 | 0| 
 | 20230625T00:11:43Z | A social media MERN application that can let people come together and connect with each other by sharing their most favorite memories. It also exploits Redux functionalities and Material Design Concepts. | https://github.com/Vanshika-Dargan/BloomBoard | 0 | 0| 
 | 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
 | 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
@@ -80,12 +81,12 @@
 | 20230624T20:47:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5088 | 999| 
 | 20230624T16:32:20Z | Just in case, y%know (X2) | https://github.com/Telomint/exploit | 0 | 0| 
 | 20230624T14:51:55Z | PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users. | https://github.com/odiks/PROFILEGPT | 0 | 0| 
-| 20230624T12:04:57Z | Simple SQL-injection Scanner and Detector and Exploiter  | https://github.com/iimadouu/SimpliSQLi | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:01:53Z | BepInEx plugin to pipe game data | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 1| 
 | 20230624T14:29:41Z | This is the project of our paper: Backdoor Attack on 3D Grey Image Segmentation | https://github.com/ahahnut/Backdoor-Attack-on-3D-Grey-Image-Segmentation | 0 | 0| 
 | 20230624T06:39:10Z | MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks | https://github.com/TitaniumLiu/MagBackdoor | 0 | 0| 
 | 20230624T03:21:34Z | Shell Backdoor for deface | https://github.com/uph88/Shell-Backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230623T08:46:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2148 | 854| 
 | 20230623T08:28:52Z | clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mx1198/CraxsRAT-latest-version | 1 | 0| 
 | 20230623T05:51:59Z | kerang laut 404 | https://github.com/sonofescobar1337/kerang-laut | 0 | 0| 
-| 20230623T05:07:25Z | Access through WIFI | https://github.com/Sakthi02SK/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
