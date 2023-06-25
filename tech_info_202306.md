@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T12:43:11Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5000 | 1879| 
 | 20230625T12:26:23Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230625T07:42:32Z | A repo for Backdoor Learning Resources | https://github.com/shawkui/OpenBackdoor | 0 | 0| 
 | 20230625T01:14:27Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230624T03:21:34Z | Shell Backdoor for deface | https://github.com/uph88/Shell-Backdoor | 0 | 0| 
 | 20230623T19:10:01Z | Null | https://github.com/XanderFR/Backdoor | 0 | 0| 
 | 20230623T16:17:29Z | Null | https://github.com/ExtcanaRy/backdoor | 0 | 0| 
-| 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
