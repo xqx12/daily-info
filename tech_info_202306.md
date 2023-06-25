@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:29:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12822 | 401| 
 | 20230625T00:09:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 312 | 6| 
-| 20230624T22:55:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12821 | 401| 
 | 20230624T12:54:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2262 | 624| 
 | 20230624T06:22:17Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1012 | 43| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:16:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
 | 20230625T01:10:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5084 | 638| 
 | 20230625T01:03:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0003-app-LDGp3-lie-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230624T22:42:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 530 | 105| 
 | 20230624T21:41:35Z | Siteminder DOM-Based XSS + Exploit | https://github.com/amiralium/SiteMinder-XSS | 0 | 0| 
 | 20230624T21:16:10Z | This is an old perl scanner I found for the php my admin exploit that%s from 2009. I got bored and figured I would practice perl and learn a bit about an older language and convert it to python. This is for educational purposes mostly because this exploit being well over a decade old I wouldn%t suspect a large impact by any means from publishing. | https://github.com/ItaIia/PhpMyAdmin | 0 | 0| 
-| 20230624T16:32:20Z | Just in case, y%know (X2) | https://github.com/Telomint/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
