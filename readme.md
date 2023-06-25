@@ -85,11 +85,11 @@
 | 20230624T19:07:44Z | Null | https://github.com/FalkZ/poc-white-box-fuzzing-javascript | 0 | 0| 
 | 20230624T18:47:18Z | Null | https://github.com/singh-rishabhkumar/Fuzzy-Logic-Based-MPPT | 0 | 0| 
 | 20230624T16:45:35Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
-| 20230624T14:39:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8759 | 1925| 
 | 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
 | 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
 | 20230624T07:42:48Z | Null | https://github.com/KoushikRam2001/LFC-of-Two-Area-by-using-PID-and-Fuzzy-Logic-Controller | 0 | 0| 
+| 20230624T07:34:25Z | Null | https://github.com/BeanDealer/fuzzy-octo-waffle | 0 | 0| 
 
 
 

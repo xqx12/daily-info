@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:09:31Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 0 | 0| 
 | 20230625T01:01:53Z | BepInEx plugin to pipe game data | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 1| 
 | 20230624T14:29:41Z | This is the project of our paper: Backdoor Attack on 3D Grey Image Segmentation | https://github.com/ahahnut/Backdoor-Attack-on-3D-Grey-Image-Segmentation | 0 | 0| 
 | 20230624T06:39:10Z | MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks | https://github.com/TitaniumLiu/MagBackdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
 | 20230623T08:46:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2148 | 854| 
 | 20230623T08:28:52Z | clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mx1198/CraxsRAT-latest-version | 1 | 0| 
-| 20230623T05:51:59Z | kerang laut 404 | https://github.com/sonofescobar1337/kerang-laut | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,12 +131,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:08:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8760 | 1925| 
 | 20230624T22:21:16Z | Null | https://github.com/kuna142/fuzzy-broccoli | 0 | 0| 
 | 20230624T21:13:04Z | Fuzzer for a simple implementation of a Tar extractor. 20/20 | https://github.com/maluyckx/Fuzzer-for-Tar | 0 | 0| 
 | 20230624T19:07:44Z | Null | https://github.com/FalkZ/poc-white-box-fuzzing-javascript | 0 | 0| 
 | 20230624T18:47:18Z | Null | https://github.com/singh-rishabhkumar/Fuzzy-Logic-Based-MPPT | 0 | 0| 
 | 20230624T16:45:35Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
-| 20230624T14:39:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8759 | 1925| 
 | 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
 | 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
