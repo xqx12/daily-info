@@ -48,11 +48,11 @@
 | 20230624T22:42:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 530 | 105| 
 | 20230624T21:41:35Z | Siteminder DOM-Based XSS + Exploit | https://github.com/amiralium/SiteMinder-XSS | 0 | 0| 
 | 20230624T21:16:10Z | This is an old perl scanner I found for the php my admin exploit that%s from 2009. I got bored and figured I would practice perl and learn a bit about an older language and convert it to python. This is for educational purposes mostly because this exploit being well over a decade old I wouldn%t suspect a large impact by any means from publishing. | https://github.com/ItaIia/PhpMyAdmin | 0 | 0| 
-| 20230624T20:47:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5088 | 999| 
 | 20230624T16:32:20Z | Just in case, y%know (X2) | https://github.com/Telomint/exploit | 0 | 0| 
 | 20230624T14:51:55Z | PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users. | https://github.com/odiks/PROFILEGPT | 0 | 0| 
 | 20230624T12:04:57Z | Simple SQL-injection Scanner and Detector and Exploiter  | https://github.com/iimadouu/SimpliSQLi | 0 | 0| 
 | 20230624T08:12:14Z | Null | https://github.com/ratihfdr/List-of-tools-used-for-exploiting-Windows- | 1 | 0| 
+| 20230624T06:56:47Z | The UDASE task is about exploiting unlabeled data to overcome the performance drop caused by domain mismatch in speech enhancement models trained on artificially-generated labeled data. | https://github.com/zxd3099/UDASE | 1 | 0| 
 
 
 # backdoor on Github 推荐
