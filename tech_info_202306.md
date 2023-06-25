@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T12:26:23Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230625T07:42:32Z | A repo for Backdoor Learning Resources | https://github.com/shawkui/OpenBackdoor | 0 | 0| 
 | 20230625T01:14:27Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 0 | 0| 
 | 20230625T01:10:01Z | BepInEx plugin to pipe game data for my Among Us AI | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 1| 
@@ -95,7 +96,6 @@
 | 20230623T19:10:01Z | Null | https://github.com/XanderFR/Backdoor | 0 | 0| 
 | 20230623T16:17:29Z | Null | https://github.com/ExtcanaRy/backdoor | 0 | 0| 
 | 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
-| 20230623T08:46:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2148 | 854| 
 
 
 # symbolic execution on Github 推荐

@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T12:26:23Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230625T07:42:32Z | A repo for Backdoor Learning Resources | https://github.com/shawkui/OpenBackdoor | 0 | 0| 
 | 20230625T01:14:27Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 0 | 0| 
 | 20230625T01:10:01Z | BepInEx plugin to pipe game data for my Among Us AI | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 1| 
