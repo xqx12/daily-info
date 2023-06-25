@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:35:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0005-app-ZbJ5l-prefer-exploit | 0 | 0| 
 | 20230625T01:30:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:30:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230625T00:11:43Z | A social media MERN application that can let people come together and connect with each other by sharing their most favorite memories. It also exploits Redux functionalities and Material Design Concepts. | https://github.com/Vanshika-Dargan/BloomBoard | 0 | 0| 
 | 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
 | 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
-| 20230624T22:42:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 530 | 105| 
 
 
 # backdoor on Github 推荐
@@ -101,8 +101,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:35:33Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 3 | 1| 
 | 20230625T00:44:27Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 403 | 27| 
-| 20230624T21:42:33Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 2 | 1| 
 | 20230624T12:54:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2262 | 624| 
 | 20230624T08:09:04Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 197 | 19| 
 | 20230623T14:43:21Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 89 | 2| 
