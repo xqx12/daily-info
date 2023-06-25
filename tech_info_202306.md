@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:30:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:30:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:16:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
@@ -80,7 +81,6 @@
 | 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
 | 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
 | 20230624T22:42:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 530 | 105| 
-| 20230624T21:41:35Z | Siteminder DOM-Based XSS + Exploit | https://github.com/amiralium/SiteMinder-XSS | 0 | 0| 
 
 
 # backdoor on Github 推荐
