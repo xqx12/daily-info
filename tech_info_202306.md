@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:48:04Z | Null | https://github.com/akramaliomar/arduino-fuzzy | 0 | 0| 
 | 20230625T01:08:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8760 | 1925| 
 | 20230624T22:21:16Z | Null | https://github.com/kuna142/fuzzy-broccoli | 0 | 0| 
 | 20230624T21:13:04Z | Fuzzer for a simple implementation of a Tar extractor. 20/20 | https://github.com/maluyckx/Fuzzer-for-Tar | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
 | 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
-| 20230624T07:42:48Z | Null | https://github.com/KoushikRam2001/LFC-of-Two-Area-by-using-PID-and-Fuzzy-Logic-Controller | 0 | 0| 
 
 
 
