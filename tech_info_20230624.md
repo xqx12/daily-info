@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230624T19:28:44Z | CVE-2022-44276 | PoC for Responsive Filemanager < 9.12.0 bypass upload restrictions lead to RCE | https://github.com/HerrLeStrate/CVE-2022-44276-PoC | | 
 | 20230624T11:33:21Z | CVE-2023-34839 | Null | https://github.com/sahiloj/CVE-2023-34839 | | 
 | 20230624T11:33:00Z | CVE-2023-34838 | Null | https://github.com/sahiloj/CVE-2023-34838 | | 
 | 20230624T11:32:41Z | CVE-2023-34837 | Null | https://github.com/sahiloj/CVE-2023-34837 | | 
@@ -28,8 +29,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T22:55:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12821 | 401| 
 | 20230624T12:54:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2262 | 624| 
-| 20230624T11:44:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12813 | 401| 
 | 20230624T07:46:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 311 | 6| 
 | 20230624T06:22:17Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1012 | 43| 
 
@@ -43,21 +44,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
+| 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
+| 20230624T21:41:35Z | Siteminder DOM-Based XSS + Exploit | https://github.com/amiralium/SiteMinder-XSS | 0 | 0| 
+| 20230624T21:16:10Z | This is an old perl scanner I found for the php my admin exploit that%s from 2009. I got bored and figured I would practice perl and learn a bit about an older language and convert it to python. This is for educational purposes mostly because this exploit being well over a decade old I wouldn%t suspect a large impact by any means from publishing. | https://github.com/ItaIia/PhpMyAdmin | 0 | 0| 
+| 20230624T20:47:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5088 | 999| 
+| 20230624T16:32:20Z | Just in case, y%know (X2) | https://github.com/Telomint/exploit | 0 | 0| 
+| 20230624T14:51:55Z | PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users. | https://github.com/odiks/PROFILEGPT | 0 | 0| 
 | 20230624T12:04:57Z | Simple SQL-injection Scanner and Detector and Exploiter  | https://github.com/iimadouu/SimpliSQLi | 0 | 0| 
 | 20230624T08:12:14Z | Null | https://github.com/ratihfdr/List-of-tools-used-for-exploiting-Windows- | 1 | 0| 
 | 20230624T06:56:47Z | The UDASE task is about exploiting unlabeled data to overcome the performance drop caused by domain mismatch in speech enhancement models trained on artificially-generated labeled data. | https://github.com/zxd3099/UDASE | 1 | 0| 
-| 20230624T06:55:50Z | Project %ETL & Datawarehouse% avec Microsoft SQL Server Integration Services dans le but de transformer les données brutes en data exploitables et implémenter l%entrepôt de données d%un centre d%appels spécialisé en assistance informatique | https://github.com/vivi-le/ETL-Datawarehouse-avec-SSIS- | 0 | 0| 
-| 20230624T06:37:37Z | i Give script not fo Exploiting its for gui and more | https://github.com/PresidentCheat12345/Roblox_Subject | 0 | 0| 
-| 20230624T04:20:34Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5415 | 1776| 
-| 20230624T01:34:34Z | This Is For Flood Gui V3 | https://github.com/UnknowninglyMC/Flood-GuiExploit | 0 | 0| 
-| 20230624T01:28:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uh | 0 | 0| 
-| 20230624T01:27:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uh | 0 | 0| 
-| 20230624T01:26:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uh | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T14:29:41Z | This is the project of our paper: Backdoor Attack on 3D Grey Image Segmentation | https://github.com/ahahnut/Backdoor-Attack-on-3D-Grey-Image-Segmentation | 0 | 0| 
 | 20230624T06:39:10Z | MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks | https://github.com/TitaniumLiu/MagBackdoor | 0 | 0| 
 | 20230624T03:21:34Z | Shell Backdoor for deface | https://github.com/uph88/Shell-Backdoor | 0 | 0| 
 
@@ -77,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230624T22:21:16Z | Null | https://github.com/kuna142/fuzzy-broccoli | 0 | 0| 
+| 20230624T21:13:04Z | Fuzzer for a simple implementation of a Tar extractor. 20/20 | https://github.com/maluyckx/Fuzzer-for-Tar | 0 | 0| 
+| 20230624T19:07:44Z | Null | https://github.com/FalkZ/poc-white-box-fuzzing-javascript | 0 | 0| 
+| 20230624T18:47:18Z | Null | https://github.com/singh-rishabhkumar/Fuzzy-Logic-Based-MPPT | 0 | 0| 
+| 20230624T16:45:35Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
+| 20230624T14:39:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8759 | 1925| 
 | 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
 | 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
 | 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
 | 20230624T07:42:48Z | Null | https://github.com/KoushikRam2001/LFC-of-Two-Area-by-using-PID-and-Fuzzy-Logic-Controller | 0 | 0| 
-| 20230624T07:34:25Z | Null | https://github.com/BeanDealer/fuzzy-octo-waffle | 0 | 0| 
-| 20230624T07:24:39Z | Null | https://github.com/havicehayden1/fuzzy-invention | 2 | 1| 
-| 20230624T03:13:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8758 | 1925| 
-| 20230624T01:49:37Z | Null | https://github.com/carterYDsusanr3/fuzzy-guacamole | 5 | 6| 
-| 20230624T00:56:32Z | Null | https://github.com/williamsJBsusank3/fuzzy-parakeet | 3 | 4| 
-| 20230624T00:02:27Z | Null | https://github.com/whiteCQmariam9/fuzzy-disco | 0 | 0| 
 
 
 
