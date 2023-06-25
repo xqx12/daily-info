@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230625 | 对全球范围DNS-over-HTTPS的性能测量 | https://mp.weixin.qq.com/s/CmvI0nDgSmyYlW9Sv_sEcg| 
+| 20230625 | 安全事件运营SOP：接收漏洞事件 | https://mp.weixin.qq.com/s/IYzXuwi9E2l5G5sQ4ugZeA| 
 | 20230624 | 匿名通信技术现状分析与展望 | https://mp.weixin.qq.com/s/rXYMh4OksHckpQmKyVyvPw| 
 | 20230623 | 利用云调度器引导协同定位攻击 | https://mp.weixin.qq.com/s/Q7153oueIhGyosnRj67Irw| 
 | 20230623 | MobileCTF: 体系化、实战化的移动端CTF靶场 | https://github.com/r0ysue/MobileCTF| 
@@ -19,13 +21,12 @@
 | 20230621 | js引擎检测及热部署的OpenRASP学习 | https://xz.aliyun.com/t/12613| 
 | 20230620 | SecWiki周刊（第485期) | https://www.sec-wiki.com/weekly/485| 
 | 20230620 | 漏洞优先级（VPT）是怎么排序的 | https://mp.weixin.qq.com/s/2NCcXJjnfGBAUQM5JngCUQ| 
-| 20230620 | 用户名密码加密的页面爆破学习 | https://mp.weixin.qq.com/s/72S-mYCHEnQZBPEIcKME3Q| 
-| 20230620 | 游戏黑产反作弊实践 | https://mp.weixin.qq.com/s/7P36eYxCO6f7hrnx2PKW8g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230625T10:16:10Z | CVE-2023-23333 | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | | 
 | 20230624T19:28:44Z | CVE-2022-44276 | PoC for Responsive Filemanager < 9.12.0 bypass upload restrictions lead to RCE | https://github.com/HerrLeStrate/CVE-2022-44276-PoC | | 
 | 20230624T11:33:21Z | CVE-2023-34839 | Null | https://github.com/sahiloj/CVE-2023-34839 | | 
 | 20230624T11:33:00Z | CVE-2023-34838 | Null | https://github.com/sahiloj/CVE-2023-34838 | | 
@@ -35,14 +36,13 @@
 | 20230624T06:17:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230623T20:10:34Z | CVE-2023-34599 | Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code. | https://github.com/maddsec/CVE-2023-34599 | | 
 | 20230623T18:28:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
-| 20230623T17:14:51Z | CVE-2022-30136 | Windows Network File System Remote exploit (DoS) PoC | https://github.com/VEEXH/CVE-2022-30136 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230625T01:55:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12824 | 401| 
-| 20230625T00:09:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 312 | 6| 
+| 20230625T09:58:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12832 | 401| 
+| 20230625T06:15:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 313 | 6| 
 | 20230624T12:54:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2262 | 624| 
 | 20230624T06:22:17Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1012 | 43| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
@@ -71,21 +71,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T11:36:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5250 | 741| 
+| 20230625T10:16:10Z | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | 0 | 1| 
+| 20230625T09:46:27Z | A proof-of-concept implementation of Route Selection on Clustered Cognitive Radio Networks (CRNs) on USRP N200/ GNU Radio. In CRNs, secondary user (SU) explore and exploit spectrum in the absence of primary users (PUs). The SU nodes in the topology are static and divided into three main classes source node, intermediate nodes and destination node.  | https://github.com/MusaviMariam/MastersThesis | 0 | 0| 
+| 20230625T08:58:01Z | 我们开发关于 gpt4all 功能的api在win10系统上 | https://github.com/ZhangTai123/gpt4all-api-exploit-for-window10 | 0 | 0| 
+| 20230625T08:46:27Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 8 | 1| 
+| 20230625T08:38:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1004 | 201| 
 | 20230625T01:35:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0005-app-ZbJ5l-prefer-exploit | 0 | 0| 
 | 20230625T01:30:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:30:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
-| 20230625T01:16:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
-| 20230625T01:10:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5084 | 638| 
-| 20230625T01:03:11Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0005-0003-app-LDGp3-lie-exploit | 0 | 0| 
-| 20230625T00:11:43Z | A social media MERN application that can let people come together and connect with each other by sharing their most favorite memories. It also exploits Redux functionalities and Material Design Concepts. | https://github.com/Vanshika-Dargan/BloomBoard | 0 | 0| 
-| 20230624T23:36:37Z | CS50 Final Project. Utilizing the python NVD API wrapper and REST API, Slooth performs queries specifically for Common Vulnerabilities and Exposures (CVEs), providing a unique identifier known as the CVE ID for stakeholders to discuss and research specific exploits. | https://github.com/TheAxumite/SLOOTH-Security-Vulnerability-Search-and-Management | 1 | 0| 
-| 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T07:42:32Z | A repo for Backdoor Learning Resources | https://github.com/shawkui/OpenBackdoor | 0 | 0| 
 | 20230625T01:14:27Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 0 | 0| 
 | 20230625T01:10:01Z | BepInEx plugin to pipe game data for my Among Us AI | https://github.com/TimShaw1/AmongUsAI-Backdoor | 0 | 1| 
 | 20230624T14:29:41Z | This is the project of our paper: Backdoor Attack on 3D Grey Image Segmentation | https://github.com/ahahnut/Backdoor-Attack-on-3D-Grey-Image-Segmentation | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230623T16:17:29Z | Null | https://github.com/ExtcanaRy/backdoor | 0 | 0| 
 | 20230623T10:43:12Z | This project contains a Rust code implementation of an exploit targeting the vsftpd 2.3.4 vulnerability. The exploit aims to gain unauthorized access to a target IP address running vsftpd 2.3.4 by taking advantage of the security flaw. | https://github.com/BugsBound/exploit_vsftpd_backdoor | 1 | 0| 
 | 20230623T08:46:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2148 | 854| 
-| 20230623T08:28:52Z | clean version of CraxsRat   - No virus - No backdoor  - 100% Clean - Lifetime - No errors | https://github.com/Mx1198/CraxsRAT-latest-version | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T10:56:44Z | Null | https://github.com/ArianQazvini/Fuzzy-SelfDriving-Car | 0 | 0| 
+| 20230625T10:09:47Z | Null | https://github.com/cheongwoo-kim/fuzzy-fiesta | 0 | 0| 
+| 20230625T10:08:00Z | GitHub Actions for Go fuzzing test | https://github.com/shogo82148/actions-go-fuzz | 0 | 0| 
+| 20230625T09:30:31Z | Implementation of %Measuring User influence based on multiple metrics on YouTube % | https://github.com/vashist99/User-hierarchy-based-on-triangular-fuzzy-numbers | 0 | 0| 
+| 20230625T08:50:10Z | Null | https://github.com/AidPaike/AzirFuzz | 0 | 0| 
 | 20230625T01:48:04Z | Null | https://github.com/akramaliomar/arduino-fuzzy | 0 | 0| 
 | 20230625T01:08:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8760 | 1925| 
 | 20230624T22:21:16Z | Null | https://github.com/kuna142/fuzzy-broccoli | 0 | 0| 
 | 20230624T21:13:04Z | Fuzzer for a simple implementation of a Tar extractor. 20/20 | https://github.com/maluyckx/Fuzzer-for-Tar | 0 | 0| 
 | 20230624T19:07:44Z | Null | https://github.com/FalkZ/poc-white-box-fuzzing-javascript | 0 | 0| 
-| 20230624T18:47:18Z | Null | https://github.com/singh-rishabhkumar/Fuzzy-Logic-Based-MPPT | 0 | 0| 
-| 20230624T16:45:35Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
-| 20230624T12:47:21Z | This is a cli tool to add fuzzy search in a loopback 4 app. | https://github.com/aaqilniz/lb4-fuzzy | 0 | 0| 
-| 20230624T10:18:45Z | Null | https://github.com/haidoan47/fuzzygotta | 0 | 0| 
-| 20230624T09:02:14Z | Automatic irrigation system with fuzzy logic | https://github.com/EPSOFT/Automatic-irrigation-system-with-fuzzy-logic | 0 | 0| 
 
 
 
