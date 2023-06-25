@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T01:30:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
 | 20230625T01:16:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
 | 20230625T01:10:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5084 | 638| 
@@ -80,7 +81,6 @@
 | 20230624T22:43:32Z | Null | https://github.com/vithurzen-vilvarajah/Exploitation-base-de-donn-es | 0 | 0| 
 | 20230624T22:42:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 530 | 105| 
 | 20230624T21:41:35Z | Siteminder DOM-Based XSS + Exploit | https://github.com/amiralium/SiteMinder-XSS | 0 | 0| 
-| 20230624T21:16:10Z | This is an old perl scanner I found for the php my admin exploit that%s from 2009. I got bored and figured I would practice perl and learn a bit about an older language and convert it to python. This is for educational purposes mostly because this exploit being well over a decade old I wouldn%t suspect a large impact by any means from publishing. | https://github.com/ItaIia/PhpMyAdmin | 0 | 0| 
 
 
 # backdoor on Github 推荐
