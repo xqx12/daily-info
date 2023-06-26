@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T00:07:16Z | 🚫️📃️🚫️ An article on the problems with Google Maps Maker, and why it should have been avoided/exploited. | https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Maker | 1 | 0| 
 | 20230625T23:21:24Z | MangoCord is a FREE fork of flamecord and waterfall that protects your Minecraft server from bot attacks and exploits with its advanced set of antibot filtering features. MangoCord also fixes bugs, improves performance and adds new functionalities to your server. Download Mangocord now!  | https://github.com/LuciaNishimiya/MangoCord | 0 | 0| 
 | 20230625T22:21:52Z | Null | https://github.com/SamMariassouce/exploitation | 0 | 0| 
 | 20230625T20:08:49Z | Noble%s cracked cheat software / injector designed specifically for the popular online game Overwatch. This cracked program provides players with unfair advantages for %FREE%, allowing you to dominate the game by exploiting vulnerabilities within the game%s code at no cost. | https://github.com/Arsenic-As/NobleCracked-loader | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230625T09:46:27Z | A proof-of-concept implementation of Route Selection on Clustered Cognitive Radio Networks (CRNs) on USRP N200/ GNU Radio. In CRNs, secondary user (SU) explore and exploit spectrum in the absence of primary users (PUs). The SU nodes in the topology are static and divided into three main classes source node, intermediate nodes and destination node.  | https://github.com/MusaviMariam/MastersThesis | 0 | 0| 
 | 20230625T08:58:01Z | 我们开发关于 gpt4all 功能的api在win10系统上 | https://github.com/ZhangTai123/gpt4all-api-exploit-for-window10 | 0 | 0| 
 | 20230625T08:46:27Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 8 | 1| 
-| 20230625T08:38:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1004 | 201| 
 
 
 # backdoor on Github 推荐
