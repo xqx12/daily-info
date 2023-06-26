@@ -67,9 +67,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230625T08:59:50Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 94 | 18| 
-| 20230625T06:21:01Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 198 | 19| 
-| 20230625T02:44:22Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 5 | 1| 
+| 20230625T23:40:51Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 201 | 19| 
+| 20230625T23:38:08Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
+| 20230625T14:23:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3476 | 481| 
+| 20230625T13:09:50Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 6 | 1| 
 | 20230625T00:44:27Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 403 | 27| 
 
 
