@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T00:26:34Z | The Vulnerability Database is a Flutter project that allows users to explore cybersecurity news and search for known exploits. It provides a user-friendly interface to browse through the latest news articles related to cybersecurity and access detailed information about specific vulnerabilities. | https://github.com/SaherMuhamed/vulnerabilities-database-flutter | 1 | 0| 
+| 20230626T00:20:31Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 1 | 0| 
 | 20230626T00:07:16Z | 🚫️📃️🚫️ An article on the problems with Google Maps Maker, and why it should have been avoided/exploited. | https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Maker | 1 | 0| 
 | 20230625T23:21:24Z | MangoCord is a FREE fork of flamecord and waterfall that protects your Minecraft server from bot attacks and exploits with its advanced set of antibot filtering features. MangoCord also fixes bugs, improves performance and adds new functionalities to your server. Download Mangocord now!  | https://github.com/LuciaNishimiya/MangoCord | 0 | 0| 
 | 20230625T22:21:52Z | Null | https://github.com/SamMariassouce/exploitation | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230625T15:25:18Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10339 | 1615| 
 | 20230625T11:36:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5250 | 741| 
 | 20230625T10:42:15Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 532 | 105| 
-| 20230625T10:16:10Z | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | 0 | 1| 
-| 20230625T09:46:27Z | A proof-of-concept implementation of Route Selection on Clustered Cognitive Radio Networks (CRNs) on USRP N200/ GNU Radio. In CRNs, secondary user (SU) explore and exploit spectrum in the absence of primary users (PUs). The SU nodes in the topology are static and divided into three main classes source node, intermediate nodes and destination node.  | https://github.com/MusaviMariam/MastersThesis | 0 | 0| 
 
 
 # backdoor on Github 推荐
