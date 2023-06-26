@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T00:40:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-oo | 0 | 0| 
+| 20230626T00:39:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-oo | 0 | 0| 
 | 20230626T00:32:25Z | 🚫️📃️🚫️ An article on the problems with Google Maps Maker, and why it should have been avoided/exploited. | https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Maps-Maker | 1 | 0| 
 | 20230626T00:30:50Z | MangoCord is a FREE fork of flamecord and waterfall that protects your Minecraft server from bot attacks and exploits with its advanced set of antibot filtering features. MangoCord also fixes bugs, improves performance and adds new functionalities to your server. Download Mangocord now!  | https://github.com/LuciaNishimiya/MangoCord | 1 | 0| 
 | 20230626T00:26:34Z | The Vulnerability Database is a Flutter project that allows users to explore cybersecurity news and search for known exploits. It provides a user-friendly interface to browse through the latest news articles related to cybersecurity and access detailed information about specific vulnerabilities. | https://github.com/SaherMuhamed/vulnerabilities-database-flutter | 1 | 0| 
@@ -79,8 +81,6 @@
 | 20230625T20:08:49Z | Noble%s cracked cheat software / injector designed specifically for the popular online game Overwatch. This cracked program provides players with unfair advantages for %FREE%, allowing you to dominate the game by exploiting vulnerabilities within the game%s code at no cost. | https://github.com/Arsenic-As/NobleCracked-loader | 0 | 0| 
 | 20230625T15:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5087 | 639| 
 | 20230625T15:25:18Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10339 | 1615| 
-| 20230625T11:36:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5250 | 741| 
-| 20230625T10:42:15Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 532 | 105| 
 
 
 # backdoor on Github 推荐
