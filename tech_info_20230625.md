@@ -18,13 +18,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230625T23:32:50Z | CVE-2023-22809 | Null | https://github.com/pashayogi/CVE-2023-22809 | | 
+| 20230625T21:10:24Z | CVE-2023-27372 | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | https://github.com/Chocapikk/CVE-2023-27372 | | 
+| 20230625T21:00:16Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 | 20230625T10:16:10Z | CVE-2023-23333 | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230625T12:17:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12833 | 401| 
+| 20230625T19:52:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12835 | 401| 
 | 20230625T06:15:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 313 | 6| 
 
 
@@ -36,21 +39,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T23:21:24Z | MangoCord is a FREE fork of flamecord and waterfall that protects your Minecraft server from bot attacks and exploits with its advanced set of antibot filtering features. MangoCord also fixes bugs, improves performance and adds new functionalities to your server. Download Mangocord now!  | https://github.com/LuciaNishimiya/MangoCord | 0 | 0| 
+| 20230625T22:21:52Z | Null | https://github.com/SamMariassouce/exploitation | 0 | 0| 
+| 20230625T20:08:49Z | Noble%s cracked cheat software / injector designed specifically for the popular online game Overwatch. This cracked program provides players with unfair advantages for %FREE%, allowing you to dominate the game by exploiting vulnerabilities within the game%s code at no cost. | https://github.com/Arsenic-As/NobleCracked-loader | 0 | 0| 
+| 20230625T15:25:18Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10339 | 1615| 
 | 20230625T11:36:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5250 | 741| 
 | 20230625T10:16:10Z | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | 0 | 1| 
 | 20230625T09:46:27Z | A proof-of-concept implementation of Route Selection on Clustered Cognitive Radio Networks (CRNs) on USRP N200/ GNU Radio. In CRNs, secondary user (SU) explore and exploit spectrum in the absence of primary users (PUs). The SU nodes in the topology are static and divided into three main classes source node, intermediate nodes and destination node.  | https://github.com/MusaviMariam/MastersThesis | 0 | 0| 
 | 20230625T08:58:01Z | 我们开发关于 gpt4all 功能的api在win10系统上 | https://github.com/ZhangTai123/gpt4all-api-exploit-for-window10 | 0 | 0| 
 | 20230625T08:46:27Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 8 | 1| 
 | 20230625T08:38:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1004 | 201| 
-| 20230625T01:35:26Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0005-app-ZbJ5l-prefer-exploit | 0 | 0| 
-| 20230625T01:30:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-cv | 0 | 0| 
-| 20230625T01:30:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cv | 0 | 0| 
-| 20230625T01:29:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cv | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T19:46:31Z | Null | https://github.com/Paarxomets/backdoor | 0 | 0| 
+| 20230625T17:59:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 222 | 55| 
+| 20230625T17:13:18Z | Null | https://github.com/Kathir-2703/Creating-a-backdoor-with-SET-EHT | 0 | 0| 
 | 20230625T12:43:11Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5000 | 1879| 
 | 20230625T12:26:23Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230625T07:42:32Z | A repo for Backdoor Learning Resources | https://github.com/shawkui/OpenBackdoor | 0 | 0| 
@@ -77,6 +83,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230625T22:12:06Z | PERSONAL WORK | https://github.com/Esseh12/fuzzy-octo-carnival | 0 | 0| 
+| 20230625T19:43:10Z | EAP/RADIUS Mutation Protocol Fuzzing tool written in python act like client/server that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
+| 20230625T19:35:51Z | Web application fuzzer that automatically detects and fuzzes data in HTTP requests | https://github.com/spmvg/asdfuzz | 0 | 0| 
 | 20230625T10:56:44Z | Null | https://github.com/ArianQazvini/Fuzzy-SelfDriving-Car | 0 | 0| 
 | 20230625T10:09:47Z | Null | https://github.com/cheongwoo-kim/fuzzy-fiesta | 0 | 0| 
 | 20230625T10:08:00Z | GitHub Actions for Go fuzzing test | https://github.com/shogo82148/actions-go-fuzz | 0 | 0| 
