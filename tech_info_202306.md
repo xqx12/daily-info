@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T12:05:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 668 | 172| 
 | 20230626T12:02:00Z | All of the vulnerabilities I could found after reconnaissance, scanning & enumeration along with associated exploitation methods. | https://github.com/saadoxo/Vulnerability-assessment-on-blue | 0 | 0| 
 | 20230626T11:52:36Z | GitOps Repository | https://github.com/pmacik-testing/ci-20u-5t-0038-app-1fsUj-affect-exploit | 0 | 0| 
 | 20230626T11:21:34Z | The MAB problem is important because it has practical uses in areas like medical studies, online ads, recommendations, and resource management. It helps us understand how to balance exploring new options and exploiting what we already know to make the best decisions when facing uncertainty. | https://github.com/bidoscar/Reinforcement_Learning_Multi_Armed_Bandit_MAB_Problem | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230626T09:33:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5253 | 741| 
 | 20230626T08:49:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10342 | 1616| 
 | 20230626T08:04:11Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. Unfortunately, the data are not free, so we can%t share the data in this page. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
-| 20230626T06:05:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 667 | 172| 
 
 
 # backdoor on Github 推荐
