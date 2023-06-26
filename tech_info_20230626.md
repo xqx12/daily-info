@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230626T10:25:18Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
+| 20230626T12:17:50Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230626T08:17:47Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept | | 
 | 20230626T07:08:58Z | CVE-2023-23333 | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | | 
 | 20230626T06:56:58Z | CVE-2020-9496 | ApacheOfBiz 17.12.01 Remote Code Execution | https://github.com/birdlinux/CVE-2020-9496 | | 
