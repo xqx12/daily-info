@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T01:17:40Z | PCU Game AI Fuzzy Logic Project, 2022/2023 - 2 | https://github.com/Denzel-Daniel-D-T/KB_Game_Fuzzy | 0 | 0| 
 | 20230625T22:12:06Z | PERSONAL WORK | https://github.com/Esseh12/fuzzy-octo-carnival | 0 | 0| 
 | 20230625T19:43:10Z | EAP/RADIUS Mutation Protocol Fuzzing tool written in python act like client/server that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
 | 20230625T19:35:51Z | Web application fuzzer that automatically detects and fuzzes data in HTTP requests | https://github.com/spmvg/asdfuzz | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230625T10:08:00Z | GitHub Actions for Go fuzzing test | https://github.com/shogo82148/actions-go-fuzz | 0 | 0| 
 | 20230625T09:30:31Z | Implementation of %Measuring User influence based on multiple metrics on YouTube % | https://github.com/vashist99/User-hierarchy-based-on-triangular-fuzzy-numbers | 0 | 0| 
 | 20230625T08:50:10Z | Null | https://github.com/AidPaike/AzirFuzz | 0 | 0| 
-| 20230625T01:48:04Z | Null | https://github.com/akramaliomar/arduino-fuzzy | 0 | 0| 
 
 
 
