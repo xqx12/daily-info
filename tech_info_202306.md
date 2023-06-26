@@ -134,13 +134,13 @@
 | 20230625T22:12:06Z | PERSONAL WORK | https://github.com/Esseh12/fuzzy-octo-carnival | 0 | 0| 
 | 20230625T19:43:10Z | EAP/RADIUS Mutation Protocol Fuzzing tool written in python act like client/server that will send malformed packets toward SUT/DUT. | https://github.com/VraiHack/pyfuzz | 1 | 0| 
 | 20230625T19:35:51Z | Web application fuzzer that automatically detects and fuzzes data in HTTP requests | https://github.com/spmvg/asdfuzz | 0 | 0| 
+| 20230625T11:41:47Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3674 | 437| 
 | 20230625T10:56:44Z | Null | https://github.com/ArianQazvini/Fuzzy-SelfDriving-Car | 0 | 0| 
 | 20230625T10:09:47Z | Null | https://github.com/cheongwoo-kim/fuzzy-fiesta | 0 | 0| 
 | 20230625T10:08:00Z | GitHub Actions for Go fuzzing test | https://github.com/shogo82148/actions-go-fuzz | 0 | 0| 
 | 20230625T09:30:31Z | Implementation of %Measuring User influence based on multiple metrics on YouTube % | https://github.com/vashist99/User-hierarchy-based-on-triangular-fuzzy-numbers | 0 | 0| 
 | 20230625T08:50:10Z | Null | https://github.com/AidPaike/AzirFuzz | 0 | 0| 
 | 20230625T01:48:04Z | Null | https://github.com/akramaliomar/arduino-fuzzy | 0 | 0| 
-| 20230625T01:08:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8760 | 1925| 
 
 
 
