@@ -80,7 +80,7 @@
 | 20230626T00:20:31Z | POCs i wrote to pwn CTFs machines and exploit web vulnerabilities | https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts | 1 | 0| 
 | 20230625T22:21:52Z | Null | https://github.com/SamMariassouce/exploitation | 0 | 0| 
 | 20230625T20:08:49Z | Noble%s cracked cheat software / injector designed specifically for the popular online game Overwatch. This cracked program provides players with unfair advantages for %FREE%, allowing you to dominate the game by exploiting vulnerabilities within the game%s code at no cost. | https://github.com/Arsenic-As/NobleCracked-loader | 0 | 0| 
-| 20230625T15:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5087 | 639| 
+| 20230625T15:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5087 | 640| 
 
 
 # backdoor on Github 推荐
