@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T12:02:00Z | All of the vulnerabilities I could found after reconnaissance, scanning & enumeration along with associated exploitation methods. | https://github.com/saadoxo/Vulnerability-assessment-on-blue | 0 | 0| 
 | 20230626T11:52:36Z | GitOps Repository | https://github.com/pmacik-testing/ci-20u-5t-0038-app-1fsUj-affect-exploit | 0 | 0| 
 | 20230626T11:21:34Z | The MAB problem is important because it has practical uses in areas like medical studies, online ads, recommendations, and resource management. It helps us understand how to balance exploring new options and exploiting what we already know to make the best decisions when facing uncertainty. | https://github.com/bidoscar/Reinforcement_Learning_Multi_Armed_Bandit_MAB_Problem | 0 | 0| 
 | 20230626T11:04:40Z | Rogue.sh is an automated Bash script for Linux systems that performs Nmap scans, sets up Metasploit, exploits vulnerabilities, downloads sensitive files, gathers credentials, and executes post-exploitation tasks, providing a comprehensive overview of a target system%s vulnerabilities and security measures. | https://github.com/1337spectra/rogue | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20230626T08:49:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10342 | 1616| 
 | 20230626T08:04:11Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. Unfortunately, the data are not free, so we can%t share the data in this page. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
 | 20230626T06:05:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 667 | 172| 
-| 20230626T02:04:21Z | ISHS ZALI Exploiting Program | https://github.com/sw8744/ISHS_ZALI_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,6 +68,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T11:06:39Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 202 | 19| 
+| 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
+| 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
+| 20230626T02:26:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2263 | 626| 
 
 
 # big4 on Github 推荐
