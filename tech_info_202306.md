@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T12:14:23Z | GitHub repo containing my detailed write-ups of TryHackMe%s Boot2Root machines. Explore my resolution methods, discover exploited vulnerabilities, and learn about the techniques used to gain root access. | https://github.com/Vincent6785/write-up_collection | 0 | 0| 
 | 20230626T12:05:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 668 | 172| 
 | 20230626T12:02:00Z | All of the vulnerabilities I could found after reconnaissance, scanning & enumeration along with associated exploitation methods. | https://github.com/saadoxo/Vulnerability-assessment-on-blue | 0 | 0| 
 | 20230626T11:52:36Z | GitOps Repository | https://github.com/pmacik-testing/ci-20u-5t-0038-app-1fsUj-affect-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230626T10:08:55Z | Noble%s cracked cheat software / injector designed specifically for the popular online game Overwatch. This cracked program provides players with unfair advantages for %FREE%, allowing you to dominate the game by exploiting vulnerabilities within the game%s code at no cost. | https://github.com/jacobleo329/NobleCracked-loader | 0 | 0| 
 | 20230626T09:33:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5253 | 741| 
 | 20230626T08:49:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10342 | 1616| 
-| 20230626T08:04:11Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. Unfortunately, the data are not free, so we can%t share the data in this page. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
 
 
 # backdoor on Github 推荐
