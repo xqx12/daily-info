@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230626T01:58:57Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 | 20230625T23:32:50Z | CVE-2023-22809 | Null | https://github.com/pashayogi/CVE-2023-22809 | | 
 | 20230625T21:10:24Z | CVE-2023-27372 | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | https://github.com/Chocapikk/CVE-2023-27372 | | 
-| 20230625T21:00:16Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 | 20230625T10:16:10Z | CVE-2023-23333 | command injection vulnerability in SolarView Compact poc version 6.0 | https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333 | | 
 | 20230624T19:28:44Z | CVE-2022-44276 | PoC for Responsive Filemanager < 9.12.0 bypass upload restrictions lead to RCE | https://github.com/HerrLeStrate/CVE-2022-44276-PoC | | 
 | 20230624T11:33:21Z | CVE-2023-34839 | Null | https://github.com/sahiloj/CVE-2023-34839 | | 
