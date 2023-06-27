@@ -80,7 +80,7 @@
 | 20230626T20:56:45Z | Scripting_Exploits | https://github.com/ManOnFire40/Exploit_Scripting | 1 | 0| 
 | 20230626T20:29:12Z | The BEST iReady hack known to date. | https://github.com/notplu/Godlike | 131 | 165| 
 | 20230626T19:16:19Z | An exploit for the Nibbles manager version 4.0.3. This exploit allows RCE to be performed. | https://github.com/FredBrave/CVE-2015-6967 | 0 | 1| 
-| 20230626T12:14:23Z | GitHub repo containing my detailed write-ups of TryHackMe%s Boot2Root machines. Explore my resolution methods, discover exploited vulnerabilities, and learn about the techniques used to gain root access. | https://github.com/Vincent6785/write-up_collection | 0 | 0| 
+| 20230626T16:22:55Z | A Minecraft Utility Mod for the Quilt Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | 0 | 0| 
 
 
 # backdoor on Github 推荐
