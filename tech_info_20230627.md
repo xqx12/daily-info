@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:14:44Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T11:32:31Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
-| 20230627T09:43:02Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T09:01:59Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 | 20230627T08:39:01Z | CVE-2023-34840 | XSS in angular-ui-notification | https://github.com/Xh4H/CVE-2023-34840 | | 
 | 20230627T02:36:44Z | CVE-2023-34598 | Gibbon本地文件包含漏洞（CVE-2023-34598） | https://github.com/Szlein/CVE-2023-34598 | | 
