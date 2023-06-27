@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:36:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 203 | 30| 
 | 20230627T12:14:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1927| 
 | 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230627T11:26:27Z | Receipt management web app written in ASP.NET C# | https://github.com/zoranmesec/Fuzzy | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230627T08:48:09Z | Experiment data and scripts for the artifact evaluation of %Forming Faster Firmware Fuzzers% | https://github.com/pr0me/safirefuzz-experiments | 4 | 0| 
 | 20230627T07:32:25Z | Null | https://github.com/NikiSkaarup/fuzzy-octo-fishstick | 0 | 0| 
 | 20230627T00:40:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3676 | 437| 
-| 20230627T00:35:32Z | Control raspberry pi fan speed using hardware PWM and fuzzy logic | https://github.com/Manosgou/Fuzzy-Pi-Fan | 0 | 0| 
 
 
 
