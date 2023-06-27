@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230627T00:19:40Z | Null | https://github.com/rodrigosociarelidemorais/fuzzy-doodle | 0 | 0| 
+| 20230627T00:32:38Z | Null | https://github.com/rodrigosociarelidemorais/fuzzy-doodle | 0 | 0| 
 | 20230626T23:51:19Z | Null | https://github.com/kelleyorenh/fuzzy-memory | 1 | 1| 
 | 20230626T23:37:52Z | Fuzzing Study: https://www.fuzzingbook.org/ | https://github.com/young170/TheFuzzingBook | 0 | 0| 
 | 20230626T23:10:51Z | Null | https://github.com/macarelov/fuzzy-winner | 0 | 0| 
