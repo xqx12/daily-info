@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T00:36:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i6 | 0 | 0| 
+| 20230627T00:35:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i6 | 0 | 0| 
 | 20230627T00:34:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i6 | 0 | 0| 
 | 20230626T22:53:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 236 | 257| 
 | 20230626T22:27:45Z | This tool makes it easy to exploit the SQL injection vulnerabilities of a web application by relying on the database response ,do further analysis on the target website with the help of sqlmap and logging all results into summary file | https://github.com/Nawir1/SqlTrap | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230626T20:29:12Z | The BEST iReady hack known to date. | https://github.com/notplu/Godlike | 131 | 165| 
 | 20230626T19:16:19Z | An exploit for the Nibbles manager version 4.0.3. This exploit allows RCE to be performed. | https://github.com/FredBrave/CVE-2015-6967 | 0 | 1| 
 | 20230626T12:14:23Z | GitHub repo containing my detailed write-ups of TryHackMe%s Boot2Root machines. Explore my resolution methods, discover exploited vulnerabilities, and learn about the techniques used to gain root access. | https://github.com/Vincent6785/write-up_collection | 0 | 0| 
-| 20230626T12:05:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 668 | 172| 
-| 20230626T12:02:00Z | All of the vulnerabilities I could found after reconnaissance, scanning & enumeration along with associated exploitation methods. | https://github.com/saadoxo/Vulnerability-assessment-on-blue | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T00:35:32Z | Control raspberry pi fan speed using hardware PWM and fuzzy logic | https://github.com/Manosgou/Fuzzy-Pi-Fan | 0 | 0| 
 | 20230627T00:32:38Z | Null | https://github.com/rodrigosociarelidemorais/fuzzy-doodle | 0 | 0| 
 | 20230626T23:51:19Z | Null | https://github.com/kelleyorenh/fuzzy-memory | 1 | 1| 
 | 20230626T23:37:52Z | Fuzzing Study: https://www.fuzzingbook.org/ | https://github.com/young170/TheFuzzingBook | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230626T21:08:49Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 36 | 11| 
 | 20230626T20:20:39Z | Module 4 Coding Quiz | https://github.com/Omarggm/fuzzy-funicular | 0 | 0| 
 | 20230626T19:21:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8767 | 1927| 
-| 20230626T12:01:53Z | Null | https://github.com/jmartins-ledger/test-storage-fuzz | 0 | 0| 
 
 
 
