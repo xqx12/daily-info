@@ -74,6 +74,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T18:48:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3477 | 481| 
 | 20230626T11:06:39Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 202 | 19| 
 | 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
 | 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
