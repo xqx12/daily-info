@@ -31,7 +31,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230626T21:32:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12849 | 402| 
 | 20230626T11:07:53Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 315 | 6| 
 | 20230626T03:22:24Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 76 | 18| 
 | 20230626T02:26:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2263 | 626| 
@@ -75,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230626T18:48:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3477 | 481| 
-| 20230626T11:06:39Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 202 | 19| 
 | 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
 | 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
 | 20230626T02:26:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2263 | 626| 
