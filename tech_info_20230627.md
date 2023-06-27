@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
 | 20230627T12:14:44Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T11:32:31Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 

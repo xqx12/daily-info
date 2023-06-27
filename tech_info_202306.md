@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
 | 20230627T12:14:44Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T11:32:31Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
@@ -35,7 +36,6 @@
 | 20230627T02:28:03Z | CVE-2022-4510 | A Python script for generating exploits targeting CVE-2022-4510 RCE Binwalk. It supports SSH, command execution, and reverse shell options. Exploits are saved in PNG format. Ideal for testing and demonstrations. | https://github.com/adhikara13/CVE-2022-4510-WalkingPath | | 
 | 20230626T17:18:31Z | CVE-2023-27372 | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | https://github.com/Chocapikk/CVE-2023-27372 | | 
 | 20230626T09:32:33Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
-| 20230626T08:17:47Z | CVE-2023-32243 | Null | https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept | | 
 
 
 # klee on Github 推荐
