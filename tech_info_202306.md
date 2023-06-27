@@ -131,13 +131,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T00:40:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3676 | 437| 
 | 20230627T00:35:32Z | Control raspberry pi fan speed using hardware PWM and fuzzy logic | https://github.com/Manosgou/Fuzzy-Pi-Fan | 0 | 0| 
 | 20230627T00:32:38Z | Null | https://github.com/rodrigosociarelidemorais/fuzzy-doodle | 0 | 0| 
 | 20230626T23:51:19Z | Null | https://github.com/kelleyorenh/fuzzy-memory | 1 | 1| 
 | 20230626T23:37:52Z | Fuzzing Study: https://www.fuzzingbook.org/ | https://github.com/young170/TheFuzzingBook | 0 | 0| 
 | 20230626T23:10:51Z | Null | https://github.com/macarelov/fuzzy-winner | 0 | 0| 
 | 20230626T22:17:05Z | Fuzzing the JPacman application | https://github.com/lunageens/JPacmanFuzz | 0 | 0| 
-| 20230626T21:19:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3675 | 437| 
 | 20230626T21:08:49Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 36 | 11| 
 | 20230626T20:20:39Z | Module 4 Coding Quiz | https://github.com/Omarggm/fuzzy-funicular | 0 | 0| 
 | 20230626T19:21:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8767 | 1927| 
