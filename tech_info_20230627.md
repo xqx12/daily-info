@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230627T11:26:27Z | Receipt management web app written in ASP.NET C# | https://github.com/zoranmesec/Fuzzy | 0 | 0| 
 | 20230627T10:42:12Z | SQL project featuring Maven Fuzzy Factory--a fictional toy manufacturer. This part of project mainly focus on the analysis of traffic sources and web performance | https://github.com/anniexwy/Maven-Fuzzy-Factory-Project-1 | 0 | 0| 
 | 20230627T10:23:10Z | Null | https://github.com/fuzzyfruit7/fuzzyfruit7.github.io | 0 | 0| 
