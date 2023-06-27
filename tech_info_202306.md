@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T01:41:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5092 | 640| 
 | 20230627T01:33:14Z | As we are unable to submit new files (Exploration and Exploitation in Hierarchical Reinforcement Learning with Adaptive Scheduling) in the system at this time, we are temporarily depositing revisions here. | https://github.com/www2171668/ECAI-revised-version | 0 | 0| 
 | 20230627T01:32:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
 | 20230627T00:36:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i6 | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230627T00:34:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i6 | 0 | 0| 
 | 20230626T22:53:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 236 | 257| 
 | 20230626T22:27:45Z | This tool makes it easy to exploit the SQL injection vulnerabilities of a web application by relying on the database response ,do further analysis on the target website with the help of sqlmap and logging all results into summary file | https://github.com/Nawir1/SqlTrap | 0 | 0| 
-| 20230626T22:19:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5091 | 640| 
 | 20230626T20:56:45Z | Scripting_Exploits | https://github.com/ManOnFire40/Exploit_Scripting | 1 | 0| 
 | 20230626T20:29:12Z | The BEST iReady hack known to date. | https://github.com/notplu/Godlike | 131 | 165| 
 
