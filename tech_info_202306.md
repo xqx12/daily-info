@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T01:18:00Z | dont use that for bad things >:( ,, i%m behind you lol | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230627T00:27:02Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 | 20230626T21:07:17Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 0 | 0| 
 | 20230626T19:55:37Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230626T05:52:05Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 2 | 0| 
 | 20230625T19:46:31Z | Null | https://github.com/Paarxomets/backdoor | 0 | 0| 
 | 20230625T17:59:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 222 | 55| 
-| 20230625T17:13:18Z | Null | https://github.com/Kathir-2703/Creating-a-backdoor-with-SET-EHT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
