@@ -86,21 +86,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
+| 20230627T11:54:10Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
+| 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
+| 20230627T09:27:02Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5002 | 1881| 
+| 20230627T08:29:21Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 1 | 1| 
+| 20230627T05:54:01Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
 | 20230627T01:18:00Z | dont use that for bad things >:( ,, i%m behind you lol | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230627T00:27:02Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
-| 20230626T21:07:17Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 0 | 0| 
 | 20230626T19:55:37Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
 | 20230626T19:33:00Z | This is a repo for taking over computers with this backdoor hacking tool | https://github.com/SOSAkornut/BackDoor | 0 | 0| 
-| 20230626T17:30:55Z | Null | https://github.com/xer0xde/os-backdoor | 0 | 0| 
-| 20230626T13:06:52Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5002 | 1879| 
-| 20230626T05:52:05Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 2 | 0| 
-| 20230625T19:46:31Z | Null | https://github.com/Paarxomets/backdoor | 0 | 0| 
-| 20230625T17:59:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 222 | 55| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T10:24:43Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 196 | 41| 
 | 20230627T01:55:11Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 203 | 19| 
 | 20230626T18:48:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3477 | 481| 
 | 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
@@ -110,7 +111,6 @@
 | 20230623T14:43:21Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 89 | 2| 
 | 20230620T18:39:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 345 | 81| 
 | 20230620T16:20:31Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 58 | 26| 
-| 20230619T11:04:06Z | Rough survey for testing WebAssembly using symbolic execution methods | https://github.com/Shawdox/-survey-for-wasm-symbolic-execution | 0 | 0| 
 
 
 # big4 on Github 推荐
