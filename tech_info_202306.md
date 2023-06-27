@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T01:32:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5089 | 999| 
 | 20230627T00:36:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i6 | 0 | 0| 
 | 20230627T00:35:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i6 | 0 | 0| 
 | 20230627T00:34:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i6 | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230626T20:56:45Z | Scripting_Exploits | https://github.com/ManOnFire40/Exploit_Scripting | 1 | 0| 
 | 20230626T20:29:12Z | The BEST iReady hack known to date. | https://github.com/notplu/Godlike | 131 | 165| 
 | 20230626T19:16:19Z | An exploit for the Nibbles manager version 4.0.3. This exploit allows RCE to be performed. | https://github.com/FredBrave/CVE-2015-6967 | 0 | 1| 
-| 20230626T16:22:55Z | A Minecraft Utility Mod for the Quilt Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | 0 | 0| 
 
 
 # backdoor on Github 推荐
