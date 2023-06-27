@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230626T23:51:19Z | Null | https://github.com/kelleyorenh/fuzzy-memory | 1 | 1| 
+| 20230626T23:37:52Z | Fuzzing Study: https://www.fuzzingbook.org/ | https://github.com/young170/TheFuzzingBook | 0 | 0| 
+| 20230626T23:10:51Z | Null | https://github.com/macarelov/fuzzy-winner | 0 | 0| 
+| 20230626T22:17:05Z | Fuzzing the JPacman application | https://github.com/lunageens/JPacmanFuzz | 0 | 0| 
+| 20230626T21:08:49Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 36 | 11| 
+| 20230626T20:20:39Z | Module 4 Coding Quiz | https://github.com/Omarggm/fuzzy-funicular | 0 | 0| 
+| 20230626T19:21:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8767 | 1927| 
 | 20230626T12:01:53Z | Null | https://github.com/jmartins-ledger/test-storage-fuzz | 0 | 0| 
 | 20230626T11:58:13Z | Null | https://github.com/Erickhbs/Learning-Fuzzy-logic | 0 | 0| 
 | 20230626T11:47:06Z | Implementation of a fuzzy rule-based system, a neural network and a fuzzy neural network. Code written for my Bachelor%s Thesis.  | https://github.com/loredanasandu/tfg-fuzzy-logic-artificial-intelligence | 0 | 0| 
-| 20230626T11:44:31Z | fuzzy match for large dataset | https://github.com/Parkerlee0619/fuzzy-match | 0 | 0| 
-| 20230626T11:24:16Z | Null | https://github.com/Ishikashaw1019/fuzzy-lamp | 0 | 0| 
-| 20230626T10:21:27Z | Fuzzing Study: https://www.fuzzingbook.org/ | https://github.com/young170/TheFuzzingBook | 0 | 0| 
-| 20230626T10:03:09Z | Test for Python and Javascript | https://github.com/LukeBaylis/fuzzy-rotary-phone | 0 | 0| 
-| 20230626T10:02:50Z | A fuzzy-finder command-line tool for removing resources from terraform state | https://github.com/paololazzari/fuzzy-terraform-rm | 23 | 2| 
-| 20230626T09:14:38Z | PERSONAL WORK | https://github.com/Esseh12/fuzzy-octo-carnival | 0 | 0| 
-| 20230626T09:08:43Z | Design and Simulation of Fuzzy Logic Controlled Car Parking Assist System | https://github.com/EPSOFT/Design-and-Simulation-of-Fuzzy-Logic-Controlled-Car-Parking-Assist-System | 0 | 0| 
 
 
 
