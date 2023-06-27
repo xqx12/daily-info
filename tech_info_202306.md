@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
 | 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
 | 20230627T11:54:10Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
@@ -95,7 +96,6 @@
 | 20230627T01:18:00Z | dont use that for bad things >:( ,, i%m behind you lol | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230627T00:27:02Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 | 20230626T19:55:37Z | Null | https://github.com/GuScarenci/LinuxKernelModuleBackdoor | 0 | 0| 
-| 20230626T19:33:00Z | This is a repo for taking over computers with this backdoor hacking tool | https://github.com/SOSAkornut/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

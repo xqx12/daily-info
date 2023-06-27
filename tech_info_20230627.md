@@ -57,6 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
 | 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
 | 20230627T11:54:10Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
