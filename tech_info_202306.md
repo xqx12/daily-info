@@ -140,7 +140,7 @@
 | 20230627T12:14:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1927| 
 | 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230627T11:26:27Z | Receipt management web app written in ASP.NET C# | https://github.com/zoranmesec/Fuzzy | 0 | 0| 
-| 20230627T10:42:12Z | SQL project featuring Maven Fuzzy Factory--a fictional toy manufacturer. This part of project mainly focus on the analysis of traffic sources and web performance | https://github.com/anniexwy/Maven-Fuzzy-Factory-Project-1 | 0 | 0| 
+| 20230627T11:20:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3677 | 437| 
 
 
 
