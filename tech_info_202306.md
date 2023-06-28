@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:34:43Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
 | 20230628T01:26:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 670 | 172| 
 | 20230628T01:22:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5092 | 1000| 
 | 20230627T23:16:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-079bcdda-7682-4d97-8c03-b1d57c77e390-miFJq-exploit-mark | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230627T15:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-Bv1Hl-train-exploit | 0 | 0| 
 | 20230627T15:26:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5095 | 640| 
 | 20230627T11:35:31Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 39 | 0| 
-| 20230627T11:20:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5252 | 741| 
 
 
 # backdoor on Github 推荐
