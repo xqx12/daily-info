@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:47:35Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
 | 20230628T01:08:52Z | Null | https://github.com/Serendipity-Song/FuzzingBook | 0 | 0| 
 | 20230628T00:12:24Z | Null | https://github.com/samclearman/fuzzymax | 0 | 0| 
 | 20230627T23:15:44Z | Null | https://github.com/Dessana21/Logica_Fuzzy_Trab2C213 | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230627T15:10:16Z | A set of codes to get a 5-point Likert based database through on fuzzification and two defuzzification procedures. | https://github.com/SahandFaez/Fuzzification | 1 | 0| 
 | 20230627T12:36:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 203 | 30| 
 | 20230627T12:14:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1927| 
-| 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 
 
 
