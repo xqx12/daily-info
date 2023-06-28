@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
 | 20230628T01:02:17Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
 | 20230627T20:52:20Z | CVE-2023-34843 | Public disclosure for CVE-2023-34843. | https://github.com/rootd4ddy/CVE-2023-34843 | | 
@@ -35,7 +36,6 @@
 | 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 | 20230627T08:39:01Z | CVE-2023-34840 | XSS in angular-ui-notification | https://github.com/Xh4H/CVE-2023-34840 | | 
-| 20230627T02:36:44Z | CVE-2023-34598 | Gibbon本地文件包含漏洞（CVE-2023-34598） | https://github.com/Szlein/CVE-2023-34598 | | 
 
 
 # klee on Github 推荐
@@ -71,9 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:36:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5093 | 1000| 
 | 20230628T01:34:43Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
 | 20230628T01:26:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 670 | 172| 
-| 20230628T01:22:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5092 | 1000| 
 | 20230627T23:16:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-079bcdda-7682-4d97-8c03-b1d57c77e390-miFJq-exploit-mark | 0 | 0| 
 | 20230627T22:30:58Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 7 | 10| 
 | 20230627T21:58:15Z | my external selfleak based on loltf with a lot of exploits, and a pretty nice menu. | https://github.com/xblyscykk/Fortnite-External-Leak | 0 | 0| 
