@@ -93,6 +93,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230627T23:15:44Z | Null | https://github.com/Dessana21/Logica_Fuzzy_Trab2C213 | 0 | 0| 
+| 20230627T21:29:03Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 273 | 35| 
 | 20230627T21:06:49Z | Null | https://github.com/mcartier44/fuzzy-pancake | 0 | 0| 
 | 20230627T20:57:21Z | 1 from turtle import*  2 import colorsys 3 bgcolor(%black%)  4 tracer (10)  5 pensize(5)  6 h = 0  7 for i in range(300): c = coorsys.hsv_to_rgb(h, C  8  9  10  h += 005  pencolor (c)  11 fillcolor(%black%)  12  begin_fill()  13  for j in range(2):  14  fd(i*1.2)  15  rt(60)  16  fd(300)  17  rt(120)  18 rt(121)  19  end_fill()  20  done() | https://github.com/GS13690/fuzzy-fishstick | 0 | 0| 
 | 20230627T15:10:16Z | A set of codes to get a 5-point Likert based database through on fuzzification and two defuzzification procedures. | https://github.com/SahandFaez/Fuzzification | 1 | 0| 
@@ -101,7 +102,6 @@
 | 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230627T11:26:27Z | Receipt management web app written in ASP.NET C# | https://github.com/zoranmesec/Fuzzy | 0 | 0| 
 | 20230627T11:20:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3677 | 436| 
-| 20230627T10:42:12Z | SQL project featuring Maven Fuzzy Factory--a fictional toy manufacturer. This part of project mainly focus on the analysis of traffic sources and web performance | https://github.com/anniexwy/Maven-Fuzzy-Factory-Project-1 | 0 | 0| 
 
 
 
