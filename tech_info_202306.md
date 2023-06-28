@@ -71,8 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:42:50Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
 | 20230628T01:36:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5093 | 1000| 
-| 20230628T01:34:43Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
 | 20230628T01:26:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 670 | 172| 
 | 20230627T23:16:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-079bcdda-7682-4d97-8c03-b1d57c77e390-miFJq-exploit-mark | 0 | 0| 
 | 20230627T22:30:58Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 7 | 10| 
