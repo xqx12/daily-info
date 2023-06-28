@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
-| 20230627T23:02:33Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T20:52:20Z | CVE-2023-34843 | Public disclosure for CVE-2023-34843. | https://github.com/rootd4ddy/CVE-2023-34843 | | 
 | 20230627T20:49:18Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 | 20230627T17:23:24Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
@@ -28,6 +27,7 @@
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 | 20230627T08:39:01Z | CVE-2023-34840 | XSS in angular-ui-notification | https://github.com/Xh4H/CVE-2023-34840 | | 
 | 20230627T02:36:44Z | CVE-2023-34598 | Gibbon本地文件包含漏洞（CVE-2023-34598） | https://github.com/Szlein/CVE-2023-34598 | | 
+| 20230627T02:28:03Z | CVE-2022-4510 | A Python script for generating exploits targeting CVE-2022-4510 RCE Binwalk. It supports SSH, command execution, and reverse shell options. Exploits are saved in PNG format. Ideal for testing and demonstrations. | https://github.com/adhikara13/CVE-2022-4510-WalkingPath | | 
 
 
 # klee on Github 推荐
