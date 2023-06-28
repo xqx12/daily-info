@@ -47,7 +47,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230627T23:16:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-079bcdda-7682-4d97-8c03-b1d57c77e390-miFJq-exploit-mark | 0 | 0| 
-| 20230627T22:31:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5091 | 1000| 
 | 20230627T22:30:58Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 7 | 10| 
 | 20230627T21:58:15Z | my external selfleak based on loltf with a lot of exploits, and a pretty nice menu. | https://github.com/xblyscykk/Fortnite-External-Leak | 0 | 0| 
 | 20230627T20:21:38Z | Null | https://github.com/JailbreakPS4exploit/JailbreakPS4exploit.github.io | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20230627T11:35:31Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 39 | 0| 
 | 20230627T11:20:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5252 | 741| 
 | 20230627T11:18:38Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 12 | 2| 
+| 20230627T11:13:52Z | Null | https://github.com/cleypanw/prisma-cloud-exploitation-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
