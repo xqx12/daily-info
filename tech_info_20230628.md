@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T12:10:49Z | A simple demonstration of a linux kernel module that sends keyboard data to an external server | https://github.com/lucasgpulcinelli/backdoor-module | 1 | 0| 
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 | 20230628T06:27:47Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1882| 
 

@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T12:10:49Z | A simple demonstration of a linux kernel module that sends keyboard data to an external server | https://github.com/lucasgpulcinelli/backdoor-module | 1 | 0| 
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 | 20230628T06:27:47Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1882| 
 | 20230627T13:50:11Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 153 | 18| 
@@ -95,7 +96,6 @@
 | 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
 | 20230627T08:29:21Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 1 | 1| 
 | 20230627T05:54:01Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
-| 20230627T01:18:00Z | dont use that for bad things >:( ,, i%m behind you lol | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
