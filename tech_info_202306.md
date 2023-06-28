@@ -76,11 +76,11 @@
 | 20230627T21:58:15Z | my external selfleak based on loltf with a lot of exploits, and a pretty nice menu. | https://github.com/xblyscykk/Fortnite-External-Leak | 0 | 0| 
 | 20230627T20:21:38Z | Null | https://github.com/JailbreakPS4exploit/JailbreakPS4exploit.github.io | 0 | 0| 
 | 20230627T15:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-Bv1Hl-train-exploit | 0 | 0| 
+| 20230627T15:26:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5095 | 640| 
 | 20230627T11:35:31Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 39 | 0| 
 | 20230627T11:20:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5252 | 741| 
 | 20230627T11:18:38Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 12 | 2| 
 | 20230627T11:13:52Z | Null | https://github.com/cleypanw/prisma-cloud-exploitation-demo | 0 | 0| 
-| 20230627T09:55:10Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1912 | 196| 
 
 
 # backdoor on Github 推荐
