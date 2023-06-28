@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230628T10:38:04Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
+| 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
 | 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
-| 20230628T01:02:17Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
 | 20230627T20:52:20Z | CVE-2023-34843 | Public disclosure for CVE-2023-34843. | https://github.com/rootd4ddy/CVE-2023-34843 | | 
 | 20230627T20:49:18Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
@@ -35,18 +36,17 @@
 | 20230627T16:15:37Z | CVE-2023-35843 | NocoDB任意文件读取CVE-2023-35843 | https://github.com/Szlein/CVE-2023-35843 | | 
 | 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
 | 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
-| 20230627T08:39:01Z | CVE-2023-34840 | XSS in angular-ui-notification | https://github.com/Xh4H/CVE-2023-34840 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230628T01:09:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12863 | 402| 
+| 20230628T11:35:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12868 | 402| 
+| 20230628T09:48:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2265 | 626| 
+| 20230628T06:02:08Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 316 | 6| 
 | 20230627T22:25:43Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 11 | 5| 
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
-| 20230626T11:07:53Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 315 | 6| 
 | 20230626T03:22:24Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 76 | 18| 
-| 20230626T02:26:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2263 | 626| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230622T06:18:13Z | Calculadora de cerradura de kleene, unión, intersección   | https://github.com/HedelGovea/cerradura_de_kleene | 0 | 0| 
 | 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T07:42:56Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 30 | 12| 
 | 20230627T11:30:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 344 | 81| 
 | 20230626T09:03:25Z | Null | https://github.com/sswad1q/s2e | 0 | 0| 
-| 20230626T03:20:22Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 30 | 12| 
 | 20230624T11:29:07Z | Sleep to earn | https://github.com/tinehtun/S2E | 7 | 0| 
 | 20230622T15:28:52Z | Null | https://github.com/jd-co/S2EV-User | 0 | 0| 
 | 20230621T09:05:38Z | Null | https://github.com/DusaVignesh/s2ev_user | 0 | 0| 
@@ -71,22 +71,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
+| 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
+| 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
+| 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
+| 20230628T10:10:48Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | 12 | 1| 
+| 20230628T09:26:49Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 578 | 24| 
+| 20230628T06:54:20Z | A hands-on guide to learn linux binary exploitation | https://github.com/Dirac231/F0rge | 2 | 0| 
+| 20230628T06:04:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 136 | 13| 
+| 20230628T05:34:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5257 | 742| 
 | 20230628T01:42:50Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
-| 20230628T01:36:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5093 | 1000| 
-| 20230628T01:26:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 670 | 172| 
-| 20230627T23:16:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-079bcdda-7682-4d97-8c03-b1d57c77e390-miFJq-exploit-mark | 0 | 0| 
-| 20230627T22:30:58Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 7 | 10| 
-| 20230627T21:58:15Z | my external selfleak based on loltf with a lot of exploits, and a pretty nice menu. | https://github.com/xblyscykk/Fortnite-External-Leak | 0 | 0| 
-| 20230627T20:21:38Z | Null | https://github.com/JailbreakPS4exploit/JailbreakPS4exploit.github.io | 0 | 0| 
-| 20230627T15:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-Bv1Hl-train-exploit | 0 | 0| 
-| 20230627T15:26:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5095 | 640| 
-| 20230627T14:16:23Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 202 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230627T21:07:00Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1881| 
+| 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
+| 20230628T06:27:47Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1882| 
 | 20230627T13:50:11Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 153 | 18| 
 | 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
 | 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
@@ -95,18 +96,17 @@
 | 20230627T08:29:21Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 1 | 1| 
 | 20230627T05:54:01Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
 | 20230627T01:18:00Z | dont use that for bad things >:( ,, i%m behind you lol | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
-| 20230627T00:27:02Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T11:58:48Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 204 | 19| 
+| 20230628T09:48:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2265 | 626| 
 | 20230627T23:23:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3478 | 481| 
-| 20230627T14:13:24Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 204 | 19| 
 | 20230627T10:24:43Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 196 | 41| 
 | 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
 | 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
-| 20230626T02:26:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2263 | 626| 
 | 20230625T23:38:08Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
 | 20230623T14:43:21Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 89 | 2| 
 | 20230620T18:39:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 345 | 81| 
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T11:51:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47367 | 23048| 
+| 20230628T11:30:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1142| 
+| 20230628T11:05:20Z | Null | https://github.com/sandrawalker74489/fuzzy-robot | 0 | 0| 
+| 20230628T10:20:17Z | Null | https://github.com/ThikerXCX/fuzzy_tsukamoto | 0 | 0| 
+| 20230628T09:55:42Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
+| 20230628T09:39:48Z | SQL project featuring Maven Fuzzy Factory--a fictional eCommerce retail startup that sells stuffed animals. This part of project mainly focus on the analysis of business patterns, channel portfolios & products | https://github.com/anniexwy/Maven-Fuzzy-Factory-Project-2 | 0 | 0| 
+| 20230628T09:37:09Z | Null | https://github.com/prabhjeevnijjar/react-fuzzy-and-full-text-search | 0 | 0| 
+| 20230628T08:54:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8768 | 1927| 
 | 20230628T01:51:34Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
 | 20230628T01:08:52Z | Null | https://github.com/Serendipity-Song/FuzzingBook | 0 | 0| 
-| 20230628T00:12:24Z | Null | https://github.com/samclearman/fuzzymax | 0 | 0| 
-| 20230627T23:15:44Z | Null | https://github.com/Dessana21/Logica_Fuzzy_Trab2C213 | 0 | 0| 
-| 20230627T21:29:03Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 273 | 35| 
-| 20230627T21:06:49Z | Null | https://github.com/mcartier44/fuzzy-pancake | 0 | 0| 
-| 20230627T20:57:21Z | 1 from turtle import*  2 import colorsys 3 bgcolor(%black%)  4 tracer (10)  5 pensize(5)  6 h = 0  7 for i in range(300): c = coorsys.hsv_to_rgb(h, C  8  9  10  h += 005  pencolor (c)  11 fillcolor(%black%)  12  begin_fill()  13  for j in range(2):  14  fd(i*1.2)  15  rt(60)  16  fd(300)  17  rt(120)  18 rt(121)  19  end_fill()  20  done() | https://github.com/GS13690/fuzzy-fishstick | 0 | 0| 
-| 20230627T15:10:16Z | A set of codes to get a 5-point Likert based database through on fuzzification and two defuzzification procedures. | https://github.com/SahandFaez/Fuzzification | 1 | 0| 
-| 20230627T12:36:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 203 | 30| 
-| 20230627T12:14:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1927| 
 
 
 
