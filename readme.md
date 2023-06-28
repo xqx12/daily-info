@@ -45,9 +45,9 @@
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 | 20230628T10:10:48Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | 12 | 1| 
 | 20230628T09:26:49Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 578 | 24| 
+| 20230628T08:14:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13946 | 2364| 
 | 20230628T06:54:20Z | A hands-on guide to learn linux binary exploitation | https://github.com/Dirac231/F0rge | 2 | 0| 
 | 20230628T06:04:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 136 | 13| 
-| 20230628T05:34:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5257 | 742| 
 
 
 # backdoor on Github 推荐
