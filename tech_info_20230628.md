@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T12:29:35Z | Massive exploit tool with discord webhooking! | https://github.com/SuffeliKoodaa/RoseGrabber-builder | 0 | 0| 
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
 | 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
@@ -47,7 +48,6 @@
 | 20230628T06:54:20Z | A hands-on guide to learn linux binary exploitation | https://github.com/Dirac231/F0rge | 2 | 0| 
 | 20230628T06:04:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 136 | 13| 
 | 20230628T05:34:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5257 | 742| 
-| 20230628T01:42:50Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/legit1337x/legit1337x | 0 | 0| 
 
 
 # backdoor on Github 推荐
