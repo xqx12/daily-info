@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T01:08:52Z | Null | https://github.com/Serendipity-Song/FuzzingBook | 0 | 0| 
 | 20230628T00:12:24Z | Null | https://github.com/samclearman/fuzzymax | 0 | 0| 
 | 20230627T23:15:44Z | Null | https://github.com/Dessana21/Logica_Fuzzy_Trab2C213 | 0 | 0| 
 | 20230627T21:06:49Z | Null | https://github.com/mcartier44/fuzzy-pancake | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230627T12:14:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1927| 
 | 20230627T12:05:19Z | Null | https://github.com/mingnanan/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20230627T11:26:27Z | Receipt management web app written in ASP.NET C# | https://github.com/zoranmesec/Fuzzy | 0 | 0| 
-| 20230627T11:20:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3677 | 437| 
 
 
 
