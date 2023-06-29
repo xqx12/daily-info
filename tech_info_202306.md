@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T01:55:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 671 | 172| 
 | 20230629T01:08:11Z | Xperion Exploits | https://github.com/hellofri3nds2/Xperion | 0 | 0| 
 | 20230629T00:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-gCCES-exploit-use | 0 | 0| 
 | 20230628T23:24:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5128 | 1001| 
@@ -80,7 +81,6 @@
 | 20230628T15:30:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 203 | 11| 
 | 20230628T12:29:35Z | Massive exploit tool with discord webhooking! | https://github.com/SuffeliKoodaa/RoseGrabber-builder | 0 | 0| 
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
-| 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
 
 
 # backdoor on Github 推荐
