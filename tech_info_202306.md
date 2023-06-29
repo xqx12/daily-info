@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T23:55:21Z | Null | https://github.com/sonjdaniel/Fuzzy-Project | 0 | 0| 
+| 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
+| 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
+| 20230628T18:21:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1422 | 103| 
+| 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
+| 20230628T13:53:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8769 | 1927| 
 | 20230628T12:48:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47368 | 23049| 
 | 20230628T11:30:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1142| 
 | 20230628T11:05:20Z | Null | https://github.com/sandrawalker74489/fuzzy-robot | 0 | 0| 
 | 20230628T10:20:17Z | Null | https://github.com/ThikerXCX/fuzzy_tsukamoto | 0 | 0| 
-| 20230628T09:55:42Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
-| 20230628T09:39:48Z | SQL project featuring Maven Fuzzy Factory--a fictional eCommerce retail startup that sells stuffed animals. This part of project mainly focus on the analysis of business patterns, channel portfolios & products | https://github.com/anniexwy/Maven-Fuzzy-Factory-Project-2 | 0 | 0| 
-| 20230628T09:37:09Z | Null | https://github.com/prabhjeevnijjar/react-fuzzy-and-full-text-search | 0 | 0| 
-| 20230628T08:54:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8768 | 1927| 
-| 20230628T01:51:34Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
-| 20230628T01:08:52Z | Null | https://github.com/Serendipity-Song/FuzzingBook | 0 | 0| 
 
 
 
