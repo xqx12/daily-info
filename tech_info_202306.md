@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T00:59:10Z | Null | https://github.com/Blonde488/fuzzy-umbrella | 0 | 0| 
 | 20230629T00:25:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2745 | 187| 
 | 20230629T00:19:04Z | Null | https://github.com/AkshithByju/fuzzy-enigma | 0 | 0| 
 | 20230628T23:55:21Z | Null | https://github.com/sonjdaniel/Fuzzy-Project | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230628T18:21:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1422 | 103| 
 | 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
 | 20230628T13:53:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8769 | 1927| 
-| 20230628T12:48:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47368 | 23049| 
 
 
 
