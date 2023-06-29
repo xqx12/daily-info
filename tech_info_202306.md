@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T00:37:08Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 0 | 0| 
 | 20230628T23:24:47Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 16 | 5| 
 | 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230628T16:47:45Z | A simple example of a linux kernel module that implements a backdoor that can communicate with another computer, receive shell commands, and send the responses of those commands back, i.e., performs a reverse shell. In addition, it can take screenshots and read the user input (keylogger). | https://github.com/matheuspd/Linux-Kernel-Module-Backdoor-Demonstration | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230627T13:50:11Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 153 | 18| 
 | 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
 | 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
-| 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
