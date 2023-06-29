@@ -77,10 +77,10 @@
 | 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
 | 20230628T22:46:19Z | Null | https://github.com/tukru/SMB2exploitation.txt | 1 | 0| 
 | 20230628T21:55:18Z | aaaaaaaaaaaaaaaaaaaaaaaaa | https://github.com/d4ba/Exploit-Guard | 0 | 0| 
+| 20230628T15:30:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 203 | 11| 
 | 20230628T12:29:35Z | Massive exploit tool with discord webhooking! | https://github.com/SuffeliKoodaa/RoseGrabber-builder | 0 | 0| 
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
-| 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
 
 
 # backdoor on Github 推荐
