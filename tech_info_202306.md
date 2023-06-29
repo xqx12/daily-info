@@ -26,26 +26,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230629T00:48:05Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
+| 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
+| 20230629T10:15:38Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
+| 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
+| 20230629T04:07:02Z | CVE-2022-22963 | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963 | | 
+| 20230629T03:04:12Z | CVE-2023-27997 | test | https://github.com/gysf666/CVE-2023-27997-test | | 
 | 20230628T19:43:22Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 | 20230628T15:08:15Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
 | 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
 | 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
-| 20230627T20:52:20Z | CVE-2023-34843 | Public disclosure for CVE-2023-34843. | https://github.com/rootd4ddy/CVE-2023-34843 | | 
-| 20230627T17:23:24Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230627T16:15:37Z | CVE-2023-35843 | NocoDB任意文件读取CVE-2023-35843 | https://github.com/Szlein/CVE-2023-35843 | | 
-| 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T00:13:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12870 | 402| 
+| 20230629T09:36:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12877 | 403| 
+| 20230629T07:09:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 317 | 6| 
 | 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
 | 20230628T15:07:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 77 | 18| 
 | 20230628T14:47:48Z | Null | https://github.com/PinkiePie1189/gollvm-klee | 0 | 0| 
-| 20230628T06:02:08Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 316 | 6| 
 | 20230627T22:25:43Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 11 | 5| 
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
@@ -86,16 +86,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T00:37:08Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 0 | 0| 
+| 20230629T09:13:03Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 2 | 0| 
+| 20230629T08:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 223 | 55| 
+| 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
+| 20230629T07:46:22Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 32 | 1| 
 | 20230628T23:24:47Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 16 | 5| 
 | 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230628T16:47:45Z | A simple example of a linux kernel module that implements a backdoor that can communicate with another computer, receive shell commands, and send the responses of those commands back, i.e., performs a reverse shell. In addition, it can take screenshots and read the user input (keylogger). | https://github.com/matheuspd/Linux-Kernel-Module-Backdoor-Demonstration | 0 | 0| 
-| 20230628T16:34:54Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5006 | 1882| 
+| 20230628T16:34:54Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5006 | 1883| 
 | 20230628T13:39:13Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230628T12:10:49Z | A simple demonstration of a linux kernel module that sends keyboard data to an external server | https://github.com/lucasgpulcinelli/backdoor-module | 1 | 0| 
-| 20230627T13:50:11Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 153 | 18| 
-| 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
-| 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T01:31:00Z | Null | https://github.com/personalizad0s/fuzzysuccotash | 0 | 0| 
-| 20230629T01:21:08Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1423 | 103| 
-| 20230629T00:59:10Z | Null | https://github.com/Blonde488/fuzzy-umbrella | 0 | 0| 
-| 20230629T00:25:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2745 | 187| 
-| 20230629T00:19:04Z | Null | https://github.com/AkshithByju/fuzzy-enigma | 0 | 0| 
-| 20230628T23:55:21Z | Null | https://github.com/sonjdaniel/Fuzzy-Project | 0 | 0| 
-| 20230628T23:25:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3680 | 436| 
-| 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
-| 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
-| 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
+| 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
+| 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
+| 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
+| 20230629T10:35:39Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-TugasBesar | 0 | 0| 
+| 20230629T10:34:30Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-Referensi | 0 | 0| 
+| 20230629T10:31:35Z | Null | https://github.com/onionpsy/clang-15-fuzz-32b | 0 | 0| 
+| 20230629T09:04:13Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 847 | 103| 
+| 20230629T07:28:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 521 | 82| 
+| 20230629T06:35:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1143| 
+| 20230629T02:42:40Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 84 | 30| 
 
 
 
