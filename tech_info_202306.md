@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T09:36:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12877 | 403| 
+| 20230629T12:43:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12878 | 403| 
 | 20230629T07:09:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 317 | 6| 
 | 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
 | 20230628T15:07:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 77 | 18| 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
 | 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
 | 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230629T09:04:13Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 847 | 103| 
 | 20230629T07:28:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 521 | 82| 
 | 20230629T06:35:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1143| 
-| 20230629T02:42:40Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 84 | 30| 
 
 
 
