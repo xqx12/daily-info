@@ -78,9 +78,9 @@
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
 | 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
+| 20230628T10:41:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5098 | 641| 
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 | 20230628T10:10:48Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | 12 | 1| 
-| 20230628T09:26:49Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 578 | 24| 
 
 
 # backdoor on Github 推荐
@@ -132,6 +132,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230628T23:55:21Z | Null | https://github.com/sonjdaniel/Fuzzy-Project | 0 | 0| 
+| 20230628T23:25:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3680 | 436| 
 | 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
 | 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
 | 20230628T18:21:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1422 | 103| 
@@ -140,7 +141,6 @@
 | 20230628T12:48:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47368 | 23049| 
 | 20230628T11:30:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1142| 
 | 20230628T11:05:20Z | Null | https://github.com/sandrawalker74489/fuzzy-robot | 0 | 0| 
-| 20230628T10:20:17Z | Null | https://github.com/ThikerXCX/fuzzy_tsukamoto | 0 | 0| 
 
 
 
