@@ -26,31 +26,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230628T10:38:04Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
+| 20230628T20:01:30Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
+| 20230628T19:43:22Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
+| 20230628T15:08:15Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
 | 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
 | 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
 | 20230627T20:52:20Z | CVE-2023-34843 | Public disclosure for CVE-2023-34843. | https://github.com/rootd4ddy/CVE-2023-34843 | | 
-| 20230627T20:49:18Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 | 20230627T17:23:24Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230627T16:15:37Z | CVE-2023-35843 | NocoDB任意文件读取CVE-2023-35843 | https://github.com/Szlein/CVE-2023-35843 | | 
 | 20230627T12:22:06Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252- | | 
-| 20230627T09:57:01Z | CVE-2022-44268 | Tools for working with ImageMagick to handle arbitrary file read vulnerabilities. Generate, read, and apply profile information to PNG files using a command-line interface. | https://github.com/adhikara13/CVE-2022-44268-MagiLeak | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230628T12:41:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12867 | 402| 
-| 20230628T12:31:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2266 | 626| 
+| 20230628T23:07:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12869 | 402| 
+| 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
+| 20230628T15:07:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 77 | 18| 
+| 20230628T14:47:48Z | Null | https://github.com/PinkiePie1189/gollvm-klee | 0 | 0| 
 | 20230628T06:02:08Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 316 | 6| 
 | 20230627T22:25:43Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 11 | 5| 
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
-| 20230626T03:22:24Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 76 | 18| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230622T06:18:13Z | Calculadora de cerradura de kleene, unión, intersección   | https://github.com/HedelGovea/cerradura_de_kleene | 0 | 0| 
 | 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
-| 20230619T01:15:48Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 174 | 48| 
 
 
 # s2e on Github 推荐
@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
+| 20230628T22:46:19Z | Null | https://github.com/tukru/SMB2exploitation.txt | 1 | 0| 
+| 20230628T21:55:18Z | aaaaaaaaaaaaaaaaaaaaaaaaa | https://github.com/d4ba/Exploit-Guard | 0 | 0| 
 | 20230628T12:29:35Z | Massive exploit tool with discord webhooking! | https://github.com/SuffeliKoodaa/RoseGrabber-builder | 0 | 0| 
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
@@ -78,24 +81,21 @@
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 | 20230628T10:10:48Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | 12 | 1| 
 | 20230628T09:26:49Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 578 | 24| 
-| 20230628T08:14:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13946 | 2364| 
-| 20230628T06:54:20Z | A hands-on guide to learn linux binary exploitation | https://github.com/Dirac231/F0rge | 2 | 0| 
-| 20230628T06:04:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 136 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T23:24:47Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 16 | 5| 
+| 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
+| 20230628T16:47:45Z | A simple example of a linux kernel module that implements a backdoor that can communicate with another computer, receive shell commands, and send the responses of those commands back, i.e., performs a reverse shell. In addition, it can take screenshots and read the user input (keylogger). | https://github.com/matheuspd/Linux-Kernel-Module-Backdoor-Demonstration | 0 | 0| 
+| 20230628T16:34:54Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5006 | 1882| 
+| 20230628T13:39:13Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230628T12:10:49Z | A simple demonstration of a linux kernel module that sends keyboard data to an external server | https://github.com/lucasgpulcinelli/backdoor-module | 1 | 0| 
-| 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
-| 20230628T06:27:47Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1882| 
 | 20230627T13:50:11Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 153 | 18| 
 | 20230627T12:06:33Z | This repository contain our work on backdoor pattern generation using GAN | https://github.com/snutesh/BTGAN | 0 | 0| 
 | 20230627T11:57:13Z | Chm0d-1945 Priv8 Shell Backdoor 2023 | https://github.com/Chm0d-1945/Priv8-Webshell | 0 | 0| 
-| 20230627T11:54:10Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230627T09:33:33Z | Null | https://github.com/xnderLAN/tiny_backdoor | 3 | 0| 
-| 20230627T08:29:21Z | keylogger,backdoor, and worm | https://github.com/christoferpaes/python_projects_security_ | 1 | 1| 
-| 20230627T05:54:01Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
