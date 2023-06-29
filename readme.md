@@ -83,12 +83,12 @@
 | 20230628T23:25:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3680 | 436| 
 | 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
 | 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
-| 20230628T18:21:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1422 | 103| 
 | 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
 | 20230628T13:53:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8769 | 1927| 
 | 20230628T12:48:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 47368 | 23049| 
 | 20230628T11:30:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1142| 
 | 20230628T11:05:20Z | Null | https://github.com/sandrawalker74489/fuzzy-robot | 0 | 0| 
+| 20230628T10:20:17Z | Null | https://github.com/ThikerXCX/fuzzy_tsukamoto | 0 | 0| 
 
 
 

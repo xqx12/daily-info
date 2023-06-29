@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T01:08:11Z | Xperion Exploits | https://github.com/hellofri3nds2/Xperion | 0 | 0| 
 | 20230629T00:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-gCCES-exploit-use | 0 | 0| 
 | 20230628T23:24:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5128 | 1001| 
 | 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
 | 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
-| 20230628T10:41:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5098 | 641| 
 
 
 # backdoor on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T01:21:08Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1423 | 103| 
 | 20230629T00:59:10Z | Null | https://github.com/Blonde488/fuzzy-umbrella | 0 | 0| 
 | 20230629T00:25:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2745 | 187| 
 | 20230629T00:19:04Z | Null | https://github.com/AkshithByju/fuzzy-enigma | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230628T23:25:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3680 | 436| 
 | 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
 | 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
-| 20230628T18:21:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1422 | 103| 
 | 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
 | 20230628T13:53:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8769 | 1927| 
 
