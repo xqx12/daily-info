@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T12:06:57Z | GitOps Repository | https://github.com/Michkov-test/test-application-N6juw-exploit-clean | 0 | 0| 
+| 20230629T12:06:12Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 3 | 0| 
 | 20230629T11:50:45Z | fortnite cheat internal external offses sigs patterns exploits [so people can see] | https://github.com/AI-0002/PROOFS-OF-MY-INNOCENT | 0 | 0| 
 | 20230629T11:42:34Z | Code for Findings of ACL 2023 paper %Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis% | https://github.com/lyuchenyang/Personalized-Sentiment-Analysis | 1 | 0| 
 | 20230629T09:35:32Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
@@ -79,8 +81,6 @@
 | 20230629T07:51:14Z | 公开exploits | https://github.com/xrivendell7/public-exploits | 0 | 0| 
 | 20230629T05:02:49Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 48 | 2| 
 | 20230629T01:55:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 671 | 172| 
-| 20230629T01:08:11Z | Xperion Exploits | https://github.com/hellofri3nds2/Xperion | 0 | 0| 
-| 20230629T00:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-gCCES-exploit-use | 0 | 0| 
 
 
 # backdoor on Github 推荐
