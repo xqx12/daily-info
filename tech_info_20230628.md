@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230628T23:24:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5128 | 1001| 
 | 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
 | 20230628T22:46:19Z | Null | https://github.com/tukru/SMB2exploitation.txt | 1 | 0| 
 | 20230628T21:55:18Z | aaaaaaaaaaaaaaaaaaaaaaaaa | https://github.com/d4ba/Exploit-Guard | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
 | 20230628T10:41:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5098 | 641| 
 | 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
-| 20230628T10:10:48Z | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | 12 | 1| 
 
 
 # backdoor on Github 推荐
