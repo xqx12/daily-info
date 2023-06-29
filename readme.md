@@ -62,7 +62,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T01:05:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3479 | 481| 
+| 20230629T06:43:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3480 | 481| 
+| 20230629T03:31:11Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 23 | 3| 
+| 20230629T03:08:31Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 59 | 26| 
 
 
 # big4 on Github 推荐

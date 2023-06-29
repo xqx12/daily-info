@@ -101,7 +101,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T01:05:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3479 | 481| 
+| 20230629T06:43:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3480 | 481| 
+| 20230629T03:31:11Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 23 | 3| 
+| 20230629T03:08:31Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 59 | 26| 
 | 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
 | 20230628T11:58:48Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 204 | 19| 
 | 20230627T10:24:43Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 196 | 41| 
@@ -109,8 +111,6 @@
 | 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
 | 20230625T23:38:08Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
 | 20230623T14:43:21Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 89 | 2| 
-| 20230620T18:39:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 345 | 81| 
-| 20230620T16:20:31Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 58 | 26| 
 
 
 # big4 on Github 推荐
