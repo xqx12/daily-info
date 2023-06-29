@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T11:50:45Z | fortnite cheat internal external offses sigs patterns exploits [so people can see] | https://github.com/AI-0002/PROOFS-OF-MY-INNOCENT | 0 | 0| 
+| 20230629T11:42:34Z | Code for Findings of ACL 2023 paper %Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis% | https://github.com/lyuchenyang/Personalized-Sentiment-Analysis | 1 | 0| 
+| 20230629T09:35:32Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
+| 20230629T09:17:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5259 | 742| 
+| 20230629T08:42:44Z | Exploiting gzip%s algorithm for artificially increasing compression times of random data | https://github.com/risingfbk/gzip-compression-tests | 0 | 0| 
+| 20230629T07:51:14Z | 公开exploits | https://github.com/xrivendell7/public-exploits | 0 | 0| 
+| 20230629T05:02:49Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 48 | 2| 
 | 20230629T01:55:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 671 | 172| 
 | 20230629T01:08:11Z | Xperion Exploits | https://github.com/hellofri3nds2/Xperion | 0 | 0| 
 | 20230629T00:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-gCCES-exploit-use | 0 | 0| 
-| 20230628T23:24:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5128 | 1001| 
-| 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
-| 20230628T22:46:19Z | Null | https://github.com/tukru/SMB2exploitation.txt | 1 | 0| 
-| 20230628T21:55:18Z | aaaaaaaaaaaaaaaaaaaaaaaaa | https://github.com/d4ba/Exploit-Guard | 0 | 0| 
-| 20230628T15:30:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 203 | 11| 
-| 20230628T12:29:35Z | Massive exploit tool with discord webhooking! | https://github.com/SuffeliKoodaa/RoseGrabber-builder | 0 | 0| 
-| 20230628T11:34:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-VwKR4-exploit-forget | 0 | 0| 
 
 
 # backdoor on Github 推荐
