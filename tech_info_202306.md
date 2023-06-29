@@ -116,6 +116,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T08:53:03Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 25 | 2| 
 | 20230628T09:35:12Z | Null | https://github.com/whyeinstein/ndssl_training_notes | 0 | 0| 
 | 20230627T22:22:30Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 12 | 2| 
 | 20230627T22:07:16Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 701 | 114| 
@@ -125,7 +126,6 @@
 | 20230622T07:07:55Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 6 | 0| 
 | 20230619T09:28:29Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 83 | 28| 
 | 20230619T02:54:41Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 23 | 1| 
-| 20230615T11:21:42Z | Supplementary rebuttal for NDSS%24 Summer #540 | https://github.com/anonymous-ndss24/supplementary-rebuttal | 0 | 0| 
 
 
 # fuzz on Github 推荐
