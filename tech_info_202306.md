@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T00:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-gCCES-exploit-use | 0 | 0| 
 | 20230628T23:24:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5128 | 1001| 
 | 20230628T23:03:46Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 0 | 0| 
 | 20230628T22:46:19Z | Null | https://github.com/tukru/SMB2exploitation.txt | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230628T11:28:16Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 2 | 3| 
 | 20230628T11:17:25Z | An SDK to build payloads/ELF files compatible with the loader in the PS5 WebKit+Kernel Exploit chain.  | https://github.com/PS5Dev/PS5SDK | 105 | 10| 
 | 20230628T10:41:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5098 | 641| 
-| 20230628T10:17:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 15 | 5| 
 
 
 # backdoor on Github 推荐
