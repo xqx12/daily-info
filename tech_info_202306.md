@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230629T12:23:52Z | CVE-2021-1732 | Null | https://github.com/yangshifan-git/CVE-2021-1732 | | 
 | 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
 | 20230629T10:15:38Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 | 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
@@ -35,7 +36,6 @@
 | 20230628T15:08:15Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
 | 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
-| 20230627T23:15:26Z | cve-2021-4034 | Null | https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection | | 
 
 
 # klee on Github 推荐

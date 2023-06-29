@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230629T12:23:52Z | CVE-2021-1732 | Null | https://github.com/yangshifan-git/CVE-2021-1732 | | 
 | 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
 | 20230629T10:15:38Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 | 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
