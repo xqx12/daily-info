@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230628T20:01:30Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
 | 20230628T19:43:22Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 | 20230628T15:08:15Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
 | 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
