@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T01:31:00Z | Null | https://github.com/personalizad0s/fuzzysuccotash | 0 | 0| 
 | 20230629T01:21:08Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1423 | 103| 
 | 20230629T00:59:10Z | Null | https://github.com/Blonde488/fuzzy-umbrella | 0 | 0| 
 | 20230629T00:25:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2745 | 187| 
@@ -140,7 +141,6 @@
 | 20230628T23:16:05Z | Null | https://github.com/Vinejds/fuzzy-happiness | 0 | 0| 
 | 20230628T22:56:58Z | Null | https://github.com/marcos65333/fuzzy-pancake | 0 | 0| 
 | 20230628T16:40:14Z | Null | https://github.com/neuromorphs/midi_fuzzer | 0 | 0| 
-| 20230628T13:53:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8769 | 1927| 
 
 
 
