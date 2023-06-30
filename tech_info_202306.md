@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T11:50:55Z | Null | https://github.com/zBfn5qlqtPAI7InCu/fuzzy-broccoli | 0 | 0| 
+| 20230630T11:18:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3767 | 763| 
+| 20230630T10:29:52Z | Null | https://github.com/dorothy11233ss/fuzzy-carnival | 0 | 0| 
+| 20230630T10:15:09Z | Null | https://github.com/Anne4345/fuzzy-journey | 0 | 0| 
+| 20230630T09:13:21Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2184 | 279| 
+| 20230630T06:48:46Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230630T01:14:32Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 0 | 0| 
 | 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
 | 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
-| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1929| 
-| 20230629T12:44:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3681 | 436| 
-| 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
-| 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
-| 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
-| 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
 
 
 
