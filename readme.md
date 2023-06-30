@@ -59,7 +59,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T21:36:59Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
 | 20230629T17:12:30Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1883| 
 | 20230629T16:18:34Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 4 | 0| 
