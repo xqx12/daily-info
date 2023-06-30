@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T00:58:32Z |  implementação de um módulo de kernel para Linux que atue como um agente backdoor | https://github.com/Aruanzin/KernelModule | 0 | 0| 
 | 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
 | 20230630T00:48:00Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
@@ -95,7 +96,6 @@
 | 20230629T16:18:34Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 4 | 0| 
 | 20230629T08:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 223 | 55| 
 | 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
-| 20230629T07:46:22Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 32 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T00:59:00Z | Evaluating fuzzer effectiveness through mutation testing | https://github.com/aviggiano/fuzzer-evaluation | 0 | 0| 
 | 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
 | 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
 | 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
 | 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
-| 20230629T10:35:39Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-TugasBesar | 0 | 0| 
 
 
 
