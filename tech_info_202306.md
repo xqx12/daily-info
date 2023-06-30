@@ -94,7 +94,7 @@
 | 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 1| 
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
 | 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
-| 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
+| 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 855| 
 | 20230629T17:12:30Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1883| 
 
 
