@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T23:41:20Z | Null | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
+| 20230630T00:21:13Z | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
 | 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
 | 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
 | 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
