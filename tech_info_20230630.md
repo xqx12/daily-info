@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T12:54:56Z | Harden a host vulnerable to EternalBlue exploit | https://github.com/bhavyagaur99/host-hardening-pentesting | 0 | 0| 
 | 20230630T12:28:43Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 583 | 24| 
 | 20230630T12:23:16Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a07e7fd8-c8e5-4943-baa3-f0fa160086b3-kUghb-exploit-become | 0 | 0| 
 | 20230630T11:38:35Z | This script automate exploit only cloud service | https://github.com/Rozan312/Cloud-Service-Hunting | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20230630T09:17:30Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 139 | 17| 
 | 20230630T09:09:49Z | A exploit-runner and flag-submitter written in Rust | https://github.com/Recursion-Fairies/oxiflagger | 2 | 0| 
 | 20230630T08:44:54Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1008 | 201| 
-| 20230630T08:23:56Z | Roblox exploit script for Tsunami Game | https://github.com/PeppyBasil/Tsunami-Game-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
