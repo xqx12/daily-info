@@ -81,6 +81,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T07:50:54Z | 用于存储学习笔记 | https://github.com/whyeinstein/ndssl_training_notes | 0 | 0| 
+| 20230630T05:40:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 702 | 114| 
 
 
 # fuzz on Github 推荐
