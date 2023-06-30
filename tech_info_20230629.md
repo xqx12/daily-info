@@ -20,7 +20,6 @@
 | 20230629T22:10:45Z | CVE-2022-22963 | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963 | | 
 | 20230629T16:32:44Z | CVE-2021-42013 | Null | https://github.com/Hamesawian/CVE-2021-42013 | | 
 | 20230629T15:25:47Z | CVE-2023-0830 | Null | https://github.com/xbz0n/CVE-2023-0830 | | 
-| 20230629T15:25:35Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230629T12:23:52Z | CVE-2021-1732 | Null | https://github.com/yangshifan-git/CVE-2021-1732 | | 
 | 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
 | 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
@@ -52,9 +51,9 @@
 | 20230629T19:45:22Z | IOS Device Unlock Exploit | https://github.com/GULIAMOVPRO/UnJail | 0 | 0| 
 | 20230629T19:43:53Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3529 | 516| 
 | 20230629T19:25:58Z | The main aim of this project is to assess and exploit vulnerabilities within a purposely vulnerable web application, known as (DVWA. The goal is to mimic the mindset and methodology of a real-world attacker, but within a safe, controlled environment.  OS-Kali Linux, Kali Linux Instance on - VirtualBox. Tools= Nmap, OWASP, DOCKER | https://github.com/ALIASAD2710/PENENTRATION-TESTING | 0 | 0| 
+| 20230629T17:56:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5100 | 640| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
 | 20230629T14:42:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 538 | 105| 
-| 20230629T12:36:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ublt-cVapX-discuss-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
