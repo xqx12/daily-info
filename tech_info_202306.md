@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230629T21:57:29Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 17 | 5| 
 | 20230629T21:36:59Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
@@ -95,7 +96,6 @@
 | 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
 | 20230629T07:46:22Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 32 | 1| 
 | 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
-| 20230628T16:47:45Z | A simple example of a linux kernel module that implements a backdoor that can communicate with another computer, receive shell commands, and send the responses of those commands back, i.e., performs a reverse shell. In addition, it can take screenshots and read the user input (keylogger). | https://github.com/matheuspd/Linux-Kernel-Module-Backdoor-Demonstration | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
