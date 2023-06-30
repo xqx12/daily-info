@@ -72,6 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230630T00:21:13Z | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
+| 20230629T21:26:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5136 | 1003| 
 | 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
 | 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
 | 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
@@ -80,7 +81,6 @@
 | 20230629T19:25:58Z | The main aim of this project is to assess and exploit vulnerabilities within a purposely vulnerable web application, known as (DVWA. The goal is to mimic the mindset and methodology of a real-world attacker, but within a safe, controlled environment.  OS-Kali Linux, Kali Linux Instance on - VirtualBox. Tools= Nmap, OWASP, DOCKER | https://github.com/ALIASAD2710/PENENTRATION-TESTING | 0 | 0| 
 | 20230629T17:56:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5100 | 640| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
-| 20230629T14:42:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 538 | 105| 
 
 
 # backdoor on Github 推荐
