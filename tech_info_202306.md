@@ -71,10 +71,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T01:13:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5137 | 1003| 
 | 20230630T00:57:55Z | The MAB problem is important because it has practical uses in areas like medical studies, online ads, recommendations, and resource management. It helps us understand how to balance exploring new options and exploiting what we already know to make the best decisions when facing uncertainty. | https://github.com/bidoscar/AI_for_Management_Multi_Armed_Bandit_MAB_Problem | 0 | 0| 
 | 20230630T00:48:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e8f7542d-ffe1-45dc-ae23-6e83a5331a66-M8FBD-serve-exploit | 0 | 0| 
 | 20230630T00:21:13Z | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
-| 20230629T21:26:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5136 | 1003| 
 | 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
 | 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
 | 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
@@ -131,11 +131,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T00:59:00Z | Evaluating fuzzer effectiveness through mutation testing | https://github.com/aviggiano/fuzzer-evaluation | 0 | 0| 
+| 20230630T01:14:32Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 0 | 0| 
 | 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
 | 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
-| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1928| 
+| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1929| 
 | 20230629T12:44:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3681 | 436| 
 | 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 

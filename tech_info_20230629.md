@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T21:26:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5136 | 1003| 
 | 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
 | 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
 | 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
@@ -54,6 +53,7 @@
 | 20230629T17:56:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5100 | 640| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
 | 20230629T14:42:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 538 | 105| 
+| 20230629T12:36:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ublt-cVapX-discuss-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,7 +89,7 @@
 | 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
 | 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
-| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1928| 
+| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1929| 
 | 20230629T12:44:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3681 | 436| 
 | 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
