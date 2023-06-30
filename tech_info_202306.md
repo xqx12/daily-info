@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
 | 20230630T00:48:00Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
 | 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230629T08:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 223 | 55| 
 | 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
 | 20230629T07:46:22Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 32 | 1| 
-| 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
