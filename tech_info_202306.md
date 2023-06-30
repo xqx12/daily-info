@@ -86,7 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T10:06:59Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 11 | 0| 
+| 20230630T12:49:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 12 | 0| 
 | 20230630T06:56:15Z | PyTorch Implementation of %Efficient Backdoor Removal Through Natural Gradient Fine-tuning% | https://github.com/nazmul-karim170/Natural-Gradient-Finetuning-Trojan-Defense | 0 | 0| 
 | 20230630T04:34:16Z | Python | https://github.com/santicarreno13/BackDoors | 0 | 0| 
 | 20230630T02:30:16Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
