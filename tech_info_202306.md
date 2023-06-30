@@ -135,12 +135,12 @@
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
 | 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
 | 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1928| 
+| 20230629T12:44:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3681 | 436| 
 | 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
 | 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
 | 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
 | 20230629T10:35:39Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-TugasBesar | 0 | 0| 
-| 20230629T10:34:30Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-Referensi | 0 | 0| 
 
 
 
