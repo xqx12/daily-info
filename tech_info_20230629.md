@@ -38,21 +38,23 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T19:59:37Z | Sleep to earn | https://github.com/tinehtun/S2E | 2 | 0| 
+| 20230629T15:44:33Z | Null | https://github.com/kjmassey/tableau_embedding_s2e3_css | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T23:41:20Z | Null | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
+| 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
+| 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
+| 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
+| 20230629T19:45:22Z | IOS Device Unlock Exploit | https://github.com/GULIAMOVPRO/UnJail | 0 | 0| 
+| 20230629T19:43:53Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3529 | 516| 
+| 20230629T19:25:58Z | The main aim of this project is to assess and exploit vulnerabilities within a purposely vulnerable web application, known as (DVWA. The goal is to mimic the mindset and methodology of a real-world attacker, but within a safe, controlled environment.  OS-Kali Linux, Kali Linux Instance on - VirtualBox. Tools= Nmap, OWASP, DOCKER | https://github.com/ALIASAD2710/PENENTRATION-TESTING | 0 | 0| 
+| 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
 | 20230629T12:36:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ublt-cVapX-discuss-exploit | 0 | 0| 
 | 20230629T12:06:57Z | GitOps Repository | https://github.com/Michkov-test/test-application-N6juw-exploit-clean | 0 | 0| 
-| 20230629T12:06:12Z | Linux based vulnerabilities (CVE) exploit detection through runtime security using Falco/Osquery/Yara | https://github.com/Loginsoft-Research/Linux-Exploit-Detection | 3 | 0| 
-| 20230629T11:50:45Z | fortnite cheat internal external offses sigs patterns exploits [so people can see] | https://github.com/AI-0002/PROOFS-OF-MY-INNOCENT | 0 | 0| 
-| 20230629T11:42:34Z | Code for Findings of ACL 2023 paper %Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis% | https://github.com/lyuchenyang/Personalized-Sentiment-Analysis | 1 | 0| 
-| 20230629T09:35:32Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
-| 20230629T09:17:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5259 | 742| 
-| 20230629T08:42:44Z | Exploiting gzip%s algorithm for artificially increasing compression times of random data | https://github.com/risingfbk/gzip-compression-tests | 0 | 0| 
-| 20230629T07:51:14Z | 公开exploits | https://github.com/xrivendell7/public-exploits | 0 | 0| 
-| 20230629T05:02:49Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 48 | 2| 
 
 
 # backdoor on Github 推荐
