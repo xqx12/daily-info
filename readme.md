@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T12:51:51Z | An educationally-purposed backdoor of linux kernel that sweeps keyboard data to another machine via network | https://github.com/enzoconti/KernelBackdoor | 0 | 0| 
 | 20230630T12:49:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 12 | 0| 
 | 20230630T06:56:15Z | PyTorch Implementation of %Efficient Backdoor Removal Through Natural Gradient Fine-tuning% | https://github.com/nazmul-karim170/Natural-Gradient-Finetuning-Trojan-Defense | 0 | 0| 
 | 20230630T04:34:16Z | Python | https://github.com/santicarreno13/BackDoors | 0 | 0| 

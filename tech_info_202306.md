@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T12:51:51Z | An educationally-purposed backdoor of linux kernel that sweeps keyboard data to another machine via network | https://github.com/enzoconti/KernelBackdoor | 0 | 0| 
 | 20230630T12:49:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 12 | 0| 
 | 20230630T06:56:15Z | PyTorch Implementation of %Efficient Backdoor Removal Through Natural Gradient Fine-tuning% | https://github.com/nazmul-karim170/Natural-Gradient-Finetuning-Trojan-Defense | 0 | 0| 
 | 20230630T04:34:16Z | Python | https://github.com/santicarreno13/BackDoors | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
 | 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 855| 
-| 20230629T17:12:30Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1883| 
 
 
 # symbolic execution on Github 推荐
