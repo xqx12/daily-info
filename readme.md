@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
+| 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
+| 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
+| 20230629T13:24:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8770 | 1928| 
 | 20230629T12:42:28Z | bruter.py tool is a command-line utility for replacing the string FUZZING in a URL with lines from a file. The resulting URLs can be written to an output file or to standard output. | https://github.com/Hunt3r0x/bruter | 2 | 0| 
 | 20230629T12:01:02Z | Null | https://github.com/henrybrannon/fuzzy-engine | 2 | 1| 
 | 20230629T11:37:16Z | Null | https://github.com/aylwardjacobs/fuzzy-adventure | 0 | 0| 
 | 20230629T11:35:16Z | Null | https://github.com/sergioandreaqk/fuzzy-waddle | 0 | 0| 
 | 20230629T10:35:39Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-TugasBesar | 0 | 0| 
 | 20230629T10:34:30Z | Null | https://github.com/anjanidwilestari/FuzzySystemMamdaniMethod-Referensi | 0 | 0| 
-| 20230629T10:31:35Z | Null | https://github.com/onionpsy/clang-15-fuzz-32b | 0 | 0| 
-| 20230629T09:04:13Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 847 | 103| 
-| 20230629T07:28:25Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 521 | 82| 
-| 20230629T06:35:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4740 | 1143| 
 
 
 
