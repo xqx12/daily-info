@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T00:57:55Z | The MAB problem is important because it has practical uses in areas like medical studies, online ads, recommendations, and resource management. It helps us understand how to balance exploring new options and exploiting what we already know to make the best decisions when facing uncertainty. | https://github.com/bidoscar/AI_for_Management_Multi_Armed_Bandit_MAB_Problem | 0 | 0| 
 | 20230630T00:48:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e8f7542d-ffe1-45dc-ae23-6e83a5331a66-M8FBD-serve-exploit | 0 | 0| 
 | 20230630T00:21:13Z | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
 | 20230629T21:26:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5136 | 1003| 
@@ -80,7 +81,6 @@
 | 20230629T19:45:22Z | IOS Device Unlock Exploit | https://github.com/GULIAMOVPRO/UnJail | 0 | 0| 
 | 20230629T19:43:53Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3529 | 516| 
 | 20230629T19:25:58Z | The main aim of this project is to assess and exploit vulnerabilities within a purposely vulnerable web application, known as (DVWA. The goal is to mimic the mindset and methodology of a real-world attacker, but within a safe, controlled environment.  OS-Kali Linux, Kali Linux Instance on - VirtualBox. Tools= Nmap, OWASP, DOCKER | https://github.com/ALIASAD2710/PENENTRATION-TESTING | 0 | 0| 
-| 20230629T17:56:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5100 | 640| 
 
 
 # backdoor on Github 推荐
