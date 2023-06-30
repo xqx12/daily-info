@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230630T11:52:10Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230630T12:22:41Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230630T11:36:30Z | cve-2020-1048 | spoolsv.exe arb file write poc | https://github.com/Y3A/cve-2020-1048 | | 
 | 20230630T10:35:57Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
 | 20230630T10:15:07Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
