@@ -26,25 +26,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230629T22:58:29Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
+| 20230629T22:10:45Z | CVE-2022-22963 | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963 | | 
+| 20230629T16:32:44Z | CVE-2021-42013 | Null | https://github.com/Hamesawian/CVE-2021-42013 | | 
+| 20230629T15:25:47Z | CVE-2023-0830 | Null | https://github.com/xbz0n/CVE-2023-0830 | | 
+| 20230629T15:25:35Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230629T12:23:52Z | CVE-2021-1732 | Null | https://github.com/yangshifan-git/CVE-2021-1732 | | 
 | 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
-| 20230629T10:15:38Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 | 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
-| 20230629T04:07:02Z | CVE-2022-22963 | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963 | | 
 | 20230629T03:04:12Z | CVE-2023-27997 | test | https://github.com/gysf666/CVE-2023-27997-test | | 
 | 20230628T19:43:22Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
-| 20230628T15:08:15Z | CVE-2023-35844 | Lightdash文件读取漏洞（CVE-2023-35844） | https://github.com/Szlein/CVE-2023-35844 | | 
-| 20230628T10:37:48Z | CVE-2023-2877 | Formidable Forms < 6.3.1 - Subscriber+ Remote Code Execution | https://github.com/RandomRobbieBF/CVE-2023-2877 | | 
-| 20230628T01:36:24Z | CVE-2023-27997 | Mod Python code for scanning CVE-2023-27997 | https://github.com/blachart/CVE-2023-27997 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T12:43:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12878 | 403| 
+| 20230629T22:28:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12882 | 403| 
+| 20230629T15:09:15Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 78 | 18| 
 | 20230629T07:09:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 317 | 6| 
 | 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
-| 20230628T15:07:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 77 | 18| 
 | 20230628T14:47:48Z | Null | https://github.com/PinkiePie1189/gollvm-klee | 0 | 0| 
 | 20230627T22:25:43Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 11 | 5| 
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
@@ -86,21 +86,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230629T09:13:03Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 2 | 0| 
+| 20230629T21:57:29Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 17 | 5| 
+| 20230629T21:36:59Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
+| 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
+| 20230629T17:12:30Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1883| 
+| 20230629T16:18:34Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 4 | 0| 
 | 20230629T08:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 223 | 55| 
 | 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
 | 20230629T07:46:22Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 32 | 1| 
-| 20230628T23:24:47Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 16 | 5| 
 | 20230628T19:39:09Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 0 | 0| 
 | 20230628T16:47:45Z | A simple example of a linux kernel module that implements a backdoor that can communicate with another computer, receive shell commands, and send the responses of those commands back, i.e., performs a reverse shell. In addition, it can take screenshots and read the user input (keylogger). | https://github.com/matheuspd/Linux-Kernel-Module-Backdoor-Demonstration | 0 | 0| 
-| 20230628T16:34:54Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5006 | 1883| 
-| 20230628T13:39:13Z | Null | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
-| 20230628T12:10:49Z | A simple demonstration of a linux kernel module that sends keyboard data to an external server | https://github.com/lucasgpulcinelli/backdoor-module | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230629T15:57:41Z | Coq mechanization of %Denotational Semantics for Symbolic Execution% for ICTAC23 submission | https://github.com/Aqissiaq/ICTAC-DenotSymbEx | 0 | 0| 
 | 20230629T12:55:21Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 16 | 8| 
 | 20230629T06:43:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3480 | 481| 
 | 20230629T03:31:11Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 23 | 3| 
@@ -110,7 +111,6 @@
 | 20230627T10:24:43Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 196 | 41| 
 | 20230626T06:41:32Z | My repository to store all the examples I do about symbolic execution | https://github.com/Fare9/My-Symbolic-Execution | 7 | 1| 
 | 20230626T05:47:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 404 | 28| 
-| 20230625T23:38:08Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
 
 
 # big4 on Github 推荐
