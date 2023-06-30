@@ -11,46 +11,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230630 | 基于链路预测的BGP路由路径劫持检测框架 | https://mp.weixin.qq.com/s/GS_LA8uuNfRSU29RKdhjzA| 
+| 20230630 | 数百万GitHub仓库可能遭受RepoJacking攻击 | https://mp.weixin.qq.com/s/UhMBmtq8Y1gceDFsdC7asA| 
+| 20230630 | 浅谈SpringSecurity与CVE-2023-22602 | https://www.sec-in.com/article/1723| 
+| 20230630 | BlackHat USA 23 & DEFCON 31：利用LED闪烁恢复密钥 | https://mp.weixin.qq.com/s/Y_0oek2npJNjQc7TOgoGMw| 
+| 20230630 | 面向开源软件的安全风险分析与防范 | https://mp.weixin.qq.com/s/3-3QveSDyv0r2dRFUIU2gw| 
+| 20230630 | 近源渗透学习的二三感悟 | https://mp.weixin.qq.com/s/UznoRAena2b1VdlTtnW-Tw| 
 | 20230627 | SecWiki周刊（第486期) | https://www.sec-wiki.com/weekly/486| 
 | 20230627 | 黑帽SEO中网站推广篡改的可扩展检测 | https://mp.weixin.qq.com/s/_yYaK905FvofBmf46ZT6DA| 
 | 20230626 | AIGC在安全领域的思考和尝试 | https://opensec-cn.github.io/#/articles/2| 
 | 20230625 | 对全球范围DNS-over-HTTPS的性能测量 | https://mp.weixin.qq.com/s/CmvI0nDgSmyYlW9Sv_sEcg| 
-| 20230625 | 安全事件运营SOP：接收漏洞事件 | https://mp.weixin.qq.com/s/IYzXuwi9E2l5G5sQ4ugZeA| 
-| 20230624 | 匿名通信技术现状分析与展望 | https://mp.weixin.qq.com/s/rXYMh4OksHckpQmKyVyvPw| 
-| 20230623 | 利用云调度器引导协同定位攻击 | https://mp.weixin.qq.com/s/Q7153oueIhGyosnRj67Irw| 
-| 20230623 | MobileCTF: 体系化、实战化的移动端CTF靶场 | https://github.com/r0ysue/MobileCTF| 
-| 20230622 | 记一次四层内网攻防渗透测试大实验 | https://xz.aliyun.com/t/12614| 
-| 20230621 | 利用GPT自动化生成Nuclei的POC | https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230630T00:15:13Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230629T22:58:29Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
+| 20230630T11:52:10Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230630T11:36:30Z | cve-2020-1048 | spoolsv.exe arb file write poc | https://github.com/Y3A/cve-2020-1048 | | 
+| 20230630T10:35:57Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
+| 20230630T10:15:07Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
+| 20230630T09:35:03Z | CVE-2023-25136 | OpenSSH 9.1漏洞大规模扫描和利用 | https://github.com/H4K6/CVE-2023-25136 | | 
+| 20230630T09:21:58Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
+| 20230630T09:17:07Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
+| 20230630T03:44:29Z | cve-2023-21766 | wof.sys race condition uaf read poc | https://github.com/Y3A/cve-2023-21766 | | 
 | 20230629T22:10:45Z | CVE-2022-22963 | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963 | | 
 | 20230629T16:32:44Z | CVE-2021-42013 | Null | https://github.com/Hamesawian/CVE-2021-42013 | | 
-| 20230629T15:25:47Z | CVE-2023-0830 | Null | https://github.com/xbz0n/CVE-2023-0830 | | 
-| 20230629T12:23:52Z | CVE-2021-1732 | Null | https://github.com/yangshifan-git/CVE-2021-1732 | | 
-| 20230629T10:49:12Z | CVE-2023-26258 | Null | https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe | | 
-| 20230629T09:55:18Z | CVE-2023-34362 | MOVEit CVE-2023-34362 | https://github.com/horizon3ai/CVE-2023-34362 | | 
-| 20230629T03:04:12Z | CVE-2023-27997 | test | https://github.com/gysf666/CVE-2023-27997-test | | 
-| 20230628T19:43:22Z | CVE-2022-42889 | This repository contains a Python script to automate the process of testing for a vulnerability known as Text4Shell, referenced under the CVE id: CVE-2022-42889.   | https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T01:55:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12883 | 403| 
+| 20230630T11:21:18Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
+| 20230630T10:43:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12891 | 403| 
+| 20230630T09:22:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 318 | 6| 
 | 20230629T15:09:15Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 78 | 18| 
-| 20230629T07:09:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 317 | 6| 
 | 20230628T17:25:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2267 | 627| 
 | 20230628T14:47:48Z | Null | https://github.com/PinkiePie1189/gollvm-klee | 0 | 0| 
 | 20230627T22:25:43Z | A website for Klee inspired by Herta Kuru~ | https://github.com/genshinKlee/genshinKlee.github.io | 11 | 5| 
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230622T06:18:13Z | Calculadora de cerradura de kleene, unión, intersección   | https://github.com/HedelGovea/cerradura_de_kleene | 0 | 0| 
-| 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T01:13:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5137 | 1003| 
-| 20230630T00:57:55Z | The MAB problem is important because it has practical uses in areas like medical studies, online ads, recommendations, and resource management. It helps us understand how to balance exploring new options and exploiting what we already know to make the best decisions when facing uncertainty. | https://github.com/bidoscar/AI_for_Management_Multi_Armed_Bandit_MAB_Problem | 0 | 0| 
-| 20230630T00:48:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e8f7542d-ffe1-45dc-ae23-6e83a5331a66-M8FBD-serve-exploit | 0 | 0| 
-| 20230630T00:21:13Z | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | 0 | 0| 
-| 20230629T20:54:11Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 1198 | 355| 
-| 20230629T20:11:52Z | Null | https://github.com/ByteVigilante/NetworkExploit | 0 | 0| 
-| 20230629T19:50:20Z | .Net C# Memory Manipulation & Exploitation Library, With Features Such As Pattern Scanning, Memory Basic Manipulation, Disassembly, Thread & Module Manipulation And Much More. | https://github.com/ImmuneLion318/Memory.Net | 2 | 0| 
-| 20230629T19:45:22Z | IOS Device Unlock Exploit | https://github.com/GULIAMOVPRO/UnJail | 0 | 0| 
-| 20230629T19:43:53Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3529 | 516| 
-| 20230629T19:25:58Z | The main aim of this project is to assess and exploit vulnerabilities within a purposely vulnerable web application, known as (DVWA. The goal is to mimic the mindset and methodology of a real-world attacker, but within a safe, controlled environment.  OS-Kali Linux, Kali Linux Instance on - VirtualBox. Tools= Nmap, OWASP, DOCKER | https://github.com/ALIASAD2710/PENENTRATION-TESTING | 0 | 0| 
+| 20230630T12:00:45Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 584 | 24| 
+| 20230630T11:38:35Z | This script automate exploit only cloud service | https://github.com/Rozan312/Cloud-Service-Hunting | 0 | 0| 
+| 20230630T11:32:42Z | blackpanther exploit server handler. | https://github.com/madhanmaaz/blackpanther | 0 | 0| 
+| 20230630T11:18:35Z | for bedwars exploiting. Yep thats it | https://github.com/CrimsonfiedOfficial/ConfigStorage | 0 | 0| 
+| 20230630T10:46:51Z | Bash fruteforce for wordpress xmlrpc.php file | https://github.com/AndreuSeg/XMLRPC-Bash-Exploit | 0 | 0| 
+| 20230630T09:17:30Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 139 | 17| 
+| 20230630T09:09:49Z | A exploit-runner and flag-submitter written in Rust | https://github.com/Recursion-Fairies/oxiflagger | 2 | 0| 
+| 20230630T08:44:54Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1008 | 201| 
+| 20230630T08:23:56Z | Roblox exploit script for Tsunami Game | https://github.com/PeppyBasil/Tsunami-Game-Script | 0 | 0| 
+| 20230630T02:49:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 137 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T01:29:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 5 | 0| 
+| 20230630T10:06:59Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 11 | 0| 
+| 20230630T06:56:15Z | PyTorch Implementation of %Efficient Backdoor Removal Through Natural Gradient Fine-tuning% | https://github.com/nazmul-karim170/Natural-Gradient-Finetuning-Trojan-Defense | 0 | 0| 
+| 20230630T04:34:16Z | Python | https://github.com/santicarreno13/BackDoors | 0 | 0| 
+| 20230630T02:30:16Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230630T00:58:32Z |  implementação de um módulo de kernel para Linux que atue como um agente backdoor | https://github.com/Aruanzin/KernelModule | 0 | 0| 
 | 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 1| 
-| 20230630T00:48:00Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
 | 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
 | 20230629T17:30:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2160 | 856| 
 | 20230629T17:12:30Z | 拼多多apk内嵌提权代码，及动态下发dex分析 | https://github.com/davinci1010/pinduoduo_backdoor | 5004 | 1883| 
-| 20230629T08:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 223 | 55| 
-| 20230629T08:52:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 154 | 18| 
 
 
 # symbolic execution on Github 推荐
