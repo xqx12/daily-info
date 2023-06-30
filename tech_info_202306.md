@@ -87,7 +87,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230630T00:58:32Z |  implementação de um módulo de kernel para Linux que atue como um agente backdoor | https://github.com/Aruanzin/KernelModule | 0 | 0| 
-| 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 0| 
+| 20230630T00:57:18Z | O BackdoorKernelVM é um projeto de comunicação entre uma máquina virtual Linux e o sistema operacional Windows, usando um servidor e um cliente e a implementação de um módulo de kernel para Linux que atue como um agente backdoor para coletar informações de dentro do kernel.  | https://github.com/Amigao/BackdoorKernelVM | 0 | 1| 
 | 20230630T00:48:00Z | Implementação de um módulo de kernel que atua como backdoor, coletando informações dentro do kernel. | https://github.com/ms-erik/Backdoor | 0 | 0| 
 | 20230630T00:39:59Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 18 | 5| 
 | 20230630T00:32:31Z | A kernel module that captures key pressed from the keyboard and saves them to a file, using the debufgs library. This file is sent via socket every 10 seconds to a server, also present in this repository. | https://github.com/MichelH4cker/simple-backdoor | 0 | 0| 
