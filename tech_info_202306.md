@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T12:53:29Z | Null | https://github.com/bagoes-ardianjar/UAS_Fuzzy_Logic | 0 | 0| 
 | 20230630T11:50:55Z | Null | https://github.com/zBfn5qlqtPAI7InCu/fuzzy-broccoli | 0 | 0| 
 | 20230630T11:18:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3767 | 763| 
 | 20230630T10:29:52Z | Null | https://github.com/dorothy11233ss/fuzzy-carnival | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230630T01:14:32Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 0 | 0| 
 | 20230629T23:22:32Z | Null | https://github.com/swichers-xx/fuzzy-palm-tree | 0 | 0| 
 | 20230629T21:57:59Z | Game development with phaser and networking  | https://github.com/Ogaadethetransporter/fuzzy-waddle | 0 | 0| 
-| 20230629T21:56:55Z | Null | https://github.com/AkshithByju/fuzzy-octo-train | 0 | 0| 
 
 
 
