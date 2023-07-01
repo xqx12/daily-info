@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:09:05Z | Null | https://github.com/Neronjust2017/the_secret_of_Capitalist_exploitation | 0 | 0| 
 | 20230701T12:05:06Z | Null | https://github.com/kimjw0427/my_exploit | 0 | 0| 
 | 20230701T11:52:40Z | Windows Exploit using BadUSB to install this to victim computer, and managing it | https://github.com/BubaProgrammer/S1Exploit | 0 | 0| 
 | 20230701T10:03:03Z | rblx exploit hub ;) | https://github.com/wanw00d/wanwoodhub | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230701T08:18:38Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525180-1688199518 | 0 | 0| 
 | 20230701T08:18:36Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525181-1688199516 | 0 | 0| 
 | 20230701T08:18:33Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513 | 0 | 0| 
-| 20230701T08:18:30Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525183-1688199509 | 0 | 0| 
 
 
 # backdoor on Github 推荐
