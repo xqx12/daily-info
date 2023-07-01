@@ -76,11 +76,11 @@
 | 20230630T23:12:19Z | FIVEM Lua executor undetected | https://github.com/HadesTheOne/FIVEM-Lua-Executor | 13 | 0| 
 | 20230630T22:10:31Z | Roblox Exploit with no Key System | https://github.com/Puritanism/Comet-Crack | 0 | 0| 
 | 20230630T21:14:22Z | Null | https://github.com/GL4D1AT0R/mc-exploit-webpage | 0 | 0| 
+| 20230630T20:21:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5140 | 1003| 
 | 20230630T15:37:14Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 305 | 82| 
 | 20230630T12:54:56Z | Harden a host vulnerable to EternalBlue exploit | https://github.com/bhavyagaur99/host-hardening-pentesting | 0 | 0| 
 | 20230630T12:28:43Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 583 | 24| 
 | 20230630T12:23:16Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a07e7fd8-c8e5-4943-baa3-f0fa160086b3-kUghb-exploit-become | 0 | 0| 
-| 20230630T11:38:35Z | This script automate exploit only cloud service | https://github.com/Rozan312/Cloud-Service-Hunting | 0 | 0| 
 
 
 # backdoor on Github 推荐
