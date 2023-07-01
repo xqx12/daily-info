@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:21:02Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230701T11:33:49Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230701T11:17:31Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
-| 20230701T08:48:23Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230701T03:07:26Z | CVE-2023-34599 | Null | https://github.com/Imahian/CVE-2023-34599 | | 
 | 20230701T02:59:10Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
 | 20230701T02:44:38Z | CVE-2023-26258 | Null | https://github.com/Imahian/CVE-2023-26258 | | 
