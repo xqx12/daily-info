@@ -82,6 +82,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230630T16:36:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3481 | 481| 
+| 20230630T16:10:42Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 205 | 19| 
+| 20230630T15:41:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2269 | 628| 
 
 
 # big4 on Github 推荐
