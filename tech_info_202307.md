@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:58:16Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
 | 20230701T12:39:01Z | Null | https://github.com/tickflag/fuzzy | 0 | 0| 
 | 20230701T12:05:34Z | This is my project for Computational intelligence university course, for fuzzy systems chapter. | https://github.com/mohammadrad81/fuzzy-self-driving-car | 0 | 0| 
 | 20230701T11:51:32Z | Null | https://github.com/melkoniantamer/fuzzy-octo-broccoli | 2 | 1| 
@@ -86,7 +87,6 @@
 | 20230701T11:13:06Z | Source code for Fuzzing Android Automotive%s CAN interface master thesis | https://github.com/mihaimacarie98/fuzzing_aa_can_interface | 0 | 0| 
 | 20230701T10:57:28Z | generic linux fuzzer | https://github.com/aBraM-aBraM/gfuzz | 0 | 0| 
 | 20230701T01:00:39Z | a grammar based feedback fuzzer | https://github.com/RUB-SysSec/nautilus | 158 | 20| 
-| 20230701T00:26:51Z | Null | https://github.com/nadinenashaat/fuzzy-C-means-Algorithm | 0 | 0| 
 
 
 
