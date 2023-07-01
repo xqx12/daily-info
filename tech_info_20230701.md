@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:05:06Z | Null | https://github.com/kimjw0427/my_exploit | 0 | 0| 
 | 20230701T11:52:40Z | Windows Exploit using BadUSB to install this to victim computer, and managing it | https://github.com/BubaProgrammer/S1Exploit | 0 | 0| 
 | 20230701T10:03:03Z | rblx exploit hub ;) | https://github.com/wanw00d/wanwoodhub | 0 | 0| 
 | 20230701T09:33:31Z | A Unicorn based emulator for AMLogic%s A113X SoC Trustzone/BL31/TEE image, that exploits an out-of-bounds write to gain arbitrary read/write and control of execution flow | https://github.com/boredpentester/amlogic-trustzone-tee-emulator-exploit | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230701T08:18:36Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525181-1688199516 | 0 | 0| 
 | 20230701T08:18:33Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513 | 0 | 0| 
 | 20230701T08:18:30Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525183-1688199509 | 0 | 0| 
-| 20230701T08:12:14Z | 🚀  This is a collection of hacking🔥 and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make hacking easier🌠. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | 90 | 28| 
 
 
 # backdoor on Github 推荐
@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:05:34Z | This is my project for Computational intelligence university course, for fuzzy systems chapter. | https://github.com/mohammadrad81/fuzzy-self-driving-car | 0 | 0| 
 | 20230701T11:51:32Z | Null | https://github.com/melkoniantamer/fuzzy-octo-broccoli | 2 | 1| 
 | 20230701T11:26:20Z | Null | https://github.com/lacronejong/fuzzy-octo-broccoli | 0 | 0| 
 | 20230701T11:26:14Z | Null | https://github.com/lacronejong/fuzzy-fortnight | 0 | 0| 
