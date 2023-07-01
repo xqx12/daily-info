@@ -23,7 +23,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230630T23:28:35Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230630T15:46:34Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230630T14:58:39Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
 | 20230630T13:42:22Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
