@@ -42,12 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230701T01:53:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5105 | 641| 
-| 20230701T01:50:41Z | Null | https://github.com/AleksaZatezalo/art-of-exploitation | 0 | 0| 
-| 20230701T01:44:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-mg | 0 | 0| 
-| 20230701T01:43:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-mg | 0 | 0| 
-| 20230701T01:42:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mg | 0 | 0| 
-| 20230701T00:54:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4f0a72e4-b13a-4fa5-a462-c1c4033ec34e-_TZ-g-exploit-should | 0 | 0| 
+| 20230701T11:52:40Z | Windows Exploit using BadUSB to install this to victim computer, and managing it | https://github.com/BubaProgrammer/S1Exploit | 0 | 0| 
+| 20230701T10:03:03Z | rblx exploit hub ;) | https://github.com/wanw00d/wanwoodhub | 0 | 0| 
+| 20230701T09:33:31Z | A Unicorn based emulator for AMLogic%s A113X SoC Trustzone/BL31/TEE image, that exploits an out-of-bounds write to gain arbitrary read/write and control of execution flow | https://github.com/boredpentester/amlogic-trustzone-tee-emulator-exploit | 0 | 0| 
+| 20230701T09:27:42Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 35 | 10| 
+| 20230701T08:18:40Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525179-1688199519 | 0 | 0| 
+| 20230701T08:18:38Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525180-1688199518 | 0 | 0| 
+| 20230701T08:18:36Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525181-1688199516 | 0 | 0| 
+| 20230701T08:18:33Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513 | 0 | 0| 
+| 20230701T08:18:30Z | Vulnerability Exploitation and Patching: | https://github.com/smartinternz02/SI-GuidedProject-525183-1688199509 | 0 | 0| 
+| 20230701T08:12:14Z | 🚀  This is a collection of hacking🔥 and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make hacking easier🌠. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | 90 | 28| 
 
 
 # backdoor on Github 推荐
