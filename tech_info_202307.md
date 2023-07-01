@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T12:39:01Z | Null | https://github.com/tickflag/fuzzy | 0 | 0| 
 | 20230701T12:05:34Z | This is my project for Computational intelligence university course, for fuzzy systems chapter. | https://github.com/mohammadrad81/fuzzy-self-driving-car | 0 | 0| 
 | 20230701T11:51:32Z | Null | https://github.com/melkoniantamer/fuzzy-octo-broccoli | 2 | 1| 
 | 20230701T11:26:20Z | Null | https://github.com/lacronejong/fuzzy-octo-broccoli | 0 | 0| 
