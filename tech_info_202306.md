@@ -133,6 +133,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230630T21:24:58Z | This repository contains a notebook implementing a fuzzy controller to control the spread of a virus in an artificial world. The goal is to infect and maintain 60% of the bots. The notebook includes all the details, and analysis, including performance metrics, visualizations, and code. Explore dynamics through fuzzy control techniques. | https://github.com/Cagnurt/Fuzzy-Control-for-Plague-Spread | 0 | 0| 
 | 20230630T20:37:17Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 1 | 0| 
+| 20230630T20:36:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3690 | 438| 
 | 20230630T20:09:06Z | Fuzzrake non-web-requests-handling parts rewritten in a programming language | https://github.com/veelkoov/fuzzrake-backend | 0 | 0| 
 | 20230630T18:56:40Z | Null | https://github.com/FuzzySecurity/FuzzySecurity | 0 | 0| 
 | 20230630T12:53:29Z | Null | https://github.com/bagoes-ardianjar/UAS_Fuzzy_Logic | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230630T11:18:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3767 | 763| 
 | 20230630T10:29:52Z | Null | https://github.com/dorothy11233ss/fuzzy-carnival | 0 | 0| 
 | 20230630T10:15:09Z | Null | https://github.com/Anne4345/fuzzy-journey | 0 | 0| 
-| 20230630T09:13:21Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2184 | 279| 
 
 
 
