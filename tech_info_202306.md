@@ -41,7 +41,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230630T21:18:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12892 | 403| 
 | 20230630T16:13:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 79 | 18| 
 | 20230630T15:41:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2269 | 628| 
 | 20230630T11:21:18Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
@@ -51,6 +50,7 @@
 | 20230627T07:34:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 1014 | 43| 
 | 20230623T06:46:09Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230622T06:18:13Z | Calculadora de cerradura de kleene, unión, intersección   | https://github.com/HedelGovea/cerradura_de_kleene | 0 | 0| 
+| 20230620T04:48:04Z | Null | https://github.com/duongnotnhan/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
