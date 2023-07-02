@@ -46,6 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T01:45:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zb | 0 | 0| 
+| 20230702T01:45:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zb | 0 | 0| 
 | 20230702T01:44:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zb | 0 | 0| 
 | 20230702T01:22:16Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
 | 20230701T22:51:05Z | Bypass roblox%s chatfilter with Midnight! Try now using a exploit. | https://github.com/MidnightsBypasser/Bypasser.lua | 0 | 0| 
@@ -54,8 +56,6 @@
 | 20230701T21:07:43Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 0 | 0| 
 | 20230701T20:19:41Z | aqui ire subiendo diferentes exploits con tal de ensenar vulnerabilidades y  desarrollar nuestros propios exploits | https://github.com/Z43L/exploit | 0 | 0| 
 | 20230701T18:04:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5106 | 641| 
-| 20230701T17:30:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 672 | 172| 
-| 20230701T17:03:40Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 33 | 6| 
 
 
 # backdoor on Github 推荐
