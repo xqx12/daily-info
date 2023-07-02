@@ -51,11 +51,11 @@
 | 20230701T21:27:17Z | Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting, Darkweb, Deepweb, Research | https://github.com/aryanguenthner/365 | 34 | 8| 
 | 20230701T21:07:43Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 0 | 0| 
 | 20230701T20:19:41Z | aqui ire subiendo diferentes exploits con tal de ensenar vulnerabilidades y  desarrollar nuestros propios exploits | https://github.com/Z43L/exploit | 0 | 0| 
+| 20230701T18:04:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5106 | 641| 
 | 20230701T17:30:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 672 | 172| 
 | 20230701T17:03:40Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 33 | 6| 
 | 20230701T12:09:05Z | Null | https://github.com/Neronjust2017/the_secret_of_Capitalist_exploitation | 0 | 0| 
 | 20230701T12:05:06Z | Null | https://github.com/kimjw0427/my_exploit | 0 | 0| 
-| 20230701T11:52:40Z | Windows Exploit using BadUSB to install this to victim computer, and managing it | https://github.com/BubaProgrammer/S1Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,9 +91,9 @@
 | 20230701T21:33:45Z | Null | https://github.com/wczsjtu/Fuzzy-NMS | 0 | 0| 
 | 20230701T21:26:32Z | A KDL Document Generator For Fuzz Testing Parsers | https://github.com/kdl-org/kdl-gen | 2 | 0| 
 | 20230701T21:13:11Z | Null | https://github.com/raderjased/fuzzy-tribble | 0 | 0| 
+| 20230701T17:16:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3692 | 438| 
 | 20230701T13:14:17Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 144 | 14| 
 | 20230701T12:58:16Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
-| 20230701T12:39:01Z | Null | https://github.com/tickflag/fuzzy | 0 | 0| 
 
 
 
