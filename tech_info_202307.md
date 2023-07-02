@@ -61,7 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230701T23:37:20Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 31 | 2| 
+| 20230702T00:33:18Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 32 | 2| 
 | 20230701T14:40:14Z | Null | https://github.com/Yudiaramos/Backdoor_Service_and_client_py | 0 | 0| 
 | 20230701T12:16:39Z | Tomcat backdoor based on CS blog | https://github.com/HackingLZ/TomcatBackdoorPoC | 7 | 0| 
 | 20230701T06:20:27Z | Null | https://github.com/mauriceoboya/python_backdoor | 0 | 0| 
