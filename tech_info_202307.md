@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T00:39:28Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
+| 20230702T01:22:16Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
 | 20230701T22:51:05Z | Bypass roblox%s chatfilter with Midnight! Try now using a exploit. | https://github.com/MidnightsBypasser/Bypasser.lua | 0 | 0| 
 | 20230701T22:14:08Z | A Minecraft Utility Mod for the Fabric Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | 0 | 1| 
 | 20230701T21:27:17Z | Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting, Darkweb, Deepweb, Research | https://github.com/aryanguenthner/365 | 34 | 8| 
