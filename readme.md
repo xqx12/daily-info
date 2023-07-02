@@ -19,8 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230702T12:52:53Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230702T11:08:28Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230702T10:35:16Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230702T10:08:27Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
 | 20230702T10:08:15Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
 | 20230702T10:07:45Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
