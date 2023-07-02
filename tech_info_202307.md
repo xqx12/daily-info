@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T00:39:28Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
 | 20230701T22:51:05Z | Bypass roblox%s chatfilter with Midnight! Try now using a exploit. | https://github.com/MidnightsBypasser/Bypasser.lua | 0 | 0| 
 | 20230701T22:14:08Z | A Minecraft Utility Mod for the Fabric Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | 0 | 1| 
 | 20230701T21:27:17Z | Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting, Darkweb, Deepweb, Research | https://github.com/aryanguenthner/365 | 34 | 8| 
@@ -55,7 +56,6 @@
 | 20230701T17:30:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 672 | 172| 
 | 20230701T17:03:40Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 33 | 6| 
 | 20230701T12:09:05Z | Null | https://github.com/Neronjust2017/the_secret_of_Capitalist_exploitation | 0 | 0| 
-| 20230701T12:05:06Z | Null | https://github.com/kimjw0427/my_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -63,7 +63,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230702T00:33:18Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 32 | 2| 
 | 20230701T14:40:14Z | Null | https://github.com/Yudiaramos/Backdoor_Service_and_client_py | 0 | 0| 
-| 20230701T12:16:39Z | Tomcat backdoor based on CS blog | https://github.com/HackingLZ/TomcatBackdoorPoC | 7 | 0| 
+| 20230701T12:16:39Z | Tomcat backdoor based on CS blog | https://github.com/HackingLZ/TomcatBackdoorPoC | 7 | 1| 
 | 20230701T06:20:27Z | Null | https://github.com/mauriceoboya/python_backdoor | 0 | 0| 
 | 20230701T06:13:04Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 33 | 3| 
 
