@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230701T23:36:08Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
-| 20230701T20:37:51Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230701T20:23:52Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
 | 20230701T17:49:19Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
 | 20230701T17:25:19Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
@@ -27,6 +26,7 @@
 | 20230701T02:59:10Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
 | 20230701T02:44:38Z | CVE-2023-26258 | Null | https://github.com/Imahian/CVE-2023-26258 | | 
 | 20230701T02:19:54Z | CVE-2023-34843 | Null | https://github.com/Imahian/CVE-2023-34843 | | 
+| 20230701T01:59:07Z | CVE-2022-4510 | Binwalk | https://github.com/Imahian/CVE-2022-4510 | | 
 
 
 # klee on Github 推荐
