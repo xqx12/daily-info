@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230702T00:35:41Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230701T23:36:08Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
-| 20230701T20:54:50Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230701T20:37:51Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230701T20:23:52Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
 | 20230701T17:49:19Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
