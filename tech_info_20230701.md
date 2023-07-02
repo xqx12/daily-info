@@ -85,7 +85,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230701T23:31:14Z | Null | https://github.com/jodycoxutttre/fuzzy-barnacle | 0 | 0| 
-| 20230701T23:06:56Z | Null | https://github.com/larzilla/fuzzy-adventure | 0 | 0| 
 | 20230701T21:41:44Z | Null | https://github.com/wczsjtu/Fuzzy-class | 0 | 0| 
 | 20230701T21:34:29Z | Almost as many people are very crazy. | https://github.com/jrsamonek/fuzzybroccoli | 0 | 0| 
 | 20230701T21:33:45Z | Null | https://github.com/wczsjtu/Fuzzy-NMS | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20230701T13:14:17Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 144 | 14| 
 | 20230701T12:58:16Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
 | 20230701T12:39:01Z | Null | https://github.com/tickflag/fuzzy | 0 | 0| 
+| 20230701T12:05:34Z | This is my project for Computational intelligence university course, for fuzzy systems chapter. | https://github.com/mohammadrad81/fuzzy-self-driving-car | 0 | 0| 
 
 
 

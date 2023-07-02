@@ -84,8 +84,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T00:07:13Z | Null | https://github.com/larzilla/fuzzy-adventure | 0 | 0| 
 | 20230701T23:31:14Z | Null | https://github.com/jodycoxutttre/fuzzy-barnacle | 0 | 0| 
-| 20230701T23:06:56Z | Null | https://github.com/larzilla/fuzzy-adventure | 0 | 0| 
 | 20230701T21:41:44Z | Null | https://github.com/wczsjtu/Fuzzy-class | 0 | 0| 
 | 20230701T21:34:29Z | Almost as many people are very crazy. | https://github.com/jrsamonek/fuzzybroccoli | 0 | 0| 
 | 20230701T21:33:45Z | Null | https://github.com/wczsjtu/Fuzzy-NMS | 0 | 0| 
