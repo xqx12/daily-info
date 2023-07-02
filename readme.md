@@ -32,7 +32,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230701T17:00:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12902 | 403| 
 | 20230701T03:06:35Z | Config files for my GitHub profile. | https://github.com/klee521/klee521 | 0 | 0| 
 
 
