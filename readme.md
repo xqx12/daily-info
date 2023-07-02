@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230701T22:56:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3483 | 481| 
 | 20230701T12:04:18Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 73 | 10| 
 | 20230701T03:22:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 775 | 89| 
 
