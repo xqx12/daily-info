@@ -11,28 +11,34 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230702 | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g| 
+| 20230702 | 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA| 
+| 20230702 | 溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw| 
 | 20230701 | Starlink星链破解那些事 | https://radioactive.blog/2023/06/23/starlink_hacking/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230702T01:44:45Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230702T00:35:41Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230702T11:08:28Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230702T10:35:16Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230702T10:08:27Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
+| 20230702T10:08:15Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
+| 20230702T10:07:45Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
+| 20230702T05:41:27Z | CVE-2023-37250 | PoC | https://github.com/ewilded/CVE-2023-37250 | | 
+| 20230702T03:56:03Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 | 20230701T23:36:08Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
 | 20230701T20:23:52Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
-| 20230701T17:49:19Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
-| 20230701T17:25:19Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
-| 20230701T11:17:31Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 | 20230701T03:07:26Z | CVE-2023-34599 | Null | https://github.com/Imahian/CVE-2023-34599 | | 
-| 20230701T02:59:10Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
-| 20230701T02:44:38Z | CVE-2023-26258 | Null | https://github.com/Imahian/CVE-2023-26258 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T01:53:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12903 | 403| 
+| 20230702T11:43:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12908 | 403| 
+| 20230702T11:35:49Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
+| 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
+| 20230702T05:52:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2270 | 628| 
 | 20230701T03:06:35Z | Config files for my GitHub profile. | https://github.com/klee521/klee521 | 0 | 0| 
 
 
@@ -46,22 +52,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T10:58:47Z | Linux kernel hbp exploit method demo. (i.e. the degradation version of CVE-2022-42703) | https://github.com/Squirre17/hbp-attack-demo | 0 | 0| 
+| 20230702T09:18:32Z | This repository contains comprehensive writeups for various picoCTF challenges, covering domains such as Web Exploitation, Cryptography, Reverse Engineering, Forensics, General Skills, Binary Exploitation, and Uncategorised. Join me on this journey as we explore and solve these challenges using Kali Linux tools, enhancing our cybersecurity skills. | https://github.com/ChaiChengXun2/picoCTF-Writeup | 0 | 0| 
+| 20230702T08:54:38Z | script aims to allows the user to scan network for open ports, identifying users with weak password and finding potential vulnerabilities to be exploited | https://github.com/imspacemann/vulner | 1 | 0| 
+| 20230702T08:39:37Z | Annotating the code for the algorithm %µDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality% obtained from https://github.com/ADAPTLab/MuDBSCAN according to the core algorithms | https://github.com/tacocat0200/MuDBSCAN_annotation | 0 | 0| 
+| 20230702T07:51:26Z | Null | https://github.com/sandeepJHAHowrah/Exploit | 0 | 0| 
+| 20230702T02:33:06Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 590 | 24| 
 | 20230702T01:45:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zb | 0 | 0| 
 | 20230702T01:45:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zb | 0 | 0| 
 | 20230702T01:44:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zb | 0 | 0| 
 | 20230702T01:22:16Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
-| 20230701T22:51:05Z | Bypass roblox%s chatfilter with Midnight! Try now using a exploit. | https://github.com/MidnightsBypasser/Bypasser.lua | 0 | 0| 
-| 20230701T22:14:08Z | A Minecraft Utility Mod for the Fabric Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | 0 | 1| 
-| 20230701T21:27:17Z | Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting, Darkweb, Deepweb, Research | https://github.com/aryanguenthner/365 | 34 | 8| 
-| 20230701T21:07:43Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 0 | 0| 
-| 20230701T20:19:41Z | aqui ire subiendo diferentes exploits con tal de ensenar vulnerabilidades y  desarrollar nuestros propios exploits | https://github.com/Z43L/exploit | 0 | 0| 
-| 20230701T18:04:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5106 | 641| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T00:33:18Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 32 | 2| 
+| 20230702T11:41:46Z | malware, executing cmd commands | https://github.com/ronik-v/Golang_Simple_Backdoor | 0 | 0| 
+| 20230702T10:18:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 352 | 76| 
+| 20230702T10:11:01Z | Creating a backdoor through image and gaining access to windows machine. | https://github.com/subhro1530/Image_backdoor_apache | 0 | 0| 
+| 20230702T09:50:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2162 | 855| 
+| 20230702T08:02:40Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 34 | 2| 
+| 20230702T05:22:24Z | Null | https://github.com/kannan-g10/backdoor-tour | 0 | 0| 
 | 20230701T14:40:14Z | Null | https://github.com/Yudiaramos/Backdoor_Service_and_client_py | 0 | 0| 
 | 20230701T12:16:39Z | Tomcat backdoor based on CS blog | https://github.com/HackingLZ/TomcatBackdoorPoC | 7 | 1| 
 | 20230701T06:20:27Z | Null | https://github.com/mauriceoboya/python_backdoor | 0 | 0| 
@@ -84,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
+| 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
+| 20230702T08:57:26Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
+| 20230702T07:45:52Z | Null | https://github.com/kaisei0528/fuzzy-computing-machine | 0 | 0| 
+| 20230702T06:59:57Z | Null | https://github.com/stephanyerichson/fuzzy-enigma | 0 | 0| 
 | 20230702T00:07:13Z | Null | https://github.com/larzilla/fuzzy-adventure | 0 | 0| 
 | 20230701T23:31:14Z | Null | https://github.com/jodycoxutttre/fuzzy-barnacle | 0 | 0| 
 | 20230701T21:41:44Z | Null | https://github.com/wczsjtu/Fuzzy-class | 0 | 0| 
 | 20230701T21:34:29Z | Almost as many people are very crazy. | https://github.com/jrsamonek/fuzzybroccoli | 0 | 0| 
 | 20230701T21:33:45Z | Null | https://github.com/wczsjtu/Fuzzy-NMS | 0 | 0| 
-| 20230701T21:26:32Z | A KDL Document Generator For Fuzz Testing Parsers | https://github.com/kdl-org/kdl-gen | 2 | 0| 
-| 20230701T21:13:11Z | Null | https://github.com/raderjased/fuzzy-tribble | 0 | 0| 
-| 20230701T17:16:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3692 | 438| 
-| 20230701T13:14:17Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 144 | 14| 
-| 20230701T12:58:16Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
 
 
 
