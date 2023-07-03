@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230703T12:17:33Z | CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | | 
 | 20230703T12:02:55Z | CVE-2023-34960 | Python 2.7 | https://github.com/Jenderal92/CHAMILO-CVE-2023-34960 | | 
 | 20230703T11:51:04Z | CVE-2023-28343 | CVE-2023-28343 | https://github.com/hba343434/CVE-2023-28343 | | 
 | 20230703T11:26:01Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
@@ -28,7 +29,6 @@
 | 20230703T10:55:00Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
 | 20230703T10:41:29Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
 | 20230703T10:34:46Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
-| 20230703T10:21:15Z | CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | | 
 | 20230703T10:05:08Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230703T07:31:30Z | CVE-2021-26084 | Null | https://github.com/R0OtAdm1n/CVE-2021-26084-EXP | | 
 
@@ -50,6 +50,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230703T12:14:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-fdx0s-exploit-draw | 0 | 0| 
+| 20230703T12:04:23Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 2 | 0| 
 | 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
 | 20230703T10:36:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 673 | 172| 
 | 20230703T10:22:48Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Tuhinshubhra/CMSeeK | 1949 | 481| 
@@ -58,7 +59,6 @@
 | 20230703T01:55:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0012-0008-app-a7wVh-permit-exploit | 0 | 0| 
 | 20230703T01:43:19Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0004-app-F8O7v-laugh-exploit | 0 | 0| 
 | 20230703T01:23:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | 0 | 0| 
-| 20230703T01:22:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | 0 | 0| 
 
 
 # backdoor on Github 推荐
