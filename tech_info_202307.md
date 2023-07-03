@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230703T01:37:14Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230703T01:29:28Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
-| 20230703T00:25:40Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230702T21:03:27Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
 | 20230702T20:02:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
 | 20230702T18:46:00Z | CVE-2022-44268 | Expoit for CVE-2022-44268 | https://github.com/bhavikmalhotra/CVE-2022-44268-Exploit | | 
