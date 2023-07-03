@@ -11,6 +11,11 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230703 | Afuzz 一款适用于自动化Bug Bounty的敏文文件或路径发现工具 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485771&idx=1&sn=40d3e9812e2bffc6693be1ad30c88cd9&chksm=cfb73efbf8c0b7ed234223fc358579c6b6e322e59659a438ef201c338b58ad8b23836d74a3b3#rd| 
+| 20230703 | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis| 
+| 20230703 | [RedTeam] 轮换源IP | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg| 
+| 20230703 | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw| 
+| 20230703 | SecWiki周刊（第487期) | https://www.sec-wiki.com/weekly/487| 
 | 20230702 | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g| 
 | 20230702 | 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA| 
 | 20230702 | 溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw| 
@@ -20,23 +25,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230703T01:54:00Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
-| 20230703T01:29:28Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
-| 20230702T21:03:27Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
-| 20230702T20:02:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
-| 20230702T18:46:00Z | CVE-2022-44268 | Expoit for CVE-2022-44268 | https://github.com/bhavikmalhotra/CVE-2022-44268-Exploit | | 
-| 20230702T17:41:54Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230702T13:13:32Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
-| 20230702T10:08:27Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
-| 20230702T10:08:15Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
-| 20230702T05:41:27Z | CVE-2023-37250 | PoC | https://github.com/ewilded/CVE-2023-37250 | | 
+| 20230703T11:51:04Z | CVE-2023-28343 | CVE-2023-28343 | https://github.com/hba343434/CVE-2023-28343 | | 
+| 20230703T11:26:01Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230703T11:19:42Z | CVE-2023-34960 | Python 2.7 | https://github.com/Jenderal92/CHAMILO-CVE-2023-34960 | | 
+| 20230703T10:55:22Z | CVE-2023-34843 | Null | https://github.com/Imahian/CVE-2023-34843 | | 
+| 20230703T10:55:00Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
+| 20230703T10:41:29Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
+| 20230703T10:34:46Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
+| 20230703T10:21:15Z | CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | | 
+| 20230703T10:05:08Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230703T07:31:30Z | CVE-2021-26084 | Null | https://github.com/R0OtAdm1n/CVE-2021-26084-EXP | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T23:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12911 | 404| 
-| 20230702T12:12:49Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
+| 20230703T11:51:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12921 | 404| 
+| 20230703T06:27:37Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
+| 20230703T04:18:24Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 11 | 0| 
 | 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
 | 20230702T05:52:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2270 | 628| 
 | 20230701T03:06:35Z | Config files for my GitHub profile. | https://github.com/klee521/klee521 | 0 | 0| 
@@ -53,31 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
+| 20230703T10:36:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 673 | 172| 
+| 20230703T09:48:05Z | PP-finder Help you find gadget for prototype pollution exploitation | https://github.com/yeswehack/pp-finder | 77 | 10| 
+| 20230703T07:31:15Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1249 | 152| 
 | 20230703T01:55:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0012-0008-app-a7wVh-permit-exploit | 0 | 0| 
 | 20230703T01:43:19Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0004-app-F8O7v-laugh-exploit | 0 | 0| 
 | 20230703T01:23:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:22:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T00:42:49Z | Some exploits made for the machines on tryhackme, simply to practice the Python language. | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
-| 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
-| 20230702T21:49:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5108 | 641| 
-| 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
-| 20230702T21:14:02Z | Null | https://github.com/LuxGotEm/RobloxExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230703T00:41:56Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 38 | 3| 
+| 20230703T11:17:22Z | Null | https://github.com/NAYLINNU/linux_backdoor | 0 | 0| 
+| 20230703T10:57:37Z | Null | https://github.com/NAYLINNU/backdoor_with_python | 0 | 0| 
+| 20230703T09:14:24Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 15 | 2| 
+| 20230703T08:35:29Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 42 | 4| 
 | 20230703T00:11:40Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 17 | 0| 
 | 20230702T23:26:54Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 186 | 42| 
 | 20230702T21:06:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2164 | 855| 
 | 20230702T19:09:43Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 34 | 3| 
 | 20230702T11:41:46Z | malware, executing cmd commands | https://github.com/ronik-v/Golang_Simple_Backdoor | 0 | 0| 
 | 20230702T10:18:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 352 | 76| 
-| 20230702T10:11:01Z | Creating a backdoor through image and gaining access to windows machine. | https://github.com/subhro1530/Image_backdoor_apache | 0 | 0| 
-| 20230702T05:22:24Z | Null | https://github.com/kannan-g10/backdoor-tour | 0 | 0| 
-| 20230702T02:09:42Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 6 | 5| 
 
 
 # symbolic execution on Github 推荐
