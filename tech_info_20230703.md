@@ -64,10 +64,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T12:29:35Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 43 | 4| 
 | 20230703T11:17:22Z | Null | https://github.com/NAYLINNU/linux_backdoor | 0 | 0| 
 | 20230703T10:57:37Z | Null | https://github.com/NAYLINNU/backdoor_with_python | 0 | 0| 
 | 20230703T09:14:24Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 15 | 2| 
-| 20230703T08:35:29Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 42 | 4| 
 | 20230703T00:11:40Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 17 | 0| 
 
 
