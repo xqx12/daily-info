@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T01:43:19Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0004-app-F8O7v-laugh-exploit | 0 | 0| 
 | 20230703T01:23:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:22:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
 | 20230702T21:14:02Z | Null | https://github.com/LuxGotEm/RobloxExploit | 0 | 0| 
 | 20230702T21:10:43Z | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | 1 | 0| 
-| 20230702T19:35:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10366 | 1617| 
 
 
 # backdoor on Github 推荐
