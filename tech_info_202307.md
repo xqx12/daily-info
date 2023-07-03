@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T00:29:18Z | Null | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
 | 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
 | 20230702T21:49:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5108 | 641| 
 | 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20230702T16:39:51Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 2 | 0| 
 | 20230702T15:34:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 539 | 106| 
 | 20230702T13:57:14Z | I%d be exploiting a machine each day throughout the month of july | https://github.com/S444-gold/30-days-of-Exploitation | 0 | 0| 
-| 20230702T10:58:47Z | Linux kernel hbp exploit method demo. (i.e. the degradation version of CVE-2022-42703) | https://github.com/Squirre17/hbp-attack-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
