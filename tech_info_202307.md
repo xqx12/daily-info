@@ -35,7 +35,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T23:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12911 | 403| 
+| 20230702T23:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12911 | 404| 
 | 20230702T12:12:49Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
 | 20230702T05:52:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2270 | 628| 
@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T23:58:04Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
+| 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
 | 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
 | 20230702T21:14:02Z | Null | https://github.com/LuxGotEm/RobloxExploit | 0 | 0| 
 | 20230702T21:10:43Z | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | 1 | 0| 
@@ -98,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T00:10:15Z | Null | https://github.com/21Turtles/fuzzy-palm-tree | 0 | 0| 
 | 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
 | 20230702T17:07:51Z | commit | https://github.com/orafriat/FuzzyAppGui | 0 | 0| 
+| 20230702T15:15:08Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
 | 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
 | 20230702T08:57:26Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
 | 20230702T07:45:52Z | Null | https://github.com/kaisei0528/fuzzy-computing-machine | 0 | 0| 
 | 20230702T06:59:57Z | Null | https://github.com/stephanyerichson/fuzzy-enigma | 0 | 0| 
-| 20230702T00:07:13Z | Null | https://github.com/larzilla/fuzzy-adventure | 0 | 0| 
-| 20230701T23:31:14Z | Null | https://github.com/jodycoxutttre/fuzzy-barnacle | 0 | 0| 
 
 
 
