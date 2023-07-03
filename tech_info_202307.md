@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230703T00:32:38Z | Null | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
+| 20230703T00:40:35Z | Null | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
 | 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
 | 20230702T21:49:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5108 | 641| 
 | 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
