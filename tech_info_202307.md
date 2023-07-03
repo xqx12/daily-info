@@ -20,22 +20,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230702T12:52:53Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
-| 20230702T11:08:28Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230702T23:26:29Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230702T21:03:27Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
+| 20230702T20:02:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
+| 20230702T18:46:00Z | CVE-2022-44268 | Expoit for CVE-2022-44268 | https://github.com/bhavikmalhotra/CVE-2022-44268-Exploit | | 
+| 20230702T17:41:54Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230702T13:13:32Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
 | 20230702T10:08:27Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
 | 20230702T10:08:15Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
-| 20230702T10:07:45Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
 | 20230702T05:41:27Z | CVE-2023-37250 | PoC | https://github.com/ewilded/CVE-2023-37250 | | 
 | 20230702T03:56:03Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
-| 20230701T23:36:08Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
-| 20230701T20:23:52Z | CVE-2020-9289 | Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine). | https://github.com/synacktiv/CVE-2020-9289 | | 
-| 20230701T03:07:26Z | CVE-2023-34599 | Null | https://github.com/Imahian/CVE-2023-34599 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T12:56:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12908 | 403| 
+| 20230702T23:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12911 | 403| 
 | 20230702T12:12:49Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
 | 20230702T05:52:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2270 | 628| 
@@ -45,6 +45,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T16:30:20Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 31 | 12| 
 | 20230701T15:05:22Z | Null | https://github.com/DusaVignesh/user_s2ev | 0 | 0| 
 | 20230701T14:59:45Z | Null | https://github.com/DusaVignesh/s2ev_user | 0 | 0| 
 
@@ -67,16 +68,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230702T12:50:46Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 35 | 3| 
+| 20230702T23:26:54Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 186 | 42| 
+| 20230702T21:06:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2164 | 855| 
+| 20230702T20:29:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 37 | 3| 
+| 20230702T19:09:43Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 34 | 3| 
 | 20230702T11:41:46Z | malware, executing cmd commands | https://github.com/ronik-v/Golang_Simple_Backdoor | 0 | 0| 
 | 20230702T10:18:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 352 | 76| 
 | 20230702T10:11:01Z | Creating a backdoor through image and gaining access to windows machine. | https://github.com/subhro1530/Image_backdoor_apache | 0 | 0| 
-| 20230702T09:50:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2162 | 855| 
 | 20230702T05:22:24Z | Null | https://github.com/kannan-g10/backdoor-tour | 0 | 0| 
+| 20230702T02:09:42Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 6 | 5| 
 | 20230701T14:40:14Z | Null | https://github.com/Yudiaramos/Backdoor_Service_and_client_py | 0 | 0| 
-| 20230701T12:16:39Z | Tomcat backdoor based on CS blog | https://github.com/HackingLZ/TomcatBackdoorPoC | 7 | 1| 
-| 20230701T06:20:27Z | Null | https://github.com/mauriceoboya/python_backdoor | 0 | 0| 
-| 20230701T06:13:04Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 33 | 3| 
 
 
 # symbolic execution on Github 推荐
