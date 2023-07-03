@@ -65,7 +65,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230702T23:26:54Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 186 | 42| 
 | 20230702T21:06:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2164 | 855| 
-| 20230702T20:29:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 37 | 3| 
 | 20230702T19:09:43Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 34 | 3| 
 | 20230702T11:41:46Z | malware, executing cmd commands | https://github.com/ronik-v/Golang_Simple_Backdoor | 0 | 0| 
 | 20230702T10:18:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 352 | 76| 
