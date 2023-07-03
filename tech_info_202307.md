@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230703T01:29:28Z | CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | | 
 | 20230703T00:25:40Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230702T21:03:27Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
 | 20230702T20:02:19Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/purseclab/CVE-2023-33768 | | 
@@ -29,7 +30,6 @@
 | 20230702T10:08:27Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
 | 20230702T10:08:15Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
 | 20230702T05:41:27Z | CVE-2023-37250 | PoC | https://github.com/ewilded/CVE-2023-37250 | | 
-| 20230702T03:56:03Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338 | | 
 
 
 # klee on Github 推荐
