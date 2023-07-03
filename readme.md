@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T23:58:04Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
+| 20230702T21:15:15Z | Nous sommes fiers de vous proposer une gamme complète de services qui incluent l%analyse de données, la rédaction d%articles scientifiques et la conception de formulaires d%enquêtes, afin de vous aider à exploiter vos données, créer du contenu de qualité. Faites confiance à notre expertise pour des décisions éclairées et une communication efficace. | https://github.com/datasolutionplus/formul-r | 0 | 0| 
+| 20230702T21:14:02Z | Null | https://github.com/LuxGotEm/RobloxExploit | 0 | 0| 
+| 20230702T21:10:43Z | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | 1 | 0| 
+| 20230702T19:35:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10366 | 1617| 
+| 20230702T16:39:51Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 2 | 0| 
+| 20230702T13:57:14Z | I%d be exploiting a machine each day throughout the month of july | https://github.com/S444-gold/30-days-of-Exploitation | 0 | 0| 
 | 20230702T10:58:47Z | Linux kernel hbp exploit method demo. (i.e. the degradation version of CVE-2022-42703) | https://github.com/Squirre17/hbp-attack-demo | 0 | 0| 
 | 20230702T09:18:32Z | This repository contains comprehensive writeups for various picoCTF challenges, covering domains such as Web Exploitation, Cryptography, Reverse Engineering, Forensics, General Skills, Binary Exploitation, and Uncategorised. Join me on this journey as we explore and solve these challenges using Kali Linux tools, enhancing our cybersecurity skills. | https://github.com/ChaiChengXun2/picoCTF-Writeup | 0 | 0| 
 | 20230702T08:54:38Z | script aims to allows the user to scan network for open ports, identifying users with weak password and finding potential vulnerabilities to be exploited | https://github.com/imspacemann/vulner | 1 | 0| 
-| 20230702T08:39:37Z | Annotating the code for the algorithm %µDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality% obtained from https://github.com/ADAPTLab/MuDBSCAN according to the core algorithms | https://github.com/tacocat0200/MuDBSCAN_annotation | 0 | 0| 
-| 20230702T07:51:26Z | Null | https://github.com/sandeepJHAHowrah/Exploit | 0 | 0| 
-| 20230702T02:33:06Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 590 | 24| 
-| 20230702T01:45:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zb | 0 | 0| 
-| 20230702T01:45:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zb | 0 | 0| 
-| 20230702T01:44:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zb | 0 | 0| 
-| 20230702T01:22:16Z | Learning, implementing and exploiting React 💥 | https://github.com/ibernabel/react-projects | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -90,6 +90,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
+| 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
+| 20230702T17:07:51Z | commit | https://github.com/orafriat/FuzzyAppGui | 0 | 0| 
 | 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
 | 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
 | 20230702T08:57:26Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
