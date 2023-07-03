@@ -52,13 +52,13 @@
 | 20230703T12:14:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-fdx0s-exploit-draw | 0 | 0| 
 | 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
 | 20230703T10:36:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 673 | 172| 
+| 20230703T10:22:48Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Tuhinshubhra/CMSeeK | 1949 | 481| 
 | 20230703T09:48:05Z | PP-finder Help you find gadget for prototype pollution exploitation | https://github.com/yeswehack/pp-finder | 77 | 10| 
 | 20230703T07:31:15Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1249 | 152| 
 | 20230703T01:55:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0012-0008-app-a7wVh-permit-exploit | 0 | 0| 
 | 20230703T01:43:19Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0007-0004-app-F8O7v-laugh-exploit | 0 | 0| 
 | 20230703T01:23:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:22:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | 0 | 0| 
-| 20230703T01:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | 0 | 0| 
 
 
 # backdoor on Github 推荐
