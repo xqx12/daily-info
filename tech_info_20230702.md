@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230702T23:49:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8772 | 1929| 
 | 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
 | 20230702T17:07:51Z | commit | https://github.com/orafriat/FuzzyAppGui | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
 | 20230702T08:57:26Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
 | 20230702T07:45:52Z | Null | https://github.com/kaisei0528/fuzzy-computing-machine | 0 | 0| 
-| 20230702T06:59:57Z | Null | https://github.com/stephanyerichson/fuzzy-enigma | 0 | 0| 
 
 
 

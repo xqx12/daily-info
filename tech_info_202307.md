@@ -53,6 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T01:23:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | 0 | 0| 
+| 20230703T01:22:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T01:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T00:42:49Z | Some exploits made for the machines on tryhackme, simply to practice the Python language. | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
 | 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
@@ -61,8 +63,6 @@
 | 20230702T21:14:02Z | Null | https://github.com/LuxGotEm/RobloxExploit | 0 | 0| 
 | 20230702T21:10:43Z | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | 1 | 0| 
 | 20230702T19:35:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10366 | 1617| 
-| 20230702T16:39:51Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 2 | 0| 
-| 20230702T16:06:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5142 | 1002| 
 
 
 # backdoor on Github 推荐
@@ -101,13 +101,13 @@
 | 20230703T00:37:39Z | Null | https://github.com/zalllrizalll/Fuzzy-Logic | 0 | 0| 
 | 20230703T00:34:37Z | Null | https://github.com/ashantial/fuzzy-guide | 0 | 0| 
 | 20230703T00:10:15Z | Null | https://github.com/21Turtles/fuzzy-palm-tree | 0 | 0| 
+| 20230702T23:49:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8772 | 1929| 
 | 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
 | 20230702T17:07:51Z | commit | https://github.com/orafriat/FuzzyAppGui | 0 | 0| 
 | 20230702T16:54:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3695 | 438| 
 | 20230702T15:15:08Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
-| 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
 
 
 
