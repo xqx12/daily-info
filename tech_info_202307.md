@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T01:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | 0 | 0| 
 | 20230703T00:42:49Z | Some exploits made for the machines on tryhackme, simply to practice the Python language. | https://github.com/skayblye/tryhackme-machines-exploits | 0 | 0| 
 | 20230703T00:07:38Z | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | 0 | 0| 
 | 20230702T21:49:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5108 | 641| 
@@ -62,7 +63,6 @@
 | 20230702T19:35:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10366 | 1617| 
 | 20230702T16:39:51Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 2 | 0| 
 | 20230702T16:06:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5142 | 1002| 
-| 20230702T15:34:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 539 | 106| 
 
 
 # backdoor on Github 推荐
