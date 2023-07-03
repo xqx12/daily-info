@@ -25,9 +25,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230703T12:02:55Z | CVE-2023-34960 | Python 2.7 | https://github.com/Jenderal92/CHAMILO-CVE-2023-34960 | | 
 | 20230703T11:51:04Z | CVE-2023-28343 | CVE-2023-28343 | https://github.com/hba343434/CVE-2023-28343 | | 
 | 20230703T11:26:01Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
-| 20230703T11:19:42Z | CVE-2023-34960 | Python 2.7 | https://github.com/Jenderal92/CHAMILO-CVE-2023-34960 | | 
 | 20230703T10:55:22Z | CVE-2023-34843 | Null | https://github.com/Imahian/CVE-2023-34843 | | 
 | 20230703T10:55:00Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
 | 20230703T10:41:29Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
@@ -105,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T12:01:32Z | Null | https://github.com/Satria-Kurniawan/spk-fuzzy-saw | 0 | 0| 
+| 20230703T11:59:38Z | Null | https://github.com/alfansu/UAS_Kecerdasan-Buatan_fuzzy- | 0 | 0| 
+| 20230703T11:34:30Z | The Official Android app for Fizanto Fuzz YouTube Channel. | https://github.com/Aryan9059/fizanto-fuzz | 0 | 0| 
+| 20230703T10:58:24Z | Null | https://github.com/johnsiedixion/fuzzy-memory | 0 | 0| 
+| 20230703T09:18:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4745 | 1144| 
+| 20230703T09:11:16Z | Pythonでファジィモデルの結果（csvファイル）をプロットする． | https://github.com/pokeevil31/plot_csv_fuzzymodel_py | 0 | 0| 
+| 20230703T09:05:46Z | C++による逐次法ファジィモデリング． | https://github.com/pokeevil31/Chikuji_fuzzymodeling_cpp | 0 | 0| 
+| 20230703T07:19:02Z | fuzzy hash in python (from ssdeep) | https://github.com/guofei9987/fuzzy-hash | 1 | 0| 
 | 20230703T00:37:39Z | Null | https://github.com/zalllrizalll/Fuzzy-Logic | 0 | 0| 
 | 20230703T00:34:37Z | Null | https://github.com/ashantial/fuzzy-guide | 0 | 0| 
-| 20230703T00:10:15Z | Null | https://github.com/21Turtles/fuzzy-palm-tree | 0 | 0| 
-| 20230702T23:49:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8772 | 1929| 
-| 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
-| 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
-| 20230702T17:07:51Z | commit | https://github.com/orafriat/FuzzyAppGui | 0 | 0| 
-| 20230702T16:54:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3695 | 438| 
-| 20230702T15:15:08Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
-| 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
 
 
 
