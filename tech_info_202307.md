@@ -59,15 +59,16 @@
 | 20230702T21:10:43Z | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | 1 | 0| 
 | 20230702T19:35:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10366 | 1617| 
 | 20230702T16:39:51Z | Fast Path Traversal exploitation tool | https://github.com/treddis/dotdotfarm | 2 | 0| 
+| 20230702T15:34:23Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 539 | 106| 
 | 20230702T13:57:14Z | I%d be exploiting a machine each day throughout the month of july | https://github.com/S444-gold/30-days-of-Exploitation | 0 | 0| 
 | 20230702T10:58:47Z | Linux kernel hbp exploit method demo. (i.e. the degradation version of CVE-2022-42703) | https://github.com/Squirre17/hbp-attack-demo | 0 | 0| 
 | 20230702T09:18:32Z | This repository contains comprehensive writeups for various picoCTF challenges, covering domains such as Web Exploitation, Cryptography, Reverse Engineering, Forensics, General Skills, Binary Exploitation, and Uncategorised. Join me on this journey as we explore and solve these challenges using Kali Linux tools, enhancing our cybersecurity skills. | https://github.com/ChaiChengXun2/picoCTF-Writeup | 0 | 0| 
-| 20230702T08:54:38Z | script aims to allows the user to scan network for open ports, identifying users with weak password and finding potential vulnerabilities to be exploited | https://github.com/imspacemann/vulner | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T00:11:40Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 17 | 0| 
 | 20230702T23:26:54Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 186 | 42| 
 | 20230702T21:06:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2164 | 855| 
 | 20230702T20:29:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 37 | 3| 
@@ -77,7 +78,6 @@
 | 20230702T10:11:01Z | Creating a backdoor through image and gaining access to windows machine. | https://github.com/subhro1530/Image_backdoor_apache | 0 | 0| 
 | 20230702T05:22:24Z | Null | https://github.com/kannan-g10/backdoor-tour | 0 | 0| 
 | 20230702T02:09:42Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 6 | 5| 
-| 20230701T14:40:14Z | Null | https://github.com/Yudiaramos/Backdoor_Service_and_client_py | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
