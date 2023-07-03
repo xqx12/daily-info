@@ -98,6 +98,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230703T00:37:39Z | Null | https://github.com/zalllrizalll/Fuzzy-Logic | 0 | 0| 
+| 20230703T00:34:37Z | Null | https://github.com/ashantial/fuzzy-guide | 0 | 0| 
 | 20230703T00:10:15Z | Null | https://github.com/21Turtles/fuzzy-palm-tree | 0 | 0| 
 | 20230702T20:53:20Z | Null | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230702T19:56:24Z | Null | https://github.com/i-pva/fuzzy | 0 | 0| 
@@ -106,8 +108,6 @@
 | 20230702T15:15:08Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230702T10:21:40Z | Fuzz/Octave effect Plugin for Electric Guitar or Bass Guitar. UPDATED. | https://github.com/Kirby01/KFuzz-VST3-Juce | 2 | 0| 
 | 20230702T09:35:31Z | Fuzzy algorithms are used to model and control systems based on fuzzy logic that can overcome uncertainty and ambiguity in decision making. | https://github.com/arifsptra/fuzzy-algorithm | 0 | 0| 
-| 20230702T08:57:26Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
-| 20230702T07:45:52Z | Null | https://github.com/kaisei0528/fuzzy-computing-machine | 0 | 0| 
 
 
 
