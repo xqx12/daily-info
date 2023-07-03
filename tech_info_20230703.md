@@ -94,8 +94,8 @@
 | 20230703T09:11:16Z | Pythonでファジィモデルの結果（csvファイル）をプロットする． | https://github.com/pokeevil31/plot_csv_fuzzymodel_py | 0 | 0| 
 | 20230703T09:05:46Z | C++による逐次法ファジィモデリング． | https://github.com/pokeevil31/Chikuji_fuzzymodeling_cpp | 0 | 0| 
 | 20230703T07:19:02Z | fuzzy hash in python (from ssdeep) | https://github.com/guofei9987/fuzzy-hash | 1 | 0| 
+| 20230703T04:23:24Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230703T00:37:39Z | Null | https://github.com/zalllrizalll/Fuzzy-Logic | 0 | 0| 
-| 20230703T00:34:37Z | Null | https://github.com/ashantial/fuzzy-guide | 0 | 0| 
 
 
 
