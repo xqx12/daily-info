@@ -78,13 +78,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T12:24:44Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 49 | 4| 
 | 20230704T12:05:48Z | Backdoor for open any OC  | https://github.com/Generallisimo/pentesnitg_backdoor | 0 | 0| 
 | 20230704T11:35:25Z | Null | https://github.com/mmwan101010/speaker_backdoor | 0 | 0| 
 | 20230704T10:08:26Z | Null | https://github.com/Jinn0x0/BackDoor | 0 | 0| 
 | 20230704T10:00:17Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 25 | 1| 
 | 20230704T09:20:27Z | this is an backdoor exploit program which helps an user to get information from any user when deployed to the target machine | https://github.com/vaibhavbais007/Backdoor-exploit-python-program | 0 | 0| 
 | 20230704T08:59:13Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2166 | 854| 
-| 20230704T08:13:50Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 48 | 4| 
 | 20230704T05:40:42Z | This is a script for internal backdoor/universal backdoor | https://github.com/giabao18092002/Backdoor-Script | 0 | 0| 
 | 20230703T13:12:42Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 7 | 5| 
 | 20230703T11:17:22Z | Null | https://github.com/NAYLINNU/linux_backdoor | 0 | 0| 
