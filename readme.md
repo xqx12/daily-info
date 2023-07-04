@@ -61,7 +61,7 @@
 | 20230703T12:13:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2165 | 854| 
 | 20230703T12:04:23Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 2 | 0| 
 | 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
-| 20230703T10:36:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 673 | 172| 
+| 20230703T11:12:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5113 | 641| 
 
 
 # backdoor on Github 推荐
