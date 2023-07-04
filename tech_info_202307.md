@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230704T12:34:32Z | Null | https://github.com/JeanJeanLeHaxor/exploit | 0 | 0| 
+| 20230704T12:45:38Z | Null | https://github.com/JeanJeanLeHaxor/exploit | 0 | 0| 
 | 20230704T12:33:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5708 | 763| 
 | 20230704T12:03:56Z | Code for Findings of ACL 2023 paper %Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis% | https://github.com/lyuchenyang/Personalized-Sentiment-Analysis | 2 | 0| 
 | 20230704T11:48:24Z | This is the Updated Python3 exploit for CVE-2019-9053 | https://github.com/im-suman-roy/CVE-2019-9053 | 0 | 1| 
