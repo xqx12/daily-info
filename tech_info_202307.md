@@ -109,6 +109,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T01:04:21Z | Null | https://github.com/SamuelAndrey/FuzzyLogic-GUI | 0 | 0| 
 | 20230703T22:24:35Z | Null | https://github.com/MrE-Fog/smc-fuzzer | 0 | 0| 
 | 20230703T22:08:24Z | Null | https://github.com/SarvinB/Selfdrivingcar-FuzzySystem | 0 | 0| 
 | 20230703T21:53:19Z | Null | https://github.com/Magnus167/fuzzy-pdfs | 0 | 0| 
@@ -118,7 +119,6 @@
 | 20230703T11:59:38Z | Null | https://github.com/alfansu/UAS_Kecerdasan-Buatan_fuzzy- | 0 | 0| 
 | 20230703T11:34:30Z | The Official Android app for Fizanto Fuzz YouTube Channel. | https://github.com/Aryan9059/fizanto-fuzz | 0 | 0| 
 | 20230703T10:58:24Z | Null | https://github.com/johnsiedixion/fuzzy-memory | 0 | 0| 
-| 20230703T09:18:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4745 | 1144| 
 
 
 
