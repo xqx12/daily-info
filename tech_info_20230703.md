@@ -54,7 +54,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230703T22:44:26Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 3 | 3| 
 | 20230703T22:25:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5707 | 763| 
-| 20230703T21:56:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13970 | 2373| 
+| 20230703T21:56:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13970 | 2374| 
 | 20230703T18:53:46Z | Price is 5e steam wallet code+full source code, Discord Nitro or basic Gift, Or 330robux  Contact me at discord ROOT44x#5660 | https://github.com/root44xs/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
 | 20230703T15:25:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 224 | 37| 
 | 20230703T14:34:14Z | HevdExploit | https://github.com/rwhitcroft/HevdExploit | 0 | 0| 
