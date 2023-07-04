@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T12:02:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5708 | 763| 
 | 20230704T11:48:24Z | This is the Updated Python3 exploit for CVE-2019-9053 | https://github.com/im-suman-roy/CVE-2019-9053 | 0 | 1| 
 | 20230704T10:33:53Z | Plot .spa  as .png files and export also as .csv exploiting python read_spa code from lerkoah | https://github.com/guarnicolo/spa_to_png_csv | 0 | 0| 
 | 20230704T09:56:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5277 | 742| 
@@ -52,7 +53,6 @@
 | 20230704T01:39:13Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13971 | 2374| 
 | 20230704T01:16:25Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0004-0001-app-DkM9z-abandon-exploit | 0 | 0| 
 | 20230704T01:14:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vm | 0 | 0| 
-| 20230704T01:13:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vm | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T11:19:40Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 2 | 6| 
 
 
 # big4 on Github 推荐
