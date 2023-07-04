@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T00:03:38Z | for people who are devious | https://github.com/lolcatgamer69/rblx-scripts-exploit | 0 | 0| 
 | 20230703T22:44:26Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 3 | 3| 
 | 20230703T22:25:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5707 | 763| 
 | 20230703T21:56:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13970 | 2373| 
@@ -70,7 +71,6 @@
 | 20230703T12:13:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2165 | 854| 
 | 20230703T12:04:23Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 2 | 0| 
 | 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
-| 20230703T10:36:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 673 | 172| 
 
 
 # backdoor on Github 推荐
