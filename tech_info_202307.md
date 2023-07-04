@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230704T00:57:48Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
+| 20230704T01:16:00Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230704T00:55:44Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230704T00:54:22Z | CVE-2023-24488 | CVE-2023-24488.rb The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC. | https://github.com/Abo5/CVE-2023-24488 | | 
 | 20230703T18:48:26Z | CVE-2023-22906 | Null | https://github.com/nonamecoder/CVE-2023-22906 | | 
@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T01:16:25Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0004-0001-app-DkM9z-abandon-exploit | 0 | 0| 
 | 20230704T01:14:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vm | 0 | 0| 
 | 20230704T01:13:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vm | 0 | 0| 
 | 20230704T01:12:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vm | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230703T21:56:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13970 | 2374| 
 | 20230703T18:53:46Z | Price is 5e steam wallet code+full source code, Discord Nitro or basic Gift, Or 330robux  Contact me at discord ROOT44x#5660 | https://github.com/root44xs/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
 | 20230703T17:53:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5143 | 1002| 
-| 20230703T15:25:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 224 | 37| 
 
 
 # backdoor on Github 推荐
