@@ -61,6 +61,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T01:14:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vm | 0 | 0| 
+| 20230704T01:13:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vm | 0 | 0| 
 | 20230704T01:12:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vm | 0 | 0| 
 | 20230704T00:08:19Z | for people who are devious | https://github.com/lolcatgamer69/rblx-scripts-exploit | 0 | 0| 
 | 20230703T22:44:26Z | %FiveM-Thief% by Petris is a script for FiveM, a multiplayer mod for GTA V. It enables players to steal items from each other with captivating animations and includes a robust anti-exploit system for fair gameplay. Enjoy immersive theft mechanics in a secure environment. | https://github.com/PetrisGR/FiveM-Thief | 3 | 3| 
@@ -69,8 +71,6 @@
 | 20230703T18:53:46Z | Price is 5e steam wallet code+full source code, Discord Nitro or basic Gift, Or 330robux  Contact me at discord ROOT44x#5660 | https://github.com/root44xs/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
 | 20230703T17:53:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5143 | 1002| 
 | 20230703T15:25:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 224 | 37| 
-| 20230703T14:34:14Z | HevdExploit | https://github.com/rwhitcroft/HevdExploit | 0 | 0| 
-| 20230703T12:14:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-fdx0s-exploit-draw | 0 | 0| 
 
 
 # backdoor on Github 推荐
