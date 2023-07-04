@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230704T00:29:57Z | CVE-2023-24488 | CVE-2023-24488.rb The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC. | https://github.com/Abo5/CVE-2023-24488 | | 
+| 20230704T00:31:27Z | CVE-2023-24488 | CVE-2023-24488.rb The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC. | https://github.com/Abo5/CVE-2023-24488 | | 
 | 20230704T00:15:30Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230703T22:56:22Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230703T18:48:26Z | CVE-2023-22906 | Null | https://github.com/nonamecoder/CVE-2023-22906 | | 
