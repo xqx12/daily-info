@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230704T00:57:48Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230704T00:55:44Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230704T00:54:22Z | CVE-2023-24488 | CVE-2023-24488.rb The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC. | https://github.com/Abo5/CVE-2023-24488 | | 
-| 20230704T00:15:30Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230703T18:48:26Z | CVE-2023-22906 | Null | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230703T13:37:38Z | CVE-2023-20871 | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | https://github.com/ChriSanders22/CVE-2023-20871-poc | | 
 | 20230703T12:17:33Z | CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | | 
