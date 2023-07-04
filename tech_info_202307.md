@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230703T23:42:20Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
+| 20230704T00:15:30Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230703T22:56:22Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230703T18:48:26Z | CVE-2023-22906 | Null | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230703T13:37:38Z | CVE-2023-20871 | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | https://github.com/ChriSanders22/CVE-2023-20871-poc | | 
@@ -67,10 +67,10 @@
 | 20230703T21:56:36Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 13970 | 2373| 
 | 20230703T18:53:46Z | Price is 5e steam wallet code+full source code, Discord Nitro or basic Gift, Or 330robux  Contact me at discord ROOT44x#5660 | https://github.com/root44xs/The-vampire-legacies-script-selling-working-2023 | 0 | 0| 
 | 20230703T15:25:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 224 | 37| 
+| 20230703T14:34:14Z | HevdExploit | https://github.com/rwhitcroft/HevdExploit | 0 | 0| 
 | 20230703T12:14:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-fdx0s-exploit-draw | 0 | 0| 
 | 20230703T12:13:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2165 | 854| 
 | 20230703T12:04:23Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 2 | 0| 
-| 20230703T11:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5271 | 742| 
 
 
 # backdoor on Github 推荐
