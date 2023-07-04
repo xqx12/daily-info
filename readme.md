@@ -14,6 +14,7 @@
 | 20230704 | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA| 
 | 20230704 | 万亿数据仓库架构设计与实现 | https://mp.weixin.qq.com/s/E0X7094kk9My7JTEOELjDg| 
 | 20230704 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd| 
+| 20230704 | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ| 
 
 
 # CVE Github 推荐

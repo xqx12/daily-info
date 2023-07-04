@@ -14,13 +14,13 @@
 | 20230704 | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA| 
 | 20230704 | 万亿数据仓库架构设计与实现 | https://mp.weixin.qq.com/s/E0X7094kk9My7JTEOELjDg| 
 | 20230704 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd| 
+| 20230704 | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ| 
 | 20230703 | Afuzz 一款适用于自动化Bug Bounty的敏文文件或路径发现工具 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485771&idx=1&sn=40d3e9812e2bffc6693be1ad30c88cd9&chksm=cfb73efbf8c0b7ed234223fc358579c6b6e322e59659a438ef201c338b58ad8b23836d74a3b3#rd| 
 | 20230703 | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis| 
 | 20230703 | [RedTeam] 轮换源IP | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg| 
 | 20230703 | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw| 
 | 20230703 | SecWiki周刊（第487期) | https://www.sec-wiki.com/weekly/487| 
 | 20230703 | TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过... | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q| 
-| 20230703 | Afuzz 一款适用于自动化Bug Bounty的敏文文件或路径发现工具 | https://mp.weixin.qq.com/s/neBdaMtiqvwr-pPKYQvsfg| 
 
 
 # CVE Github 推荐
