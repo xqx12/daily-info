@@ -23,7 +23,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230703T22:56:22Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230703T18:48:26Z | CVE-2023-22906 | Null | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230703T13:37:38Z | CVE-2023-20871 | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | https://github.com/ChriSanders22/CVE-2023-20871-poc | | 
 | 20230703T12:17:33Z | CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | | 
@@ -33,6 +32,7 @@
 | 20230703T10:55:22Z | CVE-2023-34843 | Null | https://github.com/Imahian/CVE-2023-34843 | | 
 | 20230703T10:55:00Z | CVE-2023-34598 | Null | https://github.com/Imahian/CVE-2023-34598 | | 
 | 20230703T10:41:29Z | CVE-2023-24488 | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | | 
+| 20230703T10:34:46Z | CVE-2023-32315 | Null | https://github.com/Pari-Malam/CVE-2023-32315 | | 
 
 
 # klee on Github 推荐
