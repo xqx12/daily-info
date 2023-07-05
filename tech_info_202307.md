@@ -65,7 +65,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230704T23:27:33Z | CVE-2017-7921 EXPLOIT | https://github.com/krypton612/hikivision | 0 | 0| 
-| 20230704T23:04:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 763| 
+| 20230704T23:04:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230704T22:21:08Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 41 | 6| 
 | 20230704T21:13:26Z | A cross platform, rust implementation for the Tegra X1 bootROM exploit  | https://github.com/budde25/switcheroo | 39 | 3| 
 | 20230704T16:51:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5146 | 1003| 
