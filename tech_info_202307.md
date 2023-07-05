@@ -117,10 +117,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230705T12:45:09Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 294 | 37| 
 | 20230705T12:25:28Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 799 | 111| 
 | 20230705T12:00:56Z | This repository contains a Python implementation of a lane-keeping assist system using computer vision, fuzzy logic, and integration with the CARLA 3D simulator. It helps develop and test autonomous driving algorithms by simulating a realistic driving environment and providing lane-keeping functionality. | https://github.com/Youssefelbr/Lane-Keeping-Assist-with-OpenCV-Python-Fuzzy-Logic-and-CARLA-3D-Simulator | 0 | 0| 
 | 20230705T11:31:00Z | Setup lesson | https://github.com/Twaine87/fuzzy-bassoon | 0 | 0| 
-| 20230705T10:40:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 292 | 37| 
 | 20230705T10:03:29Z | Profile-guided System Optimizations for Accelerated Greybox Fuzzing | https://github.com/emptyiscolor/Profile-guided-Fuzzing | 0 | 0| 
 | 20230705T10:00:24Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 97 | 8| 
 | 20230705T09:47:55Z | Null | https://github.com/xOhxzn/fuzzgang | 0 | 0| 
