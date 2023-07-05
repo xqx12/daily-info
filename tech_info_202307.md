@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230705T10:40:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12944 | 405| 
+| 20230705T12:57:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12947 | 405| 
 | 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
 | 20230704T04:15:15Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
 | 20230704T01:40:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 319 | 6| 
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230705T12:21:51Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 531 | 42| 
+| 20230705T12:55:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 139 | 13| 
+| 20230705T12:48:17Z | Time to exploit the time efficiencies between data streams. | https://github.com/Joshua-Joseph1/Latency-Arbitrage | 0 | 0| 
+| 20230705T12:45:09Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 532 | 42| 
+| 20230705T12:43:25Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T12:12:42Z | GuardProbe - An efficient open-source vulnerability scanner. | https://github.com/0x007f/GuardProbe | 0 | 0| 
 | 20230705T12:11:33Z | Null | https://github.com/Aakash9111/WIndows-Post-Exploitaiton | 0 | 0| 
-| 20230705T11:22:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T10:43:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
 | 20230705T10:19:06Z | [42] [SEC] [WEBSEC] This project is about exploiting a machine from web vulnerabilities | https://github.com/lobbyra/darkly | 0 | 0| 
 | 20230705T10:02:19Z | Proof-of-concept exploits I have created | https://github.com/HaydoW/Exploits | 0 | 1| 
 | 20230705T09:33:17Z | GitOps Repository | https://github.com/bootstrap-stonesoup/mvp-test-app-qRpZ8-recall-exploit | 0 | 0| 
-| 20230705T09:32:39Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 14 | 2| 
-| 20230705T08:28:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5286 | 743| 
 
 
 # backdoor on Github 推荐
