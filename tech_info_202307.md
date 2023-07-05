@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230705T12:25:28Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 799 | 111| 
 | 20230705T12:00:56Z | This repository contains a Python implementation of a lane-keeping assist system using computer vision, fuzzy logic, and integration with the CARLA 3D simulator. It helps develop and test autonomous driving algorithms by simulating a realistic driving environment and providing lane-keeping functionality. | https://github.com/Youssefelbr/Lane-Keeping-Assist-with-OpenCV-Python-Fuzzy-Logic-and-CARLA-3D-Simulator | 0 | 0| 
 | 20230705T11:31:00Z | Setup lesson | https://github.com/Twaine87/fuzzy-bassoon | 0 | 0| 
 | 20230705T10:40:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 292 | 37| 
@@ -126,7 +127,6 @@
 | 20230705T09:32:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 205 | 30| 
 | 20230705T06:24:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1446 | 202| 
 | 20230705T01:55:31Z | Dict with fuzzy key matching | https://github.com/hansalemaos/fuzzyydictyy | 0 | 0| 
-| 20230705T01:14:18Z | Data matching, the process of identifying similar records across multiple datasets, is a common challenge in data management. In this code, we will use a powerful approach to fuzzy data matching using GPT-based embeddings and Nearest Neighbors.  | https://github.com/lovedeepkaursaini/FuzzMatchGPT | 0 | 0| 
 
 
 
