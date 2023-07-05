@@ -84,6 +84,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230704T22:46:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3484 | 481| 
+| 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
+| 20230704T13:10:33Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 74 | 10| 
 | 20230704T11:19:40Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 2 | 6| 
 
 
