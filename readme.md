@@ -40,12 +40,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230705T12:21:51Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 531 | 42| 
 | 20230705T12:12:42Z | GuardProbe - An efficient open-source vulnerability scanner. | https://github.com/0x007f/GuardProbe | 0 | 0| 
 | 20230705T12:11:33Z | Null | https://github.com/Aakash9111/WIndows-Post-Exploitaiton | 0 | 0| 
 | 20230705T11:22:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T10:43:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
 | 20230705T10:19:06Z | [42] [SEC] [WEBSEC] This project is about exploiting a machine from web vulnerabilities | https://github.com/lobbyra/darkly | 0 | 0| 
-| 20230705T10:02:45Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 529 | 42| 
 | 20230705T10:02:19Z | Proof-of-concept exploits I have created | https://github.com/HaydoW/Exploits | 0 | 1| 
 | 20230705T09:33:17Z | GitOps Repository | https://github.com/bootstrap-stonesoup/mvp-test-app-qRpZ8-recall-exploit | 0 | 0| 
 | 20230705T09:32:39Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 14 | 2| 
