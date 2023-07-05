@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230705T00:29:57Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
+| 20230705T00:57:31Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/ChriSanders22/CVE-2023-35829-poc | | 
 | 20230704T19:53:17Z | CVE-2020-35489 | WordPress Sites Vulnerability Checker for CVE-2020-35489 | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
 | 20230704T18:04:21Z | CVE-2023-24488 | POC for CVE-2023-24488 | https://github.com/securitycipher/CVE-2023-24488 | | 
 | 20230704T17:05:17Z | CVE-2023-20871 | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | https://github.com/ChriSanders22/CVE-2023-20871-poc | | 
