@@ -62,11 +62,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230705T09:59:14Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 75 | 10| 
+| 20230705T02:16:15Z | documenting the things I%ve learnt while exploring Dynamic Symbolic Execution to catch bugs and vulnerabilities in programs. | https://github.com/nandan-desai-extras/Symbolic-Execution-Demo | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230705T11:12:59Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 706 | 115| 
+| 20230705T11:09:29Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 56 | 3| 
 
 
 # fuzz on Github 推荐
