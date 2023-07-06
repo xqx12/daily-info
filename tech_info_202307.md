@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T00:16:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T21:58:25Z | New pentesting Framework | https://github.com/Oni-kuki/Yggdrasil | 0 | 0| 
 | 20230705T21:12:03Z | Exploit Chop Slider 3 | https://github.com/Dzukito/ChopSpider | 0 | 0| 
 | 20230705T20:17:58Z | Just doing this for a passport haha but i really want to explore and exploit this app | https://github.com/ismailsst/The-truth | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230705T14:04:40Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 139 | 13| 
 | 20230705T12:48:17Z | Time to exploit the time efficiencies between data streams. | https://github.com/Joshua-Joseph1/Latency-Arbitrage | 0 | 0| 
 | 20230705T12:45:09Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 532 | 42| 
-| 20230705T12:43:25Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T12:12:42Z | GuardProbe - An efficient open-source vulnerability scanner. | https://github.com/0x007f/GuardProbe | 0 | 0| 
 | 20230705T12:11:33Z | Null | https://github.com/Aakash9111/WIndows-Post-Exploitaiton | 0 | 0| 
 
