@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230706T00:13:20Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
 | 20230705T20:54:26Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230705T20:48:58Z | CVE-2023-3460 | Exploit for CVE-2023-3460. Unauthorized admin access for Ultimate Member plugin < v2.6.7 | https://github.com/gbrsh/CVE-2023-3460 | | 
 | 20230705T19:45:22Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
@@ -35,7 +36,6 @@
 | 20230705T06:09:59Z | CVE-2023-35829 | CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.  | https://github.com/apkc/CVE-2023-35829-poc | | 
 | 20230705T05:57:02Z | CVE-2023-20871 | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi | | 
 | 20230705T03:47:43Z | CVE-2023-33246 | CVE-2023-33246 | https://github.com/Devil0ll/CVE-2023-33246 | | 
-| 20230705T03:28:16Z | CVE-2021-26084 | Null | https://github.com/R0OtAdm1n/CVE-2021-26084-EXP | | 
 
 
 # klee on Github 推荐
