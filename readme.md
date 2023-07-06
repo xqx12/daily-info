@@ -73,6 +73,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T09:40:22Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 2 | 0| 
+| 20230706T02:34:39Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 0 | 0| 
 | 20230706T01:46:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 707 | 115| 
 
 
