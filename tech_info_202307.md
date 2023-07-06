@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T01:36:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5150 | 1003| 
+| 20230706T01:34:35Z | teler-waf is a Go HTTP middleware that provides teler IDS functionality to protect against a variety of web-based attacks, such as cross-site scripting (XSS), SQL injection, known vulnerabilities, exploits, malicious actors, botnets, unwanted crawlers or scrapers, and directory bruteforce attacks. | https://github.com/kitabisa/teler-waf | 177 | 16| 
 | 20230706T00:43:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T21:58:25Z | New pentesting Framework | https://github.com/Oni-kuki/Yggdrasil | 0 | 0| 
 | 20230705T21:12:03Z | Exploit Chop Slider 3 | https://github.com/Dzukito/ChopSpider | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20230705T17:22:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5117 | 642| 
 | 20230705T14:04:40Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 139 | 13| 
 | 20230705T12:48:17Z | Time to exploit the time efficiencies between data streams. | https://github.com/Joshua-Joseph1/Latency-Arbitrage | 0 | 0| 
-| 20230705T12:45:09Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 532 | 42| 
-| 20230705T12:17:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5149 | 1003| 
 
 
 # backdoor on Github 推荐
