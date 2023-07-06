@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T00:51:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12953 | 405| 
+| 20230706T01:02:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12954 | 405| 
 | 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
 | 20230704T04:15:15Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
 | 20230704T01:40:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 319 | 6| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T01:03:41Z | An awesome & curated list of autonomous driving fuzzing papers | https://github.com/ideasplus/Awesome-Autonomous-Driving-Fuzzing | 0 | 0| 
 | 20230706T00:45:46Z | Null | https://github.com/Aleena4245/fuzzy-spoon | 0 | 0| 
 | 20230706T00:39:03Z | Null | https://github.com/meetsudarshan/19-PWA-fuzzy-octo-funicular | 0 | 0| 
 | 20230705T23:14:54Z | The personal site of William Duyck | https://github.com/fuzzyfox/fuzzyfox.github.io | 0 | 1| 
@@ -126,7 +127,6 @@
 | 20230705T18:41:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8781 | 1933| 
 | 20230705T16:54:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3702 | 438| 
 | 20230705T12:45:09Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 294 | 37| 
-| 20230705T12:25:28Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 799 | 111| 
 
 
 
