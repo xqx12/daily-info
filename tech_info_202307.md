@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T00:37:01Z | Bypass White Blank | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
 | 20230705T20:20:06Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 0 | 0| 
 | 20230705T17:13:11Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 67 | 1| 
 | 20230705T16:11:39Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 1 | 1| 
@@ -88,7 +89,6 @@
 | 20230705T12:00:31Z | Null | https://github.com/SCLBD/BackdoorBench | 169 | 24| 
 | 20230704T20:37:21Z | What is Backdoor-Attack?  | https://github.com/mostafa123288/Backdoor-Attack | 0 | 0| 
 | 20230704T17:49:19Z | Null | https://github.com/kannan-g10/backdoor-tour | 0 | 0| 
-| 20230704T17:15:52Z | ssh like python script that acts like a backdoor, please keep in mind this wasn%t made for malicious purposes | https://github.com/VertyDaGenius/remote-access | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
