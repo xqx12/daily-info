@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T00:16:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
+| 20230706T00:43:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 | 20230705T21:58:25Z | New pentesting Framework | https://github.com/Oni-kuki/Yggdrasil | 0 | 0| 
 | 20230705T21:12:03Z | Exploit Chop Slider 3 | https://github.com/Dzukito/ChopSpider | 0 | 0| 
 | 20230705T20:17:58Z | Just doing this for a passport haha but i really want to explore and exploit this app | https://github.com/ismailsst/The-truth | 0 | 0| 
