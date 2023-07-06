@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T12:52:25Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
 | 20230706T12:19:25Z | Exploiting Field Dependencies for Learning on Categorical Data | https://github.com/lzb5600/MDL | 0 | 0| 
 | 20230706T12:16:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5294 | 743| 
 | 20230706T12:08:08Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 49 | 7| 
@@ -53,7 +54,6 @@
 | 20230706T10:38:58Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 37 | 6| 
 | 20230706T10:20:03Z | Some IoT targets with vulnerabllities, running in docker containers | https://github.com/liang2kl/iot-exploits | 0 | 0| 
 | 20230706T10:11:51Z | Null | https://github.com/Kenz-Junior/KenzExploit | 0 | 0| 
-| 20230706T08:35:17Z | Exploit Imagick module using arbitrary object instantiation | https://github.com/4wayhandshake/super-octo-giggle | 0 | 0| 
 
 
 # backdoor on Github 推荐
