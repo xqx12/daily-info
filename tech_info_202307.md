@@ -126,7 +126,7 @@
 | 20230705T20:46:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2747 | 187| 
 | 20230705T19:48:28Z | Null | https://github.com/joseffaghihi/Fuzzified-Transformer | 0 | 0| 
 | 20230705T18:41:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8781 | 1933| 
-| 20230705T16:54:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3702 | 438| 
+| 20230705T18:11:58Z | Null | https://github.com/google/fuzztest | 328 | 21| 
 
 
 
