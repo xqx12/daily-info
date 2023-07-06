@@ -69,11 +69,11 @@
 | 20230705T21:12:03Z | Exploit Chop Slider 3 | https://github.com/Dzukito/ChopSpider | 0 | 0| 
 | 20230705T20:17:58Z | Just doing this for a passport haha but i really want to explore and exploit this app | https://github.com/ismailsst/The-truth | 0 | 0| 
 | 20230705T19:08:19Z | A repository full of scripts/exploits that include pranking in irl and trolling. | https://github.com/wtfplayer/redemption | 0 | 0| 
+| 20230705T17:22:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5117 | 642| 
 | 20230705T14:04:40Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 139 | 13| 
 | 20230705T12:48:17Z | Time to exploit the time efficiencies between data streams. | https://github.com/Joshua-Joseph1/Latency-Arbitrage | 0 | 0| 
 | 20230705T12:45:09Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 532 | 42| 
-| 20230705T12:12:42Z | GuardProbe - An efficient open-source vulnerability scanner. | https://github.com/0x007f/GuardProbe | 0 | 0| 
-| 20230705T12:11:33Z | Null | https://github.com/Aakash9111/WIndows-Post-Exploitaiton | 0 | 0| 
+| 20230705T12:17:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5149 | 1003| 
 
 
 # backdoor on Github 推荐
