@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230706T12:55:50Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
 | 20230706T12:27:31Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
-| 20230706T10:04:42Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
 | 20230706T08:58:46Z | CVE-2023-36531 | LiquidPoll – Advanced Polls for Creators and Brands <= 3.3.68 - Missing Authorization via activate_addon | https://github.com/RandomRobbieBF/CVE-2023-36531 | | 
 | 20230706T07:44:41Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
 | 20230706T07:42:22Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T12:52:25Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
+| 20230706T12:55:38Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
 | 20230706T12:19:25Z | Exploiting Field Dependencies for Learning on Categorical Data | https://github.com/lzb5600/MDL | 0 | 0| 
 | 20230706T12:16:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5294 | 743| 
 | 20230706T12:08:08Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 49 | 7| 
