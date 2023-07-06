@@ -79,8 +79,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T12:39:20Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 78 | 2| 
-| 20230706T12:35:16Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 0 | 0| 
+| 20230706T12:57:16Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
+| 20230706T12:55:05Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 81 | 2| 
 | 20230706T09:56:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 62 | 6| 
 | 20230706T09:02:05Z | Null | https://github.com/GhostSec322/BackdoorProject | 0 | 0| 
 | 20230706T03:43:42Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
