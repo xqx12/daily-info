@@ -90,12 +90,12 @@
 | 20230705T21:25:49Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
 | 20230705T20:46:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2747 | 187| 
 | 20230705T19:48:28Z | Null | https://github.com/joseffaghihi/Fuzzified-Transformer | 0 | 0| 
-| 20230705T18:41:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8781 | 1933| 
 | 20230705T18:11:58Z | Null | https://github.com/google/fuzztest | 328 | 21| 
 | 20230705T16:54:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3702 | 438| 
 | 20230705T12:45:09Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 294 | 37| 
 | 20230705T12:25:28Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 799 | 111| 
 | 20230705T12:00:56Z | This repository contains a Python implementation of a lane-keeping assist system using computer vision, fuzzy logic, and integration with the CARLA 3D simulator. It helps develop and test autonomous driving algorithms by simulating a realistic driving environment and providing lane-keeping functionality. | https://github.com/Youssefelbr/Lane-Keeping-Assist-with-OpenCV-Python-Fuzzy-Logic-and-CARLA-3D-Simulator | 0 | 0| 
+| 20230705T11:31:00Z | Setup lesson | https://github.com/Twaine87/fuzzy-bassoon | 0 | 0| 
 
 
 
