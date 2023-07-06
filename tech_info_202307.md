@@ -124,11 +124,11 @@
 | 20230706T11:44:30Z | Null | https://github.com/cobatebakakusiapa/fuzzy-bassoon | 0 | 0| 
 | 20230706T10:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8785 | 1934| 
 | 20230706T09:22:47Z | Null | https://github.com/bhuvana-e/fuzzy-palm-tree | 0 | 0| 
+| 20230706T08:30:07Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 119 | 3| 
 | 20230706T01:54:08Z | Null | https://github.com/Yonghero/fuzzy-ui | 1 | 0| 
 | 20230706T01:12:06Z | Null | https://github.com/stevetomateo/fuzzy-parakeet | 0 | 0| 
 | 20230706T01:03:41Z | An awesome & curated list of autonomous driving fuzzing papers | https://github.com/ideasplus/Awesome-Autonomous-Driving-Fuzzing | 0 | 0| 
 | 20230706T00:45:46Z | Null | https://github.com/Aleena4245/fuzzy-spoon | 0 | 0| 
-| 20230706T00:39:03Z | Null | https://github.com/meetsudarshan/19-PWA-fuzzy-octo-funicular | 0 | 0| 
 
 
 
