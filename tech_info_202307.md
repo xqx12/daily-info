@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T11:08:35Z | Null | https://github.com/Velvasko/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
+| 20230706T10:57:31Z | Null | https://github.com/DraaxOnRoblox/SheinExploit | 0 | 0| 
+| 20230706T10:47:13Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM2021. | https://github.com/XrKang/StereoVSR | 0 | 0| 
+| 20230706T10:38:58Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 37 | 6| 
+| 20230706T10:20:03Z | Some IoT targets with vulnerabllities, running in docker containers | https://github.com/liang2kl/iot-exploits | 0 | 0| 
+| 20230706T10:11:51Z | Null | https://github.com/Kenz-Junior/KenzExploit | 0 | 0| 
+| 20230706T08:35:17Z | Exploit Imagick module using arbitrary object instantiation | https://github.com/4wayhandshake/super-octo-giggle | 0 | 0| 
 | 20230706T01:36:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5150 | 1003| 
 | 20230706T01:34:35Z | teler-waf is a Go HTTP middleware that provides teler IDS functionality to protect against a variety of web-based attacks, such as cross-site scripting (XSS), SQL injection, known vulnerabilities, exploits, malicious actors, botnets, unwanted crawlers or scrapers, and directory bruteforce attacks. | https://github.com/kitabisa/teler-waf | 177 | 16| 
 | 20230706T00:43:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
-| 20230705T21:58:25Z | New pentesting Framework | https://github.com/Oni-kuki/Yggdrasil | 0 | 0| 
-| 20230705T21:12:03Z | Exploit Chop Slider 3 | https://github.com/Dzukito/ChopSpider | 0 | 0| 
-| 20230705T20:17:58Z | Just doing this for a passport haha but i really want to explore and exploit this app | https://github.com/ismailsst/The-truth | 0 | 0| 
-| 20230705T19:08:19Z | A repository full of scripts/exploits that include pranking in irl and trolling. | https://github.com/wtfplayer/redemption | 0 | 0| 
-| 20230705T17:22:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5117 | 642| 
-| 20230705T14:04:40Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 139 | 13| 
-| 20230705T12:48:17Z | Time to exploit the time efficiencies between data streams. | https://github.com/Joshua-Joseph1/Latency-Arbitrage | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,9 +94,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T07:36:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3485 | 481| 
 | 20230705T09:59:14Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 75 | 10| 
 | 20230705T02:16:15Z | documenting the things I%ve learnt while exploring Dynamic Symbolic Execution to catch bugs and vulnerabilities in programs. | https://github.com/nandan-desai-extras/Symbolic-Execution-Demo | 0 | 0| 
-| 20230704T22:46:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3484 | 481| 
 | 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
 | 20230704T11:19:40Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 2 | 6| 
 | 20230703T14:48:36Z | Symbolic Execution of Brainfuck | https://github.com/toponym/bf-symex | 0 | 0| 
