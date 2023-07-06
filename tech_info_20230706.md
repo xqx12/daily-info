@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T12:08:08Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 49 | 7| 
 | 20230706T11:08:35Z | Null | https://github.com/Velvasko/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
 | 20230706T10:57:31Z | Null | https://github.com/DraaxOnRoblox/SheinExploit | 0 | 0| 
 | 20230706T10:47:13Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM2021. | https://github.com/XrKang/StereoVSR | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230706T08:35:17Z | Exploit Imagick module using arbitrary object instantiation | https://github.com/4wayhandshake/super-octo-giggle | 0 | 0| 
 | 20230706T01:36:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5150 | 1003| 
 | 20230706T01:34:35Z | teler-waf is a Go HTTP middleware that provides teler IDS functionality to protect against a variety of web-based attacks, such as cross-site scripting (XSS), SQL injection, known vulnerabilities, exploits, malicious actors, botnets, unwanted crawlers or scrapers, and directory bruteforce attacks. | https://github.com/kitabisa/teler-waf | 177 | 16| 
-| 20230706T00:43:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5709 | 764| 
 
 
 # backdoor on Github 推荐
