@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230706T12:27:31Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230706T10:04:42Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
 | 20230706T08:58:46Z | CVE-2023-36531 | LiquidPoll – Advanced Polls for Creators and Brands <= 3.3.68 - Missing Authorization via activate_addon | https://github.com/RandomRobbieBF/CVE-2023-36531 | | 
 | 20230706T07:44:41Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
@@ -34,7 +35,6 @@
 | 20230706T03:07:09Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
 | 20230706T02:37:30Z | CVE-2023-32961 | PoC of CVE-2023-32961 | https://github.com/LOURC0D3/CVE-2023-32961 | | 
 | 20230706T00:13:20Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
-| 20230705T20:54:26Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230705T20:48:58Z | CVE-2023-3460 | Exploit for CVE-2023-3460. Unauthorized admin access for Ultimate Member plugin < v2.6.7 | https://github.com/gbrsh/CVE-2023-3460 | | 
 
 
@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T12:15:05Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 73 | 2| 
+| 20230706T12:28:06Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 76 | 2| 
 | 20230706T09:56:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 62 | 6| 
 | 20230706T09:02:05Z | Null | https://github.com/GhostSec322/BackdoorProject | 0 | 0| 
 | 20230706T03:43:42Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
