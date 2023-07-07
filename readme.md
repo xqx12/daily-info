@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:54:17Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 208 | 5| 
 | 20230707T12:03:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4748 | 1144| 
 | 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
 | 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
