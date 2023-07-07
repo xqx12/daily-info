@@ -65,6 +65,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
+| 20230706T22:02:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5157 | 1006| 
 | 20230706T22:01:19Z | Estrutura e Corpo do PDF, seus Vetores de Ataque e seus Exploits Conceituais e existentes | https://github.com/exoForce01/pdf-init_research | 0 | 0| 
 | 20230706T21:33:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3494 | 590| 
 | 20230706T21:30:10Z | Within Handmade_Exploits repo, you can expect to find a range of exploits that demonstrate my expertise in identifying and leveraging security weaknesses effectively. Each exploit uploaded to the repository is thoroughly tested and vetted, ensuring its functionality and reliability. | https://github.com/omershaik0/Handmade_Exploits | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230706T17:04:19Z | A repository dedicated to those who are suspected of grifting or engaging in exploitative behavior in NounsDAO. | https://github.com/lituusX/Grouners | 0 | 0| 
 | 20230706T14:53:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5121 | 644| 
 | 20230706T13:23:08Z | Tools for exploiting Discrete Morphological Symmetries (DMS) in rigid body dynamics using Equivariant Neural Networks | https://github.com/Danfoa/MorphoSymm | 6 | 1| 
-| 20230706T12:55:38Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
 
 
 # backdoor on Github 推荐
