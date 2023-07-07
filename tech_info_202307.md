@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230706T21:31:15Z | CVE-2022-4611 | Null | https://github.com/fgsoftware1/CVE-2022-4611 | | 
+| 20230706T18:25:56Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
+| 20230706T18:25:10Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
+| 20230706T18:24:56Z | CVE-2023-24488 | Detect CVE-2023-24488 Exploitation Attempts | https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule | | 
+| 20230706T16:55:52Z | CVE-2022-4611 | Null | https://github.com/Phamchie/CVE-2022-4611 | | 
 | 20230706T12:55:50Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
-| 20230706T12:27:31Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230706T08:58:46Z | CVE-2023-36531 | LiquidPoll – Advanced Polls for Creators and Brands <= 3.3.68 - Missing Authorization via activate_addon | https://github.com/RandomRobbieBF/CVE-2023-36531 | | 
 | 20230706T07:44:41Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
 | 20230706T07:42:22Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
 | 20230706T07:42:21Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
-| 20230706T03:07:09Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
-| 20230706T02:37:30Z | CVE-2023-32961 | PoC of CVE-2023-32961 | https://github.com/LOURC0D3/CVE-2023-32961 | | 
-| 20230706T00:13:20Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
-| 20230705T20:48:58Z | CVE-2023-3460 | Exploit for CVE-2023-3460. Unauthorized admin access for Ultimate Member plugin < v2.6.7 | https://github.com/gbrsh/CVE-2023-3460 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
 | 20230706T12:45:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2271 | 629| 
 | 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
 | 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
@@ -50,7 +51,6 @@
 | 20230703T06:27:37Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230703T04:18:24Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 11 | 0| 
 | 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
-| 20230701T03:06:35Z | Config files for my GitHub profile. | https://github.com/klee521/klee521 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
+| 20230706T22:01:19Z | Estrutura e Corpo do PDF, seus Vetores de Ataque e seus Exploits Conceituais e existentes | https://github.com/exoForce01/pdf-init_research | 0 | 0| 
+| 20230706T21:33:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3494 | 590| 
+| 20230706T21:30:10Z | Within Handmade_Exploits repo, you can expect to find a range of exploits that demonstrate my expertise in identifying and leveraging security weaknesses effectively. Each exploit uploaded to the repository is thoroughly tested and vetted, ensuring its functionality and reliability. | https://github.com/omershaik0/Handmade_Exploits | 0 | 0| 
+| 20230706T19:41:31Z | ....Legit Bitcoin Generator sites 2023 When users go to the sites the scripts are downloaded unwittingly to their computers which in turn begin collective mining operations benefitting cyber criminals elsewhere by exploiting the resources of the victim The compromised crypto-mining | https://github.com/free-bitcoin-generator-2023/latest-free-bitcoin-generator-2023 | 1 | 0| 
+| 20230706T18:48:46Z | Apk to jpg exploit | https://github.com/SOLORAT/Apk-to-jpeg-exploit | 1 | 0| 
+| 20230706T17:04:19Z | A repository dedicated to those who are suspected of grifting or engaging in exploitative behavior in NounsDAO. | https://github.com/lituusX/Grouners | 0 | 0| 
+| 20230706T13:23:08Z | Tools for exploiting Discrete Morphological Symmetries (DMS) in rigid body dynamics using Equivariant Neural Networks | https://github.com/Danfoa/MorphoSymm | 6 | 1| 
 | 20230706T12:55:38Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
 | 20230706T12:19:25Z | Exploiting Field Dependencies for Learning on Categorical Data | https://github.com/lzb5600/MDL | 0 | 0| 
-| 20230706T12:16:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5294 | 743| 
-| 20230706T12:08:08Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 49 | 7| 
-| 20230706T11:08:35Z | Null | https://github.com/Velvasko/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
-| 20230706T10:57:31Z | Null | https://github.com/DraaxOnRoblox/SheinExploit | 0 | 0| 
-| 20230706T10:47:13Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM2021. | https://github.com/XrKang/StereoVSR | 0 | 0| 
-| 20230706T10:38:58Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 37 | 6| 
-| 20230706T10:20:03Z | Some IoT targets with vulnerabllities, running in docker containers | https://github.com/liang2kl/iot-exploits | 0 | 0| 
-| 20230706T10:11:51Z | Null | https://github.com/Kenz-Junior/KenzExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
+| 20230706T20:09:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 65 | 6| 
+| 20230706T17:48:38Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230706T12:57:16Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 | 20230706T12:55:05Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 81 | 2| 
-| 20230706T09:56:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 62 | 6| 
 | 20230706T09:02:05Z | Null | https://github.com/GhostSec322/BackdoorProject | 0 | 0| 
 | 20230706T03:43:42Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
 | 20230706T02:03:21Z | Code and data for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 15 | 0| 
 | 20230706T00:38:06Z | Bypass White Blank | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
-| 20230705T16:11:39Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 1 | 1| 
-| 20230705T15:02:34Z | Old School IRC Backdoor | https://github.com/JoelGMSec/Evil-IRC | 1 | 0| 
-| 20230705T13:54:50Z | 👑Best stealer written on Python | https://github.com/KrxboLxTrueNasto/Cosmic-Grabber | 2 | 0| 
+| 20230705T16:33:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 161 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230706T23:38:56Z | a site for playing around | https://github.com/FwedwicDedwick/fuzzy-rotary-phone | 0 | 0| 
+| 20230706T20:37:41Z | Null | https://github.com/google/fuzztest | 331 | 21| 
+| 20230706T20:07:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5030 | 526| 
+| 20230706T16:21:34Z | Null | https://github.com/YunusEmre19/fuzzy-sniffle | 0 | 0| 
+| 20230706T13:28:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1425 | 103| 
 | 20230706T11:55:32Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230706T11:49:45Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 | 20230706T11:44:30Z | Null | https://github.com/cobatebakakusiapa/fuzzy-bassoon | 0 | 0| 
 | 20230706T10:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8785 | 1934| 
 | 20230706T09:22:47Z | Null | https://github.com/bhuvana-e/fuzzy-palm-tree | 0 | 0| 
-| 20230706T08:30:07Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 119 | 3| 
-| 20230706T01:54:08Z | Null | https://github.com/Yonghero/fuzzy-ui | 1 | 0| 
-| 20230706T01:12:06Z | Null | https://github.com/stevetomateo/fuzzy-parakeet | 0 | 0| 
-| 20230706T01:03:41Z | An awesome & curated list of autonomous driving fuzzing papers | https://github.com/ideasplus/Awesome-Autonomous-Driving-Fuzzing | 0 | 0| 
-| 20230706T00:45:46Z | Null | https://github.com/Aleena4245/fuzzy-spoon | 0 | 0| 
 
 
 
