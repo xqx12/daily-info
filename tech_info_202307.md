@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230707T12:25:45Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 74 | 6| 
+| 20230707T12:33:04Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 75 | 6| 
 | 20230707T07:56:38Z | bpf-based linux backdoor/rootkit that bypasses any firewall. | https://github.com/irisambericon/crackdoor | 0 | 0| 
 | 20230707T06:58:31Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
