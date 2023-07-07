@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T00:26:20Z | Fuzzing Solidity Sudoku Checker with Woke | https://github.com/khegeman/fuzz-sudoku | 0 | 0| 
 | 20230707T00:17:46Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
 | 20230706T23:38:56Z | a site for playing around | https://github.com/FwedwicDedwick/fuzzy-rotary-phone | 0 | 0| 
 | 20230706T20:37:41Z | Null | https://github.com/google/fuzztest | 331 | 21| 
@@ -128,7 +129,6 @@
 | 20230706T11:55:32Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230706T11:49:45Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 | 20230706T11:44:30Z | Null | https://github.com/cobatebakakusiapa/fuzzy-bassoon | 0 | 0| 
-| 20230706T10:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8785 | 1934| 
 
 
 
