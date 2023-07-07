@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:09:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03d91651-0625-4ff8-9579-c327b7dbb9a7-U1GL6-exploit-strengthen | 0 | 0| 
 | 20230707T11:46:39Z | Solidity Exploit DB | https://github.com/SolexpLab/SolexpDB | 0 | 0| 
 | 20230707T10:48:51Z | Vulnerability-Vault is a curated collection of responsibly disclosed device exploits aimed at enhancing security awareness and promoting responsible hacking practices. This repository provides a comprehensive list of exploits targeting various devices including macOS, Windows, Linux, Android, and Cisco networking equipment. | https://github.com/soheil-vanaee/Vulnerability-Vault | 0 | 0| 
 | 20230707T08:14:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 580 | 107| 
@@ -73,7 +74,6 @@
 | 20230707T02:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 | 20230707T01:49:15Z | Null | https://github.com/zenna-hacker/PDF-EXPLOIT | 0 | 0| 
 | 20230707T01:18:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 675 | 172| 
-| 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
 
 
 # backdoor on Github 推荐

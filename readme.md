@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:09:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03d91651-0625-4ff8-9579-c327b7dbb9a7-U1GL6-exploit-strengthen | 0 | 0| 
 | 20230707T11:46:39Z | Solidity Exploit DB | https://github.com/SolexpLab/SolexpDB | 0 | 0| 
 | 20230707T10:48:51Z | Vulnerability-Vault is a curated collection of responsibly disclosed device exploits aimed at enhancing security awareness and promoting responsible hacking practices. This repository provides a comprehensive list of exploits targeting various devices including macOS, Windows, Linux, Android, and Cisco networking equipment. | https://github.com/soheil-vanaee/Vulnerability-Vault | 0 | 0| 
 | 20230707T08:14:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 580 | 107| 
