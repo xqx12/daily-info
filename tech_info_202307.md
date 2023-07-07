@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:50:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-_wVGQ-exploit-talk | 0 | 0| 
 | 20230707T12:22:31Z | Exploit-Armory | https://github.com/orezlook/exploit | 0 | 0| 
 | 20230707T12:09:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03d91651-0625-4ff8-9579-c327b7dbb9a7-U1GL6-exploit-strengthen | 0 | 0| 
 | 20230707T11:46:39Z | Solidity Exploit DB | https://github.com/SolexpLab/SolexpDB | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230707T06:14:06Z | Contains the solutions of the Tasks that I prepared as mentor for the ACA Project | https://github.com/divijsingla/Exploiting-Blockchain-With-OpenAI-APIs | 0 | 0| 
 | 20230707T04:36:58Z | Official implementation of the paper %Exploiting Richness of Learned Compressed Representation of Images for Semantic Segmentation% | https://github.com/DL4Compression/Semantic-Segmentation-of-Driving-Videos-on-Learning-based-Image-Compression | 0 | 0| 
 | 20230707T02:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
-| 20230707T01:49:15Z | Null | https://github.com/zenna-hacker/PDF-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
