@@ -79,16 +79,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T11:42:20Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 73 | 6| 
+| 20230707T07:56:38Z | bpf-based linux backdoor/rootkit that bypasses any firewall. | https://github.com/irisambericon/crackdoor | 0 | 0| 
+| 20230707T06:58:31Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
-| 20230706T20:09:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 65 | 6| 
 | 20230706T17:48:38Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230706T12:57:16Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 | 20230706T12:55:05Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 81 | 2| 
+| 20230706T10:06:21Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 16 | 2| 
 | 20230706T09:02:05Z | Null | https://github.com/GhostSec322/BackdoorProject | 0 | 0| 
 | 20230706T03:43:42Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
-| 20230706T02:03:21Z | Code and data for our paper %Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark% in ACL 2023. | https://github.com/yjw1029/EmbMarker | 15 | 0| 
-| 20230706T00:38:06Z | Bypass White Blank | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
-| 20230705T16:33:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 161 | 18| 
 
 
 # symbolic execution on Github 推荐
