@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:41:20Z | CVE-2023-3460 | Null | https://github.com/rizqimaulanaa/CVE-2023-3460 | | 
 | 20230707T12:23:09Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230707T08:45:37Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
 | 20230707T08:32:08Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
@@ -35,7 +36,6 @@
 | 20230706T18:25:10Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
 | 20230706T18:24:56Z | CVE-2023-24488 | Detect CVE-2023-24488 Exploitation Attempts | https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule | | 
 | 20230706T16:55:52Z | CVE-2022-4611 | Null | https://github.com/Phamchie/CVE-2022-4611 | | 
-| 20230706T12:55:50Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
 
 
 # klee on Github 推荐

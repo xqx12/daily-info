@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:41:20Z | CVE-2023-3460 | Null | https://github.com/rizqimaulanaa/CVE-2023-3460 | | 
 | 20230707T12:23:09Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230707T08:45:37Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
 | 20230707T08:32:08Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
