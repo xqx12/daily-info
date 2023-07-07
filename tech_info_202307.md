@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230707 | 浅谈Apache与CVE-2023-20860 | https://www.sec-in.com/article/2166| 
+| 20230707 | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA| 
+| 20230707 | 网络通讯协议图2023版 | https://www.colasoft.com.cn/wp-content/uploads/2023/07/%E7%A7%91%E6%9D%A5%E3%80%8A%E7%BD%91%E7%BB%9C%E9%80%9A%E8%AE%AF%E5%8D%8F%E8%AE%AE%E5%9B%BE2023%E7%89%88%E3%80%8B.pdf| 
 | 20230706 | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g| 
 | 20230705 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA| 
 | 20230705 | 5G 系统安全测试与自动化 | https://mp.weixin.qq.com/s/B1sdQPO4mSPE2J365aHmCQ| 
@@ -18,32 +21,29 @@
 | 20230704 | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA| 
 | 20230704 | 万亿数据仓库架构设计与实现 | https://mp.weixin.qq.com/s/E0X7094kk9My7JTEOELjDg| 
 | 20230704 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd| 
-| 20230704 | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ| 
-| 20230704 | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q| 
-| 20230704 | 2023 上半年区块链安全与反洗钱报告 | https://www.slowmist.com/report/first-half-of-the-2023-report(CN).pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230707T00:19:30Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230707T09:23:24Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230707T08:45:37Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
+| 20230707T08:32:08Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
+| 20230707T01:33:40Z | CVE-2023-0669 | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | https://github.com/Avento/CVE-2023-0669 | | 
 | 20230706T21:31:15Z | CVE-2022-4611 | Null | https://github.com/fgsoftware1/CVE-2022-4611 | | 
 | 20230706T18:25:56Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230706T18:25:10Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
 | 20230706T18:24:56Z | CVE-2023-24488 | Detect CVE-2023-24488 Exploitation Attempts | https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule | | 
 | 20230706T16:55:52Z | CVE-2022-4611 | Null | https://github.com/Phamchie/CVE-2022-4611 | | 
 | 20230706T12:55:50Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell.  | https://github.com/RSTG0D/CVE-2023-27372-PoC | | 
-| 20230706T08:58:46Z | CVE-2023-36531 | LiquidPoll – Advanced Polls for Creators and Brands <= 3.3.68 - Missing Authorization via activate_addon | https://github.com/RandomRobbieBF/CVE-2023-36531 | | 
-| 20230706T07:44:41Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
-| 20230706T07:42:22Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T07:33:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2274 | 629| 
 | 20230707T00:20:21Z | Null | https://github.com/igloo1505/kleenBrake_Ionic | 0 | 0| 
 | 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
-| 20230706T12:45:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2271 | 629| 
 | 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
 | 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
 | 20230704T04:15:15Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T11:46:39Z | Solidity Exploit DB | https://github.com/SolexpLab/SolexpDB | 0 | 0| 
+| 20230707T10:48:51Z | Vulnerability-Vault is a curated collection of responsibly disclosed device exploits aimed at enhancing security awareness and promoting responsible hacking practices. This repository provides a comprehensive list of exploits targeting various devices including macOS, Windows, Linux, Android, and Cisco networking equipment. | https://github.com/soheil-vanaee/Vulnerability-Vault | 0 | 0| 
+| 20230707T08:14:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 580 | 107| 
+| 20230707T06:44:16Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 50 | 7| 
+| 20230707T06:14:06Z | Contains the solutions of the Tasks that I prepared as mentor for the ACA Project | https://github.com/divijsingla/Exploiting-Blockchain-With-OpenAI-APIs | 0 | 0| 
+| 20230707T04:36:58Z | Official implementation of the paper %Exploiting Richness of Learned Compressed Representation of Images for Semantic Segmentation% | https://github.com/DL4Compression/Semantic-Segmentation-of-Driving-Videos-on-Learning-based-Image-Compression | 0 | 0| 
+| 20230707T02:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 | 20230707T01:49:15Z | Null | https://github.com/zenna-hacker/PDF-EXPLOIT | 0 | 0| 
 | 20230707T01:18:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 675 | 172| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
-| 20230706T22:02:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5157 | 1005| 
-| 20230706T22:01:19Z | Estrutura e Corpo do PDF, seus Vetores de Ataque e seus Exploits Conceituais e existentes | https://github.com/exoForce01/pdf-init_research | 0 | 0| 
-| 20230706T21:33:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3494 | 590| 
-| 20230706T21:30:10Z | Within Handmade_Exploits repo, you can expect to find a range of exploits that demonstrate my expertise in identifying and leveraging security weaknesses effectively. Each exploit uploaded to the repository is thoroughly tested and vetted, ensuring its functionality and reliability. | https://github.com/omershaik0/Handmade_Exploits | 0 | 0| 
-| 20230706T19:41:31Z | ....Legit Bitcoin Generator sites 2023 When users go to the sites the scripts are downloaded unwittingly to their computers which in turn begin collective mining operations benefitting cyber criminals elsewhere by exploiting the resources of the victim The compromised crypto-mining | https://github.com/free-bitcoin-generator-2023/latest-free-bitcoin-generator-2023 | 1 | 0| 
-| 20230706T18:48:46Z | Apk to jpg exploit | https://github.com/SOLORAT/Apk-to-jpeg-exploit | 1 | 0| 
-| 20230706T17:04:19Z | A repository dedicated to those who are suspected of grifting or engaging in exploitative behavior in NounsDAO. | https://github.com/lituusX/Grouners | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,7 +94,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T12:45:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2271 | 629| 
+| 20230707T08:08:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 776 | 89| 
+| 20230707T07:33:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2274 | 629| 
 | 20230706T12:20:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3486 | 481| 
 | 20230705T09:59:14Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 75 | 11| 
 | 20230705T02:16:15Z | documenting the things I%ve learnt while exploring Dynamic Symbolic Execution to catch bugs and vulnerabilities in programs. | https://github.com/nandan-desai-extras/Symbolic-Execution-Demo | 0 | 0| 
@@ -103,14 +104,13 @@
 | 20230703T14:48:36Z | Symbolic Execution of Brainfuck | https://github.com/toponym/bf-symex | 0 | 0| 
 | 20230703T07:41:12Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 27| 
 | 20230702T07:17:34Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 206 | 19| 
-| 20230701T03:22:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 775 | 89| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T07:13:57Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 1 | 0| 
 | 20230706T09:40:22Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 2 | 0| 
-| 20230706T02:34:39Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 0 | 0| 
 | 20230706T01:46:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 707 | 115| 
 | 20230705T20:59:35Z | Null | https://github.com/anony1234Q/ndss24ae | 0 | 0| 
 | 20230705T11:09:29Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 56 | 3| 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
+| 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
+| 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
+| 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
 | 20230707T00:50:40Z | Fuzzing Solidity Sudoku Checker with Woke | https://github.com/khegeman/fuzz-sudoku | 0 | 0| 
 | 20230707T00:17:46Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
 | 20230706T23:38:56Z | a site for playing around | https://github.com/FwedwicDedwick/fuzzy-rotary-phone | 0 | 0| 
 | 20230706T20:37:41Z | Null | https://github.com/google/fuzztest | 331 | 21| 
 | 20230706T20:07:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5030 | 526| 
 | 20230706T16:21:34Z | Null | https://github.com/YunusEmre19/fuzzy-sniffle | 0 | 0| 
-| 20230706T13:28:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1425 | 103| 
-| 20230706T12:43:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 940 | 224| 
-| 20230706T11:55:32Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
-| 20230706T11:49:45Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 
 
 
