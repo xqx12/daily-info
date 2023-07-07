@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:55:08Z | Pear , Pear is a WebSocket Wrapper for Luau to Nodejs (for Exploits) | https://github.com/Yxi1d/Pear | 0 | 0| 
 | 20230707T12:50:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-_wVGQ-exploit-talk | 0 | 0| 
 | 20230707T12:22:31Z | Exploit-Armory | https://github.com/orezlook/exploit | 0 | 0| 
 | 20230707T12:09:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03d91651-0625-4ff8-9579-c327b7dbb9a7-U1GL6-exploit-strengthen | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230707T06:44:16Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 50 | 7| 
 | 20230707T06:14:06Z | Contains the solutions of the Tasks that I prepared as mentor for the ACA Project | https://github.com/divijsingla/Exploiting-Blockchain-With-OpenAI-APIs | 0 | 0| 
 | 20230707T04:36:58Z | Official implementation of the paper %Exploiting Richness of Learned Compressed Representation of Images for Semantic Segmentation% | https://github.com/DL4Compression/Semantic-Segmentation-of-Driving-Videos-on-Learning-based-Image-Compression | 0 | 0| 
-| 20230707T02:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 
 
 # backdoor on Github 推荐
