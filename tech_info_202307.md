@@ -71,9 +71,9 @@
 | 20230706T19:41:31Z | ....Legit Bitcoin Generator sites 2023 When users go to the sites the scripts are downloaded unwittingly to their computers which in turn begin collective mining operations benefitting cyber criminals elsewhere by exploiting the resources of the victim The compromised crypto-mining | https://github.com/free-bitcoin-generator-2023/latest-free-bitcoin-generator-2023 | 1 | 0| 
 | 20230706T18:48:46Z | Apk to jpg exploit | https://github.com/SOLORAT/Apk-to-jpeg-exploit | 1 | 0| 
 | 20230706T17:04:19Z | A repository dedicated to those who are suspected of grifting or engaging in exploitative behavior in NounsDAO. | https://github.com/lituusX/Grouners | 0 | 0| 
+| 20230706T14:53:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5121 | 644| 
 | 20230706T13:23:08Z | Tools for exploiting Discrete Morphological Symmetries (DMS) in rigid body dynamics using Equivariant Neural Networks | https://github.com/Danfoa/MorphoSymm | 6 | 1| 
 | 20230706T12:55:38Z | Null | https://github.com/msh1307/Exploit_template | 0 | 0| 
-| 20230706T12:19:25Z | Exploiting Field Dependencies for Learning on Categorical Data | https://github.com/lzb5600/MDL | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -128,7 +128,7 @@
 | 20230706T11:49:45Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
 | 20230706T11:44:30Z | Null | https://github.com/cobatebakakusiapa/fuzzy-bassoon | 0 | 0| 
 | 20230706T10:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8785 | 1934| 
-| 20230706T09:22:47Z | Null | https://github.com/bhuvana-e/fuzzy-palm-tree | 0 | 0| 
+| 20230706T09:45:00Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3705 | 438| 
 
 
 
