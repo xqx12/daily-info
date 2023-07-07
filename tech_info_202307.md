@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T12:03:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4748 | 1144| 
 | 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
 | 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
 | 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20230706T23:38:56Z | a site for playing around | https://github.com/FwedwicDedwick/fuzzy-rotary-phone | 0 | 0| 
 | 20230706T20:37:41Z | Null | https://github.com/google/fuzztest | 331 | 21| 
 | 20230706T20:07:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5030 | 526| 
-| 20230706T16:21:34Z | Null | https://github.com/YunusEmre19/fuzzy-sniffle | 0 | 0| 
 
 
 
