@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T01:49:15Z | Null | https://github.com/zenna-hacker/PDF-EXPLOIT | 0 | 0| 
 | 20230707T01:18:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 675 | 172| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
 | 20230706T22:02:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5157 | 1005| 
@@ -73,7 +74,6 @@
 | 20230706T19:41:31Z | ....Legit Bitcoin Generator sites 2023 When users go to the sites the scripts are downloaded unwittingly to their computers which in turn begin collective mining operations benefitting cyber criminals elsewhere by exploiting the resources of the victim The compromised crypto-mining | https://github.com/free-bitcoin-generator-2023/latest-free-bitcoin-generator-2023 | 1 | 0| 
 | 20230706T18:48:46Z | Apk to jpg exploit | https://github.com/SOLORAT/Apk-to-jpeg-exploit | 1 | 0| 
 | 20230706T17:04:19Z | A repository dedicated to those who are suspected of grifting or engaging in exploitative behavior in NounsDAO. | https://github.com/lituusX/Grouners | 0 | 0| 
-| 20230706T14:53:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5121 | 644| 
 
 
 # backdoor on Github 推荐
