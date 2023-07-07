@@ -126,9 +126,9 @@
 | 20230706T20:07:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5030 | 526| 
 | 20230706T16:21:34Z | Null | https://github.com/YunusEmre19/fuzzy-sniffle | 0 | 0| 
 | 20230706T13:28:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1425 | 103| 
+| 20230706T12:43:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 940 | 224| 
 | 20230706T11:55:32Z | mhy test | https://github.com/mzltest/fuzzy-bassoon | 0 | 0| 
 | 20230706T11:49:45Z | computational_intelligence_fuzzy_logic_project_spring_1402  | https://github.com/Mohammad-Safari/self-driving-car-fuzzy-inference-engine | 0 | 0| 
-| 20230706T11:44:30Z | Null | https://github.com/cobatebakakusiapa/fuzzy-bassoon | 0 | 0| 
 
 
 
