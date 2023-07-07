@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230707T00:19:30Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 | 20230706T21:31:15Z | CVE-2022-4611 | Null | https://github.com/fgsoftware1/CVE-2022-4611 | | 
 | 20230706T18:25:56Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
 | 20230706T18:25:10Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
@@ -35,12 +36,12 @@
 | 20230706T08:58:46Z | CVE-2023-36531 | LiquidPoll – Advanced Polls for Creators and Brands <= 3.3.68 - Missing Authorization via activate_addon | https://github.com/RandomRobbieBF/CVE-2023-36531 | | 
 | 20230706T07:44:41Z | CVE-2023-21707 | CVE-2023-21707 EXP | https://github.com/N1k0la-T/CVE-2023-21707 | | 
 | 20230706T07:42:22Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
-| 20230706T07:42:21Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T00:20:21Z | Null | https://github.com/igloo1505/kleenBrake_Ionic | 0 | 0| 
 | 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
 | 20230706T12:45:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2271 | 629| 
 | 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
@@ -50,7 +51,6 @@
 | 20230703T13:18:15Z | Null | https://github.com/onionoino/klee | 2 | 3| 
 | 20230703T06:27:37Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
 | 20230703T04:18:24Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 11 | 0| 
-| 20230702T08:11:04Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 80 | 18| 
 
 
 # s2e on Github 推荐
