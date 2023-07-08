@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230707T23:29:41Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230708T01:32:30Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230707T20:44:33Z | 未知编号 | Null | https://github.com/hansengentle/CVE-2023 | | 
 | 20230707T18:04:52Z | CVE-2023-37190 | Null | https://github.com/sahiloj/CVE-2023-37190 | | 
 | 20230707T18:04:23Z | CVE-2023-37191 | Null | https://github.com/sahiloj/CVE-2023-37191 | | 
