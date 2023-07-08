@@ -26,26 +26,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230707T12:41:20Z | CVE-2023-3460 | Null | https://github.com/rizqimaulanaa/CVE-2023-3460 | | 
-| 20230707T12:23:09Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230707T08:45:37Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
-| 20230707T08:32:08Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
-| 20230707T01:33:40Z | CVE-2023-0669 | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | https://github.com/Avento/CVE-2023-0669 | | 
-| 20230706T21:31:15Z | CVE-2022-4611 | Null | https://github.com/fgsoftware1/CVE-2022-4611 | | 
-| 20230706T18:25:56Z | CVE-2022-43684 | CVE-2022-43684 | https://github.com/lolminerxmrig/CVE-2022-43684 | | 
-| 20230706T18:25:10Z | cve-2023-24488 | CVE-2023-24488 By codeb0ss | https://github.com/codeb0ss/cve-2023-24488 | | 
-| 20230706T18:24:56Z | CVE-2023-24488 | Detect CVE-2023-24488 Exploitation Attempts | https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule | | 
-| 20230706T16:55:52Z | CVE-2022-4611 | Null | https://github.com/Phamchie/CVE-2022-4611 | | 
+| 20230707T23:29:41Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230707T20:44:33Z | 未知编号 | Null | https://github.com/hansengentle/CVE-2023 | | 
+| 20230707T18:04:52Z | CVE-2023-37190 | Null | https://github.com/sahiloj/CVE-2023-37190 | | 
+| 20230707T18:04:23Z | CVE-2023-37191 | Null | https://github.com/sahiloj/CVE-2023-37191 | | 
+| 20230707T18:03:56Z | CVE-2023-37189 | Null | https://github.com/sahiloj/CVE-2023-37189 | | 
+| 20230707T15:51:33Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
+| 20230707T14:35:41Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
+| 20230707T14:34:21Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230707T13:36:44Z | CVE-2023-3460 | Null | https://github.com/rizqimaulanaa/CVE-2023-3460 | | 
+| 20230707T09:01:26Z | CVE-2023-2982 | Null | https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230707T07:33:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2274 | 629| 
+| 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
+| 20230707T16:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2275 | 629| 
 | 20230707T00:20:21Z | Null | https://github.com/igloo1505/kleenBrake_Ionic | 0 | 0| 
 | 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
 | 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
-| 20230704T20:04:40Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 1 | 0| 
 | 20230704T04:15:15Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
 | 20230704T01:40:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 319 | 6| 
 | 20230703T13:18:15Z | Null | https://github.com/onionoino/klee | 2 | 3| 
@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230706T04:44:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 32 | 12| 
+| 20230706T04:44:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 32 | 13| 
 | 20230701T15:05:22Z | Null | https://github.com/DusaVignesh/user_s2ev | 0 | 0| 
 | 20230701T14:59:45Z | Null | https://github.com/DusaVignesh/s2ev_user | 0 | 0| 
 
@@ -64,22 +64,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T23:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5158 | 1006| 
+| 20230707T22:39:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 141 | 13| 
+| 20230707T22:02:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10376 | 1621| 
+| 20230707T19:48:31Z | In this repository we provide functionalities for exploitation prediction of software vulnerabilities using topc modelling, word clustering and machine learning (classification) models. We also provide data that are releted to our experiments and findings. | https://github.com/koncharman/Vulnerability_exploit_prediction_using_descriptions | 1 | 0| 
+| 20230707T19:12:21Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
+| 20230707T19:10:25Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
+| 20230707T19:09:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 34 | 10| 
+| 20230707T18:26:20Z | A repository full of scripts/exploits that include pranking in irl and trolling. | https://github.com/wtfplayer/redemption | 1 | 0| 
 | 20230707T12:55:08Z | Pear , Pear is a WebSocket Wrapper for Luau to Nodejs (for Exploits) | https://github.com/Yxi1d/Pear | 0 | 0| 
 | 20230707T12:50:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-_wVGQ-exploit-talk | 0 | 0| 
-| 20230707T12:22:31Z | Exploit-Armory | https://github.com/orezlook/exploit | 0 | 0| 
-| 20230707T12:09:10Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03d91651-0625-4ff8-9579-c327b7dbb9a7-U1GL6-exploit-strengthen | 0 | 0| 
-| 20230707T11:46:39Z | Solidity Exploit DB | https://github.com/SolexpLab/SolexpDB | 0 | 0| 
-| 20230707T10:48:51Z | Vulnerability-Vault is a curated collection of responsibly disclosed device exploits aimed at enhancing security awareness and promoting responsible hacking practices. This repository provides a comprehensive list of exploits targeting various devices including macOS, Windows, Linux, Android, and Cisco networking equipment. | https://github.com/soheil-vanaee/Vulnerability-Vault | 0 | 0| 
-| 20230707T08:14:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 580 | 107| 
-| 20230707T06:44:16Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 50 | 7| 
-| 20230707T06:14:06Z | Contains the solutions of the Tasks that I prepared as mentor for the ACA Project | https://github.com/divijsingla/Exploiting-Blockchain-With-OpenAI-APIs | 0 | 0| 
-| 20230707T04:36:58Z | Official implementation of the paper %Exploiting Richness of Learned Compressed Representation of Images for Semantic Segmentation% | https://github.com/DL4Compression/Semantic-Segmentation-of-Driving-Videos-on-Learning-based-Image-Compression | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230707T12:33:04Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 75 | 6| 
+| 20230707T16:22:54Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 77 | 7| 
 | 20230707T07:56:38Z | bpf-based linux backdoor/rootkit that bypasses any firewall. | https://github.com/irisambericon/crackdoor | 0 | 0| 
 | 20230707T06:58:31Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
 | 20230706T23:04:29Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 1 | 3| 
@@ -119,6 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230707T23:25:01Z | Fuzzy Pancake ;; | https://github.com/NovaFugaz/fuzzy-pancake | 1 | 0| 
+| 20230707T21:54:39Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 85 | 32| 
 | 20230707T12:54:17Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 208 | 5| 
 | 20230707T12:03:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4748 | 1144| 
 | 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
@@ -127,8 +129,6 @@
 | 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
 | 20230707T00:50:40Z | Fuzzing Solidity Sudoku Checker with Woke | https://github.com/khegeman/fuzz-sudoku | 0 | 0| 
 | 20230707T00:17:46Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
-| 20230706T23:38:56Z | a site for playing around | https://github.com/FwedwicDedwick/fuzzy-rotary-phone | 0 | 0| 
-| 20230706T20:37:41Z | Null | https://github.com/google/fuzztest | 331 | 21| 
 
 
 
