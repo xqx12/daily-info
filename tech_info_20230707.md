@@ -95,7 +95,7 @@
 | 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
 | 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
 | 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
-| 20230707T00:50:40Z | Fuzzing Solidity Sudoku Checker with Woke | https://github.com/khegeman/fuzz-sudoku | 0 | 0| 
+| 20230707T03:30:24Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 89 | 9| 
 
 
 
