@@ -55,6 +55,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T11:19:29Z | njRAT Platinum Edition Russified  | https://github.com/JumpeerYT/njRAT-Platinum-Edition-RuS | 6 | 0| 
+| 20230708T10:57:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 163 | 18| 
+| 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
 | 20230708T00:40:42Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 78 | 7| 
 
 
@@ -67,6 +70,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T04:25:13Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 708 | 115| 
 
 
 # fuzz on Github 推荐

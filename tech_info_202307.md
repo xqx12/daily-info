@@ -80,6 +80,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T11:19:29Z | njRAT Platinum Edition Russified  | https://github.com/JumpeerYT/njRAT-Platinum-Edition-RuS | 6 | 0| 
+| 20230708T10:57:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 163 | 18| 
+| 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
 | 20230708T00:40:42Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 78 | 7| 
 | 20230707T07:56:38Z | bpf-based linux backdoor/rootkit that bypasses any firewall. | https://github.com/irisambericon/crackdoor | 0 | 0| 
 | 20230707T06:58:31Z | Certify an IoT devices and sensors that have been certified free from any Chinese backdoor or hacking threats | https://github.com/CleanThings/CleanThings.github.io | 0 | 1| 
@@ -87,9 +90,6 @@
 | 20230706T17:48:38Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20230706T12:57:16Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 | 20230706T12:55:05Z | Your next stealthy Remote Access Trojan. | https://github.com/cracksoftorg/NullRAT | 81 | 2| 
-| 20230706T10:06:21Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 16 | 2| 
-| 20230706T09:02:05Z | Null | https://github.com/GhostSec322/BackdoorProject | 0 | 0| 
-| 20230706T03:43:42Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,9 +110,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T04:25:13Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 708 | 115| 
 | 20230707T07:13:57Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 1 | 0| 
 | 20230706T09:40:22Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 2 | 0| 
-| 20230706T01:46:03Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 707 | 115| 
 | 20230705T20:59:35Z | Null | https://github.com/anony1234Q/ndss24ae | 0 | 0| 
 | 20230705T11:09:29Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 56 | 3| 
 
