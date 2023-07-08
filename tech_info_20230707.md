@@ -70,7 +70,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
-| 20230707T18:32:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3487 | 481| 
 | 20230707T16:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2275 | 629| 
 | 20230707T14:37:08Z | Testset for Performace of Symbolic Execution Programs | https://github.com/FHNW-Digital-Trust/TestSet | 0 | 0| 
 | 20230707T08:08:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 776 | 89| 
