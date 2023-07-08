@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T01:06:15Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0004-0004-app-wQzxj-mark-exploit | 0 | 0| 
 | 20230707T23:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5158 | 1006| 
 | 20230707T22:39:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 141 | 13| 
 | 20230707T22:02:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10376 | 1621| 
@@ -73,7 +74,6 @@
 | 20230707T19:09:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 34 | 10| 
 | 20230707T19:08:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5123 | 644| 
 | 20230707T18:26:20Z | A repository full of scripts/exploits that include pranking in irl and trolling. | https://github.com/wtfplayer/redemption | 1 | 0| 
-| 20230707T12:55:08Z | Pear , Pear is a WebSocket Wrapper for Luau to Nodejs (for Exploits) | https://github.com/Yxi1d/Pear | 0 | 0| 
 
 
 # backdoor on Github 推荐
