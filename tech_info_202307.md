@@ -11,31 +11,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230708 | 基于覆盖率的Fuzzer和AFL | https://mp.weixin.qq.com/s/Xe8GL3pG7Bjmk5Hv8esLMw| 
+| 20230708 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ| 
+| 20230708 | ART环境下dex加载流程分析及frida dump dex方案 | https://mp.weixin.qq.com/s/WI3WYR_ABxorBoNACpju3A| 
+| 20230708 | 以变应万变？2023年上半年DARPA网络空间项目梳理 | https://mp.weixin.qq.com/s/sExNTVfc-Wbz0hYlPt3Q_Q| 
+| 20230708 | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw| 
 | 20230707 | 浅谈Apache与CVE-2023-20860 | https://www.sec-in.com/article/2166| 
 | 20230707 | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA| 
 | 20230707 | 网络通讯协议图2023版 | https://www.colasoft.com.cn/wp-content/uploads/2023/07/%E7%A7%91%E6%9D%A5%E3%80%8A%E7%BD%91%E7%BB%9C%E9%80%9A%E8%AE%AF%E5%8D%8F%E8%AE%AE%E5%9B%BE2023%E7%89%88%E3%80%8B.pdf| 
 | 20230706 | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g| 
 | 20230705 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA| 
-| 20230705 | 5G 系统安全测试与自动化 | https://mp.weixin.qq.com/s/B1sdQPO4mSPE2J365aHmCQ| 
-| 20230705 | DARPA XAI项目对可解释AI的探索 | https://mp.weixin.qq.com/s/H-YS_FsPHr4Ox-BjSBQOyw| 
-| 20230704 | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA| 
-| 20230704 | 万亿数据仓库架构设计与实现 | https://mp.weixin.qq.com/s/E0X7094kk9My7JTEOELjDg| 
-| 20230704 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230708T10:12:36Z | CVE-2023-33668 | Null | https://github.com/lodi-g/CVE-2023-33668 | | 
+| 20230708T10:03:13Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
+| 20230708T06:57:21Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
+| 20230708T05:14:22Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230708T01:32:30Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230707T20:44:33Z | 未知编号 | Null | https://github.com/hansengentle/CVE-2023 | | 
 | 20230707T18:04:52Z | CVE-2023-37190 | Null | https://github.com/sahiloj/CVE-2023-37190 | | 
 | 20230707T18:04:23Z | CVE-2023-37191 | Null | https://github.com/sahiloj/CVE-2023-37191 | | 
 | 20230707T18:03:56Z | CVE-2023-37189 | Null | https://github.com/sahiloj/CVE-2023-37189 | | 
 | 20230707T15:51:33Z | CVE-2023-32315 | CVE-2023-32315-Openfire-Bypass | https://github.com/izzz0/CVE-2023-32315-POC | | 
-| 20230707T14:35:41Z | CVE-2023-2982 | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）<=7.6.4-绕过身份验证 | https://github.com/H4K6/CVE-2023-2982-POC | | 
-| 20230707T14:34:21Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230707T13:36:44Z | CVE-2023-3460 | Null | https://github.com/rizqimaulanaa/CVE-2023-3460 | | 
-| 20230707T09:01:26Z | CVE-2023-2982 | Null | https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh | | 
 
 
 # klee on Github 推荐
@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T04:39:41Z | Null | https://github.com/Umesh-RaviRaj/UmeshRaviRaj_S2EAC | 0 | 0| 
 | 20230706T04:44:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 32 | 13| 
 | 20230701T15:05:22Z | Null | https://github.com/DusaVignesh/user_s2ev | 0 | 0| 
 | 20230701T14:59:45Z | Null | https://github.com/DusaVignesh/s2ev_user | 0 | 0| 
@@ -64,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T11:58:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
+| 20230708T11:43:21Z | Public resource collection of the Low Level Land community  | https://github.com/nop-tech/Exploit-Development-Resources | 0 | 0| 
+| 20230708T10:58:53Z | Database for RBLXex | https://github.com/Ossyence/RBLXex-exploits-db | 0 | 0| 
+| 20230708T10:38:33Z | A python script that identifies and exploits price differences across different cryptocurrency exchanges. | https://github.com/NoctEdge/Arbitrage-Finder | 1 | 0| 
+| 20230708T10:15:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 675 | 172| 
+| 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
 | 20230708T01:23:14Z | Null | https://github.com/geeknik/cors-exploiter | 0 | 0| 
 | 20230708T01:06:15Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0004-0004-app-wQzxj-mark-exploit | 0 | 0| 
 | 20230707T23:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5158 | 1006| 
 | 20230707T22:39:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 141 | 13| 
-| 20230707T22:02:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10376 | 1621| 
-| 20230707T19:48:31Z | In this repository we provide functionalities for exploitation prediction of software vulnerabilities using topc modelling, word clustering and machine learning (classification) models. We also provide data that are releted to our experiments and findings. | https://github.com/koncharman/Vulnerability_exploit_prediction_using_descriptions | 1 | 0| 
-| 20230707T19:12:21Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
-| 20230707T19:10:45Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 203 | 11| 
-| 20230707T19:10:25Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
-| 20230707T19:09:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 34 | 10| 
 
 
 # backdoor on Github 推荐
@@ -119,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T08:37:24Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
+| 20230708T08:31:55Z | Null | https://github.com/Phantomn/fuzzing_project | 0 | 0| 
+| 20230708T08:31:23Z | Using Bootstrap for the very first time | https://github.com/DelroyGayle/fuzzy-octo-doodle | 0 | 0| 
+| 20230708T07:31:12Z | Efficient random generators and distributions for fuzzing | https://github.com/novafacing/fuzzerang | 0 | 0| 
 | 20230708T01:57:09Z | A simple URL Fuzzer written in Go | https://github.com/CW-MD/GoFuzzYourself | 0 | 0| 
 | 20230707T23:25:01Z | Fuzzy Pancake ;; | https://github.com/NovaFugaz/fuzzy-pancake | 1 | 0| 
 | 20230707T21:54:39Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 85 | 32| 
 | 20230707T19:11:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3706 | 439| 
 | 20230707T12:54:17Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 208 | 5| 
 | 20230707T12:03:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4748 | 1144| 
-| 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
-| 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
-| 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
-| 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
 
 
 
