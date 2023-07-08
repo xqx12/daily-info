@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T01:57:09Z | A simple URL Fuzzer written in Go | https://github.com/CW-MD/GoFuzzYourself | 0 | 0| 
 | 20230707T23:25:01Z | Fuzzy Pancake ;; | https://github.com/NovaFugaz/fuzzy-pancake | 1 | 0| 
 | 20230707T21:54:39Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 85 | 32| 
 | 20230707T19:11:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3706 | 439| 
@@ -128,7 +129,6 @@
 | 20230707T11:33:41Z | Fuzzy Fish challenge | https://github.com/Elmekia/Fuzzy-Fish | 0 | 0| 
 | 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
 | 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
-| 20230707T03:30:24Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 89 | 9| 
 
 
 
