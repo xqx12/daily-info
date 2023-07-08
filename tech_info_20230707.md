@@ -54,9 +54,9 @@
 | 20230707T19:12:21Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
 | 20230707T19:10:25Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
 | 20230707T19:09:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 34 | 10| 
+| 20230707T19:08:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5123 | 644| 
 | 20230707T18:26:20Z | A repository full of scripts/exploits that include pranking in irl and trolling. | https://github.com/wtfplayer/redemption | 1 | 0| 
 | 20230707T12:55:08Z | Pear , Pear is a WebSocket Wrapper for Luau to Nodejs (for Exploits) | https://github.com/Yxi1d/Pear | 0 | 0| 
-| 20230707T12:50:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-_wVGQ-exploit-talk | 0 | 0| 
 
 
 # backdoor on Github 推荐
