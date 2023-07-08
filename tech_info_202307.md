@@ -71,9 +71,9 @@
 | 20230707T22:02:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10376 | 1621| 
 | 20230707T19:48:31Z | In this repository we provide functionalities for exploitation prediction of software vulnerabilities using topc modelling, word clustering and machine learning (classification) models. We also provide data that are releted to our experiments and findings. | https://github.com/koncharman/Vulnerability_exploit_prediction_using_descriptions | 1 | 0| 
 | 20230707T19:12:21Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 34 | 5| 
+| 20230707T19:10:45Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 203 | 11| 
 | 20230707T19:10:25Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 674 | 172| 
 | 20230707T19:09:53Z | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | 34 | 10| 
-| 20230707T19:08:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5123 | 644| 
 
 
 # backdoor on Github 推荐
