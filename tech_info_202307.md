@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T12:13:26Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3538 | 517| 
 | 20230708T11:58:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 | 20230708T11:43:21Z | Public resource collection of the Low Level Land community  | https://github.com/nop-tech/Exploit-Development-Resources | 0 | 0| 
 | 20230708T10:58:53Z | Database for RBLXex | https://github.com/Ossyence/RBLXex-exploits-db | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20230708T01:23:14Z | Null | https://github.com/geeknik/cors-exploiter | 0 | 0| 
 | 20230708T01:06:15Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0004-0004-app-wQzxj-mark-exploit | 0 | 0| 
 | 20230707T23:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5158 | 1006| 
-| 20230707T22:39:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 141 | 13| 
 
 
 # backdoor on Github 推荐
