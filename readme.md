@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T12:57:02Z | Evolutionary Grammar-Based Fuzzing Framework to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 2 | 6| 
 | 20230708T12:34:48Z | algorithm and example | https://github.com/ziminl/simple-fuzzing-algorithm | 1 | 0| 
 | 20230708T08:37:24Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
 | 20230708T08:31:55Z | Null | https://github.com/Phantomn/fuzzing_project | 0 | 0| 
