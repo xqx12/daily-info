@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230708T12:13:26Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3538 | 517| 
+| 20230708T12:40:05Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3539 | 518| 
 | 20230708T11:58:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 | 20230708T11:43:21Z | Public resource collection of the Low Level Land community  | https://github.com/nop-tech/Exploit-Development-Resources | 0 | 0| 
 | 20230708T10:58:53Z | Database for RBLXex | https://github.com/Ossyence/RBLXex-exploits-db | 0 | 0| 
