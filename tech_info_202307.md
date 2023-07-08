@@ -121,6 +121,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230707T23:25:01Z | Fuzzy Pancake ;; | https://github.com/NovaFugaz/fuzzy-pancake | 1 | 0| 
 | 20230707T21:54:39Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 85 | 32| 
+| 20230707T19:11:55Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3706 | 439| 
 | 20230707T12:54:17Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 208 | 5| 
 | 20230707T12:03:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4748 | 1144| 
 | 20230707T12:01:20Z | Fuzzy find and operate on files; shows recent files first | https://github.com/TamaMcGlinn/vim-fuzzy-recent | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20230707T11:26:05Z | Information Flow-Based Fuzzy Cognitive Maps with Enhanced Interpretability | https://github.com/marios-tyrovolas/Information-Flow-Based-Fuzzy-Cognitive-Maps-with-Enhanced-Interpretability | 0 | 0| 
 | 20230707T09:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1448 | 202| 
 | 20230707T00:50:40Z | Fuzzing Solidity Sudoku Checker with Woke | https://github.com/khegeman/fuzz-sudoku | 0 | 0| 
-| 20230707T00:17:46Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
 
 
 
