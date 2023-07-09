@@ -21,11 +21,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230708T23:22:47Z | CVE-2022-24715 | Null | https://github.com/cxdxnt/CVE-2022-24715 | | 
+| 20230708T23:07:56Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
+| 20230708T20:40:05Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
+| 20230708T20:38:51Z | CVE-2023-36166 | An issue in SlySoft Game Jackal Pro v.5.2.0.0 allows an attacker to execute arbitrary code via the server.exe component | https://github.com/TraiLeR2/CVE-2023-36166 | | 
+| 20230708T20:37:39Z | CVE-2023-36165 | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component. | https://github.com/TraiLeR2/CVE-2023-36165 | | 
+| 20230708T20:36:19Z | CVE-2023-36164 | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code via the MTAgentService component | https://github.com/TraiLeR2/CVE-2023-36164 | | 
+| 20230708T20:28:58Z | CVE-2023-36163 | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | https://github.com/TraiLeR2/CVE-2023-36163 | | 
+| 20230708T20:21:55Z | CVE-2023-30226 | rizin denial of service bug | https://github.com/ifyGecko/CVE-2023-30226 | | 
+| 20230708T19:05:07Z | CVE-2022-24715 | Icinga Web 2 - Authenticated Remote Code Execution <2.8.6, <2.9.6, <2.10 | https://github.com/hheeyywweellccoommee/CVE-2022-24715-crrxa | | 
 | 20230708T10:12:36Z | CVE-2023-33668 | Null | https://github.com/lodi-g/CVE-2023-33668 | | 
-| 20230708T10:03:13Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
-| 20230708T06:57:21Z | CVE-2023-2982 | Null | https://github.com/LoaiEsam37/CVE-2023-2982 | | 
-| 20230708T05:14:22Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230708T01:32:30Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 
 
 # klee on Github 推荐
@@ -42,24 +47,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T23:56:24Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/JB | 0 | 0| 
+| 20230708T22:52:17Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 0 | 0| 
+| 20230708T22:35:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5714 | 764| 
+| 20230708T21:25:43Z | Within Handmade_Exploits repo, you can expect to find a range of exploits that demonstrate my expertise in identifying and leveraging security weaknesses effectively. Each exploit uploaded to the repository is thoroughly tested and vetted, ensuring its functionality and reliability. | https://github.com/omershaik0/Handmade_Exploits | 0 | 0| 
+| 20230708T19:06:23Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3035 | 450| 
+| 20230708T19:00:06Z | A third year uni project aiming to apply opponent modelling techniques to poker | https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker | 0 | 0| 
+| 20230708T16:19:52Z | Null | https://github.com/imagineeeeeee/MyExploits | 0 | 0| 
 | 20230708T12:40:05Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3539 | 518| 
 | 20230708T11:58:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 | 20230708T11:43:21Z | Public resource collection of the Low Level Land community  | https://github.com/nop-tech/Exploit-Development-Resources | 0 | 0| 
-| 20230708T10:58:53Z | Database for RBLXex | https://github.com/Ossyence/RBLXex-exploits-db | 0 | 0| 
-| 20230708T10:38:33Z | A python script that identifies and exploits price differences across different cryptocurrency exchanges. | https://github.com/NoctEdge/Arbitrage-Finder | 1 | 0| 
-| 20230708T10:15:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 675 | 172| 
-| 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
-| 20230708T01:23:14Z | Null | https://github.com/geeknik/cors-exploiter | 0 | 0| 
-| 20230708T01:06:15Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0004-0004-app-wQzxj-mark-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T23:02:41Z | Backdoor AI is a new tool that is designed to help you academically. Learn more at https://backdoor.best | https://github.com/L4CTOSE/bd.ai | 1 | 0| 
+| 20230708T19:04:34Z | Official repository for CVPR%23 paper: Detecting Backdoors in Pre-trained Encoders | https://github.com/GiantSeaweed/DECREE | 16 | 0| 
+| 20230708T16:02:36Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 17 | 2| 
+| 20230708T15:15:02Z | Scanner-Shell adalah alat untuk mencari akses atau shell backdoor yang ada pada website | https://github.com/cexploit99/Scanner-Shell | 0 | 0| 
 | 20230708T11:19:29Z | njRAT Platinum Edition Russified  | https://github.com/JumpeerYT/njRAT-Platinum-Edition-RuS | 6 | 0| 
 | 20230708T10:57:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 163 | 18| 
 | 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
-| 20230708T00:40:42Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 78 | 7| 
+| 20230708T00:40:42Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 78 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -77,13 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230708T21:49:27Z | Null | https://github.com/misa7ee/fuzzy-octo-tribble | 0 | 0| 
+| 20230708T21:06:53Z | Khordadapp-css-html | https://github.com/khordadapp/fuzzy-carnival | 0 | 0| 
+| 20230708T20:46:10Z | Null | https://github.com/ageebqxh/fuzzy-octo-carnival | 0 | 0| 
+| 20230708T20:22:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1449 | 202| 
+| 20230708T19:44:14Z | Control raspberry pi fan speed using hardware PWM and fuzzy logic | https://github.com/Manosgou/Fuzzy-Pi-Fan | 0 | 0| 
+| 20230708T18:57:45Z | Null | https://github.com/Ri05/fuzzy-broccoli | 0 | 0| 
+| 20230708T18:30:22Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
+| 20230708T16:52:27Z | Null | https://github.com/0FuzzingQ/0FuzzingQ.github.io | 0 | 0| 
+| 20230708T15:11:49Z | PHP fuzzing list is commonly used in File Upload filters (Whitelist/Blacklist) Bypasses | https://github.com/KareemElsadek/PHP-Extension-Fuzzing | 0 | 0| 
 | 20230708T12:57:02Z | Evolutionary Grammar-Based Fuzzing Framework to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 2 | 6| 
-| 20230708T12:34:48Z | algorithm and example | https://github.com/ziminl/simple-fuzzing-algorithm | 1 | 0| 
-| 20230708T08:37:24Z | 在这个仓库中将会更新各种文献、博客、报告的读后感，以及fuzzing 101和CTF练习的过程，后期可能会进行进一步分类整理。 | https://github.com/wammr/smrlearning | 0 | 0| 
-| 20230708T08:31:55Z | Null | https://github.com/Phantomn/fuzzing_project | 0 | 0| 
-| 20230708T08:31:23Z | Using Bootstrap for the very first time | https://github.com/DelroyGayle/fuzzy-octo-doodle | 0 | 0| 
-| 20230708T07:31:12Z | Efficient random generators and distributions for fuzzing | https://github.com/novafacing/fuzzerang | 0 | 0| 
-| 20230708T01:57:09Z | A simple URL Fuzzer written in Go | https://github.com/CW-MD/GoFuzzYourself | 0 | 0| 
 
 
 
