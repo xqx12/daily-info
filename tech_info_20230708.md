@@ -89,6 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230708T21:49:27Z | Null | https://github.com/misa7ee/fuzzy-octo-tribble | 0 | 0| 
+| 20230708T21:24:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3710 | 439| 
 | 20230708T21:06:53Z | Khordadapp-css-html | https://github.com/khordadapp/fuzzy-carnival | 0 | 0| 
 | 20230708T20:46:10Z | Null | https://github.com/ageebqxh/fuzzy-octo-carnival | 0 | 0| 
 | 20230708T20:22:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1449 | 202| 
@@ -97,7 +98,6 @@
 | 20230708T18:30:22Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
 | 20230708T16:52:27Z | Null | https://github.com/0FuzzingQ/0FuzzingQ.github.io | 0 | 0| 
 | 20230708T15:11:49Z | PHP fuzzing list is commonly used in File Upload filters (Whitelist/Blacklist) Bypasses | https://github.com/KareemElsadek/PHP-Extension-Fuzzing | 0 | 0| 
-| 20230708T12:57:02Z | Evolutionary Grammar-Based Fuzzing Framework to detect Failures | https://github.com/martineberlein/evogfuzzplusplus | 2 | 6| 
 
 
 
