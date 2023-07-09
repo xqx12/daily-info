@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T12:01:46Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 25 | 2| 
 | 20230709T11:15:58Z | Velt: Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230709T07:48:58Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 238 | 56| 
 | 20230709T04:12:43Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 16 | 0| 
@@ -90,19 +91,18 @@
 | 20230708T15:15:02Z | Scanner-Shell adalah alat untuk mencari akses atau shell backdoor yang ada pada website | https://github.com/cexploit99/Scanner-Shell | 0 | 0| 
 | 20230708T11:19:29Z | njRAT Platinum Edition Russified  | https://github.com/JumpeerYT/njRAT-Platinum-Edition-RuS | 6 | 0| 
 | 20230708T10:57:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 163 | 18| 
-| 20230708T09:22:59Z | vsftpd 2.3.4 backdoor command execution vulnerability exploit written in python | https://github.com/NnickSecurity/vsftpd_backdoor_exploit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T10:18:48Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 77 | 11| 
 | 20230708T18:53:00Z | Symbolic Execution of Brainfuck | https://github.com/toponym/bf-symex | 0 | 0| 
 | 20230708T01:21:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3488 | 481| 
 | 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
 | 20230707T16:47:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2275 | 629| 
 | 20230707T14:37:08Z | Testset for Performace of Symbolic Execution Programs | https://github.com/FHNW-Digital-Trust/TestSet | 0 | 0| 
 | 20230707T08:08:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 776 | 89| 
-| 20230705T09:59:14Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 75 | 11| 
 | 20230705T02:16:15Z | documenting the things I%ve learnt while exploring Dynamic Symbolic Execution to catch bugs and vulnerabilities in programs. | https://github.com/nandan-desai-extras/Symbolic-Execution-Demo | 0 | 0| 
 | 20230704T15:58:50Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 408 | 27| 
 | 20230704T11:19:40Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 2 | 6| 

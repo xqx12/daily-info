@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T12:01:46Z | Official repo to reproduce the paper %How to Backdoor Diffusion Models?% published at CVPR 2023 | https://github.com/IBM/BadDiffusion | 25 | 2| 
 | 20230709T11:15:58Z | Velt: Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230709T07:48:58Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 238 | 56| 
 | 20230709T04:12:43Z | Gengar PwnerKit | https://github.com/h0ru/gpk | 16 | 0| 
@@ -60,6 +61,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T10:18:48Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 77 | 11| 
 
 
 # big4 on Github 推荐
