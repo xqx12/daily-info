@@ -41,12 +41,12 @@
 | 20230709T12:04:23Z | Accuracy FN pasted cheat by a guy called boss 1:1 neutron with a new menu and some public exploits source will stay updated so come here for the new sigs and offsets | https://github.com/ATLS2656260816/LunarWare7103 | 1 | 0| 
 | 20230709T11:50:42Z | python exploit for powned spacejam machine in 10 seconds ahah insane choice  | https://github.com/VAL44NC/SPACEJAM-MACHINE | 0 | 0| 
 | 20230709T11:42:46Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG.github.io | 0 | 0| 
+| 20230709T11:42:03Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3911 | 767| 
 | 20230709T11:28:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4543518c-6eaa-499b-837a-de4b8ecf81c0-OEb0T-exploit-deliver | 0 | 0| 
 | 20230709T11:23:59Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c2de096-8b91-40bd-8170-913d62c1c4c0-PLr7n-roll-exploit | 0 | 0| 
 | 20230709T11:23:43Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-90703efa-4ad2-43eb-a770-32276eef95a9-7lIoy-exploit-comply | 0 | 0| 
 | 20230709T10:28:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 313 | 59| 
 | 20230709T10:17:31Z | Local Privilege Escalation Exploit for CVE-2021-44731 | https://github.com/deeexcee-io/CVE-2021-44731-snap-confine-SUID | 0 | 1| 
-| 20230709T09:23:17Z | ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | https://github.com/izlatviisobaka/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T12:28:00Z | Numerical experiments for my paper published in FUZZ-IEEE 2023 | https://github.com/lucaferranti/fuzzieee2023 | 0 | 0| 
 | 20230709T11:17:18Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
 | 20230709T09:35:35Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
 | 20230709T08:17:06Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 102 | 6| 
