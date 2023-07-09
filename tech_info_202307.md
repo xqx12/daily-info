@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T00:17:25Z | Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/notsotypicalgamer.github.io | 0 | 0| 
 | 20230708T23:56:24Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/JB | 0 | 0| 
 | 20230708T22:52:17Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 0 | 0| 
 | 20230708T22:35:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5714 | 764| 
@@ -74,7 +75,6 @@
 | 20230708T16:19:52Z | Null | https://github.com/imagineeeeeee/MyExploits | 0 | 0| 
 | 20230708T14:44:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 542 | 106| 
 | 20230708T12:40:05Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3539 | 518| 
-| 20230708T11:58:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5298 | 743| 
 
 
 # backdoor on Github 推荐
