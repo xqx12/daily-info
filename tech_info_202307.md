@@ -65,10 +65,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T00:26:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5715 | 764| 
 | 20230709T00:17:25Z | Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/notsotypicalgamer.github.io | 0 | 0| 
 | 20230708T23:56:24Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/JB | 0 | 0| 
 | 20230708T22:52:17Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 0 | 0| 
-| 20230708T22:35:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5714 | 764| 
 | 20230708T21:25:43Z | Within Handmade_Exploits repo, you can expect to find a range of exploits that demonstrate my expertise in identifying and leveraging security weaknesses effectively. Each exploit uploaded to the repository is thoroughly tested and vetted, ensuring its functionality and reliability. | https://github.com/omershaik0/Handmade_Exploits | 0 | 0| 
 | 20230708T19:06:23Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3035 | 450| 
 | 20230708T19:00:06Z | A third year uni project aiming to apply opponent modelling techniques to poker | https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker | 0 | 0| 
