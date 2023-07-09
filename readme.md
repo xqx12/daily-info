@@ -97,7 +97,7 @@
 | 20230708T18:57:45Z | Null | https://github.com/Ri05/fuzzy-broccoli | 0 | 0| 
 | 20230708T18:30:22Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
 | 20230708T16:52:27Z | Null | https://github.com/0FuzzingQ/0FuzzingQ.github.io | 0 | 0| 
-| 20230708T15:11:49Z | PHP fuzzing list is commonly used in File Upload filters (Whitelist/Blacklist) Bypasses | https://github.com/KareemElsadek/PHP-Extension-Fuzzing | 0 | 0| 
+| 20230708T16:19:42Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 300 | 39| 
 
 
 
