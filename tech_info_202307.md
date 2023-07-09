@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230709T01:00:07Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230708T23:22:47Z | CVE-2022-24715 | Null | https://github.com/cxdxnt/CVE-2022-24715 | | 
-| 20230708T23:07:56Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230708T20:40:05Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
 | 20230708T20:38:51Z | CVE-2023-36166 | An issue in SlySoft Game Jackal Pro v.5.2.0.0 allows an attacker to execute arbitrary code via the server.exe component | https://github.com/TraiLeR2/CVE-2023-36166 | | 
 | 20230708T20:37:39Z | CVE-2023-36165 | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component. | https://github.com/TraiLeR2/CVE-2023-36165 | | 

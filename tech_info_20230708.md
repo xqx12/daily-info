@@ -22,7 +22,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230708T23:22:47Z | CVE-2022-24715 | Null | https://github.com/cxdxnt/CVE-2022-24715 | | 
-| 20230708T23:07:56Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230708T20:40:05Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
 | 20230708T20:38:51Z | CVE-2023-36166 | An issue in SlySoft Game Jackal Pro v.5.2.0.0 allows an attacker to execute arbitrary code via the server.exe component | https://github.com/TraiLeR2/CVE-2023-36166 | | 
 | 20230708T20:37:39Z | CVE-2023-36165 | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component. | https://github.com/TraiLeR2/CVE-2023-36165 | | 
@@ -31,6 +30,7 @@
 | 20230708T20:21:55Z | CVE-2023-30226 | rizin denial of service bug | https://github.com/ifyGecko/CVE-2023-30226 | | 
 | 20230708T19:05:07Z | CVE-2022-24715 | Icinga Web 2 - Authenticated Remote Code Execution <2.8.6, <2.9.6, <2.10 | https://github.com/hheeyywweellccoommee/CVE-2022-24715-crrxa | | 
 | 20230708T10:12:36Z | CVE-2023-33668 | Null | https://github.com/lodi-g/CVE-2023-33668 | | 
+| 20230708T10:03:13Z | CVE-2023-2982 | WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) <= 7.6.4 - Authentication Bypass | https://github.com/RandomRobbieBF/CVE-2023-2982 | | 
 
 
 # klee on Github 推荐
