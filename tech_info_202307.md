@@ -121,6 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230710T01:19:49Z | Null | https://github.com/Phantomn/fuzzing_project | 0 | 0| 
+| 20230710T01:16:11Z | Null | https://github.com/solo-studios/kt-fuzzy | 3 | 0| 
 | 20230709T23:32:38Z | Fuzzy Logic Applied to a Computer Network Intrusion Detection System | https://github.com/Helogizzy/Fuzzy_ComputerNetworks | 1 | 0| 
 | 20230709T21:56:43Z | Null | https://github.com/lindeberg25/malware_clustering_fuzzy_logic_2016 | 0 | 0| 
 | 20230709T21:45:12Z | fuzz testing a simple dex pool | https://github.com/khegeman/fuzz-kswap | 0 | 0| 
@@ -129,8 +131,6 @@
 | 20230709T11:17:18Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
 | 20230709T09:35:35Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
 | 20230709T09:28:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3712 | 438| 
-| 20230709T08:17:06Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 102 | 6| 
-| 20230709T05:08:25Z | Null | https://github.com/q40603/Continuous-Invivo-Fuzz | 0 | 0| 
 
 
 
