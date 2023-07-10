@@ -18,7 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230710T11:53:16Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
+| 20230710T12:28:04Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
+| 20230710T12:27:48Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
+| 20230710T12:27:18Z | CVE-2023-36163 | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | https://github.com/TraiLeR2/CVE-2023-36163 | | 
 | 20230710T09:06:53Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
 | 20230710T08:05:39Z | CVE-2021-4034 | Null | https://github.com/asepsaepdin/CVE-2021-4034 | | 
 | 20230710T05:06:04Z | CVE-2023-34362 | POC for CVE-2023-34362 affecting MOVEit Transfer | https://github.com/Malwareman007/CVE-2023-34362 | | 

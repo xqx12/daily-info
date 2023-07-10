@@ -26,7 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230710T11:53:16Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
+| 20230710T12:28:04Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
+| 20230710T12:27:48Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
+| 20230710T12:27:18Z | CVE-2023-36163 | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | https://github.com/TraiLeR2/CVE-2023-36163 | | 
 | 20230710T09:06:53Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
 | 20230710T08:05:39Z | CVE-2021-4034 | Null | https://github.com/asepsaepdin/CVE-2021-4034 | | 
 | 20230710T05:06:04Z | CVE-2023-34362 | POC for CVE-2023-34362 affecting MOVEit Transfer | https://github.com/Malwareman007/CVE-2023-34362 | | 
@@ -34,8 +36,6 @@
 | 20230710T04:26:34Z | CVE-2023-32235 | A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder. | https://github.com/VEEXH/Ghost-Path-Traversal-CVE-2023-32235- | | 
 | 20230710T02:34:02Z | cve-2022-4543 | Null | https://github.com/sunichi/cve-2022-4543-wrapper | | 
 | 20230709T22:50:56Z | CVE-2022-0847 | Using CVE-2022-0847, "Dirty Pipe Exploit", to pop a reverse bash shell on a foreign machine. | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation | | 
-| 20230709T17:06:59Z | CVE-2023-35843 | CVE-2023-35843 NocoDB 任意文件读取漏洞 | https://github.com/b3nguang/CVE-2023-35843 | | 
-| 20230709T17:06:47Z | CVE-2023-3460 | Mass CVE-2023-3460. | https://github.com/yon3zu/Mass-CVE-2023-3460 | | 
 
 
 # klee on Github 推荐
