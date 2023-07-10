@@ -50,9 +50,9 @@
 | 20230709T22:11:41Z | Exploiting DLL Hijacking by DLL Proxying Super Easily | https://github.com/tothi/dll-hijack-by-proxying | 325 | 77| 
 | 20230709T21:49:24Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1883 | 186| 
 | 20230709T20:31:52Z | This repository hosts a comprehensive report on a Capture The Flag (CTF) project conducted on a hypothetical company, Rekall. It details the discovery and exploitation of various vulnerabilities, providing valuable insights into cybersecurity practices and mitigation strategies. | https://github.com/Lodoelama/Offensive-Security-CTF-Project | 0 | 0| 
+| 20230709T15:40:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5128 | 645| 
 | 20230709T15:40:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10379 | 1621| 
 | 20230709T12:07:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-da591bf0-6b65-4d93-83b0-b6ee92223982-_TZ-g-charge-exploit | 0 | 0| 
-| 20230709T12:04:23Z | Accuracy FN pasted cheat by a guy called boss 1:1 neutron with a new menu and some public exploits source will stay updated so come here for the new sigs and offsets | https://github.com/ATLS2656260816/LunarWare7103 | 1 | 0| 
 
 
 # backdoor on Github 推荐
