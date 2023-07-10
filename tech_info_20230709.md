@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230709T22:50:56Z | CVE-2022-0847 | Using CVE-2022-0847, "Dirty Pipe Exploit", to pop a reverse bash shell on a foreign machine. | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation | | 
 | 20230709T20:01:12Z | CVE-2023-32235 | A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder. | https://github.com/VEEXH/Ghost-Path-Traversal-CVE-2023-32235- | | 
-| 20230709T19:04:27Z | CVE-2023-34362 | POC for CVE-2023-34362 affecting MOVEit Transfer | https://github.com/Malwareman007/CVE-2023-34362 | | 
 | 20230709T18:32:11Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230709T17:06:59Z | CVE-2023-35843 | CVE-2023-35843 NocoDB 任意文件读取漏洞 | https://github.com/b3nguang/CVE-2023-35843 | | 
 | 20230709T17:06:47Z | CVE-2023-3460 | Mass CVE-2023-3460. | https://github.com/yon3zu/Mass-CVE-2023-3460 | | 
