@@ -104,7 +104,7 @@
 | 20230707T14:37:08Z | Testset for Performace of Symbolic Execution Programs | https://github.com/FHNW-Digital-Trust/TestSet | 0 | 0| 
 | 20230707T08:08:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 776 | 89| 
 | 20230705T02:16:15Z | documenting the things I%ve learnt while exploring Dynamic Symbolic Execution to catch bugs and vulnerabilities in programs. | https://github.com/nandan-desai-extras/Symbolic-Execution-Demo | 0 | 0| 
-| 20230704T15:58:50Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 408 | 27| 
+| 20230704T15:58:50Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 408 | 28| 
 | 20230704T11:19:40Z | Symbolic Execution Limitations - Systematic Literature Review | https://github.com/mximp/se-limitations-slr | 2 | 6| 
 
 
