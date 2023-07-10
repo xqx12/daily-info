@@ -84,12 +84,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230710T12:00:44Z | Null | https://github.com/HugoJBello/paper_extensions_fuzzifications | 0 | 0| 
+| 20230710T12:33:59Z | Null | https://github.com/HugoJBello/paper_extensions_fuzzifications | 0 | 0| 
+| 20230710T12:31:49Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 368 | 45| 
 | 20230710T11:01:50Z | Null | https://github.com/roosslan/fuzzyClock | 0 | 0| 
 | 20230710T10:50:43Z | A MATLAB code to obtain the prediction output from the developed fuzzy logic model | https://github.com/alhamedy/MATLAB-code-for-fuzzy-output | 0 | 0| 
 | 20230710T10:13:43Z | Null | https://github.com/Josh-codes/fuzzy-broccoli | 0 | 0| 
 | 20230710T09:43:55Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 432 | 59| 
-| 20230710T06:12:30Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 367 | 45| 
 | 20230710T05:51:34Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 1 | 0| 
 | 20230710T03:09:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4749 | 1143| 
 | 20230710T01:19:49Z | Null | https://github.com/Phantomn/fuzzing_project | 0 | 0| 
