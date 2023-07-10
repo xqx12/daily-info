@@ -128,7 +128,7 @@
 | 20230709T12:28:00Z | Numerical experiments for my paper published in FUZZ-IEEE 2023 | https://github.com/lucaferranti/fuzzieee2023 | 0 | 0| 
 | 20230709T11:17:18Z | Fuzzy string matching for dbt | https://github.com/calum-mcg/dbt-fuzzy-text | 0 | 0| 
 | 20230709T09:35:35Z | The code of paper ``Fuzzy-DDI: A Interpretable Fuzzy Logic Query Model for Complex Drug-Drug Interaction Prediction% | https://github.com/Cheng0829/Fuzzy-DDI | 0 | 0| 
-| 20230709T09:28:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3712 | 439| 
+| 20230709T09:28:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3712 | 438| 
 | 20230709T08:17:06Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 102 | 6| 
 | 20230709T05:08:25Z | Null | https://github.com/q40603/Continuous-Invivo-Fuzz | 0 | 0| 
 
