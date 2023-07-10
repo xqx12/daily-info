@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230709T23:52:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5165 | 1009| 
 | 20230709T23:31:31Z | FluxAPI, simple exploit API. | https://github.com/ItzzExcel/FluxAPI | 0 | 0| 
 | 20230709T23:25:13Z | Torch Hub Exploit Dummy Repo | https://github.com/perone/torch_hub_exploit | 0 | 0| 
 | 20230709T22:50:56Z | Using CVE-2022-0847, %Dirty Pipe Exploit%, to pop a reverse bash shell on a foreign machine. | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation | 0 | 1| 
@@ -75,7 +76,6 @@
 | 20230709T20:31:52Z | This repository hosts a comprehensive report on a Capture The Flag (CTF) project conducted on a hypothetical company, Rekall. It details the discovery and exploitation of various vulnerabilities, providing valuable insights into cybersecurity practices and mitigation strategies. | https://github.com/Lodoelama/Offensive-Security-CTF-Project | 0 | 0| 
 | 20230709T15:40:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5128 | 645| 
 | 20230709T15:40:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10379 | 1621| 
-| 20230709T12:07:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-da591bf0-6b65-4d93-83b0-b6ee92223982-_TZ-g-charge-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
