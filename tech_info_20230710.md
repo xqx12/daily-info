@@ -42,12 +42,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230710T12:20:09Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
 | 20230710T11:55:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1266 | 155| 
 | 20230710T11:51:47Z | Null | https://github.com/Fenducchi/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
 | 20230710T11:45:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5721 | 765| 
 | 20230710T11:19:51Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM 2021. | https://github.com/XrKang/StereoVSR | 1 | 0| 
 | 20230710T11:10:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5304 | 744| 
-| 20230710T10:30:44Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
 | 20230710T09:53:30Z | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | 1 | 0| 
 | 20230710T09:31:15Z | This Repository is for a roblox exploit. | https://github.com/Windows-10-1234/GhostSploit | 0 | 0| 
 | 20230710T09:29:00Z | Regression is very important topic in Machine Learning and I want to exploit it as much as I can | https://github.com/JakubTabor/Regression | 0 | 0| 
