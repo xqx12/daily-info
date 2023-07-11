@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T00:13:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v5 | 0 | 0| 
+| 20230711T00:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230711T00:11:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230710T22:57:54Z | Null | https://github.com/kevinLyon/exploit-and-cve | 0 | 0| 
 | 20230710T21:51:12Z | Prevents crashing and loading a lot of chunks using entities. Also works as a travel exploit if you%re using a client that allows you to desync by entering an entity the same time you%re going through a portal | https://github.com/Techno-Br0ny/AntiGateWayCrash | 0 | 0| 
@@ -74,8 +76,6 @@
 | 20230710T12:20:09Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
 | 20230710T11:55:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1266 | 155| 
 | 20230710T11:51:47Z | Null | https://github.com/Fenducchi/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
-| 20230710T11:45:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5721 | 765| 
-| 20230710T11:19:51Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM 2021. | https://github.com/XrKang/StereoVSR | 1 | 0| 
 
 
 # backdoor on Github 推荐
