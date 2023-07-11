@@ -95,12 +95,12 @@
 | 20230710T22:25:42Z | This is a repository based on the Bubble plugin %Fuzzy search & Autocomplete% (https://bubble.io). | https://github.com/zqplugins/Bubble-Plugin-Fuzzy-search-Autocomplete | 0 | 0| 
 | 20230710T22:10:28Z | Null | https://github.com/tiagofeiodapoha/fuzzy-guacamole | 0 | 0| 
 | 20230710T20:34:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3717 | 438| 
-| 20230710T16:48:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8793 | 1936| 
 | 20230710T12:33:59Z | Null | https://github.com/HugoJBello/paper_extensions_fuzzifications | 0 | 0| 
 | 20230710T12:31:49Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 368 | 45| 
 | 20230710T11:01:50Z | Null | https://github.com/roosslan/fuzzyClock | 0 | 0| 
 | 20230710T10:50:43Z | A MATLAB code to obtain the prediction output from the developed fuzzy logic model | https://github.com/alhamedy/MATLAB-code-for-fuzzy-output | 0 | 0| 
 | 20230710T10:13:43Z | Null | https://github.com/Josh-codes/fuzzy-broccoli | 0 | 0| 
+| 20230710T09:43:55Z | Community curated list of nuclei templates for finding %unknown% security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 432 | 59| 
 
 
 
