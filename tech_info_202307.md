@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230711 | CodeQL与AST之间联系 | https://www.sec-in.com/article/1573| 
+| 20230711 | BurpAuthTest 越权检测插件 | https://lightless.me/archives/burp-auth-test.html| 
+| 20230711 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 
 | 20230710 | SecWiki周刊（第488期) | https://www.sec-wiki.com/weekly/488| 
 | 20230710 | 关于加强“自媒体”管理的通知 | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w| 
 | 20230709 | 探索预训练语言模型在事件抽取与生成方面的应用 | https://mp.weixin.qq.com/s/kybMSwSuFWV7Fcyp4YEs6Q| 
@@ -18,39 +21,36 @@
 | 20230708 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ| 
 | 20230708 | ART环境下dex加载流程分析及frida dump dex方案 | https://mp.weixin.qq.com/s/WI3WYR_ABxorBoNACpju3A| 
 | 20230708 | 以变应万变？2023年上半年DARPA网络空间项目梳理 | https://mp.weixin.qq.com/s/sExNTVfc-Wbz0hYlPt3Q_Q| 
-| 20230708 | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw| 
-| 20230707 | 浅谈Apache与CVE-2023-20860 | https://www.sec-in.com/article/2166| 
-| 20230707 | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230711T10:18:03Z | CVE-2023-27372 | CVE-2023-27372-SPIP-CMS-Bypass | https://github.com/izzz0/CVE-2023-27372-POC | | 
+| 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
+| 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
+| 20230711T08:00:02Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
+| 20230711T07:25:48Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
+| 20230711T02:25:00Z | CVE-2022-0847 | Using CVE-2022-0847, "Dirty Pipe Exploit", to pop a reverse bash shell for arbitrary code execution on a foreign machine. | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation | | 
 | 20230711T01:38:50Z | cve-2022-4543 | Null | https://github.com/sunichi/cve-2022-4543-wrapper | | 
 | 20230711T00:05:43Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
-| 20230710T20:55:41Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
 | 20230710T17:55:54Z | CVE-2023-37599 | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | https://github.com/sahiloj/CVE-2023-37599 | | 
 | 20230710T17:55:40Z | CVE-2023-37598 | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | https://github.com/sahiloj/CVE-2023-37598 | | 
-| 20230710T17:55:13Z | CVE-2023-37597 | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user group | https://github.com/sahiloj/CVE-2023-37597 | | 
-| 20230710T17:54:48Z | CVE-2023-37596 | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user | https://github.com/sahiloj/CVE-2023-37596 | | 
-| 20230710T16:39:31Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | | 
-| 20230710T12:28:04Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
-| 20230710T12:27:48Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T09:10:24Z | Null | https://github.com/marco6/klee | 0 | 0| 
+| 20230711T05:53:05Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 0 | 0| 
+| 20230711T03:59:46Z | Null | https://github.com/kleenkanteen/kleenkanteen | 0 | 0| 
 | 20230710T23:42:12Z | Null | https://github.com/Kyungho0511/klee_CompDesignWork | 0 | 0| 
 | 20230710T20:24:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
-| 20230710T08:45:38Z | Null | https://github.com/marco6/klee | 0 | 0| 
 | 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
 | 20230707T00:20:21Z | Null | https://github.com/igloo1505/kleenBrake_Ionic | 0 | 0| 
 | 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
 | 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
 | 20230704T04:15:15Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVue | 0 | 0| 
-| 20230704T01:40:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 319 | 6| 
-| 20230703T13:18:15Z | Null | https://github.com/onionoino/klee | 2 | 3| 
 
 
 # s2e on Github 推荐
@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T11:47:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 82 | 6| 
+| 20230711T11:41:20Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 8 | 1| 
+| 20230711T10:34:52Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1020 | 201| 
+| 20230711T10:31:10Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 858 | 91| 
+| 20230711T10:02:43Z | A computationally efficient flow reconstruction technique, exploiting homogeneity, to recreate 3D instantaneous turbulent velocity fields from snapshots of 2D planar fields. This methodology, termed as ‘snapshot optimisation’ or SO, can help provide 3D data-sets from 2D data restricted by the limitations of experimental measurement techniques.  | https://github.com/cpranav93/Snapshot_Optimisation | 0 | 0| 
+| 20230711T09:35:29Z | Codebase for the experiments performed in the paper %Pincering SKINNY by Exploiting Slow Diffusion: Enhancing Differential Power Analysis with Cluster Graph Inference% | https://github.com/Simula-UiB/CGI-DPA | 0 | 0| 
+| 20230711T09:34:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 676 | 175| 
+| 20230711T09:15:43Z | Null | https://github.com/fghfdghdfgh/Roblox-Exploit-Tutrial | 0 | 0| 
+| 20230711T08:46:04Z | Null | https://github.com/CharonDefalt/printer-exploit | 0 | 0| 
 | 20230711T01:47:01Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 1 | 0| 
-| 20230711T00:13:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v5 | 0 | 0| 
-| 20230711T00:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v5 | 0 | 0| 
-| 20230711T00:11:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v5 | 0 | 0| 
-| 20230710T23:57:22Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 351 | 57| 
-| 20230710T22:57:54Z | Null | https://github.com/kevinLyon/exploit-and-cve | 0 | 0| 
-| 20230710T21:51:12Z | Prevents crashing and loading a lot of chunks using entities. Also works as a travel exploit if you%re using a client that allows you to desync by entering an entity the same time you%re going through a portal | https://github.com/Techno-Br0ny/AntiGateWayCrash | 0 | 0| 
-| 20230710T20:39:53Z | Null | https://github.com/ChangedIsAnewLuaCoder/RyuExploits | 0 | 0| 
-| 20230710T20:04:35Z | PDF PNG Exploit Spoofer X1na  | https://github.com/x1naaa/PDF-Exploit-Spoofer | 0 | 0| 
-| 20230710T12:20:09Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230711T01:57:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3718 | 438| 
-| 20230711T01:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8794 | 1936| 
-| 20230711T00:16:11Z | Null | https://github.com/gblxcm/fuzzy-octo-adventure | 0 | 0| 
-| 20230710T23:17:06Z | Null | https://github.com/0india1/fuzzy-pancake | 0 | 0| 
-| 20230710T22:25:42Z | This is a repository based on the Bubble plugin %Fuzzy search & Autocomplete% (https://bubble.io). | https://github.com/zqplugins/Bubble-Plugin-Fuzzy-search-Autocomplete | 0 | 0| 
-| 20230710T22:10:28Z | Null | https://github.com/tiagofeiodapoha/fuzzy-guacamole | 0 | 0| 
-| 20230710T12:33:59Z | Null | https://github.com/HugoJBello/paper_extensions_fuzzifications | 0 | 0| 
-| 20230710T12:31:49Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 368 | 45| 
-| 20230710T11:01:50Z | Null | https://github.com/roosslan/fuzzyClock | 0 | 0| 
-| 20230710T10:50:43Z | A MATLAB code to obtain the prediction output from the developed fuzzy logic model | https://github.com/alhamedy/MATLAB-code-for-fuzzy-output | 0 | 0| 
+| 20230711T11:49:10Z | Null | https://github.com/Intellidevelopers/fuzzy | 0 | 0| 
+| 20230711T11:48:44Z | Null | https://github.com/Intellidevelopers/fuzzy-ecommerce-app | 0 | 0| 
+| 20230711T11:47:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 82 | 6| 
+| 20230711T11:41:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4749 | 1143| 
+| 20230711T11:02:53Z | This is a java application that estimate the average yield of a cowpea crop in a given season under the specified conditions such as temperature, soil moisture, fertilizer application and rain fall. | https://github.com/andybest227/Fuzzy-based-cowpea-yield-estimator | 0 | 0| 
+| 20230711T10:51:17Z | Null | https://github.com/daihui688/oauth_fuzz | 0 | 0| 
+| 20230711T10:27:42Z | Null | https://github.com/EsdrasSantosDV/IA-Fuzzy | 0 | 0| 
+| 20230711T09:51:31Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2198 | 280| 
+| 20230711T09:50:29Z | Null | https://github.com/wikibar/Fuzz_Captcha | 0 | 0| 
+| 20230711T07:51:53Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1637 | 275| 
 
 
 
