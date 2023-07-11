@@ -70,12 +70,12 @@
 | 20230711T00:13:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230711T00:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230711T00:11:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v5 | 0 | 0| 
+| 20230710T23:57:22Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 351 | 57| 
 | 20230710T22:57:54Z | Null | https://github.com/kevinLyon/exploit-and-cve | 0 | 0| 
 | 20230710T21:51:12Z | Prevents crashing and loading a lot of chunks using entities. Also works as a travel exploit if you%re using a client that allows you to desync by entering an entity the same time you%re going through a portal | https://github.com/Techno-Br0ny/AntiGateWayCrash | 0 | 0| 
 | 20230710T20:39:53Z | Null | https://github.com/ChangedIsAnewLuaCoder/RyuExploits | 0 | 0| 
 | 20230710T20:04:35Z | PDF PNG Exploit Spoofer X1na  | https://github.com/x1naaa/PDF-Exploit-Spoofer | 0 | 0| 
 | 20230710T12:20:09Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
-| 20230710T11:55:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1266 | 155| 
 
 
 # backdoor on Github 推荐

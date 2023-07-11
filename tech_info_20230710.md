@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230710T23:57:22Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 351 | 57| 
 | 20230710T22:57:54Z | Null | https://github.com/kevinLyon/exploit-and-cve | 0 | 0| 
 | 20230710T21:51:12Z | Prevents crashing and loading a lot of chunks using entities. Also works as a travel exploit if you%re using a client that allows you to desync by entering an entity the same time you%re going through a portal | https://github.com/Techno-Br0ny/AntiGateWayCrash | 0 | 0| 
 | 20230710T20:39:53Z | Null | https://github.com/ChangedIsAnewLuaCoder/RyuExploits | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20230710T11:51:47Z | Null | https://github.com/Fenducchi/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
 | 20230710T11:45:42Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5721 | 765| 
 | 20230710T11:19:51Z | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations, ACM MM 2021. | https://github.com/XrKang/StereoVSR | 1 | 0| 
-| 20230710T11:10:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5304 | 744| 
 
 
 # backdoor on Github 推荐
