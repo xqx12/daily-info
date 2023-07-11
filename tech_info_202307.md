@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T01:14:09Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 1 | 0| 
 | 20230711T00:13:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230711T00:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-v5 | 0 | 0| 
 | 20230711T00:11:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v5 | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230710T20:04:35Z | PDF PNG Exploit Spoofer X1na  | https://github.com/x1naaa/PDF-Exploit-Spoofer | 0 | 0| 
 | 20230710T12:20:09Z | A repository of (now patched) SchoolWare exploits | https://github.com/BjarneIO/schoolware-exploits | 0 | 0| 
 | 20230710T11:55:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1266 | 155| 
-| 20230710T11:51:47Z | Null | https://github.com/Fenducchi/ANDROID-JPG-PNG-SILENT-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
