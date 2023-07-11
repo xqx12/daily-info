@@ -85,10 +85,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
 | 20230711T12:07:04Z | This public repository contains data and analysis scripts that statistically extrapolate the coverage rate of greybox fuzzing. | https://github.com/dliyanage/extrapolate-greybox-fuzz | 0 | 0| 
 | 20230711T11:49:10Z | Null | https://github.com/Intellidevelopers/fuzzy | 0 | 0| 
 | 20230711T11:48:44Z | Null | https://github.com/Intellidevelopers/fuzzy-ecommerce-app | 0 | 0| 
-| 20230711T11:47:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 82 | 6| 
 | 20230711T11:41:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4749 | 1143| 
 | 20230711T11:02:53Z | This is a java application that estimate the average yield of a cowpea crop in a given season under the specified conditions such as temperature, soil moisture, fertilizer application and rain fall. | https://github.com/andybest227/Fuzzy-based-cowpea-yield-estimator | 0 | 0| 
 | 20230711T10:51:17Z | Null | https://github.com/daihui688/oauth_fuzz | 0 | 0| 
