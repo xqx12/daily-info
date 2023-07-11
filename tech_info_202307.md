@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230711T01:38:50Z | cve-2022-4543 | Null | https://github.com/sunichi/cve-2022-4543-wrapper | | 
 | 20230711T00:05:43Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
 | 20230710T20:55:41Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
 | 20230710T17:55:54Z | CVE-2023-37599 | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | https://github.com/sahiloj/CVE-2023-37599 | | 
@@ -35,7 +36,6 @@
 | 20230710T16:39:31Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | | 
 | 20230710T12:28:04Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230710T12:27:48Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
-| 20230710T12:27:18Z | CVE-2023-36163 | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | https://github.com/TraiLeR2/CVE-2023-36163 | | 
 
 
 # klee on Github 推荐
