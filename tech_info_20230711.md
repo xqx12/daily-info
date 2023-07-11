@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230711T12:44:52Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
 | 20230711T10:18:03Z | CVE-2023-27372 | CVE-2023-27372-SPIP-CMS-Bypass | https://github.com/izzz0/CVE-2023-27372-POC | | 
 | 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
 | 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
@@ -45,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230711T12:37:49Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
+| 20230711T12:44:07Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
 | 20230711T12:33:41Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 9 | 1| 
 | 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
 | 20230711T12:11:05Z | This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour that may be surprising or unexpected. All the tokens in this repo are based on real tokens, many of which have been used to exploit smart contract systems in the past. It is hoped that these example implementations will be of use to developers and au | https://github.com/dragon00114/weird-erc20 | 0 | 0| 

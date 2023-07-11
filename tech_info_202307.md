@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230711T12:44:52Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
 | 20230711T10:18:03Z | CVE-2023-27372 | CVE-2023-27372-SPIP-CMS-Bypass | https://github.com/izzz0/CVE-2023-27372-POC | | 
 | 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
 | 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
@@ -35,7 +36,6 @@
 | 20230711T01:38:50Z | cve-2022-4543 | Null | https://github.com/sunichi/cve-2022-4543-wrapper | | 
 | 20230711T00:05:43Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
 | 20230710T17:55:54Z | CVE-2023-37599 | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | https://github.com/sahiloj/CVE-2023-37599 | | 
-| 20230710T17:55:40Z | CVE-2023-37598 | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | https://github.com/sahiloj/CVE-2023-37598 | | 
 
 
 # klee on Github 推荐
@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230711T12:37:49Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
+| 20230711T12:44:07Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
 | 20230711T12:33:41Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 9 | 1| 
 | 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
 | 20230711T12:11:05Z | This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour that may be surprising or unexpected. All the tokens in this repo are based on real tokens, many of which have been used to exploit smart contract systems in the past. It is hoped that these example implementations will be of use to developers and au | https://github.com/dragon00114/weird-erc20 | 0 | 0| 
