@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T12:11:05Z | This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour that may be surprising or unexpected. All the tokens in this repo are based on real tokens, many of which have been used to exploit smart contract systems in the past. It is hoped that these example implementations will be of use to developers and au | https://github.com/dragon00114/weird-erc20 | 0 | 0| 
 | 20230711T11:47:03Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 82 | 6| 
 | 20230711T11:41:20Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 8 | 1| 
 | 20230711T10:34:52Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1020 | 201| 
@@ -54,7 +55,6 @@
 | 20230711T09:34:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 676 | 175| 
 | 20230711T09:15:43Z | Null | https://github.com/fghfdghdfgh/Roblox-Exploit-Tutrial | 0 | 0| 
 | 20230711T08:46:04Z | Null | https://github.com/CharonDefalt/printer-exploit | 0 | 0| 
-| 20230711T01:47:01Z | Code for the paper %Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation%, accepted in ICML workshop ML4MHD, 2023 | https://github.com/ysmei97/multimodal_pci_mask | 1 | 0| 
 
 
 # backdoor on Github 推荐
