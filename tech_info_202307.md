@@ -121,12 +121,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T01:57:13Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3718 | 438| 
 | 20230711T01:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8794 | 1936| 
 | 20230711T00:16:11Z | Null | https://github.com/gblxcm/fuzzy-octo-adventure | 0 | 0| 
 | 20230710T23:17:06Z | Null | https://github.com/0india1/fuzzy-pancake | 0 | 0| 
 | 20230710T22:25:42Z | This is a repository based on the Bubble plugin %Fuzzy search & Autocomplete% (https://bubble.io). | https://github.com/zqplugins/Bubble-Plugin-Fuzzy-search-Autocomplete | 0 | 0| 
 | 20230710T22:10:28Z | Null | https://github.com/tiagofeiodapoha/fuzzy-guacamole | 0 | 0| 
-| 20230710T20:34:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3717 | 438| 
 | 20230710T12:33:59Z | Null | https://github.com/HugoJBello/paper_extensions_fuzzifications | 0 | 0| 
 | 20230710T12:31:49Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 368 | 45| 
 | 20230710T11:01:50Z | Null | https://github.com/roosslan/fuzzyClock | 0 | 0| 
