@@ -18,7 +18,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230710T22:55:03Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
 | 20230710T20:55:41Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
 | 20230710T17:55:54Z | CVE-2023-37599 | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | https://github.com/sahiloj/CVE-2023-37599 | | 
 | 20230710T17:55:40Z | CVE-2023-37598 | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | https://github.com/sahiloj/CVE-2023-37598 | | 
@@ -28,6 +27,7 @@
 | 20230710T12:28:04Z | CVE-2023-22906 | Proof of Concept for CVE-2023-22906 | https://github.com/nonamecoder/CVE-2023-22906 | | 
 | 20230710T12:27:48Z | CVE-2023-36167 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36167 | | 
 | 20230710T12:27:18Z | CVE-2023-36163 | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | https://github.com/TraiLeR2/CVE-2023-36163 | | 
+| 20230710T09:06:53Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
 
 
 # klee on Github 推荐

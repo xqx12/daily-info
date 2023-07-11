@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230710T22:55:03Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
+| 20230711T00:05:43Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
 | 20230710T20:55:41Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
 | 20230710T17:55:54Z | CVE-2023-37599 | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | https://github.com/sahiloj/CVE-2023-37599 | | 
 | 20230710T17:55:40Z | CVE-2023-37598 | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | https://github.com/sahiloj/CVE-2023-37598 | | 
