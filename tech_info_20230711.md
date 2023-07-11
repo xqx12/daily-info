@@ -60,12 +60,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T09:27:58Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 2 | 0| 
+| 20230711T09:23:04Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 81 | 9| 
+| 20230711T08:33:55Z | windows ssh backdoor requires local admin | https://github.com/mr-r3b00t/windows-ssh-backdoor | 0 | 0| 
+| 20230711T03:39:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230711T02:28:54Z | MiniShellBlack | https://github.com/HanzLawrence/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230711T00:13:40Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
+| 20230711T09:52:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3489 | 482| 
+| 20230711T08:58:50Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 411 | 28| 
+| 20230711T08:30:42Z | GDart: Dynamic Symbolic Execution for the JVM | https://github.com/tudo-aqua/gdart | 0 | 0| 
+| 20230711T06:55:32Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
 
 
 # big4 on Github 推荐

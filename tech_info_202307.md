@@ -81,31 +81,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230710T19:50:56Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 80 | 9| 
+| 20230711T09:27:58Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 2 | 0| 
+| 20230711T09:23:04Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 81 | 9| 
+| 20230711T08:33:55Z | windows ssh backdoor requires local admin | https://github.com/mr-r3b00t/windows-ssh-backdoor | 0 | 0| 
+| 20230711T03:39:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230711T02:28:54Z | MiniShellBlack | https://github.com/HanzLawrence/Backdoor | 0 | 0| 
 | 20230710T17:34:14Z | Just a simple Python based backdoor meant for use on Linux machines for CTF%s, not really practical in the real world since catching open ports and enumerating the port would instantly raise flags but for a CTF its a nice way to regain access while also telling the other players the open port is not part of the CTF | https://github.com/Eap2468/Python-Backdoor-CTF | 0 | 0| 
 | 20230710T17:21:01Z | Uploader  | https://github.com/MSVerse/U-Command | 0 | 0| 
 | 20230710T16:32:09Z | Shell-Checker adalah alat yang dibuat untuk mengecek shell backdoor masih aktif atau tidak | https://github.com/cexploit99/Shell-Checker | 0 | 0| 
-| 20230710T16:19:50Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20230710T10:28:23Z | Reconstructive Neuron Pruning for Backdoor Defense (ICML 2023) | https://github.com/bboylyg/RNP | 11 | 0| 
 | 20230710T06:38:08Z | 纸上得来终觉浅，绝知此事要躬行 | https://github.com/QianSilence/BackdoorToolbox | 0 | 0| 
-| 20230710T06:09:18Z | Null | https://github.com/DDNvR/backdoors | 0 | 0| 
-| 20230710T05:19:52Z | FIshShell is a multi-session handler and Windows & Linux backdoor payload generator. It allows users\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell. | https://github.com/TriDEntApollO/FishShell | 5 | 1| 
-| 20230710T04:34:15Z | Null | https://github.com/sankari24/backdoor-virus | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230711T00:13:40Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
+| 20230711T09:52:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3489 | 482| 
+| 20230711T08:58:50Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 411 | 28| 
+| 20230711T08:30:42Z | GDart: Dynamic Symbolic Execution for the JVM | https://github.com/tudo-aqua/gdart | 0 | 0| 
+| 20230711T06:55:32Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
 | 20230710T20:24:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
 | 20230710T16:36:19Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 78 | 11| 
 | 20230710T14:33:17Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 94 | 18| 
-| 20230710T12:45:07Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 410 | 28| 
 | 20230710T02:16:54Z | A HL Symbolic Execution Engine Prototype for Reachability | https://github.com/EthanJamesLew/SEE-Reach-py | 0 | 0| 
-| 20230709T13:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3487 | 482| 
 | 20230708T18:53:00Z | Symbolic Execution of Brainfuck | https://github.com/toponym/bf-symex | 0 | 0| 
 | 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
-| 20230707T14:37:08Z | Testset for Performace of Symbolic Execution Programs | https://github.com/FHNW-Digital-Trust/TestSet | 0 | 0| 
 
 
 # big4 on Github 推荐
