@@ -111,6 +111,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230711T07:22:03Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 23 | 1| 
 | 20230708T04:25:13Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 708 | 115| 
 | 20230707T07:13:57Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 1 | 0| 
 | 20230706T09:40:22Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 2 | 0| 
