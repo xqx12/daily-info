@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230712T00:01:53Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230711T23:12:41Z | CVE-2022-30136 | Windows Network File System Remote exploit for CVE-2022-30136 | https://github.com/fortra/CVE-2022-30136 | | 
 | 20230711T19:33:07Z | CVE-2023-27163 | Null | https://github.com/entr0pie/CVE-2023-27163 | | 
 | 20230711T15:15:34Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
@@ -35,7 +36,6 @@
 | 20230711T10:18:03Z | CVE-2023-27372 | CVE-2023-27372-SPIP-CMS-Bypass | https://github.com/izzz0/CVE-2023-27372-POC | | 
 | 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
 | 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
-| 20230711T08:00:02Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
 
 
 # klee on Github 推荐
