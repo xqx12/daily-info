@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T12:56:09Z | web search files and folders in any web | https://github.com/aquilino/fuzzyrs | 0 | 0| 
 | 20230712T12:44:48Z | Null | https://github.com/Dzikronb/Fuzzy | 0 | 0| 
 | 20230712T12:18:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4751 | 1143| 
 | 20230712T11:18:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1454 | 202| 
