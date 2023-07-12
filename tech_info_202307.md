@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230712T00:00:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10387 | 1618| 
 | 20230711T23:20:35Z | Exploit scripts made by me | https://github.com/offensivedroid/THM-Scripts | 0 | 0| 
 | 20230711T22:26:25Z | Created an aimbot for CS:GO in C++ that exploits the game%s memory to find the neccessary information to compute the proper aim angle.  | https://github.com/chase-compton/aimbot | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230711T19:53:49Z | Here are a collection of exploits of MPA Launcher made by <{GH[*]$t}> ! | https://github.com/igi-ghost/MPA-Launcher-Exploits | 0 | 0| 
 | 20230711T14:17:32Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 11 | 4| 
 | 20230711T13:12:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 76 | 28| 
-| 20230711T12:59:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5135 | 646| 
 
 
 # backdoor on Github 推荐
