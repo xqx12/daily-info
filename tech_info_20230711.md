@@ -21,7 +21,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230711T23:12:41Z | CVE-2022-30136 | Windows Network File System Remote exploit for CVE-2022-30136 | https://github.com/fortra/CVE-2022-30136 | | 
-| 20230711T19:33:07Z | CVE-2023-27163 | Null | https://github.com/entr0pie/CVE-2023-27163 | | 
 | 20230711T15:15:34Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230711T14:26:59Z | CVE-2022-24992 | CVE-2022–24992 | https://github.com/n0lsecurity/CVE-2022-24992 | | 
 | 20230711T13:44:19Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
@@ -30,6 +29,7 @@
 | 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
 | 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
 | 20230711T08:00:02Z | CVE-2023-2255 | CVE-2023-2255 Libre Office  | https://github.com/elweth-sec/CVE-2023-2255 | | 
+| 20230711T02:25:00Z | CVE-2022-0847 | Using CVE-2022-0847, "Dirty Pipe Exploit", to pop a reverse bash shell for arbitrary code execution on a foreign machine. | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation | | 
 
 
 # klee on Github 推荐

@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230712T01:42:04Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
 | 20230712T00:29:23Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230711T23:12:41Z | CVE-2022-30136 | Windows Network File System Remote exploit for CVE-2022-30136 | https://github.com/fortra/CVE-2022-30136 | | 
-| 20230711T19:33:07Z | CVE-2023-27163 | Null | https://github.com/entr0pie/CVE-2023-27163 | | 
 | 20230711T15:15:34Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230711T14:26:59Z | CVE-2022-24992 | CVE-2022–24992 | https://github.com/n0lsecurity/CVE-2022-24992 | | 
 | 20230711T13:44:19Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T01:42:04Z | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | 0 | 1| 
 | 20230712T01:14:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i9 | 0 | 0| 
 | 20230712T01:13:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i9 | 0 | 0| 
 | 20230712T01:12:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i9 | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230712T00:00:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10387 | 1618| 
 | 20230711T23:20:35Z | Exploit scripts made by me | https://github.com/offensivedroid/THM-Scripts | 0 | 0| 
 | 20230711T22:26:25Z | Created an aimbot for CS:GO in C++ that exploits the game%s memory to find the neccessary information to compute the proper aim angle.  | https://github.com/chase-compton/aimbot | 0 | 0| 
-| 20230711T21:05:15Z | The Power of Secure Coding Practices: Safeguarding MongoDB Against Exploitation | https://github.com/kiliczsh/nosql-injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
