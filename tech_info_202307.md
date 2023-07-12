@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T01:52:17Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0012-0003-app-mGiV4-exploit-limit | 0 | 0| 
 | 20230712T01:42:04Z | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | 0 | 1| 
 | 20230712T01:14:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i9 | 0 | 0| 
 | 20230712T01:13:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i9 | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230712T00:00:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10387 | 1618| 
 | 20230711T23:20:35Z | Exploit scripts made by me | https://github.com/offensivedroid/THM-Scripts | 0 | 0| 
-| 20230711T22:26:25Z | Created an aimbot for CS:GO in C++ that exploits the game%s memory to find the neccessary information to compute the proper aim angle.  | https://github.com/chase-compton/aimbot | 0 | 0| 
 
 
 # backdoor on Github 推荐
