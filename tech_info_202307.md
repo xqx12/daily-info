@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T08:54:05Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230711T19:26:11Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 | 20230711T17:47:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 176 | 30| 
@@ -89,8 +90,7 @@
 | 20230711T14:17:43Z | windows ssh backdoor requires local admin | https://github.com/mr-r3b00t/windows-ssh-backdoor | 1 | 0| 
 | 20230711T13:31:52Z | Forward shell from vsftpd  | https://github.com/ak4l3r3/vsftpd-2.3.4-backdoored | 0 | 0| 
 | 20230711T12:37:55Z | Anti Backdoor Union | https://github.com/BingYanchi/WatchDog | 0 | 0| 
-| 20230711T09:27:58Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 2 | 0| 
-| 20230711T03:39:08Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20230711T11:00:19Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 166 | 18| 
 
 
 # symbolic execution on Github 推荐
