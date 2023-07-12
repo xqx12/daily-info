@@ -42,15 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230712T01:52:17Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0012-0003-app-mGiV4-exploit-limit | 0 | 0| 
-| 20230712T01:42:04Z | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | 0 | 1| 
-| 20230712T01:14:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i9 | 0 | 0| 
-| 20230712T01:13:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i9 | 0 | 0| 
-| 20230712T01:12:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i9 | 0 | 0| 
-| 20230712T01:05:18Z | memory exploit code targeting the explorer.exe (rust rewrite) | https://github.com/Dan0xE/hebro_rust | 1 | 0| 
-| 20230712T01:04:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 36 | 6| 
-| 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
-| 20230712T00:00:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10387 | 1618| 
+| 20230712T12:02:26Z | ;) | https://github.com/Tropxzz/REE---Roblox-Exploiting-Experience | 0 | 0| 
+| 20230712T11:26:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5315 | 745| 
+| 20230712T10:51:31Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 320 | 61| 
+| 20230712T10:39:09Z | Null | https://github.com/NeXTLinux/W3Exploits | 0 | 0| 
+| 20230712T09:56:14Z |  Smart contract vulnerabilities refer to weaknesses or flaws in the design, implementation, or execution of smart contracts that can be exploited by attackers. These vulnerabilities can lead to unintended consequences, financial losses, or security breaches within the blockchain ecosystem | https://github.com/Maheswaranx15/Smart-contract_vulnerabilities | 0 | 0| 
+| 20230712T09:52:40Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 4 | 0| 
+| 20230712T09:49:45Z | Old visual studio sln exploit | https://github.com/2tapzero/visualstudio-exploit | 0 | 0| 
+| 20230712T09:46:01Z | FiveM anti trigger event exploit | https://github.com/FutureSeekerTech/fs-guard | 0 | 0| 
+| 20230712T09:41:28Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
+| 20230712T09:39:02Z | Null | https://github.com/ngan247/NT521-Secure-Programming-And-Exploiting-Vulnerabilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -67,6 +68,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T07:14:12Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 57 | 3| 
 
 
 # fuzz on Github 推荐
