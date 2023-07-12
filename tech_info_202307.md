@@ -75,7 +75,7 @@
 | 20230711T19:53:49Z | Here are a collection of exploits of MPA Launcher made by <{GH[*]$t}> ! | https://github.com/igi-ghost/MPA-Launcher-Exploits | 0 | 0| 
 | 20230711T14:17:32Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 11 | 4| 
 | 20230711T13:12:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 76 | 28| 
-| 20230711T12:44:07Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
+| 20230711T12:59:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5135 | 646| 
 
 
 # backdoor on Github 推荐
