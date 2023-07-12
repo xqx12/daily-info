@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T12:10:48Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 321 | 61| 
+| 20230712T12:08:51Z | My Exploit | https://github.com/capture0x/My-Exploits | 2 | 0| 
 | 20230712T12:02:26Z | ;) | https://github.com/Tropxzz/REE---Roblox-Exploiting-Experience | 0 | 0| 
 | 20230712T11:26:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5315 | 745| 
-| 20230712T10:51:31Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 320 | 61| 
 | 20230712T10:39:09Z | Null | https://github.com/NeXTLinux/W3Exploits | 0 | 0| 
 | 20230712T09:56:14Z |  Smart contract vulnerabilities refer to weaknesses or flaws in the design, implementation, or execution of smart contracts that can be exploited by attackers. These vulnerabilities can lead to unintended consequences, financial losses, or security breaches within the blockchain ecosystem | https://github.com/Maheswaranx15/Smart-contract_vulnerabilities | 0 | 0| 
 | 20230712T09:52:40Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 4 | 0| 
 | 20230712T09:49:45Z | Old visual studio sln exploit | https://github.com/2tapzero/visualstudio-exploit | 0 | 0| 
 | 20230712T09:46:01Z | FiveM anti trigger event exploit | https://github.com/FutureSeekerTech/fs-guard | 0 | 0| 
 | 20230712T09:41:28Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
-| 20230712T09:39:02Z | Null | https://github.com/ngan247/NT521-Secure-Programming-And-Exploiting-Vulnerabilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
