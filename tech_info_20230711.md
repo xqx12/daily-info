@@ -36,7 +36,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
-| 20230711T20:14:04Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 6 | 0| 
 | 20230711T13:56:56Z | Unofficial snap for KLEE | https://github.com/marco6/klee | 0 | 0| 
 | 20230711T03:59:46Z | Null | https://github.com/kleenkanteen/kleenkanteen | 0 | 0| 
 
