@@ -54,11 +54,11 @@
 | 20230711T21:05:15Z | The Power of Secure Coding Practices: Safeguarding MongoDB Against Exploitation | https://github.com/kiliczsh/nosql-injection | 0 | 0| 
 | 20230711T20:57:15Z | Python script that generates pfs payloads to exploit CVE-2022-4510 | https://github.com/Kalagious/BadPfs | 0 | 1| 
 | 20230711T20:18:34Z | A repository of exploits that I have discovered. These are disclosed responsibly and vendors have been contacted. In any instance where it works against the live version, the vendor has not responded to my emails. | https://github.com/Oracle-Security/Published-Exploits | 2 | 0| 
+| 20230711T19:53:49Z | Here are a collection of exploits of MPA Launcher made by <{GH[*]$t}> ! | https://github.com/igi-ghost/MPA-Launcher-Exploits | 0 | 0| 
 | 20230711T14:17:32Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 11 | 4| 
 | 20230711T13:12:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 76 | 28| 
 | 20230711T12:44:07Z | anti exploit and anti bhop | https://github.com/NoverTOW/anticheat | 0 | 0| 
 | 20230711T12:33:41Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 9 | 1| 
-| 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
 
 
 # backdoor on Github 推荐
