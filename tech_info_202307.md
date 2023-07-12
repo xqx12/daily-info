@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T01:04:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 36 | 6| 
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230712T00:00:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10387 | 1618| 
 | 20230711T23:20:35Z | Exploit scripts made by me | https://github.com/offensivedroid/THM-Scripts | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230711T20:18:34Z | A repository of exploits that I have discovered. These are disclosed responsibly and vendors have been contacted. In any instance where it works against the live version, the vendor has not responded to my emails. | https://github.com/Oracle-Security/Published-Exploits | 2 | 0| 
 | 20230711T19:53:49Z | Here are a collection of exploits of MPA Launcher made by <{GH[*]$t}> ! | https://github.com/igi-ghost/MPA-Launcher-Exploits | 0 | 0| 
 | 20230711T14:17:32Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 11 | 4| 
-| 20230711T13:12:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 76 | 28| 
 
 
 # backdoor on Github 推荐
