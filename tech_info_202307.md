@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230712 | 全球高级持续性威胁（APT）2023年中报告 | https://ti.qianxin.com/uploads/2023/07/12/%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%892023%E5%B9%B4%E4%B8%AD%E6%8A%A5%E5%91%8A.pdf| 
+| 20230712 | “星链”计划在俄乌军事冲突中的应用与启示 | https://mp.weixin.qq.com/s/yWmHIxwq2FRblRZttGl14g| 
+| 20230712 | 5G 网络安全发展与创新安全体系及技术探索 | https://mp.weixin.qq.com/s/q08vjU-VLU_eBP5TkkIJPQ| 
 | 20230711 | CodeQL与AST之间联系 | https://www.sec-in.com/article/1573| 
 | 20230711 | BurpAuthTest 越权检测插件 | https://lightless.me/archives/burp-auth-test.html| 
 | 20230711 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 
@@ -18,30 +21,27 @@
 | 20230710 | SecWiki周刊（第488期) | https://www.sec-wiki.com/weekly/488| 
 | 20230710 | 关于加强“自媒体”管理的通知 | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w| 
 | 20230709 | 探索预训练语言模型在事件抽取与生成方面的应用 | https://mp.weixin.qq.com/s/kybMSwSuFWV7Fcyp4YEs6Q| 
-| 20230708 | 基于覆盖率的Fuzzer和AFL | https://mp.weixin.qq.com/s/Xe8GL3pG7Bjmk5Hv8esLMw| 
-| 20230708 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ| 
-| 20230708 | ART环境下dex加载流程分析及frida dump dex方案 | https://mp.weixin.qq.com/s/WI3WYR_ABxorBoNACpju3A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230712T10:22:36Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
+| 20230712T09:52:09Z | CVE-2022-3904 | CVE-2022-3904 MonsterInsights < 8.9.1 - Stored Cross-Site Scripting via Google Analytics | https://github.com/RandomRobbieBF/CVE-2022-3904 | | 
+| 20230712T07:30:12Z | CVE-2023-35744 | Null | https://github.com/ADSSA-IT/CVE-2023-35744 | | 
+| 20230712T07:15:07Z | CVE-2023-28121 | CVE-2023-28121 - WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | https://github.com/rio128128/Mass-CVE-2023-28121-kdoec | | 
+| 20230712T03:39:51Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
+| 20230712T03:00:15Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
 | 20230712T01:42:04Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230712T00:29:23Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230711T23:12:41Z | CVE-2022-30136 | Windows Network File System Remote exploit for CVE-2022-30136 | https://github.com/fortra/CVE-2022-30136 | | 
 | 20230711T15:15:34Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
 | 20230711T14:26:59Z | CVE-2022-24992 | CVE-2022–24992 | https://github.com/n0lsecurity/CVE-2022-24992 | | 
-| 20230711T13:44:19Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
-| 20230711T13:29:56Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/hheeyywweellccoommee/CVE-2023-3460-obgen | | 
-| 20230711T10:18:03Z | CVE-2023-27372 | CVE-2023-27372-SPIP-CMS-Bypass | https://github.com/izzz0/CVE-2023-27372-POC | | 
-| 20230711T10:14:14Z | CVE-2022-45354 | Download Monitor <= 4.7.60 - Sensitive Information Exposure via REST API  | https://github.com/RandomRobbieBF/CVE-2022-45354 | | 
-| 20230711T09:29:19Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230712T00:24:19Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 7 | 0| 
+| 20230712T08:36:50Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 10 | 0| 
 | 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
 | 20230711T13:56:56Z | Unofficial snap for KLEE | https://github.com/marco6/klee | 0 | 0| 
 | 20230711T03:59:46Z | Null | https://github.com/kleenkanteen/kleenkanteen | 0 | 0| 
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T11:18:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1454 | 202| 
+| 20230712T11:06:15Z | Null | https://github.com/AparnaJanardhanan/fuzzy-journey | 0 | 0| 
+| 20230712T10:39:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8797 | 1937| 
+| 20230712T10:34:31Z | AFL fuzzing | https://github.com/Navaneethanavi/Fuzzing | 0 | 0| 
+| 20230712T10:30:37Z | Null | https://github.com/Dzikronb/Fuzzy | 0 | 0| 
+| 20230712T10:12:07Z | Null | https://github.com/openyourmouthh/fuzzy-octo-doodle | 0 | 0| 
+| 20230712T09:42:41Z | Null | https://github.com/eriksonsantos/fuzzy-control | 0 | 0| 
 | 20230712T01:54:34Z | This public repository contains data and analysis scripts that statistically extrapolate the coverage rate of greybox fuzzing. | https://github.com/dliyanage/extrapolate-greybox-fuzz | 0 | 0| 
-| 20230712T01:44:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8794 | 1937| 
 | 20230711T23:50:18Z | Null | https://github.com/lchien1/Fuzzy-Integral-Covid-Detection | 0 | 0| 
 | 20230711T22:30:45Z | dumb crazy website | https://github.com/coll56/fuzzy-octo-doodle | 0 | 0| 
-| 20230711T20:48:33Z | Null | https://github.com/MattMendez/FuzzyFish-TestJava2020 | 0 | 0| 
-| 20230711T14:31:50Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2193 | 251| 
-| 20230711T14:20:32Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 153 | 20| 
-| 20230711T13:59:18Z | Null | https://github.com/google/fuzztest | 334 | 21| 
-| 20230711T13:49:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3720 | 438| 
-| 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
 
 
 
