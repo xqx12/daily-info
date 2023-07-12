@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T01:54:34Z | This public repository contains data and analysis scripts that statistically extrapolate the coverage rate of greybox fuzzing. | https://github.com/dliyanage/extrapolate-greybox-fuzz | 0 | 0| 
 | 20230712T01:44:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8794 | 1937| 
 | 20230711T23:50:18Z | Null | https://github.com/lchien1/Fuzzy-Integral-Covid-Detection | 0 | 0| 
 | 20230711T22:30:45Z | dumb crazy website | https://github.com/coll56/fuzzy-octo-doodle | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230711T13:59:18Z | Null | https://github.com/google/fuzztest | 334 | 21| 
 | 20230711T13:49:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3720 | 438| 
 | 20230711T12:33:14Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 83 | 7| 
-| 20230711T12:07:04Z | This public repository contains data and analysis scripts that statistically extrapolate the coverage rate of greybox fuzzing. | https://github.com/dliyanage/extrapolate-greybox-fuzz | 0 | 0| 
 
 
 
