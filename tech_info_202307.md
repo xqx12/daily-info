@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230713T01:14:58Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 313 | 40| 
+| 20230713T01:30:45Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 314 | 40| 
 | 20230712T23:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8801 | 1937| 
 | 20230712T23:33:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5035 | 526| 
 | 20230712T23:21:49Z | Null | https://github.com/muskan09/FuzzySprite | 0 | 0| 
