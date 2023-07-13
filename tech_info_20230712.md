@@ -51,12 +51,12 @@
 | 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
 | 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
 | 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
+| 20230712T20:24:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 204 | 11| 
 | 20230712T19:45:22Z | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | 0 | 0| 
 | 20230712T16:34:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14011 | 2389| 
 | 20230712T12:13:52Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
 | 20230712T12:10:48Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 321 | 61| 
 | 20230712T12:08:51Z | My Exploit | https://github.com/capture0x/My-Exploits | 2 | 0| 
-| 20230712T12:02:26Z | ;) | https://github.com/Tropxzz/REE---Roblox-Exploiting-Experience | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,9 +97,9 @@
 | 20230712T21:11:41Z | Null | https://github.com/victorlrpf/Fuzzy | 0 | 0| 
 | 20230712T20:47:13Z | Solve fuzzy sets with the Mandani method with graphs in matplotlib | https://github.com/Thealf154/fuzzy_sets_mandani | 0 | 0| 
 | 20230712T20:23:23Z | Hard and Soft (Fuzzy) clustering analysis of Claustrophobia questionnaire data | https://github.com/AmirTabatabaei-git/FuzzyCluster-Claustrophobia-Questionnaire | 0 | 0| 
-| 20230712T16:38:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3727 | 439| 
 | 20230712T12:56:09Z | web search files and folders in any web | https://github.com/aquilino/fuzzyrs | 0 | 0| 
 | 20230712T12:44:48Z | Null | https://github.com/Dzikronb/Fuzzy | 0 | 0| 
+| 20230712T12:18:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4751 | 1143| 
 
 
 
