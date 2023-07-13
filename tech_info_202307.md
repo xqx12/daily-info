@@ -97,8 +97,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230712T21:33:09Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 414 | 28| 
-| 20230712T16:26:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3491 | 482| 
+| 20230713T11:33:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3491 | 482| 
+| 20230713T09:31:00Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 415 | 28| 
 | 20230711T22:14:00Z | A HL Symbolic Execution Engine Prototype for Reachability | https://github.com/EthanJamesLew/SEE-Reach-py | 0 | 0| 
 | 20230711T08:30:42Z | GDart: Dynamic Symbolic Execution for the JVM | https://github.com/tudo-aqua/gdart | 0 | 0| 
 | 20230711T06:55:32Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
