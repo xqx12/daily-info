@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:15:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-my | 0 | 0| 
+| 20230713T01:14:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-my | 0 | 0| 
 | 20230713T01:13:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-my | 0 | 0| 
 | 20230713T00:52:49Z | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | 3 | 0| 
 | 20230713T00:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5177 | 1011| 
@@ -74,8 +76,6 @@
 | 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
 | 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
 | 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
-| 20230712T19:45:22Z | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | 0 | 0| 
-| 20230712T17:07:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5139 | 649| 
 
 
 # backdoor on Github 推荐
@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230713T00:59:32Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 312 | 40| 
+| 20230713T01:14:58Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 313 | 40| 
 | 20230712T23:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8801 | 1937| 
 | 20230712T23:33:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5035 | 526| 
 | 20230712T23:21:49Z | Null | https://github.com/muskan09/FuzzySprite | 0 | 0| 
