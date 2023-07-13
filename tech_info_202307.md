@@ -133,7 +133,7 @@
 | 20230713T09:41:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 943 | 225| 
 | 20230713T08:58:14Z | Null | https://github.com/AxiaoJJ/fuzzbeach | 0 | 0| 
 | 20230713T08:54:41Z | Null | https://github.com/asadrosyadi/Arduino-API-Fuzzy-Bayes | 0 | 0| 
-| 20230713T05:45:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1455 | 203| 
+| 20230713T06:29:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4752 | 1145| 
 
 
 
