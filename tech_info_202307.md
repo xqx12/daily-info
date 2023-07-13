@@ -124,13 +124,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T12:46:04Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 317 | 40| 
 | 20230713T12:31:00Z | Null | https://github.com/hfakoor222/Fuzzy_Search_Multi_Vendor | 0 | 0| 
 | 20230713T11:51:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3804 | 771| 
 | 20230713T11:39:22Z | Null | https://github.com/beemergrom/fuzzy-octo-disco | 0 | 0| 
 | 20230713T11:07:18Z | Null | https://github.com/r3bb1t/jFuzz | 0 | 0| 
 | 20230713T10:28:20Z | Null | https://github.com/theolebever/FTP_fuzzer | 0 | 0| 
 | 20230713T09:41:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 943 | 225| 
-| 20230713T09:14:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 316 | 40| 
 | 20230713T08:58:14Z | Null | https://github.com/AxiaoJJ/fuzzbeach | 0 | 0| 
 | 20230713T08:54:41Z | Null | https://github.com/asadrosyadi/Arduino-API-Fuzzy-Bayes | 0 | 0| 
 | 20230713T05:45:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1455 | 203| 
