@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T11:56:37Z | Program searches routers and switches for fuzzy matches. User inputs  $  and  (())  characters in a notepad file, along with bare bones configuration templates and the program does fuzzy searching.  $ is equal to search anything non-greedy,  and (())  is equal to any  characters no spaces. This gives the user absolute control in defining templates. | https://github.com/hfakoor222/Fuzzy_Search_Multi_Vendor | 0 | 0| 
+| 20230713T11:51:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3804 | 771| 
+| 20230713T11:39:22Z | Null | https://github.com/beemergrom/fuzzy-octo-disco | 0 | 0| 
+| 20230713T11:07:18Z | Null | https://github.com/r3bb1t/jFuzz | 0 | 0| 
+| 20230713T10:28:20Z | Null | https://github.com/theolebever/FTP_fuzzer | 0 | 0| 
+| 20230713T09:41:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 943 | 225| 
+| 20230713T09:14:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 316 | 40| 
+| 20230713T08:58:14Z | Null | https://github.com/AxiaoJJ/fuzzbeach | 0 | 0| 
 | 20230713T01:54:41Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3728 | 439| 
 | 20230713T01:52:15Z | Null | https://github.com/ibiene-ds/string-matching-fuzzy | 0 | 0| 
-| 20230713T01:46:35Z | Null | https://github.com/Mem2019/FuzzerExtractor | 0 | 0| 
-| 20230713T01:30:45Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 314 | 40| 
-| 20230712T23:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8801 | 1937| 
-| 20230712T23:33:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5035 | 526| 
-| 20230712T23:21:49Z | Null | https://github.com/muskan09/FuzzySprite | 0 | 0| 
-| 20230712T22:09:04Z | Null | https://github.com/luca1337/fuzzy-renderer | 2 | 0| 
-| 20230712T21:11:41Z | Null | https://github.com/victorlrpf/Fuzzy | 0 | 0| 
-| 20230712T20:47:13Z | Solve fuzzy sets with the Mandani method with graphs in matplotlib | https://github.com/Thealf154/fuzzy_sets_mandani | 0 | 0| 
 
 
 
