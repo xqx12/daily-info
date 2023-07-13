@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:39:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jHsOF-exploit-dare | 0 | 0| 
 | 20230713T01:21:14Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS8609016586/Aimbot-V2--3882- | 2 | 0| 
 | 20230713T01:19:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5140 | 649| 
 | 20230713T01:15:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-my | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230713T00:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5177 | 1011| 
 | 20230713T00:33:57Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS9963899987/Aimbot-V2--3882- | 1 | 0| 
 | 20230712T22:24:17Z | Takes advantage of https://www.bitrefill.com time-delays in order to recieve both product and refund using bitcoin. | https://github.com/ToxicCrerets/-Bitrefill-Time-Exploit | 0 | 0| 
-| 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
 
 
 # backdoor on Github 推荐
