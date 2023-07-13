@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T12:30:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jIX2h-withdraw-exploit | 0 | 0| 
 | 20230713T10:49:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5318 | 745| 
 | 20230713T09:29:25Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10392 | 1619| 
 | 20230713T09:19:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5742 | 766| 
@@ -55,7 +56,6 @@
 | 20230713T01:39:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jHsOF-exploit-dare | 0 | 0| 
 | 20230713T01:26:01Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3917 | 766| 
 | 20230713T01:21:14Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS8609016586/Aimbot-V2--3882- | 2 | 0| 
-| 20230713T01:19:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5140 | 649| 
 
 
 # backdoor on Github 推荐
