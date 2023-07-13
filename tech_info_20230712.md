@@ -52,11 +52,11 @@
 | 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
 | 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
 | 20230712T19:45:22Z | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | 0 | 0| 
+| 20230712T17:07:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5139 | 649| 
 | 20230712T16:34:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14011 | 2389| 
 | 20230712T12:13:52Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
 | 20230712T12:10:48Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 321 | 61| 
 | 20230712T12:08:51Z | My Exploit | https://github.com/capture0x/My-Exploits | 2 | 0| 
-| 20230712T12:02:26Z | ;) | https://github.com/Tropxzz/REE---Roblox-Exploiting-Experience | 0 | 0| 
 
 
 # backdoor on Github 推荐
