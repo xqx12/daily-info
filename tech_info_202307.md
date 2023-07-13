@@ -26,21 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230712T10:22:36Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
-| 20230712T09:52:09Z | CVE-2022-3904 | CVE-2022-3904 MonsterInsights < 8.9.1 - Stored Cross-Site Scripting via Google Analytics | https://github.com/RandomRobbieBF/CVE-2022-3904 | | 
-| 20230712T07:30:12Z | CVE-2023-35744 | Null | https://github.com/ADSSA-IT/CVE-2023-35744 | | 
-| 20230712T07:15:07Z | CVE-2023-28121 | CVE-2023-28121 - WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | https://github.com/rio128128/Mass-CVE-2023-28121-kdoec | | 
-| 20230712T03:39:51Z | CVE-2022-22057 | Null | https://github.com/diabl0w/CVE-2022-22057_SM-F926U | | 
-| 20230712T03:00:15Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
-| 20230712T01:42:04Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230711T23:12:41Z | CVE-2022-30136 | Windows Network File System Remote exploit for CVE-2022-30136 | https://github.com/fortra/CVE-2022-30136 | | 
-| 20230711T15:15:34Z | CVE-2023-28252 | Null | https://github.com/fortra/CVE-2023-28252 | | 
-| 20230711T14:26:59Z | CVE-2022-24992 | CVE-2022–24992 | https://github.com/n0lsecurity/CVE-2022-24992 | | 
+| 20230712T22:16:28Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
+| 20230712T21:11:01Z | CVE-2023-24489 | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | https://github.com/adhikara13/CVE-2023-24489-ShareFile | | 
+| 20230712T20:57:38Z | CVE-2022-3904 | CVE-2022-3904 MonsterInsights < 8.9.1 - Stored Cross-Site Scripting via Google Analytics | https://github.com/RandomRobbieBF/CVE-2022-3904 | | 
+| 20230712T19:57:04Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
+| 20230712T19:45:22Z | CVE-2023-3460 | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | | 
+| 20230712T19:31:13Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
+| 20230712T17:30:25Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
+| 20230712T15:53:34Z | CVE-2022-1388 | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study | | 
+| 20230712T15:21:26Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
+| 20230712T14:56:27Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T19:45:05Z | Null | https://github.com/taro127/kys-klee-bot | 0 | 0| 
+| 20230712T14:57:07Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
 | 20230712T08:36:50Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 10 | 0| 
 | 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
 | 20230711T13:56:56Z | Unofficial snap for KLEE | https://github.com/marco6/klee | 0 | 0| 
@@ -49,8 +51,6 @@
 | 20230710T20:24:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
 | 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
 | 20230707T00:20:21Z | Null | https://github.com/igloo1505/kleenBrake_Ionic | 0 | 0| 
-| 20230706T14:02:07Z | 小恐龙之——可莉快跑！ | https://github.com/znc15/Kleerun | 0 | 0| 
-| 20230706T11:59:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 12962 | 405| 
 
 
 # s2e on Github 推荐
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T22:24:17Z | Takes advantage of https://www.bitrefill.com time-delays in order to recieve both product and refund using bitcoin. | https://github.com/ToxicCrerets/-Bitrefill-Time-Exploit | 0 | 0| 
+| 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
+| 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
+| 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
+| 20230712T19:45:22Z | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | 0 | 0| 
+| 20230712T16:34:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14011 | 2389| 
 | 20230712T12:13:52Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
 | 20230712T12:10:48Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 321 | 61| 
 | 20230712T12:08:51Z | My Exploit | https://github.com/capture0x/My-Exploits | 2 | 0| 
 | 20230712T12:02:26Z | ;) | https://github.com/Tropxzz/REE---Roblox-Exploiting-Experience | 0 | 0| 
-| 20230712T11:26:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5315 | 745| 
-| 20230712T10:39:09Z | Null | https://github.com/NeXTLinux/W3Exploits | 0 | 0| 
-| 20230712T09:56:14Z |  Smart contract vulnerabilities refer to weaknesses or flaws in the design, implementation, or execution of smart contracts that can be exploited by attackers. These vulnerabilities can lead to unintended consequences, financial losses, or security breaches within the blockchain ecosystem | https://github.com/Maheswaranx15/Smart-contract_vulnerabilities | 0 | 0| 
-| 20230712T09:52:40Z | Some CME modules I created to help with AD enumeration & exploitation | https://github.com/Cyb3rC3lt/CrackMapExec-Modules | 4 | 0| 
-| 20230712T09:49:45Z | Old visual studio sln exploit | https://github.com/2tapzero/visualstudio-exploit | 0 | 0| 
-| 20230712T09:46:01Z | FiveM anti trigger event exploit | https://github.com/FutureSeekerTech/fs-guard | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T21:25:19Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 83 | 9| 
+| 20230712T19:17:04Z | A simple http backdoor written in powershell | https://github.com/silly-lily/http-backdoor | 0 | 0| 
+| 20230712T18:28:25Z | Este script genera un backdoor php y dos archivos el uno es facebook.sh que es el script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok en su termux. | https://github.com/MRX90902WX/TroyaPHP | 1 | 0| 
+| 20230712T17:00:07Z | Velt Backdoor Generator | https://github.com/topsideduck/Velt | 1 | 0| 
+| 20230712T15:02:04Z | Simple to complex bind shell(, written in different languages). | https://github.com/ringwormGO-organization/doorfact | 3 | 0| 
+| 20230712T14:22:34Z | This is a free drainer without backdoors (i only get 10% cut of your hits) Its the best option for you start earning lots of money! The more you spam the more you win!! | https://github.com/SkyDrainers/Drainer-Free | 1 | 0| 
 | 20230712T08:54:05Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230711T19:26:11Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 | 20230711T17:47:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 176 | 30| 
-| 20230711T16:06:28Z | This is the official implementation of the paper %Differential Analysis of Triggers and Benign Features for Black-Box DNN Backdoor Detection%. | https://github.com/fu1001hao/Five-Metrics-Detector | 0 | 0| 
-| 20230711T14:26:35Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 82 | 9| 
-| 20230711T14:17:43Z | windows ssh backdoor requires local admin | https://github.com/mr-r3b00t/windows-ssh-backdoor | 1 | 0| 
-| 20230711T13:31:52Z | Forward shell from vsftpd  | https://github.com/ak4l3r3/vsftpd-2.3.4-backdoored | 0 | 0| 
-| 20230711T12:37:55Z | Anti Backdoor Union | https://github.com/BingYanchi/WatchDog | 0 | 0| 
-| 20230711T11:00:19Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 166 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230712T23:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8801 | 1937| 
+| 20230712T23:33:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5035 | 526| 
+| 20230712T23:21:49Z | Null | https://github.com/muskan09/FuzzySprite | 0 | 0| 
+| 20230712T22:09:04Z | Null | https://github.com/luca1337/fuzzy-renderer | 2 | 0| 
+| 20230712T21:11:41Z | Null | https://github.com/victorlrpf/Fuzzy | 0 | 0| 
+| 20230712T20:47:13Z | Solve fuzzy sets with the Mandani method with graphs in matplotlib | https://github.com/Thealf154/fuzzy_sets_mandani | 0 | 0| 
+| 20230712T20:23:23Z | Hard and Soft (Fuzzy) clustering analysis of Claustrophobia questionnaire data | https://github.com/AmirTabatabaei-git/FuzzyCluster-Claustrophobia-Questionnaire | 0 | 0| 
 | 20230712T12:56:09Z | web search files and folders in any web | https://github.com/aquilino/fuzzyrs | 0 | 0| 
 | 20230712T12:44:48Z | Null | https://github.com/Dzikronb/Fuzzy | 0 | 0| 
 | 20230712T12:18:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4751 | 1143| 
-| 20230712T11:18:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1454 | 202| 
-| 20230712T11:06:15Z | Null | https://github.com/AparnaJanardhanan/fuzzy-journey | 0 | 0| 
-| 20230712T10:39:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8797 | 1937| 
-| 20230712T10:34:31Z | AFL fuzzing | https://github.com/Navaneethanavi/Fuzzing | 0 | 0| 
-| 20230712T10:12:07Z | Null | https://github.com/openyourmouthh/fuzzy-octo-doodle | 0 | 0| 
-| 20230712T09:42:41Z | Null | https://github.com/eriksonsantos/fuzzy-control | 0 | 0| 
-| 20230712T01:54:34Z | This public repository contains data and analysis scripts that statistically extrapolate the coverage rate of greybox fuzzing. | https://github.com/dliyanage/extrapolate-greybox-fuzz | 0 | 0| 
 
 
 
