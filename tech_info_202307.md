@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T00:35:29Z | The best backdoor scanner there is. | https://github.com/ATLS9963899987/backdoor.exe--8974- | 2 | 0| 
 | 20230712T21:25:19Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 83 | 9| 
 | 20230712T19:17:04Z | A simple http backdoor written in powershell | https://github.com/silly-lily/http-backdoor | 0 | 0| 
 | 20230712T18:28:25Z | Este script genera un backdoor php y dos archivos el uno es facebook.sh que es el script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok en su termux. | https://github.com/MRX90902WX/TroyaPHP | 1 | 0| 
@@ -90,7 +91,6 @@
 | 20230712T08:54:05Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
 | 20230711T19:26:11Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
-| 20230711T17:47:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 176 | 30| 
 
 
 # symbolic execution on Github 推荐
