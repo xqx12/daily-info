@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:16:37Z | CVE-2023-31704 | Null | https://github.com/d34dun1c02n/CVE-2023-31704 | | 
 | 20230713T01:12:36Z | CVE-2023-31705 | Reflected XSS | https://github.com/d34dun1c02n/CVE-2023-31705 | | 
 | 20230712T22:16:28Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230712T21:11:01Z | CVE-2023-24489 | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | https://github.com/adhikara13/CVE-2023-24489-ShareFile | | 
@@ -35,7 +36,6 @@
 | 20230712T19:31:13Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
 | 20230712T17:30:25Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
 | 20230712T15:53:34Z | CVE-2022-1388 | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study | | 
-| 20230712T15:21:26Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
 
 
 # klee on Github 推荐
