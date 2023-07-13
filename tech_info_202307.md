@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T00:33:57Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS9963899987/Aimbot-V2--3882- | 1 | 0| 
 | 20230712T22:24:17Z | Takes advantage of https://www.bitrefill.com time-delays in order to recieve both product and refund using bitcoin. | https://github.com/ToxicCrerets/-Bitrefill-Time-Exploit | 0 | 0| 
 | 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
 | 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
@@ -75,7 +76,6 @@
 | 20230712T16:34:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14011 | 2389| 
 | 20230712T12:13:52Z | Simple tool to exploit file races. | https://github.com/tibotix/filerace | 0 | 0| 
 | 20230712T12:10:48Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 321 | 61| 
-| 20230712T12:08:51Z | My Exploit | https://github.com/capture0x/My-Exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
