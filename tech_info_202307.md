@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:12:36Z | CVE-2023-31705 | Reflected XSS | https://github.com/d34dun1c02n/CVE-2023-31705 | | 
 | 20230712T22:16:28Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230712T21:11:01Z | CVE-2023-24489 | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | https://github.com/adhikara13/CVE-2023-24489-ShareFile | | 
 | 20230712T20:57:38Z | CVE-2022-3904 | CVE-2022-3904 MonsterInsights < 8.9.1 - Stored Cross-Site Scripting via Google Analytics | https://github.com/RandomRobbieBF/CVE-2022-3904 | | 
@@ -35,7 +36,6 @@
 | 20230712T17:30:25Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
 | 20230712T15:53:34Z | CVE-2022-1388 | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study | | 
 | 20230712T15:21:26Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
-| 20230712T14:56:27Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
 
 
 # klee on Github 推荐
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:13:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-my | 0 | 0| 
 | 20230713T00:52:49Z | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | 3 | 0| 
 | 20230713T00:51:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5177 | 1011| 
 | 20230713T00:33:57Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS9963899987/Aimbot-V2--3882- | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
 | 20230712T19:45:22Z | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | 0 | 0| 
 | 20230712T17:07:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5139 | 649| 
-| 20230712T16:34:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14011 | 2389| 
 
 
 # backdoor on Github 推荐
