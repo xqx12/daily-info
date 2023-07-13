@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:19:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5140 | 649| 
 | 20230713T01:15:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-my | 0 | 0| 
 | 20230713T01:14:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-my | 0 | 0| 
 | 20230713T01:13:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-my | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230712T22:24:17Z | Takes advantage of https://www.bitrefill.com time-delays in order to recieve both product and refund using bitcoin. | https://github.com/ToxicCrerets/-Bitrefill-Time-Exploit | 0 | 0| 
 | 20230712T21:19:02Z | Null | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | 0 | 0| 
 | 20230712T20:27:53Z | Active testinting framework | https://github.com/farinap5/Venera | 8 | 1| 
-| 20230712T20:25:49Z | A dashboard project made with R and hosted with shinyapps. This is a project carried out as part of my second year of engineering school. It follows a Webscrap project: it was then necessary to sort, exploit and display the data. The goal of my project was to determine the error made by predictions based on the date of prediction. | https://github.com/LucasTexier/Forecast_prediction_dashboard | 0 | 0| 
 
 
 # backdoor on Github 推荐
