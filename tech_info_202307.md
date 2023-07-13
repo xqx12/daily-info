@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230713T01:22:56Z | The best backdoor scanner there is. | https://github.com/ATLS8609016586/backdoor.exe--8974- | 2 | 0| 
 | 20230713T00:35:29Z | The best backdoor scanner there is. | https://github.com/ATLS9963899987/backdoor.exe--8974- | 2 | 0| 
 | 20230712T21:25:19Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 83 | 9| 
 | 20230712T19:17:04Z | A simple http backdoor written in powershell | https://github.com/silly-lily/http-backdoor | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230712T14:22:34Z | This is a free drainer without backdoors (i only get 10% cut of your hits) Its the best option for you start earning lots of money! The more you spam the more you win!! | https://github.com/SkyDrainers/Drainer-Free | 1 | 0| 
 | 20230712T08:54:05Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230712T00:37:38Z | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | 2 | 3| 
-| 20230711T19:26:11Z | possibly intelligent Linux(Debian for now) backdoor generator. mehh who knows | https://github.com/Retr0Kr0dy/MWYM | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
