@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230713T12:10:09Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
 | 20230713T11:42:30Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
 | 20230713T10:35:50Z | CVE-2023-3460 | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | | 
 | 20230713T09:02:37Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
@@ -35,7 +36,6 @@
 | 20230713T01:16:37Z | CVE-2023-31704 | Null | https://github.com/d34dun1c02n/CVE-2023-31704 | | 
 | 20230713T01:12:36Z | CVE-2023-31705 | Reflected XSS | https://github.com/d34dun1c02n/CVE-2023-31705 | | 
 | 20230712T21:11:01Z | CVE-2023-24489 | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | https://github.com/adhikara13/CVE-2023-24489-ShareFile | | 
-| 20230712T20:57:38Z | CVE-2022-3904 | CVE-2022-3904 MonsterInsights < 8.9.1 - Stored Cross-Site Scripting via Google Analytics | https://github.com/RandomRobbieBF/CVE-2022-3904 | | 
 
 
 # klee on Github 推荐
@@ -133,7 +133,7 @@
 | 20230713T09:14:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 316 | 40| 
 | 20230713T08:58:14Z | Null | https://github.com/AxiaoJJ/fuzzbeach | 0 | 0| 
 | 20230713T08:54:41Z | Null | https://github.com/asadrosyadi/Arduino-API-Fuzzy-Bayes | 0 | 0| 
-| 20230713T01:54:41Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3728 | 439| 
+| 20230713T05:45:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1455 | 203| 
 
 
 
