@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230713T12:10:09Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
+| 20230713T12:17:23Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
 | 20230713T11:42:30Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
 | 20230713T10:35:50Z | CVE-2023-3460 | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | | 
 | 20230713T09:02:37Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
