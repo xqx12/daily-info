@@ -132,8 +132,8 @@
 | 20230713T09:41:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 943 | 225| 
 | 20230713T09:14:41Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 316 | 40| 
 | 20230713T08:58:14Z | Null | https://github.com/AxiaoJJ/fuzzbeach | 0 | 0| 
+| 20230713T08:54:41Z | Null | https://github.com/asadrosyadi/Arduino-API-Fuzzy-Bayes | 0 | 0| 
 | 20230713T01:54:41Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3728 | 439| 
-| 20230713T01:52:15Z | Null | https://github.com/ibiene-ds/string-matching-fuzzy | 0 | 0| 
 
 
 
