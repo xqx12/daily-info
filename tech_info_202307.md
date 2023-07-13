@@ -130,9 +130,9 @@
 | 20230712T21:11:41Z | Null | https://github.com/victorlrpf/Fuzzy | 0 | 0| 
 | 20230712T20:47:13Z | Solve fuzzy sets with the Mandani method with graphs in matplotlib | https://github.com/Thealf154/fuzzy_sets_mandani | 0 | 0| 
 | 20230712T20:23:23Z | Hard and Soft (Fuzzy) clustering analysis of Claustrophobia questionnaire data | https://github.com/AmirTabatabaei-git/FuzzyCluster-Claustrophobia-Questionnaire | 0 | 0| 
+| 20230712T16:38:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3727 | 439| 
 | 20230712T12:56:09Z | web search files and folders in any web | https://github.com/aquilino/fuzzyrs | 0 | 0| 
 | 20230712T12:44:48Z | Null | https://github.com/Dzikronb/Fuzzy | 0 | 0| 
-| 20230712T12:18:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4751 | 1143| 
 
 
 
