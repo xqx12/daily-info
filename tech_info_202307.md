@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T01:35:41Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS4971355824/Aimbot-V2--3882- | 1 | 0| 
 | 20230714T01:29:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 677 | 175| 
 | 20230714T00:38:48Z | Very very long SKSKSKS | https://github.com/WhoAmICode613/Roblox-Exploiting-advanced-Guide | 0 | 0| 
 | 20230714T00:05:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5706 | 660| 
@@ -76,7 +77,6 @@
 | 20230713T19:20:43Z | Null | https://github.com/aya-bh/mini-projet-systeme-exploitation | 0 | 0| 
 | 20230713T15:47:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5181 | 1012| 
 | 20230713T15:04:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5145 | 650| 
-| 20230713T12:30:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jIX2h-withdraw-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
