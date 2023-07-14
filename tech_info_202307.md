@@ -67,6 +67,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T01:46:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zs | 0 | 0| 
+| 20230714T01:45:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zs | 0 | 0| 
+| 20230714T01:44:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zs | 0 | 0| 
 | 20230714T01:35:41Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS4971355824/Aimbot-V2--3882- | 1 | 0| 
 | 20230714T01:29:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 677 | 175| 
 | 20230714T00:38:48Z | Very very long SKSKSKS | https://github.com/WhoAmICode613/Roblox-Exploiting-advanced-Guide | 0 | 0| 
@@ -74,9 +77,6 @@
 | 20230714T00:05:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5745 | 766| 
 | 20230713T22:47:35Z | This Ruby tool is a valuable aid in the post-exploitation phase in Linux environments. It searches for files with permissions set to 777, SUID, or execution where the owner is root. These files are crucial for privilege escalation and gaining access as the superuser (root) in the compromised system. | https://github.com/Campero727/FilePermissions | 0 | 0| 
 | 20230713T19:41:52Z | The Frida Scripts Fetcher tool helps you search and extract all scripts based on the provided search keyword. | https://github.com/darklotuskdb/frida-scripts-fetcher-exploiter | 0 | 0| 
-| 20230713T19:20:43Z | Null | https://github.com/aya-bh/mini-projet-systeme-exploitation | 0 | 0| 
-| 20230713T15:47:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5181 | 1012| 
-| 20230713T15:04:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5145 | 650| 
 
 
 # backdoor on Github 推荐
