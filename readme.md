@@ -55,11 +55,11 @@
 | 20230713T19:20:43Z | Null | https://github.com/aya-bh/mini-projet-systeme-exploitation | 0 | 0| 
 | 20230713T15:47:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5181 | 1012| 
 | 20230713T15:04:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5145 | 650| 
-| 20230713T14:10:16Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5705 | 660| 
 | 20230713T12:30:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jIX2h-withdraw-exploit | 0 | 0| 
 | 20230713T10:49:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5318 | 745| 
 | 20230713T09:29:25Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10392 | 1619| 
 | 20230713T09:27:41Z | Blazing fast, advanced Padding Oracle exploit | https://github.com/glebarez/padre | 165 | 18| 
+| 20230713T09:18:28Z | Null | https://github.com/natrya/binary_exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
