@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T00:23:17Z | Null | https://github.com/Atreuz/klee-assistant-with-GUI | 0 | 0| 
+| 20230714T00:33:31Z | Null | https://github.com/Atreuz/klee-assistant-with-GUI | 0 | 0| 
 | 20230713T16:52:12Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
 | 20230713T14:23:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2277 | 629| 
 | 20230713T07:08:55Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 11 | 0| 
@@ -131,9 +131,9 @@
 | 20230713T22:16:14Z | Program searches routers and switches for fuzzy matches. User inputs control characters in a notepad file, along with bare bones configuration templates, the program does fuzzy searching.  | https://github.com/hfakoor222/Fuzzy_Search_Multi_Vendor | 0 | 0| 
 | 20230713T21:11:24Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
 | 20230713T19:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8804 | 1938| 
+| 20230713T16:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4755 | 1146| 
 | 20230713T16:28:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1456 | 203| 
 | 20230713T11:51:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3804 | 771| 
-| 20230713T11:39:22Z | Null | https://github.com/beemergrom/fuzzy-octo-disco | 0 | 0| 
 
 
 

@@ -99,9 +99,9 @@
 | 20230713T22:16:14Z | Program searches routers and switches for fuzzy matches. User inputs control characters in a notepad file, along with bare bones configuration templates, the program does fuzzy searching.  | https://github.com/hfakoor222/Fuzzy_Search_Multi_Vendor | 0 | 0| 
 | 20230713T21:11:24Z | Null | https://github.com/Vasiliyvasi/fuzzy-tribble.github-io | 0 | 0| 
 | 20230713T19:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8804 | 1938| 
+| 20230713T16:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4755 | 1146| 
 | 20230713T16:28:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1456 | 203| 
 | 20230713T11:51:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3804 | 771| 
-| 20230713T11:39:22Z | Null | https://github.com/beemergrom/fuzzy-octo-disco | 0 | 0| 
 
 
 
