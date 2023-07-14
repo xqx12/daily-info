@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T12:25:32Z | Null | https://github.com/Hllzbeverly/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 0 | 0| 
+| 20230714T12:33:17Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
+| 20230714T12:27:22Z | This Repository Gonna Show You A Simple Example Of An Anti-Speed Hack System For Roblox Only As Example, Because It Can Be Easily Bypassed Using HookFunction In Exploits That Have Custom Functions. | https://github.com/FrxRius/Anti-Speed-Hack-System-Roblox | 0 | 0| 
+| 20230714T12:26:56Z | Null | https://github.com/Hllzbeverly/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T12:22:45Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 0 | 0| 
 | 20230714T12:00:41Z | DoS script that exploits xmlrpc.php in Wordpress websites | https://github.com/isaq22/xmlrpcdos | 0 | 0| 
-| 20230714T11:03:03Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
 | 20230714T10:52:23Z | Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target. | https://github.com/blackhatethicalhacking/Nucleimonst3r | 12 | 3| 
 | 20230714T10:45:27Z | Null | https://github.com/Rrestart156/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T10:41:11Z | Null | https://github.com/k81922453/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 6 | 0| 
 | 20230714T10:09:12Z | This project is demonstration of finding and exploiting common web based vulnerabilities like SQL Injection, XSS, Command Injection, Insecure File Upload and more. This project will also contain creating your own home lab with vulnerabilities to exploit using kali linux. | https://github.com/darkoid/WebVulnerabilities | 0 | 0| 
 | 20230714T09:44:19Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 323 | 61| 
-| 20230714T09:10:32Z | Null | https://github.com/Hanks5972/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
