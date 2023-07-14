@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
 | 20230713 | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ| 
 | 20230713 | 2023年上半年全球网络空间演习概览 | https://mp.weixin.qq.com/s/uTTtUizJfvEzcKTJ4vei8A| 
 | 20230713 | 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA| 
@@ -20,42 +21,42 @@
 | 20230712 | 5G 网络安全发展与创新安全体系及技术探索 | https://mp.weixin.qq.com/s/q08vjU-VLU_eBP5TkkIJPQ| 
 | 20230711 | CodeQL与AST之间联系 | https://www.sec-in.com/article/1573| 
 | 20230711 | BurpAuthTest 越权检测插件 | https://lightless.me/archives/burp-auth-test.html| 
-| 20230711 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
+| 20230714T08:51:14Z | CVE-2023-31852 | Null | https://github.com/CalfCrusher/CVE-2023-31852 | | 
+| 20230714T08:50:45Z | CVE-2023-31851 | Null | https://github.com/CalfCrusher/CVE-2023-31851 | | 
+| 20230714T08:41:53Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
+| 20230714T03:15:58Z | CVE-2023-33592 | CVE-2023-33592批量漏洞利用程序 | https://github.com/Acous7icwav3/CVE-2023-33592 | | 
 | 20230714T00:58:10Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
-| 20230713T23:17:34Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230713T19:11:35Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
 | 20230713T13:28:02Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20230713T12:17:23Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
 | 20230713T11:42:30Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
-| 20230713T10:35:50Z | CVE-2023-3460 | Exploit and scanner for CVE-2023-3460 | https://github.com/diego-tella/CVE-2023-3460 | | 
-| 20230713T08:30:35Z | CVE-2023-36884 | The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty. | https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline | | 
-| 20230713T03:58:02Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
-| 20230713T01:16:37Z | CVE-2023-31704 | Null | https://github.com/d34dun1c02n/CVE-2023-31704 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T08:29:05Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantabile | 0 | 0| 
+| 20230714T08:03:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
 | 20230714T00:33:31Z | Null | https://github.com/Atreuz/klee-assistant-with-GUI | 0 | 0| 
 | 20230713T16:52:12Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
-| 20230713T14:23:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2277 | 629| 
 | 20230713T07:08:55Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 11 | 0| 
 | 20230712T19:45:05Z | Null | https://github.com/taro127/kys-klee-bot | 0 | 0| 
 | 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
 | 20230711T13:56:56Z | Unofficial snap for KLEE | https://github.com/marco6/klee | 0 | 0| 
 | 20230711T03:59:46Z | Null | https://github.com/kleenkanteen/kleenkanteen | 0 | 0| 
 | 20230710T23:42:12Z | Null | https://github.com/Kyungho0511/klee_CompDesignWork | 0 | 0| 
-| 20230707T19:43:09Z | Examples and Programs for Probabilistic Symbolic Execution project. This has been built using KLEE, LLVM, Haskell & python3. | https://github.com/praise106-research/Plinko-KLEE-Clang | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T08:01:07Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 2 | 0| 
 | 20230713T06:49:38Z | Config files for my GitHub profile. | https://github.com/ALI-S2EED/ALI-S2EED | 0 | 0| 
 | 20230709T04:17:26Z | Null | https://github.com/Sandeepgajula/s2ev-serviceprovider--main | 0 | 0| 
 | 20230708T04:39:41Z | Null | https://github.com/Umesh-RaviRaj/UmeshRaviRaj_S2EAC | 0 | 0| 
@@ -67,38 +68,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T01:46:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zs | 0 | 0| 
-| 20230714T01:45:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zs | 0 | 0| 
-| 20230714T01:44:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zs | 0 | 0| 
-| 20230714T01:35:41Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/ATLS4971355824/Aimbot-V2--3882- | 1 | 0| 
-| 20230714T01:29:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 677 | 175| 
-| 20230714T00:38:48Z | Very very long SKSKSKS | https://github.com/WhoAmICode613/Roblox-Exploiting-advanced-Guide | 0 | 0| 
-| 20230714T00:05:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5706 | 660| 
-| 20230714T00:05:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5745 | 766| 
-| 20230713T22:47:35Z | This Ruby tool is a valuable aid in the post-exploitation phase in Linux environments. It searches for files with permissions set to 777, SUID, or execution where the owner is root. These files are crucial for privilege escalation and gaining access as the superuser (root) in the compromised system. | https://github.com/Campero727/FilePermissions | 0 | 0| 
-| 20230713T19:41:52Z | The Frida Scripts Fetcher tool helps you search and extract all scripts based on the provided search keyword. | https://github.com/darklotuskdb/frida-scripts-fetcher-exploiter | 0 | 0| 
+| 20230714T12:00:41Z | DoS script that exploits xmlrpc.php in Wordpress websites | https://github.com/isaq22/xmlrpcdos | 0 | 0| 
+| 20230714T11:03:03Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
+| 20230714T10:52:23Z | Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target. | https://github.com/blackhatethicalhacking/Nucleimonst3r | 12 | 3| 
+| 20230714T10:45:27Z | Null | https://github.com/Rrestart156/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230714T10:41:11Z | Null | https://github.com/k81922453/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 6 | 0| 
+| 20230714T10:09:12Z | This project is demonstration of finding and exploiting common web based vulnerabilities like SQL Injection, XSS, Command Injection, Insecure File Upload and more. This project will also contain creating your own home lab with vulnerabilities to exploit using kali linux. | https://github.com/darkoid/WebVulnerabilities | 0 | 0| 
+| 20230714T09:44:19Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 323 | 61| 
+| 20230714T09:10:32Z | Null | https://github.com/Hanks5972/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230714T08:52:17Z | Null | https://github.com/Trept794/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230714T08:25:19Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 644 | 26| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T10:08:49Z | Null | https://github.com/Sahakar03/Updated-Backdoors | 0 | 0| 
+| 20230714T10:02:30Z | Null | https://github.com/Sahakar03/Backdoors | 0 | 0| 
+| 20230714T09:14:48Z | Website for @backdoorvintagee on IG | https://github.com/zekedomz/backdoorvintagee | 0 | 0| 
+| 20230714T07:28:32Z | Basic FUD Backdoor with one-line Payload! | https://github.com/n0b0dyn1x/Backdoor | 0 | 0| 
+| 20230714T06:00:37Z | Implementation of %Backdoor Defense using Non-Adversarial Backdoor% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 0 | 0| 
 | 20230713T22:27:02Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 10 | 5| 
 | 20230713T22:13:32Z | Null | https://github.com/sashankneupane/backdoor-attacks-benchmark | 0 | 0| 
 | 20230713T21:32:23Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
 | 20230713T18:39:19Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 85 | 9| 
 | 20230713T17:29:07Z | Config files for my GitHub profile. | https://github.com/Modezti/Full-Backdoors-oprations | 0 | 0| 
-| 20230713T14:01:50Z | Null | https://github.com/BodaNabeel/assignment-backdoor | 0 | 0| 
-| 20230713T09:26:02Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 177 | 30| 
-| 20230713T03:57:15Z | Simple to complex bind shell(, written in different languages). | https://github.com/ringwormGO-organization/doorfact | 4 | 0| 
-| 20230713T03:06:34Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 1 | 0| 
-| 20230713T01:22:56Z | The best backdoor scanner there is. | https://github.com/ATLS8609016586/backdoor.exe--8974- | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T08:03:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
 | 20230713T14:27:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3490 | 482| 
-| 20230713T14:23:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2277 | 629| 
 | 20230713T09:31:00Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 415 | 28| 
 | 20230711T22:14:00Z | A HL Symbolic Execution Engine Prototype for Reachability | https://github.com/EthanJamesLew/SEE-Reach-py | 0 | 0| 
 | 20230711T08:30:42Z | GDart: Dynamic Symbolic Execution for the JVM | https://github.com/tudo-aqua/gdart | 0 | 0| 
@@ -112,9 +113,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T02:11:41Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 58 | 3| 
 | 20230714T00:00:30Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 711 | 115| 
 | 20230712T15:20:40Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 2 | 1| 
-| 20230712T07:14:12Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 57 | 3| 
 | 20230712T03:22:19Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 17 | 1| 
 | 20230711T13:28:52Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 24 | 1| 
 | 20230706T09:40:22Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 2 | 0| 
