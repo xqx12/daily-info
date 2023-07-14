@@ -68,7 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T12:33:17Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
+| 20230714T12:47:39Z | Null | https://github.com/Hypnotichypnotic818/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230714T12:43:58Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
 | 20230714T12:27:22Z | This Repository Gonna Show You A Simple Example Of An Anti-Speed Hack System For Roblox Only As Example, Because It Can Be Easily Bypassed Using HookFunction In Exploits That Have Custom Functions. | https://github.com/FrxRius/Anti-Speed-Hack-System-Roblox | 0 | 0| 
 | 20230714T12:26:56Z | Null | https://github.com/Hllzbeverly/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T12:22:45Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230714T10:45:27Z | Null | https://github.com/Rrestart156/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T10:41:11Z | Null | https://github.com/k81922453/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 6 | 0| 
 | 20230714T10:09:12Z | This project is demonstration of finding and exploiting common web based vulnerabilities like SQL Injection, XSS, Command Injection, Insecure File Upload and more. This project will also contain creating your own home lab with vulnerabilities to exploit using kali linux. | https://github.com/darkoid/WebVulnerabilities | 0 | 0| 
-| 20230714T09:44:19Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 323 | 61| 
 
 
 # backdoor on Github 推荐
@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T12:50:51Z | Null | https://github.com/ssv445/fuzzy-merge | 0 | 0| 
+| 20230714T12:51:32Z | Merge Records by Fuzzy Matching in a CSV  | https://github.com/ssv445/fuzzy-merge | 0 | 0| 
 | 20230714T12:49:46Z | Null | https://github.com/omrosand/fuzzy-chainsaw | 0 | 0| 
 | 20230714T12:32:18Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 321 | 41| 
 | 20230714T12:06:58Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 79 | 28| 
