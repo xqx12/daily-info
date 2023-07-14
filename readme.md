@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T12:25:32Z | Null | https://github.com/Hllzbeverly/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 0 | 0| 
 | 20230714T12:22:45Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 0 | 0| 
 | 20230714T12:00:41Z | DoS script that exploits xmlrpc.php in Wordpress websites | https://github.com/isaq22/xmlrpcdos | 0 | 0| 
 | 20230714T11:03:03Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230714T10:09:12Z | This project is demonstration of finding and exploiting common web based vulnerabilities like SQL Injection, XSS, Command Injection, Insecure File Upload and more. This project will also contain creating your own home lab with vulnerabilities to exploit using kali linux. | https://github.com/darkoid/WebVulnerabilities | 0 | 0| 
 | 20230714T09:44:19Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 323 | 61| 
 | 20230714T09:10:32Z | Null | https://github.com/Hanks5972/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230714T08:52:17Z | Null | https://github.com/Trept794/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
