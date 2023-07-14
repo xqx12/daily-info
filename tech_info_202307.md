@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T12:54:37Z | Null | https://github.com/houjingyi233/awesome-fuzz | 24 | 0| 
 | 20230714T12:51:32Z | Merge Records by Fuzzy Matching in a CSV  | https://github.com/ssv445/fuzzy-merge | 0 | 0| 
 | 20230714T12:49:46Z | Null | https://github.com/omrosand/fuzzy-chainsaw | 0 | 0| 
 | 20230714T12:32:18Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 321 | 41| 
@@ -134,7 +135,6 @@
 | 20230714T11:23:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 802 | 112| 
 | 20230714T11:19:15Z | Null | https://github.com/Sonuposwal/fuzzy-adventure | 0 | 0| 
 | 20230714T11:12:05Z | Null | https://github.com/nikita9694/Fuzzy-Funny-Heads | 0 | 0| 
-| 20230714T10:40:23Z | Null | https://github.com/houjingyi233/awesome-fuzz | 23 | 0| 
 
 
 
