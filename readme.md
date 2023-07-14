@@ -80,6 +80,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T11:46:34Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 397 | 37| 
+| 20230714T11:44:51Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 320 | 41| 
+| 20230714T11:39:21Z | Null | https://github.com/lishellobo/fuzzy-octo-waddle | 0 | 0| 
+| 20230714T11:23:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 802 | 112| 
+| 20230714T11:19:15Z | Null | https://github.com/Sonuposwal/fuzzy-adventure | 0 | 0| 
+| 20230714T11:12:05Z | Null | https://github.com/nikita9694/Fuzzy-Funny-Heads | 0 | 0| 
+| 20230714T10:40:23Z | Null | https://github.com/houjingyi233/awesome-fuzz | 23 | 0| 
 | 20230714T01:08:16Z | Null | https://github.com/KURE11117/fuzzy-adventure | 0 | 0| 
 
 
