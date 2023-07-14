@@ -80,7 +80,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230713T11:33:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3491 | 482| 
+| 20230713T14:27:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3490 | 482| 
+| 20230713T14:23:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2277 | 629| 
 | 20230713T09:31:00Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 415 | 28| 
 
 
