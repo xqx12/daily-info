@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230714T00:58:10Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
 | 20230713T23:17:34Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230713T19:11:35Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
 | 20230713T13:28:02Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
@@ -35,7 +36,6 @@
 | 20230713T08:30:35Z | CVE-2023-36884 | The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty. | https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline | | 
 | 20230713T03:58:02Z | CVE-2021-1732 | Null | https://github.com/asepsaepdin/CVE-2021-1732 | | 
 | 20230713T01:16:37Z | CVE-2023-31704 | Null | https://github.com/d34dun1c02n/CVE-2023-31704 | | 
-| 20230713T01:12:36Z | CVE-2023-31705 | Reflected XSS | https://github.com/d34dun1c02n/CVE-2023-31705 | | 
 
 
 # klee on Github 推荐
