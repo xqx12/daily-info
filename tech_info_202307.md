@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T00:38:48Z | Very very long SKSKSKS | https://github.com/WhoAmICode613/Roblox-Exploiting-advanced-Guide | 0 | 0| 
 | 20230714T00:05:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5706 | 660| 
 | 20230714T00:05:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5745 | 766| 
 | 20230713T22:47:35Z | This Ruby tool is a valuable aid in the post-exploitation phase in Linux environments. It searches for files with permissions set to 777, SUID, or execution where the owner is root. These files are crucial for privilege escalation and gaining access as the superuser (root) in the compromised system. | https://github.com/Campero727/FilePermissions | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230713T15:04:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5145 | 650| 
 | 20230713T12:30:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-jIX2h-withdraw-exploit | 0 | 0| 
 | 20230713T10:49:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5318 | 745| 
-| 20230713T09:29:25Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10392 | 1619| 
 
 
 # backdoor on Github 推荐
