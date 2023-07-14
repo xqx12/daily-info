@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230714T12:22:45Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
 | 20230714T08:51:14Z | CVE-2023-31852 | Null | https://github.com/CalfCrusher/CVE-2023-31852 | | 
 | 20230714T08:50:45Z | CVE-2023-31851 | Null | https://github.com/CalfCrusher/CVE-2023-31851 | | 
@@ -42,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T12:22:45Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 0 | 0| 
 | 20230714T12:00:41Z | DoS script that exploits xmlrpc.php in Wordpress websites | https://github.com/isaq22/xmlrpcdos | 0 | 0| 
 | 20230714T11:03:03Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
 | 20230714T10:52:23Z | Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target. | https://github.com/blackhatethicalhacking/Nucleimonst3r | 12 | 3| 
@@ -51,7 +53,6 @@
 | 20230714T09:44:19Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 323 | 61| 
 | 20230714T09:10:32Z | Null | https://github.com/Hanks5972/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T08:52:17Z | Null | https://github.com/Trept794/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230714T08:25:19Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 644 | 26| 
 
 
 # backdoor on Github 推荐
