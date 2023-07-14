@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T12:06:58Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 79 | 28| 
 | 20230714T11:46:34Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 397 | 37| 
 | 20230714T11:44:51Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 320 | 41| 
 | 20230714T11:39:21Z | Null | https://github.com/lishellobo/fuzzy-octo-waddle | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230714T10:40:23Z | Null | https://github.com/houjingyi233/awesome-fuzz | 23 | 0| 
 | 20230714T01:08:16Z | Null | https://github.com/KURE11117/fuzzy-adventure | 0 | 0| 
 | 20230713T23:19:47Z | This file is a python based script that uses the OpenPyXL, sys, fuzzyWuzzy, re and pickle libraries to create a name duplicate algorithm for a .xlsm document. | https://github.com/itsoscarlopez/fuzzysearch | 0 | 0| 
-| 20230713T22:40:29Z | Null | https://github.com/ctaleck/fuzzy-light | 0 | 0| 
 
 
 
