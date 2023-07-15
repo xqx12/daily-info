@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230715T12:00:01Z | Null | https://github.com/aniko33/GitStackExploit_2.3.10 | 0 | 0| 
+| 20230715T12:05:04Z | GitStack exploit version 2.3.10 for Python3 | https://github.com/aniko33/GitStackExploit_2.3.10 | 0 | 0| 
 | 20230715T11:26:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81b614e0-655a-4ce5-8f7b-0655226f85a8-OEb0T-exploit-solve | 0 | 0| 
 | 20230715T11:05:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 142 | 13| 
 | 20230715T07:53:42Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3548 | 518| 
