@@ -125,8 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T12:40:24Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 313 | 25| 
 | 20230715T09:30:21Z | Null | https://github.com/Seimeinokoke/fuzzy-octo-fiesta | 0 | 0| 
-| 20230715T08:20:29Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 312 | 25| 
 | 20230715T05:13:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8808 | 1939| 
 | 20230715T03:36:36Z | Null | https://github.com/pp-qq/Fuzzy_Federated_Learning | 0 | 0| 
 | 20230715T00:26:13Z | Null | https://github.com/google/fuzztest | 337 | 21| 
