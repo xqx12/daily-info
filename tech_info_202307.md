@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T00:26:13Z | Null | https://github.com/google/fuzztest | 337 | 21| 
 | 20230715T00:02:37Z | Null | https://github.com/castro1163/fuzzy-doodle | 0 | 0| 
 | 20230714T20:34:41Z | Null | https://github.com/Cheppy/FuzzyLogicPractice | 0 | 0| 
 | 20230714T20:24:10Z | Personal portfolio website | https://github.com/stooplion/fuzzy-winner | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230714T12:49:46Z | Null | https://github.com/omrosand/fuzzy-chainsaw | 0 | 0| 
 | 20230714T12:32:18Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 321 | 41| 
 | 20230714T12:06:58Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 79 | 28| 
-| 20230714T11:46:34Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 397 | 37| 
 
 
 
