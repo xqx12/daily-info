@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T12:33:05Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 324 | 62| 
 | 20230715T12:28:42Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 78 | 10| 
 | 20230715T12:17:47Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/LunarWare9872724031/Aimbot-V2--3882- | 1 | 0| 
 | 20230715T12:17:06Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1025 | 202| 
@@ -47,7 +48,6 @@
 | 20230715T07:53:42Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3548 | 518| 
 | 20230715T07:44:24Z |  This cutting-edge repository is designed to empower ethical hackers and aspiring penetration testers with an arsenal of tools, payloads, and scripts. Unleash your potential as you delve into the art of secure exploitation, from SQL injection to cross-site scripting. Discover vulnerabilities, master the art of subdomain reconnaissance | https://github.com/Clasikpaige/hackbox-testing | 0 | 0| 
 | 20230715T06:37:17Z | Project page for Ada3D: Exploiting the Spatial Redundancy with Adaptive Inference for Efficient 3D Object Detection | https://github.com/A-suozhang/ada3d.github.io | 0 | 0| 
-| 20230715T05:31:03Z | A collection of exploits that I wrote after reading POCs or after going through the source code | https://github.com/1337kid/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
