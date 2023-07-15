@@ -60,11 +60,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T04:44:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3491 | 482| 
+| 20230715T03:02:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2280 | 629| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T07:51:16Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 18 | 2| 
 
 
 # fuzz on Github 推荐
