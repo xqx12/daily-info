@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T01:21:34Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230714T13:55:54Z | Null | https://github.com/ssuubbmmiitt/ELM_BACKDOOR | 0 | 0| 
 | 20230714T10:08:49Z | Null | https://github.com/Sahakar03/Updated-Backdoors | 0 | 0| 
 | 20230714T10:02:30Z | Null | https://github.com/Sahakar03/Backdoors | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230713T22:27:02Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 10 | 5| 
 | 20230713T22:13:32Z | Null | https://github.com/sashankneupane/backdoor-attacks-benchmark | 0 | 0| 
 | 20230713T21:32:23Z | Toolbox for backdoor attacks and defenses. | https://github.com/sashankneupane/backdoor-toolbox | 0 | 0| 
-| 20230713T18:39:19Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 85 | 9| 
 
 
 # symbolic execution on Github 推荐
