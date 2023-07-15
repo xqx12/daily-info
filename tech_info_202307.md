@@ -26,23 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230714T12:22:45Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230714T22:22:56Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
+| 20230714T17:46:23Z | cve-2022-44268 | Null | https://github.com/Pog-Frog/cve-2022-44268 | | 
+| 20230714T13:59:48Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
+| 20230714T13:01:20Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
 | 20230714T08:51:14Z | CVE-2023-31852 | Null | https://github.com/CalfCrusher/CVE-2023-31852 | | 
 | 20230714T08:50:45Z | CVE-2023-31851 | Null | https://github.com/CalfCrusher/CVE-2023-31851 | | 
 | 20230714T08:41:53Z | CVE-2023-35803 | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | https://github.com/lachlan2k/CVE-2023-35803 | | 
 | 20230714T03:15:58Z | CVE-2023-33592 | CVE-2023-33592批量漏洞利用程序 | https://github.com/Acous7icwav3/CVE-2023-33592 | | 
 | 20230714T00:58:10Z | CVE-2023-22809 | Null | https://github.com/asepsaepdin/CVE-2023-22809 | | 
-| 20230713T19:11:35Z | CVE-2023-28252 | POC for CVE-2023-28252 | https://github.com/Malwareman007/CVE-2023-28252 | | 
-| 20230713T13:28:02Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
-| 20230713T12:17:23Z | CVE-2023-3338 | Linux kernel LPE practice with an NPD vulnerability | https://github.com/TurtleARM/CVE-2023-3338-DECPwn | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T14:53:54Z | Null | https://github.com/zheli-1/llvm-bc-constructor-for-klee-remill | 0 | 0| 
+| 20230714T13:07:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2279 | 629| 
 | 20230714T08:29:05Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantabile | 0 | 0| 
-| 20230714T08:03:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2278 | 629| 
 | 20230714T00:33:31Z | Null | https://github.com/Atreuz/klee-assistant-with-GUI | 0 | 0| 
 | 20230713T16:52:12Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
 | 20230713T07:08:55Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 11 | 0| 
@@ -50,13 +51,12 @@
 | 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
 | 20230711T13:56:56Z | Unofficial snap for KLEE | https://github.com/marco6/klee | 0 | 0| 
 | 20230711T03:59:46Z | Null | https://github.com/kleenkanteen/kleenkanteen | 0 | 0| 
-| 20230710T23:42:12Z | Null | https://github.com/Kyungho0511/klee_CompDesignWork | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230714T08:01:07Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 2 | 0| 
+| 20230714T13:24:59Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 3 | 0| 
 | 20230713T06:49:38Z | Config files for my GitHub profile. | https://github.com/ALI-S2EED/ALI-S2EED | 0 | 0| 
 | 20230709T04:17:26Z | Null | https://github.com/Sandeepgajula/s2ev-serviceprovider--main | 0 | 0| 
 | 20230708T04:39:41Z | Null | https://github.com/Umesh-RaviRaj/UmeshRaviRaj_S2EAC | 0 | 0| 
@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T23:25:08Z | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | 813 | 188| 
+| 20230714T22:47:03Z | Sniffer Exploited is a Minecraft plugin that aims to make Sniffers actually worth having in the game. | https://github.com/BlurOne-GIT/Sniffer-Exploited | 0 | 0| 
+| 20230714T19:44:21Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
+| 20230714T18:41:12Z | Self Spreading PowerShell Worm That Recovers System Info & Browser Data | https://github.com/BYT3W1Z4RD/PowerWorm | 1 | 1| 
+| 20230714T17:41:36Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 9 | 1| 
+| 20230714T16:04:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5182 | 1013| 
 | 20230714T12:57:20Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
 | 20230714T12:47:39Z | Null | https://github.com/Hypnotichypnotic818/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230714T12:27:22Z | This Repository Gonna Show You A Simple Example Of An Anti-Speed Hack System For Roblox Only As Example, Because It Can Be Easily Bypassed Using HookFunction In Exploits That Have Custom Functions. | https://github.com/FrxRius/Anti-Speed-Hack-System-Roblox | 0 | 0| 
 | 20230714T12:26:56Z | Null | https://github.com/Hllzbeverly/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230714T12:22:45Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 0 | 0| 
-| 20230714T12:00:41Z | DoS script that exploits xmlrpc.php in Wordpress websites | https://github.com/isaq22/xmlrpcdos | 0 | 0| 
-| 20230714T10:52:23Z | Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target. | https://github.com/blackhatethicalhacking/Nucleimonst3r | 12 | 3| 
-| 20230714T10:45:27Z | Null | https://github.com/Rrestart156/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230714T10:41:11Z | Null | https://github.com/k81922453/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 6 | 0| 
-| 20230714T10:09:12Z | This project is demonstration of finding and exploiting common web based vulnerabilities like SQL Injection, XSS, Command Injection, Insecure File Upload and more. This project will also contain creating your own home lab with vulnerabilities to exploit using kali linux. | https://github.com/darkoid/WebVulnerabilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -125,6 +125,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230714T20:34:41Z | Null | https://github.com/Cheppy/FuzzyLogicPractice | 0 | 0| 
+| 20230714T20:24:10Z | Personal portfolio website | https://github.com/stooplion/fuzzy-winner | 0 | 0| 
+| 20230714T19:27:50Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 37 | 11| 
 | 20230714T12:54:37Z | Null | https://github.com/houjingyi233/awesome-fuzz | 24 | 0| 
 | 20230714T12:51:32Z | Merge Records by Fuzzy Matching in a CSV  | https://github.com/ssv445/fuzzy-merge | 0 | 0| 
 | 20230714T12:49:46Z | Null | https://github.com/omrosand/fuzzy-chainsaw | 0 | 0| 
@@ -132,9 +135,6 @@
 | 20230714T12:06:58Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 79 | 28| 
 | 20230714T11:46:34Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 397 | 37| 
 | 20230714T11:39:21Z | Null | https://github.com/lishellobo/fuzzy-octo-waddle | 0 | 0| 
-| 20230714T11:23:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 802 | 112| 
-| 20230714T11:19:15Z | Null | https://github.com/Sonuposwal/fuzzy-adventure | 0 | 0| 
-| 20230714T11:12:05Z | Null | https://github.com/nikita9694/Fuzzy-Funny-Heads | 0 | 0| 
 
 
 
