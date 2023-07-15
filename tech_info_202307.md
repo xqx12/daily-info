@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230715T12:30:50Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230715T08:43:41Z | CVE-2023-30383 | Null | https://github.com/a2ure123/CVE-2023-30383 | | 
 | 20230714T22:22:56Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
 | 20230714T17:46:23Z | cve-2022-44268 | Null | https://github.com/Pog-Frog/cve-2022-44268 | | 
 | 20230714T13:59:48Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
-| 20230714T13:01:20Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
 | 20230714T08:51:14Z | CVE-2023-31852 | Null | https://github.com/CalfCrusher/CVE-2023-31852 | | 
 | 20230714T08:50:45Z | CVE-2023-31851 | Null | https://github.com/CalfCrusher/CVE-2023-31851 | | 
@@ -68,6 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T12:28:42Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 78 | 10| 
+| 20230715T12:17:47Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/LunarWare9872724031/Aimbot-V2--3882- | 1 | 0| 
+| 20230715T12:17:06Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1025 | 202| 
 | 20230715T12:05:04Z | GitStack exploit version 2.3.10 for Python3 | https://github.com/aniko33/GitStackExploit_2.3.10 | 0 | 0| 
 | 20230715T11:26:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81b614e0-655a-4ce5-8f7b-0655226f85a8-OEb0T-exploit-solve | 0 | 0| 
 | 20230715T11:05:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 142 | 13| 
@@ -75,9 +78,6 @@
 | 20230715T07:44:24Z |  This cutting-edge repository is designed to empower ethical hackers and aspiring penetration testers with an arsenal of tools, payloads, and scripts. Unleash your potential as you delve into the art of secure exploitation, from SQL injection to cross-site scripting. Discover vulnerabilities, master the art of subdomain reconnaissance | https://github.com/Clasikpaige/hackbox-testing | 0 | 0| 
 | 20230715T06:37:17Z | Project page for Ada3D: Exploiting the Spatial Redundancy with Adaptive Inference for Efficient 3D Object Detection | https://github.com/A-suozhang/ada3d.github.io | 0 | 0| 
 | 20230715T05:31:03Z | A collection of exploits that I wrote after reading POCs or after going through the source code | https://github.com/1337kid/Exploits | 0 | 0| 
-| 20230715T02:53:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10398 | 1622| 
-| 20230715T02:35:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5183 | 1013| 
-| 20230715T01:41:24Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0006-0001-app-AocBq-catch-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
