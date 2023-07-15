@@ -128,13 +128,13 @@
 | 20230715T09:30:21Z | Null | https://github.com/Seimeinokoke/fuzzy-octo-fiesta | 0 | 0| 
 | 20230715T08:20:29Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 312 | 25| 
 | 20230715T05:13:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8808 | 1939| 
+| 20230715T03:36:36Z | Null | https://github.com/pp-qq/Fuzzy_Federated_Learning | 0 | 0| 
 | 20230715T00:26:13Z | Null | https://github.com/google/fuzztest | 337 | 21| 
 | 20230715T00:02:37Z | Null | https://github.com/castro1163/fuzzy-doodle | 0 | 0| 
 | 20230714T21:09:43Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 320 | 41| 
 | 20230714T20:34:41Z | Null | https://github.com/Cheppy/FuzzyLogicPractice | 0 | 0| 
 | 20230714T20:24:10Z | Personal portfolio website | https://github.com/stooplion/fuzzy-winner | 0 | 0| 
 | 20230714T19:27:50Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 37 | 11| 
-| 20230714T18:24:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3808 | 771| 
 
 
 
