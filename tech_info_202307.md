@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T01:14:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-br | 0 | 0| 
 | 20230715T01:14:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-br | 0 | 0| 
 | 20230715T01:12:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-br | 0 | 0| 
 | 20230714T23:25:08Z | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | 813 | 188| 
@@ -77,7 +78,6 @@
 | 20230714T18:21:45Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 546 | 106| 
 | 20230714T17:41:36Z | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 9 | 1| 
 | 20230714T16:04:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5182 | 1013| 
-| 20230714T12:57:20Z | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | 0 | 0| 
 
 
 # backdoor on Github 推荐
