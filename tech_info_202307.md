@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T01:11:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc0a6bf0-38f7-4737-b349-ec4c501463d7-i_DYA-operate-exploit | 0 | 0| 
+| 20230716T01:03:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c4f48e24-3d3a-4e83-9c4e-2e22b550b2cc-i_DYA-wonder-exploit | 0 | 0| 
 | 20230716T00:48:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nx | 0 | 0| 
 | 20230716T00:47:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nx | 0 | 0| 
 | 20230716T00:46:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nx | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20230715T21:40:15Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 548 | 106| 
 | 20230715T19:37:28Z | Custom scapy implementations of traceroute, an ad-blocking DNS resolver, ARP spoofing and TCP hijacking | https://github.com/playback0022/Networking-Tools-And-Exploits | 0 | 0| 
 | 20230715T17:47:54Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4471 | 596| 
-| 20230715T17:36:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5149 | 651| 
-| 20230715T12:33:05Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 324 | 62| 
 
 
 # backdoor on Github 推荐
