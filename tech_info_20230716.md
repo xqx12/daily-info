@@ -58,6 +58,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T03:48:54Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 419 | 28| 
 | 20230716T01:13:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3492 | 482| 
 
 
