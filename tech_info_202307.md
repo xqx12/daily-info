@@ -68,6 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T00:48:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nx | 0 | 0| 
+| 20230716T00:47:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nx | 0 | 0| 
+| 20230716T00:46:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nx | 0 | 0| 
 | 20230715T23:51:27Z | Null | https://github.com/LuciChan/exploit | 0 | 0| 
 | 20230715T23:07:56Z | Null | https://github.com/unCodeBoss/exploit-dbs | 0 | 0| 
 | 20230715T21:40:15Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 548 | 106| 
@@ -75,9 +78,6 @@
 | 20230715T17:47:54Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4471 | 596| 
 | 20230715T17:36:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5149 | 651| 
 | 20230715T12:33:05Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 324 | 62| 
-| 20230715T12:28:42Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 78 | 10| 
-| 20230715T12:17:47Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/LunarWare9872724031/Aimbot-V2--3882- | 1 | 0| 
-| 20230715T12:17:06Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1025 | 202| 
 
 
 # backdoor on Github 推荐
