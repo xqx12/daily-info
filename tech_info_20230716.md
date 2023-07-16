@@ -36,11 +36,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T10:22:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5185 | 1014| 
+| 20230716T09:57:57Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 649 | 26| 
+| 20230716T09:04:24Z | This contains some scripts I found from a Boxking776 script. You can see his original script at: https://pastebin.com/raw/WG1BMS72 | https://github.com/MythicalTrashcan/Infectious-Smile-Exploits | 0 | 0| 
+| 20230716T08:45:30Z | Estimation of the pose of a flock of drones. Built in ROS2 and exploiting the MDS algorithm | https://github.com/oselin/drone-pose-estimation | 0 | 1| 
+| 20230716T07:56:22Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0045-0023-app-DiUt3-exploit-laugh | 0 | 0| 
+| 20230716T04:08:11Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/ZOZO0L0/apex-cheating | 1 | 0| 
 | 20230716T01:11:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc0a6bf0-38f7-4737-b349-ec4c501463d7-i_DYA-operate-exploit | 0 | 0| 
 | 20230716T01:03:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c4f48e24-3d3a-4e83-9c4e-2e22b550b2cc-i_DYA-wonder-exploit | 0 | 0| 
 | 20230716T00:48:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nx | 0 | 0| 
 | 20230716T00:47:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nx | 0 | 0| 
-| 20230716T00:46:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nx | 0 | 0| 
 
 
 # backdoor on Github 推荐
