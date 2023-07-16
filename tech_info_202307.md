@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230716 | 需要一个渗透入侵拿站大牛Team | /topic/90| 
 | 20230715 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 20230715 | 招：渗透入侵拿站大牛 | /topic/89| 
 | 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
@@ -20,13 +21,14 @@
 | 20230713 | 深入解析全球太空态势感知能力 V1.3 | https://mp.weixin.qq.com/s/V3TasSF8caaUJerQIaHC8w| 
 | 20230712 | 全球高级持续性威胁（APT）2023年中报告 | https://ti.qianxin.com/uploads/2023/07/12/%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%892023%E5%B9%B4%E4%B8%AD%E6%8A%A5%E5%91%8A.pdf| 
 | 20230712 | “星链”计划在俄乌军事冲突中的应用与启示 | https://mp.weixin.qq.com/s/yWmHIxwq2FRblRZttGl14g| 
-| 20230712 | 5G 网络安全发展与创新安全体系及技术探索 | https://mp.weixin.qq.com/s/q08vjU-VLU_eBP5TkkIJPQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230715T19:35:42Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230716T11:00:37Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230716T10:55:52Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
+| 20230716T07:30:23Z | CVE-2022-28171 | Null | https://github.com/NyaMeeEain/CVE-2022-28171-POC | | 
 | 20230715T17:41:54Z | CVE-2023-36884 | This is an emergency solution while Microsoft addresses the vulnerability. | https://github.com/zerosorai/CVE-2023-36884 | | 
 | 20230715T15:22:03Z | CVE-2021-40449 | Null | https://github.com/toanthang1842002/CVE-2021-40449 | | 
 | 20230715T08:43:41Z | CVE-2023-30383 | Null | https://github.com/a2ure123/CVE-2023-30383 | | 
@@ -34,8 +36,6 @@
 | 20230714T17:46:23Z | cve-2022-44268 | Null | https://github.com/Pog-Frog/cve-2022-44268 | | 
 | 20230714T13:59:48Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 | 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
-| 20230714T08:51:14Z | CVE-2023-31852 | Null | https://github.com/CalfCrusher/CVE-2023-31852 | | 
-| 20230714T08:50:45Z | CVE-2023-31851 | Null | https://github.com/CalfCrusher/CVE-2023-31851 | | 
 
 
 # klee on Github 推荐
@@ -56,11 +56,11 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T07:36:14Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 33 | 13| 
 | 20230714T13:24:59Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 3 | 0| 
 | 20230713T06:49:38Z | Config files for my GitHub profile. | https://github.com/ALI-S2EED/ALI-S2EED | 0 | 0| 
 | 20230709T04:17:26Z | Null | https://github.com/Sandeepgajula/s2ev-serviceprovider--main | 0 | 0| 
 | 20230708T04:39:41Z | Null | https://github.com/Umesh-RaviRaj/UmeshRaviRaj_S2EAC | 0 | 0| 
-| 20230706T04:44:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 32 | 13| 
 | 20230701T15:05:22Z | Null | https://github.com/DusaVignesh/user_s2ev | 0 | 0| 
 | 20230701T14:59:45Z | Null | https://github.com/DusaVignesh/s2ev_user | 0 | 0| 
 
@@ -83,6 +83,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
+| 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
 | 20230715T18:12:51Z | Backdoor attacks benchmarks. | https://github.com/sashankneupane/backdoor-attacks-benchmark | 0 | 0| 
 | 20230715T13:22:17Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 86 | 10| 
 | 20230715T11:21:54Z | My first attempt to make a fully functional Backdoor in Python | https://github.com/Amanelli/Backdoor | 1 | 0| 
@@ -91,8 +93,6 @@
 | 20230714T13:55:54Z | Null | https://github.com/ssuubbmmiitt/ELM_BACKDOOR | 0 | 0| 
 | 20230714T10:08:49Z | Null | https://github.com/Sahakar03/Updated-Backdoors | 0 | 0| 
 | 20230714T10:02:30Z | Null | https://github.com/Sahakar03/Backdoors | 0 | 0| 
-| 20230714T09:14:48Z | Website for @backdoorvintagee on IG | https://github.com/zekedomz/backdoorvintagee | 0 | 0| 
-| 20230714T07:28:32Z | Basic FUD Backdoor with one-line Payload! | https://github.com/n0b0dyn1x/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
+| 20230716T09:53:17Z | Generic Protocol State Fuzzer | https://github.com/protocol-fuzzing/protocol-state-fuzzer | 2 | 0| 
+| 20230716T08:57:39Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
+| 20230716T08:49:04Z | A C# port of the fuse.js fuzzy search library. | https://github.com/FlurinBruehwiler/FuzzySearch | 0 | 0| 
+| 20230716T07:17:28Z | Null | https://github.com/macarelov/fuzzy-pancake | 0 | 0| 
 | 20230715T23:24:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3736 | 440| 
 | 20230715T23:09:37Z | SDEV 220 Final Project %FuzzyCatSpider% Gamification for Task Completion | https://github.com/theoblivionshadow/FuzzyCatSpider | 0 | 0| 
 | 20230715T21:41:13Z | from tamplate | https://github.com/aprashkovich/fuzzy-fishstick | 0 | 0| 
 | 20230715T21:20:09Z | self driving car with fuzzy logic | https://github.com/sadegh-msm/fuzzy-driver | 0 | 0| 
 | 20230715T20:38:58Z | Serbia Travel Guide | https://github.com/YoW585/fuzzy-eureka | 0 | 0| 
-| 20230715T20:11:48Z | Null | https://github.com/protonughosh/fuzzy-fishstick | 0 | 0| 
-| 20230715T19:57:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8809 | 1939| 
-| 20230715T12:40:24Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 313 | 25| 
-| 20230715T09:30:21Z | Null | https://github.com/Seimeinokoke/fuzzy-octo-fiesta | 0 | 0| 
-| 20230715T03:36:36Z | Null | https://github.com/pp-qq/Fuzzy_Federated_Learning | 0 | 0| 
 
 
 
