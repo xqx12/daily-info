@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T23:09:37Z | SDEV 220 Final Project %FuzzyCatSpider% Gamification for Task Completion | https://github.com/theoblivionshadow/FuzzyCatSpider | 0 | 0| 
+| 20230715T21:41:13Z | from tamplate | https://github.com/aprashkovich/fuzzy-fishstick | 0 | 0| 
+| 20230715T21:20:09Z | self driving car with fuzzy logic | https://github.com/sadegh-msm/fuzzy-driver | 0 | 0| 
+| 20230715T20:38:58Z | Serbia Travel Guide | https://github.com/YoW585/fuzzy-eureka | 0 | 0| 
+| 20230715T20:11:48Z | Null | https://github.com/protonughosh/fuzzy-fishstick | 0 | 0| 
+| 20230715T19:57:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8809 | 1939| 
 | 20230715T12:40:24Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 313 | 25| 
 | 20230715T09:30:21Z | Null | https://github.com/Seimeinokoke/fuzzy-octo-fiesta | 0 | 0| 
-| 20230715T05:13:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8808 | 1939| 
 | 20230715T03:36:36Z | Null | https://github.com/pp-qq/Fuzzy_Federated_Learning | 0 | 0| 
 | 20230715T00:26:13Z | Null | https://github.com/google/fuzztest | 337 | 21| 
-| 20230715T00:02:37Z | Null | https://github.com/castro1163/fuzzy-doodle | 0 | 0| 
-| 20230714T21:09:43Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 320 | 41| 
-| 20230714T20:34:41Z | Null | https://github.com/Cheppy/FuzzyLogicPractice | 0 | 0| 
-| 20230714T20:24:10Z | Personal portfolio website | https://github.com/stooplion/fuzzy-winner | 0 | 0| 
-| 20230714T19:27:50Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 37 | 11| 
 
 
 
