@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
 | 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
 | 20230716T09:53:17Z | Generic Protocol State Fuzzer | https://github.com/protocol-fuzzing/protocol-state-fuzzer | 2 | 0| 
 | 20230716T08:57:39Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
