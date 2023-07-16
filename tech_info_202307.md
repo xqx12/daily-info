@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230715T23:24:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3736 | 440| 
 | 20230715T23:09:37Z | SDEV 220 Final Project %FuzzyCatSpider% Gamification for Task Completion | https://github.com/theoblivionshadow/FuzzyCatSpider | 0 | 0| 
 | 20230715T21:41:13Z | from tamplate | https://github.com/aprashkovich/fuzzy-fishstick | 0 | 0| 
 | 20230715T21:20:09Z | self driving car with fuzzy logic | https://github.com/sadegh-msm/fuzzy-driver | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230715T12:40:24Z | 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应 | https://github.com/ttstormxx/jjjjjjjjjjjjjs | 313 | 25| 
 | 20230715T09:30:21Z | Null | https://github.com/Seimeinokoke/fuzzy-octo-fiesta | 0 | 0| 
 | 20230715T03:36:36Z | Null | https://github.com/pp-qq/Fuzzy_Federated_Learning | 0 | 0| 
-| 20230715T00:26:13Z | Null | https://github.com/google/fuzztest | 337 | 21| 
 
 
 
