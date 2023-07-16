@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:10:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 87 | 10| 
 | 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
 | 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
 
