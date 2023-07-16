@@ -72,12 +72,12 @@
 | 20230715T23:07:56Z | Null | https://github.com/unCodeBoss/exploit-dbs | 0 | 0| 
 | 20230715T19:37:28Z | Custom scapy implementations of traceroute, an ad-blocking DNS resolver, ARP spoofing and TCP hijacking | https://github.com/playback0022/Networking-Tools-And-Exploits | 0 | 0| 
 | 20230715T17:47:54Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4471 | 596| 
+| 20230715T17:36:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5149 | 651| 
 | 20230715T12:33:05Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 324 | 62| 
 | 20230715T12:28:42Z | LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  | https://github.com/LOLAPPS-Project/LOLAPPS | 78 | 10| 
 | 20230715T12:17:47Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/LunarWare9872724031/Aimbot-V2--3882- | 1 | 0| 
 | 20230715T12:17:06Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1025 | 202| 
 | 20230715T12:05:04Z | GitStack exploit version 2.3.10 for Python3 | https://github.com/aniko33/GitStackExploit_2.3.10 | 0 | 0| 
-| 20230715T11:26:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-81b614e0-655a-4ce5-8f7b-0655226f85a8-OEb0T-exploit-solve | 0 | 0| 
 
 
 # backdoor on Github 推荐
