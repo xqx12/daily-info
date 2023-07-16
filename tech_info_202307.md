@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:48:06Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
 | 20230716T12:10:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 87 | 10| 
 | 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
 | 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230715T01:28:01Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230714T13:55:54Z | Null | https://github.com/ssuubbmmiitt/ELM_BACKDOOR | 0 | 0| 
 | 20230714T10:08:49Z | Null | https://github.com/Sahakar03/Updated-Backdoors | 0 | 0| 
-| 20230714T10:02:30Z | Null | https://github.com/Sahakar03/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
 | 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
 | 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
 | 20230716T09:53:17Z | Generic Protocol State Fuzzer | https://github.com/protocol-fuzzing/protocol-state-fuzzer | 2 | 0| 
@@ -134,7 +135,6 @@
 | 20230715T23:24:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3736 | 440| 
 | 20230715T23:09:37Z | SDEV 220 Final Project %FuzzyCatSpider% Gamification for Task Completion | https://github.com/theoblivionshadow/FuzzyCatSpider | 0 | 0| 
 | 20230715T21:41:13Z | from tamplate | https://github.com/aprashkovich/fuzzy-fishstick | 0 | 0| 
-| 20230715T21:20:09Z | self driving car with fuzzy logic | https://github.com/sadegh-msm/fuzzy-driver | 0 | 0| 
 
 
 

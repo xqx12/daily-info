@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:48:06Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
 | 20230716T12:10:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 87 | 10| 
 | 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
 | 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
@@ -71,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
 | 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
 | 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
 | 20230716T09:53:17Z | Generic Protocol State Fuzzer | https://github.com/protocol-fuzzing/protocol-state-fuzzer | 2 | 0| 
