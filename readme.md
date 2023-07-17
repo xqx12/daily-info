@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230717 | SecWiki周刊（第489期) | https://www.sec-wiki.com/weekly/489| 
 | 20230717 | 一文带你理解AST Injection | https://www.sec-in.com/article/2233| 
+| 20230717 | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw| 
 
 
 # CVE Github 推荐

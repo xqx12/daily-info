@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230717 | SecWiki周刊（第489期) | https://www.sec-wiki.com/weekly/489| 
 | 20230717 | 一文带你理解AST Injection | https://www.sec-in.com/article/2233| 
+| 20230717 | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw| 
 | 20230716 | 需要一个渗透入侵拿站大牛Team | /topic/90| 
 | 20230716 | 网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A| 
 | 20230716 | APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw| 
@@ -20,7 +21,6 @@
 | 20230715 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 20230715 | 招：渗透入侵拿站大牛 | /topic/89| 
 | 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
-| 20230713 | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ| 
 
 
 # CVE Github 推荐
