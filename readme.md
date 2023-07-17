@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230717T10:59:18Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
+| 20230717T12:10:15Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
 | 20230717T08:06:41Z | CVE-2020-14882 | This script allows for remote code execution (RCE) on Oracle WebLogic Server | https://github.com/Danny-LLi/CVE-2020-14882 | | 
 | 20230717T08:06:35Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230717T06:33:47Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
