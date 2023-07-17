@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T12:22:54Z | Null | https://github.com/Sen0-dev/BackDoor | 0 | 0| 
 | 20230717T11:53:26Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 24 | 4| 
 | 20230717T11:19:53Z | A simple backdoor, designed for Linux, I am not responsible for the use you give to this script. | https://github.com/Kretinga/LinuxBackdoor-Simple | 0 | 0| 
 | 20230717T04:14:59Z | Null | https://github.com/LazyCats07/Cats_Backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230716T20:43:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 89 | 10| 
 | 20230716T19:06:29Z | ⛔ This Repo Has No Backdoors!  ✅ Metemask ✅ Trust Wallet ✅ Binance Wallet ✅ CoinBase | https://github.com/NFTDrainers2/eth-drainer-nft | 1 | 0| 
 | 20230716T15:44:47Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
-| 20230716T13:32:09Z | Null | https://github.com/mmwan101010/DeafBackdoor_AudioNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
