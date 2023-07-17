@@ -86,10 +86,10 @@
 | 20230716T19:01:26Z | Null | https://github.com/hodor-sec/Fuzzing | 1 | 0| 
 | 20230716T17:05:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5038 | 527| 
 | 20230716T16:41:52Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 3 | 0| 
+| 20230716T16:23:47Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3738 | 440| 
 | 20230716T16:00:16Z | Null | https://github.com/solo-studios/kt-fuzzy | 4 | 0| 
 | 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
 | 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
-| 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
 
 
 
