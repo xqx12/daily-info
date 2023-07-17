@@ -12,21 +12,22 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230716 | 需要一个渗透入侵拿站大牛Team | /topic/90| 
+| 20230716 | 网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A| 
+| 20230716 | APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw| 
+| 20230716 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A| 
 | 20230715 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 20230715 | 招：渗透入侵拿站大牛 | /topic/89| 
 | 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
 | 20230713 | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ| 
 | 20230713 | 2023年上半年全球网络空间演习概览 | https://mp.weixin.qq.com/s/uTTtUizJfvEzcKTJ4vei8A| 
 | 20230713 | 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA| 
-| 20230713 | 深入解析全球太空态势感知能力 V1.3 | https://mp.weixin.qq.com/s/V3TasSF8caaUJerQIaHC8w| 
-| 20230712 | 全球高级持续性威胁（APT）2023年中报告 | https://ti.qianxin.com/uploads/2023/07/12/%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%892023%E5%B9%B4%E4%B8%AD%E6%8A%A5%E5%91%8A.pdf| 
-| 20230712 | “星链”计划在俄乌军事冲突中的应用与启示 | https://mp.weixin.qq.com/s/yWmHIxwq2FRblRZttGl14g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230716T11:00:37Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230716T21:52:37Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230716T16:05:40Z | CVE-2023-21746 | Null | https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746 | | 
 | 20230716T10:55:52Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230716T07:30:23Z | CVE-2022-28171 | Null | https://github.com/NyaMeeEain/CVE-2022-28171-POC | | 
 | 20230715T17:41:54Z | CVE-2023-36884 | This is an emergency solution while Microsoft addresses the vulnerability. | https://github.com/zerosorai/CVE-2023-36884 | | 
@@ -35,12 +36,12 @@
 | 20230714T22:22:56Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
 | 20230714T17:46:23Z | cve-2022-44268 | Null | https://github.com/Pog-Frog/cve-2022-44268 | | 
 | 20230714T13:59:48Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
-| 20230714T08:51:27Z | CVE-2023-31853 | Null | https://github.com/CalfCrusher/CVE-2023-31853 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T18:58:33Z | Kleenex pollenradar custom component integration for Home Assistant  | https://github.com/MarcoGos/kleenex_pollenradar | 0 | 0| 
 | 20230715T09:18:43Z | Null | https://github.com/a3nv/kleetcode | 0 | 0| 
 | 20230715T03:02:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2280 | 629| 
 | 20230715T01:47:13Z | project 0715 | https://github.com/iiiiwi/iiiiwi.github.klee_player | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230713T16:52:12Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
 | 20230713T07:08:55Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 11 | 0| 
 | 20230712T19:45:05Z | Null | https://github.com/taro127/kys-klee-bot | 0 | 0| 
-| 20230711T23:03:35Z | Null | https://github.com/taro127/klee-bot-die | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230716T12:58:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5186 | 1014| 
+| 20230716T23:10:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5187 | 1014| 
+| 20230716T21:23:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5752 | 766| 
+| 20230716T21:23:06Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/Guuzzoory/apex-cheating | 30 | 0| 
+| 20230716T19:44:26Z | bypass the login captcha | https://github.com/znadir/capture-exploit | 0 | 0| 
+| 20230716T18:12:04Z | ps4_exploit_arabic_basic | https://github.com/oop7/ps4_exploit_arabic | 0 | 0| 
+| 20230716T18:00:00Z | Null | https://github.com/hex4g0n/exploit_tmp | 0 | 0| 
+| 20230716T15:54:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10400 | 1623| 
 | 20230716T12:38:40Z | Null | https://github.com/MatiasIsGood/fivem-ReadDisk-Exploit | 0 | 0| 
 | 20230716T09:57:57Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 649 | 26| 
 | 20230716T09:04:24Z | This contains some scripts I found from a Boxking776 script. You can see his original script at: https://pastebin.com/raw/WG1BMS72 | https://github.com/MythicalTrashcan/Infectious-Smile-Exploits | 0 | 0| 
-| 20230716T08:45:30Z | Estimation of the pose of a flock of drones. Built in ROS2 and exploiting the MDS algorithm | https://github.com/oselin/drone-pose-estimation | 0 | 1| 
-| 20230716T07:56:22Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0045-0023-app-DiUt3-exploit-laugh | 0 | 0| 
-| 20230716T04:08:11Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/ZOZO0L0/apex-cheating | 1 | 0| 
-| 20230716T01:11:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc0a6bf0-38f7-4737-b349-ec4c501463d7-i_DYA-operate-exploit | 0 | 0| 
-| 20230716T01:03:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c4f48e24-3d3a-4e83-9c4e-2e22b550b2cc-i_DYA-wonder-exploit | 0 | 0| 
-| 20230716T00:48:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nx | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230716T12:48:06Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
-| 20230716T12:10:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 87 | 10| 
+| 20230716T23:37:39Z | [WIP] EA-based backdoor searcher (see `ea` branch) | https://github.com/Lipen/backdoor-searcher | 0 | 0| 
+| 20230716T20:43:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 89 | 10| 
+| 20230716T19:06:29Z | ⛔ This Repo Has No Backdoors!  ✅ Metemask ✅ Trust Wallet ✅ Binance Wallet ✅ CoinBase | https://github.com/NFTDrainers2/eth-drainer-nft | 1 | 0| 
+| 20230716T15:44:47Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
+| 20230716T13:32:09Z | Null | https://github.com/mmwan101010/DeafBackdoor_AudioNet | 0 | 0| 
 | 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
 | 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
 | 20230715T18:12:51Z | Backdoor attacks benchmarks. | https://github.com/sashankneupane/backdoor-attacks-benchmark | 0 | 0| 
 | 20230715T11:21:54Z | My first attempt to make a fully functional Backdoor in Python | https://github.com/Amanelli/Backdoor | 1 | 0| 
 | 20230715T10:48:42Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 11 | 5| 
-| 20230715T01:28:01Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
-| 20230714T13:55:54Z | Null | https://github.com/ssuubbmmiitt/ELM_BACKDOOR | 0 | 0| 
-| 20230714T10:08:49Z | Null | https://github.com/Sahakar03/Updated-Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230716T22:01:07Z | Null | https://github.com/korkinkos/REST-API-Fuzzer | 0 | 0| 
+| 20230716T21:22:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2749 | 187| 
+| 20230716T19:21:40Z | bang | https://github.com/muzzammilx/fuzzy-umbrella | 0 | 0| 
+| 20230716T19:01:26Z | Null | https://github.com/hodor-sec/Fuzzing | 1 | 0| 
+| 20230716T17:05:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5038 | 527| 
+| 20230716T16:41:52Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 3 | 0| 
+| 20230716T16:00:16Z | Null | https://github.com/solo-studios/kt-fuzzy | 4 | 0| 
 | 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
 | 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
 | 20230716T11:18:07Z | Augmented kernel fuzzer via system call dependency learning, based on syzkaller. | https://github.com/zeredy879/Psyzkaller | 1 | 0| 
-| 20230716T09:53:17Z | Generic Protocol State Fuzzer | https://github.com/protocol-fuzzing/protocol-state-fuzzer | 2 | 0| 
-| 20230716T08:57:39Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
-| 20230716T08:49:04Z | A C# port of the fuse.js fuzzy search library. | https://github.com/FlurinBruehwiler/FuzzySearch | 0 | 0| 
-| 20230716T07:17:28Z | Null | https://github.com/macarelov/fuzzy-pancake | 0 | 0| 
-| 20230715T23:24:43Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3736 | 440| 
-| 20230715T23:09:37Z | SDEV 220 Final Project %FuzzyCatSpider% Gamification for Task Completion | https://github.com/theoblivionshadow/FuzzyCatSpider | 0 | 0| 
-| 20230715T21:41:13Z | from tamplate | https://github.com/aprashkovich/fuzzy-fishstick | 0 | 0| 
 
 
 
