@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T00:37:51Z | Null | https://github.com/main-force/fuzzing-vlc | 0 | 0| 
 | 20230716T22:01:07Z | Null | https://github.com/korkinkos/REST-API-Fuzzer | 0 | 0| 
 | 20230716T21:22:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2749 | 187| 
 | 20230716T19:21:40Z | bang | https://github.com/muzzammilx/fuzzy-umbrella | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230716T16:23:47Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3738 | 440| 
 | 20230716T16:00:16Z | Null | https://github.com/solo-studios/kt-fuzzy | 4 | 0| 
 | 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
-| 20230716T12:41:58Z | Attendance Management System Using PHP | https://github.com/afnan1097/fuzzy-octo-tribble | 0 | 0| 
 
 
 
