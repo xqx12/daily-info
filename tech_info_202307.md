@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T00:08:52Z | A Windows PDF Exploit that abuses the powershell protocol to execute payload and bat files. | https://github.com/SeleniumHack/PDF-Silent-Exploit-2023 | 0 | 0| 
 | 20230716T23:10:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5187 | 1014| 
 | 20230716T21:23:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5752 | 766| 
 | 20230716T21:23:06Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/Guuzzoory/apex-cheating | 30 | 0| 
@@ -77,7 +78,6 @@
 | 20230716T15:54:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10400 | 1623| 
 | 20230716T12:38:40Z | Null | https://github.com/MatiasIsGood/fivem-ReadDisk-Exploit | 0 | 0| 
 | 20230716T09:57:57Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 649 | 26| 
-| 20230716T09:04:24Z | This contains some scripts I found from a Boxking776 script. You can see his original script at: https://pastebin.com/raw/WG1BMS72 | https://github.com/MythicalTrashcan/Infectious-Smile-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
