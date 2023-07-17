@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T12:08:38Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
 | 20230717T12:03:37Z | This is the source code of the exploit Ultimate X, feel free to change codes, features, UI and you can add your own features and send it to the developers | https://github.com/UltimateXReleases/UltimateXSourceCode | 0 | 0| 
-| 20230717T11:59:25Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
 | 20230717T11:28:04Z | Developing a robust framework for detecting and mitigating exploits targeting web applications | https://github.com/Pratik2004/Da-2_ISA | 0 | 0| 
 | 20230717T11:20:54Z | Exploit Scripts from CTFs and Labs | https://github.com/offensivedroid/Exploit-Scripts | 0 | 0| 
 | 20230717T11:00:32Z | Synapse internal ui for exploits (script). | https://github.com/zesty-codes/SynapseV4Lua | 0 | 0| 
