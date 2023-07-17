@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T01:40:37Z | Exploit Scripts from CTFs and Labs | https://github.com/offensivedroid/Exploit-Scripts | 0 | 0| 
 | 20230717T01:14:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ng | 0 | 0| 
 | 20230717T01:13:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ng | 0 | 0| 
 | 20230717T01:13:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ng | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230716T21:23:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5752 | 766| 
 | 20230716T21:23:06Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/Guuzzoory/apex-cheating | 30 | 0| 
 | 20230716T19:44:26Z | bypass the login captcha | https://github.com/znadir/capture-exploit | 0 | 0| 
-| 20230716T18:12:04Z | ps4_exploit_arabic_basic | https://github.com/oop7/ps4_exploit_arabic | 0 | 0| 
 
 
 # backdoor on Github 推荐
