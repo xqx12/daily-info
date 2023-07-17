@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230717 | SecWiki周刊（第489期) | https://www.sec-wiki.com/weekly/489| 
+| 20230717 | 一文带你理解AST Injection | https://www.sec-in.com/article/2233| 
 | 20230716 | 需要一个渗透入侵拿站大牛Team | /topic/90| 
 | 20230716 | 网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A| 
 | 20230716 | APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw| 
@@ -19,28 +21,29 @@
 | 20230715 | 招：渗透入侵拿站大牛 | /topic/89| 
 | 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
 | 20230713 | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ| 
-| 20230713 | 2023年上半年全球网络空间演习概览 | https://mp.weixin.qq.com/s/uTTtUizJfvEzcKTJ4vei8A| 
-| 20230713 | 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230717T01:56:22Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
-| 20230717T01:14:39Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230717T10:59:18Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
+| 20230717T08:06:41Z | CVE-2020-14882 | This script allows for remote code execution (RCE) on Oracle WebLogic Server | https://github.com/Danny-LLi/CVE-2020-14882 | | 
+| 20230717T08:06:35Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230717T06:33:47Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
+| 20230717T04:09:49Z | CVE-2021-40449 | Null | https://github.com/toanthang1842002/CVE-2021-40449 | | 
+| 20230717T04:07:30Z | CVE-2021-40449 | Null | https://github.com/hheeyywweellccoommee/CVE-2021-40449-xarrd | | 
 | 20230716T16:05:40Z | CVE-2023-21746 | Null | https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746 | | 
 | 20230716T07:30:23Z | CVE-2022-28171 | Null | https://github.com/NyaMeeEain/CVE-2022-28171-POC | | 
 | 20230715T17:41:54Z | CVE-2023-36884 | This is an emergency solution while Microsoft addresses the vulnerability. | https://github.com/zerosorai/CVE-2023-36884 | | 
-| 20230715T15:22:03Z | CVE-2021-40449 | Null | https://github.com/toanthang1842002/CVE-2021-40449 | | 
 | 20230715T08:43:41Z | CVE-2023-30383 | Null | https://github.com/a2ure123/CVE-2023-30383 | | 
-| 20230714T22:22:56Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
-| 20230714T17:46:23Z | cve-2022-44268 | Null | https://github.com/Pog-Frog/cve-2022-44268 | | 
-| 20230714T13:59:48Z | CVE-2023-25157 | CVE-2023-25157 - GeoServer SQL Injection - PoC | https://github.com/win3zz/CVE-2023-25157 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T11:08:17Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 1 | 0| 
+| 20230717T02:59:42Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantamile | 0 | 0| 
+| 20230717T02:59:14Z | Null | https://github.com/taro127/ily-klee-bot | 0 | 0| 
 | 20230716T18:58:33Z | Kleenex pollenradar custom component integration for Home Assistant  | https://github.com/MarcoGos/kleenex_pollenradar | 0 | 0| 
 | 20230715T09:18:43Z | Null | https://github.com/a3nv/kleetcode | 0 | 0| 
 | 20230715T03:02:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2280 | 628| 
@@ -48,9 +51,6 @@
 | 20230714T14:53:54Z | Null | https://github.com/zheli-1/llvm-bc-constructor-for-klee-remill | 0 | 0| 
 | 20230714T08:29:05Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantabile | 0 | 0| 
 | 20230714T00:33:31Z | Null | https://github.com/Atreuz/klee-assistant-with-GUI | 0 | 0| 
-| 20230713T16:52:12Z | Kleen business coming alive | https://github.com/wcbelolli/kleen.ie | 0 | 0| 
-| 20230713T07:08:55Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 11 | 0| 
-| 20230712T19:45:05Z | Null | https://github.com/taro127/kys-klee-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230717T01:40:37Z | Exploit Scripts from CTFs and Labs | https://github.com/offensivedroid/Exploit-Scripts | 0 | 0| 
-| 20230717T01:14:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ng | 0 | 0| 
-| 20230717T01:13:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ng | 0 | 0| 
-| 20230717T01:13:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ng | 0 | 0| 
-| 20230717T01:05:58Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 483 | 358| 
-| 20230717T00:08:52Z | A Windows PDF Exploit that abuses the powershell protocol to execute payload and bat files. | https://github.com/SeleniumHack/PDF-Silent-Exploit-2023 | 0 | 0| 
-| 20230716T23:10:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5187 | 1014| 
-| 20230716T21:23:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5752 | 766| 
-| 20230716T21:23:06Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/Guuzzoory/apex-cheating | 30 | 0| 
-| 20230716T19:44:26Z | bypass the login captcha | https://github.com/znadir/capture-exploit | 0 | 0| 
+| 20230717T11:59:25Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
+| 20230717T11:28:04Z | Developing a robust framework for detecting and mitigating exploits targeting web applications | https://github.com/Pratik2004/Da-2_ISA | 0 | 0| 
+| 20230717T11:20:54Z | Exploit Scripts from CTFs and Labs | https://github.com/offensivedroid/Exploit-Scripts | 0 | 0| 
+| 20230717T11:00:32Z | Synapse internal ui for exploits (script). | https://github.com/zesty-codes/SynapseV4Lua | 0 | 0| 
+| 20230717T10:35:35Z | This repository contains security scripts and hacks useful for privielges escalation (Linux & Windows), dockers escape, antivirus bypass, post exploitation (Linux & Windows) and many other topics | https://github.com/SzymonRat/Security-scripts-and-hacking-techniques | 0 | 0| 
+| 20230717T10:31:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5328 | 748| 
+| 20230717T09:27:26Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3550 | 518| 
+| 20230717T09:09:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 51 | 8| 
+| 20230717T08:06:35Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 16 | 6| 
+| 20230717T06:30:01Z | This a temporarily fix on a Cobblemon exploit using a pokemon and its held item feature. It is confirmed to be fixed in the new 1.4.0 update but for now in the 1.3.2 version, this will do fine. | https://github.com/aaronvwx/exploitfixpokemonitem | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T11:53:26Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 24 | 4| 
+| 20230717T11:19:53Z | A simple backdoor, designed for Linux, I am not responsible for the use you give to this script. | https://github.com/Kretinga/LinuxBackdoor-Simple | 0 | 0| 
+| 20230717T04:14:59Z | Null | https://github.com/LazyCats07/Cats_Backdoor | 0 | 0| 
+| 20230717T03:08:39Z | Null | https://github.com/SCLBD/BackdoorBench | 178 | 25| 
+| 20230717T01:42:04Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 5 | 0| 
 | 20230716T23:37:39Z | [WIP] EA-based backdoor searcher (see `ea` branch) | https://github.com/Lipen/backdoor-searcher | 0 | 0| 
 | 20230716T20:43:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 89 | 10| 
 | 20230716T19:06:29Z | ⛔ This Repo Has No Backdoors!  ✅ Metemask ✅ Trust Wallet ✅ Binance Wallet ✅ CoinBase | https://github.com/NFTDrainers2/eth-drainer-nft | 1 | 0| 
 | 20230716T15:44:47Z | page | https://github.com/Javatrix912/educational_only_backdoor | 0 | 0| 
 | 20230716T13:32:09Z | Null | https://github.com/mmwan101010/DeafBackdoor_AudioNet | 0 | 0| 
-| 20230716T02:48:04Z | Null | https://github.com/FII14/backdoor-android | 0 | 0| 
-| 20230716T02:10:14Z | Null | https://github.com/rude90/PowerShell-Backdoor | 0 | 0| 
-| 20230715T18:12:51Z | Backdoor attacks benchmarks. | https://github.com/sashankneupane/backdoor-attacks-benchmark | 0 | 0| 
-| 20230715T11:21:54Z | My first attempt to make a fully functional Backdoor in Python | https://github.com/Amanelli/Backdoor | 1 | 0| 
-| 20230715T10:48:42Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 11 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T11:40:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2214 | 282| 
+| 20230717T10:25:43Z | Null | https://github.com/harish-67/fuzzy | 0 | 0| 
+| 20230717T09:39:19Z | Null | https://github.com/43116210070/fuzzy-dollop | 0 | 0| 
+| 20230717T07:35:05Z | Fuzzy string matching is a technique used to compare two strings for similarity, even when they are not exactly the same. There are various algorithms and libraries available to perform fuzzy string matching in different programming languages. One popular library is fuzzywuzzy in Python. | https://github.com/iamprashantjain/Fuzzy-Logic---String-Matching | 0 | 0| 
+| 20230717T04:37:03Z | A JIT Compiler Fuzzer for JVM based on CSE/JoNM | https://github.com/test-jitcomp/Artemis | 1 | 0| 
 | 20230717T00:47:16Z | Null | https://github.com/main-force/fuzzing-vlc | 0 | 0| 
 | 20230716T22:01:07Z | Null | https://github.com/korkinkos/REST-API-Fuzzer | 0 | 0| 
 | 20230716T21:22:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2749 | 187| 
+| 20230716T21:21:54Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1424 | 103| 
 | 20230716T19:21:40Z | bang | https://github.com/muzzammilx/fuzzy-umbrella | 0 | 0| 
-| 20230716T19:01:26Z | Null | https://github.com/hodor-sec/Fuzzing | 1 | 0| 
-| 20230716T17:05:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5038 | 527| 
-| 20230716T16:41:52Z | Evaluating fuzzer effectiveness | https://github.com/aviggiano/fuzzer-evaluation | 3 | 0| 
-| 20230716T16:23:47Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3738 | 440| 
-| 20230716T16:00:16Z | Null | https://github.com/solo-studios/kt-fuzzy | 4 | 0| 
-| 20230716T12:47:43Z | In this explanatory repo, designing a Fuzzy Controller is discussed | https://github.com/AlirezaBabaeiuky/how-to-design-Fuzzy-Controller | 0 | 0| 
 
 
 
