@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230716T21:52:37Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230717T01:14:39Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230716T16:05:40Z | CVE-2023-21746 | Null | https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746 | | 
 | 20230716T10:55:52Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230716T07:30:23Z | CVE-2022-28171 | Null | https://github.com/NyaMeeEain/CVE-2022-28171-POC | | 
@@ -68,6 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T01:14:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ng | 0 | 0| 
+| 20230717T01:13:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ng | 0 | 0| 
+| 20230717T01:13:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ng | 0 | 0| 
 | 20230717T01:05:58Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 483 | 358| 
 | 20230717T00:08:52Z | A Windows PDF Exploit that abuses the powershell protocol to execute payload and bat files. | https://github.com/SeleniumHack/PDF-Silent-Exploit-2023 | 0 | 0| 
 | 20230716T23:10:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5187 | 1014| 
@@ -75,9 +78,6 @@
 | 20230716T21:23:06Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/Guuzzoory/apex-cheating | 30 | 0| 
 | 20230716T19:44:26Z | bypass the login captcha | https://github.com/znadir/capture-exploit | 0 | 0| 
 | 20230716T18:12:04Z | ps4_exploit_arabic_basic | https://github.com/oop7/ps4_exploit_arabic | 0 | 0| 
-| 20230716T18:00:00Z | Null | https://github.com/hex4g0n/exploit_tmp | 0 | 0| 
-| 20230716T15:54:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10400 | 1623| 
-| 20230716T12:38:40Z | Null | https://github.com/MatiasIsGood/fivem-ReadDisk-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

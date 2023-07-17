@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230716T21:52:37Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230716T16:05:40Z | CVE-2023-21746 | Null | https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746 | | 
 | 20230716T10:55:52Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230716T07:30:23Z | CVE-2022-28171 | Null | https://github.com/NyaMeeEain/CVE-2022-28171-POC | | 
