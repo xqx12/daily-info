@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T12:03:37Z | This is the source code of the exploit Ultimate X, feel free to change codes, features, UI and you can add your own features and send it to the developers | https://github.com/UltimateXReleases/UltimateXSourceCode | 0 | 0| 
 | 20230717T11:59:25Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
 | 20230717T11:28:04Z | Developing a robust framework for detecting and mitigating exploits targeting web applications | https://github.com/Pratik2004/Da-2_ISA | 0 | 0| 
 | 20230717T11:20:54Z | Exploit Scripts from CTFs and Labs | https://github.com/offensivedroid/Exploit-Scripts | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230717T09:27:26Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3550 | 518| 
 | 20230717T09:09:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 51 | 8| 
 | 20230717T08:06:35Z | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | 16 | 6| 
-| 20230717T06:30:01Z | This a temporarily fix on a Cobblemon exploit using a pokemon and its held item feature. It is confirmed to be fixed in the new 1.4.0 update but for now in the 1.3.2 version, this will do fine. | https://github.com/aaronvwx/exploitfixpokemonitem | 0 | 0| 
 
 
 # backdoor on Github 推荐
