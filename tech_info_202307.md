@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T12:49:27Z | Restaurant Management Application | https://github.com/AliRazaDev27/fuzzy-spoon | 0 | 0| 
 | 20230717T12:33:27Z | Null | https://github.com/yomnataher/Fuzzy | 0 | 0| 
 | 20230717T12:25:24Z | Null | https://github.com/javidizadi/fuzzy-enigma | 0 | 0| 
 | 20230717T11:40:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2214 | 282| 
@@ -134,7 +135,6 @@
 | 20230717T04:37:03Z | A JIT Compiler Fuzzer for JVM based on CSE/JoNM | https://github.com/test-jitcomp/Artemis | 1 | 0| 
 | 20230717T00:47:16Z | Null | https://github.com/main-force/fuzzing-vlc | 0 | 0| 
 | 20230716T22:01:07Z | Null | https://github.com/korkinkos/REST-API-Fuzzer | 0 | 0| 
-| 20230716T21:22:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2749 | 187| 
 
 
 

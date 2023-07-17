@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T12:49:27Z | Restaurant Management Application | https://github.com/AliRazaDev27/fuzzy-spoon | 0 | 0| 
 | 20230717T12:33:27Z | Null | https://github.com/yomnataher/Fuzzy | 0 | 0| 
 | 20230717T12:25:24Z | Null | https://github.com/javidizadi/fuzzy-enigma | 0 | 0| 
 | 20230717T11:40:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2214 | 282| 
