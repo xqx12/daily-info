@@ -95,10 +95,10 @@
 | 20230717T20:52:50Z | Null | https://github.com/Jfrancis0518/fuzzy-spoon | 0 | 0| 
 | 20230717T20:38:50Z | Using Bootstrap for the very first time | https://github.com/DelroyGayle/fuzzy-octo-doodle | 0 | 0| 
 | 20230717T20:03:26Z | Fuzzing tool with GUI for easy visualization of target schema  | https://github.com/MostlyGenius/fuzzinator | 0 | 0| 
+| 20230717T15:06:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8814 | 1941| 
 | 20230717T12:49:27Z | Restaurant Management Application | https://github.com/AliRazaDev27/fuzzy-spoon | 0 | 0| 
 | 20230717T12:33:27Z | Null | https://github.com/yomnataher/Fuzzy | 0 | 0| 
 | 20230717T12:25:24Z | Null | https://github.com/javidizadi/fuzzy-enigma | 0 | 0| 
-| 20230717T11:40:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2214 | 282| 
 
 
 
