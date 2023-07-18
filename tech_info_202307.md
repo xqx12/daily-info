@@ -125,6 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T01:33:48Z | Null | https://github.com/poojawalhekar/fuzzy-octo-happiness | 0 | 0| 
+| 20230718T01:32:53Z | Null | https://github.com/th-duvanel/fuzzer-tests | 1 | 0| 
 | 20230718T00:12:40Z | Null | https://github.com/Animatedboar/fuzzy-ca | 0 | 0| 
 | 20230717T22:17:30Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 106 | 7| 
 | 20230717T21:40:44Z | Automate Fuzzing for Directories or endpoitns on a list of subdomains | https://github.com/MannThomare/Fuzzing | 0 | 0| 
@@ -133,8 +135,6 @@
 | 20230717T20:38:50Z | Using Bootstrap for the very first time | https://github.com/DelroyGayle/fuzzy-octo-doodle | 0 | 0| 
 | 20230717T20:03:26Z | Fuzzing tool with GUI for easy visualization of target schema  | https://github.com/MostlyGenius/fuzzinator | 0 | 0| 
 | 20230717T15:06:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8814 | 1941| 
-| 20230717T12:49:27Z | Restaurant Management Application | https://github.com/AliRazaDev27/fuzzy-spoon | 0 | 0| 
-| 20230717T12:33:27Z | Null | https://github.com/yomnataher/Fuzzy | 0 | 0| 
 
 
 
