@@ -50,7 +50,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230717T23:40:47Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 1 | 0| 
 | 20230717T22:51:29Z | Loan companies struggle to lend due to insufficient credit history. Some exploit this by defaulting. As a finance specialist, I use EDA to analyze data, ensuring deserving applicants are not rejected. | https://github.com/deepanshjha/Exploratory-Data-Analysis | 0 | 0| 
-| 20230717T22:23:01Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | 0 | 1| 
 | 20230717T20:42:42Z | aqui irei colocar algumas noticias nas quais expliquei um pouco do malware ou exploit em questao e descrevo um pouco a situaçao em contexto | https://github.com/exoForce01/grupo-de-noticias | 0 | 0| 
 | 20230717T20:29:42Z | Free DALL-E text-to-image generator using exploit in a third-party service | https://github.com/DmitrijVC/DALL-E | 0 | 0| 
 | 20230717T20:26:11Z | Exploit prisms HTTP GET requests to extract Student ID images (for research purposes only) | https://github.com/USTP-CSCORE/BRUTEFACE | 0 | 0| 
@@ -58,6 +57,7 @@
 | 20230717T19:33:20Z | Null | https://github.com/MILPDS/exploitation | 0 | 0| 
 | 20230717T17:57:35Z | Null | https://github.com/EugenMayer/cisa-known-exploited-mirror | 5 | 0| 
 | 20230717T12:08:38Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
+| 20230717T12:03:37Z | This is the source code of the exploit Ultimate X, feel free to change codes, features, UI and you can add your own features and send it to the developers | https://github.com/UltimateXReleases/UltimateXSourceCode | 0 | 0| 
 
 
 # backdoor on Github 推荐
