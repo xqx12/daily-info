@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T12:54:16Z | Null | https://github.com/Asmicc/ExploitWare | 0 | 0| 
 | 20230718T12:27:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5329 | 748| 
 | 20230718T12:23:45Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SOLORAT/APK-TO-JPG-EXPLOIT | 1 | 0| 
 | 20230718T11:56:35Z | Null | https://github.com/Yellowkitti114/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20230718T10:36:36Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 11 | 5| 
 | 20230718T10:14:10Z | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | 3 | 0| 
 | 20230718T09:27:05Z | Null | https://github.com/dram-beep/exploits | 0 | 0| 
-| 20230718T09:26:50Z | Offensive Web is a documentation website about security research, difficult concepts, bypass and new exploitation techniques. | https://github.com/xanhacks/OffensiveWeb | 2 | 0| 
 
 
 # backdoor on Github 推荐
