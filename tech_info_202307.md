@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230718T00:31:48Z | Brute Hikvision CAMS with CVE-2021-36260 Exploit | https://github.com/r3t4k3r/hikvision_brute | 0 | 0| 
-| 20230718T00:21:52Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | 0 | 1| 
+| 20230718T00:38:14Z | Brute Hikvision CAMS with CVE-2021-36260 Exploit | https://github.com/r3t4k3r/hikvision_brute | 0 | 0| 
+| 20230718T00:37:41Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | 1 | 1| 
 | 20230718T00:11:38Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | 0 | 1| 
 | 20230717T23:40:47Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 1 | 0| 
 | 20230717T22:51:29Z | Loan companies struggle to lend due to insufficient credit history. Some exploit this by defaulting. As a finance specialist, I use EDA to analyze data, ensuring deserving applicants are not rejected. | https://github.com/deepanshjha/Exploratory-Data-Analysis | 0 | 0| 

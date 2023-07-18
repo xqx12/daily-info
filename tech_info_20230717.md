@@ -55,8 +55,8 @@
 | 20230717T19:59:20Z | Spiking | https://github.com/cyber-bytezz/Exploit-Development | 0 | 0| 
 | 20230717T19:33:20Z | Null | https://github.com/MILPDS/exploitation | 0 | 0| 
 | 20230717T17:57:35Z | Null | https://github.com/EugenMayer/cisa-known-exploited-mirror | 5 | 0| 
+| 20230717T13:36:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5190 | 1015| 
 | 20230717T12:08:38Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
-| 20230717T12:03:37Z | This is the source code of the exploit Ultimate X, feel free to change codes, features, UI and you can add your own features and send it to the developers | https://github.com/UltimateXReleases/UltimateXSourceCode | 0 | 0| 
 
 
 # backdoor on Github 推荐
