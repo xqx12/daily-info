@@ -131,10 +131,10 @@
 | 20230718T09:07:41Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
 | 20230718T09:01:54Z | Null | https://github.com/AidPaike/FuzzerGPT | 1 | 0| 
 | 20230718T06:17:18Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 90 | 32| 
+| 20230718T04:44:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4763 | 1149| 
 | 20230718T01:33:48Z | Null | https://github.com/poojawalhekar/fuzzy-octo-happiness | 0 | 0| 
 | 20230718T01:32:53Z | Null | https://github.com/th-duvanel/fuzzer-tests | 1 | 0| 
 | 20230718T00:12:40Z | Null | https://github.com/Animatedboar/fuzzy-ca | 0 | 0| 
-| 20230717T22:17:30Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 106 | 7| 
 
 
 
