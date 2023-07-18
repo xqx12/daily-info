@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230718T00:21:52Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | | 
 | 20230718T00:11:38Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | | 
 | 20230717T23:50:58Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230717T22:51:07Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
@@ -35,7 +36,6 @@
 | 20230717T15:53:22Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
 | 20230717T08:06:41Z | CVE-2020-14882 | This script allows for remote code execution (RCE) on Oracle WebLogic Server | https://github.com/Danny-LLi/CVE-2020-14882 | | 
 | 20230717T04:09:49Z | CVE-2021-40449 | Null | https://github.com/toanthang1842002/CVE-2021-40449 | | 
-| 20230717T04:07:30Z | CVE-2021-40449 | Null | https://github.com/hheeyywweellccoommee/CVE-2021-40449-xarrd | | 
 
 
 # klee on Github 推荐
@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T00:21:52Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | 0 | 1| 
 | 20230718T00:11:38Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | 0 | 1| 
 | 20230717T23:40:47Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 1 | 0| 
 | 20230717T22:51:29Z | Loan companies struggle to lend due to insufficient credit history. Some exploit this by defaulting. As a finance specialist, I use EDA to analyze data, ensuring deserving applicants are not rejected. | https://github.com/deepanshjha/Exploratory-Data-Analysis | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230717T19:59:20Z | Spiking | https://github.com/cyber-bytezz/Exploit-Development | 0 | 0| 
 | 20230717T19:33:20Z | Null | https://github.com/MILPDS/exploitation | 0 | 0| 
 | 20230717T17:57:35Z | Null | https://github.com/EugenMayer/cisa-known-exploited-mirror | 5 | 0| 
-| 20230717T12:08:38Z | HTB Machine Writeups: Detailed walkthroughs for Hack The Box machines, providing step-by-step guides, exploitation techniques, and post-exploitation activities. Enhance your skills and understanding of security concepts. Educational purposes only. | https://github.com/j-040/hack-the-box-writeups | 0 | 0| 
 
 
 # backdoor on Github 推荐
