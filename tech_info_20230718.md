@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230718T12:10:30Z | -What does this software do? It allows you to turn the apk trojan created for the remote access trojan into an jpg/png file. | https://github.com/SOLORAT/APK-TO-JPG-EXPLOIT | 1 | 0| 
+| 20230718T12:23:45Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SOLORAT/APK-TO-JPG-EXPLOIT | 1 | 0| 
 | 20230718T11:56:35Z | Null | https://github.com/Yellowkitti114/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230718T11:27:14Z | The Frida Scripts Fetcher tool helps you search and extract all scripts based on the provided search keyword. | https://github.com/darklotuskdb/frida-scripts-fetcher-exploiter | 0 | 0| 
 | 20230718T11:26:15Z | Null | https://github.com/hooka8566/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
