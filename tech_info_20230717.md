@@ -21,7 +21,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230717T23:50:58Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230717T22:51:07Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
-| 20230717T22:23:01Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | | 
 | 20230717T18:15:24Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230717T15:54:27Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
 | 20230717T15:54:16Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
