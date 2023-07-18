@@ -98,6 +98,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T23:50:19Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 208 | 20| 
+| 20230717T15:38:50Z | (Will likely be short scripts demonstrating symbolic execution using angr) | https://github.com/Leodler/ctf-writeups | 0 | 0| 
 | 20230716T03:48:54Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 419 | 28| 
 | 20230716T01:13:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3492 | 483| 
 | 20230715T20:09:40Z | Path-optimal symbolic execution | https://github.com/pietrobraione/pose | 0 | 0| 
@@ -106,8 +108,6 @@
 | 20230711T22:14:00Z | A HL Symbolic Execution Engine Prototype for Reachability | https://github.com/EthanJamesLew/SEE-Reach-py | 0 | 0| 
 | 20230711T08:30:42Z | GDart: Dynamic Symbolic Execution for the JVM | https://github.com/tudo-aqua/gdart | 0 | 0| 
 | 20230711T06:55:32Z | Repository for a functional attack on miasm%s default symbolic execution engine plus solutions! | https://github.com/frank2/miasm-se-attack | 1 | 0| 
-| 20230710T16:36:19Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 78 | 11| 
-| 20230710T14:33:17Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 94 | 18| 
 
 
 # big4 on Github 推荐

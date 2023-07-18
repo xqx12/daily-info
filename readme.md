@@ -77,6 +77,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230717T23:50:19Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 208 | 20| 
+| 20230717T15:38:50Z | (Will likely be short scripts demonstrating symbolic execution using angr) | https://github.com/Leodler/ctf-writeups | 0 | 0| 
 
 
 # big4 on Github 推荐
