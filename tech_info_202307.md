@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T12:39:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 946 | 225| 
 | 20230718T11:06:36Z | Null | https://github.com/Miftakhull/Fuzzy_UAS_MIFTA | 0 | 0| 
 | 20230718T09:19:43Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
 | 20230718T09:15:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8817 | 1941| 
@@ -134,7 +135,6 @@
 | 20230718T04:44:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4763 | 1149| 
 | 20230718T01:33:48Z | Null | https://github.com/poojawalhekar/fuzzy-octo-happiness | 0 | 0| 
 | 20230718T01:32:53Z | Null | https://github.com/th-duvanel/fuzzer-tests | 1 | 0| 
-| 20230718T00:12:40Z | Null | https://github.com/Animatedboar/fuzzy-ca | 0 | 0| 
 
 
 
