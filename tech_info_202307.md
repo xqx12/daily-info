@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230718 | FIRST 2023 议题速递 | https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw| 
+| 20230718 | Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE AT... | https://github.com/Qihoo360/Luwak/tree/master| 
+| 20230718 | FIRST 2023 议题速递 | /news/31461| 
 | 20230717 | SecWiki周刊（第489期) | https://www.sec-wiki.com/weekly/489| 
 | 20230717 | 一文带你理解AST Injection | https://www.sec-in.com/article/2233| 
 | 20230717 | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw| 
@@ -18,30 +21,28 @@
 | 20230716 | 网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A| 
 | 20230716 | APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw| 
 | 20230716 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A| 
-| 20230715 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
-| 20230715 | 招：渗透入侵拿站大牛 | /topic/89| 
-| 20230714 | DISTDET：经济高效的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230718T01:27:05Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
+| 20230718T09:40:43Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
+| 20230718T09:37:53Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
+| 20230718T09:32:25Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
+| 20230718T09:01:14Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
+| 20230718T08:25:27Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
+| 20230718T07:29:10Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
+| 20230718T06:30:10Z | CVE-2023-36884 | CVE-2023-36884 临时补丁 | https://github.com/or2me/CVE-2023-36884_patcher | | 
+| 20230718T03:41:09Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
 | 20230718T00:37:41Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | | 
 | 20230718T00:11:38Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | | 
-| 20230717T23:50:58Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
-| 20230717T18:15:24Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
-| 20230717T15:54:27Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
-| 20230717T15:54:16Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
-| 20230717T15:53:22Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
-| 20230717T08:06:41Z | CVE-2020-14882 | This script allows for remote code execution (RCE) on Oracle WebLogic Server | https://github.com/Danny-LLi/CVE-2020-14882 | | 
-| 20230717T04:09:49Z | CVE-2021-40449 | Null | https://github.com/toanthang1842002/CVE-2021-40449 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230717T11:37:42Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 12 | 0| 
+| 20230718T07:09:34Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 12 | 0| 
+| 20230718T03:15:58Z | Null | https://github.com/igloo1505/kleenBrake-Ionic | 0 | 0| 
 | 20230717T11:08:17Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 1 | 0| 
 | 20230717T02:59:42Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantamile | 0 | 0| 
 | 20230717T02:59:14Z | Null | https://github.com/taro127/ily-klee-bot | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230715T03:02:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2280 | 628| 
 | 20230715T01:47:13Z | project 0715 | https://github.com/iiiiwi/iiiiwi.github.klee_player | 0 | 0| 
 | 20230714T14:53:54Z | Null | https://github.com/zheli-1/llvm-bc-constructor-for-klee-remill | 0 | 0| 
-| 20230714T08:29:05Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantabile | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230718T00:38:14Z | Brute Hikvision CAMS with CVE-2021-36260 Exploit | https://github.com/r3t4k3r/hikvision_brute | 0 | 1| 
-| 20230718T00:37:41Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | 1 | 1| 
-| 20230718T00:11:38Z | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | 0 | 1| 
-| 20230717T23:40:47Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 1 | 0| 
-| 20230717T22:51:29Z | Loan companies struggle to lend due to insufficient credit history. Some exploit this by defaulting. As a finance specialist, I use EDA to analyze data, ensuring deserving applicants are not rejected. | https://github.com/deepanshjha/Exploratory-Data-Analysis | 0 | 0| 
-| 20230717T20:42:42Z | aqui irei colocar algumas noticias nas quais expliquei um pouco do malware ou exploit em questao e descrevo um pouco a situaçao em contexto | https://github.com/exoForce01/grupo-de-noticias | 0 | 0| 
-| 20230717T20:29:42Z | Free DALL-E text-to-image generator using exploit in a third-party service | https://github.com/DmitrijVC/DALL-E | 0 | 0| 
-| 20230717T20:26:11Z | Exploit prisms HTTP GET requests to extract Student ID images (for research purposes only) | https://github.com/USTP-CSCORE/BRUTEFACE | 0 | 0| 
-| 20230717T19:59:20Z | Spiking | https://github.com/cyber-bytezz/Exploit-Development | 0 | 0| 
-| 20230717T19:33:20Z | Null | https://github.com/MILPDS/exploitation | 0 | 0| 
+| 20230718T11:56:57Z | -What does this software do? It allows you to turn the apk work created for the remote access trojan into an jpg/png file. | https://github.com/SOLORAT/APK-TO-JPG-EXPLOIT | 1 | 0| 
+| 20230718T11:56:35Z | Null | https://github.com/Yellowkitti114/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230718T11:27:14Z | The Frida Scripts Fetcher tool helps you search and extract all scripts based on the provided search keyword. | https://github.com/darklotuskdb/frida-scripts-fetcher-exploiter | 0 | 0| 
+| 20230718T11:26:15Z | Null | https://github.com/hooka8566/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230718T11:19:52Z | Buffer Overflow Exploit Project Report | https://github.com/AlexDkj/BufferOverflowExploit | 0 | 0| 
+| 20230718T10:36:36Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 11 | 5| 
+| 20230718T10:14:10Z | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | 3 | 0| 
+| 20230718T09:27:05Z | Null | https://github.com/dram-beep/exploits | 0 | 0| 
+| 20230718T09:26:50Z | Offensive Web is a documentation website about security research, difficult concepts, bypass and new exploitation techniques. | https://github.com/xanhacks/OffensiveWeb | 2 | 0| 
+| 20230718T09:01:59Z | Null | https://github.com/Sirenawilliams898/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T09:32:34Z | Null | https://github.com/HowardYou/BackdoorBoys-UE5-3A-GameProject | 0 | 0| 
+| 20230718T08:34:42Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
+| 20230718T04:05:50Z | Null | https://github.com/mayanksomani07/reverse-backdoor | 0 | 0| 
+| 20230718T02:05:46Z | Null | https://github.com/rude90/power-backdoor | 0 | 0| 
 | 20230717T21:19:05Z | ⛔ No Backdoors! ✅ Metemask ✅ Trust Wallet ✅ Binance Wallet ✅ CoinBase | https://github.com/NFTDrainers2/nft-drainer-ETH-Crypto-2023 | 1 | 0| 
 | 20230717T17:11:19Z | This is the powerful listener and backdoor created by shameel using python | https://github.com/PS4SPIDEY/PS4-SPIDEYbackdoor | 0 | 0| 
 | 20230717T13:12:47Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 168 | 18| 
 | 20230717T12:22:54Z | Null | https://github.com/Sen0-dev/BackDoor | 0 | 0| 
 | 20230717T11:53:26Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 24 | 4| 
 | 20230717T11:19:53Z | A simple backdoor, designed for Linux, I am not responsible for the use you give to this script. | https://github.com/Kretinga/LinuxBackdoor-Simple | 0 | 0| 
-| 20230717T04:14:59Z | Null | https://github.com/LazyCats07/Cats_Backdoor | 0 | 0| 
-| 20230717T03:08:39Z | Null | https://github.com/SCLBD/BackdoorBench | 178 | 25| 
-| 20230717T01:42:04Z | system3...No More SMT! Hittin Samsung%s Backdoor since May 2023. | https://github.com/wr3cckl3ss1/system3 | 5 | 0| 
-| 20230716T23:37:39Z | [WIP] EA-based backdoor searcher (see `ea` branch) | https://github.com/Lipen/backdoor-searcher | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T11:06:36Z | Null | https://github.com/Miftakhull/Fuzzy_UAS_MIFTA | 0 | 0| 
+| 20230718T09:19:43Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
+| 20230718T09:15:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8817 | 1941| 
+| 20230718T09:07:41Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
+| 20230718T09:01:54Z | Null | https://github.com/AidPaike/FuzzerGPT | 1 | 0| 
+| 20230718T06:17:18Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 90 | 32| 
 | 20230718T01:33:48Z | Null | https://github.com/poojawalhekar/fuzzy-octo-happiness | 0 | 0| 
 | 20230718T01:32:53Z | Null | https://github.com/th-duvanel/fuzzer-tests | 1 | 0| 
 | 20230718T00:12:40Z | Null | https://github.com/Animatedboar/fuzzy-ca | 0 | 0| 
 | 20230717T22:17:30Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 106 | 7| 
-| 20230717T21:40:44Z | Automate Fuzzing for Directories or endpoitns on a list of subdomains | https://github.com/MannThomare/Fuzzing | 0 | 0| 
-| 20230717T20:57:12Z | Null | https://github.com/google/fuzztest | 341 | 23| 
-| 20230717T20:52:50Z | Null | https://github.com/Jfrancis0518/fuzzy-spoon | 0 | 0| 
-| 20230717T20:38:50Z | Using Bootstrap for the very first time | https://github.com/DelroyGayle/fuzzy-octo-doodle | 0 | 0| 
-| 20230717T20:03:26Z | Fuzzing tool with GUI for easy visualization of target schema  | https://github.com/MostlyGenius/fuzzinator | 0 | 0| 
-| 20230717T15:06:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8814 | 1941| 
 
 
 
