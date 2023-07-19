@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T01:01:21Z | Ex Wp Exploit Website wordpress  | https://github.com/kamalkarlos/ExWp | 0 | 0| 
 | 20230719T00:53:29Z | Exploiting NIM with ctr-httpwn to ipctakeover DSP for GPUPROT set and reach kernel | https://github.com/luigoalma/nimdsphax | 3 | 0| 
 | 20230718T23:00:11Z | Source code to the Roblox exploit, Nihon V3. | https://github.com/Dev-Nitro/SrcNi | 0 | 0| 
 | 20230718T22:46:42Z | Source code to an unreleased Roblox exploit (with 98% UNC), Cherry. | https://github.com/Dev-Nitro/srcch | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230718T19:03:30Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 2 | 0| 
 | 20230718T18:42:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5157 | 651| 
 | 20230718T16:23:27Z | HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation, ICCV 2023 | https://github.com/franciszzj/HiLo | 2 | 0| 
-| 20230718T12:54:16Z | Null | https://github.com/Asmicc/ExploitWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230719T00:57:41Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
+| 20230719T00:59:39Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
 | 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
 | 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
 | 20230718T23:10:16Z | Null | https://github.com/BasmalaMostafa/Fuzzy_Algorithm | 0 | 0| 
