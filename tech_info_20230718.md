@@ -53,9 +53,9 @@
 | 20230718T21:48:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5758 | 767| 
 | 20230718T20:11:32Z | Roblox Exploit UIs For an Easier Life | https://github.com/BreApple/RobloxUI | 1 | 0| 
 | 20230718T19:03:30Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 2 | 0| 
+| 20230718T18:42:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5157 | 651| 
 | 20230718T16:23:27Z | HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation, ICCV 2023 | https://github.com/franciszzj/HiLo | 2 | 0| 
 | 20230718T12:54:16Z | Null | https://github.com/Asmicc/ExploitWare | 0 | 0| 
-| 20230718T12:32:20Z | Exploitation of process killer drivers | https://github.com/xalicex/Killers | 121 | 12| 
 
 
 # backdoor on Github 推荐
