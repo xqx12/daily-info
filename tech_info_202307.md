@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T00:57:41Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
 | 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
 | 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
 | 20230718T23:10:16Z | Null | https://github.com/BasmalaMostafa/Fuzzy_Algorithm | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230718T14:18:24Z | Null | https://github.com/protocol-fuzzing/edhoc-fuzzer | 0 | 0| 
 | 20230718T12:39:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 946 | 225| 
 | 20230718T11:06:36Z | Null | https://github.com/Miftakhull/Fuzzy_UAS_MIFTA | 0 | 0| 
-| 20230718T10:27:11Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 104 | 2| 
 
 
 
