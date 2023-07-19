@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:02:36Z | Practice purpose | https://github.com/kolaanu/fuzzy-couscous | 0 | 0| 
 | 20230719T11:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8820 | 1941| 
 | 20230719T11:18:59Z | Flashcards study app for me | https://github.com/Ventuscoder/fuzzy-octo-engine | 0 | 0| 
 | 20230719T09:52:17Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
@@ -134,7 +135,6 @@
 | 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
 | 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
 | 20230718T23:10:16Z | Null | https://github.com/BasmalaMostafa/Fuzzy_Algorithm | 0 | 0| 
-| 20230718T19:46:50Z | Fun, intentionally vague weather app (hope you like emojis!) | https://github.com/jackwherry/FuzzyWeather | 0 | 0| 
 
 
 
