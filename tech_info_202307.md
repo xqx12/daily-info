@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230719T01:45:33Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
+| 20230719T01:44:17Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 | 20230718T21:23:52Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
 | 20230718T20:40:10Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
 | 20230718T20:13:19Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
-| 20230718T18:33:04Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
 | 20230718T16:09:06Z | CVE-2023-38434 | Proof of Concept for CVE-2023-38434 | https://github.com/Halcy0nic/CVE-2023-38434 | | 
 | 20230718T16:02:05Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
 | 20230718T15:37:00Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
 | 20230718T15:35:18Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 | 20230718T15:04:59Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
-| 20230718T09:40:43Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
 
 
 # klee on Github 推荐
