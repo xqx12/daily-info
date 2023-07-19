@@ -74,6 +74,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:44:05Z | Null | https://github.com/jtj97/tensor_fuzz_pytorch | 0 | 0| 
+| 20230719T12:42:46Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
 | 20230719T12:27:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
 | 20230719T12:17:30Z | Practice purpose | https://github.com/kolaanu/fuzzy-couscous | 0 | 0| 
 | 20230719T11:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8820 | 1941| 

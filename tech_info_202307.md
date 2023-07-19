@@ -125,6 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:44:05Z | Null | https://github.com/jtj97/tensor_fuzz_pytorch | 0 | 0| 
+| 20230719T12:42:46Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
 | 20230719T12:27:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
 | 20230719T12:17:30Z | Practice purpose | https://github.com/kolaanu/fuzzy-couscous | 0 | 0| 
 | 20230719T11:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8820 | 1941| 
@@ -133,8 +135,6 @@
 | 20230719T06:27:07Z | Null | https://github.com/tonkatommy/fuzzy-robot | 0 | 0| 
 | 20230719T03:57:34Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 529 | 83| 
 | 20230719T00:59:39Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
-| 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
-| 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
 
 
 
