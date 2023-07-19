@@ -60,11 +60,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:03:48Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1120 | 130| 
+| 20230719T09:14:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 60 | 26| 
+| 20230719T08:05:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3494 | 483| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T06:39:41Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 714 | 115| 
 
 
 # fuzz on Github 推荐
