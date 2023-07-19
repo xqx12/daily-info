@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230718T23:38:22Z | Exploiting NIM with ctr-httpwn to ipctakeover DSP for GPUPROT set and reach kernel | https://github.com/luigoalma/nimdsphax | 2 | 0| 
+| 20230719T00:53:29Z | Exploiting NIM with ctr-httpwn to ipctakeover DSP for GPUPROT set and reach kernel | https://github.com/luigoalma/nimdsphax | 3 | 0| 
 | 20230718T23:00:11Z | Source code to the Roblox exploit, Nihon V3. | https://github.com/Dev-Nitro/SrcNi | 0 | 0| 
 | 20230718T22:46:42Z | Source code to an unreleased Roblox exploit (with 98% UNC), Cherry. | https://github.com/Dev-Nitro/srcch | 0 | 0| 
 | 20230718T21:51:55Z | A library to produce cybersecurity exploitation routes (exploit flows). Inspired by TensorFlow. | https://github.com/vmayoral/ExploitFlow | 0 | 0| 
