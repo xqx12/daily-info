@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:39:48Z | Zhang Shell Bypass ASPX - Exploit | https://github.com/syedzhang/Zhangaspxshell | 0 | 0| 
 | 20230719T11:45:37Z | Null | https://github.com/restdone/exploit_restdone | 0 | 0| 
 | 20230719T11:40:06Z | This is just a simple web Tetris game development, he has no reference value  | https://github.com/LiuChuanMW/GameTSTestExploit | 0 | 0| 
 | 20230719T11:27:36Z | A theme upload functinality in Pluck CMS before 4.7.16 allows an admin privileged user to gain access in the host through the %themes files%, which may result in remote code execution. This rendition of the original exploit includes patches for problems I had when executing the script and automatic theme shell injection | https://github.com/j-4ck/PluckCMS | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230719T11:00:05Z | Null | https://github.com/Testessths/exploits | 0 | 0| 
 | 20230719T10:56:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5331 | 748| 
 | 20230719T10:53:31Z | Estimation of the pose of a flock of drones. Built in ROS2 and exploiting the MDS algorithm | https://github.com/oselin/drone-pose-estimation | 0 | 1| 
-| 20230719T10:42:09Z | Null | https://github.com/zPrestigee/SYNERGY-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
