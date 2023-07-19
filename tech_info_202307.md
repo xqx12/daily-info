@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T12:51:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1f1e1e7d-dc35-488f-9c50-8f6e78b9dffc-OEb0T-exploit-claim | 0 | 0| 
 | 20230719T12:39:48Z | Zhang Shell Bypass ASPX - Exploit | https://github.com/syedzhang/Zhangaspxshell | 0 | 0| 
 | 20230719T11:45:37Z | Null | https://github.com/restdone/exploit_restdone | 0 | 0| 
 | 20230719T11:40:06Z | This is just a simple web Tetris game development, he has no reference value  | https://github.com/LiuChuanMW/GameTSTestExploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230719T11:19:07Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 51 | 8| 
 | 20230719T11:00:05Z | Null | https://github.com/Testessths/exploits | 0 | 0| 
 | 20230719T10:56:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5331 | 748| 
-| 20230719T10:53:31Z | Estimation of the pose of a flock of drones. Built in ROS2 and exploiting the MDS algorithm | https://github.com/oselin/drone-pose-estimation | 0 | 1| 
 
 
 # backdoor on Github 推荐
