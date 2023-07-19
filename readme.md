@@ -19,16 +19,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230718T20:40:10Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
+| 20230718T20:13:19Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
+| 20230718T18:33:04Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
+| 20230718T16:09:06Z | CVE-2023-38434 | Proof of Concept for CVE-2023-38434 | https://github.com/Halcy0nic/CVE-2023-38434 | | 
+| 20230718T16:02:05Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
+| 20230718T15:37:00Z | CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | | 
+| 20230718T15:35:18Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
+| 20230718T15:04:59Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
 | 20230718T09:40:43Z | CVE-2023-28121 | CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]   | https://github.com/im-hanzou/Mass-CVE-2023-28121 | | 
-| 20230718T09:37:53Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
-| 20230718T09:32:25Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
-| 20230718T09:01:14Z | CVE-2022-30190 | Null | https://github.com/Muhammad-Ali007/Follina_MSDT_CVE-2022-30190 | | 
 | 20230718T08:25:27Z | CVE-2023-23397 | Null | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | | 
-| 20230718T07:29:10Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
-| 20230718T06:30:10Z | CVE-2023-36884 | CVE-2023-36884 临时补丁 | https://github.com/or2me/CVE-2023-36884_patcher | | 
-| 20230718T03:41:09Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
-| 20230718T00:37:41Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/auto-cve-2022-44268.sh | | 
-| 20230718T00:11:38Z | cve-2022-44268 | Automating Exploitation of CVE-2022-44268 ImageMagick Arbitrary File Read | https://github.com/narekkay/autoexploit-cve-2022-44268 | | 
 
 
 # klee on Github 推荐
@@ -46,21 +46,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T23:38:22Z | Exploiting NIM with ctr-httpwn to ipctakeover DSP for GPUPROT set and reach kernel | https://github.com/luigoalma/nimdsphax | 2 | 0| 
+| 20230718T23:00:11Z | Source code to the Roblox exploit, Nihon V3. | https://github.com/Dev-Nitro/SrcNi | 0 | 0| 
+| 20230718T22:46:42Z | Source code to an unreleased Roblox exploit (with 98% UNC), Cherry. | https://github.com/Dev-Nitro/srcch | 0 | 0| 
+| 20230718T21:51:55Z | A library to produce cybersecurity exploitation routes (exploit flows). Inspired by TensorFlow. | https://github.com/vmayoral/ExploitFlow | 0 | 0| 
+| 20230718T21:48:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5758 | 767| 
+| 20230718T20:11:32Z | Roblox Exploit UIs For an Easier Life | https://github.com/BreApple/RobloxUI | 1 | 0| 
+| 20230718T19:03:30Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 2 | 0| 
+| 20230718T16:23:27Z | HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation, ICCV 2023 | https://github.com/franciszzj/HiLo | 2 | 0| 
 | 20230718T12:54:16Z | Null | https://github.com/Asmicc/ExploitWare | 0 | 0| 
-| 20230718T12:27:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5329 | 748| 
-| 20230718T12:23:45Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SOLORAT/APK-TO-JPG-EXPLOIT | 1 | 0| 
-| 20230718T11:56:35Z | Null | https://github.com/Yellowkitti114/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230718T11:27:14Z | The Frida Scripts Fetcher tool helps you search and extract all scripts based on the provided search keyword. | https://github.com/darklotuskdb/frida-scripts-fetcher-exploiter | 0 | 0| 
-| 20230718T11:26:15Z | Null | https://github.com/hooka8566/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230718T11:19:52Z | Buffer Overflow Exploit Project Report | https://github.com/AlexDkj/BufferOverflowExploit | 0 | 0| 
-| 20230718T10:36:36Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 11 | 5| 
-| 20230718T10:14:10Z | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | 3 | 0| 
-| 20230718T09:27:05Z | Null | https://github.com/dram-beep/exploits | 0 | 0| 
+| 20230718T12:32:20Z | Exploitation of process killer drivers | https://github.com/xalicex/Killers | 121 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T20:33:19Z | Null | https://github.com/tolgacaner/Python-Backdoor | 0 | 0| 
+| 20230718T19:52:00Z | Simple backdoor using python | https://github.com/IRONmanAbhi/pythonBackdoor | 0 | 0| 
+| 20230718T16:07:12Z | This is the powerful listener and backdoor created by shameel using python | https://github.com/PS4SPIDEY/PS4backdoor | 0 | 0| 
 | 20230718T09:32:34Z | Null | https://github.com/HowardYou/BackdoorBoys-UE5-3A-GameProject | 0 | 0| 
 | 20230718T08:34:42Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
 | 20230718T04:05:50Z | Null | https://github.com/mayanksomani07/reverse-backdoor | 0 | 0| 
@@ -80,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
+| 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
+| 20230718T23:10:16Z | Null | https://github.com/BasmalaMostafa/Fuzzy_Algorithm | 0 | 0| 
+| 20230718T19:46:50Z | Fun, intentionally vague weather app (hope you like emojis!) | https://github.com/jackwherry/FuzzyWeather | 0 | 0| 
+| 20230718T17:38:27Z | Null | https://github.com/redruM14/fuzzy-doodle | 0 | 0| 
+| 20230718T16:29:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 188| 
+| 20230718T14:18:24Z | Null | https://github.com/protocol-fuzzing/edhoc-fuzzer | 0 | 0| 
 | 20230718T12:39:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 946 | 225| 
 | 20230718T11:06:36Z | Null | https://github.com/Miftakhull/Fuzzy_UAS_MIFTA | 0 | 0| 
-| 20230718T09:19:43Z | Corpus storage for DLXEmu fuzzers | https://github.com/AMS21/DLXEmu-Corpus | 0 | 0| 
-| 20230718T09:15:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8817 | 1941| 
-| 20230718T09:07:41Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
-| 20230718T09:01:54Z | Null | https://github.com/AidPaike/FuzzerGPT | 1 | 0| 
-| 20230718T06:17:18Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 90 | 32| 
-| 20230718T04:44:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4763 | 1149| 
-| 20230718T01:33:48Z | Null | https://github.com/poojawalhekar/fuzzy-octo-happiness | 0 | 0| 
-| 20230718T01:32:53Z | Null | https://github.com/th-duvanel/fuzzer-tests | 1 | 0| 
+| 20230718T10:27:11Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 104 | 2| 
 
 
 
