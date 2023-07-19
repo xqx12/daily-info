@@ -80,6 +80,7 @@
 | 20230719T09:52:17Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
 | 20230719T09:03:31Z | Null | https://github.com/GreenyNg/Fuzzy_weather | 0 | 0| 
 | 20230719T06:27:07Z | Null | https://github.com/tonkatommy/fuzzy-robot | 0 | 0| 
+| 20230719T03:57:34Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 529 | 83| 
 | 20230719T00:59:39Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
 
 

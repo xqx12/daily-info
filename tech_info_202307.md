@@ -131,10 +131,10 @@
 | 20230719T09:52:17Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
 | 20230719T09:03:31Z | Null | https://github.com/GreenyNg/Fuzzy_weather | 0 | 0| 
 | 20230719T06:27:07Z | Null | https://github.com/tonkatommy/fuzzy-robot | 0 | 0| 
+| 20230719T03:57:34Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 529 | 83| 
 | 20230719T00:59:39Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPformer | 0 | 0| 
 | 20230718T23:51:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4764 | 1149| 
 | 20230718T23:28:13Z | The Dumb Network Fuzzer | https://github.com/arunmagesh/dumb-nfuzz | 17 | 3| 
-| 20230718T23:10:16Z | Null | https://github.com/BasmalaMostafa/Fuzzy_Algorithm | 0 | 0| 
 
 
 
