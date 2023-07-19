@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230719T01:15:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5158 | 651| 
 | 20230719T01:01:21Z | Ex Wp Exploit Website wordpress  | https://github.com/kamalkarlos/ExWp | 0 | 0| 
 | 20230719T00:53:29Z | Exploiting NIM with ctr-httpwn to ipctakeover DSP for GPUPROT set and reach kernel | https://github.com/luigoalma/nimdsphax | 3 | 0| 
 | 20230718T23:00:11Z | Source code to the Roblox exploit, Nihon V3. | https://github.com/Dev-Nitro/SrcNi | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230718T21:48:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5758 | 767| 
 | 20230718T20:11:32Z | Roblox Exploit UIs For an Easier Life | https://github.com/BreApple/RobloxUI | 1 | 0| 
 | 20230718T19:03:30Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 2 | 0| 
-| 20230718T18:42:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5157 | 651| 
 | 20230718T16:23:27Z | HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation, ICCV 2023 | https://github.com/franciszzj/HiLo | 2 | 0| 
 
 
