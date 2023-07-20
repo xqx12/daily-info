@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230720T09:30:47Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/CVE-2023-28121 | | 
+| 20230720T09:20:14Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
+| 20230720T05:41:03Z | CVE-2021-23017 | Null | https://github.com/lakshit1212/CVE-2021-23017-PoC | | 
+| 20230720T04:24:22Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20230720T02:19:02Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230720T00:19:34Z | CVE-2023-27163 | CVE-2023-27163 | https://github.com/overgrowncarrot1/CVE-2023-27163 | | 
 | 20230719T20:43:06Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
 | 20230719T18:18:16Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
 | 20230719T17:49:47Z | CVE-2021-521 | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | https://github.com/NagendraPittu/CVE-2021-521-Exploit | | 
 | 20230719T16:35:47Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
-| 20230719T16:23:56Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | | 
-| 20230719T14:51:05Z | CVE-2023-37771 | CVE | https://github.com/anky-123/CVE-2023-37771 | | 
-| 20230719T14:30:56Z | CVE-2023-30765 | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | https://github.com/0xfml/CVE-2023-30765 | | 
-| 20230719T14:18:51Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
-| 20230719T09:46:12Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
 
 
 # klee on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230720T00:14:33Z | Null | https://github.com/Pedro-luc/Exploit | 0 | 0| 
-| 20230719T22:40:28Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
-| 20230719T22:01:46Z | A repo for things I learned while researching how to identify and diagnose mobile devices. Including some exploits. I never got around to finishing this but will give all my notes out upon request. | https://github.com/fsinnes/Mobile-Diagnostics-Research | 7 | 0| 
-| 20230719T21:13:05Z | A free, completely open-source and powerful selfbot allowing you to fully reach the potential of Discord. Includes numerous commands designed for fun, trolling, raiding but mostly to improve your Discord experience. Even includes an AI chatbot along with image generation. | https://github.com/Najmul190/Avarice-Selfbot | 2 | 1| 
-| 20230719T20:39:05Z | Here is my Python exploit to explore the SSRF vulnerability in the IronCorp machine on TryHackMe. | https://github.com/Gutierre0x80/IronCorp | 0 | 0| 
-| 20230719T19:50:10Z | A automation script to bypass 403 | https://github.com/oyeanmol/bypasser | 0 | 0| 
-| 20230719T19:45:43Z | A Repository Containing my Exploits and scripts that I use in CTF (Capture the Flag). | https://github.com/oyeanmol/CTF-Exploits | 0 | 0| 
-| 20230719T17:49:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5165 | 652| 
-| 20230719T12:54:28Z | Null | https://github.com/corehandler/exploits | 0 | 0| 
-| 20230719T12:51:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1f1e1e7d-dc35-488f-9c50-8f6e78b9dffc-OEb0T-exploit-claim | 0 | 0| 
+| 20230720T11:49:04Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
+| 20230720T10:53:19Z | Null | https://github.com/aaKingRamos/Exploit | 0 | 0| 
+| 20230720T10:28:22Z | Implementation of a non-adaptive biometric template recovery attack exploiting the cleartext score disclosure vulnerability of HE-based BTPs. | https://github.com/aminabassit/tra-he-btps | 0 | 0| 
+| 20230720T10:25:52Z | Python  | https://github.com/ValentaA/Exploits | 0 | 0| 
+| 20230720T10:16:11Z | Dynamic monitoring of the effects of adherence to medication on survival in heart failure patients: A joint modelling approach exploiting time-varying covariates. | https://github.com/mspreafico/JMadherence | 0 | 0| 
+| 20230720T10:07:18Z | Codebase for the experiments performed in the paper %Pincering SKINNY by Exploiting Slow Diffusion: Enhancing Differential Power Analysis with Cluster Graph Inference% | https://github.com/Simula-UiB/CGI-DPA | 0 | 0| 
+| 20230720T09:39:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5333 | 748| 
+| 20230720T09:25:52Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
+| 20230720T09:20:14Z | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | 0 | 0| 
+| 20230720T08:58:53Z | Null | https://github.com/khulnasoft-labs/exploitdb | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230720T10:10:42Z | My first attempt to make a fully functional Backdoor in Python | https://github.com/Amanelli/Backdoor | 2 | 0| 
+| 20230720T03:41:54Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 171 | 18| 
+| 20230720T03:38:34Z | AIRT(Advanced incident response tool) is a tool set for incident response which works on linux platform.  AIRT is dedicated to discover the kernel backdoors on linux platform. | https://github.com/madsys/AIRT | 2 | 1| 
 | 20230719T18:15:29Z | Backdoor for manipulating with other computers | https://github.com/legion3trunn3r/Backdoor | 0 | 0| 
 | 20230719T15:50:33Z | This is the powerful listener and backdoor created by shameel using python | https://github.com/PS4SPIDEY/PS4backdoor | 0 | 0| 
-| 20230719T08:32:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 170 | 18| 
 | 20230718T20:33:19Z | Null | https://github.com/tolgacaner/Python-Backdoor | 0 | 0| 
 | 20230718T19:52:00Z | Simple backdoor using python | https://github.com/IRONmanAbhi/pythonBackdoor | 0 | 0| 
 | 20230718T17:06:42Z | Implementation of %Backdoor Defense using Non-Adversarial Backdoor% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 1 | 0| 
 | 20230718T09:32:34Z | Null | https://github.com/HowardYou/BackdoorBoys-UE5-3A-GameProject | 0 | 0| 
 | 20230718T08:34:42Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
-| 20230718T04:05:50Z | Null | https://github.com/mayanksomani07/reverse-backdoor | 0 | 0| 
-| 20230718T02:05:46Z | Null | https://github.com/rude90/power-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230720T11:41:09Z | fuzzing_101 | https://github.com/ash1n2/fuzzing_101 | 0 | 0| 
+| 20230720T11:16:28Z | Null | https://github.com/Narayanan-info/Fuzzdir_X | 0 | 0| 
+| 20230720T11:13:39Z | First lesson test | https://github.com/Lizard-Wiz/fuzzy-bear | 0 | 0| 
+| 20230720T11:09:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8824 | 1943| 
+| 20230720T10:29:54Z | Null | https://github.com/scroll-tech/zkevm-fuzzer | 0 | 0| 
+| 20230720T09:45:18Z | Fuzzing tool for Ethereum deposits. | https://github.com/kevinbogner/deposit-fuzz | 0 | 0| 
 | 20230720T00:42:01Z | Null | https://github.com/jmbannon/fuzzy-media-renamer | 0 | 0| 
 | 20230720T00:09:39Z | Null | https://github.com/ammar3443/Fuzz-Pedal | 0 | 0| 
 | 20230719T21:27:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 601 | 74| 
 | 20230719T21:26:26Z | A repo to test that new Bun thing 🥟😉 | https://github.com/GabrielSahdo/fuzzy-fortnight | 0 | 0| 
-| 20230719T19:58:45Z | Null | https://github.com/Onerboy/fuzzy-train | 0 | 0| 
-| 20230719T19:13:46Z | Null | https://github.com/parafoil1975/fuzzy-winner | 56 | 0| 
-| 20230719T18:33:45Z | Null | https://github.com/Amirrezahmi/Type2FuzzyNet-for-Object-Classification | 1 | 0| 
-| 20230719T18:01:27Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1900 | 371| 
-| 20230719T16:12:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3741 | 442| 
-| 20230719T16:05:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 188| 
 
 
 
