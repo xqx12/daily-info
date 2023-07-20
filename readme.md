@@ -18,6 +18,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230720T09:30:47Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/CVE-2023-28121 | | 
 | 20230720T09:20:14Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
+| 20230720T08:26:45Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
 | 20230720T05:41:03Z | CVE-2021-23017 | Null | https://github.com/lakshit1212/CVE-2021-23017-PoC | | 
 | 20230720T04:24:22Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20230720T02:19:02Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 

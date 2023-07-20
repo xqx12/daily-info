@@ -28,6 +28,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230720T09:30:47Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/CVE-2023-28121 | | 
 | 20230720T09:20:14Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
+| 20230720T08:26:45Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
 | 20230720T05:41:03Z | CVE-2021-23017 | Null | https://github.com/lakshit1212/CVE-2021-23017-PoC | | 
 | 20230720T04:24:22Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20230720T02:19:02Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
@@ -35,7 +36,6 @@
 | 20230719T20:43:06Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
 | 20230719T18:18:16Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
 | 20230719T17:49:47Z | CVE-2021-521 | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | https://github.com/NagendraPittu/CVE-2021-521-Exploit | | 
-| 20230719T16:35:47Z | CVE-2023-37582 | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | https://github.com/Malayke/CVE-2023-37582_EXPLOIT | | 
 
 
 # klee on Github 推荐
