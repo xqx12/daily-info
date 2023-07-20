@@ -129,12 +129,12 @@
 | 20230720T11:16:28Z | Null | https://github.com/Narayanan-info/Fuzzdir_X | 0 | 0| 
 | 20230720T11:13:39Z | First lesson test | https://github.com/Lizard-Wiz/fuzzy-bear | 0 | 0| 
 | 20230720T11:09:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8824 | 1943| 
+| 20230720T10:46:26Z | Null | https://github.com/google/fuzztest | 346 | 25| 
 | 20230720T10:29:54Z | Null | https://github.com/scroll-tech/zkevm-fuzzer | 0 | 0| 
 | 20230720T09:45:18Z | Fuzzing tool for Ethereum deposits. | https://github.com/kevinbogner/deposit-fuzz | 0 | 0| 
 | 20230720T00:42:01Z | Null | https://github.com/jmbannon/fuzzy-media-renamer | 0 | 0| 
 | 20230720T00:09:39Z | Null | https://github.com/ammar3443/Fuzz-Pedal | 0 | 0| 
 | 20230719T21:27:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 601 | 74| 
-| 20230719T21:26:26Z | A repo to test that new Bun thing 🥟😉 | https://github.com/GabrielSahdo/fuzzy-fortnight | 0 | 0| 
 
 
 
