@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230720T12:01:09Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1898 | 186| 
 | 20230720T11:49:04Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
 | 20230720T10:53:19Z | Null | https://github.com/aaKingRamos/Exploit | 0 | 0| 
 | 20230720T10:28:22Z | Implementation of a non-adaptive biometric template recovery attack exploiting the cleartext score disclosure vulnerability of HE-based BTPs. | https://github.com/aminabassit/tra-he-btps | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230720T09:39:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5333 | 748| 
 | 20230720T09:25:52Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
 | 20230720T09:20:14Z | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | 0 | 0| 
-| 20230720T08:58:53Z | Null | https://github.com/khulnasoft-labs/exploitdb | 0 | 0| 
 
 
 # backdoor on Github 推荐
