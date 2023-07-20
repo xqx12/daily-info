@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230720T00:38:58Z | Null | https://github.com/jmbannon/fuzzy-media-renamer | 0 | 0| 
 | 20230720T00:09:39Z | Null | https://github.com/ammar3443/Fuzz-Pedal | 0 | 0| 
 | 20230719T21:26:26Z | A repo to test that new Bun thing 🥟😉 | https://github.com/GabrielSahdo/fuzzy-fortnight | 0 | 0| 
 | 20230719T19:58:45Z | Null | https://github.com/Onerboy/fuzzy-train | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230719T16:12:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3741 | 442| 
 | 20230719T16:05:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 188| 
 | 20230719T12:50:56Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
-| 20230719T12:44:05Z | Null | https://github.com/jtj97/tensor_fuzz_pytorch | 0 | 0| 
 
 
 
