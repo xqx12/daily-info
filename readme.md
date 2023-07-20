@@ -50,10 +50,10 @@
 | 20230719T20:39:05Z | Here is my Python exploit to explore the SSRF vulnerability in the IronCorp machine on TryHackMe. | https://github.com/Gutierre0x80/IronCorp | 0 | 0| 
 | 20230719T19:50:10Z | A automation script to bypass 403 | https://github.com/oyeanmol/bypasser | 0 | 0| 
 | 20230719T19:45:43Z | A Repository Containing my Exploits and scripts that I use in CTF (Capture the Flag). | https://github.com/oyeanmol/CTF-Exploits | 0 | 0| 
+| 20230719T17:49:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5165 | 652| 
 | 20230719T12:54:28Z | Null | https://github.com/corehandler/exploits | 0 | 0| 
 | 20230719T12:51:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1f1e1e7d-dc35-488f-9c50-8f6e78b9dffc-OEb0T-exploit-claim | 0 | 0| 
 | 20230719T12:39:48Z | Zhang Shell Bypass ASPX - Exploit | https://github.com/syedzhang/Zhangaspxshell | 0 | 0| 
-| 20230719T11:45:37Z | Null | https://github.com/restdone/exploit_restdone | 0 | 0| 
 
 
 # backdoor on Github 推荐

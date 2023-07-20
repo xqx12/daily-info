@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230720T00:18:38Z | CVE-2023-27163 | CVE-2023-27163 | https://github.com/overgrowncarrot1/CVE-2023-27163 | | 
+| 20230720T00:19:34Z | CVE-2023-27163 | CVE-2023-27163 | https://github.com/overgrowncarrot1/CVE-2023-27163 | | 
 | 20230719T20:43:06Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
 | 20230719T18:18:16Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
 | 20230719T17:49:47Z | CVE-2021-521 | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | https://github.com/NagendraPittu/CVE-2021-521-Exploit | | 
@@ -75,9 +75,9 @@
 | 20230719T20:39:05Z | Here is my Python exploit to explore the SSRF vulnerability in the IronCorp machine on TryHackMe. | https://github.com/Gutierre0x80/IronCorp | 0 | 0| 
 | 20230719T19:50:10Z | A automation script to bypass 403 | https://github.com/oyeanmol/bypasser | 0 | 0| 
 | 20230719T19:45:43Z | A Repository Containing my Exploits and scripts that I use in CTF (Capture the Flag). | https://github.com/oyeanmol/CTF-Exploits | 0 | 0| 
+| 20230719T17:49:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5165 | 652| 
 | 20230719T12:54:28Z | Null | https://github.com/corehandler/exploits | 0 | 0| 
 | 20230719T12:51:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1f1e1e7d-dc35-488f-9c50-8f6e78b9dffc-OEb0T-exploit-claim | 0 | 0| 
-| 20230719T12:39:48Z | Zhang Shell Bypass ASPX - Exploit | https://github.com/syedzhang/Zhangaspxshell | 0 | 0| 
 
 
 # backdoor on Github 推荐
