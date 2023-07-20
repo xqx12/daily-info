@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230720T00:14:33Z | Null | https://github.com/Pedro-luc/Exploit | 0 | 0| 
 | 20230719T22:40:28Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
 | 20230719T22:01:46Z | A repo for things I learned while researching how to identify and diagnose mobile devices. Including some exploits. I never got around to finishing this but will give all my notes out upon request. | https://github.com/fsinnes/Mobile-Diagnostics-Research | 7 | 0| 
 | 20230719T21:13:05Z | A free, completely open-source and powerful selfbot allowing you to fully reach the potential of Discord. Includes numerous commands designed for fun, trolling, raiding but mostly to improve your Discord experience. Even includes an AI chatbot along with image generation. | https://github.com/Najmul190/Avarice-Selfbot | 2 | 1| 
@@ -77,7 +78,6 @@
 | 20230719T12:54:28Z | Null | https://github.com/corehandler/exploits | 0 | 0| 
 | 20230719T12:51:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1f1e1e7d-dc35-488f-9c50-8f6e78b9dffc-OEb0T-exploit-claim | 0 | 0| 
 | 20230719T12:39:48Z | Zhang Shell Bypass ASPX - Exploit | https://github.com/syedzhang/Zhangaspxshell | 0 | 0| 
-| 20230719T11:45:37Z | Null | https://github.com/restdone/exploit_restdone | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -131,10 +131,10 @@
 | 20230719T19:13:46Z | Null | https://github.com/parafoil1975/fuzzy-winner | 56 | 0| 
 | 20230719T18:33:45Z | Null | https://github.com/Amirrezahmi/Type2FuzzyNet-for-Object-Classification | 1 | 0| 
 | 20230719T18:01:27Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1900 | 371| 
+| 20230719T16:12:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3741 | 442| 
 | 20230719T16:05:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 188| 
 | 20230719T12:50:56Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
 | 20230719T12:44:05Z | Null | https://github.com/jtj97/tensor_fuzz_pytorch | 0 | 0| 
-| 20230719T12:27:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
 
 
 

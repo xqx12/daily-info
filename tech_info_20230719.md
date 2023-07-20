@@ -89,11 +89,11 @@
 | 20230719T19:13:46Z | Null | https://github.com/parafoil1975/fuzzy-winner | 56 | 0| 
 | 20230719T18:33:45Z | Null | https://github.com/Amirrezahmi/Type2FuzzyNet-for-Object-Classification | 1 | 0| 
 | 20230719T18:01:27Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1900 | 371| 
+| 20230719T16:12:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3741 | 442| 
 | 20230719T16:05:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 188| 
 | 20230719T12:50:56Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
 | 20230719T12:44:05Z | Null | https://github.com/jtj97/tensor_fuzz_pytorch | 0 | 0| 
 | 20230719T12:27:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 210 | 31| 
-| 20230719T12:17:30Z | Practice purpose | https://github.com/kolaanu/fuzzy-couscous | 0 | 0| 
 
 
 
