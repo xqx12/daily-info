@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230720T00:38:58Z | Null | https://github.com/jmbannon/fuzzy-media-renamer | 0 | 0| 
+| 20230720T00:42:01Z | Null | https://github.com/jmbannon/fuzzy-media-renamer | 0 | 0| 
 | 20230720T00:09:39Z | Null | https://github.com/ammar3443/Fuzz-Pedal | 0 | 0| 
 | 20230719T21:26:26Z | A repo to test that new Bun thing 🥟😉 | https://github.com/GabrielSahdo/fuzzy-fortnight | 0 | 0| 
 | 20230719T19:58:45Z | Null | https://github.com/Onerboy/fuzzy-train | 0 | 0| 
