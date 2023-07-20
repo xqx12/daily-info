@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230720T00:18:38Z | CVE-2023-27163 | CVE-2023-27163 | https://github.com/overgrowncarrot1/CVE-2023-27163 | | 
 | 20230719T20:43:06Z | CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | | 
 | 20230719T18:18:16Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
 | 20230719T17:49:47Z | CVE-2021-521 | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | https://github.com/NagendraPittu/CVE-2021-521-Exploit | | 
@@ -35,7 +36,6 @@
 | 20230719T14:30:56Z | CVE-2023-30765 | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | https://github.com/0xfml/CVE-2023-30765 | | 
 | 20230719T14:18:51Z | CVE-2023-32117 | Integrate Google Drive <= 1.1.99 - Missing Authorization via REST API Endpoints | https://github.com/RandomRobbieBF/CVE-2023-32117 | | 
 | 20230719T09:46:12Z | CVE-2023-20110 | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | https://github.com/redfr0g/CVE-2023-20110 | | 
-| 20230719T08:14:05Z | CVE-2023-36884 | Script to check for CVE-2023-36884 hardening | https://github.com/tarraschk/CVE-2023-36884-Checker | | 
 
 
 # klee on Github 推荐
