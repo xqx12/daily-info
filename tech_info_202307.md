@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230720T12:24:25Z | HuntersEye is designed for Bug Bounty Hunters, and Security Researchers to monitor new subdomains and certificates for specified domains. The primary goal is to streamline and expedite the process of monitoring newly registered subdomains and SSL certificates related to specified target domains. | https://github.com/kljunowsky/HuntersEye | 1 | 0| 
+| 20230720T12:27:52Z | HuntersEye is designed for Bug Bounty Hunters, and Security Researchers to monitor new subdomains and certificates for specified domains. The primary goal is to streamline and expedite the process of monitoring newly registered subdomains and SSL certificates related to specified target domains. | https://github.com/kljunowsky/HuntersEye | 1 | 0| 
 | 20230720T12:24:18Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/my-app-Q-z42-succeed-exploit | 0 | 0| 
 | 20230720T12:01:09Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1898 | 186| 
 | 20230720T11:49:04Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
