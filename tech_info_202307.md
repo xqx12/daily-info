@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230720T23:32:44Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
+| 20230721T01:42:56Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230720T21:10:49Z | CVE-2023-36884 | PowerShell Script for initial mitigation of vulnerability | https://github.com/ToddMaxey/CVE-2023-36884 | | 
 | 20230720T14:30:59Z | CVE-2022-44875 | Testing CVE-2022-44875 | https://github.com/c0d30d1n/CVE-2022-44875-Test | | 
 | 20230720T13:56:13Z | CVE-2023-31753 | Proof of Concept for CVE-2023-31753 - eNdonesia Portal 8.7 | https://github.com/khmk2k/CVE-2023-31753 | | 
