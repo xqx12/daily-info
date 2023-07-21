@@ -50,7 +50,7 @@
 | 20230720T21:10:28Z | Comparing Exploitation-Based and Game Theory Optimal Based Approaches in a Multi-Agent Environment (2020 Spring) | https://github.com/jerry871002/bpr-gto-rl-comparison | 2 | 1| 
 | 20230720T19:55:09Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/Pro4035486548/Project4305 | 1 | 0| 
 | 20230720T15:18:09Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
-| 20230720T12:54:33Z | HuntersEye is designed for Bug Bounty Hunters, and Security Researchers to monitor new subdomains and certificates for specified domains. The primary goal is to streamline and expedite the process of monitoring newly registered subdomains and SSL certificates related to specified target domains. | https://github.com/kljunowsky/HuntersEye | 2 | 0| 
+| 20230720T13:45:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5170 | 652| 
 
 
 # backdoor on Github 推荐
