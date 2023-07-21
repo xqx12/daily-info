@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T01:17:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5171 | 652| 
 | 20230721T01:03:59Z | Null | https://github.com/arshkhakh/exploit_development | 0 | 0| 
 | 20230721T00:59:39Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5719 | 662| 
 | 20230721T00:38:01Z | exploits | https://github.com/hiegwagwe/Roblox | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230720T23:33:17Z | CVE-2015-2166 is a directory traversal vulnerability in Ericsson Drutt Mobile Service Delivery Platform (MSDP) versions 4, 5, and 6. It allows remote attackers to read arbitrary files on the system using %..%2f% in the default URI. | https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT | 0 | 1| 
 | 20230720T23:28:06Z | It is a tool for scanning and exploiting the famous SQL injection vulnerability in more than millions of sites. The exploit was programmed by the TYG team. | https://github.com/mr-sami-x/SQLi | 1 | 0| 
 | 20230720T22:05:12Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 13 | 2| 
-| 20230720T21:49:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5196 | 1016| 
 
 
 # backdoor on Github 推荐
