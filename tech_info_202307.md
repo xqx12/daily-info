@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T01:00:28Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 90 | 10| 
 | 20230720T21:48:05Z | Null | https://github.com/MadryLab/rethinking-backdoor-attacks | 5 | 0| 
 | 20230720T19:45:15Z | Download a .NET payload and run it on memory | https://github.com/Pro3132303877/Project1626 | 1 | 0| 
 | 20230720T13:21:21Z | Start only in VENV not on normal operator | https://github.com/dukeskardashian/simple-php-backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230720T10:10:42Z | My first attempt to make a fully functional Backdoor in Python | https://github.com/Amanelli/Backdoor | 2 | 0| 
 | 20230720T03:41:54Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 171 | 18| 
 | 20230720T03:38:34Z | AIRT(Advanced incident response tool) is a tool set for incident response which works on linux platform.  AIRT is dedicated to discover the kernel backdoors on linux platform. | https://github.com/madsys/AIRT | 2 | 1| 
-| 20230719T18:15:29Z | Backdoor for manipulating with other computers | https://github.com/legion3trunn3r/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
