@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:16Z | CVE-2022-40127 | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | | 
 | 20230721T12:37:07Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230721T11:03:29Z | CVE-2023-3519 | CVE-2023-3519 | https://github.com/d0rb/CVE-2023-3519 | | 
 | 20230721T09:38:21Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
@@ -42,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:16Z | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | 0 | 0| 
 | 20230721T12:25:50Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 66 | 18| 
 | 20230721T12:10:20Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 1 | 0| 
 | 20230721T11:56:14Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
@@ -51,12 +53,12 @@
 | 20230721T09:53:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5336 | 748| 
 | 20230721T09:32:53Z | Attacking and Exploiting Modern Web Applications | https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications | 0 | 0| 
 | 20230721T09:24:30Z | The sussy adventures of an Apple exploit. | https://github.com/sussystuff/apple | 0 | 0| 
-| 20230721T09:11:45Z | File image to exploit Unrestricted File Upload or File Upload Attack vulnerability | https://github.com/samphoerna/imgupld | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:33Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/ProjectX3152264573/PrjctXx456 | 1 | 0| 
 | 20230721T11:14:00Z | Null | https://github.com/Phamchie/backdoor | 0 | 0| 
 | 20230721T09:40:39Z | SImple backdoor script for reverse connection. | https://github.com/farhaad37/simple_backdoor | 0 | 0| 
 | 20230721T07:08:06Z | Null | https://github.com/MadryLab/rethinking-backdoor-attacks | 7 | 0| 

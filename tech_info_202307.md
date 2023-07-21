@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:16Z | CVE-2022-40127 | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | | 
 | 20230721T12:37:07Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230721T11:03:29Z | CVE-2023-3519 | CVE-2023-3519 | https://github.com/d0rb/CVE-2023-3519 | | 
 | 20230721T09:38:21Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
@@ -35,7 +36,6 @@
 | 20230721T04:29:27Z | 未知编号 | F5 Big-IP RCE vulnerability | https://github.com/v4sh25/CVE_2022_1388 | | 
 | 20230721T03:50:54Z | cve-2023-27163 | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | https://github.com/seanrdev/cve-2023-27163 | | 
 | 20230721T03:01:51Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
-| 20230720T21:10:49Z | CVE-2023-36884 | PowerShell Script for initial mitigation of vulnerability | https://github.com/ToddMaxey/CVE-2023-36884 | | 
 
 
 # klee on Github 推荐
@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:16Z | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | 0 | 0| 
 | 20230721T12:25:50Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 66 | 18| 
 | 20230721T12:10:20Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 1 | 0| 
 | 20230721T11:56:14Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
@@ -77,12 +78,12 @@
 | 20230721T09:53:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5336 | 748| 
 | 20230721T09:32:53Z | Attacking and Exploiting Modern Web Applications | https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications | 0 | 0| 
 | 20230721T09:24:30Z | The sussy adventures of an Apple exploit. | https://github.com/sussystuff/apple | 0 | 0| 
-| 20230721T09:11:45Z | File image to exploit Unrestricted File Upload or File Upload Attack vulnerability | https://github.com/samphoerna/imgupld | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:55:33Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/ProjectX3152264573/PrjctXx456 | 1 | 0| 
 | 20230721T11:14:00Z | Null | https://github.com/Phamchie/backdoor | 0 | 0| 
 | 20230721T09:40:39Z | SImple backdoor script for reverse connection. | https://github.com/farhaad37/simple_backdoor | 0 | 0| 
 | 20230721T07:08:06Z | Null | https://github.com/MadryLab/rethinking-backdoor-attacks | 7 | 0| 
@@ -92,7 +93,6 @@
 | 20230720T19:45:15Z | Download a .NET payload and run it on memory | https://github.com/Pro3132303877/Project1626 | 1 | 0| 
 | 20230720T13:21:21Z | Start only in VENV not on normal operator | https://github.com/dukeskardashian/simple-php-backdoor | 0 | 0| 
 | 20230720T13:20:44Z | Start only in VENV not on normal operator | https://github.com/dukeskardashian/Simple_PHP_backdoor_by_DK-encoded | 0 | 0| 
-| 20230720T13:14:37Z | Start only in VENV not on normal operator | https://github.com/dukeskardashian/qsd-php-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
