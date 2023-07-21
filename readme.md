@@ -90,8 +90,8 @@
 | 20230720T21:45:17Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1923 | 93| 
 | 20230720T20:00:28Z | Code for FUZZ-IEEE publication | https://github.com/Wenkai-tan/noisecam | 0 | 0| 
 | 20230720T16:17:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2750 | 188| 
+| 20230720T16:14:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3743 | 442| 
 | 20230720T15:25:42Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 100 | 8| 
-| 20230720T11:41:09Z | fuzzing_101 | https://github.com/ash1n2/fuzzing_101 | 0 | 0| 
 
 
 
