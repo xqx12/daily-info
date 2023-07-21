@@ -48,9 +48,9 @@
 | 20230720T22:05:12Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 13 | 2| 
 | 20230720T21:49:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5196 | 1016| 
 | 20230720T21:23:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
+| 20230720T21:18:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 56 | 28| 
 | 20230720T21:10:28Z | Comparing Exploitation-Based and Game Theory Optimal Based Approaches in a Multi-Agent Environment (2020 Spring) | https://github.com/jerry871002/bpr-gto-rl-comparison | 2 | 1| 
 | 20230720T19:55:09Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/Pro4035486548/Project4305 | 1 | 0| 
-| 20230720T15:18:09Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
 
 
 # backdoor on Github 推荐

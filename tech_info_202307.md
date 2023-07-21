@@ -77,7 +77,7 @@
 | 20230720T22:05:12Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 13 | 2| 
 | 20230720T21:49:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5196 | 1016| 
 | 20230720T21:23:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
-| 20230720T21:10:28Z | Comparing Exploitation-Based and Game Theory Optimal Based Approaches in a Multi-Agent Environment (2020 Spring) | https://github.com/jerry871002/bpr-gto-rl-comparison | 2 | 1| 
+| 20230720T21:18:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 56 | 28| 
 
 
 # backdoor on Github 推荐
