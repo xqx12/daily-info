@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T01:01:10Z | Null | https://github.com/arshkhakh/exploit_development | 0 | 0| 
+| 20230721T00:59:39Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5719 | 662| 
 | 20230721T00:38:01Z | exploits | https://github.com/hiegwagwe/Roblox | 0 | 0| 
 | 20230721T00:06:00Z | Exploiting buffer overflows in dummy web server | https://github.com/1lyasm/bof | 0 | 0| 
 | 20230720T23:58:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5764 | 767| 
@@ -76,8 +78,6 @@
 | 20230720T23:28:06Z | It is a tool for scanning and exploiting the famous SQL injection vulnerability in more than millions of sites. The exploit was programmed by the TYG team. | https://github.com/mr-sami-x/SQLi | 1 | 0| 
 | 20230720T22:05:12Z | Tool for exploiting Active Directory Enviroments | https://github.com/Auto19/ADHunt | 13 | 2| 
 | 20230720T21:49:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5196 | 1016| 
-| 20230720T21:23:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
-| 20230720T21:18:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 56 | 28| 
 
 
 # backdoor on Github 推荐
