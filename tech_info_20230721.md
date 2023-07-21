@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:37:07Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230721T11:03:29Z | CVE-2023-3519 | CVE-2023-3519 | https://github.com/d0rb/CVE-2023-3519 | | 
-| 20230721T11:03:13Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230721T09:38:21Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
 | 20230721T09:06:43Z | CVE-2023-30367 | Original PoC for CVE-2023-30367 | https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper | | 
 | 20230721T06:07:49Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
