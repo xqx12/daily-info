@@ -42,7 +42,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230720T23:58:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5764 | 767| 
-| 20230720T23:51:32Z | Exploiting buffer overflows in dummy web server | https://github.com/1lyasm/bof | 0 | 0| 
 | 20230720T23:47:42Z | Null | https://github.com/artyang/exploitdb | 0 | 0| 
 | 20230720T23:33:17Z | CVE-2015-2166 is a directory traversal vulnerability in Ericsson Drutt Mobile Service Delivery Platform (MSDP) versions 4, 5, and 6. It allows remote attackers to read arbitrary files on the system using %..%2f% in the default URI. | https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT | 0 | 1| 
 | 20230720T23:28:06Z | It is a tool for scanning and exploiting the famous SQL injection vulnerability in more than millions of sites. The exploit was programmed by the TYG team. | https://github.com/mr-sami-x/SQLi | 1 | 0| 
@@ -51,6 +50,7 @@
 | 20230720T21:10:28Z | Comparing Exploitation-Based and Game Theory Optimal Based Approaches in a Multi-Agent Environment (2020 Spring) | https://github.com/jerry871002/bpr-gto-rl-comparison | 2 | 1| 
 | 20230720T19:55:09Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/Pro4035486548/Project4305 | 1 | 0| 
 | 20230720T15:18:09Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
+| 20230720T12:54:33Z | HuntersEye is designed for Bug Bounty Hunters, and Security Researchers to monitor new subdomains and certificates for specified domains. The primary goal is to streamline and expedite the process of monitoring newly registered subdomains and SSL certificates related to specified target domains. | https://github.com/kljunowsky/HuntersEye | 2 | 0| 
 
 
 # backdoor on Github 推荐

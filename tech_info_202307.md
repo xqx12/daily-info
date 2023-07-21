@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T00:06:00Z | Exploiting buffer overflows in dummy web server | https://github.com/1lyasm/bof | 0 | 0| 
 | 20230720T23:58:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5764 | 767| 
-| 20230720T23:51:32Z | Exploiting buffer overflows in dummy web server | https://github.com/1lyasm/bof | 0 | 0| 
 | 20230720T23:47:42Z | Null | https://github.com/artyang/exploitdb | 0 | 0| 
 | 20230720T23:33:17Z | CVE-2015-2166 is a directory traversal vulnerability in Ericsson Drutt Mobile Service Delivery Platform (MSDP) versions 4, 5, and 6. It allows remote attackers to read arbitrary files on the system using %..%2f% in the default URI. | https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT | 0 | 1| 
 | 20230720T23:28:06Z | It is a tool for scanning and exploiting the famous SQL injection vulnerability in more than millions of sites. The exploit was programmed by the TYG team. | https://github.com/mr-sami-x/SQLi | 1 | 0| 
