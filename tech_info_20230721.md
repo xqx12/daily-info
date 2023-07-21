@@ -42,8 +42,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T12:09:35Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 65 | 18| 
+| 20230721T12:08:13Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 0 | 0| 
 | 20230721T11:56:14Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
-| 20230721T11:56:11Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 64 | 18| 
 | 20230721T11:39:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-2FkGW-exploit-climb | 0 | 0| 
 | 20230721T11:27:35Z | Null | https://github.com/Anakondada44/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230721T11:14:24Z | Null | https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230721T09:32:53Z | Attacking and Exploiting Modern Web Applications | https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications | 0 | 0| 
 | 20230721T09:24:30Z | The sussy adventures of an Apple exploit. | https://github.com/sussystuff/apple | 0 | 0| 
 | 20230721T09:11:45Z | File image to exploit Unrestricted File Upload or File Upload Attack vulnerability | https://github.com/samphoerna/imgupld | 0 | 0| 
-| 20230721T08:54:52Z | Null | https://github.com/Polltrue350/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
