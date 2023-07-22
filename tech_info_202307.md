@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230722T12:25:50Z | A console application that creates fuzzy systems | https://github.com/MahmoudShalaby44/Fuzzy-Logic-Toolbox | 0 | 0| 
+| 20230722T12:31:36Z | A console application that creates fuzzy systems | https://github.com/MahmoudShalaby44/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20230722T11:01:47Z | fCommerce | https://github.com/Japharidze/fuzzy-invention | 0 | 0| 
 | 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
 | 20230722T09:39:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1470 | 204| 
