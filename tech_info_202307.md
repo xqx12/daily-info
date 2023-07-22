@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230721T23:57:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
+| 20230722T00:12:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
 | 20230721T22:28:16Z | This is a repo of SQL injection lab i created when i was learning about hunting and exploiting SQL injection vulnerability in web applications | https://github.com/nz1okaph1l/SQL-injection-labs | 1 | 0| 
 | 20230721T21:45:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5726 | 663| 
 | 20230721T21:25:19Z | Blocks chophop/quick fire/quick det | https://github.com/12souza/exploitblocks | 1 | 0| 

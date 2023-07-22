@@ -43,7 +43,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230721T23:57:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
 | 20230721T22:28:16Z | This is a repo of SQL injection lab i created when i was learning about hunting and exploiting SQL injection vulnerability in web applications | https://github.com/nz1okaph1l/SQL-injection-labs | 1 | 0| 
 | 20230721T21:45:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5726 | 663| 
 | 20230721T21:25:19Z | Blocks chophop/quick fire/quick det | https://github.com/12souza/exploitblocks | 1 | 0| 
@@ -53,6 +52,7 @@
 | 20230721T14:55:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5198 | 1017| 
 | 20230721T14:05:46Z | The sussy adventures of an Apple exploit. | https://github.com/sussystuff/apple | 0 | 0| 
 | 20230721T13:54:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
+| 20230721T12:55:16Z | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | 0 | 0| 
 
 
 # backdoor on Github 推荐
