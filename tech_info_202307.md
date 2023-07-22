@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T12:25:50Z | A console application that creates fuzzy systems | https://github.com/MahmoudShalaby44/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20230722T11:01:47Z | fCommerce | https://github.com/Japharidze/fuzzy-invention | 0 | 0| 
 | 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
 | 20230722T09:39:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1470 | 204| 
@@ -134,7 +135,6 @@
 | 20230722T02:39:59Z | Null | https://github.com/dmc1778/postprocessing_DL_fuzzers_results | 0 | 0| 
 | 20230722T00:32:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 | 20230722T00:04:38Z | an open-source fuzzy finder for macos and windows to search the entire os for expressions or snippets of text | https://github.com/BasilRohner/fuzzy-crane | 1 | 0| 
-| 20230721T22:51:15Z | self improvement | https://github.com/Selede1738/fuzzy-invention | 0 | 0| 
 
 
 
