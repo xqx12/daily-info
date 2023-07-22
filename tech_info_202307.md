@@ -90,9 +90,9 @@
 | 20230721T12:55:33Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/ProjectX3152264573/PrjctXx456 | 1 | 0| 
 | 20230721T11:14:00Z | Null | https://github.com/Phamchie/backdoor | 0 | 0| 
 | 20230721T09:40:39Z | SImple backdoor script for reverse connection. | https://github.com/farhaad37/simple_backdoor | 0 | 0| 
+| 20230721T07:28:06Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 787 | 137| 
 | 20230721T06:50:38Z | Implementation of %Backdoor Defense with Non-Adversarial Backdoor% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 1 | 0| 
 | 20230721T04:33:28Z | I completely russified and modified njrat and added an interface I am not criminally responsible for what you do with my program | https://github.com/JumperYT-official/njRAT-Platinum-Edition-RuS | 0 | 0| 
-| 20230721T01:00:28Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 90 | 10| 
 
 
 # symbolic execution on Github 推荐
