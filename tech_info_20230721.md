@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230721T23:48:44Z | CVE-2023-3519 | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | https://github.com/KR0N-SECURITY/CVE-2023-3519 | | 
 | 20230721T22:22:23Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
 | 20230721T22:10:04Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230721T21:40:52Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
@@ -26,6 +25,7 @@
 | 20230721T13:22:12Z | CVE-2022-44875 | Testing CVE-2022-44875 | https://github.com/c0d30d1n/CVE-2022-44875-Test | | 
 | 20230721T11:03:29Z | CVE-2023-3519 | CVE-2023-3519 | https://github.com/d0rb/CVE-2023-3519 | | 
 | 20230721T09:06:43Z | CVE-2023-30367 | Original PoC for CVE-2023-30367 | https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper | | 
+| 20230721T05:03:58Z | CVE-2023-38632 | Proof of concept for CVE-2023-38632 | https://github.com/Halcy0nic/CVE-2023-38632 | | 
 
 
 # klee on Github 推荐

@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230721T23:48:44Z | CVE-2023-3519 | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | https://github.com/KR0N-SECURITY/CVE-2023-3519 | | 
+| 20230722T00:20:11Z | CVE-2023-3519 | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | https://github.com/KR0N-SECURITY/CVE-2023-3519 | | 
 | 20230721T22:22:23Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
 | 20230721T22:10:04Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230721T21:40:52Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
