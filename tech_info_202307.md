@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T12:02:57Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20230722T11:04:07Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 334 | 64| 
 | 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
 | 20230722T10:57:33Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetriusford/drive-by-download | 2 | 0| 
@@ -76,7 +77,6 @@
 | 20230722T08:08:39Z | Triangular Arbitrage Bot automates profitable cryptocurrency trading by scanning for price discrepancies across exchanges and executing trades to exploit arbitrage opportunities on popular cryptocurrency exchanges such as Binance, Kucoin, OKEx, and Huobi.  | https://github.com/guldo111/triangular-arbitrage-bot-multi-exchange | 2 | 0| 
 | 20230722T06:51:27Z | Tooling for ethereum exploitation | https://github.com/ethpwn/ethtools | 0 | 0| 
 | 20230722T06:22:17Z | uwutoolsv3 is a Cloud Gaming exploit. It is a .bat file that lets you bypass game restrictions on a cloud gaming service like %nware%. We are in the process of making an universal launcher for GeForce Now and Boosteroid. | https://github.com/cybertrailyst/uwutoolsv3 | 1 | 0| 
-| 20230722T03:19:17Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20230722T01:56:09Z | We have compiled a block list consisting of abusive IP addresses and ASN networks that have shown a troubling tendency to permit their services to be exploited for malicious purposes, with seemingly little concern for the consequences of their actions. | https://github.com/HostNutters/ipdb | 0 | 0| 
 
 
@@ -98,16 +98,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230721T15:53:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3496 | 485| 
+| 20230722T11:45:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3498 | 485| 
+| 20230722T09:45:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 420 | 28| 
+| 20230722T09:43:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2282 | 629| 
+| 20230722T09:36:20Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1122 | 130| 
 | 20230721T12:49:56Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 90 | 2| 
 | 20230721T11:30:02Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
 | 20230721T10:23:13Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 210 | 20| 
-| 20230721T10:18:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 419 | 28| 
-| 20230721T07:51:19Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1121 | 130| 
 | 20230719T22:37:53Z | Path-optimal symbolic execution | https://github.com/pietrobraione/pose | 0 | 0| 
 | 20230719T09:14:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 60 | 26| 
 | 20230717T15:38:50Z | (Will likely be short scripts demonstrating symbolic execution using angr) | https://github.com/Leodler/ctf-writeups | 0 | 0| 
-| 20230715T03:02:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2280 | 629| 
 
 
 # big4 on Github 推荐
