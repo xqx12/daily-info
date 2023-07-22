@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T00:32:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 | 20230722T00:04:38Z | an open-source fuzzy finder for macos and windows to search the entire os for expressions or snippets of text | https://github.com/BasilRohner/fuzzy-crane | 1 | 0| 
 | 20230721T22:51:15Z | self improvement | https://github.com/Selede1738/fuzzy-invention | 0 | 0| 
 | 20230721T21:15:11Z | Null | https://github.com/lambdaclass/cairo_compiler_fuzz | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230721T11:54:35Z | Null | https://github.com/VakutzAlex/Traffic-Light-Controller-Using-Fuzzy-Logic | 0 | 0| 
 | 20230721T11:42:56Z | Null | https://github.com/westengine/fuzzy-eureka | 0 | 0| 
 | 20230721T10:45:32Z | Point of sale terminal for a pharmarcy. | https://github.com/elkindy-s/fuzzy-couscous | 0 | 0| 
-| 20230721T10:19:27Z | Null | https://github.com/captainfuzzy/fuzzy | 0 | 0| 
 
 
 
