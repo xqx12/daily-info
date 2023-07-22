@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T00:46:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:45:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:44:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:12:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
@@ -77,7 +78,6 @@
 | 20230721T20:11:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5176 | 652| 
 | 20230721T19:31:08Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 | 20230721T17:20:57Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 3 | 1| 
-| 20230721T16:43:29Z | This repo is the official Pytorch implementation of paper: %Machine Learning for Interconnect Network Traffic Forecasting: Investigation and Exploitation%. | https://github.com/XiongxiaoXu/ML4InterconectNetwork | 0 | 0| 
 
 
 # backdoor on Github 推荐
