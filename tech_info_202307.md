@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230722T12:49:33Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230722T09:19:14Z | CVE-2023-3519 | Citrix exploit | https://github.com/exph7/CVE-2023-3519 | | 
 | 20230722T08:20:00Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
 | 20230722T06:59:16Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
@@ -33,7 +34,6 @@
 | 20230722T06:18:38Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230722T04:03:43Z | 未知编号 | Null | https://github.com/codeb0ss/cve-202335843 | | 
 | 20230722T00:20:11Z | CVE-2023-3519 | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | https://github.com/KR0N-SECURITY/CVE-2023-3519 | | 
-| 20230721T22:10:04Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230721T21:40:52Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
 | 20230721T15:54:26Z | CVE-2022-40127 | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | | 
 
