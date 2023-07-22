@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230721T15:53:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3496 | 485| 
 | 20230721T12:49:56Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 90 | 2| 
 | 20230721T11:30:02Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
 | 20230721T10:23:13Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 210 | 20| 
