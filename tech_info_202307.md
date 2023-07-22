@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230722T09:19:14Z | CVE-2023-3519 | Citrix exploit | https://github.com/exph7/CVE-2023-3519 | | 
+| 20230722T08:20:00Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
+| 20230722T06:59:16Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
+| 20230722T06:19:43Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
+| 20230722T06:18:38Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
+| 20230722T04:03:43Z | 未知编号 | Null | https://github.com/codeb0ss/cve-202335843 | | 
 | 20230722T00:20:11Z | CVE-2023-3519 | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | https://github.com/KR0N-SECURITY/CVE-2023-3519 | | 
-| 20230721T22:22:23Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
 | 20230721T22:10:04Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230721T21:40:52Z | CVE-2021-44228 | Null | https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228 | | 
-| 20230721T20:38:53Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230721T15:54:26Z | CVE-2022-40127 | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | | 
-| 20230721T14:55:06Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20230721T13:22:12Z | CVE-2022-44875 | Testing CVE-2022-44875 | https://github.com/c0d30d1n/CVE-2022-44875-Test | | 
-| 20230721T11:03:29Z | CVE-2023-3519 | CVE-2023-3519 | https://github.com/d0rb/CVE-2023-3519 | | 
-| 20230721T09:06:43Z | CVE-2023-30367 | Original PoC for CVE-2023-30367 | https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T09:43:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2282 | 629| 
 | 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
 | 20230721T06:49:54Z | Null | https://github.com/Gannnonnn/Klee | 0 | 0| 
 | 20230719T15:21:36Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVueVercel | 0 | 1| 
@@ -50,7 +51,6 @@
 | 20230717T02:59:42Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Cantamile | 0 | 0| 
 | 20230717T02:59:14Z | Null | https://github.com/taro127/ily-klee-bot | 0 | 0| 
 | 20230716T18:58:33Z | Kleenex pollenradar custom component integration for Home Assistant  | https://github.com/MarcoGos/kleenex_pollenradar | 0 | 0| 
-| 20230715T09:18:43Z | Null | https://github.com/a3nv/kleetcode | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T11:04:07Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 334 | 64| 
+| 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
+| 20230722T10:57:33Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetriusford/drive-by-download | 2 | 0| 
+| 20230722T09:51:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5200 | 1017| 
+| 20230722T09:19:14Z | Citrix exploit | https://github.com/exph7/CVE-2023-3519 | 0 | 1| 
+| 20230722T08:08:39Z | Triangular Arbitrage Bot automates profitable cryptocurrency trading by scanning for price discrepancies across exchanges and executing trades to exploit arbitrage opportunities on popular cryptocurrency exchanges such as Binance, Kucoin, OKEx, and Huobi.  | https://github.com/guldo111/triangular-arbitrage-bot-multi-exchange | 2 | 0| 
+| 20230722T06:51:27Z | Tooling for ethereum exploitation | https://github.com/ethpwn/ethtools | 0 | 0| 
+| 20230722T06:22:17Z | uwutoolsv3 is a Cloud Gaming exploit. It is a .bat file that lets you bypass game restrictions on a cloud gaming service like %nware%. We are in the process of making an universal launcher for GeForce Now and Boosteroid. | https://github.com/cybertrailyst/uwutoolsv3 | 1 | 0| 
+| 20230722T03:19:17Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20230722T01:56:09Z | We have compiled a block list consisting of abusive IP addresses and ASN networks that have shown a troubling tendency to permit their services to be exploited for malicious purposes, with seemingly little concern for the consequences of their actions. | https://github.com/HostNutters/ipdb | 0 | 0| 
-| 20230722T01:18:38Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0006-0006-app-F7PRf-vote-exploit | 0 | 0| 
-| 20230722T01:18:36Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0006-0003-app-emuBZ-fail-exploit | 0 | 0| 
-| 20230722T00:46:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0n | 0 | 0| 
-| 20230722T00:45:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0n | 0 | 0| 
-| 20230722T00:44:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0n | 0 | 0| 
-| 20230722T00:12:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
-| 20230721T22:28:16Z | This is a repo of SQL injection lab i created when i was learning about hunting and exploiting SQL injection vulnerability in web applications | https://github.com/nz1okaph1l/SQL-injection-labs | 1 | 0| 
-| 20230721T21:45:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5726 | 663| 
-| 20230721T21:25:19Z | Blocks chophop/quick fire/quick det | https://github.com/12souza/exploitblocks | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T08:43:54Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 5 | 0| 
+| 20230722T08:12:43Z | I completely russified and modified njrat and added an interface I am not criminally responsible for what you do with my program | https://github.com/JumperYT-official/njRAT-Platinum-Edition-RuS | 1 | 0| 
+| 20230722T06:43:30Z | FedDefender is a novel defense mechanism designed to safeguard Federated Learning from the poisoning attacks (i.e., backdoor attacks).  | https://github.com/warisgill/FedDefender | 0 | 0| 
+| 20230722T05:36:00Z | Null | https://github.com/unCodeBoss/webshell-.jp-backdoor | 1 | 0| 
+| 20230722T03:07:19Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 93 | 33| 
 | 20230721T15:55:05Z | Null | https://github.com/MadryLab/rethinking-backdoor-attacks | 8 | 0| 
 | 20230721T14:17:30Z | Nanocore est un RAT (Remote acces Trojan) | https://github.com/Brontok5/Nanocore | 0 | 0| 
 | 20230721T13:15:29Z | Malware classification using VirusTotal API and Python. Classified malware families are Worms, Adware, Virus, Riskware, Spyware, Keylogger, Ransomware, Spam, Backdoor, Dropper, Downloader, Crypt, Agent, Rootkit and Trojan. | https://github.com/ProjectX7179313953/PrjctXx7768 | 1 | 0| 
 | 20230721T13:12:29Z | Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener | https://github.com/ProjectX2970388969/PrjctXx6291 | 1 | 0| 
 | 20230721T12:55:33Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/ProjectX3152264573/PrjctXx456 | 1 | 0| 
-| 20230721T11:14:00Z | Null | https://github.com/Phamchie/backdoor | 0 | 0| 
-| 20230721T09:40:39Z | SImple backdoor script for reverse connection. | https://github.com/farhaad37/simple_backdoor | 0 | 0| 
-| 20230721T07:28:06Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 787 | 137| 
-| 20230721T06:50:38Z | Implementation of %Backdoor Defense with Non-Adversarial Backdoor% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 1 | 0| 
-| 20230721T04:33:28Z | I completely russified and modified njrat and added an interface I am not criminally responsible for what you do with my program | https://github.com/JumperYT-official/njRAT-Platinum-Edition-RuS | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T11:01:47Z | fCommerce | https://github.com/Japharidze/fuzzy-invention | 0 | 0| 
+| 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
+| 20230722T09:39:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1470 | 204| 
+| 20230722T09:24:17Z | My clone repository | https://github.com/Intombiyomcebo/fuzzy-octo-dollop | 0 | 0| 
+| 20230722T08:27:32Z | Template files for Woke fuzz tests. See readme.md | https://github.com/hacker-DOM/fuzz-template | 0 | 0| 
+| 20230722T07:28:32Z | about fuzzy logic | https://github.com/yashrj3009/fuzzylogic | 0 | 0| 
+| 20230722T02:39:59Z | Null | https://github.com/dmc1778/postprocessing_DL_fuzzers_results | 0 | 0| 
 | 20230722T00:32:04Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 | 20230722T00:04:38Z | an open-source fuzzy finder for macos and windows to search the entire os for expressions or snippets of text | https://github.com/BasilRohner/fuzzy-crane | 1 | 0| 
 | 20230721T22:51:15Z | self improvement | https://github.com/Selede1738/fuzzy-invention | 0 | 0| 
-| 20230721T21:15:11Z | Null | https://github.com/lambdaclass/cairo_compiler_fuzz | 0 | 0| 
-| 20230721T21:10:54Z | Null | https://github.com/dafifynn/cairo_compiler_fuzz | 0 | 0| 
-| 20230721T20:00:53Z | A research project repository containing algorithms to classify pedestrian obstruction probabilities into fuzzy logic states using 2D cameras  | https://github.com/SR42-dev/pedestrian-intention-fuzzy-classifier | 0 | 0| 
-| 20230721T17:15:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8823 | 1943| 
-| 20230721T11:54:35Z | Null | https://github.com/VakutzAlex/Traffic-Light-Controller-Using-Fuzzy-Logic | 0 | 0| 
-| 20230721T11:42:56Z | Null | https://github.com/westengine/fuzzy-eureka | 0 | 0| 
-| 20230721T10:45:32Z | Point of sale terminal for a pharmarcy. | https://github.com/elkindy-s/fuzzy-couscous | 0 | 0| 
 
 
 
