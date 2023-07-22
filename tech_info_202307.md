@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T00:45:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0n | 0 | 0| 
+| 20230722T00:44:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:12:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5768 | 768| 
 | 20230721T22:28:16Z | This is a repo of SQL injection lab i created when i was learning about hunting and exploiting SQL injection vulnerability in web applications | https://github.com/nz1okaph1l/SQL-injection-labs | 1 | 0| 
 | 20230721T21:45:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5726 | 663| 
@@ -76,8 +78,6 @@
 | 20230721T19:31:08Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 | 20230721T17:20:57Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 3 | 1| 
 | 20230721T16:43:29Z | This repo is the official Pytorch implementation of paper: %Machine Learning for Interconnect Network Traffic Forecasting: Investigation and Exploitation%. | https://github.com/XiongxiaoXu/ML4InterconectNetwork | 0 | 0| 
-| 20230721T16:42:02Z | textual chat exploiting  gratuitous ARP requests ( RFC 5227 ) written in c++ | https://github.com/gbonacini/arpchatcpp | 0 | 0| 
-| 20230721T14:55:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5198 | 1017| 
 
 
 # backdoor on Github 推荐
