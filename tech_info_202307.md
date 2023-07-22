@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T00:04:38Z | an open-source fuzzy finder for macos and windows to search the entire os for expressions or snippets of text | https://github.com/BasilRohner/fuzzy-crane | 1 | 0| 
 | 20230721T22:51:15Z | self improvement | https://github.com/Selede1738/fuzzy-invention | 0 | 0| 
 | 20230721T21:15:11Z | Null | https://github.com/lambdaclass/cairo_compiler_fuzz | 0 | 0| 
 | 20230721T21:10:54Z | Null | https://github.com/dafifynn/cairo_compiler_fuzz | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230721T11:42:56Z | Null | https://github.com/westengine/fuzzy-eureka | 0 | 0| 
 | 20230721T10:45:32Z | Point of sale terminal for a pharmarcy. | https://github.com/elkindy-s/fuzzy-couscous | 0 | 0| 
 | 20230721T10:19:27Z | Null | https://github.com/captainfuzzy/fuzzy | 0 | 0| 
-| 20230721T09:55:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1468 | 204| 
 
 
 
