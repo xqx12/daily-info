@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230722T01:13:58Z | We have compiled a block list consisting of abusive IP addresses and ASN networks that have shown a troubling tendency to permit their services to be exploited for malicious purposes, with seemingly little concern for the consequences of their actions. | https://github.com/HostNutters/ipdb | 0 | 0| 
 | 20230722T00:46:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:45:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0n | 0 | 0| 
 | 20230722T00:44:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0n | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230721T21:25:19Z | Blocks chophop/quick fire/quick det | https://github.com/12souza/exploitblocks | 1 | 0| 
 | 20230721T20:11:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5176 | 652| 
 | 20230721T19:31:08Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
-| 20230721T17:20:57Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 3 | 1| 
 
 
 # backdoor on Github 推荐
