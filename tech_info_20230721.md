@@ -49,10 +49,10 @@
 | 20230721T19:31:08Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
 | 20230721T17:20:57Z | Free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the things are released in Releases! | https://github.com/DevXternal/Crinox-Rebooted | 3 | 1| 
 | 20230721T16:43:29Z | This repo is the official Pytorch implementation of paper: %Machine Learning for Interconnect Network Traffic Forecasting: Investigation and Exploitation%. | https://github.com/XiongxiaoXu/ML4InterconectNetwork | 0 | 0| 
+| 20230721T16:42:02Z | textual chat exploiting  gratuitous ARP requests ( RFC 5227 ) written in c++ | https://github.com/gbonacini/arpchatcpp | 0 | 0| 
 | 20230721T14:55:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5198 | 1017| 
 | 20230721T14:05:46Z | The sussy adventures of an Apple exploit. | https://github.com/sussystuff/apple | 0 | 0| 
 | 20230721T13:54:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
-| 20230721T12:55:16Z | CVE-2022-40127 PoC and exploit | https://github.com/jakabakos/CVE-2022-40127 | 0 | 0| 
 
 
 # backdoor on Github 推荐
