@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T01:10:36Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b6 | 0 | 0| 
 | 20230723T00:58:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 548 | 106| 
 | 20230722T23:35:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5179 | 652| 
 | 20230722T22:15:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5202 | 1018| 
@@ -77,7 +78,6 @@
 | 20230722T21:39:01Z | An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability. | https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT | 2 | 1| 
 | 20230722T21:32:53Z | GitLab is a widely-used web-based DevOps tool with a powerful GraphQL API for programmable actions. However, specific versions were vulnerable to CVE-2021-4191. Attackers could exploit this flaw to identify registered usernames, potentially leading to targeted attacks on private GitLab instances with restricted sign-ups. | https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT | 0 | 1| 
 | 20230722T20:25:16Z | Null | https://github.com/SamuraiMelayu1337/webdav-exploiter | 0 | 0| 
-| 20230722T19:32:13Z | zomplog 3.9 - Remote Code Execution (RCE) exploit | https://github.com/1mirabbas/zomplog_3.9_Remote_Code_Execution_exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
