@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T00:41:21Z | Here is the result of my experiment entitled %Fuzzy A* path planeer for dynamic and complex multi agent simulation% | https://github.com/techmentalist/fuzzyastarresult | 0 | 0| 
 | 20230722T22:23:51Z | A simple Directory Transversal Vulnerability explorer by fuzzing. Supports raw .txt URL%s and light and medium files. | https://github.com/Lowkkii/transversal-fuzzer | 0 | 0| 
 | 20230722T20:43:21Z | A collection of useful lists for Penetration Testing & Bug Bounty - Content Discovery, Payloads, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 46 | 5| 
 | 20230722T19:49:25Z | Curriculum learning-based fuzzy support vector machine | https://github.com/ChenBHXMU/Curriculum-learning-based-fuzzy-support-vector-machine | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230722T17:38:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 | 20230722T16:21:23Z | Using fuzzing to find sokoban solutions. | https://github.com/addisoncrump/sokoban-fuzz | 1 | 0| 
 | 20230722T12:31:36Z | A console application that creates fuzzy systems | https://github.com/MahmoudShalaby44/Fuzzy-Logic-Toolbox | 0 | 0| 
-| 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
 
 
 
