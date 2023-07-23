@@ -32,7 +32,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230722T18:59:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2283 | 629| 
-| 20230722T14:19:42Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 0 | 0| 
 
 
 # s2e on Github 推荐
