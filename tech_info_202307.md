@@ -11,38 +11,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230723 | 装备软件供应链网络安全风险分析与对策 | https://mp.weixin.qq.com/s/y-uGBmpw32vfIS-CIYLxHQ| 
+| 20230723 | 交通信号机的安全威胁 | https://peirs.net/security-threats-of-traffic-signal-machines/| 
+| 20230723 | InvoiceExtract: 发票数据提取小工具 | https://github.com/repoog/InvoiceExtract| 
+| 20230723 | 我理解的检测防御哲学 | https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ| 
+| 20230723 | 互联网尺度上的遗弃网页检测 | https://mp.weixin.qq.com/s/Lff79oXQ0Ak-7hX4r_AEEw| 
+| 20230723 | 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 20230719 | 企业安全漏洞综合治理方案 | https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA| 
 | 20230718 | FIRST 2023 议题速递 | https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw| 
 | 20230718 | Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE AT... | https://github.com/Qihoo360/Luwak/tree/master| 
 | 20230718 | FIRST 2023 议题速递 | /news/31461| 
-| 20230717 | SecWiki周刊（第489期) | https://www.sec-wiki.com/weekly/489| 
-| 20230717 | 一文带你理解AST Injection | https://www.sec-in.com/article/2233| 
-| 20230717 | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw| 
-| 20230716 | 需要一个渗透入侵拿站大牛Team | /topic/90| 
-| 20230716 | 网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A| 
-| 20230716 | APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230723T10:17:33Z | CVE-2021-44736 | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | | 
+| 20230723T10:15:33Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
+| 20230723T08:26:32Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
+| 20230723T08:06:33Z | cve-2023-27163 | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | https://github.com/seanrdev/cve-2023-27163 | | 
+| 20230723T02:24:26Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230722T21:49:55Z | CVE-2021-22873 | Null | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | | 
 | 20230722T21:32:53Z | CVE-2021-4191 | GitLab is a widely-used web-based DevOps tool with a powerful GraphQL API for programmable actions. However, specific versions were vulnerable to CVE-2021-4191. Attackers could exploit this flaw to identify registered usernames, potentially leading to targeted attacks on private GitLab instances with restricted sign-ups. | https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT | | 
 | 20230722T20:37:15Z | CVE-2023-28467 | Null | https://github.com/ahmetaltuntas/CVE-2023-28467 | | 
-| 20230722T17:36:03Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
 | 20230722T17:32:09Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230722T17:10:35Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
-| 20230722T16:51:39Z | CVE-2021-44910 | 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。 | https://github.com/Securify-Pro/CVE-2021-44910_SpringBlade | | 
-| 20230722T13:07:47Z | CVE-2023-3519 | Null | https://github.com/D3s7R0/CVE-2023-3519-POC | | 
-| 20230722T09:19:14Z | CVE-2023-3519 | Citrix exploit | https://github.com/exph7/CVE-2023-3519 | | 
-| 20230722T08:20:00Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T07:23:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2284 | 629| 
 | 20230723T00:59:42Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 1 | 0| 
-| 20230722T18:59:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2283 | 629| 
 | 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
 | 20230721T06:49:54Z | Null | https://github.com/Gannnonnn/Klee | 0 | 0| 
 | 20230719T15:21:36Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVueVercel | 0 | 1| 
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230723T01:40:22Z | Null | https://github.com/jakefromstatesss/Roblox-exploitz | 0 | 0| 
-| 20230723T01:25:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5728 | 664| 
-| 20230723T01:13:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b6 | 0 | 0| 
-| 20230723T01:12:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b6 | 0 | 0| 
-| 20230723T01:10:36Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b6 | 0 | 0| 
-| 20230723T00:58:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 548 | 106| 
-| 20230722T23:35:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5179 | 652| 
-| 20230722T22:15:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5202 | 1018| 
-| 20230722T21:53:32Z | CVE-2008-5862 - Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410 build 2132 allows remote attackers to read arbitrary files via a ..%2F (encoded dot dot slash) in the URI. | https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT | 1 | 2| 
-| 20230722T21:49:55Z | Null | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
+| 20230723T11:54:18Z | an Active_directory_exploitation_tool | https://github.com/sagisar1/AD_Exploiter | 0 | 0| 
+| 20230723T11:31:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5771 | 768| 
+| 20230723T10:17:33Z | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | 0 | 1| 
+| 20230723T10:15:33Z | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | 0 | 0| 
+| 20230723T09:50:59Z | It is a script made for encoding exploits | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
+| 20230723T09:26:11Z | JS files for XSS escalation  | https://github.com/SomeoneAlt-86/ExploitHub | 0 | 0| 
+| 20230723T07:56:52Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor | 0 | 0| 
+| 20230723T07:31:26Z | Null | https://github.com/ps4goldhen2exploit900/ps42exploit.github.io | 0 | 0| 
+| 20230723T07:29:38Z | A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. But It Does Work. | https://github.com/JoshUnscripted/BrenSkid | 0 | 0| 
+| 20230723T07:24:01Z | Config files for my GitHub profile. | https://github.com/ps4goldhen2exploit900/ps4goldhen2exploit900 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T09:50:57Z | C++ is one of the most common programming languages. So it was a great experience writing a remote access backdoor in C++. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
+| 20230723T05:55:14Z | FUD for windows | https://github.com/anniop/backdoor-For-Windows | 0 | 0| 
+| 20230723T03:59:25Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 92 | 33| 
 | 20230722T19:43:27Z | Null | https://github.com/Ishanoshada/backdoor | 0 | 0| 
 | 20230722T17:04:04Z | I completely russified and modified njrat and added an interface I am not criminally responsible for what you do with my program | https://github.com/JumperYT-official/njRAT-Platinum-Edition-RuS | 2 | 0| 
+| 20230722T14:38:30Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 19 | 2| 
 | 20230722T08:43:54Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 5 | 0| 
 | 20230722T06:43:30Z | FedDefender is a novel defense mechanism designed to safeguard Federated Learning from the poisoning attacks (i.e., backdoor attacks).  | https://github.com/warisgill/FedDefender | 0 | 0| 
 | 20230722T05:36:00Z | Null | https://github.com/unCodeBoss/webshell-.jp-backdoor | 1 | 0| 
-| 20230722T03:07:19Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 93 | 33| 
-| 20230721T15:55:05Z | Null | https://github.com/MadryLab/rethinking-backdoor-attacks | 8 | 0| 
-| 20230721T14:17:30Z | Nanocore est un RAT (Remote acces Trojan) | https://github.com/Brontok5/Nanocore | 0 | 0| 
-| 20230721T13:15:29Z | Malware classification using VirusTotal API and Python. Classified malware families are Worms, Adware, Virus, Riskware, Spyware, Keylogger, Ransomware, Spam, Backdoor, Dropper, Downloader, Crypt, Agent, Rootkit and Trojan. | https://github.com/ProjectX7179313953/PrjctXx7768 | 1 | 0| 
-| 20230721T13:12:29Z | Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener | https://github.com/ProjectX2970388969/PrjctXx6291 | 1 | 0| 
+| 20230722T04:39:56Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 23 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T11:45:52Z | This is just one of many beginner projects i made while taking lessons from w3schools.com | https://github.com/Abongile184/fuzzy-fishstick | 0 | 0| 
+| 20230723T11:34:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 947 | 226| 
+| 20230723T10:55:23Z | Learning git push and pull | https://github.com/Manveer-Prajapati/fuzzy-octo-bassoon | 0 | 0| 
+| 20230723T10:13:36Z | ファジィ理論入門 | https://github.com/nishinojunji/fuzzyintroduction | 0 | 0| 
+| 20230723T08:08:09Z | Null | https://github.com/pierrenicolas-porcinraux/fuzzy-octo-pancake | 0 | 0| 
+| 20230723T05:41:12Z | Null | https://github.com/cleargreentrees/fuzzy-octo-barnacle | 0 | 0| 
 | 20230723T01:58:46Z | yo | https://github.com/penguinuwu/fuzzy-garbanzo | 0 | 0| 
 | 20230723T01:18:53Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 326 | 42| 
 | 20230723T00:41:21Z | Here is the result of my experiment entitled %Fuzzy A* path planeer for dynamic and complex multi agent simulation% | https://github.com/techmentalist/fuzzyastarresult | 0 | 0| 
 | 20230722T22:23:51Z | A simple Directory Transversal Vulnerability explorer by fuzzing. Supports raw .txt URL%s and light and medium files. | https://github.com/Lowkkii/transversal-fuzzer | 0 | 0| 
-| 20230722T20:43:21Z | A collection of useful lists for Penetration Testing & Bug Bounty - Content Discovery, Payloads, Variables, Sandbox Escaping, etc | https://github.com/fssecur3/fuzzlists | 46 | 5| 
-| 20230722T19:49:25Z | Curriculum learning-based fuzzy support vector machine | https://github.com/ChenBHXMU/Curriculum-learning-based-fuzzy-support-vector-machine | 0 | 0| 
-| 20230722T19:00:20Z | Null | https://github.com/Stetics/Fuzzing-test | 0 | 0| 
-| 20230722T18:44:27Z | fCommerce | https://github.com/Japharidze/fuzzy-invention | 0 | 0| 
-| 20230722T18:43:51Z | Null | https://github.com/sefcom/gh3fuzz | 0 | 0| 
-| 20230722T17:38:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 
 
 
