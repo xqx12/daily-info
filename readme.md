@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230723T12:35:14Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
+| 20230723T12:43:06Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230723T10:17:33Z | CVE-2021-44736 | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | | 
 | 20230723T10:15:33Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
 | 20230723T08:26:32Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
@@ -45,8 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:43:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5340 | 748| 
 | 20230723T12:19:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-db1e85ec-84c7-4e90-95c8-61ccb1c2331a-kMVKu-score-exploit | 0 | 0| 
-| 20230723T12:16:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5339 | 748| 
 | 20230723T12:07:11Z | an Active_directory_exploitation_tool | https://github.com/sagisar1/AD_Exploiter | 0 | 0| 
 | 20230723T11:31:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5771 | 768| 
 | 20230723T10:17:33Z | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | 0 | 1| 
