@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:07:02Z | Null | https://github.com/Otwooo/web-fuzzer | 0 | 0| 
 | 20230723T11:45:52Z | This is just one of many beginner projects i made while taking lessons from w3schools.com | https://github.com/Abongile184/fuzzy-fishstick | 0 | 0| 
 | 20230723T11:34:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 947 | 226| 
 | 20230723T10:55:23Z | Learning git push and pull | https://github.com/Manveer-Prajapati/fuzzy-octo-bassoon | 0 | 0| 

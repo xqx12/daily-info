@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:07:02Z | Null | https://github.com/Otwooo/web-fuzzer | 0 | 0| 
 | 20230723T11:45:52Z | This is just one of many beginner projects i made while taking lessons from w3schools.com | https://github.com/Abongile184/fuzzy-fishstick | 0 | 0| 
 | 20230723T11:34:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 947 | 226| 
 | 20230723T10:55:23Z | Learning git push and pull | https://github.com/Manveer-Prajapati/fuzzy-octo-bassoon | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230723T01:58:46Z | yo | https://github.com/penguinuwu/fuzzy-garbanzo | 0 | 0| 
 | 20230723T01:18:53Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 326 | 42| 
 | 20230723T00:41:21Z | Here is the result of my experiment entitled %Fuzzy A* path planeer for dynamic and complex multi agent simulation% | https://github.com/techmentalist/fuzzyastarresult | 0 | 0| 
-| 20230722T22:23:51Z | A simple Directory Transversal Vulnerability explorer by fuzzing. Supports raw .txt URL%s and light and medium files. | https://github.com/Lowkkii/transversal-fuzzer | 0 | 0| 
 
 
 
