@@ -89,10 +89,10 @@
 | 20230722T19:00:20Z | Null | https://github.com/Stetics/Fuzzing-test | 0 | 0| 
 | 20230722T18:44:27Z | fCommerce | https://github.com/Japharidze/fuzzy-invention | 0 | 0| 
 | 20230722T18:43:51Z | Null | https://github.com/sefcom/gh3fuzz | 0 | 0| 
+| 20230722T17:38:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3745 | 442| 
 | 20230722T16:21:23Z | Using fuzzing to find sokoban solutions. | https://github.com/addisoncrump/sokoban-fuzz | 1 | 0| 
 | 20230722T12:31:36Z | A console application that creates fuzzy systems | https://github.com/MahmoudShalaby44/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20230722T10:57:41Z | TL;DR: Mutate a binary to identify potential exploit candidates | https://github.com/demetriusford/mutation-fuzzer | 4 | 0| 
-| 20230722T09:39:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1470 | 204| 
 
 
 
