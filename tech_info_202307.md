@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:35:14Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230723T10:17:33Z | CVE-2021-44736 | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | | 
 | 20230723T10:15:33Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
 | 20230723T08:26:32Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
@@ -35,7 +36,6 @@
 | 20230722T21:32:53Z | CVE-2021-4191 | GitLab is a widely-used web-based DevOps tool with a powerful GraphQL API for programmable actions. However, specific versions were vulnerable to CVE-2021-4191. Attackers could exploit this flaw to identify registered usernames, potentially leading to targeted attacks on private GitLab instances with restricted sign-ups. | https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT | | 
 | 20230722T20:37:15Z | CVE-2023-28467 | Null | https://github.com/ahmetaltuntas/CVE-2023-28467 | | 
 | 20230722T17:32:09Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
-| 20230722T17:10:35Z | CVE-2023-3519 | Null | https://github.com/mr-r3b00t/CVE-2023-3519 | | 
 
 
 # klee on Github 推荐

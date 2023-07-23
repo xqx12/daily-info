@@ -22,6 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:35:14Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230723T10:17:33Z | CVE-2021-44736 | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | | 
 | 20230723T10:15:33Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
 | 20230723T08:26:32Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
