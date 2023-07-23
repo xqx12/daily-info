@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:19:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-db1e85ec-84c7-4e90-95c8-61ccb1c2331a-kMVKu-score-exploit | 0 | 0| 
+| 20230723T12:16:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5339 | 748| 
 | 20230723T12:07:11Z | an Active_directory_exploitation_tool | https://github.com/sagisar1/AD_Exploiter | 0 | 0| 
 | 20230723T11:31:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5771 | 768| 
 | 20230723T10:17:33Z | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | 0 | 1| 
 | 20230723T10:15:33Z | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | 0 | 0| 
 | 20230723T09:50:59Z | It is a script made for encoding exploits | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
 | 20230723T09:26:11Z | JS files for XSS escalation  | https://github.com/SomeoneAlt-86/ExploitHub | 0 | 0| 
+| 20230723T08:02:47Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 1 | 0| 
 | 20230723T07:56:52Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor | 0 | 0| 
-| 20230723T07:31:26Z | Null | https://github.com/ps4goldhen2exploit900/ps42exploit.github.io | 0 | 0| 
-| 20230723T07:29:38Z | A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. But It Does Work. | https://github.com/JoshUnscripted/BrenSkid | 0 | 0| 
-| 20230723T07:24:01Z | Config files for my GitHub profile. | https://github.com/ps4goldhen2exploit900/ps4goldhen2exploit900 | 0 | 0| 
 
 
 # backdoor on Github 推荐
