@@ -71,7 +71,7 @@
 | 20230723T12:43:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5340 | 748| 
 | 20230723T12:19:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-db1e85ec-84c7-4e90-95c8-61ccb1c2331a-kMVKu-score-exploit | 0 | 0| 
 | 20230723T12:07:11Z | an Active_directory_exploitation_tool | https://github.com/sagisar1/AD_Exploiter | 0 | 0| 
-| 20230723T11:31:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5771 | 768| 
+| 20230723T11:31:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5771 | 769| 
 | 20230723T10:17:33Z | Exploit for CVE-2021-44736 | https://github.com/defensor/CVE-2021-44736 | 0 | 1| 
 | 20230723T10:15:33Z | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | 0 | 0| 
 | 20230723T09:50:59Z | It is a script made for encoding exploits | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
