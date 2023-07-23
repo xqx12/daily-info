@@ -44,6 +44,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230722T23:35:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5179 | 652| 
+| 20230722T22:15:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5202 | 1018| 
 | 20230722T21:53:32Z | CVE-2008-5862 - Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410 build 2132 allows remote attackers to read arbitrary files via a ..%2F (encoded dot dot slash) in the URI. | https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT | 1 | 2| 
 | 20230722T21:49:55Z | Null | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
 | 20230722T21:44:16Z | wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request. | https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230722T20:25:16Z | Null | https://github.com/SamuraiMelayu1337/webdav-exploiter | 0 | 0| 
 | 20230722T19:32:13Z | zomplog 3.9 - Remote Code Execution (RCE) exploit | https://github.com/1mirabbas/zomplog_3.9_Remote_Code_Execution_exploit | 1 | 0| 
 | 20230722T17:52:37Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | 0 | 0| 
-| 20230722T14:51:04Z | More Stable Offline Exploit version of PS4 9.00 Jailbreak. | https://github.com/ConfusedDiscord/PS4JB-900 | 0 | 0| 
 
 
 # backdoor on Github 推荐
