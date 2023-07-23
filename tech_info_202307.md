@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T01:40:22Z | Null | https://github.com/jakefromstatesss/Roblox-exploitz | 0 | 0| 
 | 20230723T01:25:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5728 | 664| 
 | 20230723T01:13:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b6 | 0 | 0| 
 | 20230723T01:12:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b6 | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230722T22:15:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5202 | 1018| 
 | 20230722T21:53:32Z | CVE-2008-5862 - Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410 build 2132 allows remote attackers to read arbitrary files via a ..%2F (encoded dot dot slash) in the URI. | https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT | 1 | 2| 
 | 20230722T21:49:55Z | Null | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
-| 20230722T21:44:16Z | wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request. | https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
