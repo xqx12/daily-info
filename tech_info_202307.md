@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:48:37Z | FedDefender is a novel defense mechanism designed to safeguard Federated Learning from the poisoning attacks (i.e., backdoor attacks).  | https://github.com/warisgill/FedDefender | 1 | 0| 
 | 20230723T09:50:57Z | C++ is one of the most common programming languages. So it was a great experience writing a remote access backdoor in C++. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
 | 20230723T05:55:14Z | FUD for windows | https://github.com/anniop/backdoor-For-Windows | 0 | 0| 
 | 20230723T03:59:25Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 92 | 33| 
@@ -90,7 +91,6 @@
 | 20230722T17:04:04Z | I completely russified and modified njrat and added an interface I am not criminally responsible for what you do with my program | https://github.com/JumperYT-official/njRAT-Platinum-Edition-RuS | 2 | 0| 
 | 20230722T14:38:30Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 19 | 2| 
 | 20230722T08:43:54Z | This is the official implementation of our paper %Black-box Dataset Ownership Verification via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 5 | 0| 
-| 20230722T06:43:30Z | FedDefender is a novel defense mechanism designed to safeguard Federated Learning from the poisoning attacks (i.e., backdoor attacks).  | https://github.com/warisgill/FedDefender | 0 | 0| 
 | 20230722T05:36:00Z | Null | https://github.com/unCodeBoss/webshell-.jp-backdoor | 1 | 0| 
 | 20230722T04:39:56Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 23 | 5| 
 

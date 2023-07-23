@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T12:48:37Z | FedDefender is a novel defense mechanism designed to safeguard Federated Learning from the poisoning attacks (i.e., backdoor attacks).  | https://github.com/warisgill/FedDefender | 1 | 0| 
 | 20230723T09:50:57Z | C++ is one of the most common programming languages. So it was a great experience writing a remote access backdoor in C++. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
 | 20230723T05:55:14Z | FUD for windows | https://github.com/anniop/backdoor-For-Windows | 0 | 0| 
 | 20230723T03:59:25Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 92 | 33| 
