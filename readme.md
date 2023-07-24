@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230723T21:49:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5201 | 1018| 
 | 20230723T21:14:08Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
 | 20230723T20:52:35Z | This is an exploit I developed for the Malware and Exploit Analysis module on my course. | https://github.com/JM217/ropy | 0 | 0| 
 | 20230723T20:48:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5180 | 652| 
@@ -57,7 +58,6 @@
 | 20230723T14:51:37Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3561 | 519| 
 | 20230723T12:55:00Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 1 | 0| 
 | 20230723T12:43:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5340 | 748| 
-| 20230723T12:19:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-db1e85ec-84c7-4e90-95c8-61ccb1c2331a-kMVKu-score-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
