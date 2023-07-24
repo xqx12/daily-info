@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230724T12:49:31Z | Null | https://github.com/adexbam/fuzzy-train | 0 | 0| 
+| 20230724T12:57:16Z | Null | https://github.com/adexbam/fuzzy-train | 0 | 0| 
 | 20230724T12:41:19Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
 | 20230724T12:19:24Z | Fuzz URLs for potential path normalization issues. | https://github.com/dptsec/pathfinder | 0 | 0| 
 | 20230724T11:53:55Z | Null | https://github.com/tutor-1v1/CS6340-Lab-1-Fuzzing | 0 | 0| 
