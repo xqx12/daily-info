@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230724T01:33:13Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230723T23:38:18Z | CVE-2023-34960 | Perform witth massive command injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230723T22:38:39Z | CVE-2023-28121 | Null | https://github.com/C04LA/CVE-2023-28121 | | 
 | 20230723T20:38:06Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
@@ -35,7 +36,6 @@
 | 20230723T10:15:33Z | CVE-2021-44735 | Exploit for CVE-2021-44735 | https://github.com/defensor/CVE-2021-44735 | | 
 | 20230723T08:06:33Z | cve-2023-27163 | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | https://github.com/seanrdev/cve-2023-27163 | | 
 | 20230723T02:24:26Z | CVE-2023-3519 | CVE-2023-3519 vuln for nuclei scanner | https://github.com/SalehLardhi/CVE-2023-3519 | | 
-| 20230722T21:49:55Z | CVE-2021-22873 | Null | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | | 
 
 
 # klee on Github 推荐
