@@ -98,6 +98,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T01:23:28Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 197 | 43| 
 | 20230723T09:18:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3499 | 486| 
 | 20230723T07:23:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2284 | 629| 
 | 20230722T09:45:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 420 | 28| 
@@ -107,7 +108,6 @@
 | 20230721T10:23:13Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 210 | 20| 
 | 20230719T22:37:53Z | Path-optimal symbolic execution | https://github.com/pietrobraione/pose | 0 | 0| 
 | 20230719T09:14:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 60 | 26| 
-| 20230717T15:38:50Z | (Will likely be short scripts demonstrating symbolic execution using angr) | https://github.com/Leodler/ctf-writeups | 0 | 0| 
 
 
 # big4 on Github 推荐
