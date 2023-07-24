@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T01:49:53Z | The sussy adventures of a Google Chromebook exploit. | https://github.com/sussystuff/Chromebook | 0 | 0| 
 | 20230724T01:36:21Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0009-app-wr4VX-exploit-appreciate | 0 | 0| 
 | 20230724T01:33:13Z | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | 0 | 0| 
 | 20230724T01:30:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-no | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230724T00:14:36Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 550 | 106| 
 | 20230723T21:49:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5201 | 1018| 
 | 20230723T21:14:08Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
-| 20230723T20:52:35Z | This is an exploit I developed for the Malware and Exploit Analysis module on my course. | https://github.com/JM217/ropy | 0 | 0| 
 
 
 # backdoor on Github 推荐
