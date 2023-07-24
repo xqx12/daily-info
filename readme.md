@@ -79,7 +79,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230724T00:44:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8828 | 1943| 
+| 20230724T11:53:55Z | Null | https://github.com/tutor-1v1/CS6340-Lab-1-Fuzzing | 0 | 0| 
+| 20230724T11:40:39Z | Null | https://github.com/dave-seaman/fuzzy-potato | 0 | 0| 
+| 20230724T11:38:14Z | I store here my Jupyter Notebooks with solutions to problems from FuzzingBook.org. | https://github.com/CourteousSleet/FuzzingBook | 0 | 0| 
+| 20230724T11:35:51Z | Null | https://github.com/frhnanas/Fuzzy-Logic-f | 0 | 0| 
+| 20230724T11:31:45Z | Null | https://github.com/april9098/fuzzy-pancake | 0 | 0| 
+| 20230724T09:28:57Z | Null | https://github.com/Sduby22/telescope-fuzzy-grep | 0 | 0| 
+| 20230724T07:49:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4769 | 1149| 
+| 20230724T07:18:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8829 | 1943| 
+| 20230724T02:11:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1469 | 203| 
 | 20230724T00:16:23Z | Null | https://github.com/the-grateful-ed/fuzzy-pancake | 0 | 0| 
 
 
