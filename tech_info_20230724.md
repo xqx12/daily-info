@@ -49,9 +49,9 @@
 | 20230724T08:44:40Z | Learn kernel exploit from CVE. | https://github.com/Ha0-Y/kernel-exploit-cve | 0 | 0| 
 | 20230724T06:40:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 37 | 6| 
 | 20230724T04:35:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
+| 20230724T03:20:45Z | exploit tool, write webshell,python3 | https://github.com/sanmasa3/citrix_CVE-2023-3519 | 0 | 1| 
 | 20230724T01:49:53Z | The sussy adventures of a Google Chromebook exploit. | https://github.com/sussystuff/Chromebook | 0 | 0| 
 | 20230724T01:36:21Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0009-app-wr4VX-exploit-appreciate | 0 | 0| 
-| 20230724T01:33:13Z | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | 0 | 0| 
 
 
 # backdoor on Github 推荐
