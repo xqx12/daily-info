@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T12:05:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 592 | 108| 
 | 20230724T11:55:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-SqGuQ-exploit-ring | 0 | 0| 
 | 20230724T10:52:52Z | Null | https://github.com/ttumeh/telegram-exploit-alert-bot | 0 | 0| 
 | 20230724T10:17:51Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230724T01:49:53Z | The sussy adventures of a Google Chromebook exploit. | https://github.com/sussystuff/Chromebook | 0 | 0| 
 | 20230724T01:36:21Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0009-app-wr4VX-exploit-appreciate | 0 | 0| 
 | 20230724T01:33:13Z | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | 0 | 0| 
-| 20230724T01:30:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-no | 0 | 0| 
 
 
 # backdoor on Github 推荐
