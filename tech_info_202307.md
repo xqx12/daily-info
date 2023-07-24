@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T12:59:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8830 | 1943| 
 | 20230724T12:57:16Z | Null | https://github.com/adexbam/fuzzy-train | 0 | 0| 
 | 20230724T12:41:19Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
 | 20230724T12:19:24Z | Fuzz URLs for potential path normalization issues. | https://github.com/dptsec/pathfinder | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230724T11:35:51Z | Null | https://github.com/frhnanas/Fuzzy-Logic-f | 0 | 0| 
 | 20230724T11:31:45Z | Null | https://github.com/april9098/fuzzy-pancake | 0 | 0| 
 | 20230724T09:28:57Z | Null | https://github.com/Sduby22/telescope-fuzzy-grep | 0 | 0| 
-| 20230724T07:49:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4769 | 1149| 
 
 
 
