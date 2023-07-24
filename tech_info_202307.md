@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T00:14:36Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 550 | 106| 
 | 20230723T21:14:08Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
 | 20230723T20:52:35Z | This is an exploit I developed for the Malware and Exploit Analysis module on my course. | https://github.com/JM217/ropy | 0 | 0| 
 | 20230723T19:28:48Z | The Web Application Hacker%s Handbook (TWAHH) examples to help learn by doing hands on web development and exploitation. My hope with this project is for it to provide a side by side interactive guide to the book. Making it so the information learned in the book is retained. | https://github.com/NathanTurner270/TWAHH-Examples | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230723T12:55:00Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 1 | 0| 
 | 20230723T12:43:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5340 | 748| 
 | 20230723T12:19:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-db1e85ec-84c7-4e90-95c8-61ccb1c2331a-kMVKu-score-exploit | 0 | 0| 
-| 20230723T12:07:11Z | an Active_directory_exploitation_tool | https://github.com/sagisar1/AD_Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T00:16:23Z | Null | https://github.com/the-grateful-ed/fuzzy-pancake | 0 | 0| 
 | 20230723T23:31:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8827 | 1943| 
 | 20230723T21:41:26Z | Null | https://github.com/Jasminecmone/fuzzy-engine | 0 | 0| 
 | 20230723T21:38:30Z | Null | https://github.com/ornlu-is/go_fuzzing | 0 | 0| 
 | 20230723T19:38:51Z | Null | https://github.com/Alamvic/compiler-fuzzing-course | 0 | 0| 
+| 20230723T19:04:35Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3746 | 442| 
 | 20230723T18:43:23Z | Null | https://github.com/pablomorales88/fuzzy-meme | 0 | 0| 
 | 20230723T18:28:00Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230723T12:18:56Z | This is just one of many beginner projects i made while taking lessons from w3schools.com | https://github.com/Abongile184/fuzzy-fishstick | 0 | 0| 
 | 20230723T12:07:02Z | Null | https://github.com/Otwooo/web-fuzzer | 0 | 0| 
-| 20230723T11:34:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 947 | 226| 
-| 20230723T10:55:23Z | Learning git push and pull | https://github.com/Manveer-Prajapati/fuzzy-octo-bassoon | 0 | 0| 
 
 
 
