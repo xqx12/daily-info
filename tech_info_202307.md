@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230724T01:36:21Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0009-0009-app-wr4VX-exploit-appreciate | 0 | 0| 
+| 20230724T01:33:13Z | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | 0 | 0| 
+| 20230724T01:30:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-no | 0 | 0| 
+| 20230724T01:29:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-no | 0 | 0| 
+| 20230724T01:27:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-no | 0 | 0| 
 | 20230724T01:08:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5181 | 652| 
 | 20230724T00:14:36Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 550 | 106| 
 | 20230723T21:49:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5201 | 1018| 
 | 20230723T21:14:08Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 0 | 0| 
 | 20230723T20:52:35Z | This is an exploit I developed for the Malware and Exploit Analysis module on my course. | https://github.com/JM217/ropy | 0 | 0| 
-| 20230723T19:28:48Z | The Web Application Hacker%s Handbook (TWAHH) examples to help learn by doing hands on web development and exploitation. My hope with this project is for it to provide a side by side interactive guide to the book. Making it so the information learned in the book is retained. | https://github.com/NathanTurner270/TWAHH-Examples | 0 | 0| 
-| 20230723T18:57:55Z | Null | https://github.com/NameNoQQ/Exploits-And-Fun | 0 | 0| 
-| 20230723T15:01:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 78 | 29| 
-| 20230723T14:51:37Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3561 | 519| 
-| 20230723T12:55:00Z | APK TO JPG EXPLOIT | https://github.com/SOLORAT/JPG-RAT-ANDROID-REMOTE-ACCES | 1 | 0| 
 
 
 # backdoor on Github 推荐
