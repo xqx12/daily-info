@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T00:43:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-njzu-5YbRN-exploit-assess | 0 | 0| 
 | 20230724T23:23:06Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
 | 20230724T23:18:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5183 | 653| 
 | 20230724T23:18:33Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
@@ -77,7 +78,6 @@
 | 20230724T20:55:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5777 | 771| 
 | 20230724T19:58:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5206 | 1018| 
 | 20230724T12:05:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 592 | 108| 
-| 20230724T11:55:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-SqGuQ-exploit-ring | 0 | 0| 
 
 
 # backdoor on Github 推荐
