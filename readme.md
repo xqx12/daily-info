@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230725T12:04:04Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230725T12:13:33Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
 | 20230725T11:32:16Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230725T11:23:32Z | CVE-2022-23305 | CVE-2022-23305 Log4J JDBCAppender SQl injection POC  | https://github.com/tkomlodi/CVE-2022-23305_POC | | 
 | 20230725T05:08:50Z | CVE-2023-33802 | Null | https://github.com/CDACesec/CVE-2023-33802 | | 
