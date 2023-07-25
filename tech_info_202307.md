@@ -69,6 +69,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230724T23:23:06Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
+| 20230724T23:18:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5183 | 653| 
 | 20230724T23:18:33Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
 | 20230724T23:18:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
 | 20230724T23:04:23Z | these are all my scripts/ exploits | https://github.com/SANoe2/Sanosploits | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230724T12:05:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 592 | 108| 
 | 20230724T11:55:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-SqGuQ-exploit-ring | 0 | 0| 
 | 20230724T10:52:52Z | Null | https://github.com/ttumeh/telegram-exploit-alert-bot | 0 | 0| 
-| 20230724T10:17:51Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T00:18:18Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
 | 20230724T23:18:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3747 | 442| 
 | 20230724T22:56:03Z | Raudan taika blog | https://github.com/fuzzthewhirl/fuzzthewhirl.github.io | 0 | 0| 
 | 20230724T21:43:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8831 | 1943| 
@@ -135,7 +136,6 @@
 | 20230724T12:57:16Z | Null | https://github.com/adexbam/fuzzy-train | 0 | 0| 
 | 20230724T12:41:19Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
 | 20230724T12:19:24Z | Fuzz URLs for potential path normalization issues. | https://github.com/dptsec/pathfinder | 0 | 0| 
-| 20230724T11:53:55Z | Null | https://github.com/tutor-1v1/CS6340-Lab-1-Fuzzing | 0 | 0| 
 
 
 

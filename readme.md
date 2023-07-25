@@ -51,6 +51,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230724T23:23:06Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
+| 20230724T23:18:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5183 | 653| 
 | 20230724T23:18:33Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
 | 20230724T23:18:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
 | 20230724T23:04:23Z | these are all my scripts/ exploits | https://github.com/SANoe2/Sanosploits | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20230724T12:05:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 592 | 108| 
 | 20230724T11:55:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-SqGuQ-exploit-ring | 0 | 0| 
 | 20230724T10:52:52Z | Null | https://github.com/ttumeh/telegram-exploit-alert-bot | 0 | 0| 
-| 20230724T10:17:51Z | Datasets and notebooks for Exploiting Label Dependencies for Multi-Label Document Classification Using Transformers | https://github.com/hf-lis/DocEng-23 | 0 | 0| 
 
 
 # backdoor on Github 推荐
