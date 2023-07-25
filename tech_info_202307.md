@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230725T01:21:25Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230724T23:21:02Z | CVE-2023-34960 | Null | https://github.com/Mantodkaz/CVE-2023-34960 | | 
-| 20230724T14:35:13Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230724T14:20:34Z | CVE-2023-3519 | Citrix exploit | https://github.com/binbz/CVE-2023-3519 | | 
 | 20230724T13:16:18Z | CVE-2023-34960 | Perform with Massive Command Injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230724T11:44:10Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
