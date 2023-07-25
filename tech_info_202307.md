@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230725T01:36:07Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
 | 20230725T01:23:29Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230725T01:21:25Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230724T23:21:02Z | CVE-2023-34960 | Null | https://github.com/Mantodkaz/CVE-2023-34960 | | 
@@ -35,7 +36,6 @@
 | 20230724T11:17:54Z | CVE-2023-28467 | Null | https://github.com/ahmetaltuntas/CVE-2023-28467 | | 
 | 20230724T07:29:03Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
 | 20230724T03:20:45Z | CVE-2023-3519 | exploit tool, write webshell,python3 | https://github.com/sanmasa3/citrix_CVE-2023-3519 | | 
-| 20230723T22:38:39Z | CVE-2023-28121 | Null | https://github.com/C04LA/CVE-2023-28121 | | 
 
 
 # klee on Github 推荐
