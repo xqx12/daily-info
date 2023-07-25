@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:25:01Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0009-0005-app-bGsuY-exploit-suit | 0 | 0| 
 | 20230725T11:30:09Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 4 | 0| 
 | 20230725T10:46:51Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
 | 20230725T09:52:49Z | A standalone python script leveraging ntdll for UEFI variable enumeration. This uses elements from the %chipsec% toolkit for formatting when extracting NVRAM buffer from the ntdll library function and underlying runtime service. This is working on Windows 7 - 10 in testing.  | https://github.com/connormorley/OuterHaven-UEFI-exploitation-and-detection | 5 | 0| 
@@ -77,7 +78,6 @@
 | 20230725T07:49:17Z | exploits n shit | https://github.com/thunderfurry/KAMINARI | 0 | 0| 
 | 20230725T05:40:18Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 177 | 41| 
 | 20230725T03:04:46Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia with the title %Unveiling the supply side inflation in Indonesia: Profits or Wages?%. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
-| 20230725T00:50:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i4 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:26:10Z | [QRS%22] TokenAuditor: Detecting Manipulation Risk in Token Smart Contract by Fuzzing | https://github.com/caomingpei/TokenAuditor | 0 | 0| 
 | 20230725T12:00:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1471 | 204| 
 | 20230725T10:37:31Z | Fast 403 & 401 Bypass tool works by Path and Headers fuzzing techniques. | https://github.com/Ryukudz/4xxbypass | 0 | 0| 
 | 20230725T09:12:16Z | Null | https://github.com/guangshengfan/FloatFuzz | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230724T23:44:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4770 | 1149| 
 | 20230724T23:18:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3747 | 442| 
 | 20230724T22:56:03Z | Raudan taika blog | https://github.com/fuzzthewhirl/fuzzthewhirl.github.io | 0 | 0| 
-| 20230724T21:43:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8831 | 1943| 
 
 
 
