@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230725 | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g| 
+| 20230725 | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg| 
 | 20230724 | CVE-2022-24481 | https://www.sec-in.com/article/2181| 
 | 20230724 | SecWiki周刊（第490期) | https://www.sec-wiki.com/weekly/490| 
 | 20230724 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q| 
@@ -19,23 +21,21 @@
 | 20230724 | 2022 APT组织研究年鉴 | https://book.yunzhan365.com/tkgd/roji/mobile/index.html| 
 | 20230724 | MARBLE：挖掘样板代码以识别API可用性问题 | https://mp.weixin.qq.com/s/R2sCtEMJ2pIhOTEomR20TQ| 
 | 20230724 | 中国人民银行业务领域数据安全管理办法（征求意见稿） | http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf| 
-| 20230723 | 装备软件供应链网络安全风险分析与对策 | https://mp.weixin.qq.com/s/y-uGBmpw32vfIS-CIYLxHQ| 
-| 20230723 | 交通信号机的安全威胁 | https://peirs.net/security-threats-of-traffic-signal-machines/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230725T01:40:13Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
-| 20230725T01:23:29Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
-| 20230725T01:21:25Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
+| 20230725T11:52:01Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230725T11:32:16Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
+| 20230725T11:23:32Z | CVE-2022-23305 | CVE-2022-23305 Log4J JDBCAppender SQl injection POC  | https://github.com/tkomlodi/CVE-2022-23305_POC | | 
+| 20230725T05:08:50Z | CVE-2023-33802 | Null | https://github.com/CDACesec/CVE-2023-33802 | | 
+| 20230725T02:44:30Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230724T23:21:02Z | CVE-2023-34960 | Null | https://github.com/Mantodkaz/CVE-2023-34960 | | 
 | 20230724T14:20:34Z | CVE-2023-3519 | Citrix exploit | https://github.com/binbz/CVE-2023-3519 | | 
 | 20230724T13:16:18Z | CVE-2023-34960 | Perform with Massive Command Injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
 | 20230724T11:44:10Z | CVE-2023-32681 | POC for the CVE-2023-32681 | https://github.com/hardikmodha/POC-CVE-2023-32681 | | 
 | 20230724T11:17:54Z | CVE-2023-28467 | Null | https://github.com/ahmetaltuntas/CVE-2023-28467 | | 
-| 20230724T07:29:03Z | CVE-2023-34960 | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE | | 
-| 20230724T03:20:45Z | CVE-2023-3519 | exploit tool, write webshell,python3 | https://github.com/sanmasa3/citrix_CVE-2023-3519 | | 
 
 
 # klee on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T11:30:09Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 4 | 0| 
+| 20230725T10:46:51Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
+| 20230725T09:52:49Z | A standalone python script leveraging ntdll for UEFI variable enumeration. This uses elements from the %chipsec% toolkit for formatting when extracting NVRAM buffer from the ntdll library function and underlying runtime service. This is working on Windows 7 - 10 in testing.  | https://github.com/connormorley/OuterHaven-UEFI-exploitation-and-detection | 5 | 0| 
+| 20230725T09:43:40Z | This aims to reach full compatibility on Roblox exploits. This scored 94% on Fluxus | https://github.com/depthso/Roblox-UNC-Patches | 0 | 0| 
+| 20230725T09:30:05Z | 4145556 exploit | https://github.com/kevinYMHGmlg/scripts | 0 | 0| 
+| 20230725T08:58:41Z | This repo is for mimikatz from scratch youtube series, if you wanna see youtube videos on how to create those exploit, check out https://www.youtube.com/watch?v=mI3FgE1K4PE&list=PLFA5k60XteCmLHiUmkZEjVh7OUzbwHCd9 | https://github.com/Ximoxkil547/Amacho | 0 | 0| 
+| 20230725T07:49:17Z | exploits n shit | https://github.com/thunderfurry/KAMINARI | 0 | 0| 
+| 20230725T05:40:18Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 177 | 41| 
+| 20230725T03:04:46Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia with the title %Unveiling the supply side inflation in Indonesia: Profits or Wages?%. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
 | 20230725T00:50:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i4 | 0 | 0| 
-| 20230725T00:49:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i4 | 0 | 0| 
-| 20230725T00:48:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i4 | 0 | 0| 
-| 20230725T00:43:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-njzu-5YbRN-exploit-assess | 0 | 0| 
-| 20230724T23:23:06Z | A bioinformatics web application designed to enable genome-wide CRISPR loss-of-function inferences with compressed sgRNA subsets powered by information embedded in biological networks that exploit functional relationships between genes.  | https://github.com/pritchardlabatpsu/goloco | 0 | 0| 
-| 20230724T23:18:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5183 | 653| 
-| 20230724T23:18:33Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 143 | 13| 
-| 20230724T23:18:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
-| 20230724T23:04:23Z | these are all my scripts/ exploits | https://github.com/SANoe2/Sanosploits | 0 | 0| 
-| 20230724T22:42:24Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T11:51:58Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/V3nomBackdoor | 0 | 0| 
+| 20230725T05:39:14Z | Null | https://github.com/mmwan101010/GhostBackdoor_SincNet | 1 | 0| 
+| 20230725T05:28:04Z | Null | https://github.com/tania003/Simple_Backdoor | 0 | 0| 
+| 20230725T03:21:50Z | Null | https://github.com/nicochen1118/Backdoorattack | 0 | 0| 
 | 20230724T18:55:34Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 0 | 0| 
 | 20230724T16:12:19Z | SpyMax is a Tool That Can Controls any Phone Remotely. and It Has Alot Of PowerFul and Fantastic Features. (Remote Webcam, Remote Files, Remote SMS and Also More Features). (Warning: For Educational Purposes Only) | https://github.com/SoftwaresForPCZ/SpyMax-v4.0-Cracked-Activated | 1 | 0| 
+| 20230724T15:07:30Z | Null | https://github.com/SCLBD/BackdoorBench | 184 | 27| 
 | 20230724T10:26:31Z | Null | https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama | 0 | 0| 
 | 20230724T09:42:36Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 8 | 5| 
 | 20230724T06:39:23Z | Backdoor for windows os which connect form target pc to Host PC | https://github.com/MathurVineet/Reverse-backdoor- | 0 | 0| 
-| 20230724T04:57:09Z | A remote backdoor shell | https://github.com/Zer0dox/ZySH | 0 | 0| 
-| 20230723T20:29:00Z | Library for guaranteed backdoor neutralization of machine learning models | https://github.com/SadrikA78/proteca | 0 | 0| 
-| 20230723T19:13:53Z | ArdaMax Keylogger Records All Keystrokes From Any Windows Machine, (ArdaMax Keylogger Steals Facebook account & Instagram & Credit Cards & Bank Account) | https://github.com/SoftwaresForPCZ/ArdaMax-Keylogger | 1 | 0| 
-| 20230723T18:54:24Z | Simple python script of a backdoor controlled by a discord bot. | https://github.com/activiste/DiscordBackdoor | 0 | 0| 
-| 20230723T18:22:40Z | DcRat+Fixed Password Plugin Control Any Windows Machine Remotely With PowerFul Features. (Remote Webcame & Remote Desktop & Remote Files & Registry). WARNING: For Educational Purposes Only | https://github.com/SoftwaresForPCZ/DcRat | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:00:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1471 | 204| 
+| 20230725T10:37:31Z | Fast 403 & 401 Bypass tool works by Path and Headers fuzzing techniques. | https://github.com/Ryukudz/4xxbypass | 0 | 0| 
+| 20230725T09:12:16Z | Null | https://github.com/guangshengfan/FloatFuzz | 0 | 0| 
+| 20230725T07:37:46Z | Fuzzing tool for Ethereum deposits. | https://github.com/kevinbogner/deposit-fuzz | 1 | 0| 
+| 20230725T06:09:26Z | GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。 | https://github.com/0xXxyu/GattFuzz | 8 | 2| 
 | 20230725T01:00:42Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
+| 20230724T23:44:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4770 | 1149| 
 | 20230724T23:18:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3747 | 442| 
 | 20230724T22:56:03Z | Raudan taika blog | https://github.com/fuzzthewhirl/fuzzthewhirl.github.io | 0 | 0| 
 | 20230724T21:43:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8831 | 1943| 
-| 20230724T21:12:46Z | Null | https://github.com/Alamvic/compiler-fuzzing-course | 3 | 0| 
-| 20230724T20:30:39Z | Following Odin Project%s Git Tutorial | https://github.com/DamianNelson/fuzzy-happiness | 0 | 0| 
-| 20230724T20:11:10Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 1| 
-| 20230724T12:57:16Z | Null | https://github.com/adexbam/fuzzy-train | 0 | 0| 
-| 20230724T12:41:19Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
-| 20230724T12:19:24Z | Fuzz URLs for potential path normalization issues. | https://github.com/dptsec/pathfinder | 0 | 0| 
 
 
 
