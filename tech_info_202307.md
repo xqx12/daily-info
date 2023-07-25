@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230725T00:18:18Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
+| 20230725T01:00:42Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
 | 20230724T23:18:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3747 | 442| 
 | 20230724T22:56:03Z | Raudan taika blog | https://github.com/fuzzthewhirl/fuzzthewhirl.github.io | 0 | 0| 
 | 20230724T21:43:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8831 | 1943| 
