@@ -113,7 +113,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230724T07:30:59Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 715 | 116| 
+| 20230724T14:10:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
+| 20230724T14:00:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 716 | 116| 
 | 20230720T08:21:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 18 | 2| 
 | 20230719T19:10:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 59 | 3| 
 | 20230718T14:07:38Z | Ground Truth Dataset of our NDSS paper - % An In-depth Analysis of Duplicated Linux Kernel Bug Reports% | https://github.com/HUSTSeclab/crash_deduplication | 3 | 0| 

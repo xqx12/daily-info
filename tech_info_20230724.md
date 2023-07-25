@@ -84,7 +84,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230724T07:30:59Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 715 | 116| 
+| 20230724T14:10:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
+| 20230724T14:00:35Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 716 | 116| 
 
 
 # fuzz on Github 推荐
