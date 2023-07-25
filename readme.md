@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:49:21Z | Null | https://github.com/0x6861636B65640A/Exploit | 0 | 0| 
 | 20230725T12:33:13Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 178 | 41| 
 | 20230725T12:25:01Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0009-0005-app-bGsuY-exploit-suit | 0 | 0| 
 | 20230725T11:30:09Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 4 | 0| 
@@ -47,7 +48,6 @@
 | 20230725T09:30:05Z | 4145556 exploit | https://github.com/kevinYMHGmlg/scripts | 0 | 0| 
 | 20230725T08:58:41Z | This repo is for mimikatz from scratch youtube series, if you wanna see youtube videos on how to create those exploit, check out https://www.youtube.com/watch?v=mI3FgE1K4PE&list=PLFA5k60XteCmLHiUmkZEjVh7OUzbwHCd9 | https://github.com/Ximoxkil547/Amacho | 0 | 0| 
 | 20230725T07:49:17Z | exploits n shit | https://github.com/thunderfurry/KAMINARI | 0 | 0| 
-| 20230725T03:04:46Z | The codes are based on the research about the share of profit margin behavior in affecting the inflation rate in Indonesia with the title %Unveiling the supply side inflation in Indonesia: Profits or Wages?%. The inflation rate in this context is based on the gross value add inflation rate. We exploit the %Industri Besar Sedang% survey from BPS. | https://github.com/fawdywahyu18/profit-margin-inflation-indonesia | 0 | 0| 
 
 
 # backdoor on Github 推荐
