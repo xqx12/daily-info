@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:10:42Z | Null | https://github.com/Ishanoshada/backdoor | 1 | 0| 
 | 20230725T11:51:58Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/V3nomBackdoor | 0 | 0| 
 | 20230725T05:39:14Z | Null | https://github.com/mmwan101010/GhostBackdoor_SincNet | 1 | 0| 
 | 20230725T05:28:04Z | Null | https://github.com/tania003/Simple_Backdoor | 0 | 0| 
