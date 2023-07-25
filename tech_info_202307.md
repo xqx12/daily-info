@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T12:29:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8834 | 1943| 
 | 20230725T12:26:10Z | [QRS%22] TokenAuditor: Detecting Manipulation Risk in Token Smart Contract by Fuzzing | https://github.com/caomingpei/TokenAuditor | 0 | 0| 
 | 20230725T12:00:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1471 | 204| 
 | 20230725T10:37:31Z | Fast 403 & 401 Bypass tool works by Path and Headers fuzzing techniques. | https://github.com/Ryukudz/4xxbypass | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230725T01:00:42Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
 | 20230724T23:44:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4770 | 1149| 
 | 20230724T23:18:36Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3747 | 442| 
-| 20230724T22:56:03Z | Raudan taika blog | https://github.com/fuzzthewhirl/fuzzthewhirl.github.io | 0 | 0| 
 
 
 
