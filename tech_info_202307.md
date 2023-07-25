@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230725T01:36:07Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230725T01:40:13Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
 | 20230725T01:23:29Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 | 20230725T01:21:25Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230724T23:21:02Z | CVE-2023-34960 | Null | https://github.com/Mantodkaz/CVE-2023-34960 | | 
