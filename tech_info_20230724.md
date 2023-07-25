@@ -57,9 +57,9 @@
 | 20230724T23:04:23Z | these are all my scripts/ exploits | https://github.com/SANoe2/Sanosploits | 0 | 0| 
 | 20230724T22:42:24Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
 | 20230724T20:55:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5777 | 771| 
+| 20230724T19:58:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5206 | 1018| 
 | 20230724T12:05:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 592 | 108| 
 | 20230724T11:55:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-SqGuQ-exploit-ring | 0 | 0| 
-| 20230724T10:52:52Z | Null | https://github.com/ttumeh/telegram-exploit-alert-bot | 0 | 0| 
 
 
 # backdoor on Github 推荐
