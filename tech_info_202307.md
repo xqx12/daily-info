@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T00:50:28Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-i4 | 0 | 0| 
 | 20230725T00:49:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-i4 | 0 | 0| 
 | 20230725T00:48:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i4 | 0 | 0| 
 | 20230725T00:43:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-njzu-5YbRN-exploit-assess | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230724T23:18:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 77 | 29| 
 | 20230724T23:04:23Z | these are all my scripts/ exploits | https://github.com/SANoe2/Sanosploits | 0 | 0| 
 | 20230724T22:42:24Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
-| 20230724T20:55:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5777 | 771| 
 
 
 # backdoor on Github 推荐
