@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T12:41:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7751 | 1811| 
 | 20230726T12:35:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 173 | 18| 
 | 20230726T11:05:58Z | This project is for educational purposes, to warn people of certain hacking attacks they may be subject to. Reproducing this code is your responsibility.  Here I present how to create a backdoor attack with python.  - Connecting sockets  - Creating a terminal with subprocess - Taking screenshots  - Recovering files  | https://github.com/FARIDJADDA/python_backdoor | 0 | 0| 
 | 20230726T08:53:47Z | Tools Find PHP Malware Backdoor | https://github.com/ZildanZ/Analyst-PHP-Backdoor | 0 | 0| 
