@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T00:53:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:51:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:51:27Z | Config files for my GitHub profile. | https://github.com/cheatingEXPLOITATION/cheatingEXPLOITATION | 0 | 0| 
 | 20230726T00:50:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5778 | 772| 
@@ -77,7 +78,6 @@
 | 20230725T23:13:20Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | 0 | 0| 
 | 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
 | 20230725T22:38:12Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken. | https://github.com/LeProxyLEAKED/LeproxyLeaked | 4 | 0| 
-| 20230725T22:12:53Z | My notes while studying Windows exploitation | https://github.com/LordNoteworthy/windows-exploitation | 82 | 28| 
 
 
 # backdoor on Github 推荐
