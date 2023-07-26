@@ -69,6 +69,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230726T00:19:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5778 | 772| 
+| 20230725T23:31:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5188 | 654| 
 | 20230725T23:13:20Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | 0 | 0| 
 | 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
 | 20230725T22:38:12Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken. | https://github.com/LeProxyLEAKED/LeproxyLeaked | 4 | 0| 
@@ -77,7 +78,6 @@
 | 20230725T21:47:05Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken | https://github.com/v3ru2115/LEPROXY-LEAK | 2 | 0| 
 | 20230725T20:59:37Z | A PoC exploit for CVE-2021-41773 - RCE Apache version 2.4.49/2.4.50 | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | 0 | 0| 
 | 20230725T20:43:58Z | Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution | https://github.com/jingang-cv/DBTC | 0 | 0| 
-| 20230725T19:59:36Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
 
 
 # backdoor on Github 推荐
