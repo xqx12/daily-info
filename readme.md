@@ -18,7 +18,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230725T12:13:33Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230725T23:54:26Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230725T23:36:58Z | CVE-2020-35489 | WordPress Sites Vulnerability Checker for CVE-2020-35489 | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
+| 20230725T23:13:20Z | CVE-2020-8644 | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | | 
+| 20230725T22:01:02Z | CVE-2020-8644 | Python script to exploit PlaySMS before 1.4.3 | https://github.com/hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp | | 
+| 20230725T20:59:37Z | CVE-2021-41773 | A PoC exploit for CVE-2021-41773 - RCE Apache version 2.4.49/2.4.50 | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | | 
+| 20230725T13:27:33Z | CVE-2023-35801 | Null | https://github.com/trustcves/CVE-2023-35801 | | 
 | 20230725T11:32:16Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
 | 20230725T11:23:32Z | CVE-2022-23305 | CVE-2022-23305 Log4J JDBCAppender SQl injection POC  | https://github.com/tkomlodi/CVE-2022-23305_POC | | 
 | 20230725T05:08:50Z | CVE-2023-33802 | Null | https://github.com/CDACesec/CVE-2023-33802 | | 
@@ -28,6 +33,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T19:02:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2285 | 631| 
+| 20230725T15:31:21Z | Null | https://github.com/251/klee-docs | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -38,21 +45,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230725T12:49:21Z | Null | https://github.com/0x6861636B65640A/Exploit | 0 | 0| 
-| 20230725T12:33:13Z | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | 178 | 41| 
-| 20230725T12:25:01Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0009-0005-app-bGsuY-exploit-suit | 0 | 0| 
-| 20230725T11:30:09Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 4 | 0| 
-| 20230725T10:46:51Z |  This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/borntobesso/RainFall | 0 | 0| 
-| 20230725T09:52:49Z | A standalone python script leveraging ntdll for UEFI variable enumeration. This uses elements from the %chipsec% toolkit for formatting when extracting NVRAM buffer from the ntdll library function and underlying runtime service. This is working on Windows 7 - 10 in testing.  | https://github.com/connormorley/OuterHaven-UEFI-exploitation-and-detection | 5 | 0| 
-| 20230725T09:43:40Z | This aims to reach full compatibility on Roblox exploits. This scored 94% on Fluxus | https://github.com/depthso/Roblox-UNC-Patches | 0 | 0| 
-| 20230725T09:30:05Z | 4145556 exploit | https://github.com/kevinYMHGmlg/scripts | 0 | 0| 
-| 20230725T08:58:41Z | This repo is for mimikatz from scratch youtube series, if you wanna see youtube videos on how to create those exploit, check out https://www.youtube.com/watch?v=mI3FgE1K4PE&list=PLFA5k60XteCmLHiUmkZEjVh7OUzbwHCd9 | https://github.com/Ximoxkil547/Amacho | 0 | 0| 
-| 20230725T07:49:17Z | exploits n shit | https://github.com/thunderfurry/KAMINARI | 0 | 0| 
+| 20230725T23:13:20Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | 0 | 0| 
+| 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
+| 20230725T22:38:12Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken. | https://github.com/LeProxyLEAKED/LeproxyLeaked | 4 | 0| 
+| 20230725T22:37:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5778 | 772| 
+| 20230725T22:12:53Z | My notes while studying Windows exploitation | https://github.com/LordNoteworthy/windows-exploitation | 82 | 28| 
+| 20230725T22:01:02Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp | 0 | 0| 
+| 20230725T21:47:05Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken | https://github.com/v3ru2115/LEPROXY-LEAK | 2 | 0| 
+| 20230725T20:59:37Z | A PoC exploit for CVE-2021-41773 - RCE Apache version 2.4.49/2.4.50 | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | 0 | 0| 
+| 20230725T20:43:58Z | Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution | https://github.com/jingang-cv/DBTC | 0 | 0| 
+| 20230725T19:59:36Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230725T23:58:28Z | Null | https://github.com/H3rm1tR3b0rn/BackdoorBeginnerCTF | 3 | 1| 
+| 20230725T18:50:16Z | LatiaoMinecraftServerShell(BackDoor)Plugin | https://github.com/latiao-awa/LatiaoMinecraftServerShellPlugin | 1 | 0| 
+| 20230725T13:45:59Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1985 | 426| 
 | 20230725T12:10:42Z | Null | https://github.com/Ishanoshada/backdoor | 1 | 0| 
 | 20230725T11:51:58Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/V3nomBackdoor | 0 | 0| 
 | 20230725T05:39:14Z | Null | https://github.com/mmwan101010/GhostBackdoor_SincNet | 1 | 0| 
@@ -76,14 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230725T12:29:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8834 | 1943| 
+| 20230725T22:32:06Z | Data Algorithms, Visualisation and Analysis | https://github.com/Kkumar-20/Fuzzy_Statistics_Data_Analysis | 0 | 0| 
+| 20230725T21:31:59Z | Null | https://github.com/starcman/fuzzybot | 0 | 0| 
+| 20230725T21:06:20Z | My clone repository | https://github.com/Eve993/fuzzy-broccoli | 0 | 0| 
+| 20230725T20:36:38Z | Null | https://github.com/baggio1103/fuzzy-microservices | 0 | 0| 
+| 20230725T20:32:43Z | Null | https://github.com/dan-mutua/fuzzy-potato | 0 | 0| 
+| 20230725T19:24:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8833 | 1944| 
+| 20230725T14:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2750 | 187| 
+| 20230725T14:23:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5038 | 528| 
 | 20230725T12:26:10Z | [QRS%22] TokenAuditor: Detecting Manipulation Risk in Token Smart Contract by Fuzzing | https://github.com/caomingpei/TokenAuditor | 0 | 0| 
 | 20230725T12:00:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1471 | 204| 
-| 20230725T10:37:31Z | Fast 403 & 401 Bypass tool works by Path and Headers fuzzing techniques. | https://github.com/Ryukudz/4xxbypass | 0 | 0| 
-| 20230725T09:12:16Z | Null | https://github.com/guangshengfan/FloatFuzz | 0 | 0| 
-| 20230725T07:37:46Z | Fuzzing tool for Ethereum deposits. | https://github.com/kevinbogner/deposit-fuzz | 1 | 0| 
-| 20230725T06:09:26Z | GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。 | https://github.com/0xXxyu/GattFuzz | 8 | 2| 
-| 20230725T01:00:42Z | Null | https://github.com/Fabs-KJJ/fuzzy-tribble | 0 | 0| 
 
 
 
