@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T12:55:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2751 | 187| 
 | 20230726T11:59:14Z | Flipper Zero rfid and ibutton fuzzer lists | https://github.com/Morzan6/Flipper-Fuzzer-Lists | 0 | 0| 
 | 20230726T11:29:13Z | Null | https://github.com/wazzam-8877/fuzzy-parakeet | 0 | 0| 
 | 20230726T10:20:59Z | Null | https://github.com/butasi/fuzzy-octo-eureka | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230726T01:47:05Z | Convert the fuzzy toolbox in MATLAB into an ns3 module | https://github.com/BrotherZhiZ/NS3_FuzzyTool | 0 | 0| 
 | 20230726T00:45:52Z | Null | https://github.com/MrPinkNinja/fuzzy_telegram | 0 | 0| 
 | 20230725T22:32:06Z | Data Algorithms, Visualisation and Analysis | https://github.com/Kkumar-20/Fuzzy_Statistics_Data_Analysis | 0 | 0| 
-| 20230725T21:31:59Z | Null | https://github.com/starcman/fuzzybot | 0 | 0| 
 
 
 
