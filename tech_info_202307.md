@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T12:35:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 173 | 18| 
 | 20230726T11:05:58Z | This project is for educational purposes, to warn people of certain hacking attacks they may be subject to. Reproducing this code is your responsibility.  Here I present how to create a backdoor attack with python.  - Connecting sockets  - Creating a terminal with subprocess - Taking screenshots  - Recovering files  | https://github.com/FARIDJADDA/python_backdoor | 0 | 0| 
 | 20230726T08:53:47Z | Tools Find PHP Malware Backdoor | https://github.com/ZildanZ/Analyst-PHP-Backdoor | 0 | 0| 
 | 20230726T07:16:26Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 789 | 139| 
@@ -92,7 +93,6 @@
 | 20230725T12:10:42Z | Null | https://github.com/Ishanoshada/backdoor | 1 | 0| 
 | 20230725T11:51:58Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/V3nomBackdoor | 0 | 0| 
 | 20230725T05:39:14Z | Null | https://github.com/mmwan101010/GhostBackdoor_SincNet | 1 | 0| 
-| 20230725T05:28:04Z | Null | https://github.com/tania003/Simple_Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
