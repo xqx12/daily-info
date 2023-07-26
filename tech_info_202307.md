@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T00:51:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ml | 0 | 0| 
+| 20230726T00:51:27Z | Config files for my GitHub profile. | https://github.com/cheatingEXPLOITATION/cheatingEXPLOITATION | 0 | 0| 
 | 20230726T00:50:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5778 | 772| 
 | 20230726T00:50:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:46:30Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0011-0001-app-cZqrB-determine-exploit | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
 | 20230725T22:38:12Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken. | https://github.com/LeProxyLEAKED/LeproxyLeaked | 4 | 0| 
 | 20230725T22:12:53Z | My notes while studying Windows exploitation | https://github.com/LordNoteworthy/windows-exploitation | 82 | 28| 
-| 20230725T22:01:02Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp | 0 | 0| 
-| 20230725T21:47:05Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken | https://github.com/v3ru2115/LEPROXY-LEAK | 2 | 0| 
 
 
 # backdoor on Github 推荐
