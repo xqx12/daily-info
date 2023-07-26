@@ -26,31 +26,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230725T23:54:26Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230726T11:56:57Z | CVE-2023-34960 | Perform with Massive Command Injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
+| 20230726T11:12:11Z | CVE-2023-27163 | Poc of SSRF for Request-Baskets (CVE-2023-27163) | https://github.com/ThickCoco/CVE-2023-27163-POC | | 
+| 20230726T10:39:54Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
+| 20230726T08:26:35Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/miko550/CVE-2021-3129 | | 
+| 20230726T07:43:46Z | CVE-2023-23752 | program ringkas untuk pengimbas joomla CVE-2023-23752 | https://github.com/MrP4nda1337/CVE-2023-23752 | | 
+| 20230726T05:59:37Z | CVE-2023-37624 | Null | https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37624 | | 
+| 20230726T03:45:45Z | CVE-2023-2636 | Null | https://github.com/lukinneberg/CVE-2023-2636 | | 
+| 20230726T03:26:46Z | CVE-2023-24489 | CVE-2023-24489 PoC & Exploiter | https://github.com/codeb0ss/CVE-2023-24489-PoC | | 
 | 20230725T23:36:58Z | CVE-2020-35489 | WordPress Sites Vulnerability Checker for CVE-2020-35489 | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
 | 20230725T23:13:20Z | CVE-2020-8644 | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | | 
-| 20230725T22:01:02Z | CVE-2020-8644 | Python script to exploit PlaySMS before 1.4.3 | https://github.com/hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp | | 
-| 20230725T20:59:37Z | CVE-2021-41773 | A PoC exploit for CVE-2021-41773 - RCE Apache version 2.4.49/2.4.50 | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT | | 
-| 20230725T13:27:33Z | CVE-2023-35801 | Null | https://github.com/trustcves/CVE-2023-35801 | | 
-| 20230725T11:32:16Z | CVE-2023-35885 | Cloudpanel 0-day Exploit | https://github.com/datackmy/FallingSkies-CVE-2023-35885 | | 
-| 20230725T11:23:32Z | CVE-2022-23305 | CVE-2022-23305 Log4J JDBCAppender SQl injection POC  | https://github.com/tkomlodi/CVE-2022-23305_POC | | 
-| 20230725T05:08:50Z | CVE-2023-33802 | Null | https://github.com/CDACesec/CVE-2023-33802 | | 
-| 20230725T02:44:30Z | cve-2023-3519 | Citrix Scanner for CVE-2023-3519 | https://github.com/telekom-security/cve-2023-3519-citrix-scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230725T19:02:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2285 | 631| 
+| 20230726T08:51:12Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 1 | 0| 
+| 20230726T08:07:50Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 0 | 0| 
+| 20230726T04:43:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2286 | 631| 
 | 20230725T15:31:21Z | Null | https://github.com/251/klee-docs | 0 | 0| 
-| 20230724T14:16:18Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 1 | 0| 
+| 20230724T12:52:06Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 24 | 1| 
 | 20230724T02:57:45Z | Null | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
 | 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
 | 20230721T06:49:54Z | Null | https://github.com/Gannnonnn/Klee | 0 | 0| 
 | 20230719T15:21:36Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVueVercel | 0 | 1| 
 | 20230718T07:09:34Z | 混菜寫楷，只是把霞鶩文楷、霞鶩文楷TC、芫荽混一起，都是用Klee One改的，我一直喜歡芫荽，不過它沒有簡體，切換字體很麻煩，所以我把他們混和  Mixed VsWeKai, just mix LXGW WenKai, LXGW WenKai TC, and iansui, all changed with Klee One, I have always liked Coriander, but it does not have simplified characters, it is troublesome to switch fonts, so I mixed them | https://github.com/FWHP-Enfun/Mixed-VsWeKai | 12 | 0| 
-| 20230718T03:15:58Z | Null | https://github.com/igloo1505/kleenBrake-Ionic | 0 | 0| 
-| 20230717T11:08:17Z | Kleenex NL pollenradar custom component integration for Home Assistant | https://github.com/MarcoGos/kleenex_nl_pollenradar | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,40 +68,40 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T11:47:43Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 0 | 0| 
+| 20230726T11:32:58Z | Piezoelectric pressure sensors exploit this effect by measuring the voltage across a piezoelectric element generated by the applied pressure. When a force is applied to a piezoelectric material, an electric charge is generated across the faces of the crystal. This can be measured as a voltage proportional to the pressure. | https://github.com/sushmita3993/Automatic-Alarm-using-Piezo-Sensor | 0 | 0| 
+| 20230726T10:58:50Z | Custom exploits | https://github.com/Notselwyn/exploits | 0 | 0| 
+| 20230726T10:46:06Z | introduction to binary exploitation | https://github.com/Gottiee/rainfall | 0 | 0| 
+| 20230726T10:19:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5361 | 748| 
+| 20230726T10:01:39Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-2gdyE-rid-exploit | 0 | 0| 
+| 20230726T08:15:27Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10422 | 1623| 
 | 20230726T01:12:41Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0031-0031-app-GCczD-exploit-in | 0 | 0| 
 | 20230726T00:53:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:51:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ml | 0 | 0| 
-| 20230726T00:51:27Z | Config files for my GitHub profile. | https://github.com/cheatingEXPLOITATION/cheatingEXPLOITATION | 0 | 0| 
-| 20230726T00:50:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5778 | 772| 
-| 20230726T00:50:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ml | 0 | 0| 
-| 20230726T00:46:30Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0011-0001-app-cZqrB-determine-exploit | 0 | 0| 
-| 20230725T23:31:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5188 | 654| 
-| 20230725T23:13:20Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | 0 | 0| 
-| 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T11:05:58Z | This project is for educational purposes, to warn people of certain hacking attacks they may be subject to. Reproducing this code is your responsibility.  Here I present how to create a backdoor attack with python.  - Connecting sockets  - Creating a terminal with subprocess - Taking screenshots  - Recovering files  | https://github.com/FARIDJADDA/python_backdoor | 0 | 0| 
+| 20230726T08:53:47Z | Tools Find PHP Malware Backdoor | https://github.com/ZildanZ/Analyst-PHP-Backdoor | 0 | 0| 
+| 20230726T07:16:26Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 789 | 139| 
+| 20230726T04:28:01Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1984 | 426| 
 | 20230725T23:58:28Z | Null | https://github.com/H3rm1tR3b0rn/BackdoorBeginnerCTF | 3 | 1| 
 | 20230725T18:50:16Z | LatiaoMinecraftServerShell(BackDoor)Plugin | https://github.com/latiao-awa/LatiaoMinecraftServerShellPlugin | 1 | 0| 
-| 20230725T13:45:59Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1985 | 426| 
 | 20230725T12:10:42Z | Null | https://github.com/Ishanoshada/backdoor | 1 | 0| 
 | 20230725T11:51:58Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/V3nomBackdoor | 0 | 0| 
 | 20230725T05:39:14Z | Null | https://github.com/mmwan101010/GhostBackdoor_SincNet | 1 | 0| 
 | 20230725T05:28:04Z | Null | https://github.com/tania003/Simple_Backdoor | 0 | 0| 
-| 20230725T03:21:50Z | Null | https://github.com/nicochen1118/Backdoorattack | 0 | 0| 
-| 20230724T18:55:34Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 0 | 0| 
-| 20230724T17:15:45Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 28 | 7| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T08:59:24Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1124 | 130| 
+| 20230726T04:43:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2286 | 631| 
 | 20230725T23:16:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3501 | 486| 
-| 20230725T19:02:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2285 | 631| 
 | 20230724T20:39:29Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 198 | 43| 
-| 20230724T06:50:32Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1123 | 130| 
 | 20230722T19:53:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 35 | 7| 
 | 20230722T09:45:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 420 | 28| 
 | 20230721T12:49:56Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 90 | 2| 
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T11:59:14Z | Flipper Zero rfid and ibutton fuzzer lists | https://github.com/Morzan6/Flipper-Fuzzer-Lists | 0 | 0| 
+| 20230726T11:29:13Z | Null | https://github.com/wazzam-8877/fuzzy-parakeet | 0 | 0| 
+| 20230726T10:20:59Z | Null | https://github.com/butasi/fuzzy-octo-eureka | 0 | 0| 
+| 20230726T08:41:56Z | Created a Model from Instahyre database to showcase the in-demand skill. | https://github.com/Shamsul-Qumar/fuzzy-couscous-InstaHyre | 0 | 0| 
+| 20230726T08:35:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1472 | 204| 
 | 20230726T01:59:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8834 | 1944| 
 | 20230726T01:47:05Z | Convert the fuzzy toolbox in MATLAB into an ns3 module | https://github.com/BrotherZhiZ/NS3_FuzzyTool | 0 | 0| 
 | 20230726T00:45:52Z | Null | https://github.com/MrPinkNinja/fuzzy_telegram | 0 | 0| 
 | 20230725T22:32:06Z | Data Algorithms, Visualisation and Analysis | https://github.com/Kkumar-20/Fuzzy_Statistics_Data_Analysis | 0 | 0| 
 | 20230725T21:31:59Z | Null | https://github.com/starcman/fuzzybot | 0 | 0| 
-| 20230725T21:06:20Z | My clone repository | https://github.com/Eve993/fuzzy-broccoli | 0 | 0| 
-| 20230725T20:36:38Z | Null | https://github.com/baggio1103/fuzzy-microservices | 0 | 0| 
-| 20230725T20:32:43Z | Null | https://github.com/dan-mutua/fuzzy-potato | 0 | 0| 
-| 20230725T16:24:34Z | Null | https://github.com/guangshengfan/NumFuzz | 0 | 1| 
-| 20230725T15:59:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3749 | 442| 
 
 
 
