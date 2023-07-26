@@ -92,11 +92,11 @@
 | 20230725T21:06:20Z | My clone repository | https://github.com/Eve993/fuzzy-broccoli | 0 | 0| 
 | 20230725T20:36:38Z | Null | https://github.com/baggio1103/fuzzy-microservices | 0 | 0| 
 | 20230725T20:32:43Z | Null | https://github.com/dan-mutua/fuzzy-potato | 0 | 0| 
-| 20230725T19:24:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8833 | 1944| 
 | 20230725T16:24:34Z | Null | https://github.com/guangshengfan/NumFuzz | 0 | 1| 
 | 20230725T15:59:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3749 | 442| 
 | 20230725T14:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2750 | 187| 
 | 20230725T14:23:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5038 | 528| 
+| 20230725T12:26:10Z | [QRS%22] TokenAuditor: Detecting Manipulation Risk in Token Smart Contract by Fuzzing | https://github.com/caomingpei/TokenAuditor | 0 | 0| 
 
 
 
