@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T01:47:05Z | Convert the fuzzy toolbox in MATLAB into an ns3 module | https://github.com/BrotherZhiZ/NS3_FuzzyTool | 0 | 0| 
 | 20230726T00:45:52Z | Null | https://github.com/MrPinkNinja/fuzzy_telegram | 0 | 0| 
 | 20230725T22:32:06Z | Data Algorithms, Visualisation and Analysis | https://github.com/Kkumar-20/Fuzzy_Statistics_Data_Analysis | 0 | 0| 
 | 20230725T21:31:59Z | Null | https://github.com/starcman/fuzzybot | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230725T19:24:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8833 | 1944| 
 | 20230725T16:24:34Z | Null | https://github.com/guangshengfan/NumFuzz | 0 | 1| 
 | 20230725T15:59:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3749 | 442| 
-| 20230725T14:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2750 | 187| 
 
 
 
