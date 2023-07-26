@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230726T01:12:41Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0031-0031-app-GCczD-exploit-in | 0 | 0| 
 | 20230726T00:53:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:51:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ml | 0 | 0| 
 | 20230726T00:51:27Z | Config files for my GitHub profile. | https://github.com/cheatingEXPLOITATION/cheatingEXPLOITATION | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230725T23:31:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5188 | 654| 
 | 20230725T23:13:20Z | Python script to exploit PlaySMS before 1.4.3 | https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4 | 0 | 0| 
 | 20230725T22:49:05Z | Null | https://github.com/drerx/Active-Directory-Exploitation-Cheat-Sheet | 1 | 0| 
-| 20230725T22:38:12Z | Leproxy leaked src, and exploits creds, .draken1337 , Samsung Draken. | https://github.com/LeProxyLEAKED/LeproxyLeaked | 4 | 0| 
 
 
 # backdoor on Github 推荐
