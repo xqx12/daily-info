@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230727 | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw| 
 | 20230726 | wSAST Code Analyzer：Flexible static code analysis framewo... | https://www.wsast.co.uk/index.html| 
 | 20230725 | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g| 
 | 20230725 | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg| 
@@ -20,30 +21,29 @@
 | 20230724 | 联合网络战架构简析 | https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w| 
 | 20230724 | Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w| 
 | 20230724 | 2022 APT组织研究年鉴 | https://book.yunzhan365.com/tkgd/roji/mobile/index.html| 
-| 20230724 | MARBLE：挖掘样板代码以识别API可用性问题 | https://mp.weixin.qq.com/s/R2sCtEMJ2pIhOTEomR20TQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230727T08:10:01Z | CVE-2023-37474 | asdadasdasd | https://github.com/ilqarli27/CVE-2023-37474.yaml | | 
+| 20230727T05:02:59Z | CVE-2023-37847 | CVE-2023-37847漏洞证明 | https://github.com/KingBangQ/CVE-2023-37847 | | 
+| 20230727T03:42:51Z | CVE-2023-37625 | Null | https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625 | | 
+| 20230727T03:38:20Z | CVE-2023-37624 | Null | https://github.com/hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz | | 
 | 20230726T19:45:45Z | CVE-2021-4034 | Null | https://github.com/mutur4/CVE-2021-4034 | | 
 | 20230726T19:09:50Z | CVE-2021-22873 | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | | 
 | 20230726T18:42:16Z | CVE-2022-29078 | Null | https://github.com/liam-star-black-master/expluatation_CVE-2022-29078 | | 
 | 20230726T18:23:51Z | 未知编号 | Null | https://github.com/Insolent-M1nx/cve20233519 | | 
 | 20230726T16:54:11Z | CVE-2023-23752 | simple program for joomla scanner CVE-2023-23752 with target list | https://github.com/MrP4nda1337/CVE-2023-23752 | | 
 | 20230726T16:33:21Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230726T15:59:06Z | CVE-2023-27163 | PoC CVE-2023-27163, SSRF, request-baskets hasta v1.2.1 | https://github.com/davuXVI/CVE-2023-27163 | | 
-| 20230726T11:56:57Z | CVE-2023-34960 | Perform with Massive Command Injection (Chamilo) | https://github.com/Pari-Malam/CVE-2023-34960 | | 
-| 20230726T11:12:11Z | CVE-2023-27163 | Poc of SSRF for Request-Baskets (CVE-2023-27163) | https://github.com/ThickCoco/CVE-2023-27163-POC | | 
-| 20230726T10:39:54Z | CVE-2023-35086 | POC of CVE-2023-35086 only DoS | https://github.com/tin-z/CVE-2023-35086-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T07:51:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 631| 
 | 20230726T08:51:12Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 1 | 0| 
 | 20230726T08:07:50Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 0 | 0| 
-| 20230726T04:43:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2286 | 631| 
 | 20230725T15:31:21Z | Null | https://github.com/251/klee-docs | 0 | 0| 
 | 20230724T12:52:06Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 24 | 1| 
 | 20230724T02:57:45Z | Null | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T11:44:19Z | my custom exploit | https://github.com/ShadeXYZ/RetroSky | 0 | 0| 
+| 20230727T11:32:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5370 | 748| 
+| 20230727T11:13:38Z | Analysis of hack and exploitable bugs | https://github.com/zoey-t/Web3-Exploit-Analysis | 1 | 0| 
+| 20230727T10:24:45Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5786 | 772| 
+| 20230727T10:20:50Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10426 | 1622| 
+| 20230727T08:59:00Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 7 | 0| 
+| 20230727T07:03:23Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 16 | 1| 
+| 20230727T04:31:46Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 40 | 7| 
 | 20230727T01:28:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:27:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qa | 0 | 0| 
-| 20230727T01:26:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qa | 0 | 0| 
-| 20230727T01:07:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5214 | 1021| 
-| 20230727T01:06:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 681 | 176| 
-| 20230726T23:44:10Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10424 | 1622| 
-| 20230726T22:36:41Z | Jailbreak Tweaks #roblox #multitool #exploits | https://github.com/SPINEXONDISCORD/Jailbreak_Multitool | 1 | 0| 
-| 20230726T20:42:31Z | Roblox Exploit scripts and python injector | https://github.com/Jeanpseven/RBXExploits | 0 | 0| 
-| 20230726T19:54:35Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 2 | 0| 
-| 20230726T19:09:50Z | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T11:27:54Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7762 | 1814| 
+| 20230727T11:15:24Z | Null | https://github.com/Cramptiste/backdoor | 0 | 0| 
+| 20230727T10:40:45Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/deep-classification-model-backdoor-watermark | 4 | 0| 
+| 20230727T09:29:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 175 | 18| 
+| 20230727T08:22:51Z | Test backdoors. | https://github.com/HiSuzume/BackDoorForMyDevices | 0 | 0| 
+| 20230727T07:08:18Z | Null | https://github.com/f0x-die/backdoor | 0 | 0| 
 | 20230726T22:51:47Z | DOSrat 2.0 is a Remote Administration Tool (RAT) for Windows written in C++ with a fancy C.L.I. | https://github.com/Criper98/DOSrat-2.0 | 23 | 6| 
 | 20230726T21:41:58Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/Delete509/Roblox-Backdoor | 0 | 0| 
-| 20230726T19:14:15Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7754 | 1814| 
 | 20230726T18:08:37Z | Um back-door em python | https://github.com/T0tsuK4/BackDoor.py | 1 | 0| 
 | 20230726T16:46:25Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1985 | 426| 
-| 20230726T16:05:14Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 790 | 139| 
-| 20230726T15:05:44Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 29 | 7| 
-| 20230726T14:50:41Z | The best backdoor scanner there is. | https://github.com/Zer0s349/backdoor.exe--8974- | 1 | 0| 
-| 20230726T14:50:19Z | Python botnet and backdoor | https://github.com/Zer0s349/Ares--4096- | 1 | 0| 
-| 20230726T12:35:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 173 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T11:34:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48011 | 23116| 
+| 20230727T11:32:51Z | fuzzy logic simple example | https://github.com/Kayra13/fuzzy_logic_basic | 0 | 0| 
+| 20230727T08:52:24Z | fuzzy latest series | https://github.com/Yonghero/fuzzy-feature | 0 | 0| 
+| 20230727T08:45:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4772 | 1150| 
+| 20230727T08:29:31Z | iot、fuzz、协议相关论文整理 | https://github.com/Kazamayc/paper | 1 | 1| 
+| 20230727T07:57:34Z | Self driving cars | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230727T01:27:18Z | Null | https://github.com/khegeman/woke-dfx-fuzz | 0 | 0| 
 | 20230727T01:23:16Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
 | 20230727T01:08:50Z | A fuzz-tool for TCP/UDP message based on AFL++ | https://github.com/Loora1N/ProtoFuzz | 0 | 0| 
 | 20230726T23:56:14Z | Null | https://github.com/trevormiller2548/fuzzy-winner | 0 | 0| 
-| 20230726T23:01:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2752 | 187| 
-| 20230726T22:24:02Z | Null | https://github.com/Lexcodes001/fuzzy-chainsaw | 0 | 0| 
-| 20230726T21:32:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8837 | 1944| 
-| 20230726T20:56:30Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
-| 20230726T16:19:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3752 | 443| 
-| 20230726T14:50:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5040 | 528| 
 
 
 
