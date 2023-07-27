@@ -131,11 +131,11 @@
 | 20230726T22:24:02Z | Null | https://github.com/Lexcodes001/fuzzy-chainsaw | 0 | 0| 
 | 20230726T21:32:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8837 | 1944| 
 | 20230726T20:56:30Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
+| 20230726T16:19:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3752 | 443| 
 | 20230726T14:50:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5040 | 528| 
 | 20230726T11:59:14Z | Flipper Zero rfid and ibutton fuzzer lists | https://github.com/Morzan6/Flipper-Fuzzer-Lists | 0 | 0| 
 | 20230726T11:29:13Z | Null | https://github.com/wazzam-8877/fuzzy-parakeet | 0 | 0| 
 | 20230726T10:20:59Z | Null | https://github.com/butasi/fuzzy-octo-eureka | 0 | 0| 
-| 20230726T08:41:56Z | Created a Model from Instahyre database to showcase the in-demand skill. | https://github.com/Shamsul-Qumar/fuzzy-couscous-InstaHyre | 0 | 0| 
 
 
 
