@@ -68,12 +68,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T12:00:55Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 8 | 0| 
 | 20230727T11:44:19Z | my custom exploit | https://github.com/ShadeXYZ/RetroSky | 0 | 0| 
 | 20230727T11:32:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5370 | 748| 
 | 20230727T11:13:38Z | Analysis of hack and exploitable bugs | https://github.com/zoey-t/Web3-Exploit-Analysis | 1 | 0| 
 | 20230727T10:24:45Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5786 | 772| 
 | 20230727T10:20:50Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10426 | 1622| 
-| 20230727T08:59:00Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 7 | 0| 
 | 20230727T07:03:23Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 16 | 1| 
 | 20230727T04:31:46Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 40 | 7| 
 | 20230727T01:28:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qa | 0 | 0| 
@@ -98,16 +98,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T09:00:16Z | Null | https://github.com/tutor-1v1/CIS547-Dynamic-Symbolic-Execution-Lab-9 | 0 | 0| 
+| 20230727T07:51:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 631| 
+| 20230727T05:33:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3503 | 486| 
+| 20230727T02:45:01Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 91 | 2| 
 | 20230726T14:26:01Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 211 | 20| 
 | 20230726T08:59:24Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1124 | 130| 
-| 20230726T04:43:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2286 | 631| 
-| 20230725T23:16:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3501 | 486| 
 | 20230724T20:39:29Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 198 | 43| 
 | 20230722T19:53:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 35 | 7| 
 | 20230722T09:45:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 420 | 28| 
-| 20230721T12:49:56Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 90 | 2| 
 | 20230721T11:30:02Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 95 | 18| 
-| 20230719T22:37:53Z | Path-optimal symbolic execution | https://github.com/pietrobraione/pose | 0 | 0| 
 
 
 # big4 on Github 推荐
