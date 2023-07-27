@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230727T01:16:50Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
+| 20230727T01:23:16Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
 | 20230727T01:08:50Z | A fuzz-tool for TCP/UDP message based on AFL++ | https://github.com/Loora1N/ProtoFuzz | 0 | 0| 
 | 20230726T23:56:14Z | Null | https://github.com/trevormiller2548/fuzzy-winner | 0 | 0| 
 | 20230726T23:01:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2752 | 187| 
