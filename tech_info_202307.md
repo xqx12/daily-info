@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:27:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:26:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:07:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5214 | 1021| 
 | 20230727T01:06:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 681 | 176| 
@@ -77,7 +78,6 @@
 | 20230726T19:54:35Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 2 | 0| 
 | 20230726T19:09:50Z | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
 | 20230726T17:50:10Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
-| 20230726T17:21:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5192 | 654| 
 
 
 # backdoor on Github 推荐
