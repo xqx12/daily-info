@@ -126,6 +126,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T12:14:06Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
+| 20230727T12:10:19Z | API Application  | https://github.com/GomesGuilherme07/FuzzyAPI | 1 | 0| 
 | 20230727T11:34:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48011 | 23116| 
 | 20230727T11:32:51Z | fuzzy logic simple example | https://github.com/Kayra13/fuzzy_logic_basic | 0 | 0| 
 | 20230727T08:52:24Z | fuzzy latest series | https://github.com/Yonghero/fuzzy-feature | 0 | 0| 
@@ -134,8 +136,6 @@
 | 20230727T07:57:34Z | Self driving cars | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
 | 20230727T01:27:18Z | Null | https://github.com/khegeman/woke-dfx-fuzz | 0 | 0| 
 | 20230727T01:23:16Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
-| 20230727T01:08:50Z | A fuzz-tool for TCP/UDP message based on AFL++ | https://github.com/Loora1N/ProtoFuzz | 0 | 0| 
-| 20230726T23:56:14Z | Null | https://github.com/trevormiller2548/fuzzy-winner | 0 | 0| 
 
 
 
