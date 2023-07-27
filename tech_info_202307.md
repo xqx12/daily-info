@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:16:50Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
 | 20230727T01:08:50Z | A fuzz-tool for TCP/UDP message based on AFL++ | https://github.com/Loora1N/ProtoFuzz | 0 | 0| 
 | 20230726T23:56:14Z | Null | https://github.com/trevormiller2548/fuzzy-winner | 0 | 0| 
 | 20230726T23:01:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2752 | 187| 
@@ -135,7 +136,6 @@
 | 20230726T16:19:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3752 | 443| 
 | 20230726T14:50:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5040 | 528| 
 | 20230726T11:59:14Z | Flipper Zero rfid and ibutton fuzzer lists | https://github.com/Morzan6/Flipper-Fuzzer-Lists | 0 | 0| 
-| 20230726T11:29:13Z | Null | https://github.com/wazzam-8877/fuzzy-parakeet | 0 | 0| 
 
 
 
