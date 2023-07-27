@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:26:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:07:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5214 | 1021| 
 | 20230727T01:06:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 681 | 176| 
 | 20230726T23:44:10Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10424 | 1622| 
@@ -77,7 +78,6 @@
 | 20230726T19:09:50Z | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
 | 20230726T17:50:10Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
 | 20230726T17:21:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5192 | 654| 
-| 20230726T12:17:59Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:27:18Z | Null | https://github.com/khegeman/woke-dfx-fuzz | 0 | 0| 
 | 20230727T01:23:16Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
 | 20230727T01:08:50Z | A fuzz-tool for TCP/UDP message based on AFL++ | https://github.com/Loora1N/ProtoFuzz | 0 | 0| 
 | 20230726T23:56:14Z | Null | https://github.com/trevormiller2548/fuzzy-winner | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230726T20:56:30Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
 | 20230726T16:19:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3752 | 443| 
 | 20230726T14:50:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5040 | 528| 
-| 20230726T11:59:14Z | Flipper Zero rfid and ibutton fuzzer lists | https://github.com/Morzan6/Flipper-Fuzzer-Lists | 0 | 0| 
 
 
 
