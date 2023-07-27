@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:28:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:27:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:26:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qa | 0 | 0| 
 | 20230727T01:07:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5214 | 1021| 
@@ -77,7 +78,6 @@
 | 20230726T20:42:31Z | Roblox Exploit scripts and python injector | https://github.com/Jeanpseven/RBXExploits | 0 | 0| 
 | 20230726T19:54:35Z | Null | https://github.com/Kwangyun/DVWA-Exploitation-Tools | 2 | 0| 
 | 20230726T19:09:50Z | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | 0 | 1| 
-| 20230726T17:50:10Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
