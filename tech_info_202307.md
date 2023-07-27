@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230727T12:14:02Z | CVE-2021-3129 | CVE-2021-3129 , Laravel Debug Mode Vulnerability | https://github.com/withmasday/CVE-2021-3129 | | 
 | 20230727T08:10:01Z | CVE-2023-37474 | asdadasdasd | https://github.com/ilqarli27/CVE-2023-37474.yaml | | 
 | 20230727T05:02:59Z | CVE-2023-37847 | CVE-2023-37847漏洞证明 | https://github.com/KingBangQ/CVE-2023-37847 | | 
 | 20230727T03:42:51Z | CVE-2023-37625 | Null | https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625 | | 
@@ -35,7 +36,6 @@
 | 20230726T18:42:16Z | CVE-2022-29078 | Null | https://github.com/liam-star-black-master/expluatation_CVE-2022-29078 | | 
 | 20230726T18:23:51Z | 未知编号 | Null | https://github.com/Insolent-M1nx/cve20233519 | | 
 | 20230726T16:54:11Z | CVE-2023-23752 | simple program for joomla scanner CVE-2023-23752 with target list | https://github.com/MrP4nda1337/CVE-2023-23752 | | 
-| 20230726T16:33:21Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
@@ -113,7 +113,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230725T15:06:02Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 716 | 117| 
+| 20230727T09:36:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 718 | 117| 
 | 20230725T06:29:42Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 60 | 3| 
 | 20230724T14:10:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
 | 20230720T08:21:03Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 18 | 2| 

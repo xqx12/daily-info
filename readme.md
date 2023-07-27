@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230727T12:14:02Z | CVE-2021-3129 | CVE-2021-3129 , Laravel Debug Mode Vulnerability | https://github.com/withmasday/CVE-2021-3129 | | 
 | 20230727T08:10:01Z | CVE-2023-37474 | asdadasdasd | https://github.com/ilqarli27/CVE-2023-37474.yaml | | 
 | 20230727T05:02:59Z | CVE-2023-37847 | CVE-2023-37847漏洞证明 | https://github.com/KingBangQ/CVE-2023-37847 | | 
 | 20230727T03:42:51Z | CVE-2023-37625 | Null | https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625 | | 
@@ -72,6 +73,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T09:36:28Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 718 | 117| 
 
 
 # fuzz on Github 推荐
