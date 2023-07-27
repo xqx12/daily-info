@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230727T01:06:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 681 | 176| 
 | 20230726T23:44:10Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10424 | 1622| 
 | 20230726T22:36:41Z | Jailbreak Tweaks #roblox #multitool #exploits | https://github.com/SPINEXONDISCORD/Jailbreak_Multitool | 1 | 0| 
 | 20230726T20:42:31Z | Roblox Exploit scripts and python injector | https://github.com/Jeanpseven/RBXExploits | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230726T17:21:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5192 | 654| 
 | 20230726T15:29:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5213 | 1021| 
 | 20230726T12:17:59Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 1 | 0| 
-| 20230726T12:15:51Z | Custom exploits (all of these are zerodays found by me, which were fixed in recent versions). | https://github.com/Notselwyn/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
