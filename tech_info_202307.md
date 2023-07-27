@@ -134,8 +134,8 @@
 | 20230727T08:45:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4772 | 1150| 
 | 20230727T08:29:31Z | iot、fuzz、协议相关论文整理 | https://github.com/Kazamayc/paper | 1 | 1| 
 | 20230727T07:57:34Z | Self driving cars | https://github.com/mr-amirfazel/CI_Fuzzy_systems_self_driving_car | 0 | 0| 
+| 20230727T06:28:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5041 | 528| 
 | 20230727T01:27:18Z | Null | https://github.com/khegeman/woke-dfx-fuzz | 0 | 0| 
-| 20230727T01:23:16Z | Código-fonte escrito em MATLAB para o 1º Trabalho da Disciplina de Inteligência Computacional no curso de Engenharia da Computação - Universidade Federal do Ceará (UFC). | https://github.com/RanieryAV/Sistema-para-recomendar-dose-de-quinino-Fuzzy-Logic- | 0 | 0| 
 
 
 
