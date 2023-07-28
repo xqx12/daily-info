@@ -18,8 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:42:53Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230728T12:30:14Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
-| 20230728T11:55:14Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230728T11:18:22Z | CVE-2023-37778 | Null | https://github.com/jyoti818680/CVE-2023-37778 | | 
 | 20230728T10:06:19Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474 | | 
 | 20230728T03:40:31Z | CVE-2023-38646 | Null | https://github.com/adriyansyah-mf/CVE-2023-38646--Metabase- | | 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:42:42Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
 | 20230728T12:38:00Z | A newbie venturing into javascript | https://github.com/Jollybeee/Javascript-fuzzy-octo-journey | 0 | 0| 
 | 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 | 20230728T12:11:41Z | Null | https://github.com/minglou1984/Fuzzy_MA2C | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230728T09:23:18Z | Radamsa wrapper for in-code fuzzing | https://github.com/readysloth/in-code-radamsa | 0 | 0| 
 | 20230728T09:07:04Z | GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。 | https://github.com/0xXxyu/GattFuzz | 9 | 2| 
 | 20230728T08:54:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1473 | 203| 
-| 20230728T07:55:40Z | Web keyword extractor & customized wordlist generator for parameter FUZZing. | https://github.com/null3yte/fap | 0 | 0| 
 
 
 
