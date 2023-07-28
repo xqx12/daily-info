@@ -48,12 +48,12 @@
 | 20230727T21:50:44Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3538 | 598| 
 | 20230727T20:19:27Z | This is the codee repository accompanying the paper %On Exploiting Hitting Sets for Model Reconciliation% in AAAI 2021 | https://github.com/vstylianos/aaai21 | 0 | 0| 
 | 20230727T19:08:30Z | Collection of Scripts and tools that I have been using on CTFs | https://github.com/Tr1sm3gist0/HTB-Exploits | 0 | 0| 
-| 20230727T18:21:43Z | This allows attackers to to upload a PHP reverse shell on Bolt6.03 due to misconfigurations.  | https://github.com/nesterXneo/BoltWire_6.03_File_Upload_Exploit | 0 | 0| 
 | 20230727T17:20:59Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 554 | 106| 
 | 20230727T17:14:27Z | CTF Prep as I see it as a more and more common %thing% as well as I have gotten requests of making a repo that will help people with CTF. Mainly with binary exploitation. But will include anything between Earth%s atoms to Space%s far edge. No - maybe not that far - but you get the idea. | https://github.com/loneicewolf/CTF-Prep | 0 | 0| 
 | 20230727T12:00:55Z | Offsets for devices using kfd exploit | https://github.com/34306/kfd_offsets | 8 | 0| 
 | 20230727T11:44:19Z | my custom exploit | https://github.com/ShadeXYZ/RetroSky | 0 | 0| 
 | 20230727T11:32:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5370 | 748| 
+| 20230727T11:13:38Z | Analysis of hack and exploitable bugs | https://github.com/zoey-t/Web3-Exploit-Analysis | 1 | 0| 
 
 
 # backdoor on Github 推荐
