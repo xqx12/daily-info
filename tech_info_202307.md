@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:29:16Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
 | 20230728T11:55:14Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230728T11:18:22Z | CVE-2023-37778 | Null | https://github.com/jyoti818680/CVE-2023-37778 | | 
 | 20230728T10:06:19Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474 | | 
@@ -35,7 +36,6 @@
 | 20230727T20:55:17Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474.yaml | | 
 | 20230727T18:48:11Z | CVE-2023-37772 | Null | https://github.com/anky-123/CVE-2023-37772 | | 
 | 20230727T18:34:05Z | CVE-2023-39144 | Null | https://github.com/cduram/CVE-2023-39144 | | 
-| 20230727T15:54:58Z | CVE-2023-3460 | Exploit for the vulnerability of Ultimate Member Plugin. | https://github.com/Rajneeshkarya/CVE-2023-3460 | | 
 
 
 # klee on Github 推荐

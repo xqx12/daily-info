@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:29:16Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
 | 20230728T11:55:14Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230728T11:18:22Z | CVE-2023-37778 | Null | https://github.com/jyoti818680/CVE-2023-37778 | | 
 | 20230728T10:06:19Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474 | | 
