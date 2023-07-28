@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:20:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5195 | 655| 
 | 20230728T01:01:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lk | 0 | 0| 
 | 20230728T01:00:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5787 | 772| 
 | 20230728T01:00:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lk | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230727T23:19:35Z | Used a private environment to test Rekall%s Web servers, Windows Machines, and Linux Machines for any exploits that may be available.  | https://github.com/RyanW04/Project-2-Rekall-Penetration-Testing | 0 | 0| 
 | 20230727T21:50:44Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3538 | 598| 
 | 20230727T20:19:27Z | This is the codee repository accompanying the paper %On Exploiting Hitting Sets for Model Reconciliation% in AAAI 2021 | https://github.com/vstylianos/aaai21 | 0 | 0| 
-| 20230727T19:35:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5194 | 655| 
 | 20230727T19:08:30Z | Collection of Scripts and tools that I have been using on CTFs | https://github.com/Tr1sm3gist0/HTB-Exploits | 0 | 0| 
 
 
