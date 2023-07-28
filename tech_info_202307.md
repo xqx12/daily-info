@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
 | 20230728T00:28:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7766 | 1814| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
 | 20230727T13:11:18Z | mini shell backdoor | https://github.com/Emperror7/mini-shell | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230727T09:29:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 175 | 18| 
 | 20230727T08:22:51Z | Test backdoors. | https://github.com/HiSuzume/BackDoorForMyDevices | 0 | 0| 
 | 20230727T07:08:18Z | Null | https://github.com/f0x-die/backdoor | 0 | 0| 
-| 20230726T23:49:31Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 301 | 80| 
 
 
 # symbolic execution on Github 推荐
