@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:19:31Z | Repository accompanying our paper titled %Investigations into Exploiting the Full Capabilities of a Series-Parallel Hybrid Humanoid using Whole Body Trajectory Optimization% | https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots | 0 | 0| 
 | 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
 | 20230728T09:02:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 680 | 176| 
 | 20230728T08:59:59Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 599 | 108| 
@@ -51,7 +52,6 @@
 | 20230728T08:28:10Z | Linux post-exploitation persistance script | https://github.com/insalut/REVELATIONS | 0 | 0| 
 | 20230728T06:58:56Z | The official implementation of our KDD paper, %Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning% | https://github.com/learndatalab/RAKGE | 0 | 0| 
 | 20230728T06:49:22Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 2 | 0| 
-| 20230728T01:49:54Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0025-0019-app-r1vdR-name-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
