@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:49:54Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0025-0019-app-r1vdR-name-exploit | 0 | 0| 
 | 20230728T01:23:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5788 | 772| 
 | 20230728T01:20:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5195 | 655| 
 | 20230728T01:01:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lk | 0 | 0| 
@@ -77,12 +78,12 @@
 | 20230727T23:19:35Z | Used a private environment to test Rekall%s Web servers, Windows Machines, and Linux Machines for any exploits that may be available.  | https://github.com/RyanW04/Project-2-Rekall-Penetration-Testing | 0 | 0| 
 | 20230727T21:50:44Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3538 | 598| 
 | 20230727T20:19:27Z | This is the codee repository accompanying the paper %On Exploiting Hitting Sets for Model Reconciliation% in AAAI 2021 | https://github.com/vstylianos/aaai21 | 0 | 0| 
-| 20230727T19:08:30Z | Collection of Scripts and tools that I have been using on CTFs | https://github.com/Tr1sm3gist0/HTB-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:49:52Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
 | 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
 | 20230728T00:28:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7766 | 1814| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230727T10:40:45Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/deep-classification-model-backdoor-watermark | 4 | 0| 
 | 20230727T09:29:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 175 | 18| 
 | 20230727T08:22:51Z | Test backdoors. | https://github.com/HiSuzume/BackDoorForMyDevices | 0 | 0| 
-| 20230727T07:08:18Z | Null | https://github.com/f0x-die/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
