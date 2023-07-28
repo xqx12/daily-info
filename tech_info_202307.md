@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:54:41Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
+| 20230728T12:53:02Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 53 | 8| 
 | 20230728T12:50:22Z | Project developed during the python data scientist trail of %Potência Tech powered by IFood%. It involved creating, nurturing and exploiting a database of E-Commerce information. | https://github.com/CarlosFFilho/Ecommerce_Project_MySQL | 0 | 0| 
 | 20230728T12:35:33Z | Repository accompanying our paper titled %Investigations into Exploiting the Full Capabilities of a Series-Parallel Hybrid Humanoid using Whole Body Trajectory Optimization% | https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots | 0 | 0| 
 | 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
@@ -76,8 +78,6 @@
 | 20230728T08:53:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5220 | 1023| 
 | 20230728T08:52:35Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ufnt-DedLt-confirm-exploit | 0 | 0| 
 | 20230728T08:46:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5372 | 750| 
-| 20230728T08:28:10Z | Linux post-exploitation persistance script | https://github.com/insalut/REVELATIONS | 0 | 0| 
-| 20230728T06:58:56Z | The official implementation of our KDD paper, %Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning% | https://github.com/learndatalab/RAKGE | 0 | 0| 
 
 
 # backdoor on Github 推荐
