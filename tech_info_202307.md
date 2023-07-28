@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:23:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5788 | 772| 
 | 20230728T01:20:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5195 | 655| 
 | 20230728T01:01:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lk | 0 | 0| 
-| 20230728T01:00:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5787 | 772| 
 | 20230728T01:00:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lk | 0 | 0| 
 | 20230728T00:59:39Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lk | 0 | 0| 
 | 20230728T00:14:05Z | This allows attackers to to upload a PHP reverse shell on BoltWire 6.03 due to web misconfigurations.  | https://github.com/nesterXneo/BoltWire_6.03_File_Upload_Exploit | 0 | 0| 
