@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230728 | The Top 10 Most Common Vulnerabilities In Web3 | https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f| 
+| 20230728 | 俄罗斯之密码安全（装备篇） | https://mp.weixin.qq.com/s/z36bKh6m8Q-fj5-3VO-q2g| 
 | 20230727 | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw| 
 | 20230727 | Tor去匿名攻击综述 | https://mp.weixin.qq.com/s/0HUj8c_9VG9Sj2ceIXDBgA| 
 | 20230726 | wSAST Code Analyzer：Flexible static code analysis framewo... | https://www.wsast.co.uk/index.html| 
@@ -19,33 +21,31 @@
 | 20230724 | CVE-2022-24481 | https://www.sec-in.com/article/2181| 
 | 20230724 | SecWiki周刊（第490期) | https://www.sec-wiki.com/weekly/490| 
 | 20230724 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q| 
-| 20230724 | 联合网络战架构简析 | https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w| 
-| 20230724 | Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230728T11:55:14Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
+| 20230728T11:18:22Z | CVE-2023-37778 | Null | https://github.com/jyoti818680/CVE-2023-37778 | | 
+| 20230728T10:06:19Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474 | | 
+| 20230728T03:40:31Z | CVE-2023-38646 | Null | https://github.com/adriyansyah-mf/CVE-2023-38646--Metabase- | | 
+| 20230728T03:09:00Z | CVE-2023-1389 | Null | https://github.com/Voyag3r-Security/CVE-2023-1389 | | 
+| 20230728T03:06:32Z | CVE-2023-32434 | Null | https://github.com/ZZY3312/CVE-2023-32434 | | 
 | 20230727T20:55:17Z | CVE-2023-37474 | Null | https://github.com/ilqarli27/CVE-2023-37474.yaml | | 
 | 20230727T18:48:11Z | CVE-2023-37772 | Null | https://github.com/anky-123/CVE-2023-37772 | | 
 | 20230727T18:34:05Z | CVE-2023-39144 | Null | https://github.com/cduram/CVE-2023-39144 | | 
 | 20230727T15:54:58Z | CVE-2023-3460 | Exploit for the vulnerability of Ultimate Member Plugin. | https://github.com/Rajneeshkarya/CVE-2023-3460 | | 
-| 20230727T14:26:33Z | CVE-2023-37847 | CVE-2023-37847漏洞证明 | https://github.com/KingBangQ/CVE-2023-37847 | | 
-| 20230727T12:16:59Z | CVE-2021-3129 | CVE-2021-3129 , Laravel Debug Mode Vulnerability | https://github.com/withmasday/CVE-2021-3129 | | 
-| 20230727T03:42:51Z | CVE-2023-37625 | Null | https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625 | | 
-| 20230727T03:38:20Z | CVE-2023-37624 | Null | https://github.com/hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz | | 
-| 20230726T19:45:45Z | CVE-2021-4034 | Null | https://github.com/mutur4/CVE-2021-4034 | | 
-| 20230726T19:09:50Z | CVE-2021-22873 | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T11:36:01Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 2 | 0| 
+| 20230728T08:01:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 632| 
+| 20230728T02:01:36Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 1 | 0| 
 | 20230727T22:47:25Z | Config files for my GitHub profile. | https://github.com/kleenexETH/kleenexETH | 0 | 0| 
 | 20230727T20:52:48Z | Null | https://github.com/251/klee-docs | 0 | 0| 
-| 20230727T13:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2287 | 632| 
-| 20230726T08:51:12Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 1 | 0| 
-| 20230726T08:07:50Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 0 | 0| 
 | 20230724T12:52:06Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 24 | 1| 
 | 20230724T02:57:45Z | Null | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
 | 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
+| 20230728T09:02:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 680 | 176| 
+| 20230728T08:59:59Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 599 | 108| 
+| 20230728T08:53:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5220 | 1023| 
+| 20230728T08:52:35Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ufnt-DedLt-confirm-exploit | 0 | 0| 
+| 20230728T08:46:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5372 | 750| 
+| 20230728T08:28:10Z | Linux post-exploitation persistance script | https://github.com/insalut/REVELATIONS | 0 | 0| 
+| 20230728T06:58:56Z | The official implementation of our KDD paper, %Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning% | https://github.com/learndatalab/RAKGE | 0 | 0| 
+| 20230728T06:49:22Z | Automated physical feature engineering for polymer informatics (APFEforPI), which has been utilized for the exploitation of high thermal conductivity amorphous polymers | https://github.com/SJTU-MI/APFEforPI | 2 | 0| 
 | 20230728T01:49:54Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0025-0019-app-r1vdR-name-exploit | 0 | 0| 
-| 20230728T01:23:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5788 | 772| 
-| 20230728T01:20:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5195 | 655| 
-| 20230728T01:01:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lk | 0 | 0| 
-| 20230728T01:00:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lk | 0 | 0| 
-| 20230728T00:59:39Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lk | 0 | 0| 
-| 20230728T00:14:05Z | This allows attackers to to upload a PHP reverse shell on BoltWire 6.03 due to web misconfigurations.  | https://github.com/nesterXneo/BoltWire_6.03_File_Upload_Exploit | 0 | 0| 
-| 20230727T23:19:35Z | Used a private environment to test Rekall%s Web servers, Windows Machines, and Linux Machines for any exploits that may be available.  | https://github.com/RyanW04/Project-2-Rekall-Penetration-Testing | 0 | 0| 
-| 20230727T21:50:44Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3538 | 598| 
-| 20230727T20:19:27Z | This is the codee repository accompanying the paper %On Exploiting Hitting Sets for Model Reconciliation% in AAAI 2021 | https://github.com/vstylianos/aaai21 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1814| 
+| 20230728T09:23:58Z | Null | https://github.com/ibnusaja/backdoor-android | 0 | 0| 
+| 20230728T06:02:44Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 791 | 139| 
 | 20230728T01:49:52Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
 | 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
-| 20230728T00:28:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7766 | 1814| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
 | 20230727T13:11:18Z | mini shell backdoor | https://github.com/Emperror7/mini-shell | 0 | 0| 
 | 20230727T12:38:00Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 25 | 4| 
 | 20230727T11:15:24Z | Null | https://github.com/Cramptiste/backdoor | 0 | 0| 
 | 20230727T10:40:45Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/deep-classification-model-backdoor-watermark | 4 | 0| 
-| 20230727T09:29:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 175 | 18| 
-| 20230727T08:22:51Z | Test backdoors. | https://github.com/HiSuzume/BackDoorForMyDevices | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T10:11:46Z | Null | https://github.com/YugoSamakuhaku/L8LivewireFuzzySugeno | 0 | 0| 
+| 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
+| 20230728T09:28:19Z | Fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failing built-in code assertions, or potential memory leaks. | https://github.com/hacksyshacker/Awesome-Fuzzing-Techniques | 0 | 0| 
+| 20230728T09:23:18Z | Radamsa wrapper for in-code fuzzing | https://github.com/readysloth/in-code-radamsa | 0 | 0| 
+| 20230728T09:07:04Z | GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。 | https://github.com/0xXxyu/GattFuzz | 9 | 2| 
+| 20230728T08:54:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1473 | 203| 
+| 20230728T07:55:40Z | Web keyword extractor & customized wordlist generator for parameter FUZZing. | https://github.com/null3yte/fap | 0 | 0| 
 | 20230728T01:39:36Z | iot、fuzz、协议相关论文整理 | https://github.com/Kazamayc/paper | 2 | 1| 
 | 20230727T22:15:37Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 337 | 44| 
 | 20230727T20:44:36Z | Null | https://github.com/rudranighosh/fuzzy-waffle | 0 | 0| 
-| 20230727T20:30:13Z | Project website | https://github.com/fuzziblematt/fuzziblematt.github.io | 0 | 0| 
-| 20230727T19:13:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2208 | 253| 
-| 20230727T18:03:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3753 | 444| 
-| 20230727T17:18:43Z | Null | https://github.com/google/fuzztest | 352 | 26| 
-| 20230727T12:45:46Z | Programs that I made while I%m learning python | https://github.com/loulouCoding/fuzzy-spoon-of-salt | 0 | 0| 
-| 20230727T12:14:06Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
-| 20230727T12:10:19Z | API Application  | https://github.com/GomesGuilherme07/FuzzyAPI | 1 | 0| 
 
 
 
