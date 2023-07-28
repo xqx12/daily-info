@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:01:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lk | 0 | 0| 
 | 20230728T01:00:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5787 | 772| 
 | 20230728T01:00:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lk | 0 | 0| 
 | 20230728T00:59:39Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-lk | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230727T20:19:27Z | This is the codee repository accompanying the paper %On Exploiting Hitting Sets for Model Reconciliation% in AAAI 2021 | https://github.com/vstylianos/aaai21 | 0 | 0| 
 | 20230727T19:35:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5194 | 655| 
 | 20230727T19:08:30Z | Collection of Scripts and tools that I have been using on CTFs | https://github.com/Tr1sm3gist0/HTB-Exploits | 0 | 0| 
-| 20230727T17:20:59Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 554 | 106| 
 
 
 # backdoor on Github 推荐
