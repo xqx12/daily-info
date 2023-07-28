@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T01:39:36Z | iot、fuzz、协议相关论文整理 | https://github.com/Kazamayc/paper | 2 | 1| 
 | 20230727T22:15:37Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 337 | 44| 
 | 20230727T20:44:36Z | Null | https://github.com/rudranighosh/fuzzy-waffle | 0 | 0| 
 | 20230727T20:30:13Z | Project website | https://github.com/fuzziblematt/fuzziblematt.github.io | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230727T12:14:06Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
 | 20230727T12:10:19Z | API Application  | https://github.com/GomesGuilherme07/FuzzyAPI | 1 | 0| 
 | 20230727T11:34:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48011 | 23116| 
-| 20230727T11:32:51Z | fuzzy logic simple example | https://github.com/Kayra13/fuzzy_logic_basic | 0 | 0| 
 
 
 
