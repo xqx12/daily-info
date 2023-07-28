@@ -92,13 +92,13 @@
 | 20230727T22:15:37Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 337 | 44| 
 | 20230727T20:44:36Z | Null | https://github.com/rudranighosh/fuzzy-waffle | 0 | 0| 
 | 20230727T20:30:13Z | Project website | https://github.com/fuzziblematt/fuzziblematt.github.io | 0 | 0| 
+| 20230727T18:03:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3753 | 444| 
 | 20230727T17:18:43Z | Null | https://github.com/google/fuzztest | 352 | 26| 
 | 20230727T12:45:46Z | Programs that I made while I%m learning python | https://github.com/loulouCoding/fuzzy-spoon-of-salt | 0 | 0| 
 | 20230727T12:14:06Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
 | 20230727T12:10:19Z | API Application  | https://github.com/GomesGuilherme07/FuzzyAPI | 1 | 0| 
 | 20230727T11:34:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48011 | 23116| 
 | 20230727T11:32:51Z | fuzzy logic simple example | https://github.com/Kayra13/fuzzy_logic_basic | 0 | 0| 
-| 20230727T08:52:24Z | fuzzy latest series | https://github.com/Yonghero/fuzzy-feature | 0 | 0| 
 
 
 
