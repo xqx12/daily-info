@@ -113,6 +113,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T10:21:14Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 61 | 6| 
 | 20230728T00:58:01Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 719 | 118| 
 | 20230725T06:29:42Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 60 | 3| 
 | 20230724T14:10:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
