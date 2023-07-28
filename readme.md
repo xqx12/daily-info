@@ -60,7 +60,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
-| 20230727T20:33:19Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7765 | 1814| 
 | 20230727T13:11:18Z | mini shell backdoor | https://github.com/Emperror7/mini-shell | 0 | 0| 
 | 20230727T12:38:00Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 25 | 4| 
 | 20230727T11:15:24Z | Null | https://github.com/Cramptiste/backdoor | 0 | 0| 
