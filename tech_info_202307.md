@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:29:41Z | A newbie venturing into javascript | https://github.com/Jollybeee/Javascript-fuzzy-octo-journey | 0 | 0| 
 | 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 | 20230728T12:11:41Z | Null | https://github.com/minglou1984/Fuzzy_MA2C | 0 | 0| 
 | 20230728T10:11:46Z | Null | https://github.com/YugoSamakuhaku/L8LivewireFuzzySugeno | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230728T09:07:04Z | GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。 | https://github.com/0xXxyu/GattFuzz | 9 | 2| 
 | 20230728T08:54:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1473 | 203| 
 | 20230728T07:55:40Z | Web keyword extractor & customized wordlist generator for parameter FUZZing. | https://github.com/null3yte/fap | 0 | 0| 
-| 20230728T01:39:36Z | iot、fuzz、协议相关论文整理 | https://github.com/Kazamayc/paper | 2 | 1| 
 
 
 
