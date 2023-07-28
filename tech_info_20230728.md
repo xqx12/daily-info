@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 | 20230728T12:11:41Z | Null | https://github.com/minglou1984/Fuzzy_MA2C | 0 | 0| 
 | 20230728T10:11:46Z | Null | https://github.com/YugoSamakuhaku/L8LivewireFuzzySugeno | 0 | 0| 
 | 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
