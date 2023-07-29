@@ -127,7 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230729T00:24:02Z | Null | https://github.com/RonaldChicche/path_fuzzy_controller | 0 | 0| 
+| 20230729T00:34:54Z | Null | https://github.com/RonaldChicche/path_fuzzy_controller | 0 | 0| 
 | 20230728T21:55:32Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230728T20:16:59Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
 | 20230728T19:55:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8842 | 1946| 
