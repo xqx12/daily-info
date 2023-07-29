@@ -38,6 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T12:35:09Z | 🚀 Introducing my Exploit Encoder Script - Unlocking the Power of Stealthy Penetration! 🔓 | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
+| 20230729T12:34:42Z | 🌟 Introducing the Mini PHP Shell - Empowering Your Web Exploitation Journey! 🚀💻 | https://github.com/nulloneinfo/small-php-shell | 1 | 0| 
 | 20230729T12:10:16Z | An Exploit List for ROBLOX Developers & Users. | https://github.com/Yxild/CheEggList | 0 | 0| 
 | 20230729T11:49:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10431 | 1622| 
 | 20230729T11:44:31Z | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | 6 | 3| 
@@ -46,8 +48,6 @@
 | 20230729T08:04:49Z | Exploits you can use for the macintosh, also helping you avoid getting hacked. | https://github.com/CrispTails/main | 1 | 0| 
 | 20230729T07:02:49Z | Script hub roblox with many games | https://github.com/Ragoon821/ScriptXHub | 0 | 0| 
 | 20230729T01:57:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0034-0024-app-1zxVs-excuse-exploit | 0 | 0| 
-| 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
-| 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
 
 
 # backdoor on Github 推荐
