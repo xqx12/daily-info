@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T12:42:06Z | Null | https://github.com/georgexploit/Browser-Exploitation | 0 | 0| 
 | 20230729T12:35:09Z | 🚀 Introducing my Exploit Encoder Script - Unlocking the Power of Stealthy Penetration! 🔓 | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
 | 20230729T12:34:42Z | 🌟 Introducing the Mini PHP Shell - Empowering Your Web Exploitation Journey! 🚀💻 | https://github.com/nulloneinfo/small-php-shell | 1 | 0| 
 | 20230729T12:10:16Z | An Exploit List for ROBLOX Developers & Users. | https://github.com/Yxild/CheEggList | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230729T08:16:21Z | An XSS exploitation command-line interface and payload generator. | https://github.com/t3l3machus/toxssin | 1034 | 150| 
 | 20230729T08:04:49Z | Exploits you can use for the macintosh, also helping you avoid getting hacked. | https://github.com/CrispTails/main | 1 | 0| 
 | 20230729T07:02:49Z | Script hub roblox with many games | https://github.com/Ragoon821/ScriptXHub | 0 | 0| 
-| 20230729T01:57:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0034-0024-app-1zxVs-excuse-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
