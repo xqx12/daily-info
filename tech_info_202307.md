@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
+| 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:58:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230728T21:13:47Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 29 | 3| 
 | 20230728T20:15:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 211 | 62| 
@@ -76,8 +78,6 @@
 | 20230728T16:26:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5219 | 1023| 
 | 20230728T12:54:41Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
 | 20230728T12:53:02Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 53 | 8| 
-| 20230728T12:50:22Z | Project developed during the python data scientist trail of %Potência Tech powered by IFood%. It involved creating, nurturing and exploiting a database of E-Commerce information. | https://github.com/CarlosFFilho/Ecommerce_Project_MySQL | 0 | 0| 
-| 20230728T12:35:33Z | Repository accompanying our paper titled %Investigations into Exploiting the Full Capabilities of a Series-Parallel Hybrid Humanoid using Whole Body Trajectory Optimization% | https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots | 0 | 0| 
 
 
 # backdoor on Github 推荐
