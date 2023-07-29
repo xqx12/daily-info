@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T01:57:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0034-0024-app-1zxVs-excuse-exploit | 0 | 0| 
 | 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
 | 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230728T19:46:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5196 | 655| 
 | 20230728T16:28:52Z | My writeups for the %Web Exploitation% section on PicoCTF  | https://github.com/Marven02/PicoCTF-2023-Web_Exploitation | 0 | 0| 
 | 20230728T16:26:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5219 | 1023| 
-| 20230728T12:54:41Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
 
 
 # backdoor on Github 推荐
