@@ -26,23 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230729T11:44:31Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
+| 20230729T10:15:07Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
+| 20230729T09:38:52Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 | 20230729T01:15:29Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
 | 20230728T23:24:12Z | CVE-2022-24834 | Null | https://github.com/convisolabs/CVE-2022-24834 | | 
 | 20230728T21:06:50Z | CVE-2023-36884 | Null | https://github.com/ridsoliveira/Fix-CVE-2023-36884 | | 
 | 20230728T17:20:18Z | CVE-2021-4034 | Null | https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag | | 
 | 20230728T17:05:53Z | CVE-2023-38646 | Metabase pre-auth RCE PoC | https://github.com/hheeyywweellccoommee/CVE-2023-38646-suynl | | 
 | 20230728T16:40:47Z | CVE-2023-21752 | Null | https://github.com/yosef0x01/CVE-2023-21752 | | 
-| 20230728T15:37:43Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230728T13:07:45Z | CVE-2023-37779 | Null | https://github.com/jyoti818680/CVE-2023-37779 | | 
-| 20230728T12:30:14Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
-| 20230728T11:18:22Z | CVE-2023-37778 | Null | https://github.com/jyoti818680/CVE-2023-37778 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T05:48:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 82 | 18| 
+| 20230729T04:55:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2289 | 632| 
 | 20230728T11:36:01Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 2 | 0| 
-| 20230728T08:01:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 632| 
 | 20230728T02:01:36Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 1 | 0| 
 | 20230727T22:47:25Z | Config files for my GitHub profile. | https://github.com/kleenexETH/kleenexETH | 0 | 0| 
 | 20230727T20:52:48Z | Null | https://github.com/251/klee-docs | 0 | 0| 
@@ -50,12 +51,12 @@
 | 20230724T02:57:45Z | Null | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
 | 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
 | 20230721T06:49:54Z | Null | https://github.com/Gannnonnn/Klee | 0 | 0| 
-| 20230719T15:21:36Z | 可莉哒哒哒主题网页（Fork自https://gitee.com/KleeGitee/Klee） | https://github.com/xiaoxuan010/KleeDadadaVueVercel | 0 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T07:54:36Z | Code for %Searching to Extrapolate Embedding for Out-of-graph Node Representation Learning% | https://github.com/zgs0314/S2E-OOG | 0 | 0| 
 | 20230719T11:44:57Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 33 | 13| 
 | 20230714T13:24:59Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 3 | 0| 
 | 20230713T06:49:38Z | Config files for my GitHub profile. | https://github.com/ALI-S2EED/ALI-S2EED | 0 | 0| 
@@ -68,22 +69,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T11:49:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10431 | 1622| 
+| 20230729T09:44:20Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 8 | 1| 
+| 20230729T08:16:21Z | An XSS exploitation command-line interface and payload generator. | https://github.com/t3l3machus/toxssin | 1034 | 150| 
+| 20230729T08:04:49Z | Exploits you can use for the macintosh, also helping you avoid getting hacked. | https://github.com/CrispTails/main | 1 | 0| 
+| 20230729T07:02:49Z | Script hub roblox with many games | https://github.com/Ragoon821/ScriptXHub | 0 | 0| 
 | 20230729T01:57:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0034-0024-app-1zxVs-excuse-exploit | 0 | 0| 
 | 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
 | 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:58:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20230728T21:13:47Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 29 | 3| 
-| 20230728T20:15:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 211 | 62| 
-| 20230728T19:46:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5196 | 655| 
-| 20230728T16:28:52Z | My writeups for the %Web Exploitation% section on PicoCTF  | https://github.com/Marven02/PicoCTF-2023-Web_Exploitation | 0 | 0| 
-| 20230728T16:26:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5219 | 1023| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230729T01:43:59Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 302 | 80| 
+| 20230729T02:56:24Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 303 | 80| 
 | 20230728T18:28:57Z | Official Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/SRI-CSL/TIJO | 0 | 0| 
 | 20230728T17:29:34Z | NeurIPS 2023 Backdoors in Deep Learning Workshop | https://github.com/neurips2023-bugs/neurips2023-bugs.github.io | 0 | 0| 
 | 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1815| 
@@ -127,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T11:35:32Z | Prototype of a DBMS fuzzing framework | https://github.com/dominions/Kangaroo | 0 | 0| 
+| 20230729T11:27:24Z | Fork of lotabout/fuzzy-matcher | https://github.com/tomkwok/fuzzy-matcher | 0 | 0| 
+| 20230729T09:57:07Z | Null | https://github.com/ValentinaAra/fuzzy-umbrella | 0 | 0| 
+| 20230729T08:50:50Z | Null | https://github.com/CadenMushroom/fuzzy-parakeet | 0 | 0| 
+| 20230729T06:31:10Z | A gently decomposing tree util | https://github.com/lpesk/fuzzy-tree | 0 | 0| 
+| 20230729T06:21:05Z | Flashcards study app for me | https://github.com/Ventuscoder/fuzzy-octo-engine | 0 | 0| 
 | 20230729T00:51:43Z | Buffer OverFlow Fuzzer tool | https://github.com/heshamm1/BufferFuzzer | 0 | 0| 
 | 20230729T00:34:54Z | Null | https://github.com/RonaldChicche/path_fuzzy_controller | 0 | 0| 
 | 20230728T21:55:32Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230728T20:16:59Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
-| 20230728T19:55:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8842 | 1946| 
-| 20230728T19:00:25Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3754 | 444| 
-| 20230728T17:43:16Z | Null | https://github.com/google/fuzztest | 351 | 26| 
-| 20230728T12:42:42Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
-| 20230728T12:38:00Z | A newbie venturing into javascript | https://github.com/Jollybeee/Javascript-fuzzy-octo-journey | 0 | 0| 
-| 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 
 
 
