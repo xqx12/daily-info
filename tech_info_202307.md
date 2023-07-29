@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T01:43:59Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 302 | 80| 
 | 20230728T18:28:57Z | Official Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/SRI-CSL/TIJO | 0 | 0| 
 | 20230728T17:29:34Z | NeurIPS 2023 Backdoors in Deep Learning Workshop | https://github.com/neurips2023-bugs/neurips2023-bugs.github.io | 0 | 0| 
 | 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1815| 
@@ -92,7 +93,6 @@
 | 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
 | 20230727T13:11:18Z | mini shell backdoor | https://github.com/Emperror7/mini-shell | 0 | 0| 
-| 20230727T12:38:00Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 25 | 4| 
 
 
 # symbolic execution on Github 推荐
