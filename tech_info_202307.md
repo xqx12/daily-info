@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T12:38:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1472 | 203| 
 | 20230729T11:35:32Z | Prototype of a DBMS fuzzing framework | https://github.com/dominions/Kangaroo | 0 | 0| 
 | 20230729T11:27:24Z | Fork of lotabout/fuzzy-matcher | https://github.com/tomkwok/fuzzy-matcher | 0 | 0| 
 | 20230729T09:57:07Z | Null | https://github.com/ValentinaAra/fuzzy-umbrella | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230729T00:51:43Z | Buffer OverFlow Fuzzer tool | https://github.com/heshamm1/BufferFuzzer | 0 | 0| 
 | 20230729T00:34:54Z | Null | https://github.com/RonaldChicche/path_fuzzy_controller | 0 | 0| 
 | 20230728T21:55:32Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
-| 20230728T20:16:59Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
 
 
 
