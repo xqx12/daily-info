@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T12:33:58Z | A secure and versatile backdoor solution, providing authorized remote access to systems for maintenance and troubleshooting purposes. Developed with a focus on robust encryption, authentication, and limited access privileges. Enhancing remote management capabilities while prioritizing security and privacy. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
 | 20230729T02:56:24Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 303 | 80| 
 | 20230728T18:28:57Z | Official Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/SRI-CSL/TIJO | 0 | 0| 
 | 20230728T17:29:34Z | NeurIPS 2023 Backdoors in Deep Learning Workshop | https://github.com/neurips2023-bugs/neurips2023-bugs.github.io | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230728T01:49:52Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
 | 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
 | 20230727T21:02:09Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor | 0 | 0| 
-| 20230727T13:11:18Z | mini shell backdoor | https://github.com/Emperror7/mini-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
