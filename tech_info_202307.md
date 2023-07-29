@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T00:58:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230728T21:13:47Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 29 | 3| 
 | 20230728T20:15:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 211 | 62| 
 | 20230728T19:46:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5196 | 655| 
@@ -77,7 +78,6 @@
 | 20230728T12:53:02Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 53 | 8| 
 | 20230728T12:50:22Z | Project developed during the python data scientist trail of %Potência Tech powered by IFood%. It involved creating, nurturing and exploiting a database of E-Commerce information. | https://github.com/CarlosFFilho/Ecommerce_Project_MySQL | 0 | 0| 
 | 20230728T12:35:33Z | Repository accompanying our paper titled %Investigations into Exploiting the Full Capabilities of a Series-Parallel Hybrid Humanoid using Whole Body Trajectory Optimization% | https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots | 0 | 0| 
-| 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
 
 
 # backdoor on Github 推荐
