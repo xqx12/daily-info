@@ -40,6 +40,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230729T12:10:16Z | An Exploit List for ROBLOX Developers & Users. | https://github.com/Yxild/CheEggList | 0 | 0| 
 | 20230729T11:49:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10431 | 1622| 
+| 20230729T11:44:31Z | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | 6 | 3| 
 | 20230729T09:44:20Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 8 | 1| 
 | 20230729T08:16:21Z | An XSS exploitation command-line interface and payload generator. | https://github.com/t3l3machus/toxssin | 1034 | 150| 
 | 20230729T08:04:49Z | Exploits you can use for the macintosh, also helping you avoid getting hacked. | https://github.com/CrispTails/main | 1 | 0| 
@@ -47,7 +48,6 @@
 | 20230729T01:57:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0034-0024-app-1zxVs-excuse-exploit | 0 | 0| 
 | 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
 | 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
 
 
 # backdoor on Github 推荐
