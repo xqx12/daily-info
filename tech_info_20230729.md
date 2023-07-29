@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T12:10:16Z | An Exploit List for ROBLOX Developers & Users. | https://github.com/Yxild/CheEggList | 0 | 0| 
 | 20230729T11:49:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10431 | 1622| 
 | 20230729T09:44:20Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 8 | 1| 
 | 20230729T08:16:21Z | An XSS exploitation command-line interface and payload generator. | https://github.com/t3l3machus/toxssin | 1034 | 150| 
@@ -47,7 +48,6 @@
 | 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
 | 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20230729T00:58:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
 
 
 # backdoor on Github 推荐
