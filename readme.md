@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T13:56:46Z | Maestro is a tool that automatically parallelizes software Network Functions amenable to exhaustive symbolic execution. | https://github.com/snaplab-dpss/maestro | 0 | 0| 
 | 20230728T08:01:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 632| 
 
 

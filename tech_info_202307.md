@@ -98,10 +98,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230728T13:56:46Z | Maestro is a tool that automatically parallelizes software Network Functions amenable to exhaustive symbolic execution. | https://github.com/snaplab-dpss/maestro | 0 | 0| 
 | 20230728T08:01:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2288 | 632| 
-| 20230727T14:03:19Z | Maestro is a tool that automatically parallelizes software Network Functions amenable to exhaustive symbolic execution. | https://github.com/snaplab-dpss/maestro | 0 | 0| 
 | 20230727T09:00:16Z | Null | https://github.com/tutor-1v1/CIS547-Dynamic-Symbolic-Execution-Lab-9 | 0 | 0| 
-| 20230727T05:33:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3503 | 486| 
+| 20230727T05:33:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3503 | 485| 
 | 20230727T02:45:01Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 91 | 2| 
 | 20230726T14:26:01Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 211 | 20| 
 | 20230726T08:59:24Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1124 | 130| 
