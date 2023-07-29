@@ -130,13 +130,13 @@
 | 20230728T21:55:32Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230728T20:16:59Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
 | 20230728T19:55:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8842 | 1946| 
+| 20230728T19:00:25Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3754 | 444| 
 | 20230728T17:43:16Z | Null | https://github.com/google/fuzztest | 351 | 26| 
 | 20230728T12:42:42Z | Mixed messages | https://github.com/mathiku/fuzzy-succotash | 0 | 0| 
 | 20230728T12:38:00Z | A newbie venturing into javascript | https://github.com/Jollybeee/Javascript-fuzzy-octo-journey | 0 | 0| 
 | 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 | 20230728T12:11:41Z | Null | https://github.com/minglou1984/Fuzzy_MA2C | 0 | 0| 
 | 20230728T10:11:46Z | Null | https://github.com/YugoSamakuhaku/L8LivewireFuzzySugeno | 0 | 0| 
-| 20230728T09:48:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 1063 | 115| 
 
 
 
