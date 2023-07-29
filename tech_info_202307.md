@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T01:25:10Z | A tool used to check for use of alternative accounts, exploiting, virtual private connections and much more. | https://github.com/ElMagoDist/ROBLOX-Client-Fetch | 0 | 0| 
 | 20230729T01:00:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:59:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
 | 20230729T00:58:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230728T16:28:52Z | My writeups for the %Web Exploitation% section on PicoCTF  | https://github.com/Marven02/PicoCTF-2023-Web_Exploitation | 0 | 0| 
 | 20230728T16:26:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5219 | 1023| 
 | 20230728T12:54:41Z | WebVulnLab: A practical GitHub repository for hands-on web vulnerability discovery and exploitation. Enhance your security skills through real-world scenarios, penetration testing, and challenges. Safely explore attack vectors, learn about web vulnerabilities, and strengthen web application security. | https://github.com/thesinghsec/WebVulnLab-Home_Lab | 0 | 0| 
-| 20230728T12:53:02Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 53 | 8| 
 
 
 # backdoor on Github 推荐
