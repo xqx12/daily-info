@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230729T00:24:02Z | Null | https://github.com/RonaldChicche/path_fuzzy_controller | 0 | 0| 
 | 20230728T21:55:32Z | ✨✨✨ | https://github.com/XsKino/fuzze | 0 | 0| 
 | 20230728T20:16:59Z | Null | https://github.com/AndreasLDevies/FuzzCpp | 0 | 0| 
 | 20230728T19:55:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8842 | 1946| 
@@ -136,7 +137,6 @@
 | 20230728T12:38:00Z | A newbie venturing into javascript | https://github.com/Jollybeee/Javascript-fuzzy-octo-journey | 0 | 0| 
 | 20230728T12:19:04Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 20 | 1| 
 | 20230728T12:11:41Z | Null | https://github.com/minglou1984/Fuzzy_MA2C | 0 | 0| 
-| 20230728T10:11:46Z | Null | https://github.com/YugoSamakuhaku/L8LivewireFuzzySugeno | 0 | 0| 
 
 
 
