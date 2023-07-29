@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230729T01:11:34Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
+| 20230729T01:15:29Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
 | 20230728T23:24:12Z | CVE-2022-24834 | Null | https://github.com/convisolabs/CVE-2022-24834 | | 
 | 20230728T21:06:50Z | CVE-2023-36884 | Null | https://github.com/ridsoliveira/Fix-CVE-2023-36884 | | 
 | 20230728T17:20:18Z | CVE-2021-4034 | Null | https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag | | 
