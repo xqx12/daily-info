@@ -61,11 +61,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T09:51:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3504 | 486| 
+| 20230730T06:05:02Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 92 | 2| 
+| 20230730T06:02:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1125 | 130| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T10:42:50Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 25 | 2| 
+| 20230730T08:58:00Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 721 | 118| 
 
 
 # fuzz on Github 推荐
