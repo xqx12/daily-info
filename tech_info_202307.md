@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T00:11:13Z | Fuzzy Comparison Utilities for DataFrame Columns | https://github.com/hansalemaos/fuzzypandaswuzzy | 0 | 0| 
 | 20230729T23:30:19Z | FuzzyMatch for AHKv2 | https://github.com/samfisherirl/FuzzyMatch-AHKv2 | 0 | 0| 
 | 20230729T22:10:36Z | Null | https://github.com/Githib81/fuzzy-robot | 0 | 0| 
 | 20230729T21:50:22Z | Lama | https://github.com/Omer1226/fuzzy-engine | 0 | 0| 
@@ -136,8 +137,7 @@
 | 20230729T20:41:29Z | sample gh pages | https://github.com/Fabian-dekavira/fuzzy-robot | 0 | 0| 
 | 20230729T18:06:59Z | Null | https://github.com/bouncingbunny8/fuzzy-food | 0 | 0| 
 | 20230729T17:06:44Z | Null | https://github.com/007834/fuzzy-journey | 0 | 0| 
-| 20230729T12:50:29Z | Null | https://github.com/Messi-Q/MuFuzz | 0 | 0| 
-| 20230729T12:38:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1472 | 203| 
+| 20230729T16:16:01Z | This repository has python notebook that has code to implement | https://github.com/profanup/fuzzyopearations | 0 | 0| 
 
 
 

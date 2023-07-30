@@ -89,8 +89,8 @@
 | 20230729T20:41:29Z | sample gh pages | https://github.com/Fabian-dekavira/fuzzy-robot | 0 | 0| 
 | 20230729T18:06:59Z | Null | https://github.com/bouncingbunny8/fuzzy-food | 0 | 0| 
 | 20230729T17:06:44Z | Null | https://github.com/007834/fuzzy-journey | 0 | 0| 
+| 20230729T16:16:01Z | This repository has python notebook that has code to implement | https://github.com/profanup/fuzzyopearations | 0 | 0| 
 | 20230729T12:50:29Z | Null | https://github.com/Messi-Q/MuFuzz | 0 | 0| 
-| 20230729T12:38:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1472 | 203| 
 
 
 
