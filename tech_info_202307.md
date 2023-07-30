@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:07:34Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
 | 20230729T23:18:32Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230729T21:17:58Z | CVE-2023-32243 | Mass-CVE-2023-32243 | https://github.com/shaoyu521/Mass-CVE-2023-32243 | | 
 | 20230729T20:07:53Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
@@ -35,7 +36,6 @@
 | 20230729T13:36:22Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230729T09:38:52Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 | 20230729T01:15:29Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
-| 20230728T23:24:12Z | CVE-2022-24834 | Null | https://github.com/convisolabs/CVE-2022-24834 | | 
 
 
 # klee on Github 推荐
