@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:33:04Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
+| 20230730T01:31:51Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
 | 20230730T01:12:56Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
 | 20230729T23:18:32Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230729T21:17:58Z | CVE-2023-32243 | Mass-CVE-2023-32243 | https://github.com/shaoyu521/Mass-CVE-2023-32243 | | 
 | 20230729T20:07:53Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
 | 20230729T18:54:26Z | CVE-2023-37164 | Null | https://github.com/ilqarli27/CVE-2023-37164 | | 
 | 20230729T18:34:48Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230729T16:46:28Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
 | 20230729T13:36:22Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230729T09:38:52Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
-| 20230729T01:15:29Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
 
 
 # klee on Github 推荐
@@ -69,13 +69,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:30:22Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
 | 20230730T01:24:50Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 5 | 0| 
 | 20230730T01:11:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uj | 0 | 0| 
 | 20230730T01:10:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uj | 0 | 0| 
 | 20230730T01:10:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uj | 0 | 0| 
 | 20230730T00:20:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10436 | 1622| 
 | 20230730T00:00:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5799 | 771| 
-| 20230729T23:39:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
 | 20230729T22:43:06Z | A simple roblox exploit script made for the game called %Loomian Legacy% | https://github.com/FinalRuze/Loomian_Legacy_Script | 0 | 0| 
 | 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
 | 20230729T21:42:00Z | Null | https://github.com/KadenWare/BasicRobloxExploitScripts | 0 | 0| 

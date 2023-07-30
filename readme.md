@@ -21,7 +21,6 @@
 | 20230729T20:07:53Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
 | 20230729T18:54:26Z | CVE-2023-37164 | Null | https://github.com/ilqarli27/CVE-2023-37164 | | 
 | 20230729T18:34:48Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230729T16:46:28Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
 | 20230729T13:36:22Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
 | 20230729T09:38:52Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 | 20230729T01:15:29Z | CVE-2023-33768 | DoS against Belkin smart plugs via crafted firmware injection | https://github.com/Fr0stM0urne/CVE-2023-33768 | | 
@@ -45,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230729T23:39:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
 | 20230729T22:43:06Z | A simple roblox exploit script made for the game called %Loomian Legacy% | https://github.com/FinalRuze/Loomian_Legacy_Script | 0 | 0| 
 | 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
 | 20230729T21:42:00Z | Null | https://github.com/KadenWare/BasicRobloxExploitScripts | 0 | 0| 
@@ -55,6 +53,7 @@
 | 20230729T12:52:06Z | Null | https://github.com/georgexploit/browser-exploitation | 0 | 0| 
 | 20230729T12:42:06Z | Null | https://github.com/georgexploit/Browser-Exploitation | 0 | 0| 
 | 20230729T12:35:09Z | 🚀 Introducing my Exploit Encoder Script - Unlocking the Power of Stealthy Penetration! 🔓 | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
+| 20230729T12:34:42Z | 🌟 Introducing the Mini PHP Shell - Empowering Your Web Exploitation Journey! 🚀💻 | https://github.com/nulloneinfo/small-php-shell | 1 | 0| 
 
 
 # backdoor on Github 推荐
