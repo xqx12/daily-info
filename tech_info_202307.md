@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:15:06Z | react app | https://github.com/banzaman/Fuzzy-barnacle | 1 | 0| 
 | 20230730T00:11:13Z | Fuzzy Comparison Utilities for DataFrame Columns | https://github.com/hansalemaos/fuzzypandaswuzzy | 0 | 0| 
 | 20230729T23:30:19Z | FuzzyMatch for AHKv2 | https://github.com/samfisherirl/FuzzyMatch-AHKv2 | 0 | 0| 
 | 20230729T22:10:36Z | Null | https://github.com/Githib81/fuzzy-robot | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230729T20:41:29Z | sample gh pages | https://github.com/Fabian-dekavira/fuzzy-robot | 0 | 0| 
 | 20230729T19:19:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3757 | 444| 
 | 20230729T18:06:59Z | Null | https://github.com/bouncingbunny8/fuzzy-food | 0 | 0| 
-| 20230729T17:06:44Z | Null | https://github.com/007834/fuzzy-journey | 0 | 0| 
 
 
 
