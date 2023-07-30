@@ -136,8 +136,8 @@
 | 20230730T07:35:32Z | Null | https://github.com/Hussien-Hisham/Customer-Segmentation-and-Classification-with-Fuzzy-C-Means-and-SVM | 0 | 0| 
 | 20230730T07:34:51Z | List of accepted integrations of Mayhem fuzzing software with public repos for ForAllSecure Hackathon 2023 | https://github.com/dasphelp/mayhembounties | 0 | 0| 
 | 20230730T07:28:23Z | Null | https://github.com/huijunyam/echidna-fuzzing | 0 | 0| 
+| 20230730T07:26:54Z | Null | https://github.com/Comstck/fuzzy-garbanzo | 0 | 0| 
 | 20230730T01:15:06Z | react app | https://github.com/banzaman/Fuzzy-barnacle | 1 | 0| 
-| 20230730T00:11:13Z | Fuzzy Comparison Utilities for DataFrame Columns | https://github.com/hansalemaos/fuzzypandaswuzzy | 0 | 0| 
 
 
 
