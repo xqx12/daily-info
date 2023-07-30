@@ -77,8 +77,8 @@
 | 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
 | 20230729T21:42:00Z | Null | https://github.com/KadenWare/BasicRobloxExploitScripts | 0 | 0| 
 | 20230729T21:29:09Z | Loan app serves both the bank and loanee, non-exploitative, maximum repayment | https://github.com/MiracleUFO/LendWise | 0 | 0| 
+| 20230729T17:21:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5222 | 1023| 
 | 20230729T17:16:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5198 | 655| 
-| 20230729T12:52:06Z | Null | https://github.com/georgexploit/browser-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
