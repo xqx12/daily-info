@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:49:39Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0022-0003-app-HkHYs-exploit-gather | 0 | 0| 
 | 20230730T01:35:10Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 6 | 0| 
 | 20230730T01:30:22Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
 | 20230730T01:11:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uj | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230730T00:00:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5799 | 771| 
 | 20230729T22:43:06Z | A simple roblox exploit script made for the game called %Loomian Legacy% | https://github.com/FinalRuze/Loomian_Legacy_Script | 0 | 0| 
 | 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
-| 20230729T21:42:00Z | Null | https://github.com/KadenWare/BasicRobloxExploitScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
