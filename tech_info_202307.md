@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230730T01:07:34Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
+| 20230730T01:08:17Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
 | 20230729T23:18:32Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230729T21:17:58Z | CVE-2023-32243 | Mass-CVE-2023-32243 | https://github.com/shaoyu521/Mass-CVE-2023-32243 | | 
 | 20230729T20:07:53Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
