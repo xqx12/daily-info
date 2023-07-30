@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T12:30:18Z | Fuzzy | https://github.com/Watson7571/fuzzy-tribble | 0 | 0| 
 | 20230730T12:26:16Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 0 | 0| 
 | 20230730T12:08:10Z | fuzzing using woke | https://github.com/huijunyam/woke-fuzzing | 0 | 0| 
 | 20230730T11:21:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 7 | 0| 
@@ -137,7 +138,6 @@
 | 20230730T07:35:32Z | Null | https://github.com/Hussien-Hisham/Customer-Segmentation-and-Classification-with-Fuzzy-C-Means-and-SVM | 0 | 0| 
 | 20230730T07:34:51Z | List of accepted integrations of Mayhem fuzzing software with public repos for ForAllSecure Hackathon 2023 | https://github.com/dasphelp/mayhembounties | 0 | 0| 
 | 20230730T07:28:23Z | Null | https://github.com/huijunyam/echidna-fuzzing | 0 | 0| 
-| 20230730T07:26:54Z | Null | https://github.com/Comstck/fuzzy-garbanzo | 0 | 0| 
 
 
 
