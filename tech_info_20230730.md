@@ -43,7 +43,7 @@
 | 20230730T12:04:50Z | Unauthenticated RCE exploit for CSE Online Book Store 1.0 | https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE | 0 | 0| 
 | 20230730T11:32:24Z | Null | https://github.com/Ikaruspoll098/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230730T11:15:21Z | Null | https://github.com/Hooyayahoo23/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230730T11:08:54Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 0 | 0| 
+| 20230730T11:08:54Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 0 | 1| 
 | 20230730T11:02:13Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
 | 20230730T10:47:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 682 | 176| 
 | 20230730T08:02:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5801 | 771| 
@@ -76,9 +76,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T12:37:47Z | fuzzing using woke | https://github.com/huijunyam/woke-fuzzing | 0 | 0| 
 | 20230730T12:30:18Z | Fuzzy | https://github.com/Watson7571/fuzzy-tribble | 0 | 0| 
 | 20230730T12:26:16Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 0 | 0| 
-| 20230730T12:08:10Z | fuzzing using woke | https://github.com/huijunyam/woke-fuzzing | 0 | 0| 
 | 20230730T11:21:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 7 | 0| 
 | 20230730T10:49:07Z | Artifact for %Dodrio: Parallelize Taint Analysis Based Fuzzing via Redundancy-Free Scheduling% | https://github.com/dodrio-fuzzing/Dodrio_Fuzzing | 0 | 0| 
 | 20230730T09:26:52Z | Null | https://github.com/FatamaOkasha/FuzzyLogicProject | 0 | 0| 
