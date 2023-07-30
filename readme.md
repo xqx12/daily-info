@@ -46,6 +46,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230729T23:47:56Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10435 | 1622| 
+| 20230729T23:39:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
 | 20230729T22:43:06Z | A simple roblox exploit script made for the game called %Loomian Legacy% | https://github.com/FinalRuze/Loomian_Legacy_Script | 0 | 0| 
 | 20230729T22:16:40Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 0 | 0| 
 | 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20230729T12:52:06Z | Null | https://github.com/georgexploit/browser-exploitation | 0 | 0| 
 | 20230729T12:42:06Z | Null | https://github.com/georgexploit/Browser-Exploitation | 0 | 0| 
 | 20230729T12:35:09Z | 🚀 Introducing my Exploit Encoder Script - Unlocking the Power of Stealthy Penetration! 🔓 | https://github.com/nulloneinfo/encode_exploits | 1 | 0| 
-| 20230729T12:34:42Z | 🌟 Introducing the Mini PHP Shell - Empowering Your Web Exploitation Journey! 🚀💻 | https://github.com/nulloneinfo/small-php-shell | 1 | 0| 
 
 
 # backdoor on Github 推荐
