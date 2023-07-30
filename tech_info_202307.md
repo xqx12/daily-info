@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T01:35:10Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 6 | 0| 
 | 20230730T01:30:22Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
-| 20230730T01:24:50Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 5 | 0| 
 | 20230730T01:11:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uj | 0 | 0| 
 | 20230730T01:10:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uj | 0 | 0| 
 | 20230730T01:10:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uj | 0 | 0| 
