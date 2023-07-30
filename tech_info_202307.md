@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T12:39:34Z | Null | https://github.com/Ishanoshada/backdoor | 2 | 0| 
 | 20230730T11:27:56Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
 | 20230729T20:16:18Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 0 | 0| 
 | 20230729T14:10:51Z | Implementation of IEEE TNNLS 2023 and Elsevier PR 2023 papers on backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
@@ -93,7 +94,6 @@
 | 20230728T17:29:34Z | NeurIPS 2023 Backdoors in Deep Learning Workshop | https://github.com/neurips2023-bugs/neurips2023-bugs.github.io | 0 | 0| 
 | 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1815| 
 | 20230728T09:23:58Z | Null | https://github.com/ibnusaja/backdoor-android | 0 | 0| 
-| 20230728T06:02:44Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 791 | 139| 
 
 
 # symbolic execution on Github 推荐
