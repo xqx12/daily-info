@@ -87,10 +87,10 @@
 | 20230729T21:28:51Z | try this one | https://github.com/kurilodan/fuzzydones | 0 | 0| 
 | 20230729T20:57:07Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/ignis-sec/puff | 102 | 13| 
 | 20230729T20:41:29Z | sample gh pages | https://github.com/Fabian-dekavira/fuzzy-robot | 0 | 0| 
+| 20230729T19:19:20Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3757 | 444| 
 | 20230729T18:06:59Z | Null | https://github.com/bouncingbunny8/fuzzy-food | 0 | 0| 
 | 20230729T17:06:44Z | Null | https://github.com/007834/fuzzy-journey | 0 | 0| 
 | 20230729T16:16:01Z | This repository has python notebook that has code to implement | https://github.com/profanup/fuzzyopearations | 0 | 0| 
-| 20230729T12:50:29Z | Null | https://github.com/Messi-Q/MuFuzz | 0 | 0| 
 
 
 
