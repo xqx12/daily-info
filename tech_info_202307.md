@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T11:42:07Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
+| 20230730T10:53:13Z | CVE-2023-34035 | Null | https://github.com/mouadk/CVE-2023-34035-Poc | | 
+| 20230730T09:56:52Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
+| 20230730T09:37:26Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
+| 20230730T08:48:31Z | 未知编号 | Null | https://github.com/Untrust3dX/cve_2023_30799 | | 
+| 20230730T02:00:49Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax | | 
 | 20230730T01:33:04Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
 | 20230730T01:31:51Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
 | 20230730T01:12:56Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
-| 20230729T23:18:32Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230729T21:17:58Z | CVE-2023-32243 | Mass-CVE-2023-32243 | https://github.com/shaoyu521/Mass-CVE-2023-32243 | | 
-| 20230729T20:07:53Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
-| 20230729T18:54:26Z | CVE-2023-37164 | Null | https://github.com/ilqarli27/CVE-2023-37164 | | 
-| 20230729T18:34:48Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230729T13:36:22Z | CVE-2023-38646 | For educational purposes only | https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646 | | 
-| 20230729T09:38:52Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 
 
 # klee on Github 推荐
@@ -69,21 +69,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T11:32:24Z | Null | https://github.com/Ikaruspoll098/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230730T11:15:21Z | Null | https://github.com/Hooyayahoo23/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
+| 20230730T11:08:54Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 0 | 0| 
+| 20230730T11:02:13Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
+| 20230730T10:47:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 682 | 176| 
+| 20230730T10:28:18Z | Unauthenticated RCE exploit for CSE Online Book Store 1.0 | https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE | 0 | 0| 
+| 20230730T08:02:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5801 | 771| 
+| 20230730T07:35:38Z | exploit | https://github.com/sabari-qwerty/metasploitable-2 | 0 | 0| 
+| 20230730T05:44:31Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 23 | 2| 
 | 20230730T01:49:39Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0022-0003-app-HkHYs-exploit-gather | 0 | 0| 
-| 20230730T01:35:10Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 6 | 0| 
-| 20230730T01:30:22Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14134 | 2403| 
-| 20230730T01:11:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-uj | 0 | 0| 
-| 20230730T01:10:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-uj | 0 | 0| 
-| 20230730T01:10:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-uj | 0 | 0| 
-| 20230730T00:20:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10436 | 1622| 
-| 20230730T00:00:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5799 | 771| 
-| 20230729T22:43:06Z | A simple roblox exploit script made for the game called %Loomian Legacy% | https://github.com/FinalRuze/Loomian_Legacy_Script | 0 | 0| 
-| 20230729T21:55:49Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T11:27:56Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
 | 20230729T20:16:18Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 0 | 0| 
 | 20230729T14:10:51Z | Implementation of IEEE TNNLS 2023 and Elsevier PR 2023 papers on backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
 | 20230729T12:33:58Z | A secure and versatile backdoor solution, providing authorized remote access to systems for maintenance and troubleshooting purposes. Developed with a focus on robust encryption, authentication, and limited access privileges. Enhancing remote management capabilities while prioritizing security and privacy. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1815| 
 | 20230728T09:23:58Z | Null | https://github.com/ibnusaja/backdoor-android | 0 | 0| 
 | 20230728T06:02:44Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 791 | 139| 
-| 20230728T01:48:12Z | Implementation of backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/dnn_watermark | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
