@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T12:39:59Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
 | 20230730T11:42:07Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T10:53:13Z | CVE-2023-34035 | Null | https://github.com/mouadk/CVE-2023-34035-Poc | | 
-| 20230730T09:56:52Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
 | 20230730T09:37:26Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
 | 20230730T08:48:31Z | 未知编号 | Null | https://github.com/Untrust3dX/cve_2023_30799 | | 
 | 20230730T02:00:49Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax | | 
