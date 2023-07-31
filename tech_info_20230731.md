@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T12:35:11Z | The .vi labview and .fs controller file part of the IISA 2023 paper %Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control%. | https://github.com/galudSla/fuzzy-control-led-labview | 0 | 0| 
 | 20230731T12:31:40Z | Null | https://github.com/JuHwiSang/fuzzer | 0 | 0| 
 | 20230731T12:28:29Z | Null | https://github.com/heckintosh/fuzzing | 0 | 0| 
 | 20230731T12:18:05Z | Null | https://github.com/cuhk-seclab/SelectFuzz | 26 | 1| 
