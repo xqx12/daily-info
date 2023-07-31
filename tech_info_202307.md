@@ -101,6 +101,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T21:10:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 344 | 81| 
 | 20230730T09:51:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3504 | 486| 
 | 20230730T06:05:02Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 92 | 2| 
 | 20230730T06:02:44Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1125 | 130| 
@@ -110,14 +111,13 @@
 | 20230726T14:26:01Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 211 | 20| 
 | 20230724T20:39:29Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 198 | 43| 
 | 20230722T19:53:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 35 | 7| 
-| 20230722T09:45:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 420 | 28| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T15:14:08Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 723 | 118| 
 | 20230730T10:42:50Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 25 | 2| 
-| 20230730T08:58:00Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 721 | 118| 
 | 20230728T10:21:14Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 61 | 6| 
 | 20230725T06:29:42Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 60 | 3| 
 | 20230724T14:10:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
