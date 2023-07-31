@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230731T00:14:12Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T20:56:14Z | CVE-2022-26134 | Null | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230730T20:06:33Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T18:06:20Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 | 20230730T16:48:02Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
 | 20230730T16:42:27Z | CVE-2023-2868 | Null | https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868 | | 
@@ -132,6 +132,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230730T20:38:42Z | My project | https://github.com/Suzy15/fuzzy-happiness | 0 | 0| 
 | 20230730T20:33:37Z | A robots.txt fuzzer  | https://github.com/DefNu1l/WarpFuzz | 0 | 0| 
+| 20230730T19:51:51Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3758 | 444| 
 | 20230730T15:07:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8845 | 1948| 
 | 20230730T12:53:56Z | Null | https://github.com/noir-lang/parser-fuzzer | 2 | 0| 
 | 20230730T12:37:47Z | fuzzing using woke | https://github.com/huijunyam/woke-fuzzing | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230730T12:26:16Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 0 | 0| 
 | 20230730T11:21:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 7 | 0| 
 | 20230730T10:49:07Z | Artifact for %Dodrio: Parallelize Taint Analysis Based Fuzzing via Redundancy-Free Scheduling% | https://github.com/dodrio-fuzzing/Dodrio_Fuzzing | 0 | 0| 
-| 20230730T09:26:52Z | Null | https://github.com/FatamaOkasha/FuzzyLogicProject | 0 | 0| 
 
 
 
