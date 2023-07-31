@@ -92,6 +92,7 @@
 | 20230731T09:53:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8846 | 1949| 
 | 20230731T09:51:07Z | Null | https://github.com/Chaoyun8888/fuzzy-enigma | 0 | 0| 
 | 20230731T09:27:11Z | Null | https://github.com/YRC-2160/fuzzy-octo-spoon | 0 | 0| 
+| 20230731T02:19:38Z | Null | https://github.com/cuhk-seclab/SelectFuzz | 25 | 1| 
 
 
 
