@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230731T00:14:12Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
+| 20230731T00:37:20Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T20:56:14Z | CVE-2022-26134 | Null | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
 | 20230730T18:06:20Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
 | 20230730T16:48:02Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
