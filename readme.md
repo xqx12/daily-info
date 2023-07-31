@@ -48,12 +48,12 @@
 | 20230730T21:31:13Z | a wp exploiter tool coded by NCA@Ak.Sh4n | https://github.com/NCAPH/NCAExploit | 1 | 0| 
 | 20230730T20:58:33Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 1 | 0| 
 | 20230730T20:16:17Z | get root | https://github.com/meiaxx/Intentions-Root-Exploit | 0 | 0| 
+| 20230730T19:09:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5199 | 655| 
 | 20230730T17:50:36Z | 🌈Best FREE Hub for Roblox Hacking | https://github.com/Kvrr0bux/KrvHub-Roblox-Script | 0 | 0| 
 | 20230730T15:40:05Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
 | 20230730T12:38:18Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 1 | 1| 
 | 20230730T12:04:50Z | Unauthenticated RCE exploit for CSE Online Book Store 1.0 | https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE | 0 | 0| 
 | 20230730T11:32:24Z | Null | https://github.com/Ikaruspoll098/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230730T11:15:21Z | Null | https://github.com/Hooyayahoo23/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
