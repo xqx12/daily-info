@@ -86,8 +86,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T12:15:27Z | Download the files for learn that python backdoor as offline! | https://github.com/Salih-Berat/python-backdoor-offline-learning | 1 | 0| 
 | 20230731T11:39:09Z | Null | https://github.com/limercoder/multi_backdoor | 0 | 0| 
-| 20230731T11:34:38Z | Download the files for learn that python backdoor as offline! | https://github.com/Salih-Berat/python-backdoor-offline-learning | 0 | 0| 
 | 20230731T09:26:50Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
 | 20230731T06:04:13Z | IMTM: Invisible Multi-Trigger Multimodal Backdoor Attack | https://github.com/serena-li/IMTM | 0 | 0| 
 | 20230730T22:48:57Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
