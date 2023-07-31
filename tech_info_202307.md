@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T00:25:57Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec | 0 | 0| 
 | 20230730T23:45:30Z | What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/Solorats/jpg-exploit | 0 | 0| 
 | 20230730T21:31:13Z | a wp exploiter tool coded by NCA@Ak.Sh4n | https://github.com/NCAPH/NCAExploit | 1 | 0| 
 | 20230730T20:58:33Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230730T15:40:05Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
 | 20230730T12:38:18Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 1 | 1| 
 | 20230730T12:04:50Z | Unauthenticated RCE exploit for CSE Online Book Store 1.0 | https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE | 0 | 0| 
-| 20230730T11:32:24Z | Null | https://github.com/Ikaruspoll098/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
