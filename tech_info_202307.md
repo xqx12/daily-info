@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T01:10:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5227 | 1023| 
 | 20230731T00:49:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ij | 0 | 0| 
 | 20230731T00:48:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ij | 0 | 0| 
 | 20230731T00:47:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ij | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230730T20:58:33Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 1 | 0| 
 | 20230730T20:16:17Z | get root | https://github.com/meiaxx/Intentions-Root-Exploit | 0 | 0| 
 | 20230730T19:09:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5199 | 655| 
-| 20230730T17:50:36Z | 🌈Best FREE Hub for Roblox Hacking | https://github.com/Kvrr0bux/KrvHub-Roblox-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
