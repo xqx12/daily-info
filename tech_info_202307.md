@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230731 | 2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp | https://www.sec-in.com/article/2231| 
+| 20230731 | Hutool 路径遍历漏洞 CVE-2018-17297 | https://mp.weixin.qq.com/s/E_X5Cy_7O6h5J7qUEPFCKQ| 
 | 20230728 | The Top 10 Most Common Vulnerabilities In Web3 | https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f| 
 | 20230728 | 俄罗斯之密码安全（装备篇） | https://mp.weixin.qq.com/s/z36bKh6m8Q-fj5-3VO-q2g| 
 | 20230727 | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw| 
@@ -19,38 +21,36 @@
 | 20230725 | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g| 
 | 20230725 | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg| 
 | 20230724 | CVE-2022-24481 | https://www.sec-in.com/article/2181| 
-| 20230724 | SecWiki周刊（第490期) | https://www.sec-wiki.com/weekly/490| 
-| 20230724 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230731T11:31:06Z | CVE-2023-24488 | Null | https://github.com/LazyySec/CVE-2023-24488 | | 
+| 20230731T11:18:21Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
+| 20230731T07:26:13Z | CVE-2023-35078 | This tool is built in golang language to exploit CVE-2023-35078 vulnerability inspired by similar tool in python language https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | https://github.com/LazyySec/CVE-2023-35078 | | 
+| 20230731T07:24:40Z | CVE-2023-38646 | Null | https://github.com/LazyySec/CVE-2023-38646 | | 
+| 20230731T04:21:09Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
+| 20230731T03:41:57Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
+| 20230731T03:13:15Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
+| 20230731T03:10:42Z | CVE-2023-25157 |  GeoServer OGC Filter SQL Injection Vulnerabilities | https://github.com/EmmanuelCruzL/CVE-2023-25157 | | 
+| 20230731T03:04:46Z | CVE-2023-36884 | #comeonits2023 #ie9 #Storm-0978 | https://github.com/raresteak/CVE-2023-36884 | | 
 | 20230731T01:38:23Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
-| 20230730T20:56:14Z | CVE-2022-26134 | Null | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230730T18:06:20Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
-| 20230730T16:48:02Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
-| 20230730T16:42:27Z | CVE-2023-2868 | Null | https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868 | | 
-| 20230730T15:04:37Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
-| 20230730T14:53:26Z | CVE-2023-36884 | #comeonits2023 #ie9 #Storm-0978 | https://github.com/raresteak/CVE-2023-36884 | | 
-| 20230730T12:39:59Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
-| 20230730T10:53:13Z | CVE-2023-34035 | Null | https://github.com/mouadk/CVE-2023-34035-Poc | | 
-| 20230730T09:37:26Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230730T17:02:21Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
+| 20230731T07:59:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2291 | 632| 
+| 20230731T06:19:48Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
+| 20230731T02:39:13Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 25 | 1| 
 | 20230729T13:58:57Z | CS tutor 1对1辅导 Wechat: cstutorcs Email: tutorcs@163.com | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
 | 20230729T13:58:33Z | Null | https://github.com/EPmaple/DC-slime-bot-Klee- | 1 | 0| 
-| 20230729T12:49:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2290 | 632| 
 | 20230729T05:48:54Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 82 | 18| 
 | 20230728T11:36:01Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 2 | 0| 
 | 20230728T02:01:36Z | a beginner-level discord bot | https://github.com/cs-keni/KleeBot | 1 | 0| 
 | 20230727T22:47:25Z | Config files for my GitHub profile. | https://github.com/kleenexETH/kleenexETH | 0 | 0| 
 | 20230727T20:52:48Z | Null | https://github.com/251/klee-docs | 0 | 0| 
-| 20230724T12:52:06Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 24 | 1| 
 
 
 # s2e on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T11:29:23Z | Null | https://github.com/Ixemius/Stage-site-vitrine-exploitation-agricole | 0 | 0| 
+| 20230731T11:06:44Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 17 | 1| 
+| 20230731T10:20:30Z | An Application that gives the users the necessary tools and data so that they don’t get exploited by Private Hospitals or Pharmaceuticals. Allows the user to access an awareness tab or a pricing database of medicines so they can be protected from being overcharged. | https://github.com/AdvaySanketi/MedIQal | 0 | 0| 
+| 20230731T09:08:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5380 | 752| 
+| 20230731T08:36:48Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 45 | 5| 
+| 20230731T07:11:47Z | Framework for rapid development of offensive security tools | https://github.com/htrgouvea/spellbook | 91 | 21| 
+| 20230731T03:54:49Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 171 | 18| 
 | 20230731T01:10:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5227 | 1023| 
 | 20230731T00:49:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ij | 0 | 0| 
 | 20230731T00:48:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ij | 0 | 0| 
-| 20230731T00:47:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ij | 0 | 0| 
-| 20230731T00:25:57Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec | 0 | 0| 
-| 20230730T23:45:30Z | What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/Solorats/jpg-exploit | 0 | 0| 
-| 20230730T21:31:13Z | a wp exploiter tool coded by NCA@Ak.Sh4n | https://github.com/NCAPH/NCAExploit | 1 | 0| 
-| 20230730T20:58:33Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 1 | 0| 
-| 20230730T20:16:17Z | get root | https://github.com/meiaxx/Intentions-Root-Exploit | 0 | 0| 
-| 20230730T19:09:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5199 | 655| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T11:39:09Z | Null | https://github.com/limercoder/multi_backdoor | 0 | 0| 
+| 20230731T11:34:38Z | Download the files for learn that python backdoor as offline! | https://github.com/Salih-Berat/python-backdoor-offline-learning | 0 | 0| 
+| 20230731T09:26:50Z | Null | https://github.com/rebibabo/defense-against-backdoor | 1 | 1| 
+| 20230731T06:04:13Z | IMTM: Invisible Multi-Trigger Multimodal Backdoor Attack | https://github.com/serena-li/IMTM | 0 | 0| 
 | 20230730T22:48:57Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
 | 20230730T19:31:52Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
 | 20230730T15:54:58Z | Null | https://github.com/Erfan-Samadi/Backdoor-and-Server | 0 | 0| 
 | 20230730T15:23:35Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 1 | 0| 
+| 20230730T15:13:49Z | Droidspy is Re-Edit By Spymax Android Rat , Now DroidSpy Support Android Version 13 | https://github.com/LinuxndroidTeam/DroidSpy2 | 86 | 19| 
 | 20230730T14:30:50Z | Null | https://github.com/sechelper/python-lib-backdoor | 0 | 0| 
-| 20230730T14:12:14Z | Null | https://github.com/sechelper/golang-lib-backdoor | 0 | 0| 
-| 20230730T12:39:34Z | Null | https://github.com/Ishanoshada/backdoor | 2 | 0| 
-| 20230730T11:27:56Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
-| 20230729T14:10:51Z | Implementation of IEEE TNNLS 2023 and Elsevier PR 2023 papers on backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
-| 20230729T12:33:58Z | A secure and versatile backdoor solution, providing authorized remote access to systems for maintenance and troubleshooting purposes. Developed with a focus on robust encryption, authentication, and limited access privileges. Enhancing remote management capabilities while prioritizing security and privacy. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T10:50:09Z | Null | https://github.com/ColdNexus/fuzzy-system | 0 | 0| 
+| 20230731T10:27:32Z | gmall  | https://github.com/xWu1Fx/fuzzy-meme | 0 | 0| 
+| 20230731T10:07:50Z | %Fuzzy transforms : Theory and application% 논문의 구현 코드입니다. Implementation of %Fuzzy transforms : Theory and application% | https://github.com/alsh02/fuzzy-transfrom | 0 | 0| 
+| 20230731T09:53:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8846 | 1949| 
+| 20230731T09:51:07Z | Null | https://github.com/Chaoyun8888/fuzzy-enigma | 0 | 0| 
+| 20230731T09:27:11Z | Null | https://github.com/YRC-2160/fuzzy-octo-spoon | 0 | 0| 
 | 20230730T20:38:42Z | My project | https://github.com/Suzy15/fuzzy-happiness | 0 | 0| 
 | 20230730T20:33:37Z | A robots.txt fuzzer  | https://github.com/DefNu1l/WarpFuzz | 0 | 0| 
 | 20230730T19:51:51Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3758 | 444| 
-| 20230730T15:07:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8845 | 1948| 
-| 20230730T12:53:56Z | Null | https://github.com/noir-lang/parser-fuzzer | 2 | 0| 
-| 20230730T12:37:47Z | fuzzing using woke | https://github.com/huijunyam/woke-fuzzing | 0 | 0| 
-| 20230730T12:30:18Z | Fuzzy | https://github.com/Watson7571/fuzzy-tribble | 0 | 0| 
-| 20230730T12:26:16Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 0 | 0| 
-| 20230730T11:21:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 7 | 0| 
-| 20230730T10:49:07Z | Artifact for %Dodrio: Parallelize Taint Analysis Based Fuzzing via Redundancy-Free Scheduling% | https://github.com/dodrio-fuzzing/Dodrio_Fuzzing | 0 | 0| 
+| 20230730T17:02:55Z | Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in web applications created based on specific frameworks with very limited false positives. | https://github.com/Zigrin-Security/CakeFuzzer | 23 | 1| 
 
 
 
