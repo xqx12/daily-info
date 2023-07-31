@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T23:45:30Z | What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/Solorats/jpg-exploit | 0 | 0| 
+| 20230730T21:31:13Z | a wp exploiter tool coded by NCA@Ak.Sh4n | https://github.com/NCAPH/NCAExploit | 1 | 0| 
+| 20230730T20:58:33Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 1 | 0| 
+| 20230730T20:16:17Z | get root | https://github.com/meiaxx/Intentions-Root-Exploit | 0 | 0| 
+| 20230730T17:50:36Z | 🌈Best FREE Hub for Roblox Hacking | https://github.com/Kvrr0bux/KrvHub-Roblox-Script | 0 | 0| 
+| 20230730T15:40:05Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
 | 20230730T12:38:18Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 1 | 1| 
 | 20230730T12:04:50Z | Unauthenticated RCE exploit for CSE Online Book Store 1.0 | https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE | 0 | 0| 
 | 20230730T11:32:24Z | Null | https://github.com/Ikaruspoll098/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
 | 20230730T11:15:21Z | Null | https://github.com/Hooyayahoo23/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | 1 | 0| 
-| 20230730T11:02:13Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
-| 20230730T10:47:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 682 | 176| 
-| 20230730T08:02:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5801 | 771| 
-| 20230730T07:35:38Z | exploit | https://github.com/sabari-qwerty/metasploitable-2 | 0 | 0| 
-| 20230730T05:44:31Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 23 | 2| 
-| 20230730T01:49:39Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0022-0003-app-HkHYs-exploit-gather | 0 | 0| 
 
 
 # backdoor on Github 推荐
