@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T12:51:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-pvwKc-escape-exploit | 0 | 0| 
 | 20230731T12:47:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-yGV4f-launch-exploit | 0 | 0| 
 | 20230731T12:29:21Z | Null | https://github.com/CyberSecIPB/wp-exploit | 0 | 0| 
 | 20230731T12:06:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5803 | 771| 
@@ -80,7 +81,6 @@
 | 20230731T09:08:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5380 | 752| 
 | 20230731T08:36:48Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 45 | 5| 
 | 20230731T07:11:47Z | Framework for rapid development of offensive security tools | https://github.com/htrgouvea/spellbook | 91 | 21| 
-| 20230731T03:54:49Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 171 | 18| 
 
 
 # backdoor on Github 推荐
