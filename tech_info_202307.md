@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T12:29:21Z | Null | https://github.com/CyberSecIPB/wp-exploit | 0 | 0| 
 | 20230731T12:06:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5803 | 771| 
 | 20230731T11:29:23Z | Null | https://github.com/Ixemius/Stage-site-vitrine-exploitation-agricole | 0 | 0| 
 | 20230731T11:06:44Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 17 | 1| 
@@ -80,7 +81,6 @@
 | 20230731T07:11:47Z | Framework for rapid development of offensive security tools | https://github.com/htrgouvea/spellbook | 91 | 21| 
 | 20230731T03:54:49Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 171 | 18| 
 | 20230731T01:10:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5227 | 1023| 
-| 20230731T00:49:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ij | 0 | 0| 
 
 
 # backdoor on Github 推荐
