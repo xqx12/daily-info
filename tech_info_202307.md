@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230731T00:47:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ij | 0 | 0| 
 | 20230731T00:25:57Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec | 0 | 0| 
 | 20230730T23:45:30Z | What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/Solorats/jpg-exploit | 0 | 0| 
 | 20230730T21:31:13Z | a wp exploiter tool coded by NCA@Ak.Sh4n | https://github.com/NCAPH/NCAExploit | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20230730T17:50:36Z | 🌈Best FREE Hub for Roblox Hacking | https://github.com/Kvrr0bux/KrvHub-Roblox-Script | 0 | 0| 
 | 20230730T15:40:05Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
 | 20230730T15:00:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5226 | 1023| 
-| 20230730T12:38:18Z | Null | https://github.com/memN0ps/WindowsKernelExploitation | 1 | 1| 
 
 
 # backdoor on Github 推荐
