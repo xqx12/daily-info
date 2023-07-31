@@ -16,25 +16,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T20:56:14Z | CVE-2022-26134 | Null | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
+| 20230730T20:06:33Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
+| 20230730T18:06:20Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
+| 20230730T16:48:02Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
+| 20230730T16:42:27Z | CVE-2023-2868 | Null | https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868 | | 
+| 20230730T15:04:37Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
+| 20230730T14:53:26Z | CVE-2023-36884 | #comeonits2023 #ie9 #Storm-0978 | https://github.com/raresteak/CVE-2023-36884 | | 
 | 20230730T12:39:59Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
-| 20230730T11:42:07Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T10:53:13Z | CVE-2023-34035 | Null | https://github.com/mouadk/CVE-2023-34035-Poc | | 
 | 20230730T09:37:26Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
-| 20230730T08:48:31Z | 未知编号 | Null | https://github.com/Untrust3dX/cve_2023_30799 | | 
-| 20230730T02:00:49Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax | | 
-| 20230730T01:33:04Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
-| 20230730T01:31:51Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
-| 20230730T01:12:56Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T17:02:21Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T21:10:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 344 | 81| 
+| 20230730T18:41:55Z | Null | https://github.com/s2ecevit/s2ecevit.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -55,6 +59,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T22:48:57Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
+| 20230730T19:31:52Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
+| 20230730T15:54:58Z | Null | https://github.com/Erfan-Samadi/Backdoor-and-Server | 0 | 0| 
+| 20230730T15:23:35Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 1 | 0| 
+| 20230730T14:30:50Z | Null | https://github.com/sechelper/python-lib-backdoor | 0 | 0| 
+| 20230730T14:12:14Z | Null | https://github.com/sechelper/golang-lib-backdoor | 0 | 0| 
 | 20230730T12:39:34Z | Null | https://github.com/Ishanoshada/backdoor | 2 | 0| 
 | 20230730T11:27:56Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
 

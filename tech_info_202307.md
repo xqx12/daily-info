@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230730T20:56:14Z | CVE-2022-26134 | Null | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
+| 20230730T20:06:33Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
+| 20230730T18:06:20Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884 | | 
+| 20230730T16:48:02Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
+| 20230730T16:42:27Z | CVE-2023-2868 | Null | https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868 | | 
+| 20230730T15:04:37Z | CVE-2023-27163 | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (<= v.1.2.1) | https://github.com/entr0pie/CVE-2023-27163 | | 
+| 20230730T14:53:26Z | CVE-2023-36884 | #comeonits2023 #ie9 #Storm-0978 | https://github.com/raresteak/CVE-2023-36884 | | 
 | 20230730T12:39:59Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
-| 20230730T11:42:07Z | CVE-2023-35078 | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | | 
 | 20230730T10:53:13Z | CVE-2023-34035 | Null | https://github.com/mouadk/CVE-2023-34035-Poc | | 
 | 20230730T09:37:26Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
-| 20230730T08:48:31Z | 未知编号 | Null | https://github.com/Untrust3dX/cve_2023_30799 | | 
-| 20230730T02:00:49Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax | | 
-| 20230730T01:33:04Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646)!! | https://github.com/0xrobiul/CVE-2023-38646 | | 
-| 20230730T01:31:51Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
-| 20230730T01:12:56Z | CVE-2023-38646 | Remote Code Execution on Metabase CVE-2023-38646 | https://github.com/Chocapikk/CVE-2023-38646 | | 
-| 20230729T21:17:58Z | CVE-2023-32243 | Mass-CVE-2023-32243 | https://github.com/shaoyu521/Mass-CVE-2023-32243 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T17:02:21Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
 | 20230729T13:58:57Z | CS tutor 1对1辅导 Wechat: cstutorcs Email: tutorcs@163.com | https://github.com/tutor-1v1/CS-6340-Lab-7-KLEE | 0 | 0| 
 | 20230729T13:58:33Z | Null | https://github.com/EPmaple/DC-slime-bot-Klee- | 1 | 0| 
 | 20230729T12:49:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2290 | 632| 
@@ -50,12 +51,13 @@
 | 20230727T22:47:25Z | Config files for my GitHub profile. | https://github.com/kleenexETH/kleenexETH | 0 | 0| 
 | 20230727T20:52:48Z | Null | https://github.com/251/klee-docs | 0 | 0| 
 | 20230724T12:52:06Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 24 | 1| 
-| 20230721T06:52:13Z | Null | https://github.com/Gannnonnn/Klee1 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T21:10:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 344 | 81| 
+| 20230730T18:41:55Z | Null | https://github.com/s2ecevit/s2ecevit.github.io | 0 | 0| 
 | 20230729T07:54:36Z | Code for %Searching to Extrapolate Embedding for Out-of-graph Node Representation Learning% | https://github.com/zgs0314/S2E-OOG | 0 | 0| 
 | 20230719T11:44:57Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 33 | 13| 
 | 20230714T13:24:59Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 3 | 0| 
@@ -84,16 +86,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230730T22:48:57Z | A project for the course %Trustworthy Machine Learning%. We investigate defenses for backdoor attacks on neural networks during training. | https://github.com/edenlum/BANND | 0 | 0| 
+| 20230730T19:31:52Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
+| 20230730T15:54:58Z | Null | https://github.com/Erfan-Samadi/Backdoor-and-Server | 0 | 0| 
+| 20230730T15:23:35Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 1 | 0| 
+| 20230730T14:30:50Z | Null | https://github.com/sechelper/python-lib-backdoor | 0 | 0| 
+| 20230730T14:12:14Z | Null | https://github.com/sechelper/golang-lib-backdoor | 0 | 0| 
 | 20230730T12:39:34Z | Null | https://github.com/Ishanoshada/backdoor | 2 | 0| 
 | 20230730T11:27:56Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
-| 20230729T20:16:18Z |  Python-based remote communication tool for executing shell commands and transferring files between client and server machines. Simplified implementation for educational purposes to explore socket programming in Python. | https://github.com/itaynir1/Backdoor-Project | 0 | 0| 
 | 20230729T14:10:51Z | Implementation of IEEE TNNLS 2023 and Elsevier PR 2023 papers on backdoor watermarking for deep classification models with unambiguity and deep fidelity. | https://github.com/ghua-ac/DNN_Watermark | 4 | 0| 
 | 20230729T12:33:58Z | A secure and versatile backdoor solution, providing authorized remote access to systems for maintenance and troubleshooting purposes. Developed with a focus on robust encryption, authentication, and limited access privileges. Enhancing remote management capabilities while prioritizing security and privacy. | https://github.com/nulloneinfo/remote-access-backdoor | 1 | 0| 
-| 20230729T02:56:24Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 303 | 80| 
-| 20230728T18:28:57Z | Official Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/SRI-CSL/TIJO | 0 | 0| 
-| 20230728T17:29:34Z | NeurIPS 2023 Backdoors in Deep Learning Workshop | https://github.com/neurips2023-bugs/neurips2023-bugs.github.io | 0 | 0| 
-| 20230728T09:55:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7767 | 1815| 
-| 20230728T09:23:58Z | Null | https://github.com/ibnusaja/backdoor-android | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
