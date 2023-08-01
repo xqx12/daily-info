@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230801T12:44:33Z | Null | https://github.com/dr4v/exploits | 0 | 0| 
 | 20230801T12:06:35Z | Exploits, Executor гэж юу вэ? энэ зүйл нь олон тохиргоотой та энэ бичлэгнээс үзэж болно.  | https://github.com/SpecialErtonts/Exploits-Executor | 0 | 0| 
 | 20230801T12:02:48Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-kfgm-W13h5-convince-exploit | 0 | 0| 
 | 20230801T11:51:10Z | mass sqli exploit and upload shell tool | https://github.com/Abcdiregter/noxsqli | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230801T10:11:25Z | These are roblox exploiters hubs that are projects! | https://github.com/LuizTechTVOfficial/Hubs | 0 | 0| 
 | 20230801T10:04:26Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
 | 20230801T08:59:10Z | three Python scripts showcasing different aspects of exploiting a buffer overflow vulnerability in %crossfire-server% version 1.9.0. The scripts demonstrate offset fuzzing, bad character identification, and a remote code execution exploit | https://github.com/muh404med/BOF-linux-crossfire-server-1.9.0 | 0 | 0| 
-| 20230801T08:29:11Z | Some custom implementations of Tasks and Gyms for Omniverse Isaac Sim based on Gymnasium. Easy URDF and SRDF import/cloning and simulation configuration exploiting Omniverse API | https://github.com/AndPatr/OmniCustomGym | 0 | 0| 
 
 
 # backdoor on Github 推荐
