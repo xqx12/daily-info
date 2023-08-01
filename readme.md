@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230801T11:51:10Z | mass sqli exploit and upload shell tool | https://github.com/Abcdiregter/noxsqli | 0 | 0| 
+| 20230801T11:42:06Z | Null | https://github.com/SomnathDas/pwnNotes | 0 | 0| 
+| 20230801T11:30:29Z | Malicious SVG file generator to exploit XXE vulnerability | https://github.com/farukmes/msfg | 0 | 0| 
+| 20230801T10:16:41Z | roblox pbgd | https://github.com/thescriptware/exploit | 0 | 0| 
+| 20230801T10:11:25Z | These are roblox exploiters hubs that are projects! | https://github.com/LuizTechTVOfficial/Hubs | 0 | 0| 
+| 20230801T10:04:26Z | Python and Bash scripts that automate the exploitation of Web Security Academy labs. | https://github.com/NasrallahBaadi/WebSecurityAcademyScripts | 0 | 0| 
+| 20230801T08:59:10Z | three Python scripts showcasing different aspects of exploiting a buffer overflow vulnerability in %crossfire-server% version 1.9.0. The scripts demonstrate offset fuzzing, bad character identification, and a remote code execution exploit | https://github.com/muh404med/BOF-linux-crossfire-server-1.9.0 | 0 | 0| 
+| 20230801T08:29:11Z | Some custom implementations of Tasks and Gyms for Omniverse Isaac Sim based on Gymnasium. Easy URDF and SRDF import/cloning and simulation configuration exploiting Omniverse API | https://github.com/AndPatr/OmniCustomGym | 0 | 0| 
 | 20230801T01:34:14Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 175 | 19| 
 | 20230801T01:23:44Z | QR factorizations exploiting specific structures of matrices such as Bloc-Diagonal matrices or matrices horizontally concatenated | https://github.com/Vanadjy/StructuredQR.jl | 0 | 0| 
-| 20230801T01:23:35Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0013-0006-app-18IAK-exploit-head | 0 | 0| 
-| 20230801T01:17:53Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 556 | 106| 
-| 20230801T01:05:18Z | CVE-2023-1112 Auto Exploiter | https://github.com/codeb0ss/CVE-2023-1112-EXP | 0 | 0| 
-| 20230801T01:01:22Z | scripts for exploiting | https://github.com/seizre73/Scripts | 0 | 0| 
-| 20230801T00:59:00Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW- | 0 | 0| 
-| 20230801T00:52:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-zz | 0 | 0| 
-| 20230801T00:51:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-zz | 0 | 0| 
-| 20230801T00:50:21Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-zz | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -69,6 +69,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230801T11:55:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3506 | 487| 
 
 
 # big4 on Github 推荐
