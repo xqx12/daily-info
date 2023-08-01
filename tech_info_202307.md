@@ -78,9 +78,9 @@
 | 20230731T19:39:35Z | An Application that gives the users the necessary tools and data so that they don’t get exploited by Private Hospitals or Pharmaceuticals. Allows the user to access an awareness tab or a pricing database of medicines so they can be protected from being overcharged. | https://github.com/AdvaySanketi/MedIQal | 0 | 0| 
 | 20230731T18:21:22Z | Total CMS 1.7.4 Shell Upload | https://github.com/capture0x/Total-CMS-EXPLOIT | 0 | 0| 
 | 20230731T17:07:11Z | Null | https://github.com/DuckyOwner/DuckyExploit | 0 | 0| 
+| 20230731T13:57:08Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 18 | 1| 
 | 20230731T12:51:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-golang-pvwKc-escape-exploit | 0 | 0| 
 | 20230731T12:47:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-yGV4f-launch-exploit | 0 | 0| 
-| 20230731T12:29:21Z | Null | https://github.com/CyberSecIPB/wp-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
