@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230801T12:50:41Z | CVE-2020-27815 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815 | | 
 | 20230801T12:09:24Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230801T11:42:58Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979- | | 
 | 20230801T11:40:36Z | CVE-2023-35828 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828 | | 
@@ -28,7 +29,6 @@
 | 20230801T09:27:56Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230801T08:11:11Z | CVE-2023-34960 | Perform with Massive Command Injection (Chamilo) | https://github.com/tucommenceapousser/CVE-2023-34960-ex | | 
 | 20230801T01:15:35Z | cve-2023- | nuclei CVE 2023 all templates | https://github.com/zerbaliy3v/nuclei-cve-2023-all-templates | | 
-| 20230801T01:05:18Z | CVE-2023-1112 | CVE-2023-1112 Auto Exploiter | https://github.com/codeb0ss/CVE-2023-1112-EXP | | 
 
 
 # klee on Github 推荐
