@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230731T23:40:28Z | cve-2023- | nuclei CVE 2023 all templates | https://github.com/zerbaliy3v/nuclei-cve-2023-all-templates | | 
 | 20230731T21:14:43Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
 | 20230731T20:39:11Z | CVE-2023-27372 | Perform With Mass Remote Code Execution In SPIP Version (4.2.1) | https://github.com/Pari-Malam/CVE-2023-27372 | | 
 | 20230731T19:38:13Z | CVE-2023-25157 |  GeoServer OGC Filter SQL Injection Vulnerabilities | https://github.com/EmmanuelCruzL/CVE-2023-25157 | | 
@@ -29,6 +28,7 @@
 | 20230731T11:18:21Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
 | 20230731T07:24:40Z | CVE-2023-38646 | Null | https://github.com/LazyySec/CVE-2023-38646 | | 
 | 20230731T03:41:57Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
+| 20230731T03:13:15Z | CVE-2023-38646 | Null | https://github.com/Xuxfff/CVE-2023-38646-Poc | | 
 
 
 # klee on Github 推荐
