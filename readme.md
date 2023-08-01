@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230801T12:50:41Z | CVE-2020-27815 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815 | | 
+| 20230801T12:56:55Z | CVE-2020-27815 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815 | | 
 | 20230801T12:09:24Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230801T11:42:58Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979- | | 
 | 20230801T11:40:36Z | CVE-2023-35828 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828 | | 
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230801T12:44:33Z | Null | https://github.com/dr4v/exploits | 0 | 0| 
+| 20230801T12:56:25Z | Null | https://github.com/dr4v/exploits | 0 | 0| 
 | 20230801T12:06:35Z | Exploits, Executor гэж юу вэ? энэ зүйл нь олон тохиргоотой та энэ бичлэгнээс үзэж болно.  | https://github.com/SpecialErtonts/Exploits-Executor | 0 | 0| 
 | 20230801T12:02:48Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-kfgm-W13h5-convince-exploit | 0 | 0| 
 | 20230801T11:51:10Z | mass sqli exploit and upload shell tool | https://github.com/Abcdiregter/noxsqli | 0 | 0| 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230801T12:54:50Z | Null | https://github.com/winklerin/fuzzy-parakeet | 0 | 0| 
 | 20230801T11:12:07Z | Null | https://github.com/hnlcf/fuzzer_compare | 0 | 0| 
 | 20230801T10:55:13Z | Null | https://github.com/GregBil16/FuzzyLogic-app | 0 | 0| 
 | 20230801T09:34:00Z | Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers | https://github.com/SE2023Test/SCFuzzers | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230801T08:08:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1475 | 204| 
 | 20230801T07:08:53Z | Null | https://github.com/marterea/fuzzy-winner | 0 | 0| 
 | 20230801T06:42:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 345 | 66| 
-| 20230801T01:33:31Z | Null | https://github.com/NicoStuer/fuzzy-waddle | 0 | 0| 
 
 
 
