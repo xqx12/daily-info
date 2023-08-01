@@ -34,8 +34,8 @@
 | 20230731T18:20:36Z | CVE-2022-41401 | Null | https://github.com/ixSly/CVE-2022-41401 | | 
 | 20230731T11:31:06Z | CVE-2023-24488 | Null | https://github.com/LazyySec/CVE-2023-24488 | | 
 | 20230731T11:18:21Z | CVE-2023-38646 | Proof of Concept for CVE-2023-38646 | https://github.com/Zenmovie/CVE-2023-38646 | | 
-| 20230731T07:26:13Z | CVE-2023-35078 | This tool is built in golang language to exploit CVE-2023-35078 vulnerability inspired by similar tool in python language https://github.com/vchan-in/CVE-2023-35078-Exploit-POC | https://github.com/LazyySec/CVE-2023-35078 | | 
 | 20230731T07:24:40Z | CVE-2023-38646 | Null | https://github.com/LazyySec/CVE-2023-38646 | | 
+| 20230731T03:41:57Z | CVE-2023-35078 | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | https://github.com/lager1/CVE-2023-35078 | | 
 
 
 # klee on Github 推荐
@@ -134,12 +134,12 @@
 | 20230731T23:41:16Z | Lightweight fuzzing of a memory snapshot using KVM | https://github.com/awslabs/snapchange | 368 | 20| 
 | 20230731T21:46:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2216 | 253| 
 | 20230731T21:34:29Z | wordlists used during pentest fuzzing | https://github.com/cache-mira/wordlists | 0 | 0| 
+| 20230731T21:27:33Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3762 | 445| 
 | 20230731T21:22:31Z | Null | https://github.com/Allstreamer/all.fuzzy | 0 | 0| 
 | 20230731T12:43:21Z | The LabVIEW .vi and .fs controller files part of the puplished paper on the IISA 2023 conference with title %Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control%. | https://github.com/galudSla/fuzzy-control-labview | 0 | 0| 
 | 20230731T12:38:56Z | Null | https://github.com/google/fuzztest | 354 | 27| 
 | 20230731T12:35:11Z | The .vi labview and .fs controller file part of the IISA 2023 paper %Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control%. | https://github.com/galudSla/fuzzy-control-led-labview | 0 | 0| 
 | 20230731T12:31:40Z | Null | https://github.com/JuHwiSang/fuzzer | 0 | 0| 
-| 20230731T12:28:29Z | Null | https://github.com/heckintosh/fuzzing | 0 | 0| 
 
 
 
