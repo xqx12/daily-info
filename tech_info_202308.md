@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T12:25:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 686 | 176| 
 | 20230802T11:49:49Z | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | 1 | 1| 
 | 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
 | 20230802T10:56:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5385 | 752| 
@@ -56,7 +57,6 @@
 | 20230802T09:16:03Z | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | 0 | 1| 
 | 20230802T08:57:30Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec | 1 | 0| 
 | 20230802T08:16:49Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1044 | 203| 
-| 20230802T06:00:48Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 41 | 7| 
 
 
 # backdoor on Github 推荐
