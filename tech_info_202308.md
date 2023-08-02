@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230802 | VirusTotal 新兴格式与投递技术报告 | https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ| 
 | 20230801 | Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg| 
 | 20230801 | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg| 
 | 20230801 | SecWiki周刊（第491期) | https://www.sec-wiki.com/weekly/491| 
@@ -19,16 +20,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230802T11:59:53Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
+| 20230802T11:49:49Z | CVE-2021-41773 | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | | 
+| 20230802T10:15:55Z | CVE-2023-28252 | Null | https://github.com/726232111/CVE-2023-28252 | | 
+| 20230802T09:16:03Z | CVE-2020-25213 | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | | 
+| 20230802T07:44:37Z | CVE-2023-36159 | Null | https://github.com/unknown00759/CVE-2023-36159 | | 
+| 20230802T07:31:49Z | CVE-2023-36158 | Cross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page | https://github.com/unknown00759/CVE-2023-36158 | | 
+| 20230802T06:36:31Z | CVE-2020-0688 | CVE-2020-0688 modified exploit for Exchange 2010  | https://github.com/chudamax/CVE-2020-0688-Exchange2010 | | 
+| 20230802T03:18:20Z | CVE-2021-22205 | Null | https://github.com/overgrowncarrot1/DejaVu-CVE-2021-22205 | | 
 | 20230802T00:40:01Z | CVE-2023-2333 | CVE-2023-2333-EXP | https://github.com/codeb0ss/CVE-2023-2333-EXP | | 
 | 20230801T23:31:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230801T21:57:46Z | cve-2023-34035 | Null | https://github.com/jzheaux/cve-2023-34035-mitigations | | 
-| 20230801T19:58:03Z | CVE-2023-23333 | Nmap NSE script to dump / test Solarwinds CVE-2023-23333 vulnerability | https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit | | 
-| 20230801T19:40:27Z | CVE-2023-3460 | CVE-2023-3460 | https://github.com/Fire-Null/CVE-2023-3460 | | 
-| 20230801T15:44:35Z | CVE-2023-35078 | Nmap script to exploit CVE-2023-35078 - Mobile Iron Core | https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit | | 
-| 20230801T14:06:36Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
-| 20230801T12:56:55Z | CVE-2020-27815 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815 | | 
-| 20230801T12:09:24Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
-| 20230801T11:42:58Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979- | | 
 
 
 # klee on Github 推荐
@@ -46,29 +47,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230802T01:58:45Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0031-0020-app-GloHV-exploit-drive | 0 | 0| 
-| 20230802T01:57:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0022-0015-app-ym3tw-exploit-land | 0 | 0| 
-| 20230802T01:33:03Z | GitOps Repository | https://github.com/pmacik-testing/ci-infra-dep-0099-app-AgTx_-benefit-exploit | 0 | 0| 
-| 20230802T01:27:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5815 | 774| 
-| 20230802T01:11:41Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-n | 1 | 0| 
-| 20230802T01:10:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nz | 0 | 0| 
-| 20230802T01:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nz | 1 | 0| 
-| 20230802T01:06:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nz | 0 | 0| 
-| 20230802T00:59:22Z | Python CLI tool for exploitation | https://github.com/synfosec/eviltux | 0 | 0| 
-| 20230802T00:28:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-WPVKt-exploit-remain | 0 | 0| 
+| 20230802T11:49:49Z | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | 1 | 1| 
+| 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
+| 20230802T10:56:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5385 | 752| 
+| 20230802T10:54:05Z | Fluxus-roblox exploit to it work you need ms version of roblox | https://github.com/gdfhftu/fluxus_exploit | 0 | 0| 
+| 20230802T10:46:12Z | Kernel exploit assistance library | https://github.com/Cheshire1225/Fitz | 0 | 0| 
+| 20230802T10:27:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5765 | 671| 
+| 20230802T09:16:03Z | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | 0 | 1| 
+| 20230802T08:57:30Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec | 1 | 0| 
+| 20230802T08:16:49Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1044 | 203| 
+| 20230802T06:00:48Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 41 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T11:53:14Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 2 | 0| 
+| 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
+| 20230802T08:51:51Z | Null | https://github.com/andalusia1337/backdoor | 0 | 0| 
+| 20230802T06:59:41Z | A Termux Backdoor  | https://github.com/samyelnakady/TermFun | 5 | 0| 
 | 20230801T16:05:42Z | Simple backdoor built with Python. | https://github.com/mericck/Backdoor | 0 | 0| 
 | 20230801T13:20:59Z | Implementation of %Beating Backdoor Attack at Its Own Game% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 1 | 0| 
 | 20230801T09:29:26Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1987 | 426| 
 | 20230801T08:54:48Z | Null | https://github.com/backdoor-learning-tutorial/backdoor-learning-tutorial.github.io | 0 | 0| 
 | 20230801T08:33:56Z | Null | https://github.com/21721677/SemanticBackdoor | 0 | 0| 
-| 20230801T06:06:28Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 1 | 0| 
 | 20230801T05:53:39Z | Null | https://github.com/puloks/wp-backdoor | 0 | 0| 
-| 20230801T03:20:52Z | Webshell is a backdoor built with PHP. It can penetrate Firewall. | https://github.com/tawfiqur/shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -86,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T12:00:39Z | Null | https://github.com/risetibeckle/fuzzy-octo-winner | 0 | 0| 
+| 20230802T11:53:49Z | Null | https://github.com/robore9197/fuzzer | 0 | 0| 
+| 20230802T11:13:42Z | Null | https://github.com/dliyanage/extrapolate_fuzzing | 0 | 0| 
+| 20230802T11:08:48Z | Pre-Silicon Hardware Fuzzing Toolkit | https://github.com/IntelLabs/PreSiFuzz | 31 | 2| 
+| 20230802T11:04:14Z | Null | https://github.com/itamarzafrani/FuzzyAppGui-master | 0 | 0| 
+| 20230802T10:43:52Z | Null | https://github.com/TariBillionz/fuzzy-waffle | 0 | 0| 
+| 20230802T10:36:32Z | visualization of AFL++ fuzz stat  | https://github.com/chennbnbnb/afl-stat-visual | 1 | 0| 
+| 20230802T08:25:39Z | Fuzzy subcommand matching for click | https://github.com/amyreese/click-fuzzy | 0 | 0| 
+| 20230802T07:25:04Z | Code | https://github.com/JemmyKibandi/fuzzy-giggle | 1 | 0| 
 | 20230802T01:58:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3763 | 446| 
-| 20230802T01:56:00Z | Null | https://github.com/V0BAH/fuzzy-octo-doodle | 0 | 0| 
-| 20230802T01:28:47Z | Ensemble Fuzzing Tool Legion | https://github.com/Legion-ensemble-fuzzing/Legion | 0 | 0| 
-| 20230801T23:52:36Z | A repo containing different toolset I frequently use in pentesting web applications. | https://github.com/ParsianNight/FuzzingArsenal | 0 | 0| 
-| 20230801T22:14:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2757 | 190| 
-| 20230801T22:02:18Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 122 | 11| 
-| 20230801T21:01:20Z | Null | https://github.com/dave-seaman/fuzzy-potato | 0 | 0| 
-| 20230801T20:15:35Z | Null | https://github.com/google/fuzztest | 355 | 27| 
-| 20230801T20:07:10Z | Multi-purpose fuzzer | https://github.com/pld-linux/zzuf | 0 | 0| 
-| 20230801T14:29:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 
 
 
