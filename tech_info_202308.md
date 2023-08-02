@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230802T00:38:42Z | CVE-2023-2333 | CVE-2023-2333-EXP | https://github.com/codeb0ss/CVE-2023-2333-EXP | | 
+| 20230802T00:40:01Z | CVE-2023-2333 | CVE-2023-2333-EXP | https://github.com/codeb0ss/CVE-2023-2333-EXP | | 
 | 20230801T23:31:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230801T21:57:46Z | cve-2023-34035 | Null | https://github.com/jzheaux/cve-2023-34035-mitigations | | 
 | 20230801T19:58:03Z | CVE-2023-23333 | Nmap NSE script to dump / test Solarwinds CVE-2023-23333 vulnerability | https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit | | 
