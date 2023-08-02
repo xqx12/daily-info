@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230801T23:51:32Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10447 | 1624| 
+| 20230802T00:11:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10448 | 1624| 
 | 20230801T22:46:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5813 | 774| 
 | 20230801T22:00:03Z | Crack this exe  | https://github.com/girlhefunnyaf44/Binary-Exploitation-Practice | 1 | 0| 
 | 20230801T21:43:56Z | Converti un extract des présences de l%intranet SGDF de manière à ce qu%il soit exploitable pour les contrôles CAF | https://github.com/bertrandgorge/extractIntranetSGDF | 0 | 0| 
