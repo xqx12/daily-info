@@ -46,12 +46,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T01:27:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5815 | 774| 
 | 20230802T01:11:41Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-n | 1 | 0| 
 | 20230802T01:10:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nz | 0 | 0| 
 | 20230802T01:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nz | 1 | 0| 
 | 20230802T01:06:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nz | 0 | 0| 
 | 20230802T00:59:22Z | Python CLI tool for exploitation | https://github.com/synfosec/eviltux | 0 | 0| 
-| 20230802T00:50:56Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5814 | 774| 
 | 20230802T00:28:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-WPVKt-exploit-remain | 0 | 0| 
 | 20230802T00:13:36Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10449 | 1624| 
 | 20230801T23:50:12Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 58 | 8| 
