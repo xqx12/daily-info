@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230802T12:34:45Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230802T12:23:17Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230802T11:49:49Z | CVE-2021-41773 | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | | 
 | 20230802T10:15:55Z | CVE-2023-28252 | Null | https://github.com/726232111/CVE-2023-28252 | | 
@@ -29,7 +30,6 @@
 | 20230802T06:36:31Z | CVE-2020-0688 | CVE-2020-0688 modified exploit for Exchange 2010  | https://github.com/chudamax/CVE-2020-0688-Exchange2010 | | 
 | 20230802T03:18:20Z | CVE-2021-22205 | Null | https://github.com/overgrowncarrot1/DejaVu-CVE-2021-22205 | | 
 | 20230802T00:40:01Z | CVE-2023-2333 | CVE-2023-2333-EXP | https://github.com/codeb0ss/CVE-2023-2333-EXP | | 
-| 20230801T23:31:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
