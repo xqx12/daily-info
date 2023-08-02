@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T01:58:45Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0031-0020-app-GloHV-exploit-drive | 0 | 0| 
 | 20230802T01:57:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0022-0015-app-ym3tw-exploit-land | 0 | 0| 
 | 20230802T01:33:03Z | GitOps Repository | https://github.com/pmacik-testing/ci-infra-dep-0099-app-AgTx_-benefit-exploit | 0 | 0| 
 | 20230802T01:27:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5815 | 774| 
@@ -55,7 +56,6 @@
 | 20230802T01:06:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nz | 0 | 0| 
 | 20230802T00:59:22Z | Python CLI tool for exploitation | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230802T00:28:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-WPVKt-exploit-remain | 0 | 0| 
-| 20230802T00:13:36Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10449 | 1624| 
 
 
 # backdoor on Github 推荐
