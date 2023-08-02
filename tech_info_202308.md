@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T01:10:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nz | 0 | 0| 
 | 20230802T01:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nz | 1 | 0| 
 | 20230802T01:06:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nz | 0 | 0| 
 | 20230802T00:59:22Z | Python CLI tool for exploitation | https://github.com/synfosec/eviltux | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20230801T23:50:12Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 58 | 8| 
 | 20230801T23:13:09Z | This repository hosts a comprehensive report on a Capture The Flag (CTF) project conducted on a hypothetical company, Rekall. It details the discovery and exploitation of various vulnerabilities, providing valuable insights into cybersecurity practices and mitigation strategies. | https://github.com/Lodoelama/Offensive-Security-CTF-Project | 1 | 0| 
 | 20230801T22:00:03Z | Crack this exe  | https://github.com/girlhefunnyaf44/Binary-Exploitation-Practice | 1 | 0| 
-| 20230801T21:43:56Z | Converti un extract des présences de l%intranet SGDF de manière à ce qu%il soit exploitable pour les contrôles CAF | https://github.com/bertrandgorge/extractIntranetSGDF | 0 | 0| 
 
 
 # backdoor on Github 推荐
