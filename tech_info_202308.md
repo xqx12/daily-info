@@ -74,13 +74,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230801T11:55:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3506 | 487| 
+| 20230801T17:37:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3509 | 488| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230801T07:17:41Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 724 | 118| 
+| 20230801T18:33:45Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 726 | 119| 
 
 
 # fuzz on Github 推荐
