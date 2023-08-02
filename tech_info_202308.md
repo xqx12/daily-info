@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230802T00:38:42Z | CVE-2023-2333 | CVE-2023-2333-EXP | https://github.com/codeb0ss/CVE-2023-2333-EXP | | 
 | 20230801T23:31:44Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230801T21:57:46Z | cve-2023-34035 | Null | https://github.com/jzheaux/cve-2023-34035-mitigations | | 
 | 20230801T19:58:03Z | CVE-2023-23333 | Nmap NSE script to dump / test Solarwinds CVE-2023-23333 vulnerability | https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit | | 
@@ -28,7 +29,6 @@
 | 20230801T12:56:55Z | CVE-2020-27815 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815 | | 
 | 20230801T12:09:24Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230801T11:42:58Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979- | | 
-| 20230801T11:40:36Z | CVE-2023-35828 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828 | | 
 
 
 # klee on Github 推荐
