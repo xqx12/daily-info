@@ -71,6 +71,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T05:40:14Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 727 | 121| 
+| 20230802T04:19:51Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 3 | 1| 
 
 
 # fuzz on Github 推荐
