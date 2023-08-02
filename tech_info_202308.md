@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T01:28:47Z | Ensemble Fuzzing Tool Legion | https://github.com/Legion-ensemble-fuzzing/Legion | 0 | 0| 
 | 20230801T23:52:36Z | A repo containing different toolset I frequently use in pentesting web applications. | https://github.com/ParsianNight/FuzzingArsenal | 0 | 0| 
 | 20230801T22:14:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2757 | 190| 
 | 20230801T22:02:18Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 122 | 11| 
@@ -95,7 +96,6 @@
 | 20230801T15:08:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3762 | 445| 
 | 20230801T14:29:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 | 20230801T12:54:50Z | Null | https://github.com/winklerin/fuzzy-parakeet | 0 | 0| 
-| 20230801T11:12:07Z | Null | https://github.com/hnlcf/fuzzer_compare | 0 | 0| 
 
 
 
