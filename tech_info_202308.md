@@ -98,9 +98,9 @@
 | 20230802T11:04:14Z | Null | https://github.com/itamarzafrani/FuzzyAppGui-master | 0 | 0| 
 | 20230802T10:43:52Z | Null | https://github.com/TariBillionz/fuzzy-waffle | 0 | 0| 
 | 20230802T10:36:32Z | visualization of AFL++ fuzz stat  | https://github.com/chennbnbnb/afl-stat-visual | 1 | 0| 
+| 20230802T09:11:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4779 | 1152| 
 | 20230802T08:25:39Z | Fuzzy subcommand matching for click | https://github.com/amyreese/click-fuzzy | 0 | 0| 
 | 20230802T07:25:04Z | Code | https://github.com/JemmyKibandi/fuzzy-giggle | 1 | 0| 
-| 20230802T01:58:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3763 | 446| 
 
 
 
