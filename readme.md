@@ -47,7 +47,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230801T23:50:12Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 58 | 8| 
-| 20230801T22:46:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5813 | 774| 
 | 20230801T22:00:03Z | Crack this exe  | https://github.com/girlhefunnyaf44/Binary-Exploitation-Practice | 1 | 0| 
 | 20230801T21:43:56Z | Converti un extract des présences de l%intranet SGDF de manière à ce qu%il soit exploitable pour les contrôles CAF | https://github.com/bertrandgorge/extractIntranetSGDF | 0 | 0| 
 | 20230801T21:23:09Z | The Open-source PS exploitation compilation | https://github.com/talal12bfk/topec.github.io | 1 | 0| 
@@ -56,6 +55,7 @@
 | 20230801T18:35:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5204 | 657| 
 | 20230801T14:23:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5232 | 1023| 
 | 20230801T12:56:25Z | Null | https://github.com/dr4v/exploits | 0 | 0| 
+| 20230801T12:06:35Z | Exploits, Executor гэж юу вэ? энэ зүйл нь олон тохиргоотой та энэ бичлэгнээс үзэж болно.  | https://github.com/SpecialErtonts/Exploits-Executor | 0 | 0| 
 
 
 # backdoor on Github 推荐
