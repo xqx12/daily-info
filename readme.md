@@ -92,10 +92,10 @@
 | 20230801T21:01:20Z | Null | https://github.com/dave-seaman/fuzzy-potato | 0 | 0| 
 | 20230801T20:15:35Z | Null | https://github.com/google/fuzztest | 355 | 27| 
 | 20230801T20:07:10Z | Multi-purpose fuzzer | https://github.com/pld-linux/zzuf | 0 | 0| 
-| 20230801T15:08:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3762 | 445| 
 | 20230801T14:29:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 | 20230801T12:54:50Z | Null | https://github.com/winklerin/fuzzy-parakeet | 0 | 0| 
 | 20230801T11:12:07Z | Null | https://github.com/hnlcf/fuzzer_compare | 0 | 0| 
+| 20230801T10:55:13Z | Null | https://github.com/GregBil16/FuzzyLogic-app | 0 | 0| 
 
 
 

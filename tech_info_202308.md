@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230802T01:57:28Z | GitOps Repository | https://github.com/pmacik-testing/ci-max-adv-0022-0015-app-ym3tw-exploit-land | 0 | 0| 
 | 20230802T01:33:03Z | GitOps Repository | https://github.com/pmacik-testing/ci-infra-dep-0099-app-AgTx_-benefit-exploit | 0 | 0| 
 | 20230802T01:27:06Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5815 | 774| 
 | 20230802T01:11:41Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-n | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20230802T00:59:22Z | Python CLI tool for exploitation | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230802T00:28:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-WPVKt-exploit-remain | 0 | 0| 
 | 20230802T00:13:36Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10449 | 1624| 
-| 20230801T23:50:12Z | RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption. | https://github.com/malvuln/RansomLord | 58 | 8| 
 
 
 # backdoor on Github 推荐
@@ -86,7 +86,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230802T01:45:09Z | Null | https://github.com/V0BAH/fuzzy-octo-doodle | 0 | 0| 
+| 20230802T01:58:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3763 | 446| 
+| 20230802T01:56:00Z | Null | https://github.com/V0BAH/fuzzy-octo-doodle | 0 | 0| 
 | 20230802T01:28:47Z | Ensemble Fuzzing Tool Legion | https://github.com/Legion-ensemble-fuzzing/Legion | 0 | 0| 
 | 20230801T23:52:36Z | A repo containing different toolset I frequently use in pentesting web applications. | https://github.com/ParsianNight/FuzzingArsenal | 0 | 0| 
 | 20230801T22:14:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2757 | 190| 
@@ -94,7 +95,6 @@
 | 20230801T21:01:20Z | Null | https://github.com/dave-seaman/fuzzy-potato | 0 | 0| 
 | 20230801T20:15:35Z | Null | https://github.com/google/fuzztest | 355 | 27| 
 | 20230801T20:07:10Z | Multi-purpose fuzzer | https://github.com/pld-linux/zzuf | 0 | 0| 
-| 20230801T15:08:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3762 | 445| 
 | 20230801T14:29:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 
 
