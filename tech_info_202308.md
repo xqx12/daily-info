@@ -12,6 +12,9 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20230803 | Filter内存马及工具检测 | https://www.sec-in.com/article/2021| 
+| 20230803 | 研发安全探索和落地实践 | https://mp.weixin.qq.com/s/m_EeuLhmFO6kk_0qwZ_nrQ| 
+| 20230803 | 使用Transformer-Based模型生成虚假的网络威胁情报 | https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg| 
+| 20230803 | ChargePrint：一个互联网规模的电动汽车充电管理系统发现和安... | https://paper.seebug.org/2096/| 
 | 20230802 | VirusTotal 新兴格式与投递技术报告 | https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ| 
 | 20230801 | Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg| 
 | 20230801 | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg| 
