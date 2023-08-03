@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:42:20Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230802T21:35:18Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230802T21:05:40Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230802T20:54:54Z | CVE-2023-37800 | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | https://github.com/TraiLeR2/CVE-2023-37800 | | 
 | 20230802T20:52:06Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230802T13:35:14Z | CVE-2023-38646 | Metabase Pre-auth RCE | https://github.com/shamo0/CVE-2023-38646-PoC | | 
@@ -64,6 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:42:05Z | A Windows service that uses the WinDivert driver to receive and parse commands from a client script | https://github.com/Msfv3n0m/WinDivert-Backdoor | 0 | 0| 
 | 20230802T23:41:07Z | Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/TracksJosh/ktaneMultiRuleseededModules-master | 0 | 0| 
 | 20230802T23:38:26Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
 | 20230802T22:58:26Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 97 | 64| 
@@ -73,7 +74,6 @@
 | 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
 | 20230802T08:51:51Z | Null | https://github.com/andalusia1337/backdoor | 0 | 0| 
 | 20230802T06:59:41Z | A Termux Backdoor  | https://github.com/samyelnakady/TermFun | 5 | 0| 
-| 20230801T16:05:42Z | Simple backdoor built with Python. | https://github.com/mericck/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

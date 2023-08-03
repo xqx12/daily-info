@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230802T21:35:18Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230802T21:05:40Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230802T20:54:54Z | CVE-2023-37800 | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | https://github.com/TraiLeR2/CVE-2023-37800 | | 
 | 20230802T20:52:06Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230802T13:35:14Z | CVE-2023-38646 | Metabase Pre-auth RCE | https://github.com/shamo0/CVE-2023-38646-PoC | | 
@@ -27,6 +26,7 @@
 | 20230802T10:15:55Z | CVE-2023-28252 | Null | https://github.com/726232111/CVE-2023-28252 | | 
 | 20230802T09:16:03Z | CVE-2020-25213 | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | | 
 | 20230802T07:44:37Z | CVE-2023-36159 | Null | https://github.com/unknown00759/CVE-2023-36159 | | 
+| 20230802T07:31:49Z | CVE-2023-36158 | Cross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page | https://github.com/unknown00759/CVE-2023-36158 | | 
 
 
 # klee on Github 推荐
