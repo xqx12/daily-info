@@ -20,12 +20,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230803T01:13:15Z | CVE-2021-41773 | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | | 
 | 20230803T01:02:25Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T00:42:20Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230802T20:54:54Z | CVE-2023-37800 | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | https://github.com/TraiLeR2/CVE-2023-37800 | | 
 | 20230802T20:52:06Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230802T13:35:14Z | CVE-2023-38646 | Metabase Pre-auth RCE | https://github.com/shamo0/CVE-2023-38646-PoC | | 
-| 20230802T11:49:49Z | CVE-2021-41773 | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | | 
 | 20230802T11:01:33Z | CVE-2023-28252 | Null | https://github.com/hheeyywweellccoommee/CVE-2023-28252-djtiu | | 
 | 20230802T10:15:55Z | CVE-2023-28252 | Null | https://github.com/726232111/CVE-2023-28252 | | 
 | 20230802T09:16:03Z | CVE-2020-25213 | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | | 
