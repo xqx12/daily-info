@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T01:06:01Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 812 | 113| 
 | 20230803T01:01:47Z | 不知道 | https://github.com/wxl0430/fuzzy-robot | 0 | 0| 
 | 20230802T23:03:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8847 | 1950| 
 | 20230802T22:58:49Z | uitgfgvc bcb dtg dgbd e | https://github.com/Bondexorigin/fuzzy-eureka | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20230802T21:20:54Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 212 | 32| 
 | 20230802T20:52:09Z | Encode and Fuzz Custom Protobuf Messages in Burp Suite | https://github.com/dillonfranke/protoburp | 0 | 0| 
 | 20230802T20:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2759 | 190| 
-| 20230802T16:25:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3763 | 447| 
 
 
 
