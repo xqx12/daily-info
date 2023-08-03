@@ -20,6 +20,7 @@
 | 20230803 | 软件供应链检测工具现状分析 | https://mp.weixin.qq.com/s/FCPBzsRg9XGnjlWbV64KmA| 
 | 20230803 | 盗号攻击的横纵切分与攻防策略 | https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q| 
 | 20230803 | 黑帽SEO技术剖析 | https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA| 
+| 20230803 | 个人信息保护合规审计管理办法（征求意见稿） | http://www.cac.gov.cn/2023-08/03/c_1692628348448092.htm| 
 
 
 # CVE Github 推荐
