@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:58:14Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-0 | 1 | 0| 
 | 20230803T00:55:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-in | 0 | 0| 
 | 20230803T00:54:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-in | 1 | 0| 
 | 20230803T00:53:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-in | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20230802T22:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5207 | 659| 
 | 20230802T19:47:50Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 564 | 47| 
 | 20230802T14:45:24Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 558 | 106| 
-| 20230802T12:25:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 686 | 176| 
 
 
 # backdoor on Github 推荐
