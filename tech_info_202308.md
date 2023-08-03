@@ -80,14 +80,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T04:27:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3508 | 488| 
 | 20230803T00:50:39Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1127 | 130| 
-| 20230802T14:55:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3509 | 488| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230802T18:53:11Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 728 | 121| 
+| 20230803T04:09:31Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
+| 20230802T18:53:11Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 728 | 122| 
 | 20230802T04:19:51Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 3 | 1| 
 
 

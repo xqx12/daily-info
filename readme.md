@@ -68,12 +68,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T04:27:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3508 | 488| 
 | 20230803T00:50:39Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1127 | 130| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T04:09:31Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 
 
 # fuzz on Github 推荐
