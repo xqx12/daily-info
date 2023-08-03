@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:53:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-in | 0 | 0| 
 | 20230803T00:18:03Z | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | 0 | 0| 
 | 20230802T22:50:25Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 212 | 62| 
 | 20230802T22:42:26Z | Null | https://github.com/Mxyiwa/Exploiting-AWS-1-Flaws.cloud | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20230802T12:25:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 686 | 176| 
 | 20230802T11:49:49Z | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | 1 | 1| 
 | 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
-| 20230802T10:56:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5385 | 752| 
 
 
 # backdoor on Github 推荐
@@ -79,8 +79,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:50:39Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1127 | 130| 
 | 20230802T14:55:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3509 | 488| 
-| 20230802T08:09:26Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1126 | 130| 
 
 
 # big4 on Github 推荐
