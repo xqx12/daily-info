@@ -15,6 +15,7 @@
 | 20230803 | 研发安全探索和落地实践 | https://mp.weixin.qq.com/s/m_EeuLhmFO6kk_0qwZ_nrQ| 
 | 20230803 | 使用Transformer-Based模型生成虚假的网络威胁情报 | https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg| 
 | 20230803 | ChargePrint：一个互联网规模的电动汽车充电管理系统发现和安... | https://paper.seebug.org/2096/| 
+| 20230803 | 第三方远控软件在渗透中的利用 | https://mp.weixin.qq.com/s/JM_Gt3U3eLzEmI9qCV8kZA| 
 | 20230802 | VirusTotal 新兴格式与投递技术报告 | https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ| 
 | 20230801 | Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg| 
 | 20230801 | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg| 
@@ -53,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230803T12:04:17Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 8 | 0| 
+| 20230803T12:07:02Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 9 | 0| 
 | 20230803T12:03:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14177 | 2409| 
 | 20230803T11:49:39Z | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | 0 | 0| 
 | 20230803T11:46:12Z | Null | https://github.com/kotik98/crv-eth_exploit | 0 | 0| 
