@@ -16,10 +16,11 @@
 | 20230803 | 使用Transformer-Based模型生成虚假的网络威胁情报 | https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg| 
 | 20230803 | ChargePrint：一个互联网规模的电动汽车充电管理系统发现和安... | https://paper.seebug.org/2096/| 
 | 20230803 | 第三方远控软件在渗透中的利用 | https://mp.weixin.qq.com/s/JM_Gt3U3eLzEmI9qCV8kZA| 
+| 20230803 | 卡巴斯基：2023年第二季度APT趋势报告 | https://mp.weixin.qq.com/s/o2LEBfhDeGiQ9w2-gRP9dQ| 
+| 20230803 | 软件供应链检测工具现状分析 | https://mp.weixin.qq.com/s/FCPBzsRg9XGnjlWbV64KmA| 
+| 20230803 | 盗号攻击的横纵切分与攻防策略 | https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q| 
+| 20230803 | 黑帽SEO技术剖析 | https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA| 
 | 20230802 | VirusTotal 新兴格式与投递技术报告 | https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ| 
-| 20230801 | Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg| 
-| 20230801 | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg| 
-| 20230801 | SecWiki周刊（第491期) | https://www.sec-wiki.com/weekly/491| 
 
 
 # CVE Github 推荐
