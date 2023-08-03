@@ -101,6 +101,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230803T09:57:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 813 | 113| 
+| 20230803T09:13:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5047 | 530| 
 | 20230803T08:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8847 | 1950| 
 | 20230803T08:08:23Z | Null | https://github.com/Fuzzykl/Fuzzykl.github.io | 0 | 0| 
 | 20230803T07:51:50Z | Null | https://github.com/atakoklu/Fuzzy-Code-Base | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20230803T01:26:12Z | a fuzzer written in C | https://github.com/vlabsc/cfuzz | 0 | 0| 
 | 20230803T01:01:47Z | 不知道 | https://github.com/wxl0430/fuzzy-robot | 0 | 0| 
 | 20230802T22:58:49Z | uitgfgvc bcb dtg dgbd e | https://github.com/Bondexorigin/fuzzy-eureka | 0 | 0| 
-| 20230802T22:22:14Z | oiyutrrr | https://github.com/Bondexorigin/fuzzy-fortnight | 0 | 0| 
 
 
 
