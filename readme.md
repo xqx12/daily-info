@@ -96,8 +96,8 @@
 | 20230802T21:20:54Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 212 | 32| 
 | 20230802T20:52:09Z | Encode and Fuzz Custom Protobuf Messages in Burp Suite | https://github.com/dillonfranke/protoburp | 0 | 0| 
 | 20230802T20:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2759 | 190| 
+| 20230802T16:25:01Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3763 | 447| 
 | 20230802T13:49:41Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1911 | 373| 
-| 20230802T12:00:39Z | Null | https://github.com/risetibeckle/fuzzy-octo-winner | 0 | 0| 
 
 
 
