@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T00:18:03Z | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | 0 | 0| 
 | 20230802T22:50:25Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 212 | 62| 
 | 20230802T22:42:26Z | Null | https://github.com/Mxyiwa/Exploiting-AWS-1-Flaws.cloud | 0 | 0| 
 | 20230802T19:47:50Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 564 | 47| 
@@ -58,7 +59,6 @@
 | 20230802T11:00:11Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 1 | 1| 
 | 20230802T10:56:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5385 | 752| 
 | 20230802T10:54:05Z | Fluxus-roblox exploit to it work you need ms version of roblox | https://github.com/gdfhftu/fluxus_exploit | 0 | 0| 
-| 20230802T10:46:12Z | Kernel exploit assistance library | https://github.com/Cheshire1225/Fitz | 0 | 0| 
 
 
 # backdoor on Github 推荐
