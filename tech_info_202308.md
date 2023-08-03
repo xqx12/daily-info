@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230803T01:55:15Z | CVE-2022-24500 | Null | https://github.com/yusufazizmustofa/CVE-2022-24500 | | 
 | 20230803T01:17:02Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230803T01:13:15Z | CVE-2021-41773 | Exploit CVE-2021-41773 and CVE-2021-42013 | https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits | | 
 | 20230803T01:02:25Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
@@ -29,7 +30,6 @@
 | 20230802T11:01:33Z | CVE-2023-28252 | Null | https://github.com/hheeyywweellccoommee/CVE-2023-28252-djtiu | | 
 | 20230802T10:15:55Z | CVE-2023-28252 | Null | https://github.com/726232111/CVE-2023-28252 | | 
 | 20230802T09:16:03Z | CVE-2020-25213 | Python Interactive Exploit for WP File Manager Vulnerability. The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. | https://github.com/E1tex/Python-CVE-2020-25213 | | 
-| 20230802T07:44:37Z | CVE-2023-36159 | Null | https://github.com/unknown00759/CVE-2023-36159 | | 
 
 
 # klee on Github 推荐
