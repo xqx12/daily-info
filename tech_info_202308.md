@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T12:59:04Z | Null | https://github.com/TRANQUILLITY14/fuzzy-enigma | 0 | 0| 
 | 20230804T12:04:42Z | Null | https://github.com/fuzz-evaluator/EcoFuzz-eval | 0 | 0| 
 | 20230804T12:04:29Z | Null | https://github.com/fuzz-evaluator/fuzzjit-eval | 0 | 0| 
 | 20230804T12:04:18Z | Null | https://github.com/fuzz-evaluator/PolyFuzz-eval | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20230804T10:09:09Z | Fermatean fuzzy Weighted Aggregated Sum Product Assessment (WASPAS) | https://github.com/mohjafari23/Fermatean_Fuzzy_WASPAS | 0 | 0| 
 | 20230804T10:04:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 103 | 8| 
 | 20230804T07:54:11Z | fuzzers for Freefloat FTP server | https://github.com/maccept/ViciousFuzzer | 0 | 0| 
-| 20230804T05:19:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4784 | 1153| 
 
 
 
