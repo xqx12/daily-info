@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T12:27:21Z | Null | https://github.com/nullabl3ptr/Exploiting_DLLs | 0 | 0| 
 | 20230804T12:24:10Z | Arris VAP2500 PreAuth RCE exploit | https://github.com/Nassim-Asrir/ArrisVAP2500-Exploit | 0 | 0| 
 | 20230804T12:13:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-473h5-guess-exploit | 0 | 0| 
 | 20230804T11:49:26Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 143 | 17| 
@@ -49,7 +50,6 @@
 | 20230804T09:30:02Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 5 | 0| 
 | 20230804T07:39:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 145 | 13| 
 | 20230804T07:30:52Z | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | 0 | 1| 
-| 20230804T07:10:44Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
 
 
 # backdoor on Github 推荐
