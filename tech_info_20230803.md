@@ -57,12 +57,12 @@
 | 20230803T21:55:46Z | Amazon Reviews Classifier is a python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
 | 20230803T21:32:47Z | A file upload vulnerability allows attackers to inject malicious content into the application server. Also known as an unrestricted file upload | https://github.com/0xAbbarhSF/File-Upload-Exploit | 0 | 0| 
 | 20230803T20:08:25Z | Exploited using raw.githack.com to allow me to update the apps list in WebDesk faster | https://github.com/illchangethislaterNOT/altspace | 0 | 0| 
-| 20230803T19:55:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5820 | 776| 
 | 20230803T15:21:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
 | 20230803T12:54:35Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 13 | 0| 
 | 20230803T12:03:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14177 | 2409| 
 | 20230803T11:56:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5210 | 659| 
 | 20230803T11:49:39Z | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | 0 | 0| 
+| 20230803T11:46:12Z | Null | https://github.com/kotik98/crv-eth_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
