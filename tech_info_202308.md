@@ -108,10 +108,10 @@
 | 20230803T21:40:56Z | Null | https://github.com/UtkuDundar/fuzzy-memory | 0 | 0| 
 | 20230803T21:23:45Z | Null | https://github.com/Netflix-cc/fuzzy-guide | 0 | 0| 
 | 20230803T21:02:59Z | Controlador Mamdani fuzzy para incubadora microbiológica - Python | https://github.com/SebasAlzateS/Mamdani_Fuzzy_Controller.Py | 0 | 0| 
+| 20230803T15:09:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3764 | 447| 
 | 20230803T14:26:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 | 20230803T13:44:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1476 | 204| 
 | 20230803T12:52:05Z | Fermatean fuzzy step-wise Weight Assessment Ratio Analysis | https://github.com/mohjafari23/Fermatean_Fuzzy_SWARA- | 0 | 0| 
-| 20230803T09:57:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 813 | 113| 
 
 
 
