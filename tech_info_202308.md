@@ -56,7 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230804T01:54:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ig | 0 | 0| 
+| 20230804T01:55:41Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-ig | 0 | 0| 
+| 20230804T01:54:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ig | 1 | 0| 
 | 20230804T01:53:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ig | 1 | 0| 
 | 20230804T01:52:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ig | 0 | 0| 
 | 20230804T01:50:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5212 | 659| 
@@ -65,7 +66,6 @@
 | 20230804T00:07:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5237 | 1025| 
 | 20230803T22:27:54Z | CROSS PLATFORM REMOTE ACCESS TROJAN (RAT) | https://github.com/machine1337/pyFUD | 34 | 7| 
 | 20230803T21:55:46Z | Amazon Reviews Classifier is a python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
-| 20230803T21:32:47Z | A file upload vulnerability allows attackers to inject malicious content into the application server. Also known as an unrestricted file upload | https://github.com/0xAbbarhSF/File-Upload-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
