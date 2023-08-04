@@ -78,14 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T12:04:42Z | Null | https://github.com/fuzz-evaluator/EcoFuzz-eval | 0 | 0| 
+| 20230804T12:04:29Z | Null | https://github.com/fuzz-evaluator/fuzzjit-eval | 0 | 0| 
+| 20230804T12:04:18Z | Null | https://github.com/fuzz-evaluator/PolyFuzz-eval | 0 | 0| 
+| 20230804T12:03:51Z | Null | https://github.com/fuzz-evaluator/MemLock-Fuzz-eval | 0 | 0| 
 | 20230804T10:10:29Z | Fuzz drivers are essential for fuzzing library APIs. However, manually composing fuzz drivers is difficult and time consuming. That%s why we propose Rubick, which is an automata-based fuzz driver gen for library APIs. | https://github.com/continental/Rubick | 0 | 0| 
 | 20230804T10:09:20Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 23 | 3| 
 | 20230804T10:09:09Z | Fermatean fuzzy Weighted Aggregated Sum Product Assessment (WASPAS) | https://github.com/mohjafari23/Fermatean_Fuzzy_WASPAS | 0 | 0| 
 | 20230804T10:04:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 103 | 8| 
 | 20230804T07:54:11Z | fuzzers for Freefloat FTP server | https://github.com/maccept/ViciousFuzzer | 0 | 0| 
 | 20230804T05:19:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4784 | 1153| 
-| 20230804T00:56:53Z | Null | https://github.com/MikeLydeamore/joss-review-FuzzyClass | 0 | 0| 
-| 20230804T00:03:32Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
 
 
 
