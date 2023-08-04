@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T01:52:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ig | 0 | 0| 
 | 20230804T01:50:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5212 | 659| 
 | 20230804T01:39:32Z | linux驱动编写及其uboot | https://github.com/liu-taotao/driver_exploitation | 0 | 0| 
 | 20230804T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5821 | 776| 
@@ -65,7 +66,6 @@
 | 20230803T21:32:47Z | A file upload vulnerability allows attackers to inject malicious content into the application server. Also known as an unrestricted file upload | https://github.com/0xAbbarhSF/File-Upload-Exploit | 0 | 0| 
 | 20230803T20:08:25Z | Exploited using raw.githack.com to allow me to update the apps list in WebDesk faster | https://github.com/illchangethislaterNOT/altspace | 0 | 0| 
 | 20230803T15:21:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
-| 20230803T12:54:35Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 13 | 0| 
 
 
 # backdoor on Github 推荐
