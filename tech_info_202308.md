@@ -86,6 +86,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T09:55:19Z | PLI is an efficient symbolic execution approach for programs that manipulate complex heap-allocated data structures with rich structural constraints | https://github.com/JuanmaCopia/spf-pli | 0 | 0| 
+| 20230804T09:08:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2292 | 634| 
 | 20230804T00:44:42Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1128 | 130| 
 | 20230803T04:27:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3508 | 488| 
 
