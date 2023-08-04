@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
+| 20230803T13:39:17Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
+| 20230803T13:34:50Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230803T11:49:39Z | CVE-2023-30146 | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | | 
 | 20230803T10:47:57Z | CVE-2022-1442 | WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | https://github.com/RandomRobbieBF/CVE-2022-1442 | | 
 | 20230803T10:17:43Z | CVE-2023-1177 | CVE for 2023 | https://github.com/iumiro/CVE-2023-1177-MLFlow | | 
 | 20230803T09:43:32Z | CVE-2022-1203 | Content Mask < 1.8.4 - Subscriber+ Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-1203 | | 
 | 20230803T08:41:43Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi | | 
 | 20230803T08:24:29Z | CVE-2020-16125 | Null | https://github.com/za970120604/CVE-2020-16125-Reproduction | | 
-| 20230803T08:16:52Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230803T08:14:22Z | CVE-2023-38646 | CVE-2023-38646-POC | https://github.com/fidjiw/CVE-2023-38646-POC | | 
-| 20230803T06:23:30Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230803T05:22:53Z | CVE-2023-3106 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230803T09:39:19Z | UI Library | https://github.com/ggenzone/kleene-ui | 0 | 0| 
+| 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20230803T13:26:45Z | UI Library | https://github.com/ggenzone/kleene-ui | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -52,21 +53,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T22:27:54Z | CROSS PLATFORM REMOTE ACCESS TROJAN (RAT) | https://github.com/machine1337/pyFUD | 34 | 7| 
+| 20230803T21:55:46Z | Amazon Reviews Classifier is a python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
+| 20230803T21:32:47Z | A file upload vulnerability allows attackers to inject malicious content into the application server. Also known as an unrestricted file upload | https://github.com/0xAbbarhSF/File-Upload-Exploit | 0 | 0| 
+| 20230803T20:08:25Z | Exploited using raw.githack.com to allow me to update the apps list in WebDesk faster | https://github.com/illchangethislaterNOT/altspace | 0 | 0| 
+| 20230803T19:55:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5820 | 776| 
+| 20230803T15:21:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
 | 20230803T12:54:35Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 13 | 0| 
 | 20230803T12:03:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14177 | 2409| 
 | 20230803T11:49:39Z | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | 0 | 0| 
 | 20230803T11:46:12Z | Null | https://github.com/kotik98/crv-eth_exploit | 0 | 0| 
-| 20230803T11:23:00Z | GitOps Repository | https://github.com/pmacik-testing/ci-nodejs-0097-app-p-HP2-exploit-start | 0 | 0| 
-| 20230803T11:19:05Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
-| 20230803T10:53:46Z | In this repository I will be storing all the exploits developed to solve the different Binary Exploitation challenges. | https://github.com/SUPERPEKKA782/BinaryExploitation | 0 | 0| 
-| 20230803T08:41:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5388 | 752| 
-| 20230803T05:45:46Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 42 | 8| 
-| 20230803T00:58:14Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-0 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T22:39:55Z | A backdoor to the IISFairy. Simple PoC IIS Native module coded in c++, it%s able to capture post request to a specific url and exucte commands through url request. | https://github.com/explorer13371337/IISFairy | 0 | 0| 
+| 20230803T22:31:29Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
+| 20230803T20:37:35Z | Demonstrates a backdoor attack on a neural net and how it can be prevented. | https://github.com/kitzbergerg/BackdoorBouncer-MNIST | 0 | 0| 
+| 20230803T17:18:48Z | A Simple Reverse Shell TCP End-To-End Encrypted Made In C# | https://github.com/Olivier-true/revserse-shell | 1 | 0| 
+| 20230803T15:39:03Z | Null | https://github.com/WU-YU-TONG/backdoorTI | 0 | 0| 
 | 20230803T10:17:32Z | A Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 103 | 12| 
 | 20230803T09:16:37Z | winadmin.exe - Backdoor User Creation Tool | https://github.com/kryptohaker/winadmin | 0 | 0| 
 | 20230803T08:24:06Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 98 | 64| 
@@ -90,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230803T23:56:24Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
+| 20230803T22:45:12Z | This is a useful Python script for generating a target specific wordlist for fuzzing backup files. | https://github.com/St74nger/fback | 6 | 3| 
+| 20230803T21:53:40Z | Null | https://github.com/Mikidgo/fuzzy-fishstick | 0 | 0| 
+| 20230803T21:40:56Z | Null | https://github.com/UtkuDundar/fuzzy-memory | 0 | 0| 
+| 20230803T21:23:45Z | Null | https://github.com/Netflix-cc/fuzzy-guide | 0 | 0| 
+| 20230803T21:02:59Z | Controlador Mamdani fuzzy para incubadora microbiológica - Python | https://github.com/SebasAlzateS/Mamdani_Fuzzy_Controller.Py | 0 | 0| 
+| 20230803T14:26:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
+| 20230803T13:44:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1476 | 204| 
 | 20230803T12:52:05Z | Fermatean fuzzy step-wise Weight Assessment Ratio Analysis | https://github.com/mohjafari23/Fermatean_Fuzzy_SWARA- | 0 | 0| 
 | 20230803T09:57:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 813 | 113| 
-| 20230803T09:13:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5047 | 530| 
-| 20230803T08:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8847 | 1950| 
-| 20230803T08:08:23Z | Null | https://github.com/Fuzzykl/Fuzzykl.github.io | 0 | 0| 
-| 20230803T07:51:50Z | Null | https://github.com/atakoklu/Fuzzy-Code-Base | 0 | 0| 
-| 20230803T06:23:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4781 | 1152| 
-| 20230803T06:06:22Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 213 | 32| 
-| 20230803T01:26:12Z | a fuzzer written in C | https://github.com/vlabsc/cfuzz | 0 | 0| 
-| 20230803T01:01:47Z | 不知道 | https://github.com/wxl0430/fuzzy-robot | 0 | 0| 
 
 
 
