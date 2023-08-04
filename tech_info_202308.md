@@ -102,7 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230804T00:55:12Z | Null | https://github.com/MikeLydeamore/joss-review-FuzzyClass | 0 | 0| 
+| 20230804T00:56:53Z | Null | https://github.com/MikeLydeamore/joss-review-FuzzyClass | 0 | 0| 
 | 20230804T00:03:32Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
 | 20230803T22:45:12Z | This is a useful Python script for generating a target specific wordlist for fuzzing backup files. | https://github.com/St74nger/fback | 6 | 3| 
 | 20230803T21:53:40Z | Null | https://github.com/Mikidgo/fuzzy-fishstick | 0 | 0| 
