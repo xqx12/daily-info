@@ -60,9 +60,9 @@
 | 20230803T15:21:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
 | 20230803T12:54:35Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 13 | 0| 
 | 20230803T12:03:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14177 | 2409| 
-| 20230803T11:56:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5210 | 659| 
 | 20230803T11:49:39Z | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | 0 | 0| 
 | 20230803T11:46:12Z | Null | https://github.com/kotik98/crv-eth_exploit | 0 | 0| 
+| 20230803T11:23:00Z | GitOps Repository | https://github.com/pmacik-testing/ci-nodejs-0097-app-p-HP2-exploit-start | 0 | 0| 
 
 
 # backdoor on Github 推荐

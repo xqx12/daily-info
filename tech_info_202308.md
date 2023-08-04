@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T01:41:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5211 | 659| 
 | 20230804T01:39:32Z | linux驱动编写及其uboot | https://github.com/liu-taotao/driver_exploitation | 0 | 0| 
 | 20230804T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5821 | 776| 
 | 20230804T00:07:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5237 | 1025| 
@@ -65,7 +66,6 @@
 | 20230803T20:08:25Z | Exploited using raw.githack.com to allow me to update the apps list in WebDesk faster | https://github.com/illchangethislaterNOT/altspace | 0 | 0| 
 | 20230803T15:21:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 144 | 13| 
 | 20230803T12:54:35Z | Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023) | https://github.com/PRBonn/MapMOS | 13 | 0| 
-| 20230803T12:03:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14177 | 2409| 
 
 
 # backdoor on Github 推荐
