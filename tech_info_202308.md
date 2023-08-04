@@ -26,25 +26,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230804T10:34:00Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
+| 20230804T07:30:52Z | CVE-2023-35078 | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | | 
+| 20230804T06:19:07Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
+| 20230804T05:24:21Z | CVE-2023-35828 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828 | | 
+| 20230804T03:46:31Z | CVE-2021-31805 | Vulnerable environment of CVE-2021-31805 (S2-062) for testing | https://github.com/nth347/CVE-2021-31805 | | 
+| 20230804T03:04:10Z | CVE-2020-17530 | Vulnerable environment of CVE-2020-17530 (S2-061) for testing | https://github.com/nth347/CVE-2020-17530 | | 
 | 20230804T01:41:09Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230803T13:34:50Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230803T11:49:39Z | CVE-2023-30146 | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | | 
 | 20230803T10:47:57Z | CVE-2022-1442 | WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | https://github.com/RandomRobbieBF/CVE-2022-1442 | | 
-| 20230803T10:17:43Z | CVE-2023-1177 | CVE for 2023 | https://github.com/iumiro/CVE-2023-1177-MLFlow | | 
-| 20230803T09:43:32Z | CVE-2022-1203 | Content Mask < 1.8.4 - Subscriber+ Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-1203 | | 
-| 20230803T08:41:43Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi | | 
-| 20230803T08:24:29Z | CVE-2020-16125 | Null | https://github.com/za970120604/CVE-2020-16125-Reproduction | | 
-| 20230803T08:14:22Z | CVE-2023-38646 | CVE-2023-38646-POC | https://github.com/fidjiw/CVE-2023-38646-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T07:13:48Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 336 | 6| 
+| 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
 | 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20230803T13:26:45Z | UI Library | https://github.com/ggenzone/kleene-ui | 1 | 0| 
-| 20230802T13:49:20Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 27 | 1| 
-| 20230802T12:50:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 335 | 6| 
 
 
 # s2e on Github 推荐
@@ -56,31 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230804T01:55:41Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-ig | 0 | 0| 
-| 20230804T01:54:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ig | 1 | 0| 
-| 20230804T01:53:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ig | 1 | 0| 
-| 20230804T01:52:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ig | 0 | 0| 
-| 20230804T01:50:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5212 | 659| 
-| 20230804T01:39:32Z | linux驱动编写及其uboot | https://github.com/liu-taotao/driver_exploitation | 0 | 0| 
-| 20230804T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5821 | 776| 
-| 20230804T00:07:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5237 | 1025| 
-| 20230803T22:27:54Z | CROSS PLATFORM REMOTE ACCESS TROJAN (RAT) | https://github.com/machine1337/pyFUD | 34 | 7| 
-| 20230803T21:55:46Z | Amazon Reviews Classifier is a python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
+| 20230804T11:49:26Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 143 | 17| 
+| 20230804T10:59:43Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
+| 20230804T09:57:35Z | The topic of the project is the exploitation of network programmability to mitigate known attacks. | https://github.com/aur-ora/Exploiting-network-programmability-to-mitigate-DHCP-starvation-attacks | 0 | 0| 
+| 20230804T09:38:28Z | Learn kernel exploit from CVE. | https://github.com/Ha0-Y/kernel-exploit-cve | 0 | 0| 
+| 20230804T09:30:02Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 5 | 0| 
+| 20230804T07:39:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 145 | 13| 
+| 20230804T07:30:52Z | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | 0 | 1| 
+| 20230804T07:10:44Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
+| 20230804T05:23:50Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 43 | 8| 
+| 20230804T05:21:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 687 | 176| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T10:59:43Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
+| 20230804T05:36:51Z | Python backdoors for SANS courses, CTFs, and labs | https://github.com/LucasFaudman/python-backdoors | 0 | 0| 
+| 20230804T03:40:38Z | A backdoor infector that can infect any game | https://github.com/Flashguy19856/Badmins-Backdoor-Infector | 0 | 0| 
+| 20230804T02:49:54Z | Null | https://github.com/SCLBD/BackdoorBench | 189 | 27| 
+| 20230804T02:38:32Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 99 | 64| 
 | 20230803T22:39:55Z | A backdoor to the IISFairy. Simple PoC IIS Native module coded in c++, it%s able to capture post request to a specific url and exucte commands through url request. | https://github.com/explorer13371337/IISFairy | 0 | 0| 
 | 20230803T22:31:29Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
 | 20230803T20:37:35Z | Demonstrates a backdoor attack on a neural net and how it can be prevented. | https://github.com/kitzbergerg/BackdoorBouncer-MNIST | 0 | 0| 
 | 20230803T17:18:48Z | A Simple Reverse Shell TCP End-To-End Encrypted Made In C# | https://github.com/Olivier-true/revserse-shell | 1 | 0| 
 | 20230803T15:39:03Z | Null | https://github.com/WU-YU-TONG/backdoorTI | 0 | 0| 
-| 20230803T10:17:32Z | A Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 103 | 12| 
-| 20230803T09:16:37Z | winadmin.exe - Backdoor User Creation Tool | https://github.com/kryptohaker/winadmin | 0 | 0| 
-| 20230803T08:24:06Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 98 | 64| 
-| 20230803T07:36:53Z | Python backdoors written by me for SANS course labs and CTFs | https://github.com/LucasFaudman/python-backdoors | 0 | 0| 
-| 20230803T00:42:05Z | A Windows service that uses the WinDivert driver to receive and parse commands from a client script | https://github.com/Msfv3n0m/WinDivert-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -102,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T10:10:29Z | Fuzz drivers are essential for fuzzing library APIs. However, manually composing fuzz drivers is difficult and time consuming. That%s why we propose Rubick, which is an automata-based fuzz driver gen for library APIs. | https://github.com/continental/Rubick | 0 | 0| 
+| 20230804T10:09:20Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 23 | 3| 
+| 20230804T10:09:09Z | Fermatean fuzzy Weighted Aggregated Sum Product Assessment (WASPAS) | https://github.com/mohjafari23/Fermatean_Fuzzy_WASPAS | 0 | 0| 
+| 20230804T10:04:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 103 | 8| 
+| 20230804T07:54:11Z | fuzzers for Freefloat FTP server | https://github.com/maccept/ViciousFuzzer | 0 | 0| 
+| 20230804T05:19:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4784 | 1153| 
 | 20230804T00:56:53Z | Null | https://github.com/MikeLydeamore/joss-review-FuzzyClass | 0 | 0| 
 | 20230804T00:03:32Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
 | 20230803T22:45:12Z | This is a useful Python script for generating a target specific wordlist for fuzzing backup files. | https://github.com/St74nger/fback | 6 | 3| 
 | 20230803T21:53:40Z | Null | https://github.com/Mikidgo/fuzzy-fishstick | 0 | 0| 
-| 20230803T21:40:56Z | Null | https://github.com/UtkuDundar/fuzzy-memory | 0 | 0| 
-| 20230803T21:23:45Z | Null | https://github.com/Netflix-cc/fuzzy-guide | 0 | 0| 
-| 20230803T21:02:59Z | Controlador Mamdani fuzzy para incubadora microbiológica - Python | https://github.com/SebasAlzateS/Mamdani_Fuzzy_Controller.Py | 0 | 0| 
-| 20230803T15:09:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3764 | 447| 
-| 20230803T14:26:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
-| 20230803T13:44:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1476 | 204| 
 
 
 
