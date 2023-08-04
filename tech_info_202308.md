@@ -56,6 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T12:54:41Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1056 | 207| 
+| 20230804T12:53:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5393 | 752| 
 | 20230804T12:27:21Z | Null | https://github.com/nullabl3ptr/Exploiting_DLLs | 0 | 0| 
 | 20230804T12:24:10Z | Arris VAP2500 PreAuth RCE exploit | https://github.com/Nassim-Asrir/ArrisVAP2500-Exploit | 0 | 0| 
 | 20230804T12:13:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-473h5-guess-exploit | 0 | 0| 
@@ -64,8 +66,6 @@
 | 20230804T09:57:35Z | The topic of the project is the exploitation of network programmability to mitigate known attacks. | https://github.com/aur-ora/Exploiting-network-programmability-to-mitigate-DHCP-starvation-attacks | 0 | 0| 
 | 20230804T09:38:28Z | Learn kernel exploit from CVE. | https://github.com/Ha0-Y/kernel-exploit-cve | 0 | 0| 
 | 20230804T09:30:02Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 5 | 0| 
-| 20230804T07:39:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 145 | 13| 
-| 20230804T07:30:52Z | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | 0 | 1| 
 
 
 # backdoor on Github 推荐
