@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230804T01:41:09Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230803T13:39:17Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T13:34:50Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230803T11:49:39Z | CVE-2023-30146 | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | | 
 | 20230803T10:47:57Z | CVE-2022-1442 | WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | https://github.com/RandomRobbieBF/CVE-2022-1442 | | 
@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230804T01:41:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5211 | 659| 
+| 20230804T01:50:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5212 | 659| 
 | 20230804T01:39:32Z | linux驱动编写及其uboot | https://github.com/liu-taotao/driver_exploitation | 0 | 0| 
 | 20230804T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5821 | 776| 
 | 20230804T00:07:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5237 | 1025| 

@@ -27,7 +27,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230803T13:39:17Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T13:34:50Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230803T11:49:39Z | CVE-2023-30146 | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | | 
 | 20230803T10:47:57Z | CVE-2022-1442 | WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | https://github.com/RandomRobbieBF/CVE-2022-1442 | | 
@@ -36,6 +35,7 @@
 | 20230803T08:41:43Z | CVE-2023-22884 | CVE-2023-22884 PoC | https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi | | 
 | 20230803T08:24:29Z | CVE-2020-16125 | Null | https://github.com/za970120604/CVE-2020-16125-Reproduction | | 
 | 20230803T08:14:22Z | CVE-2023-38646 | CVE-2023-38646-POC | https://github.com/fidjiw/CVE-2023-38646-POC | | 
+| 20230803T05:22:53Z | CVE-2023-3106 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106 | | 
 
 
 # klee on Github 推荐
