@@ -102,6 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T00:55:12Z | Null | https://github.com/MikeLydeamore/joss-review-FuzzyClass | 0 | 0| 
 | 20230804T00:03:32Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
 | 20230803T22:45:12Z | This is a useful Python script for generating a target specific wordlist for fuzzing backup files. | https://github.com/St74nger/fback | 6 | 3| 
 | 20230803T21:53:40Z | Null | https://github.com/Mikidgo/fuzzy-fishstick | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230803T15:09:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3764 | 447| 
 | 20230803T14:26:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8848 | 1950| 
 | 20230803T13:44:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1476 | 204| 
-| 20230803T12:52:05Z | Fermatean fuzzy step-wise Weight Assessment Ratio Analysis | https://github.com/mohjafari23/Fermatean_Fuzzy_SWARA- | 0 | 0| 
 
 
 
