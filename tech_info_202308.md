@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T12:08:01Z | Arris VAP2500 PreAuth RCE exploit | https://github.com/Nassim-Asrir/ArrisVAP2500-Exploit | 0 | 0| 
 | 20230804T11:49:26Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 143 | 17| 
 | 20230804T10:59:43Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230804T09:57:35Z | The topic of the project is the exploitation of network programmability to mitigate known attacks. | https://github.com/aur-ora/Exploiting-network-programmability-to-mitigate-DHCP-starvation-attacks | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20230804T07:30:52Z | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | 0 | 1| 
 | 20230804T07:10:44Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
 | 20230804T05:23:50Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 43 | 8| 
-| 20230804T05:21:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 687 | 176| 
 
 
 # backdoor on Github 推荐
