@@ -97,7 +97,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230803T23:56:24Z | This is a Ruby script that utilizes the %Fuzzing% technique to test web application vulnerabilities. It sends HTTP requests to a specified URL using a variety of test data. The user can choose between two modes of operation: | https://github.com/Abo5/fuzzing-files-by-ruby | 0 | 0| 
 | 20230803T22:45:12Z | This is a useful Python script for generating a target specific wordlist for fuzzing backup files. | https://github.com/St74nger/fback | 6 | 3| 
 | 20230803T21:53:40Z | Null | https://github.com/Mikidgo/fuzzy-fishstick | 0 | 0| 
 | 20230803T21:40:56Z | Null | https://github.com/UtkuDundar/fuzzy-memory | 0 | 0| 
@@ -107,6 +106,7 @@
 | 20230803T13:44:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1476 | 204| 
 | 20230803T12:52:05Z | Fermatean fuzzy step-wise Weight Assessment Ratio Analysis | https://github.com/mohjafari23/Fermatean_Fuzzy_SWARA- | 0 | 0| 
 | 20230803T09:57:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 813 | 113| 
+| 20230803T09:13:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5047 | 530| 
 
 
 
