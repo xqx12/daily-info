@@ -71,6 +71,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T20:52:27Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 423 | 29| 
+| 20230804T14:56:30Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 670 | 119| 
 | 20230804T09:55:19Z | PLI is an efficient symbolic execution approach for programs that manipulate complex heap-allocated data structures with rich structural constraints | https://github.com/JuanmaCopia/spf-pli | 0 | 0| 
 | 20230804T09:08:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2292 | 634| 
 | 20230804T00:44:42Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1128 | 130| 
@@ -79,6 +81,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230804T20:04:43Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 729 | 122| 
 
 
 # fuzz on Github 推荐
