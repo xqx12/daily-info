@@ -42,7 +42,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230804T23:55:32Z | A 100% lua based minecraft exploiting and duping client. | https://github.com/sapur99/SapursEpikExploits | 0 | 0| 
 | 20230804T23:35:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a544f0b5-1d44-43f3-982c-2d4c116ee527--KwNe-arrive-exploit | 0 | 0| 
 | 20230804T23:30:38Z | Android kernel exploitation | https://github.com/Markakd/bad_io_uring | 3 | 0| 
 | 20230804T23:24:36Z | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | 2 | 0| 
@@ -52,6 +51,7 @@
 | 20230804T14:15:49Z | Python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
 | 20230804T12:56:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 146 | 13| 
 | 20230804T12:54:41Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1056 | 207| 
+| 20230804T12:53:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5393 | 752| 
 
 
 # backdoor on Github 推荐
