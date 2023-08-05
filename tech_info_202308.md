@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T01:44:38Z | Automation for creating deployment files. | https://github.com/Latrodect/Backdoor-VSCode-Extension-for-Code-Review | 0 | 0| 
 | 20230805T01:31:21Z | Null | https://github.com/shuban-789/backdoor | 4 | 0| 
 | 20230805T01:22:59Z | shellgen is a custom script that prints in prompt a lot of different reverse shells options with a given IP and PORT to copy and paste | https://github.com/nchgroup/shellgen | 0 | 0| 
 | 20230804T18:09:38Z | The best 2023 python backdoor ever made. 4/71 almost UD on virustotal | https://github.com/slavith/ghostware | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230804T10:59:43Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230804T05:36:51Z | Python backdoors for SANS courses, CTFs, and labs | https://github.com/LucasFaudman/python-backdoors | 0 | 0| 
 | 20230804T03:40:38Z | A backdoor infector that can infect any game | https://github.com/Flashguy19856/Badmins-Backdoor-Infector | 0 | 0| 
-| 20230804T02:49:54Z | Null | https://github.com/SCLBD/BackdoorBench | 189 | 27| 
 
 
 # symbolic execution on Github 推荐
