@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230805T01:57:58Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
+| 20230805T11:22:20Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
+| 20230805T09:37:36Z | CVE-2023-27163 | Requests Baskets (CVE-2023-27163) and Mailtrail v0.53 | https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53 | | 
+| 20230805T06:47:13Z | CVE-2023-2732 | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | https://github.com/Pari-Malam/CVE-2023-2732 | | 
+| 20230805T05:16:41Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230805T01:43:28Z | CVE-2023-3519 | Null | https://github.com/passwa11/CVE-2023-3519 | | 
-| 20230804T23:06:39Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
+| 20230804T23:06:45Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230804T10:34:00Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
 | 20230804T07:30:52Z | CVE-2023-35078 | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | | 
 | 20230804T05:24:21Z | CVE-2023-35828 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828 | | 
 | 20230804T03:46:31Z | CVE-2021-31805 | Vulnerable environment of CVE-2021-31805 (S2-062) for testing | https://github.com/nth347/CVE-2021-31805 | | 
-| 20230804T03:04:10Z | CVE-2020-17530 | Vulnerable environment of CVE-2020-17530 (S2-061) for testing | https://github.com/nth347/CVE-2020-17530 | | 
-| 20230804T01:41:09Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
@@ -56,21 +56,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T11:45:33Z | Null | https://github.com/jygttgyy/DeltaExploits | 0 | 0| 
+| 20230805T10:27:41Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT | 0 | 0| 
+| 20230805T10:17:03Z | Null | https://github.com/LXGaming/AntiExploit | 1 | 1| 
+| 20230805T09:12:54Z | POC- Not Public... Yet. | https://github.com/0vm/account-age-exploit | 1 | 0| 
+| 20230805T08:56:38Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 45 | 3| 
+| 20230805T08:56:28Z | Null | https://github.com/StarXowner/VODKA-EXPLOIT | 0 | 0| 
+| 20230805T08:54:00Z | Null | https://github.com/Zuazuaman/VodkaExploit.github.io | 1 | 0| 
+| 20230805T07:45:51Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230805T01:18:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0016-0011-app-p3oYy-mix-exploit | 0 | 0| 
 | 20230805T01:11:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-3b64b694-4ec7-4a17-9595-6255eea95188--hdOQ-reduce-exploit | 0 | 0| 
-| 20230805T01:03:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e30806b-7061-4210-b173-c940b62fbaf1-QHyQD-exploit-regard | 0 | 0| 
-| 20230805T00:49:18Z | https://user-images.githubusercontent.com/90981330/183076985-22893023-6ef9-4966-8e7e-419075850122.png | https://github.com/0xNever/Saturne-Exploit | 0 | 0| 
-| 20230805T00:27:50Z | Bot manager to exploit the Donkey Dupe in 6b6t | https://github.com/CarloxCoC/Donkey-Dupe-Bots | 0 | 0| 
-| 20230805T00:06:59Z | A 100% lua based minecraft exploiting and duping client. | https://github.com/sapur99/SapursEpikExploits | 0 | 0| 
-| 20230804T23:35:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a544f0b5-1d44-43f3-982c-2d4c116ee527--KwNe-arrive-exploit | 0 | 0| 
-| 20230804T23:30:38Z | Android kernel exploitation | https://github.com/Markakd/bad_io_uring | 3 | 0| 
-| 20230804T23:24:36Z | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | 2 | 1| 
-| 20230804T23:05:52Z | Mass Exploitation For (CVE-2023-29489) | https://github.com/ViperM4sk/cpanel-xss-177 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T04:53:14Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 179 | 19| 
 | 20230805T01:44:38Z | Automation for creating deployment files. | https://github.com/Latrodect/Backdoor-VSCode-Extension-for-Code-Review | 0 | 0| 
 | 20230805T01:31:21Z | Null | https://github.com/shuban-789/backdoor | 4 | 0| 
 | 20230805T01:22:59Z | shellgen is a custom script that prints in prompt a lot of different reverse shells options with a given IP and PORT to copy and paste | https://github.com/nchgroup/shellgen | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230804T13:20:42Z | Simple shell backdoor on Python. Works for every OS. | https://github.com/makhedonsky/PythonShellBackdoor | 0 | 0| 
 | 20230804T10:59:43Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230804T05:36:51Z | Python backdoors for SANS courses, CTFs, and labs | https://github.com/LucasFaudman/python-backdoors | 0 | 0| 
-| 20230804T03:40:38Z | A backdoor infector that can infect any game | https://github.com/Flashguy19856/Badmins-Backdoor-Infector | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,16 +107,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T11:49:06Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
+| 20230805T10:48:45Z | huge dupe | https://github.com/kuzoru/fuzzy-winner | 0 | 0| 
+| 20230805T10:27:21Z | Null | https://github.com/sagar-1204/FUZZY-LOGIC-BASED-CRICKET-PLAYER-BATSMAN-PERFORMANCE-EVALUATOR | 0 | 0| 
+| 20230805T10:24:25Z | The Fuzzy-Predictive-Control repository is a comprehensive collection of Python Jupyter Notebooks that demonstrate the implementation of fuzzy modeling and predictive functional control techniques. | https://github.com/CuAuPro/fuzzy-predictive-control | 0 | 0| 
+| 20230805T08:40:50Z | Null | https://github.com/43116210070/fuzzy-meme | 0 | 0| 
 | 20230805T00:44:14Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 | 20230804T23:55:32Z | Null | https://github.com/GarlicFuzzer/PeachFuzzer_Pits | 4 | 0| 
 | 20230804T23:31:14Z | Playground for fuzzyaim16 | https://github.com/ieti2022/fuzzyaim16 | 0 | 0| 
 | 20230804T21:42:39Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
 | 20230804T20:17:16Z | Random data generator creating files, streams, passwords, characters/fuzzing sequences. | https://github.com/Tinram/RND | 0 | 0| 
-| 20230804T20:10:25Z | Null | https://github.com/brson/fuzz-slides | 0 | 0| 
-| 20230804T19:35:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3769 | 447| 
-| 20230804T12:59:04Z | Null | https://github.com/TRANQUILLITY14/fuzzy-enigma | 0 | 0| 
-| 20230804T12:04:42Z | Null | https://github.com/fuzz-evaluator/EcoFuzz-eval | 0 | 0| 
-| 20230804T12:04:29Z | Null | https://github.com/fuzz-evaluator/fuzzjit-eval | 0 | 0| 
 
 
 
