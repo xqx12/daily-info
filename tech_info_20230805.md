@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230805T12:33:40Z | exploit for EBD 43777 (GitStack 2.3.10 RCE) | https://github.com/Lord-of-the-IoT/EBD-43777 | 0 | 0| 
+| 20230805T12:36:37Z | exploit for EBD 43777 (GitStack 2.3.10 RCE) | https://github.com/Lord-of-the-IoT/EBD-43777 | 0 | 0| 
 | 20230805T11:45:33Z | Null | https://github.com/jygttgyy/DeltaExploits | 0 | 0| 
 | 20230805T10:27:41Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT | 0 | 0| 
 | 20230805T10:17:03Z | Null | https://github.com/LXGaming/AntiExploit | 1 | 1| 
@@ -71,7 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230805T12:32:04Z | setup my vps to fuzz | https://github.com/cymzfr/setvps | 0 | 0| 
+| 20230805T12:34:47Z | setup my vps to fuzz | https://github.com/cymzfr/setvps | 0 | 0| 
 | 20230805T12:22:05Z | The Fuzzy-Predictive-Control repository is a comprehensive collection of Python Jupyter Notebooks that demonstrate the implementation of fuzzy modeling and predictive functional control techniques. | https://github.com/CuAuPro/fuzzy-predictive-control | 0 | 0| 
 | 20230805T11:49:06Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
 | 20230805T10:48:45Z | huge dupe | https://github.com/kuzoru/fuzzy-winner | 0 | 0| 
