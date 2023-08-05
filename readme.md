@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T12:32:04Z | setup my vps to fuzz | https://github.com/cymzfr/setvps | 0 | 0| 
 | 20230805T12:22:05Z | The Fuzzy-Predictive-Control repository is a comprehensive collection of Python Jupyter Notebooks that demonstrate the implementation of fuzzy modeling and predictive functional control techniques. | https://github.com/CuAuPro/fuzzy-predictive-control | 0 | 0| 
 | 20230805T11:49:06Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
 | 20230805T10:48:45Z | huge dupe | https://github.com/kuzoru/fuzzy-winner | 0 | 0| 
