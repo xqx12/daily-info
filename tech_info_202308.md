@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T01:03:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e30806b-7061-4210-b173-c940b62fbaf1-QHyQD-exploit-regard | 0 | 0| 
 | 20230805T00:49:18Z | https://user-images.githubusercontent.com/90981330/183076985-22893023-6ef9-4966-8e7e-419075850122.png | https://github.com/0xNever/Saturne-Exploit | 0 | 0| 
 | 20230805T00:27:50Z | Bot manager to exploit the Donkey Dupe in 6b6t | https://github.com/CarloxCoC/Donkey-Dupe-Bots | 0 | 0| 
 | 20230805T00:06:59Z | A 100% lua based minecraft exploiting and duping client. | https://github.com/sapur99/SapursEpikExploits | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20230804T23:05:52Z | Mass Exploitation For (CVE-2023-29489) | https://github.com/ViperM4sk/cpanel-xss-177 | 0 | 0| 
 | 20230804T21:51:08Z | Exploits for roblox! | https://github.com/LingonJR/Roblox-Exploits | 0 | 0| 
 | 20230804T20:32:09Z | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965  | https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils | 0 | 1| 
-| 20230804T14:15:49Z | Python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
 
 
 # backdoor on Github 推荐
