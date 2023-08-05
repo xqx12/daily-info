@@ -48,10 +48,10 @@
 | 20230804T23:05:52Z | Mass Exploitation For (CVE-2023-29489) | https://github.com/ViperM4sk/cpanel-xss-177 | 0 | 0| 
 | 20230804T21:51:08Z | Exploits for roblox! | https://github.com/LingonJR/Roblox-Exploits | 0 | 0| 
 | 20230804T20:32:09Z | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965  | https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils | 0 | 1| 
+| 20230804T15:53:05Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 209 | 12| 
 | 20230804T14:15:49Z | Python application that exploit text mining to categorize product reviews to positive or negative class. | https://github.com/leobargiotti/amazon_reviews_classifier | 0 | 0| 
 | 20230804T12:56:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 146 | 13| 
 | 20230804T12:54:41Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1056 | 207| 
-| 20230804T12:53:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5393 | 752| 
 
 
 # backdoor on Github 推荐

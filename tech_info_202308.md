@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T01:18:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0016-0011-app-p3oYy-mix-exploit | 0 | 0| 
 | 20230805T01:11:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-3b64b694-4ec7-4a17-9595-6255eea95188--hdOQ-reduce-exploit | 0 | 0| 
 | 20230805T01:03:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e30806b-7061-4210-b173-c940b62fbaf1-QHyQD-exploit-regard | 0 | 0| 
 | 20230805T00:49:18Z | https://user-images.githubusercontent.com/90981330/183076985-22893023-6ef9-4966-8e7e-419075850122.png | https://github.com/0xNever/Saturne-Exploit | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20230804T23:30:38Z | Android kernel exploitation | https://github.com/Markakd/bad_io_uring | 3 | 0| 
 | 20230804T23:24:36Z | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | 2 | 1| 
 | 20230804T23:05:52Z | Mass Exploitation For (CVE-2023-29489) | https://github.com/ViperM4sk/cpanel-xss-177 | 0 | 0| 
-| 20230804T21:51:08Z | Exploits for roblox! | https://github.com/LingonJR/Roblox-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
