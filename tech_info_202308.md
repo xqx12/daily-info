@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230805T01:57:58Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230805T01:43:28Z | CVE-2023-3519 | Null | https://github.com/passwa11/CVE-2023-3519 | | 
-| 20230805T01:40:15Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230804T23:06:39Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230804T10:34:00Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
 | 20230804T07:30:52Z | CVE-2023-35078 | Ivanti Endpoint Manager Mobile exploit | https://github.com/getdrive/CVE-2023-35078 | | 
