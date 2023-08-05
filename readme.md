@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T12:33:40Z | exploit for EBD 43777 (GitStack 2.3.10 RCE) | https://github.com/Lord-of-the-IoT/EBD-43777 | 0 | 0| 
 | 20230805T11:45:33Z | Null | https://github.com/jygttgyy/DeltaExploits | 0 | 0| 
 | 20230805T10:27:41Z | -What does this software do? It allows you to turn the apk file created for the remote access trojan into an jpg file | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT | 0 | 0| 
 | 20230805T10:17:03Z | Null | https://github.com/LXGaming/AntiExploit | 1 | 1| 
@@ -45,7 +46,6 @@
 | 20230805T08:54:00Z | Null | https://github.com/Zuazuaman/VodkaExploit.github.io | 1 | 0| 
 | 20230805T07:45:51Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230805T01:18:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0016-0011-app-p3oYy-mix-exploit | 0 | 0| 
-| 20230805T01:11:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-3b64b694-4ec7-4a17-9595-6255eea95188--hdOQ-reduce-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
