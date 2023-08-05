@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230805T11:22:20Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
+| 20230805T12:00:21Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230805T09:37:36Z | CVE-2023-27163 | Requests Baskets (CVE-2023-27163) and Mailtrail v0.53 | https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53 | | 
 | 20230805T06:47:13Z | CVE-2023-2732 | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | https://github.com/Pari-Malam/CVE-2023-2732 | | 
 | 20230805T05:16:41Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
@@ -60,7 +60,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230805T00:12:46Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 424 | 29| 
+| 20230805T10:44:43Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 426 | 29| 
 
 
 # big4 on Github 推荐
