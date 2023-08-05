@@ -107,9 +107,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230805T12:41:15Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
 | 20230805T12:34:47Z | setup my vps to fuzz | https://github.com/cymzfr/setvps | 0 | 0| 
 | 20230805T12:22:05Z | The Fuzzy-Predictive-Control repository is a comprehensive collection of Python Jupyter Notebooks that demonstrate the implementation of fuzzy modeling and predictive functional control techniques. | https://github.com/CuAuPro/fuzzy-predictive-control | 0 | 0| 
-| 20230805T11:49:06Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
 | 20230805T10:48:45Z | huge dupe | https://github.com/kuzoru/fuzzy-winner | 0 | 0| 
 | 20230805T10:27:21Z | Null | https://github.com/sagar-1204/FUZZY-LOGIC-BASED-CRICKET-PLAYER-BATSMAN-PERFORMANCE-EVALUATOR | 0 | 0| 
 | 20230805T08:40:50Z | Null | https://github.com/43116210070/fuzzy-meme | 0 | 0| 
