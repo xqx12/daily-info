@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230805T12:29:39Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
+| 20230805T12:39:19Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230805T09:37:36Z | CVE-2023-27163 | Requests Baskets (CVE-2023-27163) and Mailtrail v0.53 | https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53 | | 
 | 20230805T06:47:13Z | CVE-2023-2732 | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | https://github.com/Pari-Malam/CVE-2023-2732 | | 
 | 20230805T05:16:41Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
