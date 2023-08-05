@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230805T01:43:17Z | CVE-2023-3519 | Null | https://github.com/passwa11/CVE-2023-3519 | | 
 | 20230805T01:40:15Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230804T23:06:39Z | CVE-2023-37979 | CVE-2023-37979 | https://github.com/Fire-Null/CVE-2023-37979 | | 
 | 20230804T10:34:00Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
@@ -35,7 +36,6 @@
 | 20230804T03:04:10Z | CVE-2020-17530 | Vulnerable environment of CVE-2020-17530 (S2-061) for testing | https://github.com/nth347/CVE-2020-17530 | | 
 | 20230804T01:41:09Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230803T21:18:52Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134 | | 
-| 20230803T11:49:39Z | CVE-2023-30146 | Some Assmann manufactured IP-Cams leak the administrator password in their backup.  | https://github.com/L1-0/CVE-2023-30146 | | 
 
 
 # klee on Github 推荐
