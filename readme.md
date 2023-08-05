@@ -44,7 +44,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230804T23:35:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a544f0b5-1d44-43f3-982c-2d4c116ee527--KwNe-arrive-exploit | 0 | 0| 
 | 20230804T23:30:38Z | Android kernel exploitation | https://github.com/Markakd/bad_io_uring | 3 | 0| 
-| 20230804T23:24:36Z | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | 2 | 0| 
+| 20230804T23:24:36Z | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | 2 | 1| 
 | 20230804T23:05:52Z | Mass Exploitation For (CVE-2023-29489) | https://github.com/ViperM4sk/cpanel-xss-177 | 0 | 0| 
 | 20230804T21:51:08Z | Exploits for roblox! | https://github.com/LingonJR/Roblox-Exploits | 0 | 0| 
 | 20230804T20:32:09Z | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965  | https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils | 0 | 1| 
@@ -92,11 +92,11 @@
 | 20230804T21:42:39Z | Null | https://github.com/terryolives/fuzzy-meme | 0 | 0| 
 | 20230804T20:17:16Z | Random data generator creating files, streams, passwords, characters/fuzzing sequences. | https://github.com/Tinram/RND | 0 | 0| 
 | 20230804T20:10:25Z | Null | https://github.com/brson/fuzz-slides | 0 | 0| 
+| 20230804T19:35:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3769 | 447| 
 | 20230804T12:59:04Z | Null | https://github.com/TRANQUILLITY14/fuzzy-enigma | 0 | 0| 
 | 20230804T12:04:42Z | Null | https://github.com/fuzz-evaluator/EcoFuzz-eval | 0 | 0| 
 | 20230804T12:04:29Z | Null | https://github.com/fuzz-evaluator/fuzzjit-eval | 0 | 0| 
 | 20230804T12:04:18Z | Null | https://github.com/fuzz-evaluator/PolyFuzz-eval | 0 | 0| 
-| 20230804T12:03:51Z | Null | https://github.com/fuzz-evaluator/MemLock-Fuzz-eval | 0 | 0| 
 
 
 
