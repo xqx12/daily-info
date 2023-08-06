@@ -90,7 +90,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230805T21:50:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3852 | 784| 
 | 20230805T19:01:46Z | An implementation of fuzzy system for CI university course. | https://github.com/avaesmayli/CI-project-FuzzySystem | 0 | 0| 
-| 20230805T13:02:52Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3769 | 447| 
 | 20230805T12:59:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8850 | 1952| 
 | 20230805T12:41:15Z | Null | https://github.com/Eterniter/fuzzdeploy | 0 | 0| 
 | 20230805T12:34:47Z | setup my vps to fuzz | https://github.com/cymzfr/setvps | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20230805T10:48:45Z | huge dupe | https://github.com/kuzoru/fuzzy-winner | 0 | 0| 
 | 20230805T10:27:21Z | Null | https://github.com/sagar-1204/FUZZY-LOGIC-BASED-CRICKET-PLAYER-BATSMAN-PERFORMANCE-EVALUATOR | 0 | 0| 
 | 20230805T08:40:50Z | Null | https://github.com/43116210070/fuzzy-meme | 0 | 0| 
+| 20230805T00:44:14Z | Null | https://github.com/Warorua/fuzzy-octo-telegram | 0 | 0| 
 
 
 
