@@ -48,7 +48,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230805T23:50:51Z | Android kernel exploitation for CVE-2022-20409 | https://github.com/Markakd/bad_io_uring | 26 | 3| 
 | 20230805T23:49:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5775 | 672| 
 | 20230805T23:23:26Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 21 | 7| 
 | 20230805T21:06:18Z | Null | https://github.com/VerxStudios/exploit | 0 | 0| 
@@ -58,6 +57,7 @@
 | 20230805T19:51:06Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
 | 20230805T19:05:03Z | This repo hosts TUKRU%s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | https://github.com/tukru/CVE-2021-22555 | 0 | 0| 
 | 20230805T18:57:05Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 11 | 3| 
+| 20230805T12:36:37Z | exploit for EBD 43777 (GitStack 2.3.10 RCE) | https://github.com/Lord-of-the-IoT/EBD-43777 | 0 | 0| 
 
 
 # backdoor on Github 推荐

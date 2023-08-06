@@ -57,8 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230806T01:16:33Z | Android kernel exploitation for CVE-2022-20409 | https://github.com/Markakd/bad_io_uring | 27 | 3| 
 | 20230806T01:09:03Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14185 | 2409| 
-| 20230805T23:50:51Z | Android kernel exploitation for CVE-2022-20409 | https://github.com/Markakd/bad_io_uring | 26 | 3| 
 | 20230805T23:49:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5775 | 672| 
 | 20230805T23:23:26Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 21 | 7| 
 | 20230805T21:06:18Z | Null | https://github.com/VerxStudios/exploit | 0 | 0| 
@@ -72,7 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230806T01:08:32Z | Null | https://github.com/WU-YU-TONG/computational_efficient_backdoor | 0 | 0| 
+| 20230806T01:15:33Z | Null | https://github.com/WU-YU-TONG/computational_efficient_backdoor | 0 | 0| 
 | 20230806T00:25:22Z | Null | https://github.com/Raytsang24/backdoor-detection | 1 | 0| 
 | 20230805T21:40:38Z | Cybersecurity REU Summer of 2023 | https://github.com/Luzzitto/composite-backdoor-percentage | 0 | 0| 
 | 20230805T19:58:03Z | Automation for creating deployment files. | https://github.com/Latrodect/Backdoor-VSCode-Extension-for-K8S-Setup-and-Code-Review | 0 | 0| 
