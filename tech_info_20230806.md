@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230806T11:19:07Z | Current GNN models are mostly homogeneous, exploiting only the relationships between users and items, and oftentimes model interactions using only rating information high in data sparsity. Therefore, we propose a review-enhanced heterogeneous graph neural framework to jointly model ratings and reviews.  | https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation | 0 | 0| 
+| 20230806T12:29:37Z | Current GNN models are mostly homogeneous, exploiting only the relationships between users and items, and oftentimes model interactions using only rating information high in data sparsity. Therefore, we propose a review-enhanced heterogeneous graph neural framework to jointly model ratings and reviews.  | https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation | 1 | 0| 
 | 20230806T08:44:49Z | Null | https://github.com/vinnie1717/cms_exploits | 0 | 0| 
 | 20230806T07:14:58Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development, Malware Analysis and Shellcode.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
 | 20230806T06:51:08Z | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | https://github.com/Toothless5143/CVE-2023-22809 | 0 | 0| 
@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230806T11:30:18Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 416 | 99| 
+| 20230806T12:46:49Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 419 | 99| 
 | 20230806T10:56:43Z | Python script that from your inputs outputs a file with uids to fuzz | https://github.com/dnov-swe/uid_range_to_fuzz | 0 | 0| 
 | 20230806T10:56:37Z | Null | https://github.com/GarlicFuzzer/PeachFuzzer_Pits | 5 | 0| 
 | 20230806T05:51:51Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 1 | 0| 
