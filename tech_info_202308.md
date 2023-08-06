@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230806T01:47:43Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0010-app-ruwDK-exploit-hide | 0 | 0| 
 | 20230806T01:16:33Z | Android kernel exploitation for CVE-2022-20409 | https://github.com/Markakd/bad_io_uring | 27 | 3| 
 | 20230806T01:09:03Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14185 | 2409| 
 | 20230805T23:49:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5775 | 672| 
@@ -66,7 +67,6 @@
 | 20230805T19:58:54Z | Search for vulnerabilites in software or hardware and grab actionable CVE information. | https://github.com/madret/vuln_checker | 0 | 0| 
 | 20230805T19:57:11Z | PoC exploits for bugs I have found and disclosed. | https://github.com/mellow-hype/sploits | 1 | 0| 
 | 20230805T19:51:06Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
-| 20230805T19:05:03Z | This repo hosts TUKRU%s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | https://github.com/tukru/CVE-2021-22555 | 0 | 0| 
 
 
 # backdoor on Github 推荐
