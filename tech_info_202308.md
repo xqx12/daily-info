@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T01:18:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 688 | 176| 
 | 20230807T00:58:27Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/KryoCeph/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
 | 20230807T00:47:12Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
 | 20230807T00:46:49Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/CryoKat/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20230807T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-NEW- | 0 | 0| 
 | 20230806T22:59:46Z | Null | https://github.com/codeb0ss/Wordpress-Forminator-Exploiter | 0 | 0| 
 | 20230806T22:48:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5220 | 659| 
-| 20230806T22:14:47Z | maltrail exploit v0.53 | https://github.com/j4f3th/exploit_v0.53_maltrail | 0 | 0| 
 
 
 # backdoor on Github 推荐
