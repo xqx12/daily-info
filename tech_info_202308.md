@@ -72,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
 | 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
 | 20230807T07:50:48Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230807T07:20:06Z | Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows | https://github.com/imperialbyte/CVE-2010-2075 | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20230806T19:50:18Z | Null | https://github.com/revolt36/basic_backdoor | 0 | 0| 
 | 20230806T16:11:28Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/MM-BD | 1 | 0| 
 | 20230806T14:24:45Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor- | 0 | 0| 
-| 20230806T10:20:27Z | Null | https://github.com/lightx4/simple_php_backdoor_rev2.php | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:39:06Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
 | 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
 | 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20230807T01:25:56Z | Null | https://github.com/thinhtaungam/Fuzzy_logic | 0 | 0| 
 | 20230807T00:29:44Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 593 | 54| 
 | 20230806T22:12:48Z | Null | https://github.com/AITys/fuzzy-spork | 0 | 0| 
-| 20230806T21:42:52Z | fuzzy search using levenshtein distance algorithm | https://github.com/shaif-aslam/lucene-fuzzy-search | 0 | 0| 
 
 
 

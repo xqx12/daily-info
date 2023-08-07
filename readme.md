@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
 | 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
 | 20230807T07:50:48Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
 | 20230807T07:20:06Z | Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows | https://github.com/imperialbyte/CVE-2010-2075 | 0 | 0| 
@@ -73,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:39:06Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
 | 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
 | 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
