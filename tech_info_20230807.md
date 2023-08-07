@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230807T12:43:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-AqwXj-exploit-bear | 0 | 0| 
 | 20230807T12:21:14Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
 | 20230807T11:37:31Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
@@ -46,12 +47,12 @@
 | 20230807T09:48:17Z | Null | https://github.com/inaridiy/curve-aleth-exploit-poc | 0 | 0| 
 | 20230807T09:41:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5837 | 779| 
 | 20230807T08:51:07Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
-| 20230807T01:39:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0001-app-y2_1L-exploit-limit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
 | 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
 | 20230807T07:50:48Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
