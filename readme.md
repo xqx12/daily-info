@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230807T11:56:21Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
+| 20230807T12:21:14Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
 | 20230807T11:37:31Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
 | 20230807T10:53:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 703 | 177| 
 | 20230807T10:40:41Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169140481-0Dp-O-exploit-wan | 0 | 0| 
