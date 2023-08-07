@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T12:43:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-AqwXj-exploit-bear | 0 | 0| 
 | 20230807T12:21:14Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
 | 20230807T11:37:31Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
 | 20230807T10:53:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 703 | 177| 
@@ -46,7 +47,6 @@
 | 20230807T09:41:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5837 | 779| 
 | 20230807T08:51:07Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
 | 20230807T01:39:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0001-app-y2_1L-exploit-limit | 0 | 0| 
-| 20230807T00:58:27Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/KryoCeph/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,7 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230807T12:39:06Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
+| 20230807T12:42:57Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
 | 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
 | 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
