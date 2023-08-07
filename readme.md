@@ -46,10 +46,10 @@
 | 20230806T21:00:31Z | A tool for remote ADB exploitation in Shell Script. | https://github.com/SnowPerfectDev/Connect-ADB | 0 | 0| 
 | 20230806T15:21:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5242 | 1028| 
 | 20230806T12:29:37Z | Current GNN models are mostly homogeneous, exploiting only the relationships between users and items, and oftentimes model interactions using only rating information high in data sparsity. Therefore, we propose a review-enhanced heterogeneous graph neural framework to jointly model ratings and reviews.  | https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation | 1 | 0| 
+| 20230806T11:47:11Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 193 | 21| 
 | 20230806T08:44:49Z | Null | https://github.com/vinnie1717/cms_exploits | 0 | 0| 
 | 20230806T07:14:58Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development, Malware Analysis and Shellcode.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
 | 20230806T06:51:08Z | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | https://github.com/Toothless5143/CVE-2023-22809 | 0 | 0| 
-| 20230806T06:14:54Z | Null | https://github.com/jygttgyy/DeltaExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -69,6 +69,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230806T22:27:59Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 428 | 29| 
+| 20230806T07:48:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2294 | 634| 
 | 20230806T06:16:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 671 | 119| 
 
 
@@ -90,7 +91,7 @@
 | 20230806T10:56:37Z | Null | https://github.com/GarlicFuzzer/PeachFuzzer_Pits | 5 | 0| 
 | 20230806T05:51:51Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 1 | 0| 
 | 20230806T05:47:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3771 | 447| 
-| 20230806T04:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8851 | 1952| 
+| 20230806T04:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8851 | 1953| 
 | 20230806T00:03:53Z | Synthetic Fuzzy Questions Generator | https://github.com/AdmitHub/fuzzgenAI | 0 | 0| 
 
 

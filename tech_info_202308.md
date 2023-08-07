@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T01:39:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0001-app-y2_1L-exploit-limit | 0 | 0| 
 | 20230807T01:18:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 688 | 176| 
 | 20230807T00:58:27Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/KryoCeph/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
 | 20230807T00:47:12Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20230807T00:31:17Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-ExploitNEW | 1 | 0| 
 | 20230807T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-NEW- | 0 | 0| 
 | 20230806T22:59:46Z | Null | https://github.com/codeb0ss/Wordpress-Forminator-Exploiter | 0 | 0| 
-| 20230806T22:48:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5220 | 659| 
 
 
 # backdoor on Github 推荐
@@ -88,9 +88,9 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230806T22:27:59Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 428 | 29| 
+| 20230806T07:48:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2294 | 634| 
 | 20230806T06:16:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 671 | 119| 
 | 20230804T09:55:19Z | PLI is an efficient symbolic execution approach for programs that manipulate complex heap-allocated data structures with rich structural constraints | https://github.com/JuanmaCopia/spf-pli | 0 | 0| 
-| 20230804T09:08:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2292 | 634| 
 | 20230804T00:44:42Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1128 | 130| 
 | 20230803T13:40:00Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
 | 20230803T04:27:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3508 | 488| 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T01:25:56Z | Null | https://github.com/thinhtaungam/Fuzzy_logic | 0 | 0| 
 | 20230807T00:29:44Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 593 | 54| 
 | 20230806T22:12:48Z | Null | https://github.com/AITys/fuzzy-spork | 0 | 0| 
 | 20230806T21:42:52Z | fuzzy search using levenshtein distance algorithm | https://github.com/shaif-aslam/lucene-fuzzy-search | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20230806T10:56:37Z | Null | https://github.com/GarlicFuzzer/PeachFuzzer_Pits | 5 | 0| 
 | 20230806T05:51:51Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 1 | 0| 
 | 20230806T05:47:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3771 | 447| 
-| 20230806T04:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8851 | 1952| 
 
 
 
