@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230807 | 2022 年美欧网络演习解析 | https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q| 
+| 20230807 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA| 
 | 20230806 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw| 
 | 20230806 | 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg| 
 | 20230806 | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A| 
@@ -19,30 +21,28 @@
 | 20230805 | CCF版开源漏洞信息描述规范 | https://www.gitlink.org.cn/zone/CCF-ODC/source/7| 
 | 20230805 | 基于深度学习的源代码缺陷检测研究综述 | http://jos.org.cn/jos/article/pdf/6696| 
 | 20230805 | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ| 
-| 20230805 | 停车平台被曝大规模数据泄露 API安全缺陷成风险根因 | https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g| 
-| 20230803 | Filter内存马及工具检测 | https://www.sec-in.com/article/2021| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230807T06:00:47Z | CVE-2022-21445 | CVE-2022-21445 | https://github.com/StevenMeow/CVE-2022-21445 | | 
+| 20230807T02:03:23Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230806T23:19:13Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
 | 20230806T21:23:17Z | CVE-2023-39144 | Vulnerability in Element55 Maketime | https://github.com/cduram/CVE-2023-39144 | | 
-| 20230806T13:16:48Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230806T10:47:50Z | CVE-2022-1015 | Null | https://github.com/more-kohii/CVE-2022-1015 | | 
 | 20230806T06:51:08Z | CVE-2023-22809 | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | https://github.com/Toothless5143/CVE-2023-22809 | | 
 | 20230806T02:11:42Z | CVE-2023-2732 | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | https://github.com/Pari-Malam/CVE-2023-2732 | | 
 | 20230805T23:54:23Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230805T22:34:15Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
 | 20230805T16:41:38Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
-| 20230805T15:32:56Z | CVE-2023-36169 | An issue in SlySoft Game Jackal Pro v.5.2.0.0 allows an attacker to execute arbitrary code via the server.exe component | https://github.com/TraiLeR2/CVE-2023-36169 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T02:22:36Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 337 | 6| 
 | 20230804T12:43:43Z | UI Library | https://github.com/ggenzone/kleene-ui | 4 | 0| 
-| 20230804T07:13:48Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 336 | 6| 
 | 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
 | 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 
@@ -57,31 +57,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T11:56:21Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
+| 20230807T11:37:31Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
+| 20230807T10:53:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 703 | 177| 
+| 20230807T10:40:41Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169140481-0Dp-O-exploit-wan | 0 | 0| 
+| 20230807T09:59:19Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 54 | 7| 
+| 20230807T09:48:17Z | Null | https://github.com/inaridiy/curve-aleth-exploit-poc | 0 | 0| 
+| 20230807T09:41:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5837 | 779| 
+| 20230807T08:51:07Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
 | 20230807T01:39:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0001-app-y2_1L-exploit-limit | 0 | 0| 
-| 20230807T01:18:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 688 | 176| 
 | 20230807T00:58:27Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/KryoCeph/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
-| 20230807T00:47:12Z | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | 0 | 0| 
-| 20230807T00:46:49Z | A 2 part modified version of the Mobile Mouse 3.6.0.4 exploit. | https://github.com/CryoKat/Mobile-Mouse-3.6.0.4-Exploit | 0 | 0| 
-| 20230807T00:36:25Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANNEW | 1 | 0| 
-| 20230807T00:33:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANNEW | 0 | 0| 
-| 20230807T00:31:17Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-ExploitNEW | 1 | 0| 
-| 20230807T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-NEW- | 0 | 0| 
-| 20230806T22:59:46Z | Null | https://github.com/codeb0ss/Wordpress-Forminator-Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
+| 20230807T07:50:48Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
+| 20230807T07:20:06Z | Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows | https://github.com/imperialbyte/CVE-2010-2075 | 0 | 0| 
+| 20230807T02:38:52Z | Null | https://github.com/kakaroot1337/backdoor | 0 | 0| 
 | 20230807T00:21:22Z | Null | https://github.com/kelelawar-cyber-team/Shell-Backdoor | 0 | 0| 
 | 20230806T21:58:30Z | Demonstrates a backdoor attack on a neural net and how it can be prevented. | https://github.com/kitzbergerg/BackdoorBouncer-MNIST | 1 | 0| 
 | 20230806T19:50:18Z | Null | https://github.com/revolt36/basic_backdoor | 0 | 0| 
 | 20230806T16:11:28Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/MM-BD | 1 | 0| 
 | 20230806T14:24:45Z | roblox backdoor, all info. self explanatory, i am not responsible for anything that you do and whatever happens to you. enjoy | https://github.com/limitlesss111/Roblox-Backdoor- | 0 | 0| 
 | 20230806T10:20:27Z | Null | https://github.com/lightx4/simple_php_backdoor_rev2.php | 0 | 0| 
-| 20230806T05:47:30Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 180 | 19| 
-| 20230806T01:15:33Z | Null | https://github.com/WU-YU-TONG/computational_efficient_backdoor | 0 | 0| 
-| 20230806T00:25:22Z | Null | https://github.com/Raytsang24/backdoor-detection | 1 | 0| 
-| 20230805T21:40:38Z | Cybersecurity REU Summer of 2023 | https://github.com/Luzzitto/composite-backdoor-percentage | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
+| 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
+| 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
+| 20230807T10:45:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 956 | 230| 
+| 20230807T09:54:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4785 | 1153| 
+| 20230807T05:41:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8854 | 1953| 
 | 20230807T01:25:56Z | Null | https://github.com/thinhtaungam/Fuzzy_logic | 0 | 0| 
 | 20230807T00:29:44Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 593 | 54| 
 | 20230806T22:12:48Z | Null | https://github.com/AITys/fuzzy-spork | 0 | 0| 
 | 20230806T21:42:52Z | fuzzy search using levenshtein distance algorithm | https://github.com/shaif-aslam/lucene-fuzzy-search | 0 | 0| 
-| 20230806T20:48:24Z | Just started coding | https://github.com/MufeezQadri/fuzzylsd | 0 | 0| 
-| 20230806T12:46:49Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 419 | 99| 
-| 20230806T10:56:43Z | Python script that from your inputs outputs a file with uids to fuzz | https://github.com/dnov-swe/uid_range_to_fuzz | 0 | 0| 
-| 20230806T10:56:37Z | Null | https://github.com/GarlicFuzzer/PeachFuzzer_Pits | 5 | 0| 
-| 20230806T05:51:51Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 1 | 0| 
-| 20230806T05:47:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3771 | 447| 
 
 
 
