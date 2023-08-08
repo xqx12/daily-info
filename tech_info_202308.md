@@ -57,7 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230808T01:18:25Z | Linux binary exploitation | https://github.com/greyshell/linux_exploit_dev | 0 | 0| 
+| 20230808T01:26:33Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0019-0014-app-0mKtN-forgive-exploit | 0 | 0| 
+| 20230808T01:22:25Z | Linux binary exploitation | https://github.com/greyshell/linux_exploit_dev | 0 | 0| 
 | 20230808T01:13:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWna | 1 | 0| 
 | 20230808T01:11:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANna | 1 | 0| 
 | 20230808T01:10:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANna | 1 | 0| 
@@ -66,7 +67,6 @@
 | 20230807T22:21:38Z | Smart contract exploit proof of concept exploit standard interface | https://github.com/ElliotFriedman/poc-template | 0 | 0| 
 | 20230807T22:05:56Z | Black Hat 2023 Exploiting K8S | https://github.com/canderla/bh2023_kubernetes | 0 | 0| 
 | 20230807T20:33:13Z | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | https://github.com/kahluri/CVE-2019-9053 | 0 | 0| 
-| 20230807T20:28:56Z | Proyecto movil de peliculas | https://github.com/Exploit34/Exploit34.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
