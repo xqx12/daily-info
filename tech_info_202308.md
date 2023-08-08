@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230808T08:36:36Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
+| 20230808T08:17:29Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230807T16:04:49Z | CVE-2023-39115 | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | https://github.com/Raj789-sec/CVE-2023-39115 | | 
 | 20230807T15:16:41Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
 | 20230807T14:30:29Z | CVE-2022-0952 | Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-0952 | | 
 | 20230807T14:00:20Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230807T13:09:12Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
 | 20230807T06:00:47Z | CVE-2022-21445 | CVE-2022-21445 | https://github.com/StevenMeow/CVE-2022-21445 | | 
 | 20230807T02:03:23Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230806T21:23:17Z | CVE-2023-39144 | Vulnerability in Element55 Maketime | https://github.com/cduram/CVE-2023-39144 | | 
 | 20230806T10:47:50Z | CVE-2022-1015 | Null | https://github.com/more-kohii/CVE-2022-1015 | | 
-| 20230806T06:51:08Z | CVE-2023-22809 | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | https://github.com/Toothless5143/CVE-2023-22809 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230807T02:22:36Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 337 | 6| 
+| 20230808T08:41:34Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 83 | 18| 
+| 20230808T07:35:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 338 | 6| 
 | 20230804T12:43:43Z | UI Library | https://github.com/ggenzone/kleene-ui | 4 | 0| 
 | 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
 | 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -50,6 +51,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T05:26:54Z | Null | https://github.com/MetadataGitTesting/S2e0pDGn | 0 | 0| 
 | 20230808T01:36:23Z | Null | https://github.com/MetadataGitTesting/s2EW6XdA | 0 | 0| 
 | 20230807T03:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 348 | 81| 
 | 20230801T17:15:49Z | Publish Slides for DevOpsToolkit YouChoose + The Case for Flux | https://github.com/kingdonb/dot-s2e2-rabbit-slides | 0 | 0| 
@@ -58,31 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230808T01:57:44Z | Null | https://github.com/vvarl0cks/LW3-Curve-Exploit | 0 | 0| 
-| 20230808T01:39:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0014-app-ilDhO-exploit-secure | 0 | 0| 
-| 20230808T01:33:37Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/windows_exploit_dev | 35 | 12| 
-| 20230808T01:26:33Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0019-0014-app-0mKtN-forgive-exploit | 0 | 0| 
-| 20230808T01:22:25Z | Linux binary exploitation | https://github.com/greyshell/linux_exploit_dev | 0 | 0| 
-| 20230808T01:13:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWna | 1 | 0| 
-| 20230808T01:11:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANna | 1 | 0| 
-| 20230808T01:10:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANna | 1 | 0| 
-| 20230808T01:08:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANav | 1 | 0| 
-| 20230807T23:41:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5225 | 659| 
+| 20230808T10:47:36Z | Assets used in lecture %手を動かして理解するLinux Kernel Exploit% at SecurityCamp2023. | https://github.com/smallkirby/seccamp23c2-assets | 1 | 0| 
+| 20230808T10:28:52Z | Writeup of stack based buffer overflow from john ericksons art of exploitation | https://github.com/Sk1dd3y/authoverflow-writeup | 0 | 0| 
+| 20230808T10:23:17Z | Python wrapper for ysoserial-all.jar that makes exploiting Java deserialization much easier | https://github.com/aludermin/ysoserial-wrap | 0 | 0| 
+| 20230808T09:34:19Z | Finding the outliers in the data which can be exploited by Visualiozaion. | https://github.com/Divyanshu23052002/Data-exploration-for-Pattern-Recognition | 0 | 0| 
+| 20230808T09:30:51Z | This folder made as a joke LOL | https://github.com/ASILBEKSCRIPTER/ReplicatedStorageByExploiter | 1 | 0| 
+| 20230808T09:23:47Z | Containing PoC%s | https://github.com/Avo-Catto/PoCs | 0 | 0| 
+| 20230808T07:41:43Z | Fac-dev software exploitation resources | https://github.com/Rewzilla/sre-ak | 0 | 0| 
+| 20230808T07:18:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 79 | 30| 
+| 20230808T07:15:25Z | Exploit mail function in php when admin disabled other functions like shell. Uses LD_PRELOAD | https://github.com/richardschwabe/chankro3 | 0 | 0| 
+| 20230808T06:13:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 705 | 177| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T09:50:12Z | Null | https://github.com/emtee40/pinduoduo_backdoor | 0 | 0| 
+| 20230808T08:25:47Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 1 | 0| 
+| 20230808T06:16:18Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/vulhub/metersphere-plugin-Backdoor | 3 | 0| 
+| 20230808T05:15:27Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 3 | 0| 
 | 20230808T01:13:01Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 2 | 0| 
 | 20230808T00:32:10Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 83 | 22| 
 | 20230807T16:08:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1986 | 430| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
-| 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
 | 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
 | 20230807T07:50:48Z | Webpage for our IEEE S&P%23 paper: Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | https://github.com/whyisyoung/JigsawPuzzle | 1 | 0| 
-| 20230807T07:20:06Z | Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows | https://github.com/imperialbyte/CVE-2010-2075 | 0 | 0| 
-| 20230807T02:38:52Z | Null | https://github.com/kakaroot1337/backdoor | 0 | 0| 
-| 20230807T00:21:22Z | Null | https://github.com/kelelawar-cyber-team/Shell-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -113,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T11:18:58Z | A Fast FuzzySearch service written in go. Only made for NezukoChan usage. | https://github.com/NezuChan/fuzzier | 1 | 0| 
+| 20230808T11:06:05Z | Null | https://github.com/joecronin2/fuzzy-waffle | 0 | 0| 
+| 20230808T10:44:14Z | Null | https://github.com/madeshgithub/Fuzzy-logic-controller-based-MPPT-of-solar-pv-array-using-matlab | 0 | 0| 
+| 20230808T09:37:08Z | Null | https://github.com/Danxueluo/Hesitant-fuzzy-BiRNN | 0 | 0| 
+| 20230808T09:31:33Z | Null | https://github.com/manthonygfp/go-fuzzing-example | 0 | 0| 
+| 20230808T02:17:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 293 | 44| 
 | 20230807T23:04:59Z | Null | https://github.com/AyaanTate/fuzzy-octo-eureka | 27 | 0| 
 | 20230807T23:02:22Z | Fuzzy subcommand matching for click | https://github.com/amyreese/click-fuzzy | 0 | 0| 
 | 20230807T22:53:09Z | Source code for ACTOR, an action-guided kernel fuzzer (USENIX 2023 paper) | https://github.com/ucsb-seclab/actor | 0 | 0| 
 | 20230807T21:24:17Z | Old coverage-guided fuzz testing for fxamacker/cbor.  A newer version is used by fxamacker/cbor for fuzzing. | https://github.com/fxamacker/cbor-fuzz | 10 | 2| 
-| 20230807T12:42:57Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
-| 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
-| 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
-| 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
-| 20230807T10:45:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 956 | 230| 
-| 20230807T09:54:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4785 | 1153| 
 
 
 
