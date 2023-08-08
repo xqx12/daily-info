@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T01:08:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANav | 1 | 0| 
 | 20230807T23:41:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5225 | 659| 
 | 20230807T22:21:38Z | Smart contract exploit proof of concept exploit standard interface | https://github.com/ElliotFriedman/poc-template | 0 | 0| 
 | 20230807T22:05:56Z | Black Hat 2023 Exploiting K8S | https://github.com/canderla/bh2023_kubernetes | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20230807T15:53:45Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 3 | 0| 
 | 20230807T15:40:17Z | QR factorizations exploiting specific structures of matrices | https://github.com/Vanadjy/StructuredQR.jl | 0 | 0| 
 | 20230807T14:40:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 704 | 177| 
-| 20230807T14:08:55Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3558 | 600| 
 
 
 # backdoor on Github 推荐
