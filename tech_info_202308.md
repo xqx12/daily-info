@@ -92,8 +92,9 @@
 | --- | --- | --- | --- | ---| 
 | 20230808T06:24:55Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 39 | 7| 
 | 20230808T01:01:29Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 672 | 119| 
+| 20230808T00:49:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2295 | 634| 
 | 20230807T12:15:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 429 | 29| 
-| 20230806T07:48:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2294 | 634| 
+| 20230807T03:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 348 | 81| 
 | 20230804T09:55:19Z | PLI is an efficient symbolic execution approach for programs that manipulate complex heap-allocated data structures with rich structural constraints | https://github.com/JuanmaCopia/spf-pli | 0 | 0| 
 | 20230804T00:44:42Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1128 | 130| 
 | 20230803T13:40:00Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
