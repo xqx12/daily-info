@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T01:13:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWna | 1 | 0| 
 | 20230808T01:11:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANna | 1 | 0| 
 | 20230808T01:10:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANna | 1 | 0| 
 | 20230808T01:08:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANav | 1 | 0| 
@@ -66,14 +67,13 @@
 | 20230807T20:33:13Z | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | https://github.com/kahluri/CVE-2019-9053 | 0 | 0| 
 | 20230807T20:28:56Z | Proyecto movil de peliculas | https://github.com/Exploit34/Exploit34.github.io | 0 | 0| 
 | 20230807T16:06:56Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
-| 20230807T15:53:45Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T01:13:01Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 2 | 0| 
 | 20230808T00:32:10Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 83 | 22| 
-| 20230808T00:23:31Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 1 | 0| 
 | 20230807T16:08:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1986 | 430| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
