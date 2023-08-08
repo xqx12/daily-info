@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230807 | 2022 年美欧网络演习解析 | https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q| 
 | 20230807 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA| 
+| 20230807 | SecWiki周刊（第492期) | https://www.sec-wiki.com/weekly/492| 
 | 20230806 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw| 
 | 20230806 | 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg| 
 | 20230806 | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A| 
@@ -20,22 +21,21 @@
 | 20230805 | 2022 年活跃黑客组织概览 | https://mp.weixin.qq.com/s/8gDd8q4aoh0IwfxvZb0J-Q| 
 | 20230805 | CCF版开源漏洞信息描述规范 | https://www.gitlink.org.cn/zone/CCF-ODC/source/7| 
 | 20230805 | 基于深度学习的源代码缺陷检测研究综述 | http://jos.org.cn/jos/article/pdf/6696| 
-| 20230805 | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230807T16:04:49Z | CVE-2023-39115 | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | https://github.com/Raj789-sec/CVE-2023-39115 | | 
+| 20230807T15:16:41Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
+| 20230807T14:30:29Z | CVE-2022-0952 | Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-0952 | | 
+| 20230807T14:00:20Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230807T13:09:12Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
 | 20230807T06:00:47Z | CVE-2022-21445 | CVE-2022-21445 | https://github.com/StevenMeow/CVE-2022-21445 | | 
 | 20230807T02:03:23Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
-| 20230806T23:19:13Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
 | 20230806T21:23:17Z | CVE-2023-39144 | Vulnerability in Element55 Maketime | https://github.com/cduram/CVE-2023-39144 | | 
 | 20230806T10:47:50Z | CVE-2022-1015 | Null | https://github.com/more-kohii/CVE-2022-1015 | | 
 | 20230806T06:51:08Z | CVE-2023-22809 | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | https://github.com/Toothless5143/CVE-2023-22809 | | 
-| 20230806T02:11:42Z | CVE-2023-2732 | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | https://github.com/Pari-Malam/CVE-2023-2732 | | 
-| 20230805T23:54:23Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
-| 20230805T22:34:15Z | CVE-2023-37979 | Null | https://github.com/Mehran-Seifalinia/CVE-2023-37979 | | 
-| 20230805T16:41:38Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
 
 
 # klee on Github 推荐
@@ -57,21 +57,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T22:21:38Z | Smart contract exploit proof of concept exploit standard interface | https://github.com/ElliotFriedman/poc-template | 0 | 0| 
+| 20230807T22:05:56Z | Black Hat 2023 Exploiting K8S | https://github.com/canderla/bh2023_kubernetes | 0 | 0| 
+| 20230807T20:33:13Z | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | https://github.com/kahluri/CVE-2019-9053 | 0 | 0| 
+| 20230807T20:28:56Z | Proyecto movil de peliculas | https://github.com/Exploit34/Exploit34.github.io | 0 | 0| 
+| 20230807T16:06:56Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
+| 20230807T15:53:45Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers | 3 | 0| 
+| 20230807T15:40:17Z | QR factorizations exploiting specific structures of matrices | https://github.com/Vanadjy/StructuredQR.jl | 0 | 0| 
+| 20230807T14:40:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 704 | 177| 
+| 20230807T14:08:55Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3558 | 600| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
-| 20230807T12:43:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-AqwXj-exploit-bear | 0 | 0| 
-| 20230807T12:21:14Z | This is for htb seasonal lab %download%  root exploit. | https://github.com/1cYinfinity/htbdownloadroot | 0 | 0| 
-| 20230807T11:37:31Z | Protected Binaries exploitation  | https://github.com/Gottiee/overRide | 0 | 0| 
-| 20230807T10:53:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 703 | 177| 
-| 20230807T10:40:41Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169140481-0Dp-O-exploit-wan | 0 | 0| 
-| 20230807T09:59:19Z | 内网探测工具(Internal network detection tool that not contain any exploit code) | https://github.com/zha0gongz1/Three-EyedRaven | 54 | 7| 
-| 20230807T09:48:17Z | Null | https://github.com/inaridiy/curve-aleth-exploit-poc | 0 | 0| 
-| 20230807T09:41:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5837 | 779| 
-| 20230807T08:51:07Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T19:07:25Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 0 | 0| 
+| 20230807T16:08:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1986 | 430| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
 | 20230807T12:38:06Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 0 | 0| 
 | 20230807T10:00:22Z | A botnet based on a discord command and control centre written in python. | https://github.com/MalwareMakers/Python-Botnet | 3 | 0| 
@@ -80,8 +82,6 @@
 | 20230807T02:38:52Z | Null | https://github.com/kakaroot1337/backdoor | 0 | 0| 
 | 20230807T00:21:22Z | Null | https://github.com/kelelawar-cyber-team/Shell-Backdoor | 0 | 0| 
 | 20230806T21:58:30Z | Demonstrates a backdoor attack on a neural net and how it can be prevented. | https://github.com/kitzbergerg/BackdoorBouncer-MNIST | 1 | 0| 
-| 20230806T19:50:18Z | Null | https://github.com/revolt36/basic_backdoor | 0 | 0| 
-| 20230806T16:11:28Z | The implementation of the paper Universal Post-Training Backdoor Detection | https://github.com/wanghangpsu/MM-BD | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T23:04:59Z | Null | https://github.com/AyaanTate/fuzzy-octo-eureka | 27 | 0| 
+| 20230807T23:02:22Z | Fuzzy subcommand matching for click | https://github.com/amyreese/click-fuzzy | 0 | 0| 
+| 20230807T22:53:09Z | Source code for ACTOR, an action-guided kernel fuzzer (USENIX 2023 paper) | https://github.com/ucsb-seclab/actor | 0 | 0| 
 | 20230807T12:42:57Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
 | 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
 | 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
 | 20230807T10:45:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 956 | 230| 
 | 20230807T09:54:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4785 | 1153| 
-| 20230807T05:41:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8854 | 1953| 
-| 20230807T01:25:56Z | Null | https://github.com/thinhtaungam/Fuzzy_logic | 0 | 0| 
-| 20230807T00:29:44Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 593 | 54| 
-| 20230806T22:12:48Z | Null | https://github.com/AITys/fuzzy-spork | 0 | 0| 
+| 20230807T05:41:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8854 | 1954| 
 
 
 
