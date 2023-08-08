@@ -63,6 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T06:24:55Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 39 | 7| 
 | 20230808T01:01:29Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 672 | 119| 
 
 
