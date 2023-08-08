@@ -87,13 +87,13 @@
 | 20230807T23:04:59Z | Null | https://github.com/AyaanTate/fuzzy-octo-eureka | 27 | 0| 
 | 20230807T23:02:22Z | Fuzzy subcommand matching for click | https://github.com/amyreese/click-fuzzy | 0 | 0| 
 | 20230807T22:53:09Z | Source code for ACTOR, an action-guided kernel fuzzer (USENIX 2023 paper) | https://github.com/ucsb-seclab/actor | 0 | 0| 
+| 20230807T21:24:17Z | Old coverage-guided fuzz testing for fxamacker/cbor.  A newer version is used by fxamacker/cbor for fuzzing. | https://github.com/fxamacker/cbor-fuzz | 10 | 2| 
 | 20230807T12:42:57Z | Null | https://github.com/myorganization123/fuzzy-memory | 0 | 0| 
 | 20230807T11:33:54Z | Fuzz testing with medusa | https://github.com/Tri-pathi/Medusa-Fizzer | 0 | 0| 
 | 20230807T11:16:51Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
 | 20230807T10:45:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 956 | 230| 
 | 20230807T09:54:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4785 | 1153| 
-| 20230807T08:18:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3772 | 447| 
 
 
 
