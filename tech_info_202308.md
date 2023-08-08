@@ -72,7 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230808T00:26:30Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 83 | 22| 
+| 20230808T00:32:10Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 83 | 22| 
 | 20230808T00:23:31Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 1 | 0| 
 | 20230807T16:08:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1986 | 430| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
