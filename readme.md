@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T12:16:14Z | Python wrapper for ysoserial-all.jar that makes exploiting Java deserialization much easier | https://github.com/aludermin/ysoserial-wrapper | 0 | 0| 
 | 20230808T12:06:31Z | Exploit Page For Ps4 9.00 | https://github.com/mrdogeYt/mrdogeYt.github.io | 0 | 0| 
 | 20230808T10:47:36Z | Assets used in lecture %手を動かして理解するLinux Kernel Exploit% at SecurityCamp2023. | https://github.com/smallkirby/seccamp23c2-assets | 1 | 0| 
 | 20230808T10:28:52Z | Writeup of stack based buffer overflow from john ericksons art of exploitation | https://github.com/Sk1dd3y/authoverflow-writeup | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20230808T09:23:47Z | Containing PoC%s | https://github.com/Avo-Catto/PoCs | 0 | 0| 
 | 20230808T07:41:43Z | Fac-dev software exploitation resources | https://github.com/Rewzilla/sre-ak | 0 | 0| 
 | 20230808T07:18:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 79 | 30| 
-| 20230808T07:15:25Z | Exploit mail function in php when admin disabled other functions like shell. Uses LD_PRELOAD | https://github.com/richardschwabe/chankro3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
