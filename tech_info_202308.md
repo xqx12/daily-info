@@ -121,7 +121,7 @@
 | 20230807T11:16:48Z | Null | https://github.com/RocketPLN/fuzzy | 0 | 0| 
 | 20230807T10:45:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 956 | 230| 
 | 20230807T09:54:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4785 | 1153| 
-| 20230807T05:41:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8854 | 1954| 
+| 20230807T08:18:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3772 | 447| 
 
 
 
