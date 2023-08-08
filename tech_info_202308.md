@@ -72,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T00:06:21Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 83 | 22| 
 | 20230807T19:07:25Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/phith0n/metersphere-plugin-Backdoor | 0 | 0| 
 | 20230807T16:08:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1986 | 430| 
 | 20230807T12:50:12Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 2 | 1| 
@@ -81,7 +82,6 @@
 | 20230807T07:20:06Z | Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows | https://github.com/imperialbyte/CVE-2010-2075 | 0 | 0| 
 | 20230807T02:38:52Z | Null | https://github.com/kakaroot1337/backdoor | 0 | 0| 
 | 20230807T00:21:22Z | Null | https://github.com/kelelawar-cyber-team/Shell-Backdoor | 0 | 0| 
-| 20230806T21:58:30Z | Demonstrates a backdoor attack on a neural net and how it can be prevented. | https://github.com/kitzbergerg/BackdoorBouncer-MNIST | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
