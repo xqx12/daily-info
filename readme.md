@@ -72,6 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230807T23:23:03Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 38 | 7| 
 | 20230807T12:15:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 429 | 29| 
 
 
