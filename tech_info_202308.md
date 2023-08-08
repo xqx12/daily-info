@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T01:33:37Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/windows_exploit_dev | 35 | 12| 
 | 20230808T01:26:33Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0019-0014-app-0mKtN-forgive-exploit | 0 | 0| 
 | 20230808T01:22:25Z | Linux binary exploitation | https://github.com/greyshell/linux_exploit_dev | 0 | 0| 
 | 20230808T01:13:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWna | 1 | 0| 
@@ -66,7 +67,6 @@
 | 20230807T23:41:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5225 | 659| 
 | 20230807T22:21:38Z | Smart contract exploit proof of concept exploit standard interface | https://github.com/ElliotFriedman/poc-template | 0 | 0| 
 | 20230807T22:05:56Z | Black Hat 2023 Exploiting K8S | https://github.com/canderla/bh2023_kubernetes | 0 | 0| 
-| 20230807T20:33:13Z | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | https://github.com/kahluri/CVE-2019-9053 | 0 | 0| 
 
 
 # backdoor on Github 推荐
