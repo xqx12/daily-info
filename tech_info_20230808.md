@@ -76,9 +76,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T12:24:53Z | Null | https://github.com/dr-gareth-roberts/fuzzy-octo-disco | 0 | 0| 
 | 20230808T11:18:58Z | A Fast FuzzySearch service written in go. Only made for NezukoChan usage. | https://github.com/NezuChan/fuzzier | 1 | 0| 
 | 20230808T11:06:05Z | Null | https://github.com/joecronin2/fuzzy-waffle | 0 | 0| 
 | 20230808T10:44:14Z | Null | https://github.com/madeshgithub/Fuzzy-logic-controller-based-MPPT-of-solar-pv-array-using-matlab | 0 | 0| 
+| 20230808T10:40:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8853 | 1953| 
 | 20230808T09:37:08Z | Null | https://github.com/Danxueluo/Hesitant-fuzzy-BiRNN | 0 | 0| 
 | 20230808T09:31:33Z | Null | https://github.com/manthonygfp/go-fuzzing-example | 0 | 0| 
 | 20230808T02:17:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 293 | 44| 
