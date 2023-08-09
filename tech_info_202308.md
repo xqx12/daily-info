@@ -68,10 +68,10 @@
 | 20230809T01:02:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5251 | 1030| 
 | 20230809T01:01:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANss | 0 | 0| 
 | 20230809T00:35:45Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14208 | 2412| 
+| 20230809T00:20:19Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 210 | 12| 
 | 20230808T23:52:01Z | Discord Exploit  | https://github.com/dehoisted/Diffcord | 1 | 0| 
 | 20230808T23:04:25Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 2 | 0| 
 | 20230808T22:57:50Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 14 | 4| 
-| 20230808T22:47:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 147 | 13| 
 
 
 # backdoor on Github 推荐
