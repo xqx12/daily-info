@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230809T00:01:31Z | CVE-2023-1389 | Null | https://github.com/Voyag3r-Security/CVE-2023-1389 | | 
 | 20230808T17:00:45Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230808T08:36:36Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
 | 20230808T08:17:29Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
@@ -35,7 +36,6 @@
 | 20230807T06:00:47Z | CVE-2022-21445 | CVE-2022-21445 | https://github.com/StevenMeow/CVE-2022-21445 | | 
 | 20230807T02:03:23Z | CVE-2023-36168 | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | https://github.com/TraiLeR2/CVE-2023-36168 | | 
 | 20230806T21:23:17Z | CVE-2023-39144 | Vulnerability in Element55 Maketime | https://github.com/cduram/CVE-2023-39144 | | 
-| 20230806T10:47:50Z | CVE-2022-1015 | Null | https://github.com/more-kohii/CVE-2022-1015 | | 
 
 
 # klee on Github 推荐
@@ -91,10 +91,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T15:26:13Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 430 | 29| 
 | 20230808T06:24:55Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 39 | 7| 
 | 20230808T01:01:29Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 672 | 119| 
 | 20230808T00:49:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2295 | 634| 
-| 20230807T12:15:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 429 | 29| 
 | 20230807T03:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 348 | 81| 
 | 20230804T09:55:19Z | PLI is an efficient symbolic execution approach for programs that manipulate complex heap-allocated data structures with rich structural constraints | https://github.com/JuanmaCopia/spf-pli | 0 | 0| 
 | 20230804T00:44:42Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1128 | 130| 
@@ -105,10 +105,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230808T19:32:40Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 29 | 2| 
+| 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 
 | 20230808T03:20:53Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 730 | 122| 
 | 20230807T18:42:07Z | Kubernetes | https://github.com/LeeJyor/NDSstudy | 0 | 0| 
 | 20230806T17:40:51Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 19 | 2| 
-| 20230806T03:16:43Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 26 | 2| 
 | 20230803T10:55:37Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 27 | 2| 
 | 20230803T04:09:31Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230802T04:19:51Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 3 | 1| 
