@@ -61,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230809T01:02:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANss | 1 | 0| 
+| 20230809T01:02:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5251 | 1030| 
 | 20230809T01:01:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANss | 0 | 0| 
 | 20230809T00:35:45Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14208 | 2412| 
 | 20230808T23:52:01Z | Discord Exploit  | https://github.com/dehoisted/Diffcord | 1 | 0| 
 | 20230808T23:04:25Z | A weather forecast site exploiting weatherapi public API. | https://github.com/ahmeducf/weather-app | 2 | 0| 
 | 20230808T22:57:50Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 14 | 4| 
-| 20230808T22:57:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5250 | 1030| 
 | 20230808T22:47:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 147 | 13| 
 | 20230808T22:46:51Z | This is a very detailed Binary exploitation roadmap starting from the very first vulnerability to the latest , each one with its mitigation | https://github.com/Imeneallouche/Binary-Exploitation-Roadmap | 1 | 0| 
 | 20230808T22:16:56Z | HTML HAX lets you build exploits with HTML, CSS and Javascript | https://github.com/realrohaxexploits/HTMLHAX | 0 | 0| 
-| 20230808T20:05:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5228 | 659| 
 
 
 # backdoor on Github 推荐
