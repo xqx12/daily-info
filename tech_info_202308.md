@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230809T12:11:59Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
+| 20230809T12:15:05Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
 | 20230809T11:55:17Z | Fuzzing and breaking contracts with ToB%s medusa | https://github.com/0xChin/medusa-examples | 0 | 0| 
 | 20230809T11:37:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8858 | 1954| 
 | 20230809T10:40:27Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 465 | 110| 
