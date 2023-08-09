@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230809T01:01:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3781 | 450| 
+| 20230809T01:45:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3782 | 450| 
 | 20230808T23:36:16Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 362 | 45| 
 | 20230808T22:32:18Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
 | 20230808T22:19:46Z | My clone repository | https://github.com/HaiderAliAbbasi/fuzzy-garbanzo | 0 | 0| 
