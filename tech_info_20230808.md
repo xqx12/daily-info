@@ -51,9 +51,9 @@
 | 20230808T22:47:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 147 | 13| 
 | 20230808T22:46:51Z | This is a very detailed Binary exploitation roadmap starting from the very first vulnerability to the latest , each one with its mitigation | https://github.com/Imeneallouche/Binary-Exploitation-Roadmap | 1 | 0| 
 | 20230808T22:16:56Z | HTML HAX lets you build exploits with HTML, CSS and Javascript | https://github.com/realrohaxexploits/HTMLHAX | 0 | 0| 
+| 20230808T20:05:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5228 | 659| 
 | 20230808T19:25:53Z | Null | https://github.com/SaiLikhithaPacha/tcp-exploit | 0 | 0| 
 | 20230808T16:10:44Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 44 | 9| 
-| 20230808T15:42:11Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 0 | 0| 
 
 
 # backdoor on Github 推荐
