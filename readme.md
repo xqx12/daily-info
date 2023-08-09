@@ -64,7 +64,7 @@
 | 20230808T16:22:56Z | [ICLR2023] Distilling Cognitive Backdoor Patterns within an Image | https://github.com/HanxunH/CognitiveDistillation | 21 | 1| 
 | 20230808T14:25:28Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/vulhub/metersphere-plugin-Backdoor | 4 | 0| 
 | 20230808T13:21:50Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 2 | 0| 
-| 20230808T13:10:54Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 0| 
+| 20230808T13:10:54Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 1| 
 | 20230808T12:00:47Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 101 | 12| 
 | 20230808T09:50:12Z | Null | https://github.com/emtee40/pinduoduo_backdoor | 0 | 0| 
 | 20230808T08:51:13Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2210 | 867| 
