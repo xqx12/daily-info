@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230809T12:01:12Z | CVE-2022-0165 | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | | 
 | 20230809T11:55:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230809T11:54:25Z | CVE-2022-0165 | Null | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | | 
 | 20230809T11:45:36Z | CVE-2021-34621 | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | https://github.com/RandomRobbieBF/CVE-2021-34621 | | 
 | 20230809T11:11:56Z | CVE-2022-0952 | Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-0952 | | 
 | 20230809T10:43:58Z | CVE-2021-25032 | PublishPress Capabilities < 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | https://github.com/RandomRobbieBF/CVE-2021-25032 | | 
@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230809T11:54:25Z | Null | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | 0 | 0| 
+| 20230809T12:01:12Z | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | 0 | 0| 
 | 20230809T11:29:35Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 2 | 0| 
 | 20230809T11:28:54Z | Null | https://github.com/TWSTYPH/DJI_M300RTK_OSDK_Exploitation | 0 | 0| 
 | 20230809T10:20:19Z | 云环境利用框架（Cloud exploitation framework）主要用来方便红队人员在获得 AK 的后续工作。 | https://github.com/0xorOne/cf | 3 | 0| 
@@ -110,7 +110,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230808T19:32:40Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 29 | 2| 
+| 20230809T10:40:08Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 30 | 2| 
+| 20230809T04:53:36Z | Null | https://github.com/NDSSTUDIO/ndsstudio.github.io | 0 | 0| 
+| 20230809T03:13:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 12 | 1| 
 | 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 
 | 20230808T03:20:53Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 730 | 122| 
 | 20230807T18:42:07Z | Kubernetes | https://github.com/LeeJyor/NDSstudy | 0 | 0| 
