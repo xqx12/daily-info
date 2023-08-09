@@ -42,6 +42,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230808T19:24:12Z | a nice and clean starting platform | https://github.com/iglinako/kleenstart | 0 | 0| 
+| 20230808T16:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2296 | 634| 
 | 20230808T16:13:40Z | UI Library | https://github.com/ggenzone/kleene-ui | 5 | 0| 
 | 20230808T08:41:34Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 83 | 18| 
 | 20230808T07:35:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 338 | 6| 
