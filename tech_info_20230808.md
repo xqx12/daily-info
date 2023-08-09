@@ -68,7 +68,7 @@
 | 20230808T13:10:54Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 0 | 1| 
 | 20230808T12:00:47Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 101 | 12| 
 | 20230808T09:50:12Z | Null | https://github.com/emtee40/pinduoduo_backdoor | 0 | 0| 
-| 20230808T08:51:13Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2210 | 867| 
+| 20230808T08:51:13Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2210 | 868| 
 | 20230808T05:15:27Z | CVPR 2023 Remove Model Backdoors via Importance Driven Cloning | https://github.com/qiulingxu/MEDIC | 3 | 0| 
 
 
