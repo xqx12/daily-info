@@ -99,9 +99,9 @@
 | 20230808T21:15:04Z | Some of the examples out of the %Fuzzy Data Matching with SQL% book from O%Reilly Media. | https://github.com/dullroar/fuzzy-examples | 0 | 0| 
 | 20230808T18:48:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8854 | 1953| 
 | 20230808T16:38:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2761 | 190| 
+| 20230808T14:18:37Z | Null | https://github.com/google/fuzztest | 360 | 27| 
 | 20230808T12:54:17Z | Null | https://github.com/joecronin2/fuzzy-waffle | 0 | 0| 
 | 20230808T12:39:33Z | Null | https://github.com/nijishisuoyou24/fuzzy-eureka | 0 | 0| 
-| 20230808T12:24:53Z | Null | https://github.com/dr-gareth-roberts/fuzzy-octo-disco | 0 | 0| 
 
 
 
