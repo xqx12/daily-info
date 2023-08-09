@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230809T12:11:59Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
 | 20230809T11:55:17Z | Fuzzing and breaking contracts with ToB%s medusa | https://github.com/0xChin/medusa-examples | 0 | 0| 
 | 20230809T11:37:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8858 | 1954| 
 | 20230809T10:40:27Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 465 | 110| 
@@ -134,7 +135,6 @@
 | 20230808T22:32:18Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
 | 20230808T22:19:46Z | My clone repository | https://github.com/HaiderAliAbbasi/fuzzy-garbanzo | 0 | 0| 
 | 20230808T21:34:07Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 367 | 12| 
-| 20230808T21:15:04Z | Some of the examples out of the %Fuzzy Data Matching with SQL% book from O%Reilly Media. | https://github.com/dullroar/fuzzy-examples | 0 | 0| 
 
 
 
