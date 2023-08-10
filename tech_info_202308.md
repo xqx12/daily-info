@@ -134,7 +134,7 @@
 | 20230810T09:25:17Z | Null | https://github.com/AltaEg0s/fuzzy-adventure | 0 | 0| 
 | 20230810T09:16:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 640 | 72| 
 | 20230810T08:58:39Z | Null | https://github.com/StackOverflowExcept1on/fuzzer | 0 | 0| 
-| 20230810T07:56:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4790 | 1153| 
+| 20230810T07:56:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4790 | 1154| 
 
 
 
