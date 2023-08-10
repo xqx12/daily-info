@@ -90,7 +90,6 @@
 | 20230809T23:47:53Z | Null | https://github.com/google/fuzztest | 363 | 27| 
 | 20230809T21:55:25Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
 | 20230809T20:31:17Z | Null | https://github.com/uygav/fuzzle | 0 | 0| 
-| 20230809T19:59:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3788 | 450| 
 | 20230809T16:44:53Z | Null | https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project | 0 | 0| 
 | 20230809T12:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8859 | 1955| 
 | 20230809T12:15:05Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 

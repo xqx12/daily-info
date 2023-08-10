@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 88| 
+| 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 89| 
 | 20230810T00:26:33Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
 | 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
 | 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
@@ -125,11 +125,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T01:09:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3789 | 450| 
 | 20230810T00:56:47Z | Programas simuladores en los que se aplican controles PID y Fuzzy | https://github.com/damianquijano/controlPidFuzzy | 0 | 0| 
 | 20230809T23:47:53Z | Null | https://github.com/google/fuzztest | 363 | 27| 
 | 20230809T21:55:25Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
 | 20230809T20:31:17Z | Null | https://github.com/uygav/fuzzle | 0 | 0| 
-| 20230809T19:59:12Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3788 | 450| 
 | 20230809T16:44:53Z | Null | https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project | 0 | 0| 
 | 20230809T12:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8859 | 1955| 
 | 20230809T12:15:05Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
