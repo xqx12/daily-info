@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T12:02:15Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
 | 20230810T11:56:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3861 | 785| 
 | 20230810T10:43:43Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 34 | 3| 
 | 20230810T09:29:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8861 | 1955| 
@@ -77,7 +78,6 @@
 | 20230810T09:16:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 640 | 72| 
 | 20230810T08:58:39Z | Null | https://github.com/StackOverflowExcept1on/fuzzer | 0 | 0| 
 | 20230810T07:56:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4790 | 1153| 
-| 20230810T07:47:19Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
 | 20230810T01:09:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3789 | 450| 
 | 20230810T00:56:47Z | Programas simuladores en los que se aplican controles PID y Fuzzy | https://github.com/damianquijano/controlPidFuzzy | 0 | 0| 
 
