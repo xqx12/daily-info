@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230810T00:08:32Z | CVE-2023-27163 | Null | https://github.com/rvizx/CVE-2023-27163 | | 
 | 20230809T21:32:12Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230809T20:58:51Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
 | 20230809T18:28:04Z | CVE-2021-34621 | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | https://github.com/RandomRobbieBF/CVE-2021-34621 | | 
@@ -35,7 +36,6 @@
 | 20230809T12:01:12Z | CVE-2022-0165 | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | | 
 | 20230809T11:55:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
 | 20230809T11:11:56Z | CVE-2022-0952 | Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-0952 | | 
-| 20230809T10:43:58Z | CVE-2021-25032 | PublishPress Capabilities < 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | https://github.com/RandomRobbieBF/CVE-2021-25032 | | 
 
 
 # klee on Github 推荐
