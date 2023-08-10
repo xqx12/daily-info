@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T01:21:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5253 | 1030| 
 | 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 89| 
 | 20230810T00:26:33Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
 | 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
+| 20230809T23:37:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 211 | 12| 
 | 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
 | 20230809T18:31:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5234 | 660| 
 | 20230809T18:30:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 46 | 9| 
 | 20230809T18:20:32Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 9 | 1| 
 | 20230809T12:34:11Z | Null | https://github.com/TWSTYPH/DJI_M300RTK_OSDK_Exploitation | 0 | 0| 
-| 20230809T12:01:12Z | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | 0 | 0| 
-| 20230809T11:29:35Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 2 | 0| 
 
 
 # backdoor on Github 推荐

@@ -47,6 +47,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
+| 20230809T23:37:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 211 | 12| 
 | 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
 | 20230809T18:31:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5234 | 660| 
 | 20230809T18:30:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 46 | 9| 
@@ -55,7 +56,6 @@
 | 20230809T12:01:12Z | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | 0 | 0| 
 | 20230809T11:29:35Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 2 | 0| 
 | 20230809T10:20:19Z | 云环境利用框架（Cloud exploitation framework）主要用来方便红队人员在获得 AK 的后续工作。 | https://github.com/0xorOne/cf | 3 | 0| 
-| 20230809T09:45:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-5rOj0-argue-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
