@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230810T00:25:04Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
+| 20230810T00:26:33Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
 | 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
 | 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
 | 20230809T18:30:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 46 | 9| 
