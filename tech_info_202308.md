@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T01:16:26Z | Null | https://github.com/L4CTOSE/Backdoor-AI-v1-Open-Source | 0 | 0| 
 | 20230809T23:11:58Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/Backdoor | 1 | 0| 
 | 20230809T22:12:31Z | it%s an alpha shell that I%ve modified with a few extra features | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
 | 20230809T18:52:06Z | Backdoor Python script  | https://github.com/issamiso/Pymeter | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230809T06:08:21Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 1 | 1| 
 | 20230809T04:09:08Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 5 | 0| 
 | 20230808T18:20:12Z | Windows Backdoor created in C  | https://github.com/Swayampadhy/Cintruder | 0 | 0| 
-| 20230808T16:44:25Z | Deanonymization of darknet users & backdoor without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
