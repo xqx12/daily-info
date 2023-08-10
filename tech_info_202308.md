@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T12:36:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 708 | 177| 
 | 20230810T11:59:33Z | Null | https://github.com/Mythicv2/YoutubeExploit | 0 | 0| 
 | 20230810T11:33:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5406 | 753| 
 | 20230810T10:35:34Z | Tool for automatic bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20230810T07:09:27Z | The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers. This Python project provided a segmentation analysis base on RFM Model.  | https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python | 0 | 0| 
 | 20230810T04:09:51Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 366 | 74| 
 | 20230810T01:21:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5253 | 1030| 
-| 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 89| 
 
 
 # backdoor on Github 推荐
