@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230810T00:08:32Z | CVE-2023-27163 | Null | https://github.com/rvizx/CVE-2023-27163 | | 
-| 20230809T21:32:12Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
+| 20230810T11:38:49Z | 未知编号 | Null | https://github.com/Dlux-cyber-projects/cve-search-2023 | | 
+| 20230810T08:43:49Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
+| 20230810T05:46:57Z | CVE-2023-27163 | CVE-2023-27163 - Request Baskets SSRF | https://github.com/rvizx/CVE-2023-27163 | | 
+| 20230810T03:37:25Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230809T20:58:51Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
 | 20230809T18:28:04Z | CVE-2021-34621 | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | https://github.com/RandomRobbieBF/CVE-2021-34621 | | 
 | 20230809T18:27:28Z | CVE-2021-24356 | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | https://github.com/RandomRobbieBF/CVE-2021-24356 | | 
 | 20230809T16:36:32Z | CVE-2023- | Null | https://github.com/lotusexpeditor/CVE-2023-XXX1 | | 
 | 20230809T12:49:25Z | CVE-2023-30533 | CVE-2023-30533 | https://github.com/BenEdridge/CVE-2023-30533 | | 
 | 20230809T12:01:12Z | CVE-2022-0165 | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | | 
-| 20230809T11:55:32Z | CVE-2023-23638 | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp | | 
-| 20230809T11:11:56Z | CVE-2022-0952 | Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2022-0952 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230809T10:42:47Z | Null | https://github.com/SARMISTHASUBHADARSHINI/klee_s | 0 | 0| 
-| 20230809T08:37:48Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 84 | 18| 
+| 20230809T08:37:48Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 84 | 19| 
 | 20230809T01:47:46Z | Klee meme pet-practice project | https://github.com/AkiraQZ/klee_meme | 0 | 0| 
 | 20230808T19:24:12Z | a nice and clean starting platform | https://github.com/iglinako/kleenstart | 0 | 0| 
 | 20230808T16:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2296 | 634| 
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T11:59:33Z | Null | https://github.com/Mythicv2/YoutubeExploit | 0 | 0| 
+| 20230810T11:33:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5406 | 753| 
+| 20230810T10:35:34Z | Tool for automatic bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
+| 20230810T10:21:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/spring-boot-app-t1-eBHnm-conduct-exploit | 0 | 0| 
+| 20230810T09:57:45Z | [ Drupal auto exploit PHP tools ]  👻 (❤-❤) 👻 | https://github.com/axinvolve/drupalautoexploit | 2 | 0| 
+| 20230810T07:59:53Z | Null | https://github.com/VladimirPokhodnya/service-exploit-prod | 0 | 0| 
+| 20230810T07:09:27Z | The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers. This Python project provided a segmentation analysis base on RFM Model.  | https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python | 0 | 0| 
+| 20230810T04:09:51Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 366 | 74| 
 | 20230810T01:21:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5253 | 1030| 
 | 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 89| 
-| 20230810T00:26:33Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
-| 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
-| 20230809T23:37:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 211 | 12| 
-| 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
-| 20230809T18:31:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5234 | 660| 
-| 20230809T18:30:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 46 | 9| 
-| 20230809T18:20:32Z | EPSS(Exploit Prediction Scoring System) API client | https://github.com/kannkyo/epss-api | 9 | 1| 
-| 20230809T12:34:11Z | Null | https://github.com/TWSTYPH/DJI_M300RTK_OSDK_Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T09:13:39Z | Python Back Door UNFETECTABLE By Antivirus | https://github.com/Fattcat/Python-BackDoor | 0 | 0| 
+| 20230810T07:13:39Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL | 0 | 0| 
+| 20230810T05:22:40Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 0 | 0| 
+| 20230810T04:10:46Z | Null | https://github.com/polaris-73/UMD-backdoor-detection | 1 | 1| 
 | 20230810T01:36:10Z | Backdoor AI Open Source | https://github.com/L4CTOSE/Backdoor-AI-v1-Open-Source | 0 | 0| 
 | 20230809T23:11:58Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/Backdoor | 1 | 0| 
 | 20230809T22:12:31Z | it%s an alpha shell that I%ve modified with a few extra features | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
 | 20230809T18:52:06Z | Backdoor Python script  | https://github.com/issamiso/Pymeter | 0 | 0| 
 | 20230809T17:25:35Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 103 | 13| 
 | 20230809T10:41:58Z | Null | https://github.com/Aapng-cmd/backdoor_2 | 0 | 0| 
-| 20230809T06:21:43Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/PC-Backdoor | 0 | 0| 
-| 20230809T06:08:21Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 1 | 1| 
-| 20230809T04:09:08Z | PatchBackdoor is a code base associated with paper PatchBackdoor.  | https://github.com/XaiverYuan/PatchBackdoor | 5 | 0| 
-| 20230808T18:20:12Z | Windows Backdoor created in C  | https://github.com/Swayampadhy/Cintruder | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T11:56:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3861 | 785| 
+| 20230810T10:43:43Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 34 | 3| 
+| 20230810T09:29:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8861 | 1955| 
+| 20230810T09:25:17Z | Null | https://github.com/AltaEg0s/fuzzy-adventure | 0 | 0| 
+| 20230810T09:16:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 640 | 72| 
+| 20230810T08:58:39Z | Null | https://github.com/StackOverflowExcept1on/fuzzer | 0 | 0| 
+| 20230810T07:56:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4790 | 1153| 
+| 20230810T07:47:19Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
 | 20230810T01:09:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3789 | 450| 
 | 20230810T00:56:47Z | Programas simuladores en los que se aplican controles PID y Fuzzy | https://github.com/damianquijano/controlPidFuzzy | 0 | 0| 
-| 20230809T23:47:53Z | Null | https://github.com/google/fuzztest | 363 | 27| 
-| 20230809T21:55:25Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
-| 20230809T20:31:17Z | Null | https://github.com/uygav/fuzzle | 0 | 0| 
-| 20230809T16:44:53Z | Null | https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project | 0 | 0| 
-| 20230809T12:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8859 | 1955| 
-| 20230809T12:15:05Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
-| 20230809T11:55:17Z | Fuzzing and breaking contracts with ToB%s medusa | https://github.com/0xChin/medusa-examples | 0 | 0| 
-| 20230809T10:40:27Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 465 | 110| 
 
 
 
