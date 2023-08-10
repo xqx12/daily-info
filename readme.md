@@ -50,6 +50,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T12:26:49Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 104 | 13| 
 | 20230810T09:13:39Z | Python Back Door UNFETECTABLE By Antivirus | https://github.com/Fattcat/Python-BackDoor | 0 | 0| 
 | 20230810T07:13:39Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL | 0 | 0| 
 | 20230810T05:22:40Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 0 | 0| 
