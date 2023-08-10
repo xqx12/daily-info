@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T00:41:03Z | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.  | https://github.com/skahwah/SQLRecon | 469 | 88| 
 | 20230810T00:26:33Z | A security blog focusing on malware development, reverse engineering, and binary exploitation. | https://github.com/0xf00I/0xf00i.github.io | 0 | 0| 
 | 20230809T23:47:34Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 148 | 13| 
 | 20230809T22:36:31Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 16 | 4| 
@@ -75,7 +76,6 @@
 | 20230809T12:34:11Z | Null | https://github.com/TWSTYPH/DJI_M300RTK_OSDK_Exploitation | 0 | 0| 
 | 20230809T12:01:12Z | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT | 0 | 0| 
 | 20230809T11:29:35Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 2 | 0| 
-| 20230809T10:20:19Z | 云环境利用框架（Cloud exploitation framework）主要用来方便红队人员在获得 AK 的后续工作。 | https://github.com/0xorOne/cf | 3 | 0| 
 
 
 # backdoor on Github 推荐
