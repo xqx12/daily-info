@@ -61,6 +61,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230809T23:11:58Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/Backdoor | 1 | 0| 
+| 20230809T22:12:31Z | it%s an alpha shell that I%ve modified with a few extra features | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
+| 20230809T18:52:06Z | Backdoor Python script  | https://github.com/issamiso/Pymeter | 0 | 0| 
+| 20230809T17:25:35Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 103 | 13| 
 | 20230809T10:41:58Z | Null | https://github.com/Aapng-cmd/backdoor_2 | 0 | 0| 
 | 20230809T06:21:43Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/PC-Backdoor | 0 | 0| 
 | 20230809T06:08:21Z | Utility to scan potential backdoors and use them. | https://github.com/jLn0n/beckdeer-skenner | 1 | 1| 
