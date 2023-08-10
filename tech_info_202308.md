@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230810T00:56:47Z | Programas simuladores en los que se aplican controles PID y Fuzzy | https://github.com/damianquijano/controlPidFuzzy | 0 | 0| 
 | 20230809T23:47:53Z | Null | https://github.com/google/fuzztest | 363 | 27| 
 | 20230809T21:55:25Z | Null | https://github.com/fuzz4all/fuzz4all.github.io | 0 | 0| 
 | 20230809T20:31:17Z | Null | https://github.com/uygav/fuzzle | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230809T12:15:05Z | Null | https://github.com/stawuah/fuzzy-system | 0 | 0| 
 | 20230809T11:55:17Z | Fuzzing and breaking contracts with ToB%s medusa | https://github.com/0xChin/medusa-examples | 0 | 0| 
 | 20230809T10:40:27Z | A fuzzer for detecting open redirect vulnerabilities | https://github.com/devanshbatham/OpenRedireX | 465 | 110| 
-| 20230809T08:39:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4789 | 1152| 
 
 
 
