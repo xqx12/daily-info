@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
 | 20230811T09:32:15Z | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | 6 | 4| 
 | 20230811T09:10:19Z | Code for my %CADENCE: Compressing Audio Data by Exploiting Cyclical Elements% master%s thesis at the University of St. Gallen | https://github.com/macemoth/audio-compression-msc | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230811T03:09:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5408 | 753| 
 | 20230811T01:53:29Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 212 | 12| 
 | 20230811T01:38:30Z |   Full source code with Exploits + Injector | https://github.com/santahacks/Fortnite-Internal-Cheat | 0 | 0| 
-| 20230811T00:04:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0040-app-r1C0p-organise-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
