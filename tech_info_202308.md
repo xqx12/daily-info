@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230811T01:39:40Z | CVE-2023-26067 | Lexmark CVE-2023-26067 | https://github.com/horizon3ai/CVE-2023-26067 | | 
 | 20230810T19:57:33Z | CVE-2023-30533 | CVE-2023-30533 | https://github.com/BenEdridge/CVE-2023-30533 | | 
 | 20230810T16:55:07Z | CVE-2023-21752 | Null | https://github.com/yosef0x01/CVE-2023-21752 | | 
 | 20230810T15:14:11Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
@@ -35,7 +36,6 @@
 | 20230809T20:58:51Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
 | 20230809T18:28:04Z | CVE-2021-34621 | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | https://github.com/RandomRobbieBF/CVE-2021-34621 | | 
 | 20230809T18:27:28Z | CVE-2021-24356 | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | https://github.com/RandomRobbieBF/CVE-2021-24356 | | 
-| 20230809T16:36:32Z | CVE-2023- | Null | https://github.com/lotusexpeditor/CVE-2023-XXX1 | | 
 
 
 # klee on Github 推荐
