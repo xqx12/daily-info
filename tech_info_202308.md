@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T01:38:30Z |   Full source code with Exploits + Injector | https://github.com/santahacks/Fortnite-Internal-Cheat | 0 | 0| 
 | 20230811T00:04:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0040-app-r1C0p-organise-exploit | 0 | 0| 
 | 20230810T23:50:03Z | The exploit source code  | https://github.com/kirakundev/exploitHub | 1 | 0| 
 | 20230810T22:25:36Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/MultiCryptoExchangeArbitrageTrading | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230810T19:03:01Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 3 | 0| 
 | 20230810T14:45:22Z | This is an exploit hub script for F3X Admin Hangout in Roblox. | https://github.com/SkuppyG/f3x-admin-hangput-exploit-hub | 0 | 0| 
 | 20230810T12:36:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 708 | 177| 
-| 20230810T11:59:33Z | Null | https://github.com/Mythicv2/YoutubeExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
