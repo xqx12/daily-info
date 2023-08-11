@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T00:04:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0040-app-r1C0p-organise-exploit | 0 | 0| 
 | 20230810T23:50:03Z | The exploit source code  | https://github.com/kirakundev/exploitHub | 1 | 0| 
 | 20230810T22:25:36Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/MultiCryptoExchangeArbitrageTrading | 0 | 0| 
 | 20230810T22:12:27Z | Null | https://github.com/My-Honest-Reaction/UTMM-Private-Exploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230810T11:59:33Z | Null | https://github.com/Mythicv2/YoutubeExploit | 0 | 0| 
 | 20230810T11:33:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5406 | 753| 
 | 20230810T10:35:34Z | Tool for automatic bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
-| 20230810T10:21:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/spring-boot-app-t1-eBHnm-conduct-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
