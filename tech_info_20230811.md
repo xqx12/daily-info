@@ -57,6 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:20:14Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
 | 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
 | 20230811T08:02:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 184 | 19| 
 | 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 

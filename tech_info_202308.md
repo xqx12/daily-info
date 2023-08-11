@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:20:14Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
 | 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
 | 20230811T08:02:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 184 | 19| 
 | 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 
@@ -90,7 +91,6 @@
 | 20230810T05:22:40Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 0 | 0| 
 | 20230810T04:10:46Z | Null | https://github.com/polaris-73/UMD-backdoor-detection | 1 | 1| 
 | 20230810T01:36:10Z | Backdoor AI Open Source | https://github.com/L4CTOSE/Backdoor-AI-v1-Open-Source | 0 | 0| 
-| 20230809T23:11:58Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
