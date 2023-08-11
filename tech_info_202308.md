@@ -134,7 +134,7 @@
 | 20230810T20:52:17Z | https://www.huckfacebook.com | https://github.com/rskyfebransyhh/fuzzy-fiesta | 0 | 0| 
 | 20230810T16:56:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3793 | 451| 
 | 20230810T14:44:15Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2761 | 190| 
-| 20230810T12:33:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1481 | 206| 
+| 20230810T12:50:44Z | Null | https://github.com/google/fuzztest | 365 | 26| 
 
 
 
