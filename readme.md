@@ -41,13 +41,13 @@
 | 20230810T23:50:03Z | The exploit source code  | https://github.com/kirakundev/exploitHub | 1 | 0| 
 | 20230810T22:25:36Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/MultiCryptoExchangeArbitrageTrading | 0 | 0| 
 | 20230810T22:12:27Z | Null | https://github.com/My-Honest-Reaction/UTMM-Private-Exploit | 0 | 0| 
+| 20230810T21:48:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5254 | 1031| 
+| 20230810T21:13:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5239 | 661| 
 | 20230810T19:03:01Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 3 | 0| 
 | 20230810T14:45:22Z | This is an exploit hub script for F3X Admin Hangout in Roblox. | https://github.com/SkuppyG/f3x-admin-hangput-exploit-hub | 0 | 0| 
 | 20230810T12:36:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 708 | 177| 
 | 20230810T11:59:33Z | Null | https://github.com/Mythicv2/YoutubeExploit | 0 | 0| 
 | 20230810T11:33:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5406 | 753| 
-| 20230810T10:35:34Z | Tool for automatic bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
-| 20230810T10:21:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/spring-boot-app-t1-eBHnm-conduct-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
