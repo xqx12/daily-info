@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:18:52Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
 | 20230811T12:13:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5409 | 753| 
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230811T08:40:48Z | Null | https://github.com/Phuc559959d/Exploit | 0 | 0| 
 | 20230811T07:16:30Z | Null | https://github.com/CharonDefalt/printer-exploit-toronto | 0 | 0| 
 | 20230811T05:13:35Z | Web application to exploit SSRF Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
-| 20230811T01:53:29Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 212 | 12| 
 
 
 # backdoor on Github 推荐
