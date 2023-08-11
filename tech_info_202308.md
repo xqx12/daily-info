@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230811T12:12:09Z | cve-2021-41773 | CVE-2021-41773 test using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
+| 20230811T12:14:39Z | cve-2021-41773 | CVE-2021-41773 test using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
 | 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
 | 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
 | 20230811T09:49:02Z | CVE-2020-10130 | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | https://github.com/InfoSec4Fun/CVE-2020-10130 | | 
@@ -73,9 +73,9 @@
 | 20230811T09:10:19Z | Code for my %CADENCE: Compressing Audio Data by Exploiting Cyclical Elements% master%s thesis at the University of St. Gallen | https://github.com/macemoth/audio-compression-msc | 0 | 0| 
 | 20230811T08:54:57Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230811T08:40:48Z | Null | https://github.com/Phuc559959d/Exploit | 0 | 0| 
+| 20230811T07:16:30Z | Null | https://github.com/CharonDefalt/printer-exploit-toronto | 0 | 0| 
 | 20230811T05:13:35Z | Web application to exploit SSRF Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
 | 20230811T01:53:29Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 212 | 12| 
-| 20230811T01:38:30Z |   Full source code with Exploits + Injector | https://github.com/santahacks/Fortnite-Internal-Cheat | 0 | 0| 
 
 
 # backdoor on Github 推荐
