@@ -57,7 +57,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230811T12:20:14Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
+| 20230811T12:30:34Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
+| 20230811T12:30:24Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
 | 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
 | 20230811T08:02:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 184 | 19| 
 | 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 
