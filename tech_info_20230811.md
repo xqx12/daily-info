@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:48:43Z | Config files for my GitHub profile. | https://github.com/Fuzzylolpro/Fuzzylolpro | 0 | 0| 
 | 20230811T11:58:19Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/squillero/byron | 1 | 0| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 

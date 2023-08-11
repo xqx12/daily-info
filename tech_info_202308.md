@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:48:43Z | Config files for my GitHub profile. | https://github.com/Fuzzylolpro/Fuzzylolpro | 0 | 0| 
 | 20230811T11:58:19Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/squillero/byron | 1 | 0| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20230811T00:10:11Z | Use a fuzzy system evaluate a simple exercise | https://github.com/CornerSiow/exercise-fuzzy-evaluation | 0 | 0| 
 | 20230811T00:01:53Z | My clone repository | https://github.com/brothersanta/fuzzy-tribble | 0 | 0| 
 | 20230810T23:00:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8862 | 1956| 
-| 20230810T22:23:27Z | Null | https://github.com/itsyanzhiliu/fuzz_testing_demo | 0 | 0| 
 
 
 
