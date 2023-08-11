@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230811 | 网站平台受理处置涉企网络侵权信息举报工作规范 | http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm| 
 | 20230809 | 系统软件漏洞挖掘研究进展 | https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw| 
 | 20230808 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q| 
 | 20230808 | 国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q| 
@@ -20,22 +21,21 @@
 | 20230807 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA| 
 | 20230807 | SecWiki周刊（第492期) | https://www.sec-wiki.com/weekly/492| 
 | 20230806 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw| 
-| 20230806 | 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230811T01:39:40Z | CVE-2023-26067 | Lexmark CVE-2023-26067 | https://github.com/horizon3ai/CVE-2023-26067 | | 
-| 20230810T19:57:33Z | CVE-2023-30533 | CVE-2023-30533 | https://github.com/BenEdridge/CVE-2023-30533 | | 
-| 20230810T16:55:07Z | CVE-2023-21752 | Null | https://github.com/yosef0x01/CVE-2023-21752 | | 
-| 20230810T15:14:11Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
-| 20230810T11:38:49Z | 未知编号 | Null | https://github.com/Dlux-cyber-projects/cve-search-2023 | | 
-| 20230810T08:43:49Z | CVE-2023-34312 | 复现CVE-2023-34312所需的两个恶意dll文件 | https://github.com/lan1oc/CVE-2023-34312-exp | | 
-| 20230810T05:46:57Z | CVE-2023-27163 | CVE-2023-27163 - Request Baskets SSRF | https://github.com/rvizx/CVE-2023-27163 | | 
-| 20230809T20:58:51Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
-| 20230809T18:28:04Z | CVE-2021-34621 | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | https://github.com/RandomRobbieBF/CVE-2021-34621 | | 
-| 20230809T18:27:28Z | CVE-2021-24356 | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | https://github.com/RandomRobbieBF/CVE-2021-24356 | | 
+| 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
+| 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
+| 20230811T09:49:02Z | CVE-2020-10130 | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | https://github.com/InfoSec4Fun/CVE-2020-10130 | | 
+| 20230811T09:48:05Z | CVE-2020-10129 | CVE-2020-10129 - SearchBlox product before V-9.2 is vulnerable to Privileged Escalation-Lower user is able to access Admin | https://github.com/InfoSec4Fun/CVE-2020-10129 | | 
+| 20230811T09:47:05Z | CVE-2020-10128 | CVE-2020-10128 - SearchBlox product before V-9.2.1 is vulnerable to Stored-Cross Site Scripting | https://github.com/InfoSec4Fun/CVE-2020-10128 | | 
+| 20230811T09:32:15Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
+| 20230811T09:00:00Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
+| 20230811T08:48:49Z | CVE-2023-4174 | CVE-2023-4174 PoC | https://github.com/d0rb/CVE-2023-4174 | | 
+| 20230811T08:46:42Z | CVE-2023-33246 | CVE-2023-33246 POC | https://github.com/d0rb/CVE-2023-33246 | | 
+| 20230811T04:15:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
@@ -66,22 +66,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
+| 20230811T09:32:15Z | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | 6 | 4| 
+| 20230811T09:10:19Z | Code for my %CADENCE: Compressing Audio Data by Exploiting Cyclical Elements% master%s thesis at the University of St. Gallen | https://github.com/macemoth/audio-compression-msc | 0 | 0| 
+| 20230811T08:54:57Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
+| 20230811T08:40:48Z | Null | https://github.com/Phuc559959d/Exploit | 0 | 0| 
+| 20230811T05:13:35Z | Web application to exploit SSRF Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
+| 20230811T03:09:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5408 | 753| 
 | 20230811T01:53:29Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 212 | 12| 
 | 20230811T01:38:30Z |   Full source code with Exploits + Injector | https://github.com/santahacks/Fortnite-Internal-Cheat | 0 | 0| 
 | 20230811T00:04:43Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0040-app-r1C0p-organise-exploit | 0 | 0| 
-| 20230810T23:50:03Z | The exploit source code  | https://github.com/kirakundev/exploitHub | 1 | 0| 
-| 20230810T22:25:36Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/MultiCryptoExchangeArbitrageTrading | 0 | 0| 
-| 20230810T22:12:27Z | Null | https://github.com/My-Honest-Reaction/UTMM-Private-Exploit | 0 | 0| 
-| 20230810T21:48:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5254 | 1031| 
-| 20230810T21:13:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5239 | 661| 
-| 20230810T19:03:01Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 3 | 0| 
-| 20230810T14:45:22Z | This is an exploit hub script for F3X Admin Hangout in Roblox. | https://github.com/SkuppyG/f3x-admin-hangput-exploit-hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230810T17:02:38Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 183 | 19| 
+| 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
+| 20230811T08:02:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 184 | 19| 
+| 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 
 | 20230810T12:26:49Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 104 | 13| 
 | 20230810T09:13:39Z | Python Back Door UNFETECTABLE By Antivirus | https://github.com/Fattcat/Python-BackDoor | 0 | 0| 
 | 20230810T07:13:39Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL | 0 | 1| 
@@ -89,8 +91,6 @@
 | 20230810T04:10:46Z | Null | https://github.com/polaris-73/UMD-backdoor-detection | 1 | 1| 
 | 20230810T01:36:10Z | Backdoor AI Open Source | https://github.com/L4CTOSE/Backdoor-AI-v1-Open-Source | 0 | 0| 
 | 20230809T23:11:58Z | A backdoor for windows computers, with a server host on a Linux shell | https://github.com/Meta-bhsc/Backdoor | 1 | 0| 
-| 20230809T22:12:31Z | it%s an alpha shell that I%ve modified with a few extra features | https://github.com/HanzLawrence/ALFAShell-Backdoor | 0 | 0| 
-| 20230809T18:52:06Z | Backdoor Python script  | https://github.com/issamiso/Pymeter | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T11:58:19Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/squillero/byron | 1 | 0| 
+| 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
+| 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
+| 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 | 20230811T01:34:00Z | Null | https://github.com/google/fuzztest | 366 | 26| 
 | 20230811T00:56:41Z | Null | https://github.com/youmisuk/fuzzyRD_MG | 0 | 0| 
 | 20230811T00:10:11Z | Use a fuzzy system evaluate a simple exercise | https://github.com/CornerSiow/exercise-fuzzy-evaluation | 0 | 0| 
 | 20230811T00:01:53Z | My clone repository | https://github.com/brothersanta/fuzzy-tribble | 0 | 0| 
 | 20230810T23:00:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8862 | 1956| 
 | 20230810T22:23:27Z | Null | https://github.com/itsyanzhiliu/fuzz_testing_demo | 0 | 0| 
-| 20230810T22:01:31Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1441 | 104| 
-| 20230810T21:44:50Z | Null | https://github.com/uygav/fuzzle | 0 | 0| 
-| 20230810T20:52:17Z | https://www.huckfacebook.com | https://github.com/rskyfebransyhh/fuzzy-fiesta | 0 | 0| 
-| 20230810T16:56:54Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3793 | 451| 
 
 
 
