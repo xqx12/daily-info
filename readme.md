@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:12:09Z | cve-2021-41773 | CVE-2021-41773 test using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
 | 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
 | 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
 | 20230811T09:49:02Z | CVE-2020-10130 | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | https://github.com/InfoSec4Fun/CVE-2020-10130 | | 
@@ -26,7 +27,6 @@
 | 20230811T09:00:00Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
 | 20230811T08:48:49Z | CVE-2023-4174 | CVE-2023-4174 PoC | https://github.com/d0rb/CVE-2023-4174 | | 
 | 20230811T08:46:42Z | CVE-2023-33246 | CVE-2023-33246 POC | https://github.com/d0rb/CVE-2023-33246 | | 
-| 20230811T04:15:36Z | CVE-2022-38694 | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T12:13:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5409 | 753| 
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
 | 20230811T09:32:15Z | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | 6 | 4| 
@@ -49,7 +50,6 @@
 | 20230811T08:54:57Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230811T08:40:48Z | Null | https://github.com/Phuc559959d/Exploit | 0 | 0| 
 | 20230811T05:13:35Z | Web application to exploit SSRF Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
-| 20230811T03:09:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5408 | 753| 
 | 20230811T01:53:29Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 212 | 12| 
 | 20230811T01:38:30Z |   Full source code with Exploits + Injector | https://github.com/santahacks/Fortnite-Internal-Cheat | 0 | 0| 
 
