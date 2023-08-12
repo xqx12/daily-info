@@ -66,8 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T02:07:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5245 | 661| 
 | 20230812T01:41:16Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0001-app-lZZN8-include-exploit | 0 | 0| 
-| 20230812T00:57:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5244 | 661| 
 | 20230812T00:11:21Z | Null | https://github.com/miguel079/exploitVulnerableWorkstation | 0 | 0| 
 | 20230812T00:10:30Z |  Innovation dans la Détection d%Anomalies Temporelles : Exploiter les Graph Neural Networks | https://github.com/wissalkhadidja/-Innovation-GNN | 0 | 0| 
 | 20230812T00:02:40Z | 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags. | https://github.com/WangYihang/GitHacker | 1211 | 225| 
