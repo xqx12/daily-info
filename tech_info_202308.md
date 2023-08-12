@@ -133,8 +133,8 @@
 | 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
+| 20230811T07:40:00Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 92 | 11| 
 | 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
-| 20230811T06:55:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1879 | 309| 
 
 
 
