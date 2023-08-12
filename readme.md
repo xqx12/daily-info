@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T23:48:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 213 | 12| 
 | 20230811T20:08:13Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
 | 20230811T19:33:11Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 7 | 1| 
 | 20230811T17:45:39Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/CrytoBuyamSellam | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
 | 20230811T11:26:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5256 | 1031| 
-| 20230811T09:32:15Z | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | 6 | 4| 
 
 
 # backdoor on Github 推荐
