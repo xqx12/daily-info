@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T00:02:40Z | 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags. | https://github.com/WangYihang/GitHacker | 1211 | 225| 
 | 20230811T23:37:42Z |  Innovation dans la Détection d%Anomalies Temporelles : Exploiter les Graph Neural Networks | https://github.com/wissalkhadidja/-Innovation-GNN | 0 | 0| 
 | 20230811T20:08:13Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
 | 20230811T19:33:11Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 7 | 1| 
@@ -75,14 +76,13 @@
 | 20230811T12:13:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5409 | 753| 
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
-| 20230811T11:26:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5256 | 1031| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T00:00:56Z | Remote-Access, GUI & CLI tools. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
 | 20230811T23:27:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 105 | 13| 
-| 20230811T22:54:37Z | RemoteAccess Softwares. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
@@ -96,7 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230808T15:26:13Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 430 | 29| 
+| 20230811T17:21:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 431 | 29| 
 | 20230808T06:24:55Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 39 | 7| 
 | 20230808T01:01:29Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 672 | 119| 
 | 20230808T00:49:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2295 | 634| 
@@ -110,8 +110,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T13:24:34Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 32 | 2| 
 | 20230810T09:56:04Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 61 | 3| 
-| 20230810T05:11:50Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 31 | 2| 
 | 20230809T04:53:36Z | Null | https://github.com/NDSSTUDIO/ndsstudio.github.io | 0 | 0| 
 | 20230809T03:13:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 12 | 1| 
 | 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 

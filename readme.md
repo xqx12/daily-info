@@ -58,7 +58,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230811T23:27:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 105 | 13| 
-| 20230811T22:54:37Z | RemoteAccess Softwares. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
@@ -71,11 +70,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T17:21:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 431 | 29| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T13:24:34Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 32 | 2| 
 
 
 # fuzz on Github 推荐
