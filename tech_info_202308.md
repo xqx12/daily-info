@@ -81,7 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230812T07:11:33Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 106 | 13| 
+| 20230812T12:16:03Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 107 | 13| 
 | 20230812T00:00:56Z | Remote-Access, GUI & CLI tools. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
