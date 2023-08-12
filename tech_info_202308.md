@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T23:37:42Z |  Innovation dans la Détection d%Anomalies Temporelles : Exploiter les Graph Neural Networks | https://github.com/wissalkhadidja/-Innovation-GNN | 0 | 0| 
+| 20230811T20:08:13Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
+| 20230811T19:33:11Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 7 | 1| 
+| 20230811T17:45:39Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/CrytoBuyamSellam | 0 | 0| 
+| 20230811T13:33:20Z | This is a very detailed Binary exploitation roadmap starting from the very first vulnerability to the latest , each one with its mitigation | https://github.com/Imeneallouche/Binary-Exploitation-Roadmap | 2 | 0| 
 | 20230811T12:18:52Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
 | 20230811T12:13:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5409 | 753| 
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
 | 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
-| 20230811T09:32:15Z | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | 6 | 4| 
-| 20230811T09:10:19Z | Code for my %CADENCE: Compressing Audio Data by Exploiting Cyclical Elements% master%s thesis at the University of St. Gallen | https://github.com/macemoth/audio-compression-msc | 0 | 0| 
-| 20230811T08:54:57Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
-| 20230811T08:40:48Z | Null | https://github.com/Phuc559959d/Exploit | 0 | 0| 
-| 20230811T07:16:30Z | Null | https://github.com/CharonDefalt/printer-exploit-toronto | 0 | 0| 
-| 20230811T05:13:35Z | Web application to exploit SSRF Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
+| 20230811T11:26:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5256 | 1031| 
 
 
 # backdoor on Github 推荐
