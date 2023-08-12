@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230812 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce| 
 | 20230811 | 网站平台受理处置涉企网络侵权信息举报工作规范 | http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm| 
 | 20230809 | 系统软件漏洞挖掘研究进展 | https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw| 
 | 20230808 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q| 
@@ -20,7 +21,6 @@
 | 20230807 | 2022 年美欧网络演习解析 | https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q| 
 | 20230807 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA| 
 | 20230807 | SecWiki周刊（第492期) | https://www.sec-wiki.com/weekly/492| 
-| 20230806 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw| 
 
 
 # CVE Github 推荐
@@ -41,13 +41,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T02:43:20Z | UI Library | https://github.com/ggenzone/kleene-ui | 6 | 0| 
 | 20230810T15:13:57Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
 | 20230809T10:42:47Z | Null | https://github.com/SARMISTHASUBHADARSHINI/klee_s | 0 | 0| 
 | 20230809T08:37:48Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 84 | 19| 
 | 20230809T01:47:46Z | Klee meme pet-practice project | https://github.com/AkiraQZ/klee_meme | 0 | 0| 
 | 20230808T19:24:12Z | a nice and clean starting platform | https://github.com/iglinako/kleenstart | 0 | 0| 
 | 20230808T16:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2296 | 634| 
-| 20230808T16:13:40Z | UI Library | https://github.com/ggenzone/kleene-ui | 5 | 0| 
 | 20230808T07:35:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 338 | 6| 
 | 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
 | 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T10:04:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 149 | 13| 
+| 20230812T09:49:03Z | Python script to make exploiting of insecure file servings easier. It works but its not optimized and maybe not that easy to use for absolute beginners. | https://github.com/MatrixByt3s/heroin | 1 | 0| 
+| 20230812T09:48:50Z | A pure python tool to implement/exploit the hash length extension attack | https://github.com/viensea1106/hash-length-extension | 0 | 0| 
+| 20230812T08:24:44Z | Penetration testing toolkit written in Python that automates various security assessment tasks, such as information gathering, vulnerability scanning, exploitation, reporting, and more. | https://github.com/Sharma-IT/Penetration-Testing-Toolkit | 0 | 0| 
 | 20230812T02:07:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5245 | 661| 
 | 20230812T01:41:16Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0001-app-lZZN8-include-exploit | 0 | 0| 
 | 20230812T00:11:21Z | Null | https://github.com/miguel079/exploitVulnerableWorkstation | 0 | 0| 
 | 20230812T00:10:30Z |  Innovation dans la Détection d%Anomalies Temporelles : Exploiter les Graph Neural Networks | https://github.com/wissalkhadidja/-Innovation-GNN | 0 | 0| 
 | 20230812T00:02:40Z | 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags. | https://github.com/WangYihang/GitHacker | 1211 | 225| 
 | 20230811T23:48:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 213 | 12| 
-| 20230811T20:08:13Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
-| 20230811T19:33:11Z | :fire:Play Ethernaut and write PoC exploit codes with Foundry | https://github.com/alex0207s/ethernaut-foundry-boilerplate | 7 | 1| 
-| 20230811T17:45:39Z | This project is a Python bot that automatically identifies and exploits price discrepancies between cryptocurrencies on different exchanges. It uses a variety of techniques to find arbitrage opportunities. | https://github.com/nkanven/CrytoBuyamSellam | 0 | 0| 
-| 20230811T13:33:20Z | This is a very detailed Binary exploitation roadmap starting from the very first vulnerability to the latest , each one with its mitigation | https://github.com/Imeneallouche/Binary-Exploitation-Roadmap | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T07:11:33Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 106 | 13| 
 | 20230812T00:00:56Z | Remote-Access, GUI & CLI tools. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
-| 20230811T23:27:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 105 | 13| 
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 | 20230811T13:19:50Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
 | 20230811T12:30:34Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
 | 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
+| 20230811T05:25:45Z | a virus project that uses discord as a reverse shell, has a lot of functions and is easy to use | https://github.com/xanonDev/pinkcord | 3 | 1| 
 | 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 
-| 20230810T09:13:39Z | Python Back Door UNFETECTABLE By Antivirus | https://github.com/Fattcat/Python-BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T11:55:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8865 | 1956| 
+| 20230812T11:09:19Z | Null | https://github.com/zeeshan123abbas/fuzzy-goggles | 0 | 0| 
+| 20230812T08:14:30Z | Null | https://github.com/hlc-b/CSS-fuzz | 0 | 0| 
+| 20230812T06:49:53Z | My clone repository | https://github.com/GitBonin/fuzzy-guacamole | 0 | 0| 
+| 20230812T05:43:22Z | Null | https://github.com/hlc-b/OSA-60-21456-fuzzer | 0 | 0| 
+| 20230812T02:20:44Z | Null | https://github.com/n0506312/fuzzy-giggle | 0 | 0| 
 | 20230812T01:21:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3799 | 452| 
 | 20230812T00:00:26Z | About fuzzy logic using the Maxwell%s pendulum | https://github.com/Kristal1ik/FuzzyContApp | 1 | 0| 
-| 20230811T23:10:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8863 | 1956| 
 | 20230811T12:48:43Z | Config files for my GitHub profile. | https://github.com/Fuzzylolpro/Fuzzylolpro | 0 | 0| 
 | 20230811T11:58:19Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/squillero/byron | 1 | 0| 
-| 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
-| 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
-| 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
-| 20230811T07:40:00Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 92 | 11| 
-| 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 
 
 
