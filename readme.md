@@ -88,10 +88,10 @@
 | 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
-| 20230811T08:28:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3796 | 451| 
 | 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 | 20230811T06:55:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1879 | 309| 
 | 20230811T00:56:41Z | Null | https://github.com/youmisuk/fuzzyRD_MG | 0 | 0| 
+| 20230811T00:10:11Z | Use a fuzzy system evaluate a simple exercise | https://github.com/CornerSiow/exercise-fuzzy-evaluation | 0 | 0| 
 
 
 

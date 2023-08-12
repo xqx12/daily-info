@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T00:23:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3797 | 452| 
 | 20230812T00:00:26Z | About fuzzy logic using the Maxwell%s pendulum | https://github.com/Kristal1ik/FuzzyContApp | 1 | 0| 
 | 20230811T23:10:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8863 | 1956| 
 | 20230811T12:48:43Z | Config files for my GitHub profile. | https://github.com/Fuzzylolpro/Fuzzylolpro | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
-| 20230811T08:28:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3796 | 451| 
 | 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 | 20230811T06:55:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1879 | 309| 
 
