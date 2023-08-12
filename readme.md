@@ -17,16 +17,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230811T21:10:13Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
+| 20230811T19:48:53Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
+| 20230811T17:34:07Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
+| 20230811T14:35:00Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
 | 20230811T12:17:07Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
 | 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
 | 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
 | 20230811T09:49:02Z | CVE-2020-10130 | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | https://github.com/InfoSec4Fun/CVE-2020-10130 | | 
 | 20230811T09:48:05Z | CVE-2020-10129 | CVE-2020-10129 - SearchBlox product before V-9.2 is vulnerable to Privileged Escalation-Lower user is able to access Admin | https://github.com/InfoSec4Fun/CVE-2020-10129 | | 
 | 20230811T09:47:05Z | CVE-2020-10128 | CVE-2020-10128 - SearchBlox product before V-9.2.1 is vulnerable to Stored-Cross Site Scripting | https://github.com/InfoSec4Fun/CVE-2020-10128 | | 
-| 20230811T09:32:15Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
-| 20230811T09:00:00Z | CVE-2023-38408 | PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2 | https://github.com/kali-mx/CVE-2023-38408 | | 
-| 20230811T08:48:49Z | CVE-2023-4174 | CVE-2023-4174 PoC | https://github.com/d0rb/CVE-2023-4174 | | 
-| 20230811T08:46:42Z | CVE-2023-33246 | CVE-2023-33246 POC | https://github.com/d0rb/CVE-2023-33246 | | 
 
 
 # klee on Github 推荐
@@ -57,10 +57,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230811T23:27:51Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 105 | 13| 
+| 20230811T22:54:37Z | RemoteAccess Softwares. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
+| 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
+| 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
+| 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
+| 20230811T13:19:50Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
 | 20230811T12:30:34Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
-| 20230811T12:30:24Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
 | 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
-| 20230811T08:02:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 184 | 19| 
 | 20230811T02:31:47Z | Null | https://github.com/jingchunzhang/backdoor_rootkit | 84 | 74| 
 
 
@@ -77,14 +81,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230811T13:09:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8864 | 1956| 
+| 20230811T23:10:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8863 | 1956| 
 | 20230811T12:48:43Z | Config files for my GitHub profile. | https://github.com/Fuzzylolpro/Fuzzylolpro | 0 | 0| 
 | 20230811T11:58:19Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/squillero/byron | 1 | 0| 
+| 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
 | 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 | 20230811T06:55:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1879 | 309| 
-| 20230811T01:34:00Z | Null | https://github.com/google/fuzztest | 366 | 26| 
 | 20230811T00:56:41Z | Null | https://github.com/youmisuk/fuzzyRD_MG | 0 | 0| 
 | 20230811T00:10:11Z | Use a fuzzy system evaluate a simple exercise | https://github.com/CornerSiow/exercise-fuzzy-evaluation | 0 | 0| 
 
