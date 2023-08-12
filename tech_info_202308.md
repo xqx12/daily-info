@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T00:11:21Z | Null | https://github.com/miguel079/exploitVulnerableWorkstation | 0 | 0| 
 | 20230812T00:10:30Z |  Innovation dans la Détection d%Anomalies Temporelles : Exploiter les Graph Neural Networks | https://github.com/wissalkhadidja/-Innovation-GNN | 0 | 0| 
 | 20230812T00:02:40Z | 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags. | https://github.com/WangYihang/GitHacker | 1211 | 225| 
 | 20230811T20:08:13Z |  ⚙️ CFW computer work automatisation using kartdlphax exploit 🤖  | https://github.com/teloryfrozy/Lumatic-kartdlphax | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230811T12:18:52Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 1 | 0| 
 | 20230811T12:13:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5409 | 753| 
 | 20230811T12:09:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-xjF37-exploit-shall | 0 | 0| 
-| 20230811T11:49:03Z | Exploiting market data for determining association of products with each other and its purchase during weekdays and weekend. Also what is the best product that goes most combined | https://github.com/ajeetl/Association_Rules | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -132,9 +132,9 @@
 | 20230811T09:07:31Z | Null | https://github.com/google/fuzztest | 368 | 26| 
 | 20230811T09:00:57Z | Null | https://github.com/yae6969969/fuzzy-robot | 0 | 0| 
 | 20230811T08:59:50Z | Null | https://github.com/thelovelightliveventure/fuzzy-lamp | 0 | 0| 
+| 20230811T08:28:09Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3796 | 451| 
 | 20230811T07:13:04Z | A clipboard utility | https://github.com/egomezbpedro/fuzzy-clipboard | 0 | 0| 
 | 20230811T06:55:45Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1879 | 309| 
-| 20230811T00:56:41Z | Null | https://github.com/youmisuk/fuzzyRD_MG | 0 | 0| 
 
 
 
