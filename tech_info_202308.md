@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230812T01:53:10Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
 | 20230811T21:10:13Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230811T19:48:53Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230811T17:34:07Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
-| 20230811T14:35:00Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
 | 20230811T12:17:07Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
 | 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
 | 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
