@@ -55,6 +55,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230812T12:00:44Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 61 | 26| 
+| 20230812T03:07:15Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 199 | 43| 
 
 
 # big4 on Github 推荐
