@@ -43,11 +43,11 @@
 | 20230812T21:37:01Z | Null | https://github.com/Neftyr/Foundry-Raffle-Exploit-Challenge | 0 | 0| 
 | 20230812T17:30:41Z | This is public code repository for the paper Acconotate: Exploiting Acoustic Changes for Automatic Annotation of Inertial Data at the Source, accepted in IEEE DCOSS-IoT 2023 | https://github.com/stilllearningsoumya/acconotate | 0 | 0| 
 | 20230812T14:20:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5258 | 1031| 
+| 20230812T12:24:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5248 | 661| 
 | 20230812T10:04:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 149 | 13| 
 | 20230812T09:49:03Z | Python script to make exploiting of insecure file servings easier. It works but its not optimized and maybe not that easy to use for absolute beginners. | https://github.com/MatrixByt3s/heroin | 1 | 0| 
 | 20230812T09:48:50Z | A pure python tool to implement/exploit the hash length extension attack | https://github.com/viensea1106/hash-length-extension | 0 | 0| 
 | 20230812T08:24:44Z | Penetration testing toolkit written in Python that automates various security assessment tasks, such as information gathering, vulnerability scanning, exploitation, reporting, and more. | https://github.com/Sharma-IT/Penetration-Testing-Toolkit | 0 | 0| 
-| 20230812T02:07:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5245 | 661| 
 
 
 # backdoor on Github 推荐
