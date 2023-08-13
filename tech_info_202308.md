@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T12:16:42Z | Null | https://github.com/TherealXORA/Exploits | 0 | 0| 
 | 20230813T12:01:13Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
 | 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
 | 20230813T10:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5259 | 1031| 
@@ -75,13 +76,12 @@
 | 20230813T04:23:42Z | Null | https://github.com/luckywastakenwow/anti-exploit-detection | 0 | 0| 
 | 20230813T03:37:58Z | Null | https://github.com/Berlin-p23/Random-Free-Exploit-RCE | 0 | 0| 
 | 20230813T02:56:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 150 | 13| 
-| 20230813T01:44:00Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0026-0025-app-ejtIV-exploit-go | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230813T11:39:36Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 79 | 10| 
+| 20230813T12:18:47Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 81 | 10| 
 | 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
 | 20230812T17:20:11Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 109 | 13| 
 | 20230812T16:25:01Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
