@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T01:44:00Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0026-0025-app-ejtIV-exploit-go | 0 | 0| 
 | 20230813T01:19:21Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0014-app-dbYJ6-exploit-put | 0 | 0| 
 | 20230813T01:10:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0011-0004-app-ubdkZ-reckon-exploit | 0 | 0| 
 | 20230812T23:54:02Z | Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool. | https://github.com/CrazyProger1/Simple-XSS | 2 | 0| 
@@ -75,7 +76,6 @@
 | 20230812T14:20:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5258 | 1031| 
 | 20230812T12:24:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5248 | 661| 
 | 20230812T10:04:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 149 | 13| 
-| 20230812T09:49:03Z | Python script to make exploiting of insecure file servings easier. It works but its not optimized and maybe not that easy to use for absolute beginners. | https://github.com/MatrixByt3s/heroin | 1 | 0| 
 
 
 # backdoor on Github 推荐
