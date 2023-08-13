@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T01:10:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0011-0004-app-ubdkZ-reckon-exploit | 0 | 0| 
 | 20230812T23:54:02Z | Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool. | https://github.com/CrazyProger1/Simple-XSS | 2 | 0| 
 | 20230812T21:51:37Z | Null | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | 0 | 0| 
 | 20230812T21:37:01Z | Null | https://github.com/Neftyr/Foundry-Raffle-Exploit-Challenge | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230812T10:04:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 149 | 13| 
 | 20230812T09:49:03Z | Python script to make exploiting of insecure file servings easier. It works but its not optimized and maybe not that easy to use for absolute beginners. | https://github.com/MatrixByt3s/heroin | 1 | 0| 
 | 20230812T09:48:50Z | A pure python tool to implement/exploit the hash length extension attack | https://github.com/viensea1106/hash-length-extension | 0 | 0| 
-| 20230812T08:24:44Z | Penetration testing toolkit written in Python that automates various security assessment tasks, such as information gathering, vulnerability scanning, exploitation, reporting, and more. | https://github.com/Sharma-IT/Penetration-Testing-Toolkit | 0 | 0| 
 
 
 # backdoor on Github 推荐
