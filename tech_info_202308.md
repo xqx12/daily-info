@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230813 | API-SecurityEmpire | https://github.com/cyprosecurity/API-SecurityEmpire| 
+| 20230813 | the-ultimate-guide-to-learning-burp-suite-for-free | https://danaepp.com/the-ultimate-guide-to-learning-burp-suite-for-free| 
 | 20230812 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce| 
 | 20230811 | 网站平台受理处置涉企网络侵权信息举报工作规范 | http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm| 
 | 20230809 | 系统软件漏洞挖掘研究进展 | https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw| 
@@ -19,28 +21,27 @@
 | 20230808 | 金融行业软件供应链安全浅析 | https://mp.weixin.qq.com/s/7mRu_gRxxpDbnZi6cSibtw| 
 | 20230808 | JavaScript 和 Python 代码结合使用 | https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA| 
 | 20230807 | 2022 年美欧网络演习解析 | https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q| 
-| 20230807 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA| 
-| 20230807 | SecWiki周刊（第492期) | https://www.sec-wiki.com/weekly/492| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230813T11:10:13Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
+| 20230813T08:52:33Z | CVE-2023-27163 | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | https://github.com/0xFTW/CVE-2023-27163 | | 
+| 20230813T07:50:58Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
+| 20230813T04:44:03Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
+| 20230813T04:23:54Z | CVE-2023-27163 | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | | 
 | 20230813T00:51:35Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230812T21:51:37Z | CVE-2021-34621 | Null | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
 | 20230812T19:18:52Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
 | 20230812T18:33:58Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
-| 20230812T15:20:45Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
-| 20230811T21:10:13Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230811T17:34:07Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
-| 20230811T09:50:32Z | CVE-2020-10132 | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | https://github.com/InfoSec4Fun/CVE-2020-10132 | | 
-| 20230811T09:49:49Z | CVE-2020-10131 | CVE-2020-10131 - SearchBlox Product before V-9.2.1 is Vulnerable to CSV macro injection. | https://github.com/InfoSec4Fun/CVE-2020-10131 | | 
-| 20230811T09:49:02Z | CVE-2020-10130 | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | https://github.com/InfoSec4Fun/CVE-2020-10130 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T02:12:23Z | clear your terminal with style | https://github.com/MrPicklePinosaur/kleer | 0 | 0| 
 | 20230812T02:43:20Z | UI Library | https://github.com/ggenzone/kleene-ui | 6 | 0| 
 | 20230810T15:13:57Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
 | 20230809T10:42:47Z | Null | https://github.com/SARMISTHASUBHADARSHINI/klee_s | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230808T16:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2296 | 634| 
 | 20230808T07:35:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 338 | 6| 
 | 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
-| 20230803T21:30:40Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,21 +66,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
+| 20230813T10:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5259 | 1031| 
+| 20230813T06:21:58Z | This project explores secure remote access using Metasploit%s reverse TCP payloads. Ethically and responsibly, we showcase potential risks, vulnerabilities, and post-exploitation activities, emphasizing proactive cybersecurity measures. This knowledge empowers organizations to fortify defenses, ensuring a safer digital landscape. | https://github.com/Sandyopna/Metasploit-remote-pc-hacking | 0 | 0| 
+| 20230813T04:43:23Z | Collection of exploits written by me for the sake of learning | https://github.com/RainbowDynamix/exploit-dev | 0 | 0| 
+| 20230813T04:23:54Z | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | 0 | 0| 
+| 20230813T04:23:42Z | Null | https://github.com/luckywastakenwow/anti-exploit-detection | 0 | 0| 
+| 20230813T03:37:58Z | Null | https://github.com/Berlin-p23/Random-Free-Exploit-RCE | 0 | 0| 
+| 20230813T02:56:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 150 | 13| 
 | 20230813T01:44:00Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0026-0025-app-ejtIV-exploit-go | 0 | 0| 
 | 20230813T01:19:21Z | GitOps Repository | https://github.com/pmacik-testing/cima-0016-0014-app-dbYJ6-exploit-put | 0 | 0| 
-| 20230813T01:10:12Z | GitOps Repository | https://github.com/pmacik-testing/cima-0011-0004-app-ubdkZ-reckon-exploit | 0 | 0| 
-| 20230812T23:54:02Z | Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool. | https://github.com/CrazyProger1/Simple-XSS | 2 | 0| 
-| 20230812T21:51:37Z | Null | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | 0 | 0| 
-| 20230812T21:37:01Z | Null | https://github.com/Neftyr/Foundry-Raffle-Exploit-Challenge | 0 | 0| 
-| 20230812T17:30:41Z | This is public code repository for the paper Acconotate: Exploiting Acoustic Changes for Automatic Annotation of Inertial Data at the Source, accepted in IEEE DCOSS-IoT 2023 | https://github.com/stilllearningsoumya/acconotate | 0 | 0| 
-| 20230812T14:20:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5258 | 1031| 
-| 20230812T12:24:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5248 | 661| 
-| 20230812T10:04:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 149 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T11:39:36Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 79 | 10| 
+| 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
 | 20230812T17:20:11Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 109 | 13| 
 | 20230812T16:25:01Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230812T13:59:09Z | Windows Backdoor created in C with the capabilities of remote access, keylogging and persistance through the use of windows registry. | https://github.com/Swayampadhy/Cintruder | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 | 20230811T13:19:50Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
-| 20230811T12:30:34Z | Null | https://github.com/defliez/Backdoor | 0 | 0| 
-| 20230811T10:14:18Z | Null | https://github.com/lewisslanter/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
+| 20230813T10:52:07Z | Null | https://github.com/bbek18/fuzzy-waffle | 0 | 0| 
+| 20230813T09:19:44Z | A web-application that was built through JavaScript and Django Framework using Web API. The development lifecycle was build using Scrum Agile Framework. Conducted testing using Structure-Aware Atheris Fuzzing engine. | https://github.com/dariiik/Weather-Forecast-API | 1 | 0| 
+| 20230813T08:13:37Z | Null | https://github.com/XXKK123456/fuzzy-barnacle | 0 | 0| 
+| 20230813T07:15:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1482 | 208| 
+| 20230813T04:43:45Z | An OmniFocus library to assist with generating %fuzzy search% fields in forms. | https://github.com/ksalzke/fuzzy-search-library | 0 | 0| 
+| 20230813T04:33:08Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
 | 20230812T20:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8866 | 1957| 
 | 20230812T20:19:03Z | Null | https://github.com/mirandafv/fuzzy-tribble | 0 | 0| 
 | 20230812T19:31:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3807 | 452| 
-| 20230812T11:09:19Z | Null | https://github.com/zeeshan123abbas/fuzzy-goggles | 0 | 0| 
-| 20230812T08:17:00Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1442 | 104| 
-| 20230812T08:14:30Z | Null | https://github.com/hlc-b/CSS-fuzz | 0 | 0| 
-| 20230812T07:49:05Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1947 | 94| 
-| 20230812T06:49:53Z | My clone repository | https://github.com/GitBonin/fuzzy-guacamole | 0 | 0| 
-| 20230812T05:43:22Z | Null | https://github.com/hlc-b/OSA-60-21456-fuzzer | 0 | 0| 
-| 20230812T02:20:44Z | Null | https://github.com/n0506312/fuzzy-giggle | 0 | 0| 
 
 
 
