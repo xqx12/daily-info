@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T12:23:42Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 3 | 0| 
 | 20230813T12:18:47Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 81 | 10| 
 | 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
 | 20230812T17:20:11Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 109 | 13| 
@@ -90,7 +91,6 @@
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
 | 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
-| 20230811T13:19:50Z | Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work. | https://github.com/whiteha0x07/Shadow-Command-Control-v2 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
