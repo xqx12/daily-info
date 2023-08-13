@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230813T00:51:35Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230812T21:51:37Z | CVE-2021-34621 | Null | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
-| 20230812T21:19:45Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230812T19:18:52Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
 | 20230812T18:33:58Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230812T15:20:45Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
