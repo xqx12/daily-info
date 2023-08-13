@@ -128,6 +128,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230812T20:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8866 | 1957| 
 | 20230812T20:19:03Z | Null | https://github.com/mirandafv/fuzzy-tribble | 0 | 0| 
+| 20230812T19:31:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3807 | 452| 
 | 20230812T11:09:19Z | Null | https://github.com/zeeshan123abbas/fuzzy-goggles | 0 | 0| 
 | 20230812T08:17:00Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1442 | 104| 
 | 20230812T08:14:30Z | Null | https://github.com/hlc-b/CSS-fuzz | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230812T06:49:53Z | My clone repository | https://github.com/GitBonin/fuzzy-guacamole | 0 | 0| 
 | 20230812T05:43:22Z | Null | https://github.com/hlc-b/OSA-60-21456-fuzzer | 0 | 0| 
 | 20230812T02:20:44Z | Null | https://github.com/n0506312/fuzzy-giggle | 0 | 0| 
-| 20230812T01:21:38Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3799 | 452| 
 
 
 
