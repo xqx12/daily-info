@@ -133,9 +133,9 @@
 | 20230813T07:15:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1482 | 208| 
 | 20230813T04:43:45Z | An OmniFocus library to assist with generating %fuzzy search% fields in forms. | https://github.com/ksalzke/fuzzy-search-library | 0 | 0| 
 | 20230813T04:33:08Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
+| 20230813T04:21:54Z | My clone repository | https://github.com/manushr/fuzzy | 0 | 0| 
 | 20230812T20:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8866 | 1957| 
 | 20230812T20:19:03Z | Null | https://github.com/mirandafv/fuzzy-tribble | 0 | 0| 
-| 20230812T19:31:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3807 | 452| 
 
 
 

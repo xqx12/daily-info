@@ -80,6 +80,7 @@
 | 20230813T07:15:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1482 | 208| 
 | 20230813T04:43:45Z | An OmniFocus library to assist with generating %fuzzy search% fields in forms. | https://github.com/ksalzke/fuzzy-search-library | 0 | 0| 
 | 20230813T04:33:08Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
+| 20230813T04:21:54Z | My clone repository | https://github.com/manushr/fuzzy | 0 | 0| 
 
 
 
