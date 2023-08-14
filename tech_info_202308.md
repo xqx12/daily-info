@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230814T00:50:06Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230814T00:15:00Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
-| 20230814T00:00:52Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
 | 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
 | 20230813T17:59:18Z | CVE-2022-1036 | Null | https://github.com/Nithisssh/CVE-2022-1036 | | 
