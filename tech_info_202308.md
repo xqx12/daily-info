@@ -13,29 +13,29 @@
 | --- | --- | ---| 
 | 20230813 | API-SecurityEmpire | https://github.com/cyprosecurity/API-SecurityEmpire| 
 | 20230813 | the-ultimate-guide-to-learning-burp-suite-for-free | https://danaepp.com/the-ultimate-guide-to-learning-burp-suite-for-free| 
+| 20230813 | 针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg| 
+| 20230813 | 隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw| 
+| 20230813 | 最近研究安全有效性验证（Security Validation）的一些想法 | https://zhuanlan.zhihu.com/p/649771088| 
+| 20230813 | 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg| 
 | 20230812 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce| 
 | 20230811 | 网站平台受理处置涉企网络侵权信息举报工作规范 | http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm| 
 | 20230809 | 系统软件漏洞挖掘研究进展 | https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw| 
 | 20230808 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q| 
-| 20230808 | 国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q| 
-| 20230808 | 金融行业软件供应链安全浅析 | https://mp.weixin.qq.com/s/7mRu_gRxxpDbnZi6cSibtw| 
-| 20230808 | JavaScript 和 Python 代码结合使用 | https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA| 
-| 20230807 | 2022 年美欧网络演习解析 | https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230813T11:10:13Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
-| 20230813T08:52:33Z | CVE-2023-27163 | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | https://github.com/0xFTW/CVE-2023-27163 | | 
-| 20230813T07:50:58Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
-| 20230813T04:44:03Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
-| 20230813T04:23:54Z | CVE-2023-27163 | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | | 
-| 20230813T00:51:35Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
-| 20230812T21:51:37Z | CVE-2021-34621 | Null | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
-| 20230812T19:18:52Z | CVE-2023-36899 | CVE-2023-36899 PoC | https://github.com/d0rb/CVE-2023-36899 | | 
-| 20230812T18:33:58Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
-| 20230811T17:34:07Z | cve-2023-3519 | Null | https://github.com/rwincey/cve-2023-3519 | | 
+| 20230813T23:50:52Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
+| 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
+| 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
+| 20230813T17:59:18Z | CVE-2022-1036 | Null | https://github.com/Nithisssh/CVE-2022-1036 | | 
+| 20230813T17:35:06Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
+| 20230813T16:38:57Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
+| 20230813T15:22:30Z | CVE-2022-0688 | Null | https://github.com/Nithisssh/CVE-2022-0688 | | 
+| 20230813T14:43:13Z | CVE-2022-0558 | Null | https://github.com/Nithisssh/CVE-2022-0558 | | 
+| 20230813T13:34:44Z | CVE-2022-0379 | Null | https://github.com/Nithisssh/CVE-2022-0379 | | 
+| 20230813T13:21:46Z | CVE-2021-34621 | A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
 
 
 # klee on Github 推荐
@@ -66,24 +66,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T23:58:58Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 1 | 0| 
+| 20230813T23:50:52Z | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | 36 | 10| 
+| 20230813T23:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c8303f8-0b5f-4bbe-adf0-20a28fe5cc68-ANr-y-exploit-plan | 0 | 0| 
+| 20230813T23:21:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d443412d-2b42-4bbb-8daa-c6035168587d-O5lFR-recall-exploit | 0 | 0| 
+| 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
+| 20230813T17:16:58Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 26 | 1| 
 | 20230813T12:36:05Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
 | 20230813T12:16:42Z | Null | https://github.com/TherealXORA/Exploits | 0 | 0| 
 | 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
 | 20230813T10:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5259 | 1031| 
-| 20230813T06:21:58Z | This project explores secure remote access using Metasploit%s reverse TCP payloads. Ethically and responsibly, we showcase potential risks, vulnerabilities, and post-exploitation activities, emphasizing proactive cybersecurity measures. This knowledge empowers organizations to fortify defenses, ensuring a safer digital landscape. | https://github.com/Sandyopna/Metasploit-remote-pc-hacking | 0 | 0| 
-| 20230813T04:43:23Z | Collection of exploits written by me for the sake of learning | https://github.com/RainbowDynamix/exploit-dev | 0 | 0| 
-| 20230813T04:23:54Z | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | 0 | 0| 
-| 20230813T04:23:42Z | Null | https://github.com/luckywastakenwow/anti-exploit-detection | 0 | 0| 
-| 20230813T03:37:58Z | Null | https://github.com/Berlin-p23/Random-Free-Exploit-RCE | 0 | 0| 
-| 20230813T02:56:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 150 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230813T12:49:58Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 82 | 10| 
-| 20230813T12:26:24Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 110 | 13| 
-| 20230813T12:23:42Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 3 | 0| 
+| 20230813T23:41:21Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 107 | 12| 
+| 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
+| 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
 | 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
 | 20230812T16:25:01Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230812T13:59:09Z | Windows Backdoor created in C with the capabilities of remote access, keylogging and persistance through the use of windows registry. | https://github.com/Swayampadhy/Cintruder | 0 | 0| 
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230813T23:45:29Z | Null | https://github.com/Phinnnty/fuzzy-memory | 0 | 0| 
+| 20230813T23:19:53Z | Null | https://github.com/seniordev414/fuzzy-lamp | 44 | 0| 
+| 20230813T22:59:40Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1762 | 326| 
+| 20230813T22:09:10Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
+| 20230813T21:00:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3870 | 786| 
+| 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
+| 20230813T20:34:09Z | Null | https://github.com/itsyanzhiliu/concolic_fuzzing_demo | 0 | 0| 
+| 20230813T20:09:04Z | Null | https://github.com/itsyanzhiliu/symbolic_fuzzing_demo | 0 | 0| 
 | 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
 | 20230813T10:52:07Z | Null | https://github.com/bbek18/fuzzy-waffle | 0 | 0| 
-| 20230813T09:19:44Z | A web-application that was built through JavaScript and Django Framework using Web API. The development lifecycle was build using Scrum Agile Framework. Conducted testing using Structure-Aware Atheris Fuzzing engine. | https://github.com/dariiik/Weather-Forecast-API | 1 | 0| 
-| 20230813T08:13:37Z | Null | https://github.com/XXKK123456/fuzzy-barnacle | 0 | 0| 
-| 20230813T07:15:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1482 | 208| 
-| 20230813T04:43:45Z | An OmniFocus library to assist with generating %fuzzy search% fields in forms. | https://github.com/ksalzke/fuzzy-search-library | 0 | 0| 
-| 20230813T04:33:08Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 0 | 0| 
-| 20230813T04:21:54Z | My clone repository | https://github.com/manushr/fuzzy | 0 | 0| 
-| 20230812T20:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8866 | 1957| 
-| 20230812T20:19:03Z | Null | https://github.com/mirandafv/fuzzy-tribble | 0 | 0| 
 
 
 
