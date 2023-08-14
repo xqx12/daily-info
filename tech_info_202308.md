@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230814 | 通过攻击意图同步增强Web应用程序的漏洞检测效果 | https://mp.weixin.qq.com/s/d42d0CFeKIwiZHCVBMhj2w| 
+| 20230814 | 深入解析pe结构（下） | https://www.sec-in.com/article/2182| 
+| 20230814 | Apache Tomcat安全限制绕过漏洞 CVE-2017-5664 | https://mp.weixin.qq.com/s/rZ4xLYuOrmlN2ehTmwGhYA| 
 | 20230813 | API-SecurityEmpire | https://github.com/cyprosecurity/API-SecurityEmpire| 
 | 20230813 | the-ultimate-guide-to-learning-burp-suite-for-free | https://danaepp.com/the-ultimate-guide-to-learning-burp-suite-for-free| 
 | 20230813 | 针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg| 
@@ -18,29 +21,27 @@
 | 20230813 | 最近研究安全有效性验证（Security Validation）的一些想法 | https://zhuanlan.zhihu.com/p/649771088| 
 | 20230813 | 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg| 
 | 20230812 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce| 
-| 20230811 | 网站平台受理处置涉企网络侵权信息举报工作规范 | http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm| 
-| 20230809 | 系统软件漏洞挖掘研究进展 | https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw| 
-| 20230808 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230814T01:21:35Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
+| 20230814T10:49:29Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
+| 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
+| 20230814T08:08:29Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
+| 20230814T06:43:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
+| 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
+| 20230814T05:21:27Z | CVE-2023-40296 | Proof of Concept for CVE-2023-40296 | https://github.com/Halcy0nic/CVE-2023-40296 | | 
+| 20230814T05:12:06Z | CVE-2023-40294 | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295 | | 
+| 20230814T02:19:34Z | CVE-2023-27163 | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | | 
 | 20230814T01:11:30Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
 | 20230814T00:15:00Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
-| 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
-| 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
-| 20230813T17:59:18Z | CVE-2022-1036 | Null | https://github.com/Nithisssh/CVE-2022-1036 | | 
-| 20230813T16:38:57Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
-| 20230813T15:22:30Z | CVE-2022-0688 | Null | https://github.com/Nithisssh/CVE-2022-0688 | | 
-| 20230813T14:43:13Z | CVE-2022-0558 | Null | https://github.com/Nithisssh/CVE-2022-0558 | | 
-| 20230813T13:34:44Z | CVE-2022-0379 | Null | https://github.com/Nithisssh/CVE-2022-0379 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T04:48:02Z | Null | https://github.com/joffreyzhang/KLEE_wp | 0 | 0| 
 | 20230813T02:12:23Z | clear your terminal with style | https://github.com/MrPicklePinosaur/kleer | 0 | 0| 
 | 20230812T02:43:20Z | UI Library | https://github.com/ggenzone/kleene-ui | 6 | 0| 
 | 20230810T15:13:57Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230808T19:24:12Z | a nice and clean starting platform | https://github.com/iglinako/kleenstart | 0 | 0| 
 | 20230808T16:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2296 | 634| 
 | 20230808T07:35:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 338 | 6| 
-| 20230804T06:57:08Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 28 | 1| 
 
 
 # s2e on Github 推荐
@@ -66,30 +66,30 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T11:37:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-y-vYU-illustrate-exploit | 0 | 0| 
+| 20230814T11:22:00Z | This is used for a roblox game called SKYWARS its a small game but im working on making an exploit on that game! | https://github.com/danyalassi/AmboExploitRoblox | 0 | 0| 
+| 20230814T10:11:06Z | The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers. This Python project provided a segmentation analysis base on RFM Model.  | https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python | 0 | 0| 
+| 20230814T09:56:48Z | Null | https://github.com/OcassionalTrollage/Exploits | 0 | 0| 
+| 20230814T09:51:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5425 | 753| 
+| 20230814T09:03:09Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
+| 20230814T08:48:39Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 47 | 9| 
+| 20230814T08:26:15Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3951 | 771| 
 | 20230814T01:27:36Z | Secure Hashing Algorithm To Terminate Exploitative Requests (Block bad queries and domain names based on their SHA3-512 checksums) | https://github.com/styromaniac/SHATTER | 0 | 0| 
 | 20230814T01:02:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-69784f2d-a2b4-478d-9bdb-1efe71bebab1-MTPxo-exploit-produce | 0 | 0| 
-| 20230814T00:52:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a2b1a65b-0a17-421a-9f9e-9590bbd646d9-gTG-u-exploit-refer | 0 | 0| 
-| 20230814T00:52:55Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 27 | 1| 
-| 20230814T00:50:06Z | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | 38 | 10| 
-| 20230814T00:00:58Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 1 | 0| 
-| 20230813T23:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c8303f8-0b5f-4bbe-adf0-20a28fe5cc68-ANr-y-exploit-plan | 0 | 0| 
-| 20230813T23:21:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d443412d-2b42-4bbb-8daa-c6035168587d-O5lFR-recall-exploit | 0 | 0| 
-| 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
-| 20230813T12:36:05Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230814T01:43:33Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 109 | 13| 
+| 20230814T11:17:29Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 187 | 20| 
+| 20230814T10:46:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 126 | 16| 
+| 20230814T06:03:43Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
 | 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
 | 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
-| 20230812T16:25:01Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230812T13:59:09Z | Windows Backdoor created in C with the capabilities of remote access, keylogging and persistance through the use of windows registry. | https://github.com/Swayampadhy/Cintruder | 0 | 0| 
 | 20230812T00:00:56Z | Remote-Access, GUI & CLI tools. Personal-Project. | https://github.com/liorvi35/Backdoor | 0 | 0| 
 | 20230811T15:14:23Z | shell bypass untuk yg terkena forbiden saat mencoba memasukkan backdoor | https://github.com/tokupens/shellbypassforbiden | 0 | 0| 
-| 20230811T15:03:37Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 185 | 19| 
 | 20230811T14:56:12Z | This Is Just Some Trash Backdoor | https://github.com/secghost/sec666uploader | 1 | 0| 
 
 
@@ -111,9 +111,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T10:17:05Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 34 | 2| 
 | 20230813T07:25:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 7 | 1| 
 | 20230812T23:57:45Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 62 | 3| 
-| 20230811T13:24:34Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 32 | 2| 
 | 20230809T04:53:36Z | Null | https://github.com/NDSSTUDIO/ndsstudio.github.io | 0 | 0| 
 | 20230809T03:13:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 12 | 1| 
 | 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 
