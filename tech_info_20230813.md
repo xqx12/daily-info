@@ -86,7 +86,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230813T23:45:29Z | Null | https://github.com/Phinnnty/fuzzy-memory | 0 | 0| 
 | 20230813T23:19:53Z | Null | https://github.com/seniordev414/fuzzy-lamp | 44 | 0| 
-| 20230813T22:59:40Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1762 | 326| 
 | 20230813T22:09:10Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
 | 20230813T21:00:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3870 | 786| 
 | 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20230813T20:09:04Z | Null | https://github.com/itsyanzhiliu/symbolic_fuzzing_demo | 0 | 0| 
 | 20230813T16:13:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3808 | 452| 
 | 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
+| 20230813T10:52:07Z | Null | https://github.com/bbek18/fuzzy-waffle | 0 | 0| 
 
 
 
