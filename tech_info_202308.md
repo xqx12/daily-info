@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T01:27:36Z | Secure Hashing Algorithm To Terminate Exploitative Requests (Block bad queries and domain names based on their SHA3-512 checksums) | https://github.com/styromaniac/SHATTER | 0 | 0| 
 | 20230814T01:02:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-69784f2d-a2b4-478d-9bdb-1efe71bebab1-MTPxo-exploit-produce | 0 | 0| 
 | 20230814T00:52:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a2b1a65b-0a17-421a-9f9e-9590bbd646d9-gTG-u-exploit-refer | 0 | 0| 
 | 20230814T00:52:55Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 27 | 1| 
@@ -75,7 +76,6 @@
 | 20230813T23:21:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d443412d-2b42-4bbb-8daa-c6035168587d-O5lFR-recall-exploit | 0 | 0| 
 | 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
 | 20230813T12:36:05Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
-| 20230813T12:16:42Z | Null | https://github.com/TherealXORA/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
