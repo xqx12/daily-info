@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230814T12:19:56Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1786 | 328| 
+| 20230814T12:26:38Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1787 | 328| 
 | 20230814T12:09:32Z | An advanced C++ fuzzing framework | https://github.com/veevol/cppfuzz | 0 | 0| 
 | 20230814T10:56:45Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
 | 20230814T09:48:56Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
