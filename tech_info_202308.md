@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T01:02:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-69784f2d-a2b4-478d-9bdb-1efe71bebab1-MTPxo-exploit-produce | 0 | 0| 
 | 20230814T00:52:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-a2b1a65b-0a17-421a-9f9e-9590bbd646d9-gTG-u-exploit-refer | 0 | 0| 
 | 20230814T00:52:55Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 27 | 1| 
 | 20230814T00:50:06Z | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | 38 | 10| 
@@ -75,7 +76,6 @@
 | 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
 | 20230813T12:36:05Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
 | 20230813T12:16:42Z | Null | https://github.com/TherealXORA/Exploits | 0 | 0| 
-| 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐
