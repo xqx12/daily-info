@@ -82,7 +82,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230814T11:17:29Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 187 | 20| 
-| 20230814T10:46:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 126 | 16| 
+| 20230814T10:46:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 126 | 17| 
 | 20230814T06:03:43Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
 | 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
