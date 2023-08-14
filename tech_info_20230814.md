@@ -60,8 +60,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T12:37:56Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 127 | 17| 
 | 20230814T11:17:29Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 187 | 20| 
-| 20230814T10:46:40Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 126 | 17| 
 | 20230814T06:03:43Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 
 
