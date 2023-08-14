@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T12:09:32Z | An advanced C++ fuzzing framework | https://github.com/veevol/cppfuzz | 0 | 0| 
 | 20230814T11:20:42Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1785 | 328| 
 | 20230814T10:56:45Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
 | 20230814T09:48:56Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230814T06:38:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1483 | 208| 
 | 20230814T01:58:45Z | Numerical experiments for my paper published in FUZZ-IEEE 2023 | https://github.com/lucaferranti/fuzzieee2023 | 1 | 0| 
 | 20230814T01:10:24Z | ejej | https://github.com/Aquaxz/fuzzy-octo-spork | 0 | 0| 
-| 20230814T01:06:02Z | Null | https://github.com/cobatebakakusiapa/fuzzy-octo-sniffle | 0 | 0| 
 
 
 
