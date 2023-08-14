@@ -56,8 +56,8 @@
 | 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
 | 20230813T10:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5259 | 1031| 
 | 20230813T06:21:58Z | This project explores secure remote access using Metasploit%s reverse TCP payloads. Ethically and responsibly, we showcase potential risks, vulnerabilities, and post-exploitation activities, emphasizing proactive cybersecurity measures. This knowledge empowers organizations to fortify defenses, ensuring a safer digital landscape. | https://github.com/Sandyopna/Metasploit-remote-pc-hacking | 0 | 0| 
+| 20230813T04:50:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 214 | 13| 
 | 20230813T04:43:23Z | Collection of exploits written by me for the sake of learning | https://github.com/RainbowDynamix/exploit-dev | 0 | 0| 
-| 20230813T04:23:54Z | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | 0 | 0| 
 
 
 # backdoor on Github 推荐
