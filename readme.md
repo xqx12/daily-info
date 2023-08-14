@@ -63,7 +63,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230813T23:41:21Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 107 | 12| 
 | 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
 | 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
 | 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
