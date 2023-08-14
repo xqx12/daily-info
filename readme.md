@@ -91,8 +91,8 @@
 | 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
 | 20230813T20:34:09Z | Null | https://github.com/itsyanzhiliu/concolic_fuzzing_demo | 0 | 0| 
 | 20230813T20:09:04Z | Null | https://github.com/itsyanzhiliu/symbolic_fuzzing_demo | 0 | 0| 
+| 20230813T16:13:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3808 | 452| 
 | 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
-| 20230813T10:52:07Z | Null | https://github.com/bbek18/fuzzy-waffle | 0 | 0| 
 
 
 

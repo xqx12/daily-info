@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230814T00:15:00Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 | 20230814T00:00:52Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
 | 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
@@ -35,7 +36,6 @@
 | 20230813T15:22:30Z | CVE-2022-0688 | Null | https://github.com/Nithisssh/CVE-2022-0688 | | 
 | 20230813T14:43:13Z | CVE-2022-0558 | Null | https://github.com/Nithisssh/CVE-2022-0558 | | 
 | 20230813T13:34:44Z | CVE-2022-0379 | Null | https://github.com/Nithisssh/CVE-2022-0379 | | 
-| 20230813T13:21:46Z | CVE-2021-34621 | A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
 
 
 # klee on Github 推荐
@@ -134,8 +134,8 @@
 | 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
 | 20230813T20:34:09Z | Null | https://github.com/itsyanzhiliu/concolic_fuzzing_demo | 0 | 0| 
 | 20230813T20:09:04Z | Null | https://github.com/itsyanzhiliu/symbolic_fuzzing_demo | 0 | 0| 
+| 20230813T16:13:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3808 | 452| 
 | 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
-| 20230813T10:52:07Z | Null | https://github.com/bbek18/fuzzy-waffle | 0 | 0| 
 
 
 
