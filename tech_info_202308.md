@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T00:22:00Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 0 | 0| 
 | 20230813T23:45:29Z | Null | https://github.com/Phinnnty/fuzzy-memory | 0 | 0| 
 | 20230813T23:19:53Z | Null | https://github.com/seniordev414/fuzzy-lamp | 44 | 0| 
 | 20230813T22:59:40Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1762 | 326| 
@@ -135,7 +136,6 @@
 | 20230813T20:34:09Z | Null | https://github.com/itsyanzhiliu/concolic_fuzzing_demo | 0 | 0| 
 | 20230813T20:09:04Z | Null | https://github.com/itsyanzhiliu/symbolic_fuzzing_demo | 0 | 0| 
 | 20230813T16:13:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3808 | 452| 
-| 20230813T11:55:31Z | Null | https://github.com/isesu/fuzzy-sniffle | 0 | 0| 
 
 
 
