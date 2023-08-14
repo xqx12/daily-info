@@ -51,13 +51,13 @@
 | 20230813T23:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c8303f8-0b5f-4bbe-adf0-20a28fe5cc68-ANr-y-exploit-plan | 0 | 0| 
 | 20230813T23:21:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d443412d-2b42-4bbb-8daa-c6035168587d-O5lFR-recall-exploit | 0 | 0| 
 | 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
-| 20230813T17:16:58Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 26 | 1| 
 | 20230813T12:36:05Z | VisualWare, a roblox script meant for exploiters. | https://github.com/Reposits/VisualWare | 0 | 0| 
 | 20230813T12:16:42Z | Null | https://github.com/TherealXORA/Exploits | 0 | 0| 
 | 20230813T11:42:23Z | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | https://github.com/h4ck0rman/Spring4Shell-PoC | 0 | 0| 
 | 20230813T10:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5259 | 1031| 
 | 20230813T06:21:58Z | This project explores secure remote access using Metasploit%s reverse TCP payloads. Ethically and responsibly, we showcase potential risks, vulnerabilities, and post-exploitation activities, emphasizing proactive cybersecurity measures. This knowledge empowers organizations to fortify defenses, ensuring a safer digital landscape. | https://github.com/Sandyopna/Metasploit-remote-pc-hacking | 0 | 0| 
 | 20230813T04:43:23Z | Collection of exploits written by me for the sake of learning | https://github.com/RainbowDynamix/exploit-dev | 0 | 0| 
+| 20230813T04:23:54Z | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | 0 | 0| 
 
 
 # backdoor on Github 推荐
