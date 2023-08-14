@@ -25,13 +25,13 @@
 | 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
 | 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
 | 20230813T17:59:18Z | CVE-2022-1036 | Null | https://github.com/Nithisssh/CVE-2022-1036 | | 
-| 20230813T17:35:06Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
 | 20230813T16:38:57Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230813T15:22:30Z | CVE-2022-0688 | Null | https://github.com/Nithisssh/CVE-2022-0688 | | 
 | 20230813T14:43:13Z | CVE-2022-0558 | Null | https://github.com/Nithisssh/CVE-2022-0558 | | 
 | 20230813T13:34:44Z | CVE-2022-0379 | Null | https://github.com/Nithisssh/CVE-2022-0379 | | 
 | 20230813T13:21:46Z | CVE-2021-34621 | A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation | https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT | | 
 | 20230813T11:10:13Z | cve-2021-41773 | CVE-2021-41773 testing using MSF | https://github.com/belajarqywok/cve-2021-41773-msf | | 
+| 20230813T08:52:33Z | CVE-2023-27163 | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | https://github.com/0xFTW/CVE-2023-27163 | | 
 
 
 # klee on Github 推荐
