@@ -66,11 +66,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T12:45:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5426 | 753| 
 | 20230814T11:37:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-y-vYU-illustrate-exploit | 0 | 0| 
 | 20230814T11:22:00Z | This is used for a roblox game called SKYWARS its a small game but im working on making an exploit on that game! | https://github.com/danyalassi/AmboExploitRoblox | 0 | 0| 
 | 20230814T10:11:06Z | The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers. This Python project provided a segmentation analysis base on RFM Model.  | https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python | 0 | 0| 
 | 20230814T09:56:48Z | Null | https://github.com/OcassionalTrollage/Exploits | 0 | 0| 
-| 20230814T09:51:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5425 | 753| 
 | 20230814T09:03:09Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
 | 20230814T08:48:39Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 47 | 9| 
 | 20230814T08:26:15Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3951 | 771| 
