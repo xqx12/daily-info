@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230813T23:50:52Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
+| 20230814T00:00:52Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230813T19:36:12Z | CVE-2023-27363 | Null | https://github.com/qwqdanchun/CVE-2023-27363 | | 
 | 20230813T18:28:34Z | CVE-2022-3457 | Null | https://github.com/Nithisssh/CVE-2022-3457 | | 
 | 20230813T17:59:18Z | CVE-2022-1036 | Null | https://github.com/Nithisssh/CVE-2022-1036 | | 
@@ -66,8 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230813T23:58:58Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 1 | 0| 
-| 20230813T23:50:52Z | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | 36 | 10| 
+| 20230814T00:00:58Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 1 | 0| 
+| 20230814T00:00:52Z | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | 37 | 10| 
 | 20230813T23:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c8303f8-0b5f-4bbe-adf0-20a28fe5cc68-ANr-y-exploit-plan | 0 | 0| 
 | 20230813T23:21:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d443412d-2b42-4bbb-8daa-c6035168587d-O5lFR-recall-exploit | 0 | 0| 
 | 20230813T22:29:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-42205-0002-app-Z1A8y-exploit-sit | 0 | 0| 
