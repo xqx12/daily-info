@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T11:20:42Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1785 | 328| 
+| 20230814T10:56:45Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
+| 20230814T09:48:56Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
+| 20230814T09:30:40Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5048 | 530| 
+| 20230814T08:57:34Z | Null | https://github.com/nabila1998/fuzzy-enigma | 0 | 0| 
+| 20230814T08:33:00Z | UDS Hunter is a software which is made for scan UDS id and pentest services. | https://github.com/LittleRx/UDShunter | 5 | 0| 
+| 20230814T06:38:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1483 | 208| 
 | 20230814T01:58:45Z | Numerical experiments for my paper published in FUZZ-IEEE 2023 | https://github.com/lucaferranti/fuzzieee2023 | 1 | 0| 
 | 20230814T01:10:24Z | ejej | https://github.com/Aquaxz/fuzzy-octo-spork | 0 | 0| 
 | 20230814T01:06:02Z | Null | https://github.com/cobatebakakusiapa/fuzzy-octo-sniffle | 0 | 0| 
-| 20230814T00:38:54Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1763 | 326| 
-| 20230814T00:22:00Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 0 | 0| 
-| 20230813T23:45:29Z | Null | https://github.com/Phinnnty/fuzzy-memory | 0 | 0| 
-| 20230813T23:19:53Z | Null | https://github.com/seniordev414/fuzzy-lamp | 44 | 0| 
-| 20230813T22:09:10Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
-| 20230813T21:00:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3870 | 786| 
-| 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
 
 
 
