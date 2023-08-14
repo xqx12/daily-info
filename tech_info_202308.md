@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230814T01:58:45Z | Numerical experiments for my paper published in FUZZ-IEEE 2023 | https://github.com/lucaferranti/fuzzieee2023 | 1 | 0| 
 | 20230814T01:10:24Z | ejej | https://github.com/Aquaxz/fuzzy-octo-spork | 0 | 0| 
 | 20230814T01:06:02Z | Null | https://github.com/cobatebakakusiapa/fuzzy-octo-sniffle | 0 | 0| 
 | 20230814T00:38:54Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1763 | 326| 
@@ -135,7 +136,6 @@
 | 20230813T22:09:10Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
 | 20230813T21:00:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3870 | 786| 
 | 20230813T20:54:30Z | Fuzzy logic programming in Prolog | https://github.com/lucia-jiang/Fuzzy-database | 0 | 0| 
-| 20230813T20:34:09Z | Null | https://github.com/itsyanzhiliu/concolic_fuzzing_demo | 0 | 0| 
 
 
 
