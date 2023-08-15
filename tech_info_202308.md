@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:45:29Z | Null | https://github.com/Gelianthus/fuzzy-disco | 5 | 0| 
+| 20230815T00:47:14Z | Null | https://github.com/Gelianthus/fuzzy-disco | 6 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
 | 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
 | 20230814T20:54:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2758 | 190| 
