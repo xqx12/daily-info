@@ -91,12 +91,12 @@
 | 20230814T22:02:25Z | Null | https://github.com/Gelianthus/fuzzy-disco | 0 | 0| 
 | 20230814T20:54:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2758 | 190| 
 | 20230814T15:44:54Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 1 | 0| 
+| 20230814T14:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3809 | 454| 
 | 20230814T12:56:24Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
 | 20230814T12:52:49Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1788 | 328| 
 | 20230814T12:09:32Z | An advanced C++ fuzzing framework | https://github.com/veevol/cppfuzz | 0 | 0| 
 | 20230814T09:48:56Z | A minimal fuzzer | https://github.com/markusheimerl/fuzzer | 0 | 0| 
 | 20230814T09:30:40Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5048 | 530| 
-| 20230814T08:57:34Z | Null | https://github.com/nabila1998/fuzzy-enigma | 0 | 0| 
 
 
 
