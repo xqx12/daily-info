@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T00:38:26Z | Null | https://github.com/NexoDeveloper/Exploits | 0 | 0| 
 | 20230815T00:02:57Z | do you want your exploits to be invisible? Password: mysupersecretpassword | https://github.com/neealdon3/PayloadAllTheThings-password-protected- | 0 | 0| 
 | 20230814T23:36:24Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 2 | 1| 
 | 20230814T23:03:29Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230814T20:21:46Z | Null | https://github.com/agamabergel/glitterExploits | 0 | 0| 
 | 20230814T20:10:15Z | Autopwn exploit for vsFPTd 2.3.4 developed in Python 3 | https://github.com/LukasMp/vsftpd234-autopwn | 0 | 0| 
 | 20230814T19:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-XoTs9-exploit-reply | 0 | 0| 
-| 20230814T18:58:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5261 | 1031| 
 
 
 # backdoor on Github 推荐
