@@ -128,13 +128,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T12:20:13Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 1 | 0| 
 | 20230815T11:46:11Z | Example of fuzzing, deployment, forking... with Woke | https://github.com/hacker-DOM/woke-counter | 0 | 0| 
 | 20230815T11:42:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5049 | 531| 
 | 20230815T11:21:11Z | A pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through chaos engineering testing and stateful, Swagger fuzzing. | https://github.com/Yelp/fuzz-lightyear | 184 | 27| 
 | 20230815T11:20:18Z | Null | https://github.com/FaridFK/AI-6-Logika-Fuzzy | 0 | 0| 
 | 20230815T11:17:10Z | Null | https://github.com/DilumVihanga/Flask-Fuzzy-Logic-Tipping-Cal | 0 | 0| 
 | 20230815T10:42:18Z | NHA cursus | https://github.com/Foempie/fuzzy-spoon | 0 | 0| 
-| 20230815T10:37:12Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 0 | 0| 
 | 20230815T10:13:30Z | Null | https://github.com/robinlzw/fuzz_ton_0630 | 0 | 0| 
 | 20230815T09:42:59Z | Data for the paper %Smarter Evolution: Enhancing Evolutionary Black-box Fuzzing with Adaptive Models% | https://github.com/anneborcherding/Smarter-Evolution | 0 | 0| 
 | 20230815T09:17:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1951 | 93| 
