@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230815T00:49:26Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230815T00:18:45Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230815T00:06:22Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230814T23:23:47Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230814T22:17:33Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:47:14Z | Null | https://github.com/Gelianthus/fuzzy-disco | 6 | 0| 
+| 20230815T00:50:44Z | Null | https://github.com/Gelianthus/fuzzy-disco | 8 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
 | 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
 | 20230814T20:54:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2758 | 190| 
