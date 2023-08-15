@@ -126,9 +126,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T00:40:15Z | Null | https://github.com/Gelianthus/fuzzy-disco | 2 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
 | 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
-| 20230814T22:02:25Z | Null | https://github.com/Gelianthus/fuzzy-disco | 0 | 0| 
 | 20230814T20:54:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2758 | 190| 
 | 20230814T15:44:54Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 1 | 0| 
 | 20230814T14:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3809 | 454| 
