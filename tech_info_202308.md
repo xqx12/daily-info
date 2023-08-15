@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T01:20:30Z | Null | https://github.com/Gelianthus/fuzzy-disco | 25 | 0| 
+| 20230815T01:22:14Z | Null | https://github.com/Gelianthus/fuzzy-disco | 26 | 0| 
 | 20230815T01:11:17Z | Null | https://github.com/zhaotongxue09/fuzzy-broccoli | 0 | 0| 
 | 20230815T00:53:56Z | Config files for my GitHub profile. | https://github.com/AmericanFuzz/AmericanFuzz | 0 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
