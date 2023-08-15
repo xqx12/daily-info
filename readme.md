@@ -24,7 +24,6 @@
 | 20230814T23:23:47Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230814T22:17:33Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
-| 20230814T06:43:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
 | 20230814T05:21:27Z | CVE-2023-40296 | Proof of Concept for CVE-2023-40296 | https://github.com/Halcy0nic/CVE-2023-40296 | | 
 | 20230814T05:12:06Z | CVE-2023-40294 | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295 | | 
