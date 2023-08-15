@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230815T12:45:17Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230815T12:50:17Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T12:38:57Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230815T12:11:15Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230815T09:54:04Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
