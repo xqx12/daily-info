@@ -49,7 +49,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230814T23:36:49Z | do you want your exploits to be unsee-able? then use this! Password: mysupersecretpassword | https://github.com/neealdon3/PayloadAllTheThings-password-protected- | 0 | 0| 
 | 20230814T23:36:24Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 2 | 1| 
 | 20230814T23:03:29Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230814T21:44:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42300-0081-0047-app-VenqA-arrange-exploit | 0 | 0| 
@@ -59,6 +58,7 @@
 | 20230814T20:10:15Z | Autopwn exploit for vsFPTd 2.3.4 developed in Python 3 | https://github.com/LukasMp/vsftpd234-autopwn | 0 | 0| 
 | 20230814T19:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-XoTs9-exploit-reply | 0 | 0| 
 | 20230814T16:24:51Z | An exploration of projects that were exploited on the Stacks blockchain and the reasons behind it | https://github.com/vicnicius/stacks-exploited | 0 | 0| 
+| 20230814T12:45:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5426 | 753| 
 
 
 # backdoor on Github 推荐
