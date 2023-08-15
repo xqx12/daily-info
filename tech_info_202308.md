@@ -66,9 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T01:16:16Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 3 | 1| 
 | 20230815T00:41:28Z | Null | https://github.com/NexoDeveloper/Exploits | 0 | 0| 
 | 20230815T00:02:57Z | do you want your exploits to be invisible? Password: mysupersecretpassword | https://github.com/neealdon3/PayloadAllTheThings-password-protected- | 0 | 0| 
-| 20230814T23:36:24Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 2 | 1| 
 | 20230814T23:03:29Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230814T21:44:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42300-0081-0047-app-VenqA-arrange-exploit | 0 | 0| 
 | 20230814T21:44:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42301-0086-0040-app-S--I5-exploit-claim | 0 | 0| 
@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T01:13:30Z | Null | https://github.com/Gelianthus/fuzzy-disco | 21 | 0| 
+| 20230815T01:17:00Z | Null | https://github.com/Gelianthus/fuzzy-disco | 23 | 0| 
 | 20230815T01:11:17Z | Null | https://github.com/zhaotongxue09/fuzzy-broccoli | 0 | 0| 
 | 20230815T00:53:56Z | Config files for my GitHub profile. | https://github.com/AmericanFuzz/AmericanFuzz | 0 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
