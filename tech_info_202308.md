@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230815 | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg| 
 | 20230814 | 通过攻击意图同步增强Web应用程序的漏洞检测效果 | https://mp.weixin.qq.com/s/d42d0CFeKIwiZHCVBMhj2w| 
 | 20230814 | 深入解析pe结构（下） | https://www.sec-in.com/article/2182| 
 | 20230814 | Apache Tomcat安全限制绕过漏洞 CVE-2017-5664 | https://mp.weixin.qq.com/s/rZ4xLYuOrmlN2ehTmwGhYA| 
@@ -20,22 +21,21 @@
 | 20230813 | the-ultimate-guide-to-learning-burp-suite-for-free | https://danaepp.com/the-ultimate-guide-to-learning-burp-suite-for-free| 
 | 20230813 | 针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg| 
 | 20230813 | 隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw| 
-| 20230813 | 最近研究安全有效性验证（Security Validation）的一些想法 | https://zhuanlan.zhihu.com/p/649771088| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:49:26Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
+| 20230815T11:25:46Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
+| 20230815T11:03:33Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230815T10:47:39Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
+| 20230815T09:54:04Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
+| 20230815T02:11:41Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230815T00:18:45Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230815T00:06:22Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230814T22:17:33Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
 | 20230814T05:21:27Z | CVE-2023-40296 | Proof of Concept for CVE-2023-40296 | https://github.com/Halcy0nic/CVE-2023-40296 | | 
 | 20230814T05:12:06Z | CVE-2023-40294 | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295 | | 
-| 20230814T02:19:34Z | CVE-2023-27163 | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | | 
-| 20230814T01:11:30Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
 
 
 # klee on Github 推荐
@@ -56,6 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T09:01:13Z | Null | https://github.com/s2ecevit/s2ecevit.github.io | 0 | 0| 
+| 20230815T06:37:17Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 33 | 13| 
 | 20230809T07:19:05Z | Null | https://github.com/MetadataGitTesting/S2eadU6D | 0 | 0| 
 | 20230808T05:26:54Z | Null | https://github.com/MetadataGitTesting/S2e0pDGn | 0 | 0| 
 | 20230808T01:36:23Z | Null | https://github.com/MetadataGitTesting/s2EW6XdA | 0 | 0| 
@@ -66,21 +68,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T11:58:17Z | Walkthrough of exploiting a stack based buffer overflow in a basic FreeFloat FTP server.  | https://github.com/Sadhvi19/Buffer-Overflow-in-Free-FloatFTP | 0 | 0| 
+| 20230815T11:14:01Z | Risklogyx represents a robust solution that aids in the prioritization of vulnerability patching. It achieves this by amalgamating CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities data. This tool delivers invaluable insights into the probability of exploitation and the potential repercussions of vulnerabilities on your information system. | https://github.com/infa-aksharma/Risklogyx | 0 | 0| 
+| 20230815T10:33:20Z | Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool. | https://github.com/CrazyProger1/Simple-XSS | 26 | 5| 
+| 20230815T10:06:40Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-709-0059-app-YSIY1-exploit-participate | 0 | 0| 
+| 20230815T09:52:19Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5429 | 754| 
+| 20230815T09:47:39Z | Know a plugin has a php object exploit but need to find which lib to use? | https://github.com/RandomRobbieBF/wordpress-php-object-helper | 1 | 0| 
+| 20230815T08:40:28Z | The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers. This Python project provided a segmentation analysis base on RFM Model.  | https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python | 1 | 0| 
+| 20230815T06:59:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 710 | 179| 
 | 20230815T01:16:16Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 3 | 1| 
 | 20230815T00:41:28Z | Null | https://github.com/NexoDeveloper/Exploits | 0 | 0| 
-| 20230815T00:23:10Z | Null | https://github.com/kraft87/exploit-forge | 0 | 0| 
-| 20230815T00:02:57Z | do you want your exploits to be invisible? Password: mysupersecretpassword | https://github.com/neealdon3/PayloadAllTheThings-password-protected- | 0 | 0| 
-| 20230814T23:03:29Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
-| 20230814T21:44:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42300-0081-0047-app-VenqA-arrange-exploit | 0 | 0| 
-| 20230814T21:44:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42301-0086-0040-app-S--I5-exploit-claim | 0 | 0| 
-| 20230814T20:49:57Z | Basic ransomware implementations in Python for the purpose of testing ICS security. | https://github.com/im-jking/TestbedExploits | 0 | 0| 
-| 20230814T20:21:46Z | Null | https://github.com/agamabergel/glitterExploits | 0 | 0| 
-| 20230814T20:10:15Z | Autopwn exploit for vsFPTd 2.3.4 developed in Python 3 | https://github.com/LukasMp/vsftpd234-autopwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T04:19:34Z | Wordpress Uploading Backdoor From Plugin | https://github.com/haxorstars/wordpress-plugin-backdoor | 0 | 0| 
 | 20230815T00:41:28Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
 | 20230814T22:27:18Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
 | 20230814T22:08:09Z | Null | https://github.com/finding-a-nickname-is-boring/CodeCave-Backdooring | 0 | 0| 
@@ -90,7 +93,6 @@
 | 20230814T11:17:29Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 187 | 20| 
 | 20230814T06:03:43Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
-| 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T01:57:48Z | Null | https://github.com/Gelianthus/fuzzy-disco | 46 | 0| 
-| 20230815T01:11:17Z | Null | https://github.com/zhaotongxue09/fuzzy-broccoli | 0 | 0| 
-| 20230815T00:53:56Z | Config files for my GitHub profile. | https://github.com/AmericanFuzz/AmericanFuzz | 0 | 0| 
-| 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
-| 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
-| 20230814T21:36:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5049 | 530| 
-| 20230814T20:54:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2758 | 190| 
-| 20230814T15:44:54Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 1 | 0| 
-| 20230814T14:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3809 | 454| 
-| 20230814T12:56:24Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
+| 20230815T11:46:11Z | Example of fuzzing, deployment, forking... with Woke | https://github.com/hacker-DOM/woke-counter | 0 | 0| 
+| 20230815T11:42:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5049 | 531| 
+| 20230815T11:21:11Z | A pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through chaos engineering testing and stateful, Swagger fuzzing. | https://github.com/Yelp/fuzz-lightyear | 184 | 27| 
+| 20230815T11:20:18Z | Null | https://github.com/FaridFK/AI-6-Logika-Fuzzy | 0 | 0| 
+| 20230815T11:17:10Z | Null | https://github.com/DilumVihanga/Flask-Fuzzy-Logic-Tipping-Cal | 0 | 0| 
+| 20230815T10:42:18Z | NHA cursus | https://github.com/Foempie/fuzzy-spoon | 0 | 0| 
+| 20230815T10:37:12Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 0 | 0| 
+| 20230815T10:13:30Z | Null | https://github.com/robinlzw/fuzz_ton_0630 | 0 | 0| 
+| 20230815T09:42:59Z | Data for the paper %Smarter Evolution: Enhancing Evolutionary Black-box Fuzzing with Adaptive Models% | https://github.com/anneborcherding/Smarter-Evolution | 0 | 0| 
+| 20230815T09:17:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1951 | 93| 
 
 
 
