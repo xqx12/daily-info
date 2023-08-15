@@ -126,7 +126,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:52:29Z | Null | https://github.com/Gelianthus/fuzzy-disco | 9 | 0| 
+| 20230815T00:54:13Z | Null | https://github.com/Gelianthus/fuzzy-disco | 10 | 0| 
+| 20230815T00:53:56Z | Config files for my GitHub profile. | https://github.com/AmericanFuzz/AmericanFuzz | 0 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
 | 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
 | 20230814T21:36:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5049 | 530| 
@@ -135,7 +136,6 @@
 | 20230814T14:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3809 | 454| 
 | 20230814T12:56:24Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
 | 20230814T12:52:49Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1788 | 328| 
-| 20230814T12:09:32Z | An advanced C++ fuzzing framework | https://github.com/veevol/cppfuzz | 0 | 0| 
 
 
 
