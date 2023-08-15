@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230815T00:06:22Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230814T23:23:47Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230814T22:17:33Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
-| 20230814T22:05:05Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230814T06:43:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
@@ -111,7 +111,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230814T12:21:18Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 35 | 2| 
+| 20230814T16:30:09Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 36 | 2| 
 | 20230813T07:25:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 7 | 1| 
 | 20230812T23:57:45Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 62 | 3| 
 | 20230809T04:53:36Z | Null | https://github.com/NDSSTUDIO/ndsstudio.github.io | 0 | 0| 

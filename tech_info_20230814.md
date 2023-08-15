@@ -23,7 +23,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230814T23:23:47Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230814T22:17:33Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
-| 20230814T22:05:05Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230814T09:28:32Z | CVE-2023-32629 | Check for CVE-2023-32629 "GameOver(lay)" vulnerability  | https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay | | 
 | 20230814T06:43:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 | 20230814T06:18:48Z | CVE-2023-40297 |  Stakater Forecastle 1.0.127 allows directory traversal in the website component | https://github.com/sahar042/CVE-2023-40297 | | 
@@ -31,6 +30,7 @@
 | 20230814T05:12:06Z | CVE-2023-40294 | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295 | | 
 | 20230814T02:19:34Z | CVE-2023-27163 | Golang PoC for CVE-2023-27163 Mailtrail Exploit | https://github.com/thomas-osgood/CVE-2023-27163 | | 
 | 20230814T01:11:30Z | CVE-2022-44268 | CVE-2022-44268_By_Kyokito | https://github.com/chairat095/CVE-2022-44268_By_Kyokito | | 
+| 20230814T00:15:00Z | CVE-2023-38646 | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | https://github.com/robotmikhro/CVE-2023-38646 | | 
 
 
 # klee on Github 推荐
@@ -81,7 +81,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230814T12:21:18Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 35 | 2| 
+| 20230814T16:30:09Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 36 | 2| 
 
 
 # fuzz on Github 推荐
