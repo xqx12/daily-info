@@ -126,7 +126,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T01:08:14Z | Null | https://github.com/Gelianthus/fuzzy-disco | 18 | 0| 
+| 20230815T01:13:30Z | Null | https://github.com/Gelianthus/fuzzy-disco | 21 | 0| 
+| 20230815T01:11:17Z | Null | https://github.com/zhaotongxue09/fuzzy-broccoli | 0 | 0| 
 | 20230815T00:53:56Z | Config files for my GitHub profile. | https://github.com/AmericanFuzz/AmericanFuzz | 0 | 0| 
 | 20230815T00:29:23Z | a slot machine exercise to practice javascript | https://github.com/itsutki/fuzzy-broccoli | 0 | 0| 
 | 20230814T23:46:56Z | Null | https://github.com/TYSG94/Similarity-Score-with-Fuzzy-Matching | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230814T15:44:54Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 1 | 0| 
 | 20230814T14:04:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3809 | 454| 
 | 20230814T12:56:24Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 30 | 2| 
-| 20230814T12:52:49Z |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  | https://github.com/devanshbatham/ParamSpider | 1788 | 328| 
 
 
 
