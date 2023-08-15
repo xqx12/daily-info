@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:38:26Z | Null | https://github.com/NexoDeveloper/Exploits | 0 | 0| 
+| 20230815T00:41:28Z | Null | https://github.com/NexoDeveloper/Exploits | 0 | 0| 
 | 20230815T00:02:57Z | do you want your exploits to be invisible? Password: mysupersecretpassword | https://github.com/neealdon3/PayloadAllTheThings-password-protected- | 0 | 0| 
 | 20230814T23:36:24Z | CSP bypass for requests | https://github.com/wang-on-top/CSP-Request-Bypass | 2 | 1| 
 | 20230814T23:03:29Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
@@ -81,7 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230815T00:32:34Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
+| 20230815T00:41:28Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
 | 20230814T22:27:18Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
 | 20230814T22:08:09Z | Null | https://github.com/finding-a-nickname-is-boring/CodeCave-Backdooring | 0 | 0| 
 | 20230814T17:18:34Z | Null | https://github.com/sultankonslet9/backdoor | 0 | 0| 
