@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T00:32:34Z | Based on eval function PHP one-line backdoor | https://github.com/MarkTauber/evalsploit | 0 | 0| 
 | 20230814T22:27:18Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 1 | 0| 
 | 20230814T22:08:09Z | Null | https://github.com/finding-a-nickname-is-boring/CodeCave-Backdooring | 0 | 0| 
 | 20230814T17:18:34Z | Null | https://github.com/sultankonslet9/backdoor | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230814T06:03:43Z | Null | https://github.com/BettyWGS9/Assessing-Backdoor-Risk-in-Deepfake-Detectors | 0 | 0| 
 | 20230813T23:19:41Z | Resourses about BackDoor Attacks | https://github.com/Allenyaya/BackDoor-Learning | 17 | 0| 
 | 20230813T19:43:00Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 112 | 13| 
-| 20230813T09:42:55Z | Educational backdoor software for Minecarft Server | https://github.com/highright1234/alpha-omega | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
