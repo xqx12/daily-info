@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230815T12:45:17Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T12:38:57Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
-| 20230815T12:31:07Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T12:11:15Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230815T09:54:04Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230815T02:11:41Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T12:43:23Z | Null | https://github.com/h1-bonsoird/escape-exploit | 0 | 0| 
 | 20230815T12:42:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5430 | 754| 
-| 20230815T12:39:37Z | Null | https://github.com/h1-bonsoird/escape-exploit | 0 | 0| 
 | 20230815T12:15:31Z | Walkthrough of exploiting a stack based buffer overflow in a basic FreeFloat FTP server.  | https://github.com/Sadhvi19/Buffer-Overflow-in-Free-FloatFTP | 1 | 0| 
 | 20230815T12:10:04Z | In-Game UGC Exploit Tools | https://github.com/imblu12/in-game-ugc-tools | 0 | 0| 
 | 20230815T11:14:01Z | Risklogyx represents a robust solution that aids in the prioritization of vulnerability patching. It achieves this by amalgamating CVSS, EPSS, and CISA%s Known Exploited Vulnerabilities data. This tool delivers invaluable insights into the probability of exploitation and the potential repercussions of vulnerabilities on your information system. | https://github.com/infa-aksharma/Risklogyx | 0 | 0| 
@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T12:44:54Z | Null | https://github.com/Tatakaa/fuzzy-system.github.io | 0 | 0| 
 | 20230815T12:20:13Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 1 | 0| 
 | 20230815T11:46:11Z | Example of fuzzing, deployment, forking... with Woke | https://github.com/hacker-DOM/woke-counter | 0 | 0| 
 | 20230815T11:42:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5049 | 531| 
@@ -83,7 +84,6 @@
 | 20230815T10:42:18Z | NHA cursus | https://github.com/Foempie/fuzzy-spoon | 0 | 0| 
 | 20230815T10:13:30Z | Null | https://github.com/robinlzw/fuzz_ton_0630 | 0 | 0| 
 | 20230815T09:42:59Z | Data for the paper %Smarter Evolution: Enhancing Evolutionary Black-box Fuzzing with Adaptive Models% | https://github.com/anneborcherding/Smarter-Evolution | 0 | 0| 
-| 20230815T09:17:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1951 | 93| 
 
 
 
