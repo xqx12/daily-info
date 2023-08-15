@@ -56,8 +56,8 @@
 | 20230814T20:21:46Z | Null | https://github.com/agamabergel/glitterExploits | 0 | 0| 
 | 20230814T20:10:15Z | Autopwn exploit for vsFPTd 2.3.4 developed in Python 3 | https://github.com/LukasMp/vsftpd234-autopwn | 0 | 0| 
 | 20230814T19:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-XoTs9-exploit-reply | 0 | 0| 
+| 20230814T18:58:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5261 | 1031| 
 | 20230814T16:24:51Z | An exploration of projects that were exploited on the Stacks blockchain and the reasons behind it | https://github.com/vicnicius/stacks-exploited | 0 | 0| 
-| 20230814T12:45:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5426 | 753| 
 
 
 # backdoor on Github 推荐
