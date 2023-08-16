@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230815T23:49:49Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230815T23:36:18Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
 | 20230815T23:17:41Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T23:00:16Z | 未知编号 | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | | 
 | 20230815T18:56:35Z | CVE-2023-3460 | GitHub repository for CVE-2023-3460 POC | https://github.com/BlackReaperSK/CVE-2023-3460_POC | | 
@@ -27,6 +26,7 @@
 | 20230815T13:53:04Z | CVE-2023-2916 | CVE-2023-2916 PoC | https://github.com/d0rb/CVE-2023-2916 | | 
 | 20230815T13:47:27Z | CVE-2023-33242 | CVE-2023-33242  PoC | https://github.com/d0rb/CVE-2023-33242 | | 
 | 20230815T12:38:57Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
+| 20230815T09:54:04Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 
 
 # klee on Github 推荐
