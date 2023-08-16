@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T01:52:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42332-0066-0039-app-2WJ-A-defend-exploit | 0 | 0| 
 | 20230816T01:50:10Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20230816T01:43:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5264 | 1032| 
 | 20230816T01:42:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0014-app-VY2yY-exist-exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230816T00:50:47Z | JndiBypass漏洞利用 | https://github.com/Hypdncy/JndiBypassExploit | 0 | 0| 
 | 20230816T00:50:04Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-709-0052-app-QjMwH-exploit-become | 0 | 0| 
 | 20230816T00:39:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0076-0059-app-3JMEN-exploit-believe | 0 | 0| 
-| 20230816T00:37:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0021-app-Tmte--exploit-secure | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230816T01:38:57Z | Null | https://github.com/adrianaguilarmiranda/fuzzylogic_finalproject | 0 | 0| 
+| 20230816T01:48:02Z | Null | https://github.com/adrianaguilarmiranda/fuzzylogic_finalproject | 0 | 0| 
 | 20230816T01:21:08Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 0 | 0| 
 | 20230816T01:05:30Z | My clone repository | https://github.com/Alexandermacariosolis/fuzzy-spork | 0 | 0| 
 | 20230815T23:55:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48339 | 23154| 
