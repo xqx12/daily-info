@@ -55,10 +55,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:55:15Z | Log File Decryption Algorithm for OpenSSH Backdoor | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
 | 20230816T10:10:42Z | It is the latest version of private RAT called Xworm. I share this one for free | https://github.com/crackatfort/X-Worm-RAT | 0 | 0| 
 | 20230816T08:23:46Z | Null | https://github.com/Mehadi8707/wp-backdoor | 0 | 0| 
 | 20230816T07:20:29Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 587 | 72| 
-| 20230816T07:18:39Z | Null | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
 | 20230816T01:13:02Z | Null | https://github.com/jacky-mo-1111/Llama2_backdoor_defense | 0 | 0| 
 
 
