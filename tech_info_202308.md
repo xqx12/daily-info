@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:19:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 217 | 32| 
 | 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
 | 20230816T10:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4794 | 1156| 
 | 20230816T10:26:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3876 | 787| 
@@ -137,7 +138,6 @@
 | 20230816T01:48:02Z | Null | https://github.com/adrianaguilarmiranda/fuzzylogic_finalproject | 0 | 0| 
 | 20230816T01:21:08Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 0 | 0| 
 | 20230816T01:12:17Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 21 | 1| 
-| 20230816T01:05:30Z | My clone repository | https://github.com/Alexandermacariosolis/fuzzy-spork | 0 | 0| 
 
 
 
