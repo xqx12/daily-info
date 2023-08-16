@@ -26,7 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230816T01:35:36Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
+| 20230816T01:36:59Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
+| 20230816T01:36:52Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230816T00:51:00Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T23:49:49Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230815T23:00:16Z | 未知编号 | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | | 
@@ -35,7 +36,6 @@
 | 20230815T14:19:31Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230815T13:53:04Z | CVE-2023-2916 | CVE-2023-2916 PoC | https://github.com/d0rb/CVE-2023-2916 | | 
 | 20230815T13:47:27Z | CVE-2023-33242 | CVE-2023-33242  PoC | https://github.com/d0rb/CVE-2023-33242 | | 
-| 20230815T12:38:57Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 
 
 # klee on Github 推荐

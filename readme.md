@@ -24,7 +24,6 @@
 | 20230815T14:19:31Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20230815T13:53:04Z | CVE-2023-2916 | CVE-2023-2916 PoC | https://github.com/d0rb/CVE-2023-2916 | | 
 | 20230815T13:47:27Z | CVE-2023-33242 | CVE-2023-33242  PoC | https://github.com/d0rb/CVE-2023-33242 | | 
-| 20230815T12:38:57Z | CVE-2023-2033 | A collection of resources and information about CVE-2023-2033 | https://github.com/sandumjacob/CVE-2023-2033-Analysis | | 
 | 20230815T09:54:04Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 
 
