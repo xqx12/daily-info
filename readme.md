@@ -69,6 +69,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T19:00:13Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 93 | 2| 
+| 20230815T17:40:31Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 673 | 119| 
 | 20230815T06:26:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 
 
