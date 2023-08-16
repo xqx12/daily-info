@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T00:31:48Z | Free Scripting API for Roblox%s LUA(U) / LUA Engine. (THIS IS FOR EXPLOITERS / EXECUTORS). | https://github.com/SpyTYX/moon.api | 1 | 0| 
 | 20230815T23:57:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0071-0048-app-eGrYT-exploit-dare | 0 | 0| 
 | 20230815T23:10:01Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20230815T23:00:16Z | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | 3 | 2| 
@@ -77,7 +78,6 @@
 | 20230815T19:57:02Z | A library to facilitate the recording of events within your script through Discord Webhooks in LuaU. | https://github.com/raavenkkj/logs-library | 2 | 0| 
 | 20230815T16:32:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5264 | 1032| 
 | 20230815T12:43:23Z | Null | https://github.com/h1-bonsoird/escape-exploit | 0 | 0| 
-| 20230815T12:42:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5430 | 754| 
 
 
 # backdoor on Github 推荐
