@@ -135,9 +135,9 @@
 | 20230815T18:58:28Z | Null | https://github.com/google/fuzztest | 372 | 27| 
 | 20230815T17:35:12Z | Null | https://github.com/kirill-blip/15Fuzzle | 0 | 0| 
 | 20230815T16:54:25Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 234 | 18| 
+| 20230815T15:42:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3812 | 455| 
 | 20230815T12:59:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8870 | 1962| 
 | 20230815T12:44:54Z | Null | https://github.com/Tatakaa/fuzzy-system.github.io | 0 | 0| 
-| 20230815T12:20:13Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 1 | 0| 
 
 
 
