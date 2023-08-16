@@ -77,6 +77,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230815T18:59:26Z | AreaDetector plugin for PiMega%s geometric restoration based on SSCPimega | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230815T07:21:35Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 37 | 2| 
 
 
