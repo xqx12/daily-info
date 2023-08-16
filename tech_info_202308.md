@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
+| 20230816T10:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4794 | 1156| 
+| 20230816T10:26:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3876 | 787| 
+| 20230816T08:47:18Z | Null | https://github.com/foreign1/fuzzy-system | 0 | 0| 
+| 20230816T06:09:36Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/cad-polito-it/byron | 2 | 0| 
+| 20230816T02:48:32Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 32 | 2| 
 | 20230816T01:48:02Z | Null | https://github.com/adrianaguilarmiranda/fuzzylogic_finalproject | 0 | 0| 
 | 20230816T01:21:08Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 0 | 0| 
+| 20230816T01:12:17Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 21 | 1| 
 | 20230816T01:05:30Z | My clone repository | https://github.com/Alexandermacariosolis/fuzzy-spork | 0 | 0| 
-| 20230815T23:55:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48339 | 23154| 
-| 20230815T23:00:27Z | Simple fuzzy finder implemented in rust | https://github.com/Mvmo/rustic-fuzz | 0 | 0| 
-| 20230815T21:26:38Z | Common Corpus is used to build coverage-minimized corpus data sets for fuzzing. | https://github.com/isosceles-security/common-corpus | 0 | 0| 
-| 20230815T20:17:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1484 | 208| 
-| 20230815T18:58:28Z | Null | https://github.com/google/fuzztest | 372 | 27| 
-| 20230815T17:35:12Z | Null | https://github.com/kirill-blip/15Fuzzle | 0 | 0| 
-| 20230815T16:54:25Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 234 | 18| 
 
 
 
