@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T01:41:01Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42332-0061-0044-app-advIf-exploit-attempt | 0 | 0| 
+| 20230816T01:40:54Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0080-app-_nlxT-exploit-guess | 0 | 0| 
 | 20230816T01:35:56Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0086-0061-app-ThZEO-find-exploit | 0 | 0| 
 | 20230816T00:50:47Z | JndiBypass漏洞利用 | https://github.com/Hypdncy/JndiBypassExploit | 0 | 0| 
 | 20230816T00:50:04Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-709-0052-app-QjMwH-exploit-become | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20230816T00:31:48Z | Free Scripting API for Roblox%s LUA(U) / LUA Engine. (THIS IS FOR EXPLOITERS / EXECUTORS). | https://github.com/SpyTYX/moon.api | 1 | 0| 
 | 20230815T23:57:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0071-0048-app-eGrYT-exploit-dare | 0 | 0| 
 | 20230815T23:10:01Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
-| 20230815T23:00:16Z | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | 3 | 2| 
-| 20230815T22:59:55Z | capturethefoundry module 1: sut exploit | https://github.com/capturethefoundry/sut | 0 | 0| 
 
 
 # backdoor on Github 推荐
