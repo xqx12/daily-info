@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230816T00:51:00Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230816T00:46:20Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
 | 20230815T23:49:49Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230815T23:17:41Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T23:00:16Z | 未知编号 | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | | 
 | 20230815T18:56:35Z | CVE-2023-3460 | GitHub repository for CVE-2023-3460 POC | https://github.com/BlackReaperSK/CVE-2023-3460_POC | | 
 | 20230815T18:55:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T00:50:47Z | JndiBypass漏洞利用 | https://github.com/Hypdncy/JndiBypassExploit | 0 | 0| 
 | 20230816T00:50:04Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-709-0052-app-QjMwH-exploit-become | 0 | 0| 
 | 20230816T00:39:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0076-0059-app-3JMEN-exploit-believe | 0 | 0| 
 | 20230816T00:37:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0021-app-Tmte--exploit-secure | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230815T23:00:16Z | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | 3 | 2| 
 | 20230815T22:59:55Z | capturethefoundry module 1: sut exploit | https://github.com/capturethefoundry/sut | 0 | 0| 
 | 20230815T21:30:34Z | A repository for practicing writing foundry PoC on past exploits | https://github.com/cryptostaker2/capture-the-foundry | 0 | 0| 
-| 20230815T21:08:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 711 | 179| 
 
 
 # backdoor on Github 推荐

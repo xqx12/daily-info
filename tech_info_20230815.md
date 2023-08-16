@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230815T23:49:49Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230815T23:17:41Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230815T23:00:16Z | 未知编号 | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | | 
 | 20230815T18:56:35Z | CVE-2023-3460 | GitHub repository for CVE-2023-3460 POC | https://github.com/BlackReaperSK/CVE-2023-3460_POC | | 
 | 20230815T18:55:49Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
