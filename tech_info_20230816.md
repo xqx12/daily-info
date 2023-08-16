@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-xrss-W13h5-wish-exploit | 0 | 0| 
 | 20230816T12:43:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0046-0005-app-cWHDL-exploit-continue | 0 | 0| 
 | 20230816T12:39:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-530-Dyf2k-exploit-reply | 0 | 0| 
 | 20230816T12:32:36Z | 🌿 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 1 | 0| 
@@ -49,7 +50,6 @@
 | 20230816T09:38:36Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5797 | 673| 
 | 20230816T07:18:55Z | source code for the roblox exploit %Nihon% | https://github.com/carolesdaughter/Nihon-Exploit-Source | 0 | 0| 
 | 20230816T06:45:30Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 0 | 0| 
-| 20230816T05:39:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5268 | 1032| 
 
 
 # backdoor on Github 推荐
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:47:35Z | Null | https://github.com/suryamunaga/fuzzy | 0 | 0| 
 | 20230816T12:19:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 217 | 32| 
 | 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
 | 20230816T10:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4794 | 1156| 
@@ -85,7 +86,6 @@
 | 20230816T02:48:32Z | GrayC: Greybox Fuzzing of Compilers and Analysers for C | https://github.com/srg-imperial/GrayC | 32 | 2| 
 | 20230816T01:48:02Z | Null | https://github.com/adrianaguilarmiranda/fuzzylogic_finalproject | 0 | 0| 
 | 20230816T01:21:08Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 0 | 0| 
-| 20230816T01:12:17Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 21 | 1| 
 
 
 
