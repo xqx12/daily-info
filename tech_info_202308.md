@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T01:05:30Z | My clone repository | https://github.com/Alexandermacariosolis/fuzzy-spork | 0 | 0| 
 | 20230815T23:55:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48339 | 23154| 
 | 20230815T23:00:27Z | Simple fuzzy finder implemented in rust | https://github.com/Mvmo/rustic-fuzz | 0 | 0| 
 | 20230815T21:26:38Z | Common Corpus is used to build coverage-minimized corpus data sets for fuzzing. | https://github.com/isosceles-security/common-corpus | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230815T16:54:25Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 234 | 18| 
 | 20230815T15:42:48Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3812 | 455| 
 | 20230815T12:59:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8870 | 1962| 
-| 20230815T12:44:54Z | Null | https://github.com/Tatakaa/fuzzy-system.github.io | 0 | 0| 
 
 
 
