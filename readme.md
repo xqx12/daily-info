@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:32:36Z | 🌿 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 1 | 0| 
 | 20230816T12:30:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0026-app-l67Zs-collect-exploit | 0 | 0| 
 | 20230816T12:18:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42332-0051-0014-app-LwkbO-exploit-stick | 0 | 0| 
 | 20230816T10:36:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5870 | 783| 
@@ -49,7 +50,6 @@
 | 20230816T05:39:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5268 | 1032| 
 | 20230816T02:44:23Z | 内网集权系统渗透测试笔记 | https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet | 6 | 0| 
 | 20230816T02:42:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 712 | 179| 
-| 20230816T01:52:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42332-0066-0039-app-2WJ-A-defend-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
