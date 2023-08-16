@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T12:56:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0024-app-YSap1-exploit-shall | 0 | 0| 
 | 20230816T12:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-xrss-W13h5-wish-exploit | 0 | 0| 
 | 20230816T12:43:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0046-0005-app-cWHDL-exploit-continue | 0 | 0| 
 | 20230816T12:39:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-530-Dyf2k-exploit-reply | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20230816T10:36:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5870 | 783| 
 | 20230816T09:38:36Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5797 | 673| 
 | 20230816T07:18:55Z | source code for the roblox exploit %Nihon% | https://github.com/carolesdaughter/Nihon-Exploit-Source | 0 | 0| 
-| 20230816T06:45:30Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐
