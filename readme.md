@@ -52,9 +52,9 @@
 | 20230815T21:30:34Z | A repository for practicing writing foundry PoC on past exploits | https://github.com/cryptostaker2/capture-the-foundry | 0 | 0| 
 | 20230815T21:08:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 711 | 179| 
 | 20230815T19:57:02Z | A library to facilitate the recording of events within your script through Discord Webhooks in LuaU. | https://github.com/raavenkkj/logs-library | 2 | 0| 
+| 20230815T16:32:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5264 | 1032| 
 | 20230815T12:43:23Z | Null | https://github.com/h1-bonsoird/escape-exploit | 0 | 0| 
 | 20230815T12:42:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5430 | 754| 
-| 20230815T12:15:31Z | Walkthrough of exploiting a stack based buffer overflow in a basic FreeFloat FTP server.  | https://github.com/Sadhvi19/Buffer-Overflow-in-Free-FloatFTP | 1 | 0| 
 
 
 # backdoor on Github 推荐
