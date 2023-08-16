@@ -44,7 +44,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230815T23:57:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0071-0048-app-eGrYT-exploit-dare | 0 | 0| 
-| 20230815T23:10:01Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20230815T23:00:16Z | cve_2022_24124 exploit | https://github.com/b1gdog/cve_2022_24124 | 3 | 2| 
 | 20230815T22:59:55Z | capturethefoundry module 1: sut exploit | https://github.com/capturethefoundry/sut | 0 | 0| 
 | 20230815T21:30:34Z | A repository for practicing writing foundry PoC on past exploits | https://github.com/cryptostaker2/capture-the-foundry | 0 | 0| 
@@ -53,6 +52,7 @@
 | 20230815T12:47:31Z | Muffin Hub is the place where you could find some cool stuff ranging from exploit source codes, malwares, viruses and other hacking related goodies. | https://github.com/Abinesh-Mathivanan/muffin-hub | 4 | 1| 
 | 20230815T12:43:23Z | Null | https://github.com/h1-bonsoird/escape-exploit | 0 | 0| 
 | 20230815T12:42:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5430 | 754| 
+| 20230815T12:15:31Z | Walkthrough of exploiting a stack based buffer overflow in a basic FreeFloat FTP server.  | https://github.com/Sadhvi19/Buffer-Overflow-in-Free-FloatFTP | 1 | 0| 
 
 
 # backdoor on Github 推荐
