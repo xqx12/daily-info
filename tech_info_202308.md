@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T00:50:04Z | GitOps Repository | https://github.com/pmacik-testing/ci-10-10-709-0052-app-QjMwH-exploit-become | 0 | 0| 
 | 20230816T00:39:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0076-0059-app-3JMEN-exploit-believe | 0 | 0| 
 | 20230816T00:37:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0021-app-Tmte--exploit-secure | 0 | 0| 
 | 20230816T00:31:48Z | Free Scripting API for Roblox%s LUA(U) / LUA Engine. (THIS IS FOR EXPLOITERS / EXECUTORS). | https://github.com/SpyTYX/moon.api | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20230815T22:59:55Z | capturethefoundry module 1: sut exploit | https://github.com/capturethefoundry/sut | 0 | 0| 
 | 20230815T21:30:34Z | A repository for practicing writing foundry PoC on past exploits | https://github.com/cryptostaker2/capture-the-foundry | 0 | 0| 
 | 20230815T21:08:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 711 | 179| 
-| 20230815T19:57:02Z | A library to facilitate the recording of events within your script through Discord Webhooks in LuaU. | https://github.com/raavenkkj/logs-library | 2 | 0| 
 
 
 # backdoor on Github 推荐
