@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T12:15:24Z | Null | https://github.com/pawanjswal/exploit-writeup | 0 | 0| 
 | 20230817T11:30:32Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169227177-DQRr4-suffer-exploit | 0 | 0| 
 | 20230817T09:34:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 48 | 9| 
 | 20230817T09:31:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5435 | 754| 
@@ -54,7 +55,6 @@
 | 20230817T01:40:50Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0026-0023-app-WMVEQ-bear-exploit | 0 | 0| 
 | 20230817T01:18:26Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0011-0009-app-XNS6V-exploit-discuss | 0 | 0| 
 | 20230817T00:47:10Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169223314-a8Rb0-can-exploit | 0 | 0| 
-| 20230817T00:46:55Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 559 | 108| 
 
 
 # backdoor on Github 推荐
