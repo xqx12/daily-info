@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T01:37:27Z | Controlling the movement of a robot | https://github.com/lucaspaludo/GearsAposteriori-Fuzzy-Logic | 0 | 0| 
 | 20230817T01:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8884 | 1965| 
 | 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
 | 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
@@ -137,7 +138,6 @@
 | 20230816T13:17:27Z | Null | https://github.com/google/fuzztest | 374 | 27| 
 | 20230816T12:47:35Z | Null | https://github.com/suryamunaga/fuzzy | 0 | 0| 
 | 20230816T12:19:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 217 | 32| 
-| 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
 
 
 
