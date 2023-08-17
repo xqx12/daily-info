@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T01:09:44Z | Null | https://github.com/youngshallyx/Black-box-Graph-Backdoor-Defense | 0 | 0| 
 | 20230817T00:50:25Z | Null | https://github.com/youngshallyx/PerCBA-Persistent-Clean-label-Backdoor-Attacks-on-Semi-Supervised-Graph-Node-Classification | 0 | 0| 
 | 20230816T19:49:29Z | RLX-06 SHELL BACKDOOR | https://github.com/rlx-06/rlx-06shell | 0 | 0| 
 | 20230816T19:38:15Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230816T12:55:15Z | Log File Decryption Algorithm for OpenSSH Backdoor | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
 | 20230816T10:10:42Z | It is the latest version of private RAT called Xworm. I share this one for free | https://github.com/crackatfort/X-Worm-RAT | 0 | 0| 
 | 20230816T08:23:46Z | Null | https://github.com/Mehadi8707/wp-backdoor | 0 | 0| 
-| 20230816T07:20:29Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 587 | 73| 
 
 
 # symbolic execution on Github 推荐
