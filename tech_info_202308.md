@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T00:47:10Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169223314-a8Rb0-can-exploit | 0 | 0| 
+| 20230817T00:46:55Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 559 | 107| 
 | 20230816T23:28:21Z | A savegame exploit / homebrew entrypoint for the game Robotech: Battlecry on the GameCube and Xbox. | https://github.com/InvoxiPlayGames/robohaxx | 20 | 0| 
 | 20230816T23:27:45Z | A Red Team Engagement is a cybersecurity exercise designed to simulate real-world attacks and security breaches on an organization%s systems, networks, and applications. The primary goal of a red team engagement is to identify vulnerabilities, weaknesses, and potential points of exploitation within an organization%s defenses. | https://github.com/JFPineda79/Red-Team-Engagement-Simulation | 0 | 0| 
 | 20230816T23:09:28Z | A PoC exploit for Maltrail v0.53, written as part of my participation in HTB Sau box. | https://github.com/SethJGibson/Hummingbird-Maltrail-RCE-PoC | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20230816T12:56:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0024-app-YSap1-exploit-shall | 0 | 0| 
 | 20230816T12:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-xrss-W13h5-wish-exploit | 0 | 0| 
 | 20230816T12:43:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0046-0005-app-cWHDL-exploit-continue | 0 | 0| 
-| 20230816T12:39:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-530-Dyf2k-exploit-reply | 0 | 0| 
-| 20230816T12:32:36Z | 🌿 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 1 | 0| 
 
 
 # backdoor on Github 推荐
