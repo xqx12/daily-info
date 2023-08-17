@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
 | 20230816T21:58:56Z | Null | https://github.com/vladislav-fl/fuzz | 0 | 0| 
 | 20230816T21:33:18Z | This repo contains a Foundry project that implements a simple fuzzing testing | https://github.com/JMariadlcs/simple-fuzzing | 0 | 0| 
 | 20230816T20:59:11Z | Null | https://github.com/yocontraustedes/fuzzy-sniffle | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
 | 20230816T10:53:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3815 | 455| 
 | 20230816T10:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4794 | 1156| 
-| 20230816T10:26:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3876 | 787| 
 
 
 

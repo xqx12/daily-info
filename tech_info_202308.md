@@ -130,6 +130,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
 | 20230817T00:13:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8883 | 1964| 
+| 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
 | 20230816T21:58:56Z | Null | https://github.com/vladislav-fl/fuzz | 0 | 0| 
 | 20230816T21:33:18Z | This repo contains a Foundry project that implements a simple fuzzing testing | https://github.com/JMariadlcs/simple-fuzzing | 0 | 0| 
 | 20230816T20:59:11Z | Null | https://github.com/yocontraustedes/fuzzy-sniffle | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230816T12:47:35Z | Null | https://github.com/suryamunaga/fuzzy | 0 | 0| 
 | 20230816T12:19:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 217 | 32| 
 | 20230816T11:20:22Z | Null | https://github.com/43213120406/fuzzy-waffle | 0 | 0| 
-| 20230816T10:53:24Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3815 | 455| 
 
 
 
