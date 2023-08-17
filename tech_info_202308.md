@@ -114,13 +114,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T12:50:41Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 
 | 20230816T14:38:18Z | Experiments presented as part of the original FirmWire publication (NDSS%22) | https://github.com/FirmWire/ndss22_experiments | 1 | 0| 
 | 20230816T07:00:12Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 63 | 3| 
 | 20230815T18:59:26Z | AreaDetector plugin for PiMega%s geometric restoration based on SSCPimega | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230815T07:21:35Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 37 | 2| 
 | 20230813T07:25:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 7 | 1| 
 | 20230809T04:53:36Z | Null | https://github.com/NDSSTUDIO/ndsstudio.github.io | 0 | 0| 
-| 20230809T03:13:04Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 12 | 1| 
 | 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 
 | 20230808T03:20:53Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 730 | 122| 
 | 20230807T18:42:07Z | Kubernetes | https://github.com/LeeJyor/NDSstudy | 0 | 0| 
