@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T12:39:10Z | AI systems built using fuzzy logic concepts | https://github.com/kapp1medvede/fuzzy-systems | 0 | 0| 
 | 20230817T12:22:31Z | Software to analyze routing algorithms | https://github.com/khurozov/fuzzy-route | 0 | 1| 
 | 20230817T10:33:00Z | a DSL | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
 | 20230817T09:00:41Z | Null | https://github.com/Mesm3rizer/fuzzy-computing-machine | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230817T01:28:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 218 | 32| 
 | 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
 | 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
-| 20230816T21:58:56Z | Null | https://github.com/vladislav-fl/fuzz | 0 | 0| 
 
 
 

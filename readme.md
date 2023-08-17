@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T12:39:10Z | AI systems built using fuzzy logic concepts | https://github.com/kapp1medvede/fuzzy-systems | 0 | 0| 
 | 20230817T12:22:31Z | Software to analyze routing algorithms | https://github.com/khurozov/fuzzy-route | 0 | 1| 
 | 20230817T10:33:00Z | a DSL | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
 | 20230817T09:00:41Z | Null | https://github.com/Mesm3rizer/fuzzy-computing-machine | 0 | 0| 
