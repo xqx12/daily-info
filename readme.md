@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230816T23:42:48Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230816T14:36:50Z | CVE-2023-38836 | Exploit for file upload vulnerability in BoidCMS version <=2.0.0 | https://github.com/1337kid/CVE-2023-38836 | | 
 | 20230816T13:08:42Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230816T11:34:03Z | CVE-2022-39986 | CVE-2022-39986 PoC | https://github.com/WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC | | 
