@@ -72,12 +72,12 @@
 | 20230816T23:27:45Z | A Red Team Engagement is a cybersecurity exercise designed to simulate real-world attacks and security breaches on an organization%s systems, networks, and applications. The primary goal of a red team engagement is to identify vulnerabilities, weaknesses, and potential points of exploitation within an organization%s defenses. | https://github.com/JFPineda79/Red-Team-Engagement-Simulation | 0 | 0| 
 | 20230816T23:09:28Z | A PoC exploit for Maltrail v0.53, written as part of my participation in HTB Sau box. | https://github.com/SethJGibson/Hummingbird-Maltrail-RCE-PoC | 0 | 0| 
 | 20230816T21:22:53Z | Roblox anti exploit bypasser | https://github.com/boyboyboy333/Waterbottle-Roblox-exploit | 1 | 0| 
+| 20230816T20:01:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5269 | 1034| 
 | 20230816T12:56:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0024-app-YSap1-exploit-shall | 0 | 0| 
 | 20230816T12:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-xrss-W13h5-wish-exploit | 0 | 0| 
 | 20230816T12:43:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0046-0005-app-cWHDL-exploit-continue | 0 | 0| 
 | 20230816T12:39:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-530-Dyf2k-exploit-reply | 0 | 0| 
 | 20230816T12:32:36Z | 🌿 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 1 | 0| 
-| 20230816T12:30:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0026-app-l67Zs-collect-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
