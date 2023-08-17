@@ -113,6 +113,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230816T14:38:18Z | Experiments presented as part of the original FirmWire publication (NDSS%22) | https://github.com/FirmWire/ndss22_experiments | 1 | 0| 
 | 20230816T07:00:12Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 63 | 3| 
 | 20230815T18:59:26Z | AreaDetector plugin for PiMega%s geometric restoration based on SSCPimega | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230815T07:21:35Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 37 | 2| 
@@ -122,7 +123,6 @@
 | 20230808T13:01:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 13 | 2| 
 | 20230808T03:20:53Z | DroneSecurity (NDSS 2023) | https://github.com/RUB-SysSec/DroneSecurity | 730 | 122| 
 | 20230807T18:42:07Z | Kubernetes | https://github.com/LeeJyor/NDSstudy | 0 | 0| 
-| 20230806T17:40:51Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 19 | 2| 
 
 
 # fuzz on Github 推荐
