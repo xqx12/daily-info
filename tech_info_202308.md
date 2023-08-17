@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T01:40:50Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0026-0023-app-WMVEQ-bear-exploit | 0 | 0| 
 | 20230817T01:18:26Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0011-0009-app-XNS6V-exploit-discuss | 0 | 0| 
 | 20230817T00:47:10Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169223314-a8Rb0-can-exploit | 0 | 0| 
 | 20230817T00:46:55Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 559 | 107| 
@@ -77,7 +78,6 @@
 | 20230816T21:22:53Z | Roblox anti exploit bypasser | https://github.com/boyboyboy333/Waterbottle-Roblox-exploit | 1 | 0| 
 | 20230816T20:01:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5269 | 1034| 
 | 20230816T15:30:34Z | Open-Source Hacked/Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | 18 | 6| 
-| 20230816T12:56:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0024-app-YSap1-exploit-shall | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230817T01:37:27Z | Controlling the movement of a robot | https://github.com/lucaspaludo/GearsAposteriori-Fuzzy-Logic | 0 | 0| 
+| 20230817T01:40:58Z | Controlling the movement of a robot | https://github.com/lucaspaludo/GearsAposteriori-Fuzzy-Logic | 0 | 0| 
 | 20230817T01:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8884 | 1965| 
 | 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
 | 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
