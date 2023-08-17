@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T01:21:54Z | Null | https://github.com/youngshallyx/Backdoor-on-Social-Systems | 0 | 0| 
 | 20230817T01:17:02Z | Null | https://github.com/youngshallyx/Persistent-Clean-label-Backdoor-on-Graph-based-Semi-supervised-Cybercrime-Detection | 0 | 0| 
 | 20230817T01:09:44Z | Null | https://github.com/youngshallyx/Black-box-Graph-Backdoor-Defense | 0 | 0| 
 | 20230817T00:50:25Z | Null | https://github.com/youngshallyx/PerCBA-Persistent-Clean-label-Backdoor-Attacks-on-Semi-Supervised-Graph-Node-Classification | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20230816T17:08:36Z | Null | https://github.com/DanAm7/BackDoor | 0 | 0| 
 | 20230816T16:04:03Z |  Simple Powershell Http shell With WEB UI  | https://github.com/jxroot/ReHTTP | 1 | 0| 
 | 20230816T12:55:15Z | Log File Decryption Algorithm for OpenSSH Backdoor | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
-| 20230816T10:10:42Z | It is the latest version of private RAT called Xworm. I share this one for free | https://github.com/crackatfort/X-Worm-RAT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,8 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T01:21:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8884 | 1965| 
 | 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
-| 20230817T00:13:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8883 | 1964| 
 | 20230816T23:25:51Z | My personal collection of nuclei templates made for fuzzing. | https://github.com/U53RW4R3/nuclei-fuzzer-templates | 2 | 0| 
 | 20230816T21:58:56Z | Null | https://github.com/vladislav-fl/fuzz | 0 | 0| 
 | 20230816T21:33:18Z | This repo contains a Foundry project that implements a simple fuzzing testing | https://github.com/JMariadlcs/simple-fuzzing | 0 | 0| 
