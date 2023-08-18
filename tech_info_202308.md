@@ -74,11 +74,11 @@
 | 20230817T23:27:35Z | Supplemental R script | https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation | 1 | 0| 
 | 20230817T21:29:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169230775-NA_QT-exploit-remove | 0 | 0| 
 | 20230817T20:34:55Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
+| 20230817T15:18:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5273 | 1034| 
 | 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
 | 20230817T12:30:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 560 | 108| 
 | 20230817T12:26:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0066-0005-app-CT4o2-exploit-rely | 0 | 0| 
 | 20230817T12:25:56Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0066-0023-app-inQXC-exploit-fear | 0 | 0| 
-| 20230817T12:15:24Z | Null | https://github.com/pawanjswal/exploit-writeup | 0 | 0| 
 
 
 # backdoor on Github 推荐
