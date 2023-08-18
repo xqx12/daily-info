@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T01:56:16Z | GitOps Repository | https://github.com/pmacik-testing/cima-0051-0041-app-Rvr8c-rise-exploit | 0 | 0| 
 | 20230818T01:18:53Z | GitOps Repository | https://github.com/pmacik-testing/cima-0021-0019-app-lLgEB-exploit-telephone | 0 | 0| 
 | 20230818T00:55:33Z | Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941) | https://github.com/arthurvmbl/nodejshell | 0 | 0| 
 | 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230817T20:34:55Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230817T15:18:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5273 | 1034| 
 | 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
-| 20230817T12:30:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 560 | 108| 
 
 
 # backdoor on Github 推荐
