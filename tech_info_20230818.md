@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T12:55:54Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
 | 20230818T12:50:50Z | Null | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
 | 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
 | 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 

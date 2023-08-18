@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T12:55:54Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
 | 20230818T12:50:50Z | Null | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
 | 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
 | 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 
@@ -78,7 +79,6 @@
 | 20230818T01:18:53Z | GitOps Repository | https://github.com/pmacik-testing/cima-0021-0019-app-lLgEB-exploit-telephone | 0 | 0| 
 | 20230818T00:55:33Z | Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941) | https://github.com/arthurvmbl/nodejshell | 0 | 0| 
 | 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
-| 20230817T23:33:48Z | Null | https://github.com/SirFusion/Chrome-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
