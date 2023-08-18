@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T12:29:28Z | Null | https://github.com/felipelazzaron/fuzzy-winner | 0 | 0| 
 | 20230818T12:13:34Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
 | 20230818T12:02:32Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
 | 20230818T12:01:37Z | Fuzzing in Physics | https://github.com/ggoneiESS/phuzzing | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20230818T09:44:19Z | instaparse library fuzzed | https://github.com/flipsi/instaparse-fuzz-wrapper | 0 | 0| 
 | 20230818T09:42:32Z | Null | https://github.com/Devang-Mulye/Fuzzy-Membership-Funcions | 0 | 0| 
 | 20230818T09:34:36Z | proof of shame | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
-| 20230818T02:52:32Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 10 | 0| 
 
 
 
