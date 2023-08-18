@@ -88,15 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230817T23:05:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8892 | 1966| 
+| 20230817T20:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
+| 20230817T19:21:53Z | Null | https://github.com/google/fuzztest | 375 | 27| 
+| 20230817T14:29:32Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 0| 
 | 20230817T12:39:10Z | AI systems built using fuzzy logic concepts | https://github.com/kapp1medvede/fuzzy-systems | 0 | 0| 
 | 20230817T12:22:31Z | Software to analyze routing algorithms | https://github.com/khurozov/fuzzy-route | 0 | 1| 
 | 20230817T10:33:00Z | a DSL | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
 | 20230817T09:00:41Z | Null | https://github.com/Mesm3rizer/fuzzy-computing-machine | 0 | 0| 
 | 20230817T08:56:41Z | WARNİNG!!! FWQX CYBER GUN!! | https://github.com/ST40l/ProtectorFuzzer | 0 | 0| 
-| 20230817T01:53:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8885 | 1965| 
 | 20230817T01:45:01Z | Controlling the movement of a robot | https://github.com/lucaspaludo/GearsAposteriori-Fuzzy-Logic | 0 | 0| 
-| 20230817T01:28:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 218 | 32| 
-| 20230817T00:46:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 191| 
 
 
 
