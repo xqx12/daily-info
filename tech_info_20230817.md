@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230817T23:05:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8892 | 1966| 
 | 20230817T20:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
 | 20230817T19:33:35Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3819 | 456| 
 | 20230817T19:21:53Z | Null | https://github.com/google/fuzztest | 375 | 27| 
@@ -98,6 +97,7 @@
 | 20230817T10:33:00Z | a DSL | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
 | 20230817T09:00:41Z | Null | https://github.com/Mesm3rizer/fuzzy-computing-machine | 0 | 0| 
 | 20230817T08:56:41Z | WARNİNG!!! FWQX CYBER GUN!! | https://github.com/ST40l/ProtectorFuzzer | 0 | 0| 
+| 20230817T01:45:01Z | Controlling the movement of a robot | https://github.com/lucaspaludo/GearsAposteriori-Fuzzy-Logic | 0 | 0| 
 
 
 
