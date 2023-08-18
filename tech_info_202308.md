@@ -26,21 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230818T01:32:54Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
-| 20230818T01:11:45Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
-| 20230817T17:44:20Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
+| 20230818T11:44:26Z | CVE-2023-34634 | Python rewrite of the POC for CVE-2023-34634 | https://github.com/radman404/CVE-2023-34634 | | 
+| 20230818T11:28:41Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230818T08:45:37Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
+| 20230818T08:06:10Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
+| 20230818T04:01:14Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
+| 20230818T03:02:41Z | CVE-2023-34853 | Null | https://github.com/risuxx/CVE-2023-34853 | | 
 | 20230817T14:27:12Z | CVE-2023-4174 | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-4174 | | 
 | 20230817T14:12:38Z | CVE-2022-21907 | Null | https://github.com/asepsaepdin/CVE-2022-21907 | | 
 | 20230817T14:00:02Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
 | 20230817T11:09:47Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
-| 20230817T10:37:28Z | CVE-2023-24329 | Null | https://github.com/H4R335HR/CVE-2023-24329-PoC | | 
-| 20230817T08:20:58Z | CVE-2023-33242 | CVE-2023-33242  PoC | https://github.com/d0rb/CVE-2023-33242 | | 
-| 20230817T06:43:52Z | CVE-2023-38836 | Exploit for file upload vulnerability in BoidCMS version <=2.0.0 | https://github.com/1337kid/CVE-2023-38836 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T08:16:55Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 12 | 0| 
+| 20230818T07:45:25Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
+| 20230818T05:02:09Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 85 | 19| 
 | 20230817T11:20:41Z | adds a gif of klee dancing to your playback bar | https://github.com/zylaunt/klee | 0 | 0| 
 | 20230817T02:34:58Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉90度形成直書排版)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 29 | 1| 
 | 20230814T18:56:32Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/edk2-klee | 1 | 0| 
@@ -48,9 +51,6 @@
 | 20230814T04:48:02Z | Null | https://github.com/joffreyzhang/KLEE_wp | 0 | 0| 
 | 20230813T02:12:23Z | clear your terminal with style | https://github.com/MrPicklePinosaur/kleer | 0 | 0| 
 | 20230812T02:43:20Z | UI Library | https://github.com/ggenzone/kleene-ui | 6 | 0| 
-| 20230810T15:13:57Z | Null | https://github.com/shafiuzzaman-md/harden-demo1-klee-driver | 0 | 0| 
-| 20230809T10:42:47Z | Null | https://github.com/SARMISTHASUBHADARSHINI/klee_s | 0 | 0| 
-| 20230809T08:37:48Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 84 | 19| 
 
 
 # s2e on Github 推荐
@@ -69,31 +69,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 
+| 20230818T09:59:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5441 | 754| 
+| 20230818T07:43:09Z | Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 36 | 9| 
+| 20230818T04:50:50Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 993 | 48| 
 | 20230818T01:56:16Z | GitOps Repository | https://github.com/pmacik-testing/cima-0051-0041-app-Rvr8c-rise-exploit | 0 | 0| 
 | 20230818T01:18:53Z | GitOps Repository | https://github.com/pmacik-testing/cima-0021-0019-app-lLgEB-exploit-telephone | 0 | 0| 
 | 20230818T00:55:33Z | Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941) | https://github.com/arthurvmbl/nodejshell | 0 | 0| 
 | 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 | 20230817T23:33:48Z | Null | https://github.com/SirFusion/Chrome-Exploit | 0 | 0| 
 | 20230817T23:27:35Z | Supplemental R script | https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation | 1 | 0| 
-| 20230817T21:29:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169230775-NA_QT-exploit-remove | 0 | 0| 
-| 20230817T20:34:55Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
-| 20230817T15:18:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5273 | 1034| 
-| 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T10:40:57Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/vulhub/metersphere-plugin-Backdoor | 6 | 0| 
+| 20230818T10:17:50Z | Official Pytorch implementation for our ACM MM 2023 paper: Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World | https://github.com/weihui1308/Moire-Backdoor-Attack | 0 | 0| 
+| 20230818T09:05:03Z | Metainfo Collecting user information through backdoor code auditing | https://github.com/FromAmericanJack/aboutMetinfo | 1 | 0| 
+| 20230818T03:15:57Z | beta | https://github.com/SiBiRiK/backdoor-x | 0 | 0| 
+| 20230818T02:52:11Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
 | 20230817T16:56:53Z | Fork from sky studio. Didn%t check if there is any backdoor. | https://github.com/pinnertw/layer_zero | 0 | 0| 
 | 20230817T09:47:10Z | Presentation for project 4. Applying a infected SSH public key to open a backdoor with gsocket. | https://github.com/dtureo2/Project-4-Usydney-Bootcamp- | 1 | 0| 
 | 20230817T06:25:31Z | Log File Decryption Algorithm for OpenSSH Backdoor | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
 | 20230817T06:14:10Z | Detect potentially malicious PHP files based on token | https://github.com/Cvar1984/sussyfinder | 1 | 2| 
 | 20230817T02:41:45Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 23 | 5| 
-| 20230817T01:21:54Z | Null | https://github.com/youngshallyx/Backdoor-on-Social-Systems | 0 | 0| 
-| 20230817T01:17:02Z | Null | https://github.com/youngshallyx/Persistent-Clean-label-Backdoor-on-Graph-based-Semi-supervised-Cybercrime-Detection | 0 | 0| 
-| 20230817T01:09:44Z | Null | https://github.com/youngshallyx/Black-box-Graph-Backdoor-Defense | 0 | 0| 
-| 20230817T00:50:25Z | Null | https://github.com/youngshallyx/PerCBA-Persistent-Clean-label-Backdoor-Attacks-on-Semi-Supervised-Graph-Node-Classification | 0 | 0| 
-| 20230816T19:49:29Z | RLX-06 SHELL BACKDOOR | https://github.com/rlx-06/rlx-06shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T11:53:49Z | Maven Fuzzy Factory Website/Sales Performance Project | https://github.com/OBA0700/Maven_Fuzzy_Factory_Project | 0 | 0| 
+| 20230818T11:35:54Z | Null | https://github.com/shobhit-sheta/fuzzy | 0 | 0| 
+| 20230818T11:35:09Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 0 | 0| 
+| 20230818T10:23:00Z | The MATLAB code for the research paper titled %Multi-Class Fuzzily Weighted Adaptive Boosting-based Self-Organising Fuzzy Inference Ensemble Systems for Classification%. | https://github.com/Gu-X/Multi-Class-Fuzzily-Weighted-Adaptive-Boosting-based-Self-Organising-Fuzzy-Inference-Ensemble-System | 4 | 0| 
+| 20230818T09:44:19Z | instaparse library fuzzed | https://github.com/flipsi/instaparse-fuzz-wrapper | 0 | 0| 
+| 20230818T09:42:32Z | Null | https://github.com/Devang-Mulye/Fuzzy-Membership-Funcions | 0 | 0| 
+| 20230818T09:34:36Z | proof of shame | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
+| 20230818T02:02:48Z | An awesome list of virtual device fuzzing papers. | https://github.com/qianfei11/Awesome-Virtual-Device-Fuzzing | 0 | 0| 
 | 20230818T00:57:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8893 | 1966| 
 | 20230817T20:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
-| 20230817T19:33:35Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3819 | 456| 
-| 20230817T19:21:53Z | Null | https://github.com/google/fuzztest | 375 | 27| 
-| 20230817T14:29:32Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 0| 
-| 20230817T12:39:10Z | AI systems built using fuzzy logic concepts | https://github.com/kapp1medvede/fuzzy-systems | 0 | 0| 
-| 20230817T12:22:31Z | Software to analyze routing algorithms | https://github.com/khurozov/fuzzy-route | 0 | 1| 
-| 20230817T10:33:00Z | a DSL | https://github.com/aleeusgr/fuzzy-tribble | 0 | 1| 
-| 20230817T09:00:41Z | Null | https://github.com/Mesm3rizer/fuzzy-computing-machine | 0 | 0| 
-| 20230817T08:56:41Z | WARNİNG!!! FWQX CYBER GUN!! | https://github.com/ST40l/ProtectorFuzzer | 0 | 0| 
 
 
 
