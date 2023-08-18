@@ -49,7 +49,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230817T23:33:48Z | Null | https://github.com/SirFusion/Chrome-Exploit | 0 | 0| 
 | 20230817T23:27:35Z | Supplemental R script | https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation | 1 | 0| 
-| 20230817T21:55:07Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 | 20230817T21:29:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169230775-NA_QT-exploit-remove | 0 | 0| 
 | 20230817T20:34:55Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
@@ -57,6 +56,7 @@
 | 20230817T12:25:56Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0066-0023-app-inQXC-exploit-fear | 0 | 0| 
 | 20230817T12:15:24Z | Null | https://github.com/pawanjswal/exploit-writeup | 0 | 0| 
 | 20230817T11:30:32Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-169227177-DQRr4-suffer-exploit | 0 | 0| 
+| 20230817T09:34:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 48 | 9| 
 
 
 # backdoor on Github 推荐

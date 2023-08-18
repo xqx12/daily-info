@@ -69,9 +69,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 | 20230817T23:33:48Z | Null | https://github.com/SirFusion/Chrome-Exploit | 0 | 0| 
 | 20230817T23:27:35Z | Supplemental R script | https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation | 1 | 0| 
-| 20230817T21:55:07Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 | 20230817T21:29:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169230775-NA_QT-exploit-remove | 0 | 0| 
 | 20230817T20:34:55Z | python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
