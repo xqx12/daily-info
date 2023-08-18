@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
 | 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 
-| 20230818T09:59:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5441 | 754| 
 | 20230818T07:43:09Z | Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 36 | 9| 
 | 20230818T04:50:50Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 993 | 48| 
 | 20230818T01:56:16Z | GitOps Repository | https://github.com/pmacik-testing/cima-0051-0041-app-Rvr8c-rise-exploit | 0 | 0| 
@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230818T12:07:05Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
+| 20230818T12:13:34Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
 | 20230818T12:02:32Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
 | 20230818T12:01:37Z | Fuzzing in Physics | https://github.com/ggoneiESS/phuzzing | 0 | 0| 
 | 20230818T11:53:49Z | Maven Fuzzy Factory Website/Sales Performance Project | https://github.com/OBA0700/Maven_Fuzzy_Factory_Project | 0 | 0| 
