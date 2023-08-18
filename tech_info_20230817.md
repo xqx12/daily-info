@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230817T23:50:48Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
-| 20230817T21:25:07Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230817T17:44:20Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230817T14:27:12Z | CVE-2023-4174 | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-4174 | | 
 | 20230817T14:12:38Z | CVE-2022-21907 | Null | https://github.com/asepsaepdin/CVE-2022-21907 | | 
@@ -28,6 +27,7 @@
 | 20230817T10:37:28Z | CVE-2023-24329 | Null | https://github.com/H4R335HR/CVE-2023-24329-PoC | | 
 | 20230817T08:20:58Z | CVE-2023-33242 | CVE-2023-33242  PoC | https://github.com/d0rb/CVE-2023-33242 | | 
 | 20230817T06:43:52Z | CVE-2023-38836 | Exploit for file upload vulnerability in BoidCMS version <=2.0.0 | https://github.com/1337kid/CVE-2023-38836 | | 
+| 20230817T02:59:36Z | CVE-2023-39143 | CVE-2023-39143 < PaperCut < Path Traversal (PT) | https://github.com/codeb0ss/CVE-2023-39143 | | 
 
 
 # klee on Github 推荐

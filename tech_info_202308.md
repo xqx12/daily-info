@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230818T01:11:45Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230817T23:50:48Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
-| 20230817T21:25:07Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230817T17:44:20Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230817T14:27:12Z | CVE-2023-4174 | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-4174 | | 
 | 20230817T14:12:38Z | CVE-2022-21907 | Null | https://github.com/asepsaepdin/CVE-2022-21907 | | 
