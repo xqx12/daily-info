@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T00:55:33Z | Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941) | https://github.com/arthurvmbl/nodejshell | 0 | 0| 
 | 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 | 20230817T23:33:48Z | Null | https://github.com/SirFusion/Chrome-Exploit | 0 | 0| 
 | 20230817T23:27:35Z | Supplemental R script | https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230817T12:33:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0036-0011-app-arB2O-exploit-attack | 0 | 0| 
 | 20230817T12:30:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 560 | 108| 
 | 20230817T12:26:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0066-0005-app-CT4o2-exploit-rely | 0 | 0| 
-| 20230817T12:25:56Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0066-0023-app-inQXC-exploit-fear | 0 | 0| 
 
 
 # backdoor on Github 推荐
