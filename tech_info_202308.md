@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T12:13:50Z | Null | https://github.com/Marremurten/my-fuzzy-friends | 0 | 0| 
 | 20230819T12:11:18Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 4 | 1| 
 | 20230819T10:06:31Z | NEURAL NETWORK AND FUZZY LOGIC  | https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC | 1 | 0| 
 | 20230819T09:51:16Z | Null | https://github.com/patiboh/fat-fuzzy-sst | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230819T01:49:28Z | Quickly find a file or directory | https://github.com/bacadra/pulsar-fuzzy-files | 0 | 0| 
 | 20230819T01:08:02Z | Null | https://github.com/google/fuzztest | 377 | 27| 
 | 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
-| 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
 
 
 
