@@ -87,7 +87,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230818T23:19:41Z | Null | https://github.com/google/fuzztest | 376 | 27| 
 | 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
 | 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
 | 20230818T20:21:59Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
@@ -97,6 +96,7 @@
 | 20230818T12:38:38Z | Null | https://github.com/bhanusingh008/fuzzy-search | 0 | 0| 
 | 20230818T12:29:28Z | Null | https://github.com/felipelazzaron/fuzzy-winner | 0 | 0| 
 | 20230818T12:13:34Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
+| 20230818T12:01:37Z | Fuzzing in Physics | https://github.com/ggoneiESS/phuzzing | 0 | 0| 
 
 
 

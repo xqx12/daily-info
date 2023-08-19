@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230818T23:19:41Z | Null | https://github.com/google/fuzztest | 376 | 27| 
+| 20230819T01:08:02Z | Null | https://github.com/google/fuzztest | 377 | 27| 
 | 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
 | 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
 | 20230818T20:21:59Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
