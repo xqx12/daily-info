@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T01:51:35Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 1 | 0| 
 | 20230819T01:31:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWou | 1 | 0| 
 | 20230819T01:30:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANou | 1 | 0| 
 | 20230819T01:30:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANou | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230818T20:41:15Z | Metasploit Mastery: Exploiting Windows 7%s Eternal Blue Vulnerability step-by-step. From setup and parameter configuration to successful exploitation, see how this tool enhances penetration testing | https://github.com/usamamustafa36/Exploring-Metasploit | 0 | 0| 
 | 20230818T20:00:32Z | A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT | 0 | 0| 
 | 20230818T17:56:00Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 100 | 9| 
-| 20230818T17:00:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5278 | 1034| 
 
 
 # backdoor on Github 推荐
