@@ -53,11 +53,11 @@
 | 20230818T20:41:15Z | Metasploit Mastery: Exploiting Windows 7%s Eternal Blue Vulnerability step-by-step. From setup and parameter configuration to successful exploitation, see how this tool enhances penetration testing | https://github.com/usamamustafa36/Exploring-Metasploit | 0 | 0| 
 | 20230818T20:00:32Z | A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT | 0 | 0| 
 | 20230818T17:56:00Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 100 | 9| 
+| 20230818T17:00:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5278 | 1034| 
 | 20230818T14:14:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 151 | 13| 
 | 20230818T12:58:20Z | Features and demo videos for check my offical channel.. | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
 | 20230818T12:55:54Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
 | 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
-| 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 
 
 
 # backdoor on Github 推荐
