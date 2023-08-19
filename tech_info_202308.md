@@ -11,31 +11,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230819 | 知识驱动的智能辅助开发研究与实践 | https://mp.weixin.qq.com/s/VtJq9ucF5Px3b6yhSf2sgA| 
+| 20230819 | 基于QUIC协议的DDoS反射放大攻击研究 | https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw| 
+| 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-下篇 | https://mp.weixin.qq.com/s/tE0NXybLRgZHMIEuafkZwg| 
+| 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-上篇 | https://mp.weixin.qq.com/s/VIYvMuDjO2LRMJnlSFEfUA| 
 | 20230818 | MARBLE：挖掘样板代码以识别API可用性问题 | https://mp.weixin.qq.com/s/yQ4sHXlrvKgVPGWZLBjZUQ| 
 | 20230818 | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps| 
 | 20230818 | 面向云安全方向的知识文库 | https://wiki.teamssix.com/| 
 | 20230817 | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA| 
 | 20230817 | 知识图谱和图计算在支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow| 
 | 20230816 | 利用Powershell击败.NET恶意样本 | https://mp.weixin.qq.com/s/YBT-dbTe5m-yO72tA3lw4Q| 
-| 20230816 | 2023年密码上市企业中报业绩解读 | https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw| 
-| 20230816 | Boat僵尸网络家族的演变 | https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg| 
-| 20230815 | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg| 
-| 20230814 | 通过攻击意图同步增强Web应用程序的漏洞检测效果 | https://mp.weixin.qq.com/s/d42d0CFeKIwiZHCVBMhj2w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230818T23:17:11Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230819T11:47:09Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
+| 20230819T05:14:33Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230819T04:06:15Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230818T16:55:17Z | CVE-2023-24329 | Null | https://github.com/Pandante-Central/CVE-2023-24329-codeql-test | | 
 | 20230818T16:37:40Z | CVE-2023-38890 | poc | https://github.com/akshadjoshi/CVE-2023-38890 | | 
 | 20230818T15:43:50Z | CVE-2022-45808 | LearnPress Plugin < 4.2.0 - Unauthenticated SQLi | https://github.com/RandomRobbieBF/CVE-2022-45808 | | 
 | 20230818T15:14:25Z | CVE-2022-47615 | LearnPress Plugin < 4.2.0 - Unauthenticated LFI Description  | https://github.com/RandomRobbieBF/CVE-2022-47615 | | 
 | 20230818T13:36:18Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230818T11:44:26Z | CVE-2023-34634 | Python rewrite of the POC for CVE-2023-34634 | https://github.com/radman404/CVE-2023-34634 | | 
-| 20230818T08:06:10Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230818T04:01:14Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
-| 20230818T03:02:41Z | CVE-2023-34853 | Null | https://github.com/risuxx/CVE-2023-34853 | | 
 
 
 # klee on Github 推荐
@@ -69,16 +69,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T11:57:26Z | Python scripts from Rana Khalil web academy security training. Hands-on labs with write-ups to practical web vulnerabilities exploits and defense exercises. | https://github.com/SoTraore/Web_Acad_Security | 0 | 0| 
+| 20230819T11:03:08Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 49 | 10| 
+| 20230819T10:53:15Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 996 | 48| 
+| 20230819T10:49:38Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/windows_exploit_dev | 35 | 12| 
+| 20230819T10:25:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5279 | 1034| 
+| 20230819T09:23:00Z | Null | https://github.com/rx8jrc/Latent-Embedding-Exploitation | 0 | 0| 
+| 20230819T07:18:22Z | Null | https://github.com/gituserYun/exploit_code | 0 | 0| 
+| 20230819T05:25:12Z | Tools and methods that I personally use for Recon and Exploitations | https://github.com/xalgord/My-Methodologies | 6 | 1| 
 | 20230819T01:51:35Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 1 | 0| 
 | 20230819T01:31:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWou | 1 | 0| 
-| 20230819T01:30:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANou | 1 | 0| 
-| 20230819T01:30:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANou | 1 | 0| 
-| 20230819T01:28:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANou | 0 | 0| 
-| 20230818T20:59:08Z | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | 0 | 0| 
-| 20230818T20:42:29Z | Make exploiting race conditions in web applications highly efficient and ease-of-use. | https://github.com/JavanXD/Raceocat | 11 | 5| 
-| 20230818T20:41:15Z | Metasploit Mastery: Exploiting Windows 7%s Eternal Blue Vulnerability step-by-step. From setup and parameter configuration to successful exploitation, see how this tool enhances penetration testing | https://github.com/usamamustafa36/Exploring-Metasploit | 0 | 0| 
-| 20230818T20:00:32Z | A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT | 0 | 0| 
-| 20230818T17:56:00Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 100 | 9| 
 
 
 # backdoor on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T11:59:54Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 2 | 1| 
+| 20230819T10:06:31Z | NEURAL NETWORK AND FUZZY LOGIC  | https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC | 1 | 0| 
+| 20230819T09:51:16Z | Null | https://github.com/patiboh/fat-fuzzy-sst | 0 | 0| 
+| 20230819T09:29:13Z | FuzzyLP CRAN R package providing Fuzzy Linear Programming methods | https://github.com/olbapjose/FuzzyLP | 0 | 0| 
+| 20230819T08:32:02Z | Null | https://github.com/SiPSDE/fuzzy-octo-tribble | 0 | 0| 
+| 20230819T08:04:05Z | Null | https://github.com/ardianrez/FuzzyLogic | 0 | 0| 
 | 20230819T01:49:28Z | Quickly find a file or directory | https://github.com/bacadra/pulsar-fuzzy-files | 0 | 0| 
 | 20230819T01:08:02Z | Null | https://github.com/google/fuzztest | 377 | 27| 
 | 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
 | 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
-| 20230818T20:21:59Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
-| 20230818T16:16:27Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 93 | 11| 
-| 20230818T15:40:39Z | Null | https://github.com/devenv/fuzzy-click | 0 | 0| 
-| 20230818T13:01:14Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
-| 20230818T12:46:47Z | Null | https://github.com/MargiPandya27/Image-Edge-Detection-using-Fuzzy-Inference | 0 | 0| 
-| 20230818T12:38:38Z | Null | https://github.com/bhanusingh008/fuzzy-search | 0 | 0| 
 
 
 
