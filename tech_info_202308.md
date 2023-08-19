@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230819T11:57:26Z | Python scripts from Rana Khalil web academy security training. Hands-on labs with write-ups to practical web vulnerabilities exploits and defense exercises. | https://github.com/SoTraore/Web_Acad_Security | 0 | 0| 
+| 20230819T12:03:04Z | Python scripts from Rana Khalil web academy security training. Hands-on labs with write-ups to practical web vulnerabilities exploits and defense exercises. | https://github.com/SoTraore/Web_Acad_Security | 0 | 0| 
 | 20230819T11:03:08Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 49 | 10| 
 | 20230819T10:53:15Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 996 | 48| 
 | 20230819T10:49:38Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/windows_exploit_dev | 35 | 12| 
@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230819T11:59:54Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 2 | 1| 
+| 20230819T12:04:17Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 3 | 1| 
 | 20230819T10:06:31Z | NEURAL NETWORK AND FUZZY LOGIC  | https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC | 1 | 0| 
 | 20230819T09:51:16Z | Null | https://github.com/patiboh/fat-fuzzy-sst | 0 | 0| 
 | 20230819T09:29:13Z | FuzzyLP CRAN R package providing Fuzzy Linear Programming methods | https://github.com/olbapjose/FuzzyLP | 0 | 0| 
