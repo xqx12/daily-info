@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230818 | MARBLE：挖掘样板代码以识别API可用性问题 | https://mp.weixin.qq.com/s/yQ4sHXlrvKgVPGWZLBjZUQ| 
+| 20230818 | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps| 
+| 20230818 | 面向云安全方向的知识文库 | https://wiki.teamssix.com/| 
 | 20230817 | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA| 
 | 20230817 | 知识图谱和图计算在支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow| 
 | 20230816 | 利用Powershell击败.NET恶意样本 | https://mp.weixin.qq.com/s/YBT-dbTe5m-yO72tA3lw4Q| 
@@ -18,24 +21,21 @@
 | 20230816 | Boat僵尸网络家族的演变 | https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg| 
 | 20230815 | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg| 
 | 20230814 | 通过攻击意图同步增强Web应用程序的漏洞检测效果 | https://mp.weixin.qq.com/s/d42d0CFeKIwiZHCVBMhj2w| 
-| 20230814 | 深入解析pe结构（下） | https://www.sec-in.com/article/2182| 
-| 20230814 | Apache Tomcat安全限制绕过漏洞 CVE-2017-5664 | https://mp.weixin.qq.com/s/rZ4xLYuOrmlN2ehTmwGhYA| 
-| 20230814 | SecWiki周刊（第493期) | https://www.sec-wiki.com/weekly/493| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230818T12:07:04Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230818T23:17:11Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
+| 20230818T16:55:17Z | CVE-2023-24329 | Null | https://github.com/Pandante-Central/CVE-2023-24329-codeql-test | | 
+| 20230818T16:37:40Z | CVE-2023-38890 | poc | https://github.com/akshadjoshi/CVE-2023-38890 | | 
+| 20230818T15:43:50Z | CVE-2022-45808 | LearnPress Plugin < 4.2.0 - Unauthenticated SQLi | https://github.com/RandomRobbieBF/CVE-2022-45808 | | 
+| 20230818T15:14:25Z | CVE-2022-47615 | LearnPress Plugin < 4.2.0 - Unauthenticated LFI Description  | https://github.com/RandomRobbieBF/CVE-2022-47615 | | 
+| 20230818T13:36:18Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230818T11:44:26Z | CVE-2023-34634 | Python rewrite of the POC for CVE-2023-34634 | https://github.com/radman404/CVE-2023-34634 | | 
-| 20230818T08:45:37Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230818T08:06:10Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230818T04:01:14Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
 | 20230818T03:02:41Z | CVE-2023-34853 | Null | https://github.com/risuxx/CVE-2023-34853 | | 
-| 20230817T14:27:12Z | CVE-2023-4174 | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-4174 | | 
-| 20230817T14:12:38Z | CVE-2022-21907 | Null | https://github.com/asepsaepdin/CVE-2022-21907 | | 
-| 20230817T14:00:02Z | CVE-2023-36899 | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | https://github.com/midisec/CVE-2023-36899 | | 
-| 20230817T11:09:47Z | CVE-2023-2033 | Null | https://github.com/mistymntncop/CVE-2023-2033 | | 
 
 
 # klee on Github 推荐
@@ -69,21 +69,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T20:59:08Z | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | 0 | 0| 
+| 20230818T20:42:29Z | Make exploiting race conditions in web applications highly efficient and ease-of-use. | https://github.com/JavanXD/Raceocat | 11 | 5| 
+| 20230818T20:41:15Z | Metasploit Mastery: Exploiting Windows 7%s Eternal Blue Vulnerability step-by-step. From setup and parameter configuration to successful exploitation, see how this tool enhances penetration testing | https://github.com/usamamustafa36/Exploring-Metasploit | 0 | 0| 
+| 20230818T20:00:32Z | A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT | 0 | 0| 
+| 20230818T17:56:00Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 100 | 9| 
+| 20230818T14:14:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 151 | 13| 
 | 20230818T12:58:20Z | Features and demo videos for check my offical channel.. | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
 | 20230818T12:55:54Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
 | 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
 | 20230818T11:26:36Z | Roblox exutor | https://github.com/Hacks23523/exploitRoblox | 38 | 0| 
-| 20230818T07:43:09Z | Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 36 | 9| 
-| 20230818T04:50:50Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 993 | 48| 
-| 20230818T01:56:16Z | GitOps Repository | https://github.com/pmacik-testing/cima-0051-0041-app-Rvr8c-rise-exploit | 0 | 0| 
-| 20230818T01:18:53Z | GitOps Repository | https://github.com/pmacik-testing/cima-0021-0019-app-lLgEB-exploit-telephone | 0 | 0| 
-| 20230818T00:55:33Z | Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941) | https://github.com/arthurvmbl/nodejshell | 0 | 0| 
-| 20230818T00:06:31Z | common security exploits and what should be looked for when padding security | https://github.com/JashandeepJustinBains/Security-PrivacyExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T21:25:33Z | A backdoor for windows created in C with keylogger, persistence and a linux listener | https://github.com/Mr-Immortality/C-Backdoor-and-Server-with-Keylogger-and-Persistence | 0 | 0| 
+| 20230818T17:52:26Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 3 | 0| 
 | 20230818T12:41:55Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
 | 20230818T10:40:57Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/vulhub/metersphere-plugin-Backdoor | 6 | 0| 
 | 20230818T10:17:50Z | Official Pytorch implementation for our ACM MM 2023 paper: Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World | https://github.com/weihui1308/Moire-Backdoor-Attack | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20230817T16:56:53Z | Fork from sky studio. Didn%t check if there is any backdoor. | https://github.com/pinnertw/layer_zero | 0 | 0| 
 | 20230817T09:47:10Z | Presentation for project 4. Applying a infected SSH public key to open a backdoor with gsocket. | https://github.com/dtureo2/Project-4-Usydney-Bootcamp- | 1 | 0| 
 | 20230817T06:25:31Z | Log File Decryption Algorithm for OpenSSH Backdoor | https://github.com/ocxh/SSH_backdoor_logfileDecryptor | 0 | 0| 
-| 20230817T06:14:10Z | Detect potentially malicious PHP files based on token | https://github.com/Cvar1984/sussyfinder | 1 | 2| 
-| 20230817T02:41:45Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 23 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230818T23:19:41Z | Null | https://github.com/google/fuzztest | 376 | 27| 
+| 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
+| 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
+| 20230818T20:21:59Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
+| 20230818T15:40:39Z | Null | https://github.com/devenv/fuzzy-click | 0 | 0| 
+| 20230818T13:01:14Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
 | 20230818T12:46:47Z | Null | https://github.com/MargiPandya27/Image-Edge-Detection-using-Fuzzy-Inference | 0 | 0| 
 | 20230818T12:38:38Z | Null | https://github.com/bhanusingh008/fuzzy-search | 0 | 0| 
 | 20230818T12:29:28Z | Null | https://github.com/felipelazzaron/fuzzy-winner | 0 | 0| 
 | 20230818T12:13:34Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
-| 20230818T12:02:32Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
-| 20230818T12:01:37Z | Fuzzing in Physics | https://github.com/ggoneiESS/phuzzing | 0 | 0| 
-| 20230818T11:53:49Z | Maven Fuzzy Factory Website/Sales Performance Project | https://github.com/OBA0700/Maven_Fuzzy_Factory_Project | 0 | 0| 
-| 20230818T11:35:54Z | Null | https://github.com/shobhit-sheta/fuzzy | 0 | 0| 
-| 20230818T10:23:00Z | The MATLAB code for the research paper titled %Multi-Class Fuzzily Weighted Adaptive Boosting-based Self-Organising Fuzzy Inference Ensemble Systems for Classification%. | https://github.com/Gu-X/Multi-Class-Fuzzily-Weighted-Adaptive-Boosting-based-Self-Organising-Fuzzy-Inference-Ensemble-System | 4 | 0| 
-| 20230818T09:44:19Z | instaparse library fuzzed | https://github.com/flipsi/instaparse-fuzz-wrapper | 0 | 0| 
 
 
 
