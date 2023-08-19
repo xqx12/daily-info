@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T01:31:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWou | 1 | 0| 
+| 20230819T01:30:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANou | 1 | 0| 
 | 20230819T01:30:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANou | 1 | 0| 
 | 20230819T01:28:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANou | 0 | 0| 
 | 20230818T20:59:08Z | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | 0 | 0| 
@@ -77,8 +79,6 @@
 | 20230818T20:00:32Z | A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT | 0 | 0| 
 | 20230818T17:56:00Z | Win32 Shellcode CheatSheet: Your visual guide for crafting and understanding shellcode. Ideal for malware, and exploit developers  | https://github.com/snowcra5h/win32-shellcode | 100 | 9| 
 | 20230818T17:00:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5278 | 1034| 
-| 20230818T14:14:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 151 | 13| 
-| 20230818T12:58:20Z | Features and demo videos for check my offical channel.. | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
 
 
 # backdoor on Github 推荐
