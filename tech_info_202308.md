@@ -129,8 +129,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T12:19:47Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 5 | 1| 
 | 20230819T12:13:50Z | Null | https://github.com/Marremurten/my-fuzzy-friends | 0 | 0| 
-| 20230819T12:11:18Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 4 | 1| 
 | 20230819T10:06:31Z | NEURAL NETWORK AND FUZZY LOGIC  | https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC | 1 | 0| 
 | 20230819T09:51:16Z | Null | https://github.com/patiboh/fat-fuzzy-sst | 0 | 0| 
 | 20230819T09:29:13Z | FuzzyLP CRAN R package providing Fuzzy Linear Programming methods | https://github.com/olbapjose/FuzzyLP | 0 | 0| 
