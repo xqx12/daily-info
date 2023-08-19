@@ -45,9 +45,9 @@
 | 20230819T10:49:38Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/windows_exploit_dev | 35 | 12| 
 | 20230819T10:25:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5279 | 1034| 
 | 20230819T09:23:00Z | Null | https://github.com/rx8jrc/Latent-Embedding-Exploitation | 0 | 0| 
+| 20230819T08:50:28Z | Vcenter综合渗透利用工具包 , Vcenter Comprehensive Penetration and Exploitation Toolkit | https://github.com/W01fh4cker/VcenterKit | 17 | 1| 
 | 20230819T07:18:22Z | Null | https://github.com/gituserYun/exploit_code | 0 | 0| 
 | 20230819T05:25:12Z | Tools and methods that I personally use for Recon and Exploitations | https://github.com/xalgord/My-Methodologies | 6 | 1| 
-| 20230819T01:51:35Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 1 | 0| 
 
 
 # backdoor on Github 推荐
