@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T01:30:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANou | 1 | 0| 
+| 20230819T01:28:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANou | 0 | 0| 
 | 20230818T20:59:08Z | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | 0 | 0| 
 | 20230818T20:42:29Z | Make exploiting race conditions in web applications highly efficient and ease-of-use. | https://github.com/JavanXD/Raceocat | 11 | 5| 
 | 20230818T20:41:15Z | Metasploit Mastery: Exploiting Windows 7%s Eternal Blue Vulnerability step-by-step. From setup and parameter configuration to successful exploitation, see how this tool enhances penetration testing | https://github.com/usamamustafa36/Exploring-Metasploit | 0 | 0| 
@@ -77,8 +79,6 @@
 | 20230818T17:00:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5278 | 1034| 
 | 20230818T14:14:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 151 | 13| 
 | 20230818T12:58:20Z | Features and demo videos for check my offical channel.. | https://github.com/SoloratOffical/APK-TO-JPG-EXPLOIT-V4- | 0 | 0| 
-| 20230818T12:55:54Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 55 | 12| 
-| 20230818T12:13:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5442 | 754| 
 
 
 # backdoor on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T01:27:44Z | Null | https://github.com/bacadra/pulsar-fuzzy-files | 0 | 0| 
 | 20230819T01:08:02Z | Null | https://github.com/google/fuzztest | 377 | 27| 
 | 20230818T21:02:03Z | USD pegged DAI like Stablecoin with complete test and fuzz suite | https://github.com/MMtis/foundry-defi-stablecoin | 0 | 0| 
 | 20230818T20:53:29Z | Null | https://github.com/Georgebest5/fuzzy-funicular | 0 | 0| 
 | 20230818T20:21:59Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
+| 20230818T16:16:27Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 93 | 11| 
 | 20230818T15:40:39Z | Null | https://github.com/devenv/fuzzy-click | 0 | 0| 
 | 20230818T13:01:14Z | A little tool for picking emojis | https://github.com/Softwave/FuzzyMojiFinder | 0 | 0| 
 | 20230818T12:46:47Z | Null | https://github.com/MargiPandya27/Image-Edge-Detection-using-Fuzzy-Inference | 0 | 0| 
 | 20230818T12:38:38Z | Null | https://github.com/bhanusingh008/fuzzy-search | 0 | 0| 
-| 20230818T12:29:28Z | Null | https://github.com/felipelazzaron/fuzzy-winner | 0 | 0| 
-| 20230818T12:13:34Z | Worked with the Marketing & Website leadership team(s) as an eCommerce - Data Analyst at Maven Fuzzy Factory LLC, an e-platform selling toys to analyze & optimize marketing channels, website conversion performances, and product sales, cross-selling & product portfolios, impact of new product launches, and also user level analysis. | https://github.com/abhilashthimmaiah/Maven-Fuzzy-Factory-LLC-e-Store-Data-Analytics-using-Advance-SQL | 2 | 0| 
 
 
 
