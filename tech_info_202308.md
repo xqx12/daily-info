@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230819T12:10:32Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
+| 20230819T12:20:54Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
 | 20230819T05:14:33Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 | 20230819T04:06:15Z | CVE-2023-36664 | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection | | 
 | 20230818T16:55:17Z | CVE-2023-24329 | Null | https://github.com/Pandante-Central/CVE-2023-24329-codeql-test | | 
@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230819T12:21:40Z | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | 0 | 0| 
 | 20230819T12:03:04Z | Python scripts from Rana Khalil web academy security training. Hands-on labs with write-ups to practical web vulnerabilities exploits and defense exercises. | https://github.com/SoTraore/Web_Acad_Security | 0 | 0| 
 | 20230819T11:03:08Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 49 | 10| 
 | 20230819T10:53:15Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 996 | 48| 
@@ -78,7 +79,6 @@
 | 20230819T07:18:22Z | Null | https://github.com/gituserYun/exploit_code | 0 | 0| 
 | 20230819T05:25:12Z | Tools and methods that I personally use for Recon and Exploitations | https://github.com/xalgord/My-Methodologies | 6 | 1| 
 | 20230819T01:51:35Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 1 | 0| 
-| 20230819T01:31:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWou | 1 | 0| 
 
 
 # backdoor on Github 推荐
