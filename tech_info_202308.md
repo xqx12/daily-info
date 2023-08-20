@@ -16,11 +16,11 @@
 | 20230820 | Metabase 高版本JDK下 嵌入式Jetty中的Customizer内存马实现 | https://xz.aliyun.com/t/12792| 
 | 20230820 | 从一次攻击过程看EDR的作用 | https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ| 
 | 20230820 | 软件模糊测试技术研讨 | https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A| 
+| 20230820 | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg| 
 | 20230819 | 知识驱动的智能辅助开发研究与实践 | https://mp.weixin.qq.com/s/VtJq9ucF5Px3b6yhSf2sgA| 
 | 20230819 | 基于QUIC协议的DDoS反射放大攻击研究 | https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw| 
 | 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-下篇 | https://mp.weixin.qq.com/s/tE0NXybLRgZHMIEuafkZwg| 
 | 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-上篇 | https://mp.weixin.qq.com/s/VIYvMuDjO2LRMJnlSFEfUA| 
-| 20230819 | 浅谈AFL++ fuzzing：如何用进行有效且规整的fuzzing | https://mp.weixin.qq.com/s/vNEVdwaLeIKvGm8JPgfduw| 
 
 
 # CVE Github 推荐
@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230820T12:27:26Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 0 | 0| 
+| 20230820T12:30:23Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 0 | 0| 
 | 20230820T10:23:50Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10509 | 1628| 
 | 20230820T03:53:26Z | Yeah I aint sure my code is good | https://github.com/Squeezy5448/ExploitLibrary | 0 | 0| 
 | 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
