@@ -17,6 +17,7 @@
 | 20230820 | 从一次攻击过程看EDR的作用 | https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ| 
 | 20230820 | 软件模糊测试技术研讨 | https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A| 
 | 20230820 | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg| 
+| 20230820 | 利用溯源图检测和追踪节点级别主机威胁 | https://mp.weixin.qq.com/s/cvuir-Ei6eixZH_LLjFQKw| 
 
 
 # CVE Github 推荐

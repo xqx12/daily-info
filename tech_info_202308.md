@@ -17,10 +17,10 @@
 | 20230820 | 从一次攻击过程看EDR的作用 | https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ| 
 | 20230820 | 软件模糊测试技术研讨 | https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A| 
 | 20230820 | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg| 
+| 20230820 | 利用溯源图检测和追踪节点级别主机威胁 | https://mp.weixin.qq.com/s/cvuir-Ei6eixZH_LLjFQKw| 
 | 20230819 | 知识驱动的智能辅助开发研究与实践 | https://mp.weixin.qq.com/s/VtJq9ucF5Px3b6yhSf2sgA| 
 | 20230819 | 基于QUIC协议的DDoS反射放大攻击研究 | https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw| 
 | 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-下篇 | https://mp.weixin.qq.com/s/tE0NXybLRgZHMIEuafkZwg| 
-| 20230819 | 情报界技术创新模式In-Q-Tel的研究与思考-上篇 | https://mp.weixin.qq.com/s/VIYvMuDjO2LRMJnlSFEfUA| 
 
 
 # CVE Github 推荐
