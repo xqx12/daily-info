@@ -73,10 +73,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:26:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1494 | 209| 
 | 20230820T12:20:29Z | Null | https://github.com/jgu059/fuzzy-sniffle | 0 | 0| 
 | 20230820T12:14:02Z | Null | https://github.com/annikdonna/fuzzy-bassoon | 0 | 0| 
 | 20230820T11:49:35Z | python dev | https://github.com/aa-parky/fuzzy-succotash | 0 | 0| 
-| 20230820T11:43:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1493 | 208| 
 | 20230820T10:05:54Z | Null | https://github.com/43116210070/fuzzy-guacamole | 0 | 0| 
 | 20230820T09:42:38Z | Null | https://github.com/fedora-riscv/american-fuzzy-lop | 0 | 0| 
 | 20230820T09:42:02Z | Null | https://github.com/jahanzaibmalik17/react-fuzzy-debounce-search | 0 | 0| 
