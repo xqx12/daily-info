@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
 | 20230820T01:52:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANbc | 1 | 0| 
 | 20230820T01:49:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANbc | 0 | 0| 
 | 20230820T01:47:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANbc | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230819T20:22:53Z | Null | https://github.com/Lonebear69/https-github.com-tanc7-shadowbrokers-exploits | 0 | 0| 
 | 20230819T20:00:42Z | Code for my %CADENCE: Compressing Audio Data by Exploiting Cyclical Elements% master%s thesis at the University of St. Gallen | https://github.com/macemoth/audio-compression-msc | 1 | 0| 
 | 20230819T18:56:25Z | Linux network and security sandbox with support for kernel exploit protection as well as VPN and proxy chaining  | https://github.com/blechschmidt/pallium | 1 | 0| 
-| 20230819T18:30:22Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 225 | 44| 
 
 
 # backdoor on Github 推荐
