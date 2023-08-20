@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:14:02Z | Null | https://github.com/annikdonna/fuzzy-bassoon | 0 | 0| 
 | 20230820T12:03:16Z | Null | https://github.com/jgu059/fuzzy-sniffle | 0 | 0| 
 | 20230820T11:49:35Z | python dev | https://github.com/aa-parky/fuzzy-succotash | 0 | 0| 
 | 20230820T11:43:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1493 | 208| 
@@ -82,7 +83,6 @@
 | 20230820T09:15:45Z | Null | https://github.com/bhalla02/fuzzy-carnival | 0 | 0| 
 | 20230820T07:19:54Z | A website for creating and buying computer builds  | https://github.com/Vladich1995/FuzzyElectronics | 0 | 0| 
 | 20230820T07:09:59Z | Null | https://github.com/devenv/fuzzy-click | 3 | 0| 
-| 20230820T06:34:25Z | Null | https://github.com/xiaxinmeng/FcFuzzer | 0 | 0| 
 
 
 
