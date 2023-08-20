@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230820T12:44:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10508 | 1628| 
+| 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
 | 20230820T12:30:23Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 0 | 0| 
 | 20230820T03:53:26Z | Yeah I aint sure my code is good | https://github.com/Squeezy5448/ExploitLibrary | 0 | 0| 
 | 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
