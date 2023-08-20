@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:55:47Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 1 | 0| 
 | 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
-| 20230820T12:30:23Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 0 | 0| 
 | 20230820T03:53:26Z | Yeah I aint sure my code is good | https://github.com/Squeezy5448/ExploitLibrary | 0 | 0| 
 | 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
 | 20230820T01:52:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANbc | 1 | 0| 
@@ -84,7 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230820T12:54:15Z | Null | https://github.com/TB20TB05TB/backdoor | 0 | 0| 
+| 20230820T12:56:27Z | Null | https://github.com/TB20TB05TB/backdoor | 0 | 0| 
 | 20230820T11:09:00Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 10 | 2| 
 | 20230820T10:02:25Z | Null | https://github.com/ItsAdi22/flask-backdoor | 0 | 0| 
 | 20230820T04:35:24Z | shellgen is a custom script that prints in prompt a lot of different reverse shells options with a given IP and PORT to copy and paste | https://github.com/nchgroup/shellgen | 2 | 0| 
