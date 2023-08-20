@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T00:17:14Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
 | 20230819T21:52:05Z | An exploit that uses reflective DLL injection to execute a payload without touching disk on Windows | https://github.com/lemmyz4n3771/Reflective-DLL-Injection | 0 | 0| 
 | 20230819T21:00:01Z | Wiki for documenting glitches and exploits on various Casio calculators | https://github.com/fxesdev/glitchwiki | 0 | 0| 
 | 20230819T20:22:53Z | Null | https://github.com/Lonebear69/https-github.com-tanc7-shadowbrokers-exploits | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230819T16:30:36Z | This repository was created to be used/cloned/forked/extended/exploited by me, you, and especially the Universe to support our mission goals and intentions. Today and forever. | https://github.com/software-shinobi/software-shinobi-eternal-repository-template | 0 | 0| 
 | 20230819T12:21:40Z | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | 0 | 0| 
 | 20230819T12:03:04Z | Python scripts from Rana Khalil web academy security training. Hands-on labs with write-ups to practical web vulnerabilities exploits and defense exercises. | https://github.com/SoTraore/Web_Acad_Security | 0 | 0| 
-| 20230819T11:03:08Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 49 | 10| 
 
 
 # backdoor on Github 推荐
