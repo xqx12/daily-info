@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:04:18Z | CVE-2021-34527 | CVE-2021-34527 PrintNightmare PoC | https://github.com/d0rb/CVE-2021-34527 | | 
 | 20230820T06:31:54Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230820T03:21:04Z | CVE-2023-3836 | Null | https://github.com/codeb0ss/CVE-2023-3836 | | 
 | 20230820T02:50:23Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
@@ -72,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:03:16Z | Null | https://github.com/jgu059/fuzzy-sniffle | 0 | 0| 
 | 20230820T11:49:35Z | python dev | https://github.com/aa-parky/fuzzy-succotash | 0 | 0| 
 | 20230820T11:43:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1493 | 208| 
 | 20230820T10:05:54Z | Null | https://github.com/43116210070/fuzzy-guacamole | 0 | 0| 
