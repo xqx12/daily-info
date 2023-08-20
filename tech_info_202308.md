@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230820T00:58:08Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
 | 20230819T21:11:24Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
 | 20230819T19:02:24Z | CVE-2023-39708 | Null | https://github.com/Arajawat007/CVE-2023-39708 | | 
 | 20230819T18:47:27Z | CVE-2023-39714 | Null | https://github.com/Arajawat007/CVE-2023-39714 | | 
@@ -35,7 +36,6 @@
 | 20230819T18:10:00Z | CVE-2023-39710 | Null | https://github.com/Arajawat007/CVE-2023-39710 | | 
 | 20230819T17:35:39Z | CVE-2023-39707 | Null | https://github.com/Arajawat007/CVE-2023-39707 | | 
 | 20230819T15:12:50Z | CVE-2023-34634 | Python rewrite of the POC for CVE-2023-34634 | https://github.com/radman404/CVE-2023-34634 | | 
-| 20230819T14:46:56Z | CVE-2023-3079 | Null | https://github.com/mistymntncop/CVE-2023-3079 | | 
 
 
 # klee on Github 推荐
