@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T12:27:26Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 0 | 0| 
 | 20230820T10:23:50Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10509 | 1628| 
 | 20230820T03:53:26Z | Yeah I aint sure my code is good | https://github.com/Squeezy5448/ExploitLibrary | 0 | 0| 
 | 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230820T00:17:14Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
 | 20230819T21:52:05Z | An exploit that uses reflective DLL injection to execute a payload without touching disk on Windows | https://github.com/lemmyz4n3771/Reflective-DLL-Injection | 0 | 0| 
 | 20230819T21:00:01Z | Wiki for documenting glitches and exploits on various Casio calculators | https://github.com/fxesdev/glitchwiki | 0 | 0| 
-| 20230819T20:22:53Z | Null | https://github.com/Lonebear69/https-github.com-tanc7-shadowbrokers-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
