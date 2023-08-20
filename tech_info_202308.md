@@ -137,8 +137,8 @@
 | 20230819T18:22:51Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 180 | 37| 
 | 20230819T18:06:35Z | A website for creating and buying computer builds | https://github.com/Vladich1995/FuzzyElectronics | 0 | 0| 
 | 20230819T12:36:34Z | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | https://github.com/devanshbatham/headerpwn | 6 | 1| 
+| 20230819T12:31:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3822 | 457| 
 | 20230819T12:13:50Z | Null | https://github.com/Marremurten/my-fuzzy-friends | 0 | 0| 
-| 20230819T10:06:31Z | NEURAL NETWORK AND FUZZY LOGIC  | https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC | 1 | 0| 
 
 
 
