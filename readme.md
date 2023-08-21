@@ -26,7 +26,6 @@
 | 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
 | 20230820T14:39:43Z | CVE-2021-3560 | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | https://github.com/pashayogi/ROOT-CVE-2021-3560 | | 
-| 20230820T13:51:47Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230820T12:06:06Z | CVE-2021-34527 | CVE-2021-34527 PrintNightmare PoC | https://github.com/d0rb/CVE-2021-34527 | | 
 | 20230820T06:31:54Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230820T03:21:04Z | CVE-2023-3836 | Null | https://github.com/codeb0ss/CVE-2023-3836 | | 
