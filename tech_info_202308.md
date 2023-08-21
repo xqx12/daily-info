@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:52:58Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T12:38:14Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
 | 20230821T12:02:45Z | CVE-2023-9999 | test | https://github.com/obelia01/CVE-2023-9999 | | 
 | 20230821T11:50:02Z | CVE-2023-5546 | Null | https://github.com/obelia01/CVE-2023-5546 | | 
-| 20230821T11:23:16Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T10:33:35Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T08:56:47Z | CVE-2023-37979 | CVE-2023-37979 PoC and Checker | https://github.com/d0rb/CVE-2023-37979 | | 
 | 20230821T06:25:30Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
