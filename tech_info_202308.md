@@ -70,16 +70,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:13:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-5G0sD-exploit-spend | 0 | 0| 
 | 20230821T11:56:55Z | Audit and pentest methodologies for Active Directory including internal enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/AD-Exploitation | 0 | 0| 
 | 20230821T10:06:49Z | Differential Fault Attack on AES - Analysis and Exploitation | https://github.com/somesh-vas/Differential-Fault-Attack-on-AES---Analysis-and-Exploitation | 0 | 0| 
 | 20230821T09:24:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5268 | 668| 
 | 20230821T05:26:56Z | Three vulnerable web applications and their exploits | https://github.com/lucaschultz/vulnerable-web-applications | 1 | 0| 
 | 20230821T05:03:56Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 226 | 44| 
+| 20230821T03:56:33Z | Null | https://github.com/MertSec/ExploitWizard | 0 | 0| 
 | 20230821T03:21:12Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 50 | 10| 
 | 20230821T01:47:28Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 221 | 27| 
 | 20230821T01:18:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5280 | 1034| 
-| 20230821T00:59:07Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWp | 1 | 0| 
-| 20230821T00:57:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANpm | 1 | 0| 
 
 
 # backdoor on Github 推荐
