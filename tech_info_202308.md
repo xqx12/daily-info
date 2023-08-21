@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230821T01:30:06Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 218 | 27| 
+| 20230821T01:35:04Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 220 | 27| 
 | 20230821T01:18:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5280 | 1034| 
 | 20230821T00:59:07Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWp | 1 | 0| 
 | 20230821T00:57:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANpm | 1 | 0| 
