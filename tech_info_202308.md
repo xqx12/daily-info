@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
+| 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
+| 20230820T14:39:43Z | CVE-2021-3560 | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | https://github.com/pashayogi/ROOT-CVE-2021-3560 | | 
+| 20230820T13:51:47Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230820T12:06:06Z | CVE-2021-34527 | CVE-2021-34527 PrintNightmare PoC | https://github.com/d0rb/CVE-2021-34527 | | 
 | 20230820T06:31:54Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230820T03:21:04Z | CVE-2023-3836 | Null | https://github.com/codeb0ss/CVE-2023-3836 | | 
 | 20230820T02:50:23Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
 | 20230820T00:58:08Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
 | 20230819T21:11:24Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
-| 20230819T19:02:24Z | CVE-2023-39708 | Null | https://github.com/Arajawat007/CVE-2023-39708 | | 
-| 20230819T18:47:27Z | CVE-2023-39714 | Null | https://github.com/Arajawat007/CVE-2023-39714 | | 
-| 20230819T18:42:28Z | CVE-2023-39712 | Null | https://github.com/Arajawat007/CVE-2023-39712 | | 
-| 20230819T18:35:44Z | CVE-2023-39709 | Null | https://github.com/Arajawat007/CVE-2023-39709 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T18:37:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2305 | 634| 
 | 20230820T10:37:41Z | Null | https://github.com/akhilgop/kleen | 0 | 0| 
 | 20230818T18:35:05Z | Kleenex pollenradar custom component integration for Home Assistant  | https://github.com/MarcoGos/kleenex_pollenradar | 1 | 1| 
 | 20230818T08:16:55Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 12 | 0| 
@@ -50,12 +51,12 @@
 | 20230817T02:34:58Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉90度形成直書排版)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 29 | 1| 
 | 20230814T18:56:32Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/edk2-klee | 1 | 0| 
 | 20230814T17:43:43Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 3 | 0| 
-| 20230814T04:48:02Z | Null | https://github.com/joffreyzhang/KLEE_wp | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T16:58:42Z | Null | https://github.com/Scanel-sys/CPU_Parall_s2ep2 | 0 | 0| 
 | 20230817T08:22:56Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 | 20230817T05:33:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 349 | 81| 
 | 20230815T09:01:13Z | Null | https://github.com/s2ecevit/s2ecevit.github.io | 0 | 0| 
@@ -69,31 +70,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T23:34:19Z | A command-line tool & webinterface, to efficiently save scum on an exploitable PS4/PS5. | https://github.com/jrson83/savescum | 0 | 0| 
+| 20230820T22:59:03Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5804 | 672| 
+| 20230820T22:28:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14284 | 2430| 
+| 20230820T22:09:57Z | Insecure DOR (Order Tickets) - Cross-Site-Scripting - Stored (Blog) Remote and Local File Inclusion (RFI/LFI) | https://github.com/nikoiz/auto-exploit-bWAPP | 0 | 0| 
+| 20230820T20:29:12Z | python3 version of the CVE-2019-9978 exploit | https://github.com/h8handles/CVE-2019-9978-Python3 | 0 | 0| 
+| 20230820T20:28:22Z | Three vulnerable web applications and their exploits | https://github.com/lucaschultz/vulnerable-web-applications | 0 | 0| 
+| 20230820T19:17:05Z | A web application written in TypeScript to demonstrate common security flaws and vulnerabilities | https://github.com/rikurauhala/hack-this | 0 | 0| 
 | 20230820T12:55:47Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 1 | 0| 
 | 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
 | 20230820T03:53:26Z | Yeah I aint sure my code is good | https://github.com/Squeezy5448/ExploitLibrary | 0 | 0| 
-| 20230820T01:53:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbc | 1 | 0| 
-| 20230820T01:52:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANbc | 1 | 0| 
-| 20230820T01:49:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANbc | 0 | 0| 
-| 20230820T01:47:55Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANbc | 0 | 0| 
-| 20230820T00:17:14Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 0| 
-| 20230819T21:52:05Z | An exploit that uses reflective DLL injection to execute a payload without touching disk on Windows | https://github.com/lemmyz4n3771/Reflective-DLL-Injection | 0 | 0| 
-| 20230819T21:00:01Z | Wiki for documenting glitches and exploits on various Casio calculators | https://github.com/fxesdev/glitchwiki | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230820T12:56:27Z | Null | https://github.com/TB20TB05TB/backdoor | 0 | 0| 
-| 20230820T11:09:00Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 10 | 2| 
+| 20230820T19:14:08Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 4 | 1| 
+| 20230820T15:55:25Z | Null | https://github.com/storage1337/backdoor | 0 | 0| 
+| 20230820T15:38:38Z | Undetected Reverse Shell | https://github.com/Ayhuuu/Fud-Reverse-Shell | 11 | 2| 
+| 20230820T14:34:54Z | Null | https://github.com/sultankonslet9/backdoor | 0 | 0| 
+| 20230820T14:03:14Z | An backdoor for windows 10 machines. | https://github.com/TB20TB05TB/backdoor | 0 | 0| 
+| 20230820T13:14:18Z | Null | https://github.com/essi2002/BadNet_backdoor_attack | 0 | 0| 
 | 20230820T10:02:25Z | Null | https://github.com/ItsAdi22/flask-backdoor | 0 | 0| 
 | 20230820T04:35:24Z | shellgen is a custom script that prints in prompt a lot of different reverse shells options with a given IP and PORT to copy and paste | https://github.com/nchgroup/shellgen | 2 | 0| 
-| 20230819T19:38:18Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 4 | 1| 
+| 20230819T15:43:10Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 266 | 52| 
 | 20230818T21:25:33Z | A backdoor for windows created in C with keylogger, persistence and a linux listener | https://github.com/Mr-Immortality/C-Backdoor-and-Server-with-Keylogger-and-Persistence | 0 | 0| 
-| 20230818T12:41:55Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
-| 20230818T10:40:57Z | This is a backdoor project for MeterSphere, do not use it in production environment!!! Forking from <https://github.com/metersphere/metersphere-plugin-DebugSampler> | https://github.com/vulhub/metersphere-plugin-Backdoor | 6 | 0| 
-| 20230818T10:17:50Z | Official Pytorch implementation for our ACM MM 2023 paper: Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World | https://github.com/weihui1308/Moire-Backdoor-Attack | 0 | 0| 
-| 20230818T09:05:03Z | Metainfo Collecting user information through backdoor code auditing | https://github.com/FromAmericanJack/aboutMetinfo | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230820T23:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyLP — Fuzzy Linear Programming. Homepage: https://github.com/olbapjose/FuzzyLP   | https://github.com/cran/FuzzyLP | 0 | 0| 
+| 20230820T23:12:01Z | A mod that aims to tweak Minecraft mechanics, piece by piece | https://github.com/MrFuzzihead/fuzzitweaks | 0 | 0| 
+| 20230820T22:32:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8905 | 1967| 
+| 20230820T22:02:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48408 | 23162| 
+| 20230820T21:28:24Z | Utilized a fuzzy expert system for heart disease detection | https://github.com/rahaahmadi/Heart-Disease-Diagnosis-Fuzzy | 2 | 0| 
+| 20230820T20:58:03Z | Null | https://github.com/jujuh253473/fuzzy-sniffle | 0 | 0| 
+| 20230820T16:31:44Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 181 | 37| 
 | 20230820T12:45:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1493 | 209| 
 | 20230820T12:20:29Z | Null | https://github.com/jgu059/fuzzy-sniffle | 0 | 0| 
 | 20230820T12:14:02Z | Null | https://github.com/annikdonna/fuzzy-bassoon | 0 | 0| 
-| 20230820T11:49:35Z | python dev | https://github.com/aa-parky/fuzzy-succotash | 0 | 0| 
-| 20230820T10:05:54Z | Null | https://github.com/43116210070/fuzzy-guacamole | 0 | 0| 
-| 20230820T09:42:38Z | Null | https://github.com/fedora-riscv/american-fuzzy-lop | 0 | 0| 
-| 20230820T09:42:02Z | Null | https://github.com/jahanzaibmalik17/react-fuzzy-debounce-search | 0 | 0| 
-| 20230820T09:15:45Z | Null | https://github.com/bhalla02/fuzzy-carnival | 0 | 0| 
-| 20230820T07:19:54Z | A website for creating and buying computer builds  | https://github.com/Vladich1995/FuzzyElectronics | 0 | 0| 
-| 20230820T07:09:59Z | Null | https://github.com/devenv/fuzzy-click | 3 | 0| 
 
 
 
