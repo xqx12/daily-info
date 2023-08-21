@@ -71,6 +71,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230821T12:29:11Z | Null | https://github.com/MertSec/ExploitWizard | 1 | 0| 
+| 20230821T12:19:32Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 27 | 3| 
 | 20230821T12:13:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-5G0sD-exploit-spend | 0 | 0| 
 | 20230821T11:56:55Z | Audit and pentest methodologies for Active Directory including internal enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/AD-Exploitation | 0 | 0| 
 | 20230821T10:06:49Z | Differential Fault Attack on AES - Analysis and Exploitation | https://github.com/somesh-vas/Differential-Fault-Attack-on-AES---Analysis-and-Exploitation | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230821T05:03:56Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 226 | 44| 
 | 20230821T03:21:12Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 50 | 10| 
 | 20230821T01:47:28Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 221 | 27| 
-| 20230821T01:18:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5280 | 1034| 
 
 
 # backdoor on Github 推荐
