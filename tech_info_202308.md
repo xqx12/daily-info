@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:38:14Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
 | 20230821T12:02:45Z | CVE-2023-9999 | test | https://github.com/obelia01/CVE-2023-9999 | | 
 | 20230821T11:50:02Z | CVE-2023-5546 | Null | https://github.com/obelia01/CVE-2023-5546 | | 
 | 20230821T11:23:16Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
@@ -35,7 +36,6 @@
 | 20230821T06:03:25Z | CVE-2023-28432 | CVE-2023-28432检测工具 | https://github.com/bingtangbanli/CVE-2023-28432 | | 
 | 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
-| 20230820T14:39:43Z | CVE-2021-3560 | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | https://github.com/pashayogi/ROOT-CVE-2021-3560 | | 
 
 
 # klee on Github 推荐
