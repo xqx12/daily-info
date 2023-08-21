@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T00:59:07Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWp | 1 | 0| 
 | 20230821T00:57:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANpm | 1 | 0| 
 | 20230821T00:57:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANpm | 1 | 0| 
 | 20230821T00:56:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANpm | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20230820T22:09:57Z | Insecure DOR (Order Tickets) - Cross-Site-Scripting - Stored (Blog) Remote and Local File Inclusion (RFI/LFI) | https://github.com/nikoiz/auto-exploit-bWAPP | 0 | 0| 
 | 20230820T20:29:12Z | python3 version of the CVE-2019-9978 exploit | https://github.com/h8handles/CVE-2019-9978-Python3 | 0 | 0| 
 | 20230820T20:28:22Z | Three vulnerable web applications and their exploits | https://github.com/lucaschultz/vulnerable-web-applications | 0 | 0| 
-| 20230820T19:17:05Z | A web application written in TypeScript to demonstrate common security flaws and vulnerabilities | https://github.com/rikurauhala/hack-this | 0 | 0| 
 
 
 # backdoor on Github 推荐
