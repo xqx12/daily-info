@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:19:48Z | A Fuzzy Logic Solution for detecting emotions via Facial Recognition. | https://github.com/rsudhir1/Emotion-Recognition-Fuzzy-Logic | 0 | 0| 
 | 20230821T11:33:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8914 | 1968| 
 | 20230821T10:57:57Z | Python Dynamic Source Fuzzer | https://github.com/twsswt/pydysofu | 0 | 1| 
 | 20230821T10:02:41Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1447 | 104| 
