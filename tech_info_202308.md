@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230821T00:33:13Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T00:23:52Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
@@ -35,7 +36,6 @@
 | 20230820T03:21:04Z | CVE-2023-3836 | Null | https://github.com/codeb0ss/CVE-2023-3836 | | 
 | 20230820T02:50:23Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
 | 20230820T00:58:08Z | CVE-2023-38646 | Metabase Pre-auth RCE (CVE-2023-38646) | https://github.com/kh4sh3i/CVE-2023-38646 | | 
-| 20230819T21:11:24Z | CVE-2023-20073 | PoC based on https://unsafe[.]sh/go-173464.html research | https://github.com/RegularITCat/CVE-2023-20073 | | 
 
 
 # klee on Github 推荐
