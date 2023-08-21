@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T00:56:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANpm | 1 | 0| 
 | 20230820T23:34:19Z | A command-line tool & webinterface, to efficiently save scum on an exploitable PS4/PS5. | https://github.com/jrson83/savescum | 0 | 0| 
 | 20230820T22:59:03Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5804 | 672| 
 | 20230820T22:28:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14284 | 2430| 
@@ -79,7 +80,6 @@
 | 20230820T19:17:05Z | A web application written in TypeScript to demonstrate common security flaws and vulnerabilities | https://github.com/rikurauhala/hack-this | 0 | 0| 
 | 20230820T12:55:47Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 1 | 0| 
 | 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
-| 20230820T11:54:42Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 561 | 108| 
 
 
 # backdoor on Github 推荐
