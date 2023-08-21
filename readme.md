@@ -55,10 +55,10 @@
 | 20230820T22:09:57Z | Insecure DOR (Order Tickets) - Cross-Site-Scripting - Stored (Blog) Remote and Local File Inclusion (RFI/LFI) | https://github.com/nikoiz/auto-exploit-bWAPP | 0 | 0| 
 | 20230820T20:29:12Z | python3 version of the CVE-2019-9978 exploit | https://github.com/h8handles/CVE-2019-9978-Python3 | 0 | 0| 
 | 20230820T20:28:22Z | Three vulnerable web applications and their exploits | https://github.com/lucaschultz/vulnerable-web-applications | 0 | 0| 
+| 20230820T20:16:39Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 217 | 13| 
 | 20230820T19:17:05Z | A web application written in TypeScript to demonstrate common security flaws and vulnerabilities | https://github.com/rikurauhala/hack-this | 0 | 0| 
 | 20230820T12:55:47Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 1 | 0| 
 | 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
-| 20230820T11:54:42Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 561 | 108| 
 
 
 # backdoor on Github 推荐
