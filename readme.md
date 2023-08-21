@@ -92,13 +92,13 @@
 | 20230820T23:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyLP — Fuzzy Linear Programming. Homepage: https://github.com/olbapjose/FuzzyLP   | https://github.com/cran/FuzzyLP | 0 | 0| 
 | 20230820T23:12:01Z | A mod that aims to tweak Minecraft mechanics, piece by piece | https://github.com/MrFuzzihead/fuzzitweaks | 0 | 0| 
 | 20230820T22:32:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8905 | 1967| 
-| 20230820T22:02:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48408 | 23162| 
 | 20230820T21:28:24Z | Utilized a fuzzy expert system for heart disease detection | https://github.com/rahaahmadi/Heart-Disease-Diagnosis-Fuzzy | 2 | 0| 
 | 20230820T20:58:03Z | Null | https://github.com/jujuh253473/fuzzy-sniffle | 0 | 0| 
 | 20230820T16:31:44Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 181 | 37| 
 | 20230820T12:45:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1493 | 209| 
 | 20230820T12:20:29Z | Null | https://github.com/jgu059/fuzzy-sniffle | 0 | 0| 
 | 20230820T12:14:02Z | Null | https://github.com/annikdonna/fuzzy-bassoon | 0 | 0| 
+| 20230820T11:49:35Z | python dev | https://github.com/aa-parky/fuzzy-succotash | 0 | 0| 
 
 
 
