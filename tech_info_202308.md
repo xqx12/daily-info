@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:27:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1494 | 209| 
 | 20230821T12:19:48Z | A Fuzzy Logic Solution for detecting emotions via Facial Recognition. | https://github.com/rsudhir1/Emotion-Recognition-Fuzzy-Logic | 0 | 0| 
 | 20230821T11:33:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8914 | 1968| 
 | 20230821T10:57:57Z | Python Dynamic Source Fuzzer | https://github.com/twsswt/pydysofu | 0 | 1| 
@@ -139,7 +140,6 @@
 | 20230821T01:43:30Z | HTTP server that fuzzy-searches a JSON dataset | https://github.com/mrtnstkl/fuzzy-search-server | 0 | 0| 
 | 20230821T01:15:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48411 | 23162| 
 | 20230821T00:36:44Z | 🕹️ An experimental Nintendo Entertainment System emulator. | https://github.com/UsrBinLuna/fuzzyNES | 0 | 0| 
-| 20230820T23:30:44Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyLP — Fuzzy Linear Programming. Homepage: https://github.com/olbapjose/FuzzyLP   | https://github.com/cran/FuzzyLP | 0 | 0| 
 
 
 
