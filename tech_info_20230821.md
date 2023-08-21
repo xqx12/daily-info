@@ -59,7 +59,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230821T12:05:04Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1996 | 433| 
-| 20230821T11:47:11Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 125 | 7| 
+| 20230821T11:47:11Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 125 | 8| 
 
 
 # symbolic execution on Github 推荐
