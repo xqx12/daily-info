@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230821T01:29:03Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
+| 20230821T01:48:56Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T00:23:52Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
