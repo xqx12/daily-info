@@ -84,9 +84,9 @@
 | 20230821T10:02:41Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1447 | 104| 
 | 20230821T09:50:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 298 | 44| 
 | 20230821T09:06:30Z | NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications | https://github.com/0xKayala/NucleiFuzzer | 408 | 55| 
+| 20230821T07:08:17Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 30 | 3| 
 | 20230821T01:43:30Z | HTTP server that fuzzy-searches a JSON dataset | https://github.com/mrtnstkl/fuzzy-search-server | 0 | 0| 
 | 20230821T01:15:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48411 | 23162| 
-| 20230821T00:36:44Z | 🕹️ An experimental Nintendo Entertainment System emulator. | https://github.com/UsrBinLuna/fuzzyNES | 0 | 0| 
 
 
 
