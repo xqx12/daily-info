@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:02:45Z | CVE-2023-9999 | test | https://github.com/obelia01/CVE-2023-9999 | | 
 | 20230821T11:50:02Z | CVE-2023-5546 | Null | https://github.com/obelia01/CVE-2023-5546 | | 
 | 20230821T11:23:16Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T10:33:35Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
@@ -35,7 +36,6 @@
 | 20230820T21:40:08Z | CVE-2020-24089 | Null | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230820T21:38:41Z | CVE-2020-24088 | Null | https://github.com/rjt-gupta/CVE-2020-24088 | | 
 | 20230820T14:39:43Z | CVE-2021-3560 | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | https://github.com/pashayogi/ROOT-CVE-2021-3560 | | 
-| 20230820T12:06:06Z | CVE-2021-34527 | CVE-2021-34527 PrintNightmare PoC | https://github.com/d0rb/CVE-2021-34527 | | 
 
 
 # klee on Github 推荐
@@ -100,12 +100,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T07:45:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 674 | 119| 
 | 20230820T18:37:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2305 | 634| 
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 | 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 
 | 20230819T16:32:43Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 433 | 29| 
 | 20230815T19:00:13Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 93 | 2| 
-| 20230815T17:40:31Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 673 | 119| 
 | 20230815T06:26:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 | 20230813T22:40:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1133 | 130| 
 | 20230812T03:07:15Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 199 | 42| 

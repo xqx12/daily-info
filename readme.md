@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230821T12:02:45Z | CVE-2023-9999 | test | https://github.com/obelia01/CVE-2023-9999 | | 
 | 20230821T11:50:02Z | CVE-2023-5546 | Null | https://github.com/obelia01/CVE-2023-5546 | | 
 | 20230821T11:23:16Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T10:33:35Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
@@ -64,6 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230821T07:45:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 674 | 119| 
 
 
 # big4 on Github 推荐
