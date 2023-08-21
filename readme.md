@@ -57,8 +57,8 @@
 | 20230820T20:28:22Z | Three vulnerable web applications and their exploits | https://github.com/lucaschultz/vulnerable-web-applications | 0 | 0| 
 | 20230820T20:16:39Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 217 | 13| 
 | 20230820T19:17:05Z | A web application written in TypeScript to demonstrate common security flaws and vulnerabilities | https://github.com/rikurauhala/hack-this | 0 | 0| 
+| 20230820T17:47:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5451 | 754| 
 | 20230820T12:55:47Z | Linux privilege escalation auditing tool | https://github.com/0dayhunter/Linux-exploit-suggester | 1 | 0| 
-| 20230820T12:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10507 | 1628| 
 
 
 # backdoor on Github 推荐
