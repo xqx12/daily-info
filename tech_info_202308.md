@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:33:01Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
+| 20230822T01:33:01Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230822T01:11:05Z | CVE-2023-40477 | POC WinRAR vulnerable to remote code execution, | https://github.com/whalersplonk/CVE-2023-40477 | | 
-| 20230822T01:08:41Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230822T00:59:28Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T23:24:03Z | CVE-2020-24089 | Windows Privilege Escalation: IOBit Malware Fighter v8.0.2 | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230821T23:23:25Z | CVE-2020-24088 | Windows Privilege Escalation: Foxconn Live Update Utility v2.1.6.26 | https://github.com/rjt-gupta/CVE-2020-24088 | | 
@@ -35,7 +36,6 @@
 | 20230821T21:20:38Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230821T20:57:44Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230821T20:29:55Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
-| 20230821T18:43:36Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
 
 
 # klee on Github 推荐
@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:32:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmx | 1 | 0| 
+| 20230822T01:31:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmx | 0 | 0| 
 | 20230822T01:22:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0024-app-Msemb-use-exploit | 0 | 0| 
 | 20230822T01:04:58Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 2 | 0| 
 | 20230822T00:27:49Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20230821T23:23:22Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 29 | 3| 
 | 20230821T22:30:39Z | A List of iOS KFD Projects | https://github.com/JordanEJ/KFD-Projects | 0 | 0| 
 | 20230821T22:13:25Z | A tool to enumerate and exploit SQL Servers in AD  | https://github.com/ananth-she11z/AutoSQL | 7 | 5| 
-| 20230821T21:45:17Z | Null | https://github.com/Tiberiu18/RCS-Vulnerabilities-Exploit | 0 | 0| 
-| 20230821T21:20:11Z | This batch script is basically a shortcut to run a listener in msfconsole using exploit/multi/handler | https://github.com/EpicTia93/msf-multi-handler-starter | 0 | 0| 
 
 
 # backdoor on Github 推荐
