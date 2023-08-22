@@ -70,16 +70,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T12:00:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5271 | 669| 
+| 20230822T11:31:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f4ca1b04-ecc4-4657-b147-e69a5168fc99-debb7-inform-exploit | 0 | 0| 
+| 20230822T11:29:40Z | Null | https://github.com/ACECLEZ/zaobaoLibExploit | 0 | 0| 
+| 20230822T11:27:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-996457cf-c533-4d7c-9586-614576bfdd3f-GrfDJ-remind-exploit | 0 | 0| 
+| 20230822T09:21:37Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 371 | 75| 
+| 20230822T09:03:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5455 | 754| 
+| 20230822T05:51:39Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 3058 | 441| 
 | 20230822T01:39:21Z | Null | https://github.com/asdaweee/Enterprise-WeChat-Vulnerability-Exploitation | 0 | 0| 
 | 20230822T01:36:06Z | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | 0 | 0| 
 | 20230822T01:34:15Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWm | 1 | 0| 
-| 20230822T01:33:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmx | 1 | 0| 
-| 20230822T01:32:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmx | 1 | 0| 
-| 20230822T01:31:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmx | 0 | 0| 
-| 20230822T01:22:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0024-app-Msemb-use-exploit | 0 | 0| 
-| 20230822T01:04:58Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 2 | 0| 
-| 20230822T00:27:49Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
-| 20230822T00:15:15Z | All Exploits | https://github.com/Tagoletta/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
