@@ -130,9 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:19:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8920 | 1969| 
 | 20230822T00:44:07Z | Null | https://github.com/devrnrwls/Fuzzy-Integral-Ensemble | 0 | 0| 
 | 20230821T22:19:31Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3825 | 457| 
-| 20230821T21:11:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8919 | 1969| 
 | 20230821T20:46:09Z | Null | https://github.com/DxSper/web_fuzzing | 0 | 0| 
 | 20230821T19:55:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1494 | 209| 
 | 20230821T15:39:29Z | Null | https://github.com/SEED-VT/DepFuzz | 0 | 0| 
