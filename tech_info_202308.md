@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:57:12Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230822T01:36:06Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
-| 20230822T01:33:01Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230822T01:11:05Z | CVE-2023-40477 | POC WinRAR vulnerable to remote code execution, | https://github.com/whalersplonk/CVE-2023-40477 | | 
 | 20230822T00:59:28Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T23:24:03Z | CVE-2020-24089 | Windows Privilege Escalation: IOBit Malware Fighter v8.0.2 | https://github.com/rjt-gupta/CVE-2020-24089 | | 
