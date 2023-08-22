@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:22:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0024-app-Msemb-use-exploit | 0 | 0| 
 | 20230822T01:04:58Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 2 | 0| 
 | 20230822T00:27:49Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
 | 20230822T00:15:15Z | All Exploits | https://github.com/Tagoletta/Exploits | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230821T22:13:25Z | A tool to enumerate and exploit SQL Servers in AD  | https://github.com/ananth-she11z/AutoSQL | 7 | 5| 
 | 20230821T21:45:17Z | Null | https://github.com/Tiberiu18/RCS-Vulnerabilities-Exploit | 0 | 0| 
 | 20230821T21:20:11Z | This batch script is basically a shortcut to run a listener in msfconsole using exploit/multi/handler | https://github.com/EpicTia93/msf-multi-handler-starter | 0 | 0| 
-| 20230821T21:11:52Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 560 | 108| 
 
 
 # backdoor on Github 推荐
