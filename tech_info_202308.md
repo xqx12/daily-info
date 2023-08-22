@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:33:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmx | 1 | 0| 
+| 20230822T01:33:01Z | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | 0 | 0| 
 | 20230822T01:32:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmx | 1 | 0| 
 | 20230822T01:31:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmx | 0 | 0| 
 | 20230822T01:22:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0024-app-Msemb-use-exploit | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20230822T00:15:15Z | All Exploits | https://github.com/Tagoletta/Exploits | 0 | 0| 
 | 20230821T23:29:49Z | Information about the KFD exploit for iOS 16.0-16.6b1 (excuding 16.5.1) | https://github.com/lunginspector/KFDOverview | 0 | 0| 
 | 20230821T23:23:22Z | A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems. | https://github.com/RiccardoBiosas/awesome-MLSecOps | 29 | 3| 
-| 20230821T22:30:39Z | A List of iOS KFD Projects | https://github.com/JordanEJ/KFD-Projects | 0 | 0| 
-| 20230821T22:13:25Z | A tool to enumerate and exploit SQL Servers in AD  | https://github.com/ananth-she11z/AutoSQL | 7 | 5| 
 
 
 # backdoor on Github 推荐
