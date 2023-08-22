@@ -29,8 +29,8 @@
 | 20230821T20:29:55Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T18:43:36Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
 | 20230821T16:03:27Z | CVE-2023-29409 |  CVE-2023-29409 reproducer | https://github.com/mateusz834/CVE-2023-29409 | | 
-| 20230821T15:20:24Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T12:38:14Z | CVE-2023-20073 | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | https://github.com/codeb0ss/CVE-2023-20073- | | 
+| 20230821T12:02:45Z | CVE-2023-9999 | test | https://github.com/obelia01/CVE-2023-9999 | | 
 
 
 # klee on Github 推荐

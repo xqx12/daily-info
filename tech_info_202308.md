@@ -26,7 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230822T00:46:48Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
+| 20230822T01:00:27Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
+| 20230822T00:59:28Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T23:24:03Z | CVE-2020-24089 | Windows Privilege Escalation: IOBit Malware Fighter v8.0.2 | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230821T23:23:25Z | CVE-2020-24088 | Windows Privilege Escalation: Foxconn Live Update Utility v2.1.6.26 | https://github.com/rjt-gupta/CVE-2020-24088 | | 
 | 20230821T22:12:22Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
@@ -35,7 +36,6 @@
 | 20230821T20:29:55Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230821T18:43:36Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
 | 20230821T16:03:27Z | CVE-2023-29409 |  CVE-2023-29409 reproducer | https://github.com/mateusz834/CVE-2023-29409 | | 
-| 20230821T15:20:24Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 
 
 # klee on Github 推荐
