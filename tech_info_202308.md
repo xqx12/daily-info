@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230822T00:46:48Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T23:24:03Z | CVE-2020-24089 | Windows Privilege Escalation: IOBit Malware Fighter v8.0.2 | https://github.com/rjt-gupta/CVE-2020-24089 | | 
 | 20230821T23:23:25Z | CVE-2020-24088 | Windows Privilege Escalation: Foxconn Live Update Utility v2.1.6.26 | https://github.com/rjt-gupta/CVE-2020-24088 | | 
-| 20230821T23:20:53Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230821T22:12:22Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230821T21:20:38Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230821T20:57:44Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
