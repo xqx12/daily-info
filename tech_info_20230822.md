@@ -77,6 +77,7 @@
 | 20230822T09:57:05Z | Skripsi Sarjana Komputer (S1) | https://github.com/jhonatansiahaan99/MONITORING_KAPASITAS_TEMPAT_SAMPAH_LOGAM_ORGANIK_ANORGANIK_BERBASIS_IOT_METODE_FUZZY_TSUKAMOTO | 0 | 0| 
 | 20230822T09:44:54Z | Null | https://github.com/anilyayavar/Fuzzy_Match | 0 | 0| 
 | 20230822T08:49:08Z | Null | https://github.com/Code-number4/fuzzy-succotash | 0 | 0| 
+| 20230822T05:48:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4800 | 1158| 
 | 20230822T01:41:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3826 | 457| 
 | 20230822T01:21:32Z | Null | https://github.com/cybermundo0/Directory-Fuzzing-Playground | 0 | 0| 
 | 20230822T01:19:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8920 | 1969| 
