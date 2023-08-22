@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230822T01:33:01Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
+| 20230822T01:36:06Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
 | 20230822T01:33:01Z | CVE-2023-36874 | CVE-2023-36874 PoC | https://github.com/d0rb/CVE-2023-36874 | | 
 | 20230822T01:11:05Z | CVE-2023-40477 | POC WinRAR vulnerable to remote code execution, | https://github.com/whalersplonk/CVE-2023-40477 | | 
 | 20230822T00:59:28Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
@@ -70,9 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T01:36:06Z | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | 0 | 0| 
 | 20230822T01:34:15Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWm | 1 | 0| 
 | 20230822T01:33:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmx | 1 | 0| 
-| 20230822T01:33:01Z | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | 0 | 0| 
 | 20230822T01:32:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmx | 1 | 0| 
 | 20230822T01:31:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmx | 0 | 0| 
 | 20230822T01:22:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0024-app-Msemb-use-exploit | 0 | 0| 
