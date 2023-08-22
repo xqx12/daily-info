@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230822T01:38:51Z | Null | https://github.com/asdaweee/Enterprise-WeChat-Vulnerability-Exploitation | 0 | 0| 
+| 20230822T01:39:21Z | Null | https://github.com/asdaweee/Enterprise-WeChat-Vulnerability-Exploitation | 0 | 0| 
 | 20230822T01:36:06Z | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | 0 | 0| 
 | 20230822T01:34:15Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWm | 1 | 0| 
 | 20230822T01:33:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmx | 1 | 0| 
