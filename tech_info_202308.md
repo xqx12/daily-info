@@ -70,10 +70,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T12:47:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5275 | 669| 
 | 20230823T12:22:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-2-50-721-0043-app-2ewQc-exploit-strengthen | 0 | 0| 
 | 20230823T12:00:32Z | Roblox AntiAFK Exploit Script | https://github.com/RoKanYT/CAT_Script | 0 | 0| 
 | 20230823T11:32:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5892 | 785| 
-| 20230823T10:03:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5274 | 669| 
 | 20230823T09:49:28Z | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | 0 | 0| 
 | 20230823T09:12:08Z | an armarda of tools for stealthily infiltration and post exploitation | https://github.com/Lord-of-the-IoT/BlackOps-Armarda | 5 | 1| 
 | 20230823T08:05:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5284 | 1035| 
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T12:48:03Z | Null | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-tutorials | 1 | 3| 
 | 20230823T12:18:14Z | Null | https://github.com/Abhiditya/fuzzy-system | 0 | 0| 
 | 20230823T11:46:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1500 | 211| 
 | 20230823T11:30:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4799 | 1158| 
@@ -139,7 +140,6 @@
 | 20230823T09:55:03Z | Null | https://github.com/zakrzewskij/ambiguity_fuzzy_test | 0 | 0| 
 | 20230823T09:52:01Z | Mining URLs from Dark Corners of Web Archives for bug hunting / Fuzzing/ Further probing  | https://github.com/PushkraJ99/ParamSpider | 0 | 0| 
 | 20230823T09:04:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 350 | 66| 
-| 20230823T00:15:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 192| 
 
 
 
