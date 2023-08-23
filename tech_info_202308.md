@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:21:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f9a1580f-5979-4b26-8099-57df94a94748-kMVKu-exploit-stick | 0 | 0| 
 | 20230823T00:19:39Z | The best custom made exploits for mirai and other botnets 💻 | https://github.com/KingKrex70/Boatnet-Exploits | 0 | 0| 
 | 20230823T00:12:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef200a85-1b79-401c-b0bb-dcc2dc4ed2ec-9GyGS-exploit-operate | 0 | 0| 
 | 20230823T00:04:16Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230822T23:52:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c1e7e43-3d18-4f0f-afb9-8dc99f3fb67e-3XAKr-exploit-let | 0 | 0| 
 | 20230822T22:50:06Z | All blockchain past exploits, with PoCs and in-depth explanation | https://github.com/cryptostaker2/blockchain-past-exploits | 2 | 0| 
 | 20230822T22:25:24Z | Null | https://github.com/TheCatsYT/Flair-Anti-Exploit | 0 | 0| 
-| 20230822T22:04:37Z | Just some of my rblx exploits | https://github.com/Furrycality/UwUscripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
