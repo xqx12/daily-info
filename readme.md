@@ -63,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T11:57:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 95 | 2| 
+| 20230823T07:37:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 675 | 120| 
 
 
 # big4 on Github 推荐
