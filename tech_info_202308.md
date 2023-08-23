@@ -70,6 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T01:55:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWu | 0 | 0| 
+| 20230823T01:55:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANuz | 1 | 0| 
+| 20230823T01:54:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANuz | 0 | 0| 
 | 20230823T01:53:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANuz | 0 | 0| 
 | 20230823T01:44:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5283 | 1035| 
 | 20230823T00:21:06Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f9a1580f-5979-4b26-8099-57df94a94748-kMVKu-exploit-stick | 0 | 0| 
@@ -77,9 +80,6 @@
 | 20230823T00:12:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef200a85-1b79-401c-b0bb-dcc2dc4ed2ec-9GyGS-exploit-operate | 0 | 0| 
 | 20230823T00:04:16Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20230823T00:02:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9d6ea325-cac6-496b-87b3-66eab41326df-ZZfwC-address-exploit | 0 | 0| 
-| 20230822T23:59:37Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
-| 20230822T23:58:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99ca9d85-5ed2-42ef-a58a-0acd9740fc33-9GyGS-sustain-exploit | 0 | 0| 
-| 20230822T23:52:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c1e7e43-3d18-4f0f-afb9-8dc99f3fb67e-3XAKr-exploit-let | 0 | 0| 
 
 
 # backdoor on Github 推荐
