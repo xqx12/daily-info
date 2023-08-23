@@ -70,10 +70,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:04:16Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20230823T00:02:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9d6ea325-cac6-496b-87b3-66eab41326df-ZZfwC-address-exploit | 0 | 0| 
 | 20230822T23:59:37Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
 | 20230822T23:58:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99ca9d85-5ed2-42ef-a58a-0acd9740fc33-9GyGS-sustain-exploit | 0 | 0| 
-| 20230822T23:56:58Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20230822T23:52:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8c1e7e43-3d18-4f0f-afb9-8dc99f3fb67e-3XAKr-exploit-let | 0 | 0| 
 | 20230822T22:50:06Z | All blockchain past exploits, with PoCs and in-depth explanation | https://github.com/cryptostaker2/blockchain-past-exploits | 2 | 0| 
 | 20230822T22:25:24Z | Null | https://github.com/TheCatsYT/Flair-Anti-Exploit | 0 | 0| 
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:04:27Z | Code for the paper Optimizing Fuzzy Fingerprints from Large Pre-Trained Models using Genetic Algorithms | https://github.com/ruinunca/optimized-fuzzy-fingerprints | 0 | 0| 
 | 20230822T21:48:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8929 | 1969| 
 | 20230822T20:18:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 299 | 45| 
 | 20230822T19:29:59Z | uxfuzz is a black-box kernel fuzzer used for unix-like systems. it is scalable because of qemu being used to emulate in a way to be able to freely choose the number of instances and their memory.  | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230822T13:50:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1497 | 211| 
 | 20230822T10:23:32Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 | 20230822T10:10:41Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 152 | 11| 
-| 20230822T09:57:05Z | Skripsi Sarjana Komputer (S1) | https://github.com/jhonatansiahaan99/MONITORING_KAPASITAS_TEMPAT_SAMPAH_LOGAM_ORGANIK_ANORGANIK_BERBASIS_IOT_METODE_FUZZY_TSUKAMOTO | 0 | 0| 
 
 
 
