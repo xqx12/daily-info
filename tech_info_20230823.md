@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230823T12:22:51Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230823T12:30:59Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230823T11:32:11Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230823T06:36:24Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230823T05:19:20Z | CVE-2023-25725 | Lab environment to test CVE-2023-25725 | https://github.com/sgwgsw/LAB-CVE-2023-25725 | | 
