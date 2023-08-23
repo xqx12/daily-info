@@ -130,9 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:24:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8930 | 1969| 
 | 20230823T00:15:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 192| 
 | 20230823T00:04:27Z | Code for the paper Optimizing Fuzzy Fingerprints from Large Pre-Trained Models using Genetic Algorithms | https://github.com/ruinunca/optimized-fuzzy-fingerprints | 0 | 0| 
-| 20230822T21:48:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8929 | 1969| 
 | 20230822T20:18:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 299 | 45| 
 | 20230822T19:29:59Z | uxfuzz is a black-box kernel fuzzer used for unix-like systems. it is scalable because of qemu being used to emulate in a way to be able to freely choose the number of instances and their memory.  | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
 | 20230822T18:20:26Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 131 | 5| 
