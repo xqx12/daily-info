@@ -85,7 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230823T01:35:14Z | Null | https://github.com/soroushmajd/Fairness-Backdoor-OOD-Detection | 0 | 0| 
+| 20230823T01:41:09Z | Null | https://github.com/soroushmajd/Fairness-Backdoor-OOD-Detection | 0 | 0| 
 | 20230822T20:33:11Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 67 | 25| 
 | 20230822T19:55:34Z | Cuba-Ransomware | https://github.com/russelr46/Whirlpool-Backdoor | 0 | 0| 
 | 20230822T18:45:38Z | Null | https://github.com/lechicuong2k3/backdoor_fl | 0 | 0| 
