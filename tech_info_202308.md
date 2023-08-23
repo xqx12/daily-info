@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230823T12:21:07Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230823T12:22:51Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230823T11:32:11Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230823T06:36:24Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230823T05:19:20Z | CVE-2023-25725 | Lab environment to test CVE-2023-25725 | https://github.com/sgwgsw/LAB-CVE-2023-25725 | | 
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T12:22:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-2-50-721-0043-app-2ewQc-exploit-strengthen | 0 | 0| 
 | 20230823T12:00:32Z | Roblox AntiAFK Exploit Script | https://github.com/RoKanYT/CAT_Script | 0 | 0| 
 | 20230823T11:32:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5892 | 785| 
 | 20230823T10:03:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5274 | 669| 
@@ -79,7 +80,6 @@
 | 20230823T06:55:14Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 51 | 10| 
 | 20230823T03:24:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 713 | 179| 
 | 20230823T01:55:47Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWu | 1 | 0| 
-| 20230823T01:55:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANuz | 1 | 0| 
 
 
 # backdoor on Github 推荐
