@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:11:40Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230822T20:47:39Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
 | 20230822T20:35:25Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
-| 20230822T18:56:28Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230822T18:43:21Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230822T16:40:19Z | CVE-2022-24637 | Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2 | https://github.com/0xRyuk/CVE-2022-24637 | | 
 | 20230822T14:35:46Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 

@@ -20,7 +20,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230822T20:47:39Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
 | 20230822T20:35:25Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
-| 20230822T18:56:28Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230822T18:43:21Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
 | 20230822T16:40:19Z | CVE-2022-24637 | Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2 | https://github.com/0xRyuk/CVE-2022-24637 | | 
 | 20230822T14:35:46Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
@@ -28,6 +27,7 @@
 | 20230822T02:01:25Z | CVE-2023-33157 | POC Microsoft SharePoint Remote Code Execution Vulnerability | https://github.com/hipnesspatten/CVE-2023-33157 | | 
 | 20230822T02:00:42Z | CVE-2023-33160 | POC Microsoft SharePoint Server Remote Code Execution Vulnerability | https://github.com/hipnesspatten/CVE-2023-33160 | | 
 | 20230822T01:11:05Z | CVE-2023-40477 | POC WinRAR vulnerable to remote code execution, | https://github.com/whalersplonk/CVE-2023-40477 | | 
+| 20230822T00:59:28Z | CVE-2023-20562 | Null | https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562 | | 
 
 
 # klee on Github 推荐
