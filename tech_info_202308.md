@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:15:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 192| 
 | 20230823T00:04:27Z | Code for the paper Optimizing Fuzzy Fingerprints from Large Pre-Trained Models using Genetic Algorithms | https://github.com/ruinunca/optimized-fuzzy-fingerprints | 0 | 0| 
 | 20230822T21:48:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8929 | 1969| 
 | 20230822T20:18:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 299 | 45| 
@@ -139,7 +140,6 @@
 | 20230822T14:41:05Z | Null | https://github.com/google/fuzztest | 384 | 28| 
 | 20230822T13:50:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1497 | 211| 
 | 20230822T10:23:32Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
-| 20230822T10:10:41Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 152 | 11| 
 
 
 
