@@ -133,13 +133,13 @@
 | 20230823T00:24:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8930 | 1969| 
 | 20230823T00:15:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2760 | 192| 
 | 20230823T00:04:27Z | Code for the paper Optimizing Fuzzy Fingerprints from Large Pre-Trained Models using Genetic Algorithms | https://github.com/ruinunca/optimized-fuzzy-fingerprints | 0 | 0| 
+| 20230822T21:51:05Z | macOS RootKit that can fuzz drivers, perform kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 0 | 0| 
 | 20230822T20:18:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 299 | 45| 
 | 20230822T19:29:59Z | uxfuzz is a black-box kernel fuzzer used for unix-like systems. it is scalable because of qemu being used to emulate in a way to be able to freely choose the number of instances and their memory.  | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
 | 20230822T18:20:26Z | PASTIS: Collaborative Fuzzing Framework | https://github.com/quarkslab/pastis | 131 | 5| 
 | 20230822T15:12:31Z | Web fuzzer based off FFUF written in Rust.  | https://github.com/banalityexhibition/ruff | 1 | 0| 
 | 20230822T14:41:05Z | Null | https://github.com/google/fuzztest | 384 | 28| 
 | 20230822T13:50:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1497 | 211| 
-| 20230822T10:23:32Z | doing telegram stuff with python | https://github.com/LoxZdox/fuzzy-octo-system | 0 | 0| 
 
 
 
