@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230823T11:51:31Z | Null | https://github.com/Abhiditya/fuzzy-system | 0 | 0| 
+| 20230823T12:18:14Z | Null | https://github.com/Abhiditya/fuzzy-system | 0 | 0| 
 | 20230823T11:46:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1500 | 211| 
 | 20230823T11:30:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4799 | 1158| 
 | 20230823T11:19:20Z | We have developed a Fuzzy logic based Expert system for the purpose of training the data. We are focused on collection of authentic data. The proposed fuzzy expert system%s performance was created in MATLAB. We developed the criteria based on professional understanding, and we selected these rules to analyse the data set. | https://github.com/Shreya-gupta28/Fuzzy-logig-based-expert-system-in-agriculture | 0 | 0| 
