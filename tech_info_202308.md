@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:19:39Z | The best custom made exploits for mirai and other botnets 💻 | https://github.com/KingKrex70/Boatnet-Exploits | 0 | 0| 
 | 20230823T00:12:28Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef200a85-1b79-401c-b0bb-dcc2dc4ed2ec-9GyGS-exploit-operate | 0 | 0| 
 | 20230823T00:04:16Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20230823T00:02:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9d6ea325-cac6-496b-87b3-66eab41326df-ZZfwC-address-exploit | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230822T22:50:06Z | All blockchain past exploits, with PoCs and in-depth explanation | https://github.com/cryptostaker2/blockchain-past-exploits | 2 | 0| 
 | 20230822T22:25:24Z | Null | https://github.com/TheCatsYT/Flair-Anti-Exploit | 0 | 0| 
 | 20230822T22:04:37Z | Just some of my rblx exploits | https://github.com/Furrycality/UwUscripts | 0 | 0| 
-| 20230822T21:15:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 80 | 30| 
 
 
 # backdoor on Github 推荐
