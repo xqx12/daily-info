@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230823T12:30:59Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230823T12:35:52Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230823T11:32:11Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230823T06:36:24Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230823T05:19:20Z | CVE-2023-25725 | Lab environment to test CVE-2023-25725 | https://github.com/sgwgsw/LAB-CVE-2023-25725 | | 
@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T12:36:47Z | Web application for TSW exam | https://github.com/muser98/FantasyBackdoor | 0 | 0| 
 | 20230823T11:58:55Z | Backdoor Attacks on Peer to Peer Federated Learning | https://github.com/gokberkyar/BP2PFL | 0 | 0| 
 | 20230823T11:09:18Z | Null | https://github.com/Oguz-038/Backdoor | 0 | 0| 
 | 20230823T08:25:07Z | Develop a malware with listener that will be in the server and the backdoor be in the viticm computer | https://github.com/leandroManjate/BackDoorAndListener | 0 | 0| 
