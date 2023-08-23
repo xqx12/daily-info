@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T00:02:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9d6ea325-cac6-496b-87b3-66eab41326df-ZZfwC-address-exploit | 0 | 0| 
 | 20230822T23:59:37Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
 | 20230822T23:58:48Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99ca9d85-5ed2-42ef-a58a-0acd9740fc33-9GyGS-sustain-exploit | 0 | 0| 
 | 20230822T23:56:58Z |  Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectat | https://github.com/RcsLW/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230822T22:04:37Z | Just some of my rblx exploits | https://github.com/Furrycality/UwUscripts | 0 | 0| 
 | 20230822T21:15:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 80 | 30| 
 | 20230822T12:12:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-5333afa3-5528-4d1f-a0b4-0e5e83a1cfdb-debb7-require-exploit | 0 | 0| 
-| 20230822T12:00:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5271 | 669| 
 
 
 # backdoor on Github 推荐
@@ -100,10 +100,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
 | 20230821T16:31:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 434 | 29| 
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
-| 20230821T07:45:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 674 | 119| 
-| 20230820T18:37:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2305 | 634| 
+| 20230821T07:45:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 674 | 120| 
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 | 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 
 | 20230815T19:00:13Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 93 | 2| 
