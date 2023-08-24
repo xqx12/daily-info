@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:33:54Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0022-app-4daQv-qualify-exploit | 0 | 0| 
 | 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
 | 20230824T11:38:57Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0013-app-UuDa6-comply-exploit | 0 | 0| 
 | 20230824T11:31:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9ea9abdf-bd4d-4cb5-bc63-586e63289090-miFJq-deliver-exploit | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20230824T10:33:07Z | 🔥 Best Drainer on the market right now updates every week 🔥 Drains Native coin, NFT, Tokens. ⭐STABLE OPERATION IS GUARANTEED⭐ | https://github.com/gusboycharxb93/SetApprovalForAll_Drainer | 3 | 0| 
 | 20230824T10:33:02Z | About 🔥 Best Drainer on the market right now updates every week 🔥 Drains Native coin, NFT, Tokens. ⭐STABLE OPERATION IS GUARANTEED⭐ | https://github.com/dawsonwhiteck/Blur_Private_Exploit | 2 | 0| 
 | 20230824T10:22:48Z | Binary Exploitation Exercises | https://github.com/todeffd/tryhackme-pwn101 | 0 | 0| 
-| 20230824T05:40:16Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | 5 | 2| 
 
 
 # backdoor on Github 推荐
