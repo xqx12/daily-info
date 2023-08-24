@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:22:29Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0061-0061-app-ZlAXy-upset-exploit | 0 | 0| 
 | 20230824T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0007-app-A7F-I-exploit-split | 0 | 0| 
 | 20230824T01:04:56Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/DPFL_Project | 5 | 0| 
 | 20230824T00:38:34Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230823T23:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-94a7fd41-42c1-46a2-8e5d-c1f0354bc3b1-sY7dl-exploit-need | 0 | 0| 
 | 20230823T23:44:07Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
 | 20230823T23:39:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eccebefb-ed3e-4d34-bea6-739e3b7ec633-Q464F-build-exploit | 0 | 0| 
-| 20230823T23:09:24Z | In instances of this nature, the user might present an appearance as if he or she has provided %consent% for the transfer. Yet, in truth, the user remained oblivious to the commencement of a malevolent software download. In a parallel manner, should an individual be perusing a website containing malicious content, said individual could fall prey to | https://github.com/benedixX0/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 
 
 # backdoor on Github 推荐
