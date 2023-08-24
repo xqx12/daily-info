@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:57:05Z | Null | https://github.com/ViTKAQQ/fuzzy-adventure | 0 | 0| 
 | 20230824T12:08:12Z | Null | https://github.com/Apochens/function-aware-fuzzing | 1 | 0| 
 | 20230824T11:57:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1506 | 213| 
 | 20230824T11:51:34Z | Null | https://github.com/omnifient/fuzzing-around | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20230824T08:36:14Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 446 | 45| 
 | 20230824T00:31:25Z | Null | https://github.com/google/fuzztest | 386 | 28| 
 | 20230823T22:14:06Z | Null | https://github.com/Shanni/extinct-fuzzy-unicorn-pet | 0 | 1| 
-| 20230823T22:06:12Z | Null | https://github.com/protocol-fuzzing/edhoc-fuzzer | 0 | 1| 
 
 
 
