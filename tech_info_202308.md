@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T00:34:00Z | Rotated versions of some Japanese fonts such as IBM Plex Sans JP and Klee One. | https://github.com/Bluemoondragon07/Rotated-Japanese-Fonts | 0 | 0| 
 | 20230823T14:03:20Z | Null | https://github.com/davidtr1037/klee-quantifiers | 0 | 0| 
 | 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
 | 20230821T08:29:39Z | Null | https://github.com/helsmy/dst_mod_klee | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230818T08:16:55Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 12 | 0| 
 | 20230818T05:02:09Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 85 | 20| 
 | 20230817T11:20:41Z | adds a gif of klee dancing to your playback bar | https://github.com/zylaunt/klee | 0 | 0| 
-| 20230817T02:34:58Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉90度形成直書排版)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 29 | 1| 
 
 
 # s2e on Github 推荐
