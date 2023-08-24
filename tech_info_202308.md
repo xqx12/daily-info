@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T00:30:04Z | Null | https://github.com/TheVerseer/ExploitTest_A001 | 0 | 0| 
+| 20230824T00:29:36Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230823T23:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-94a7fd41-42c1-46a2-8e5d-c1f0354bc3b1-sY7dl-exploit-need | 0 | 0| 
 | 20230823T23:44:07Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
 | 20230823T23:39:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eccebefb-ed3e-4d34-bea6-739e3b7ec633-Q464F-build-exploit | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20230823T23:00:21Z | Journeying along the chronicle of vulnerability revelation, we unveil a tapestry woven in meticulous detail. A scrutiny, inching ever closer to the core of the Exploit JPG%s essence, exposes a web of malevolence—a tale where the ominous link intertwines with the very URL that orchestrates a symphony of download and execution. At the helm of this or | https://github.com/benedixX0/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | 0 | 0| 
 | 20230823T22:55:45Z | Enveloping the Realm of Silence: Silent DOC Exploit Integrated  🌐 A Repertoire of Exploits: A Symphony of Possibilities Awaits  📧 Navigating the E-Mail Express: GMail%s Channel of Delivery Unveiled | https://github.com/benedixX0/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20230823T22:51:32Z | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
-| 20230823T22:31:15Z | Full exploit chain for Faronics-DeepFreeze-8 | https://github.com/snowcra5h/Faronics-DeepFreeze-8-Exploit | 1 | 0| 
-| 20230823T13:34:28Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,12 +130,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T00:31:25Z | Null | https://github.com/google/fuzztest | 386 | 28| 
 | 20230824T00:11:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1503 | 212| 
 | 20230823T22:14:06Z | Null | https://github.com/Shanni/extinct-fuzzy-unicorn-pet | 0 | 1| 
 | 20230823T22:06:12Z | Null | https://github.com/protocol-fuzzing/edhoc-fuzzer | 0 | 1| 
 | 20230823T20:58:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 608 | 75| 
 | 20230823T20:30:31Z | Null | https://github.com/SarahElizabeteTDS/fuzzy-guacamole | 0 | 0| 
-| 20230823T20:25:50Z | Null | https://github.com/google/fuzztest | 385 | 28| 
 | 20230823T20:18:29Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1451 | 104| 
 | 20230823T19:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8931 | 1971| 
 | 20230823T19:52:09Z | Daily Fuzzing Coverage for Firedancer | https://github.com/firedancer-io/firedancer-fuzz-coverage | 0 | 0| 
