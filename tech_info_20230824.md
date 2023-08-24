@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T12:00:46Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230824T12:03:36Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T11:55:48Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T11:12:26Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T05:40:16Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
@@ -80,9 +80,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230824T01:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8932 | 1971| 
+| 20230824T11:57:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1506 | 213| 
+| 20230824T11:51:34Z | Null | https://github.com/omnifient/fuzzing-around | 0 | 0| 
+| 20230824T11:02:56Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5059 | 534| 
+| 20230824T09:36:12Z | My clone repository | https://github.com/Hafiz-AM-077/fuzzy-funicular | 0 | 0| 
+| 20230824T08:50:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8935 | 1972| 
+| 20230824T08:36:14Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 446 | 45| 
 | 20230824T00:31:25Z | Null | https://github.com/google/fuzztest | 386 | 28| 
-| 20230824T00:11:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1503 | 212| 
 
 
 
