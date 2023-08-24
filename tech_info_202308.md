@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230823 | 基于文本风格结构和多任务学习的跨暗网论坛用户识别 | https://mp.weixin.qq.com/s/mwtJh_25Yds0GMApAXW5kg| 
 | 20230822 | 四方支付平台（跑分平台）法律知识应用大全 | https://mp.weixin.qq.com/s/msvr5ZPmNd5b7eflGRUQ0A| 
 | 20230822 | 企业数据资源相关会计处理暂行规定 | http://kjs.mof.gov.cn/gongzuotongzhi/202212/P020221209412040514536.pdf| 
 | 20230821 | 记一次某部内存取证比赛writeup | https://www.sec-in.com/article/2016| 
@@ -20,27 +21,27 @@
 | 20230821 | 全球高级持续性威胁总体态势、典型手法及趋势研判 | https://mp.weixin.qq.com/s/ksDp3LL6A1d1zzvDFXtKgw| 
 | 20230820 | 赋予数据灵魂—印巴两国网空测绘数据对比 | https://paper.seebug.org/2093/| 
 | 20230820 | 從 2013 到 2023: Web Security 十年之進化與趨勢 | https://blog.orange.tw/2023/08/2023-webconf-the-evolution-of-web-security.html| 
-| 20230820 | Metabase 高版本JDK下 嵌入式Jetty中的Customizer内存马实现 | https://xz.aliyun.com/t/12792| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230823T12:35:52Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230823T23:37:22Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230823T22:51:32Z | 未知编号 | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20230823T21:07:24Z | CVE-2023-39062 | Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files | https://github.com/afine-com/CVE-2023-39062 | | 
+| 20230823T16:55:24Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/crisprss/CVE-2023-36874 | | 
+| 20230823T16:53:12Z | CVE-2023-25725 | Lab environment to test CVE-2023-25725 | https://github.com/sgwgsw/LAB-CVE-2023-25725 | | 
 | 20230823T11:32:11Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
 | 20230823T06:36:24Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
-| 20230823T05:19:20Z | CVE-2023-25725 | Lab environment to test CVE-2023-25725 | https://github.com/sgwgsw/LAB-CVE-2023-25725 | | 
 | 20230823T04:37:51Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230823T02:55:25Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230823T02:49:28Z | CVE-2022-2588 | CVE-2022-2588 | https://github.com/veritas501/CVE-2022-2588 | | 
-| 20230822T20:47:39Z | CVE-2023-3519 | POC Citrix vulnerability scanner. Auto Exploit | https://github.com/knitteruntil0s/CVE-2023-3519 | | 
-| 20230822T18:43:21Z | CVE-2023-20562 | Null | https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562 | | 
-| 20230822T16:40:19Z | CVE-2022-24637 | Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2 | https://github.com/0xRyuk/CVE-2022-24637 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T14:03:20Z | Null | https://github.com/davidtr1037/klee-quantifiers | 0 | 0| 
 | 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
 | 20230821T08:29:39Z | Null | https://github.com/helsmy/dst_mod_klee | 0 | 0| 
 | 20230821T02:55:31Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
@@ -50,13 +51,12 @@
 | 20230818T05:02:09Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 85 | 20| 
 | 20230817T11:20:41Z | adds a gif of klee dancing to your playback bar | https://github.com/zylaunt/klee | 0 | 0| 
 | 20230817T02:34:58Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉90度形成直書排版)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 29 | 1| 
-| 20230814T18:56:32Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/edk2-klee | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230820T16:58:42Z | Null | https://github.com/Scanel-sys/CPU_Parall_s2ep2 | 0 | 0| 
+| 20230823T21:22:24Z | Null | https://github.com/Scanel-sys/CPU_Parall_s2ep2 | 0 | 0| 
 | 20230817T08:22:56Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 | 20230817T05:33:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 349 | 81| 
 | 20230815T09:01:13Z | Null | https://github.com/s2ecevit/s2ecevit.github.io | 0 | 0| 
@@ -70,31 +70,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230823T12:47:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5275 | 669| 
-| 20230823T12:22:58Z | GitOps Repository | https://github.com/pmacik-testing/ci-2-50-721-0043-app-2ewQc-exploit-strengthen | 0 | 0| 
-| 20230823T12:00:32Z | Roblox AntiAFK Exploit Script | https://github.com/RoKanYT/CAT_Script | 0 | 0| 
-| 20230823T11:32:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5892 | 785| 
-| 20230823T09:49:28Z | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | 0 | 0| 
-| 20230823T09:12:08Z | an armarda of tools for stealthily infiltration and post exploitation | https://github.com/Lord-of-the-IoT/BlackOps-Armarda | 5 | 1| 
-| 20230823T08:05:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5284 | 1035| 
-| 20230823T06:55:14Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 51 | 10| 
-| 20230823T03:24:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 713 | 179| 
-| 20230823T01:55:47Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWu | 1 | 0| 
+| 20230823T23:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-94a7fd41-42c1-46a2-8e5d-c1f0354bc3b1-sY7dl-exploit-need | 0 | 0| 
+| 20230823T23:44:07Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
+| 20230823T23:39:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eccebefb-ed3e-4d34-bea6-739e3b7ec633-Q464F-build-exploit | 0 | 0| 
+| 20230823T23:09:24Z | In instances of this nature, the user might present an appearance as if he or she has provided %consent% for the transfer. Yet, in truth, the user remained oblivious to the commencement of a malevolent software download. In a parallel manner, should an individual be perusing a website containing malicious content, said individual could fall prey to | https://github.com/benedixX0/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
+| 20230823T23:03:51Z | Navigating the intricate landscape of cybersecurity entails a multifaceted endeavor, wherein experts strive to orchestrate the surreptitious orchestration of their malicious code, thus eluding the vigilant gaze of antivirus defenses and achieving their nefarious objectives.  | https://github.com/benedixX0/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
+| 20230823T23:00:21Z | Journeying along the chronicle of vulnerability revelation, we unveil a tapestry woven in meticulous detail. A scrutiny, inching ever closer to the core of the Exploit JPG%s essence, exposes a web of malevolence—a tale where the ominous link intertwines with the very URL that orchestrates a symphony of download and execution. At the helm of this or | https://github.com/benedixX0/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | 0 | 0| 
+| 20230823T22:55:45Z | Enveloping the Realm of Silence: Silent DOC Exploit Integrated  🌐 A Repertoire of Exploits: A Symphony of Possibilities Awaits  📧 Navigating the E-Mail Express: GMail%s Channel of Delivery Unveiled | https://github.com/benedixX0/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
+| 20230823T22:51:32Z | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
+| 20230823T22:31:15Z | Full exploit chain for Faronics-DeepFreeze-8 | https://github.com/snowcra5h/Faronics-DeepFreeze-8-Exploit | 1 | 0| 
+| 20230823T13:34:28Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T19:50:11Z | Crypter is designed exclusively for educational and investigative intentions. Its utility should be confined to systems or networks where you possess legitimate authorization. | https://github.com/nemesisS666/Alien-Crypter | 0 | 0| 
+| 20230823T17:36:52Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7804 | 1820| 
+| 20230823T15:51:06Z | Something, From when I could relate to java noobs. Mix of trash. Crystals BackDoor. And a java version of a ransomewhare. | https://github.com/JacksonMt/Something- | 0 | 0| 
+| 20230823T13:32:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1999 | 434| 
 | 20230823T12:57:44Z | Web application for TSW exam | https://github.com/muser98/FantasyBackdoor | 0 | 0| 
 | 20230823T11:58:55Z | Backdoor Attacks on Peer to Peer Federated Learning | https://github.com/gokberkyar/BP2PFL | 0 | 0| 
 | 20230823T11:09:18Z | Null | https://github.com/Oguz-038/Backdoor | 0 | 0| 
 | 20230823T08:25:07Z | Develop a malware with listener that will be in the server and the backdoor be in the viticm computer | https://github.com/leandroManjate/BackDoorAndListener | 0 | 0| 
 | 20230823T07:23:17Z | A BackDoor For Bukkit. | https://github.com/lanshanzhu/BackDoor | 0 | 0| 
 | 20230823T05:36:35Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 41 | 4| 
-| 20230823T01:41:09Z | Null | https://github.com/soroushmajd/Fairness-Backdoor-OOD-Detection | 0 | 0| 
-| 20230822T20:33:11Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 67 | 25| 
-| 20230822T19:55:34Z | Cuba-Ransomware | https://github.com/russelr46/Whirlpool-Backdoor | 0 | 0| 
-| 20230822T18:45:38Z | Null | https://github.com/lechicuong2k3/backdoor_fl | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230823T22:14:06Z | Null | https://github.com/Shanni/extinct-fuzzy-unicorn-pet | 0 | 1| 
+| 20230823T22:06:12Z | Null | https://github.com/protocol-fuzzing/edhoc-fuzzer | 0 | 1| 
+| 20230823T20:58:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 608 | 75| 
+| 20230823T20:30:31Z | Null | https://github.com/SarahElizabeteTDS/fuzzy-guacamole | 0 | 0| 
+| 20230823T20:25:50Z | Null | https://github.com/google/fuzztest | 385 | 28| 
+| 20230823T20:18:29Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1451 | 104| 
+| 20230823T19:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8931 | 1971| 
+| 20230823T19:52:09Z | Daily Fuzzing Coverage for Firedancer | https://github.com/firedancer-io/firedancer-fuzz-coverage | 0 | 0| 
+| 20230823T19:42:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3897 | 790| 
 | 20230823T12:48:03Z | Null | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-tutorials | 1 | 3| 
-| 20230823T12:18:14Z | Null | https://github.com/Abhiditya/fuzzy-system | 0 | 0| 
-| 20230823T11:46:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1500 | 211| 
-| 20230823T11:30:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4799 | 1158| 
-| 20230823T11:19:20Z | We have developed a Fuzzy logic based Expert system for the purpose of training the data. We are focused on collection of authentic data. The proposed fuzzy expert system%s performance was created in MATLAB. We developed the criteria based on professional understanding, and we selected these rules to analyse the data set. | https://github.com/Shreya-gupta28/Fuzzy-logig-based-expert-system-in-agriculture | 0 | 0| 
-| 20230823T10:12:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8930 | 1970| 
-| 20230823T10:02:13Z | NucleiFuzzer is a Powerful Automation Tool for Detecting XSS , SQLI , SSRF , Open-Redirect etc.. Vulnerabilities in Web Applications  | https://github.com/PushkraJ99/NucleiFuzzer | 0 | 0| 
-| 20230823T09:55:03Z | Null | https://github.com/zakrzewskij/ambiguity_fuzzy_test | 0 | 0| 
-| 20230823T09:52:01Z | Mining URLs from Dark Corners of Web Archives for bug hunting / Fuzzing/ Further probing  | https://github.com/PushkraJ99/ParamSpider | 0 | 0| 
-| 20230823T09:04:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 350 | 66| 
 
 
 
