@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230824T01:30:58Z | 一个用友漏洞检测工具 | https://github.com/zhaoyumi/yoyoExploit | 7 | 1| 
+| 20230824T01:35:19Z | 一个用友漏洞检测工具 | https://github.com/zhaoyumi/yoyoExploit | 8 | 1| 
 | 20230824T01:22:29Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0061-0061-app-ZlAXy-upset-exploit | 0 | 0| 
 | 20230824T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0007-app-A7F-I-exploit-split | 0 | 0| 
 | 20230824T01:04:56Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/DPFL_Project | 5 | 0| 
