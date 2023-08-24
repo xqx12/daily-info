@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230824T00:34:00Z | Rotated versions of some Japanese fonts such as IBM Plex Sans JP and Klee One. | https://github.com/Bluemoondragon07/Rotated-Japanese-Fonts | 0 | 0| 
+| 20230824T00:37:03Z | Versions of some Japanese fonts such as IBM Plex Sans JP and Klee One rotated -90 degrees to give the illusion of vertical text. | https://github.com/Bluemoondragon07/Rotated-Japanese-Fonts | 0 | 0| 
 | 20230823T14:03:20Z | Null | https://github.com/davidtr1037/klee-quantifiers | 0 | 0| 
 | 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
 | 20230821T08:29:39Z | Null | https://github.com/helsmy/dst_mod_klee | 0 | 0| 
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T00:37:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-wpqt-W13h5-exploit-address | 0 | 0| 
 | 20230824T00:30:04Z | Null | https://github.com/TheVerseer/ExploitTest_A001 | 0 | 0| 
 | 20230824T00:29:36Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230823T23:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-94a7fd41-42c1-46a2-8e5d-c1f0354bc3b1-sY7dl-exploit-need | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230823T23:03:51Z | Navigating the intricate landscape of cybersecurity entails a multifaceted endeavor, wherein experts strive to orchestrate the surreptitious orchestration of their malicious code, thus eluding the vigilant gaze of antivirus defenses and achieving their nefarious objectives.  | https://github.com/benedixX0/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20230823T23:00:21Z | Journeying along the chronicle of vulnerability revelation, we unveil a tapestry woven in meticulous detail. A scrutiny, inching ever closer to the core of the Exploit JPG%s essence, exposes a web of malevolence—a tale where the ominous link intertwines with the very URL that orchestrates a symphony of download and execution. At the helm of this or | https://github.com/benedixX0/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | 0 | 0| 
 | 20230823T22:55:45Z | Enveloping the Realm of Silence: Silent DOC Exploit Integrated  🌐 A Repertoire of Exploits: A Symphony of Possibilities Awaits  📧 Navigating the E-Mail Express: GMail%s Channel of Delivery Unveiled | https://github.com/benedixX0/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20230823T22:51:32Z | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
