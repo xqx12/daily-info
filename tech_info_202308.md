@@ -85,6 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:36:25Z | Config files for my GitHub profile. | https://github.com/backDoora/backDoora | 0 | 0| 
 | 20230824T10:05:26Z | Null | https://github.com/toccoflorian/backdoor | 0 | 0| 
 | 20230824T09:59:27Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 235 | 31| 
 | 20230824T05:10:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 2000 | 434| 
@@ -94,7 +95,6 @@
 | 20230823T17:36:52Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7804 | 1820| 
 | 20230823T15:51:06Z | Something, From when I could relate to java noobs. Mix of trash. Crystals BackDoor. And a java version of a ransomewhare. | https://github.com/JacksonMt/Something- | 0 | 0| 
 | 20230823T12:57:44Z | Web application for TSW exam | https://github.com/muser98/FantasyBackdoor | 0 | 0| 
-| 20230823T12:55:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 191 | 22| 
 
 
 # symbolic execution on Github 推荐
