@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T12:03:36Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230824T12:47:04Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T11:55:48Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T11:12:26Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T05:40:16Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
