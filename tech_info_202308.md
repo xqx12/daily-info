@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:57:00Z | CVE-2023-26256 | CVE-2023-26255_POC,CVE-2023-26256_POC | https://github.com/aodsec/CVE-2023-26256 | | 
 | 20230824T01:39:34Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230823T22:51:32Z | 未知编号 | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230823T21:07:24Z | CVE-2023-39062 | Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files | https://github.com/afine-com/CVE-2023-39062 | | 
@@ -35,7 +36,6 @@
 | 20230823T06:36:24Z | CVE-2023-21554 | Null | https://github.com/3tternp/CVE-2023-21554 | | 
 | 20230823T04:37:51Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/c4m3l-security/CVE-2023-36874 | | 
 | 20230823T02:55:25Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230823T02:49:28Z | CVE-2022-2588 | CVE-2022-2588 | https://github.com/veritas501/CVE-2022-2588 | | 
 
 
 # klee on Github 推荐
