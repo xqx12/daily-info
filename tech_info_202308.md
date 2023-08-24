@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0007-app-A7F-I-exploit-split | 0 | 0| 
 | 20230824T01:04:56Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/DPFL_Project | 5 | 0| 
 | 20230824T00:38:34Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230824T00:37:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-wpqt-W13h5-exploit-address | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230823T23:44:07Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
 | 20230823T23:39:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eccebefb-ed3e-4d34-bea6-739e3b7ec633-Q464F-build-exploit | 0 | 0| 
 | 20230823T23:09:24Z | In instances of this nature, the user might present an appearance as if he or she has provided %consent% for the transfer. Yet, in truth, the user remained oblivious to the commencement of a malevolent software download. In a parallel manner, should an individual be perusing a website containing malicious content, said individual could fall prey to | https://github.com/benedixX0/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20230823T23:03:51Z | Navigating the intricate landscape of cybersecurity entails a multifaceted endeavor, wherein experts strive to orchestrate the surreptitious orchestration of their malicious code, thus eluding the vigilant gaze of antivirus defenses and achieving their nefarious objectives.  | https://github.com/benedixX0/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8932 | 1971| 
 | 20230824T00:31:25Z | Null | https://github.com/google/fuzztest | 386 | 28| 
 | 20230824T00:11:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1503 | 212| 
 | 20230823T22:14:06Z | Null | https://github.com/Shanni/extinct-fuzzy-unicorn-pet | 0 | 1| 
@@ -137,7 +138,6 @@
 | 20230823T20:58:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 608 | 75| 
 | 20230823T20:30:31Z | Null | https://github.com/SarahElizabeteTDS/fuzzy-guacamole | 0 | 0| 
 | 20230823T20:18:29Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1451 | 104| 
-| 20230823T19:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8931 | 1971| 
 | 20230823T19:52:09Z | Daily Fuzzing Coverage for Firedancer | https://github.com/firedancer-io/firedancer-fuzz-coverage | 0 | 0| 
 | 20230823T19:42:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3897 | 790| 
 
