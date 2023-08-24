@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:08:12Z | Null | https://github.com/Apochens/function-aware-fuzzing | 1 | 0| 
 | 20230824T11:57:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1506 | 213| 
 | 20230824T11:51:34Z | Null | https://github.com/omnifient/fuzzing-around | 0 | 0| 
 | 20230824T11:02:56Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5059 | 534| 
