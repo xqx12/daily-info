@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T01:22:39Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230824T01:39:34Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230823T22:51:32Z | 未知编号 | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20230823T21:07:24Z | CVE-2023-39062 | Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files | https://github.com/afine-com/CVE-2023-39062 | | 
 | 20230823T16:55:24Z | CVE-2023-36874 | CVE-2023-36874 Proof of Concept | https://github.com/crisprss/CVE-2023-36874 | | 
