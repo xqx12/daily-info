@@ -96,7 +96,7 @@
 | 20230823T19:56:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8931 | 1971| 
 | 20230823T19:52:09Z | Daily Fuzzing Coverage for Firedancer | https://github.com/firedancer-io/firedancer-fuzz-coverage | 0 | 0| 
 | 20230823T19:42:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3897 | 790| 
-| 20230823T12:48:03Z | Null | https://github.com/CodeIntelligenceTesting/ci-fuzz-cli-tutorials | 1 | 3| 
+| 20230823T14:55:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3829 | 458| 
 
 
 
