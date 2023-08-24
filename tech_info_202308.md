@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:37:58Z | GitOps Repository | https://github.com/pmacik-testing/cima-0031-0007-app-yNXjb-exploit-teach | 0 | 0| 
 | 20230824T01:35:19Z | 一个用友漏洞检测工具 | https://github.com/zhaoyumi/yoyoExploit | 8 | 1| 
 | 20230824T01:22:29Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0061-0061-app-ZlAXy-upset-exploit | 0 | 0| 
 | 20230824T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0007-app-A7F-I-exploit-split | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230824T00:30:04Z | Null | https://github.com/TheVerseer/ExploitTest_A001 | 0 | 0| 
 | 20230824T00:15:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5285 | 1035| 
 | 20230823T23:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-94a7fd41-42c1-46a2-8e5d-c1f0354bc3b1-sY7dl-exploit-need | 0 | 0| 
-| 20230823T23:44:07Z | The code for a circuit which exploits Ohm%s law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | 0 | 0| 
 
 
 # backdoor on Github 推荐
