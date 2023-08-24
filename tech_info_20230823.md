@@ -52,7 +52,7 @@
 | 20230823T22:55:45Z | Enveloping the Realm of Silence: Silent DOC Exploit Integrated  🌐 A Repertoire of Exploits: A Symphony of Possibilities Awaits  📧 Navigating the E-Mail Express: GMail%s Channel of Delivery Unveiled | https://github.com/benedixX0/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20230823T22:51:32Z | Browsers founded on the bedrock of Firefox (consisting of databases, cookies, historical imprints, and cherished bookmarks), Envoys of the Internet (a.k.a. Internet Explorer/Edge) harboring the secrets of passwords. | https://github.com/benedixX0/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 | 20230823T22:31:15Z | Full exploit chain for Faronics-DeepFreeze-8 | https://github.com/snowcra5h/Faronics-DeepFreeze-8-Exploit | 1 | 0| 
-| 20230823T13:34:28Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
+| 20230823T17:16:05Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
 
 
 # backdoor on Github 推荐
