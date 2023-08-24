@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T11:57:31Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230824T12:00:46Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T11:55:48Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T11:12:26Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T05:40:16Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
 | 20230824T11:38:57Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0013-app-UuDa6-comply-exploit | 0 | 0| 
 | 20230824T11:31:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9ea9abdf-bd4d-4cb5-bc63-586e63289090-miFJq-deliver-exploit | 0 | 0| 
 | 20230824T11:07:21Z | Web application to exploit SSRF/MitM Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
@@ -79,29 +80,28 @@
 | 20230824T10:33:02Z | About 🔥 Best Drainer on the market right now updates every week 🔥 Drains Native coin, NFT, Tokens. ⭐STABLE OPERATION IS GUARANTEED⭐ | https://github.com/dawsonwhiteck/Blur_Private_Exploit | 2 | 0| 
 | 20230824T10:22:48Z | Binary Exploitation Exercises | https://github.com/todeffd/tryhackme-pwn101 | 0 | 0| 
 | 20230824T05:40:16Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | 5 | 2| 
-| 20230824T03:38:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 52 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T10:05:26Z | Null | https://github.com/toccoflorian/backdoor | 0 | 0| 
+| 20230824T09:59:27Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 235 | 31| 
+| 20230824T05:10:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 2000 | 434| 
+| 20230824T02:48:16Z | Null | https://github.com/rebibabo/New-Backdoor | 0 | 0| 
+| 20230824T02:13:09Z | Null | https://github.com/SCLBD/BackdoorBench | 195 | 32| 
 | 20230823T19:50:11Z | Crypter is designed exclusively for educational and investigative intentions. Its utility should be confined to systems or networks where you possess legitimate authorization. | https://github.com/nemesisS666/Alien-Crypter | 0 | 0| 
 | 20230823T17:36:52Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7804 | 1820| 
 | 20230823T15:51:06Z | Something, From when I could relate to java noobs. Mix of trash. Crystals BackDoor. And a java version of a ransomewhare. | https://github.com/JacksonMt/Something- | 0 | 0| 
-| 20230823T13:32:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1999 | 434| 
 | 20230823T12:57:44Z | Web application for TSW exam | https://github.com/muser98/FantasyBackdoor | 0 | 0| 
-| 20230823T11:58:55Z | Backdoor Attacks on Peer to Peer Federated Learning | https://github.com/gokberkyar/BP2PFL | 0 | 0| 
-| 20230823T11:09:18Z | Null | https://github.com/Oguz-038/Backdoor | 0 | 0| 
-| 20230823T08:25:07Z | Develop a malware with listener that will be in the server and the backdoor be in the viticm computer | https://github.com/leandroManjate/BackDoorAndListener | 0 | 0| 
-| 20230823T07:23:17Z | A BackDoor For Bukkit. | https://github.com/lanshanzhu/BackDoor | 0 | 0| 
-| 20230823T05:36:35Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 41 | 4| 
+| 20230823T12:55:10Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 191 | 22| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T09:55:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 676 | 120| 
 | 20230823T11:57:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 95 | 2| 
-| 20230823T07:37:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 675 | 120| 
 | 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
 | 20230821T16:31:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 434 | 29| 
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 

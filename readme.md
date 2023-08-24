@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T11:57:31Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
+| 20230824T12:00:46Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T11:55:48Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T11:12:26Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T05:40:16Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
 | 20230824T11:38:57Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0013-app-UuDa6-comply-exploit | 0 | 0| 
 | 20230824T11:31:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9ea9abdf-bd4d-4cb5-bc63-586e63289090-miFJq-deliver-exploit | 0 | 0| 
 | 20230824T11:07:21Z | Web application to exploit SSRF/MitM Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
@@ -53,17 +54,22 @@
 | 20230824T10:33:02Z | About 🔥 Best Drainer on the market right now updates every week 🔥 Drains Native coin, NFT, Tokens. ⭐STABLE OPERATION IS GUARANTEED⭐ | https://github.com/dawsonwhiteck/Blur_Private_Exploit | 2 | 0| 
 | 20230824T10:22:48Z | Binary Exploitation Exercises | https://github.com/todeffd/tryhackme-pwn101 | 0 | 0| 
 | 20230824T05:40:16Z | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | 5 | 2| 
-| 20230824T03:38:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 52 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T10:05:26Z | Null | https://github.com/toccoflorian/backdoor | 0 | 0| 
+| 20230824T09:59:27Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 235 | 31| 
+| 20230824T05:10:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 2000 | 434| 
+| 20230824T02:48:16Z | Null | https://github.com/rebibabo/New-Backdoor | 0 | 0| 
+| 20230824T02:13:09Z | Null | https://github.com/SCLBD/BackdoorBench | 195 | 32| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T09:55:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 676 | 120| 
 
 
 # big4 on Github 推荐
