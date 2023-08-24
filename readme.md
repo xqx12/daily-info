@@ -16,6 +16,7 @@
 | 20230824 | 《国家网络安全战略实施计划》的分析与思考 | https://mp.weixin.qq.com/s/fRcNYr9KAyFRMeWVJUgZkA| 
 | 20230824 | VcenterKit: Vcenter综合渗透利用工具包 | https://github.com/W01fh4cker/VcenterKit| 
 | 20230824 | 北约网络安全防御演习：Locked Shields | https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw| 
+| 20230824 | GoIP 网关设备的电子数据取证探索 | https://mp.weixin.qq.com/s/92WwO2XXmkYgXzUJJAW7lg| 
 
 
 # CVE Github 推荐

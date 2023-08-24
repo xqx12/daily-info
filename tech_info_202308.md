@@ -16,11 +16,11 @@
 | 20230824 | 《国家网络安全战略实施计划》的分析与思考 | https://mp.weixin.qq.com/s/fRcNYr9KAyFRMeWVJUgZkA| 
 | 20230824 | VcenterKit: Vcenter综合渗透利用工具包 | https://github.com/W01fh4cker/VcenterKit| 
 | 20230824 | 北约网络安全防御演习：Locked Shields | https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw| 
+| 20230824 | GoIP 网关设备的电子数据取证探索 | https://mp.weixin.qq.com/s/92WwO2XXmkYgXzUJJAW7lg| 
 | 20230823 | 基于文本风格结构和多任务学习的跨暗网论坛用户识别 | https://mp.weixin.qq.com/s/mwtJh_25Yds0GMApAXW5kg| 
 | 20230822 | 四方支付平台（跑分平台）法律知识应用大全 | https://mp.weixin.qq.com/s/msvr5ZPmNd5b7eflGRUQ0A| 
 | 20230822 | 企业数据资源相关会计处理暂行规定 | http://kjs.mof.gov.cn/gongzuotongzhi/202212/P020221209412040514536.pdf| 
 | 20230821 | 记一次某部内存取证比赛writeup | https://www.sec-in.com/article/2016| 
-| 20230821 | Quartz XXE漏洞 CVE-2019-13990 | https://mp.weixin.qq.com/s/6TGw0gNjvcSoPnHIoDO0ag| 
 
 
 # CVE Github 推荐
