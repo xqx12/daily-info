@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T01:04:56Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/DPFL_Project | 5 | 0| 
 | 20230824T00:38:34Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230824T00:37:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-wpqt-W13h5-exploit-address | 0 | 0| 
 | 20230824T00:30:04Z | Null | https://github.com/TheVerseer/ExploitTest_A001 | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230823T23:39:57Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-eccebefb-ed3e-4d34-bea6-739e3b7ec633-Q464F-build-exploit | 0 | 0| 
 | 20230823T23:09:24Z | In instances of this nature, the user might present an appearance as if he or she has provided %consent% for the transfer. Yet, in truth, the user remained oblivious to the commencement of a malevolent software download. In a parallel manner, should an individual be perusing a website containing malicious content, said individual could fall prey to | https://github.com/benedixX0/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20230823T23:03:51Z | Navigating the intricate landscape of cybersecurity entails a multifaceted endeavor, wherein experts strive to orchestrate the surreptitious orchestration of their malicious code, thus eluding the vigilant gaze of antivirus defenses and achieving their nefarious objectives.  | https://github.com/benedixX0/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20230823T23:00:21Z | Journeying along the chronicle of vulnerability revelation, we unveil a tapestry woven in meticulous detail. A scrutiny, inching ever closer to the core of the Exploit JPG%s essence, exposes a web of malevolence—a tale where the ominous link intertwines with the very URL that orchestrates a symphony of download and execution. At the helm of this or | https://github.com/benedixX0/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | 0 | 0| 
 
 
 # backdoor on Github 推荐
