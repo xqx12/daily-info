@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T00:30:42Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230825T00:23:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f2f25467-66ff-4e09-8c66-e379b2c8e6ad-e_qw0-send-exploit | 0 | 0| 
 | 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
 | 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230824T13:01:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
 | 20230824T12:38:38Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0041-app-qjI_d-get-exploit | 0 | 0| 
 | 20230824T12:33:54Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0022-app-4daQv-qualify-exploit | 0 | 0| 
-| 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
 
 
 # backdoor on Github 推荐
