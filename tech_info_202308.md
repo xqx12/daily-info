@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
 | 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
 | 20230824T20:22:19Z | free website with private exploits and scripts for roblox | https://github.com/RobloxAdministrator/Roblox--Private-Exsploits-scripts | 0 | 0| 
 | 20230824T14:21:42Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
 | 20230824T11:38:57Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0013-app-UuDa6-comply-exploit | 0 | 0| 
 | 20230824T11:31:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9ea9abdf-bd4d-4cb5-bc63-586e63289090-miFJq-deliver-exploit | 0 | 0| 
-| 20230824T11:07:21Z | Web application to exploit SSRF/MitM Vulnerabilities.  | https://github.com/shruti-create/ssrf-vulnerability-lab | 0 | 0| 
 
 
 # backdoor on Github 推荐
