@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:32:09Z | Null | https://github.com/google/fuzztest | 387 | 28| 
 | 20230825T01:28:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3834 | 460| 
 | 20230825T01:09:36Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
 | 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
@@ -140,7 +141,6 @@
 | 20230824T22:40:53Z | Give cute critter, receive total fingerprint | https://github.com/HyperCrowd/fuzzyuwu | 0 | 0| 
 | 20230824T20:58:24Z | Null | https://github.com/PatrickRademacher/KMeansFuzzyCMeans | 0 | 0| 
 | 20230824T20:18:41Z | C++ fuzzy search | https://github.com/heftyy/fuzzy-search | 2 | 0| 
-| 20230824T12:57:05Z | Null | https://github.com/ViTKAQQ/fuzzy-adventure | 0 | 0| 
 
 
 
