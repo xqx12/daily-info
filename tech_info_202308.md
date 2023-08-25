@@ -86,8 +86,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T00:40:39Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 255 | 33| 
 | 20230825T00:31:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7805 | 1819| 
-| 20230825T00:31:36Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 254 | 33| 
 | 20230825T00:03:47Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-Deep-Neural-Network | 0 | 0| 
 | 20230824T23:59:51Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-DNN | 0 | 0| 
 | 20230824T21:31:01Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 192 | 22| 
