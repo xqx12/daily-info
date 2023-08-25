@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T00:30:42Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
+| 20230825T00:42:20Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230825T00:23:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f2f25467-66ff-4e09-8c66-e379b2c8e6ad-e_qw0-send-exploit | 0 | 0| 
 | 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
 | 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
@@ -86,7 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T00:40:39Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 255 | 33| 
+| 20230825T00:42:21Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 256 | 33| 
 | 20230825T00:31:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7805 | 1819| 
 | 20230825T00:03:47Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-Deep-Neural-Network | 0 | 0| 
 | 20230824T23:59:51Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-DNN | 0 | 0| 
