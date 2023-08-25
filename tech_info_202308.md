@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T00:07:02Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T00:25:53Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230824T20:42:55Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T00:21:39Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 8 | 0| 
 | 20230824T17:27:32Z | Config files for my GitHub profile. | https://github.com/Kleefyks/Kleefyks | 0 | 0| 
 | 20230824T07:18:55Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Astgene | 0 | 0| 
 | 20230824T06:58:44Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Bryophyta | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230821T08:29:39Z | Null | https://github.com/helsmy/dst_mod_klee | 0 | 0| 
 | 20230821T02:55:31Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
 | 20230820T10:37:41Z | Null | https://github.com/akhilgop/kleen | 0 | 0| 
-| 20230818T18:35:05Z | Kleenex pollenradar custom component integration for Home Assistant  | https://github.com/MarcoGos/kleenex_pollenradar | 1 | 1| 
 
 
 # s2e on Github 推荐
