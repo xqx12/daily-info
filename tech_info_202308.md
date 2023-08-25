@@ -75,12 +75,12 @@
 | 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
 | 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
 | 20230824T20:22:19Z | free website with private exploits and scripts for roblox | https://github.com/RobloxAdministrator/Roblox--Private-Exsploits-scripts | 0 | 0| 
+| 20230824T17:30:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5289 | 1035| 
 | 20230824T14:21:42Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
 | 20230824T13:01:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
 | 20230824T12:38:38Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0041-app-qjI_d-get-exploit | 0 | 0| 
 | 20230824T12:33:54Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0022-app-4daQv-qualify-exploit | 0 | 0| 
 | 20230824T12:01:36Z | A demonstration of a persistent Cross-Site Scripting (XSS) vulnerability. The code showcases how an attacker might exploit an insecure image tag to inject malicious JavaScript code into a web page. | https://github.com/tukru/Persistent-Cross-Site-Scripting | 0 | 0| 
-| 20230824T11:38:57Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0013-app-UuDa6-comply-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
