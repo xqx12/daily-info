@@ -26,14 +26,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T01:14:22Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:18:10Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:17:59Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230824T20:42:55Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T19:31:20Z | 未知编号 | Chromium Chronicles: Journeying through the annals of Chromium-based browsers, unearthing the chronicles of passwords, credit cards, cookies, history, autofill, bookmarks—a treasure trove that whispers secrets of digital live | https://github.com/RCSDARK/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
 | 20230824T18:13:58Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
 | 20230824T15:43:33Z | 未知编号 | This is to create ruby version to python of ruby exploit | https://github.com/0nyx-hkr/cve_2022_26904 | | 
-| 20230824T11:12:26Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T05:40:16Z | CVE-2023- | The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners | https://github.com/abrahim7112/hackers_CVE_2023_poc | | 
 | 20230824T02:00:24Z | CVE-2023-26256 | CVE-2023-26255_POC,CVE-2023-26256_POC | https://github.com/aodsec/CVE-2023-26256 | | 
 
