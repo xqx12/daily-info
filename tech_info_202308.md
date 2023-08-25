@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:04:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-lRRWH-create-exploit | 0 | 0| 
 | 20230825T01:02:15Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app--HwJU-exploit-rely | 0 | 0| 
 | 20230825T00:42:20Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230825T00:23:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f2f25467-66ff-4e09-8c66-e379b2c8e6ad-e_qw0-send-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230824T17:30:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5289 | 1035| 
 | 20230824T14:21:42Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
 | 20230824T13:01:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
-| 20230824T12:38:38Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0041-app-qjI_d-get-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
