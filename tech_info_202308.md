@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T01:18:10Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:26:15Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230825T01:17:59Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:28:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3834 | 460| 
 | 20230825T01:09:36Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
 | 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
 | 20230824T23:17:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1514 | 213| 
@@ -139,7 +140,6 @@
 | 20230824T22:40:53Z | Give cute critter, receive total fingerprint | https://github.com/HyperCrowd/fuzzyuwu | 0 | 0| 
 | 20230824T20:58:24Z | Null | https://github.com/PatrickRademacher/KMeansFuzzyCMeans | 0 | 0| 
 | 20230824T20:18:41Z | C++ fuzzy search | https://github.com/heftyy/fuzzy-search | 2 | 0| 
-| 20230824T15:03:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3833 | 460| 
 | 20230824T12:57:05Z | Null | https://github.com/ViTKAQQ/fuzzy-adventure | 0 | 0| 
 
 

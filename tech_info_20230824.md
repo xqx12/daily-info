@@ -102,10 +102,10 @@
 | 20230824T22:40:53Z | Give cute critter, receive total fingerprint | https://github.com/HyperCrowd/fuzzyuwu | 0 | 0| 
 | 20230824T20:58:24Z | Null | https://github.com/PatrickRademacher/KMeansFuzzyCMeans | 0 | 0| 
 | 20230824T20:18:41Z | C++ fuzzy search | https://github.com/heftyy/fuzzy-search | 2 | 0| 
-| 20230824T15:03:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3833 | 460| 
 | 20230824T12:57:05Z | Null | https://github.com/ViTKAQQ/fuzzy-adventure | 0 | 0| 
 | 20230824T12:08:12Z | Null | https://github.com/Apochens/function-aware-fuzzing | 1 | 0| 
 | 20230824T11:51:34Z | Null | https://github.com/omnifient/fuzzing-around | 0 | 0| 
+| 20230824T11:02:56Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5059 | 534| 
 
 
 
