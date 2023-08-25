@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T00:08:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8935 | 1972| 
+| 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
 | 20230824T23:17:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1514 | 213| 
 | 20230824T23:09:29Z | For my Java practice  | https://github.com/SanderSantana/fuzzy-system | 0 | 0| 
 | 20230824T22:54:20Z | AI-automated generation of invariants for smart contracts fuzz testing | https://github.com/WorkPod/FuzzPod | 0 | 0| 
