@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:34:48Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0015-app-ybg1K-cast-exploit | 0 | 0| 
+| 20230825T01:34:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b7e1b58c-9e7a-4efc-8798-237b9d225e51-Duu0J-gain-exploit | 0 | 0| 
+| 20230825T01:33:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0061-0058-app-X9y29-exploit-support | 0 | 0| 
 | 20230825T01:25:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0040-app-ZMrt4-regard-exploit | 0 | 0| 
 | 20230825T01:24:10Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0001-app-1NxLu-hide-exploit | 0 | 0| 
 | 20230825T01:08:12Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0030-app-FLed2-report-exploit | 0 | 0| 
@@ -78,9 +81,6 @@
 | 20230825T01:02:15Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app--HwJU-exploit-rely | 0 | 0| 
 | 20230825T00:42:20Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230825T00:23:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f2f25467-66ff-4e09-8c66-e379b2c8e6ad-e_qw0-send-exploit | 0 | 0| 
-| 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
-| 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
-| 20230824T20:22:19Z | free website with private exploits and scripts for roblox | https://github.com/RobloxAdministrator/Roblox--Private-Exsploits-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
