@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T01:09:29Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
+| 20230825T01:09:36Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
 | 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
 | 20230824T23:17:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1514 | 213| 
 | 20230824T23:09:29Z | For my Java practice  | https://github.com/SanderSantana/fuzzy-system | 0 | 0| 
