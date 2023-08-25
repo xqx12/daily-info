@@ -71,15 +71,14 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230824T23:59:51Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-DNN | 0 | 0| 
-| 20230824T23:21:13Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 252 | 33| 
 | 20230824T21:31:01Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 192 | 22| 
 | 20230824T18:56:28Z | EternalHush - new free open-source c2 framework | https://github.com/APT64/EternalHushFramework | 0 | 0| 
-| 20230824T18:52:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7804 | 1819| 
 | 20230824T14:59:44Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
 | 20230824T12:36:25Z | Config files for my GitHub profile. | https://github.com/backDoora/backDoora | 0 | 0| 
 | 20230824T10:05:26Z | Null | https://github.com/toccoflorian/backdoor | 0 | 0| 
 | 20230824T05:10:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 2000 | 434| 
 | 20230824T02:48:16Z | Null | https://github.com/rebibabo/New-Backdoor | 0 | 0| 
+| 20230824T02:13:09Z | Null | https://github.com/SCLBD/BackdoorBench | 195 | 32| 
 
 
 # symbolic execution on Github 推荐
