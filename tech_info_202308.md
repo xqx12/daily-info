@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T00:47:11Z | This is the source code for Data-free Backdoor.  Our paper is accepted by the 32nd USENIX Security Symposium (USENIX Security 2023). | https://github.com/lvpeizhuo/Data-free_Backdoor | 9 | 0| 
 | 20230825T00:42:21Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 256 | 33| 
 | 20230825T00:31:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7805 | 1819| 
 | 20230825T00:03:47Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-Deep-Neural-Network | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230824T14:59:44Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
 | 20230824T12:36:25Z | Config files for my GitHub profile. | https://github.com/backDoora/backDoora | 0 | 0| 
 | 20230824T10:05:26Z | Null | https://github.com/toccoflorian/backdoor | 0 | 0| 
-| 20230824T05:10:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 2000 | 434| 
 
 
 # symbolic execution on Github 推荐
