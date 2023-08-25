@@ -25,7 +25,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230824T23:54:29Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230824T20:42:55Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
@@ -93,6 +92,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230824T18:13:12Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 39 | 2| 
 
 
 # fuzz on Github 推荐
