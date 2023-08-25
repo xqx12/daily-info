@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:25:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0041-0040-app-ZMrt4-regard-exploit | 0 | 0| 
+| 20230825T01:24:10Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0001-app-1NxLu-hide-exploit | 0 | 0| 
 | 20230825T01:08:12Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0030-app-FLed2-report-exploit | 0 | 0| 
 | 20230825T01:04:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-lRRWH-create-exploit | 0 | 0| 
 | 20230825T01:02:15Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app--HwJU-exploit-rely | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230825T00:13:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0081-0060-app-9cWqP-exploit-name | 0 | 0| 
 | 20230824T21:55:47Z | At Lavicheats, our unwavering goal is to establish ourselves as a premier and dependable provider of gameplay cheats and hacks. | https://github.com/DarkAlix/Fortnite-ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
 | 20230824T20:22:19Z | free website with private exploits and scripts for roblox | https://github.com/RobloxAdministrator/Roblox--Private-Exsploits-scripts | 0 | 0| 
-| 20230824T17:30:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5289 | 1035| 
-| 20230824T14:21:42Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
