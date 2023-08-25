@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T01:26:15Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:31:32Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230825T01:17:59Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
