@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:08:12Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0030-app-FLed2-report-exploit | 0 | 0| 
 | 20230825T01:04:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-lRRWH-create-exploit | 0 | 0| 
 | 20230825T01:02:15Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app--HwJU-exploit-rely | 0 | 0| 
 | 20230825T00:42:20Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230824T20:22:19Z | free website with private exploits and scripts for roblox | https://github.com/RobloxAdministrator/Roblox--Private-Exsploits-scripts | 0 | 0| 
 | 20230824T17:30:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5289 | 1035| 
 | 20230824T14:21:42Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
-| 20230824T13:01:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
 
 
 # backdoor on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:09:29Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
 | 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
 | 20230824T23:17:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1514 | 213| 
 | 20230824T23:09:29Z | For my Java practice  | https://github.com/SanderSantana/fuzzy-system | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230824T20:18:41Z | C++ fuzzy search | https://github.com/heftyy/fuzzy-search | 2 | 0| 
 | 20230824T15:03:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3833 | 460| 
 | 20230824T12:57:05Z | Null | https://github.com/ViTKAQQ/fuzzy-adventure | 0 | 0| 
-| 20230824T12:08:12Z | Null | https://github.com/Apochens/function-aware-fuzzing | 1 | 0| 
 
 
 
