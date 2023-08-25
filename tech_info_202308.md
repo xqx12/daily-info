@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T01:31:32Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:49:49Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230825T01:47:14Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230825T01:17:59Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230824T22:54:25Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 | 20230824T22:50:58Z | 未知编号 | The question echoes—why peel back the layers of the Exploit JPG? The answer resonates with collective determination. These vulnerabilities extend beyond the purview of their originators, disseminating their influence amongst countless entities. As the web of access widens, so does the scope of the issue | https://github.com/RCSDARK/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230824T20:42:55Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230824T19:31:20Z | 未知编号 | Chromium Chronicles: Journeying through the annals of Chromium-based browsers, unearthing the chronicles of passwords, credit cards, cookies, history, autofill, bookmarks—a treasure trove that whispers secrets of digital live | https://github.com/RCSDARK/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:55:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5821 | 672| 
+| 20230825T01:50:39Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1a8b1292-9b20-432c-b67b-34ebbb037f39-M8FBD-exploit-follow | 0 | 0| 
 | 20230825T01:34:48Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0051-0015-app-ybg1K-cast-exploit | 0 | 0| 
 | 20230825T01:34:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b7e1b58c-9e7a-4efc-8798-237b9d225e51-Duu0J-gain-exploit | 0 | 0| 
 | 20230825T01:33:46Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0061-0058-app-X9y29-exploit-support | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230825T01:08:12Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0031-0030-app-FLed2-report-exploit | 0 | 0| 
 | 20230825T01:04:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-lRRWH-create-exploit | 0 | 0| 
 | 20230825T01:02:15Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app--HwJU-exploit-rely | 0 | 0| 
-| 20230825T00:42:20Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
-| 20230825T00:23:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f2f25467-66ff-4e09-8c66-e379b2c8e6ad-e_qw0-send-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -131,8 +131,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T01:46:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3835 | 460| 
 | 20230825T01:32:09Z | Null | https://github.com/google/fuzztest | 387 | 28| 
-| 20230825T01:28:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3834 | 460| 
 | 20230825T01:09:36Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 1 | 0| 
 | 20230825T00:16:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8936 | 1972| 
 | 20230824T23:17:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1514 | 213| 
