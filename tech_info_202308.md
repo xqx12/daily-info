@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230826T01:43:41Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
-| 20230826T01:30:40Z | CVE-2023-38831 | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230826T12:40:24Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230826T12:32:48Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
+| 20230826T12:32:44Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230826T11:25:35Z | cve-2023-2523 | Null | https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648 | | 
+| 20230826T10:03:06Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
+| 20230826T05:59:58Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
 | 20230826T00:13:05Z | CVE-2023-26256 | CVE-2023-26255_POC,CVE-2023-26256_POC | https://github.com/aodsec/CVE-2023-26256 | | 
 | 20230825T21:59:39Z | CVE-2023-26255 | Null | https://github.com/tucommenceapousser/CVE-2023-26255-Exp | | 
 | 20230825T20:00:43Z | CVE-2021-42013 | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution | https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT | | 
 | 20230825T19:48:39Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230825T16:44:55Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
-| 20230825T13:43:14Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
-| 20230825T13:35:32Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
-| 20230825T13:07:51Z | CVE-2023-2868 | Null | https://github.com/krmxd/CVE-2023-2868 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230826T01:54:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13569 | 418| 
-| 20230825T11:32:18Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
+| 20230826T12:29:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13579 | 418| 
+| 20230826T07:15:25Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
 | 20230825T09:45:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 352 | 7| 
 | 20230825T04:28:45Z | Null | https://github.com/doquocang/Klee_TheHealthBot | 0 | 0| 
 | 20230825T00:21:39Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 8 | 0| 
@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T10:58:13Z | A walkthrough of how a Kubernetes Pod can be exploited by a hacker | https://github.com/matt-bentley/KubernetesHackDemo | 1 | 0| 
+| 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
+| 20230826T05:49:59Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 1 | 0| 
 | 20230826T01:57:15Z | Advanced Software To Scan Webshells With The Best Features - For SEO Webshells/SEO Companies.  | https://github.com/codeb0ss/webshell_executor | 0 | 0| 
 | 20230826T01:25:24Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 | 20230826T01:09:36Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 14 | 6| 
@@ -78,14 +81,13 @@
 | 20230826T00:30:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230825T22:43:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14314 | 2438| 
 | 20230825T21:46:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5824 | 672| 
-| 20230825T20:00:43Z | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution | https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT | 0 | 0| 
-| 20230825T12:56:07Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 4 | 0| 
-| 20230825T12:30:34Z | Tool to list vulnerabilities that may be exploitable without access to the target (with shodan) | https://github.com/4equest/recon-sploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T10:45:50Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 813 | 141| 
+| 20230826T10:08:25Z | EternalHush - new free open-source c2 framework | https://github.com/APT64/EternalHushFramework | 0 | 0| 
 | 20230825T15:15:31Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 0 | 1| 
 | 20230825T12:36:07Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 272 | 34| 
 | 20230825T07:34:43Z | Backdoor AI is a new tool that is designed to help you academically. Learn more at https://backdoor.best | https://github.com/L4CTOSE/Backdoor-AI | 1 | 0| 
@@ -94,8 +96,6 @@
 | 20230825T00:03:47Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-Deep-Neural-Network | 0 | 0| 
 | 20230824T23:59:51Z | Watermarking Deep Neural Networks by Backdoor | https://github.com/HammamHraesha/Watermarking-DNN | 0 | 0| 
 | 20230824T21:31:01Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 192 | 22| 
-| 20230824T18:56:28Z | EternalHush - new free open-source c2 framework | https://github.com/APT64/EternalHushFramework | 0 | 0| 
-| 20230824T14:59:44Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T12:10:33Z | Null | https://github.com/OnTheLightMoon/Mamdani_fuzzy_inference_system | 0 | 0| 
+| 20230826T08:44:51Z | Null | https://github.com/pltcmyfpdfybt/FuzzyNumberCalc | 0 | 0| 
+| 20230826T08:33:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1520 | 213| 
+| 20230826T08:21:38Z | 1 | https://github.com/lizhongkai262408/fuzzy-spork | 0 | 0| 
+| 20230826T04:52:30Z | Woke fuzz tests for codehawks beedle contest.   | https://github.com/khegeman/fuzz-beedle | 6 | 0| 
 | 20230826T01:03:16Z | really cool website | https://github.com/Fuzzyzilla/Fuzzyzilla.github.io | 0 | 0| 
 | 20230826T00:45:14Z | Null | https://github.com/erdal1667/fuzzy-eureka | 0 | 0| 
 | 20230825T23:51:52Z | Null | https://github.com/DanielEbert/fuzzerDashboard | 0 | 0| 
 | 20230825T21:36:59Z | Astro, Vercel, Vite, here we go | https://github.com/Jade-ux/fuzzy-umbrella | 0 | 0| 
 | 20230825T21:28:31Z | For my Java practice  | https://github.com/SanderSantana/fuzzy-system | 0 | 0| 
-| 20230825T15:07:15Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3837 | 460| 
-| 20230825T11:41:50Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 301 | 45| 
-| 20230825T11:41:26Z | Null | https://github.com/taneyasoni/Fuzzing-and-Sybolic-exectution | 0 | 0| 
-| 20230825T11:20:40Z | Null | https://github.com/TCMP06/fuzzy-carnival | 0 | 0| 
-| 20230825T11:20:34Z | Fuzzer for Rally the Troops! | https://github.com/MischaU8/rtt-fuzzer | 0 | 0| 
 
 
 
