@@ -101,6 +101,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T11:23:20Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 55 | 9| 
 | 20230825T05:21:29Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
 | 20230824T18:23:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 40 | 7| 
 | 20230824T09:55:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 676 | 120| 
@@ -110,15 +111,14 @@
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 | 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 
-| 20230815T06:26:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T02:12:15Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 38 | 2| 
 | 20230825T19:43:55Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 0 | 0| 
 | 20230825T08:34:21Z | Null | https://github.com/MetadataGitTesting/nDss9ium | 0 | 0| 
-| 20230824T18:13:12Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 39 | 2| 
 | 20230822T08:59:20Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 65 | 3| 
 | 20230818T19:31:30Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230817T12:50:41Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 13 | 1| 

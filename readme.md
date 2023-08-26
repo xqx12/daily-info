@@ -60,11 +60,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T11:23:20Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 55 | 9| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T02:12:15Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 38 | 2| 
 
 
 # fuzz on Github 推荐
