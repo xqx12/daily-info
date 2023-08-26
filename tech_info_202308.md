@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T01:03:16Z | really cool website | https://github.com/Fuzzyzilla/Fuzzyzilla.github.io | 0 | 0| 
 | 20230826T00:45:14Z | Null | https://github.com/erdal1667/fuzzy-eureka | 0 | 0| 
 | 20230825T23:51:52Z | Null | https://github.com/DanielEbert/fuzzerDashboard | 0 | 0| 
 | 20230825T21:36:59Z | Astro, Vercel, Vite, here we go | https://github.com/Jade-ux/fuzzy-umbrella | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230825T11:41:26Z | Null | https://github.com/taneyasoni/Fuzzing-and-Sybolic-exectution | 0 | 0| 
 | 20230825T11:20:40Z | Null | https://github.com/TCMP06/fuzzy-carnival | 0 | 0| 
 | 20230825T11:20:34Z | Fuzzer for Rally the Troops! | https://github.com/MischaU8/rtt-fuzzer | 0 | 0| 
-| 20230825T11:07:21Z | Null | https://github.com/hhhhh1245/fuzzy-carnival | 0 | 0| 
 
 
 
