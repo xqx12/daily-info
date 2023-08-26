@@ -16,22 +16,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230825T22:34:02Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230825T21:59:39Z | CVE-2023-26255 | Null | https://github.com/tucommenceapousser/CVE-2023-26255-Exp | | 
 | 20230825T20:00:43Z | CVE-2021-42013 | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution | https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT | | 
 | 20230825T19:48:39Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230825T16:44:55Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
-| 20230825T16:19:49Z | CVE-2023-38831 | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230825T13:43:14Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230825T13:35:32Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
 | 20230825T13:07:51Z | CVE-2023-2868 | Null | https://github.com/krmxd/CVE-2023-2868 | | 
 | 20230825T13:03:00Z | CVE-2021-29003 | Null | https://github.com/jaysharma786/CVE-2021-29003 | | 
 | 20230825T12:33:11Z | CVE-2023-3519 | RCE exploit for CVE-2023-3519 | https://github.com/BishopFox/CVE-2023-3519 | | 
+| 20230825T10:24:06Z | CVE-2023-36874 | Null | https://github.com/Wh04m1001/CVE-2023-36874 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T23:14:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13568 | 417| 
 | 20230825T11:32:18Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
 | 20230825T09:45:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 352 | 7| 
 | 20230825T04:28:45Z | Null | https://github.com/doquocang/Klee_TheHealthBot | 0 | 0| 

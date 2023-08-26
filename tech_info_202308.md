@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230826T01:43:41Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
+| 20230826T01:30:40Z | CVE-2023-38831 | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T00:13:05Z | CVE-2023-26256 | CVE-2023-26255_POC,CVE-2023-26256_POC | https://github.com/aodsec/CVE-2023-26256 | | 
-| 20230825T22:34:02Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230825T21:59:39Z | CVE-2023-26255 | Null | https://github.com/tucommenceapousser/CVE-2023-26255-Exp | | 
 | 20230825T20:00:43Z | CVE-2021-42013 | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution | https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT | | 
 | 20230825T19:48:39Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
 | 20230825T16:44:55Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
-| 20230825T16:19:49Z | CVE-2023-38831 | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230825T13:43:14Z | CVE-2023-38035 | Ivanti Sentry CVE-2023-38035 | https://github.com/horizon3ai/CVE-2023-38035 | | 
 | 20230825T13:35:32Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
 | 20230825T13:07:51Z | CVE-2023-2868 | Null | https://github.com/krmxd/CVE-2023-2868 | | 
-| 20230825T13:03:00Z | CVE-2021-29003 | Null | https://github.com/jaysharma786/CVE-2021-29003 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230825T23:14:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13568 | 417| 
+| 20230826T01:54:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13569 | 418| 
 | 20230825T11:32:18Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
 | 20230825T09:45:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 352 | 7| 
 | 20230825T04:28:45Z | Null | https://github.com/doquocang/Klee_TheHealthBot | 0 | 0| 
@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T01:57:15Z | Advanced Software To Scan Webshells With The Best Features - For SEO Webshells/SEO Companies.  | https://github.com/codeb0ss/webshell_executor | 0 | 0| 
+| 20230826T01:25:24Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 | 20230826T01:09:36Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 14 | 6| 
 | 20230826T00:55:57Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
-| 20230826T00:42:07Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 | 20230826T00:30:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230825T22:43:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14314 | 2438| 
 | 20230825T21:46:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5824 | 672| 
 | 20230825T20:00:43Z | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution | https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT | 0 | 0| 
 | 20230825T12:56:07Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 4 | 0| 
 | 20230825T12:30:34Z | Tool to list vulnerabilities that may be exploitable without access to the target (with shodan) | https://github.com/4equest/recon-sploit | 0 | 0| 
-| 20230825T12:23:19Z | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | 4 | 1| 
 
 
 # backdoor on Github 推荐
