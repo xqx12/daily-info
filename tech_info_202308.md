@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T00:52:42Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230826T00:42:07Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 | 20230826T00:30:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230825T22:43:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14314 | 2438| 
@@ -80,7 +81,6 @@
 | 20230825T12:30:34Z | Tool to list vulnerabilities that may be exploitable without access to the target (with shodan) | https://github.com/4equest/recon-sploit | 0 | 0| 
 | 20230825T12:23:19Z | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | 4 | 1| 
 | 20230825T11:36:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5279 | 669| 
-| 20230825T09:47:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-we12v-tackle-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
