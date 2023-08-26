@@ -16,11 +16,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230826T12:57:45Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230826T12:40:24Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230826T12:32:48Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
 | 20230826T12:32:44Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T11:25:35Z | cve-2023-2523 | Null | https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648 | | 
-| 20230826T10:03:06Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230826T05:59:58Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
 | 20230826T00:13:05Z | CVE-2023-26256 | CVE-2023-26255_POC,CVE-2023-26256_POC | https://github.com/aodsec/CVE-2023-26256 | | 
 
