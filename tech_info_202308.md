@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230826T01:09:36Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 14 | 6| 
 | 20230826T00:55:57Z | This repo is a security research tool aiming to showcase potential vulnerabilities in Windows. Developed in Javascript (Node.js) and Python, it underscores the need for strong security by demonstrating potential exploitation risks if not properly addressed. | https://github.com/cyber-gin/Pynode-rat | 0 | 0| 
 | 20230826T00:42:07Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 | 20230826T00:30:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
@@ -80,7 +81,6 @@
 | 20230825T12:56:07Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/iCalObsidianSync | 4 | 0| 
 | 20230825T12:30:34Z | Tool to list vulnerabilities that may be exploitable without access to the target (with shodan) | https://github.com/4equest/recon-sploit | 0 | 0| 
 | 20230825T12:23:19Z | Null | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | 4 | 1| 
-| 20230825T11:36:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5279 | 669| 
 
 
 # backdoor on Github 推荐
