@@ -101,6 +101,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230825T05:21:29Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
 | 20230824T18:23:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 40 | 7| 
 | 20230824T09:55:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 676 | 120| 
 | 20230823T11:57:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 95 | 2| 
@@ -110,7 +111,6 @@
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 | 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 
 | 20230815T06:26:10Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
-| 20230813T22:40:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 1133 | 130| 
 
 
 # big4 on Github 推荐
