@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:48:08Z | Fuzzy search algorithm using symbol of similarity table | https://github.com/makstsar17/diplom_work_fuzzy_search | 0 | 0| 
 | 20230827T11:40:17Z | Null | https://github.com/Rajatchaurasiy/fuzzy-happiness | 0 | 0| 
 | 20230827T10:26:38Z | Fuzzy logic controller designed with SKFuzzy | https://github.com/cnapole/AirConditionerFuzzyLogic | 0 | 0| 
 | 20230827T07:58:36Z | Null | https://github.com/aman87086/fuzzy-barnacle | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230826T22:44:56Z | Null | https://github.com/DanielEbert/fuzz_fix | 0 | 0| 
 | 20230826T22:01:33Z | Controlling an Inverted Pendulum using Fuzzy Logic , Computational Intelligence Course 2nd Project - Amirkabir Univ. of Tech., Fall %21 | https://github.com/da-nial/Fuzzy-Inverted-Pendulum | 0 | 0| 
 | 20230826T17:48:02Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 93 | 11| 
-| 20230826T17:12:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8938 | 1972| 
 
 
 
