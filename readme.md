@@ -52,7 +52,7 @@
 | 20230826T16:21:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 715 | 179| 
 | 20230826T10:58:13Z | A walkthrough of how a Kubernetes Pod can be exploited by a hacker | https://github.com/matt-bentley/KubernetesHackDemo | 1 | 0| 
 | 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
-| 20230826T05:59:58Z | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | 0 | 1| 
+| 20230826T08:33:11Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 219 | 13| 
 
 
 # backdoor on Github 推荐
