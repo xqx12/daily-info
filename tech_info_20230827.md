@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:43:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230827T11:51:17Z | Null | https://github.com/ch3tanays/exploit-zeroday-course-udemy | 0 | 0| 
 | 20230827T11:14:49Z | Null | https://github.com/Parth-Badgujar/Android-Exploit | 0 | 0| 
 | 20230827T11:13:31Z | Simple 0day today exploits search engine | https://github.com/validverify/0day.searcher | 0 | 0| 
@@ -51,12 +52,12 @@
 | 20230827T02:21:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
 | 20230827T01:55:43Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0036-app-eB8R4-advise-exploit | 0 | 0| 
 | 20230827T01:55:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0029-app-iNmFR-look-exploit | 0 | 0| 
-| 20230827T01:42:45Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0061-0009-app-NlTrs-ensure-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:41:04Z | Null | https://github.com/hello12324/Paper-Bukkit-WelcomeTitle-Backdoor- | 1 | 0| 
 | 20230827T12:35:43Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-thailand | 0 | 0| 
 | 20230827T12:31:38Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-gacor | 0 | 0| 
 | 20230827T05:11:48Z | A backdoor V9 | https://github.com/A2tus/Zxvle.exe | 0 | 0| 
