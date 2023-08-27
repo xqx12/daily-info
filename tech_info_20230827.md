@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:28:53Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230827T12:26:51Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
-| 20230827T12:20:24Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230827T11:55:20Z | CVE-2023-24489 | POC for CVE-2023-24489 with bash.  | https://github.com/whalebone7/CVE-2023-24489-poc | | 
 | 20230827T11:09:25Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
 | 20230827T11:09:13Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
@@ -57,6 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:27:39Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-gacor | 0 | 0| 
 | 20230827T05:11:48Z | A backdoor V9 | https://github.com/A2tus/Zxvle.exe | 0 | 0| 
 | 20230827T02:45:22Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
 | 20230827T02:28:23Z | Null | https://github.com/rebibabo/Backdoor | 0 | 0| 
