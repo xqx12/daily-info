@@ -73,6 +73,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230826T23:18:38Z | Null | https://github.com/Muhammd/exploit-notes | 0 | 0| 
 | 20230826T20:42:15Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
+| 20230826T18:49:57Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 2 | 0| 
 | 20230826T18:47:59Z | This Repo includes scripts to build a demo Active Directory Domain Controller with pre-built users, groups with the intention to automatically create random vulnerabilities that can be exploited for training purposes  | https://github.com/deannreid/Active-Directory-Test-Bench-Tools | 0 | 0| 
 | 20230826T16:25:22Z | A roblox exploit only for MacOS (Ventura and Sonoma supported) | https://github.com/Zard-Studios/MacSploit | 0 | 0| 
 | 20230826T16:21:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 715 | 179| 
@@ -80,7 +81,6 @@
 | 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
 | 20230826T05:49:59Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 1 | 0| 
 | 20230826T01:57:15Z | Advanced Software To Scan Webshells With The Best Features - For SEO Webshells/SEO Companies.  | https://github.com/codeb0ss/webshell_executor | 0 | 0| 
-| 20230826T01:25:24Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -107,7 +107,7 @@
 | 20230824T09:55:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 676 | 120| 
 | 20230823T11:57:32Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 95 | 2| 
 | 20230822T18:07:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
-| 20230821T16:31:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 434 | 29| 
+| 20230821T16:31:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 434 | 30| 
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 | 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 

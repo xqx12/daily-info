@@ -45,6 +45,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230826T23:18:38Z | Null | https://github.com/Muhammd/exploit-notes | 0 | 0| 
 | 20230826T20:42:15Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
+| 20230826T18:49:57Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 2 | 0| 
 | 20230826T18:47:59Z | This Repo includes scripts to build a demo Active Directory Domain Controller with pre-built users, groups with the intention to automatically create random vulnerabilities that can be exploited for training purposes  | https://github.com/deannreid/Active-Directory-Test-Bench-Tools | 0 | 0| 
 | 20230826T16:25:22Z | A roblox exploit only for MacOS (Ventura and Sonoma supported) | https://github.com/Zard-Studios/MacSploit | 0 | 0| 
 | 20230826T16:21:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 715 | 179| 
@@ -52,7 +53,6 @@
 | 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
 | 20230826T05:49:59Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 1 | 0| 
 | 20230826T01:57:15Z | Advanced Software To Scan Webshells With The Best Features - For SEO Webshells/SEO Companies.  | https://github.com/codeb0ss/webshell_executor | 0 | 0| 
-| 20230826T01:25:24Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 0 | 0| 
 
 
 # backdoor on Github 推荐
