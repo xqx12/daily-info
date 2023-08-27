@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:35:43Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-thailand | 0 | 0| 
 | 20230827T12:31:38Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-gacor | 0 | 0| 
 | 20230827T05:11:48Z | A backdoor V9 | https://github.com/A2tus/Zxvle.exe | 0 | 0| 
 | 20230827T02:45:22Z | Null | https://github.com/MPaloze/Specificity-Backdoor-Attack | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20230826T13:37:38Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 814 | 141| 
 | 20230826T13:07:32Z | Here i have created a backdoor using reverse TCP connection. Using pyhton Language | https://github.com/Utkarsh01245/pyhton | 0 | 0| 
 | 20230825T15:15:31Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 0 | 1| 
-| 20230825T12:36:07Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 272 | 34| 
 
 
 # symbolic execution on Github 推荐
