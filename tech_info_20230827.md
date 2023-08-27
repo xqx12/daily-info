@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T12:46:55Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230827T12:43:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230827T11:51:17Z | Null | https://github.com/ch3tanays/exploit-zeroday-course-udemy | 0 | 0| 
 | 20230827T11:14:49Z | Null | https://github.com/Parth-Badgujar/Android-Exploit | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230827T04:46:20Z | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | 1 | 0| 
 | 20230827T02:21:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
 | 20230827T01:55:43Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0036-app-eB8R4-advise-exploit | 0 | 0| 
-| 20230827T01:55:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0029-app-iNmFR-look-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
