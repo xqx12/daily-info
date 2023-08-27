@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T00:13:52Z | to use a bookmarklet  | https://github.com/theschoolexploit1/school-exploits | 0 | 0| 
 | 20230826T23:18:38Z | Null | https://github.com/Muhammd/exploit-notes | 0 | 0| 
 | 20230826T20:42:15Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
 | 20230826T18:49:57Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 2 | 0| 
@@ -80,7 +81,6 @@
 | 20230826T10:58:13Z | A walkthrough of how a Kubernetes Pod can be exploited by a hacker | https://github.com/matt-bentley/KubernetesHackDemo | 1 | 0| 
 | 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
 | 20230826T05:49:59Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 1 | 0| 
-| 20230826T01:57:15Z | Advanced Software To Scan Webshells With The Best Features - For SEO Webshells/SEO Companies.  | https://github.com/codeb0ss/webshell_executor | 0 | 0| 
 
 
 # backdoor on Github 推荐
