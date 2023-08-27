@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230827T12:28:53Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230827T12:38:55Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230827T12:26:51Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230827T11:55:20Z | CVE-2023-24489 | POC for CVE-2023-24489 with bash.  | https://github.com/whalebone7/CVE-2023-24489-poc | | 
 | 20230827T11:09:25Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
