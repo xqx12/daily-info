@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T01:55:43Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0036-app-eB8R4-advise-exploit | 0 | 0| 
+| 20230827T01:55:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0071-0029-app-iNmFR-look-exploit | 0 | 0| 
 | 20230827T01:42:45Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0061-0009-app-NlTrs-ensure-exploit | 0 | 0| 
 | 20230827T01:23:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0026-app-bgdzI-prepare-exploit | 0 | 0| 
 | 20230827T01:08:19Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0021-0019-app-uCDut-possess-exploit | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230826T20:42:15Z | Null | https://github.com/KingKrex71/Boatnet-Exploits | 0 | 0| 
 | 20230826T18:49:57Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 2 | 0| 
 | 20230826T18:47:59Z | This Repo includes scripts to build a demo Active Directory Domain Controller with pre-built users, groups with the intention to automatically create random vulnerabilities that can be exploited for training purposes  | https://github.com/deannreid/Active-Directory-Test-Bench-Tools | 0 | 0| 
-| 20230826T16:25:22Z | A roblox exploit only for MacOS (Ventura and Sonoma supported) | https://github.com/Zard-Studios/MacSploit | 0 | 0| 
-| 20230826T16:21:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5293 | 1035| 
 
 
 # backdoor on Github 推荐
