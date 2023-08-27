@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T01:23:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0026-app-bgdzI-prepare-exploit | 0 | 0| 
 | 20230827T01:08:19Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0021-0019-app-uCDut-possess-exploit | 0 | 0| 
 | 20230827T00:13:52Z | to use a bookmarklet  | https://github.com/theschoolexploit1/school-exploits | 0 | 0| 
 | 20230826T23:18:38Z | Null | https://github.com/Muhammd/exploit-notes | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230826T16:25:22Z | A roblox exploit only for MacOS (Ventura and Sonoma supported) | https://github.com/Zard-Studios/MacSploit | 0 | 0| 
 | 20230826T16:21:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5293 | 1035| 
 | 20230826T16:21:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 715 | 179| 
-| 20230826T10:58:13Z | A walkthrough of how a Kubernetes Pod can be exploited by a hacker | https://github.com/matt-bentley/KubernetesHackDemo | 1 | 0| 
 
 
 # backdoor on Github 推荐
