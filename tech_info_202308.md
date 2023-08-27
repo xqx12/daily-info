@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230827T01:41:09Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230827T01:33:41Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230827T00:42:53Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
 | 20230827T00:25:36Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T22:38:35Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
 | 20230826T21:01:15Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
-| 20230826T18:08:36Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230826T17:01:26Z | CVE-2023-39063 | POC of the CVE-2023-39063 | https://github.com/AndreGNogueira/CVE-2023-39063 | | 
 | 20230826T15:33:45Z | cve-2023-2523 | Null | https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648 | | 
 | 20230826T15:33:28Z | CVE-2023-28432 | CVE-2023-28432检测工具 | https://github.com/bingtangbanli/CVE-2023-28432 | | 
