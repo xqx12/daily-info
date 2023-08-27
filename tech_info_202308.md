@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230827T00:25:36Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T22:38:35Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
-| 20230826T21:54:51Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T21:38:04Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 | 20230826T21:01:15Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
 | 20230826T18:08:36Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
@@ -77,10 +77,10 @@
 | 20230826T18:49:57Z | A dll injection exploit to privilege escalate. | https://github.com/0strings0/Tr0113d | 2 | 0| 
 | 20230826T18:47:59Z | This Repo includes scripts to build a demo Active Directory Domain Controller with pre-built users, groups with the intention to automatically create random vulnerabilities that can be exploited for training purposes  | https://github.com/deannreid/Active-Directory-Test-Bench-Tools | 0 | 0| 
 | 20230826T16:25:22Z | A roblox exploit only for MacOS (Ventura and Sonoma supported) | https://github.com/Zard-Studios/MacSploit | 0 | 0| 
+| 20230826T16:21:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5293 | 1035| 
 | 20230826T16:21:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 715 | 179| 
 | 20230826T10:58:13Z | A walkthrough of how a Kubernetes Pod can be exploited by a hacker | https://github.com/matt-bentley/KubernetesHackDemo | 1 | 0| 
 | 20230826T08:49:32Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 7 | 0| 
-| 20230826T05:49:59Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Lee2023home/Roblox-Exploit-API | 1 | 0| 
 
 
 # backdoor on Github 推荐
