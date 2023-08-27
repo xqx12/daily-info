@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230827T00:30:16Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
+| 20230827T00:40:13Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
 | 20230827T00:25:36Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230826T22:38:35Z | CVE-2023-38831 | lazy way to create CVE-2023-38831 winrar file for testing | https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc | | 
 | 20230826T21:38:04Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
@@ -134,13 +134,13 @@
 | 20230826T22:44:56Z | Null | https://github.com/DanielEbert/fuzz_fix | 0 | 0| 
 | 20230826T22:01:33Z | Controlling an Inverted Pendulum using Fuzzy Logic , Computational Intelligence Course 2nd Project - Amirkabir Univ. of Tech., Fall %21 | https://github.com/da-nial/Fuzzy-Inverted-Pendulum | 0 | 0| 
 | 20230826T18:47:36Z | Fuzzy logic controller designed with SKFuzzy | https://github.com/cnapole/AirConditionerFuzzyLogic | 0 | 0| 
+| 20230826T17:48:02Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 93 | 11| 
 | 20230826T17:12:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8938 | 1972| 
 | 20230826T16:22:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3837 | 460| 
 | 20230826T16:09:04Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 373 | 13| 
 | 20230826T12:10:33Z | Null | https://github.com/OnTheLightMoon/Mamdani_fuzzy_inference_system | 0 | 0| 
 | 20230826T08:44:51Z | Null | https://github.com/pltcmyfpdfybt/FuzzyNumberCalc | 0 | 0| 
 | 20230826T08:33:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1520 | 213| 
-| 20230826T08:21:38Z | 1 | https://github.com/lizhongkai262408/fuzzy-spork | 0 | 0| 
 
 
 
