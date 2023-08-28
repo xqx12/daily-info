@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:06:03Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230828T11:48:25Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T09:26:37Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
-| 20230828T09:13:52Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230828T09:01:02Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230828T08:18:51Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
 | 20230828T08:06:21Z | CVE-2023-38831 | Null | https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT | | 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:06:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-2-50-42729-0066-app-0afTf-appear-exploit | 0 | 0| 
 | 20230828T11:49:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0025-app-8PGWU-exploit-own | 0 | 0| 
 | 20230828T11:46:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0048-app-2Duq7-remember-exploit | 0 | 0| 
 | 20230828T11:41:52Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 56 | 15| 
@@ -80,7 +81,6 @@
 | 20230828T08:12:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 56 | 10| 
 | 20230828T07:57:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
 | 20230828T02:23:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5470 | 757| 
-| 20230828T01:33:49Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0025-app-va5vX-plan-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
