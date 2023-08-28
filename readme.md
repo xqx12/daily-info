@@ -68,8 +68,8 @@
 | 20230827T14:57:48Z | Remove All Backdoors | https://github.com/enterrements/Remove | 0 | 0| 
 | 20230827T14:23:38Z | simple backdoor  | https://github.com/dyclrvss/backdoor | 0 | 0| 
 | 20230827T13:54:08Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-thailand | 0 | 0| 
+| 20230827T13:30:13Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 6 | 2| 
 | 20230827T12:41:04Z | Null | https://github.com/hello12324/Paper-Bukkit-WelcomeTitle-Backdoor- | 1 | 0| 
-| 20230827T12:31:38Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-gacor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

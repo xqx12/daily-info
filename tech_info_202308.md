@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230828T00:34:18Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230828T00:36:55Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230827T22:26:06Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230827T17:07:41Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230827T17:06:53Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
@@ -94,8 +94,8 @@
 | 20230827T14:57:48Z | Remove All Backdoors | https://github.com/enterrements/Remove | 0 | 0| 
 | 20230827T14:23:38Z | simple backdoor  | https://github.com/dyclrvss/backdoor | 0 | 0| 
 | 20230827T13:54:08Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-thailand | 0 | 0| 
+| 20230827T13:30:13Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 6 | 2| 
 | 20230827T12:41:04Z | Null | https://github.com/hello12324/Paper-Bukkit-WelcomeTitle-Backdoor- | 1 | 0| 
-| 20230827T12:31:38Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-gacor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
