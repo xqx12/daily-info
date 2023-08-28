@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230827T23:40:55Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14329 | 2442| 
 | 20230827T22:26:06Z | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | 0 | 0| 
 | 20230827T22:07:19Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 103 | 12| 
 | 20230827T19:28:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
@@ -55,6 +54,7 @@
 | 20230827T12:50:12Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230827T12:43:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230827T11:51:17Z | Null | https://github.com/ch3tanays/exploit-zeroday-course-udemy | 0 | 0| 
+| 20230827T11:14:49Z | Null | https://github.com/Parth-Badgujar/Android-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230827T22:34:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 677 | 120| 
+| 20230827T18:15:06Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 96 | 2| 
 
 
 # big4 on Github 推荐
