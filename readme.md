@@ -51,10 +51,10 @@
 | 20230827T19:04:45Z | Null | https://github.com/PotatoTheBlank/exploit | 0 | 0| 
 | 20230827T17:30:01Z | CVE-2017-7921 exploit. Allows admin password retrieval and automatic snapshot download. | https://github.com/fracergu/CVE-2017-7921 | 0 | 0| 
 | 20230827T16:26:56Z | Projects Nano X | https://github.com/ALPERALL/Nano-X-Multi-exploit | 0 | 0| 
+| 20230827T14:21:04Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/cspi-git/ZeroDiscord | 206 | 66| 
 | 20230827T12:50:12Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20230827T12:43:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 | 20230827T11:51:17Z | Null | https://github.com/ch3tanays/exploit-zeroday-course-udemy | 0 | 0| 
-| 20230827T11:14:49Z | Null | https://github.com/Parth-Badgujar/Android-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,7 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230827T08:35:04Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 66 | 3| 
+| 20230827T08:35:04Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 66 | 4| 
 | 20230827T05:26:35Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 0 | 1| 
 
 
