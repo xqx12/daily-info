@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:24:54Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T12:13:20Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
 | 20230828T12:06:03Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
-| 20230828T11:48:25Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T09:26:37Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
 | 20230828T09:01:02Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230828T08:06:21Z | CVE-2023-38831 | Null | https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT | | 
