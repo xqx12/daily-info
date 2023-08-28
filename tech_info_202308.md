@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T01:17:02Z | Null | https://github.com/1Franciscoluna1/Cerradura_Kleene | 0 | 0| 
 | 20230827T18:16:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13601 | 418| 
 | 20230827T13:18:29Z | Null | https://github.com/dinodtharinda/kleen-laundromat | 0 | 0| 
 | 20230827T09:49:44Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230824T17:27:32Z | Config files for my GitHub profile. | https://github.com/Kleefyks/Kleefyks | 0 | 0| 
 | 20230824T07:18:55Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Astgene | 0 | 0| 
 | 20230824T06:58:44Z | An open-source font derived from Fontworks% Klee One, suitable for texts. | https://github.com/Des-Magmeta/Bryophyta | 0 | 0| 
-| 20230824T00:37:03Z | Versions of some Japanese fonts such as IBM Plex Sans JP and Klee One rotated -90 degrees to give the illusion of vertical text. | https://github.com/Bluemoondragon07/Rotated-Japanese-Fonts | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T01:16:20Z | Learning about Go fuzzing for testing | https://github.com/ong-ops/go-tutorial-5_fuzzing | 0 | 0| 
 | 20230828T00:36:16Z | Levenshtein Distance Matcher | https://github.com/dvonpasecky/fuzzy-matcher | 1 | 0| 
 | 20230827T23:43:28Z | lightweight app runner based on GTK | https://github.com/netindev/fuzzy | 0 | 0| 
 | 20230827T21:10:43Z | Null | https://github.com/TooLaidBack/LazyFuzz | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230827T12:48:08Z | Fuzzy search algorithm using symbol of similarity table | https://github.com/makstsar17/diplom_work_fuzzy_search | 0 | 0| 
 | 20230827T11:40:17Z | Null | https://github.com/Rajatchaurasiy/fuzzy-happiness | 0 | 0| 
 | 20230827T10:26:38Z | Fuzzy logic controller designed with SKFuzzy | https://github.com/cnapole/AirConditionerFuzzyLogic | 0 | 0| 
-| 20230827T07:58:36Z | Null | https://github.com/aman87086/fuzzy-barnacle | 0 | 0| 
 
 
 
