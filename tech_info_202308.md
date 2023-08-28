@@ -79,8 +79,8 @@
 | 20230827T17:30:01Z | CVE-2017-7921 exploit. Allows admin password retrieval and automatic snapshot download. | https://github.com/fracergu/CVE-2017-7921 | 0 | 0| 
 | 20230827T16:26:56Z | Projects Nano X | https://github.com/ALPERALL/Nano-X-Multi-exploit | 0 | 0| 
 | 20230827T14:21:04Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/cspi-git/ZeroDiscord | 206 | 66| 
+| 20230827T13:11:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5295 | 1035| 
 | 20230827T12:50:12Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
-| 20230827T12:43:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 
 
 # backdoor on Github 推荐
@@ -131,10 +131,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T00:36:16Z | Levenshtein Distance Matcher | https://github.com/dvonpasecky/fuzzy-matcher | 1 | 0| 
 | 20230827T23:43:28Z | lightweight app runner based on GTK | https://github.com/netindev/fuzzy | 0 | 0| 
 | 20230827T21:10:43Z | Null | https://github.com/TooLaidBack/LazyFuzz | 0 | 0| 
 | 20230827T21:10:18Z | Null | https://github.com/Connor-Kelly/WindowsFuzzyFinder | 0 | 0| 
-| 20230827T20:58:15Z | Levenshtein Distance Matcher | https://github.com/dvonpasecky/fuzzy-matcher | 0 | 0| 
 | 20230827T20:42:08Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1525 | 213| 
 | 20230827T19:18:43Z | Compare the two control methods by using the waijung block set in Matlab Simulink environment to control the PID and fuzzy logic of a DC motor | https://github.com/UfukErdem/PID-vs-Fuzzy-Logic | 0 | 0| 
 | 20230827T12:48:08Z | Fuzzy search algorithm using symbol of similarity table | https://github.com/makstsar17/diplom_work_fuzzy_search | 0 | 0| 
