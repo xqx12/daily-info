@@ -20,9 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:45:05Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T12:41:39Z | CVE-2023-2317 | Null | https://github.com/spwpun/CVE-2023-2317-poc | | 
 | 20230828T12:28:57Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436 | | 
-| 20230828T12:27:40Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T12:27:09Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
 | 20230828T12:13:20Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
 | 20230828T12:06:03Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
