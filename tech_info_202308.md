@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230828T01:33:19Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230828T01:26:17Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20230828T01:26:08Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230827T22:26:06Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230827T17:06:53Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
 | 20230827T16:58:38Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T01:33:49Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0025-app-va5vX-plan-exploit | 0 | 0| 
+| 20230828T01:33:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0011-app-KJx1H-exploit-withdraw | 0 | 0| 
 | 20230828T00:02:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14330 | 2442| 
 | 20230827T22:26:06Z | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | 0 | 0| 
 | 20230827T22:07:19Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 103 | 12| 
@@ -79,8 +81,6 @@
 | 20230827T17:30:01Z | CVE-2017-7921 exploit. Allows admin password retrieval and automatic snapshot download. | https://github.com/fracergu/CVE-2017-7921 | 0 | 0| 
 | 20230827T16:26:56Z | Projects Nano X | https://github.com/ALPERALL/Nano-X-Multi-exploit | 0 | 0| 
 | 20230827T14:21:04Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/cspi-git/ZeroDiscord | 206 | 66| 
-| 20230827T13:11:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5295 | 1035| 
-| 20230827T12:50:12Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 
 
 # backdoor on Github 推荐
