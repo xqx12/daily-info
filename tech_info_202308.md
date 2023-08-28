@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:07:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0111-0069-app-lUYSA-exploit-rely | 0 | 0| 
 | 20230828T12:06:12Z | GitOps Repository | https://github.com/pmacik-testing/ci-2-50-42729-0066-app-0afTf-appear-exploit | 0 | 0| 
 | 20230828T11:49:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0025-app-8PGWU-exploit-own | 0 | 0| 
 | 20230828T11:46:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0048-app-2Duq7-remember-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230828T08:23:08Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 5 | 0| 
 | 20230828T08:12:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 56 | 10| 
 | 20230828T07:57:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
-| 20230828T02:23:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5470 | 757| 
 
 
 # backdoor on Github 推荐
