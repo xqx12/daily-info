@@ -11,38 +11,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230828 | 基于Win32k内核提权漏洞的攻防对抗 | https://www.sec-in.com/article/2176| 
+| 20230828 | 软件漏洞静态检测路在何方 | https://mp.weixin.qq.com/s/AR4AsvSDJm_zvG6u_MsBdQ| 
+| 20230828 | POLYFUZZ：适用于多语言的整体灰盒模糊测试系统 | https://mp.weixin.qq.com/s/suEY9ZqQOs_RzgFGR9RnIg| 
+| 20230828 | Hutool证书验证漏洞 CVE-2022-22885 | https://mp.weixin.qq.com/s/OYJHAwI1VZYpUh9ZKUlZVw| 
 | 20230827 | 信息安全技术 网络攻击和网络攻击事件判定准则 | https://www.tc260.org.cn/file/2023-08-26/01852669-5bcb-47de-8bc4-6c29738fae99.pdf| 
 | 20230824 | 整体安全视角下的综合攻击面管理 | https://mp.weixin.qq.com/s/tPl1aueMYK6gypBFI0xh4A| 
 | 20230824 | 从技术角度看《孤注一掷》 | https://mp.weixin.qq.com/s/Gv-mYRcT12mJ189B4bEsFA| 
 | 20230824 | 《国家网络安全战略实施计划》的分析与思考 | https://mp.weixin.qq.com/s/fRcNYr9KAyFRMeWVJUgZkA| 
 | 20230824 | VcenterKit: Vcenter综合渗透利用工具包 | https://github.com/W01fh4cker/VcenterKit| 
 | 20230824 | 北约网络安全防御演习：Locked Shields | https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw| 
-| 20230824 | GoIP 网关设备的电子数据取证探索 | https://mp.weixin.qq.com/s/92WwO2XXmkYgXzUJJAW7lg| 
-| 20230824 | 2023 KCon 大会部分议题 PPT | https://paper.seebug.org/3014/| 
-| 20230824 | Joern与CPG是什么？ | https://lorexxar.cn/2023/08/21/joern-and-cpg/| 
-| 20230824 | 2023 KCon 大会部分议题 PPT | /news/31566| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230828T01:59:09Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
-| 20230828T01:56:09Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20230828T01:54:47Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
-| 20230827T17:06:53Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
-| 20230827T16:58:38Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
-| 20230827T15:13:39Z | CVE-2023-35078 | Tools to scanner & exploit cve-2023-35078 | https://github.com/LazyySec/CVE-2023-35078 | | 
-| 20230827T14:27:09Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
-| 20230827T11:55:20Z | CVE-2023-24489 | POC for CVE-2023-24489 with bash.  | https://github.com/whalebone7/CVE-2023-24489-poc | | 
-| 20230827T11:09:25Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
-| 20230827T08:45:41Z | CVE-2023-38831 | Null | https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT | | 
+| 20230828T11:48:25Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230828T09:26:37Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
+| 20230828T09:13:52Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
+| 20230828T09:01:02Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
+| 20230828T08:18:51Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
+| 20230828T08:06:21Z | CVE-2023-38831 | Null | https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT | | 
+| 20230828T08:04:58Z | CVE-2023-26256 | CVE-2023-26256_POC | https://github.com/csdcsdcsdcsdcsd/CVE-2023-26256 | | 
+| 20230828T07:39:59Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
+| 20230828T06:30:38Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
+| 20230828T05:26:52Z | CVE-2023-38831 | CVE-2023-38831 PoC (Proof Of Concept) | https://github.com/HDCE-inc/CVE-2023-38831 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T11:49:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13612 | 418| 
 | 20230828T01:24:20Z | Null | https://github.com/1Franciscoluna1/Cerradura_Kleene | 0 | 0| 
-| 20230828T01:21:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13602 | 418| 
 | 20230827T13:18:29Z | Null | https://github.com/dinodtharinda/kleen-laundromat | 0 | 0| 
 | 20230827T09:49:44Z | Null | https://github.com/SilisK/silis-kleemoff | 0 | 0| 
 | 20230825T09:45:49Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 352 | 7| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T11:49:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0025-app-8PGWU-exploit-own | 0 | 0| 
+| 20230828T11:46:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-718-0101-0048-app-2Duq7-remember-exploit | 0 | 0| 
+| 20230828T11:41:52Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 56 | 15| 
+| 20230828T11:27:17Z | RL | https://github.com/meliikaa/Bandits_and_Exploration_Exploitation | 0 | 0| 
+| 20230828T10:36:35Z | Nmap script that looks for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 57 | 7| 
+| 20230828T08:12:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 56 | 10| 
+| 20230828T07:57:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
 | 20230828T01:33:49Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0025-app-va5vX-plan-exploit | 0 | 0| 
 | 20230828T01:33:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0011-app-KJx1H-exploit-withdraw | 0 | 0| 
 | 20230828T00:02:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14330 | 2442| 
-| 20230827T22:26:06Z | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | 0 | 0| 
-| 20230827T22:07:19Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 103 | 12| 
-| 20230827T19:28:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 716 | 179| 
-| 20230827T19:04:45Z | Null | https://github.com/PotatoTheBlank/exploit | 0 | 0| 
-| 20230827T17:30:01Z | CVE-2017-7921 exploit. Allows admin password retrieval and automatic snapshot download. | https://github.com/fracergu/CVE-2017-7921 | 0 | 0| 
-| 20230827T16:26:56Z | Projects Nano X | https://github.com/ALPERALL/Nano-X-Multi-exploit | 0 | 0| 
-| 20230827T14:21:04Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/cspi-git/ZeroDiscord | 206 | 66| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T11:44:55Z | Null | https://github.com/akagami-harsh/reverseTcpBackdoor_python | 0 | 0| 
+| 20230828T09:15:42Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 2 | 3| 
+| 20230828T04:02:21Z | Remote Connections Made Simple: SextouBackdoor is a cross-platform Python 3 tool that helps you establish remote connections during a Red Team Engagement. It is not meant to be Encrypted nor Secure. | https://github.com/nocerainfosec/SextouBackdoor | 1 | 0| 
 | 20230827T21:52:07Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 0 | 0| 
-| 20230827T18:18:12Z | Remote Connections Made Simple: SextouBackdoor is a cross-platform Python 3 tool that helps you establish remote connections during a Red Team Engagement. It is not meant to be Encrypted nor Secure. | https://github.com/nocerainfosec/SextouBackdoor | 0 | 0| 
 | 20230827T16:15:05Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 0 | 1| 
-| 20230827T15:35:10Z | EternalHush - new free open-source c2 framework | https://github.com/APT64/EternalHushFramework | 2 | 3| 
 | 20230827T15:32:51Z | Null | https://github.com/Mahbub126/BackdoorMalware | 0 | 0| 
 | 20230827T14:57:48Z | Remove All Backdoors | https://github.com/enterrements/Remove | 0 | 0| 
 | 20230827T14:23:38Z | simple backdoor  | https://github.com/dyclrvss/backdoor | 0 | 0| 
 | 20230827T13:54:08Z | A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. | https://github.com/MYGRATORY/slot-thailand | 0 | 0| 
 | 20230827T13:30:13Z | A python trojan with spyware, info stealing and ransomware abilities. | https://github.com/MalwareMakers/HarBringer-V2 | 6 | 2| 
-| 20230827T12:41:04Z | Null | https://github.com/hello12324/Paper-Bukkit-WelcomeTitle-Backdoor- | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T11:50:11Z | Mainly created to use as User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 2 | 0| 
+| 20230828T11:12:04Z | Null | https://github.com/Captaninsano/fuzzy-octo-spork | 0 | 0| 
+| 20230828T10:28:25Z | Fuzzy set | https://github.com/JolaSobera/FUZZY | 0 | 0| 
+| 20230828T10:22:26Z | Null | https://github.com/JolaSobera/FuzzySet | 0 | 0| 
+| 20230828T09:57:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1527 | 213| 
+| 20230828T09:47:09Z | Null | https://github.com/SCP8891/fuzzy-memory | 0 | 0| 
+| 20230828T06:42:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8939 | 1972| 
 | 20230828T01:49:38Z | Null | https://github.com/Vanderleicio/melhoramentoClassificadorFuzzy | 0 | 0| 
 | 20230828T01:48:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3838 | 461| 
 | 20230828T01:16:20Z | Learning about Go fuzzing for testing | https://github.com/ong-ops/go-tutorial-5_fuzzing | 0 | 0| 
-| 20230828T00:36:16Z | Levenshtein Distance Matcher | https://github.com/dvonpasecky/fuzzy-matcher | 1 | 0| 
-| 20230827T23:43:28Z | lightweight app runner based on GTK | https://github.com/netindev/fuzzy | 0 | 0| 
-| 20230827T21:10:43Z | Null | https://github.com/TooLaidBack/LazyFuzz | 0 | 0| 
-| 20230827T21:10:18Z | Null | https://github.com/Connor-Kelly/WindowsFuzzyFinder | 0 | 0| 
-| 20230827T20:42:08Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1525 | 213| 
-| 20230827T19:18:43Z | Compare the two control methods by using the waijung block set in Matlab Simulink environment to control the PID and fuzzy logic of a DC motor | https://github.com/UfukErdem/PID-vs-Fuzzy-Logic | 0 | 0| 
-| 20230827T12:48:08Z | Fuzzy search algorithm using symbol of similarity table | https://github.com/makstsar17/diplom_work_fuzzy_search | 0 | 0| 
 
 
 
