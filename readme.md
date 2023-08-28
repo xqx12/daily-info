@@ -78,7 +78,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230828T12:47:39Z | Code for the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice% | https://github.com/pwwl/ics-anomaly-attribution | 0 | 0| 
+| 20230828T12:50:00Z | Library of ML-based attribution methods for ICS anomaly detection. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice% | https://github.com/pwwl/ics-anomaly-attribution | 0 | 0| 
 
 
 # fuzz on Github 推荐
