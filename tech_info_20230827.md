@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230827T22:26:06Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
-| 20230827T17:07:41Z | CVE-2023-21939 | JDK CVE-2023-21939 | https://github.com/Y4Sec-Team/CVE-2023-21939 | | 
 | 20230827T17:06:53Z | CVE-2023-38388 | Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-38388 | | 
 | 20230827T16:58:38Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
 | 20230827T15:13:39Z | CVE-2023-35078 | Tools to scanner & exploit cve-2023-35078 | https://github.com/LazyySec/CVE-2023-35078 | | 
@@ -27,6 +26,7 @@
 | 20230827T11:09:25Z | cve-2023-36844 | Null | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844 | | 
 | 20230827T08:45:41Z | CVE-2023-38831 | Null | https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT | | 
 | 20230827T06:11:22Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
+| 20230827T01:33:41Z | CVE-2023-36874 | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | https://github.com/Octoberfest7/CVE-2023-36874_BOF | | 
 
 
 # klee on Github 推荐
