@@ -52,11 +52,11 @@
 | 20230828T11:41:52Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 56 | 15| 
 | 20230828T11:27:17Z | RL | https://github.com/meliikaa/Bandits_and_Exploration_Exploitation | 0 | 0| 
 | 20230828T10:36:35Z | Nmap script that looks for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 57 | 7| 
+| 20230828T08:23:08Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 5 | 0| 
 | 20230828T08:12:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 56 | 10| 
 | 20230828T07:57:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5284 | 670| 
+| 20230828T02:23:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5470 | 757| 
 | 20230828T01:33:49Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0025-app-va5vX-plan-exploit | 0 | 0| 
-| 20230828T01:33:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0041-0011-app-KJx1H-exploit-withdraw | 0 | 0| 
-| 20230828T00:02:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14330 | 2442| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T08:28:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2303 | 634| 
+| 20230828T06:38:57Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 98 | 3| 
+| 20230828T04:21:10Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 433 | 30| 
 
 
 # big4 on Github 推荐
