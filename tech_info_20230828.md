@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230828T12:45:05Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230828T12:48:09Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T12:41:39Z | CVE-2023-2317 | Null | https://github.com/spwpun/CVE-2023-2317-poc | | 
 | 20230828T12:28:57Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436 | | 
 | 20230828T12:27:09Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
@@ -78,6 +78,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:47:39Z | Code for the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice% | https://github.com/pwwl/ics-anomaly-attribution | 0 | 0| 
 
 
 # fuzz on Github 推荐

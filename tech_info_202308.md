@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230828T12:45:05Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230828T12:48:09Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230828T12:41:39Z | CVE-2023-2317 | Null | https://github.com/spwpun/CVE-2023-2317-poc | | 
 | 20230828T12:28:57Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436 | | 
 | 20230828T12:27:09Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
@@ -116,6 +116,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T12:47:39Z | Code for the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice% | https://github.com/pwwl/ics-anomaly-attribution | 0 | 0| 
 | 20230827T08:35:04Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 66 | 4| 
 | 20230827T05:26:35Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 0 | 1| 
 | 20230826T13:53:55Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 14 | 1| 
@@ -125,7 +126,6 @@
 | 20230818T19:31:30Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230816T14:38:18Z | Experiments presented as part of the original FirmWire publication (NDSS%22) | https://github.com/FirmWire/ndss22_experiments | 1 | 0| 
 | 20230815T18:59:26Z | AreaDetector plugin for PiMega%s geometric restoration based on SSCPimega | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
-| 20230813T07:25:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 7 | 1| 
 
 
 # fuzz on Github 推荐
