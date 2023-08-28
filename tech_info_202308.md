@@ -131,6 +131,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T01:49:38Z | Null | https://github.com/Vanderleicio/melhoramentoClassificadorFuzzy | 0 | 0| 
+| 20230828T01:48:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3838 | 461| 
 | 20230828T01:16:20Z | Learning about Go fuzzing for testing | https://github.com/ong-ops/go-tutorial-5_fuzzing | 0 | 0| 
 | 20230828T00:36:16Z | Levenshtein Distance Matcher | https://github.com/dvonpasecky/fuzzy-matcher | 1 | 0| 
 | 20230827T23:43:28Z | lightweight app runner based on GTK | https://github.com/netindev/fuzzy | 0 | 0| 
@@ -139,8 +141,6 @@
 | 20230827T20:42:08Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1525 | 213| 
 | 20230827T19:18:43Z | Compare the two control methods by using the waijung block set in Matlab Simulink environment to control the PID and fuzzy logic of a DC motor | https://github.com/UfukErdem/PID-vs-Fuzzy-Logic | 0 | 0| 
 | 20230827T12:48:08Z | Fuzzy search algorithm using symbol of similarity table | https://github.com/makstsar17/diplom_work_fuzzy_search | 0 | 0| 
-| 20230827T11:40:17Z | Null | https://github.com/Rajatchaurasiy/fuzzy-happiness | 0 | 0| 
-| 20230827T10:26:38Z | Fuzzy logic controller designed with SKFuzzy | https://github.com/cnapole/AirConditionerFuzzyLogic | 0 | 0| 
 
 
 
