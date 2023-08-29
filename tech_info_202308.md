@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T01:43:16Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0051-0021-app-ps28H-exploit-use | 0 | 0| 
 | 20230829T01:29:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5295 | 1035| 
 | 20230828T23:04:14Z | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | 1 | 0| 
 | 20230828T22:38:16Z | roblox exploit lol | https://github.com/ustinjamess/shar-apir | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230828T20:51:49Z | Null | https://github.com/Nwhpa/BOF-Exploit-bad-characters | 1 | 0| 
 | 20230828T20:51:47Z | Null | https://github.com/Nwhpa/BOF-Exploit | 1 | 0| 
 | 20230828T19:52:51Z | Null | https://github.com/vi9sion/Linux-Heap-Exploitation | 0 | 0| 
-| 20230828T19:08:51Z | Exploiting arbitrage opportunities on arbitrum. | https://github.com/KevinLCai/DeFi-Flashloan | 0 | 0| 
 
 
 # backdoor on Github 推荐
