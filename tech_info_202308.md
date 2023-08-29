@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:57:33Z | Null | https://github.com/DewDrop06/fuzzy-octo-goggles | 0 | 0| 
 | 20230829T12:32:42Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test_poc | 1 | 0| 
 | 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
@@ -140,7 +141,6 @@
 | 20230829T09:27:33Z | Template repository for CS5219 | https://github.com/dylanjwolff/student-fuzzer | 0 | 0| 
 | 20230829T08:55:25Z | Null | https://github.com/Fuzzyweb/Fuzzyweb.github.io | 0 | 0| 
 | 20230829T02:37:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 219 | 32| 
-| 20230828T17:53:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1529 | 215| 
 
 
 
