@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
 | 20230829T10:27:33Z | Null | https://github.com/1cefr09/Fuzzy-analytical-hierarchy-process | 0 | 0| 
 | 20230829T09:52:15Z | Null | https://github.com/reetshinde/Intelligence-Estimator-using-Fuzzy-Logic | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230829T02:37:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 219 | 32| 
 | 20230828T17:53:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1529 | 215| 
 | 20230828T17:26:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3839 | 461| 
-| 20230828T11:50:11Z | Mainly created to use as User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 2 | 0| 
 
 
 

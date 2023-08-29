@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
 | 20230829T10:27:33Z | Null | https://github.com/1cefr09/Fuzzy-analytical-hierarchy-process | 0 | 0| 
 | 20230829T09:52:15Z | Null | https://github.com/reetshinde/Intelligence-Estimator-using-Fuzzy-Logic | 0 | 0| 
