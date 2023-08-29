@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:14:55Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230829T12:12:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
-| 20230829T12:11:58Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230829T10:59:41Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436 | | 
 | 20230829T10:09:07Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
 | 20230829T08:11:57Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:08:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5477 | 757| 
 | 20230829T12:00:29Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 152 | 13| 
 | 20230829T11:55:42Z | It is a methodical way to find flaws in Android apps, ensure their security, and adhere to security regulations. It entails attempting to attack the Android app using various techniques and instruments. Android penetration testing aims to find and fix app vulnerabilities before cybercriminals exploit them. | https://github.com/HackWithSumit/AndroidPentesting | 0 | 0| 
 | 20230829T10:26:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5291 | 670| 
