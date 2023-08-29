@@ -101,6 +101,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T08:31:56Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 255 | 32| 
 | 20230828T08:28:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2303 | 634| 
 | 20230828T06:38:57Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 98 | 3| 
 | 20230828T04:21:10Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 433 | 30| 
@@ -110,7 +111,6 @@
 | 20230825T05:21:29Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
 | 20230824T18:23:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 40 | 7| 
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
-| 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
 
 
 # big4 on Github 推荐
