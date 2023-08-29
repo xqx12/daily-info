@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230829T12:29:57Z | CVE-2021-0443 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443 | | 
-| 20230829T12:14:55Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
+| 20230829T12:34:57Z | CVE-2021-0443 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443 | | 
+| 20230829T12:32:25Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230829T12:12:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
 | 20230829T10:59:41Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436 | | 
 | 20230829T10:09:07Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230829T11:27:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13630 | 418| 
+| 20230829T12:35:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13631 | 418| 
 | 20230829T10:55:22Z | Null | https://github.com/ggenzone/kleeneui | 0 | 0| 
 | 20230828T01:24:20Z | Null | https://github.com/1Franciscoluna1/Cerradura_Kleene | 0 | 0| 
 | 20230827T13:18:29Z | Null | https://github.com/dinodtharinda/kleen-laundromat | 0 | 0| 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:32:42Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test_poc | 1 | 0| 
 | 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
 | 20230829T10:27:33Z | Null | https://github.com/1cefr09/Fuzzy-analytical-hierarchy-process | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230829T08:55:25Z | Null | https://github.com/Fuzzyweb/Fuzzyweb.github.io | 0 | 0| 
 | 20230829T02:37:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 219 | 32| 
 | 20230828T17:53:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1529 | 215| 
-| 20230828T17:26:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3839 | 461| 
 
 
 
