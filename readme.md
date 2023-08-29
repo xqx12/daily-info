@@ -16,12 +16,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230829T12:51:40Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
 | 20230829T12:34:57Z | CVE-2021-0443 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443 | | 
 | 20230829T12:32:25Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 | 20230829T12:12:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
 | 20230829T10:59:41Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436 | | 
 | 20230829T10:09:07Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
-| 20230829T08:11:57Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
 | 20230829T06:12:57Z | CVE-2023-38831 | Proof of Concept (POC) for CVE-2023-38831 WinRAR | https://github.com/thegr1ffyn/CVE-2023-38831 | | 
 | 20230829T05:18:35Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
 | 20230829T02:32:05Z | CVE-2023-38831 | KQL Hunting for WinRAR CVE-2023-38831 | https://github.com/PascalAsch/CVE-2023-38831-KQL | | 
