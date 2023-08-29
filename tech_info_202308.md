@@ -105,12 +105,12 @@
 | 20230828T06:38:57Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 98 | 3| 
 | 20230828T04:21:10Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 433 | 30| 
 | 20230827T22:34:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 677 | 120| 
+| 20230826T12:34:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 782 | 91| 
 | 20230826T11:23:20Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 55 | 9| 
 | 20230825T05:21:29Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
 | 20230824T18:23:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 40 | 7| 
 | 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
 | 20230820T08:59:50Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 213 | 21| 
-| 20230819T20:16:31Z | Corana is a Dynamic Symbolic Execution Engine for ARM Cortex-M aiming to incrementally reconstruct the precise Control Flow Graph (CFG) of IoT malware under the presence of obfuscation techniques e.g., indirect jumps and opaque predicates | https://github.com/anhvvcs/corana | 24 | 4| 
 
 
 # big4 on Github 推荐
