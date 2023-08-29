@@ -116,6 +116,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T09:24:21Z | Null | https://github.com/neurodiversesupportservices/NDSS | 0 | 0| 
+| 20230829T02:17:54Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 28 | 2| 
 | 20230828T12:50:51Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 0 | 0| 
 | 20230828T12:50:00Z | Library of ML-based attribution methods for ICS anomaly detection. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice% | https://github.com/pwwl/ics-anomaly-attribution | 0 | 0| 
 | 20230827T08:35:04Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 66 | 4| 
@@ -124,8 +126,6 @@
 | 20230826T02:12:15Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 38 | 2| 
 | 20230825T19:43:55Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 0 | 0| 
 | 20230825T08:34:21Z | Null | https://github.com/MetadataGitTesting/nDss9ium | 0 | 0| 
-| 20230818T19:31:30Z | Artifact for the paper TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
-| 20230816T14:38:18Z | Experiments presented as part of the original FirmWire publication (NDSS%22) | https://github.com/FirmWire/ndss22_experiments | 1 | 0| 
 
 
 # fuzz on Github 推荐
