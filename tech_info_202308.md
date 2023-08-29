@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230828T17:26:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3839 | 461| 
 | 20230828T14:08:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8940 | 1972| 
 | 20230828T11:50:11Z | Mainly created to use as User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 2 | 0| 
 | 20230828T11:12:04Z | Null | https://github.com/Captaninsano/fuzzy-octo-spork | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230828T09:47:09Z | Null | https://github.com/SCP8891/fuzzy-memory | 0 | 0| 
 | 20230828T07:28:24Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 542 | 83| 
 | 20230828T01:49:38Z | Null | https://github.com/Vanderleicio/melhoramentoClassificadorFuzzy | 0 | 0| 
-| 20230828T01:48:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3838 | 461| 
 
 
 
