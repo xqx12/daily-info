@@ -75,8 +75,8 @@
 | 20230828T22:38:16Z | roblox exploit lol | https://github.com/ustinjamess/shar-apir | 0 | 0| 
 | 20230828T22:11:59Z | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | 0 | 0| 
 | 20230828T20:51:51Z | Null | https://github.com/Nwhpa/BOF-Exploit-fuzzing | 1 | 0| 
-| 20230828T20:51:49Z | Null | https://github.com/Nwhpa/BOF-Exploit-bad-characters | 1 | 0| 
 | 20230828T20:51:49Z | Null | https://github.com/Nwhpa/BOF-Exploit-offset | 1 | 0| 
+| 20230828T20:51:49Z | Null | https://github.com/Nwhpa/BOF-Exploit-bad-characters | 1 | 0| 
 | 20230828T20:51:47Z | Null | https://github.com/Nwhpa/BOF-Exploit | 1 | 0| 
 | 20230828T19:52:51Z | Null | https://github.com/vi9sion/Linux-Heap-Exploitation | 0 | 0| 
 | 20230828T19:08:51Z | Exploiting arbitrage opportunities on arbitrum. | https://github.com/KevinLCai/DeFi-Flashloan | 0 | 0| 
