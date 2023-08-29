@@ -57,7 +57,7 @@
 | 20230828T20:51:47Z | Null | https://github.com/Nwhpa/BOF-Exploit | 1 | 0| 
 | 20230828T19:52:51Z | Null | https://github.com/vi9sion/Linux-Heap-Exploitation | 0 | 0| 
 | 20230828T19:08:51Z | Exploiting arbitrage opportunities on arbitrum. | https://github.com/KevinLCai/DeFi-Flashloan | 0 | 0| 
-| 20230828T18:20:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
+| 20230828T15:20:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/rekor-6xhC2-exploit-fail | 0 | 0| 
 
 
 # backdoor on Github 推荐
