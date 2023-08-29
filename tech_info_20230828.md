@@ -22,7 +22,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230828T23:42:52Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
 | 20230828T22:11:59Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
 | 20230828T21:44:44Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
 | 20230828T19:59:52Z | CVE-2023-38831 | KQL Hunting for WinRAR CVE-2023-38831 | https://github.com/PascalAsch/CVE-2023-38831-KQL | | 
@@ -32,6 +31,7 @@
 | 20230828T12:41:39Z | CVE-2023-2317 | Null | https://github.com/spwpun/CVE-2023-2317-poc | | 
 | 20230828T12:28:57Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436 | | 
 | 20230828T12:27:09Z | CVE-2023-38389 | CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover | https://github.com/codeb0ss/CVE-2023-38389-PoC | | 
+| 20230828T12:13:20Z | CVE-2023-41080 | Null | https://github.com/shiomiyan/CVE-2023-41080 | | 
 
 
 # klee on Github 推荐
@@ -58,7 +58,7 @@
 | 20230828T20:51:47Z | Null | https://github.com/Nwhpa/BOF-Exploit | 1 | 0| 
 | 20230828T19:52:51Z | Null | https://github.com/vi9sion/Linux-Heap-Exploitation | 0 | 0| 
 | 20230828T19:08:51Z | Exploiting arbitrage opportunities on arbitrum. | https://github.com/KevinLCai/DeFi-Flashloan | 0 | 0| 
-| 20230828T15:20:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/rekor-6xhC2-exploit-fail | 0 | 0| 
+| 20230828T18:20:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5294 | 1035| 
 
 
 # backdoor on Github 推荐
