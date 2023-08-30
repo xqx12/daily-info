@@ -17,8 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:55:56Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230830T12:55:34Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 | 20230830T12:44:14Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
-| 20230830T12:35:37Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T12:21:50Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
 | 20230830T12:18:38Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
 | 20230830T10:49:07Z | 未知编号 | Null | https://github.com/SugiB3o/Keylog_CVE2023-38831 | | 
@@ -26,7 +27,6 @@
 | 20230830T10:15:43Z | CVE-2023-38831 | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | | 
 | 20230830T09:42:19Z | CVE-2021-3019 | CVE-2021-3019 | https://github.com/a1665454764/CVE-2021-3019 | | 
 | 20230830T02:40:05Z | CVE-2023-39141 | Mass Exploit - CVE-2023-39141 < Aria2 WebUI < Path traversal | https://github.com/codeb0ss/CVE-2023-39141-PoC | | 
-| 20230830T02:36:28Z | CVE-2023-35078 |  Ivanti Endpoint Manager Mobile (EPMM)   POC | https://github.com/Blue-number/CVE-2023-35078 | | 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8947 | 1974| 
 | 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
 | 20230830T12:06:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3916 | 792| 
 | 20230830T11:53:06Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 459 | 15| 
@@ -95,7 +96,6 @@
 | 20230830T09:55:02Z | Null | https://github.com/yonatan200201/Clustering-K-Means-Fuzzy-C-Means | 0 | 0| 
 | 20230830T09:52:10Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/yalishanda42/FuzzyKit | 3 | 0| 
 | 20230830T04:20:00Z | Cloudflare Worker simple KV store lister + getter | https://github.com/janzheng/fuzzykey | 0 | 0| 
-| 20230830T01:58:17Z | Null | https://github.com/iothingtorton/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
