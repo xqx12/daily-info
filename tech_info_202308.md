@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T00:14:23Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0150-0079-app-juZuP-exploit-continue | 0 | 0| 
 | 20230829T23:03:03Z | Demo videos and trials for check my channel... | https://github.com/Solorat1/APK-TO-JPG-EXPLOIT | 1 | 0| 
 | 20230829T22:35:45Z | Automate Redis exploitation and enumeration | https://github.com/piety1337/AutoRedis | 0 | 0| 
 | 20230829T22:33:17Z | Your %obfuscator% is nothing to us. | https://github.com/notplu/Infara | 132 | 169| 
@@ -80,7 +81,6 @@
 | 20230829T20:58:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/tap-demo-kJZoW-hang-exploit | 0 | 0| 
 | 20230829T16:11:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 717 | 179| 
 | 20230829T14:22:27Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
-| 20230829T13:29:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 81 | 31| 
 
 
 # backdoor on Github 推荐
