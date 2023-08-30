@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:24:49Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
+| 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
 | 20230830T12:06:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3916 | 792| 
 | 20230830T11:53:06Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 459 | 15| 
 | 20230830T11:24:44Z | Null | https://github.com/mehmetaknacrr/fuzzy-waffle | 0 | 0| 
