@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T00:08:30Z | Null | https://github.com/zaki031/z-fuzzer | 0 | 0| 
+| 20230830T00:12:05Z | Null | https://github.com/zaki031/z-fuzzer | 1 | 0| 
 | 20230829T22:46:45Z | Null | https://github.com/jschnf/fuzzy-journey | 0 | 0| 
 | 20230829T21:34:01Z | A generic storage facility inventory management system | https://github.com/Heero1224/fuzzy_storage | 0 | 0| 
 | 20230829T21:11:27Z | Null | https://github.com/bujinakep/fuzzy-adventure | 0 | 0| 
