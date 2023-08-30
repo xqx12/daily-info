@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:27:29Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230830T12:33:34Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T12:21:50Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
 | 20230830T12:18:38Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
 | 20230830T10:49:07Z | 未知编号 | Null | https://github.com/SugiB3o/Keylog_CVE2023-38831 | | 
