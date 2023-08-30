@@ -49,7 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
 | 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
-| 20230830T10:15:43Z | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | 0 | 0| 
+| 20230830T10:15:43Z | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | 0 | 1| 
 | 20230830T08:57:50Z | A WebServer+Wifi Repeater+Fake DNS Server to Host PS4/PS5 Exploits on ESP8266 | https://github.com/frwololo/PS4_PS5-ESP8266-Server | 1 | 0| 
 | 20230830T07:07:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5480 | 757| 
 | 20230830T03:01:13Z | A UI Library written in Lua for Roblox, may be used in exploits/games | https://github.com/Mwffins/Fractal-Ui-Lib | 0 | 0| 
@@ -70,6 +70,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T10:03:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
+| 20230830T04:46:13Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 99 | 3| 
 | 20230830T01:50:10Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 678 | 120| 
 
 
