@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230829T23:35:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
 | 20230829T21:56:52Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
-| 20230829T21:44:54Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
 | 20230829T16:30:00Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 | 20230829T16:29:42Z | CVE-2022-30190 | A proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
 | 20230829T16:16:01Z | CVE-2023-38831 | This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability.  | https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection | | 
@@ -26,6 +25,7 @@
 | 20230829T13:56:11Z | CVE-2023-38831 | KQL Hunting for WinRAR CVE-2023-38831 | https://github.com/PascalAsch/CVE-2023-38831-KQL | | 
 | 20230829T13:56:05Z | CVE-2023-38831 | CVE-2023-38831 PoC (Proof Of Concept) | https://github.com/HDCE-inc/CVE-2023-38831 | | 
 | 20230829T12:51:40Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
+| 20230829T12:34:57Z | CVE-2021-0443 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443 | | 
 
 
 # klee on Github 推荐
@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230829T23:38:34Z | Null | https://github.com/zaki031/z-fuzzer | 0 | 0| 
 | 20230829T22:46:45Z | Null | https://github.com/jschnf/fuzzy-journey | 0 | 0| 
 | 20230829T21:34:01Z | A generic storage facility inventory management system | https://github.com/Heero1224/fuzzy_storage | 0 | 0| 
 | 20230829T21:11:27Z | Null | https://github.com/bujinakep/fuzzy-adventure | 0 | 0| 
@@ -95,6 +94,7 @@
 | 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
 | 20230829T10:27:33Z | Null | https://github.com/1cefr09/Fuzzy-analytical-hierarchy-process | 0 | 0| 
+| 20230829T09:52:15Z | Null | https://github.com/reetshinde/Intelligence-Estimator-using-Fuzzy-Logic | 0 | 0| 
 
 
 
