@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:02:58Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
+| 20230830T12:11:45Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
 | 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
 | 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
 | 20230830T10:15:43Z | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | 0 | 1| 
