@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:40:51Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
 | 20230830T12:35:37Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T12:21:50Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
 | 20230830T12:18:38Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
@@ -26,7 +27,6 @@
 | 20230830T09:42:19Z | CVE-2021-3019 | CVE-2021-3019 | https://github.com/a1665454764/CVE-2021-3019 | | 
 | 20230830T02:40:05Z | CVE-2023-39141 | Mass Exploit - CVE-2023-39141 < Aria2 WebUI < Path traversal | https://github.com/codeb0ss/CVE-2023-39141-PoC | | 
 | 20230830T02:36:28Z | CVE-2023-35078 |  Ivanti Endpoint Manager Mobile (EPMM)   POC | https://github.com/Blue-number/CVE-2023-35078 | | 
-| 20230830T01:38:21Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
 
 
 # klee on Github 推荐
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:40:51Z | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | 0 | 0| 
 | 20230830T12:11:45Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
 | 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
 | 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20230830T03:01:13Z | A UI Library written in Lua for Roblox, may be used in exploits/games | https://github.com/Mwffins/Fractal-Ui-Lib | 0 | 0| 
 | 20230830T02:17:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5293 | 670| 
 | 20230830T02:16:49Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 15 | 1| 
-| 20230830T01:12:31Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0017-app-IRIeb-secure-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
