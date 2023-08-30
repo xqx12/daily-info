@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:40:51Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
+| 20230830T12:44:14Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
 | 20230830T12:35:37Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T12:21:50Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
 | 20230830T12:18:38Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:40:51Z | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | 0 | 0| 
+| 20230830T12:44:14Z | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | 0 | 0| 
 | 20230830T12:11:45Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
 | 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
 | 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
