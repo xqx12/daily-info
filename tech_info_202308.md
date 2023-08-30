@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230829T23:35:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
+| 20230829T21:56:52Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
+| 20230829T21:44:54Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
+| 20230829T16:30:00Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
+| 20230829T16:29:42Z | CVE-2022-30190 | A proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
+| 20230829T16:16:01Z | CVE-2023-38831 | This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability.  | https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection | | 
+| 20230829T14:18:42Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
+| 20230829T13:56:11Z | CVE-2023-38831 | KQL Hunting for WinRAR CVE-2023-38831 | https://github.com/PascalAsch/CVE-2023-38831-KQL | | 
+| 20230829T13:56:05Z | CVE-2023-38831 | CVE-2023-38831 PoC (Proof Of Concept) | https://github.com/HDCE-inc/CVE-2023-38831 | | 
 | 20230829T12:51:40Z | cve-2023-38831 | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | https://github.com/Garck3h/cve-2023-38831 | | 
-| 20230829T12:34:57Z | CVE-2021-0443 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443 | | 
-| 20230829T12:32:25Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
-| 20230829T12:12:04Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
-| 20230829T10:59:41Z | CVE-2020-15436 | Null | https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436 | | 
-| 20230829T10:09:07Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator and get reverse shell | https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc | | 
-| 20230829T06:12:57Z | CVE-2023-38831 | Proof of Concept (POC) for CVE-2023-38831 WinRAR | https://github.com/thegr1ffyn/CVE-2023-38831 | | 
-| 20230829T05:18:35Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
-| 20230829T02:32:05Z | CVE-2023-38831 | KQL Hunting for WinRAR CVE-2023-38831 | https://github.com/PascalAsch/CVE-2023-38831-KQL | | 
-| 20230828T16:59:09Z | CVE-2023-27163 | A tool to perform port scanning using vulnerable Request-Baskets | https://github.com/samh4cks/CVE-2023-27163-InternalProber | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230829T12:56:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13633 | 418| 
+| 20230829T22:53:54Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 239 | 31| 
+| 20230829T16:06:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13638 | 419| 
 | 20230829T10:55:22Z | Null | https://github.com/ggenzone/kleeneui | 0 | 0| 
 | 20230828T01:24:20Z | Null | https://github.com/1Franciscoluna1/Cerradura_Kleene | 0 | 0| 
 | 20230827T13:18:29Z | Null | https://github.com/dinodtharinda/kleen-laundromat | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230825T04:28:45Z | Null | https://github.com/doquocang/Klee_TheHealthBot | 0 | 0| 
 | 20230825T00:21:39Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 8 | 0| 
 | 20230824T17:27:32Z | Config files for my GitHub profile. | https://github.com/Kleefyks/Kleefyks | 0 | 0| 
-| 20230824T07:18:55Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Astgene | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230829T12:08:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5477 | 757| 
-| 20230829T12:00:29Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 152 | 13| 
-| 20230829T11:55:42Z | It is a methodical way to find flaws in Android apps, ensure their security, and adhere to security regulations. It entails attempting to attack the Android app using various techniques and instruments. Android penetration testing aims to find and fix app vulnerabilities before cybercriminals exploit them. | https://github.com/HackWithSumit/AndroidPentesting | 0 | 0| 
-| 20230829T10:26:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5291 | 670| 
-| 20230829T09:33:50Z | Official Implementation of %Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels%, WACVC 2024 | https://github.com/bobwan1995/Zeroshot-HOI-with-CLIP | 0 | 0| 
-| 20230829T08:55:57Z | Null | https://github.com/Jimin0605/exploits | 0 | 0| 
-| 20230829T01:43:16Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0051-0021-app-ps28H-exploit-use | 0 | 0| 
-| 20230829T01:29:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5295 | 1035| 
-| 20230828T23:04:14Z | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | 1 | 0| 
-| 20230828T22:38:16Z | roblox exploit lol | https://github.com/ustinjamess/shar-apir | 0 | 0| 
+| 20230829T23:03:03Z | Demo videos and trials for check my channel... | https://github.com/Solorat1/APK-TO-JPG-EXPLOIT | 1 | 0| 
+| 20230829T22:35:45Z | Automate Redis exploitation and enumeration | https://github.com/piety1337/AutoRedis | 0 | 0| 
+| 20230829T22:33:17Z | Your %obfuscator% is nothing to us. | https://github.com/notplu/Infara | 132 | 169| 
+| 20230829T22:13:49Z | The best shop for boatnets, C2%s and other tools that is currently available on the market! | https://github.com/KingKrex71/Exodus-Shop | 0 | 0| 
+| 20230829T21:52:26Z | Exploits for Botnets & C2%s | https://github.com/KingKrex71/Boatnet-Exploits | 1 | 0| 
+| 20230829T21:34:31Z | Anti exploit for VSROFILES | https://github.com/JEHR037/SuperMike-Vsro-ByGoofie | 0 | 0| 
+| 20230829T20:58:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/tap-demo-kJZoW-hang-exploit | 0 | 0| 
+| 20230829T16:11:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 717 | 179| 
+| 20230829T14:22:27Z | The missing API for the CISA Known Exploited Vulnerabilities Catalog.  | https://github.com/synfinner/KEVin | 0 | 0| 
+| 20230829T13:29:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 81 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230829T11:52:52Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7809 | 1821| 
-| 20230829T09:05:45Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 4 | 3| 
+| 20230829T22:46:21Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 7 | 3| 
+| 20230829T21:13:34Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 312 | 84| 
+| 20230829T15:56:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7811 | 1821| 
+| 20230829T15:09:36Z | Null | https://github.com/frizzyoncraack/backdoorfrizzy | 0 | 0| 
 | 20230829T07:17:54Z | Null | https://github.com/hiepvo01/BackdoorUnlearn | 0 | 0| 
 | 20230828T23:13:19Z | Well, this is a code for a malware, essentially a backdoor, incorporting a keylogger, persistance, and many tracking tools to keep an eye on your target.  | https://github.com/SaheelKumarSingh/NotAMalware | 0 | 0| 
-| 20230828T22:53:37Z | Null | https://github.com/frizzyoncraack/backdoorfrizzy | 0 | 0| 
 | 20230828T20:51:53Z | Null | https://github.com/Nwhpa/Backdoor-and-Listener | 1 | 0| 
 | 20230828T14:36:47Z | LedearRAT V1.1 Relesed New Android RAT Support All Android versions | https://github.com/Terry-89/LedearRAT | 0 | 0| 
 | 20230828T11:44:55Z | Null | https://github.com/akagami-harsh/reverseTcpBackdoor_python | 0 | 0| 
 | 20230828T04:02:21Z | Remote Connections Made Simple: SextouBackdoor is a cross-platform Python 3 tool that helps you establish remote connections during a Red Team Engagement. It is not meant to be Encrypted nor Secure. | https://github.com/nocerainfosec/SextouBackdoor | 1 | 0| 
-| 20230827T21:52:07Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230829T23:38:34Z | Null | https://github.com/zaki031/z-fuzzer | 0 | 0| 
+| 20230829T22:46:45Z | Null | https://github.com/jschnf/fuzzy-journey | 0 | 0| 
+| 20230829T21:34:01Z | A generic storage facility inventory management system | https://github.com/Heero1224/fuzzy_storage | 0 | 0| 
+| 20230829T21:11:27Z | Null | https://github.com/bujinakep/fuzzy-adventure | 0 | 0| 
+| 20230829T19:18:06Z | Null | https://github.com/google/fuzztest | 389 | 28| 
 | 20230829T12:57:33Z | Null | https://github.com/DewDrop06/fuzzy-octo-goggles | 0 | 0| 
 | 20230829T12:32:42Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test_poc | 1 | 0| 
 | 20230829T12:29:22Z | Pocs of some libs found by fuzztest. | https://github.com/kky0h/fuzz_test | 1 | 0| 
 | 20230829T11:43:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8941 | 1972| 
 | 20230829T10:27:33Z | Null | https://github.com/1cefr09/Fuzzy-analytical-hierarchy-process | 0 | 0| 
-| 20230829T09:52:15Z | Null | https://github.com/reetshinde/Intelligence-Estimator-using-Fuzzy-Logic | 0 | 0| 
-| 20230829T09:41:13Z | For my Java practice  | https://github.com/SanderSantana/fuzzy-system | 0 | 0| 
-| 20230829T09:27:33Z | Template repository for CS5219 | https://github.com/dylanjwolff/student-fuzzer | 0 | 0| 
-| 20230829T08:55:25Z | Null | https://github.com/Fuzzyweb/Fuzzyweb.github.io | 0 | 0| 
-| 20230829T02:37:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 219 | 32| 
 
 
 
