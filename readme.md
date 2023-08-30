@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:02:58Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
 | 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
 | 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
 | 20230830T10:15:43Z | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | 0 | 1| 
@@ -56,7 +57,6 @@
 | 20230830T02:17:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5293 | 670| 
 | 20230830T02:16:49Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 15 | 1| 
 | 20230830T01:12:31Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0017-app-IRIeb-secure-exploit | 0 | 0| 
-| 20230830T00:14:23Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0150-0079-app-juZuP-exploit-continue | 0 | 0| 
 
 
 # backdoor on Github 推荐
