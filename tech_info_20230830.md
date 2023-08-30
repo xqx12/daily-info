@@ -17,7 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230830T11:58:43Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230830T12:11:42Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
+| 20230830T12:09:28Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230830T12:09:16Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
 | 20230830T10:49:07Z | 未知编号 | Null | https://github.com/SugiB3o/Keylog_CVE2023-38831 | | 
 | 20230830T10:34:25Z | CVE-2023-38831 | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | | 
 | 20230830T10:15:43Z | CVE-2023-38831 | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | | 
@@ -25,8 +27,6 @@
 | 20230830T02:40:05Z | CVE-2023-39141 | Mass Exploit - CVE-2023-39141 < Aria2 WebUI < Path traversal | https://github.com/codeb0ss/CVE-2023-39141-PoC | | 
 | 20230830T02:36:28Z | CVE-2023-35078 |  Ivanti Endpoint Manager Mobile (EPMM)   POC | https://github.com/Blue-number/CVE-2023-35078 | | 
 | 20230830T01:38:21Z | CVE-2023-38831 | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | https://github.com/ignis-sec/CVE-2023-38831-RaRCE | | 
-| 20230830T01:27:38Z | CVE-2023-38831 | Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23. | https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE | | 
-| 20230830T01:27:36Z | CVE-2023-38831 | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)  | https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831 | | 
 
 
 # klee on Github 推荐
@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T12:10:05Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
 | 20230830T09:39:16Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 36 | 17| 
 | 20230830T08:48:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 8 | 3| 
 | 20230830T06:45:01Z | Null | https://github.com/wrt2000/diffusionBackdoor | 0 | 0| 
