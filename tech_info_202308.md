@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230831T01:40:39Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230831T01:36:46Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
-| 20230831T00:58:04Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230831T00:03:30Z | CVE-2023-26255 | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | https://github.com/Nian-Stars/CVE-2023-26255-6 | | 
 | 20230830T23:37:52Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
 | 20230830T23:06:20Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T01:37:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 718 | 179| 
 | 20230831T01:01:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5304 | 1036| 
 | 20230831T01:00:43Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
 | 20230831T00:56:30Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0093-app-DAVnQ-turn-exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230830T23:53:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0020-app-0q0yA-enjoy-exploit | 0 | 0| 
 | 20230830T23:53:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0017-app-j_msu-replace-exploit | 0 | 0| 
 | 20230830T23:38:05Z | This isn%t really a duplication hack its just a bug to exploit and dupe item datas read How To | https://github.com/ssileo/Pixel-Worlds-Data-Dupe | 0 | 0| 
-| 20230830T23:37:52Z | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | 2 | 0| 
 
 
 # backdoor on Github 推荐
