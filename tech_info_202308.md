@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230831T12:48:42Z | CVE-2020-19360 | CVE-2020-19360 | https://github.com/a1665454764/CVE-2020-19360 | | 
 | 20230831T10:17:10Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
 | 20230831T09:39:21Z | CVE-2023-30943 | CVE-2023-30943  RCE PoC | https://github.com/d0rb/CVE-2023-30943 | | 
 | 20230831T09:19:18Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
@@ -35,7 +36,6 @@
 | 20230831T08:10:17Z | CVE-2021-22145 | Null | https://github.com/niceeeeeeee/CVE-2021-22145-poc | | 
 | 20230831T07:02:47Z | CVE-2021-0394 | Null | https://github.com/Trinadh465/platform_art_CVE-2021-0394 | | 
 | 20230831T01:40:39Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20230831T01:36:46Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 
 
 # klee on Github 推荐
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T12:49:53Z | Null | https://github.com/Priya-Samanta/Fuzzy-System | 0 | 0| 
 | 20230831T11:51:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2761 | 193| 
 | 20230831T11:51:03Z | Null | https://github.com/kksaert/fuzzbook | 0 | 0| 
 | 20230831T09:35:52Z | Null | https://github.com/junjun199429/fuzzy-octo-waffle | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20230831T01:03:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1531 | 215| 
 | 20230831T00:44:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3841 | 461| 
 | 20230830T22:50:28Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 154 | 12| 
-| 20230830T22:49:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3917 | 792| 
 
 
 
