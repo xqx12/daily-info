@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T12:05:31Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 5 | 4| 
 | 20230831T11:38:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5295 | 670| 
 | 20230831T11:25:22Z | This is the public repo for the ECJ paper titled Discovering and Exploiting Sparse Rewards in a Learned Behavior Space | https://github.com/GPaolo/STAX | 0 | 0| 
 | 20230831T10:34:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 82 | 31| 
@@ -80,7 +81,6 @@
 | 20230831T08:43:17Z | Null | https://github.com/CoolNoob123972/ExploitWare | 0 | 0| 
 | 20230831T08:32:16Z | Code of KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations (USENIX Security%23) | https://github.com/vul337/KextFuzz | 22 | 1| 
 | 20230831T01:54:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0040-app-fFq6h-exploit-remind | 0 | 0| 
-| 20230831T01:37:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 718 | 179| 
 
 
 # backdoor on Github 推荐
