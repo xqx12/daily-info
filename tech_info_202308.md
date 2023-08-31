@@ -71,9 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T12:52:57Z | This is the public repo for the ECJ paper titled Discovering and Exploiting Sparse Rewards in a Learned Behavior Space | https://github.com/GPaolo/STAX | 1 | 0| 
 | 20230831T12:05:31Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 5 | 4| 
 | 20230831T11:38:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5295 | 670| 
-| 20230831T11:25:22Z | This is the public repo for the ECJ paper titled Discovering and Exploiting Sparse Rewards in a Learned Behavior Space | https://github.com/GPaolo/STAX | 0 | 0| 
 | 20230831T10:34:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 82 | 31| 
 | 20230831T10:26:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5484 | 757| 
 | 20230831T10:09:02Z | The best exploit for Roblox! Now coming for free using keys. Supports UWP (Microsoft Store) and more. | https://github.com/0xVienna/Hunter-Z | 0 | 0| 
