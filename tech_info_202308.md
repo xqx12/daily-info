@@ -101,7 +101,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T10:03:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2304 | 634| 
+| 20230831T10:16:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2305 | 634| 
+| 20230831T08:23:21Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 39 | 28| 
 | 20230830T04:46:13Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 99 | 3| 
 | 20230830T01:50:10Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 678 | 120| 
 | 20230829T08:31:56Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 255 | 32| 
@@ -110,7 +111,6 @@
 | 20230826T11:23:20Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 55 | 9| 
 | 20230825T05:21:29Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
 | 20230824T18:23:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 40 | 7| 
-| 20230821T15:35:35Z | WebAssembly Symbolic Processor (WASP) a symbolic execution engine for testing and validating Wasm modules. | https://github.com/wasp-platform/wasp | 10 | 1| 
 
 
 # big4 on Github 推荐

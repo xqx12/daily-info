@@ -66,6 +66,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T10:16:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2305 | 634| 
+| 20230831T08:23:21Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 39 | 28| 
 
 
 # big4 on Github 推荐
