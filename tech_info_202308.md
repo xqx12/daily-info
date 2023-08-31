@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230831T10:17:10Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
+| 20230831T09:39:21Z | CVE-2023-30943 | CVE-2023-30943  RCE PoC | https://github.com/d0rb/CVE-2023-30943 | | 
+| 20230831T09:19:18Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
+| 20230831T09:14:30Z | CVE-2023-3519 | Script for checking CVE-2023-3519 for Backdoors | https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck | | 
+| 20230831T08:52:23Z | CVE-2023-32315 | Tool for CVE-2023-32315 exploitation | https://github.com/gibran-abdillah/CVE-2023-32315 | | 
+| 20230831T08:36:33Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
+| 20230831T08:10:17Z | CVE-2021-22145 | Null | https://github.com/niceeeeeeee/CVE-2021-22145-poc | | 
+| 20230831T07:02:47Z | CVE-2021-0394 | Null | https://github.com/Trinadh465/platform_art_CVE-2021-0394 | | 
 | 20230831T01:40:39Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230831T01:36:46Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
-| 20230831T00:03:30Z | CVE-2023-26255 | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | https://github.com/Nian-Stars/CVE-2023-26255-6 | | 
-| 20230830T23:37:52Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
-| 20230830T23:06:20Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
-| 20230830T21:00:37Z | CVE-2023-27524 | CVE-2023-27524 | https://github.com/necroteddy/CVE-2023-27524 | | 
-| 20230830T20:05:54Z | CVE-2023-38831 | Null | https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar | | 
-| 20230830T16:43:25Z | CVE-2023-32784 | Retrieve the master password of a keepass database <= 2.53.1 | https://github.com/4m4Sec/CVE-2023-32784 | | 
-| 20230830T16:19:52Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20230830T15:39:00Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T10:58:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13661 | 419| 
 | 20230830T20:31:33Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 240 | 31| 
-| 20230830T17:52:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13649 | 419| 
 | 20230830T12:36:51Z | Config files for my GitHub profile. | https://github.com/kleepyro/kleepyro | 0 | 0| 
 | 20230830T08:15:46Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 353 | 7| 
 | 20230830T02:52:06Z | Null | https://github.com/helsmy/dst_mod_klee | 1 | 0| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T11:38:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5295 | 670| 
+| 20230831T11:25:22Z | This is the public repo for the ECJ paper titled Discovering and Exploiting Sparse Rewards in a Learned Behavior Space | https://github.com/GPaolo/STAX | 0 | 0| 
+| 20230831T10:34:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 82 | 31| 
+| 20230831T10:26:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5484 | 757| 
+| 20230831T10:09:02Z | The best exploit for Roblox! Now coming for free using keys. Supports UWP (Microsoft Store) and more. | https://github.com/0xVienna/Hunter-Z | 0 | 0| 
+| 20230831T08:52:23Z | Tool for CVE-2023-32315 exploitation | https://github.com/gibran-abdillah/CVE-2023-32315 | 0 | 0| 
+| 20230831T08:43:17Z | Null | https://github.com/CoolNoob123972/ExploitWare | 0 | 0| 
+| 20230831T08:32:16Z | Code of KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations (USENIX Security%23) | https://github.com/vul337/KextFuzz | 22 | 1| 
 | 20230831T01:54:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0040-app-fFq6h-exploit-remind | 0 | 0| 
 | 20230831T01:37:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 718 | 179| 
-| 20230831T01:01:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5304 | 1036| 
-| 20230831T01:00:43Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
-| 20230831T00:56:30Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0093-app-DAVnQ-turn-exploit | 0 | 0| 
-| 20230831T00:55:53Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0079-app--M0x3-research-exploit | 0 | 0| 
-| 20230830T23:57:15Z | Roblox exploiting tool , Bot followers, likes, group joins etc | https://github.com/GarryyBD/versatools | 1 | 0| 
-| 20230830T23:54:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0018-app-3lx-t-exploit-wear | 0 | 0| 
-| 20230830T23:53:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0020-app-0q0yA-enjoy-exploit | 0 | 0| 
-| 20230830T23:53:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0017-app-j_msu-replace-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T09:14:30Z | Script for checking CVE-2023-3519 for Backdoors | https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck | 0 | 0| 
+| 20230831T06:20:18Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 24 | 1| 
+| 20230831T04:18:40Z | Client applicion for feature-phone-android remote control framework. It helps feature-phone users to control their android devices with their old feature phone% vnote memo. | https://github.com/KYHSGeekCode/Remote-Controlled-Android-Server | 10 | 2| 
+| 20230831T00:55:29Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 197 | 22| 
 | 20230830T18:07:09Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 311 | 40| 
 | 20230830T17:37:24Z | Defending Against Federated Learning Backdoor Attacks: Defense Strategies and  Performance Evaluation | https://github.com/12218/federated-learning-backdoor-attack-defense-mechanism | 0 | 0| 
 | 20230830T17:14:18Z | Android Backdoor used to get messages, call histroy, contact list form the mobile with android 6.0 | https://github.com/Muhammdzeesha/Android-backdoor | 0 | 0| 
 | 20230830T13:01:57Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 1 | 0| 
 | 20230830T09:39:16Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 36 | 17| 
 | 20230830T08:48:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 8 | 3| 
-| 20230830T06:45:01Z | Null | https://github.com/wrt2000/diffusionBackdoor | 0 | 0| 
-| 20230829T21:13:34Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 312 | 84| 
-| 20230829T15:56:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7811 | 1821| 
-| 20230829T15:09:36Z | Null | https://github.com/frizzyoncraack/backdoorfrizzy | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T11:51:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2761 | 193| 
+| 20230831T11:51:03Z | Null | https://github.com/kksaert/fuzzbook | 0 | 0| 
+| 20230831T09:35:52Z | Null | https://github.com/junjun199429/fuzzy-octo-waffle | 0 | 0| 
+| 20230831T09:03:02Z | This is a Docker-based AFLGo setup for the libxml2 example. It can also be used for other fuzz targets. | https://github.com/martinclauss/aflgo-libxml2-docker | 0 | 0| 
+| 20230831T08:32:16Z | Code of KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations (USENIX Security%23) | https://github.com/vul337/KextFuzz | 22 | 1| 
 | 20230831T01:11:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5061 | 536| 
 | 20230831T01:03:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1531 | 215| 
 | 20230831T00:44:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3841 | 461| 
 | 20230830T22:50:28Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 154 | 12| 
 | 20230830T22:49:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3917 | 792| 
-| 20230830T22:10:18Z | Very simple Rock Paper Scissors game for practicing JS | https://github.com/sypion/fuzzy-spork | 0 | 0| 
-| 20230830T21:26:37Z | Null | https://github.com/Joematpal/fuzzy-carnival | 0 | 0| 
-| 20230830T20:54:47Z | A simple rest API | https://github.com/ElDuke717/fuzzy-guide-rest-api | 0 | 0| 
-| 20230830T12:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8947 | 1974| 
-| 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
 
 
 
