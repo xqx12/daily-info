@@ -131,13 +131,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T00:44:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3841 | 461| 
 | 20230830T22:50:28Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 154 | 12| 
 | 20230830T22:49:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3917 | 792| 
 | 20230830T22:10:18Z | Very simple Rock Paper Scissors game for practicing JS | https://github.com/sypion/fuzzy-spork | 0 | 0| 
 | 20230830T21:26:37Z | Null | https://github.com/Joematpal/fuzzy-carnival | 0 | 0| 
 | 20230830T20:54:47Z | A simple rest API | https://github.com/ElDuke717/fuzzy-guide-rest-api | 0 | 0| 
 | 20230830T15:15:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1530 | 215| 
-| 20230830T14:36:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3842 | 461| 
 | 20230830T12:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8947 | 1974| 
 | 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
 | 20230830T11:53:06Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 459 | 15| 
