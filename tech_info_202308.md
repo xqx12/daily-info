@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T01:01:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5304 | 1036| 
+| 20230831T01:00:43Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
 | 20230831T00:56:30Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0093-app-DAVnQ-turn-exploit | 0 | 0| 
 | 20230831T00:55:53Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0079-app--M0x3-research-exploit | 0 | 0| 
-| 20230831T00:53:36Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
 | 20230830T23:57:15Z | Roblox exploiting tool , Bot followers, likes, group joins etc | https://github.com/GarryyBD/versatools | 1 | 0| 
 | 20230830T23:54:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0018-app-3lx-t-exploit-wear | 0 | 0| 
 | 20230830T23:53:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0020-app-0q0yA-enjoy-exploit | 0 | 0| 
 | 20230830T23:53:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0017-app-j_msu-replace-exploit | 0 | 0| 
 | 20230830T23:38:05Z | This isn%t really a duplication hack its just a bug to exploit and dupe item datas read How To | https://github.com/ssileo/Pixel-Worlds-Data-Dupe | 0 | 0| 
 | 20230830T23:37:52Z | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | 2 | 0| 
-| 20230830T21:40:19Z | Null | https://github.com/H3lllfir3/django-CVEs-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
