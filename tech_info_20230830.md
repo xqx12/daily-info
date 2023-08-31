@@ -59,7 +59,7 @@
 | 20230830T21:40:19Z | Null | https://github.com/H3lllfir3/django-CVEs-exploits | 0 | 0| 
 | 20230830T21:26:08Z | A Linux shared library for hooking, monitoring, and manipulating system calls and functions for offensive security research and binary exploitation | https://github.com/totekuh/function-hooks | 0 | 0| 
 | 20230830T20:33:13Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 51 | 8| 
-| 20230830T18:57:55Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 4 | 4| 
+| 20230830T20:18:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5303 | 1036| 
 
 
 # backdoor on Github 推荐
