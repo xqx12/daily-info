@@ -17,23 +17,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:57:40Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20230830T12:55:34Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
-| 20230830T12:44:14Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
-| 20230830T12:21:50Z | CVE-2023-3836 | 大华智慧园区综合管理平台publishing文件上传 | https://github.com/zh-byte/CVE-2023-3836 | | 
-| 20230830T12:18:38Z | CVE-2023-34040 | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040 | | 
-| 20230830T10:49:07Z | 未知编号 | Null | https://github.com/SugiB3o/Keylog_CVE2023-38831 | | 
-| 20230830T10:34:25Z | CVE-2023-38831 | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | | 
-| 20230830T10:15:43Z | CVE-2023-38831 | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | | 
-| 20230830T09:42:19Z | CVE-2021-3019 | CVE-2021-3019 | https://github.com/a1665454764/CVE-2021-3019 | | 
-| 20230830T02:40:05Z | CVE-2023-39141 | Mass Exploit - CVE-2023-39141 < Aria2 WebUI < Path traversal | https://github.com/codeb0ss/CVE-2023-39141-PoC | | 
+| 20230830T23:57:11Z | CVE-2023-26255 | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | https://github.com/Nian-Stars/CVE-2023-26255-6 | | 
+| 20230830T23:37:52Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
+| 20230830T23:06:20Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
+| 20230830T22:50:20Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230830T22:46:16Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
+| 20230830T21:00:37Z | CVE-2023-27524 | CVE-2023-27524 | https://github.com/necroteddy/CVE-2023-27524 | | 
+| 20230830T20:05:54Z | CVE-2023-38831 | Null | https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar | | 
+| 20230830T16:43:25Z | CVE-2023-32784 | Retrieve the master password of a keepass database <= 2.53.1 | https://github.com/4m4Sec/CVE-2023-32784 | | 
+| 20230830T16:19:52Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20230830T15:39:00Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T20:31:33Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 240 | 31| 
+| 20230830T17:52:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13649 | 419| 
 | 20230830T12:36:51Z | Config files for my GitHub profile. | https://github.com/kleepyro/kleepyro | 0 | 0| 
-| 20230830T10:01:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13644 | 419| 
 | 20230830T08:15:46Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 353 | 7| 
 | 20230830T02:52:06Z | Null | https://github.com/helsmy/dst_mod_klee | 1 | 0| 
 | 20230830T02:15:39Z | Null | https://github.com/sirkeshx/kleeme.portfolio | 0 | 0| 
@@ -49,22 +50,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T23:57:15Z | Roblox exploiting tool , Bot followers, likes, group joins etc | https://github.com/GarryyBD/versatools | 1 | 0| 
+| 20230830T23:54:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0018-app-3lx-t-exploit-wear | 0 | 0| 
+| 20230830T23:53:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0020-app-0q0yA-enjoy-exploit | 0 | 0| 
+| 20230830T23:53:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0017-app-j_msu-replace-exploit | 0 | 0| 
+| 20230830T23:38:05Z | This isn%t really a duplication hack its just a bug to exploit and dupe item datas read How To | https://github.com/ssileo/Pixel-Worlds-Data-Dupe | 0 | 0| 
+| 20230830T23:37:52Z | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | 2 | 0| 
+| 20230830T21:40:19Z | Null | https://github.com/H3lllfir3/django-CVEs-exploits | 0 | 0| 
+| 20230830T21:26:08Z | A Linux shared library for hooking, monitoring, and manipulating system calls and functions for offensive security research and binary exploitation | https://github.com/totekuh/function-hooks | 0 | 0| 
+| 20230830T18:57:55Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 4 | 4| 
 | 20230830T12:44:14Z | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | 0 | 0| 
-| 20230830T12:11:45Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multi_cloud_exploitation | 0 | 0| 
-| 20230830T11:52:14Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rhtap-demo-app-pDZna-exploit-issue | 0 | 0| 
-| 20230830T10:34:25Z | Null | https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit | 0 | 0| 
-| 20230830T10:15:43Z | winrar exploit 6.22 <= | https://github.com/nhman-python/CVE-2023-38831 | 0 | 1| 
-| 20230830T08:57:50Z | A WebServer+Wifi Repeater+Fake DNS Server to Host PS4/PS5 Exploits on ESP8266 | https://github.com/frwololo/PS4_PS5-ESP8266-Server | 1 | 0| 
-| 20230830T07:07:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5480 | 757| 
-| 20230830T03:01:13Z | A UI Library written in Lua for Roblox, may be used in exploits/games | https://github.com/Mwffins/Fractal-Ui-Lib | 0 | 0| 
-| 20230830T02:17:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5293 | 670| 
-| 20230830T02:16:49Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 15 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230830T12:10:05Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
+| 20230830T18:07:09Z | all shell backdoor in the world | https://github.com/beruangsalju/shell-backdoor | 311 | 40| 
+| 20230830T17:37:24Z | Defending Against Federated Learning Backdoor Attacks: Defense Strategies and  Performance Evaluation | https://github.com/12218/federated-learning-backdoor-attack-defense-mechanism | 0 | 0| 
+| 20230830T17:14:18Z | Android Backdoor used to get messages, call histroy, contact list form the mobile with android 6.0 | https://github.com/Muhammdzeesha/Android-backdoor | 0 | 0| 
+| 20230830T13:01:57Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 1 | 0| 
 | 20230830T09:39:16Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 36 | 17| 
 | 20230830T08:48:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 8 | 3| 
 | 20230830T06:45:01Z | Null | https://github.com/wrt2000/diffusionBackdoor | 0 | 0| 
@@ -86,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230830T22:50:28Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 154 | 12| 
+| 20230830T22:49:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3917 | 792| 
+| 20230830T22:10:18Z | Very simple Rock Paper Scissors game for practicing JS | https://github.com/sypion/fuzzy-spork | 0 | 0| 
+| 20230830T21:26:37Z | Null | https://github.com/Joematpal/fuzzy-carnival | 0 | 0| 
+| 20230830T20:54:47Z | A simple rest API | https://github.com/ElDuke717/fuzzy-guide-rest-api | 0 | 0| 
 | 20230830T12:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8947 | 1974| 
 | 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
-| 20230830T12:06:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3916 | 792| 
 | 20230830T11:53:06Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 459 | 15| 
 | 20230830T11:24:44Z | Null | https://github.com/mehmetaknacrr/fuzzy-waffle | 0 | 0| 
 | 20230830T10:34:24Z | Null | https://github.com/output10000/fuzzy-potato | 0 | 0| 
-| 20230830T10:03:18Z | Null | https://github.com/energyinpython/Fuzzy-DARIA-TOPSIS | 0 | 0| 
-| 20230830T09:55:02Z | Null | https://github.com/yonatan200201/Clustering-K-Means-Fuzzy-C-Means | 0 | 0| 
-| 20230830T09:52:10Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/yalishanda42/FuzzyKit | 3 | 0| 
-| 20230830T04:20:00Z | Cloudflare Worker simple KV store lister + getter | https://github.com/janzheng/fuzzykey | 0 | 0| 
 
 
 
