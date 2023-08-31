@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T01:54:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0040-app-fFq6h-exploit-remind | 0 | 0| 
 | 20230831T01:37:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 718 | 179| 
 | 20230831T01:01:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5304 | 1036| 
 | 20230831T01:00:43Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20230830T23:54:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0018-app-3lx-t-exploit-wear | 0 | 0| 
 | 20230830T23:53:35Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0020-app-0q0yA-enjoy-exploit | 0 | 0| 
 | 20230830T23:53:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0017-app-j_msu-replace-exploit | 0 | 0| 
-| 20230830T23:38:05Z | This isn%t really a duplication hack its just a bug to exploit and dupe item datas read How To | https://github.com/ssileo/Pixel-Worlds-Data-Dupe | 0 | 0| 
 
 
 # backdoor on Github 推荐
