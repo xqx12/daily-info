@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230831T00:58:04Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230831T00:03:30Z | CVE-2023-26255 | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | https://github.com/Nian-Stars/CVE-2023-26255-6 | | 
 | 20230830T23:37:52Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
 | 20230830T23:06:20Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
-| 20230830T22:50:20Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T22:46:16Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 | 20230830T21:00:37Z | CVE-2023-27524 | CVE-2023-27524 | https://github.com/necroteddy/CVE-2023-27524 | | 
 | 20230830T20:05:54Z | CVE-2023-38831 | Null | https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar | | 

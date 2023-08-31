@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230830T23:37:52Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
 | 20230830T23:06:20Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
-| 20230830T22:50:20Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230830T22:46:16Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 | 20230830T21:00:37Z | CVE-2023-27524 | CVE-2023-27524 | https://github.com/necroteddy/CVE-2023-27524 | | 
 | 20230830T20:05:54Z | CVE-2023-38831 | Null | https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar | | 
@@ -27,6 +26,7 @@
 | 20230830T16:19:52Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20230830T15:39:00Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
 | 20230830T15:29:48Z | CVE-2023-26256 | Null | https://github.com/qs119/CVE-2023-26256 | | 
+| 20230830T14:44:26Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/NothingNgga/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
