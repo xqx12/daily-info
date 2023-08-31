@@ -58,8 +58,8 @@
 | 20230830T23:37:52Z | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | 2 | 0| 
 | 20230830T21:40:19Z | Null | https://github.com/H3lllfir3/django-CVEs-exploits | 0 | 0| 
 | 20230830T21:26:08Z | A Linux shared library for hooking, monitoring, and manipulating system calls and functions for offensive security research and binary exploitation | https://github.com/totekuh/function-hooks | 0 | 0| 
+| 20230830T20:33:13Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 51 | 8| 
 | 20230830T18:57:55Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 4 | 4| 
-| 20230830T12:44:14Z | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | 0 | 0| 
 
 
 # backdoor on Github 推荐
