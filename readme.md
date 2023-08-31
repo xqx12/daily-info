@@ -95,11 +95,11 @@
 | 20230830T22:10:18Z | Very simple Rock Paper Scissors game for practicing JS | https://github.com/sypion/fuzzy-spork | 0 | 0| 
 | 20230830T21:26:37Z | Null | https://github.com/Joematpal/fuzzy-carnival | 0 | 0| 
 | 20230830T20:54:47Z | A simple rest API | https://github.com/ElDuke717/fuzzy-guide-rest-api | 0 | 0| 
+| 20230830T15:15:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1530 | 215| 
 | 20230830T12:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8947 | 1974| 
 | 20230830T12:28:11Z | Web-based Fuzzer | https://github.com/SMN-O/WebFuzzer | 0 | 0| 
 | 20230830T11:53:06Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 459 | 15| 
 | 20230830T11:24:44Z | Null | https://github.com/mehmetaknacrr/fuzzy-waffle | 0 | 0| 
-| 20230830T10:34:24Z | Null | https://github.com/output10000/fuzzy-potato | 0 | 0| 
 
 
 
