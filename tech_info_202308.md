@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230831T00:56:30Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0093-app-DAVnQ-turn-exploit | 0 | 0| 
+| 20230831T00:55:53Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0100-0079-app--M0x3-research-exploit | 0 | 0| 
 | 20230831T00:53:36Z | OpenXploit -- the place where exploits leaves | https://github.com/Yoti/psp_openxploit | 0 | 0| 
 | 20230830T23:57:15Z | Roblox exploiting tool , Bot followers, likes, group joins etc | https://github.com/GarryyBD/versatools | 1 | 0| 
 | 20230830T23:54:06Z | GitOps Repository | https://github.com/pmacik-testing/cimb-42205-0025-0018-app-3lx-t-exploit-wear | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20230830T23:38:05Z | This isn%t really a duplication hack its just a bug to exploit and dupe item datas read How To | https://github.com/ssileo/Pixel-Worlds-Data-Dupe | 0 | 0| 
 | 20230830T23:37:52Z | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | 2 | 0| 
 | 20230830T21:40:19Z | Null | https://github.com/H3lllfir3/django-CVEs-exploits | 0 | 0| 
-| 20230830T21:26:08Z | A Linux shared library for hooking, monitoring, and manipulating system calls and functions for offensive security research and binary exploitation | https://github.com/totekuh/function-hooks | 0 | 0| 
-| 20230830T20:33:13Z | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | 51 | 8| 
 
 
 # backdoor on Github 推荐
