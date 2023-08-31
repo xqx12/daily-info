@@ -84,6 +84,7 @@
 | 20230831T09:35:52Z | Null | https://github.com/junjun199429/fuzzy-octo-waffle | 0 | 0| 
 | 20230831T09:03:02Z | This is a Docker-based AFLGo setup for the libxml2 example. It can also be used for other fuzz targets. | https://github.com/martinclauss/aflgo-libxml2-docker | 0 | 0| 
 | 20230831T08:32:16Z | Code of KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations (USENIX Security%23) | https://github.com/vul337/KextFuzz | 22 | 1| 
+| 20230831T02:57:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3918 | 793| 
 | 20230831T01:11:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5061 | 536| 
 | 20230831T01:03:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1531 | 215| 
 | 20230831T00:44:10Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3841 | 461| 
