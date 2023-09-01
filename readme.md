@@ -52,7 +52,7 @@
 | 20230901T10:27:44Z | The Hub of cool roblox exploits! | https://github.com/Kvass134/KvHubExploit | 0 | 0| 
 | 20230901T09:47:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5489 | 759| 
 | 20230901T09:14:56Z | Null | https://github.com/PuzzleDotsCode/xss-exploit | 0 | 0| 
-| 20230901T08:31:23Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 5 | 4| 
+| 20230901T08:55:30Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3617 | 528| 
 
 
 # backdoor on Github 推荐
