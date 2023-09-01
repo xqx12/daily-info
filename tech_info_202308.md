@@ -132,7 +132,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230831T23:56:38Z | Null | https://github.com/yeemelya77/fuzzy-octo-bassoon | 0 | 0| 
-| 20230831T22:39:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8955 | 1974| 
+| 20230831T22:39:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8955 | 1975| 
 | 20230831T22:23:47Z | Null | https://github.com/google/fuzztest | 390 | 28| 
 | 20230831T22:21:42Z | A Swallowing pain site called fuzzy-winner | https://github.com/dahniar34/fuzzy-winner | 0 | 0| 
 | 20230831T22:21:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2762 | 193| 
