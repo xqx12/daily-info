@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:00:09Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
+| 20230901T12:18:44Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230901T11:35:14Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/ASkyeye/CVE-2022-21894-Payload | | 
 | 20230901T10:51:08Z | CVE-2023-3609 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609 | | 
 | 20230901T09:58:43Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
