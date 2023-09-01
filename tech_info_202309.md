@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T12:16:38Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
 | 20230901T11:52:56Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 375 | 76| 
 | 20230901T11:26:33Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 1 | 0| 
 | 20230901T10:55:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99af5f27-b742-4461-ad87-dab9e91ce999-DK7g5-exploit-produce | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230901T09:47:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5489 | 759| 
 | 20230901T09:14:56Z | Null | https://github.com/PuzzleDotsCode/xss-exploit | 0 | 0| 
 | 20230901T08:31:23Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 5 | 4| 
-| 20230901T05:53:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5299 | 671| 
 
 
 # backdoor on Github 推荐
