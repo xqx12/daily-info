@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T12:39:32Z | Null | https://github.com/asihkhairunnisa/fuzzy-octo-spork | 0 | 0| 
 | 20230901T11:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 822 | 113| 
 | 20230901T11:32:53Z | Null | https://github.com/Amirk50/fuzzy-memory | 0 | 0| 
 | 20230901T11:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2763 | 193| 
@@ -90,7 +91,6 @@
 | 20230901T09:39:23Z | Testing fuzzing functionalities in Go lang | https://github.com/kajaaz/go-fuzz-lab | 0 | 0| 
 | 20230901T09:25:37Z | Null | https://github.com/elsunais6167/Fuzzy | 0 | 0| 
 | 20230901T09:02:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3844 | 461| 
-| 20230901T08:09:20Z | Null | https://github.com/kupl/CutFuzz | 0 | 0| 
 
 
 
