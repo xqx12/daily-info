@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:18:44Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
+| 20230901T12:24:05Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230901T11:35:14Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/ASkyeye/CVE-2022-21894-Payload | | 
 | 20230901T10:51:08Z | CVE-2023-3609 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609 | | 
 | 20230901T09:58:43Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:16:38Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
+| 20230901T12:23:39Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
 | 20230901T11:52:56Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 375 | 76| 
 | 20230901T11:26:33Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 1 | 0| 
 | 20230901T10:55:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99af5f27-b742-4461-ad87-dab9e91ce999-DK7g5-exploit-produce | 0 | 0| 
@@ -58,7 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:12:21Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 29 | 5| 
+| 20230901T12:24:27Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 30 | 5| 
 | 20230901T09:56:03Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 25 | 1| 
 | 20230901T07:59:11Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 314 | 84| 
 | 20230901T03:19:28Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 5 | 0| 
