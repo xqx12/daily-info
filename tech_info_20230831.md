@@ -20,12 +20,12 @@
 | 20230831T21:46:34Z | CVE-2023-36281 | PoC of CVE-2023-36281 | https://github.com/tagomaru/CVE-2023-36281 | | 
 | 20230831T17:54:36Z | CVE-2023-3450 | Null | https://github.com/yuanjinyuyuyu/CVE-2023-3450 | | 
 | 20230831T12:48:42Z | CVE-2020-19360 | CVE-2020-19360 | https://github.com/a1665454764/CVE-2020-19360 | | 
+| 20230831T10:05:31Z | CVE-2023-40477 | CVE-2023-40477 PoC by Wild-Pointer | https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC | | 
 | 20230831T09:39:21Z | CVE-2023-30943 | CVE-2023-30943  RCE PoC | https://github.com/d0rb/CVE-2023-30943 | | 
 | 20230831T09:19:18Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
 | 20230831T09:14:30Z | CVE-2023-3519 | Script for checking CVE-2023-3519 for Backdoors | https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck | | 
 | 20230831T08:52:23Z | CVE-2023-32315 | Tool for CVE-2023-32315 exploitation | https://github.com/gibran-abdillah/CVE-2023-32315 | | 
 | 20230831T08:36:33Z | CVE-2023-38831 | This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code. | https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC | | 
-| 20230831T08:10:17Z | CVE-2021-22145 | Null | https://github.com/niceeeeeeee/CVE-2021-22145-poc | | 
 
 
 # klee on Github 推荐
