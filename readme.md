@@ -58,7 +58,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230831T22:37:29Z | ADR is a trojan that retrieves all information on the computer and all data stored in applications using chormuim. It recovers cookies, tokens, passwords and saved bank cards. This malware is undetectable by Windows Defender, Chrome, Virustotal (4/71). | https://github.com/julesgrc0/ADR | 7 | 0| 
-| 20230831T22:11:35Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 23 | 4| 
 | 20230831T18:09:05Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 24 | 1| 
 | 20230831T17:46:28Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 313 | 84| 
 | 20230831T09:14:30Z | Script for checking CVE-2023-3519 for Backdoors | https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck | 0 | 0| 
