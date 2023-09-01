@@ -89,10 +89,10 @@
 | 20230831T22:21:42Z | A Swallowing pain site called fuzzy-winner | https://github.com/dahniar34/fuzzy-winner | 0 | 0| 
 | 20230831T22:21:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2762 | 193| 
 | 20230831T22:06:40Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 306 | 46| 
-| 20230831T21:32:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1534 | 216| 
 | 20230831T14:52:06Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3843 | 461| 
 | 20230831T12:49:53Z | Null | https://github.com/Priya-Samanta/Fuzzy-System | 0 | 0| 
 | 20230831T11:51:03Z | Null | https://github.com/kksaert/fuzzbook | 0 | 0| 
+| 20230831T09:35:52Z | Null | https://github.com/junjun199429/fuzzy-octo-waffle | 0 | 0| 
 
 
 
