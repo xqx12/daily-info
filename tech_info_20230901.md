@@ -67,12 +67,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T08:52:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2308 | 634| 
 | 20230901T01:03:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 679 | 120| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T09:20:12Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 14 | 2| 
+| 20230901T05:15:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 8 | 1| 
 
 
 # fuzz on Github 推荐
