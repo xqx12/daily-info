@@ -44,8 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T01:30:18Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 12 | 0| 
 | 20230902T00:49:27Z | Python3 scripts used in exploiting vulnserver | https://github.com/XORMANCER/VulnserverScripts | 0 | 0| 
-| 20230902T00:23:54Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 11 | 0| 
 | 20230901T23:51:26Z | Roblox exploiting tool , Bot followers, likes, group joins, etc. | https://github.com/GarryyBD/versatools | 1 | 0| 
 | 20230901T22:58:29Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
 | 20230901T22:56:20Z | Null | https://github.com/rodee88/wget-File-Upload-Exploit | 0 | 0| 
