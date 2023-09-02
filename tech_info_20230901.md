@@ -21,12 +21,12 @@
 | 20230901T23:06:33Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
 | 20230901T20:45:46Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230901T18:36:19Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230901T18:23:21Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
 | 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
 | 20230901T12:28:05Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
 | 20230901T11:35:14Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/ASkyeye/CVE-2022-21894-Payload | | 
+| 20230901T10:51:08Z | CVE-2023-3609 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609 | | 
 
 
 # klee on Github 推荐

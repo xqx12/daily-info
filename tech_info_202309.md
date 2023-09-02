@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:49:34Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230902T00:47:37Z | CVE-2023-40869 |  Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | https://github.com/MinoTauro2020/CVE-2023-40869 | | 
 | 20230902T00:41:27Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230902T00:24:23Z | CVE-2023-40868 |  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | https://github.com/MinoTauro2020/CVE-2023-40868 | | 
@@ -24,7 +25,6 @@
 | 20230901T23:06:33Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
 | 20230901T20:45:46Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230901T18:36:19Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
-| 20230901T18:23:21Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
 
