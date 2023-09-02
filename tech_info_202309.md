@@ -67,7 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T12:57:21Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 41 | 6| 
+| 20230902T12:59:39Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 42 | 6| 
 | 20230901T23:02:30Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 1 | 1| 
 | 20230901T19:06:19Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
 | 20230901T18:50:24Z | s&box key generation backdoor | https://github.com/oniongithub/sandbox-backdoor | 0 | 0| 
