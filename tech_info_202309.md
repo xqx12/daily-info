@@ -44,12 +44,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:23:54Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 11 | 0| 
 | 20230901T23:51:26Z | Roblox exploiting tool , Bot followers, likes, group joins, etc. | https://github.com/GarryyBD/versatools | 1 | 0| 
 | 20230901T22:58:29Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
 | 20230901T22:56:20Z | Null | https://github.com/rodee88/wget-File-Upload-Exploit | 0 | 0| 
 | 20230901T22:53:34Z | test | https://github.com/Skellss/ExploitHub | 0 | 0| 
 | 20230901T22:44:54Z | just the test and exploits | https://github.com/0xm4ud/Brownie_SCH_Par1_n_Part2 | 0 | 0| 
-| 20230901T22:24:54Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 10 | 0| 
 | 20230901T19:19:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 154 | 13| 
 | 20230901T12:35:47Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 9 | 0| 
 | 20230901T12:23:39Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
