@@ -23,9 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T12:43:50Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230902T12:30:16Z | CVE-2021-34523 | test-yaml | https://github.com/SUPRAAA-1337/CVE-2021-34523 | | 
 | 20230902T12:29:59Z | CVE-2023-39725 | Null | https://github.com/anky-123/CVE-2023-39725 | | 
-| 20230902T12:03:25Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230902T11:59:23Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230902T10:41:30Z | CVE-2022-22965 | Null | https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965 | | 
 | 20230902T07:56:41Z | CVE-2023-34039 | VMware exploit | https://github.com/CharonDefalt/CVE-2023-34039 | | 
