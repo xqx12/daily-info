@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:47:37Z | CVE-2023-40869 |  Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | https://github.com/MinoTauro2020/CVE-2023-40869 | | 
 | 20230902T00:41:27Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230902T00:24:23Z | CVE-2023-40868 |  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | https://github.com/MinoTauro2020/CVE-2023-40868 | | 
 | 20230901T23:16:06Z | CVE-2021-39473 | Null | https://github.com/BrunoTeixeira1996/CVE-2021-39473 | | 
@@ -26,7 +27,6 @@
 | 20230901T18:23:21Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
-| 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
 
 
 # klee on Github 推荐
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:49:27Z | Python3 scripts used in exploiting vulnserver | https://github.com/XORMANCER/VulnserverScripts | 0 | 0| 
 | 20230902T00:23:54Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 11 | 0| 
 | 20230901T23:51:26Z | Roblox exploiting tool , Bot followers, likes, group joins, etc. | https://github.com/GarryyBD/versatools | 1 | 0| 
 | 20230901T22:58:29Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230901T19:19:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 154 | 13| 
 | 20230901T16:48:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5306 | 1036| 
 | 20230901T12:35:47Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 9 | 0| 
-| 20230901T12:23:39Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
