@@ -25,8 +25,8 @@
 | 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
 | 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
-| 20230901T14:20:35Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230901T12:28:05Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
+| 20230901T11:35:14Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/ASkyeye/CVE-2022-21894-Payload | | 
 
 
 # klee on Github 推荐

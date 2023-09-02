@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:41:27Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230902T00:24:23Z | CVE-2023-40868 |  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | https://github.com/MinoTauro2020/CVE-2023-40868 | | 
 | 20230901T23:16:06Z | CVE-2021-39473 | Null | https://github.com/BrunoTeixeira1996/CVE-2021-39473 | | 
 | 20230901T23:06:33Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
@@ -26,7 +27,6 @@
 | 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
 | 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
-| 20230901T14:20:35Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 
 
 # klee on Github 推荐
