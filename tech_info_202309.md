@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T00:24:23Z | CVE-2023-40868 |  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | https://github.com/MinoTauro2020/CVE-2023-40868 | | 
 | 20230901T23:16:06Z | CVE-2021-39473 | Null | https://github.com/BrunoTeixeira1996/CVE-2021-39473 | | 
 | 20230901T23:06:33Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
 | 20230901T20:45:46Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
@@ -26,7 +27,6 @@
 | 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
 | 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
 | 20230901T14:20:35Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
-| 20230901T12:28:05Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
 
 
 # klee on Github 推荐
@@ -51,9 +51,9 @@
 | 20230901T22:53:34Z | test | https://github.com/Skellss/ExploitHub | 0 | 0| 
 | 20230901T22:44:54Z | just the test and exploits | https://github.com/0xm4ud/Brownie_SCH_Par1_n_Part2 | 0 | 0| 
 | 20230901T19:19:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 154 | 13| 
+| 20230901T16:48:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5306 | 1036| 
 | 20230901T12:35:47Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 9 | 0| 
 | 20230901T12:23:39Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
-| 20230901T11:52:56Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 375 | 76| 
 
 
 # backdoor on Github 推荐
