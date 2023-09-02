@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230902T12:03:25Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230902T11:59:23Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
-| 20230902T11:06:24Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
 | 20230902T10:41:30Z | CVE-2022-22965 | Null | https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965 | | 
 | 20230902T07:56:41Z | CVE-2023-34039 | VMware exploit | https://github.com/CharonDefalt/CVE-2023-34039 | | 
 | 20230902T06:41:12Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
@@ -74,6 +74,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T03:31:40Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 67 | 4| 
 
 
 # fuzz on Github 推荐
