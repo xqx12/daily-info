@@ -17,22 +17,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230901T23:16:06Z | CVE-2021-39473 | Null | https://github.com/BrunoTeixeira1996/CVE-2021-39473 | | 
+| 20230901T23:06:33Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
+| 20230901T20:45:46Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
+| 20230901T18:36:19Z | cve-2023-3519 | Null | https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519 | | 
+| 20230901T18:23:21Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
+| 20230901T17:44:03Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit builder | https://github.com/Mich-ele/CVE-2023-38831-winrar | | 
+| 20230901T16:46:07Z | CVE-2023-41646 | Null | https://github.com/tristao-marinho/CVE-2023-41646 | | 
+| 20230901T14:57:43Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test1 | | 
+| 20230901T14:20:35Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230901T12:28:05Z | cve-2020-11060 | Python3 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
-| 20230901T12:24:05Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
-| 20230901T11:35:14Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/ASkyeye/CVE-2022-21894-Payload | | 
-| 20230901T10:51:08Z | CVE-2023-3609 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609 | | 
-| 20230901T09:58:43Z | CVE-2023-41717 | This repository is to provide a write-up and PoC for CVE-2023-41717. | https://github.com/federella/CVE-2023-41717 | | 
-| 20230901T09:43:05Z | CVE-2023-26469 | CVE-2023-26469 REC PoC | https://github.com/d0rb/CVE-2023-26469 | | 
-| 20230901T09:02:04Z | CVE-2023-4696 | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | https://github.com/mnqazi/CVE-2023-4696 | | 
-| 20230901T05:58:40Z | CVE-2023-3567 | Null | https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567 | | 
-| 20230901T05:35:28Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
-| 20230901T05:34:15Z | CVE-2023-4166 | Null | https://github.com/mvpyyds/CVE-2023-4166 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:33:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13670 | 419| 
+| 20230901T23:12:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13670 | 419| 
+| 20230901T16:00:39Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 242 | 31| 
 
 
 # s2e on Github 推荐
@@ -43,23 +44,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T23:51:26Z | Roblox exploiting tool , Bot followers, likes, group joins, etc. | https://github.com/GarryyBD/versatools | 1 | 0| 
+| 20230901T22:58:29Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
+| 20230901T22:56:20Z | Null | https://github.com/rodee88/wget-File-Upload-Exploit | 0 | 0| 
+| 20230901T22:53:34Z | test | https://github.com/Skellss/ExploitHub | 0 | 0| 
+| 20230901T22:44:54Z | just the test and exploits | https://github.com/0xm4ud/Brownie_SCH_Par1_n_Part2 | 0 | 0| 
+| 20230901T22:24:54Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 10 | 0| 
+| 20230901T19:19:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 154 | 13| 
+| 20230901T12:35:47Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 9 | 0| 
 | 20230901T12:23:39Z | You become a wizzard | https://github.com/Qyfashae/Win_Exploit_py3 | 0 | 0| 
 | 20230901T11:52:56Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 375 | 76| 
-| 20230901T11:26:33Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 1 | 0| 
-| 20230901T10:55:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-99af5f27-b742-4461-ad87-dab9e91ce999-DK7g5-exploit-produce | 0 | 0| 
-| 20230901T10:54:21Z | ROBLOX Script - Universal Aimbot Script Remake | https://github.com/Exunys/Aimbot-V2 | 41 | 60| 
-| 20230901T10:38:32Z | Aplicación de escritorio que permite buscar exploits y analizar archivos. | https://github.com/rpmcrypt/odisseas | 1 | 0| 
-| 20230901T10:27:44Z | The Hub of cool roblox exploits! | https://github.com/Kvass134/KvHubExploit | 0 | 0| 
-| 20230901T09:47:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5489 | 759| 
-| 20230901T09:14:56Z | Null | https://github.com/PuzzleDotsCode/xss-exploit | 0 | 0| 
-| 20230901T08:55:30Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3617 | 528| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230901T12:45:18Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 7 | 1| 
-| 20230901T12:24:27Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 30 | 5| 
+| 20230901T23:02:30Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 1 | 0| 
+| 20230901T22:27:27Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 31 | 5| 
+| 20230901T19:06:19Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
+| 20230901T18:50:24Z | s&box key generation backdoor | https://github.com/oniongithub/sandbox-backdoor | 0 | 0| 
+| 20230901T16:22:36Z | Null | https://github.com/Bappyllcg/wp-password-backdoor | 0 | 0| 
+| 20230901T16:11:05Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 8 | 1| 
+| 20230901T15:32:20Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 167 | 58| 
 | 20230901T09:56:03Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 25 | 1| 
 | 20230901T07:59:11Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 314 | 84| 
 
@@ -81,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230901T21:56:20Z | Null | https://github.com/CharlesPDX/fuzzy-artmap | 0 | 0| 
+| 20230901T20:22:48Z | Null | https://github.com/TomatoGreen2/Fuzzy-c-means-clustering-of-multivariate-time-series-with-dtw-distance-from-scratch | 0 | 0| 
+| 20230901T20:17:09Z | Null | https://github.com/ikepman/fuzzy-space-palm-tree | 0 | 0| 
+| 20230901T18:12:30Z | linux tool that uses Machine Learning/Natural Language Processing to generate tailored password lists | https://github.com/suffs811/fuzzler | 0 | 0| 
 | 20230901T12:39:32Z | Null | https://github.com/asihkhairunnisa/fuzzy-octo-spork | 0 | 0| 
 | 20230901T11:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 822 | 113| 
 | 20230901T11:32:53Z | Null | https://github.com/Amirk50/fuzzy-memory | 0 | 0| 
 | 20230901T11:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2763 | 193| 
 | 20230901T10:47:13Z | This is the repo for the bachelor project IMPROVING THE PERFORMANCE OF DCGAN ON SYNTHESIZING IMAGES WITH A DEEP NEURO-FUZZY NETWORK | https://github.com/Ludds/IMPROVING-THE-PERFORMANCE-OF-DCGAN-ON-SYNTHESIZING-IMAGES-WITH-A-DEEP-NEURO-FUZZY-NETWORK | 0 | 0| 
 | 20230901T10:32:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8961 | 1976| 
-| 20230901T10:26:01Z | Final year project - Academic Performance of student with Fuzzy Logic : The best educational website I have created for students, teachers, etc. using algorithms with fuzzy logic and Technologies used  HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY for Frontend work and PYTHON, Django for database | https://github.com/Missmayu592/Fuzzy-Logic | 0 | 0| 
-| 20230901T09:39:23Z | Testing fuzzing functionalities in Go lang | https://github.com/kajaaz/go-fuzz-lab | 0 | 0| 
-| 20230901T09:25:37Z | Null | https://github.com/elsunais6167/Fuzzy | 0 | 0| 
-| 20230901T09:02:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3844 | 461| 
 
 
 
