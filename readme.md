@@ -62,12 +62,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T11:52:35Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 38 | 6| 
+| 20230902T12:01:16Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 39 | 6| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T10:12:20Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 214 | 21| 
 
 
 # big4 on Github 推荐

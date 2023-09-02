@@ -67,7 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T11:52:35Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 38 | 6| 
+| 20230902T12:01:16Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 39 | 6| 
 | 20230901T23:02:30Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 1 | 1| 
 | 20230901T19:06:19Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
 | 20230901T18:50:24Z | s&box key generation backdoor | https://github.com/oniongithub/sandbox-backdoor | 0 | 0| 
@@ -81,6 +81,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T10:12:20Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 214 | 21| 
 | 20230901T13:42:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 680 | 120| 
 | 20230901T08:52:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2308 | 634| 
 
