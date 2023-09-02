@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T01:40:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0015-app-xPC58-exploit-read | 0 | 0| 
 | 20230902T01:34:34Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0019-app-zF1Kf-exploit-try | 0 | 0| 
 | 20230902T01:30:18Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 12 | 0| 
 | 20230902T00:49:27Z | Python3 scripts used in exploiting vulnserver | https://github.com/XORMANCER/VulnserverScripts | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230901T22:53:34Z | test | https://github.com/Skellss/ExploitHub | 0 | 0| 
 | 20230901T22:44:54Z | just the test and exploits | https://github.com/0xm4ud/Brownie_SCH_Par1_n_Part2 | 0 | 0| 
 | 20230901T19:19:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 154 | 13| 
-| 20230901T16:48:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5306 | 1036| 
 
 
 # backdoor on Github 推荐
