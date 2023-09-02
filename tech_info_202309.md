@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T12:35:30Z | Snowfall prediction using fuzzy logic is a personal perspective under snow forecasting. | https://github.com/anshadanwer/Snow-Fall-Prediction-using-Fuzzy-Inference-System | 0 | 0| 
 | 20230902T10:49:47Z | A simple registration/login service | https://github.com/dgdraganov/fuzzy-user-api | 0 | 0| 
 | 20230902T00:43:55Z | it describes the effect of PCA on fuzzy c means clustering algorithm  | https://github.com/yassminSaber/fuzzy-c-means-implementation | 0 | 0| 
 | 20230901T21:56:20Z | Null | https://github.com/CharlesPDX/fuzzy-artmap | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20230901T12:39:32Z | Null | https://github.com/asihkhairunnisa/fuzzy-octo-spork | 0 | 0| 
 | 20230901T11:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 822 | 113| 
 | 20230901T11:32:53Z | Null | https://github.com/Amirk50/fuzzy-memory | 0 | 0| 
-| 20230901T11:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2763 | 193| 
 
 
 

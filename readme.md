@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T12:35:30Z | Snowfall prediction using fuzzy logic is a personal perspective under snow forecasting. | https://github.com/anshadanwer/Snow-Fall-Prediction-using-Fuzzy-Inference-System | 0 | 0| 
 | 20230902T10:49:47Z | A simple registration/login service | https://github.com/dgdraganov/fuzzy-user-api | 0 | 0| 
 | 20230902T00:43:55Z | it describes the effect of PCA on fuzzy c means clustering algorithm  | https://github.com/yassminSaber/fuzzy-c-means-implementation | 0 | 0| 
 
