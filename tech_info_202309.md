@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230903T00:15:04Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 1 | 0| 
+| 20230903T00:48:17Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 2 | 0| 
 | 20230902T23:53:45Z | Makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. | https://github.com/denniemok/pex-block | 0 | 0| 
 | 20230902T21:25:38Z | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | 0 | 0| 
 | 20230902T21:14:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5309 | 1036| 
