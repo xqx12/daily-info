@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230903T01:58:18Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
 | 20230903T01:46:49Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 56 | 11| 
 | 20230902T15:36:56Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 9 | 1| 
 | 20230902T13:42:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 169 | 58| 
@@ -76,7 +77,6 @@
 | 20230901T18:50:24Z | s&box key generation backdoor | https://github.com/oniongithub/sandbox-backdoor | 0 | 0| 
 | 20230901T16:22:36Z | Null | https://github.com/Bappyllcg/wp-password-backdoor | 0 | 0| 
 | 20230901T09:56:03Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 25 | 1| 
-| 20230901T07:59:11Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 314 | 84| 
 
 
 # symbolic execution on Github 推荐
