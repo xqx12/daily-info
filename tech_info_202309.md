@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230903T12:43:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5302 | 672| 
+| 20230903T12:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-W_O3V-exploit-gain | 0 | 0| 
+| 20230903T12:43:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5302 | 673| 
 | 20230903T10:05:26Z | Here it is, the VMware newest exploit | https://github.com/Cyb3rEnthusiast/CVE-2023-34039 | 0 | 0| 
 | 20230903T09:33:14Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 8 | 0| 
 | 20230903T08:43:36Z | I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit. | https://github.com/tdquang266/MDC | 1 | 0| 
@@ -62,7 +63,6 @@
 | 20230903T00:48:17Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 2 | 0| 
 | 20230902T23:53:45Z | Makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. | https://github.com/denniemok/pex-block | 0 | 0| 
 | 20230902T21:25:38Z | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | 0 | 0| 
-| 20230902T21:14:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5309 | 1036| 
 
 
 # backdoor on Github 推荐
