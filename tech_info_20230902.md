@@ -65,7 +65,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T22:17:59Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 54 | 9| 
 | 20230902T15:36:56Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 9 | 1| 
 | 20230902T13:42:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 169 | 58| 
 | 20230902T11:07:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 123 | 17| 
