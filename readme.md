@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230903T12:52:03Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 22 | 1| 
 | 20230903T09:30:17Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 1 | 0| 
 | 20230903T09:22:55Z | Null | https://github.com/flowerskey9/fuzzy-spoon | 0 | 0| 
 | 20230903T08:28:17Z | A simple tool written in python for fuzzing API endpoint%s which provides the values in the JSON format. | https://github.com/Toothless5143/Fuzzy | 0 | 0| 
