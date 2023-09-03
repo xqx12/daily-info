@@ -24,22 +24,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230902T12:43:50Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
-| 20230902T12:30:16Z | CVE-2021-34523 | test-yaml | https://github.com/SUPRAAA-1337/CVE-2021-34523 | | 
+| 20230902T23:45:54Z | CVE-2023-35001 | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | https://github.com/synacktiv/CVE-2023-35001 | | 
+| 20230902T21:18:38Z | CVE-2021-34523 | test-yaml | https://github.com/SUPRAAA-1337/CVE-2021-34523 | | 
+| 20230902T21:15:36Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
+| 20230902T17:11:48Z | CVE-2023-36250 | Null | https://github.com/BrunoTeixeira1996/CVE-2023-36250 | | 
 | 20230902T12:29:59Z | CVE-2023-39725 | Null | https://github.com/anky-123/CVE-2023-39725 | | 
-| 20230902T11:59:23Z | CVE-2023-34039 | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | https://github.com/sinsinology/CVE-2023-34039 | | 
 | 20230902T10:41:30Z | CVE-2022-22965 | Null | https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965 | | 
 | 20230902T07:56:41Z | CVE-2023-34039 | VMware exploit | https://github.com/CharonDefalt/CVE-2023-34039 | | 
 | 20230902T06:41:12Z | cve-2023- | Null | https://github.com/iceberg-N/cve-2023-test | | 
 | 20230902T00:47:37Z | CVE-2023-40869 |  Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | https://github.com/MinoTauro2020/CVE-2023-40869 | | 
 | 20230902T00:24:23Z | CVE-2023-40868 |  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | https://github.com/MinoTauro2020/CVE-2023-40868 | | 
-| 20230901T23:16:06Z | CVE-2021-39473 | Null | https://github.com/BrunoTeixeira1996/CVE-2021-39473 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T09:01:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13678 | 419| 
+| 20230902T14:08:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13680 | 419| 
 | 20230902T07:22:41Z | Null | https://github.com/tobegoat/klee | 0 | 0| 
 | 20230901T16:00:39Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 242 | 31| 
 
@@ -52,28 +52,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T23:53:45Z | Makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. | https://github.com/denniemok/pex-block | 0 | 0| 
+| 20230902T23:16:34Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 0 | 0| 
+| 20230902T21:25:38Z | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | 0 | 0| 
+| 20230902T21:14:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5309 | 1036| 
+| 20230902T20:11:05Z | A Tool to exploit the zip-slip bug | https://github.com/MolCoteH/AzaziL_zip-slip_Tool | 0 | 0| 
+| 20230902T19:25:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 155 | 13| 
+| 20230902T19:04:24Z | This project contains Python scripts to detect and exploit SQL injection vulnerabilities in web apps. The scanner injects quotes to identify flaws. The exploit tool extracts data using payloads. For educational purposes only. Do not use illegally. Contributions welcome. | https://github.com/AishikDasgupta/SQL_injections | 0 | 1| 
 | 20230902T11:50:15Z | FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine | https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit | 0 | 0| 
 | 20230902T11:44:11Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
 | 20230902T11:42:09Z | The best shop for boatnets, C2%s and other tools that is currently available on the market! | https://github.com/KingKrex72/Exodus-Shop | 0 | 0| 
-| 20230902T09:54:10Z | EasyExploits DLL // Roblox Exploiting | https://github.com/printinqq/easyexploits-antiads | 0 | 0| 
-| 20230902T07:24:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5299 | 672| 
-| 20230902T04:16:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 719 | 179| 
-| 20230902T01:51:25Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0006-app-mt-e0-exploit-suffer | 0 | 0| 
-| 20230902T01:40:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0015-app-xPC58-exploit-read | 0 | 0| 
-| 20230902T01:34:34Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0019-app-zF1Kf-exploit-try | 0 | 0| 
-| 20230902T01:30:18Z | Session Hijacking Visual Exploitation | https://github.com/doyensec/Session-Hijacking-Visual-Exploitation | 12 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230902T12:59:39Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 42 | 6| 
+| 20230902T22:17:59Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 54 | 9| 
+| 20230902T15:36:56Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 9 | 1| 
+| 20230902T13:42:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 169 | 58| 
+| 20230902T11:07:02Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 123 | 17| 
 | 20230901T23:02:30Z | Bind shell without port forwarding using fake video files. | https://github.com/Nemesis0U/Smallshark | 1 | 1| 
 | 20230901T19:06:19Z | Null | https://github.com/PengfeiHePower/boundary-backdoor | 0 | 0| 
 | 20230901T18:50:24Z | s&box key generation backdoor | https://github.com/oniongithub/sandbox-backdoor | 0 | 0| 
 | 20230901T16:22:36Z | Null | https://github.com/Bappyllcg/wp-password-backdoor | 0 | 0| 
-| 20230901T16:11:05Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 8 | 1| 
-| 20230901T15:32:20Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 167 | 58| 
 | 20230901T09:56:03Z | FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning [ICLR‘23, Best Paper Award at ECCV’22 AROW Workshop] | https://github.com/KaiyuanZh/FLIP | 25 | 1| 
 | 20230901T07:59:11Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/disctopia-c2 | 314 | 84| 
 
@@ -97,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230902T20:59:17Z | Null | https://github.com/igorek240101/SimpleFuzzy | 0 | 0| 
+| 20230902T20:09:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1537 | 216| 
+| 20230902T18:49:25Z | Null | https://github.com/AgnishLearns/fuzzy-tribble | 0 | 0| 
+| 20230902T18:48:34Z | Null | https://github.com/Ezgaharya/fuzzy-cod | 0 | 0| 
+| 20230902T18:29:39Z | Fuzzy logic for motor control | https://github.com/Lord-jebus/fuzzy | 0 | 0| 
+| 20230902T13:47:38Z | Cloud Services - Free choice extra assignment bundle E | https://github.com/FuzzyKala/FuzzyKala.github.io | 0 | 0| 
 | 20230902T12:35:30Z | Snowfall prediction using fuzzy logic is a personal perspective under snow forecasting. | https://github.com/anshadanwer/Snow-Fall-Prediction-using-Fuzzy-Inference-System | 0 | 0| 
 | 20230902T10:49:47Z | A simple registration/login service | https://github.com/dgdraganov/fuzzy-user-api | 0 | 0| 
 | 20230902T00:43:55Z | it describes the effect of PCA on fuzzy c means clustering algorithm  | https://github.com/yassminSaber/fuzzy-c-means-implementation | 0 | 0| 
 | 20230901T21:56:20Z | Null | https://github.com/CharlesPDX/fuzzy-artmap | 0 | 0| 
-| 20230901T20:22:48Z | Null | https://github.com/TomatoGreen2/Fuzzy-c-means-clustering-of-multivariate-time-series-with-dtw-distance-from-scratch | 0 | 0| 
-| 20230901T20:17:09Z | Null | https://github.com/ikepman/fuzzy-space-palm-tree | 0 | 0| 
-| 20230901T18:12:30Z | linux tool that uses Machine Learning/Natural Language Processing to generate tailored password lists | https://github.com/suffs811/fuzzler | 0 | 0| 
-| 20230901T12:39:32Z | Null | https://github.com/asihkhairunnisa/fuzzy-octo-spork | 0 | 0| 
-| 20230901T11:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 822 | 113| 
-| 20230901T11:32:53Z | Null | https://github.com/Amirk50/fuzzy-memory | 0 | 0| 
 
 
 
