@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230903T12:55:55Z | aplikasi fuzzy mamdani | https://github.com/revinsann/fuzzy-mamdani-penentuan-jumlah-produksi | 0 | 0| 
 | 20230903T12:52:03Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 22 | 1| 
 | 20230903T09:30:17Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 1 | 0| 
 | 20230903T09:22:55Z | Null | https://github.com/flowerskey9/fuzzy-spoon | 0 | 0| 

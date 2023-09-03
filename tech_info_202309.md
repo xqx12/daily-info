@@ -102,6 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230903T12:55:55Z | aplikasi fuzzy mamdani | https://github.com/revinsann/fuzzy-mamdani-penentuan-jumlah-produksi | 0 | 0| 
 | 20230903T12:52:03Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 22 | 1| 
 | 20230903T09:30:17Z | Null | https://github.com/dorecasan/ts_fuzzy_smc_active_suspension_system | 1 | 0| 
 | 20230903T09:22:55Z | Null | https://github.com/flowerskey9/fuzzy-spoon | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20230902T18:49:25Z | Null | https://github.com/AgnishLearns/fuzzy-tribble | 0 | 0| 
 | 20230902T18:48:34Z | Null | https://github.com/Ezgaharya/fuzzy-cod | 0 | 0| 
 | 20230902T18:29:39Z | Fuzzy logic for motor control | https://github.com/Lord-jebus/fuzzy | 0 | 0| 
-| 20230902T13:47:38Z | Cloud Services - Free choice extra assignment bundle E | https://github.com/FuzzyKala/FuzzyKala.github.io | 0 | 0| 
 
 
 
