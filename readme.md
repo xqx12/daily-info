@@ -51,7 +51,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230902T23:53:45Z | Makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. | https://github.com/denniemok/pex-block | 0 | 0| 
-| 20230902T23:16:34Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 0 | 0| 
 | 20230902T21:25:38Z | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | 0 | 0| 
 | 20230902T21:14:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5309 | 1036| 
 | 20230902T20:11:05Z | A Tool to exploit the zip-slip bug | https://github.com/MolCoteH/AzaziL_zip-slip_Tool | 0 | 0| 
@@ -60,6 +59,7 @@
 | 20230902T11:50:15Z | FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine | https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit | 0 | 0| 
 | 20230902T11:44:11Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
 | 20230902T11:42:09Z | The best shop for boatnets, C2%s and other tools that is currently available on the market! | https://github.com/KingKrex72/Exodus-Shop | 0 | 0| 
+| 20230902T10:38:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 563 | 109| 
 
 
 # backdoor on Github 推荐
