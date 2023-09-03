@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230903T01:45:39Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0082-app-B3mYx-exploit-share | 0 | 0| 
+| 20230903T01:44:13Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0009-app-bwICc-save-exploit | 0 | 0| 
 | 20230903T00:48:17Z | Null | https://github.com/Jhynjhiruu/gs-exploit | 2 | 0| 
 | 20230902T23:53:45Z | Makes PermissionsEx commands console-only and blocks PermissionsEx-related exploits. | https://github.com/denniemok/pex-block | 0 | 0| 
 | 20230902T21:25:38Z | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | 0 | 0| 
@@ -60,8 +62,6 @@
 | 20230902T19:25:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 155 | 13| 
 | 20230902T19:04:24Z | This project contains Python scripts to detect and exploit SQL injection vulnerabilities in web apps. The scanner injects quotes to identify flaws. The exploit tool extracts data using payloads. For educational purposes only. Do not use illegally. Contributions welcome. | https://github.com/AishikDasgupta/SQL_injections | 0 | 1| 
 | 20230902T11:50:15Z | FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine | https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit | 0 | 0| 
-| 20230902T11:44:11Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
-| 20230902T11:42:09Z | The best shop for boatnets, C2%s and other tools that is currently available on the market! | https://github.com/KingKrex72/Exodus-Shop | 0 | 0| 
 
 
 # backdoor on Github 推荐
