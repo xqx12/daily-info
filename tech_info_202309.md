@@ -70,6 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T00:18:34Z | education only !  | https://github.com/codemanfreecodes/rust_backdoor | 0 | 0| 
 | 20230903T23:06:29Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 67 | 11| 
 | 20230903T20:53:21Z | XWorm V5.0 Cracked | https://github.com/ChimesOfDestruction/XWorm-V5.0 | 2 | 0| 
 | 20230903T17:09:31Z | Train a large number of CNNs on CIFAR-10 and install backdoors via data poisoning.  | https://github.com/langosco/backdoors | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230903T01:59:14Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
 | 20230903T00:32:12Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 37 | 17| 
 | 20230902T21:03:32Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 181 | 35| 
-| 20230902T15:36:56Z | [BMVC 2023] Backdoor Attack on Hash-based Image Retrieval via Clean-label Data Poisoning | https://github.com/KuofengGao/CIBA | 9 | 1| 
 
 
 # symbolic execution on Github 推荐
