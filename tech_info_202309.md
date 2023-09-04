@@ -70,7 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230904T01:31:02Z | shell for backdoor | https://github.com/EVILOFFICIAL/minishell | 0 | 0| 
+| 20230904T01:33:24Z | shell for backdoor | https://github.com/EVILOFFICIAL/minishell | 0 | 0| 
 | 20230904T01:06:50Z | Malware and Backdoor persistence in windows machines vulnerability shown in a repository. Windows 10 is not SECURE! | https://github.com/bryanmax9/BackDoor-Malware-in-C-Language | 0 | 0| 
 | 20230904T00:18:34Z | education only !  | https://github.com/codemanfreecodes/rust_backdoor | 0 | 0| 
 | 20230903T23:06:29Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 67 | 11| 
