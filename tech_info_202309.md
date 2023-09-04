@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230904T00:53:40Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
+| 20230904T01:58:18Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
 | 20230903T23:55:26Z | Ponzi Contract Possible Exploits | https://github.com/MirHamzaHasan/PonziContract-Audit | 0 | 0| 
 | 20230903T22:22:45Z | CSC-748 Software Exploitation | https://github.com/kwafula/CSC-748 | 0 | 0| 
 | 20230903T21:40:28Z | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | https://github.com/xaitax/WinRAR-CVE-2023-38831 | 0 | 0| 
