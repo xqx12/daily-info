@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T00:53:40Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
 | 20230903T23:55:26Z | Ponzi Contract Possible Exploits | https://github.com/MirHamzaHasan/PonziContract-Audit | 0 | 0| 
 | 20230903T22:22:45Z | CSC-748 Software Exploitation | https://github.com/kwafula/CSC-748 | 0 | 0| 
 | 20230903T21:40:28Z | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | https://github.com/xaitax/WinRAR-CVE-2023-38831 | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20230903T13:04:20Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
 | 20230903T12:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-W_O3V-exploit-gain | 0 | 0| 
 | 20230903T12:43:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5302 | 673| 
-| 20230903T12:31:19Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 20 | 1| 
 
 
 # backdoor on Github 推荐
