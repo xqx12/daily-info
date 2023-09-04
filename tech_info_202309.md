@@ -60,16 +60,17 @@
 | 20230903T21:40:28Z | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | https://github.com/xaitax/WinRAR-CVE-2023-38831 | 0 | 0| 
 | 20230903T21:34:55Z | Null | https://github.com/andreireanu/exploit-sc | 0 | 0| 
 | 20230903T21:17:38Z | Steps needed to obtain a reverse shell exploiting the winrar vulnerability CVE-2023-38831 in versions prior to 6.23. | https://github.com/LuxCodeDev/CVE-2023-38831_WinRAR | 0 | 0| 
+| 20230903T13:05:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5312 | 1035| 
 | 20230903T13:04:20Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
 | 20230903T12:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-W_O3V-exploit-gain | 0 | 0| 
 | 20230903T12:43:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5302 | 673| 
 | 20230903T12:31:19Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 20 | 1| 
-| 20230903T10:05:26Z | Here it is, the VMware newest exploit | https://github.com/Cyb3rEnthusiast/CVE-2023-34039 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T00:31:28Z | Malware and Backdoor persistence in windows machines vulnerability shown in a repository. Windows 10 is not SECURE! | https://github.com/bryanmax9/BackDoor-Malware-in-C-Language | 0 | 0| 
 | 20230904T00:18:34Z | education only !  | https://github.com/codemanfreecodes/rust_backdoor | 0 | 0| 
 | 20230903T23:06:29Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 67 | 11| 
 | 20230903T20:53:21Z | XWorm V5.0 Cracked | https://github.com/ChimesOfDestruction/XWorm-V5.0 | 2 | 0| 
@@ -79,7 +80,6 @@
 | 20230903T07:32:37Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 46 | 5| 
 | 20230903T01:59:14Z | Null | https://github.com/TheFirstZigs/Backdoor-scanner | 0 | 0| 
 | 20230903T00:32:12Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 37 | 17| 
-| 20230902T21:03:32Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 181 | 35| 
 
 
 # symbolic execution on Github 推荐
