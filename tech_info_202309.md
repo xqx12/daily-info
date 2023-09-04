@@ -106,9 +106,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T00:17:51Z | Simple RFID Fuzzer List Generator | https://github.com/SkeletonMan03/FZRFIDFuzzerListGen | 1 | 0| 
 | 20230904T00:01:22Z | Programa de búsqueda avanzada de papers cientificos. | https://github.com/Alcatraz2033/IEEE-Data-Fuzz | 0 | 0| 
 | 20230903T23:44:59Z | Fuzz dns records and scan accord record type | https://github.com/zerbaliy3v/dnsrecord | 1 | 0| 
-| 20230903T23:40:49Z | Simple RFID Fuzzer List Generator | https://github.com/SkeletonMan03/FZRFIDFuzzerListGen | 0 | 0| 
 | 20230903T21:52:37Z | Null | https://github.com/martin-bucinskas/fuzzy | 0 | 0| 
 | 20230903T21:52:26Z | Null | https://github.com/emtee40/drmf-fuzz | 0 | 0| 
 | 20230903T21:16:01Z | Null | https://github.com/BrunoNC22/FuzzyTemperatureControllView | 0 | 0| 

@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230903T23:44:59Z | Fuzz dns records and scan accord record type | https://github.com/zerbaliy3v/dnsrecord | 1 | 0| 
-| 20230903T23:40:49Z | Simple RFID Fuzzer List Generator | https://github.com/SkeletonMan03/FZRFIDFuzzerListGen | 0 | 0| 
 | 20230903T21:52:37Z | Null | https://github.com/martin-bucinskas/fuzzy | 0 | 0| 
 | 20230903T21:52:26Z | Null | https://github.com/emtee40/drmf-fuzz | 0 | 0| 
 | 20230903T21:16:01Z | Null | https://github.com/BrunoNC22/FuzzyTemperatureControllView | 0 | 0| 
