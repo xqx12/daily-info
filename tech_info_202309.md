@@ -95,6 +95,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T00:11:29Z | Artifact for the paper Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230903T15:00:50Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 69 | 4| 
 | 20230902T20:02:13Z | This is the repo for NDSS 2024 paper: IDA: Hybrid Attestation with Support for Interrupts and TOCTOU | https://github.com/ssysarch/IDA | 0 | 0| 
 | 20230902T15:11:32Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 3 | 0| 
