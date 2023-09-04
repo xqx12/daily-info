@@ -53,8 +53,8 @@
 | 20230903T13:04:20Z | Exploits for Botnets & C2%s | https://github.com/KingKrex72/Boatnet-Exploits | 0 | 0| 
 | 20230903T12:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-W_O3V-exploit-gain | 0 | 0| 
 | 20230903T12:43:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5302 | 673| 
+| 20230903T12:31:19Z | This repository contains multiple exploits I have written for various CVEs and CTFs | https://github.com/ret2eax/exploits | 20 | 1| 
 | 20230903T10:05:26Z | Here it is, the VMware newest exploit | https://github.com/Cyb3rEnthusiast/CVE-2023-34039 | 0 | 0| 
-| 20230903T09:33:14Z | Pwnable writeup, practice and scripts exploit. | https://github.com/nigmaz/Pwnable | 8 | 0| 
 
 
 # backdoor on Github 推荐
