@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:09:17Z | Paper: Forecasting Football Results and Exploiting Betting Markets:The Case of “Both Teams to Score” | https://github.com/igormago/btts_ijof | 1 | 0| 
 | 20230905T11:41:57Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 85 | 6| 
 | 20230905T11:32:36Z | Step by step process of modeling a PostgreSQL database: from blueprints and graphs to implementation and exploitation. | https://github.com/pol3et/psql-db-design | 0 | 0| 
 | 20230905T09:51:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 720 | 179| 
@@ -53,7 +54,6 @@
 | 20230905T01:58:39Z | Script to exploit CVE-2023-38035 | https://github.com/mind2hex/MICS_Hunter | 0 | 0| 
 | 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
 | 20230905T01:46:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvn | 1 | 0| 
-| 20230905T01:45:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvn | 0 | 0| 
 
 
 # backdoor on Github 推荐
