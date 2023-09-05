@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:34:27Z | CVE-2023-3124 | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | | 
 | 20230905T12:19:27Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230905T12:02:02Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
 | 20230905T11:51:55Z | CVE-2023-41080 | Null | https://github.com/thperchi/CVE-2023-41080 | | 
@@ -26,7 +27,6 @@
 | 20230905T04:40:57Z | CVE-2023-34747 | Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload | https://github.com/codeb0ss/CVE-2023-34747-PoC | | 
 | 20230905T04:34:13Z | CVE-2023-41538 | Mass exploit - CVE-2023-41538 < phpjabbers PHP Forum < Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-41538-PoC | | 
 | 20230905T03:34:39Z | CVE-2023-4741 | Null | https://github.com/wudidike/CVE-2023-4741 | | 
-| 20230905T03:29:38Z | CVE-2023-41508 | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | https://github.com/redblueteam/CVE-2023-41508 | | 
 
 
 # klee on Github 推荐
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:34:27Z | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | 1 | 0| 
 | 20230905T12:18:35Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 30 | 14| 
 | 20230905T12:10:19Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 86 | 6| 
 | 20230905T12:09:17Z | Paper: Forecasting Football Results and Exploiting Betting Markets:The Case of “Both Teams to Score” | https://github.com/igormago/btts_ijof | 1 | 0| 
@@ -53,7 +54,6 @@
 | 20230905T09:07:33Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 6| 
 | 20230905T05:45:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5924 | 789| 
 | 20230905T01:58:39Z | Script to exploit CVE-2023-38035 | https://github.com/mind2hex/MICS_Hunter | 0 | 0| 
-| 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
 
 
 # backdoor on Github 推荐
