@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:18:35Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 30 | 14| 
 | 20230905T12:10:19Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 86 | 6| 
 | 20230905T12:09:17Z | Paper: Forecasting Football Results and Exploiting Betting Markets:The Case of “Both Teams to Score” | https://github.com/igormago/btts_ijof | 1 | 0| 
 | 20230905T11:32:36Z | Step by step process of modeling a PostgreSQL database: from blueprints and graphs to implementation and exploitation. | https://github.com/pol3et/psql-db-design | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20230905T05:45:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5924 | 789| 
 | 20230905T01:58:39Z | Script to exploit CVE-2023-38035 | https://github.com/mind2hex/MICS_Hunter | 0 | 0| 
 | 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
-| 20230905T01:46:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvn | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:25:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4814 | 1158| 
 | 20230905T11:46:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3929 | 795| 
 | 20230905T11:46:10Z | Null | https://github.com/KervyN/fuzzy-memory-pages | 0 | 0| 
 | 20230905T08:54:56Z | 曖昧な予定を管理できるFuzzySession | https://github.com/fumicode/fuzzy-session-react | 0 | 0| 
