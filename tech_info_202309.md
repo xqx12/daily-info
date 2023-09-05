@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:51:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1540 | 218| 
 | 20230905T12:25:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4814 | 1158| 
 | 20230905T11:46:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3929 | 795| 
 | 20230905T11:46:10Z | Null | https://github.com/KervyN/fuzzy-memory-pages | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20230905T01:58:05Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5065 | 535| 
 | 20230905T01:37:35Z | Using python to implement Fuzzy clustering of categorical data, using Genetic alogrithms to achieve globally optimum solutions. Reference literature: https://www.sciencedirect.com/science/article/pii/S0957417407005957 | https://github.com/V-Rang/Fuzzy-clustering | 0 | 0| 
 | 20230905T00:18:35Z | A website for creating and buying computer builds | https://github.com/Vladich1995/FuzzyElectronics | 0 | 0| 
-| 20230904T22:19:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1539 | 217| 
 | 20230904T08:38:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8973 | 1978| 
 
 
