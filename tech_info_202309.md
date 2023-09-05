@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T01:58:39Z | Script to exploit CVE-2023-38035 | https://github.com/mind2hex/MICS_Hunter | 0 | 0| 
 | 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
 | 20230905T01:46:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvn | 1 | 0| 
 | 20230905T01:45:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvn | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230905T00:01:34Z | A LuaU Hub for ROBLOX Exploiting. | https://github.com/Brew-Softworks/Brew | 0 | 0| 
 | 20230904T23:39:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14410 | 2470| 
 | 20230904T21:45:32Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 54 | 18| 
-| 20230904T21:40:21Z | Working Exploit for UWP Version of roblox | https://github.com/Gatito0047/Gatito-s-Gadget | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,10 +111,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T01:58:05Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5065 | 535| 
 | 20230905T01:37:35Z | Using python to implement Fuzzy clustering of categorical data, using Genetic alogrithms to achieve globally optimum solutions. Reference literature: https://www.sciencedirect.com/science/article/pii/S0957417407005957 | https://github.com/V-Rang/Fuzzy-clustering | 0 | 0| 
 | 20230905T00:18:35Z | A website for creating and buying computer builds | https://github.com/Vladich1995/FuzzyElectronics | 0 | 0| 
 | 20230904T22:19:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1539 | 217| 
-| 20230904T21:05:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5065 | 535| 
 | 20230904T08:38:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8973 | 1978| 
 | 20230904T08:14:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2765 | 193| 
 | 20230904T00:17:51Z | Simple RFID Fuzzer List Generator | https://github.com/SkeletonMan03/FZRFIDFuzzerListGen | 1 | 0| 

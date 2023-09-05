@@ -92,7 +92,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230904T22:19:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1539 | 217| 
-| 20230904T21:05:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5065 | 535| 
 | 20230904T08:38:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8973 | 1978| 
 | 20230904T08:14:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2765 | 193| 
 | 20230904T00:17:51Z | Simple RFID Fuzzer List Generator | https://github.com/SkeletonMan03/FZRFIDFuzzerListGen | 1 | 0| 
