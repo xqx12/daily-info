@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230905T00:59:50Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
+| 20230905T01:16:24Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
 | 20230904T23:40:40Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
 | 20230904T23:27:26Z | CVE-2023-4278 | Wordpress Plugin Masterstudy LMS <= 3.0.17 - Unauthenticated Instructor Account Creation | https://github.com/revan-ar/CVE-2023-4278 | | 
 | 20230904T19:31:08Z | CVE-2023-25136 | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | https://github.com/Business1sg00d/CVE-2023-25136 | | 
