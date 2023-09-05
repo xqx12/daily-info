@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230904 | OpenVAS vs. Nessus：漏洞扫描工具对比 | https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj| 
 | 20230904 | SecWiki周刊（第496期) | https://www.sec-wiki.com/weekly/496| 
+| 20230904 | 网络协议软件漏洞挖掘技术综述 | https://www.jos.org.cn/jos/article/pdf/6942| 
 | 20230902 | 网安创业者干货建议分享 | https://mp.weixin.qq.com/s/RpM7OZupYWijdvNDfR07WQ| 
 | 20230902 | 安全行业大模型SecLLM技术白皮书 | https://book.yunzhan365.com/tkgd/orau/mobile/index.html| 
 | 20230902 | 基于公有链的隐匿通信技术 | https://mp.weixin.qq.com/s/So4uKfYypTGPd0gsRbGwZA| 
@@ -20,7 +21,6 @@
 | 20230902 | 赋予数据灵魂——探寻网空测绘数据和 GDP 的关联 | https://paper.seebug.org/3015/| 
 | 20230902 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ| 
 | 20230902 | SniffAir：一个开源的无线安全框架 | https://github.com/Tylous/SniffAir| 
-| 20230901 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg| 
 
 
 # CVE Github 推荐
@@ -59,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T00:29:00Z | Regression with Summary Statistics exploiting Network Topology. | https://github.com/SUwonglab/rss-net | 14 | 4| 
 | 20230905T00:01:34Z | A LuaU Hub for ROBLOX Exploiting. | https://github.com/Brew-Softworks/Brew | 0 | 0| 
 | 20230904T21:40:21Z | Working Exploit for UWP Version of roblox | https://github.com/Gatito0047/Gatito-s-Gadget | 0 | 0| 
 | 20230904T18:56:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 156 | 13| 
 | 20230904T12:36:58Z | CLI tool to encrypt, compress & embed any file type within a PNG image. | https://github.com/CleasbyCode/pdvrdt | 3 | 0| 
 | 20230904T08:34:12Z | Attacking and Exploiting Modern Web Applications, published by Packt | https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications | 2 | 3| 
+| 20230904T05:13:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5313 | 1036| 
 | 20230904T02:20:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 720 | 179| 
 | 20230904T01:58:18Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
 | 20230903T23:55:26Z | Ponzi Contract Possible Exploits | https://github.com/MirHamzaHasan/PonziContract-Audit | 0 | 0| 
-| 20230903T22:22:45Z | CSC-748 Software Exploitation | https://github.com/kwafula/CSC-748 | 0 | 0| 
-| 20230903T21:40:28Z | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | https://github.com/xaitax/WinRAR-CVE-2023-38831 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,11 +89,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T21:53:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2310 | 634| 
 | 20230903T19:35:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 41 | 7| 
 | 20230903T00:59:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 436 | 30| 
 | 20230902T10:12:20Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 214 | 21| 
 | 20230901T13:42:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 680 | 120| 
-| 20230901T08:52:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2308 | 634| 
 
 
 # big4 on Github 推荐

@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20230904 | OpenVAS vs. Nessus：漏洞扫描工具对比 | https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj| 
 | 20230904 | SecWiki周刊（第496期) | https://www.sec-wiki.com/weekly/496| 
+| 20230904 | 网络协议软件漏洞挖掘技术综述 | https://www.jos.org.cn/jos/article/pdf/6942| 
 
 
 # CVE Github 推荐
@@ -51,6 +52,7 @@
 | 20230904T18:56:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 156 | 13| 
 | 20230904T12:36:58Z | CLI tool to encrypt, compress & embed any file type within a PNG image. | https://github.com/CleasbyCode/pdvrdt | 3 | 0| 
 | 20230904T08:34:12Z | Attacking and Exploiting Modern Web Applications, published by Packt | https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications | 2 | 3| 
+| 20230904T05:13:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5313 | 1036| 
 | 20230904T02:20:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 720 | 179| 
 | 20230904T01:58:18Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
 
@@ -73,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T21:53:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2310 | 634| 
 
 
 # big4 on Github 推荐
