@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T01:01:13Z | Null | https://github.com/RicardoTavaresMiranda/o2sy-exploit | 0 | 0| 
 | 20230905T00:29:00Z | Regression with Summary Statistics exploiting Network Topology. | https://github.com/SUwonglab/rss-net | 14 | 4| 
 | 20230905T00:01:34Z | A LuaU Hub for ROBLOX Exploiting. | https://github.com/Brew-Softworks/Brew | 0 | 0| 
 | 20230904T21:40:21Z | Working Exploit for UWP Version of roblox | https://github.com/Gatito0047/Gatito-s-Gadget | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230904T05:13:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5313 | 1036| 
 | 20230904T02:20:47Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 720 | 179| 
 | 20230904T01:58:18Z | ExploitEagle is a lightweight, fast, and efficient CLI tool for searching the Exploit Database. | https://github.com/SecureAxis/ExploitEagle | 0 | 0| 
-| 20230903T23:55:26Z | Ponzi Contract Possible Exploits | https://github.com/MirHamzaHasan/PonziContract-Audit | 0 | 0| 
 
 
 # backdoor on Github 推荐
