@@ -48,8 +48,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230904T23:39:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14410 | 2470| 
+| 20230904T21:45:32Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 54 | 18| 
 | 20230904T21:40:21Z | Working Exploit for UWP Version of roblox | https://github.com/Gatito0047/Gatito-s-Gadget | 0 | 0| 
 | 20230904T18:56:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 156 | 13| 
+| 20230904T18:08:51Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 17 | 2| 
 | 20230904T12:36:58Z | CLI tool to encrypt, compress & embed any file type within a PNG image. | https://github.com/CleasbyCode/pdvrdt | 3 | 0| 
 | 20230904T08:34:12Z | Attacking and Exploiting Modern Web Applications, published by Packt | https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications | 2 | 3| 
 | 20230904T05:13:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5313 | 1036| 
