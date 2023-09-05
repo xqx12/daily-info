@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
 | 20230905T01:46:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvn | 1 | 0| 
 | 20230905T01:45:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvn | 0 | 0| 
 | 20230905T01:45:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvn | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20230904T23:39:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14410 | 2470| 
 | 20230904T21:45:32Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 54 | 18| 
 | 20230904T21:40:21Z | Working Exploit for UWP Version of roblox | https://github.com/Gatito0047/Gatito-s-Gadget | 0 | 0| 
-| 20230904T18:56:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 156 | 13| 
 
 
 # backdoor on Github 推荐
