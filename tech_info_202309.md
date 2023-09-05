@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230905T12:02:02Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
 | 20230905T11:55:24Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230905T11:51:55Z | CVE-2023-41080 | Null | https://github.com/thperchi/CVE-2023-41080 | | 
 | 20230905T09:35:16Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
@@ -35,7 +36,6 @@
 | 20230905T04:34:13Z | CVE-2023-41538 | Mass exploit - CVE-2023-41538 < phpjabbers PHP Forum < Cross Site Scripting (XSS) | https://github.com/codeb0ss/CVE-2023-41538-PoC | | 
 | 20230905T03:34:39Z | CVE-2023-4741 | Null | https://github.com/wudidike/CVE-2023-4741 | | 
 | 20230905T03:29:38Z | CVE-2023-41508 | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | https://github.com/redblueteam/CVE-2023-41508 | | 
-| 20230905T03:26:16Z | CVE-2023-41507 | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | https://github.com/redblueteam/CVE-2023-41507 | | 
 
 
 # klee on Github 推荐
@@ -59,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T11:41:57Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 85 | 6| 
+| 20230905T11:32:36Z | Step by step process of modeling a PostgreSQL database: from blueprints and graphs to implementation and exploitation. | https://github.com/pol3et/psql-db-design | 0 | 0| 
+| 20230905T09:51:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 720 | 179| 
+| 20230905T09:40:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5308 | 681| 
+| 20230905T09:07:33Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 6| 
+| 20230905T05:45:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5924 | 789| 
 | 20230905T01:58:39Z | Script to exploit CVE-2023-38035 | https://github.com/mind2hex/MICS_Hunter | 0 | 0| 
 | 20230905T01:47:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvn | 1 | 0| 
 | 20230905T01:46:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvn | 1 | 0| 
 | 20230905T01:45:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvn | 0 | 0| 
-| 20230905T01:45:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvn | 0 | 0| 
-| 20230905T01:01:13Z | Null | https://github.com/RicardoTavaresMiranda/o2sy-exploit | 0 | 0| 
-| 20230905T00:29:00Z | Regression with Summary Statistics exploiting Network Topology. | https://github.com/SUwonglab/rss-net | 14 | 4| 
-| 20230905T00:01:34Z | A LuaU Hub for ROBLOX Exploiting. | https://github.com/Brew-Softworks/Brew | 0 | 0| 
-| 20230904T23:39:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14410 | 2470| 
-| 20230904T21:45:32Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 54 | 18| 
 
 
 # backdoor on Github 推荐
@@ -89,21 +89,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230904T21:53:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2310 | 634| 
+| 20230905T05:14:18Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 681 | 120| 
+| 20230905T03:32:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2311 | 635| 
 | 20230903T19:35:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 41 | 7| 
 | 20230903T00:59:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 436 | 30| 
-| 20230902T10:12:20Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 214 | 21| 
-| 20230901T13:42:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 680 | 120| 
+| 20230902T10:12:20Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 214 | 20| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T08:37:54Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 5 | 0| 
+| 20230905T05:12:59Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 4 | 0| 
 | 20230904T08:00:44Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230904T00:11:29Z | Artifact for the paper Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230903T15:00:50Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 69 | 4| 
 | 20230902T20:02:13Z | This is the repo for NDSS 2024 paper: IDA: Hybrid Attestation with Support for Interrupts and TOCTOU | https://github.com/ssysarch/IDA | 0 | 0| 
-| 20230902T15:11:32Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 3 | 0| 
 | 20230901T09:20:12Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 14 | 2| 
 | 20230901T05:15:50Z | DroneSecurity Fuzzer (NDSS 2023)  | https://github.com/RUB-SysSec/DroneSecurity-Fuzzer | 8 | 1| 
 
