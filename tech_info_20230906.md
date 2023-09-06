@@ -71,6 +71,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T07:06:36Z | 论文爬虫: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 0 | 0| 
+| 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
+| 20230906T03:20:30Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 7 | 0| 
 
 
 # fuzz on Github 推荐
