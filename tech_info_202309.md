@@ -91,6 +91,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230905T21:08:42Z | An extension of Microsoft%s Debug Adaptor Protocol for debugging symbolic execution. | https://github.com/GillianPlatform/sedap | 0 | 0| 
 | 20230905T05:14:18Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 681 | 120| 
 | 20230905T03:32:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2311 | 635| 
 | 20230903T19:35:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 41 | 7| 
