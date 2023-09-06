@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230906T01:13:26Z | CVE-2022-42889 | Text4Shell | https://github.com/Sic4rio/CVE-2022-42889 | | 
 | 20230905T21:30:27Z | CVE-2023- | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | | 
 | 20230905T21:00:40Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230905T19:52:12Z | CVE-2022-44268 | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268 | | 
@@ -35,7 +36,6 @@
 | 20230905T12:02:02Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
 | 20230905T11:51:55Z | CVE-2023-41080 | Null | https://github.com/thperchi/CVE-2023-41080 | | 
 | 20230905T07:14:53Z | CVE-2023-4596 | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | https://github.com/E1A/CVE-2023-4596 | | 
-| 20230905T04:46:58Z | CVE-2023-27034 | Mass Exploit - CVE-2023-27034 | https://github.com/codeb0ss/CVE-2023-27034-Exploit | | 
 
 
 # klee on Github 推荐
