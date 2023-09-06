@@ -62,6 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230906T00:07:17Z | exploits | https://github.com/ContenedorSRC/exploits | 0 | 0| 
+| 20230905T23:32:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5317 | 1037| 
 | 20230905T23:30:20Z | A tool to block and ban players attempting to exploit with nuidevtools | https://github.com/djraymond1/GR_Nui_Denial | 0 | 0| 
 | 20230905T21:30:27Z | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | 1 | 0| 
 | 20230905T18:49:00Z | Proof-of-concept and detection tool to show if a critical account takeover exploit for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 8 | 2| 
@@ -70,7 +71,6 @@
 | 20230905T12:18:35Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 30 | 14| 
 | 20230905T12:10:19Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 86 | 6| 
 | 20230905T12:09:17Z | Paper: Forecasting Football Results and Exploiting Betting Markets:The Case of “Both Teams to Score” | https://github.com/igormago/btts_ijof | 1 | 0| 
-| 20230905T11:32:36Z | Step by step process of modeling a PostgreSQL database: from blueprints and graphs to implementation and exploitation. | https://github.com/pol3et/psql-db-design | 0 | 0| 
 
 
 # backdoor on Github 推荐
