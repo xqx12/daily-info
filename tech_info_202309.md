@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:55:19Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
 | 20230906T12:41:22Z | Gives students exploits and good grades. will update maybe in about two weeks | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
@@ -70,7 +71,6 @@
 | 20230906T10:35:08Z | Krunker 脚本 | https://github.com/pw-hxss/krunkerExploit | 0 | 0| 
 | 20230906T06:04:25Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
 | 20230906T03:13:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 83 | 31| 
-| 20230906T01:55:55Z | Script kiddie assistance tool | https://github.com/Philip-Otter/Sick_Nice-Exploit-Kiddo | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,11 +91,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:55:22Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 257 | 33| 
+| 20230906T12:54:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 682 | 120| 
 | 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 | 20230906T10:07:17Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 0 | 0| 
-| 20230906T03:27:14Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 256 | 33| 
 | 20230905T21:08:42Z | An extension of Microsoft%s Debug Adaptor Protocol for debugging symbolic execution. | https://github.com/GillianPlatform/sedap | 0 | 0| 
-| 20230905T05:14:18Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 681 | 120| 
 | 20230905T03:32:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2311 | 635| 
 | 20230903T19:35:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 41 | 7| 
 | 20230903T00:59:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 436 | 30| 
