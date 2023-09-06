@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T12:55:19Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
+| 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
 | 20230906T12:41:22Z | Gives students exploits and good grades. will update maybe in about two weeks | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
