@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T01:45:35Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0063-app-RMCSw-direct-exploit | 0 | 0| 
 | 20230906T01:41:39Z | Null | https://github.com/udboss/lab1-exploit | 0 | 0| 
 | 20230906T01:32:04Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0045-app-z-vFt-exploit-exclude | 0 | 0| 
 | 20230906T00:59:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0022-app-GBDFg-receive-exploit | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230905T21:30:27Z | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | 1 | 0| 
 | 20230905T20:13:23Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230905T18:49:00Z | Proof-of-concept and detection tool to show if a critical account takeover exploit for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 8 | 2| 
-| 20230905T16:57:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14416 | 2470| 
 
 
 # backdoor on Github 推荐
