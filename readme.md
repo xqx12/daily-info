@@ -55,11 +55,11 @@
 | 20230905T21:30:27Z | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | 1 | 0| 
 | 20230905T20:13:23Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230905T18:49:00Z | Proof-of-concept and detection tool to show if a critical account takeover exploit for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 8 | 2| 
+| 20230905T16:57:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14416 | 2470| 
 | 20230905T12:41:27Z | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | 1 | 0| 
 | 20230905T12:38:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 721 | 179| 
 | 20230905T12:18:35Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 30 | 14| 
 | 20230905T12:10:19Z | Official implementation of ICCV2023 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation | https://github.com/XiaoyuShi97/VideoFlow | 86 | 6| 
-| 20230905T12:09:17Z | Paper: Forecasting Football Results and Exploiting Betting Markets:The Case of “Both Teams to Score” | https://github.com/igormago/btts_ijof | 1 | 0| 
 
 
 # backdoor on Github 推荐
