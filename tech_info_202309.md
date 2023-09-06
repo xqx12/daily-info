@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T00:59:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0022-app-GBDFg-receive-exploit | 0 | 0| 
 | 20230906T00:07:17Z | exploits | https://github.com/ContenedorSRC/exploits | 0 | 0| 
 | 20230905T23:32:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5317 | 1037| 
 | 20230905T23:30:20Z | A tool to block and ban players attempting to exploit with nuidevtools | https://github.com/djraymond1/GR_Nui_Denial | 0 | 0| 
@@ -68,9 +69,8 @@
 | 20230905T20:13:23Z | Python exploitation tool | https://github.com/synfosec/eviltux | 0 | 0| 
 | 20230905T18:49:00Z | Proof-of-concept and detection tool to show if a critical account takeover exploit for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 8 | 2| 
 | 20230905T16:57:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14416 | 2470| 
+| 20230905T15:21:50Z | Official repository of *Beyond Domain Gap: Exploiting Subjectivity in Sketch-Based Person Retrieval* | https://github.com/Lin-Kayla/subjectivity-sketch-reid | 0 | 0| 
 | 20230905T12:41:27Z | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | 1 | 0| 
-| 20230905T12:38:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 721 | 179| 
-| 20230905T12:18:35Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 30 | 14| 
 
 
 # backdoor on Github 推荐
