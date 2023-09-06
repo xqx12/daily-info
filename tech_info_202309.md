@@ -91,6 +91,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
+| 20230906T10:07:17Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 0 | 0| 
+| 20230906T03:27:14Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 256 | 33| 
 | 20230905T21:08:42Z | An extension of Microsoft%s Debug Adaptor Protocol for debugging symbolic execution. | https://github.com/GillianPlatform/sedap | 0 | 0| 
 | 20230905T05:14:18Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 681 | 120| 
 | 20230905T03:32:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2311 | 635| 

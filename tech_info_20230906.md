@@ -63,6 +63,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
+| 20230906T10:07:17Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 0 | 0| 
+| 20230906T03:27:14Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 256 | 33| 
 
 
 # big4 on Github 推荐
