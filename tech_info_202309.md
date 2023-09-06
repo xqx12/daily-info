@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:37:18Z | Gives students exploits and good grades | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20230906T06:04:25Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
 | 20230906T03:13:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 83 | 31| 
 | 20230906T01:55:55Z | Script kiddie assistance tool | https://github.com/Philip-Otter/Sick_Nice-Exploit-Kiddo | 0 | 0| 
-| 20230906T01:45:35Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0063-app-RMCSw-direct-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
