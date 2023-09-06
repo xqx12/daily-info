@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:07:23Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
 | 20230906T11:14:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5313 | 681| 
 | 20230906T11:11:06Z | Addresses well-known KitBattle exploits; Provides information to combat potential abuses. | https://github.com/denniemok/kitbattle-patch | 1 | 0| 
 | 20230906T10:51:25Z | Linux kernel exploitation practice with Pawnyable. | https://github.com/cpey/pawnyable-practice | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20230906T01:55:55Z | Script kiddie assistance tool | https://github.com/Philip-Otter/Sick_Nice-Exploit-Kiddo | 0 | 0| 
 | 20230906T01:45:35Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0063-app-RMCSw-direct-exploit | 0 | 0| 
 | 20230906T01:41:39Z | Null | https://github.com/udboss/lab1-exploit | 0 | 0| 
-| 20230906T01:32:04Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0045-app-z-vFt-exploit-exclude | 0 | 0| 
 
 
 # backdoor on Github 推荐
