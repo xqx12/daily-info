@@ -76,7 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T10:38:32Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 88 | 13| 
+| 20230906T12:38:48Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 89 | 13| 
 | 20230906T10:05:17Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 221 | 64| 
 | 20230906T09:15:33Z | Null | https://github.com/axosecurity/Wordpress-backdoor | 0 | 0| 
 | 20230906T05:16:07Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
+| 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
 | 20230906T11:59:11Z | Null | https://github.com/mobilehackinglab/Libprotobuf-fuzzing | 0 | 0| 
 | 20230906T11:53:04Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
 | 20230906T11:22:12Z | 介绍如何在windows使用libfuzzer对msvc编译的程序进行白盒fuzz | https://github.com/TechForBad/WinMsvcLibfuzzer | 1 | 0| 
 | 20230906T11:12:48Z | Null | https://github.com/kirill5522/fuzzy-parakeet | 0 | 0| 
-| 20230906T10:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4815 | 1157| 
 | 20230906T09:21:13Z | Null | https://github.com/taivokasper/vscode-fuzzy-open | 0 | 0| 
 | 20230906T06:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8975 | 1977| 
 | 20230906T00:31:57Z | Null | https://github.com/Mem2019/LibFuzzer2AFL | 1 | 0| 
 | 20230905T23:07:24Z | A fuzzer for Linux eBPF module; build on top of LKL | https://github.com/ssrg-vt/ebpf-fuzzer | 0 | 0| 
-| 20230905T22:16:43Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 354 | 66| 
 
 
 
