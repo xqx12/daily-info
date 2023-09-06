@@ -92,7 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230905T23:07:24Z | A fuzzer for Linux eBPF module; build on top of LKL | https://github.com/ssrg-vt/ebpf-fuzzer | 0 | 0| 
-| 20230905T21:37:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8973 | 1978| 
+| 20230905T21:37:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8973 | 1977| 
 | 20230905T21:25:13Z | A simple registration/login service using jwt and gorm | https://github.com/dgdraganov/fuzzy-user-api | 0 | 0| 
 | 20230905T20:42:04Z | Null | https://github.com/NikWolf1/fuzzy-parakeet | 0 | 0| 
 | 20230905T19:32:59Z | Custom fuzzy logic Python library | https://github.com/jeremybk21/fuzzy-logic-python | 0 | 0| 
