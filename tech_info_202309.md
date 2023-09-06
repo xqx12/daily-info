@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T01:32:04Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0045-app-z-vFt-exploit-exclude | 0 | 0| 
 | 20230906T00:59:13Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0022-app-GBDFg-receive-exploit | 0 | 0| 
 | 20230906T00:07:17Z | exploits | https://github.com/ContenedorSRC/exploits | 0 | 0| 
 | 20230905T23:32:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5317 | 1037| 
@@ -70,7 +71,6 @@
 | 20230905T18:49:00Z | Proof-of-concept and detection tool to show if a critical account takeover exploit for Microsoft accounts is enabled | https://github.com/george/msa-exploit-checker | 8 | 2| 
 | 20230905T16:57:48Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14416 | 2470| 
 | 20230905T15:21:50Z | Official repository of *Beyond Domain Gap: Exploiting Subjectivity in Sketch-Based Person Retrieval* | https://github.com/Lin-Kayla/subjectivity-sketch-reid | 0 | 0| 
-| 20230905T12:41:27Z | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | 1 | 0| 
 
 
 # backdoor on Github 推荐
