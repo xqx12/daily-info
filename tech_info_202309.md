@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230906T01:13:26Z | CVE-2022-42889 | Text4Shell | https://github.com/Sic4rio/CVE-2022-42889 | | 
+| 20230906T01:15:32Z | CVE-2022-42889 | Text4Shell | https://github.com/Sic4rio/CVE-2022-42889 | | 
 | 20230905T21:30:27Z | CVE-2023- | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | | 
 | 20230905T21:00:40Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230905T19:52:12Z | CVE-2022-44268 | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268 | | 
