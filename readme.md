@@ -79,7 +79,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
+| 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
 | 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
 | 20230906T11:59:11Z | Null | https://github.com/mobilehackinglab/Libprotobuf-fuzzing | 0 | 0| 
 | 20230906T11:53:04Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
@@ -87,7 +89,6 @@
 | 20230906T11:12:48Z | Null | https://github.com/kirill5522/fuzzy-parakeet | 0 | 0| 
 | 20230906T09:21:13Z | Null | https://github.com/taivokasper/vscode-fuzzy-open | 0 | 0| 
 | 20230906T06:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8975 | 1977| 
-| 20230906T00:31:57Z | Null | https://github.com/Mem2019/LibFuzzer2AFL | 1 | 0| 
 
 
 
