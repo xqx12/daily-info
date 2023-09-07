@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T00:13:19Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
 | 20230906T23:21:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 0 | 0| 
 | 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
 | 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
 | 20230906T11:11:06Z | Addresses well-known KitBattle exploits; Provides information to combat potential abuses. | https://github.com/denniemok/kitbattle-patch | 1 | 0| 
-| 20230906T10:51:25Z | Linux kernel exploitation practice with Pawnyable. | https://github.com/cpey/pawnyable-practice | 0 | 0| 
 
 
 # backdoor on Github 推荐
