@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230907 | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q| 
 | 20230905 | 代码审计入门之XHCMS | https://www.sec-in.com/article/2066| 
 | 20230905 | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw| 
 | 20230905 | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ| 
@@ -20,30 +21,29 @@
 | 20230904 | SecWiki周刊（第496期) | https://www.sec-wiki.com/weekly/496| 
 | 20230904 | 网络协议软件漏洞挖掘技术综述 | https://www.jos.org.cn/jos/article/pdf/6942| 
 | 20230902 | 网安创业者干货建议分享 | https://mp.weixin.qq.com/s/RpM7OZupYWijdvNDfR07WQ| 
-| 20230902 | 安全行业大模型SecLLM技术白皮书 | https://book.yunzhan365.com/tkgd/orau/mobile/index.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230907T11:19:22Z | CVE-2021-3754 | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | | 
+| 20230907T11:01:05Z | CVE-2023-41535 | Null | https://github.com/Sh33talUmath/CVE-2023-41535 | | 
+| 20230907T10:58:32Z | CVE-2023-41534 | Null | https://github.com/Sh33talUmath/CVE-2023-41534 | | 
+| 20230907T10:50:03Z | CVE-2023-41533 | Null | https://github.com/Sh33talUmath/CVE-2023-41533 | | 
+| 20230907T10:45:07Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
+| 20230907T10:07:26Z | CVE-2023-23946 | Explanation and POC of the CVE-2023-23946 | https://github.com/bruno-1337/CVE-2023-23946-POC | | 
+| 20230907T06:44:20Z | CVE-2023-38831 | Quick exploit builder for CVE-2023-38831, a vulnerability that affects WinRAR versions before 6.23. | https://github.com/GOTonyGO/CVE-2023-38831-winrar | | 
 | 20230906T14:58:04Z | CVE-2023-36123 | The PoC of CVE-2023-36123 | https://github.com/9Bakabaka/CVE-2023-36123 | | 
-| 20230906T14:52:32Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230906T11:26:10Z | CVE-2023-3567 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567 | | 
 | 20230906T08:51:41Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
-| 20230906T06:18:14Z | CVE-2023-3812 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812 | | 
-| 20230906T01:15:32Z | CVE-2022-42889 | Text4Shell | https://github.com/Sic4rio/CVE-2022-42889 | | 
-| 20230905T21:30:27Z | CVE-2023- | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | | 
-| 20230905T19:52:12Z | CVE-2022-44268 | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268 | | 
-| 20230905T19:46:20Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
-| 20230905T14:23:34Z | CVE-2021-3156 | Null | https://github.com/asepsaepdin/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230907T01:11:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13721 | 418| 
-| 20230906T14:28:12Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 87 | 20| 
-| 20230906T05:18:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 355 | 7| 
+| 20230907T11:04:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13728 | 418| 
+| 20230907T09:36:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 88 | 20| 
+| 20230907T07:04:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
 | 20230904T14:01:10Z | Null | https://github.com/toyin2022/kleek | 0 | 0| 
 | 20230904T09:03:48Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 243 | 31| 
@@ -62,22 +62,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T11:19:22Z | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | 1 | 0| 
+| 20230907T10:23:38Z | Recover entries from a TI-30XS MultiView™ calculator after reset. | https://github.com/ndeineko/TI-MultiView-data-recovery | 3 | 0| 
+| 20230907T10:03:18Z | This repo hosts TUKRU%s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | https://github.com/tukru/CVE-2021-22555 | 1 | 0| 
+| 20230907T09:18:59Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 57 | 16| 
+| 20230907T09:03:55Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 1284 | 404| 
+| 20230907T06:48:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 722 | 179| 
+| 20230907T03:41:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 157 | 13| 
 | 20230907T01:50:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWj | 0 | 0| 
 | 20230907T01:49:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANjl | 1 | 0| 
 | 20230907T01:48:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANjl | 1 | 0| 
-| 20230907T01:47:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANjl | 0 | 0| 
-| 20230907T00:45:32Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 1 | 0| 
-| 20230907T00:13:49Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
-| 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
-| 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
-| 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
-| 20230906T12:41:22Z | Gives students exploits and good grades. will update maybe in about two weeks | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230907T01:12:10Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 92 | 13| 
+| 20230907T11:54:04Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 95 | 14| 
+| 20230907T10:57:32Z | Null | https://github.com/maha897/Backdoor | 0 | 0| 
 | 20230906T13:16:10Z | Null | https://github.com/NayMyatMin/JUE_Backdoor | 0 | 0| 
 | 20230906T13:08:42Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (under review)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
 | 20230906T10:05:17Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 221 | 64| 
@@ -86,7 +87,6 @@
 | 20230906T03:43:24Z | Null | https://github.com/DDNvR/backdoors | 0 | 0| 
 | 20230905T15:23:31Z | These is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of any Linux distribution, Bash, Metasploit, Apktool, the Android SDK, smali, etc.  | https://github.com/ALPHA-HACKGOD/APKHACK-BACKDOOR | 0 | 0| 
 | 20230905T12:10:30Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 199 | 22| 
-| 20230905T09:05:31Z | ADR is a trojan that retrieves all information on the computer and all data stored in applications using chormuim. It recovers cookies, tokens, passwords and saved bank cards. This malware is undetectable by Windows Defender, Chrome, Virustotal (4/71). | https://github.com/julesgrc0/ADR | 9 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T11:29:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1543 | 218| 
+| 20230907T11:18:31Z | Null | https://github.com/ghogg5/fuzzy-chainsaw | 0 | 0| 
+| 20230907T10:23:31Z | Open Hardware pedal based on the Fuzz Face but, like the Base13, has a true +9v supply and a buffered output | https://github.com/olivergardiner/DisasterArea | 0 | 0| 
+| 20230907T09:35:35Z | Null | https://github.com/jensengbg-Mizzar-Masoud/fuzzy-umbrella | 0 | 0| 
+| 20230907T09:14:18Z | Null | https://github.com/githowell/fuzzy-conversion | 0 | 0| 
+| 20230907T09:13:54Z | Null | https://github.com/Gerben100/Fuzzing_test | 0 | 0| 
+| 20230907T09:07:14Z | Temp | https://github.com/HakaKali/fuzzing | 0 | 0| 
 | 20230907T01:04:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8976 | 1979| 
 | 20230907T00:05:43Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
-| 20230906T22:43:00Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 1 | 0| 
-| 20230906T21:47:23Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 385 | 47| 
-| 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
-| 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
-| 20230906T17:22:20Z | Docker project for AFL++ that Assists Security Researchers with Advanced Instrumenting / Fuzzing Binaries | https://github.com/0dayInc/container.aflplusplus.template | 0 | 1| 
-| 20230906T16:07:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 193| 
-| 20230906T13:42:13Z | Null | https://github.com/goldscanco/fuzzle-documentation | 0 | 0| 
 
 
 
