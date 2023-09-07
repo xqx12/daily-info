@@ -26,41 +26,45 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230906T14:58:04Z | CVE-2023-36123 | The PoC of CVE-2023-36123 | https://github.com/9Bakabaka/CVE-2023-36123 | | 
+| 20230906T14:52:32Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230906T11:26:10Z | CVE-2023-3567 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567 | | 
 | 20230906T08:51:41Z | CVE-2023-33733 | CVE-2023-33733 reportlab RCE | https://github.com/c53elyas/CVE-2023-33733 | | 
-| 20230906T07:23:32Z | CVE-2023-4634 | CVE-2023-4634 | https://github.com/Patrowl/CVE-2023-4634 | | 
 | 20230906T06:18:14Z | CVE-2023-3812 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812 | | 
 | 20230906T01:15:32Z | CVE-2022-42889 | Text4Shell | https://github.com/Sic4rio/CVE-2022-42889 | | 
 | 20230905T21:30:27Z | CVE-2023- | Null | https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit | | 
 | 20230905T19:52:12Z | CVE-2022-44268 | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268 | | 
 | 20230905T19:46:20Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
 | 20230905T14:23:34Z | CVE-2021-3156 | Null | https://github.com/asepsaepdin/CVE-2021-3156 | | 
-| 20230905T12:41:27Z | CVE-2023-3124 | CVE-2023-3124 PoC | https://github.com/AmirWhiteHat/CVE-2023-3124 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T06:45:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13714 | 418| 
+| 20230906T16:05:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13721 | 418| 
+| 20230906T14:28:12Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 87 | 20| 
 | 20230906T05:18:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 355 | 7| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
-| 20230905T12:46:33Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 86 | 20| 
 | 20230904T14:01:10Z | Null | https://github.com/toyin2022/kleek | 0 | 0| 
 | 20230904T09:03:48Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 243 | 31| 
 | 20230904T05:08:10Z | Null | https://github.com/Kleeyaa/Kleeyaa.github.io | 0 | 0| 
 | 20230903T20:00:00Z | Null | https://github.com/NicklasKleemann/NicklasKleemann | 0 | 0| 
 | 20230903T16:36:10Z | series-intro-to-github-flow-LorenzKleeberg created by GitHub Classroom | https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-LorenzKleeberg | 0 | 0| 
-| 20230902T07:22:41Z | Null | https://github.com/tobegoat/klee | 0 | 0| 
+| 20230903T10:26:32Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 109 | 6| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T19:11:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 350 | 81| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T23:21:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 0 | 0| 
+| 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
+| 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
 | 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
 | 20230906T12:41:22Z | Gives students exploits and good grades. will update maybe in about two weeks | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
@@ -68,15 +72,14 @@
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
 | 20230906T11:11:06Z | Addresses well-known KitBattle exploits; Provides information to combat potential abuses. | https://github.com/denniemok/kitbattle-patch | 1 | 0| 
 | 20230906T10:51:25Z | Linux kernel exploitation practice with Pawnyable. | https://github.com/cpey/pawnyable-practice | 0 | 0| 
-| 20230906T10:35:08Z | Krunker 脚本 | https://github.com/pw-hxss/krunkerExploit | 0 | 0| 
-| 20230906T06:04:25Z | proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
-| 20230906T03:13:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 83 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T12:38:48Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 89 | 13| 
+| 20230906T15:22:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 91 | 13| 
+| 20230906T13:16:10Z | Null | https://github.com/NayMyatMin/JUE_Backdoor | 0 | 0| 
+| 20230906T13:08:42Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (under review)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
 | 20230906T10:05:17Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 221 | 64| 
 | 20230906T09:15:33Z | Null | https://github.com/axosecurity/Wordpress-backdoor | 0 | 0| 
 | 20230906T05:16:07Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
@@ -84,8 +87,6 @@
 | 20230905T15:23:31Z | These is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of any Linux distribution, Bash, Metasploit, Apktool, the Android SDK, smali, etc.  | https://github.com/ALPHA-HACKGOD/APKHACK-BACKDOOR | 0 | 0| 
 | 20230905T12:10:30Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 199 | 22| 
 | 20230905T09:05:31Z | ADR is a trojan that retrieves all information on the computer and all data stored in applications using chormuim. It recovers cookies, tokens, passwords and saved bank cards. This malware is undetectable by Windows Defender, Chrome, Virustotal (4/71). | https://github.com/julesgrc0/ADR | 9 | 0| 
-| 20230905T08:39:39Z | 🔶A new fully telegram-controlled RAT. ✨Only for 5 USD from 5 till 7 of september 2023✨. Please read the README file before | https://github.com/Shinyenigma/Milenium-RAT | 172 | 58| 
-| 20230905T07:13:51Z | All code and data necessary to replicate experiments in the paper BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models. | https://github.com/JJ-Vice/BAGM | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T23:59:18Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
+| 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
+| 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
+| 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
+| 20230906T16:07:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 193| 
+| 20230906T13:42:13Z | Null | https://github.com/goldscanco/fuzzle-documentation | 0 | 0| 
 | 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
 | 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
-| 20230906T11:59:11Z | Null | https://github.com/mobilehackinglab/Libprotobuf-fuzzing | 0 | 0| 
-| 20230906T11:53:04Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
-| 20230906T11:22:12Z | 介绍如何在windows使用libfuzzer对msvc编译的程序进行白盒fuzz | https://github.com/TechForBad/WinMsvcLibfuzzer | 1 | 0| 
-| 20230906T11:12:48Z | Null | https://github.com/kirill5522/fuzzy-parakeet | 0 | 0| 
-| 20230906T09:21:13Z | Null | https://github.com/taivokasper/vscode-fuzzy-open | 0 | 0| 
-| 20230906T06:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8975 | 1977| 
 
 
 
