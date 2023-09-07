@@ -47,9 +47,9 @@
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
+| 20230906T11:36:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 382 | 77| 
 | 20230906T11:11:06Z | Addresses well-known KitBattle exploits; Provides information to combat potential abuses. | https://github.com/denniemok/kitbattle-patch | 1 | 0| 
 | 20230906T10:51:25Z | Linux kernel exploitation practice with Pawnyable. | https://github.com/cpey/pawnyable-practice | 0 | 0| 
-| 20230906T10:35:08Z | Krunker 脚本 | https://github.com/pw-hxss/krunkerExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
