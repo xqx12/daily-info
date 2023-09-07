@@ -86,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T23:59:18Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
 | 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
 | 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
 | 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
+| 20230906T11:59:11Z | Null | https://github.com/mobilehackinglab/Libprotobuf-fuzzing | 0 | 0| 
 
 
 
