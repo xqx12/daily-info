@@ -27,7 +27,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T16:05:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13721 | 418| 
 | 20230906T14:28:12Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 87 | 20| 
 | 20230906T05:18:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 355 | 7| 
 
@@ -56,7 +55,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T15:22:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 91 | 13| 
 | 20230906T13:16:10Z | Null | https://github.com/NayMyatMin/JUE_Backdoor | 0 | 0| 
 | 20230906T13:08:42Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (under review)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
 | 20230906T10:05:17Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 221 | 64| 
