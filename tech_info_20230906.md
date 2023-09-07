@@ -68,6 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230906T13:48:57Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 56 | 9| 
 | 20230906T12:55:22Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 257 | 33| 
 | 20230906T12:54:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 682 | 120| 
 | 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
