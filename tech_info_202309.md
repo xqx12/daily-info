@@ -62,6 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T01:50:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWj | 0 | 0| 
+| 20230907T01:49:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANjl | 1 | 0| 
+| 20230907T01:48:53Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANjl | 1 | 0| 
 | 20230907T01:47:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANjl | 0 | 0| 
 | 20230907T00:45:32Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 1 | 0| 
 | 20230907T00:13:49Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
@@ -69,9 +72,6 @@
 | 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
 | 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
 | 20230906T12:41:22Z | Gives students exploits and good grades. will update maybe in about two weeks | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
-| 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
-| 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
-| 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
 
 
 # backdoor on Github 推荐
