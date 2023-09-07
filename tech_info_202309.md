@@ -125,13 +125,13 @@
 | 20230907T01:04:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8976 | 1979| 
 | 20230907T00:05:43Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
+| 20230906T22:43:00Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 1 | 0| 
 | 20230906T21:47:23Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 385 | 47| 
 | 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
 | 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
 | 20230906T17:22:20Z | Docker project for AFL++ that Assists Security Researchers with Advanced Instrumenting / Fuzzing Binaries | https://github.com/0dayInc/container.aflplusplus.template | 0 | 1| 
 | 20230906T16:07:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 193| 
 | 20230906T13:42:13Z | Null | https://github.com/goldscanco/fuzzle-documentation | 0 | 0| 
-| 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 
 
 
