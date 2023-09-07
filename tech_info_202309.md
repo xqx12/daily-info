@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T12:04:29Z | A high-performance network fuzzer for MQTT Brokers | https://github.com/MCloudTT/rusty-FUME | 2 | 0| 
 | 20230907T11:29:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1543 | 218| 
 | 20230907T11:18:31Z | Null | https://github.com/ghogg5/fuzzy-chainsaw | 0 | 0| 
 | 20230907T10:23:31Z | Open Hardware pedal based on the Fuzz Face but, like the Base13, has a true +9v supply and a buffered output | https://github.com/olivergardiner/DisasterArea | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230907T09:07:14Z | Temp | https://github.com/HakaKali/fuzzing | 0 | 0| 
 | 20230907T01:04:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8976 | 1979| 
 | 20230907T00:05:43Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
-| 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
 
 
 
