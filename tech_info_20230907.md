@@ -57,6 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T12:06:15Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
 | 20230907T11:54:04Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 95 | 14| 
 | 20230907T10:57:32Z | Null | https://github.com/maha897/Backdoor | 0 | 0| 
 
@@ -70,6 +71,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T07:06:28Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 6 | 0| 
 
 
 # fuzz on Github 推荐

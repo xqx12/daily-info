@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T12:06:15Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
 | 20230907T11:54:04Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 95 | 14| 
 | 20230907T10:57:32Z | Null | https://github.com/maha897/Backdoor | 0 | 0| 
 | 20230906T13:16:10Z | Null | https://github.com/NayMyatMin/JUE_Backdoor | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20230906T05:16:07Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
 | 20230906T03:43:24Z | Null | https://github.com/DDNvR/backdoors | 0 | 0| 
 | 20230905T15:23:31Z | These is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of any Linux distribution, Bash, Metasploit, Apktool, the Android SDK, smali, etc.  | https://github.com/ALPHA-HACKGOD/APKHACK-BACKDOOR | 0 | 0| 
-| 20230905T12:10:30Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 199 | 22| 
 
 
 # symbolic execution on Github 推荐
@@ -107,11 +107,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T07:06:28Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 6 | 0| 
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
 | 20230906T07:06:36Z | 论文爬虫: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 0 | 0| 
 | 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
 | 20230906T03:20:30Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 7 | 0| 
-| 20230905T20:54:08Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 5 | 0| 
 | 20230904T08:00:44Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230904T00:11:29Z | Artifact for the paper Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 | 20230902T20:02:13Z | This is the repo for NDSS 2024 paper: IDA: Hybrid Attestation with Support for Interrupts and TOCTOU | https://github.com/ssysarch/IDA | 0 | 0| 
