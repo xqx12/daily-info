@@ -41,7 +41,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230906T23:21:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 0 | 0| 
 | 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
 | 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
 | 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
@@ -51,6 +50,7 @@
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
 | 20230906T11:11:06Z | Addresses well-known KitBattle exploits; Provides information to combat potential abuses. | https://github.com/denniemok/kitbattle-patch | 1 | 0| 
 | 20230906T10:51:25Z | Linux kernel exploitation practice with Pawnyable. | https://github.com/cpey/pawnyable-practice | 0 | 0| 
+| 20230906T10:35:08Z | Krunker 脚本 | https://github.com/pw-hxss/krunkerExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,6 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
+| 20230906T21:47:23Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 385 | 47| 
 | 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
 | 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
 | 20230906T17:22:20Z | Docker project for AFL++ that Assists Security Researchers with Advanced Instrumenting / Fuzzing Binaries | https://github.com/0dayInc/container.aflplusplus.template | 0 | 1| 
@@ -96,7 +97,6 @@
 | 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
-| 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
 
 
 

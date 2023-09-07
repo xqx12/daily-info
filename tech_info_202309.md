@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T00:45:32Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 1 | 0| 
 | 20230907T00:13:49Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
-| 20230906T23:21:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 0 | 0| 
 | 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
 | 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
 | 20230906T12:57:46Z | Null | https://github.com/suhyukheo/exploit | 0 | 0| 
@@ -124,6 +124,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230907T00:05:43Z | Null | https://github.com/3bube/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
+| 20230906T21:47:23Z | Blazing Fast Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 385 | 47| 
 | 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
 | 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
 | 20230906T17:22:20Z | Docker project for AFL++ that Assists Security Researchers with Advanced Instrumenting / Fuzzing Binaries | https://github.com/0dayInc/container.aflplusplus.template | 0 | 1| 
@@ -131,7 +132,6 @@
 | 20230906T13:42:13Z | Null | https://github.com/goldscanco/fuzzle-documentation | 0 | 0| 
 | 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
-| 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
 
 
 
