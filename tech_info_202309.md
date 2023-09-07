@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230907T00:13:19Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
+| 20230907T00:13:49Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
 | 20230906T23:21:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 0 | 0| 
 | 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
 | 20230906T20:59:34Z | Apk/Exe Exploit Spoofer v3 | https://github.com/x1naaa/Apk-to-Png-Exploit-Spoofer-v3 | 0 | 0| 
