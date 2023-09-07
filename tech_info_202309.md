@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T01:47:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANjl | 0 | 0| 
 | 20230907T00:45:32Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits BUT now without a tablist and with some other features ! | https://github.com/HouseHouseHause1/L2X9RebootCore-NoTablist | 1 | 0| 
 | 20230907T00:13:49Z | WebShell exploit | https://github.com/RyuGeonmo/WebShell | 0 | 0| 
 | 20230906T21:17:58Z | Web Site exploiting Some tag basics | https://github.com/bvenceslas/codemarch-fresh-challenges | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20230906T12:23:00Z | The app for offline calculations. For ships engineers (exploitation). | https://github.com/Forseti93/ship-engineer-s-calculations | 0 | 0| 
 | 20230906T12:16:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5314 | 681| 
 | 20230906T12:16:09Z | ## Project Description  This repository showcases a comprehensive security testing project. The project focuses on identifying, assessing, and exploiting vulnerabilities in web applications. | https://github.com/Niccolo10/Vulnerable-Application-Vulnerability-Test | 0 | 0| 
-| 20230906T11:36:16Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 382 | 77| 
 
 
 # backdoor on Github 推荐
