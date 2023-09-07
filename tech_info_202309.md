@@ -126,12 +126,12 @@
 | 20230906T23:33:24Z | Null | https://github.com/Kattie51/fuzzy-engine | 0 | 0| 
 | 20230906T19:49:02Z | Web attack fuzzing list! | https://github.com/Mishusec/Fuzzing-Wordlist | 0 | 0| 
 | 20230906T19:17:32Z | I remastered URL_OSINT_TOOL and removed the fuzzing feature from the tool. Instead of using this feature on just URL discovery, I decided to make other tool for directory discovery. | https://github.com/onurcangnc/Alvin_fuzzing_v1.0 | 0 | 0| 
+| 20230906T17:22:20Z | Docker project for AFL++ that Assists Security Researchers with Advanced Instrumenting / Fuzzing Binaries | https://github.com/0dayInc/container.aflplusplus.template | 0 | 1| 
 | 20230906T16:07:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 193| 
 | 20230906T13:42:13Z | Null | https://github.com/goldscanco/fuzzle-documentation | 0 | 0| 
 | 20230906T12:45:51Z | Null | https://github.com/JimWinorez/fuzzy-octo-garbanzo | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/FDU-Sec/NestFuzz | 0 | 0| 
 | 20230906T12:39:55Z | NestFuzz | https://github.com/fdu-sec/NestFuzz | 0 | 0| 
-| 20230906T12:38:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1157| 
 
 
 
