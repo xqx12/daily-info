@@ -21,11 +21,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230908T12:31:14Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230908T11:03:04Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
 | 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
 | 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
-| 20230908T06:15:01Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230908T02:57:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 
 
@@ -80,7 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230908T12:12:49Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
+| 20230908T12:31:15Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
 | 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
 | 20230908T11:17:31Z | Null | https://github.com/chamitro/Fuzzol | 0 | 0| 
 | 20230908T10:33:55Z | Null | https://github.com/Gzlses/fuzzy-adventure | 0 | 0| 
