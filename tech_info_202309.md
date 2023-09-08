@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T01:02:26Z | GitOps Repository | https://github.com/pmacik-testing/cima-0005-0001-app-4pI6R-exploit-retain | 0 | 0| 
 | 20230908T00:52:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5322 | 1038| 
 | 20230908T00:36:34Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14432 | 2475| 
 | 20230908T00:30:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-0oWI3-exploit-drive | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230907T23:17:01Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 74 | 7| 
 | 20230907T23:05:29Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 4 | 0| 
 | 20230907T21:44:52Z | GitOps Repository | https://github.com/hbhati-testing/e2e-fbc-application-dH0Kf-exploit-attack | 0 | 0| 
-| 20230907T21:05:45Z | CatWare , Roblox Exploit 🚀 | https://github.com/printinqq/CatWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
