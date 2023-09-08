@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T00:30:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-0oWI3-exploit-drive | 0 | 0| 
 | 20230907T23:48:21Z | Null | https://github.com/JohnBatshon/Exploiting-Restricted-SQL-Injection | 0 | 0| 
 | 20230907T23:48:17Z | Null | https://github.com/KwikLinks/other-exploits | 0 | 0| 
 | 20230907T23:34:07Z | As a Roblox Exploiter I coded my own hub that has games, scripts and more. | https://github.com/RoStudioGames/RoStudio-Games-Hub | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230907T21:44:52Z | GitOps Repository | https://github.com/hbhati-testing/e2e-fbc-application-dH0Kf-exploit-attack | 0 | 0| 
 | 20230907T21:05:45Z | CatWare , Roblox Exploit 🚀 | https://github.com/printinqq/CatWare | 0 | 0| 
 | 20230907T11:19:22Z | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | 1 | 0| 
-| 20230907T10:23:38Z | Recover entries from a TI-30XS MultiView™ calculator after reset. | https://github.com/ndeineko/TI-MultiView-data-recovery | 3 | 0| 
 
 
 # backdoor on Github 推荐
