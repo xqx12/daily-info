@@ -71,7 +71,7 @@
 | 20230907T23:05:29Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 4 | 0| 
 | 20230907T21:44:52Z | GitOps Repository | https://github.com/hbhati-testing/e2e-fbc-application-dH0Kf-exploit-attack | 0 | 0| 
 | 20230907T21:05:45Z | CatWare , Roblox Exploit 🚀 | https://github.com/printinqq/CatWare | 0 | 0| 
-| 20230907T11:19:22Z | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | 1 | 0| 
+| 20230907T15:44:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5321 | 1038| 
 
 
 # backdoor on Github 推荐
