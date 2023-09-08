@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230908T01:16:10Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230907T16:50:02Z | CVE-2023-40930 |  CVE-2023-40930 Repetition Enviroment | https://github.com/NSnidie/-CVE-2023-40930 | | 
 | 20230907T16:20:50Z | CVE-2023-27372 | This is a PoC for CVE-2023-27372 and spawns a fully interactive shell. | https://github.com/redboltsec/CVE-2023-27372-PoC | | 
 | 20230907T16:17:42Z | CVE-2021-20021 | Null | https://github.com/SUPRAAA-1337/CVE-2021-20021 | | 
@@ -35,7 +36,6 @@
 | 20230907T11:19:22Z | CVE-2021-3754 | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | | 
 | 20230907T11:01:05Z | CVE-2023-41535 | Null | https://github.com/Sh33talUmath/CVE-2023-41535 | | 
 | 20230907T10:58:32Z | CVE-2023-41534 | Null | https://github.com/Sh33talUmath/CVE-2023-41534 | | 
-| 20230907T10:50:03Z | CVE-2023-41533 | Null | https://github.com/Sh33talUmath/CVE-2023-41533 | | 
 
 
 # klee on Github 推荐
