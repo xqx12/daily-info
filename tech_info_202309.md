@@ -126,12 +126,12 @@
 | 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
 | 20230908T11:17:31Z | Null | https://github.com/chamitro/Fuzzol | 0 | 0| 
 | 20230908T10:33:55Z | Null | https://github.com/Gzlses/fuzzy-adventure | 0 | 0| 
+| 20230908T06:51:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1156| 
 | 20230908T03:07:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 221 | 32| 
 | 20230908T01:45:48Z | My clone repository | https://github.com/Bearfacts101/fuzzy-tribble | 0 | 0| 
 | 20230908T00:05:16Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1925 | 314| 
 | 20230907T22:06:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 4 | 16| 
 | 20230907T21:20:40Z | Null | https://github.com/2lambda123/LIBERTARIAN_SECURITIES_RUSSIAN_NATION_FUZZY | 0 | 0| 
-| 20230907T18:12:21Z | Null | https://github.com/micss-lab/FuzzyBDIAgents | 0 | 0| 
 
 
 
