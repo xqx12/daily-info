@@ -68,10 +68,10 @@
 | 20230907T23:17:01Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 74 | 7| 
 | 20230907T23:05:29Z | initial access payload injector through uac PE bypass AV | https://github.com/ELMERIKH/Beryl | 4 | 0| 
 | 20230907T21:44:52Z | GitOps Repository | https://github.com/hbhati-testing/e2e-fbc-application-dH0Kf-exploit-attack | 0 | 0| 
+| 20230907T21:05:45Z | CatWare , Roblox Exploit 🚀 | https://github.com/printinqq/CatWare | 0 | 0| 
 | 20230907T11:19:22Z | Vulnerability details and exploit for CVE-2021-3754 | https://github.com/7Ragnarok7/CVE-2021-3754 | 1 | 0| 
 | 20230907T10:23:38Z | Recover entries from a TI-30XS MultiView™ calculator after reset. | https://github.com/ndeineko/TI-MultiView-data-recovery | 3 | 0| 
 | 20230907T10:03:18Z | This repo hosts TUKRU%s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | https://github.com/tukru/CVE-2021-22555 | 1 | 0| 
-| 20230907T09:18:59Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 57 | 16| 
 
 
 # backdoor on Github 推荐
