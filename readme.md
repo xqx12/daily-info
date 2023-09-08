@@ -69,6 +69,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230907T13:17:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 57 | 9| 
 | 20230907T05:54:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 683 | 120| 
 
 
