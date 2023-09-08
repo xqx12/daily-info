@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T12:59:16Z | This is a PrintNightmare POC I wrote in my endeavour to better learn C, the WinAPI, and exploit/malware dev | https://github.com/d0nkeyk0ng787/PrintNightmare-POC | 0 | 0| 
 | 20230908T11:46:02Z | Tools for dependent variables in Linear Temporal Logic (LTL), including: Finding Dependent variables, Synthesis exploiting dependency. | https://github.com/eliyaoo32/DepSynt | 3 | 0| 
 | 20230908T11:13:43Z | Null | https://github.com/wurfelgennomen404/Exploit-by-Gudys-Platinum | 0 | 0| 
 | 20230908T10:56:23Z | cheatplug.xyz are the leading provider of advanced PUBG Cheats & Exploits. Our Undetected Hacks include Aimbots, ESP, Wallhacks, Radar Hacks, No Recoil & Speed Boost. | https://github.com/xMathias1337/PUBG-Internal | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20230908T01:43:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0059-app-K5d7F-answer-exploit | 0 | 0| 
 | 20230908T01:29:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0046-app-hnX7o-exploit-end | 0 | 0| 
 | 20230908T01:02:26Z | GitOps Repository | https://github.com/pmacik-testing/cima-0005-0001-app-4pI6R-exploit-retain | 0 | 0| 
-| 20230908T00:52:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5322 | 1038| 
 
 
 # backdoor on Github 推荐
