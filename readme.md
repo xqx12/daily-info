@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T12:12:49Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
 | 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
 | 20230908T11:17:31Z | Null | https://github.com/chamitro/Fuzzol | 0 | 0| 
 | 20230908T10:33:55Z | Null | https://github.com/Gzlses/fuzzy-adventure | 0 | 0| 

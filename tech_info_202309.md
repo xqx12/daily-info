@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T12:12:49Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
 | 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
 | 20230908T11:17:31Z | Null | https://github.com/chamitro/Fuzzol | 0 | 0| 
 | 20230908T10:33:55Z | Null | https://github.com/Gzlses/fuzzy-adventure | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230907T22:06:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 4 | 16| 
 | 20230907T21:20:40Z | Null | https://github.com/2lambda123/LIBERTARIAN_SECURITIES_RUSSIAN_NATION_FUZZY | 0 | 0| 
 | 20230907T18:12:21Z | Null | https://github.com/micss-lab/FuzzyBDIAgents | 0 | 0| 
-| 20230907T14:42:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 193| 
 
 
 
