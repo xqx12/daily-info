@@ -47,12 +47,12 @@
 | 20230908T11:13:43Z | Null | https://github.com/wurfelgennomen404/Exploit-by-Gudys-Platinum | 0 | 0| 
 | 20230908T10:56:23Z | cheatplug.xyz are the leading provider of advanced PUBG Cheats & Exploits. Our Undetected Hacks include Aimbots, ESP, Wallhacks, Radar Hacks, No Recoil & Speed Boost. | https://github.com/xMathias1337/PUBG-Internal | 0 | 0| 
 | 20230908T09:14:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5505 | 760| 
+| 20230908T08:25:35Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 0 | 0| 
 | 20230908T05:35:18Z | Everything here | https://github.com/Aftab700/VAPT | 0 | 1| 
 | 20230908T01:43:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0059-app-K5d7F-answer-exploit | 0 | 0| 
 | 20230908T01:29:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0046-app-hnX7o-exploit-end | 0 | 0| 
 | 20230908T01:02:26Z | GitOps Repository | https://github.com/pmacik-testing/cima-0005-0001-app-4pI6R-exploit-retain | 0 | 0| 
 | 20230908T00:52:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5322 | 1038| 
-| 20230908T00:36:34Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14432 | 2475| 
 
 
 # backdoor on Github 推荐
