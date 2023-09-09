@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230909T12:35:02Z | CVE-2022-42889 | Proof of Concept for RCE vuln in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
+| 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
 | 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
 | 20230908T18:13:19Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
