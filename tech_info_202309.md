@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T11:47:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13745 | 418| 
 | 20230908T23:50:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2312 | 635| 
-| 20230908T16:04:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13739 | 418| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230907T13:25:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
 | 20230907T09:36:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 88 | 20| 
@@ -62,21 +62,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T11:19:32Z | Null | https://github.com/shehajeez/roblox-exploiting-ui-libraries | 0 | 0| 
+| 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
+| 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
+| 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
 | 20230909T00:54:11Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
 | 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
 | 20230908T22:42:46Z | A simple pack of modifications and exploits for your Roblox client. | https://github.com/JustAnEric/RExploitsAndMods | 0 | 0| 
 | 20230908T20:48:08Z | Null | https://github.com/xansec/end-to-end-exploitation | 0 | 0| 
-| 20230908T18:08:10Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 1285 | 405| 
-| 20230908T18:02:52Z | A Virtual environment for Pentesting IoT Devices | https://github.com/IoT-PTv/IoT-PT | 358 | 70| 
-| 20230908T17:45:13Z | Python scripts for hands-on web security training labs. These scripts accompany write-ups that demonstrate practical exploits and exercises for web vulnerabilities and defense. Training leed by Rana Khalil ;-) | https://github.com/SoTraore/Web_Security_Academy | 0 | 0| 
-| 20230908T16:28:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5321 | 1040| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
+| 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
+| 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
 | 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 234| 
 | 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
 | 20230908T09:57:23Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 1 | 2| 
@@ -84,9 +87,6 @@
 | 20230908T05:47:36Z | Simple docker container containing a set of YARA rules. As of 09/07/2023, this only detects the ShadowPad backdoor.  | https://github.com/CuriosityOverflow/yara_to_go | 0 | 0| 
 | 20230907T18:21:40Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 84 | 21| 
 | 20230907T11:54:04Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 95 | 14| 
-| 20230907T10:57:32Z | Null | https://github.com/maha897/Backdoor | 0 | 0| 
-| 20230906T13:16:10Z | Null | https://github.com/NayMyatMin/JUE_Backdoor | 0 | 0| 
-| 20230906T13:08:42Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (under review)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,10 +107,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T11:50:00Z | 论文爬虫: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
 | 20230908T04:24:52Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230907T07:06:28Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 6 | 0| 
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
-| 20230906T07:06:36Z | 论文爬虫: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 0 | 0| 
 | 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
 | 20230906T03:20:30Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 7 | 0| 
 | 20230904T00:11:29Z | Artifact for the paper Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
@@ -122,6 +122,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T09:52:40Z | Null | https://github.com/minhharry/fuzzy-eureka | 0 | 0| 
+| 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
+| 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
 | 20230908T23:57:12Z | Null | https://github.com/tinki9-9-9/fuzzy-stream | 0 | 0| 
 | 20230908T23:09:40Z | Null | https://github.com/MichaelColeman/Fuzzalike | 0 | 0| 
 | 20230908T22:09:08Z | Fuzzer of directotories. | https://github.com/Diperblue/SubdomainVerify | 0 | 0| 
@@ -129,9 +132,6 @@
 | 20230908T20:58:10Z | A Fuzzy Expert System for Heart Disease Diagnosis, Utilizing Input Variables to Diagnose Disease | https://github.com/AylarSedaei/fuzzy-inference-heart-disease | 0 | 0| 
 | 20230908T20:29:44Z | Null | https://github.com/Pecs01/fuzzy-rotary-phone | 0 | 0| 
 | 20230908T20:24:02Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
-| 20230908T20:15:50Z | Null | https://github.com/JBreitenbr/fuzzy-carnival | 0 | 0| 
-| 20230908T18:48:41Z | We Deliver While You Think ! README.md | https://github.com/mmu099/fuzzy-mmu094-invention | 2 | 0| 
-| 20230908T12:31:15Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
 
 
 
