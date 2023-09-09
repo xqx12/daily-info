@@ -21,6 +21,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
+| 20230908T18:13:19Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20230908T12:31:14Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230908T11:03:04Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
@@ -32,7 +34,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230908T07:49:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13740 | 418| 
+| 20230908T23:50:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2312 | 635| 
+| 20230908T16:04:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13739 | 418| 
+| 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -43,22 +47,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
+| 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
+| 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
+| 20230908T22:42:46Z | A simple pack of modifications and exploits for your Roblox client. | https://github.com/JustAnEric/RExploitsAndMods | 0 | 0| 
+| 20230908T20:48:08Z | Null | https://github.com/xansec/end-to-end-exploitation | 0 | 0| 
+| 20230908T18:02:52Z | A Virtual environment for Pentesting IoT Devices | https://github.com/IoT-PTv/IoT-PT | 358 | 70| 
+| 20230908T17:45:13Z | Python scripts for hands-on web security training labs. These scripts accompany write-ups that demonstrate practical exploits and exercises for web vulnerabilities and defense. Training leed by Rana Khalil ;-) | https://github.com/SoTraore/Web_Security_Academy | 0 | 0| 
+| 20230908T14:17:39Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 39 | 3| 
 | 20230908T12:59:16Z | This is a PrintNightmare POC I wrote in my endeavour to better learn C, the WinAPI, and exploit/malware dev | https://github.com/d0nkeyk0ng787/PrintNightmare-POC | 0 | 0| 
 | 20230908T11:46:02Z | Tools for dependent variables in Linear Temporal Logic (LTL), including: Finding Dependent variables, Synthesis exploiting dependency. | https://github.com/eliyaoo32/DepSynt | 3 | 0| 
-| 20230908T11:13:43Z | Null | https://github.com/wurfelgennomen404/Exploit-by-Gudys-Platinum | 0 | 0| 
-| 20230908T10:56:23Z | cheatplug.xyz are the leading provider of advanced PUBG Cheats & Exploits. Our Undetected Hacks include Aimbots, ESP, Wallhacks, Radar Hacks, No Recoil & Speed Boost. | https://github.com/xMathias1337/PUBG-Internal | 0 | 0| 
-| 20230908T09:14:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5505 | 760| 
-| 20230908T08:25:35Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 0 | 0| 
-| 20230908T05:35:18Z | Everything here | https://github.com/Aftab700/VAPT | 0 | 1| 
-| 20230908T01:43:17Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0059-app-K5d7F-answer-exploit | 0 | 0| 
-| 20230908T01:29:41Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0046-app-hnX7o-exploit-end | 0 | 0| 
-| 20230908T01:02:26Z | GitOps Repository | https://github.com/pmacik-testing/cima-0005-0001-app-4pI6R-exploit-retain | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230908T11:22:01Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 642 | 233| 
+| 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 234| 
 | 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
 | 20230908T09:57:23Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 1 | 2| 
 | 20230908T07:43:12Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
@@ -68,6 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T23:50:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2312 | 635| 
+| 20230908T18:04:59Z | symbolic execution but fast | https://github.com/pepsipu/hgse | 0 | 0| 
 | 20230908T12:06:54Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 0 | 0| 
 
 
@@ -80,14 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230908T23:57:12Z | Null | https://github.com/tinki9-9-9/fuzzy-stream | 0 | 0| 
+| 20230908T23:09:40Z | Null | https://github.com/MichaelColeman/Fuzzalike | 0 | 0| 
+| 20230908T22:09:08Z | Fuzzer of directotories. | https://github.com/Diperblue/SubdomainVerify | 0 | 0| 
+| 20230908T21:07:09Z | Null | https://github.com/actions-marketplace-validations/shogo82148_actions-go-fuzz | 0 | 0| 
+| 20230908T20:58:10Z | A Fuzzy Expert System for Heart Disease Diagnosis, Utilizing Input Variables to Diagnose Disease | https://github.com/AylarSedaei/fuzzy-inference-heart-disease | 0 | 0| 
+| 20230908T20:29:44Z | Null | https://github.com/Pecs01/fuzzy-rotary-phone | 0 | 0| 
+| 20230908T20:24:02Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
+| 20230908T20:15:50Z | Null | https://github.com/JBreitenbr/fuzzy-carnival | 0 | 0| 
 | 20230908T12:31:15Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
 | 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
-| 20230908T11:17:31Z | Null | https://github.com/chamitro/Fuzzol | 0 | 0| 
-| 20230908T10:33:55Z | Null | https://github.com/Gzlses/fuzzy-adventure | 0 | 0| 
-| 20230908T06:51:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4816 | 1156| 
-| 20230908T03:07:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 221 | 32| 
-| 20230908T01:45:48Z | My clone repository | https://github.com/Bearfacts101/fuzzy-tribble | 0 | 0| 
-| 20230908T00:05:16Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1925 | 314| 
 
 
 
