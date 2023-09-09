@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230909T00:46:20Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
+| 20230909T00:54:11Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
 | 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
