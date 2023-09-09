@@ -24,7 +24,6 @@
 | 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
 | 20230908T18:13:19Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20230908T12:31:14Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
-| 20230908T11:03:04Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
 | 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
 | 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
