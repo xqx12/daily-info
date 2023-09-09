@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T00:46:20Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
 | 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
@@ -71,7 +72,6 @@
 | 20230908T17:45:13Z | Python scripts for hands-on web security training labs. These scripts accompany write-ups that demonstrate practical exploits and exercises for web vulnerabilities and defense. Training leed by Rana Khalil ;-) | https://github.com/SoTraore/Web_Security_Academy | 0 | 0| 
 | 20230908T16:28:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5321 | 1040| 
 | 20230908T14:17:39Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 39 | 3| 
-| 20230908T12:59:16Z | This is a PrintNightmare POC I wrote in my endeavour to better learn C, the WinAPI, and exploit/malware dev | https://github.com/d0nkeyk0ng787/PrintNightmare-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
