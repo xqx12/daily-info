@@ -67,11 +67,11 @@
 | 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
 | 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
 | 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
+| 20230909T01:00:17Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 382 | 77| 
 | 20230909T00:54:11Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
 | 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
 | 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
-| 20230908T22:42:46Z | A simple pack of modifications and exploits for your Roblox client. | https://github.com/JustAnEric/RExploitsAndMods | 0 | 0| 
 
 
 # backdoor on Github 推荐
