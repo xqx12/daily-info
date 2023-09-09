@@ -130,8 +130,8 @@
 | 20230908T20:29:44Z | Null | https://github.com/Pecs01/fuzzy-rotary-phone | 0 | 0| 
 | 20230908T20:24:02Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
 | 20230908T20:15:50Z | Null | https://github.com/JBreitenbr/fuzzy-carnival | 0 | 0| 
+| 20230908T18:48:41Z | We Deliver While You Think ! README.md | https://github.com/mmu099/fuzzy-mmu094-invention | 2 | 0| 
 | 20230908T12:31:15Z | Null | https://github.com/KhhhER/VKR_Clusters_of_eq_alternative_on_fuzzy_preferences | 0 | 0| 
-| 20230908T11:57:21Z | Null | https://github.com/Senateadvisor/fuzzy-waddle | 0 | 0| 
 
 
 
