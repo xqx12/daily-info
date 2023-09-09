@@ -28,6 +28,7 @@
 | 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
 | 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
 | 20230908T02:57:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
+| 20230908T01:54:04Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 
 
 # klee on Github 推荐
