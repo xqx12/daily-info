@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T10:45:10Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 108 | 18| 
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
 | 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20230908T07:43:12Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
 | 20230908T05:47:36Z | Simple docker container containing a set of YARA rules. As of 09/07/2023, this only detects the ShadowPad backdoor.  | https://github.com/CuriosityOverflow/yara_to_go | 0 | 0| 
 | 20230907T18:21:40Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 84 | 21| 
-| 20230907T11:54:04Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 95 | 14| 
 
 
 # symbolic execution on Github 推荐
