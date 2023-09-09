@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230909T12:11:36Z | CVE-2022-42889 | Proof of Concept for RCE vuln in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
 | 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
 | 20230908T18:13:19Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
@@ -35,7 +36,6 @@
 | 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
 | 20230908T02:57:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
 | 20230908T01:54:04Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
-| 20230907T16:50:02Z | CVE-2023-40930 |  CVE-2023-40930 Repetition Enviroment | https://github.com/NSnidie/-CVE-2023-40930 | | 
 
 
 # klee on Github 推荐

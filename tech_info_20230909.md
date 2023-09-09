@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230909T12:11:36Z | CVE-2022-42889 | Proof of Concept for RCE vuln in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
 | 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 
 
