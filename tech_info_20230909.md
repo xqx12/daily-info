@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T11:48:27Z | Fast and customizable Firebase api and Project ID extractor . | https://github.com/ProjectNull0/Firebase-exploit | 8 | 3| 
 | 20230909T11:19:32Z | Null | https://github.com/shehajeez/roblox-exploiting-ui-libraries | 0 | 0| 
 | 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
 | 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
