@@ -69,9 +69,9 @@
 | 20230908T20:48:08Z | Null | https://github.com/xansec/end-to-end-exploitation | 0 | 0| 
 | 20230908T18:02:52Z | A Virtual environment for Pentesting IoT Devices | https://github.com/IoT-PTv/IoT-PT | 358 | 70| 
 | 20230908T17:45:13Z | Python scripts for hands-on web security training labs. These scripts accompany write-ups that demonstrate practical exploits and exercises for web vulnerabilities and defense. Training leed by Rana Khalil ;-) | https://github.com/SoTraore/Web_Security_Academy | 0 | 0| 
+| 20230908T16:28:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5321 | 1040| 
 | 20230908T14:17:39Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 39 | 3| 
 | 20230908T12:59:16Z | This is a PrintNightmare POC I wrote in my endeavour to better learn C, the WinAPI, and exploit/malware dev | https://github.com/d0nkeyk0ng787/PrintNightmare-POC | 0 | 0| 
-| 20230908T11:46:02Z | Tools for dependent variables in Linear Temporal Logic (LTL), including: Finding Dependent variables, Synthesis exploiting dependency. | https://github.com/eliyaoo32/DepSynt | 3 | 0| 
 
 
 # backdoor on Github 推荐
