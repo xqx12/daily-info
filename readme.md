@@ -67,6 +67,7 @@
 | 20230909T09:52:40Z | Null | https://github.com/minhharry/fuzzy-eureka | 0 | 0| 
 | 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
 | 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
+| 20230909T05:43:52Z | A fuzzer by Rust | https://github.com/Vincebye/rfuzz | 0 | 0| 
 
 
 

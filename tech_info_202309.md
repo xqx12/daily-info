@@ -125,13 +125,13 @@
 | 20230909T09:52:40Z | Null | https://github.com/minhharry/fuzzy-eureka | 0 | 0| 
 | 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
 | 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
+| 20230909T05:43:52Z | A fuzzer by Rust | https://github.com/Vincebye/rfuzz | 0 | 0| 
 | 20230908T23:57:12Z | Null | https://github.com/tinki9-9-9/fuzzy-stream | 0 | 0| 
 | 20230908T23:09:40Z | Null | https://github.com/MichaelColeman/Fuzzalike | 0 | 0| 
 | 20230908T22:09:08Z | Fuzzer of directotories. | https://github.com/Diperblue/SubdomainVerify | 0 | 0| 
 | 20230908T21:07:09Z | Null | https://github.com/actions-marketplace-validations/shogo82148_actions-go-fuzz | 0 | 0| 
 | 20230908T20:58:10Z | A Fuzzy Expert System for Heart Disease Diagnosis, Utilizing Input Variables to Diagnose Disease | https://github.com/AylarSedaei/fuzzy-inference-heart-disease | 0 | 0| 
 | 20230908T20:29:44Z | Null | https://github.com/Pecs01/fuzzy-rotary-phone | 0 | 0| 
-| 20230908T20:24:02Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
 
 
 
