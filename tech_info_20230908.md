@@ -51,11 +51,11 @@
 | 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
 | 20230908T22:42:46Z | A simple pack of modifications and exploits for your Roblox client. | https://github.com/JustAnEric/RExploitsAndMods | 0 | 0| 
 | 20230908T20:48:08Z | Null | https://github.com/xansec/end-to-end-exploitation | 0 | 0| 
+| 20230908T18:08:10Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 1285 | 405| 
 | 20230908T18:02:52Z | A Virtual environment for Pentesting IoT Devices | https://github.com/IoT-PTv/IoT-PT | 358 | 70| 
 | 20230908T17:45:13Z | Python scripts for hands-on web security training labs. These scripts accompany write-ups that demonstrate practical exploits and exercises for web vulnerabilities and defense. Training leed by Rana Khalil ;-) | https://github.com/SoTraore/Web_Security_Academy | 0 | 0| 
 | 20230908T16:28:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5321 | 1040| 
 | 20230908T14:17:39Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 39 | 3| 
-| 20230908T12:59:16Z | This is a PrintNightmare POC I wrote in my endeavour to better learn C, the WinAPI, and exploit/malware dev | https://github.com/d0nkeyk0ng787/PrintNightmare-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
