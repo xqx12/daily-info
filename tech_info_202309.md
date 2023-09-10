@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T12:49:55Z | Null | https://github.com/shehajeez/roblox-exploiting-scripts | 0 | 0| 
 | 20230910T12:42:48Z | Documenting my journey into Binary Exploitation | https://github.com/amr-git-dot/Binary-Exploitation | 0 | 0| 
 | 20230910T12:32:23Z | Get Key System For Zenakosinov Exploit | https://github.com/ewsosolol/key | 0 | 0| 
 | 20230910T12:00:51Z | Lab and writeups | https://github.com/w31rdr4v3n/Web-Exploitation | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230910T06:47:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5318 | 683| 
 | 20230910T01:37:48Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
-| 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 
 
 # backdoor on Github 推荐
