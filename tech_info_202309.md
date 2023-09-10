@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230910T01:29:49Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
+| 20230910T01:35:56Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
 | 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
 | 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T01:29:49Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
+| 20230910T01:35:56Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
@@ -92,7 +92,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T01:13:32Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 0 | 0| 
+| 20230910T01:34:41Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 0 | 0| 
 | 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230909T10:59:53Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 1 | 0| 
 | 20230908T18:04:59Z | symbolic execution but fast | https://github.com/pepsipu/hgse | 0 | 0| 
