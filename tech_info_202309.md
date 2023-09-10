@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
 | 20230909T19:42:08Z | In this lab, students confront a program with a buffer-overflow flaw. Their mission: exploit the vulnerability to attain root privileges. Beyond attacks, they%ll explore protective measures embedded in the OS to thwart buffer-overflow threats | https://github.com/farazulhoda/Buffer_Overflow_AttackLab_Set-UID_Version | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
 | 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
 | 20230909T03:09:00Z | Lists suitable kernel objects for UAF exploitation. | https://github.com/cpey/objscan | 0 | 0| 
-| 20230909T01:00:17Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 382 | 77| 
 
 
 # backdoor on Github 推荐
