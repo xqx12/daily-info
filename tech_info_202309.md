@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230910 | 网络安全数字孪生研究 | https://mp.weixin.qq.com/s/qeekl8WTDxnKMQji2ao5Aw| 
 | 20230909 | 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw| 
 | 20230908 | 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
 | 20230908 | 基于人工智能的物联网恶意代码检测综述 | https://crad.ict.ac.cn/article/exportPdf?id=abb37362-5db3-4513-964b-e424bde45061| 
@@ -20,28 +21,27 @@
 | 20230907 | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q| 
 | 20230905 | 代码审计入门之XHCMS | https://www.sec-in.com/article/2066| 
 | 20230905 | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw| 
-| 20230905 | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230910T10:48:40Z | CVE-2023-27997 | How to get access via CVE-2022-27997 | https://github.com/Cyb3rEnthusiast/CVE-2023-27997 | | 
+| 20230910T10:42:36Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
+| 20230910T09:48:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | | 
+| 20230910T09:29:38Z | CVE-2023-20052 | CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV | https://github.com/cY83rR0H1t/CVE-2023-20052 | | 
+| 20230910T07:19:58Z | CVE-2023-37756 | Null | https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below | | 
+| 20230910T06:21:43Z | CVE-2023-37755 | Null | https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below | | 
+| 20230910T06:03:53Z | CVE-2022-46169 | Null | https://github.com/0xZon/CVE-2022-46169-Exploit | | 
+| 20230910T05:58:16Z | CVE-2023-37739 | Null | https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below | | 
 | 20230910T01:37:48Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
 | 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
-| 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
-| 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
-| 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
-| 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
-| 20230908T18:13:19Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
-| 20230908T12:31:14Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
-| 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
-| 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230909T20:45:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13746 | 418| 
+| 20230910T11:33:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13747 | 419| 
 | 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230907T13:25:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
@@ -62,23 +62,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T12:00:51Z | Lab and writeups | https://github.com/w31rdr4v3n/Web-Exploitation | 0 | 0| 
+| 20230910T11:29:35Z | 💫 About Me:  🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | 1 | 0| 
+| 20230910T10:46:59Z | Automate your way to high scores in the neal.fun circle game! This Python script exploits the game%s scoring mechanics, drawing shapes (especially triangles) to consistently achieve near-perfect results. | https://github.com/nxtdxve/CircleBreaker | 0 | 0| 
+| 20230910T09:51:17Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message.  | https://github.com/bestjectr/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader | 0 | 0| 
+| 20230910T06:47:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5318 | 683| 
 | 20230910T01:37:48Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
 | 20230909T19:42:08Z | In this lab, students confront a program with a buffer-overflow flaw. Their mission: exploit the vulnerability to attain root privileges. Beyond attacks, they%ll explore protective measures embedded in the OS to thwart buffer-overflow threats | https://github.com/farazulhoda/Buffer_Overflow_AttackLab_Set-UID_Version | 0 | 0| 
-| 20230909T11:48:27Z | Fast and customizable Firebase api and Project ID extractor . | https://github.com/ProjectNull0/Firebase-exploit | 8 | 3| 
-| 20230909T11:19:32Z | Null | https://github.com/shehajeez/roblox-exploiting-ui-libraries | 0 | 0| 
-| 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
-| 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
-| 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T10:21:08Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 112 | 18| 
 | 20230909T23:53:41Z | Nessus Professional 2023 Manual Crack - No Backdoors/Virus | https://github.com/harshdhamaniya/nessuscrack | 0 | 0| 
-| 20230909T23:09:41Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 110 | 18| 
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
 | 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T11:54:58Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
+| 20230910T09:23:24Z | Bruteforce, Fuzzing | https://github.com/kaitolegion/Wordlist | 4 | 2| 
+| 20230910T07:15:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 825 | 114| 
+| 20230910T07:15:45Z | fuzzing everything dexterous | https://github.com/ostrichxyz7/fed | 0 | 0| 
+| 20230910T07:10:45Z | Yasmin | https://github.com/Yasmin-3A1/fuzzy-memory | 0 | 0| 
 | 20230910T01:40:38Z | Independent Research Project Summer 2023 | https://github.com/jbdupuy/Fuzzy_Boundaries | 0 | 0| 
 | 20230910T00:39:32Z | Dir Fuzzer is a versatile command-line tool built for web security professionals and penetration testers. It simplifies the process of web directory brute-force attacks, aiding in the discovery of hidden web pages and assets. | https://github.com/Naresh-11/Dir-Miner | 2 | 0| 
 | 20230909T23:08:13Z | XML-RPC Vulnerability Checker and Directory Fuzzer | https://github.com/MINAD0/XML-RPC-Check | 1 | 0| 
 | 20230909T19:50:56Z | Null | https://github.com/IanWorley/fuzzy-octo-guacamole | 0 | 0| 
 | 20230909T19:37:13Z | Ffuf script to run fuzz wordlists autmoatically | https://github.com/vinnie1717/Automatic_Ffuf | 0 | 0| 
-| 20230909T17:10:59Z | Plays a game of %telephone% by translating a string through many languages to generate something of obfuscated meaning. | https://github.com/wirtes/semantic-fuzz-box | 0 | 0| 
-| 20230909T09:52:40Z | Null | https://github.com/minhharry/fuzzy-eureka | 0 | 0| 
-| 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
-| 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
-| 20230909T05:43:52Z | A fuzzer by Rust | https://github.com/Vincebye/rfuzz | 0 | 0| 
 
 
 
