@@ -75,7 +75,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230909T23:55:32Z | Dir Fuzzer is a versatile command-line tool built for web security professionals and penetration testers. It simplifies the process of web directory brute-force attacks, aiding in the discovery of hidden web pages and assets. | https://github.com/Naresh-11/Dir-Miner | 1 | 0| 
 | 20230909T23:08:13Z | XML-RPC Vulnerability Checker and Directory Fuzzer | https://github.com/MINAD0/XML-RPC-Check | 1 | 0| 
 | 20230909T19:50:56Z | Null | https://github.com/IanWorley/fuzzy-octo-guacamole | 0 | 0| 
 | 20230909T19:37:13Z | Ffuf script to run fuzz wordlists autmoatically | https://github.com/vinnie1717/Automatic_Ffuf | 0 | 0| 
