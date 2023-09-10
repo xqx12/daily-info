@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T12:32:23Z | Get Key System For Zenakosinov Exploit | https://github.com/ewsosolol/key | 0 | 0| 
 | 20230910T12:00:51Z | Lab and writeups | https://github.com/w31rdr4v3n/Web-Exploitation | 0 | 0| 
 | 20230910T11:29:35Z | 💫 About Me:  🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | 1 | 0| 
 | 20230910T10:46:59Z | Automate your way to high scores in the neal.fun circle game! This Python script exploits the game%s scoring mechanics, drawing shapes (especially triangles) to consistently achieve near-perfect results. | https://github.com/nxtdxve/CircleBreaker | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
-| 20230909T19:42:08Z | In this lab, students confront a program with a buffer-overflow flaw. Their mission: exploit the vulnerability to attain root privileges. Beyond attacks, they%ll explore protective measures embedded in the OS to thwart buffer-overflow threats | https://github.com/farazulhoda/Buffer_Overflow_AttackLab_Set-UID_Version | 0 | 0| 
 
 
 # backdoor on Github 推荐
