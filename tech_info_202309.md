@@ -77,7 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T10:21:08Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 112 | 18| 
+| 20230910T12:48:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 113 | 18| 
 | 20230909T23:53:41Z | Nessus Professional 2023 Manual Crack - No Backdoors/Virus | https://github.com/harshdhamaniya/nessuscrack | 0 | 0| 
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
