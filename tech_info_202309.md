@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230910T01:29:49Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
 | 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
 | 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
@@ -35,7 +36,6 @@
 | 20230908T12:31:14Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
 | 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
-| 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T01:29:49Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
 | 20230909T07:28:34Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 8 | 7| 
 | 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
-| 20230909T03:09:00Z | Lists suitable kernel objects for UAF exploitation. | https://github.com/cpey/objscan | 0 | 0| 
 
 
 # backdoor on Github 推荐
