@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
-| 20230909T16:33:04Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
 | 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
