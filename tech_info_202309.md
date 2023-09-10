@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230910T01:35:56Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
+| 20230910T01:37:48Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
 | 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
 | 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T01:35:56Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
+| 20230910T01:37:48Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
 | 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
 | 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
 | 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T01:39:01Z | Independent Research Project Summer 2023 | https://github.com/jbdupuy/Fuzzy_Boundaries | 0 | 0| 
 | 20230910T00:39:32Z | Dir Fuzzer is a versatile command-line tool built for web security professionals and penetration testers. It simplifies the process of web directory brute-force attacks, aiding in the discovery of hidden web pages and assets. | https://github.com/Naresh-11/Dir-Miner | 2 | 0| 
 | 20230909T23:08:13Z | XML-RPC Vulnerability Checker and Directory Fuzzer | https://github.com/MINAD0/XML-RPC-Check | 1 | 0| 
 | 20230909T19:50:56Z | Null | https://github.com/IanWorley/fuzzy-octo-guacamole | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
 | 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
 | 20230909T05:43:52Z | A fuzzer by Rust | https://github.com/Vincebye/rfuzz | 0 | 0| 
-| 20230909T03:33:50Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2274 | 40| 
 
 
 
