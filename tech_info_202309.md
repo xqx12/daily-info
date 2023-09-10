@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230909 | 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw| 
 | 20230908 | 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
 | 20230908 | 基于人工智能的物联网恶意代码检测综述 | https://crad.ict.ac.cn/article/exportPdf?id=abb37362-5db3-4513-964b-e424bde45061| 
 | 20230908 | 2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg| 
@@ -20,12 +21,13 @@
 | 20230905 | 代码审计入门之XHCMS | https://www.sec-in.com/article/2066| 
 | 20230905 | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw| 
 | 20230905 | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ| 
-| 20230905 | 论文解读：《From ChatGPT to ThreatGPT》(上） | https://mp.weixin.qq.com/s/IzaQ2c7Y1_g9WNXol7NQnw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230909T19:39:34Z | CVE-2023-1389 | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | https://github.com/Terminal1337/CVE-2023-1389 | | 
+| 20230909T16:33:04Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 | 20230909T12:35:53Z | CVE-2022-42889 | RCE PoC in Apache Commons Text | https://github.com/0xxis/CVE-2022-42889 | | 
 | 20230909T01:13:48Z | CVE-2023-40031 | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | https://github.com/webraybtl/CVE-2023-40031 | | 
 | 20230908T21:16:41Z | CVE-2021-22205 | Null | https://github.com/Hikikan/CVE-2021-22205 | | 
@@ -34,15 +36,13 @@
 | 20230908T10:55:18Z | CVE-2021-3449 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449 | | 
 | 20230908T09:45:12Z | CVE-2021-1366 | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | https://github.com/koztkozt/CVE-2021-1366 | | 
 | 20230908T09:34:17Z | CVE-2021-23841 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841 | | 
-| 20230908T02:57:50Z | CVE-2023-25690 | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | https://github.com/dhmosfunk/CVE-2023-25690-POC | | 
-| 20230908T01:54:04Z | CVE-2023-27524 | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | https://github.com/horizon3ai/CVE-2023-27524 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230909T11:47:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13745 | 418| 
-| 20230908T23:50:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2312 | 635| 
+| 20230909T20:45:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13746 | 418| 
+| 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230907T13:25:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
 | 20230907T09:36:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 88 | 20| 
@@ -77,23 +77,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230909T10:45:10Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 108 | 18| 
+| 20230909T23:53:41Z | Nessus Professional 2023 Manual Crack - No Backdoors/Virus | https://github.com/harshdhamaniya/nessuscrack | 0 | 0| 
+| 20230909T23:09:41Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 110 | 18| 
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
 | 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
-| 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 234| 
+| 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 235| 
 | 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
 | 20230908T09:57:23Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 1 | 2| 
 | 20230908T07:43:12Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
 | 20230908T05:47:36Z | Simple docker container containing a set of YARA rules. As of 09/07/2023, this only detects the ShadowPad backdoor.  | https://github.com/CuriosityOverflow/yara_to_go | 0 | 0| 
-| 20230907T18:21:40Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 84 | 21| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230909T10:59:53Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 1 | 0| 
-| 20230908T23:50:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2312 | 635| 
 | 20230908T18:04:59Z | symbolic execution but fast | https://github.com/pepsipu/hgse | 0 | 0| 
 | 20230907T13:17:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 57 | 9| 
 | 20230907T05:54:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 683 | 120| 
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T23:08:13Z | XML-RPC Vulnerability Checker and Directory Fuzzer | https://github.com/MINAD0/XML-RPC-Check | 1 | 0| 
+| 20230909T19:50:56Z | Null | https://github.com/IanWorley/fuzzy-octo-guacamole | 0 | 0| 
+| 20230909T19:37:13Z | Ffuf script to run fuzz wordlists autmoatically | https://github.com/vinnie1717/Automatic_Ffuf | 0 | 0| 
+| 20230909T17:10:59Z | Plays a game of %telephone% by translating a string through many languages to generate something of obfuscated meaning. | https://github.com/wirtes/semantic-fuzz-box | 0 | 0| 
 | 20230909T09:52:40Z | Null | https://github.com/minhharry/fuzzy-eureka | 0 | 0| 
 | 20230909T09:35:23Z | Null | https://github.com/Ayanfeoluwa07/Fuzzy | 0 | 0| 
 | 20230909T06:22:18Z | Null | https://github.com/Boshen/oxc-fuzz-parser | 0 | 0| 
 | 20230909T05:43:52Z | A fuzzer by Rust | https://github.com/Vincebye/rfuzz | 0 | 0| 
+| 20230909T03:33:50Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2274 | 40| 
 | 20230908T23:57:12Z | Null | https://github.com/tinki9-9-9/fuzzy-stream | 0 | 0| 
-| 20230908T23:09:40Z | Null | https://github.com/MichaelColeman/Fuzzalike | 0 | 0| 
-| 20230908T22:09:08Z | Fuzzer of directotories. | https://github.com/Diperblue/SubdomainVerify | 0 | 0| 
-| 20230908T21:07:09Z | Null | https://github.com/actions-marketplace-validations/shogo82148_actions-go-fuzz | 0 | 0| 
-| 20230908T20:58:10Z | A Fuzzy Expert System for Heart Disease Diagnosis, Utilizing Input Variables to Diagnose Disease | https://github.com/AylarSedaei/fuzzy-inference-heart-disease | 0 | 0| 
-| 20230908T20:29:44Z | Null | https://github.com/Pecs01/fuzzy-rotary-phone | 0 | 0| 
 
 
 
