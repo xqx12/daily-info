@@ -38,6 +38,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
+| 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
+| 20230909T19:42:08Z | In this lab, students confront a program with a buffer-overflow flaw. Their mission: exploit the vulnerability to attain root privileges. Beyond attacks, they%ll explore protective measures embedded in the OS to thwart buffer-overflow threats | https://github.com/farazulhoda/Buffer_Overflow_AttackLab_Set-UID_Version | 0 | 0| 
 | 20230909T11:48:27Z | Fast and customizable Firebase api and Project ID extractor . | https://github.com/ProjectNull0/Firebase-exploit | 8 | 3| 
 | 20230909T11:19:32Z | Null | https://github.com/shehajeez/roblox-exploiting-ui-libraries | 0 | 0| 
 | 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 

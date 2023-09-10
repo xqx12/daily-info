@@ -62,6 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230909T21:21:25Z |  Buffer_Helper tool have you to discover classic buffer overflow vulnerabilities in application same like %FTP SERVER%,%FTPClient% etc , support HTTP Authentication requests , Buffer_Helper will auto write the exploit and have way to test bad Characters ,Buffer_Helper written by python2.7 | https://github.com/jac11/Buffer_Helper | 2 | 1| 
+| 20230909T21:20:30Z | This Repo Is My Exploit For Sync Breeze 10.0.28  | https://github.com/Remo1x/Sync-Breeze | 0 | 0| 
+| 20230909T19:42:08Z | In this lab, students confront a program with a buffer-overflow flaw. Their mission: exploit the vulnerability to attain root privileges. Beyond attacks, they%ll explore protective measures embedded in the OS to thwart buffer-overflow threats | https://github.com/farazulhoda/Buffer_Overflow_AttackLab_Set-UID_Version | 0 | 0| 
 | 20230909T11:48:27Z | Fast and customizable Firebase api and Project ID extractor . | https://github.com/ProjectNull0/Firebase-exploit | 8 | 3| 
 | 20230909T11:19:32Z | Null | https://github.com/shehajeez/roblox-exploiting-ui-libraries | 0 | 0| 
 | 20230909T08:54:39Z | CLI tool to encrypt, compress & embed any file type within a PNG image. Share Image on compatible sites. | https://github.com/CleasbyCode/pdvrdt | 7 | 0| 
@@ -69,9 +72,6 @@
 | 20230909T07:23:42Z | Python 3 class to help extract information from a BeEF ((The Browser Exploitation Framework) http://beefproject.com/ server via the server%s REST API. | https://github.com/l0rddarkf0rce/BeEFAPI | 0 | 0| 
 | 20230909T01:00:17Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 382 | 77| 
 | 20230909T00:54:11Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
-| 20230908T23:27:17Z | Null | https://github.com/123456789qwerty0/exploitz | 0 | 0| 
-| 20230908T23:08:39Z | My scripts. | https://github.com/retuurns/Exploiting | 0 | 0| 
-| 20230908T22:50:03Z | A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak | https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT | 1 | 1| 
 
 
 # backdoor on Github 推荐
