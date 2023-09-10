@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T12:41:43Z | Documenting my journey into Binary Exploitation | https://github.com/amr-git-dot/Binary-Exploitation | 0 | 0| 
 | 20230910T12:32:23Z | Get Key System For Zenakosinov Exploit | https://github.com/ewsosolol/key | 0 | 0| 
 | 20230910T12:00:51Z | Lab and writeups | https://github.com/w31rdr4v3n/Web-Exploitation | 0 | 0| 
 | 20230910T11:29:35Z | 💫 About Me:  🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | 1 | 0| 
