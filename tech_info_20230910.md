@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230910T12:09:55Z | CVE-2023-3450 | Null | https://github.com/caopengyan/CVE-2023-3450 | | 
 | 20230910T10:48:40Z | CVE-2023-27997 | How to get access via CVE-2022-27997 | https://github.com/Cyb3rEnthusiast/CVE-2023-27997 | | 
 | 20230910T10:42:36Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
 | 20230910T09:48:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | | 
@@ -26,7 +27,6 @@
 | 20230910T06:03:53Z | CVE-2022-46169 | Null | https://github.com/0xZon/CVE-2022-46169-Exploit | | 
 | 20230910T05:58:16Z | CVE-2023-37739 | Null | https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below | | 
 | 20230910T01:37:48Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
-| 20230910T00:35:35Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/0xxq/CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
@@ -72,7 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T11:54:58Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
+| 20230910T12:07:01Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
 | 20230910T09:23:24Z | Bruteforce, Fuzzing | https://github.com/kaitolegion/Wordlist | 4 | 2| 
 | 20230910T07:15:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 825 | 114| 
 | 20230910T07:15:45Z | fuzzing everything dexterous | https://github.com/ostrichxyz7/fed | 0 | 0| 
