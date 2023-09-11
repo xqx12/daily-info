@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230911T00:54:20Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/34006133/CVE-2022-42889 | | 
 | 20230910T23:05:12Z | CVE-2021-46398 | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | | 
 | 20230910T22:57:40Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
 | 20230910T14:52:52Z | CVE-2023-2825 | Null | https://github.com/caopengyan/CVE-2023-2825 | | 
@@ -35,7 +36,6 @@
 | 20230910T09:48:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | | 
 | 20230910T09:29:38Z | CVE-2023-20052 | CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV | https://github.com/cY83rR0H1t/CVE-2023-20052 | | 
 | 20230910T07:19:58Z | CVE-2023-37756 | Null | https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below | | 
-| 20230910T06:21:43Z | CVE-2023-37755 | Null | https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below | | 
 
 
 # klee on Github 推荐
