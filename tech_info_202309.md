@@ -26,6 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230910T23:05:12Z | CVE-2021-46398 | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | | 
+| 20230910T22:57:40Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
+| 20230910T14:52:52Z | CVE-2023-2825 | Null | https://github.com/caopengyan/CVE-2023-2825 | | 
 | 20230910T12:09:55Z | CVE-2023-3450 | Null | https://github.com/caopengyan/CVE-2023-3450 | | 
 | 20230910T10:48:40Z | CVE-2023-27997 | How to get access via CVE-2022-27997 | https://github.com/Cyb3rEnthusiast/CVE-2023-27997 | | 
 | 20230910T10:42:36Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
@@ -33,15 +36,12 @@
 | 20230910T09:29:38Z | CVE-2023-20052 | CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV | https://github.com/cY83rR0H1t/CVE-2023-20052 | | 
 | 20230910T07:19:58Z | CVE-2023-37756 | Null | https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below | | 
 | 20230910T06:21:43Z | CVE-2023-37755 | Null | https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below | | 
-| 20230910T06:03:53Z | CVE-2022-46169 | Null | https://github.com/0xZon/CVE-2022-46169-Exploit | | 
-| 20230910T05:58:16Z | CVE-2023-37739 | Null | https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below | | 
-| 20230910T01:37:48Z | CVE-2023-1698 | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T11:33:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13747 | 419| 
+| 20230910T22:23:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13756 | 419| 
 | 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230907T13:25:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
@@ -77,7 +77,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T12:48:37Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 113 | 18| 
+| 20230910T16:12:10Z | A collection of malwares found on the internet. | https://github.com/Ginaarzz/Malware-DataBase | 1 | 0| 
+| 20230910T14:34:33Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 114 | 19| 
+| 20230910T13:08:01Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 124 | 18| 
 | 20230909T23:53:41Z | Nessus Professional 2023 Manual Crack - No Backdoors/Virus | https://github.com/harshdhamaniya/nessuscrack | 0 | 0| 
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
@@ -85,8 +87,6 @@
 | 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 235| 
 | 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
 | 20230908T09:57:23Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 1 | 2| 
-| 20230908T07:43:12Z | lpsystem v2 for FiveM leaked by me (removed backdoor + removed encrypted by me)  | https://github.com/abimmxd/lpsystem-v2 | 0 | 0| 
-| 20230908T05:47:36Z | Simple docker container containing a set of YARA rules. As of 09/07/2023, this only detects the ShadowPad backdoor.  | https://github.com/CuriosityOverflow/yara_to_go | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230910T22:08:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4818 | 1156| 
+| 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
+| 20230910T21:53:41Z | Trabalho de estudo em C# | https://github.com/AdrianoDinarti/fuzzy-eureka | 0 | 0| 
+| 20230910T20:43:11Z | https://fuzzysecurity.com/tutorials | https://github.com/nigmaz/FuzzySecurity | 0 | 0| 
+| 20230910T20:35:14Z | Null | https://github.com/ise-uiuc/TitanFuzz | 1 | 0| 
+| 20230910T20:19:21Z | Null | https://github.com/empliks/fuzzy-invention | 0 | 0| 
+| 20230910T17:00:42Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 112 | 10| 
 | 20230910T12:07:01Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
 | 20230910T09:23:24Z | Bruteforce, Fuzzing | https://github.com/kaitolegion/Wordlist | 4 | 2| 
 | 20230910T07:15:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 825 | 114| 
-| 20230910T07:15:45Z | fuzzing everything dexterous | https://github.com/ostrichxyz7/fed | 0 | 0| 
-| 20230910T07:10:45Z | Yasmin | https://github.com/Yasmin-3A1/fuzzy-memory | 0 | 0| 
-| 20230910T01:40:38Z | Independent Research Project Summer 2023 | https://github.com/jbdupuy/Fuzzy_Boundaries | 0 | 0| 
-| 20230910T00:39:32Z | Dir Fuzzer is a versatile command-line tool built for web security professionals and penetration testers. It simplifies the process of web directory brute-force attacks, aiding in the discovery of hidden web pages and assets. | https://github.com/Naresh-11/Dir-Miner | 2 | 0| 
-| 20230909T23:08:13Z | XML-RPC Vulnerability Checker and Directory Fuzzer | https://github.com/MINAD0/XML-RPC-Check | 1 | 0| 
-| 20230909T19:50:56Z | Null | https://github.com/IanWorley/fuzzy-octo-guacamole | 0 | 0| 
-| 20230909T19:37:13Z | Ffuf script to run fuzz wordlists autmoatically | https://github.com/vinnie1717/Automatic_Ffuf | 0 | 0| 
 
 
 
