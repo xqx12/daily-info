@@ -63,7 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230911T12:29:10Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
+| 20230911T12:37:41Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
 | 20230911T12:00:02Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
 | 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 
@@ -82,13 +82,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:38:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 830 | 114| 
 | 20230911T12:33:09Z | Null | https://github.com/GeorgeLS/FuzzedDataProvider | 0 | 0| 
 | 20230911T12:15:38Z | a sveltekit application  | https://github.com/Fordjour12/fuzzy-barnacle-web | 0 | 0| 
 | 20230911T12:09:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8981 | 1979| 
 | 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
 | 20230911T11:14:17Z | A repo to practice git. | https://github.com/thearham/fuzzy-enigma | 0 | 0| 
 | 20230911T10:20:50Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 225 | 32| 
-| 20230911T06:33:56Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 829 | 114| 
 | 20230911T01:02:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4819 | 1156| 
 | 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 
