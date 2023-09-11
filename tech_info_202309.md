@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230911 | SecWiki周刊（第497期) | https://www.sec-wiki.com/weekly/497| 
+| 20230911 | 浅谈Apache Shiro CVE-2023-22602 | https://www.sec-in.com/article/2113| 
+| 20230911 | 同源策略的绕过 | https://mp.weixin.qq.com/s/mzPM-G0sdQzg8gSfneKZMA| 
 | 20230910 | 网络安全数字孪生研究 | https://mp.weixin.qq.com/s/qeekl8WTDxnKMQji2ao5Aw| 
 | 20230909 | 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw| 
 | 20230908 | 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
@@ -18,39 +21,36 @@
 | 20230908 | 2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg| 
 | 20230908 | 数字资产安全、合规与风险管理 | https://ambergroup.io/pdf/white.pdf| 
 | 20230908 | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg| 
-| 20230907 | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q| 
-| 20230905 | 代码审计入门之XHCMS | https://www.sec-in.com/article/2066| 
-| 20230905 | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230911T10:44:49Z | CVE-2021-4160 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160 | | 
+| 20230911T10:25:46Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
+| 20230911T10:19:51Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
+| 20230911T10:09:00Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
+| 20230911T09:27:35Z | CVE-2021-23840 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840 | | 
+| 20230911T07:55:07Z | CVE-2021-3712 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712 | | 
+| 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
+| 20230911T06:18:49Z | CVE-2023-35674 | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | https://github.com/Thampakon/CVE-2023-35674 | | 
 | 20230911T00:54:20Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/34006133/CVE-2022-42889 | | 
 | 20230910T23:05:12Z | CVE-2021-46398 | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | | 
-| 20230910T22:57:40Z | CVE-2021-27928 | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | | 
-| 20230910T14:52:52Z | CVE-2023-2825 | Null | https://github.com/caopengyan/CVE-2023-2825 | | 
-| 20230910T12:09:55Z | CVE-2023-3450 | Null | https://github.com/caopengyan/CVE-2023-3450 | | 
-| 20230910T10:48:40Z | CVE-2023-27997 | How to get access via CVE-2022-27997 | https://github.com/Cyb3rEnthusiast/CVE-2023-27997 | | 
-| 20230910T10:42:36Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023 | | 
-| 20230910T09:48:07Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023 | | 
-| 20230910T09:29:38Z | CVE-2023-20052 | CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV | https://github.com/cY83rR0H1t/CVE-2023-20052 | | 
-| 20230910T07:19:58Z | CVE-2023-37756 | Null | https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
+| 20230911T07:03:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 356 | 7| 
+| 20230911T06:53:43Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
+| 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
-| 20230909T17:56:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2313 | 636| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
-| 20230907T13:25:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 354 | 7| 
 | 20230907T09:36:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 88 | 20| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
 | 20230904T14:01:10Z | Null | https://github.com/toyin2022/kleek | 0 | 0| 
 | 20230904T09:03:48Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 243 | 31| 
-| 20230904T05:08:10Z | Null | https://github.com/Kleeyaa/Kleeyaa.github.io | 0 | 0| 
-| 20230903T20:00:00Z | Null | https://github.com/NicklasKleemann/NicklasKleemann | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -62,21 +62,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230911T00:26:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 158 | 13| 
-| 20230911T00:02:49Z | for exploiting. supports fluxus, synapse, delta, arcues, whatever. it supports all executors | https://github.com/manotheman8172/boombox_hubs | 0 | 0| 
-| 20230910T23:05:12Z | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | 0 | 0| 
-| 20230910T22:57:40Z | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | 0 | 0| 
-| 20230910T22:54:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14454 | 2481| 
-| 20230910T22:07:43Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 310 | 114| 
-| 20230910T21:22:03Z | test | https://github.com/DiamondBroPlayz/Account-Age-Exploit | 0 | 0| 
-| 20230910T20:18:53Z | A modular exploitation framework extensible with Lua | https://github.com/farinap5/Venera | 25 | 3| 
-| 20230910T20:14:21Z | 123 | https://github.com/ulanovoo/exploitgif | 0 | 0| 
-| 20230910T19:43:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e592b9b-08d5-4d2e-8b9d-611a547b0fbb-tThYA-exploit-ignore | 0 | 0| 
+| 20230911T11:44:35Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
+| 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
+| 20230911T11:38:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6a7da252-1acd-469c-b962-71efb048c31b-McdU2-exploit-affect | 0 | 0| 
+| 20230911T11:35:08Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 33 | 3| 
+| 20230911T11:34:07Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b637d701-ba75-4e1e-b5c1-f66398d232b5-xOmri-exploit-wonder | 0 | 0| 
+| 20230911T11:13:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5938 | 791| 
+| 20230911T10:54:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-954f6124-709e-4e11-8a51-451b7ae5b29d-1htcp-want-exploit | 0 | 0| 
+| 20230911T10:24:52Z | Exploits for Boatnets & C2%s | https://github.com/KingKrex75/Boatnet-Exploits | 0 | 0| 
+| 20230911T10:16:58Z | Mirai CNC Scraper that scans URHAUS for vulnerable MYSQL databases | https://github.com/KingKrex75/Mirai-CNC-Scanner | 0 | 0| 
+| 20230911T09:04:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5320 | 684| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:00:02Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
+| 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 | 20230910T16:12:10Z | A collection of malwares found on the internet. | https://github.com/Ginaarzz/Malware-DataBase | 1 | 0| 
 | 20230910T14:34:33Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 114 | 19| 
 | 20230910T13:08:01Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 124 | 18| 
@@ -84,9 +86,7 @@
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
 | 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
-| 20230908T20:16:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 | 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
-| 20230908T09:57:23Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 1 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
+| 20230911T11:14:17Z | A repo to practice git. | https://github.com/thearham/fuzzy-enigma | 0 | 0| 
+| 20230911T10:20:50Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 225 | 32| 
+| 20230911T06:33:56Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 829 | 114| 
 | 20230911T01:02:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4819 | 1156| 
 | 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 | 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
 | 20230910T21:53:41Z | Trabalho de estudo em C# | https://github.com/AdrianoDinarti/fuzzy-eureka | 0 | 0| 
 | 20230910T20:43:11Z | https://fuzzysecurity.com/tutorials | https://github.com/nigmaz/FuzzySecurity | 0 | 0| 
 | 20230910T20:35:14Z | Null | https://github.com/ise-uiuc/TitanFuzz | 1 | 0| 
-| 20230910T20:19:21Z | Null | https://github.com/empliks/fuzzy-invention | 0 | 0| 
-| 20230910T17:00:42Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 112 | 10| 
-| 20230910T12:07:01Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
-| 20230910T09:23:24Z | Bruteforce, Fuzzing | https://github.com/kaitolegion/Wordlist | 4 | 2| 
 
 
 
