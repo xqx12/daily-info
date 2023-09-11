@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:29:59Z | Null | https://github.com/GeorgeLS/FuzzedDataProvider | 0 | 0| 
 | 20230911T12:15:38Z | a sveltekit application  | https://github.com/Fordjour12/fuzzy-barnacle-web | 0 | 0| 
 | 20230911T12:09:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8981 | 1979| 
 | 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230911T01:02:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4819 | 1156| 
 | 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 | 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
-| 20230910T21:53:41Z | Trabalho de estudo em C# | https://github.com/AdrianoDinarti/fuzzy-eureka | 0 | 0| 
 
 
 
