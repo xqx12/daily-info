@@ -43,16 +43,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230910T12:49:55Z | Null | https://github.com/shehajeez/roblox-exploiting-scripts | 0 | 0| 
-| 20230910T12:42:48Z | Documenting my journey into Binary Exploitation | https://github.com/amr-git-dot/Binary-Exploitation | 0 | 0| 
-| 20230910T12:32:23Z | Get Key System For Zenakosinov Exploit | https://github.com/ewsosolol/key | 0 | 0| 
-| 20230910T12:00:51Z | Lab and writeups | https://github.com/w31rdr4v3n/Web-Exploitation | 0 | 0| 
-| 20230910T11:29:35Z | 💫 About Me:  🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | 1 | 0| 
-| 20230910T10:46:59Z | Automate your way to high scores in the neal.fun circle game! This Python script exploits the game%s scoring mechanics, drawing shapes (especially triangles) to consistently achieve near-perfect results. | https://github.com/nxtdxve/CircleBreaker | 0 | 0| 
-| 20230910T09:51:17Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message.  | https://github.com/bestjectr/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader | 0 | 0| 
-| 20230910T06:47:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5318 | 683| 
-| 20230910T01:37:48Z | Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution | https://github.com/codeb0ss/CVE-2023-1698-PoC | 0 | 0| 
-| 20230910T01:24:08Z | CraxsRAT v6 Fully cracked - unlimited and lifetime | https://github.com/zennashop/craxs-rat-v6 | 0 | 0| 
+| 20230910T23:05:12Z | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | 0 | 0| 
+| 20230910T22:57:40Z | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | 0 | 0| 
+| 20230910T22:54:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14454 | 2481| 
+| 20230910T22:07:43Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 310 | 114| 
+| 20230910T21:22:03Z | test | https://github.com/DiamondBroPlayz/Account-Age-Exploit | 0 | 0| 
+| 20230910T20:18:53Z | A modular exploitation framework extensible with Lua | https://github.com/farinap5/Venera | 25 | 3| 
+| 20230910T20:14:21Z | 123 | https://github.com/ulanovoo/exploitgif | 0 | 0| 
+| 20230910T19:43:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e592b9b-08d5-4d2e-8b9d-611a547b0fbb-tThYA-exploit-ignore | 0 | 0| 
+| 20230910T18:53:30Z | Infected version: winrar <= 6.22 have 0 day vulnerability which can lead to RCE in Windows. | https://github.com/sadnansakin/Winrar_0-day_RCE_Exploitation | 0 | 0| 
+| 20230910T17:51:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 723 | 179| 
 
 
 # backdoor on Github 推荐
