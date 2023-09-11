@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:43:48Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230911T10:44:49Z | CVE-2021-4160 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160 | | 
 | 20230911T10:25:46Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230911T10:19:51Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
@@ -35,7 +36,6 @@
 | 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
 | 20230911T06:18:49Z | CVE-2023-35674 | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | https://github.com/Thampakon/CVE-2023-35674 | | 
 | 20230911T00:54:20Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/34006133/CVE-2022-42889 | | 
-| 20230910T23:05:12Z | CVE-2021-46398 | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | | 
 
 
 # klee on Github 推荐
@@ -129,9 +129,9 @@
 | 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
 | 20230911T11:14:17Z | A repo to practice git. | https://github.com/thearham/fuzzy-enigma | 0 | 0| 
 | 20230911T10:20:50Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 225 | 32| 
+| 20230911T07:28:11Z | el segundo repositorio | https://github.com/ElMartiMagic/fuzzy-invention | 0 | 0| 
 | 20230911T01:02:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4819 | 1156| 
 | 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
-| 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
 
 
 
