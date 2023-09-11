@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
 | 20230911T11:44:35Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
 | 20230911T11:38:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6a7da252-1acd-469c-b962-71efb048c31b-McdU2-exploit-affect | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20230911T10:54:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-954f6124-709e-4e11-8a51-451b7ae5b29d-1htcp-want-exploit | 0 | 0| 
 | 20230911T10:24:52Z | Exploits for Boatnets & C2%s | https://github.com/KingKrex75/Boatnet-Exploits | 0 | 0| 
 | 20230911T10:16:58Z | Mirai CNC Scraper that scans URHAUS for vulnerable MYSQL databases | https://github.com/KingKrex75/Mirai-CNC-Scanner | 0 | 0| 
-| 20230911T09:04:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5320 | 684| 
 
 
 # backdoor on Github 推荐
@@ -122,6 +122,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:09:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8981 | 1979| 
+| 20230911T12:05:50Z | a sveltekit application  | https://github.com/Fordjour12/fuzzy-barnacle-web | 0 | 0| 
 | 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
 | 20230911T11:14:17Z | A repo to practice git. | https://github.com/thearham/fuzzy-enigma | 0 | 0| 
 | 20230911T10:20:50Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 225 | 32| 
@@ -130,8 +132,6 @@
 | 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 | 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
 | 20230910T21:53:41Z | Trabalho de estudo em C# | https://github.com/AdrianoDinarti/fuzzy-eureka | 0 | 0| 
-| 20230910T20:43:11Z | https://fuzzysecurity.com/tutorials | https://github.com/nigmaz/FuzzySecurity | 0 | 0| 
-| 20230910T20:35:14Z | Null | https://github.com/ise-uiuc/TitanFuzz | 1 | 0| 
 
 
 
