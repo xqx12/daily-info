@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230911T12:43:48Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
+| 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230911T10:44:49Z | CVE-2021-4160 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160 | | 
 | 20230911T10:25:46Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230911T10:19:51Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
@@ -64,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230911T12:37:41Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
+| 20230911T12:41:35Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
 | 20230911T12:00:02Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
 | 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 
