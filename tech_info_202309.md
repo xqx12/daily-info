@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:29:10Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
 | 20230911T12:00:02Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
 | 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 | 20230910T16:12:10Z | A collection of malwares found on the internet. | https://github.com/Ginaarzz/Malware-DataBase | 1 | 0| 
@@ -86,7 +87,6 @@
 | 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
 | 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
 | 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
-| 20230908T10:55:29Z | Null | https://github.com/qasim313/backdoorApi | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
