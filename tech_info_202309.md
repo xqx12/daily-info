@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 | 20230910T22:08:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4818 | 1156| 
 | 20230910T22:05:35Z | Null | https://github.com/BenFaruna/fuzzy-api | 0 | 0| 
 | 20230910T21:53:41Z | Trabalho de estudo em C# | https://github.com/AdrianoDinarti/fuzzy-eureka | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20230910T17:00:42Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 112 | 10| 
 | 20230910T12:07:01Z | Two different scenarios of fuzzy systems  | https://github.com/Kalaitzo/Fuzzy-Logic-Systems | 0 | 0| 
 | 20230910T09:23:24Z | Bruteforce, Fuzzing | https://github.com/kaitolegion/Wordlist | 4 | 2| 
-| 20230910T07:15:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 825 | 114| 
 
 
 
