@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T00:02:49Z | for exploiting. supports fluxus, synapse, delta, arcues, whatever. it supports all executors | https://github.com/manotheman8172/boombox_hubs | 0 | 0| 
 | 20230910T23:05:12Z | A Proof of Concept for the CVE-2021-46398 flaw exploitation  | https://github.com/LalieA/CVE-2021-46398 | 0 | 0| 
 | 20230910T22:57:40Z | A Proof of Concept for the CVE-2021-27928 flaw exploitation | https://github.com/LalieA/CVE-2021-27928 | 0 | 0| 
 | 20230910T22:54:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14454 | 2481| 
@@ -71,7 +72,6 @@
 | 20230910T20:14:21Z | 123 | https://github.com/ulanovoo/exploitgif | 0 | 0| 
 | 20230910T19:43:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8e592b9b-08d5-4d2e-8b9d-611a547b0fbb-tThYA-exploit-ignore | 0 | 0| 
 | 20230910T18:53:30Z | Infected version: winrar <= 6.22 have 0 day vulnerability which can lead to RCE in Windows. | https://github.com/sadnansakin/Winrar_0-day_RCE_Exploitation | 0 | 0| 
-| 20230910T17:51:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 723 | 179| 
 
 
 # backdoor on Github 推荐
