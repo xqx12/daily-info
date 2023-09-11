@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T12:17:49Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
-| 20230911T11:44:35Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
 | 20230911T11:38:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6a7da252-1acd-469c-b962-71efb048c31b-McdU2-exploit-affect | 0 | 0| 
 | 20230911T11:35:08Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 33 | 3| 
