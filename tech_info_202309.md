@@ -14,40 +14,40 @@
 | 20230911 | SecWiki周刊（第497期) | https://www.sec-wiki.com/weekly/497| 
 | 20230911 | 浅谈Apache Shiro CVE-2023-22602 | https://www.sec-in.com/article/2113| 
 | 20230911 | 同源策略的绕过 | https://mp.weixin.qq.com/s/mzPM-G0sdQzg8gSfneKZMA| 
+| 20230911 | C2 基础设施威胁情报对抗策略 | https://paper.seebug.org/3022/| 
 | 20230910 | 网络安全数字孪生研究 | https://mp.weixin.qq.com/s/qeekl8WTDxnKMQji2ao5Aw| 
 | 20230909 | 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw| 
 | 20230908 | 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
 | 20230908 | 基于人工智能的物联网恶意代码检测综述 | https://crad.ict.ac.cn/article/exportPdf?id=abb37362-5db3-4513-964b-e424bde45061| 
 | 20230908 | 2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg| 
 | 20230908 | 数字资产安全、合规与风险管理 | https://ambergroup.io/pdf/white.pdf| 
-| 20230908 | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230911T23:53:12Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
+| 20230911T15:48:31Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
+| 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
 | 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230911T10:44:49Z | CVE-2021-4160 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160 | | 
 | 20230911T10:25:46Z | CVE-2023-27524 | Null | https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | | 
 | 20230911T10:19:51Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
-| 20230911T10:09:00Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230911T09:27:35Z | CVE-2021-23840 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840 | | 
 | 20230911T07:55:07Z | CVE-2021-3712 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712 | | 
 | 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
-| 20230911T06:18:49Z | CVE-2023-35674 | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | https://github.com/Thampakon/CVE-2023-35674 | | 
-| 20230911T00:54:20Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/34006133/CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
 | 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
 | 20230911T07:03:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 356 | 7| 
 | 20230911T06:53:43Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
 | 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
-| 20230907T09:36:47Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 88 | 20| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
 | 20230904T14:01:10Z | Null | https://github.com/toyin2022/kleek | 0 | 0| 
 | 20230904T09:03:48Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 243 | 31| 
@@ -56,37 +56,38 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 13| 
 | 20230906T19:11:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 350 | 81| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T23:53:12Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
+| 20230911T23:34:04Z | Null | https://github.com/xcodeOn1/Vault-exploit | 0 | 0| 
+| 20230911T22:41:43Z | Exploits for HEVD 3.00 on x64 Windows 10 | https://github.com/Slimicide/HEVD-Exploits | 0 | 0| 
+| 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
+| 20230911T21:36:51Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 16 | 10| 
+| 20230911T21:08:43Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE | https://github.com/im-hanzou/INPGer | 0 | 0| 
+| 20230911T13:20:35Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 10 | 1| 
 | 20230911T12:17:49Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
 | 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
-| 20230911T11:38:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6a7da252-1acd-469c-b962-71efb048c31b-McdU2-exploit-affect | 0 | 0| 
-| 20230911T11:35:08Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 33 | 3| 
-| 20230911T11:34:07Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b637d701-ba75-4e1e-b5c1-f66398d232b5-xOmri-exploit-wonder | 0 | 0| 
-| 20230911T11:13:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5938 | 791| 
-| 20230911T10:54:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-954f6124-709e-4e11-8a51-451b7ae5b29d-1htcp-want-exploit | 0 | 0| 
-| 20230911T10:24:52Z | Exploits for Boatnets & C2%s | https://github.com/KingKrex75/Boatnet-Exploits | 0 | 0| 
-| 20230911T10:16:58Z | Mirai CNC Scraper that scans URHAUS for vulnerable MYSQL databases | https://github.com/KingKrex75/Mirai-CNC-Scanner | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230911T20:56:38Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/dystopia-c2 | 316 | 86| 
+| 20230911T19:26:53Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
+| 20230911T15:50:14Z | A malware program that is designed to create a backdoor on a Windows machine. | https://github.com/tomchuoi/Malware | 0 | 0| 
+| 20230911T14:36:33Z | A python-based socket programming toolkit that takes access over the target PC%s CLI. | https://github.com/thirdu9/backdoor | 0 | 0| 
+| 20230911T13:34:14Z | Null | https://github.com/asdrk19/BackdoorZ | 0 | 0| 
 | 20230911T12:41:35Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
-| 20230911T12:00:02Z | Null | https://github.com/thirdu9/backdoor | 0 | 0| 
 | 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 | 20230910T16:12:10Z | A collection of malwares found on the internet. | https://github.com/Ginaarzz/Malware-DataBase | 1 | 0| 
 | 20230910T14:34:33Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 114 | 19| 
 | 20230910T13:08:01Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 124 | 18| 
-| 20230909T23:53:41Z | Nessus Professional 2023 Manual Crack - No Backdoors/Virus | https://github.com/harshdhamaniya/nessuscrack | 0 | 0| 
-| 20230909T07:40:19Z | Backdoor and server coded in Python based on Udemy%s 20-hour Ethical Hacking course | https://github.com/CipherZ0/Backdoor-and-server-in-Python | 0 | 0| 
-| 20230909T05:42:56Z | No Backdoor in ours. Competitor: https://www.google.com/search?q=liberty+safe+FBI+backdoor, https://www.nytimes.com/2023/09/08/business/liberty-safe-codes.html, https://thefederalist.com/2023/09/06/liberty-safe-let-fbi-seize-customers-gun-safe-contents-without-a-court-order/,  | https://github.com/ManticoreAI/product.Safes | 0 | 0| 
-| 20230909T02:43:55Z | msfvenom backdoor duckscript can use on Flipper Zero | https://github.com/datagurtchumelia/Msfvenom_DuckScript | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T00:00:27Z | Null | https://github.com/Iankimble/fuzzy-potato | 0 | 0| 
+| 20230911T23:51:59Z | arduino uno, fuzzy logic | https://github.com/ahmadzulfadli/controller_aquarium_fuzzy | 0 | 0| 
+| 20230911T20:51:21Z | Null | https://github.com/connected-cjohnston/fuzzy-timer | 0 | 0| 
+| 20230911T19:32:36Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzer | 10 | 2| 
+| 20230911T19:25:00Z | Simple web sever to demonstrate fuzzing and automatic scanning | https://github.com/1a24a5c70a49ed847f9056c8dd1c6a/fuzzme | 0 | 0| 
+| 20230911T17:39:21Z | Null | https://github.com/Jonahkarew/fuzzy-robot | 0 | 0| 
 | 20230911T12:59:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8982 | 1979| 
 | 20230911T12:38:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 830 | 114| 
 | 20230911T12:33:09Z | Null | https://github.com/GeorgeLS/FuzzedDataProvider | 0 | 0| 
 | 20230911T12:15:38Z | a sveltekit application  | https://github.com/Fordjour12/fuzzy-barnacle-web | 0 | 0| 
-| 20230911T11:27:27Z | Null | https://github.com/Bhavay-2001/Streaming-Fuzzy-DBSCAN | 0 | 0| 
-| 20230911T11:14:17Z | A repo to practice git. | https://github.com/thearham/fuzzy-enigma | 0 | 0| 
-| 20230911T10:20:50Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 225 | 32| 
-| 20230911T07:28:11Z | el segundo repositorio | https://github.com/ElMartiMagic/fuzzy-invention | 0 | 0| 
-| 20230911T01:02:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4819 | 1156| 
-| 20230911T00:45:26Z | mario | https://github.com/jaabilik/fuzzy-tribble | 0 | 0| 
 
 
 
