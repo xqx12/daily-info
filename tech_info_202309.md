@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230912T00:10:58Z | CVE-2023-1273 | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | | 
 | 20230912T00:07:00Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
 | 20230911T15:48:31Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
@@ -35,7 +36,6 @@
 | 20230911T10:19:51Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
 | 20230911T09:27:35Z | CVE-2021-23840 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840 | | 
 | 20230911T07:55:07Z | CVE-2021-3712 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712 | | 
-| 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
 
 
 # klee on Github 推荐
@@ -69,10 +69,10 @@
 | 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
 | 20230911T21:36:51Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 16 | 10| 
 | 20230911T21:08:43Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE | https://github.com/im-hanzou/INPGer | 0 | 0| 
+| 20230911T19:33:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
 | 20230911T13:20:35Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 10 | 1| 
 | 20230911T12:17:49Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
-| 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
