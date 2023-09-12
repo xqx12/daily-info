@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:45:25Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230912T10:40:45Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T09:22:02Z | CVE-2020-0022 | Null | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20230912T06:05:13Z | CVE-2020-8908 | Null | https://github.com/nidhi7598/guava-v18.0_CVE-2020-8908 | | 
-| 20230912T05:44:06Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230912T05:19:17Z | CVE-2022-0778 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778 | | 
 | 20230912T00:15:14Z | CVE-2023-1273 | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | | 
 | 20230912T00:07:00Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:46:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8987 | 1979| 
 | 20230912T12:40:59Z | Null | https://github.com/NainaMCA14/fuzzy-eureka | 0 | 0| 
 | 20230912T12:36:10Z | Null | https://github.com/0xricksanchez/web_fuzz | 0 | 0| 
 | 20230912T11:42:18Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10040 | 1138| 
@@ -132,7 +133,6 @@
 | 20230912T09:38:45Z | Fuzzing Softwares | https://github.com/GabrielDurdiak/Fuzzing | 0 | 0| 
 | 20230912T09:35:21Z | Null | https://github.com/janti69/fuzzy-fuzzy | 0 | 0| 
 | 20230912T09:13:33Z | Null | https://github.com/Fuzzyfo-i/Fuzzyfo-i | 0 | 0| 
-| 20230912T09:06:48Z | Null | https://github.com/PaulinusUkoowoUdoh/Fuzzy-Regression-Models | 0 | 0| 
 
 
 
