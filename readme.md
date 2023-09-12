@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:27:23Z | Null | https://github.com/herpiko/simple-nats-backdoor | 0 | 0| 
 | 20230912T10:12:13Z | distributed_backdoors_search | https://github.com/Alex-Andrv/distributed_backdoors_search | 0 | 0| 
 | 20230912T02:01:43Z | For inspiration purposes only! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
 

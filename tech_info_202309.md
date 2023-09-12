@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:27:23Z | Null | https://github.com/herpiko/simple-nats-backdoor | 0 | 0| 
 | 20230912T10:12:13Z | distributed_backdoors_search | https://github.com/Alex-Andrv/distributed_backdoors_search | 0 | 0| 
 | 20230912T02:01:43Z | For inspiration purposes only! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
 | 20230911T20:56:38Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/dystopia-c2 | 316 | 86| 
@@ -87,7 +88,6 @@
 | 20230911T13:34:14Z | Null | https://github.com/asdrk19/BackdoorZ | 0 | 0| 
 | 20230911T12:41:35Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
 | 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
-| 20230910T16:12:10Z | A collection of malwares found on the internet. | https://github.com/Ginaarzz/Malware-DataBase | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
