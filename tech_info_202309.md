@@ -63,11 +63,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:29:34Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 61 | 5| 
 | 20230912T11:55:50Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0050-0017-app-i0gP6-exploit-mention | 0 | 0| 
 | 20230912T11:54:42Z | Null | https://github.com/Anthony-T-N/CTF-Binary-Exploitation | 0 | 0| 
 | 20230912T11:34:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-EtE_K-exploit-expand | 0 | 0| 
 | 20230912T11:01:01Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 58 | 18| 
-| 20230912T10:19:50Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 60 | 5| 
 | 20230912T10:09:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-039ec4b0-d17b-4243-8253-42cb0b7396f6-debb7-exploit-affect | 0 | 0| 
 | 20230912T10:05:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-253fecde-3c83-4c96-83a1-ad51ad217f76-3XAKr-mind-exploit | 0 | 0| 
 | 20230912T09:58:18Z | Construire la base de données, l%exploiter avec des requêtes SQL + Bloc PL/SQL avec des fonctions pour faire des calculs puis interprétation avec Power BI pour en tirer des conclusions, | https://github.com/Stephane-Lpt/SAE_2.04_Exploitation_Entreprise | 0 | 0| 
