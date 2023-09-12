@@ -63,7 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230912T12:29:34Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 61 | 5| 
+| 20230912T12:42:03Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 62 | 5| 
+| 20230912T12:41:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5514 | 759| 
 | 20230912T11:55:50Z | GitOps Repository | https://github.com/pmacik-testing/max-bas-0050-0017-app-i0gP6-exploit-mention | 0 | 0| 
 | 20230912T11:54:42Z | Null | https://github.com/Anthony-T-N/CTF-Binary-Exploitation | 0 | 0| 
 | 20230912T11:34:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-EtE_K-exploit-expand | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230912T10:05:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-253fecde-3c83-4c96-83a1-ad51ad217f76-3XAKr-mind-exploit | 0 | 0| 
 | 20230912T09:58:18Z | Construire la base de données, l%exploiter avec des requêtes SQL + Bloc PL/SQL avec des fonctions pour faire des calculs puis interprétation avec Power BI pour en tirer des conclusions, | https://github.com/Stephane-Lpt/SAE_2.04_Exploitation_Entreprise | 0 | 0| 
 | 20230912T09:55:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5321 | 685| 
-| 20230912T09:12:38Z | Config files for my GitHub profile. | https://github.com/JxcExploitss/JxcExploitss | 0 | 0| 
 
 
 # backdoor on Github 推荐
