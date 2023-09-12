@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T00:10:58Z | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | 0 | 0| 
 | 20230912T00:07:00Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
 | 20230911T23:34:04Z | Null | https://github.com/xcodeOn1/Vault-exploit | 0 | 0| 
 | 20230911T22:41:43Z | Exploits for HEVD 3.00 on x64 Windows 10 | https://github.com/Slimicide/HEVD-Exploits | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230911T19:33:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
 | 20230911T13:20:35Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 10 | 1| 
 | 20230911T12:17:49Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
-| 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
 
 
 # backdoor on Github 推荐
