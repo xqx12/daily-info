@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230912T00:04:13Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
+| 20230912T00:07:00Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
 | 20230911T15:48:31Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
 | 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230912T00:04:13Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
+| 20230912T00:07:00Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
 | 20230911T23:34:04Z | Null | https://github.com/xcodeOn1/Vault-exploit | 0 | 0| 
 | 20230911T22:41:43Z | Exploits for HEVD 3.00 on x64 Windows 10 | https://github.com/Slimicide/HEVD-Exploits | 0 | 0| 
 | 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
