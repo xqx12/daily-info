@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230911T15:48:31Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
 | 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230911T10:44:49Z | CVE-2021-4160 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160 | | 
@@ -30,6 +29,7 @@
 | 20230911T07:55:07Z | CVE-2021-3712 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712 | | 
 | 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
 | 20230911T06:18:49Z | CVE-2023-35674 | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | https://github.com/Thampakon/CVE-2023-35674 | | 
+| 20230911T00:54:20Z | CVE-2022-42889 | RCE PoC for Apache Commons Text vuln | https://github.com/34006133/CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
