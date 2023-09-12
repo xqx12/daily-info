@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T01:44:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0048-app-fHppT-imply-exploit | 0 | 0| 
 | 20230912T01:35:27Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1660 | 711| 
 | 20230912T01:30:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0016-app-x0JpE-exploit-throw | 0 | 0| 
 | 20230912T00:15:14Z | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
 | 20230911T21:36:51Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 16 | 10| 
 | 20230911T21:08:43Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE | https://github.com/im-hanzou/INPGer | 0 | 0| 
-| 20230911T19:33:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
 
 
 # backdoor on Github 推荐
