@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230911T23:53:12Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
 | 20230911T15:48:31Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
 | 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
@@ -30,6 +29,7 @@
 | 20230911T09:27:35Z | CVE-2021-23840 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840 | | 
 | 20230911T07:55:07Z | CVE-2021-3712 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712 | | 
 | 20230911T07:33:47Z | CVE-2022-0778 | Null | https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778 | | 
+| 20230911T06:18:49Z | CVE-2023-35674 | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | https://github.com/Thampakon/CVE-2023-35674 | | 
 
 
 # klee on Github 推荐
@@ -52,7 +52,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230911T23:53:12Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
 | 20230911T23:34:04Z | Null | https://github.com/xcodeOn1/Vault-exploit | 0 | 0| 
 | 20230911T22:41:43Z | Exploits for HEVD 3.00 on x64 Windows 10 | https://github.com/Slimicide/HEVD-Exploits | 0 | 0| 
 | 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
@@ -62,6 +61,7 @@
 | 20230911T12:17:49Z | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI | https://github.com/im-hanzou/EVCer | 0 | 0| 
 | 20230911T12:10:27Z | BadUSB exploit variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking. | https://github.com/AydanBedingham/badusb-session-hijacker-public | 0 | 0| 
 | 20230911T11:40:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-03703e52-e90e-4c85-8dd9-6c27a3648f37-TjttY-mix-exploit | 0 | 0| 
+| 20230911T11:38:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6a7da252-1acd-469c-b962-71efb048c31b-McdU2-exploit-affect | 0 | 0| 
 
 
 # backdoor on Github 推荐
