@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T12:40:59Z | Null | https://github.com/NainaMCA14/fuzzy-eureka | 0 | 0| 
 | 20230912T12:36:10Z | Null | https://github.com/0xricksanchez/web_fuzz | 0 | 0| 
 | 20230912T11:42:18Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10040 | 1138| 
 | 20230912T10:07:35Z | Null | https://github.com/zekkelar/FUZZEK-LIBRARY | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230912T09:35:21Z | Null | https://github.com/janti69/fuzzy-fuzzy | 0 | 0| 
 | 20230912T09:13:33Z | Null | https://github.com/Fuzzyfo-i/Fuzzyfo-i | 0 | 0| 
 | 20230912T09:06:48Z | Null | https://github.com/PaulinusUkoowoUdoh/Fuzzy-Regression-Models | 0 | 0| 
-| 20230912T08:45:18Z | Generative and mutative fuzzer for Kubernetes admission controller chains by automatically parsing the cluster api specification. | https://github.com/avolens/kubefuzz | 53 | 3| 
 
 
 
