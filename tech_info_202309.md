@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T01:30:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0016-app-x0JpE-exploit-throw | 0 | 0| 
 | 20230912T00:15:14Z | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | 0 | 0| 
 | 20230912T00:07:00Z | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | 0 | 0| 
 | 20230911T23:34:04Z | Null | https://github.com/xcodeOn1/Vault-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230911T21:08:43Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE | https://github.com/im-hanzou/INPGer | 0 | 0| 
 | 20230911T20:08:11Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1659 | 711| 
 | 20230911T19:33:03Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
-| 20230911T13:20:35Z | Exploit git-worktrees to create inter-related project workspaces. | https://github.com/purplg/treebundel | 10 | 1| 
 
 
 # backdoor on Github 推荐
