@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T01:13:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4822 | 1156| 
 | 20230912T00:00:27Z | Null | https://github.com/Iankimble/fuzzy-potato | 0 | 0| 
 | 20230911T23:51:59Z | arduino uno, fuzzy logic | https://github.com/ahmadzulfadli/controller_aquarium_fuzzy | 0 | 0| 
 | 20230911T20:51:21Z | Null | https://github.com/connected-cjohnston/fuzzy-timer | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230911T12:59:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8982 | 1979| 
 | 20230911T12:38:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 830 | 114| 
 | 20230911T12:33:09Z | Null | https://github.com/GeorgeLS/FuzzedDataProvider | 0 | 0| 
-| 20230911T12:15:38Z | a sveltekit application  | https://github.com/Fordjour12/fuzzy-barnacle-web | 0 | 0| 
 
 
 
