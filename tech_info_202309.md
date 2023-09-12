@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T01:46:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0003-app-mI_Wn-behave-exploit | 0 | 0| 
 | 20230912T01:44:15Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0048-app-fHppT-imply-exploit | 0 | 0| 
 | 20230912T01:35:27Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 1660 | 711| 
 | 20230912T01:30:09Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0016-app-x0JpE-exploit-throw | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230911T22:41:43Z | Exploits for HEVD 3.00 on x64 Windows 10 | https://github.com/Slimicide/HEVD-Exploits | 0 | 0| 
 | 20230911T22:01:28Z | Null | https://github.com/TheKingBee/Zunami-Exploit-POC | 0 | 0| 
 | 20230911T21:36:51Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 16 | 10| 
-| 20230911T21:08:43Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE | https://github.com/im-hanzou/INPGer | 0 | 0| 
 
 
 # backdoor on Github 推荐
