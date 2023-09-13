@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230913T01:18:30Z | CVE-2023-38831 | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | | 
+| 20230913T01:27:32Z | CVE-2023-38831 | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | | 
 | 20230913T01:11:25Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
 | 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230913T01:18:30Z | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | 0 | 0| 
+| 20230913T01:27:32Z | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | 0 | 0| 
 | 20230913T01:13:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0020-app-nJbRK-exploit-bring | 0 | 0| 
 | 20230913T01:13:11Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0001-app-irRRY-exploit-reflect | 0 | 0| 
 | 20230913T01:12:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWlb | 0 | 0| 
