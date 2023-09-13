@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230913T07:54:16Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 837 | 146| 
+| 20230913T12:06:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 838 | 146| 
 | 20230913T05:54:54Z | Null | https://github.com/sud295/latent_backdoor | 0 | 0| 
 | 20230913T04:13:51Z | Null | https://github.com/jeongjin-shin/programmable-backdoor-attacks | 0 | 0| 
 | 20230913T02:50:57Z | Null | https://github.com/bellurm/backdoor-listener | 0 | 0| 
@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:07:09Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2003 | 95| 
 | 20230913T11:54:24Z | Null | https://github.com/bhamilton0451/fuzzy-garbanzo | 0 | 0| 
 | 20230913T11:40:00Z | Null | https://github.com/hansieodendaal/fuzzing_tari_core | 0 | 0| 
 | 20230913T10:16:56Z | Null | https://github.com/73-FuzzyGrim/73-FuzzyGrim | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230913T09:18:14Z | Null | https://github.com/Jedojd/fuzzy-octo-eureka | 0 | 0| 
 | 20230913T09:12:58Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 879 | 107| 
 | 20230913T00:17:38Z | WebP fuzzer | https://github.com/blkph0x/WepP_fuzz | 0 | 0| 
-| 20230912T23:38:21Z | An eframe app | https://github.com/r-ocket/fuzzy-goggles | 0 | 0| 
 
 
 
