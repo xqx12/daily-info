@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:40:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4c93ef31-4120-4348-afe4-f2b2ce49fc4b-miFJq-exploit-say | 0 | 0| 
 | 20230913T12:37:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-exploit-measure | 0 | 0| 
 | 20230913T12:17:42Z | Null | https://github.com/qwell/bsky-exploits | 10 | 1| 
 | 20230913T12:01:39Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230913T11:03:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9a11e0b7-08df-4a6b-8c57-d7ac19297e5b-Duu0J-exploit-roll | 0 | 0| 
 | 20230913T11:02:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c9524ca9-29d8-47ae-bc2d-d0e49a97e10b-M8FBD-attack-exploit | 0 | 0| 
 | 20230913T10:45:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5325 | 686| 
-| 20230913T09:54:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5519 | 759| 
 
 
 # backdoor on Github 推荐
