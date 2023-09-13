@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230913T11:52:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
+| 20230913T11:21:24Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
+| 20230913T08:02:17Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
+| 20230913T07:46:21Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
+| 20230913T06:59:41Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
+| 20230913T06:06:12Z | CVE-2023-08 | Null | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
 | 20230913T01:27:32Z | CVE-2023-38831 | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | | 
-| 20230913T01:11:25Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
 | 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
 | 20230912T16:07:54Z | CVE-2023-38831 | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit | | 
-| 20230912T14:24:58Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
-| 20230912T13:07:20Z | CVE-2020-1938 | CVE-2020-1938(GhostCat) clean and readable code version | https://github.com/w4fz5uck5/CVE-2020-1938-Clean-Version | | 
-| 20230912T13:03:51Z | cve-2020-0688 | cve-2020-0688 UNIVERSAL Python implementation utilizing ASPX webshell for command output | https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique | | 
-| 20230912T12:54:26Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
-| 20230912T12:45:25Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T03:21:05Z | Null | https://github.com/clif-os/oai-kleep | 0 | 0| 
 | 20230912T13:51:32Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 109 | 6| 
 | 20230912T08:33:51Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 22 | 10| 
 | 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
@@ -50,29 +51,28 @@
 | 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
-| 20230904T14:01:10Z | Null | https://github.com/toyin2022/kleek | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 13| 
+| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 14| 
 | 20230906T19:11:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 350 | 81| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230913T01:58:00Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0067-app-6VtKg-imagine-exploit | 0 | 0| 
-| 20230913T01:38:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0043-app-5zKH6-charge-exploit | 0 | 0| 
-| 20230913T01:27:32Z | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | 0 | 0| 
-| 20230913T01:13:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0020-app-nJbRK-exploit-bring | 0 | 0| 
-| 20230913T01:13:11Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0001-app-irRRY-exploit-reflect | 0 | 0| 
-| 20230913T01:12:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWlb | 0 | 0| 
-| 20230913T01:11:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlb | 1 | 0| 
-| 20230913T01:10:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlb | 1 | 0| 
-| 20230913T01:10:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlb | 1 | 0| 
-| 20230913T01:06:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0006-app-oqfhO-attend-exploit | 0 | 0| 
+| 20230913T11:55:32Z | Null | https://github.com/qwell/bsky-exploits | 7 | 1| 
+| 20230913T11:52:37Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
+| 20230913T11:42:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4b33756f-1a8f-4730-a7ee-573760037984-QHyQD-exploit-laugh | 0 | 0| 
+| 20230913T11:14:51Z | BinaryExploit | https://github.com/ajayjustin9942/BinaryExploit | 0 | 0| 
+| 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
+| 20230913T11:03:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9a11e0b7-08df-4a6b-8c57-d7ac19297e5b-Duu0J-exploit-roll | 0 | 0| 
+| 20230913T11:02:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c9524ca9-29d8-47ae-bc2d-d0e49a97e10b-M8FBD-attack-exploit | 0 | 0| 
+| 20230913T10:45:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5325 | 686| 
+| 20230913T09:54:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5519 | 759| 
+| 20230913T07:23:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 725 | 179| 
 
 
 # backdoor on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T11:54:24Z | Null | https://github.com/bhamilton0451/fuzzy-garbanzo | 0 | 0| 
+| 20230913T11:40:00Z | Null | https://github.com/hansieodendaal/fuzzing_tari_core | 0 | 0| 
+| 20230913T10:16:56Z | Null | https://github.com/73-FuzzyGrim/73-FuzzyGrim | 0 | 0| 
+| 20230913T10:04:21Z | A package to facilitate programmatic manipulation of output files from potentiostats. | https://github.com/MoonshinetheP/fuzzy-eureka | 0 | 0| 
+| 20230913T09:48:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8991 | 1982| 
+| 20230913T09:30:08Z | Null | https://github.com/AzuCode69/fuzzy-waffle | 0 | 0| 
+| 20230913T09:18:14Z | Null | https://github.com/Jedojd/fuzzy-octo-eureka | 0 | 0| 
+| 20230913T09:12:58Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 879 | 107| 
 | 20230913T00:17:38Z | WebP fuzzer | https://github.com/blkph0x/WepP_fuzz | 0 | 0| 
-| 20230912T23:59:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8988 | 1981| 
 | 20230912T23:38:21Z | An eframe app | https://github.com/r-ocket/fuzzy-goggles | 0 | 0| 
-| 20230912T22:48:16Z | Null | https://github.com/jonbitgood/fuzzytable | 0 | 0| 
-| 20230912T22:06:39Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
-| 20230912T20:11:31Z | Null | https://github.com/FaetterP/fuzzy-logic-js | 0 | 0| 
-| 20230912T20:00:52Z | This repository contains code related to the paper, %Predicting Need for Heart Failure Advanced Therapies using an Interpretable Tropical Geometry-based Fuzzy Neural Network% | https://github.com/kayvanlabs/Generalized_fuzzy_neural_network_public | 0 | 0| 
-| 20230912T12:44:20Z | Null | https://github.com/google/fuzztest | 394 | 28| 
-| 20230912T12:44:02Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 309 | 46| 
-| 20230912T12:40:59Z | Null | https://github.com/NainaMCA14/fuzzy-eureka | 0 | 0| 
 
 
 
