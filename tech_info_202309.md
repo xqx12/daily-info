@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:58:00Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0067-app-6VtKg-imagine-exploit | 0 | 0| 
 | 20230913T01:38:03Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0043-app-5zKH6-charge-exploit | 0 | 0| 
 | 20230913T01:27:32Z | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | 0 | 0| 
 | 20230913T01:13:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0020-app-nJbRK-exploit-bring | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230913T01:10:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:10:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:06:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0006-app-oqfhO-attend-exploit | 0 | 0| 
-| 20230912T23:30:23Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 
 
 # backdoor on Github 推荐
