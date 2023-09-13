@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:45:23Z | Un archivo JS que puedas cargar Google especialmente para el navegador Y8, pero cualquier web-app basada en electron con DevTools funciona | https://github.com/Danucosukosuko/Y8-Google-Exploit | 0 | 0| 
 | 20230913T12:44:27Z | Null | https://github.com/qwell/bsky-exploits | 10 | 1| 
 | 20230913T12:40:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4c93ef31-4120-4348-afe4-f2b2ce49fc4b-miFJq-exploit-say | 0 | 0| 
 | 20230913T12:37:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-exploit-measure | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
 | 20230913T11:03:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9a11e0b7-08df-4a6b-8c57-d7ac19297e5b-Duu0J-exploit-roll | 0 | 0| 
 | 20230913T11:02:40Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-c9524ca9-29d8-47ae-bc2d-d0e49a97e10b-M8FBD-attack-exploit | 0 | 0| 
-| 20230913T10:45:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5325 | 686| 
 
 
 # backdoor on Github 推荐
