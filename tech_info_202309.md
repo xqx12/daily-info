@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230913T00:16:42Z | WebP fuzzer | https://github.com/blkph0x/WepP_fuzz | 0 | 0| 
+| 20230913T00:17:38Z | WebP fuzzer | https://github.com/blkph0x/WepP_fuzz | 0 | 0| 
 | 20230912T23:59:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8988 | 1981| 
 | 20230912T23:38:21Z | An eframe app | https://github.com/r-ocket/fuzzy-goggles | 0 | 0| 
 | 20230912T22:48:16Z | Null | https://github.com/jonbitgood/fuzzytable | 0 | 0| 
