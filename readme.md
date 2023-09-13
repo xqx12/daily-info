@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:55:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8a44eb5e-c2ff-4a81-badb-b33610a9c248-GDLrE-exploit-save | 0 | 0| 
 | 20230913T12:53:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef2daebd-78b7-4fe2-80d3-9c7abcc07f21-cgFA3-exploit-specify | 0 | 0| 
 | 20230913T12:53:18Z | Null | https://github.com/qwell/bsky-exploits | 12 | 1| 
 | 20230913T12:46:43Z | Un archivo JS que puedas cargar Google especialmente para el navegador Y8, pero cualquier web-app basada en electron con DevTools funciona | https://github.com/Danucosukosuko/Y8-Google-Exploit | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20230913T11:42:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4b33756f-1a8f-4730-a7ee-573760037984-QHyQD-exploit-laugh | 0 | 0| 
 | 20230913T11:14:51Z | BinaryExploit | https://github.com/ajayjustin9942/BinaryExploit | 0 | 0| 
 | 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
-| 20230913T11:03:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9a11e0b7-08df-4a6b-8c57-d7ac19297e5b-Duu0J-exploit-roll | 0 | 0| 
 
 
 # backdoor on Github 推荐
