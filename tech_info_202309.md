@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230913T11:52:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
+| 20230913T12:01:39Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230913T11:21:24Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230913T08:02:17Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230913T07:46:21Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:01:39Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
 | 20230913T11:55:32Z | Null | https://github.com/qwell/bsky-exploits | 7 | 1| 
-| 20230913T11:52:37Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
 | 20230913T11:42:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4b33756f-1a8f-4730-a7ee-573760037984-QHyQD-exploit-laugh | 0 | 0| 
 | 20230913T11:14:51Z | BinaryExploit | https://github.com/ajayjustin9942/BinaryExploit | 0 | 0| 
 | 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
@@ -78,21 +78,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T07:54:16Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 837 | 146| 
+| 20230913T05:54:54Z | Null | https://github.com/sud295/latent_backdoor | 0 | 0| 
+| 20230913T04:13:51Z | Null | https://github.com/jeongjin-shin/programmable-backdoor-attacks | 0 | 0| 
+| 20230913T02:50:57Z | Null | https://github.com/bellurm/backdoor-listener | 0 | 0| 
+| 20230913T02:49:43Z | A Backdoor System I%m working/building on | https://github.com/Turnrp/Ultimate-Backdoor | 0 | 0| 
 | 20230912T21:37:50Z | Backdoor Attacks Upon Object Detection Neural Networks | https://github.com/tprhat/backdoor_attacks_object_detection | 1 | 0| 
 | 20230912T17:47:38Z | Turning a Curse into a Blessing: Enabling In-Distribution-Data-Free Backdoor Removal via Stabilized Model Inversion | https://github.com/SCccc21/FRED | 1 | 0| 
 | 20230912T15:55:38Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 85 | 21| 
 | 20230912T14:55:41Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
 | 20230912T14:18:47Z | A malware program that is designed to create a backdoor on a Windows machine. | https://github.com/tomchuoi/Malware | 1 | 0| 
-| 20230912T12:27:23Z | Null | https://github.com/herpiko/simple-nats-backdoor | 0 | 0| 
-| 20230912T10:12:13Z | distributed_backdoors_search | https://github.com/Alex-Andrv/distributed_backdoors_search | 0 | 0| 
-| 20230911T20:56:38Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/dystopia-c2 | 316 | 86| 
-| 20230911T19:26:53Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
-| 20230911T14:36:33Z | A python-based socket programming toolkit that takes access over the target PC%s CLI. | https://github.com/thirdu9/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T11:10:54Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 258 | 33| 
 | 20230912T22:09:16Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 42 | 7| 
 | 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230910T01:34:41Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20230908T18:04:59Z | symbolic execution but fast | https://github.com/pepsipu/hgse | 0 | 0| 
 | 20230907T13:17:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 57 | 9| 
 | 20230907T05:54:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 683 | 120| 
-| 20230906T12:55:22Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 257 | 33| 
 | 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 | 20230905T21:08:42Z | An extension of Microsoft%s Debug Adaptor Protocol for debugging symbolic execution. | https://github.com/GillianPlatform/sedap | 0 | 0| 
 

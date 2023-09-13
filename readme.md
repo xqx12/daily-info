@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230913T11:52:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
+| 20230913T12:01:39Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230913T11:21:24Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230913T08:02:17Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230913T07:46:21Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:01:39Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
 | 20230913T11:55:32Z | Null | https://github.com/qwell/bsky-exploits | 7 | 1| 
-| 20230913T11:52:37Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
 | 20230913T11:42:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4b33756f-1a8f-4730-a7ee-573760037984-QHyQD-exploit-laugh | 0 | 0| 
 | 20230913T11:14:51Z | BinaryExploit | https://github.com/ajayjustin9942/BinaryExploit | 0 | 0| 
 | 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
@@ -54,11 +54,17 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T07:54:16Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 837 | 146| 
+| 20230913T05:54:54Z | Null | https://github.com/sud295/latent_backdoor | 0 | 0| 
+| 20230913T04:13:51Z | Null | https://github.com/jeongjin-shin/programmable-backdoor-attacks | 0 | 0| 
+| 20230913T02:50:57Z | Null | https://github.com/bellurm/backdoor-listener | 0 | 0| 
+| 20230913T02:49:43Z | A Backdoor System I%m working/building on | https://github.com/Turnrp/Ultimate-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T11:10:54Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 258 | 33| 
 
 
 # big4 on Github 推荐
