@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:10:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:06:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0006-app-oqfhO-attend-exploit | 0 | 0| 
 | 20230912T23:30:23Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 | 20230912T23:08:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14478 | 2483| 
@@ -72,7 +73,6 @@
 | 20230912T20:20:33Z | Null | https://github.com/ShibuShivansh40/Exploiting_Machines | 0 | 0| 
 | 20230912T12:43:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-nuvh-vcA19-can-exploit | 0 | 0| 
 | 20230912T12:42:03Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 62 | 5| 
-| 20230912T12:41:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5514 | 759| 
 
 
 # backdoor on Github 推荐
