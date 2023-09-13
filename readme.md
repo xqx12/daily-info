@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:20:45Z | My attempt to complete my assignment and hard code the Tsukamoto Method of Fuzzy Inference System | https://github.com/drebutbut/fuzzyTsukamoto | 0 | 0| 
 | 20230913T12:07:09Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2003 | 95| 
 | 20230913T11:54:24Z | Null | https://github.com/bhamilton0451/fuzzy-garbanzo | 0 | 0| 
 | 20230913T11:40:00Z | Null | https://github.com/hansieodendaal/fuzzing_tari_core | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20230913T09:30:08Z | Null | https://github.com/AzuCode69/fuzzy-waffle | 0 | 0| 
 | 20230913T09:18:14Z | Null | https://github.com/Jedojd/fuzzy-octo-eureka | 0 | 0| 
 | 20230913T09:12:58Z | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | https://github.com/googleprojectzero/Jackalope | 879 | 107| 
-| 20230913T00:17:38Z | WebP fuzzer | https://github.com/blkph0x/WepP_fuzz | 0 | 0| 
 
 
 
