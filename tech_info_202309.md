@@ -26,26 +26,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230912T23:58:09Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
+| 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
+| 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
+| 20230912T16:07:54Z | CVE-2023-38831 | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit | | 
+| 20230912T14:24:58Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
+| 20230912T13:07:20Z | CVE-2020-1938 | CVE-2020-1938(GhostCat) clean and readable code version | https://github.com/w4fz5uck5/CVE-2020-1938-Clean-Version | | 
+| 20230912T13:03:51Z | cve-2020-0688 | cve-2020-0688 UNIVERSAL Python implementation utilizing ASPX webshell for command output | https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique | | 
 | 20230912T12:54:26Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
 | 20230912T12:45:25Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
-| 20230912T10:40:45Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T09:22:02Z | CVE-2020-0022 | Null | https://github.com/themmokhtar/CVE-2020-0022 | | 
-| 20230912T06:05:13Z | CVE-2020-8908 | Null | https://github.com/nidhi7598/guava-v18.0_CVE-2020-8908 | | 
-| 20230912T05:19:17Z | CVE-2022-0778 | Null | https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778 | | 
-| 20230912T00:15:14Z | CVE-2023-1273 | Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI | https://github.com/codeb0ss/CVE-2023-1273-PoC | | 
-| 20230912T00:07:00Z | CVE-2023-4238 | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | https://github.com/codeb0ss/CVE-2023-4238-PoC | | 
-| 20230911T15:13:25Z | cve-2023-4350 | creating an hack for that cve as a research and attack | https://github.com/0nyx-hkr/cve-2023-4350 | | 
-| 20230911T12:44:41Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T13:51:32Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 109 | 6| 
 | 20230912T08:33:51Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 22 | 10| 
 | 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
 | 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
 | 20230911T07:03:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 356 | 7| 
-| 20230911T06:53:43Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
 | 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
@@ -78,21 +78,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T21:37:50Z | Backdoor Attacks Upon Object Detection Neural Networks | https://github.com/tprhat/backdoor_attacks_object_detection | 1 | 0| 
+| 20230912T17:47:38Z | Turning a Curse into a Blessing: Enabling In-Distribution-Data-Free Backdoor Removal via Stabilized Model Inversion | https://github.com/SCccc21/FRED | 1 | 0| 
+| 20230912T15:55:38Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 85 | 21| 
+| 20230912T14:55:41Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
+| 20230912T14:18:47Z | A malware program that is designed to create a backdoor on a Windows machine. | https://github.com/tomchuoi/Malware | 1 | 0| 
 | 20230912T12:27:23Z | Null | https://github.com/herpiko/simple-nats-backdoor | 0 | 0| 
 | 20230912T10:12:13Z | distributed_backdoors_search | https://github.com/Alex-Andrv/distributed_backdoors_search | 0 | 0| 
-| 20230912T02:01:43Z | For inspiration purposes only! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
 | 20230911T20:56:38Z | Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s | https://github.com/3ct0s/dystopia-c2 | 316 | 86| 
 | 20230911T19:26:53Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
-| 20230911T15:50:14Z | A malware program that is designed to create a backdoor on a Windows machine. | https://github.com/tomchuoi/Malware | 0 | 0| 
 | 20230911T14:36:33Z | A python-based socket programming toolkit that takes access over the target PC%s CLI. | https://github.com/thirdu9/backdoor | 0 | 0| 
-| 20230911T13:34:14Z | Null | https://github.com/asdrk19/BackdoorZ | 0 | 0| 
-| 20230911T12:41:35Z | Null | https://github.com/Crewen/malware-backdoor-python | 0 | 0| 
-| 20230911T11:25:34Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 644 | 236| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230912T22:09:16Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 42 | 7| 
 | 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230910T01:34:41Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 0 | 0| 
 | 20230909T10:59:53Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 1 | 0| 
@@ -102,7 +103,6 @@
 | 20230906T12:55:22Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 257 | 33| 
 | 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 | 20230905T21:08:42Z | An extension of Microsoft%s Debug Adaptor Protocol for debugging symbolic execution. | https://github.com/GillianPlatform/sedap | 0 | 0| 
-| 20230903T19:35:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 41 | 7| 
 
 
 # big4 on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230912T12:46:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8987 | 1979| 
+| 20230912T23:59:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8988 | 1981| 
+| 20230912T23:38:21Z | An eframe app | https://github.com/r-ocket/fuzzy-goggles | 0 | 0| 
+| 20230912T22:48:16Z | Null | https://github.com/jonbitgood/fuzzytable | 0 | 0| 
+| 20230912T22:06:39Z | Null | https://github.com/DavidKorczynski/oss-fuzz-db-fuzzintro | 0 | 0| 
+| 20230912T20:11:31Z | Null | https://github.com/FaetterP/fuzzy-logic-js | 0 | 0| 
+| 20230912T20:00:52Z | This repository contains code related to the paper, %Predicting Need for Heart Failure Advanced Therapies using an Interpretable Tropical Geometry-based Fuzzy Neural Network% | https://github.com/kayvanlabs/Generalized_fuzzy_neural_network_public | 0 | 0| 
+| 20230912T12:44:20Z | Null | https://github.com/google/fuzztest | 394 | 28| 
+| 20230912T12:44:02Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 309 | 46| 
 | 20230912T12:40:59Z | Null | https://github.com/NainaMCA14/fuzzy-eureka | 0 | 0| 
 | 20230912T12:36:10Z | Null | https://github.com/0xricksanchez/web_fuzz | 0 | 0| 
-| 20230912T11:42:18Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10040 | 1138| 
-| 20230912T10:07:35Z | Null | https://github.com/zekkelar/FUZZEK-LIBRARY | 0 | 0| 
-| 20230912T09:47:59Z | Stock Trading using Fuzzy Support Vector Regression | https://github.com/anishmrao/fuzzy_stock_trading | 0 | 0| 
-| 20230912T09:38:53Z | Null | https://github.com/janti69/fuzzii-fuzzii | 0 | 0| 
-| 20230912T09:38:45Z | Fuzzing Softwares | https://github.com/GabrielDurdiak/Fuzzing | 0 | 0| 
-| 20230912T09:35:21Z | Null | https://github.com/janti69/fuzzy-fuzzy | 0 | 0| 
-| 20230912T09:13:33Z | Null | https://github.com/Fuzzyfo-i/Fuzzyfo-i | 0 | 0| 
 
 
 
