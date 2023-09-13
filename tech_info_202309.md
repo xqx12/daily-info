@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:18:30Z | CVE-2023-38831 | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | | 
 | 20230913T01:11:25Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
 | 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
@@ -35,7 +36,6 @@
 | 20230912T13:03:51Z | cve-2020-0688 | cve-2020-0688 UNIVERSAL Python implementation utilizing ASPX webshell for command output | https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique | | 
 | 20230912T12:54:26Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
 | 20230912T12:45:25Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
-| 20230912T09:22:02Z | CVE-2020-0022 | Null | https://github.com/themmokhtar/CVE-2020-0022 | | 
 
 
 # klee on Github 推荐
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:18:30Z | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | 0 | 0| 
 | 20230913T01:13:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0020-app-nJbRK-exploit-bring | 0 | 0| 
 | 20230913T01:13:11Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0001-app-irRRY-exploit-reflect | 0 | 0| 
 | 20230913T01:12:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWlb | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230913T01:06:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0006-app-oqfhO-attend-exploit | 0 | 0| 
 | 20230912T23:30:23Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 | 20230912T23:08:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14478 | 2483| 
-| 20230912T22:48:23Z | Null | https://github.com/RobloxExploitsGG/RobloxExploitsGG.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
