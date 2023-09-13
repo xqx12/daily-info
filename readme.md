@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T12:52:03Z | Null | https://github.com/qwell/bsky-exploits | 11 | 1| 
 | 20230913T12:46:43Z | Un archivo JS que puedas cargar Google especialmente para el navegador Y8, pero cualquier web-app basada en electron con DevTools funciona | https://github.com/Danucosukosuko/Y8-Google-Exploit | 0 | 0| 
-| 20230913T12:44:27Z | Null | https://github.com/qwell/bsky-exploits | 10 | 1| 
 | 20230913T12:40:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4c93ef31-4120-4348-afe4-f2b2ce49fc4b-miFJq-exploit-say | 0 | 0| 
 | 20230913T12:37:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-exploit-measure | 0 | 0| 
 | 20230913T12:01:39Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
