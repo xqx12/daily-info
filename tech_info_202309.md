@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230912T23:58:09Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
+| 20230913T01:11:25Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
 | 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
 | 20230912T16:07:54Z | CVE-2023-38831 | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit | | 
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:11:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlb | 1 | 0| 
+| 20230913T01:10:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:10:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:06:18Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0006-app-oqfhO-attend-exploit | 0 | 0| 
 | 20230912T23:30:23Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
@@ -71,8 +73,6 @@
 | 20230912T21:49:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5864 | 666| 
 | 20230912T21:35:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5325 | 1041| 
 | 20230912T20:20:33Z | Null | https://github.com/ShibuShivansh40/Exploiting_Machines | 0 | 0| 
-| 20230912T12:43:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-nuvh-vcA19-can-exploit | 0 | 0| 
-| 20230912T12:42:03Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 62 | 5| 
 
 
 # backdoor on Github 推荐

@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230912T23:58:09Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
 | 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
 | 20230912T16:07:54Z | CVE-2023-38831 | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit | | 
@@ -26,6 +25,7 @@
 | 20230912T12:54:26Z | CVE-2023-41362 | Null | https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE | | 
 | 20230912T12:45:25Z | CVE-2023-27470 | Null | https://github.com/3lp4tr0n/CVE-2023-27470_Exercise | | 
 | 20230912T09:22:02Z | CVE-2020-0022 | Null | https://github.com/themmokhtar/CVE-2020-0022 | | 
+| 20230912T06:05:13Z | CVE-2020-8908 | Null | https://github.com/nidhi7598/guava-v18.0_CVE-2020-8908 | | 
 
 
 # klee on Github 推荐
