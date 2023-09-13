@@ -63,6 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T01:13:32Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0020-app-nJbRK-exploit-bring | 0 | 0| 
+| 20230913T01:13:11Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0001-app-irRRY-exploit-reflect | 0 | 0| 
+| 20230913T01:12:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWlb | 0 | 0| 
 | 20230913T01:11:56Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:10:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlb | 1 | 0| 
 | 20230913T01:10:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlb | 1 | 0| 
@@ -70,9 +73,6 @@
 | 20230912T23:30:23Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 | 20230912T23:08:02Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14478 | 2483| 
 | 20230912T22:48:23Z | Null | https://github.com/RobloxExploitsGG/RobloxExploitsGG.github.io | 0 | 0| 
-| 20230912T21:49:30Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5864 | 666| 
-| 20230912T21:35:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5325 | 1041| 
-| 20230912T20:20:33Z | Null | https://github.com/ShibuShivansh40/Exploiting_Machines | 0 | 0| 
 
 
 # backdoor on Github 推荐
