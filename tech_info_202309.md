@@ -86,8 +86,8 @@
 | 20230913T04:13:51Z | Null | https://github.com/jeongjin-shin/programmable-backdoor-attacks | 0 | 0| 
 | 20230913T02:50:57Z | Null | https://github.com/bellurm/backdoor-listener | 0 | 0| 
 | 20230913T02:49:43Z | A Backdoor System I%m working/building on | https://github.com/Turnrp/Ultimate-Backdoor | 0 | 0| 
+| 20230912T23:54:45Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 643 | 239| 
 | 20230912T21:37:50Z | Backdoor Attacks Upon Object Detection Neural Networks | https://github.com/tprhat/backdoor_attacks_object_detection | 1 | 0| 
-| 20230912T17:47:38Z | Turning a Curse into a Blessing: Enabling In-Distribution-Data-Free Backdoor Removal via Stabilized Model Inversion | https://github.com/SCccc21/FRED | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
