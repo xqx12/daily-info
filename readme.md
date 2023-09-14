@@ -75,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230914T12:09:18Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 20 | 2| 
+| 20230914T12:09:18Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 20 | 3| 
 | 20230914T11:21:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8998 | 1985| 
 | 20230914T11:12:47Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 843 | 115| 
 | 20230914T10:13:51Z | Simple Fuzzer for C/C++ applications | https://github.com/mendax0110/cppFuzzer | 0 | 0| 
