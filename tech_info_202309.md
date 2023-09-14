@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T00:33:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvz | 1 | 0| 
 | 20230914T00:12:37Z | Precompiled exploits | https://github.com/PeanTaster/precompiled | 0 | 0| 
 | 20230913T23:33:40Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
 | 20230913T21:54:16Z | A list of boatnet bots & servers you can load and use for your boatnet. | https://github.com/KingKrex75/Boatnet-Bots | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230913T17:41:25Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 230 | 44| 
 | 20230913T12:55:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8a44eb5e-c2ff-4a81-badb-b33610a9c248-GDLrE-exploit-save | 0 | 0| 
 | 20230913T12:53:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef2daebd-78b7-4fe2-80d3-9c7abcc07f21-cgFA3-exploit-specify | 0 | 0| 
-| 20230913T12:53:18Z | Null | https://github.com/qwell/bsky-exploits | 12 | 1| 
 
 
 # backdoor on Github 推荐
