@@ -44,9 +44,9 @@
 | 20230914T09:18:10Z | Null | https://github.com/Sagar5192/Google-Firebase-Exploiter | 0 | 0| 
 | 20230914T08:54:14Z | Null | https://github.com/si3r4/Exploit_Helper | 0 | 0| 
 | 20230914T07:08:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 726 | 179| 
+| 20230914T06:56:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5328 | 1042| 
 | 20230914T03:26:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5326 | 686| 
 | 20230914T01:49:53Z | (Homebrew - (Severe Exploits + Bricks + Bans)) + HTML/JS/CSS = Magic | https://github.com/NodeMixaholic/SwitchJoy | 0 | 0| 
-| 20230914T01:39:19Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9b898378-a50f-4dd0-9d6c-06a1a5761b0b-dcqsy-exploit-present | 0 | 0| 
 
 
 # backdoor on Github 推荐
