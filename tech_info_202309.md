@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230914T12:10:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230914T11:19:27Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230914T09:22:05Z | CVE-2022-3564 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564 | | 
 | 20230914T02:12:41Z | CVE-2023-4863 | CVE-2023-4863 POC | https://github.com/suhipek/CVE-2023-4863 | | 
 | 20230913T18:33:15Z | CVE-2022-32862 | Null | https://github.com/rohitc33/CVE-2022-32862 | | 
 | 20230913T12:17:19Z | CVE-2023-42362 | Null | https://github.com/Mr-n0b3dy/CVE-2023-42362 | | 
-| 20230913T12:01:39Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230913T08:02:17Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230913T07:46:21Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
 | 20230913T06:59:41Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T12:09:45Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
 | 20230914T11:47:40Z | Null | https://github.com/tadash10/JWT-Token-Exploiter | 0 | 0| 
 | 20230914T10:30:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5524 | 759| 
 | 20230914T10:06:16Z | Boatnet exploits you can use to gain bots for your botnet! | https://github.com/kingkrex76/Boatnet-Exploits | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230914T03:26:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5326 | 686| 
 | 20230914T01:49:53Z | (Homebrew - (Severe Exploits + Bricks + Bans)) + HTML/JS/CSS = Magic | https://github.com/NodeMixaholic/SwitchJoy | 0 | 0| 
 | 20230914T01:39:19Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9b898378-a50f-4dd0-9d6c-06a1a5761b0b-dcqsy-exploit-present | 0 | 0| 
-| 20230914T00:40:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-grjn-W13h5-control-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
