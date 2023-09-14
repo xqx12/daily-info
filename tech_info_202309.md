@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T12:12:35Z | Null | https://github.com/tadash10/JWT-Token-Exploiter | 1 | 0| 
 | 20230914T12:09:45Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
-| 20230914T11:47:40Z | Null | https://github.com/tadash10/JWT-Token-Exploiter | 0 | 0| 
 | 20230914T10:30:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5524 | 759| 
 | 20230914T10:06:16Z | Boatnet exploits you can use to gain bots for your botnet! | https://github.com/kingkrex76/Boatnet-Exploits | 0 | 0| 
 | 20230914T09:18:10Z | Null | https://github.com/Sagar5192/Google-Firebase-Exploiter | 0 | 0| 
