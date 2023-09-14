@@ -63,6 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T00:35:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvz | 0 | 0| 
+| 20230914T00:34:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvz | 0 | 0| 
+| 20230914T00:33:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvz | 1 | 0| 
 | 20230914T00:33:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvz | 1 | 0| 
 | 20230914T00:12:37Z | Precompiled exploits | https://github.com/PeanTaster/precompiled | 0 | 0| 
 | 20230913T23:33:40Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
@@ -70,9 +73,6 @@
 | 20230913T21:05:05Z | PockieNinja-Farm-Macro - This is an automation for the new PockieNinja server open on pockieninja.online. It basically autofarms the instaces by exploiting a bug where if you reload the page, you instantly finish that instance part, and atfter all the steps, it autocollects the rewards and restarts the macro. It can run indefinitely. | https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro | 0 | 0| 
 | 20230913T20:29:04Z | Fast and simple discord server nuker. Only 5 commands atm. Add more if u want to lol. | https://github.com/dtbSSL/Karma-Nuker | 1 | 0| 
 | 20230913T19:59:33Z | A spyware made in python exploiting iOT and hardware. Features a keylogger and webcam streamer | https://github.com/anonymous300502/alleyes | 2 | 0| 
-| 20230913T17:41:25Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 230 | 44| 
-| 20230913T12:55:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8a44eb5e-c2ff-4a81-badb-b33610a9c248-GDLrE-exploit-save | 0 | 0| 
-| 20230913T12:53:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef2daebd-78b7-4fe2-80d3-9c7abcc07f21-cgFA3-exploit-specify | 0 | 0| 
 
 
 # backdoor on Github 推荐
