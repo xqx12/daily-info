@@ -26,28 +26,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230913T23:40:17Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
+| 20230913T18:33:15Z | CVE-2022-32862 | Null | https://github.com/rohitc33/CVE-2022-32862 | | 
 | 20230913T12:17:19Z | CVE-2023-42362 | Null | https://github.com/Mr-n0b3dy/CVE-2023-42362 | | 
 | 20230913T12:01:39Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
-| 20230913T11:21:24Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230913T08:02:17Z | CVE-2020-12077 | MapPress Maps Pro < 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | https://github.com/RandomRobbieBF/CVE-2020-12077 | | 
 | 20230913T07:46:21Z | CVE-2023-26818 | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | https://github.com/Zeyad-Azima/CVE-2023-26818 | | 
 | 20230913T06:59:41Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
 | 20230913T06:06:12Z | CVE-2023-08 | Null | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
 | 20230913T01:27:32Z | CVE-2023-38831 | CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders | https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool | | 
 | 20230912T23:38:17Z | CVE-2023-38891 | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | https://github.com/jselliott/CVE-2023-38891 | | 
-| 20230912T17:48:39Z | CVE-2022-1679 | Null | https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T23:51:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2315 | 636| 
 | 20230913T03:21:05Z | Null | https://github.com/clif-os/oai-kleep | 0 | 0| 
 | 20230912T13:51:32Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 109 | 6| 
 | 20230912T08:33:51Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 22 | 10| 
 | 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
 | 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
 | 20230911T07:03:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 356 | 7| 
-| 20230911T04:06:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
 | 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
 | 20230908T14:50:44Z | Null | https://github.com/bjoziasse/zwaan-kleef-aan-calendar | 0 | 0| 
 | 20230905T19:47:51Z | Null | https://github.com/enatario/klee-coaching | 0 | 0| 
@@ -56,28 +56,31 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T23:38:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 351 | 81| 
 | 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 14| 
-| 20230906T19:11:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 350 | 81| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T23:33:40Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
+| 20230913T21:54:16Z | A list of boatnet bots & servers you can load and use for your boatnet. | https://github.com/KingKrex75/Boatnet-Bots | 0 | 0| 
+| 20230913T21:05:05Z | PockieNinja-Farm-Macro - This is an automation for the new PockieNinja server open on pockieninja.online. It basically autofarms the instaces by exploiting a bug where if you reload the page, you instantly finish that instance part, and atfter all the steps, it autocollects the rewards and restarts the macro. It can run indefinitely. | https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro | 0 | 0| 
+| 20230913T20:29:04Z | Fast and simple discord server nuker. Only 5 commands atm. Add more if u want to lol. | https://github.com/dtbSSL/Karma-Nuker | 1 | 0| 
+| 20230913T19:59:33Z | A spyware made in python exploiting iOT and hardware. Features a keylogger and webcam streamer | https://github.com/anonymous300502/alleyes | 2 | 0| 
+| 20230913T17:41:25Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 230 | 44| 
 | 20230913T12:55:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8a44eb5e-c2ff-4a81-badb-b33610a9c248-GDLrE-exploit-save | 0 | 0| 
 | 20230913T12:53:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ef2daebd-78b7-4fe2-80d3-9c7abcc07f21-cgFA3-exploit-specify | 0 | 0| 
 | 20230913T12:53:18Z | Null | https://github.com/qwell/bsky-exploits | 12 | 1| 
 | 20230913T12:46:43Z | Un archivo JS que puedas cargar Google especialmente para el navegador Y8, pero cualquier web-app basada en electron con DevTools funciona | https://github.com/Danucosukosuko/Y8-Google-Exploit | 0 | 0| 
-| 20230913T12:40:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4c93ef31-4120-4348-afe4-f2b2ce49fc4b-miFJq-exploit-say | 0 | 0| 
-| 20230913T12:37:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-exploit-measure | 0 | 0| 
-| 20230913T12:01:39Z | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | 0 | 0| 
-| 20230913T11:42:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-4b33756f-1a8f-4730-a7ee-573760037984-QHyQD-exploit-laugh | 0 | 0| 
-| 20230913T11:14:51Z | BinaryExploit | https://github.com/ajayjustin9942/BinaryExploit | 0 | 0| 
-| 20230913T11:03:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-789d599b-db66-4a00-a66a-a0f1211a9640-znPkP-cover-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230913T23:18:25Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
+| 20230913T16:46:48Z | Backdoor реализованный через телеграм бота | https://github.com/Rub1dium/Python-BackDoor-Telebot | 0 | 0| 
+| 20230913T16:29:18Z | Useful script for freelance workers to avoid customer`s fraud attempts | https://github.com/Zimin0/Backdoor-For-Freelance | 0 | 0| 
 | 20230913T12:06:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 838 | 146| 
 | 20230913T05:54:54Z | Null | https://github.com/sud295/latent_backdoor | 0 | 0| 
 | 20230913T04:13:51Z | Null | https://github.com/jeongjin-shin/programmable-backdoor-attacks | 0 | 0| 
@@ -85,9 +88,6 @@
 | 20230913T02:49:43Z | A Backdoor System I%m working/building on | https://github.com/Turnrp/Ultimate-Backdoor | 0 | 0| 
 | 20230912T21:37:50Z | Backdoor Attacks Upon Object Detection Neural Networks | https://github.com/tprhat/backdoor_attacks_object_detection | 1 | 0| 
 | 20230912T17:47:38Z | Turning a Curse into a Blessing: Enabling In-Distribution-Data-Free Backdoor Removal via Stabilized Model Inversion | https://github.com/SCccc21/FRED | 1 | 0| 
-| 20230912T15:55:38Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 85 | 21| 
-| 20230912T14:55:41Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 1 | 0| 
-| 20230912T14:18:47Z | A malware program that is designed to create a backdoor on a Windows machine. | https://github.com/tomchuoi/Malware | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
