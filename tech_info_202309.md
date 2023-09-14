@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T01:49:53Z | (Homebrew - (Severe Exploits + Bricks + Bans)) + HTML/JS/CSS = Magic | https://github.com/NodeMixaholic/SwitchJoy | 0 | 0| 
 | 20230914T01:39:19Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-9b898378-a50f-4dd0-9d6c-06a1a5761b0b-dcqsy-exploit-present | 0 | 0| 
 | 20230914T00:40:02Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-grjn-W13h5-control-exploit | 0 | 0| 
 | 20230914T00:35:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvz | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230914T00:12:37Z | Precompiled exploits | https://github.com/PeanTaster/precompiled | 0 | 0| 
 | 20230913T23:33:40Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
 | 20230913T21:54:16Z | A list of boatnet bots & servers you can load and use for your boatnet. | https://github.com/KingKrex75/Boatnet-Bots | 0 | 0| 
-| 20230913T21:05:05Z | PockieNinja-Farm-Macro - This is an automation for the new PockieNinja server open on pockieninja.online. It basically autofarms the instaces by exploiting a bug where if you reload the page, you instantly finish that instance part, and atfter all the steps, it autocollects the rewards and restarts the macro. It can run indefinitely. | https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro | 0 | 0| 
 
 
 # backdoor on Github 推荐
