@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T12:50:14Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 80 | 5| 
 | 20230915T12:30:57Z | Exploitation of echo_driver.sys | https://github.com/YOLOP0wn/EchoDrv | 41 | 12| 
 | 20230915T12:17:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-learn-exploit | 0 | 0| 
 | 20230915T12:06:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5528 | 759| 
@@ -73,7 +74,6 @@
 | 20230915T10:41:09Z | EneIo driver exploit | https://github.com/Nero22k/EneIo | 1 | 0| 
 | 20230915T07:05:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 159 | 13| 
 | 20230915T03:35:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 730 | 179| 
-| 20230915T01:44:20Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0020-app-CMZsX-continue-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
