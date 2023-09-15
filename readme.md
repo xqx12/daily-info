@@ -43,13 +43,13 @@
 | 20230914T23:48:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3636 | 529| 
 | 20230914T22:45:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5333 | 1042| 
 | 20230914T21:38:08Z | Exploiting the use of pheromone trails and defending against malicious agents in a foraging robot swarm. | https://github.com/MARSLab-UTRGV/Foraging_Swarm_Defense | 0 | 0| 
-| 20230914T19:55:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10582 | 1629| 
 | 20230914T18:06:49Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
 | 20230914T16:38:37Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 9 | 2| 
 | 20230914T12:12:35Z | Null | https://github.com/tadash10/JWT-Token-Exploiter | 1 | 0| 
 | 20230914T10:30:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5524 | 759| 
 | 20230914T10:06:16Z | Boatnet exploits you can use to gain bots for your botnet! | https://github.com/kingkrex76/Boatnet-Exploits | 0 | 0| 
 | 20230914T09:18:10Z | Null | https://github.com/Sagar5192/Google-Firebase-Exploiter | 0 | 0| 
+| 20230914T08:54:14Z | Null | https://github.com/si3r4/Exploit_Helper | 0 | 0| 
 
 
 # backdoor on Github 推荐
