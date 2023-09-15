@@ -108,6 +108,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T18:11:05Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 0 | 0| 
 | 20230914T09:46:47Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 7 | 0| 
 | 20230913T19:11:10Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 17 | 2| 
 | 20230913T13:31:22Z | Config files for my GitHub profile. | https://github.com/w1ndsssor/w1ndsssor | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
 | 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
 | 20230906T03:20:30Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 7 | 0| 
-| 20230904T00:11:29Z | Artifact for the paper Architecting Trigger-Action Platforms for Security, Performance and Functionality (NDSS %24) | https://github.com/multifacet/tap_artifact | 0 | 0| 
 
 
 # fuzz on Github 推荐
