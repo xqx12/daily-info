@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230915T00:27:07Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 20 | 2| 
+| 20230915T00:53:04Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 21 | 2| 
 | 20230914T23:54:56Z | Null | https://github.com/cynthiachinenye/fuzzy | 0 | 0| 
 | 20230914T22:52:02Z | This public repository was created in order to host the computer code that is presented in the scientific paper titled %Generation of Polynomial Automorphisms Appropriate for the Generalization of Fuzzy Connectives% | https://github.com/Eleftherios-Makariadis/Generation_of_Polynomial_Automorphisms_Appropriate_for_the_Generalization_of_Fuzzy_Connectives | 0 | 0| 
 | 20230914T21:21:11Z | Null | https://github.com/Chirumamilla1522/fuzzy-winner | 0 | 0| 
