@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230914T21:29:27Z | CVE-2022-40684 | Null | https://github.com/Anthony1500/CVE-2022-40684 | | 
-| 20230914T21:08:04Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
 | 20230914T12:10:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230914T09:22:05Z | CVE-2022-3564 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564 | | 
 | 20230914T02:12:41Z | CVE-2023-4863 | CVE-2023-4863 POC | https://github.com/suhipek/CVE-2023-4863 | | 
