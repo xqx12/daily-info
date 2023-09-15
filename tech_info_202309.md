@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230914T23:54:56Z | Null | https://github.com/cynthiachinenye/fuzzy | 0 | 0| 
+| 20230914T22:52:02Z | This public repository was created in order to host the computer code that is presented in the scientific paper titled %Generation of Polynomial Automorphisms Appropriate for the Generalization of Fuzzy Connectives% | https://github.com/Eleftherios-Makariadis/Generation_of_Polynomial_Automorphisms_Appropriate_for_the_Generalization_of_Fuzzy_Connectives | 0 | 0| 
+| 20230914T21:21:11Z | Null | https://github.com/Chirumamilla1522/fuzzy-winner | 0 | 0| 
+| 20230914T20:13:21Z | Null | https://github.com/t-taormina/binutils_fuzzing | 0 | 0| 
+| 20230914T19:54:43Z | Null | https://github.com/purseclab/FuzzSGX | 0 | 0| 
+| 20230914T19:48:53Z | Null | https://github.com/monkirikv/fuzzy-giggle | 0 | 0| 
+| 20230914T15:03:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 195| 
 | 20230914T12:09:18Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 20 | 3| 
 | 20230914T11:21:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8998 | 1985| 
 | 20230914T11:12:47Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 843 | 115| 
-| 20230914T10:13:51Z | Simple Fuzzer for C/C++ applications | https://github.com/mendax0110/cppFuzzer | 0 | 0| 
-| 20230914T10:12:01Z | 一本用代码写出来的Fuzzing书籍：The Fuzzing Book | https://github.com/kksaert/fuzzingbook | 0 | 0| 
-| 20230914T09:38:36Z | Null | https://github.com/guan0421/fuzzy-octo-spoon | 0 | 0| 
-| 20230914T09:36:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1548 | 219| 
-| 20230914T09:31:00Z | Implementation of Dr. Waqas Research work on FCBE-miFV | https://github.com/SyedUmaidAhmed/Robust-bag-classification-approach-for-multi-instance-learning-via-subspace-fuzzy-clustering | 0 | 0| 
-| 20230914T09:00:24Z | Null | https://github.com/federicominniti/FuzzingProject | 0 | 0| 
-| 20230914T00:49:44Z | meu repositório | https://github.com/Hatredarawn/fuzzy-invention | 0 | 0| 
 
 
 
