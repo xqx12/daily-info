@@ -41,12 +41,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T12:06:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5528 | 759| 
 | 20230915T11:23:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5332 | 1042| 
 | 20230915T11:20:32Z | Find, analyse, exploit, and fix server vulnerabilities | https://github.com/QuanchiChen/comp90074-assignment-1 | 0 | 0| 
 | 20230915T11:12:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5328 | 687| 
 | 20230915T10:41:09Z | EneIo driver exploit | https://github.com/Nero22k/EneIo | 1 | 0| 
 | 20230915T10:26:48Z | Exploitation of echo_driver.sys | https://github.com/YOLOP0wn/EchoDrv | 39 | 11| 
-| 20230915T08:17:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5527 | 759| 
 | 20230915T07:05:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 159 | 13| 
 | 20230915T03:35:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 730 | 179| 
 | 20230915T01:44:20Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0020-app-CMZsX-continue-exploit | 0 | 0| 
