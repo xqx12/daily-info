@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T12:51:41Z | A Dolev-Yao-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 112 | 8| 
 | 20230915T12:36:44Z | Null | https://github.com/Blarse/Fuzzing | 0 | 0| 
 | 20230915T10:40:11Z | A simple repository for interview tasks (OF DOOM) | https://github.com/a-bulancov/fuzzy-palm-tree-OF-DOOM | 0 | 0| 
 | 20230915T10:33:54Z | This public repository was created in order to host the computer code that is presented in the scientific paper titled %Generation of Polynomial Automorphisms Appropriate for the Generalization of Fuzzy Connectives% | https://github.com/Eleftherios-Makariadis/Generation_of_Polynomial_Automorphisms_Appropriate_for_the_Generalization_of_Fuzzy_Connectives | 0 | 0| 
