@@ -73,7 +73,7 @@
 | 20230915T11:12:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5328 | 687| 
 | 20230915T10:41:09Z | EneIo driver exploit | https://github.com/Nero22k/EneIo | 1 | 0| 
 | 20230915T07:05:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 159 | 13| 
-| 20230915T03:35:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 730 | 179| 
+| 20230915T05:56:44Z | Sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | 386 | 77| 
 
 
 # backdoor on Github 推荐
