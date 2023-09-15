@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T01:44:20Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0100-0020-app-CMZsX-continue-exploit | 0 | 0| 
 | 20230915T01:10:27Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0025-0001-app-irRRY-improve-exploit | 0 | 0| 
 | 20230915T01:07:42Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10583 | 1629| 
 | 20230915T01:03:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 728 | 179| 
@@ -72,7 +73,6 @@
 | 20230915T00:18:49Z | Null | https://github.com/codingcore12/-SILENT-DOC-EXPLOIT-CLEANk | 1 | 0| 
 | 20230914T23:48:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3636 | 529| 
 | 20230914T22:45:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5333 | 1042| 
-| 20230914T21:38:08Z | Exploiting the use of pheromone trails and defending against malicious agents in a foraging robot swarm. | https://github.com/MARSLab-UTRGV/Foraging_Swarm_Defense | 0 | 0| 
 
 
 # backdoor on Github 推荐
