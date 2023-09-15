@@ -68,11 +68,11 @@
 | 20230915T00:15:56Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANk | 1 | 0| 
 | 20230915T00:15:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANk | 1 | 0| 
 | 20230914T23:48:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3636 | 529| 
+| 20230914T22:45:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5333 | 1042| 
 | 20230914T21:38:08Z | Exploiting the use of pheromone trails and defending against malicious agents in a foraging robot swarm. | https://github.com/MARSLab-UTRGV/Foraging_Swarm_Defense | 0 | 0| 
 | 20230914T19:55:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10582 | 1629| 
 | 20230914T18:06:49Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
-| 20230914T12:58:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 727 | 179| 
-| 20230914T12:58:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5329 | 1042| 
+| 20230914T16:38:37Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 9 | 2| 
 
 
 # backdoor on Github 推荐
@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T00:27:07Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 20 | 2| 
 | 20230914T23:54:56Z | Null | https://github.com/cynthiachinenye/fuzzy | 0 | 0| 
 | 20230914T22:52:02Z | This public repository was created in order to host the computer code that is presented in the scientific paper titled %Generation of Polynomial Automorphisms Appropriate for the Generalization of Fuzzy Connectives% | https://github.com/Eleftherios-Makariadis/Generation_of_Polynomial_Automorphisms_Appropriate_for_the_Generalization_of_Fuzzy_Connectives | 0 | 0| 
 | 20230914T21:21:11Z | Null | https://github.com/Chirumamilla1522/fuzzy-winner | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20230914T15:03:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2766 | 195| 
 | 20230914T12:09:18Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 20 | 3| 
 | 20230914T11:21:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8998 | 1985| 
-| 20230914T11:12:47Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 843 | 115| 
 
 
 
