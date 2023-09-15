@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T05:32:09Z | Null | https://github.com/MetadataGitTesting/S2E7bkHy | 0 | 0| 
 | 20230914T08:28:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 81| 
 | 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 14| 
 
@@ -108,16 +109,16 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230914T18:11:05Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 0 | 0| 
+| 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
+| 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
+| 20230915T05:43:48Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 17 | 2| 
+| 20230915T03:18:44Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 1 | 0| 
 | 20230914T09:46:47Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 7 | 0| 
-| 20230913T19:11:10Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 17 | 2| 
 | 20230913T13:31:22Z | Config files for my GitHub profile. | https://github.com/w1ndsssor/w1ndsssor | 0 | 0| 
 | 20230913T11:57:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 26 | 4| 
-| 20230909T11:50:00Z | 论文爬虫: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
 | 20230908T04:24:52Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
 | 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
-| 20230906T03:20:30Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 7 | 0| 
 
 
 # fuzz on Github 推荐
