@@ -83,12 +83,12 @@
 | 20230915T09:21:01Z |  %PermanentRevershell: A potent Windows 10 backdoor providing persistent access and full system control. Explore its capabilities today!% | https://github.com/alariordas/PersistentReverseShell-Win10Backdoor | 2 | 0| 
 | 20230915T08:29:43Z | A Repo for Backdoor Learning with MindSpore | https://github.com/shawkui/MindTrojan | 0 | 0| 
 | 20230915T06:14:31Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 25 | 11| 
+| 20230914T22:20:07Z | Null | https://github.com/SCLBD/BackdoorBench | 202 | 32| 
 | 20230914T16:27:43Z |  %PermanentRevershell: A potent Windows 10 backdoor providing persistent access and full system control. Explore its capabilities today!% | https://github.com/alariordas/PermanentReverseShell-Win10Backdoor | 2 | 0| 
 | 20230914T15:44:36Z | Null | https://github.com/lelinh2203/php_webshell_backdoor | 0 | 0| 
 | 20230914T15:17:33Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 643 | 239| 
 | 20230914T06:43:27Z | Backdoor реализованный через телеграм бота | https://github.com/Rub1dium/Python-BackDoor-Telebot | 1 | 0| 
 | 20230914T05:11:37Z | Example of Golang code to create a reverse shell or backdoor  | https://github.com/Sasser1337/Reverse-shell | 0 | 0| 
-| 20230914T02:19:38Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
