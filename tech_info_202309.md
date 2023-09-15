@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230915T12:49:58Z | CVE-2022-33891 | Null | https://github.com/IMHarman/CVE-2022-33891 | | 
 | 20230915T10:36:30Z | CVE-2022-3564 | Null | https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564 | | 
 | 20230915T09:52:42Z | CVE-2023-4863 | CVE-2023-4863 POC | https://github.com/suhipek/CVE-2023-4863 | | 
 | 20230915T07:56:57Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
@@ -35,7 +36,6 @@
 | 20230914T12:10:37Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230914T09:22:05Z | CVE-2022-3564 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564 | | 
 | 20230913T18:33:15Z | CVE-2022-32862 | Null | https://github.com/rohitc33/CVE-2022-32862 | | 
-| 20230913T12:17:19Z | CVE-2023-42362 | Null | https://github.com/Mr-n0b3dy/CVE-2023-42362 | | 
 
 
 # klee on Github 推荐

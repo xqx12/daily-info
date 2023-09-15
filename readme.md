@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230915T12:49:58Z | CVE-2022-33891 | Null | https://github.com/IMHarman/CVE-2022-33891 | | 
 | 20230915T10:36:30Z | CVE-2022-3564 | Null | https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564 | | 
 | 20230915T09:52:42Z | CVE-2023-4863 | CVE-2023-4863 POC | https://github.com/suhipek/CVE-2023-4863 | | 
 | 20230915T07:56:57Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
