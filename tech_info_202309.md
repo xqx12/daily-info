@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T01:03:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 728 | 179| 
 | 20230915T01:01:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANk | 2 | 0| 
 | 20230915T01:01:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANk | 2 | 0| 
 | 20230915T00:19:30Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWk | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20230914T21:38:08Z | Exploiting the use of pheromone trails and defending against malicious agents in a foraging robot swarm. | https://github.com/MARSLab-UTRGV/Foraging_Swarm_Defense | 0 | 0| 
 | 20230914T19:55:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10582 | 1629| 
 | 20230914T18:06:49Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
-| 20230914T16:38:37Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 9 | 2| 
 
 
 # backdoor on Github 推荐

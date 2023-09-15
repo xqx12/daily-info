@@ -46,10 +46,10 @@
 | 20230914T19:55:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10582 | 1629| 
 | 20230914T18:06:49Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 1 | 0| 
 | 20230914T16:38:37Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 9 | 2| 
-| 20230914T12:58:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 727 | 179| 
 | 20230914T12:12:35Z | Null | https://github.com/tadash10/JWT-Token-Exploiter | 1 | 0| 
 | 20230914T10:30:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5524 | 759| 
 | 20230914T10:06:16Z | Boatnet exploits you can use to gain bots for your botnet! | https://github.com/kingkrex76/Boatnet-Exploits | 0 | 0| 
+| 20230914T09:18:10Z | Null | https://github.com/Sagar5192/Google-Firebase-Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
