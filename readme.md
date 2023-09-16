@@ -36,8 +36,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T12:24:49Z | The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI | https://github.com/ARPSyndicate/puncia | 63 | 0| 
 | 20230916T12:23:07Z | OpenSourced exploit for a roblox game bedwars. | https://github.com/zackmackburnger/MemzWare | 0 | 0| 
-| 20230916T12:17:59Z | The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI | https://github.com/ARPSyndicate/puncia | 62 | 0| 
 | 20230916T12:10:16Z | Null | https://github.com/Eneerr/Kick-BanDiscordExploit | 1 | 0| 
 | 20230916T12:04:06Z | Binary Exploitation Resources | https://github.com/bugmeister3/BinEx | 0 | 0| 
 | 20230916T09:16:08Z | ALL EXPLOIT TOOL | https://github.com/AnshulChoudhary001/Exploit_Tools | 0 | 0| 
