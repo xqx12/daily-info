@@ -91,7 +91,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230915T23:49:02Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 104 | 6| 
 | 20230915T22:58:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9001 | 1987| 
-| 20230915T21:49:42Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 0 | 0| 
 | 20230915T21:33:00Z | Null | https://github.com/Team-Pink-Fairy-Armadillo-4/fuzzy-wuzzy | 0 | 0| 
 | 20230915T21:23:43Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 43 | 2| 
 | 20230915T20:57:02Z | script that uses a list of common API endpoints and payloads to fuzz test an API for vulnerabilities. This script should automate sending various payloads to API endpoints and identify potential issues like SQL injection, cross-site scripting (XSS), and other security vulnerabilities. | https://github.com/tadash10/API-Fuzzer | 1 | 0| 
@@ -99,6 +98,7 @@
 | 20230915T20:14:16Z | Null | https://github.com/Sharkkcode/tls_fuzzer | 0 | 0| 
 | 20230915T15:39:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1549 | 220| 
 | 20230915T12:51:41Z | A Dolev-Yao-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 112 | 8| 
+| 20230915T12:36:44Z | Null | https://github.com/Blarse/Fuzzing | 0 | 0| 
 
 
 
