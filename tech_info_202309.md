@@ -133,7 +133,7 @@
 | 20230915T20:46:52Z | Null | https://github.com/t-taormina/binutils_fuzzing | 0 | 0| 
 | 20230915T20:14:16Z | Null | https://github.com/Sharkkcode/tls_fuzzer | 0 | 0| 
 | 20230915T15:39:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1549 | 220| 
-| 20230915T12:51:41Z | A Dolev-Yao-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 112 | 8| 
+| 20230915T13:13:09Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 94 | 12| 
 
 
 
