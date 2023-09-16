@@ -94,6 +94,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T21:51:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3535 | 487| 
+| 20230915T16:36:35Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 61 | 26| 
 | 20230914T16:14:37Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 261 | 34| 
 | 20230914T03:32:52Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 457 | 22| 
 | 20230913T23:51:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2315 | 636| 
@@ -102,13 +104,12 @@
 | 20230909T10:59:53Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 1 | 0| 
 | 20230908T18:04:59Z | symbolic execution but fast | https://github.com/pepsipu/hgse | 0 | 0| 
 | 20230907T13:17:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 57 | 9| 
-| 20230907T05:54:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 683 | 120| 
-| 20230906T11:10:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230915T18:30:53Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 1 | 0| 
 | 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
 | 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
 | 20230915T05:43:48Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 17 | 2| 
@@ -118,7 +119,6 @@
 | 20230913T11:57:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 26 | 4| 
 | 20230908T04:24:52Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
-| 20230906T07:02:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 70 | 4| 
 
 
 # fuzz on Github 推荐
