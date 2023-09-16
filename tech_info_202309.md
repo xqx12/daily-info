@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T12:04:06Z | Binary Exploitation Resources | https://github.com/bugmeister3/BinEx | 0 | 0| 
 | 20230916T11:54:23Z | The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI | https://github.com/ARPSyndicate/puncia | 60 | 0| 
 | 20230916T11:47:09Z | Null | https://github.com/Eneerr/Kick-BanDiscordExploit | 0 | 0| 
 | 20230916T09:16:08Z | ALL EXPLOIT TOOL | https://github.com/AnshulChoudhary001/Exploit_Tools | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230916T00:30:10Z | Universal ROBLOX Aimbot Module | https://github.com/Exunys/Aimbot-V3 | 0 | 2| 
 | 20230916T00:28:45Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 | 20230916T00:19:33Z | A self explanitory script that removes roll and jump functions while ped/player is armed. Not exploitable with dp/rp emotes so far ive tested. ****DO NOT REUPLOAD OR RESELL ANYWHERE ELSE**** | https://github.com/NotRio999/AntiRollJump | 0 | 0| 
-| 20230915T21:59:22Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | 0 | 0| 
 
 
 # backdoor on Github 推荐
