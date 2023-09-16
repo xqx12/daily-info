@@ -71,7 +71,7 @@
 | 20230916T09:16:08Z | ALL EXPLOIT TOOL | https://github.com/AnshulChoudhary001/Exploit_Tools | 0 | 0| 
 | 20230916T08:39:19Z | This is a version to help you get old roblox and exploit again! | https://github.com/Alan1345332/Old-version-of-roblox-UWP-bypass | 0 | 0| 
 | 20230916T07:42:30Z | ROBLOX Hack that bypasses Byfron | https://github.com/NEWROBLOXHACK2023/ByfronExploit | 1 | 0| 
-| 20230916T01:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5336 | 1043| 
+| 20230916T06:27:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5338 | 1043| 
 | 20230916T00:30:10Z | Universal ROBLOX Aimbot Module | https://github.com/Exunys/Aimbot-V3 | 0 | 2| 
 | 20230916T00:28:45Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 
