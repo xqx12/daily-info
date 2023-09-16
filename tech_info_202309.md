@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230916 | 全球定位系统GPS星座概述 | https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ| 
+| 20230916 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A| 
 | 20230915 | 代码审计 , shutil.copy函数条件竞争 | https://mp.weixin.qq.com/s/uE3n_4zEcfBTv8k8w_giEw| 
 | 20230915 | 网络侦察技术分类综述 | https://mp.weixin.qq.com/s/2Mns_yGKDllkWEl3TS5lhg| 
 | 20230915 | 使用LLM开展自动化程序修复 | https://mp.weixin.qq.com/s/UIkbaHwjbsvk7HY23A_zEQ| 
@@ -19,13 +21,12 @@
 | 20230911 | SecWiki周刊（第497期) | https://www.sec-wiki.com/weekly/497| 
 | 20230911 | 浅谈Apache Shiro CVE-2023-22602 | https://www.sec-in.com/article/2113| 
 | 20230911 | 同源策略的绕过 | https://mp.weixin.qq.com/s/mzPM-G0sdQzg8gSfneKZMA| 
-| 20230911 | C2 基础设施威胁情报对抗策略 | https://paper.seebug.org/3022/| 
-| 20230910 | 网络安全数字孪生研究 | https://mp.weixin.qq.com/s/qeekl8WTDxnKMQji2ao5Aw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230916T08:59:44Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
 | 20230915T16:01:02Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230915T13:51:05Z | CVE-2023-4128 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128 | | 
 | 20230915T13:00:37Z | CVE-2023-38831 | Null | https://github.com/IMHarman/CVE-2023-38831 | | 
@@ -35,13 +36,13 @@
 | 20230915T07:56:57Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230915T06:47:20Z | CVE-2023-26607 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607 | | 
 | 20230915T01:56:16Z | CVE-2023-35671 | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | https://github.com/MrTiz/CVE-2023-35671 | | 
-| 20230914T21:29:27Z | CVE-2022-40684 | Null | https://github.com/Anthony1500/CVE-2022-40684 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T01:24:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
+| 20230916T10:47:28Z | Null | https://github.com/FOOTPANDA/KLEE_bot | 0 | 0| 
+| 20230916T05:45:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2315 | 636| 
 | 20230915T06:30:03Z | ✨special ✨ repository for Klee | https://github.com/SimsimhanChobo/SimsimhanChobo | 1 | 0| 
 | 20230914T20:45:28Z | Config files for my GitHub profile. | https://github.com/klee0220/klee0220 | 0 | 0| 
 | 20230913T03:21:05Z | Null | https://github.com/clif-os/oai-kleep | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
 | 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
 | 20230911T07:03:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 356 | 7| 
-| 20230911T01:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13757 | 419| 
 
 
 # s2e on Github 推荐
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T11:54:23Z | The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI | https://github.com/ARPSyndicate/puncia | 60 | 0| 
+| 20230916T11:47:09Z | Null | https://github.com/Eneerr/Kick-BanDiscordExploit | 0 | 0| 
+| 20230916T09:16:08Z | ALL EXPLOIT TOOL | https://github.com/AnshulChoudhary001/Exploit_Tools | 0 | 0| 
+| 20230916T08:39:19Z | This is a version to help you get old roblox and exploit again! | https://github.com/Alan1345332/Old-version-of-roblox-UWP-bypass | 0 | 0| 
+| 20230916T07:42:30Z | ROBLOX Hack that bypasses Byfron | https://github.com/NEWROBLOXHACK2023/ByfronExploit | 1 | 0| 
 | 20230916T01:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5336 | 1043| 
 | 20230916T00:30:10Z | Universal ROBLOX Aimbot Module | https://github.com/Exunys/Aimbot-V3 | 0 | 2| 
 | 20230916T00:28:45Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 | 20230916T00:19:33Z | A self explanitory script that removes roll and jump functions while ped/player is armed. Not exploitable with dp/rp emotes so far ive tested. ****DO NOT REUPLOAD OR RESELL ANYWHERE ELSE**** | https://github.com/NotRio999/AntiRollJump | 0 | 0| 
 | 20230915T21:59:22Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | 0 | 0| 
-| 20230915T21:51:47Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 565 | 110| 
-| 20230915T21:47:50Z | PockieNinja-Farm-Macro - This is an automation for the new PockieNinja server open on pockieninja.online. It basically autofarms the instaces by exploiting a bug where if you reload the page, you instantly finish that instance part, and atfter all the steps, it autocollects the rewards and restarts the macro. It can run indefinitely. | https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro | 1 | 0| 
-| 20230915T21:44:00Z | Keyless, original Easy Exploits showcase from 2016, still works no lag no patch as of September 2023 | https://github.com/UnityYesUnity/Selenium | 0 | 0| 
-| 20230915T18:29:16Z | General Device Manager SEH Exploit | https://github.com/Remo1x/General-Device-Manager | 0 | 0| 
-| 20230915T17:35:01Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10586 | 1629| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T01:03:25Z | Null | https://github.com/SCLBD/BackdoorBench | 203 | 32| 
+| 20230916T10:16:52Z | Python Backdoor for client and server | https://github.com/Fattcat/PyDoors | 0 | 0| 
+| 20230916T09:45:05Z | Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 0 | 0| 
+| 20230916T08:25:10Z | Bai | https://github.com/BaiGor/Backdoor | 0 | 0| 
+| 20230916T03:55:49Z | Null | https://github.com/SCLBD/BackdoorBench | 204 | 32| 
+| 20230916T03:07:10Z | This repo provides the code for reproducing the experiments in Hidden Backdoor Attack against Neural Code Search Models (HIBADCODE) | https://github.com/yuc-chen/HIBADCODE | 0 | 0| 
 | 20230915T22:41:06Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 2 | 0| 
 | 20230915T17:43:01Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 3 | 2| 
-| 20230915T09:32:58Z | This repo provides the code for reproducing the experiments in Hidden Backdoor Attack against Neural Code Search Models (HIBADCODE) | https://github.com/yuc-chen/HIBADCODE | 0 | 0| 
 | 20230915T09:21:01Z |  %PermanentRevershell: A potent Windows 10 backdoor providing persistent access and full system control. Explore its capabilities today!% | https://github.com/alariordas/PersistentReverseShell-Win10Backdoor | 2 | 0| 
 | 20230915T08:29:43Z | A Repo for Backdoor Learning with MindSpore | https://github.com/shawkui/MindTrojan | 0 | 0| 
 | 20230915T06:14:31Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 25 | 11| 
-| 20230914T16:27:43Z |  %PermanentRevershell: A potent Windows 10 backdoor providing persistent access and full system control. Explore its capabilities today!% | https://github.com/alariordas/PermanentReverseShell-Win10Backdoor | 2 | 0| 
-| 20230914T15:44:36Z | Null | https://github.com/lelinh2203/php_webshell_backdoor | 0 | 0| 
-| 20230914T15:17:33Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 643 | 239| 
 
 
 # symbolic execution on Github 推荐
@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T11:50:43Z | Null | https://github.com/ocicl/fuzzy-dates | 0 | 0| 
+| 20230916T11:15:50Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 6 | 0| 
+| 20230916T10:38:37Z | Null | https://github.com/abeeraltaleb/FuzzyLogic | 0 | 0| 
+| 20230916T10:15:03Z | Null | https://github.com/FaetterP/fuzzy-logic-display | 0 | 0| 
+| 20230916T09:41:20Z | r` | https://github.com/bryanlarstom/fuzzy-octo-carnival | 0 | 0| 
+| 20230916T08:24:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9003 | 1989| 
+| 20230916T08:14:07Z | This repository contains the scripts I used for running benchmarks. | https://github.com/zhongfa-wang/SpecFuzz-Benchmark-Running-Scripts | 0 | 0| 
 | 20230916T00:52:46Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 44 | 2| 
-| 20230916T00:19:11Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 1 | 0| 
 | 20230915T23:49:02Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 104 | 6| 
-| 20230915T22:58:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9001 | 1987| 
 | 20230915T21:33:00Z | Null | https://github.com/Team-Pink-Fairy-Armadillo-4/fuzzy-wuzzy | 0 | 0| 
-| 20230915T20:57:02Z | script that uses a list of common API endpoints and payloads to fuzz test an API for vulnerabilities. This script should automate sending various payloads to API endpoints and identify potential issues like SQL injection, cross-site scripting (XSS), and other security vulnerabilities. | https://github.com/tadash10/API-Fuzzer | 1 | 0| 
-| 20230915T20:46:52Z | Null | https://github.com/t-taormina/binutils_fuzzing | 0 | 0| 
-| 20230915T20:14:16Z | Null | https://github.com/Sharkkcode/tls_fuzzer | 0 | 0| 
-| 20230915T15:41:05Z | Projeto feito para a matéria de inteligência computacional 2, na qual eu utilizo a biblioteca Fuse.js para criar um mecanismo de pesquisa, onde as palavras são ordenadas utilizando lógica fuzzy | https://github.com/Delarry021/pesquisador-fuzzy | 0 | 0| 
-| 20230915T15:39:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1549 | 220| 
 
 
 
