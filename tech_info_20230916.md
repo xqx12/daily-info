@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T12:40:55Z | Este repositório foi criado para registrar o desenvolvimento do curso Neuro_Fuzzy para análise de dados científicos: modelagem e aplicações promovido pela USP/FZEA. | https://github.com/ubiratantavares/usp_fzea_neuro_fuzzy_para_analise_de_dados_cientificos | 0 | 0| 
 | 20230916T11:50:43Z | Null | https://github.com/ocicl/fuzzy-dates | 0 | 0| 
 | 20230916T11:15:50Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 6 | 0| 
 | 20230916T11:12:26Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10058 | 1142| 
