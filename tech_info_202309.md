@@ -65,6 +65,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230915T21:59:22Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | 0 | 0| 
+| 20230915T21:51:47Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 565 | 110| 
 | 20230915T21:47:50Z | PockieNinja-Farm-Macro - This is an automation for the new PockieNinja server open on pockieninja.online. It basically autofarms the instaces by exploiting a bug where if you reload the page, you instantly finish that instance part, and atfter all the steps, it autocollects the rewards and restarts the macro. It can run indefinitely. | https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro | 1 | 0| 
 | 20230915T21:44:00Z | Keyless, original Easy Exploits showcase from 2016, still works no lag no patch as of September 2023 | https://github.com/UnityYesUnity/Selenium | 0 | 0| 
 | 20230915T18:29:16Z | General Device Manager SEH Exploit | https://github.com/Remo1x/General-Device-Manager | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20230915T12:50:14Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 80 | 5| 
 | 20230915T12:30:57Z | Exploitation of echo_driver.sys | https://github.com/YOLOP0wn/EchoDrv | 41 | 12| 
 | 20230915T12:17:18Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-Wqj4m-learn-exploit | 0 | 0| 
-| 20230915T12:06:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5528 | 759| 
 
 
 # backdoor on Github 推荐
