@@ -126,6 +126,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230916T11:50:43Z | Null | https://github.com/ocicl/fuzzy-dates | 0 | 0| 
 | 20230916T11:15:50Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 6 | 0| 
+| 20230916T11:12:26Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10058 | 1142| 
 | 20230916T10:38:37Z | Null | https://github.com/abeeraltaleb/FuzzyLogic | 0 | 0| 
 | 20230916T10:15:03Z | Null | https://github.com/FaetterP/fuzzy-logic-display | 0 | 0| 
 | 20230916T09:41:20Z | r` | https://github.com/bryanlarstom/fuzzy-octo-carnival | 0 | 0| 
@@ -133,7 +134,6 @@
 | 20230916T08:14:07Z | This repository contains the scripts I used for running benchmarks. | https://github.com/zhongfa-wang/SpecFuzz-Benchmark-Running-Scripts | 0 | 0| 
 | 20230916T00:52:46Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 44 | 2| 
 | 20230915T23:49:02Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 104 | 6| 
-| 20230915T21:33:00Z | Null | https://github.com/Team-Pink-Fairy-Armadillo-4/fuzzy-wuzzy | 0 | 0| 
 
 
 
