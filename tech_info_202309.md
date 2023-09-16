@@ -132,8 +132,8 @@
 | 20230915T20:57:02Z | script that uses a list of common API endpoints and payloads to fuzz test an API for vulnerabilities. This script should automate sending various payloads to API endpoints and identify potential issues like SQL injection, cross-site scripting (XSS), and other security vulnerabilities. | https://github.com/tadash10/API-Fuzzer | 1 | 0| 
 | 20230915T20:46:52Z | Null | https://github.com/t-taormina/binutils_fuzzing | 0 | 0| 
 | 20230915T20:14:16Z | Null | https://github.com/Sharkkcode/tls_fuzzer | 0 | 0| 
+| 20230915T15:41:05Z | Projeto feito para a matéria de inteligência computacional 2, na qual eu utilizo a biblioteca Fuse.js para criar um mecanismo de pesquisa, onde as palavras são ordenadas utilizando lógica fuzzy | https://github.com/Delarry021/pesquisador-fuzzy | 0 | 0| 
 | 20230915T15:39:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1549 | 220| 
-| 20230915T13:13:09Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 94 | 12| 
 
 
 
