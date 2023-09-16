@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T00:30:10Z | Universal ROBLOX Aimbot Module | https://github.com/Exunys/Aimbot-V3 | 0 | 2| 
+| 20230916T00:28:45Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 | 20230916T00:19:33Z | A self explanitory script that removes roll and jump functions while ped/player is armed. Not exploitable with dp/rp emotes so far ive tested. ****DO NOT REUPLOAD OR RESELL ANYWHERE ELSE**** | https://github.com/NotRio999/AntiRollJump | 0 | 0| 
 | 20230915T21:59:22Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | 0 | 0| 
 | 20230915T21:51:47Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 565 | 110| 
@@ -72,8 +74,6 @@
 | 20230915T18:29:16Z | General Device Manager SEH Exploit | https://github.com/Remo1x/General-Device-Manager | 0 | 0| 
 | 20230915T17:35:01Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10586 | 1629| 
 | 20230915T16:10:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5335 | 1043| 
-| 20230915T12:50:14Z | 内网集权系统渗透测试笔记 | https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet | 80 | 5| 
-| 20230915T12:30:57Z | Exploitation of echo_driver.sys | https://github.com/YOLOP0wn/EchoDrv | 41 | 12| 
 
 
 # backdoor on Github 推荐
