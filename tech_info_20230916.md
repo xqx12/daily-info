@@ -60,12 +60,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T01:24:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2314 | 636| 
+| 20230916T05:45:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2315 | 636| 
+| 20230916T02:00:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 43 | 7| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T07:43:11Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
+| 20230916T07:07:29Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 
 
 # fuzz on Github 推荐
