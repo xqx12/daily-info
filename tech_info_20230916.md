@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T12:19:50Z | OpenSourced exploit for a roblox game bedwars. | https://github.com/zackmackburnger/MemzWare | 0 | 0| 
 | 20230916T12:17:59Z | The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI | https://github.com/ARPSyndicate/puncia | 62 | 0| 
 | 20230916T12:10:16Z | Null | https://github.com/Eneerr/Kick-BanDiscordExploit | 1 | 0| 
 | 20230916T12:04:06Z | Binary Exploitation Resources | https://github.com/bugmeister3/BinEx | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20230916T01:27:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5336 | 1043| 
 | 20230916T00:30:10Z | Universal ROBLOX Aimbot Module | https://github.com/Exunys/Aimbot-V3 | 0 | 2| 
 | 20230916T00:28:45Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
-| 20230916T00:19:33Z | A self explanitory script that removes roll and jump functions while ped/player is armed. Not exploitable with dp/rp emotes so far ive tested. ****DO NOT REUPLOAD OR RESELL ANYWHERE ELSE**** | https://github.com/NotRio999/AntiRollJump | 0 | 0| 
 
 
 # backdoor on Github 推荐
