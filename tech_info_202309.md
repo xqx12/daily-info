@@ -124,11 +124,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T00:52:46Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 44 | 2| 
 | 20230916T00:19:11Z | A library to fuzzily parse date and time strings | https://github.com/Shinmera/fuzzy-dates | 1 | 0| 
 | 20230915T23:49:02Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 104 | 6| 
 | 20230915T22:58:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9001 | 1987| 
 | 20230915T21:33:00Z | Null | https://github.com/Team-Pink-Fairy-Armadillo-4/fuzzy-wuzzy | 0 | 0| 
-| 20230915T21:23:43Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 43 | 2| 
 | 20230915T20:57:02Z | script that uses a list of common API endpoints and payloads to fuzz test an API for vulnerabilities. This script should automate sending various payloads to API endpoints and identify potential issues like SQL injection, cross-site scripting (XSS), and other security vulnerabilities. | https://github.com/tadash10/API-Fuzzer | 1 | 0| 
 | 20230915T20:46:52Z | Null | https://github.com/t-taormina/binutils_fuzzing | 0 | 0| 
 | 20230915T20:14:16Z | Null | https://github.com/Sharkkcode/tls_fuzzer | 0 | 0| 
