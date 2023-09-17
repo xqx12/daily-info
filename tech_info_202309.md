@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T12:39:12Z | Null | https://github.com/AdityaIyer2k7/contrib_exploit | 0 | 0| 
 | 20230917T12:35:18Z | Exploit Codeigniter Debugbar | https://github.com/pwnsauce403/exp-ci-debugbar | 0 | 0| 
 | 20230917T12:21:46Z | CVE-2022-32947 walkthough and demo | https://github.com/asahilina/agx-exploit | 13 | 0| 
 | 20230917T11:06:29Z | CEID PROJECT 2020 - Crowdsourcing System for Recording and Exploiting User Activity | https://github.com/evi-g/Web-Development | 0 | 0| 
@@ -75,12 +76,12 @@
 | 20230917T01:54:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5341 | 1045| 
 | 20230917T01:20:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWji | 0 | 0| 
 | 20230917T01:19:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANji | 1 | 0| 
-| 20230917T01:18:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T12:37:05Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T12:15:38Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 9 | 2| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 | 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
@@ -90,7 +91,6 @@
 | 20230916T09:45:05Z | Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 0 | 0| 
 | 20230916T08:25:10Z | Bai | https://github.com/BaiGor/Backdoor | 0 | 0| 
 | 20230916T03:55:49Z | Null | https://github.com/SCLBD/BackdoorBench | 204 | 32| 
-| 20230916T03:07:10Z | This repo provides the code for reproducing the experiments in Hidden Backdoor Attack against Neural Code Search Models (HIBADCODE) | https://github.com/yuc-chen/HIBADCODE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
