@@ -84,13 +84,13 @@
 | 20230917T12:41:52Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 11 | 2| 
 | 20230917T12:37:05Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
+| 20230916T21:59:34Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 123 | 19| 
 | 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
 | 20230916T18:21:37Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 2 | 0| 
 | 20230916T15:18:25Z | NEW SHELL BACKDOOR VERNEST | https://github.com/kirazetsu/vernest | 0 | 0| 
 | 20230916T10:16:52Z | Python Backdoor for client and server | https://github.com/Fattcat/PyDoors | 0 | 0| 
 | 20230916T09:45:05Z | Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 0 | 0| 
 | 20230916T08:25:10Z | Bai | https://github.com/BaiGor/Backdoor | 0 | 0| 
-| 20230916T03:55:49Z | Null | https://github.com/SCLBD/BackdoorBench | 204 | 32| 
 
 
 # symbolic execution on Github 推荐
