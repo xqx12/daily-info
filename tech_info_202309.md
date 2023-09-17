@@ -26,6 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230917T05:23:56Z | CVE-2023-38831 | Null | https://github.com/an040702/CVE-2023-38831 | | 
+| 20230916T23:56:25Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230916T21:59:45Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230916T21:58:06Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20230916T21:28:53Z | CVE-2023-27372 | Null | https://github.com/tucommenceapousser/CVE-2023-27372b | | 
@@ -34,16 +36,14 @@
 | 20230915T13:00:37Z | CVE-2023-38831 | Null | https://github.com/IMHarman/CVE-2023-38831 | | 
 | 20230915T12:49:58Z | CVE-2022-33891 | Null | https://github.com/IMHarman/CVE-2022-33891 | | 
 | 20230915T10:36:30Z | CVE-2022-3564 | Null | https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564 | | 
-| 20230915T09:52:42Z | CVE-2023-4863 | CVE-2023-4863 POC | https://github.com/suhipek/CVE-2023-4863 | | 
-| 20230915T07:56:57Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T23:18:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13814 | 421| 
+| 20230917T10:32:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13816 | 421| 
+| 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 | 20230916T10:47:28Z | Null | https://github.com/FOOTPANDA/KLEE_bot | 0 | 0| 
-| 20230916T05:45:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2315 | 636| 
 | 20230915T06:30:03Z | ✨special ✨ repository for Klee | https://github.com/SimsimhanChobo/SimsimhanChobo | 1 | 0| 
 | 20230914T20:45:28Z | Config files for my GitHub profile. | https://github.com/klee0220/klee0220 | 0 | 0| 
 | 20230913T03:21:05Z | Null | https://github.com/clif-os/oai-kleep | 0 | 0| 
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230917T01:54:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5341 | 1043| 
+| 20230917T11:52:54Z | CVE-2022-32947 walkthough and demo | https://github.com/asahilina/agx-exploit | 11 | 0| 
+| 20230917T11:06:29Z | CEID PROJECT 2020 - Crowdsourcing System for Recording and Exploiting User Activity | https://github.com/evi-g/Web-Development | 0 | 0| 
+| 20230917T07:03:42Z | Proxylogon & Proxyshell & Proxyoracle & Proxytoken & All exchange server history vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
+| 20230917T06:27:50Z | Old project from 2017. Based on ScreenFX, a demo (Joke Virus) exploiting the Windows Magnification API to do some funky things. Replicates the M.I.B.Rezzed video by TheMGMjr (https://youtu.be/bdV1WyFH3E0) using your Windows desktop, with a little extra flair. | https://github.com/PABLEXWorld/MIBVirus | 0 | 0| 
+| 20230917T03:39:03Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP < 1.2.2 - Unauthenticated Arbitrary File Upload | https://github.com/im-hanzou/JBWPer | 0 | 0| 
+| 20230917T01:54:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5341 | 1045| 
 | 20230917T01:20:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWji | 0 | 0| 
 | 20230917T01:19:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANji | 1 | 0| 
 | 20230917T01:18:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji | 1 | 0| 
 | 20230917T01:17:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANji | 1 | 0| 
-| 20230917T01:09:39Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0003-app-CsZHI-exploit-phone | 0 | 0| 
-| 20230916T21:52:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
-| 20230916T21:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/sync2jira-PkBxd-exploit-paint | 0 | 0| 
-| 20230916T21:47:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 158 | 13| 
-| 20230916T21:44:20Z | No exploit . stasiek_selldrugsv2 fixed | https://github.com/rprollie/selldrugs-admin | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T10:26:30Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 8 | 2| 
+| 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 | 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
 | 20230916T18:21:37Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 2 | 0| 
 | 20230916T15:18:25Z | NEW SHELL BACKDOOR VERNEST | https://github.com/kirazetsu/vernest | 0 | 0| 
-| 20230916T15:15:01Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 0 | 0| 
 | 20230916T10:16:52Z | Python Backdoor for client and server | https://github.com/Fattcat/PyDoors | 0 | 0| 
 | 20230916T09:45:05Z | Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 0 | 0| 
 | 20230916T08:25:10Z | Bai | https://github.com/BaiGor/Backdoor | 0 | 0| 
 | 20230916T03:55:49Z | Null | https://github.com/SCLBD/BackdoorBench | 204 | 32| 
 | 20230916T03:07:10Z | This repo provides the code for reproducing the experiments in Hidden Backdoor Attack against Neural Code Search Models (HIBADCODE) | https://github.com/yuc-chen/HIBADCODE | 0 | 0| 
-| 20230915T17:43:01Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 3 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T09:27:59Z | Fuzzy set java implementation for CI project. | https://github.com/DarkTXYZ/FuzzySet | 0 | 0| 
+| 20230917T07:33:37Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 50 | 2| 
+| 20230917T03:48:58Z | Null | https://github.com/fuzzygreenblurs/fuzzygreenblurs.github.io | 0 | 0| 
 | 20230917T01:13:32Z | Null | https://github.com/Zooeeyy/zoe_fuzzy_task | 0 | 0| 
 | 20230917T01:04:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9004 | 1992| 
 | 20230916T22:47:45Z | Null | https://github.com/BrunoNC22/FuzzyTemperatureControllView | 0 | 0| 
 | 20230916T21:20:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 611 | 75| 
-| 20230916T20:08:10Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 48 | 2| 
+| 20230916T20:53:26Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2863 | 534| 
 | 20230916T19:09:30Z | Fast fuzzy regex matcher: specify max edit distance to find approximate matches | https://github.com/Genivia/FuzzyMatcher | 31 | 6| 
 | 20230916T18:14:57Z | Null | https://github.com/pgarcia-dev/regulated_fuzzy_logic_controller | 0 | 1| 
-| 20230916T17:51:00Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonpath/rsonpath-fuzz-storage | 0 | 0| 
-| 20230916T14:59:45Z | Hi guys. I%m just learning how to build a website | https://github.com/mrznaboya/fuzzy-tribble | 0 | 0| 
-| 20230916T12:40:55Z | Este repositório foi criado para registrar o desenvolvimento do curso Neuro_Fuzzy para análise de dados científicos: modelagem e aplicações promovido pela USP/FZEA. | https://github.com/ubiratantavares/usp_fzea_neuro_fuzzy_para_analise_de_dados_cientificos | 0 | 0| 
 
 
 
