@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T12:35:18Z | Exploit Codeigniter Debugbar | https://github.com/pwnsauce403/exp-ci-debugbar | 0 | 0| 
 | 20230917T12:21:46Z | CVE-2022-32947 walkthough and demo | https://github.com/asahilina/agx-exploit | 13 | 0| 
 | 20230917T11:06:29Z | CEID PROJECT 2020 - Crowdsourcing System for Recording and Exploiting User Activity | https://github.com/evi-g/Web-Development | 0 | 0| 
 | 20230917T07:03:42Z | Proxylogon & Proxyshell & Proxyoracle & Proxytoken & All exchange server history vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
@@ -43,7 +44,6 @@
 | 20230917T01:20:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWji | 0 | 0| 
 | 20230917T01:19:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANji | 1 | 0| 
 | 20230917T01:18:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji | 1 | 0| 
-| 20230917T01:17:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANji | 1 | 0| 
 
 
 # backdoor on Github 推荐
