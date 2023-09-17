@@ -126,7 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T23:48:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9003 | 1992| 
+| 20230917T01:04:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9004 | 1992| 
 | 20230916T22:47:45Z | Null | https://github.com/BrunoNC22/FuzzyTemperatureControllView | 0 | 0| 
 | 20230916T21:20:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 611 | 75| 
 | 20230916T20:08:10Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 48 | 2| 
