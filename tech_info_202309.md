@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T01:13:32Z | Null | https://github.com/Zooeeyy/zoe_fuzzy_task | 0 | 0| 
 | 20230917T01:04:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9004 | 1992| 
 | 20230916T22:47:45Z | Null | https://github.com/BrunoNC22/FuzzyTemperatureControllView | 0 | 0| 
 | 20230916T21:20:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 611 | 75| 
@@ -135,7 +136,6 @@
 | 20230916T17:51:00Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonpath/rsonpath-fuzz-storage | 0 | 0| 
 | 20230916T14:59:45Z | Hi guys. I%m just learning how to build a website | https://github.com/mrznaboya/fuzzy-tribble | 0 | 0| 
 | 20230916T12:40:55Z | Este repositório foi criado para registrar o desenvolvimento do curso Neuro_Fuzzy para análise de dados científicos: modelagem e aplicações promovido pela USP/FZEA. | https://github.com/ubiratantavares/usp_fzea_neuro_fuzzy_para_analise_de_dados_cientificos | 0 | 0| 
-| 20230916T11:50:43Z | Null | https://github.com/ocicl/fuzzy-dates | 0 | 0| 
 
 
 
