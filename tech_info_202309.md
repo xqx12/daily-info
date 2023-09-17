@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T12:22:39Z | a fuzzer lab | https://github.com/farnking/Test-Dragon-Forum-of-TBots | 0 | 1| 
 | 20230917T09:27:59Z | Fuzzy set java implementation for CI project. | https://github.com/DarkTXYZ/FuzzySet | 0 | 0| 
 | 20230917T07:33:37Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 50 | 2| 
 | 20230917T03:48:58Z | Null | https://github.com/fuzzygreenblurs/fuzzygreenblurs.github.io | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230916T21:20:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 611 | 75| 
 | 20230916T20:53:26Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2863 | 534| 
 | 20230916T19:09:30Z | Fast fuzzy regex matcher: specify max edit distance to find approximate matches | https://github.com/Genivia/FuzzyMatcher | 31 | 6| 
-| 20230916T18:14:57Z | Null | https://github.com/pgarcia-dev/regulated_fuzzy_logic_controller | 0 | 1| 
 
 
 
