@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230917T01:23:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5340 | 1043| 
+| 20230917T01:54:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5341 | 1043| 
 | 20230917T01:20:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWji | 0 | 0| 
 | 20230917T01:19:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANji | 1 | 0| 
 | 20230917T01:18:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji | 1 | 0| 
