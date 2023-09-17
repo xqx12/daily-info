@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230916T22:34:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5339 | 1043| 
 | 20230916T21:52:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
 | 20230916T21:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/sync2jira-PkBxd-exploit-paint | 0 | 0| 
 | 20230916T21:47:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 158 | 13| 
@@ -53,7 +54,6 @@
 | 20230916T21:20:54Z | RealmAPI is a brand new API for roblox exploits and it is the #1 best API to use at this time | https://github.com/AnimeGirlPlex/RealmAPI | 0 | 0| 
 | 20230916T20:23:08Z | Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine | https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME | 1 | 0| 
 | 20230916T18:15:12Z | Null | https://github.com/DylanIsAKingL/RobloxExploitModules | 0 | 0| 
-| 20230916T14:46:39Z | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | 1 | 0| 
 
 
 # backdoor on Github 推荐
