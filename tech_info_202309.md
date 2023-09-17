@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T01:09:39Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0003-app-CsZHI-exploit-phone | 0 | 0| 
 | 20230916T22:34:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5339 | 1043| 
 | 20230916T21:52:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 564 | 110| 
 | 20230916T21:50:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/sync2jira-PkBxd-exploit-paint | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20230916T21:40:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 82 | 31| 
 | 20230916T21:20:54Z | RealmAPI is a brand new API for roblox exploits and it is the #1 best API to use at this time | https://github.com/AnimeGirlPlex/RealmAPI | 0 | 0| 
 | 20230916T20:23:08Z | Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine | https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME | 1 | 0| 
-| 20230916T18:15:12Z | Null | https://github.com/DylanIsAKingL/RobloxExploitModules | 0 | 0| 
 
 
 # backdoor on Github 推荐
