@@ -111,14 +111,14 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T07:43:11Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
+| 20230916T21:59:32Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 7 | 1| 
+| 20230916T14:11:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 27 | 4| 
 | 20230916T07:07:29Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 | 20230915T18:30:53Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 1 | 0| 
 | 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
 | 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
 | 20230915T05:43:48Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 17 | 2| 
 | 20230913T13:31:22Z | Config files for my GitHub profile. | https://github.com/w1ndsssor/w1ndsssor | 0 | 0| 
-| 20230913T11:57:26Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 26 | 4| 
 | 20230908T04:24:52Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 2 | 1| 
 | 20230906T21:22:41Z | Null | https://github.com/An0nSubm1ss1on/ndss24-fall-582 | 0 | 0| 
 

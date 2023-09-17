@@ -80,7 +80,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230916T07:43:11Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
+| 20230916T21:59:32Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 7 | 1| 
+| 20230916T14:11:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 27 | 4| 
 | 20230916T07:07:29Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 
 
