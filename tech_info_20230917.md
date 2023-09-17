@@ -34,7 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230917T12:20:18Z | CVE-2022-32947 walkthough and demo | https://github.com/asahilina/agx-exploit | 12 | 0| 
+| 20230917T12:21:46Z | CVE-2022-32947 walkthough and demo | https://github.com/asahilina/agx-exploit | 13 | 0| 
 | 20230917T11:06:29Z | CEID PROJECT 2020 - Crowdsourcing System for Recording and Exploiting User Activity | https://github.com/evi-g/Web-Development | 0 | 0| 
 | 20230917T07:03:42Z | Proxylogon & Proxyshell & Proxyoracle & Proxytoken & All exchange server history vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | 405 | 84| 
 | 20230917T06:27:50Z | Old project from 2017. Based on ScreenFX, a demo (Joke Virus) exploiting the Windows Magnification API to do some funky things. Replicates the M.I.B.Rezzed video by TheMGMjr (https://youtu.be/bdV1WyFH3E0) using your Windows desktop, with a little extra flair. | https://github.com/PABLEXWorld/MIBVirus | 0 | 0| 
