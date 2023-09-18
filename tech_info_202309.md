@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:06:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWmr | 1 | 0| 
 | 20230918T00:05:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmr | 1 | 0| 
 | 20230918T00:03:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmr | 1 | 0| 
 | 20230918T00:03:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmr | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20230917T22:00:25Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 18 | 2| 
 | 20230917T21:19:16Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 57 | 19| 
 | 20230917T20:50:17Z | A repository displaying my HackTheBox exploits | https://github.com/EdboyELP/HackTheBox | 0 | 0| 
-| 20230917T20:08:07Z | A repository displaying my TryHackMe exploits | https://github.com/EdboyELP/TryHackMe | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:09:17Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 52 | 3| 
+| 20230918T00:08:31Z | Данный код представляет собой простое веб-приложение, которое использует библиотеки Fastify, Sequelize и sequelize-slugify для создания, чтения, обновления и удаления записей в базе данных SQLite3 | https://github.com/KovalevaAAl/fuzzy-chainsaw | 0 | 0| 
 | 20230918T00:03:41Z | Null | https://github.com/sinum-hub/perbandingan-hasil-prediksi-dengan-metode-fuzzy-mamdani-dan-JST-Backpropagation | 0 | 0| 
 | 20230917T23:57:28Z | Null | https://github.com/joseffaghihi/Gliosarcoma-causal-fuzzy-Transformer | 0 | 0| 
 | 20230917T22:01:33Z | Null | https://github.com/LemosHenri/fuzzystk | 0 | 0| 
 | 20230917T21:25:31Z | Null | https://github.com/Teemperor/html-fuzzer-demo | 0 | 0| 
-| 20230917T16:30:29Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 51 | 3| 
+| 20230917T12:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9005 | 1993| 
 | 20230917T12:31:53Z | Null | https://github.com/rupendrads/TestFactorial_Fuzz | 0 | 0| 
 | 20230917T12:22:39Z | a fuzzer lab | https://github.com/farnking/Test-Dragon-Forum-of-TBots | 0 | 1| 
 | 20230917T09:27:59Z | Fuzzy set java implementation for CI project. | https://github.com/DarkTXYZ/FuzzySet | 0 | 0| 
-| 20230917T03:48:58Z | Null | https://github.com/fuzzygreenblurs/fuzzygreenblurs.github.io | 0 | 0| 
-| 20230917T01:13:32Z | Null | https://github.com/Zooeeyy/zoe_fuzzy_task | 0 | 0| 
 
 
 

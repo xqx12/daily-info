@@ -74,13 +74,12 @@
 | 20230917T23:57:28Z | Null | https://github.com/joseffaghihi/Gliosarcoma-causal-fuzzy-Transformer | 0 | 0| 
 | 20230917T22:01:33Z | Null | https://github.com/LemosHenri/fuzzystk | 0 | 0| 
 | 20230917T21:25:31Z | Null | https://github.com/Teemperor/html-fuzzer-demo | 0 | 0| 
-| 20230917T16:30:29Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 51 | 3| 
+| 20230917T12:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9005 | 1993| 
 | 20230917T12:31:53Z | Null | https://github.com/rupendrads/TestFactorial_Fuzz | 0 | 0| 
 | 20230917T12:22:39Z | a fuzzer lab | https://github.com/farnking/Test-Dragon-Forum-of-TBots | 0 | 1| 
 | 20230917T09:27:59Z | Fuzzy set java implementation for CI project. | https://github.com/DarkTXYZ/FuzzySet | 0 | 0| 
 | 20230917T03:48:58Z | Null | https://github.com/fuzzygreenblurs/fuzzygreenblurs.github.io | 0 | 0| 
 | 20230917T01:13:32Z | Null | https://github.com/Zooeeyy/zoe_fuzzy_task | 0 | 0| 
-| 20230917T01:04:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9004 | 1992| 
 
 
 
