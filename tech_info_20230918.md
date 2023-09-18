@@ -45,11 +45,11 @@
 | 20230918T09:58:47Z | A collection of various exploits | https://github.com/uf0o/exploits_dev | 0 | 0| 
 | 20230918T09:56:42Z | Write-up of my cybersecurity ROP Chain exploit project | https://github.com/Dwenn57/rop-chain-project | 0 | 0| 
 | 20230918T09:53:31Z | Web services for variant prioritization and efficient exploitation of clinical information registered in ClinVar | https://github.com/carolinalopezs29/TFM-REST-API | 0 | 0| 
+| 20230918T09:11:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5342 | 1047| 
 | 20230918T08:35:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5334 | 688| 
 | 20230918T08:06:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 730 | 179| 
 | 20230918T07:41:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5527 | 759| 
 | 20230918T07:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1c389812-beb2-4d0a-bef3-fc7294416aa4-y0T5a-rid-exploit | 0 | 0| 
-| 20230918T07:05:09Z | Gsploit is a Go-based exploit framework that enables users to exploit vulnerabilities, create/encode payloads, and post exploits. It offers exploits, port scanners, fingerprinting tools, custom payload creation, and advanced encoding techniques. Gsploit also provides post-exploitation modules for maintaining access to compromised systems. | https://github.com/dev-bittu/gsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
