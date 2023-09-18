@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230918 | SecWiki周刊（第498期) | https://www.sec-wiki.com/weekly/498| 
 | 20230916 | 全球定位系统GPS星座概述 | https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ| 
 | 20230916 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A| 
 | 20230916 | 探索基于LLM的Bug复现 | https://mp.weixin.qq.com/s/bsFJq_jM46bfiFHdMqpyrQ| 
@@ -20,28 +21,28 @@
 | 20230914 | 当GPT遇到程序分析：在GPTScan中实现智能合约逻辑漏洞检测 | https://mp.weixin.qq.com/s/VOOxEgWTYY4MNakWBOcPOA| 
 | 20230914 | CoraxJava 社区版使用及编写自定义规则 | https://iotaa.cn/archives/corax-community| 
 | 20230911 | SecWiki周刊（第497期) | https://www.sec-wiki.com/weekly/497| 
-| 20230911 | 浅谈Apache Shiro CVE-2023-22602 | https://www.sec-in.com/article/2113| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230917T23:53:29Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230918T10:45:39Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230918T09:02:36Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
+| 20230918T06:47:39Z | CVE-2023-08 | Null | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
+| 20230918T06:46:43Z | CVE-2023-0099 | simple urls < 115 - Reflected XSS | https://github.com/amirzargham/CVE-2023-0099-exploit | | 
+| 20230918T03:35:29Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20230918T02:34:10Z | CVE-2020-5847 | CVE-2020-5847 exploit written in python | https://github.com/1Gould/CVE-2020-5847-exploit | | 
 | 20230917T05:23:56Z | CVE-2023-38831 | Null | https://github.com/an040702/CVE-2023-38831 | | 
 | 20230916T21:59:45Z | CVE-2023-3244 | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | https://github.com/drnull03/POC-CVE-2023-3244 | | 
 | 20230916T21:58:06Z | CVE-2022-45771 | Pwndoc local file inclusion to remote code execution of Node.js code on the server | https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE | | 
 | 20230916T21:28:53Z | CVE-2023-27372 | Null | https://github.com/tucommenceapousser/CVE-2023-27372b | | 
-| 20230916T08:59:44Z | CVE-2023-38831 | CVE-2023-38831 WinRaR Exploit Generator | https://github.com/Malwareman007/CVE-2023-38831 | | 
-| 20230915T13:51:05Z | CVE-2023-4128 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128 | | 
-| 20230915T13:00:37Z | CVE-2023-38831 | Null | https://github.com/IMHarman/CVE-2023-38831 | | 
-| 20230915T12:49:58Z | CVE-2022-33891 | Null | https://github.com/IMHarman/CVE-2022-33891 | | 
-| 20230915T10:36:30Z | CVE-2022-3564 | Null | https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230918T01:45:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13821 | 421| 
+| 20230918T10:38:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13833 | 421| 
+| 20230918T02:22:21Z | Null | https://github.com/kleekev/kleekev | 0 | 0| 
 | 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 | 20230916T10:47:28Z | Null | https://github.com/FOOTPANDA/KLEE_bot | 0 | 0| 
 | 20230915T06:30:03Z | ✨special ✨ repository for Klee | https://github.com/SimsimhanChobo/SimsimhanChobo | 1 | 0| 
@@ -50,7 +51,6 @@
 | 20230912T13:51:32Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 109 | 6| 
 | 20230912T08:33:51Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 22 | 10| 
 | 20230911T14:33:13Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 89 | 20| 
-| 20230911T07:20:02Z | Null | https://github.com/Pranav-Programmer/Klee-Minty-Problem | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230918T01:55:15Z | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | 1840 | 290| 
-| 20230918T01:52:28Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 57 | 11| 
-| 20230918T00:12:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 159 | 13| 
-| 20230918T00:06:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWmr | 1 | 0| 
-| 20230918T00:05:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmr | 1 | 0| 
-| 20230918T00:03:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmr | 1 | 0| 
-| 20230918T00:03:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmr | 1 | 0| 
-| 20230917T23:21:51Z | GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0 | https://github.com/luanoliveira350/GameOverlayFS | 0 | 0| 
-| 20230917T22:56:53Z | 6.72 exploit for activated kits | https://github.com/zecoxao/kexploit_uaf_kit | 0 | 0| 
-| 20230917T22:56:12Z | Null | https://github.com/unCodeBoss/wordpress-exploit | 0 | 0| 
+| 20230918T11:50:46Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 1 | 0| 
+| 20230918T11:35:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-39Wm1-exploit-promise | 0 | 0| 
+| 20230918T09:58:47Z | A collection of various exploits | https://github.com/uf0o/exploits_dev | 0 | 0| 
+| 20230918T09:56:42Z | Write-up of my cybersecurity ROP Chain exploit project | https://github.com/Dwenn57/rop-chain-project | 0 | 0| 
+| 20230918T09:53:31Z | Web services for variant prioritization and efficient exploitation of clinical information registered in ClinVar | https://github.com/carolinalopezs29/TFM-REST-API | 0 | 0| 
+| 20230918T08:35:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5334 | 688| 
+| 20230918T08:06:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 730 | 179| 
+| 20230918T07:41:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5527 | 759| 
+| 20230918T07:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-1c389812-beb2-4d0a-bef3-fc7294416aa4-y0T5a-rid-exploit | 0 | 0| 
+| 20230918T07:05:09Z | Gsploit is a Go-based exploit framework that enables users to exploit vulnerabilities, create/encode payloads, and post exploits. It offers exploits, port scanners, fingerprinting tools, custom payload creation, and advanced encoding techniques. Gsploit also provides post-exploitation modules for maintaining access to compromised systems. | https://github.com/dev-bittu/gsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230918T01:41:28Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 29 | 3| 
-| 20230917T22:36:58Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 124 | 19| 
+| 20230918T11:55:26Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 125 | 19| 
+| 20230918T11:29:19Z | Null | https://github.com/kelelawar-cyber-team/shell-backdoor | 0 | 0| 
+| 20230918T11:13:29Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 39 | 5| 
+| 20230918T07:20:43Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 1 | 0| 
+| 20230918T07:18:06Z | Implementation of BapFL: You can Backdoor Attack Personalized Federated Learning | https://github.com/BapFL/code | 0 | 0| 
+| 20230918T02:06:19Z | Null | https://github.com/unclecatvn/backdooradminwordpress | 0 | 0| 
 | 20230917T17:25:33Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 | 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
 | 20230916T21:15:28Z | My personal, unique wiki for hacking the router firmware used by Telia%s TG799vac Xtream v17.2-MINT, delivered from Technicolor. | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 84 | 21| 
-| 20230916T18:21:37Z | For inspiration purposes only! Samples of malware builders! | https://github.com/yuankong666/Ultimate-RAT-Collection | 2 | 0| 
-| 20230916T15:18:25Z | NEW SHELL BACKDOOR VERNEST | https://github.com/kirazetsu/vernest | 0 | 0| 
-| 20230916T10:16:52Z | Python Backdoor for client and server | https://github.com/Fattcat/PyDoors | 0 | 0| 
-| 20230916T09:45:05Z | Freebsd KLD Rootkit for FreeBSD 13. Hide files, hide process, hide port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T11:59:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9009 | 1994| 
+| 20230918T11:23:35Z | Null | https://github.com/wbyXAVI6/fuzzy-telegram | 0 | 0| 
+| 20230918T10:58:12Z | Null | https://github.com/jadoaxin/fuzzy-garbanzo | 0 | 0| 
+| 20230918T10:54:57Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 981 | 66| 
+| 20230918T10:37:46Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonquery/rsonpath-fuzz-storage | 1 | 0| 
+| 20230918T10:24:15Z | Null | https://github.com/FaetterP/fuzzy-logic-display | 0 | 0| 
+| 20230918T10:16:46Z | Mein erstes Projekt | https://github.com/AS-FISI/fuzzy-chainsaw | 0 | 0| 
+| 20230918T09:23:57Z | Master thesis project on the predictive capability of ANCFIS in a financial setting. ANCFIS is a neural network architecture inspired by complex fuzzy inference systems showing good performance in function approximation and chaotic time series prediction. | https://github.com/valerio591/Adaptive-Neuro-Complex-Fuzzy-Inference-System-for-Financial-Time-Series-Forecasting | 0 | 0| 
+| 20230918T09:13:11Z | Null | https://github.com/attacker7779/api-fuzz | 0 | 0| 
 | 20230918T00:49:35Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 53 | 3| 
-| 20230918T00:28:39Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonpath/rsonpath-fuzz-storage | 1 | 0| 
-| 20230918T00:08:31Z | Данный код представляет собой простое веб-приложение, которое использует библиотеки Fastify, Sequelize и sequelize-slugify для создания, чтения, обновления и удаления записей в базе данных SQLite3 | https://github.com/KovalevaAAl/fuzzy-chainsaw | 0 | 0| 
-| 20230918T00:03:41Z | Null | https://github.com/sinum-hub/perbandingan-hasil-prediksi-dengan-metode-fuzzy-mamdani-dan-JST-Backpropagation | 0 | 0| 
-| 20230917T23:57:28Z | Null | https://github.com/joseffaghihi/Gliosarcoma-causal-fuzzy-Transformer | 0 | 0| 
-| 20230917T22:01:33Z | Null | https://github.com/LemosHenri/fuzzystk | 0 | 0| 
-| 20230917T21:25:31Z | Null | https://github.com/Teemperor/html-fuzzer-demo | 0 | 0| 
-| 20230917T12:45:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9005 | 1993| 
-| 20230917T12:31:53Z | Null | https://github.com/rupendrads/TestFactorial_Fuzz | 0 | 0| 
-| 20230917T12:22:39Z | a fuzzer lab | https://github.com/farnking/Test-Dragon-Forum-of-TBots | 0 | 1| 
 
 
 
