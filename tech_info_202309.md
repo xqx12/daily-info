@@ -126,8 +126,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:49:35Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 53 | 3| 
 | 20230918T00:28:39Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonpath/rsonpath-fuzz-storage | 1 | 0| 
-| 20230918T00:09:17Z | Fuzz iOS URL schemes | https://github.com/NSEcho/furlzz | 52 | 3| 
 | 20230918T00:08:31Z | Данный код представляет собой простое веб-приложение, которое использует библиотеки Fastify, Sequelize и sequelize-slugify для создания, чтения, обновления и удаления записей в базе данных SQLite3 | https://github.com/KovalevaAAl/fuzzy-chainsaw | 0 | 0| 
 | 20230918T00:03:41Z | Null | https://github.com/sinum-hub/perbandingan-hasil-prediksi-dengan-metode-fuzzy-mamdani-dan-JST-Backpropagation | 0 | 0| 
 | 20230917T23:57:28Z | Null | https://github.com/joseffaghihi/Gliosarcoma-causal-fuzzy-Transformer | 0 | 0| 
