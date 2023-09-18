@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:03:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmr | 1 | 0| 
+| 20230918T00:03:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANmr | 1 | 0| 
 | 20230917T23:21:51Z | GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0 | https://github.com/luanoliveira350/GameOverlayFS | 0 | 0| 
 | 20230917T22:56:53Z | 6.72 exploit for activated kits | https://github.com/zecoxao/kexploit_uaf_kit | 0 | 0| 
 | 20230917T22:56:12Z | Null | https://github.com/unCodeBoss/wordpress-exploit | 0 | 0| 
@@ -74,15 +76,13 @@
 | 20230917T20:50:17Z | A repository displaying my HackTheBox exploits | https://github.com/EdboyELP/HackTheBox | 0 | 0| 
 | 20230917T20:08:07Z | A repository displaying my TryHackMe exploits | https://github.com/EdboyELP/TryHackMe | 0 | 0| 
 | 20230917T15:11:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 83 | 31| 
-| 20230917T12:39:12Z | Null | https://github.com/AdityaIyer2k7/contrib_exploit | 0 | 0| 
-| 20230917T12:35:18Z | Exploit Codeigniter Debugbar | https://github.com/pwnsauce403/exp-ci-debugbar | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:03:23Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 27 | 3| 
 | 20230917T22:36:58Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 124 | 19| 
-| 20230917T22:14:19Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 26 | 2| 
 | 20230917T17:25:33Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 | 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
