@@ -59,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
 | 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 
 

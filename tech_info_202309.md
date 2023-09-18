@@ -96,6 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
 | 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 | 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 81| 
 | 20230916T21:04:21Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 27| 
@@ -105,7 +106,6 @@
 | 20230914T16:14:37Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 261 | 34| 
 | 20230914T03:32:52Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 457 | 22| 
 | 20230910T01:34:41Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 0 | 0| 
-| 20230909T10:59:53Z | A Symbolic Execution Engine for Dynamic Kernel Analysis | https://github.com/KRoverSystems/KRover | 1 | 0| 
 
 
 # big4 on Github 推荐
