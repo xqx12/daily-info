@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:12:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 159 | 13| 
 | 20230918T00:06:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWmr | 1 | 0| 
 | 20230918T00:05:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANmr | 1 | 0| 
 | 20230918T00:03:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANmr | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20230917T22:56:12Z | Null | https://github.com/unCodeBoss/wordpress-exploit | 0 | 0| 
 | 20230917T22:00:25Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 18 | 2| 
 | 20230917T21:19:16Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 57 | 19| 
-| 20230917T20:50:17Z | A repository displaying my HackTheBox exploits | https://github.com/EdboyELP/HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
