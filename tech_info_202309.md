@@ -126,8 +126,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T12:40:06Z | Null | https://github.com/DvdMeneses/FuzzyLogic-VERMIFUGA | 0 | 0| 
+| 20230918T12:39:51Z | Master thesis project on the predictive capability of ANCFIS in a financial setting. ANCFIS is a neural network architecture inspired by complex fuzzy inference systems showing good performance in function approximation and chaotic time series prediction. | https://github.com/valerio591/Adaptive-Neuro-Complex-Fuzzy-Inference-System-for-Financial-Time-Series-Forecasting | 0 | 0| 
 | 20230918T12:36:50Z | Quarkus toy | https://github.com/Karm/fuzz | 0 | 0| 
-| 20230918T12:35:57Z | Null | https://github.com/DvdMeneses/FuzzyLogic-VERMIFUGA | 0 | 0| 
 | 20230918T12:31:26Z | Null | https://github.com/LaurenceMarshall/fuzzy-funicular | 0 | 0| 
 | 20230918T11:59:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9009 | 1994| 
 | 20230918T11:23:35Z | Null | https://github.com/wbyXAVI6/fuzzy-telegram | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20230918T10:54:57Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 981 | 66| 
 | 20230918T10:37:46Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonquery/rsonpath-fuzz-storage | 1 | 0| 
 | 20230918T10:24:15Z | Null | https://github.com/FaetterP/fuzzy-logic-display | 0 | 0| 
-| 20230918T10:16:46Z | Mein erstes Projekt | https://github.com/AS-FISI/fuzzy-chainsaw | 0 | 0| 
 
 
 
