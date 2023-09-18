@@ -81,7 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230918T00:03:23Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 27 | 3| 
+| 20230918T00:27:21Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 28 | 3| 
 | 20230917T22:36:58Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 124 | 19| 
 | 20230917T17:25:33Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
@@ -96,11 +96,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230918T00:27:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3536 | 487| 
 | 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
 | 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 | 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 81| 
 | 20230916T21:04:21Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 27| 
-| 20230916T21:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3535 | 487| 
 | 20230916T02:00:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 43 | 7| 
 | 20230915T16:36:35Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 61 | 26| 
 | 20230914T16:14:37Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 261 | 34| 
