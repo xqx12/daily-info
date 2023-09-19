@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T11:56:24Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 44 | 4| 
+| 20230919T11:36:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-59ffb836-b7d6-41d8-a4d0-d6b08661d720--KwNe-want-exploit | 0 | 0| 
+| 20230919T11:12:28Z | Exploit script for Croogo =<2.3.2 | https://github.com/fj016/Croogo2Hell | 0 | 0| 
+| 20230919T11:10:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e5afd60e-7907-4405-a895-24b960156a46-2D9nK-exploit-benefit | 0 | 0| 
+| 20230919T09:58:24Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA | 1 | 0| 
+| 20230919T08:29:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5336 | 688| 
+| 20230919T06:17:16Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 1 | 1| 
 | 20230919T01:58:59Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-igQhU-tend-exploit | 0 | 0| 
 | 20230919T01:51:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5343 | 1047| 
 | 20230919T01:43:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0033-app-YK2VZ-arise-exploit | 0 | 0| 
-| 20230919T01:31:10Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0069-app-i8nU5-exploit-cope | 0 | 0| 
-| 20230919T01:30:30Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0011-app-Ljlkd-phone-exploit | 0 | 0| 
-| 20230919T00:36:56Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWos | 1 | 0| 
-| 20230919T00:36:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANos | 1 | 0| 
-| 20230919T00:35:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANos | 1 | 0| 
-| 20230919T00:34:35Z | GitOps Repository | https://github.com/qijin-bj/integ-app-vplr-W13h5-exploit-drink | 0 | 0| 
-| 20230919T00:34:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANos | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,22 +97,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T11:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2317 | 636| 
+| 20230919T07:57:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 | 20230918T21:22:05Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 17 | 8| 
 | 20230918T21:17:40Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 10 | 5| 
 | 20230918T16:50:46Z | dynamic symbolic execution of PISE | https://github.com/liordror/PISE_DSE | 0 | 0| 
 | 20230918T00:27:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3536 | 487| 
 | 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
-| 20230917T02:59:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2316 | 636| 
 | 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 82| 
 | 20230916T21:04:21Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 27| 
 | 20230916T02:00:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 43 | 7| 
-| 20230915T16:36:35Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 61 | 26| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230918T01:56:43Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 1 | 0| 
+| 20230919T11:57:58Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 2 | 0| 
 | 20230916T21:59:32Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 7 | 1| 
 | 20230916T14:11:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 27 | 4| 
 | 20230916T07:07:29Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
