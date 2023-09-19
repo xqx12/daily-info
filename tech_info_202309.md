@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T00:35:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANos | 1 | 0| 
 | 20230919T00:34:35Z | GitOps Repository | https://github.com/qijin-bj/integ-app-vplr-W13h5-exploit-drink | 0 | 0| 
 | 20230919T00:34:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANos | 1 | 0| 
 | 20230918T23:31:21Z | Null | https://github.com/RobloxExploitsGG/RobloxExploitsGG.github.io | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230918T21:20:08Z | Null | https://github.com/1Gould/CVE-2020-5844-exploit | 0 | 0| 
 | 20230918T20:43:23Z | FOR EDUCATION PURPOSES ONLY. DO NOT EXPLOIT OR USE SITE AT SCHOOL | https://github.com/AbstractMelon/Melonblock | 0 | 0| 
 | 20230918T11:50:46Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 1 | 0| 
-| 20230918T11:35:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-39Wm1-exploit-promise | 0 | 0| 
 
 
 # backdoor on Github 推荐
