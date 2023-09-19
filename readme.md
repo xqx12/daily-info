@@ -50,9 +50,9 @@
 | 20230919T09:58:24Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA | 1 | 0| 
 | 20230919T08:29:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5336 | 688| 
 | 20230919T06:17:16Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 1 | 1| 
+| 20230919T03:12:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5528 | 759| 
 | 20230919T01:58:59Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-igQhU-tend-exploit | 0 | 0| 
 | 20230919T01:51:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5343 | 1047| 
-| 20230919T01:43:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0033-app-YK2VZ-arise-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
