@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T00:51:42Z | Null | https://github.com/LoanVitor/PHP-8.1.0-dev-User-Agentt-Backdoor | 0 | 0| 
 | 20230918T19:16:28Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 41 | 5| 
 | 20230918T15:57:39Z | PHP shell backdoors list  ( collection on internet ) | https://github.com/1337r0j4n/php-backdoors | 28 | 12| 
 | 20230918T14:12:51Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 126 | 20| 
@@ -91,7 +92,6 @@
 | 20230918T02:06:19Z | Null | https://github.com/unclecatvn/backdooradminwordpress | 0 | 0| 
 | 20230917T17:25:33Z | A Python BackDoor | https://github.com/1nF1N1T7/Virus000 | 0 | 0| 
 | 20230917T07:25:15Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
-| 20230916T21:43:24Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 182 | 35| 
 
 
 # symbolic execution on Github 推荐
