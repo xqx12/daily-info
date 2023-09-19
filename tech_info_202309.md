@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T00:36:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANos | 1 | 0| 
 | 20230919T00:35:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANos | 1 | 0| 
 | 20230919T00:34:35Z | GitOps Repository | https://github.com/qijin-bj/integ-app-vplr-W13h5-exploit-drink | 0 | 0| 
 | 20230919T00:34:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANos | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20230918T22:36:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14530 | 2492| 
 | 20230918T21:20:08Z | Null | https://github.com/1Gould/CVE-2020-5844-exploit | 0 | 0| 
 | 20230918T20:43:23Z | FOR EDUCATION PURPOSES ONLY. DO NOT EXPLOIT OR USE SITE AT SCHOOL | https://github.com/AbstractMelon/Melonblock | 0 | 0| 
-| 20230918T11:50:46Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 1 | 0| 
 
 
 # backdoor on Github 推荐
