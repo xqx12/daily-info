@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T12:31:34Z | Null | https://github.com/JokerEren7/fuzzy-pancake | 0 | 0| 
 | 20230919T12:21:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
 | 20230919T12:12:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 220| 
 | 20230919T11:46:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9018 | 1997| 
@@ -136,7 +137,6 @@
 | 20230918T23:14:29Z | Fuzzy finds the optimal inexact match between a regex-like pattern and a text. | https://github.com/SamRoberts/fuzzy_rust | 0 | 0| 
 | 20230918T20:47:49Z | A general purpose foundation for cloud-based fuzzing and mutation testing jobs | https://github.com/crytic/cloudexec | 0 | 0| 
 | 20230918T20:12:27Z | A wordlist of API documentation endpoint used for fuzzing web application APIs. | https://github.com/z5jt/API-documentation-Wordlist | 0 | 0| 
-| 20230918T12:40:06Z | Null | https://github.com/DvdMeneses/FuzzyLogic-VERMIFUGA | 0 | 0| 
 
 
 
