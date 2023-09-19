@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T01:51:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5343 | 1047| 
 | 20230919T01:43:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0033-app-YK2VZ-arise-exploit | 0 | 0| 
 | 20230919T01:31:10Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0075-0069-app-i8nU5-exploit-cope | 0 | 0| 
 | 20230919T01:30:30Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0011-app-Ljlkd-phone-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T00:34:35Z | GitOps Repository | https://github.com/qijin-bj/integ-app-vplr-W13h5-exploit-drink | 0 | 0| 
 | 20230919T00:34:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANos | 1 | 0| 
 | 20230918T23:31:21Z | Null | https://github.com/RobloxExploitsGG/RobloxExploitsGG.github.io | 0 | 0| 
-| 20230918T22:49:45Z | Exploit runner for Attack & Defense CTFs | https://github.com/Hiumee/addack | 0 | 0| 
 
 
 # backdoor on Github 推荐
