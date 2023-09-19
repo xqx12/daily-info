@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T01:30:30Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0011-app-Ljlkd-phone-exploit | 0 | 0| 
 | 20230919T00:36:56Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWos | 1 | 0| 
 | 20230919T00:36:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANos | 1 | 0| 
 | 20230919T00:35:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANos | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20230918T22:49:45Z | Exploit runner for Attack & Defense CTFs | https://github.com/Hiumee/addack | 0 | 0| 
 | 20230918T22:47:30Z | 7 Days To Die Zero Day Exploit To Remotely Wipe Server Files | https://github.com/IntelSDM/0-Day-To-Die | 0 | 0| 
 | 20230918T22:36:44Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14530 | 2492| 
-| 20230918T21:20:08Z | Null | https://github.com/1Gould/CVE-2020-5844-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
