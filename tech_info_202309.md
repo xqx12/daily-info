@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T00:34:35Z | GitOps Repository | https://github.com/qijin-bj/integ-app-vplr-W13h5-exploit-drink | 0 | 0| 
+| 20230919T00:34:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANos | 1 | 0| 
 | 20230918T23:31:21Z | Null | https://github.com/RobloxExploitsGG/RobloxExploitsGG.github.io | 0 | 0| 
 | 20230918T22:49:45Z | Exploit runner for Attack & Defense CTFs | https://github.com/Hiumee/addack | 0 | 0| 
 | 20230918T22:47:30Z | 7 Days To Die Zero Day Exploit To Remotely Wipe Server Files | https://github.com/IntelSDM/0-Day-To-Die | 0 | 0| 
@@ -75,8 +77,6 @@
 | 20230918T20:43:23Z | FOR EDUCATION PURPOSES ONLY. DO NOT EXPLOIT OR USE SITE AT SCHOOL | https://github.com/AbstractMelon/Melonblock | 0 | 0| 
 | 20230918T11:50:46Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 1 | 0| 
 | 20230918T11:35:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-39Wm1-exploit-promise | 0 | 0| 
-| 20230918T09:58:47Z | A collection of various exploits | https://github.com/uf0o/exploits_dev | 0 | 0| 
-| 20230918T09:56:42Z | Write-up of my cybersecurity ROP Chain exploit project | https://github.com/Dwenn57/rop-chain-project | 0 | 0| 
 
 
 # backdoor on Github 推荐
