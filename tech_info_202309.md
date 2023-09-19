@@ -127,7 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230919T12:16:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
+| 20230919T12:21:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
 | 20230919T12:12:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 220| 
 | 20230919T11:46:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9018 | 1997| 
 | 20230919T11:36:10Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 487 | 106| 
