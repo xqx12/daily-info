@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230919T11:44:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13845 | 422| 
+| 20230919T12:15:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13846 | 422| 
 | 20230919T11:32:45Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 23 | 10| 
 | 20230919T11:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2317 | 636| 
 | 20230918T22:18:51Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T12:16:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
 | 20230919T12:12:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 220| 
 | 20230919T11:46:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9018 | 1997| 
 | 20230919T11:36:10Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 487 | 106| 
@@ -136,7 +137,6 @@
 | 20230918T20:47:49Z | A general purpose foundation for cloud-based fuzzing and mutation testing jobs | https://github.com/crytic/cloudexec | 0 | 0| 
 | 20230918T20:12:27Z | A wordlist of API documentation endpoint used for fuzzing web application APIs. | https://github.com/z5jt/API-documentation-Wordlist | 0 | 0| 
 | 20230918T12:40:06Z | Null | https://github.com/DvdMeneses/FuzzyLogic-VERMIFUGA | 0 | 0| 
-| 20230918T12:39:51Z | Master thesis project on the predictive capability of ANCFIS in a financial setting. ANCFIS is a neural network architecture inspired by complex fuzzy inference systems showing good performance in function approximation and chaotic time series prediction. | https://github.com/valerio591/Adaptive-Neuro-Complex-Fuzzy-Inference-System-for-Financial-Time-Series-Forecasting | 0 | 0| 
 
 
 
