@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230919T12:47:12Z | cve-2023-38831 | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | https://github.com/elefantesagradodeluzinfinita/cve-2023-38831 | | 
 | 20230919T11:54:12Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230919T11:32:54Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230919T10:38:34Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | | 
@@ -35,7 +36,6 @@
 | 20230918T10:45:39Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230918T06:47:39Z | CVE-2023-08 | Null | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
 | 20230918T06:46:43Z | CVE-2023-0099 | simple urls < 115 - Reflected XSS | https://github.com/amirzargham/CVE-2023-0099-exploit | | 
-| 20230918T02:34:10Z | CVE-2020-5847 | CVE-2020-5847 exploit written in python | https://github.com/1Gould/CVE-2020-5847-exploit | | 
 
 
 # klee on Github 推荐
@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230919T12:47:12Z | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | https://github.com/elefantesagradodeluzinfinita/cve-2023-38831 | 0 | 0| 
 | 20230919T12:33:29Z | Many of the listed items relate to vulnerabilities or attacks in web security. They involve exploiting weaknesses in authentication, authorization, or input validation, potentially leading to unauthorized access, data breaches, or service disruption | https://github.com/99220041819/vulnerability-attacks- | 0 | 0| 
 | 20230919T11:56:24Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 44 | 4| 
 | 20230919T11:36:50Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-59ffb836-b7d6-41d8-a4d0-d6b08661d720--KwNe-want-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T09:58:24Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA | 1 | 0| 
 | 20230919T08:29:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5336 | 688| 
 | 20230919T06:17:16Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 1 | 1| 
-| 20230919T03:12:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5528 | 759| 
 
 
 # backdoor on Github 推荐
