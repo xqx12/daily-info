@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230918T23:03:43Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
+| 20230919T00:42:50Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230918T21:20:08Z | CVE-2020-5844 | Null | https://github.com/1Gould/CVE-2020-5844-exploit | | 
 | 20230918T19:15:16Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230918T10:45:39Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
