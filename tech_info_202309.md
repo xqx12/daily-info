@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:53:19Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
 | 20230920T12:48:53Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10100 | 1147| 
 | 20230920T12:35:06Z | Null | https://github.com/kmkm3232/poe-trade-fuzzy-search | 0 | 0| 
 | 20230920T12:30:33Z | A tool to find web page inputs for XSS fuzzing | https://github.com/joshkar/X-Recon | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230920T11:25:41Z | Null | https://github.com/TITANBG/fuzzy-journey | 0 | 0| 
 | 20230920T11:15:05Z | A complete set of codes to match 2 datasets inspired from a room type dataset ( https://www.kaggle.com/code/kerneler/starter-room-type-8dab5613-e/input) | https://github.com/VarunSKumar94/FuzzyMatchingSQL | 0 | 0| 
 | 20230920T11:05:47Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
-| 20230920T10:20:49Z | Null | https://github.com/wanghan0000/fuzzy-octo-happiness | 0 | 0| 
 
 
 
