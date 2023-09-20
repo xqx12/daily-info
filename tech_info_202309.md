@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:46:01Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230920T00:24:18Z | CVE-2023-0255 | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | | 
 | 20230920T00:10:51Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230919T14:24:34Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
@@ -34,7 +35,6 @@
 | 20230919T08:17:22Z | CVE-2023-36319 | exp4CVE-2023-36319 | https://github.com/Lowalu/CVE-2023-36319 | | 
 | 20230919T06:52:28Z | CVE-2023-4128 | Null | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128 | | 
 | 20230918T21:20:08Z | CVE-2020-5844 | Null | https://github.com/1Gould/CVE-2020-5844-exploit | | 
-| 20230918T10:45:39Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230918T06:47:39Z | CVE-2023-08 | Null | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
 
 
@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:45:24Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75d1deca-2a5f-4387-a0ef-9e124de79f98-y0T5a-marry-exploit | 0 | 0| 
 | 20230920T01:41:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0048-app-Mv81Z-exploit-attend | 0 | 0| 
 | 20230920T01:38:38Z | This is my first comprehensive web project. I need to exploit the content that I have been learning as much as possible. External research will also go a long way | https://github.com/alegoeugene/Landing-Page | 0 | 0| 
 | 20230920T01:07:20Z | GitOps Repository | https://github.com/pmacik-testing/cima-0010-0008-app-pmbLc-exploit-will | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T23:58:05Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWpa | 1 | 0| 
 | 20230919T23:57:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:56:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANp | 1 | 0| 
-| 20230919T23:55:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANp | 1 | 0| 
 
 
 # backdoor on Github 推荐
