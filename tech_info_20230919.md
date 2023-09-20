@@ -61,7 +61,7 @@
 | 20230919T18:11:58Z | Implementating method FL-Bandage | https://github.com/fabiola-espinoza-castellon/Federated_Uncovering_of_Backdoor_Attacks | 0 | 0| 
 | 20230919T14:35:03Z | Null | https://github.com/Karroat/backdoor | 0 | 0| 
 | 20230919T14:22:09Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 128 | 18| 
-| 20230919T08:43:32Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 3 | 2| 
+| 20230919T08:43:32Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 3 | 3| 
 | 20230919T08:25:40Z | Null | https://github.com/SCLBD/BackdoorBench | 207 | 32| 
 | 20230919T07:18:35Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM-CLIP | 1 | 0| 
 | 20230919T02:53:46Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-security-benchmark | 2 | 1| 
