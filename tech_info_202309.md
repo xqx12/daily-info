@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230919T23:55:49Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
+| 20230920T00:10:51Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230919T14:24:34Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20230919T12:47:12Z | cve-2023-38831 | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | https://github.com/elefantesagradodeluzinfinita/cve-2023-38831 | | 
 | 20230919T10:38:34Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | | 
@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230919T21:30:05Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 3 | 2| 
+| 20230920T00:10:04Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 4 | 2| 
 | 20230919T19:50:55Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 45 | 6| 
 | 20230919T19:44:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 492 | 117| 
 | 20230919T18:11:58Z | Implementating method FL-Bandage | https://github.com/fabiola-espinoza-castellon/Federated_Uncovering_of_Backdoor_Attacks | 0 | 0| 
