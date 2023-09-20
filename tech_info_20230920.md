@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:07:50Z | A tool to find web page inputs for XSS fuzzing | https://github.com/joshkar/X-Recon | 0 | 0| 
 | 20230920T11:49:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10099 | 1147| 
 | 20230920T11:31:22Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 228 | 6| 
 | 20230920T11:28:52Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 43 | 5| 
@@ -86,7 +87,6 @@
 | 20230920T11:05:47Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
 | 20230920T10:20:49Z | Null | https://github.com/wanghan0000/fuzzy-octo-happiness | 0 | 0| 
 | 20230920T05:40:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 849 | 115| 
-| 20230920T02:35:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5085 | 540| 
 
 
 
