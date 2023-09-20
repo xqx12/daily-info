@@ -58,7 +58,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230919T19:50:55Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 45 | 6| 
 | 20230919T19:44:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 492 | 117| 
 | 20230919T18:11:58Z | Implementating method FL-Bandage | https://github.com/fabiola-espinoza-castellon/Federated_Uncovering_of_Backdoor_Attacks | 0 | 0| 
 | 20230919T14:35:03Z | Null | https://github.com/Karroat/backdoor | 0 | 0| 
@@ -68,6 +67,7 @@
 | 20230919T07:18:35Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM-CLIP | 1 | 0| 
 | 20230919T02:53:46Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-security-benchmark | 2 | 1| 
 | 20230919T02:31:19Z | Null | https://github.com/1Lem/phpstudy_backdoor | 0 | 0| 
+| 20230919T02:10:09Z | PHP shells backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 28 | 12| 
 
 
 # symbolic execution on Github 推荐
