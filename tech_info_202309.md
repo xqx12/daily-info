@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 201 | 22| 
 | 20230920T10:54:52Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1409 | 389| 
 | 20230920T09:42:35Z | Null | https://github.com/SCLBD/BackdoorBench | 208 | 32| 
 | 20230920T08:56:26Z | for cab441 prac 7 | https://github.com/jsonfin17/doublepulsar-backdoor-connect-win7.pcap | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20230920T00:10:04Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 4 | 2| 
 | 20230919T19:44:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 492 | 117| 
 | 20230919T18:11:58Z | Implementating method FL-Bandage | https://github.com/fabiola-espinoza-castellon/Federated_Uncovering_of_Backdoor_Attacks | 0 | 0| 
-| 20230919T14:35:03Z | Null | https://github.com/Karroat/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -127,7 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230920T12:53:19Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
+| 20230920T12:56:13Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
 | 20230920T12:48:53Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10100 | 1147| 
 | 20230920T12:35:06Z | Null | https://github.com/kmkm3232/poe-trade-fuzzy-search | 0 | 0| 
 | 20230920T12:30:33Z | A tool to find web page inputs for XSS fuzzing | https://github.com/joshkar/X-Recon | 0 | 0| 
