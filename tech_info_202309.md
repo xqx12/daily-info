@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:07:03Z | GitOps Repository | https://github.com/pmacik-testing/ci10t-776-0096-app-dSDJe-close-exploit | 0 | 0| 
 | 20230920T11:36:35Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | https://github.com/im-hanzou/MSAPer | 1 | 1| 
 | 20230920T11:34:29Z | cracked synapse for roblox exploiting | https://github.com/Laurikes/synapse | 0 | 0| 
 | 20230920T11:29:30Z | cracked synapse for roblox exploiting | https://github.com/Laurikes/synapsecracked | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230920T08:47:47Z | versions of my dnn exploit for chatgpt | https://github.com/ell1psis/chatgptdnn | 0 | 0| 
 | 20230920T01:56:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-176f3bd6-accb-4d55-ab63-cd2aa25c65fa-9_PrA-exploit-rid | 0 | 0| 
 | 20230920T01:53:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f3781718-eb3b-4f4c-ad7d-b0ca8199a393-Duu0J-exploit-stick | 0 | 0| 
-| 20230920T01:51:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-745a416b-1d45-4a75-ae47-cdea2638b32c-xZm6--climb-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
