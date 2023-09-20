@@ -77,12 +77,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:35:06Z | Null | https://github.com/kmkm3232/poe-trade-fuzzy-search | 0 | 0| 
 | 20230920T12:30:33Z | A tool to find web page inputs for XSS fuzzing | https://github.com/joshkar/X-Recon | 0 | 0| 
 | 20230920T12:24:26Z | for real this time | https://github.com/oJuras/fuzzycorp_bfn | 0 | 0| 
 | 20230920T11:49:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10099 | 1147| 
 | 20230920T11:31:22Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 228 | 6| 
 | 20230920T11:28:52Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 43 | 5| 
-| 20230920T11:27:34Z | Null | https://github.com/kmkm3232/poe-trade-fuzzy-search | 0 | 0| 
 | 20230920T11:25:41Z | Null | https://github.com/TITANBG/fuzzy-journey | 0 | 0| 
 | 20230920T11:15:05Z | A complete set of codes to match 2 datasets inspired from a room type dataset ( https://www.kaggle.com/code/kerneler/starter-room-type-8dab5613-e/input) | https://github.com/VarunSKumar94/FuzzyMatchingSQL | 0 | 0| 
 | 20230920T11:05:47Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
