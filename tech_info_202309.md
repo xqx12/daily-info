@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:51:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-745a416b-1d45-4a75-ae47-cdea2638b32c-xZm6--climb-exploit | 0 | 0| 
 | 20230920T01:45:24Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75d1deca-2a5f-4387-a0ef-9e124de79f98-y0T5a-marry-exploit | 0 | 0| 
 | 20230920T01:41:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0048-app-Mv81Z-exploit-attend | 0 | 0| 
 | 20230920T01:38:38Z | This is my first comprehensive web project. I need to exploit the content that I have been learning as much as possible. External research will also go a long way | https://github.com/alegoeugene/Landing-Page | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230920T00:24:18Z | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | 1 | 0| 
 | 20230919T23:58:05Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWpa | 1 | 0| 
 | 20230919T23:57:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANp | 1 | 0| 
-| 20230919T23:56:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANp | 1 | 0| 
 
 
 # backdoor on Github 推荐
