@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:38:38Z | This is my first comprehensive web project. I need to exploit the content that I have been learning as much as possible. External research will also go a long way | https://github.com/alegoeugene/Landing-Page | 0 | 0| 
 | 20230920T01:07:20Z | GitOps Repository | https://github.com/pmacik-testing/cima-0010-0008-app-pmbLc-exploit-will | 0 | 0| 
 | 20230920T01:00:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0008-app-O3-IN-force-exploit | 0 | 0| 
 | 20230920T00:41:56Z | Null | https://github.com/duduuu/kernel_exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T23:56:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:55:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:13:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 731 | 179| 
-| 20230919T18:14:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5347 | 1047| 
 
 
 # backdoor on Github 推荐
@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:28:32Z | OneScan是递归目录扫描的BurpSuite插件 | https://github.com/vaycore/OneScan | 320 | 20| 
 | 20230920T01:23:17Z | Null | https://github.com/thomascard2004/sistema-fuzzy-IA | 0 | 0| 
 | 20230920T01:06:15Z | This is a buffer overflows fuzzing script | https://github.com/Sabber-InfoSec/buffer-overflows_fuzzing | 0 | 0| 
 | 20230919T23:52:26Z | Null | https://github.com/reda893/fuzzy-octo-succotash | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230919T12:51:52Z | Null | https://github.com/cesarvanleuffelen/fuzzy-umbrella | 0 | 0| 
 | 20230919T12:51:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9019 | 1997| 
 | 20230919T12:31:34Z | Null | https://github.com/JokerEren7/fuzzy-pancake | 0 | 0| 
-| 20230919T12:21:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
 
 
 
