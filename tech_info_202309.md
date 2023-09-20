@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:00:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0008-app-O3-IN-force-exploit | 0 | 0| 
 | 20230920T00:41:56Z | Null | https://github.com/duduuu/kernel_exploit | 0 | 0| 
 | 20230920T00:24:18Z | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | 1 | 0| 
 | 20230919T23:58:05Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWpa | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T23:13:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 731 | 179| 
 | 20230919T18:14:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5347 | 1047| 
 | 20230919T12:47:12Z | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | https://github.com/elefantesagradodeluzinfinita/cve-2023-38831 | 0 | 0| 
-| 20230919T12:33:29Z | Many of the listed items relate to vulnerabilities or attacks in web security. They involve exploiting weaknesses in authentication, authorization, or input validation, potentially leading to unauthorized access, data breaches, or service disruption | https://github.com/99220041819/vulnerability-attacks- | 0 | 0| 
 
 
 # backdoor on Github 推荐
