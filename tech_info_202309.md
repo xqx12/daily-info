@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:41:24Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0048-app-Mv81Z-exploit-attend | 0 | 0| 
 | 20230920T01:38:38Z | This is my first comprehensive web project. I need to exploit the content that I have been learning as much as possible. External research will also go a long way | https://github.com/alegoeugene/Landing-Page | 0 | 0| 
 | 20230920T01:07:20Z | GitOps Repository | https://github.com/pmacik-testing/cima-0010-0008-app-pmbLc-exploit-will | 0 | 0| 
 | 20230920T01:00:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0008-app-O3-IN-force-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230919T23:57:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:56:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:55:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANp | 1 | 0| 
-| 20230919T23:13:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 731 | 179| 
 
 
 # backdoor on Github 推荐
