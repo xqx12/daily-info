@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230920T12:43:23Z | CVE-2023-40989 | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | https://github.com/Zone1-Z/CVE-2023-40989 | | 
 | 20230920T11:35:12Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230920T09:47:31Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20230920T09:46:16Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
@@ -35,7 +36,6 @@
 | 20230920T02:33:40Z | CVE-2023-36844 | Perform With Massive Juniper Remote Code Execution | https://github.com/Pari-Malam/CVE-2023-36844 | | 
 | 20230920T00:24:18Z | CVE-2023-0255 | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | | 
 | 20230919T14:24:34Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20230919T12:47:12Z | cve-2023-38831 | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | https://github.com/elefantesagradodeluzinfinita/cve-2023-38831 | | 
 
 
 # klee on Github 推荐
