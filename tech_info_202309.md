@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:56:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-176f3bd6-accb-4d55-ab63-cd2aa25c65fa-9_PrA-exploit-rid | 0 | 0| 
 | 20230920T01:53:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f3781718-eb3b-4f4c-ad7d-b0ca8199a393-Duu0J-exploit-stick | 0 | 0| 
 | 20230920T01:51:20Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-745a416b-1d45-4a75-ae47-cdea2638b32c-xZm6--climb-exploit | 0 | 0| 
 | 20230920T01:45:24Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-75d1deca-2a5f-4387-a0ef-9e124de79f98-y0T5a-marry-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230920T01:00:05Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0010-0008-app-O3-IN-force-exploit | 0 | 0| 
 | 20230920T00:41:56Z | Null | https://github.com/duduuu/kernel_exploit | 0 | 0| 
 | 20230920T00:24:18Z | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | 1 | 0| 
-| 20230919T23:58:05Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWpa | 1 | 0| 
 
 
 # backdoor on Github 推荐
