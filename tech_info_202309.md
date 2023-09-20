@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T01:23:17Z | Null | https://github.com/thomascard2004/sistema-fuzzy-IA | 0 | 0| 
 | 20230920T01:06:15Z | This is a buffer overflows fuzzing script | https://github.com/Sabber-InfoSec/buffer-overflows_fuzzing | 0 | 0| 
 | 20230919T23:52:26Z | Null | https://github.com/reda893/fuzzy-octo-succotash | 0 | 0| 
 | 20230919T23:26:05Z | FuzzyCorp. first game, for real this time | https://github.com/oJuras/fuzzycorp_bfn | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230919T12:51:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9019 | 1997| 
 | 20230919T12:31:34Z | Null | https://github.com/JokerEren7/fuzzy-pancake | 0 | 0| 
 | 20230919T12:21:33Z | Null | https://github.com/TwoTanawin/AI-Neuro-Fuzzy | 0 | 0| 
-| 20230919T12:12:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 220| 
 
 
 
