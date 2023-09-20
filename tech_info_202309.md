@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230920T00:17:58Z | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | 0 | 0| 
+| 20230920T00:24:18Z | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | 1 | 0| 
 | 20230919T23:58:05Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWpa | 1 | 0| 
 | 20230919T23:57:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANp | 1 | 0| 
 | 20230919T23:56:33Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANp | 1 | 0| 
