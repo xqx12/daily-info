@@ -26,6 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230921T00:27:10Z | CVE-2023-31718 | Null | https://github.com/MateusTesser/CVE-2023-31718 | | 
+| 20230921T00:25:53Z | CVE-2023-31717 | Null | https://github.com/MateusTesser/CVE-2023-31717 | | 
+| 20230921T00:24:25Z | CVE-2023-31716 | Null | https://github.com/MateusTesser/CVE-2023-31716 | | 
 | 20230920T23:21:07Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
 | 20230920T22:25:16Z | CVE-2021-39165 | Python3 POC for CVE-2021-39165 in CachetHQ | https://github.com/manbolq/CVE-2021-39165 | | 
 | 20230920T21:50:46Z | CVE-2023-36761 | Null | https://github.com/apt0factury/CVE-2023-36761 | | 
@@ -33,9 +36,6 @@
 | 20230920T20:16:37Z | CVE-2022-26134 | A PoC for CVE-2022-26134 for Educational Purposes and Security Research | https://github.com/acfirthh/CVE-2022-26134 | | 
 | 20230920T12:43:23Z | CVE-2023-40989 | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | https://github.com/Zone1-Z/CVE-2023-40989 | | 
 | 20230920T11:35:12Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
-| 20230920T09:47:31Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230920T06:55:49Z | CVE-2023-36109 | a poc for cve-2023-36109  | https://github.com/Limesss/CVE-2023-36109 | | 
-| 20230920T04:49:20Z | CVE-2023-4128 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128 | | 
 
 
 # klee on Github 推荐
@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T00:25:41Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3643 | 531| 
 | 20230921T00:22:46Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-21a47422-05cb-43cb-86ac-f7dc5073490c-y0T5a-exploit-turn | 0 | 0| 
 | 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 | 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20230920T18:38:19Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 0| 
 | 20230920T16:43:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 84 | 31| 
 | 20230920T12:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 160 | 13| 
-| 20230920T12:07:03Z | GitOps Repository | https://github.com/pmacik-testing/ci10t-776-0096-app-dSDJe-close-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
