@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:05:35Z | CVE-2023-25136 | Null | https://github.com/malvika-thakur/CVE-2023-25136 | | 
 | 20230921T07:42:36Z | CVE-2023-38831 | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | https://github.com/malvika-thakur/CVE-2023-38831 | | 
 | 20230921T06:10:01Z | CVE-2023-35687 | Null | https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679 | | 
 | 20230921T02:55:11Z | CVE-2023-27163 | Python implementation of CVE-2023-27163 | https://github.com/Hamibubu/CVE-2023-27163 | | 

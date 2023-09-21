@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:05:35Z | CVE-2023-25136 | Null | https://github.com/malvika-thakur/CVE-2023-25136 | | 
 | 20230921T07:42:36Z | CVE-2023-38831 | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | https://github.com/malvika-thakur/CVE-2023-38831 | | 
 | 20230921T06:10:01Z | CVE-2023-35687 | Null | https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679 | | 
 | 20230921T02:55:11Z | CVE-2023-27163 | Python implementation of CVE-2023-27163 | https://github.com/Hamibubu/CVE-2023-27163 | | 
@@ -35,7 +36,6 @@
 | 20230921T00:24:25Z | CVE-2023-31716 | Null | https://github.com/MateusTesser/CVE-2023-31716 | | 
 | 20230920T23:21:07Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
 | 20230920T22:25:16Z | CVE-2021-39165 | Python3 POC for CVE-2021-39165 in CachetHQ | https://github.com/manbolq/CVE-2021-39165 | | 
-| 20230920T21:50:46Z | CVE-2023-36761 | Null | https://github.com/apt0factury/CVE-2023-36761 | | 
 
 
 # klee on Github 推荐
