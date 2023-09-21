@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:38:11Z | Config files for my GitHub profile. | https://github.com/NexxussExploits/NexxussExploits | 0 | 0| 
 | 20230921T12:29:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-2042007e-a594-4ba0-be36-0a95eab17b45-3RyLU-exploit-shall | 0 | 0| 
 | 20230921T11:10:55Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 82 | 8| 
 | 20230921T10:24:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5974 | 792| 
@@ -50,9 +51,8 @@
 | 20230921T09:52:05Z | Exploiting Data Plane Programmability to Enhance Service Orchestration in the Edge: a focus on Industrial Security | https://github.com/UniboSecurityResearch/P4-Forch_KatharaTopo | 0 | 0| 
 | 20230921T09:43:18Z | Null | https://github.com/eackkk/linux_exploit | 0 | 0| 
 | 20230921T09:27:52Z | Null | https://github.com/yTxZx/FastJson1.2.24_RCE_exploit | 0 | 0| 
+| 20230921T09:15:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5355 | 1049| 
 | 20230921T08:45:18Z | Null | https://github.com/0xvNFT/androidExploit | 0 | 0| 
-| 20230921T08:37:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5536 | 759| 
-| 20230921T08:06:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 161 | 13| 
 
 
 # backdoor on Github 推荐
