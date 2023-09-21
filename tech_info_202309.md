@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:29:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-2042007e-a594-4ba0-be36-0a95eab17b45-3RyLU-exploit-shall | 0 | 0| 
 | 20230921T11:10:55Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 82 | 8| 
 | 20230921T10:24:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5974 | 792| 
 | 20230921T09:56:41Z | Find CVEs associated to Linux and public exploits on github | https://github.com/lucsemassa/linux_kernel_cves_search | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20230921T08:45:18Z | Null | https://github.com/0xvNFT/androidExploit | 0 | 0| 
 | 20230921T08:37:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5536 | 759| 
 | 20230921T08:06:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 161 | 13| 
-| 20230921T03:09:21Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1088 | 210| 
 
 
 # backdoor on Github 推荐
