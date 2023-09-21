@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230921T01:45:42Z | Roblox exploit level7 | https://github.com/UnityYesUnity/seleniumv1.3-microsoftstore-version | 0 | 0| 
+| 20230921T01:51:25Z | Roblox exploit level7 | https://github.com/UnityYesUnity/seleniumv1.3-microsoftstore-version | 0 | 0| 
 | 20230921T01:22:58Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0037-app-CYpoD-inform-exploit | 0 | 0| 
 | 20230921T01:01:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 567 | 111| 
 | 20230921T00:32:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWma | 1 | 0| 
@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T01:49:47Z | Null | https://github.com/leticiamarts/fuzzy-credit | 0 | 0| 
 | 20230921T01:42:51Z | Null | https://github.com/Fuzzyfo65/Fuzzyfo65 | 0 | 0| 
 | 20230921T01:07:07Z | Null | https://github.com/gpt-fuzz/gpt-fuzz | 0 | 0| 
 | 20230921T01:04:18Z | Null | https://github.com/google/fuzztest | 403 | 28| 
@@ -136,7 +137,6 @@
 | 20230920T23:03:05Z | Null | https://github.com/clauscastillo/fuzzion | 0 | 0| 
 | 20230920T22:34:53Z | Null | https://github.com/RafDubeau/fuzzy-test | 0 | 0| 
 | 20230920T21:39:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5088 | 540| 
-| 20230920T21:25:16Z | Null | https://github.com/Rsedjxbs/fuzzy-carnival | 0 | 0| 
 
 
 
