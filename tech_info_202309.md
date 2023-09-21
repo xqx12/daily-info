@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T00:30:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANma | 1 | 0| 
+| 20230921T00:29:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANma | 1 | 0| 
 | 20230921T00:25:41Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3643 | 531| 
 | 20230921T00:22:46Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-21a47422-05cb-43cb-86ac-f7dc5073490c-y0T5a-exploit-turn | 0 | 0| 
 | 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
+| 20230920T21:41:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5352 | 1049| 
 | 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
 | 20230920T20:33:35Z | Null | https://github.com/nvth/exploit-cve | 0 | 0| 
 | 20230920T20:10:49Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 18 | 13| 
 | 20230920T18:57:36Z | a fairer housing model that would reward, not exploit, tenants for paying off rental housing equity | https://github.com/richard-hartnell/delt-housing | 0 | 0| 
-| 20230920T18:38:19Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 0| 
-| 20230920T16:43:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 84 | 31| 
-| 20230920T12:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 160 | 13| 
 
 
 # backdoor on Github 推荐

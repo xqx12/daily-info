@@ -45,6 +45,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
+| 20230920T21:41:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5352 | 1049| 
 | 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
 | 20230920T20:33:35Z | Null | https://github.com/nvth/exploit-cve | 0 | 0| 
 | 20230920T20:10:49Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 18 | 13| 
@@ -53,7 +54,6 @@
 | 20230920T16:43:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 84 | 31| 
 | 20230920T12:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 160 | 13| 
 | 20230920T12:07:03Z | GitOps Repository | https://github.com/pmacik-testing/ci10t-776-0096-app-dSDJe-close-exploit | 0 | 0| 
-| 20230920T11:36:35Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | https://github.com/im-hanzou/MSAPer | 1 | 1| 
 
 
 # backdoor on Github 推荐
