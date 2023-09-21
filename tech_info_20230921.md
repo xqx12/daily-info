@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:50:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2769 | 195| 
 | 20230921T12:33:23Z | CHAD introduction to Fuzzing | https://github.com/Quinnan-Gill/IntroToFuzzing | 0 | 0| 
 | 20230921T10:59:17Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
 | 20230921T10:37:58Z | In the above process of diabetes diagnosis using fuzzy logic, a systematic approach is followed. Here the final result is presented  in a meaningful way | https://github.com/Ayushi573/Diabetes-Diagnosis-Fuzzy-Logic- | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20230921T01:49:47Z | Null | https://github.com/leticiamarts/fuzzy-credit | 0 | 0| 
 | 20230921T01:42:51Z | Null | https://github.com/Fuzzyfo65/Fuzzyfo65 | 0 | 0| 
 | 20230921T01:07:07Z | Null | https://github.com/gpt-fuzz/gpt-fuzz | 0 | 0| 
-| 20230921T01:04:18Z | Null | https://github.com/google/fuzztest | 403 | 28| 
 
 
 
