@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T00:32:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWma | 1 | 0| 
+| 20230921T00:31:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANma | 1 | 0| 
 | 20230921T00:30:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANma | 1 | 0| 
 | 20230921T00:29:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANma | 1 | 0| 
 | 20230921T00:25:41Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3643 | 531| 
@@ -75,8 +77,6 @@
 | 20230920T21:41:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5352 | 1049| 
 | 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
 | 20230920T20:33:35Z | Null | https://github.com/nvth/exploit-cve | 0 | 0| 
-| 20230920T20:10:49Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 18 | 13| 
-| 20230920T18:57:36Z | a fairer housing model that would reward, not exploit, tenants for paying off rental housing equity | https://github.com/richard-hartnell/delt-housing | 0 | 0| 
 
 
 # backdoor on Github 推荐
