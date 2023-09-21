@@ -74,11 +74,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T15:39:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3537 | 487| 
+| 20230920T15:37:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2318 | 636| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T18:56:40Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
+| 20230920T15:20:03Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 18 | 2| 
 
 
 # fuzz on Github 推荐
