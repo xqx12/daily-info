@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230921 | 主动扫描中的 TLS 指纹 | https://mp.weixin.qq.com/s/YmPGTb8G8j06Z3tKERpnXA| 
 | 20230920 | CVE-2023-38831 WinRAR 漏洞分析 | https://paper.seebug.org/3036/| 
 | 20230919 | 使用ChatGPT模拟程序员的行为来进行Bug修复 | https://mp.weixin.qq.com/s/9AgAJI904fram7wuB39TDQ| 
 | 20230919 | 中国网络安全产业分析报告（2023年） | https://pan.baidu.com/s/1ukmN9h6_lOzXDYKcr3DB-Q?pwd=bqxv| 
@@ -20,12 +21,14 @@
 | 20230916 | 全球定位系统GPS星座概述 | https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ| 
 | 20230916 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A| 
 | 20230916 | 探索基于LLM的Bug复现 | https://mp.weixin.qq.com/s/bsFJq_jM46bfiFHdMqpyrQ| 
-| 20230915 | 代码审计 , shutil.copy函数条件竞争 | https://mp.weixin.qq.com/s/uE3n_4zEcfBTv8k8w_giEw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230921T07:42:36Z | CVE-2023-38831 | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | https://github.com/malvika-thakur/CVE-2023-38831 | | 
+| 20230921T06:10:01Z | CVE-2023-35687 | Null | https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679 | | 
+| 20230921T02:55:11Z | CVE-2023-27163 | Python implementation of CVE-2023-27163 | https://github.com/Hamibubu/CVE-2023-27163 | | 
 | 20230921T00:28:17Z | CVE-2023-31719 | Null | https://github.com/MateusTesser/CVE-2023-31719 | | 
 | 20230921T00:27:10Z | CVE-2023-31718 | Null | https://github.com/MateusTesser/CVE-2023-31718 | | 
 | 20230921T00:25:53Z | CVE-2023-31717 | Null | https://github.com/MateusTesser/CVE-2023-31717 | | 
@@ -33,16 +36,13 @@
 | 20230920T23:21:07Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
 | 20230920T22:25:16Z | CVE-2021-39165 | Python3 POC for CVE-2021-39165 in CachetHQ | https://github.com/manbolq/CVE-2021-39165 | | 
 | 20230920T21:50:46Z | CVE-2023-36761 | Null | https://github.com/apt0factury/CVE-2023-36761 | | 
-| 20230920T21:26:42Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
-| 20230920T20:16:37Z | CVE-2022-26134 | A PoC for CVE-2022-26134 for Educational Purposes and Security Research | https://github.com/acfirthh/CVE-2022-26134 | | 
-| 20230920T12:43:23Z | CVE-2023-40989 | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | https://github.com/Zone1-Z/CVE-2023-40989 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230921T01:35:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13859 | 423| 
-| 20230920T15:37:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2318 | 636| 
+| 20230921T11:06:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13868 | 423| 
+| 20230921T05:56:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2319 | 636| 
 | 20230919T11:32:45Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 23 | 10| 
 | 20230918T22:18:51Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
 | 20230918T21:27:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
@@ -56,37 +56,38 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T10:55:43Z | Null | https://github.com/MetadataGitTesting/s2elgWnP | 0 | 0| 
 | 20230918T21:33:09Z | Null | https://github.com/eavithefteo1982/s2e56vq0 | 0 | 0| 
 | 20230916T21:51:16Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 1| 
 | 20230916T21:49:49Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
 | 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 82| 
 | 20230915T05:32:09Z | Null | https://github.com/MetadataGitTesting/S2E7bkHy | 0 | 0| 
-| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 14| 
+| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230921T01:51:25Z | Roblox exploit level7 | https://github.com/UnityYesUnity/seleniumv1.3-microsoftstore-version | 0 | 0| 
-| 20230921T01:22:58Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0037-app-CYpoD-inform-exploit | 0 | 0| 
-| 20230921T01:01:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 567 | 111| 
-| 20230921T00:32:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWma | 1 | 0| 
-| 20230921T00:31:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANma | 1 | 0| 
-| 20230921T00:30:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANma | 1 | 0| 
-| 20230921T00:29:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANma | 1 | 0| 
-| 20230921T00:25:41Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3643 | 531| 
-| 20230921T00:22:46Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-21a47422-05cb-43cb-86ac-f7dc5073490c-y0T5a-exploit-turn | 0 | 0| 
-| 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
+| 20230921T11:10:55Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 82 | 8| 
+| 20230921T10:24:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5974 | 792| 
+| 20230921T09:56:41Z | Find CVEs associated to Linux and public exploits on github | https://github.com/lucsemassa/linux_kernel_cves_search | 0 | 0| 
+| 20230921T09:52:05Z | Exploiting Data Plane Programmability to Enhance Service Orchestration in the Edge: a focus on Industrial Security | https://github.com/UniboSecurityResearch/P4-Forch_KatharaTopo | 0 | 0| 
+| 20230921T09:43:18Z | Null | https://github.com/eackkk/linux_exploit | 0 | 0| 
+| 20230921T09:27:52Z | Null | https://github.com/yTxZx/FastJson1.2.24_RCE_exploit | 0 | 0| 
+| 20230921T08:45:18Z | Null | https://github.com/0xvNFT/androidExploit | 0 | 0| 
+| 20230921T08:37:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5536 | 759| 
+| 20230921T08:06:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 161 | 13| 
+| 20230921T03:09:21Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1088 | 210| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230920T20:14:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 47 | 6| 
+| 20230921T10:52:21Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 48 | 6| 
+| 20230921T10:05:42Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 8 | 2| 
+| 20230921T09:38:27Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1411 | 389| 
 | 20230920T19:52:58Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 129 | 20| 
 | 20230920T16:34:17Z | Encrypted Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-Python | 1 | 1| 
-| 20230920T15:26:00Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1410 | 389| 
-| 20230920T15:16:26Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 5 | 2| 
 | 20230920T12:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 201 | 22| 
 | 20230920T09:42:35Z | Null | https://github.com/SCLBD/BackdoorBench | 208 | 32| 
 | 20230920T08:56:26Z | for cab441 prac 7 | https://github.com/jsonfin17/doublepulsar-backdoor-connect-win7.pcap | 0 | 0| 
@@ -127,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T10:59:17Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
+| 20230921T10:37:58Z | In the above process of diabetes diagnosis using fuzzy logic, a systematic approach is followed. Here the final result is presented  in a meaningful way | https://github.com/Ayushi573/Diabetes-Diagnosis-Fuzzy-Logic- | 0 | 0| 
+| 20230921T09:36:34Z | Null | https://github.com/szczynk/fuzzy-octo-enigma | 0 | 0| 
+| 20230921T08:54:07Z | Machine Judgement day | https://github.com/MICHAELTECHINO/Fuzzy-barnacle | 0 | 0| 
+| 20230921T03:17:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5089 | 541| 
 | 20230921T01:49:47Z | Null | https://github.com/leticiamarts/fuzzy-credit | 0 | 0| 
 | 20230921T01:42:51Z | Null | https://github.com/Fuzzyfo65/Fuzzyfo65 | 0 | 0| 
 | 20230921T01:07:07Z | Null | https://github.com/gpt-fuzz/gpt-fuzz | 0 | 0| 
 | 20230921T01:04:18Z | Null | https://github.com/google/fuzztest | 403 | 28| 
 | 20230921T01:04:10Z | Null | https://github.com/Ruixue7/fuzzy-garbanzo | 0 | 0| 
-| 20230921T00:39:56Z | Null | https://github.com/WangSibothunder/fuzzy-meme | 0 | 0| 
-| 20230920T23:37:56Z | Null | https://github.com/wangch64/fuzzexample | 0 | 0| 
-| 20230920T23:03:05Z | Null | https://github.com/clauscastillo/fuzzion | 0 | 0| 
-| 20230920T22:34:53Z | Null | https://github.com/RafDubeau/fuzzy-test | 0 | 0| 
-| 20230920T21:39:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5088 | 540| 
 
 
 
