@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T01:22:58Z | GitOps Repository | https://github.com/pmacik-testing/cima-0050-0037-app-CYpoD-inform-exploit | 0 | 0| 
 | 20230921T01:01:49Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 567 | 111| 
 | 20230921T00:32:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWma | 1 | 0| 
 | 20230921T00:31:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANma | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20230921T00:22:46Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-21a47422-05cb-43cb-86ac-f7dc5073490c-y0T5a-exploit-turn | 0 | 0| 
 | 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
 | 20230920T21:41:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5352 | 1049| 
-| 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
 
 
 # backdoor on Github 推荐
