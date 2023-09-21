@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230920 | CVE-2023-38831 WinRAR 漏洞分析 | https://paper.seebug.org/3036/| 
 | 20230919 | 使用ChatGPT模拟程序员的行为来进行Bug修复 | https://mp.weixin.qq.com/s/9AgAJI904fram7wuB39TDQ| 
 | 20230919 | 中国网络安全产业分析报告（2023年） | https://pan.baidu.com/s/1ukmN9h6_lOzXDYKcr3DB-Q?pwd=bqxv| 
 | 20230919 | 关于“斯诺登事件”对国际关系影响的思考 | https://mp.weixin.qq.com/s/HU4C7dj3_9LjTgfeujLjiQ| 
@@ -20,30 +21,29 @@
 | 20230916 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A| 
 | 20230916 | 探索基于LLM的Bug复现 | https://mp.weixin.qq.com/s/bsFJq_jM46bfiFHdMqpyrQ| 
 | 20230915 | 代码审计 , shutil.copy函数条件竞争 | https://mp.weixin.qq.com/s/uE3n_4zEcfBTv8k8w_giEw| 
-| 20230915 | 网络侦察技术分类综述 | https://mp.weixin.qq.com/s/2Mns_yGKDllkWEl3TS5lhg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230920T23:21:07Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
+| 20230920T22:25:16Z | CVE-2021-39165 | Python3 POC for CVE-2021-39165 in CachetHQ | https://github.com/manbolq/CVE-2021-39165 | | 
+| 20230920T21:50:46Z | CVE-2023-36761 | Null | https://github.com/apt0factury/CVE-2023-36761 | | 
+| 20230920T21:26:42Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
+| 20230920T20:16:37Z | CVE-2022-26134 | A PoC for CVE-2022-26134 for Educational Purposes and Security Research | https://github.com/acfirthh/CVE-2022-26134 | | 
 | 20230920T12:43:23Z | CVE-2023-40989 | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | https://github.com/Zone1-Z/CVE-2023-40989 | | 
 | 20230920T11:35:12Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 | 20230920T09:47:31Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20230920T09:46:16Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | https://github.com/zangcc/CVE-2022-22965-rexbb | | 
 | 20230920T06:55:49Z | CVE-2023-36109 | a poc for cve-2023-36109  | https://github.com/Limesss/CVE-2023-36109 | | 
 | 20230920T04:49:20Z | CVE-2023-4128 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128 | | 
-| 20230920T04:40:37Z | CVE-2023-08 | Axigen < 10.3.3.47, 10.2.3.12 - Reflected XSS | https://github.com/amirzargham/CVE-2023-08-21-exploit | | 
-| 20230920T02:33:40Z | CVE-2023-36844 | Perform With Massive Juniper Remote Code Execution | https://github.com/Pari-Malam/CVE-2023-36844 | | 
-| 20230920T00:24:18Z | CVE-2023-0255 | Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload | https://github.com/codeb0ss/CVE-2023-0255-PoC | | 
-| 20230919T14:24:34Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230920T08:45:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13854 | 423| 
+| 20230920T23:54:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13858 | 423| 
+| 20230920T15:37:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2318 | 636| 
 | 20230919T11:32:45Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 23 | 10| 
-| 20230919T11:19:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2317 | 636| 
 | 20230918T22:18:51Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 110 | 6| 
 | 20230918T21:27:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
 | 20230918T02:22:21Z | Null | https://github.com/kleekev/kleekev | 0 | 0| 
@@ -67,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T22:58:08Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 18 | 4| 
+| 20230920T21:05:23Z | Moonstar is a penguinmod (penguinmod.site) exploit. | https://github.com/Wronggames/moonstar | 0 | 0| 
+| 20230920T20:33:35Z | Null | https://github.com/nvth/exploit-cve | 0 | 0| 
+| 20230920T20:10:49Z | The only working securly disabler.  | https://github.com/zek-c/Securly-Kill-V111 | 18 | 13| 
+| 20230920T18:57:36Z | a fairer housing model that would reward, not exploit, tenants for paying off rental housing equity | https://github.com/richard-hartnell/delt-housing | 0 | 0| 
+| 20230920T18:38:19Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 0| 
+| 20230920T16:43:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 84 | 31| 
 | 20230920T12:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 160 | 13| 
 | 20230920T12:07:03Z | GitOps Repository | https://github.com/pmacik-testing/ci10t-776-0096-app-dSDJe-close-exploit | 0 | 0| 
 | 20230920T11:36:35Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | https://github.com/im-hanzou/MSAPer | 1 | 1| 
-| 20230920T11:34:29Z | cracked synapse for roblox exploiting | https://github.com/Laurikes/synapse | 0 | 0| 
-| 20230920T11:29:30Z | cracked synapse for roblox exploiting | https://github.com/Laurikes/synapsecracked | 0 | 0| 
-| 20230920T10:49:23Z | GitOps Repository | https://github.com/pmacik-testing/ci10t-777-0062-app-diuBQ-exploit-complete | 0 | 0| 
-| 20230920T10:04:09Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1086 | 210| 
-| 20230920T09:55:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5532 | 759| 
-| 20230920T08:47:47Z | versions of my dnn exploit for chatgpt | https://github.com/ell1psis/chatgptdnn | 0 | 0| 
-| 20230920T01:56:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-176f3bd6-accb-4d55-ab63-cd2aa25c65fa-9_PrA-exploit-rid | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230920T20:14:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 47 | 6| 
+| 20230920T19:52:58Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 129 | 20| 
+| 20230920T16:34:17Z | Encrypted Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-Python | 1 | 1| 
+| 20230920T15:26:00Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1410 | 389| 
+| 20230920T15:16:26Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 5 | 2| 
 | 20230920T12:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 201 | 22| 
-| 20230920T10:54:52Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1409 | 389| 
 | 20230920T09:42:35Z | Null | https://github.com/SCLBD/BackdoorBench | 208 | 32| 
 | 20230920T08:56:26Z | for cab441 prac 7 | https://github.com/jsonfin17/doublepulsar-backdoor-connect-win7.pcap | 0 | 0| 
 | 20230920T07:59:08Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 4 | 3| 
-| 20230920T04:31:45Z | Null | https://github.com/SewoongLab/ntk-backdoor | 1 | 0| 
-| 20230920T00:35:44Z | Digital Forensic Intelligence (DFINT) | https://github.com/RENANZG/My-Forensics | 46 | 6| 
-| 20230920T00:10:04Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 4 | 2| 
-| 20230919T19:44:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 492 | 117| 
-| 20230919T18:11:58Z | Implementating method FL-Bandage | https://github.com/fabiola-espinoza-castellon/Federated_Uncovering_of_Backdoor_Attacks | 0 | 0| 
+| 20230920T07:57:52Z | PHP shells backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 30 | 12| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +127,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230920T12:56:13Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
-| 20230920T12:48:53Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10100 | 1147| 
-| 20230920T12:35:06Z | Null | https://github.com/kmkm3232/poe-trade-fuzzy-search | 0 | 0| 
-| 20230920T12:30:33Z | A tool to find web page inputs for XSS fuzzing | https://github.com/joshkar/X-Recon | 0 | 0| 
-| 20230920T12:24:26Z | for real this time | https://github.com/oJuras/fuzzycorp_bfn | 0 | 0| 
-| 20230920T11:31:22Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 228 | 6| 
-| 20230920T11:28:52Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 43 | 5| 
-| 20230920T11:25:41Z | Null | https://github.com/TITANBG/fuzzy-journey | 0 | 0| 
-| 20230920T11:15:05Z | A complete set of codes to match 2 datasets inspired from a room type dataset ( https://www.kaggle.com/code/kerneler/starter-room-type-8dab5613-e/input) | https://github.com/VarunSKumar94/FuzzyMatchingSQL | 0 | 0| 
-| 20230920T11:05:47Z | Null | https://github.com/anu844/fuzzy-funicular | 0 | 0| 
+| 20230920T23:37:56Z | Null | https://github.com/wangch64/fuzzexample | 0 | 0| 
+| 20230920T23:03:05Z | Null | https://github.com/clauscastillo/fuzzion | 0 | 0| 
+| 20230920T22:34:53Z | Null | https://github.com/RafDubeau/fuzzy-test | 0 | 0| 
+| 20230920T21:39:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5088 | 540| 
+| 20230920T21:25:16Z | Null | https://github.com/Rsedjxbs/fuzzy-carnival | 0 | 0| 
+| 20230920T21:18:01Z | Null | https://github.com/Da-ntas/FuzzyLogic | 0 | 0| 
+| 20230920T21:14:24Z | Null | https://github.com/PINE-CLOUD-POND/Marketing-Analyses-at-an-Online-Retailer-Maven-Fuzzy-Factory | 0 | 0| 
+| 20230920T20:52:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9027 | 2000| 
+| 20230920T18:46:27Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 168 | 10| 
+| 20230920T15:48:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1551 | 221| 
 
 
 
