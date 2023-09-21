@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T01:07:07Z | Null | https://github.com/gpt-fuzz/gpt-fuzz | 0 | 0| 
 | 20230921T01:04:18Z | Null | https://github.com/google/fuzztest | 403 | 28| 
 | 20230921T01:04:10Z | Null | https://github.com/Ruixue7/fuzzy-garbanzo | 0 | 0| 
 | 20230921T00:39:56Z | Null | https://github.com/WangSibothunder/fuzzy-meme | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20230920T21:39:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5088 | 540| 
 | 20230920T21:25:16Z | Null | https://github.com/Rsedjxbs/fuzzy-carnival | 0 | 0| 
 | 20230920T21:18:01Z | Null | https://github.com/Da-ntas/FuzzyLogic | 0 | 0| 
-| 20230920T21:14:24Z | Null | https://github.com/PINE-CLOUD-POND/Marketing-Analyses-at-an-Online-Retailer-Maven-Fuzzy-Factory | 0 | 0| 
 
 
 
