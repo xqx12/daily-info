@@ -65,6 +65,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T05:56:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2319 | 636| 
+| 20230921T02:08:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 
 
 # big4 on Github 推荐
