@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:07:01Z | Null | https://github.com/nurarifin05/backdoor-detect | 0 | 0| 
 | 20230921T10:52:21Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 48 | 6| 
 | 20230921T10:05:42Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 8 | 2| 
 | 20230921T09:38:27Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1411 | 389| 
