@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230921T12:54:54Z | Null | https://github.com/ashwin2401/fuzzy | 0 | 0| 
 | 20230921T12:50:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2769 | 195| 
 | 20230921T12:33:23Z | CHAD introduction to Fuzzing | https://github.com/Quinnan-Gill/IntroToFuzzing | 0 | 0| 
 | 20230921T10:59:17Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20230921T03:17:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5089 | 541| 
 | 20230921T01:49:47Z | Null | https://github.com/leticiamarts/fuzzy-credit | 0 | 0| 
 | 20230921T01:42:51Z | Null | https://github.com/Fuzzyfo65/Fuzzyfo65 | 0 | 0| 
-| 20230921T01:07:07Z | Null | https://github.com/gpt-fuzz/gpt-fuzz | 0 | 0| 
 
 
 
