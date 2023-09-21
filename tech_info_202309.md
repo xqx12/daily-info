@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230921T00:28:17Z | CVE-2023-31719 | Null | https://github.com/MateusTesser/CVE-2023-31719 | | 
 | 20230921T00:27:10Z | CVE-2023-31718 | Null | https://github.com/MateusTesser/CVE-2023-31718 | | 
 | 20230921T00:25:53Z | CVE-2023-31717 | Null | https://github.com/MateusTesser/CVE-2023-31717 | | 
 | 20230921T00:24:25Z | CVE-2023-31716 | Null | https://github.com/MateusTesser/CVE-2023-31716 | | 
@@ -35,7 +36,6 @@
 | 20230920T21:26:42Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
 | 20230920T20:16:37Z | CVE-2022-26134 | A PoC for CVE-2022-26134 for Educational Purposes and Security Research | https://github.com/acfirthh/CVE-2022-26134 | | 
 | 20230920T12:43:23Z | CVE-2023-40989 | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | https://github.com/Zone1-Z/CVE-2023-40989 | | 
-| 20230920T11:35:12Z | cve-2023-36845 | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | https://github.com/vulncheck-oss/cve-2023-36845-scanner | | 
 
 
 # klee on Github 推荐
