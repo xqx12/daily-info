@@ -39,6 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T12:59:17Z | Null | https://github.com/Leakathr1n/Cr-er-et-exploiter-des-bases-de-donn-es---Creating-and-Exploiting-Databases | 0 | 0| 
+| 20230922T12:58:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5980 | 792| 
 | 20230922T12:46:28Z | GitOps Repository | https://github.com/redhat-appstudio-qe/dotnet-basic-aEFwK-agree-exploit | 0 | 0| 
 | 20230922T12:34:09Z | Null | https://github.com/ua1tche/DVR-Exploiter | 0 | 0| 
 | 20230922T12:33:01Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 95 | 8| 
@@ -46,9 +48,7 @@
 | 20230922T11:48:00Z | 899156 exploit | https://github.com/Alphaa3dd/899156 | 0 | 0| 
 | 20230922T10:48:00Z | Welcome to Project Hook, the upcoming serverside executor that is set to revolutionize the world of Roblox exploiting. | https://github.com/VeroxMenu/Release | 0 | 0| 
 | 20230922T10:00:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5367 | 1050| 
-| 20230922T08:18:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5979 | 792| 
 | 20230922T07:14:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5339 | 689| 
-| 20230922T06:49:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5539 | 759| 
 
 
 # backdoor on Github 推荐
