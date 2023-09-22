@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T12:33:01Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 95 | 8| 
 | 20230922T11:50:48Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 2 | 0| 
 | 20230922T11:48:00Z | 899156 exploit | https://github.com/Alphaa3dd/899156 | 0 | 0| 
 | 20230922T10:48:00Z | Welcome to Project Hook, the upcoming serverside executor that is set to revolutionize the world of Roblox exploiting. | https://github.com/VeroxMenu/Release | 0 | 0| 
