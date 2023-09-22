@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T00:01:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8762 | 2019| 
 | 20230921T23:29:52Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 94 | 8| 
 | 20230921T23:19:13Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWt | 1 | 0| 
 | 20230921T23:18:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANts | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20230921T22:39:49Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 94 | 8| 
 | 20230921T21:50:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 162 | 13| 
 | 20230921T20:34:07Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 75 | 7| 
-| 20230921T18:22:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8761 | 2019| 
 
 
 # backdoor on Github 推荐
