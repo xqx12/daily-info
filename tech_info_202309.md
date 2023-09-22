@@ -107,7 +107,7 @@
 | 20230918T21:22:05Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 17 | 8| 
 | 20230918T21:17:40Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 10 | 5| 
 | 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
-| 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 83| 
+| 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 82| 
 
 
 # big4 on Github 推荐
