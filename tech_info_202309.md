@@ -114,11 +114,11 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230921T20:30:46Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
+| 20230921T09:17:21Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 28 | 4| 
 | 20230920T18:56:40Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
 | 20230920T15:20:03Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 18 | 2| 
 | 20230919T20:54:07Z | Plugin for EPICS areaDetector to apply SSCPimega geometric restoration to PiMega acquired images. | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230919T11:57:58Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 2 | 0| 
-| 20230916T14:11:04Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 27 | 4| 
 | 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
 | 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
 | 20230913T13:31:22Z | Config files for my GitHub profile. | https://github.com/w1ndsssor/w1ndsssor | 0 | 0| 
