@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T12:06:21Z | Null | https://github.com/fuzzbell/fuzzbell.github.io | 0 | 0| 
 | 20230922T11:59:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2770 | 195| 
 | 20230922T10:33:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 975 | 238| 
 | 20230922T09:18:11Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 229 | 6| 

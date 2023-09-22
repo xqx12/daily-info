@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T12:06:21Z | Null | https://github.com/fuzzbell/fuzzbell.github.io | 0 | 0| 
 | 20230922T11:59:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2770 | 195| 
 | 20230922T10:33:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 975 | 238| 
 | 20230922T09:18:11Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 229 | 6| 
@@ -137,7 +138,6 @@
 | 20230921T23:15:57Z | In this exercise, we do the matching of two datasets with information about points of sale in order to identify which ones are the same. | https://github.com/JuanAbrilC/Fuzzy_wuzzy_matching | 0 | 0| 
 | 20230921T22:28:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 221| 
 | 20230921T21:29:20Z | Null | https://github.com/tmitchellisaac/fuzzy-barnacle | 0 | 0| 
-| 20230921T12:54:54Z | Null | https://github.com/ashwin2401/fuzzy | 0 | 0| 
 
 
 
