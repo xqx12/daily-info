@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T11:46:49Z | Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 1 | 1| 
 | 20230922T09:05:44Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 130 | 20| 
 | 20230922T08:34:13Z | Null | https://github.com/a-cup-of-joe/simpleBackdoor | 0 | 0| 
 | 20230922T04:59:10Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20230921T12:07:01Z | Null | https://github.com/nurarifin05/backdoor-detect | 0 | 0| 
 | 20230921T10:52:21Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 48 | 7| 
 | 20230921T10:05:42Z | Analyzes AdminSDHolder permissions & compares with a previous run, to detect potential backdoor/excessive persistent permission(s) | https://github.com/YossiSassi/Invoke-AdminSDHolderPermissionCheck | 8 | 2| 
-| 20230921T09:38:27Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 1411 | 389| 
 
 
 # symbolic execution on Github 推荐
