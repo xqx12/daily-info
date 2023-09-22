@@ -54,7 +54,7 @@
 | 20230921T22:39:49Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 94 | 8| 
 | 20230921T21:50:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 162 | 13| 
 | 20230921T20:34:07Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 75 | 7| 
-| 20230921T12:38:11Z | Config files for my GitHub profile. | https://github.com/NexxussExploits/NexxussExploits | 0 | 0| 
+| 20230921T19:35:06Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 82 | 7| 
 
 
 # backdoor on Github 推荐
