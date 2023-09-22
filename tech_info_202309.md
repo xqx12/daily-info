@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230922T01:14:21Z | CVE-2023-30845 | Explore CVE 2023-30845 de forma automática em vários subdomínos | https://github.com/himori123/-CVE-2023-30845 | | 
 | 20230921T23:27:39Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230921T14:28:18Z | CVE-2023-36846 | 批量检测CVE-2023-36846漏洞 | https://github.com/Dreamy-elfland/CVE-2023-36846 | | 
 | 20230921T13:15:40Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
@@ -35,7 +36,6 @@
 | 20230921T02:55:11Z | CVE-2023-27163 | Python implementation of CVE-2023-27163 | https://github.com/Hamibubu/CVE-2023-27163 | | 
 | 20230921T00:28:17Z | CVE-2023-31719 | Null | https://github.com/MateusTesser/CVE-2023-31719 | | 
 | 20230921T00:27:10Z | CVE-2023-31718 | Null | https://github.com/MateusTesser/CVE-2023-31718 | | 
-| 20230921T00:25:53Z | CVE-2023-31717 | Null | https://github.com/MateusTesser/CVE-2023-31717 | | 
 
 
 # klee on Github 推荐
