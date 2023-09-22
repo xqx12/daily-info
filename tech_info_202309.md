@@ -28,6 +28,7 @@
 | --- | --- | --- | --- | ---| 
 | 20230922T10:32:16Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230922T01:27:23Z | CVE-2023-30845 | Explore CVE 2023-30845 de forma automática em vários subdomínos | https://github.com/himori123/-CVE-2023-30845 | | 
+| 20230921T20:11:20Z | CVE-2023-41436 | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content | | 
 | 20230921T14:28:18Z | CVE-2023-36846 | 批量检测CVE-2023-36846漏洞 | https://github.com/Dreamy-elfland/CVE-2023-36846 | | 
 | 20230921T13:15:40Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
 | 20230921T12:06:33Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | https://github.com/malvika-thakur/CVE-2023-25136 | | 
@@ -35,7 +36,6 @@
 | 20230921T06:10:01Z | CVE-2023-35687 | Null | https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679 | | 
 | 20230921T02:55:11Z | CVE-2023-27163 | Python implementation of CVE-2023-27163 | https://github.com/Hamibubu/CVE-2023-27163 | | 
 | 20230921T00:28:17Z | CVE-2023-31719 | Null | https://github.com/MateusTesser/CVE-2023-31719 | | 
-| 20230921T00:27:10Z | CVE-2023-31718 | Null | https://github.com/MateusTesser/CVE-2023-31718 | | 
 
 
 # klee on Github 推荐
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T12:19:08Z | Null | https://github.com/wangch64/fuzzexample | 0 | 0| 
 | 20230922T12:06:21Z | Null | https://github.com/fuzzbell/fuzzbell.github.io | 0 | 0| 
 | 20230922T11:59:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2770 | 195| 
 | 20230922T10:33:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 975 | 238| 
@@ -137,7 +138,6 @@
 | 20230921T23:25:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 399 | 50| 
 | 20230921T23:15:57Z | In this exercise, we do the matching of two datasets with information about points of sale in order to identify which ones are the same. | https://github.com/JuanAbrilC/Fuzzy_wuzzy_matching | 0 | 0| 
 | 20230921T22:28:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 221| 
-| 20230921T21:29:20Z | Null | https://github.com/tmitchellisaac/fuzzy-barnacle | 0 | 0| 
 
 
 
