@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230921T23:45:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5360 | 1049| 
 | 20230921T23:29:52Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 94 | 8| 
 | 20230921T23:19:13Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWt | 1 | 0| 
 | 20230921T23:18:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANts | 1 | 0| 
@@ -55,6 +54,7 @@
 | 20230921T22:39:49Z | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | 94 | 8| 
 | 20230921T21:50:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 162 | 13| 
 | 20230921T20:34:07Z | DevHaxx is the BEST iReady hack | https://github.com/DevTech-Services/DevHaxx | 75 | 7| 
+| 20230921T19:35:06Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 82 | 7| 
 
 
 # backdoor on Github 推荐
@@ -88,7 +88,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230921T23:25:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 399 | 50| 
 | 20230921T23:15:57Z | In this exercise, we do the matching of two datasets with information about points of sale in order to identify which ones are the same. | https://github.com/JuanAbrilC/Fuzzy_wuzzy_matching | 0 | 0| 
-| 20230921T22:37:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9033 | 2000| 
 | 20230921T22:28:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 221| 
 | 20230921T21:29:20Z | Null | https://github.com/tmitchellisaac/fuzzy-barnacle | 0 | 0| 
 | 20230921T12:54:54Z | Null | https://github.com/ashwin2401/fuzzy | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20230921T12:33:23Z | CHAD introduction to Fuzzing | https://github.com/Quinnan-Gill/IntroToFuzzing | 0 | 0| 
 | 20230921T10:59:17Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
 | 20230921T10:37:58Z | In the above process of diabetes diagnosis using fuzzy logic, a systematic approach is followed. Here the final result is presented  in a meaningful way | https://github.com/Ayushi573/Diabetes-Diagnosis-Fuzzy-Logic- | 0 | 0| 
+| 20230921T09:36:34Z | Null | https://github.com/szczynk/fuzzy-octo-enigma | 0 | 0| 
 
 
 

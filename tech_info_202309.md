@@ -60,7 +60,7 @@
 | 20230918T21:33:09Z | Null | https://github.com/eavithefteo1982/s2e56vq0 | 0 | 0| 
 | 20230916T21:51:16Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 1| 
 | 20230916T21:49:49Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
-| 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 83| 
+| 20230916T21:29:01Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 352 | 82| 
 | 20230915T05:32:09Z | Null | https://github.com/MetadataGitTesting/S2E7bkHy | 0 | 0| 
 | 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
 
@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T01:54:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5361 | 1050| 
 | 20230922T01:45:51Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 1 | 0| 
 | 20230922T00:01:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8762 | 2019| 
-| 20230921T23:45:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5360 | 1049| 
 | 20230921T23:29:52Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 94 | 8| 
 | 20230921T23:19:13Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWt | 1 | 0| 
 | 20230921T23:18:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANts | 1 | 0| 
@@ -128,9 +128,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230922T01:54:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9034 | 2000| 
 | 20230921T23:25:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 399 | 50| 
 | 20230921T23:15:57Z | In this exercise, we do the matching of two datasets with information about points of sale in order to identify which ones are the same. | https://github.com/JuanAbrilC/Fuzzy_wuzzy_matching | 0 | 0| 
-| 20230921T22:37:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9033 | 2000| 
 | 20230921T22:28:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1550 | 221| 
 | 20230921T21:29:20Z | Null | https://github.com/tmitchellisaac/fuzzy-barnacle | 0 | 0| 
 | 20230921T12:54:54Z | Null | https://github.com/ashwin2401/fuzzy | 0 | 0| 
