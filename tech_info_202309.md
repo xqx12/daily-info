@@ -71,13 +71,13 @@
 | 20230922T11:50:48Z | the biggest bookmarklet pack on the internet. featuring me, and Nathan Hutchinson, from Sutton schools | https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets | 2 | 0| 
 | 20230922T11:48:00Z | 899156 exploit | https://github.com/Alphaa3dd/899156 | 0 | 0| 
 | 20230922T10:48:00Z | Welcome to Project Hook, the upcoming serverside executor that is set to revolutionize the world of Roblox exploiting. | https://github.com/VeroxMenu/Release | 0 | 0| 
+| 20230922T08:18:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5979 | 792| 
 | 20230922T07:14:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5339 | 689| 
 | 20230922T06:49:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5539 | 759| 
 | 20230922T01:54:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5361 | 1050| 
 | 20230922T01:45:51Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 1 | 0| 
 | 20230922T00:01:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8762 | 2019| 
 | 20230921T23:29:52Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 94 | 8| 
-| 20230921T23:19:13Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWt | 1 | 0| 
 
 
 # backdoor on Github 推荐
