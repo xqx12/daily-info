@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230922T10:32:16Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20230922T12:42:40Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230922T01:27:23Z | CVE-2023-30845 | Explore CVE 2023-30845 de forma automática em vários subdomínos | https://github.com/himori123/-CVE-2023-30845 | | 
 
 

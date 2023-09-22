@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230922T10:32:16Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20230922T12:42:40Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230922T01:27:23Z | CVE-2023-30845 | Explore CVE 2023-30845 de forma automática em vários subdomínos | https://github.com/himori123/-CVE-2023-30845 | | 
 | 20230921T20:11:20Z | CVE-2023-41436 | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content | | 
 | 20230921T14:28:18Z | CVE-2023-36846 | 批量检测CVE-2023-36846漏洞 | https://github.com/Dreamy-elfland/CVE-2023-36846 | | 
