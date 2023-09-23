@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T00:44:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANoi | 1 | 0| 
+| 20230923T00:43:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANoi | 1 | 0| 
 | 20230922T22:53:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8771 | 2022| 
 | 20230922T22:49:11Z | Portswigger Internal Cache Poisoning [Expert] Unintended Solution - https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-internal | https://github.com/nowak0x01/portswigger-lab-internal_cache_poisoning-unintended-solution | 0 | 0| 
 | 20230922T21:50:10Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
@@ -77,8 +79,6 @@
 | 20230922T21:02:24Z | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | 0 | 0| 
 | 20230922T20:23:33Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 0 | 0| 
 | 20230922T20:20:37Z | Kraken Arbitrage Bot is an automated trading system that detects and exploits arbitrage opportunities in cryptocurrency pairs on the Kraken exchange. It constantly monitors price differentials between cryptocurrency pairs and executes trades to secure a profit whenever an arbitrage opportunity arises that meets the defined threshold. | https://github.com/IndiasFernandes/triple_arbitrage_kraken | 0 | 0| 
-| 20230922T18:54:54Z | Runs exploits, fast. | https://github.com/OpenAttackDefenseTools/ataka | 48 | 8| 
-| 20230922T18:18:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5368 | 1050| 
 
 
 # backdoor on Github 推荐
