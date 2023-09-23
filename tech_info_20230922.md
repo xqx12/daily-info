@@ -54,7 +54,7 @@
 | 20230922T20:23:33Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 0 | 0| 
 | 20230922T20:20:37Z | Kraken Arbitrage Bot is an automated trading system that detects and exploits arbitrage opportunities in cryptocurrency pairs on the Kraken exchange. It constantly monitors price differentials between cryptocurrency pairs and executes trades to secure a profit whenever an arbitrage opportunity arises that meets the defined threshold. | https://github.com/IndiasFernandes/triple_arbitrage_kraken | 0 | 0| 
 | 20230922T18:54:54Z | Runs exploits, fast. | https://github.com/OpenAttackDefenseTools/ataka | 48 | 8| 
-| 20230922T17:11:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 732 | 179| 
+| 20230922T18:18:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5368 | 1050| 
 
 
 # backdoor on Github 推荐
