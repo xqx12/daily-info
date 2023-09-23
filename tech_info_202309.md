@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T00:55:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0001-app-e9f-I-report-exploit | 0 | 0| 
 | 20230923T00:45:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWoi | 1 | 0| 
 | 20230923T00:45:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANoi | 1 | 0| 
 | 20230923T00:44:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANoi | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230922T21:50:10Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 | 20230922T21:38:00Z | This Repo contains sample exploits I ran to complete CTF challenges | https://github.com/IMRO832000/CTF-Exploits | 0 | 0| 
 | 20230922T21:02:50Z | The Next-Gen Roblox Exploiting GUI | https://github.com/specocow/syntaxed | 0 | 0| 
-| 20230922T21:02:24Z | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
