@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T12:30:16Z | Null | https://github.com/sanket010/fuzzy-winner | 0 | 0| 
 | 20230923T12:01:46Z | Null | https://github.com/Zsmit150/fuzzy-eureka | 0 | 0| 
 | 20230923T10:55:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48989 | 23220| 
 | 20230923T09:11:16Z | python fuff fuzzer wip | https://github.com/0xleft/pypifuf | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230923T03:37:01Z | Fuzz testing framework for Uniswap V4 Hooks | https://github.com/khegeman/uniswapv4-hook-test-framework | 0 | 0| 
 | 20230923T01:55:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9038 | 2002| 
 | 20230922T22:54:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1551 | 221| 
-| 20230922T22:25:26Z | Moonvera solidity test suite & fuzzing for NFT Exchange | https://github.com/moonvera-solution/nft-exchange-forge | 0 | 0| 
 
 
 
