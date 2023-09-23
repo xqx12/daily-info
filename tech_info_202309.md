@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T12:42:38Z | fuzzy-enigma | https://github.com/RuslanAlidzhanov/fuzzy-enigma | 0 | 0| 
 | 20230923T12:34:29Z | Null | https://github.com/sanket010/fuzzy-winner | 0 | 0| 
 | 20230923T12:01:46Z | Null | https://github.com/Zsmit150/fuzzy-eureka | 0 | 0| 
 | 20230923T10:55:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48989 | 23220| 
@@ -138,7 +139,6 @@
 | 20230923T07:42:20Z | Graphics accelerated vector paint program for compositing nerds | https://github.com/Fuzzyzilla/fuzzpaint-vk | 2 | 0| 
 | 20230923T03:37:01Z | Fuzz testing framework for Uniswap V4 Hooks | https://github.com/khegeman/uniswapv4-hook-test-framework | 0 | 0| 
 | 20230923T01:55:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9038 | 2002| 
-| 20230922T22:54:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1551 | 221| 
 
 
 
