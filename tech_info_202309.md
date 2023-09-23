@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T00:45:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWoi | 1 | 0| 
+| 20230923T00:45:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANoi | 1 | 0| 
 | 20230923T00:44:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANoi | 1 | 0| 
 | 20230923T00:43:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANoi | 1 | 0| 
 | 20230922T22:53:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8771 | 2022| 
@@ -77,8 +79,6 @@
 | 20230922T21:38:00Z | This Repo contains sample exploits I ran to complete CTF challenges | https://github.com/IMRO832000/CTF-Exploits | 0 | 0| 
 | 20230922T21:02:50Z | The Next-Gen Roblox Exploiting GUI | https://github.com/specocow/syntaxed | 0 | 0| 
 | 20230922T21:02:24Z | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | 0 | 0| 
-| 20230922T20:23:33Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 0 | 0| 
-| 20230922T20:20:37Z | Kraken Arbitrage Bot is an automated trading system that detects and exploits arbitrage opportunities in cryptocurrency pairs on the Kraken exchange. It constantly monitors price differentials between cryptocurrency pairs and executes trades to secure a profit whenever an arbitrage opportunity arises that meets the defined threshold. | https://github.com/IndiasFernandes/triple_arbitrage_kraken | 0 | 0| 
 
 
 # backdoor on Github 推荐
