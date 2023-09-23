@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T01:56:54Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0028-app-chvD6-exploit-stand | 0 | 0| 
 | 20230923T01:18:07Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0036-app-w641C-exploit-laugh | 0 | 0| 
 | 20230923T00:55:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0001-app-e9f-I-report-exploit | 0 | 0| 
 | 20230923T00:45:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWoi | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230922T22:53:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8771 | 2022| 
 | 20230922T22:49:11Z | Portswigger Internal Cache Poisoning [Expert] Unintended Solution - https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-internal | https://github.com/nowak0x01/portswigger-lab-internal_cache_poisoning-unintended-solution | 0 | 0| 
 | 20230922T21:50:10Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
-| 20230922T21:38:00Z | This Repo contains sample exploits I ran to complete CTF challenges | https://github.com/IMRO832000/CTF-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
