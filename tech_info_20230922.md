@@ -21,7 +21,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20230922T21:02:24Z | CVE-2022-34753 | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | | 
-| 20230922T18:48:43Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230922T17:17:44Z | cve-2022-42889 | Null | https://github.com/DimaMend/cve-2022-42889-text4shell | | 
 | 20230922T15:20:26Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function. | https://github.com/ahrixia/CVE-2023-43326 | | 
 | 20230922T15:02:18Z | CVE-2023-43325 | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | https://github.com/ahrixia/CVE-2023-43325 | | 
