@@ -86,6 +86,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20230922T22:54:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1551 | 221| 
+| 20230922T22:25:26Z | Moonvera solidity test suite & fuzzing for NFT Exchange | https://github.com/moonvera-solution/nft-exchange-forge | 0 | 0| 
 | 20230922T21:12:31Z | SAE website | https://github.com/fuzzbell/fuzzbell.github.io | 0 | 0| 
 | 20230922T16:25:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9037 | 2002| 
 | 20230922T15:33:54Z | Null | https://github.com/dns-differential-fuzzing/dns-differential-fuzzing | 3 | 1| 
@@ -94,7 +95,6 @@
 | 20230922T11:59:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2770 | 195| 
 | 20230922T10:33:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 975 | 238| 
 | 20230922T09:18:11Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 229 | 6| 
-| 20230922T08:41:18Z | exercise of fuzzing learning | https://github.com/hlyyy/fuzzing | 0 | 0| 
 
 
 
