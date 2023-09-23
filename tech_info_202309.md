@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T12:37:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/code-with-quarkus-kl4eh-support-exploit | 0 | 0| 
 | 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
 | 20230923T10:19:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5370 | 1050| 
 | 20230923T08:22:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8772 | 2022| 
@@ -78,7 +79,6 @@
 | 20230923T01:56:54Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0028-app-chvD6-exploit-stand | 0 | 0| 
 | 20230923T01:18:07Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0036-app-w641C-exploit-laugh | 0 | 0| 
 | 20230923T00:55:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0001-app-e9f-I-report-exploit | 0 | 0| 
-| 20230923T00:45:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWoi | 1 | 0| 
 
 
 # backdoor on Github 推荐
