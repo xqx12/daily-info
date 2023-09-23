@@ -11,22 +11,22 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230923 | 关于 IR 在程序分析和优化中应用的一些思考 | https://mp.weixin.qq.com/s/qqojOakSX7EyqX2DNn4HZQ| 
+| 20230923 | 我国当前面临的主要网络认知威胁分析 | https://mp.weixin.qq.com/s/6E0esw99esAQu8YP9i4F-A| 
+| 20230923 | MDR如何开展？以CrowdStrike为例 | https://mp.weixin.qq.com/s/l9sGQxWxil_tUtTCUK745w| 
+| 20230923 | MSS如何评价？以MITRE最新评估方法为指引 | https://mp.weixin.qq.com/s/dTa7PvC_vW4nvj5FX3hYhg| 
+| 20230923 | NIST网络安全框架2.0草案解读 | https://mp.weixin.qq.com/s/YC8mfjm2WG6scp6p1ryRDw| 
 | 20230922 | Java静态分析框架Tai-e的简单使用 | https://y4er.com/posts/simple-use-of-the-java-static-analysis-framework-tai-e/| 
 | 20230922 | 代码审计 , 不安全的路径检查 | https://mp.weixin.qq.com/s/R_HPQ8LwilBPPyOD-YpIog| 
 | 20230922 | LLMs支持的通用fuzzing | https://mp.weixin.qq.com/s/tEM4k15x1pFAwhHjkDJsEA| 
 | 20230922 | 如何从大模型萃取敏感训练数据 | https://mp.weixin.qq.com/s/gZZfuuQ_d6ISt9GQDNRNGA| 
 | 20230921 | 主动扫描中的 TLS 指纹 | https://mp.weixin.qq.com/s/YmPGTb8G8j06Z3tKERpnXA| 
-| 20230920 | CVE-2023-38831 WinRAR 漏洞分析 | https://paper.seebug.org/3036/| 
-| 20230919 | 使用ChatGPT模拟程序员的行为来进行Bug修复 | https://mp.weixin.qq.com/s/9AgAJI904fram7wuB39TDQ| 
-| 20230919 | 中国网络安全产业分析报告（2023年） | https://pan.baidu.com/s/1ukmN9h6_lOzXDYKcr3DB-Q?pwd=bqxv| 
-| 20230919 | 关于“斯诺登事件”对国际关系影响的思考 | https://mp.weixin.qq.com/s/HU4C7dj3_9LjTgfeujLjiQ| 
-| 20230919 | Spring Framework RCE CVE-2022-22965 漏洞分析 | https://www.sec-in.com/article/1997| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230923T01:25:04Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20230923T11:57:18Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230922T21:02:24Z | CVE-2022-34753 | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | | 
 | 20230922T17:17:44Z | cve-2022-42889 | Null | https://github.com/DimaMend/cve-2022-42889-text4shell | | 
 | 20230922T15:20:26Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function. | https://github.com/ahrixia/CVE-2023-43326 | | 
@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230923T00:59:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13878 | 423| 
+| 20230923T08:26:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13880 | 423| 
 | 20230922T23:02:07Z | Null | https://github.com/smaurin/perl_kleenex | 0 | 0| 
 | 20230922T04:16:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 90 | 20| 
 | 20230921T17:51:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2321 | 636| 
@@ -56,8 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T08:15:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 354 | 82| 
 | 20230922T13:59:27Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
-| 20230922T13:46:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 353 | 82| 
 | 20230921T10:55:43Z | Null | https://github.com/MetadataGitTesting/s2elgWnP | 0 | 0| 
 | 20230918T21:33:09Z | Null | https://github.com/eavithefteo1982/s2e56vq0 | 0 | 0| 
 | 20230916T21:51:16Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 1| 
@@ -69,41 +69,41 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
+| 20230923T10:19:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5370 | 1050| 
+| 20230923T08:22:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8772 | 2022| 
+| 20230923T07:19:17Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 1 | 1| 
+| 20230923T07:14:31Z | this is a test repo (%don%t use this in public page%)  | https://github.com/JACKFIRE911/exploit | 0 | 0| 
+| 20230923T02:44:54Z | 🚀  This is a collection of hacking🔥 and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make hacking easier🌠. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | 96 | 33| 
 | 20230923T01:56:54Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0028-app-chvD6-exploit-stand | 0 | 0| 
 | 20230923T01:18:07Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0036-app-w641C-exploit-laugh | 0 | 0| 
 | 20230923T00:55:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0001-app-e9f-I-report-exploit | 0 | 0| 
 | 20230923T00:45:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWoi | 1 | 0| 
-| 20230923T00:45:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANoi | 1 | 0| 
-| 20230923T00:44:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANoi | 1 | 0| 
-| 20230923T00:43:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANoi | 1 | 0| 
-| 20230922T22:53:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8771 | 2022| 
-| 20230922T22:49:11Z | Portswigger Internal Cache Poisoning [Expert] Unintended Solution - https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-internal | https://github.com/nowak0x01/portswigger-lab-internal_cache_poisoning-unintended-solution | 0 | 0| 
-| 20230922T21:50:10Z | This repository contains the software and data for the ICRA2023 submitted article %NMPC for Deep Neural Network-Based Collision Avoidance exploiting Depth Images% | https://github.com/ntnu-arl/colpred_nmpc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T02:51:56Z | Official source codes for the paper %A Stealthy Backdoor Attack for Code Models% | https://github.com/qyb156/stealthy_backdoor_attack | 0 | 0| 
+| 20230923T02:50:13Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 39 | 20| 
+| 20230923T02:46:50Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 0 | 0| 
+| 20230923T02:24:05Z | This is the source code for Data-free Backdoor.  Our paper is accepted by the 32nd USENIX Security Symposium (USENIX Security 2023). | https://github.com/lvpeizhuo/Data-free_Backdoor | 10 | 1| 
 | 20230922T23:44:50Z | A web/reverse challenge about reversing a backdoor | https://github.com/webctf-it/phpobfuscation.webctf.it | 0 | 0| 
 | 20230922T22:33:49Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20230922T19:51:06Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/MCBackdoor-Web | 7 | 1| 
 | 20230922T17:17:23Z | Config files for my GitHub profile. | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
 | 20230922T12:48:36Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 2 | 0| 
 | 20230922T11:46:49Z | Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 1 | 1| 
-| 20230922T09:05:44Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 130 | 21| 
-| 20230922T08:34:13Z | Null | https://github.com/a-cup-of-joe/simpleBackdoor | 0 | 0| 
-| 20230921T23:26:24Z | Not a backdoor :3 | https://github.com/nacioboi/bd | 0 | 0| 
-| 20230921T18:45:38Z | Null | https://github.com/JiviteshSoneji/BackdoorAttack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230922T13:46:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 353 | 82| 
+| 20230923T09:13:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3538 | 487| 
+| 20230923T08:15:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 354 | 82| 
 | 20230921T17:51:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2321 | 636| 
 | 20230921T17:03:52Z | dynamic symbolic execution of PISE | https://github.com/liordror/PISE_DSE | 0 | 0| 
 | 20230921T02:08:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
-| 20230920T15:39:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3537 | 487| 
 | 20230919T22:40:26Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 40 | 28| 
 | 20230919T07:57:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 | 20230918T21:22:05Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 17 | 8| 
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T12:01:46Z | Null | https://github.com/Zsmit150/fuzzy-eureka | 0 | 0| 
+| 20230923T10:55:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 48989 | 23220| 
+| 20230923T09:11:16Z | python fuff fuzzer wip | https://github.com/0xleft/pypifuf | 0 | 0| 
+| 20230923T08:07:50Z | Null | https://github.com/Daniil-8/fuzzy-palm-tree | 0 | 0| 
+| 20230923T07:59:26Z | Null | https://github.com/dal1214/fuzzy-spork | 0 | 0| 
+| 20230923T07:42:20Z | Graphics accelerated vector paint program for compositing nerds | https://github.com/Fuzzyzilla/fuzzpaint-vk | 2 | 0| 
+| 20230923T03:37:01Z | Fuzz testing framework for Uniswap V4 Hooks | https://github.com/khegeman/uniswapv4-hook-test-framework | 0 | 0| 
 | 20230923T01:55:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9038 | 2002| 
 | 20230922T22:54:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1551 | 221| 
 | 20230922T22:25:26Z | Moonvera solidity test suite & fuzzing for NFT Exchange | https://github.com/moonvera-solution/nft-exchange-forge | 0 | 0| 
-| 20230922T21:12:31Z | SAE website | https://github.com/fuzzbell/fuzzbell.github.io | 0 | 0| 
-| 20230922T15:33:54Z | Null | https://github.com/dns-differential-fuzzing/dns-differential-fuzzing | 3 | 1| 
-| 20230922T12:38:41Z | This is the worslist for fuzzing kubernetes. | https://github.com/manojdeshmukh45/kubernetes_wordlist | 0 | 0| 
-| 20230922T12:19:08Z | Null | https://github.com/wangch64/fuzzexample | 0 | 0| 
-| 20230922T11:59:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2770 | 195| 
-| 20230922T10:33:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 975 | 238| 
-| 20230922T09:18:11Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 229 | 6| 
 
 
 
