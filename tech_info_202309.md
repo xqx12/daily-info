@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230924T12:19:28Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230924T12:11:59Z | CVE-2023-4800 | Repository for CVE-2023-4800 vulnerability.  | https://github.com/b0marek/CVE-2023-4800 | | 
 | 20230924T11:57:47Z | CVE-2023-4549 | Repository for CVE-2023-4549 vulnerability.  | https://github.com/b0marek/CVE-2023-4549 | | 
 | 20230924T11:28:10Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
-| 20230924T11:20:49Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230924T10:16:04Z | CVE-2023-4294 | Repository for CVE-2023-4294 vulnerability.  | https://github.com/b0marek/CVE-2023-4294 | | 
 | 20230924T08:38:59Z | CVE-2023-4631 | Repository for CVE-2023-4631 vulnerability.  | https://github.com/b0marek/CVE-2023-4631 | | 
 | 20230924T08:26:37Z | CVE-2023-4279 | Repository for CVE-2023-4279 vulnerability.  | https://github.com/b0marek/CVE-2023-4279 | | 
