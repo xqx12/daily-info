@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T00:38:50Z | Null | https://github.com/emtee40/grok-backdoor | 0 | 0| 
 | 20230923T20:13:03Z | OptelX es un Backdoor escrito en Node.js | https://github.com/AngelRaymondi/optelx | 0 | 0| 
 | 20230923T17:55:09Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
 | 20230923T15:52:11Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 40 | 20| 
@@ -93,7 +94,6 @@
 | 20230922T23:44:50Z | A web/reverse challenge about reversing a backdoor | https://github.com/webctf-it/phpobfuscation.webctf.it | 0 | 0| 
 | 20230922T22:33:49Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20230922T19:51:06Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/MCBackdoor-Web | 7 | 1| 
-| 20230922T17:17:23Z | Config files for my GitHub profile. | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
