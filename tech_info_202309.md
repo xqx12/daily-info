@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230924T12:21:19Z | CVE-2023-4281 | Repository for CVE-2023-4281 vulnerability.  | https://github.com/b0marek/CVE-2023-4281 | | 
 | 20230924T12:19:28Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20230924T12:11:59Z | CVE-2023-4800 | Repository for CVE-2023-4800 vulnerability.  | https://github.com/b0marek/CVE-2023-4800 | | 
 | 20230924T11:57:47Z | CVE-2023-4549 | Repository for CVE-2023-4549 vulnerability.  | https://github.com/b0marek/CVE-2023-4549 | | 
@@ -35,7 +36,6 @@
 | 20230924T08:26:37Z | CVE-2023-4279 | Repository for CVE-2023-4279 vulnerability.  | https://github.com/b0marek/CVE-2023-4279 | | 
 | 20230924T08:20:30Z | CVE-2023-0157 | Repository for CVE-2023-0157 vulnerability.  | https://github.com/b0marek/CVE-2023-0157 | | 
 | 20230924T08:10:31Z | CVE-2023-0156 | Repository for CVE-2023-0156 vulnerability.  | https://github.com/b0marek/CVE-2023-0156 | | 
-| 20230924T07:53:46Z | CVE-2023-42426 | Repository for CVE-2023-42426 vulnerability.  | https://github.com/b0marek/CVE-2023-42426 | | 
 
 
 # klee on Github 推荐
