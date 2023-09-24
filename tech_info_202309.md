@@ -78,7 +78,7 @@
 | 20230923T12:37:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/code-with-quarkus-kl4eh-support-exploit | 0 | 0| 
 | 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
 | 20230923T10:19:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5370 | 1050| 
-| 20230923T08:22:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8772 | 2022| 
+| 20230923T10:02:01Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 567 | 111| 
 
 
 # backdoor on Github 推荐
