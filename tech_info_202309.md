@@ -73,11 +73,11 @@
 | 20230923T23:44:03Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 | 20230923T21:34:02Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 1| 
 | 20230923T20:38:34Z | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | 0 | 0| 
+| 20230923T20:00:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5373 | 1050| 
 | 20230923T19:40:48Z | An automated script to extract hidden images from Tecno Camon X | https://github.com/tahaafarooq/gallery3d-tecno-exploit | 1 | 0| 
 | 20230923T13:26:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 733 | 179| 
 | 20230923T12:37:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/code-with-quarkus-kl4eh-support-exploit | 0 | 0| 
 | 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
-| 20230923T10:19:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5370 | 1050| 
 | 20230923T10:02:01Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 567 | 111| 
 
 
@@ -129,13 +129,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9042 | 2002| 
 | 20230923T23:43:16Z | Null | https://github.com/elbrillodeltelefon0/fuzzy-fortnight | 0 | 0| 
 | 20230923T21:53:25Z | python wrapper for fuff fuzzing tool | https://github.com/0xleft/pyfuf | 1 | 0| 
 | 20230923T21:46:54Z | FuzzyDR: Fuzzy Deontic Reasoning for Agent Deliberation within Institutional Enivronments | https://github.com/complexityOfDharma/FuzzyDR-Commons | 0 | 0| 
 | 20230923T21:11:04Z | some things to make freedom fuzz more streamlined for chrome-asan | https://github.com/sickthecat/freedom-streamline | 0 | 0| 
 | 20230923T19:20:48Z | A small python script to do web fuzzing. | https://github.com/LuxCodeDev/Fuzzing-Web | 0 | 0| 
 | 20230923T19:19:50Z | Long running background fuzzing server | https://github.com/danielefaugiana/piovra | 0 | 0| 
-| 20230923T19:16:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9043 | 2002| 
 | 20230923T18:59:35Z | This is the word list for fuzzing kubernetes. | https://github.com/manojdeshmukh45/kubernetes_wordlist | 1 | 0| 
 | 20230923T12:42:38Z | fuzzy-enigma | https://github.com/RuslanAlidzhanov/fuzzy-enigma | 0 | 0| 
 | 20230923T12:34:29Z | Null | https://github.com/sanket010/fuzzy-winner | 0 | 0| 
