@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T01:20:44Z | Null | https://github.com/iBlackSunday/fuzzy-octo-waffle | 0 | 0| 
 | 20230924T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9042 | 2002| 
 | 20230923T23:43:16Z | Null | https://github.com/elbrillodeltelefon0/fuzzy-fortnight | 0 | 0| 
 | 20230923T21:53:25Z | python wrapper for fuff fuzzing tool | https://github.com/0xleft/pyfuf | 1 | 0| 
@@ -138,7 +139,6 @@
 | 20230923T19:19:50Z | Long running background fuzzing server | https://github.com/danielefaugiana/piovra | 0 | 0| 
 | 20230923T18:59:35Z | This is the word list for fuzzing kubernetes. | https://github.com/manojdeshmukh45/kubernetes_wordlist | 1 | 0| 
 | 20230923T12:42:38Z | fuzzy-enigma | https://github.com/RuslanAlidzhanov/fuzzy-enigma | 0 | 0| 
-| 20230923T12:34:29Z | Null | https://github.com/sanket010/fuzzy-winner | 0 | 0| 
 
 
 
