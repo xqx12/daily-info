@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T01:50:18Z | This is the source code repo for %DeepDiffer: Find Deep Learning Compiler Bugs via Priority-guided Differential Fuzzing% | https://github.com/KuiliangL/DeepDiffer | 0 | 0| 
 | 20230924T01:20:44Z | Null | https://github.com/iBlackSunday/fuzzy-octo-waffle | 0 | 0| 
 | 20230924T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9042 | 2002| 
 | 20230923T23:43:16Z | Null | https://github.com/elbrillodeltelefon0/fuzzy-fortnight | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230923T19:20:48Z | A small python script to do web fuzzing. | https://github.com/LuxCodeDev/Fuzzing-Web | 0 | 0| 
 | 20230923T19:19:50Z | Long running background fuzzing server | https://github.com/danielefaugiana/piovra | 0 | 0| 
 | 20230923T18:59:35Z | This is the word list for fuzzing kubernetes. | https://github.com/manojdeshmukh45/kubernetes_wordlist | 1 | 0| 
-| 20230923T12:42:38Z | fuzzy-enigma | https://github.com/RuslanAlidzhanov/fuzzy-enigma | 0 | 0| 
 
 
 
