@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T00:54:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANqs | 1 | 0| 
 | 20230924T00:31:53Z | Null | https://github.com/emtee40/ExploitRemotingService | 0 | 0| 
 | 20230924T00:06:11Z | this is an automatic privat recon and exploitation framework for triggering a firesale. | https://github.com/d4op/TANGORA | 2 | 0| 
 | 20230923T23:44:03Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230923T19:40:48Z | An automated script to extract hidden images from Tecno Camon X | https://github.com/tahaafarooq/gallery3d-tecno-exploit | 1 | 0| 
 | 20230923T13:26:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 733 | 179| 
 | 20230923T12:37:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/code-with-quarkus-kl4eh-support-exploit | 0 | 0| 
-| 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
 
 
 # backdoor on Github 推荐
