@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T10:45:53Z | Null | https://github.com/RotimiCodes/fuzzy-waddle | 0 | 0| 
+| 20230924T10:20:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1552 | 221| 
+| 20230924T10:15:57Z | Computer Adaptive Test - Fuzzy Algorithms | https://github.com/umarsyarif/laravel-cat-fuzzy | 0 | 0| 
+| 20230924T10:05:41Z | Null | https://github.com/drivesremis/fuzzy-guide | 0 | 0| 
+| 20230924T09:39:14Z | FuzzySetCalculator - это полезный инструмент для работы с нечеткими множествами и выполнения различных операций, связанных с объединением, пересечением, разностью и другими операциями над нечеткими множествами. | https://github.com/khairu11ina/FuzzySetCalculator | 0 | 0| 
+| 20230924T09:19:44Z | continuous developing FishFuzz | https://github.com/kdsjZh/FishFuzz | 0 | 0| 
+| 20230924T07:31:56Z | Transforming any table data to any table data | https://github.com/Dobya/fuzzy_table_transformer | 0 | 0| 
+| 20230924T05:47:00Z | Maven Fuzzy Factory: SQL-driven business growth analysis project showcasing data analysis skills. This project is intended for personal use. | https://github.com/vankhanh126/Maven-Fuzzy-Factory | 0 | 0| 
 | 20230924T01:50:18Z | This is the source code repo for %DeepDiffer: Find Deep Learning Compiler Bugs via Priority-guided Differential Fuzzing% | https://github.com/KuiliangL/DeepDiffer | 0 | 0| 
 | 20230924T01:20:44Z | Null | https://github.com/iBlackSunday/fuzzy-octo-waffle | 0 | 0| 
-| 20230924T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9042 | 2002| 
-| 20230923T23:43:16Z | Null | https://github.com/elbrillodeltelefon0/fuzzy-fortnight | 0 | 0| 
-| 20230923T21:53:25Z | python wrapper for fuff fuzzing tool | https://github.com/0xleft/pyfuf | 1 | 0| 
-| 20230923T21:46:54Z | FuzzyDR: Fuzzy Deontic Reasoning for Agent Deliberation within Institutional Enivronments | https://github.com/complexityOfDharma/FuzzyDR-Commons | 0 | 0| 
-| 20230923T21:11:04Z | some things to make freedom fuzz more streamlined for chrome-asan | https://github.com/sickthecat/freedom-streamline | 0 | 0| 
-| 20230923T19:20:48Z | A small python script to do web fuzzing. | https://github.com/LuxCodeDev/Fuzzing-Web | 0 | 0| 
-| 20230923T19:19:50Z | Long running background fuzzing server | https://github.com/danielefaugiana/piovra | 0 | 0| 
-| 20230923T18:59:35Z | This is the word list for fuzzing kubernetes. | https://github.com/manojdeshmukh45/kubernetes_wordlist | 1 | 0| 
 
 
 
