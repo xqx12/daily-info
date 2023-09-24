@@ -84,7 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230924T00:38:50Z | Null | https://github.com/emtee40/grok-backdoor | 0 | 0| 
+| 20230924T00:39:03Z | Null | https://github.com/emtee40/grok-backdoor | 0 | 0| 
 | 20230923T20:13:03Z | OptelX es un Backdoor escrito en Node.js | https://github.com/AngelRaymondi/optelx | 0 | 0| 
 | 20230923T17:55:09Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
 | 20230923T15:52:11Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 40 | 20| 
