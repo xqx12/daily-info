@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230923T11:57:18Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20230923T22:43:20Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20230923T20:38:34Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
+| 20230923T15:36:04Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20230923T14:22:57Z | CVE-2023-38831 | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | https://github.com/malvika-thakur/CVE-2023-38831 | | 
 | 20230922T21:02:24Z | CVE-2022-34753 | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | | 
 | 20230922T17:17:44Z | cve-2022-42889 | Null | https://github.com/DimaMend/cve-2022-42889-text4shell | | 
 | 20230922T15:20:26Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function. | https://github.com/ahrixia/CVE-2023-43326 | | 
 | 20230922T15:02:18Z | CVE-2023-43325 | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | https://github.com/ahrixia/CVE-2023-43325 | | 
 | 20230922T01:27:23Z | CVE-2023-30845 | Explore CVE 2023-30845 de forma automática em vários subdomínos | https://github.com/himori123/-CVE-2023-30845 | | 
 | 20230921T20:11:20Z | CVE-2023-41436 | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content | | 
-| 20230921T14:28:18Z | CVE-2023-36846 | 批量检测CVE-2023-36846漏洞 | https://github.com/Dreamy-elfland/CVE-2023-36846 | | 
-| 20230921T13:15:40Z | CVE-2023-41064 | Null | https://github.com/apt0factury/CVE-2023-41064 | | 
-| 20230921T12:06:33Z | CVE-2023-25136 | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | https://github.com/malvika-thakur/CVE-2023-25136 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T16:39:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13883 | 423| 
 | 20230923T12:51:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2322 | 636| 
-| 20230923T08:26:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13880 | 423| 
 | 20230922T23:02:07Z | Null | https://github.com/smaurin/perl_kleenex | 0 | 0| 
 | 20230922T14:49:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 111 | 6| 
 | 20230922T04:16:32Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 90 | 20| 
@@ -69,38 +69,39 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T23:44:03Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
+| 20230923T21:34:02Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 1| 
+| 20230923T20:38:34Z | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | 0 | 0| 
+| 20230923T19:40:48Z | An automated script to extract hidden images from Tecno Camon X | https://github.com/tahaafarooq/gallery3d-tecno-exploit | 1 | 0| 
+| 20230923T13:26:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 733 | 179| 
 | 20230923T12:37:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/code-with-quarkus-kl4eh-support-exploit | 0 | 0| 
 | 20230923T11:43:25Z | Null | https://github.com/Awenuu/Synapse-X-crack-Roblox | 3 | 0| 
 | 20230923T10:19:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5370 | 1050| 
 | 20230923T08:22:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8772 | 2022| 
 | 20230923T07:19:17Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 1 | 1| 
-| 20230923T07:14:31Z | this is a test repo (%don%t use this in public page%)  | https://github.com/JACKFIRE911/exploit | 0 | 0| 
-| 20230923T02:44:54Z | 🚀  This is a collection of hacking🔥 and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make hacking easier🌠. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | 96 | 33| 
-| 20230923T01:56:54Z | GitOps Repository | https://github.com/pmacik-testing/cima-0075-0028-app-chvD6-exploit-stand | 0 | 0| 
-| 20230923T01:18:07Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0036-app-w641C-exploit-laugh | 0 | 0| 
-| 20230923T00:55:59Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0005-0001-app-e9f-I-report-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T20:13:03Z | OptelX es un Backdoor escrito en Node.js | https://github.com/AngelRaymondi/optelx | 0 | 0| 
+| 20230923T17:55:09Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
+| 20230923T15:52:11Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 40 | 20| 
 | 20230923T02:51:56Z | Official source codes for the paper %A Stealthy Backdoor Attack for Code Models% | https://github.com/qyb156/stealthy_backdoor_attack | 0 | 0| 
-| 20230923T02:50:13Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 39 | 20| 
 | 20230923T02:46:50Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 0 | 0| 
 | 20230923T02:24:05Z | This is the source code for Data-free Backdoor.  Our paper is accepted by the 32nd USENIX Security Symposium (USENIX Security 2023). | https://github.com/lvpeizhuo/Data-free_Backdoor | 10 | 1| 
 | 20230922T23:44:50Z | A web/reverse challenge about reversing a backdoor | https://github.com/webctf-it/phpobfuscation.webctf.it | 0 | 0| 
 | 20230922T22:33:49Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20230922T19:51:06Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/MCBackdoor-Web | 7 | 1| 
 | 20230922T17:17:23Z | Config files for my GitHub profile. | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
-| 20230922T12:48:36Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 2 | 0| 
-| 20230922T11:46:49Z | Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor | https://github.com/bluedragonsecurity/bds_freebsd | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230923T17:32:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3540 | 487| 
+| 20230923T14:16:58Z | Symbolic execution engine written for the OOX language in Rust | https://github.com/tjausm/Jip | 0 | 0| 
 | 20230923T12:51:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2322 | 636| 
-| 20230923T09:13:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3538 | 487| 
 | 20230923T08:15:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 354 | 82| 
 | 20230921T17:03:52Z | dynamic symbolic execution of PISE | https://github.com/liordror/PISE_DSE | 0 | 0| 
 | 20230921T02:08:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
@@ -108,7 +109,6 @@
 | 20230919T07:57:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 62 | 26| 
 | 20230918T21:22:05Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 17 | 8| 
 | 20230918T21:17:40Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 10 | 5| 
-| 20230917T23:07:19Z | Symbolic Execution on Deep Neural Networks | https://github.com/kkvahd/symbolic-execution-dnn | 0 | 0| 
 
 
 # big4 on Github 推荐
