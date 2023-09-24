@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T00:57:30Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWqs | 1 | 0| 
 | 20230924T00:56:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANqs | 1 | 0| 
 | 20230924T00:55:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqs | 1 | 0| 
 | 20230924T00:54:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANqs | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230923T21:34:02Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 1| 
 | 20230923T20:38:34Z | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | 0 | 0| 
 | 20230923T20:00:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5373 | 1050| 
-| 20230923T19:40:48Z | An automated script to extract hidden images from Tecno Camon X | https://github.com/tahaafarooq/gallery3d-tecno-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
