@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230924T12:11:59Z | CVE-2023-4800 | Repository for CVE-2023-4800 vulnerability.  | https://github.com/b0marek/CVE-2023-4800 | | 
 | 20230924T11:57:47Z | CVE-2023-4549 | Repository for CVE-2023-4549 vulnerability.  | https://github.com/b0marek/CVE-2023-4549 | | 
 | 20230924T11:28:10Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
 | 20230924T11:20:49Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
@@ -27,7 +28,6 @@
 | 20230924T08:20:30Z | CVE-2023-0157 | Repository for CVE-2023-0157 vulnerability.  | https://github.com/b0marek/CVE-2023-0157 | | 
 | 20230924T08:10:31Z | CVE-2023-0156 | Repository for CVE-2023-0156 vulnerability.  | https://github.com/b0marek/CVE-2023-0156 | | 
 | 20230924T07:53:46Z | CVE-2023-42426 | Repository for CVE-2023-42426 vulnerability.  | https://github.com/b0marek/CVE-2023-42426 | | 
-| 20230924T06:17:34Z | cve-2023-42413 | ecology_9_sql  | https://github.com/chenghao-hao/cve-2023-42413 | | 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T12:12:37Z | Fuzz testing framework for Uniswap V4 Hooks | https://github.com/khegeman/uniswap-v4-hook-fuzzer | 0 | 0| 
 | 20230924T10:45:53Z | Null | https://github.com/RotimiCodes/fuzzy-waddle | 0 | 0| 
 | 20230924T10:20:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1552 | 221| 
 | 20230924T10:15:57Z | Computer Adaptive Test - Fuzzy Algorithms | https://github.com/umarsyarif/laravel-cat-fuzzy | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230924T07:31:56Z | Transforming any table data to any table data | https://github.com/Dobya/fuzzy_table_transformer | 0 | 0| 
 | 20230924T05:47:00Z | Maven Fuzzy Factory: SQL-driven business growth analysis project showcasing data analysis skills. This project is intended for personal use. | https://github.com/vankhanh126/Maven-Fuzzy-Factory | 0 | 0| 
 | 20230924T01:50:18Z | This is the source code repo for %DeepDiffer: Find Deep Learning Compiler Bugs via Priority-guided Differential Fuzzing% | https://github.com/KuiliangL/DeepDiffer | 0 | 0| 
-| 20230924T01:20:44Z | Null | https://github.com/iBlackSunday/fuzzy-octo-waffle | 0 | 0| 
 
 
 
