@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230924T12:06:36Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20230924T10:36:06Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 2 | 1| 
 | 20230924T10:15:33Z | Null | https://github.com/jordn24/BackdoorBrawlers | 0 | 0| 
 | 20230924T05:36:23Z | Not a backdoor :3 | https://github.com/nacioboi/bd | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230923T17:55:09Z | Практикуюсь с сокетами | https://github.com/Rub1dium/Python-BackDoor | 1 | 0| 
 | 20230923T02:51:56Z | Official source codes for the paper %A Stealthy Backdoor Attack for Code Models% | https://github.com/qyb156/stealthy_backdoor_attack | 0 | 0| 
 | 20230923T02:24:05Z | This is the source code for Data-free Backdoor.  Our paper is accepted by the 32nd USENIX Security Symposium (USENIX Security 2023). | https://github.com/lvpeizhuo/Data-free_Backdoor | 10 | 1| 
-| 20230922T23:44:50Z | A web/reverse challenge about reversing a backdoor | https://github.com/webctf-it/phpobfuscation.webctf.it | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
