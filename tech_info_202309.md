@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230924T00:31:40Z | Null | https://github.com/emtee40/ExploitRemotingService | 0 | 0| 
+| 20230924T00:31:53Z | Null | https://github.com/emtee40/ExploitRemotingService | 0 | 0| 
 | 20230924T00:06:11Z | this is an automatic privat recon and exploitation framework for triggering a firesale. | https://github.com/d4op/TANGORA | 2 | 0| 
 | 20230923T23:44:03Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 | 20230923T21:34:02Z | Luffyscripts | https://github.com/LuffyExploits/LuffyExploits | 0 | 1| 
