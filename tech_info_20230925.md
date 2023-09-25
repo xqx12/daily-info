@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:41:05Z | Selling private FUD Reg Exploit for Bypass Windows Defender | https://github.com/Security88/Reg-Exploit- | 0 | 0| 
 | 20230925T12:22:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0018-app-DBBvl-wash-exploit | 0 | 0| 
 | 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
 | 20230925T12:16:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6c242765-8c03-4fba-bb1b-d1e8c28c413d-3F-QJ-exploit-slip | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230925T10:09:20Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932deta | 0 | 0| 
 | 20230925T09:52:30Z | CVE-2021-3129 Exploit Checker By ./MrMad | https://github.com/MadExploits/Laravel-debug-Checker | 2 | 0| 
 | 20230925T09:02:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5352 | 689| 
-| 20230925T07:47:32Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932 | 0 | 0| 
 
 
 # backdoor on Github 推荐
