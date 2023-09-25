@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:38:32Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
 | 20230925T10:40:47Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 41 | 20| 
 | 20230925T05:11:23Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 1| 
 | 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
@@ -93,7 +94,6 @@
 | 20230924T16:58:20Z | Backdoor poisoning attacks using ResNet-18 and MNIST dataset | https://github.com/sujeethrv/BackdoorPoisoning | 0 | 0| 
 | 20230924T12:06:36Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20230924T10:36:06Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 2 | 1| 
-| 20230924T10:15:33Z | Null | https://github.com/jordn24/BackdoorBrawlers | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
 | 20230925T12:34:11Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
 | 20230925T12:32:54Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 2 | 0| 
 | 20230925T11:42:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9046 | 2002| 
@@ -138,7 +139,6 @@
 | 20230925T08:50:44Z | protocol analysis and fuzzing | https://github.com/MirRoR4s/protocol | 0 | 0| 
 | 20230925T07:54:33Z | Null | https://github.com/JoanhuiChiu/fuzzexample | 0 | 0| 
 | 20230925T07:52:57Z | Null | https://github.com/x7530300x/0925fuzz | 0 | 0| 
-| 20230924T19:37:34Z | . | https://github.com/devil-1964/fuzzy-engine | 0 | 0| 
 
 
 
