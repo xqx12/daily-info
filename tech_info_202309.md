@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230925T00:41:46Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
 | 20230924T22:01:26Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230924T13:33:43Z | CVE-2023-36844 | A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr . | https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE | | 
 | 20230924T12:21:19Z | CVE-2023-4281 | Repository for CVE-2023-4281 vulnerability.  | https://github.com/b0marek/CVE-2023-4281 | | 
@@ -35,7 +36,6 @@
 | 20230924T11:28:10Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
 | 20230924T10:16:04Z | CVE-2023-4294 | Repository for CVE-2023-4294 vulnerability.  | https://github.com/b0marek/CVE-2023-4294 | | 
 | 20230924T08:38:59Z | CVE-2023-4631 | Repository for CVE-2023-4631 vulnerability.  | https://github.com/b0marek/CVE-2023-4631 | | 
-| 20230924T08:26:37Z | CVE-2023-4279 | Repository for CVE-2023-4279 vulnerability.  | https://github.com/b0marek/CVE-2023-4279 | | 
 
 
 # klee on Github 推荐
