@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T00:27:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:13:40Z | Config files for my GitHub profile. | https://github.com/exploitsys/exploitsys | 0 | 0| 
 | 20230924T23:50:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-24c4baec-7172-4b15-9698-b7b2e178f4f8-y0T5a-exploit-point | 0 | 0| 
 | 20230924T22:01:26Z | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230924T08:58:26Z | exploits | https://github.com/mrtouch93/exploits | 0 | 0| 
 | 20230924T06:43:55Z | Python tool for exploitation | https://github.com/synfosec/tikipwn | 0 | 0| 
 | 20230924T04:54:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5346 | 689| 
-| 20230924T01:52:36Z | GitOps Repository | https://github.com/pmacik-testing/cimb-0050-0013-app-3doAQ-exploit-fail | 0 | 0| 
 
 
 # backdoor on Github 推荐
