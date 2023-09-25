@@ -82,6 +82,7 @@
 | 20230925T10:44:19Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 0 | 0| 
 | 20230925T10:42:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 977 | 240| 
 | 20230925T10:08:23Z | framework flask, ESP32, ph-meter, ds18b20 | https://github.com/ahmadzulfadli/ControllerAquariumUsingFuzzyandIoTSystem | 0 | 0| 
+| 20230925T08:57:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1552 | 222| 
 | 20230925T08:50:44Z | protocol analysis and fuzzing | https://github.com/MirRoR4s/protocol | 0 | 0| 
 | 20230925T07:54:33Z | Null | https://github.com/JoanhuiChiu/fuzzexample | 0 | 0| 
 | 20230925T07:52:57Z | Null | https://github.com/x7530300x/0925fuzz | 0 | 0| 
