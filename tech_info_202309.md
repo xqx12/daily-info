@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T00:28:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:27:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:13:40Z | Config files for my GitHub profile. | https://github.com/exploitsys/exploitsys | 0 | 0| 
 | 20230924T23:50:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-24c4baec-7172-4b15-9698-b7b2e178f4f8-y0T5a-exploit-point | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230924T18:30:57Z | This AWS T-Pot Honeypot Configuration Lab aims to create two honeypots on the west and east coasts to observe and document attacks and vulnerabilities that cyber attackers exploit to gain access to a system. Both instances will be run for 7 days and data compared at the end. Overall trends and outliers can be observed then.  | https://github.com/BrennenT7/AWS-Honey-Pot-Project | 0 | 0| 
 | 20230924T08:58:26Z | exploits | https://github.com/mrtouch93/exploits | 0 | 0| 
 | 20230924T06:43:55Z | Python tool for exploitation | https://github.com/synfosec/tikipwn | 0 | 0| 
-| 20230924T04:54:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5346 | 689| 
 
 
 # backdoor on Github 推荐
