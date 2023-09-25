@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:57:26Z | Exploit Reasearch | https://github.com/PwnEverything/exploitresearch | 0 | 0| 
 | 20230925T12:56:04Z | AUXT (Advanced USB Exploitation Toolkit), is a USB Exploitation Tool which you can use to exploit connected USB devices to your computer (And also manage) | https://github.com/G00Dway/AUXT | 1 | 0| 
 | 20230925T12:52:44Z | https://www.youtube.com/watch?v=tEM5Ds-gigY | https://github.com/Security88/Reg-Exploit-Private | 0 | 0| 
 | 20230925T12:49:34Z | this crack will give you access to malware bytes premium. the premium version of this anti virus will give you access to so many protective features like web, malware, ransomware, and exploit protection. | https://github.com/Up4Download/Malwarebytes-premium-cracked-2023 | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230925T12:41:05Z | Selling private FUD Reg Exploit for Bypass Windows Defender | https://github.com/Security88/Reg-Exploit- | 0 | 0| 
 | 20230925T12:22:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0018-app-DBBvl-wash-exploit | 0 | 0| 
 | 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
-| 20230925T12:16:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6c242765-8c03-4fba-bb1b-d1e8c28c413d-3F-QJ-exploit-slip | 0 | 0| 
 
 
 # backdoor on Github 推荐
