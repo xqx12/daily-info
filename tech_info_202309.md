@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T00:30:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWiz | 1 | 0| 
 | 20230925T00:29:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:28:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:27:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230924T20:38:58Z | Code for NeurIPS 2023 paper - FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning | https://github.com/dipamgoswami/FeCAM | 0 | 0| 
 | 20230924T19:22:17Z | Null | https://github.com/Lauriewe/StarWarsBF1_ExploitMenu | 0 | 0| 
 | 20230924T18:30:57Z | This AWS T-Pot Honeypot Configuration Lab aims to create two honeypots on the west and east coasts to observe and document attacks and vulnerabilities that cyber attackers exploit to gain access to a system. Both instances will be run for 7 days and data compared at the end. Overall trends and outliers can be observed then.  | https://github.com/BrennenT7/AWS-Honey-Pot-Project | 0 | 0| 
-| 20230924T08:58:26Z | exploits | https://github.com/mrtouch93/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
