@@ -57,7 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T12:38:32Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
+| 20230925T12:40:06Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
 | 20230925T10:40:47Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 41 | 20| 
 | 20230925T05:11:23Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 1| 
 | 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
@@ -79,8 +79,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:40:47Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
 | 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
-| 20230925T12:34:11Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
 | 20230925T12:32:54Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 2 | 0| 
 | 20230925T11:42:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9046 | 2002| 
 | 20230925T10:42:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 977 | 240| 
