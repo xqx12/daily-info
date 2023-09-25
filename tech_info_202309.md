@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:56:04Z | AUXT (Advanced USB Exploitation Toolkit), is a USB Exploitation Tool which you can use to exploit connected USB devices to your computer (And also manage) | https://github.com/G00Dway/AUXT | 1 | 0| 
 | 20230925T12:52:44Z | https://www.youtube.com/watch?v=tEM5Ds-gigY | https://github.com/Security88/Reg-Exploit-Private | 0 | 0| 
-| 20230925T12:50:56Z | AUXT (Advanced USB Exploitation Toolkit), is a USB Exploitation Tool which you can use to exploit USB devices | https://github.com/G00Dway/AUXT | 1 | 0| 
 | 20230925T12:49:34Z | this crack will give you access to malware bytes premium. the premium version of this anti virus will give you access to so many protective features like web, malware, ransomware, and exploit protection. | https://github.com/Up4Download/Malwarebytes-premium-cracked-2023 | 0 | 0| 
 | 20230925T12:48:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e694584b-f582-4880-a98c-b3ba505c8959-XuxGy-exploit-explore | 0 | 0| 
 | 20230925T12:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0100-0096-app-dnZlG-exploit-reduce | 0 | 0| 
