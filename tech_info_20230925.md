@@ -57,6 +57,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T10:40:47Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 41 | 20| 
+| 20230925T05:11:23Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 1| 
+| 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
+| 20230925T03:07:40Z | Minecraft mod aimed to anarchy servers | https://github.com/accessmodifier364/LeuxBackdoor | 18 | 6| 
 
 
 # symbolic execution on Github 推荐
