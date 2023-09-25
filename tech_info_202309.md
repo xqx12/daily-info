@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
 | 20230925T12:16:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6c242765-8c03-4fba-bb1b-d1e8c28c413d-3F-QJ-exploit-slip | 0 | 0| 
 | 20230925T12:14:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0025-0001-app-qy_xl-exploit-send | 0 | 0| 
 | 20230925T11:25:13Z | Null | https://github.com/IdanBanani/Browser-exploitation-Chromium | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230925T09:02:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5352 | 689| 
 | 20230925T07:47:32Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932 | 0 | 0| 
 | 20230925T03:32:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 734 | 179| 
-| 20230925T01:45:08Z | Win-Post exploitation cheat sheat with tool | https://github.com/shobhittalwar12/Windows-Post-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
