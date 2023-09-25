@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T01:45:08Z | Win-Post exploitation cheat sheat with tool | https://github.com/shobhittalwar12/Windows-Post-Exploitation | 0 | 0| 
 | 20230925T01:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-19d641d2-abe6-406c-8505-bbcf894b3831-e_qw0-exploit-cut | 0 | 0| 
 | 20230925T01:35:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dae7dba1-f54d-4a43-a39e-a797166403fe-8XeKb-exploit-complete | 0 | 0| 
 | 20230925T01:33:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-2ec4af62-1ff2-4911-bd5f-c9cbce2bfc0a-B4BRg-exploit-transfer | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230925T00:29:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:28:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiz | 1 | 0| 
 | 20230925T00:27:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | 1 | 0| 
-| 20230924T23:50:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-24c4baec-7172-4b15-9698-b7b2e178f4f8-y0T5a-exploit-point | 0 | 0| 
 
 
 # backdoor on Github 推荐
