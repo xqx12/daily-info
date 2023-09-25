@@ -75,10 +75,10 @@
 | 20230925T10:09:20Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932deta | 0 | 0| 
 | 20230925T09:52:30Z | CVE-2021-3129 Exploit Checker By ./MrMad | https://github.com/MadExploits/Laravel-debug-Checker | 2 | 0| 
 | 20230925T09:02:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5352 | 689| 
+| 20230925T07:47:32Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932 | 0 | 0| 
 | 20230925T03:32:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 734 | 179| 
 | 20230925T01:45:08Z | Win-Post exploitation cheat sheat with tool | https://github.com/shobhittalwar12/Windows-Post-Exploitation | 0 | 0| 
 | 20230925T01:44:18Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-19d641d2-abe6-406c-8505-bbcf894b3831-e_qw0-exploit-cut | 0 | 0| 
-| 20230925T01:35:42Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-dae7dba1-f54d-4a43-a39e-a797166403fe-8XeKb-exploit-complete | 0 | 0| 
 
 
 # backdoor on Github 推荐
