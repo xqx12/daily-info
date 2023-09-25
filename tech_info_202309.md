@@ -99,7 +99,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T12:05:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3541 | 488| 
+| 20230925T12:09:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3542 | 489| 
 | 20230924T13:14:54Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 456 | 22| 
 | 20230924T09:26:07Z | Symbolic execution engine written for the OOX language in Rust | https://github.com/tjausm/Jip | 1 | 0| 
 | 20230924T03:46:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 355 | 82| 
