@@ -78,7 +78,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T12:25:38Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 1 | 0| 
+| 20230925T12:34:11Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
+| 20230925T12:32:54Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 2 | 0| 
 | 20230925T11:42:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9046 | 2002| 
 | 20230925T10:42:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 977 | 240| 
 | 20230925T10:08:23Z | framework flask, ESP32, ph-meter, ds18b20 | https://github.com/ahmadzulfadli/ControllerAquariumUsingFuzzyandIoTSystem | 0 | 0| 
