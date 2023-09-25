@@ -42,7 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T12:48:08Z | AUXT (Advanced USB Exploitation Toolkit), Is a USB Exploitation Tool which you can use to exploit USB devices | https://github.com/G00Dway/AUXT | 0 | 0| 
+| 20230925T12:49:34Z | this crack will give you access to malware bytes premium. the premium version of this anti virus will give you access to so many protective features like web, malware, ransomware, and exploit protection. | https://github.com/Up4Download/Malwarebytes-premium-cracked-2023 | 0 | 0| 
+| 20230925T12:48:52Z | AUXT (Advanced USB Exploitation Toolkit), is a USB Exploitation Tool which you can use to exploit USB devices | https://github.com/G00Dway/AUXT | 0 | 0| 
 | 20230925T12:48:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e694584b-f582-4880-a98c-b3ba505c8959-XuxGy-exploit-explore | 0 | 0| 
 | 20230925T12:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0100-0096-app-dnZlG-exploit-reduce | 0 | 0| 
 | 20230925T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f14e6bbf-c45b-404a-9b08-c66dea6def1e-TjttY-exploit-cost | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
 | 20230925T12:16:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-6c242765-8c03-4fba-bb1b-d1e8c28c413d-3F-QJ-exploit-slip | 0 | 0| 
 | 20230925T12:14:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0025-0001-app-qy_xl-exploit-send | 0 | 0| 
-| 20230925T11:25:13Z | Null | https://github.com/IdanBanani/Browser-exploitation-Chromium | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -79,10 +79,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:50:04Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 3 | 0| 
 | 20230925T12:47:53Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 | 20230925T12:40:47Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
 | 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
-| 20230925T12:32:54Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 2 | 0| 
 | 20230925T11:42:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9046 | 2002| 
 | 20230925T10:42:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 977 | 240| 
 | 20230925T10:08:23Z | framework flask, ESP32, ph-meter, ds18b20 | https://github.com/ahmadzulfadli/ControllerAquariumUsingFuzzyandIoTSystem | 0 | 0| 
