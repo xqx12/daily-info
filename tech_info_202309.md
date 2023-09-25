@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0100-0096-app-dnZlG-exploit-reduce | 0 | 0| 
+| 20230925T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f14e6bbf-c45b-404a-9b08-c66dea6def1e-TjttY-exploit-cost | 0 | 0| 
 | 20230925T12:41:05Z | Selling private FUD Reg Exploit for Bypass Windows Defender | https://github.com/Security88/Reg-Exploit- | 0 | 0| 
 | 20230925T12:22:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0018-app-DBBvl-wash-exploit | 0 | 0| 
 | 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
@@ -77,8 +79,6 @@
 | 20230925T11:25:13Z | Null | https://github.com/IdanBanani/Browser-exploitation-Chromium | 0 | 0| 
 | 20230925T10:27:53Z | Custom implementations of tasks and gyms for Robotics, based on Omniverse Isaac Sim and Gymnasium. Easy URDF and SRDF import/cloning and simulation configuration exploiting Omniverse API | https://github.com/AndrePatri/OmniCustomGym | 3 | 0| 
 | 20230925T10:09:20Z | Double-Free BUG in WhatsApp exploit poc. | https://github.com/tucommenceapousser/CVE-2019-11932deta | 0 | 0| 
-| 20230925T09:52:30Z | CVE-2021-3129 Exploit Checker By ./MrMad | https://github.com/MadExploits/Laravel-debug-Checker | 2 | 0| 
-| 20230925T09:02:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5352 | 689| 
 
 
 # backdoor on Github 推荐
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T12:47:53Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 | 20230925T12:40:47Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
 | 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
 | 20230925T12:32:54Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 2 | 0| 
@@ -138,7 +139,6 @@
 | 20230925T08:57:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1552 | 222| 
 | 20230925T08:50:44Z | protocol analysis and fuzzing | https://github.com/MirRoR4s/protocol | 0 | 0| 
 | 20230925T07:54:33Z | Null | https://github.com/JoanhuiChiu/fuzzexample | 0 | 0| 
-| 20230925T07:52:57Z | Null | https://github.com/x7530300x/0925fuzz | 0 | 0| 
 
 
 
