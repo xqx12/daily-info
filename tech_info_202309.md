@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230925T22:25:12Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
+| 20230926T11:39:05Z | CVE-2023-35793 | Repository contains description for CVE-2023-35793 | https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH | | 
+| 20230926T11:20:38Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
+| 20230926T10:36:04Z | CVE-2023-21272 | Null | https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272 | | 
+| 20230926T08:24:16Z | CVE-2023-43263 | Repository for CVE-2023-43263 vulnerability.  | https://github.com/b0marek/CVE-2023-43263 | | 
+| 20230926T08:08:27Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
+| 20230926T07:27:10Z | CVE-2022-1040 | New exploitation of 2020 Sophos vuln | https://github.com/Cyb3rEnthusiast/CVE-2022-1040 | | 
+| 20230926T05:52:49Z | CVE-2022-21894 | Null | https://github.com/nova-master/CVE-2022-21894 | | 
+| 20230926T02:27:47Z | CVE-2023-43323 | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | https://github.com/ahrixia/CVE-2023-43323 | | 
 | 20230925T22:10:32Z | CVE-2023-4863 | BAD-WEBP-CVE-2023-4863 | https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863 | | 
-| 20230925T19:05:17Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
 | 20230925T17:19:35Z | CVE-2023-2523 | Null | https://github.com/Any3ite/CVE-2023-2523 | | 
-| 20230925T14:03:12Z | CVE-2023-32560 | Ivanti Avalanche v6.4.0.0 RCE POC | https://github.com/x0rb3l/CVE-2023-32560 | | 
-| 20230925T10:33:10Z | CVE-2023-4863 | Null | https://github.com/bbaranoff/CVE-2023-4863 | | 
-| 20230925T03:05:55Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
-| 20230924T13:33:43Z | CVE-2023-36844 | A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr . | https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE | | 
-| 20230924T12:21:19Z | CVE-2023-4281 | Repository for CVE-2023-4281 vulnerability.  | https://github.com/b0marek/CVE-2023-4281 | | 
-| 20230924T12:19:28Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T09:29:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13903 | 423| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
-| 20230925T16:31:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13900 | 423| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
 | 20230925T02:42:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
 | 20230924T07:39:08Z | 可莉是一个喜欢用小炸弹摧毁东西的蒙德小女孩，努力为这个小孩子买一些原石吧！ | https://github.com/v-idol/vidol-agent-klee | 0 | 0| 
@@ -69,41 +69,41 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230926T01:52:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0012-app-ccJy9-exploit-shall | 0 | 0| 
-| 20230926T01:52:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0047-app-vVoOb-match-exploit | 0 | 0| 
-| 20230926T01:25:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWl | 1 | 0| 
-| 20230926T01:24:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlm | 1 | 0| 
-| 20230926T01:23:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlm | 1 | 0| 
-| 20230926T01:22:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlm | 1 | 0| 
-| 20230926T01:04:10Z | A exploit library | https://github.com/Aluben-Services/Xbloit | 1 | 0| 
-| 20230926T00:51:30Z | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | 9 | 21| 
-| 20230925T23:58:42Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 8 | 6| 
-| 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
+| 20230926T11:49:54Z | Darksplitz Exploit Framework | https://github.com/darksplitz/darksplitz | 0 | 0| 
+| 20230926T11:36:04Z | Null | https://github.com/NoorahSmith/Exploit-DB-offsec | 0 | 0| 
+| 20230926T11:20:38Z | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | 6 | 0| 
+| 20230926T11:14:17Z | PendingIntent exploit | https://github.com/wrlu/PendingIntentExp | 5 | 5| 
+| 20230926T10:37:54Z | Exploitation of vigenere encryption with known key size | https://github.com/Neaje/vigenere_exploit_key_length | 0 | 0| 
+| 20230926T10:15:26Z | My landing page | https://github.com/Exploit89/exploit89.github.io | 0 | 0| 
+| 20230926T09:45:57Z | Hybrid Spatial-Angular Exploitation Network | https://github.com/chenxzhen/HSAENet | 0 | 0| 
+| 20230926T09:41:27Z | Example exploit of log4j | https://github.com/jmadotgg/log4j | 0 | 0| 
+| 20230926T07:57:07Z | Null | https://github.com/fqAdrian/Foxs-Exploits | 0 | 0| 
+| 20230926T07:39:17Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4047 - Return Refund and Exchange For WooCommerce < 4.0.9 - Unauthenticated Arbitrary File Upload | https://github.com/im-hanzou/WooRefer | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T11:09:44Z | C# Basic Backdoor - Win 10-11 | https://github.com/nomad231/csharp.backdoor | 0 | 0| 
+| 20230926T04:48:44Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 35 | 12| 
+| 20230926T04:19:11Z | BackDoor Wordpress | https://github.com/unclecatvn/backdooradminwordpress | 0 | 0| 
 | 20230925T23:45:57Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 44 | 20| 
-| 20230925T23:26:28Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 35 | 12| 
 | 20230925T12:40:06Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
 | 20230925T05:11:23Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 1| 
 | 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
 | 20230925T03:07:40Z | Minecraft mod aimed to anarchy servers | https://github.com/accessmodifier364/LeuxBackdoor | 18 | 6| 
 | 20230924T23:07:05Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 49 | 7| 
 | 20230924T23:06:48Z | open this file in vpsbecause is full of backdoors | https://github.com/DrChronics/Low-Orbit-Cannon-Tool | 0 | 0| 
-| 20230924T16:58:20Z | Backdoor poisoning attacks using ResNet-18 and MNIST dataset | https://github.com/sujeethrv/BackdoorPoisoning | 0 | 0| 
-| 20230924T12:06:36Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T12:09:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3542 | 489| 
+| 20230926T11:55:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
+| 20230926T06:38:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3543 | 490| 
 | 20230924T13:14:54Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 456 | 22| 
 | 20230924T09:26:07Z | Symbolic execution engine written for the OOX language in Rust | https://github.com/tjausm/Jip | 1 | 0| 
 | 20230924T03:46:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 355 | 82| 
-| 20230923T12:51:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2322 | 636| 
 | 20230921T17:03:52Z | dynamic symbolic execution of PISE | https://github.com/liordror/PISE_DSE | 0 | 0| 
 | 20230921T02:08:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20230919T22:40:26Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 40 | 28| 
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T09:25:35Z | A WebGL implementation of generalization of Conway’s ”Game of Life” to a continuous domain | https://github.com/breadloafsky/fuzzy-life | 0 | 0| 
+| 20230926T08:49:47Z | Null | https://github.com/gxh191/fuzzer_crash | 0 | 0| 
+| 20230926T08:11:06Z | Null | https://github.com/koltiradw/suricata_fuzz_corpus | 0 | 0| 
+| 20230926T08:05:25Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 8 | 0| 
 | 20230926T01:50:11Z | cryptofuzz python package for generated fast and easy wallet private key hex bytes mnemonic convert | https://github.com/Pymmdrza/cryptoFuzz | 0 | 0| 
 | 20230926T00:47:13Z | Firebase backend shoppinglist | https://github.com/Abiel101/TheFuzzyShopList | 0 | 0| 
 | 20230926T00:43:28Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
 | 20230925T21:56:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2869 | 536| 
 | 20230925T21:54:34Z | Implementation of a brake system with fuzzy logic: Mamdani inference | https://github.com/JonasFortes12/Logic-Fuzzy_Brake-System | 0 | 0| 
-| 20230925T19:40:38Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
-| 20230925T19:16:25Z | MaidSecLists Comprehensive Cybersecurity Resource for DNS Subdomains, Malware Hash Samples, Common Files, and Web Fuzzing | https://github.com/th3maid/MaidSecLists | 1 | 0| 
-| 20230925T19:00:58Z | Null | https://github.com/djnn24/fuzzy-octo-system | 0 | 0| 
-| 20230925T12:50:04Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 3 | 0| 
 
 
 
