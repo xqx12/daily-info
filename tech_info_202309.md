@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230926T01:06:02Z | cryptofuzz python package for generated fast and easy wallet private key hex bytes mnemonic convert | https://github.com/Pymmdrza/cryptoFuzz | 0 | 0| 
+| 20230926T01:50:11Z | cryptofuzz python package for generated fast and easy wallet private key hex bytes mnemonic convert | https://github.com/Pymmdrza/cryptoFuzz | 0 | 0| 
 | 20230926T00:47:13Z | Firebase backend shoppinglist | https://github.com/Abiel101/TheFuzzyShopList | 0 | 0| 
 | 20230926T00:43:28Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
