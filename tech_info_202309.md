@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T01:23:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlm | 1 | 0| 
 | 20230926T01:22:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlm | 1 | 0| 
 | 20230926T01:04:10Z | A exploit library | https://github.com/Aluben-Services/Xbloit | 1 | 0| 
 | 20230926T00:51:30Z | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | 9 | 21| 
@@ -78,7 +79,6 @@
 | 20230925T22:02:53Z | Null | https://github.com/IdanBanani/Chromium-Browser-exploitation | 0 | 0| 
 | 20230925T21:53:15Z | qb inventory with zero exploits | https://github.com/arsh939/arsh-inventory | 0 | 0| 
 | 20230925T20:11:24Z | Null | https://github.com/fxiis/exploits | 0 | 0| 
-| 20230925T19:35:45Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 568 | 111| 
 
 
 # backdoor on Github 推荐
