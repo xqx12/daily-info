@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T12:10:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2005| 
 | 20230926T09:25:35Z | A WebGL implementation of generalization of Conway’s ”Game of Life” to a continuous domain | https://github.com/breadloafsky/fuzzy-life | 0 | 0| 
 | 20230926T08:49:47Z | Null | https://github.com/gxh191/fuzzer_crash | 0 | 0| 
 | 20230926T08:11:06Z | Null | https://github.com/koltiradw/suricata_fuzz_corpus | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230926T00:43:28Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
 | 20230925T21:56:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2869 | 536| 
-| 20230925T21:54:34Z | Implementation of a brake system with fuzzy logic: Mamdani inference | https://github.com/JonasFortes12/Logic-Fuzzy_Brake-System | 0 | 0| 
 
 
 
