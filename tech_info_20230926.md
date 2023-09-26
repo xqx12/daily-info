@@ -48,8 +48,8 @@
 | 20230926T10:15:26Z | My landing page | https://github.com/Exploit89/exploit89.github.io | 0 | 0| 
 | 20230926T09:45:57Z | Hybrid Spatial-Angular Exploitation Network | https://github.com/chenxzhen/HSAENet | 0 | 0| 
 | 20230926T09:41:27Z | Example exploit of log4j | https://github.com/jmadotgg/log4j | 0 | 0| 
+| 20230926T09:37:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5377 | 1051| 
 | 20230926T07:57:07Z | Null | https://github.com/fqAdrian/Foxs-Exploits | 0 | 0| 
-| 20230926T07:39:17Z | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4047 - Return Refund and Exchange For WooCommerce < 4.0.9 - Unauthenticated Arbitrary File Upload | https://github.com/im-hanzou/WooRefer | 0 | 0| 
 
 
 # backdoor on Github 推荐
